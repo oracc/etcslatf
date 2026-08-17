@@ -1,0 +1,51 @@
+<TEI.2 xml:id="t.5.4.11">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A diatribe against Engar-dug (Diatribe B) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>09.ii.2000-15.ii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>19.v.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>19.v.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>26.v.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>26.v.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<p xml:id="t5411.p1" n="1-2" corresp="c5411.A.1"><w type="PN">Engar-dug</w>, ……, fool, ……, child raised in ……, disgraced man, madman …… leather, dropping …… from a wall!</p>
+<p xml:id="t5411.p2" n="3-11" corresp="c5411.A.3"><w type="PN">Engar-dug</w>, croaker (?) among singers, a man without good judgment, braggart, ……, a man ……! -- open (?) the house, I have a quarrel with you! In appearance a monkey, a rogue, a witness without shame, not accepting a verdict, a slippery place which respected men avoid, despising (?) the leader of the work-force, a man who does not …… a festival, a pig spattered with mud, ……! Loving crosstalk and deceit, ……, having got stuck into a quarrel he …… coming out mouthing insults. A warrior on duty but holding back, …….</p>
+<p xml:id="t5411.p3" n="12-21" corresp="c5411.A.12"><w type="PN">Engar-dug</w>, blocked at the anus, …… speech, …… vomit (?)! A man without ……, a tail stuck in its mouth, ……, limping cripple who …… people in the broad streets! Choosing words carefully, weak, bragging and constantly shifty in his advice and counsel, …… the lamentation priest and snake-charmer ……, a disgraced reputation among the singers, a dog not producing sound from the lyre but emitting a battle-cry! ……, he sweeps (?) the house. He gives instructions, ……, and does not speak to ……, turning …… to evil …….
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="B">
+<p xml:id="t5411.p4" n="1-5" corresp="c5411.B.1">In his ……, a thief from his brother, he provides no water whatsoever. Whether a quay is built, whether he …… the town square, whether he pierces his nostrils (?), whether the gatekeeper …… the sign -- thus he never goes anywhere, …… the guard.</p>
+<p xml:id="t5411.p5" n="6-12" corresp="c5411.B.6"><w type="PN">Engar-dug</w>, your holy song is finished, your greatness ……, your insults …… the city squares, your lies are made obvious! ……, <w type="PN">Engar-dug</w>, ……, …… like a francolin ……, ……, the snake-charmer …….
+<gap extent="2 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1></body>
+</text>
+</TEI.2>

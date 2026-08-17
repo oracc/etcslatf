@@ -1,0 +1,52 @@
+<TEI.2 xml:id="t.2.8.2.4">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A prayer to Asarluḫi for Ḫammu-rābi (Ḫammu-rābi D) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>1999</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>25.iii.1999-31.iii.1999</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>06.v.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>08.vi.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>11.vi.1999</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>11.vi.1999</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<gap extent="unknown no. of lines missing"/>
+<p xml:id="t2824.p1" n="1-6" corresp="c2824.1"><gap extent="1 line fragmentary"/>
+…… the reverent one, who takes care ……,
+<gap extent="1 line fragmentary"/>
+(The gods are addressed:) <q who="unknown" toWhom="gods">Give him the sceptre ……! …… the name of <w type="SN">Babylon</w>, the city of lordship! Make the king pre-eminent in the world ……!</q></p>
+<p xml:id="t2824.p2" n="7" corresp="c2824.7">O <w type="DN">Asarluḫi</w>, …… destiny for my <w type="RN">Ḫammu-rābi</w>!</p>
+<p xml:id="t2824.p3" n="8-13" corresp="c2824.8"><w type="DN">An</w>, <w type="DN">Enlil</w> and <w type="DN">Enki</w> …… with him. When they had decided ……, all the great gods together …… joyfully to <w type="DN">Marduk</w>. (<w type="DN">Marduk</w> speaks to the great gods:) <q who="Marduk" toWhom="great gods">You have …… the shepherd of your hearts to exercise the lordship in the Land. Determine his destiny grandly, …… with your holy mouths. Appoint …… your word …… for him, the indefatigable shepherd.</q></p>
+<p xml:id="t2824.p4" n="14-25" corresp="c2824.14">(The great gods speak:) <q who="great gods" toWhom="Hammu-rabi">We name him king in the four quarters of the world ……. <w type="RN">Ḫammu-rābi</w>, humble prince acceptable to the gods, …… our word, we grant you authority over the black-headed; may your name …… the limits of heaven ……! …… the inhabitants of the Land, keeping in order ……! May your reign endure ……, may it …… a shining barge! May your shepherding …… be firm, and may the people …… in the pastures! Peerless king, your roar of triumph is like <w type="DN">Iškur</w>, covering ……! Your mouth is the fiery god of fire, …… below and in the uplands ……. May youthful <w type="DN">Utu</w> be your helper, ……. May he always go at your right side and favour you. …… in your ……, <w type="DN">Erra</w> ……. <w type="RN">Ḫammu-rābi</w>, you should put your trust in our august commands, …….</q></p>
+<p xml:id="t2824.p5" n="26-37" corresp="c2824.26"><w type="RN">Ḫammu-rābi</w> …… the command of <w type="DN">An</w> and <w type="DN">Enlil</w>, …… of heaven and earth, …… throughout the world ……. <w type="DN">An</w> and <w type="DN">Enlil</w> …… to the king. Among the great gods, <w type="DN">Asarluhi</w> ……. In <w type="SN">Babylon</w>, the city, the precinct, the pure dwelling ……. …… foundation, the great dais, the beloved and august dwelling, in joy ……. …… the noble son of the gods, …… royal name, …… they firmly spoke their consent to him. When they ……, they …… the power of <w type="DN">Enlil</w> over the numerous people. …… they manifested his destiny, …… the life of the Land. They magnified <w type="RN">Ḫammu-rābi</w>, their benign shepherd, and …… over all the black-headed. …… him whom <w type="DN">Enki</w> has …… his favour in the Land,
+<gap extent="1 line fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,56 @@
+<TEI.2 xml:id="t.4.13.04">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A <foreign lang="sux">balbale</foreign> to Nanna (Nanna D) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>17.viii.2000-21.viii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>30.ix.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>05.x.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>20.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>20.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<p xml:id="t41304.p1" n="1-7" corresp="c41304.1">They are as numerous, as numerous as the grasses which break through the earth. <w type="DN">Nanna</w>, in the …… they are as numerous as the grasses which break through the earth. Their …… are translucent lapis lazuli. Their …… are the colour of the rising moon. The cows with their calves are numerous and are precious <foreign lang="sux">šuba</foreign> stone. …… built and …… together. In their …… he chooses …….</p>
+<p xml:id="t41304.p2" n="8-12" corresp="c41304.8">He who loves the cows herds them into the pen. …… who loves the cows rounds up the cows. He has …… his great cows for her, and their butter ……. Seven 
+<addSpan to="t41304.v1"/><note xml:id="t41304.n1" lang="eng" target="t41304.v1">1 ms. adds:</note> small
+<anchor xml:id="t41304.v1"/> churns resound with …… and sweet butter for her. …… their butter is holy butter, their milk is holy milk.</p>
+<p xml:id="t41304.p3" n="13-18" corresp="c41304.13">…… 
+<addSpan to="t41304.v2"/>from the holy pen
+<anchor xml:id="t41304.v2"/>
+<addSpan to="t41304.v3"/><note xml:id="t41304.n2" lang="eng" target="t41304.v2">1 ms. has instead:</note> in my holy pen
+<anchor xml:id="t41304.v3"/>, the woman does not drink. …… in the holy ……, the woman does not eat. When he sits …… in the pen, he fills the pen with praise. When he sits …… in the pen, he is an ornament of the pen. …… the temple, the cattle-pen is a glory -- <w type="DN">Nanna</w> is the master. The …… is <w type="DN">Suen's</w> -- <w type="DN">Nanna</w> is the master.</p>
+<altGrp><alt targType="addSpan" targets="t41304.v2 t41304.v3"/></altGrp>
+<p xml:id="t41304.p4" n="19-24" corresp="c41304.19">…… truly cares for ……, the king of <w type="SN">Urim</w> (?). In its …… fish and birds are abundant. In its …… fish and birds are abundant. The fish …… and the birds skim (?). The fish …… and the birds skim (?). He has planted ……, and the carp grow fat.</p>
+<p xml:id="t41304.p5" n="25-40" corresp="c41304.25">He has planted …… so that the calves may feed for me. He has planted …… so that the cows may feed for me. …… eats. …… drinks.
+<gap extent="12 lines fragmentary or missing"/></p>
+<trailer place="subscript" type="balbale">
+<p xml:id="t41304.p6" n="41" corresp="c41304.41">A <foreign lang="sux">balbale</foreign> of <w type="DN">Nanna</w>.</p>
+</trailer></body>
+</text>
+</TEI.2>

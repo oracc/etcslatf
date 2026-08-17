@@ -1,0 +1,64 @@
+<TEI.2 xml:id="t.4.07.1">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A <foreign lang="sux">balbale</foreign> to Inana (Inana A) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Jon Taylor</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Senior Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2002</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>18.viii.2000-28.v.2002</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>translation</item></change>
+<change><date>18.vi.2002</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>19.vi.2002</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>02.xi.2002</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>04.xi.2002</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<p xml:id="t4071.p1" n="1-11" corresp="c4071.1">Great fierce storm, …… radiance! <w type="DN">Inana</w>, emitting fearsomeness and radiance in battle! 
+<addSpan to="t4071.v1"/><note xml:id="t4071.n1" lang="eng" target="t4071.v1">1 ms. adds:</note> <w type="DN">Inana</w>, playing (?) in battle! <w type="DN">Inana</w>, emitting fearsomeness and radiance in battle!
+<anchor xml:id="t4071.v1"/> Where <w type="DN">Enlil</w> has commanded it, you make a lion's body and lion's muscles rise up. …… in the south and in the uplands …… like grass. Like <w type="DN">Iškur</w> ……. Like their proud mighty heroes, 
+<addSpan to="t4071.v2"/>you ……
+<anchor xml:id="t4071.v2"/>
+<addSpan to="t4071.v3"/><note xml:id="t4071.n2" lang="eng" target="t4071.v2">1 ms. has instead:</note> may they …… for you
+<anchor xml:id="t4071.v3"/> their noses (?) to the ground. May the 
+<addSpan to="t4071.v4"/>great
+<anchor xml:id="t4071.v4"/>
+<addSpan to="t4071.v5"/><note xml:id="t4071.n3" lang="eng" target="t4071.v4">1 ms. has instead:</note> proud
+<anchor xml:id="t4071.v5"/> warrior of kings and queens restore for you the shrine <w type="SN">Keš</w>. May he make them …… their noses (?) to the ground for you.</p>
+<altGrp><alt targType="addSpan" targets="t4071.v2 t4071.v3"/><alt targType="addSpan" targets="t4071.v4 t4071.v5"/></altGrp>
+<p xml:id="t4071.p2" n="12-23" corresp="c4071.12">My lady, you turn your gaze from the <foreign lang="sux">abzu</foreign> (?). <w type="DN">An</w> has commanded you ……. You are gifted with divine powers like <w type="DN">An</w> the king, and like <w type="DN">Enlil</w> you are established in a place of honour. You determine majestic verdicts in the assembly; like a light from heaven within the assembly, you lead (?) the righteous and 
+<addSpan to="t4071.v6"/>seize the wicked
+<anchor xml:id="t4071.v6"/>
+<addSpan to="t4071.v7"/><note xml:id="t4071.n4" lang="eng" target="t4071.v6">1 ms. has instead:</note> …… the evil
+<anchor xml:id="t4071.v7"/>. You 
+<addSpan to="t4071.v8"/>lead (?)
+<anchor xml:id="t4071.v8"/>
+<addSpan to="t4071.v9"/><note xml:id="t4071.n5" lang="eng" target="t4071.v8">1 ms. has instead:</note> lead forth
+<anchor xml:id="t4071.v9"/> the righteous in the palace for <w type="DN">Utu</w>. You restore the ……. You …… the people for the king, and ……. <w type="DN">Enlil</w> gave you your fierce face and your serious brow.</p>
+<altGrp><alt targType="addSpan" targets="t4071.v6 t4071.v7"/><alt targType="addSpan" targets="t4071.v8 t4071.v9"/></altGrp><trailer place="subscript" type="balbale"><p xml:id="t4071.p3" n="24" corresp="c4071.24">A <foreign lang="sux">balbale</foreign> of <w type="DN">Inana</w>.</p>
+</trailer></body>
+</text>
+</TEI.2>

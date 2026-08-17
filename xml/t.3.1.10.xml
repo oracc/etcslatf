@@ -1,0 +1,61 @@
+<TEI.2 xml:id="t.3.1.10">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>Letter from Šulgi to Puzur-Šulgi about waterways -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Estehr Flückiger-Hawker</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2001</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>26.iv.2001-27.iv.2001</date><respStmt><name>EFH</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>28.vii.2001</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>03.viii.2001</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>14.ix.2001</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>14.ix.2001</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<p xml:id="t3110.p1" n="1-2" corresp="c3110.1">Say to <w type="PN">Puzur-<w type="RN">Šulgi</w></w>, commander of the fortress <w type="GN">Igi-ḫursaŋa</w>: this is what <w type="RN">Šulgi</w>, your lord, says:</p>
+<p xml:id="t3110.p2" n="3-5" corresp="c3110.3">
+<addSpan to="t3110.v1"/>Where
+<anchor xml:id="t3110.v1"/>
+<addSpan to="t3110.v2"/><note xml:id="t3110.n1" lang="eng" target="t3110.v1">1 ms. has instead:</note> when
+<anchor xml:id="t3110.v2"/> I had built the great fortress <w type="GN">Igi-ḫursaŋa</w>, the …… not come out. The …… cannot drink water, 
+<addSpan to="t3110.v3"/>because of a breach (?) in (?) the <w type="WN">Tigris</w> and <w type="WN">Euphrates</w>
+<anchor xml:id="t3110.v3"/>
+<addSpan to="t3110.v4"/><note xml:id="t3110.n2" lang="eng" target="t3110.v3">1 ms. has instead:</note> …… together with the <w type="WN">Euphrates</w>
+<anchor xml:id="t3110.v4"/>.</p>
+<altGrp><alt targType="addSpan" targets="t3110.v1 t3110.v2"/><alt targType="addSpan" targets="t3110.v3 t3110.v4"/></altGrp>
+<p xml:id="t3110.p3" n="6-9" corresp="c3110.6">In order that …… should lie down, in order that …… should be absolutely clean, in order that …… should be put (?) ……,
+<gap extent="1 line missing"/></p>
+<p xml:id="t3110.p4" n="10-14" corresp="c3110.10">I will make …… change ……. After sending you back ……, I (?) instructed you ……. I (?) have built there (?) ……. They returned (?) …….</p>
+<p xml:id="t3110.p5" n="15-16" corresp="c3110.15">May …… be taken up. May he rebuild …….</p>
+<p xml:id="t3110.p6" n="17-22" corresp="c3110.17">…… is sending to me ……. I will ask you (?) ……. …… of <w type="GN">Zimudar</w> shall indeed come to you …….
+<gap extent="1 line fragmentary"/>
+…… was taken (?).</p>
+<p xml:id="t3110.p7" n="23-28" corresp="c3110.23">…… be sent. I (?) know very well ……. …… abandon you (?). Should …… take ……, you both ……. It is urgent!</p>
+</body>
+</text>
+</TEI.2>

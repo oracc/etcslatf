@@ -1,0 +1,85 @@
+<TEI.2 xml:id="t.4.14.3">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>Nanše and the birds (Nanše C) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>16.v.2000-25.vii.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>08.viii.2000</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>11.viii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>26.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<p xml:id="t4143.p1" n="1-7" corresp="c4143.A.1">The pelican (?) came forth from the holy reedbeds. It came forth from the holy reedbeds. The wise pelican (?) spent the day high in the skies. The pelican (?) cried out in the sky: its singing was sweet and its voice was pleasing. My lady …… her pelican (?) with beauty. The mistress, Mother <w type="DN">Nanše</w>, …… her pelican (?) with beauty.</p>
+<p xml:id="t4143.p2" n="8-9" corresp="c4143.A.8"><q who="Nance">I am the mistress! How can my pelican (?) ……? How can I ……? I am <w type="DN">Nanše</w>! How can my pelican (?) …… holy? How can ……?</q></p>
+<p xml:id="t4143.p3" n="10-22" corresp="c4143.A.10">She herself …… upon the water like a large pelican (?). Stepping onto earth from heaven, she …… in the water like a holy cow. A holy pelican (?), a white cow, she drank by the water's side. With the towering flood ……. <w type="DN">Nanše</w>, shining …… of the <w type="DN">Anuna</w>, the great gods! Mistress, Mother <w type="DN">Nanše</w>, good woman, ……! <w type="DN">Nanše</w>, sister praised by the <w type="DN">Anuna</w>! Mother, beautiful matriarch of <w type="DN">Enlil</w>! 
+<addSpan to="t4143.v1"/><w type="DN">Nanše</w>
+<anchor xml:id="t4143.v1"/>
+<addSpan to="t4143.v2"/><note xml:id="t4143.n1" lang="eng" target="t4143.v1">1 ms. has instead:</note> My lady
+<anchor xml:id="t4143.v2"/>, delighting in her pelican (?), erected a lapis lazuli shrine, and set the holy pelican (?) by her feet.</p>
+<altGrp><alt targType="addSpan" targets="t4143.v1 t4143.v2"/></altGrp>
+<p xml:id="t4143.p4" n="23-27" corresp="c4143.A.23"><q who="Nance">I am the mistress, so let my birds assemble for me where the sheaves are gathered! I am <w type="DN">Nanše</w>, so let my birds assemble for me where the sheaves are gathered! Let the birds of heaven and earth stand at my service! Let every bird without a name bring offerings! Let every bird not caught in nets ……!</q></p>
+<p xml:id="t4143.p5" n="28-30" corresp="c4143.A.28">The voiceless bat ……, a bird that darts by in the heavens. The Anzud bird decides the fates with (?) the <w type="DN">Anuna</w> gods.</p>
+<p xml:id="t4143.p6" n="31-42" corresp="c4143.A.31">The sharp-toothed bird in (?) the water sends forth …… wisdom: <q toWhom="Nance">My mistress, ……. I am the bird, the sharp-toothed bird! All by myself ……. My <w type="DN">Nanše</w>, ……! I am the bird, the sharp-toothed bird! All by myself …….</q>
+<gap extent="3 lines fragmentary"/>
+The lammergeier ……. …… the lammergeier ……. It kills wild bulls in the foothills, and it kills the stags in the high mountains.</p>
+<p xml:id="t4143.p7" n="43-45" corresp="c4143.A.43">Raven, raven, your eggs are shining bright! Raven bird, your eggs are shining bright! Where do people carry off your holy eggs, your …… eggs to?</p>
+<p xml:id="t4143.p8" n="46-48" corresp="c4143.A.46">The ostrich …… her eggs on the hillside. She receives those eggs as something to carry: the bird knows how to keep watch at night.</p>
+<p xml:id="t4143.p9" n="49-53" corresp="c4143.A.49">The peacock spends the day keeping watch. The holy bird, the peacock, spends the day calling '<foreign lang="sux">ḫaya</foreign>'. A bird red from cornelian, blue from lapis lazuli, white (?) from chalcedony (?), with all kinds of gold, and leather inlaid with gold -- may the coppersmith fashion the peacock for you thus.</p>
+<p xml:id="t4143.p10" n="54-63" corresp="c4143.A.54">O bird in the sky! O vulture, weaver, vulture, weaver! O <foreign lang="sux">uz</foreign> vulture in the sky! O vulture, weaver, vulture, weaver! Its wings together, its feet together,
+<gap extent="1 line fragmentary"/>
+Its call …… to the ear (?) ……. …… its call …….
+<gap extent="4 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="B">
+<p xml:id="t4143.p11" n="1-14" corresp="c4143.B.3"><gap extent="3 lines fragmentary"/>
+The <foreign lang="sux">misaz</foreign> bird …… cries out …….
+<gap extent="1 line fragmentary"/>
+The snake-eater bird is green ……. Its wings …… a barge ……. The …… bird ……. The <foreign lang="sux">gubi</foreign> bird …….
+<gap extent="5 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="C">
+<p xml:id="t4143.p12" n="1-6" corresp="c4143.C.1"><gap extent="1 line fragmentary"/>
+…… of <w type="DN">Ninḫursaŋa</w> (?) he brings as his property to the mountains. Since it was searching for its property, the bird is called <foreign lang="sux">niŋgurmudum</foreign> ('He brings his property'). The <foreign lang="sux">niŋgurmudum</foreign> bird calls out and laments in the desert of <w type="SN">Keš</w>.</p>
+<p xml:id="t4143.p13" n="7-17" corresp="c4143.C.7">The twittering birds flocking in the palace ……. The <foreign lang="sux">salsal</foreign> bird cries in lament over itself. The egret (?), seemly in a …… linen garment, is present at the quayside. The heron (?) is brown, and clad in …… in the reedbeds. The …… bird catches <foreign lang="sux">azagur</foreign> fish. The <foreign lang="sux">giri-ilu</foreign> bird, dread of the people, …… its '<foreign lang="sux">giri-ilu</foreign>'. The stork …… picks up (?) …… like grass. The <foreign lang="sux">sa</foreign> bird names …… its young ……. The <foreign lang="sux">dubdubu</foreign> bird ……. The <foreign lang="sux">šegšeg</foreign> bird sheds tears like a crying baby. The <foreign lang="sux">gubiguzaga</foreign> bird …… like an angry man.
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" xml:id="t4143.seg1" n="D">
+<note xml:id="t4143.n2" lang="eng" target="t4143.seg1">it is possible that Segment D belongs to a different version</note>
+<p xml:id="t4143.p14" n="1-15" corresp="c4143.D.1"><gap extent="2 lines fragmentary"/>
+…… green ……. …… birds, like ants in crevices ……. …… <w type="DN">Bau</w> takes a bath ……. The <foreign lang="sux">tigilu</foreign> bird …… the split roots ……. The dove …… gently in the broad fields. The pigeon …… bitterly in the vacant lot of the king. The <foreign lang="sux">ubi</foreign> bird and the <foreign lang="sux">udar</foreign> bird …… ants ……. The bird ……. …… in the gutter like beasts.
+<gap extent="1 line unclear"/>
+…… humbly like an orphaned child ……. The <foreign lang="sux">ḫamun</foreign> bird …… in harmony …… is dressed in linen. …… wine, like wine ……
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="E">
+<p xml:id="t4143.p15" n="1-16" corresp="c4143.E.1">The heron (?) ……. The <foreign lang="sux">girgid</foreign> bird ……. The <foreign lang="sux">dur</foreign> bird …….
+<gap extent="1 line fragmentary"/>
+The <foreign lang="sux">dar</foreign> bird …… guard ……. The <foreign lang="sux">dar</foreign> bird …… '<foreign lang="sux">tikutikumae</foreign>'. The …… bird …… in the marshes. The <foreign lang="sux">adardara</foreign> bird …… the swallow ……. The …… bird, when the net is suspended ……. The …… bird …… marshes ……. The <foreign lang="sux">šu-ur</foreign> bird …… its extended wings and its head. The sleep bird spends its time crying '<foreign lang="sux">dilibipila</foreign>'. The shepherd bird cries '<foreign lang="sux">uludig</foreign> <foreign lang="sux">uludig</foreign>'. The shepherd bird is brightly coloured like the <foreign lang="sux">durdar</foreign> bird, and has a crest on its head. The <foreign lang="sux">nu-erimla</foreign> bird does not live in windows or reed huts. The <foreign lang="sux">tirida</foreign> bird calls the name '<foreign lang="sux">tirida</foreign>' in the reedbeds.</p>
+<p xml:id="t4143.p16" n="17-20" corresp="c4143.E.17">……, you are she who loves the fish and birds! You are she who does not scatter my ……! You are she who does not belittle ……! Mistress, Mother <w type="DN">Nanše</w>, it is sweet to praise you!</p>
+</div1></body>
+</text>
+</TEI.2>

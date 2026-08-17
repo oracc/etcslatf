@@ -1,0 +1,55 @@
+<TEI.2 xml:id="t.2.4.2.26">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A love song of Šulgi (Šulgi Z) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>02.ii.2000-07.ii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>16.vi.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>16.vi.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>30.vi.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>23.vi.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<p xml:id="t24226.p1" n="1-9" corresp="c24226.A.1"><q who="Inana" toWhom="Culgi">The …… because of you does not ……. My brother, the …… because of you does not ……. Lad (?), the …… because of you does not ……. My beloved, the …… because of you does not ……. My fairest of countenance, the …… because of you does not ……. Its date clusters because of you are not placed in my hand. Its sheaves are …… for me. Its …… are not sweet for me. Grain …… the silos (?).</q></p>
+<p xml:id="t24226.p2" n="10-17" corresp="c24226.A.10"><q xml:id="t24226.q1" who="Culgi" toWhom="Inana">My sister, I would go with you to my fields. My fair sister, I would go with you to my fields. I would go with you to my large fields. I would go with you to my small fields. For my early grain irrigated with its early water, for my late grain irrigated with its late water, …… its grain …… sheaves …….</q></p>
+<p xml:id="t24226.p3" n="18-23" corresp="c24226.A.18"><q xml:id="t24226.q2">My sister, I would go with you to my fields. My fair sister, I would go with you to my fields. …… the large fields. …… in my small fields.</q>
+<gap extent="2 lines fragmentary"/><gap extent="unknown no. of lines missing"/></p>
+<linkGrp><link targType="q" targets="t24226.q1 t24226.q2"/></linkGrp></div1><div1 type="segment" n="B">
+<p xml:id="t24226.p4" n="1-9" corresp="c24226.B.1"><gap extent="1 line fragmentary"/>
+<q who="Inana" toWhom="farmer">In the …… of the ……, it has become fallow (?) ……. In the …… of the sheaves, the date clusters (?) ……. In the …… of the ……, it has become fallow (?) ……. In the …… of the sheaves, the date clusters (?) ……. Farmer, plough the field, set up the ……. …… of Lord <w type="RN">Šulgi</w>. For …… plough the field, set up the ……. He will bring offerings (?) to the …… for you.</q></p>
+<p xml:id="t24226.p5" n="10-19" corresp="c24226.B.10"><q xml:id="t24226.q3" who="Culgi" toWhom="Inana">My (?) sister, I would go with you to my garden. My fair sister, I would go with you to my garden. My sister, I would go with you to my garden. My sister, …… my garden, …… the <foreign lang="sux">ildag</foreign> tree. I would go with you to my <foreign lang="sux">ildag</foreign> tree by the watercourse. My sister, I would go with you to my apple tree. May …… the apple tree be in my hand. My sister, I would go with you to my pomegranate tree and then …… there the sweet …… covered (?) in honey.</q></p>
+<p xml:id="t24226.p6" n="20-30" corresp="c24226.B.20"><q xml:id="t24226.q4">My sister, I would go with you to my garden. Fair sister, I would go with you to my garden. …… like the plants of the watercourse.
+<gap extent="1 line fragmentary"/>
+…… the sprout of a lettuce. I would …… plant there. I would …… plant there. In your (?) silo …… I would …… for you.
+<gap extent="1 line fragmentary"/>
+Fair sister, luxuriant of heart ……. I would …… of the date-clusters for you (?).</q></p>
+<linkGrp><link targType="q" targets="t24226.q3 t24226.q4"/></linkGrp></div1></body>
+</text>
+</TEI.2>
