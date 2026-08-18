@@ -14,3 +14,4 @@ bin/xml2aac.sh
 # 3) convert container version to atf in tra/ directory--this is the
 # version that will have line breaks inserted
 bin/aac2tra.sh
+
