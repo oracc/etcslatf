@@ -1,0 +1,91 @@
+<TEI.2 xml:id="t.2.5.1.2">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>Išbi-Erra and Kindattu (Išbi-Erra B) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>1999</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>28.viii.1998-03.ix.1998</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>16.xii.1998</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>25.xi.1999</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>10.iii.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>10.iii.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<lg n="A" type="kirugu">
+<gap extent="unknown no. of lines missing"/>
+<p xml:id="t2512.p1" n="1-7" corresp="c2512.A.A.1"><gap extent="1 line fragmentary"/>
+…… to introduce ……. At left and right was a crouching lion, ……. …… at the command of <w type="DN">Enlil</w>. …… to reduce the city to ruin-mounds. He determined ……; …… <w type="DN">Enlil</w> is its ally!</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t2512.p2" n="8" corresp="c2512.A.A.8">1st <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="B" type="unknown">
+<p xml:id="t2512.p3" n="9-10" corresp="c2512.A.B.9"><w type="DN">Enlil</w> …… went forth …….
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" n="B">
+<lg xml:id="t2512.sec1" n="C" type="kirugu">
+<p xml:id="t2512.p4" n="1-10" corresp="c2512.B.C.1"><gap extent="1 line fragmentary"/>
+He gave him ……, not implementing his strength. …… in princely style ……. He approached the enemy like a snake spitting venom and gall. He wiped …… in the …… of <w type="GN">Sumer</w>. …… <w type="SN">Larsam</w>, …… in the plain of <w type="SN">Urim</w>. …… great …… did not escape his power. The great mass of the enemy ……. <w type="RN">Išbi-<w type="DN">Erra</w></w> …….
+<gap extent="1 line fragmentary"/></p>
+<p xml:id="t2512.p5" n="11-15" corresp="c2512.B.C.11">He fell ……
+<gap extent="4 lines fragmentary"/>
+<gap extent="approx. 1 line missing"/></p>
+</lg></div1><div1 type="segment" n="C">
+<lg xml:id="t2512.sec2" n="C" type="kirugu">
+<p xml:id="t2512.p6" n="1-13" corresp="c2512.C.C.1">With the city ……. …… <w type="GN">Marḫaši</w> ……. …… the foreign lands ……. From <w type="GN">Bašimi</w> by the edge of the sea …… to the edge of <w type="GN">Zabšali</w> ……, and from <w type="GN">Arawa</w>, the bolt of <w type="GN">Elam</w> …… to the edge of <w type="GN">Marḫaši</w> ……. <w type="PN">Kindattu</w>, the man of <w type="GN">Elam</w>, ……. …… <w type="SN">Isin</w>, the great spindle of heaven and earth. The king's battle did not ……. The battle of <w type="GN">Elam</w> …… <w type="GN">Sumer</w>. …… by the edge of the sea. …… the land of <w type="GN">Ḫuḫnuri</w>. …… the wild animals and four-footed ……. The king …… in the battle.</p>
+<linkGrp><link targType="section" targets="t2512.sec1 t2512.sec2"/></linkGrp><trailer place="rubric" type="kirugu">
+<p xml:id="t2512.p7" n="14" corresp="c2512.C.C.14">2nd <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="D" type="unknown">
+<p n="x" corresp="x"><gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" n="D">
+<lg xml:id="t2512.sec3" n="E" type="kirugu">
+<p xml:id="t2512.p8" n="1-5" corresp="c2512.D.E.1">…… a great chariot. The king …… <w type="SN">Isin</w>. …… a just verdict. <w type="RN">Išbi-<w type="DN">Erra</w></w> …….
+<gap extent="1 line fragmentary"/>
+<gap extent="4 lines missing"/></p>
+<p xml:id="t2512.p9" n="10-14" corresp="c2512.D.E.10"><w type="DN">Enlil</w> ……. The people ……. Like small birds, …… the barley. …… the orchards.
+<gap extent="1 line fragmentary"/>
+<gap extent="approx. 6 lines missing"/></p>
+</lg></div1><div1 type="segment" n="E">
+<lg xml:id="t2512.sec4" n="E" type="kirugu">
+<p xml:id="t2512.p10" n="1-9" corresp="c2512.E.E.1"><gap extent="1 line fragmentary"/>
+…… to return ……. He put its gold and precious belongings into sacks. As for <w type="PN">Zinnum</w>, who escaped from them, <w type="DN">Enki</w> is their <foreign lang="sux">maškim</foreign>. He was fed at the banks of the <w type="WN">Euphrates</w> and <w type="WN">Tigris</w> and the <w type="WN">Kir-sig</w> and <w type="WN">Kiš</w> watercourses. He died of thirst, persecuted by ghosts in the dry desert. The news was brought to <w type="PN">Kindattu</w>, the man of <w type="GN">Elam</w>. <w type="GN">Anšan</w> cried out to <w type="GN">Šimaški</w>, and he approached the mountains. He addressed the assembly of his army.</p>
+<linkGrp><link targType="section" targets="t2512.sec3 t2512.sec4"/></linkGrp><trailer place="rubric" type="kirugu">
+<p xml:id="t2512.p11" n="10" corresp="c2512.E.E.10">3rd <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="F" type="jicgijal">
+<p xml:id="t2512.p12" n="11-12" corresp="c2512.E.F.11"><w type="DN">Enlil</w> has endowed my <w type="RN">Išbi-<w type="DN">Erra</w></w>, the cultivator, with great strength …….</p>
+<trailer place="rubric" type="jicgijal">
+<p xml:id="t2512.p13" n="13" corresp="c2512.E.F.13">Its <foreign lang="sux">ŋišgiŋal</foreign>.</p>
+</trailer></lg><lg n="G" type="kirugu">
+<p xml:id="t2512.p14" n="14-15" corresp="c2512.E.G.14">…… <w type="DN">Enlil</w> …… <w type="DN">Ninlil</w> …….
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" n="F">
+<lg n="H" type="kirugu">
+<p xml:id="t2512.p15" n="1-10" corresp="c2512.F.H.1"><gap extent="10 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1></body>
+</text>
+</TEI.2>

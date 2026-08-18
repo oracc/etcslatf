@@ -1,0 +1,55 @@
+<TEI.2 xml:id="t.1.4.1.3">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>Dumuzid and his sisters -- an English prose translation</title>
+<respStmt><name>John Baines</name><resp>Project Director</resp></respStmt>
+<respStmt><name>Jeremy Black</name><resp>Former Project Director and Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Senior Editor</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2005</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BCE. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>30.viii.2001-17.vi.2002</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>translation</item></change>
+<change><date>25.vi.2005</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+<change><date>01.vii.2005</date><respStmt><name>GC/JE</name><resp>senior editor/technical developer</resp></respStmt>
+<item>web publication</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<gap extent="approx. 62 lines missing"/>
+<p xml:id="t1413.p1" n="1-28" corresp="c1413.1"><q>…… my ……. …… my lacerated eyes ……. …… my lacerated nose ……. …… my beaten ……. …… my hasty ……. …… my ……
+<gap extent="1 line fragmentary"/>
+…… my ……. …… my loaded waggon ……. …… my ……. …… my ……. …… who is cheerful ……. …… who laments ……. …… the door of the gate <note lang="eng">of the nether world</note> ……. My brother, …… the door of the gate ……
+<gap extent="1 line fragmentary"/>
+…… ladyship (?) ……. On the mighty river, ……. …… its fields, a waterskin ……. …… in lamenting ……. …… my …… hated ……. My brother, your feet hurt, your feet …… the road. My brother, wherever you go I will hasten with you. <w type="DN">Dumuzid</w>, wherever you go I will hasten with you. …… I will hasten with you. I will hasten with you. …… going (?) as your slavegirl, …… of the lord, I ……. …… of the lord …… …… going (?) as your slavegirl, …… of the lord, I …….</q></p>
+<p xml:id="t1413.p2" n="29-34" corresp="c1413.29"><q>My brother -- because of him I cannot rejoice. My brother ……. <w type="DN">Dumuzid</w>, my brother -- because of him I cannot rejoice, ……. …… in front of him ……. …… he who bound his arms went in front of him. …… he who fettered his hands went behind him. …… they who beat him went alongside him.</q></p>
+<p xml:id="t1413.p3" n="35-53" corresp="c1413.35">…… then the elder sister spoke to him. …… she replied to him in his distress ……: <q>…… those men will seize him. …… let them bring ……. …… they will rip out …….</q></p>
+<gap extent="3 lines fragmentary"/>
+<gap extent="approx. 11 lines missing"/>
+<p xml:id="t1413.p4" n="54-68" corresp="c1413.54">
+<gap extent="1 line fragmentary"/>
+<q>…… you also ……. …… you also …….</q> …… they paid (?) attention ……. …… went along the broad road. …… went along the broad road. …… the demon confronted her. …… the demon confronted her. …… the demon confronted her. …… met her ……, the demon confronted her. ……, he tried to control (?) her. ……, as she was tearing out her hair, he tried to control (?) her. …… as she was lacerating her eyes, as she was lacerating her nose, he tried to control (?) her. …… as she …… excessively, he tried to control (?) her. …… as she spoke …… beauty …… lips, he tried to control (?) her:</p>
+<p xml:id="t1413.p5" n="69-72" corresp="c1413.69"><q>…… you, maiden, who are in a similar state (?) to the lord, are you his sister? …… who are in a similar state (?) to <w type="DN">Dumuzid</w>, are you his sister? …… are you the lad's younger sister? Are you his sister? …… are you <w type="DN">Dumuzid's</w> younger sister? Are you his sister?</q></p>
+<p xml:id="t1413.p6" n="73-80" corresp="c1413.73"><q>Cut …… with my ……; I am his sister. Cut with <w type="DN">Dumuzid</w>; I am his sister. I am the lad's younger sister, I am his sister. I am <w type="DN">Dumuzid's</w> younger sister, I am his sister. Now, let me too be in a similar state (?) …… to him; I am his sister. Let me too be in a similar state (?) …… to him; I am his sister. If I had a cord …… on my hands, my hands would not hurt. If I had a wine jar on my shoulder, my shoulder would not hurt.</q></p>
+<p xml:id="t1413.p7" n="81-85" corresp="c1413.81">She returned to the side of his …… and muddied (?) the water. She, <w form="DN">Ŋeštin-ana</w>, poured water into a crevice in the ground for him. The maiden, equipped with ……, agitated (?) the water. She agitated (?) the water, the water for the brother, ……. She agitated (?) the water, and returned it to the river:</p>
+<p xml:id="t1413.p8" n="86-88" corresp="c1413.86"><q>Return to your river! Return to your river! Return to your river! O water which my brother cannot drink, return to your river! O water which <w type="DN">Dumuzid</w> cannot drink, O water, return to your river!</q></p>
+<p xml:id="t1413.p9" n="89-108" corresp="c1413.89">She heaped up the …… of the river, and muddied the Euphrates: <q>…… my brother is no longer alive. He will cut …… from ……. …… <w type="DN">Dumuzid</w> is no longer alive. He will cut …… from ……. …… is no longer alive, he is no longer alive. He will definitely not return. My …… is no longer alive. My …… is no longer alive. My …… is no longer alive. …… is no longer alive. …… is no longer alive. …… is no longer alive. …… <w type="DN">Dumuzid</w> is no longer alive. He will definitely not return. I cannot rejoice over …… when you were born. I cannot rejoice over …… when you were born. I cannot rejoice over …… when you were born. …… was born. …… was born. …… I, <w type="DN">Ŋeštin</w>, ……. …… to <w type="DN">Dumuzid</w>. …… I, <w type="DN">Ŋeštin</w>, …….</q></p>
+<gap extent="1 line fragmentary"/>
+<gap extent="approx. 60 lines missing"/>
+<note lang="eng">a few traces are visible</note>
+</body>
+</text>
+</TEI.2>

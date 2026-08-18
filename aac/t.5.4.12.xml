@@ -1,0 +1,47 @@
+<TEI.2 xml:id="t.5.4.12">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>He is a good seed of a dog (Diatribe C) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>15.ii.2000-18-ii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>15.vi.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>19.vi.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>30.vi.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>23.vi.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<p xml:id="t5412.p1" n="1-9" corresp="c5412.1">He is a good seed of a dog, the offspring of a wolf! He is the stench of a mongoose, an unruly (?) hyena cub, a fox with a covering like a crab's, a monkey not pleasing to its homeland, its judgment confused. His face is disfigured, his judgment is muddled, his intelligence is ……. I would …… with the dog (?), a smitten man who makes himself important. He is negligent, a cripple, the son of a hound. A madman, crazy, a man who …… -- he is a pitfall, …… evil words, denouncing …… with an evil mouth and a forked tongue.</p>
+<p xml:id="t5412.p2" n="10-24" corresp="c5412.10">……, he lies on the bank of a river, allowing the grappling-poles (?) to drown. …… a silent house, …… an open hand (?), he is a thief, breaking into houses, removing (?) the door and tearing out the door pivot. One who daily spreads evil talk among his clan, …… not entering the house of another man, he sets up …… and signs (?) for him and …… him altogether. ……, he quarrels with him and disturbs his household. …… their advice is not good for him nor is their …… favourable for him. He prepares …… for him and ……. He gave …… and ran (?) ……. Loving ……, he never calms a heated quarrel.
+<gap extent="4 lines fragmentary"/>
+<gap extent="approx. 10 lines missing"/></p>
+<p xml:id="t5412.p3" n="35-45" corresp="c5412.35"><gap extent="1 line fragmentary"/>
+A …… man bringing complaints ……. He is a bastard (?), ……. He does not …… -- may he follow an unfamiliar path! May he …… and walk among the thorns of the mountains! …… he does not come out ……. He …… and grasps wickedly ……. He crushes …… and sweeps over ……. Fit for his …… and judgment, …… in his advice, ……, loving ……, a snake-charmer, may he …… and not act with evil intent.</p>
+</body>
+</text>
+</TEI.2>

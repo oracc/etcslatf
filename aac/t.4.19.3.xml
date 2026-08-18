@@ -1,0 +1,74 @@
+<TEI.2 xml:id="t.4.19.3">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A hymn to Ninŋišzida (Ninŋišzida C) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>1999</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>28.vii.1999-13.viii.1999</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>22.x.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>minor corrections</item></change>
+<change><date>22.x.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>22.x.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>11.ii.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>11.ii.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<lg n="A" type="kirugu">
+<gap extent="at least 15 lines missing"/>
+<p xml:id="t4193.p1" n="1-5" corresp="c4193.A.1">…… to you. …… a flood-wave in the river, sweeping over everything like a destructive flood. My king, from your ……. King, from your birth you have …… in abundance. <w type="DN">Ninŋišzida</w>, your praise is sweet …….</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t4193.p2" n="6" corresp="c4193.A.6">1st <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="B" type="kirugu">
+<p xml:id="t4193.p3" n="7-13" corresp="c4193.B.7">Lord <w type="DN">Ninŋišzida</w>, ……
+<gap extent="1 line fragmentary"/>
+Hero, …… beloved of holy <w type="DN">An</w>, …… born in the shining great mountains, lord …… with sparkling eyes, with the attractiveness of a young man, great hero, the king's right arm on the battlefield, Lord <w type="DN">Ninŋišzida</w>, your praise is sweet. They praise you in song.</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t4193.p4" n="14" corresp="c4193.B.14">2nd <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="C" type="kirugu">
+<p xml:id="t4193.p5" n="15-22" corresp="c4193.C.15">Hero, as you wander on the earth, <w type="DN">Ninŋišzida</w>, beloved of <w type="DN">An</w>, through you the early flood occurs, and <w type="DN">Enki</w> rejoices at you. Through you fine grains are in the fields, and …… rejoices at you. …… head held high, Lord <w type="DN">Ninŋišzida</w>. You ……, Lord <w type="DN">Ninŋišzida</w>. You extend ……, and you stretch out your claws. Lord <w type="DN">Ninŋišzida</w>, your praise is sweet, …….</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t4193.p6" n="23" corresp="c4193.C.23">3rd <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="D" type="kirugu">
+<p xml:id="t4193.p7" n="24-30" corresp="c4193.D.24">…… he has poured his good seed. <w type="DN">Enlil</w> says <q who="Enlil" toWhom="Ninjiczida">Hail!</q> to <w type="DN">Ninŋišzida</w>. He makes known ……, and creates it for you in the Land. ……, born like ……. He looks at your joyful …… Lord <w type="DN">Ninŋišzida</w>, your praise is sweet. They praise you in song.</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t4193.p8" n="31" corresp="c4193.D.31">4th <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="E" type="kirugu">
+<p xml:id="t4193.p9" n="32-39" corresp="c4193.E.32">Hero who gains (?) victories …… in greatness.
+<gap extent="1 line fragmentary"/>
+…… my king …….
+<gap extent="3 lines fragmentary"/>
+Lord <w type="DN">Ninŋišzida</w>, your praise is sweet. They praise you in song.</p>
+<trailer place="rubric" type="kirugu">
+<p xml:id="t4193.p10" n="40" corresp="c4193.E.40">5th <foreign lang="sux">kirugu</foreign>.</p>
+</trailer></lg><lg n="F" type="unknown">
+<p xml:id="t4193.p11" n="41-45" corresp="c4193.F.41"><gap extent="1 line fragmentary"/>
+…… in your elevated (?) house, …… life. <w type="DN">Ninŋišzida</w>, in your elevated (?) house, …… life. …… from the great place ……. …… throne-dais ……
+<gap extent="unknown no. of lines missing"/></p>
+</lg></body>
+</text>
+</TEI.2>

@@ -1,0 +1,94 @@
+<TEI.2 xml:id="t.2.8.2.1">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A praise poem of Ḫammu-rābi (Ḫammu-rābi A) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>1999</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>25.iii.1999-31.iii.1999</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>translation</item></change>
+<change><date>06.v.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>08.vi.1999</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>11.vi.1999</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>11.vi.1999</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<gap extent="unknown no. of lines missing"/>
+<p xml:id="t2821.p1" n="1-17" corresp="c2821.A.1">
+<gap extent="1 line fragmentary"/>
+…… acting as its lord ……
+<gap extent="7 lines fragmentary"/>
+…… the black-headed ……. …… the <w type="WN">Euphrates</w> ……. …… the <w type="WN">Tigris</w> ……. …… on the banks of the <w type="WN">Irnina</w> watercourse ……. King <w type="RN">Ḫammu-rābi</w> …… <ref xml:id="t2821.r1" targType="note" target="t2821.n1"><w type="DN">Gibil</w></ref> <note xml:id="t2821.n1" lang="eng" target="t2821.r1">the god of fire</note>. <w type="DN">Enlil</w> ……. <w type="DN">Enki</w> …… heroism. <w type="DN">Suen</w> …….</p>
+<p xml:id="t2821.p2" n="18-24" corresp="c2821.A.18"><w type="DN">Utu</w> the sorcerer ……
+<gap extent="1 line fragmentary"/>
+…… his favourite ……. <w type="DN">Iškur</w> …… heroism. <w type="DN">Marduk</w> …… strength (?). <w type="DN">Inana</w> …… divine powers. …… reverent ……
+<gap extent="1 line fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="B">
+<p xml:id="t2821.p3" n="1-5" corresp="c2821.B.1"><gap extent="5 fragmentary lines"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="C">
+<p xml:id="t2821.p4" n="1-17" corresp="c2821.C.1"><gap extent="1 line fragmentary"/>
+…… humanity …….
+<gap extent="5 lines fragmentary"/>
+…… the Great Mountain …….
+<gap extent="1 line fragmentary"/>
+…… the divine powers of kingship …….
+<gap extent="1 line fragmentary"/>
+…… <w type="DN">Enlil</w> …….
+<gap extent="1 line fragmentary"/>
+…… acting as its lord (?).
+<gap extent="3 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="D">
+<p xml:id="t2821.p5" n="1-17" corresp="c2821.D.1"><gap extent="1 line fragmentary"/>
+…… <w type="DN">Enki</w> ……. …… emerging from the Land. …… befitting divinity …….
+<gap extent="3 lines fragmentary"/>
+…… joyous ……. …… praising with their songs ……. …… your statue shall not be brought in ……
+<gap extent="2 lines fragmentary"/>
+…… formed your heart for <w type="DN">Enlil</w> (?). …… enter ……. …… precious destinies …….
+<gap extent="2 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="E">
+<p xml:id="t2821.p6" n="1-4" corresp="c2821.E.1"><gap extent="4 fragmentary lines"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1><div1 type="segment" n="F">
+<p xml:id="t2821.p7" n="1-22" corresp="c2821.F.1"><gap extent="1 line fragmentary"/>
+…… its prince (?) <w type="DN">Marduk</w> who ……. …… curse ……. …… great wrath …… <w type="DN">Marduk</w> ……. …… midst of the great gods ……
+<gap extent="1 line fragmentary"/>
+…… weapon …….
+<gap extent="1 line fragmentary"/>
+…… brickwork (?) …….
+<gap extent="9 lines fragmentary"/>
+…… portion …….
+<gap extent="1 line fragmentary"/>
+…… the black-headed …….
+<gap extent="1 line fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</div1></body>
+</text>
+</TEI.2>

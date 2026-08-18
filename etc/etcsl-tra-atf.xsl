@@ -20,13 +20,33 @@
   </xsl:template>
 
   <!-- the following elements can occur in <p> in which context they
-       are handled in p-mode -->
-  <xsl:template mode="p" match="addSpan">
+       are handled in p-mode; mode="xp" templates are the first attempt -->
+  <xsl:template mode="xp" match="addSpan">
     <xsl:text>{</xsl:text>
   </xsl:template>
-  <xsl:template mode="p" match="anchor">
+  <xsl:template mode="xp" match="anchor">
     <xsl:text>} </xsl:text>
   </xsl:template>
+  <!-- in the reboot <addSpan/> ... <anchor/> has been remapped to
+       <addSpan> ... </addSpan> -->
+  <xsl:template mode="p" match="addSpan">
+    <xsl:choose>
+      <xsl:when test="note">
+	<xsl:call-template name="var-tail">
+	  <xsl:with-param name="p" select="true()"/>
+	</xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:call-template name="var-head">
+	  <xsl:with-param name="p" select="true()"/>
+	</xsl:call-template>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  <xsl:template mode="p" match="anchor">
+    <xsl:message>unexpected anchor</xsl:message>
+  </xsl:template>
+
   <xsl:template mode="p" match="foreign">
     <xsl:call-template name="foreign">
       <xsl:with-param name="p" select="true()"/>
@@ -37,7 +57,14 @@
   </xsl:template>
   <xsl:template mode="p" match="note">
     <xsl:variable name="targ" select="id(@target)"/>
-    <xsl:value-of select="concat('@note',local-name($targ),'{')"/>
+    <xsl:choose>
+      <xsl:when test="contains(@target,'.v')">
+	<xsl:text>@varn{</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:value-of select="concat('@note',local-name($targ),'{')"/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:apply-templates mode="p"/>
     <xsl:text>}</xsl:text>
   </xsl:template>
@@ -130,11 +157,31 @@
     <xsl:text>&#xa;&#xa;</xsl:text>
     <xsl:apply-templates/>
   </xsl:template>
-  <xsl:template match="altGrp"/>
+
+  <xsl:template match="altGrp">
+    <xsl:text>#etcsl#altGrpo&#xa;</xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>#etcsl#altGrpc&#xa;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="alt">
+    <xsl:value-of select="concat('#etcsl#alt ',@targets,'&#xa;')"/>
+  </xsl:template>
+  
+  <xsl:template match="linkGrp">
+    <xsl:text>#etcsl#linkGrpo&#xa;</xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>#etcsl#linkGrpc&#xa;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="link">
+    <xsl:value-of select="concat('#etcsl#link type=',@targType,' ',@targets,'&#xa;')"/>
+  </xsl:template>
+  
   <xsl:template match="TEI.2|teiHeader|text|group|body|div1">
     <xsl:apply-templates/>
   </xsl:template>
-  <xsl:template match="fileDesc|revisionDesc|linkGrp"/>
+  <xsl:template match="fileDesc|revisionDesc"/>
   <xsl:template match="*">
     <xsl:message>tra.xsl: unhandled element <xsl:value-of select="local-name(.)"/></xsl:message>
   </xsl:template>
@@ -196,6 +243,36 @@
       </xsl:otherwise>
     </xsl:choose>
     <xsl:text>}</xsl:text>
+  </xsl:template>
+
+  <!-- this is supposed to be called only on <addSpan> that are the target for variants -->
+  <xsl:template name="var-head">
+    <xsl:param name="p" select="false()"/>
+    <xsl:value-of select="concat('@varh[',@xml:id,']{')"/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>}</xsl:text>
+  </xsl:template>
+
+  <!-- this is supposed to be called only on <addSpan> that provide variants -->
+  <xsl:template name="var-tail">
+    <xsl:param name="p" select="false()"/>
+    <xsl:value-of select="concat('@vart[',@xml:id,',',note/@target,']{')"/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>}</xsl:text>    
   </xsl:template>
 
 </xsl:transform>

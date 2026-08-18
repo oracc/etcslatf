@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+#lg A	unknown
+
+
+@(A.1 = 1-2) @q[Dumuzid,Inana]{“My sister, what have you been doing in the house? Little one, what have you been doing in the house?”}
+
+@(A.3 = 3-8) @q[Inana,Dumuzid]{“I was bathing, I was rubbing myself with soap. I was washing myself with water from the holy kettle, I was rubbing myself with the soap from the white stone bowl. I was anointing myself with good oil from the stone bowl, and dressing myself in the formal dress proper to @wDN{Inana}. That is how I was busying myself in the house.”}
+
+@(A.9 = 9-18) @q{“I have put lots of kohl on my eyes, I have arranged …… the nape of my neck. I have washed my dangling hair, I have tested my weapons that make his reign propitious. I have straightened my tousled head of hair, I have tightened my loosened hairgrips, and let my hair fall down the back of my neck. I have put a golden bracelet on my wrist. I have put little lapis-lazuli beads round my neck, and arranged their buttons over my neck muscles.”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t40803.q2 t40803.q3
+#etcsl#linkGrpc
+
+@(A.19 = 19-26) @q[Dumuzid,Inana]{“Sister! I will bring you whatever you desire. I will bring the loving heart of your heart. Your goddess has given you good looks. Sister, shining bright, you are the honey of your own mother. My sister, to whom I shall bring five things, my sister, to whom I shall bring 10 things, she has perfected your appearance for you; sister, shining bright, she has really made it a delight.”}
+
+@(A.27 = 27-31) @q[Inana,Dumuzid]{“When my brother enters from the palace, the singers shall ……, and I shall pour wine into his mouth. That should gladden his heart, should please his heart.”}
+
+@(A.32 = 32-41) @q[Inana,Dumuzid]{“Let him bring, let him bring, now let him bring pats of butter and cream!”} @q[Dumuzid,Inana]{“My sister, I will bring them with me to the house.”} @q[Inana,Dumuzid]{“Let him bring, let him bring me lambs like ewes.”} @q[Dumuzid,Inana]{“My sister, I will bring them with me to the house.”} @q[Inana,Dumuzid]{“Let him bring, let him bring me kids like goats.”} @q[Dumuzid,Inana]{“My sister, I will bring them with me to the house!”} @q[Inana,Dumuzid]{“Let the lambs be as comely as ewes!”} @q[Dumuzid,Inana]{“My sister, I will bring them with me to the house!”} @q[Inana,Dumuzid]{“Let the kids be as fine as goats!”} @q[Dumuzid,Inana]{“My sister, I will bring them with me to the house!”}
+
+@(A.42 = 42-48) @q[Inana,Dumuzid]{“See now,  @varh[t40803.v1]{our }@vart[t40803.v2,t40803.v1]{@varn{1 ms. has instead:} my } breasts stand out; see now, hair has grown on  @varh[t40803.v3]{our }@vart[t40803.v4,t40803.v3]{@varn{1 ms. has instead:} my } genitals, signifying (?) my progress to the embrace of a man. Let us be very glad! Dance, dance! O @wDN{Bau}, let us be very glad about my genitals! Dance, dance! Later on it will delight him, it will delight him!”}
+
+#etcsl#altGrpo
+#etcsl#alt t40803.v1 t40803.v2
+#etcsl#alt t40803.v3 t40803.v4
+#etcsl#altGrpc
+
+#lg 	
+
+@(x = x) 
+#trailer subscript	balbale
+
+
+@(A.49 = 49) A @fsux{balbale} of @wDN{Inana}.
+
+
+#lg B	jicgijal
+
+
+@(B.50 = 50-51) @q[Inana,Dumuzid]{“Let him bring, let him bring, come let him bring pats of butter and cream!”}
+
+#trailer rubric	jicgijal
+
+
+@(B.52 = 52) Its @fsux{ŋišgiŋal}.
+
+
+

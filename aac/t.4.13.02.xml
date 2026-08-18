@@ -1,0 +1,53 @@
+<TEI.2 xml:id="t.4.13.02">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A <foreign lang="sux">balbale</foreign> to Nanna (Nanna B) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>01.viii.2000-03.viii.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>28.ix.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>04.x.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>20.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>20.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<p xml:id="t41302.p1" n="1-26" corresp="c41302.1">(Ningal speaks:) <q who="Ningal">I …… for the …….
+<gap extent="approx. 19 lines missing"/>
+The embrace of my spouse ……. The young man ……. Among his cows ……. My beloved who ……. I shall go ……! There with the lord …….</q></p>
+<p xml:id="t41302.p2" n="27-31" corresp="c41302.27">(Nanna addresses Ningal:) <q xml:id="t41302.q1" who="Nanna" toWhom="Ningal">My spouse, ……, <w type="DN">Ningal</w> who ……, …… butter from the holy cows. Pure hands and …… feet ……. My lovely …….</q></p>
+<p xml:id="t41302.p3" n="32-37" corresp="c41302.32"><q xml:id="t41302.q2">……, the reedbeds, the playground ……. I shall …… sharp knives to the …… and reed fences. I shall …… to the beautiful young reeds. Mistress, …… the treasures (?) of the <foreign lang="sux">ubi</foreign> birds. I will gather their eggs for you, and I shall …… the nest. High priestess of <w type="DN">Nanna</w>, …… the <foreign lang="sux">ubi</foreign> birds.</q></p>
+<p xml:id="t41302.p4" n="38-43" corresp="c41302.38"><q xml:id="t41302.q3">After I have …… butter into the container, after I have …… for cakes in the morning (?), after I have …… carp in the great marsh, young lady, after I have …… little turtles (?), then I will …… your own mother <w type="DN">Ningikuga</w>. <w type="DN">Ningal</w>, I shall go with you to your house.</q></p>
+<p xml:id="t41302.p5" n="44-49" corresp="c41302.44"><q xml:id="t41302.q4">After I have led the cows into the stall ……, after I have …… holy milk into the holy churn for you, after <w type="DN">Šuni-du</w> has done the churning, young lady, after I have given my …… young calves milk ……, then I will …… pats of butter and purified milk for you. <w type="DN">Ningal</w>, I shall go with you to your house.</q></p>
+<linkGrp><link targType="q" targets="t41302.q1 t41302.q2 t41302.q3 t41302.q4"/></linkGrp>
+<p xml:id="t41302.p6" n="50-59" corresp="c41302.50">(Ningal addresses Nanna:) <q who="Ningal" toWhom="Nanna">……, my beloved, if only I could come to you without my mother to ……! If only I could come to you without <w type="DN">Ningikuga</w> (?) ……!
+<gap extent="approx. 1 line missing"/>
+Lord <w type="DN">Nanna</w>, bring it to me! In the dwelling of the shepherd, in the house of gleaned barley, my lord, I shall come to you in the chamber, the storehouse (?)! ……, wonder of the Land, I shall come to you! My <w type="DN">Nanna</w>, your chant is sweet; it is the chant of my heart.</q></p>
+<trailer place="subscript" type="balbale"><p xml:id="t41302.p7" n="60" corresp="c41302.60">A <foreign lang="sux">balbale</foreign> of <w type="DN">Nanna</w>.</p>
+</trailer></body>
+</text>
+</TEI.2>

@@ -1,0 +1,74 @@
+<TEI.2 xml:id="t.2.5.4.05">
+<teiHeader lang="eng">
+<fileDesc>
+<titleStmt>
+<title>A <foreign lang="sux">balbale</foreign> to Enki for Išme-Dagan (Išme-Dagan E) -- an English prose translation</title>
+<respStmt><name>Jeremy Black</name><resp>Project Director and Editor</resp></respStmt>
+<respStmt><name>Gábor Zólyomi</name><resp>Editor</resp></respStmt>
+<respStmt><name>Graham Cunningham</name><resp>Editor</resp></respStmt>
+<respStmt><name>Eleanor Robson</name><resp>Technical Developer</resp></respStmt>
+<respStmt><name>Jarle Ebeling</name><resp>Technical Developer</resp></respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>The Electronic Text Corpus of Sumerian Literature
+</distributor><address><addrLine>The Oriental Institute, University of Oxford, Pusey Lane, Oxford OX1 2LE, UK, email etcsl@orinst.ox.ac.uk, http://etcsl.orinst.ox.ac.uk</addrLine></address>
+<date>2000</date>
+</publicationStmt>
+<seriesStmt><p>The Electronic Text Corpus of Sumerian Literature aims to make accessible over 400 literary works composed in the Sumerian language in ancient Mesopotamia during the late third and early second millennia BC. The works are in Sumerian composite transliteration and English prose translation with bibliographical information on each composition.</p></seriesStmt>
+<sourceDesc>
+<p>Sources are listed in the header of the composite text</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>10.viii.2000</date><respStmt><name>GZ</name><resp>editor</resp></respStmt>
+<item>adapting translation</item></change>
+<change><date>28.ix.2000</date><respStmt><name>JAB</name><resp>editor</resp></respStmt>
+<item>proofreading</item></change>
+<change><date>03.x.2000</date><respStmt><name>GC</name><resp>editor</resp></respStmt>
+<item>SGML tagging</item></change>
+<change><date>08.xii.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>proofreading SGML</item></change>
+<change><date>26.x.2000</date><respStmt><name>ER</name><resp>editor</resp></respStmt>
+<item>web publication</item></change>
+<change><date>01.vi.2003</date><respStmt><name>GC/JE</name><resp>editor/technical developer</resp></respStmt>
+<item>XML/TEI conversion</item></change>
+</revisionDesc>
+</teiHeader>
+<text lang="eng">
+<body>
+<div1 type="segment" n="A">
+<lg n="A" type="unknown">
+<p xml:id="t25405.p1" n="1-19" corresp="c25405.A.A.2"><gap extent="1 line missing"/>
+…… in the holy heart ……, ……, whose words are powerful, who …… decisions. …… foremost of the gods, omniscient ……. …… <w type="DN">Enki</w>, counsellor of holy <w type="DN">An</w>, adviser of the Great Mountain ……. …… foremost of the gods, omniscient ……. …… <w type="DN">Enki</w>, counsellor of holy <w type="DN">An</w>, adviser of the Great Mountain ……. Adviser, whose statements cannot be countermanded, whose ways …… fearsomeness. Patient-hearted, who rides upon all the divine powers, who …… like <w type="DN">Enlil</w>. <w type="DN">Nudimmud</w> …… holy dais ……. Lord imbued with fearsomeness, borne by <w type="DN">An</w> and <w type="DN">Uraš</w>, eldest brother of ……. King whose ways are recognised by <w type="DN">Enlil</w>, caretaker of ……. Supreme ……, first-born child of holy <w type="DN">An</w>, whose divine powers are untouchable ……. Junior <w type="DN">Enlil</w> of trustworthy utterances, …… divine plans. <w type="DN">Nudimmud</w>, lord who determines the fates, who strengthens the Land ……. <w type="DN">Enki</w>, great bull of <w type="SN">Eridug</w>, ……. …… greatly exalted among the <w type="DN">Anuna</w> …….
+<gap extent="1 line fragmentary"/>
+…… like sheep (?) …….
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" xml:id="t25405.seg1" n="B">
+<lg n="B" type="unknown">
+<note xml:id="t25405.n1" lang="eng" target="t25405.seg1">The sequence of Segments B and C is uncertain, and they may well belong to a different composition</note>
+<p xml:id="t25405.p2" n="1-7" corresp="c25405.B.B.1"><gap extent="1 line fragmentary"/>
+<w type="RN">Išme-<w type="DN">Dagan</w></w> …….
+<gap extent="1 line fragmentary"/>
+…… the house (?) of <w type="DN">Enlil</w> ……. …… of <w type="DN">Enlil</w> …… his statements ……. …… counsellor of holy <w type="DN">An</w> …….
+<gap extent="1 line fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" xml:id="t25405.seg2" n="C">
+<lg n="C" type="unknown">
+<note xml:id="t25405.n2" lang="eng" target="t25405.seg2">The sequence of Segments B and C is uncertain, and they may well belong to a different composition</note>
+<p xml:id="t25405.p3" n="1-10" corresp="c25405.C.C.1"><w type="DN">Nudimmud</w> ……. Lord of <w type="SN">Eridug</w> ……. <w type="RN">Išme-<w type="DN">Dagan</w></w> ……, son of <w type="DN">Enlil</w> ……. …… gives (?) you your instructions ……. Wise ……. …… divine plans ……. Omniscient …….
+<gap extent="2 lines fragmentary"/>
+<gap extent="unknown no. of lines missing"/></p>
+</lg></div1><div1 type="segment" n="D">
+<lg n="D" type="unknown">
+<p xml:id="t25405.p4" n="1-5" corresp="c25405.D.D.1">…… excellent divine powers ……
+<gap extent="1 line fragmentary"/>
+May he prepare for you …… liquor and emmer beer …… at the royal offering-place and salute you from there. …… prays to you (?) …….</p>
+</lg><lg n="E" type="jicgijal">
+<p xml:id="t25405.p5" n="6-7" corresp="c25405.D.E.6">May he bestow a long life with vigorous (?) days on <w type="RN">Išme-<w type="DN">Dagan</w></w>, the son of <w type="DN">Enlil</w>! May Father <w type="DN">Enki</w> bestow a long life with vigorous (?) days on <w type="RN">Išme-<w type="DN">Dagan</w></w>, the son of <w type="DN">Enlil</w>!</p>
+<trailer place="rubric" type="jicgijal">
+<p xml:id="t25405.p6" n="8" corresp="c25405.D.E.8">Its <foreign lang="sux">ŋišgiŋal</foreign>.</p>
+</trailer></lg><trailer place="subscript" type="balbale">
+<p xml:id="t25405.p7" n="9" corresp="c25405.D.E.9">A <foreign lang="sux">balbale</foreign> of <w type="DN">Enki</w>. <note lang="eng" target="t25405.p7">lines 8 and 9 are written as one line in source</note></p>
+</trailer></div1></body>
+</text>
+</TEI.2>
