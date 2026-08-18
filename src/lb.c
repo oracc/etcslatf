@@ -5,6 +5,16 @@
 
 #include "lb.h"
 
+unsigned char bounds[256] =
+  {
+    ['.'] = 1,
+    ['!'] = 1,
+    ['?'] = 1,
+    [','] = 1,
+    [';'] = 1,
+    [':'] = 1,
+    ['-'] = 1,
+  };
 const char *lbfn;
 char *logfn;
 FILE *logfp;
@@ -26,9 +36,8 @@ typedef struct seg
   int lb;
 } Seg;
 
-const char *boundary(const char *p);
 const char *find_closer(const char *p);
-void log_segs(const char *Q, const char *L, const char *G, Seg**segs);
+void log_segs(const char *Q, const char *L, const char *G, const char *W, Seg**segs);
 Seg **map_segs(const char *p);
 const char *next_boundary(const char *p, int *nwords);
 const char *skip_XtoY(const char *p);
@@ -40,55 +49,16 @@ main(int argc, char *const *argv)
   fprintf(stderr, "lb: processing %s\n", lbfn);
   Roco *r = roco_load1(lbfn);
   logfn = strdup(lbfn);
-  strcpy(&logfn[strlen(logfn)-4], "log");
+  strcpy(&logfn[strlen(logfn)-3], "log");
   logfp = fopen(logfn, "w");
   int i;
   for (i = 0; i < r->nlines; ++i)
     {
       const char **rr = (const char**)r->rows[i];
       Seg **segs = map_segs(lb_P(rr));
-      log_segs(lb_Q(rr),lb_L(rr),lb_G(rr),segs);
+      log_segs(lb_Q(rr),lb_L(rr),lb_G(rr),lb_W(rr),segs);
     }
   fclose(logfp);
-}
-
-/* Return a pointer to the character after the boundary characters,
- * any interveners like quotes and closers, and any following whitespace
- */   
-const char *
-boundary(const char *p)
-{
-  size_t len;
-  while ((len = strcspn(p, ".-!?,;:")))
-    {
-      p += len;
-      if (EMDASH(p))
-	{
-	  p += 2;
-	  while (isspace(*p))
-	    ++p;
-	  return p;
-	}
-      else
-	{
-	  ++p;
-	  while (QUOTE(p) || CLOSER(p))
-	    ++p;
-	  if (!*p)
-	    return p;
-	  else if (isspace(*p))
-	    {
-	      while (isspace(*p))
-		++p;
-	      return p;
-	    }
-	  /* do not consider a punctuation character not
-	     followed by a space to be a boundary */
-	  else
-	    ;
-	}
-    }
-  return NULL;
 }
 
 /* This could be modified to handled nested (...(...)...); not clear
@@ -107,9 +77,9 @@ find_closer(const char *p)
 }
 
 void
-log_segs(const char *Q, const char *L, const char *G, Seg **segs)
+log_segs(const char *Q, const char *L, const char *G, const char *W, Seg **segs)
 {
-  fprintf(logfp, "&%s\t%s\t%s\n", Q, L, G);
+  fprintf(logfp, "&%s\t%s\t%s\t%s\n", Q, L, G, W);
   int i;
   for (i = 0; segs[i]; ++i)
     {
@@ -135,8 +105,17 @@ map_segs(const char *p)
 	{
 	  s->o = p;
 	  p = next_boundary(p, &s->w);
-	  s->c = p;
-	  ++p;
+	  if (p)
+	    {
+	      s->c = p;
+	      if (*p)
+		++p;
+	    }
+	  else
+	    {
+	      s->c = s->o + strlen(s->o);
+	      break;
+	    }
 	}
     }
   Seg **sp = (Seg **)list2array(l);
@@ -147,7 +126,7 @@ map_segs(const char *p)
 const char *
 next_boundary(const char *p, int *nwords)
 {
-  int ellipsis = 0, nonsp = 0, sp = 0;
+  int ellipsis = 0, nonsp = 0, sp = 1;
   while (isspace(*p))
     ++p;
   const char *start = p; /* start of word count */
@@ -161,22 +140,54 @@ next_boundary(const char *p, int *nwords)
 	    ++p;
 	  while (isspace(*p));
 	}
-      else if (boundary(p))
+      else if (bounds[(unsigned char)*p])
 	{
-	  if (nonsp)
+	  int ok = 0;
+	  if (EMDASH(p))
+	    {
+	      p += 2;
+	      while (p[1] && isspace(p[1]))
+		++p;
+	      ok = 1;
+	    }
+	  else
+	    {
+	      ++p;
+	      while (QUOTE(p) || CLOSER(p))
+		{
+		  if (0xE2 == (unsigned char)*p)
+		    p += 3;
+		  else
+		    ++p;
+		}
+	      if (!*p)
+		ok = 1;
+	      else if (isspace(*p))
+		{
+		  while (p[1] && isspace(p[1]))
+		    ++p;
+		  ok = 1;
+		}
+	      else
+		/* do not consider a punctuation character not
+		   followed by a space to be a boundary */
+	      	;
+	    }
+	  if (ok && nonsp) /* if it counts as a boundary and we also saw non-spaces */
 	    {
 	      if (nwords)
-		*nwords = sp + (3*ellipsis);
+		*nwords = sp + ellipsis;
 	      return p;
 	    }
-	  ++p;
+	  if (*p)
+	    ++p;
 	}
       else if ('(' == *p)
 	{
 	  const char *closer = find_closer(p);
 	  if (closer)
 	    p = closer + 1;
-	  else
+	  else if (*p)
 	    ++p;
 	}
       else if (ELLIPSIS(p))
@@ -187,13 +198,17 @@ next_boundary(const char *p, int *nwords)
 	}
       else if (CTRL_X == *p)
 	p = skip_XtoY(p);
-      else
+      else if (*p)
 	{
 	  ++nonsp;
 	  ++p;
 	}
     }
-  return p; /* by definition end-of-string is a boundary */
+  /* by definition end-of-string is a boundary */
+  if (nonsp)
+    return p;
+  else
+    return NULL;
 }
 
 /* Skip from \cX..\cY
