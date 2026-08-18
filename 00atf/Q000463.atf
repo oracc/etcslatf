@@ -1,0 +1,666 @@
+&Q000463 = An adab to Nanna for Išme-Dagan (Išme-Dagan M)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.13
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.13&display=Crit&charenc=gcirc#
+
+@div version 1 (Version A)
+
+@div segment A
+
+@div sa-gida A
+
+1.A.A.1. [...] ZI# im-mi-X-X
+#lem: X; X; X
+#etcsl: line-id=1.A.A.1
+
+1.A.A.2. [...] NA# dug₄#-ga-ni# šu zid ŋar
+#lem: X; X; dug[speak]; šu[hand]; zid[right]; ŋar[put]
+#etcsl: line-id=1.A.A.2
+
+1.A.A.3. [...] X-na hi-li sud e₂-kur-ra
+#lem: X; X; hili[attractiveness]; sud[distant]; Ekur[1]TN
+#etcsl: line-id=1.A.A.3
+
+1.A.A.4. [...] MI# diŋir# gal#-gal-e-ne en gal mah an-na# [...]
+#lem: X; X; diŋir[deity]; gal[big]; en[lord]; gal[big]; mah[great]; an[sky]; X
+#etcsl: line-id=1.A.A.4
+
+1.A.A.5. [...] ki-tuš# diŋir na-me HAR [...]
+#lem: X; kituš[dwelling place]; diŋir[deity]; name[any]; X; X
+#etcsl: line-id=1.A.A.5
+
+1.A.A.6. [...] mah en kur ki-gub-ba a-a {d}nanna# [...]
+#lem: X; mah[great]; en[lord]; kur[mountain(s)]; kigub[station]; aya[father]; Nanna[1]DN; X
+#etcsl: line-id=1.A.A.6
+
+1.A.A.7. [...] itid# ud-sakar gu-a gen₆-ne₂ mu ki-bi#-[še₃ X-ŋar]
+#lem: X; itud[moon]; udsakar[crescent moon]; gu[cord]; gin[confirm]; mu[year]; ki[place]; ŋar[put]
+#etcsl: line-id=1.A.A.7
+
+1.A.A.8. [...] X uŋ₃ lu!#-a nam-til₃ [...]
+#lem: X; X; uŋ[people]; lu[abundant]; namtil[life]; X
+#etcsl: line-id=1.A.A.8
+
+1.A.A.9. [...] X kur-kur si sa₂-sa₂ [...]
+#lem: X; X; kur[mountain(s)]; si[horn]; sa[equal]; X
+#etcsl: line-id=1.A.A.9
+
+1.A.A.10. {[id₂]}[idigna] {id₂}buranuna-bi a zal-le tum₃ [...] kur#-re
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; a[water]; zal[pass time]; tum[bring]; X; kur[mountain(s)]
+#etcsl: line-id=1.A.A.10
+
+1.A.A.11. [...] X še gu-nu [...]
+#lem: X; X; še[barley]; gunu[qualification of barley]; X
+#etcsl: line-id=1.A.A.11
+
+1.A.A.12. [...] ki# daŋal-e# u₂-šim [...]
+#lem: X; ki[place]; daŋal[wide]; ušim[greenery]; X
+#etcsl: line-id=1.A.A.12
+
+1.A.A.13. [...] MU# X NU# [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=1.A.A.13
+
+1.A.A.14. [...] en {d}iš-me-{d}da-gan# [...]
+#lem: X; en[lord]; Išmedagan[1]RN; X
+#etcsl: line-id=1.A.A.14
+
+1.A.A.15. [...] X ki šu mu-a-da-ŋal₂ za-da hul₂# [...]-en#
+#lem: X; X; ki[place]; šu[hand]; ŋal[⟦be⟧ to be (there]; zaʾe[you]; hul[rejoice]; X
+#etcsl: line-id=1.A.A.15
+
+1.A.A.16. [...] X mah an-e {d}en-lil₂-le a-a {d}nanna# [saŋ]-e#-eš rig₇ X [...]
+#lem: X; X; mah[great]; An[1]DN; Enlil[1]DN; aya[father]; Nanna[1]DN; saŋ[head]; rig[donate]; X; X
+#etcsl: line-id=1.A.A.16
+
+1.A.A.17. [X X] zalag#-ga ni₂ u₃-mu-ni-gid₂ ud-de₃ sa₂ i#-X-dug₄
+#lem: X; X; zalag[bright]; ni[self]; gid[long]; ud[sun]; sa[equal]; dug[speak]
+#etcsl: line-id=1.A.A.17
+
+1.A.A.18. [...]-na šu gal du₈-a-bi ki-a u₃-mu-ni#-ge-en
+#lem: X; šu[hand]; gal[big]; du[spread]; ki[place]; gin[confirm]
+#etcsl: line-id=1.A.A.18
+
+1.A.A.19. [ud] nu₂-a itid šu du₇-a-zu uŋ₃-e u₃-X-pad₃
+#lem: ud[sun]; nud[lie down]; itud[moon]; šu[hand]; du[perfect]; uŋ[people]; pad[find]
+#etcsl: line-id=1.A.A.19
+
+1.A.A.20. en# kur-ra di gal mu-ku₅-re₆-en ka-aš mah# mu#-bar-re-en
+#lem: en[lord]; kur[mountain(s)]; did[lawsuit]; gal[big]; kud[cut]; kaš[decision]; mah[great]; bar[place outside]
+#etcsl: line-id=1.A.A.20
+
+1.A.A.21. {d}en-ki {d}nin-ki en gal nun gal en nam [tar]-re-bi
+#lem: Enkik[1]DN; Ninki[1 Ninki-goddess]; en[lord]; gal[big]; nun[prince]; gal[big]; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=1.A.A.21
+
+1.A.A.22. e₃-a ka-za-ke₄ ša-ba-an-sug₂-ge-eš a-a ud-sakar# u₃-tud mu-ši-X-eš#
+#lem: e[leave]; kag[mouth]; sug[stand]; aya[father]; udsakar[crescent moon]; utud[give birth (to)]; X
+#etcsl: line-id=1.A.A.22
+
+1.A.A.23. nun niŋ₂-si-sa₂ ka-ga₁₄ i₃-ni-ŋar niŋ₂-du₇ pa bi₂#-e₃
+#lem: nun[prince]; niŋsisa[justice]; kag[mouth]; ŋar[put]; niŋdu[that which is appropriate]; pa[branch]; e[leave]
+#etcsl: line-id=1.A.A.23
+
+1.A.A.24. šag₄ ud mu-a-dug₃ nam ki-bi-še₃ ud mu-a-tar me-lem₄-zu# ud# MI X
+#lem: šag[heart]; ud[sun]; dug[good]; nam[fate]; ki[place]; ud[sun]; tar[cut]; melim[frightening splendor]; ud[sun]; X; X
+#etcsl: line-id=1.A.A.24
+
+1.A.A.25. ŋiš-he₂ daŋal-la ŋir₂! ud mu-ni-bur₂ ku₁₀-ku₁₀# X mu-a-dadag
+#lem: ŋešhe[firmament]; daŋal[wide]; ŋir[flash]; ud[sun]; bur[spread out]; kukkug[dark]; X; dadag[bright]
+#etcsl: line-id=1.A.A.25
+
+1.A.A.26. e₃-zu-še₃ sizkur₂ a-ra-zu-a {d}a-nun-na X im-ma-sug₂-sug₂-ge-eš
+#lem: e[leave]; siškur[prayer]; arazu[supplication]; Anunak[1]DN; X; sug[stand]
+#etcsl: line-id=1.A.A.26
+
+1.A.A.27. ud-sakar dalla e₃-a hi-li gur₃-ru u₆ di dug₃-ga-zu-še₃
+#lem: udsakar[crescent moon]; dalla[(to be) bright]; e[leave]; hili[attractiveness]; gur[lift]; u[admiration]; di[speak]; dug[good]
+#etcsl: line-id=1.A.A.27
+
+1.A.A.28. nin gal ki-ur₃-ra ama {d}nin-lil₂ X-ra hul₂-la mu-ni-ib-DU
+#lem: nin[lady]; gal[big]; Kiʾur[1]; ama[mother]; Ninlil[1]DN; X; hul[rejoice]; X
+#etcsl: line-id=1.A.A.28
+
+1.A.A.29. e₂-ŋa₂-ŋiš-šu₂-a ki-tuš! šag₄ hul₂-la# e₂#-gal ni₂ guru₃-na
+#lem: Eŋaŋeššua[1]TN; kituš[dwelling place]; šag[heart]; hul[rejoice]; egal[palace]; ni[fear]; gur[lift]
+#etcsl: line-id=1.A.A.29
+
+1.A.A.30. nin zid mah ab₂ zid mas-su₂ A X [X X] X X a-ra-zu ša-ba-an-de₆
+#lem: nin[lady]; zid[right]; mah[great]; ab[cow]; zid[right]; massu[leader]; X; X; X; X; X; X; arazu[supplication]; de[carry]
+#etcsl: line-id=1.A.A.30
+
+@div trailer 
+
+1.A.A.31. sa-gid₂-[da]-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=1.A.A.31
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+1.A.B.32. en dadag {d}iš-me-{d}da-gan# [X X] X a₂# nun# hu-mu-te-ŋal₂
+#lem: en[lord]; dadag[bright]; Išmedagan[1]RN; X; X; X; a[arm]; nun[prince]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=1.A.B.32
+
+@div trailer 
+
+1.A.B.33. ŋiš-gi₄-ŋal₂ sa-[gid₂-da-am₃]
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#etcsl: line-id=1.A.B.33
+
+@end trailer
+
+@end jicgijal
+
+@div unknown C
+
+1.A.C.34. en an-na men gal mah-bi IM# [...]
+#lem: en[lord]; an[sky]; men[tiara]; gal[big]; mah[great]; X; X
+#etcsl: line-id=1.A.C.34
+
+1.A.C.35. [...] {d}nin-lil₂# X [...]
+#lem: X; Ninlil[1]DN; X; X
+#etcsl: line-id=1.A.C.35
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara D
+
+1.B.D.1. šag₄ MU# [...]
+#lem: šag[heart]; X; X
+#etcsl: line-id=1.B.D.1
+
+1.B.D.2. mu mah-a-ni AN [...] X X lugal# AN X X
+#lem: mu[name]; mah[great]; X; X; X; X; lugal[king]; X; X; X
+#etcsl: line-id=1.B.D.2
+
+1.B.D.3. a-a-zu me-ta me ma-ra#-[an-šum₂] en {d}nu-nam-nir-e
+#lem: aya[father]; me[Being]; me[Being]; šum[give]; en[lord]; Nunamnir[1]DN
+#etcsl: line-id=1.B.D.3
+
+1.B.D.4. nam tar-re a-ra₂ nam-{d}en-lil₂#-[la₂ saŋ]-e-eš hu-mu-rig₇
+#lem: nam[fate]; tar[cut]; ara[way]; namenlil[Enlil-ship]; saŋ[head]; rig[donate]
+#etcsl: line-id=1.B.D.4
+
+1.B.D.5. saŋ mi-ri-ni-il₂ en gal {d#}en#-lil₂#-le# nun-ba mi-ni-in-kur₉-re-en
+#lem: saŋ[head]; il[raise]; en[lord]; gal[big]; Enlil[1]DN; nun[prince]; kur[enter]
+#etcsl: line-id=1.B.D.5
+
+1.B.D.6. men aga zid barag mah kug-ga# dalla# mu-ra-ni-in-e₃
+#lem: men[tiara]; aga[tiara]; zid[right]; barag[sanctum]; mah[great]; kug[pure]; dalla[(to be) bright]; e[leave]
+#etcsl: line-id=1.B.D.6
+
+1.B.D.7. kur-kur ku₆-gin₇ zag dug₄-ga-ba saŋ# keše₂#-[bi] ma#-ra-an-šum₂
+#lem: kur[mountain(s)]; kud[fish]; zag[side]; dug[speak]; saŋ[head]; kešed[bind]; šum[give]
+#etcsl: line-id=1.B.D.7
+
+1.B.D.8. %e su₈#-ba#-gin₇# %s X X [...] nun! kur-kur-ra-ke₄ [...]
+#lem: subad[shepherd]N; X; X; X; nun[prince]; kur[mountain(s)]; X
+#etcsl: line-id=1.B.D.8
+
+#etcsl#doc written in two lines on the edge; it may belong here
+
+1.B.D.9. an ki šu₂-a-ba za-e na-an-na diŋir na#-[me ...] TI#
+#lem: an[sky]; ki[place]; šuš[cover]; zaʾe[you]; nu[not]; diŋir[deity]; name[any]; X; X
+#etcsl: line-id=1.B.D.9
+
+1.B.D.10. muš₃ kug an kug-ga# X-ra maš₂-zu ud-gin₇ X [...]-e#
+#lem: muš[face]; kug[purify]; an[sky]; kug[pure]; X; maš[goat]; ud[sun]; X; X
+#etcsl: line-id=1.B.D.10
+
+1.B.D.11. buru₁₄ ezen gal hi-li si-a-ba kalam ši-im#-ši-hul₂#-X
+#lem: buru[harvest]; ezem[festival]; gal[big]; hili[attractiveness]; si[fill]; kalam[the Land (of Sumer)]; hul[rejoice]
+#etcsl: line-id=1.B.D.11
+
+1.B.D.12. uŋ₃ saŋ gig₂-ga a-a-bi-gin₇ igi-bi šu#-mu-a-ši-ŋal₂
+#lem: uŋ[people]; saŋ[head]; giggig[black]; aya[father]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=1.B.D.12
+
+1.B.D.13. en gal ga-til₃-le ŋiš tuku-me-en ki aŋ₂!# kalam-ma-me-en
+#lem: en[lord]; gal[big]; gatil[vow]; ŋeš[tree]; tuku[acquire]; ki[place]; aŋ[measure]; kalam[the Land (of Sumer)]
+#etcsl: line-id=1.B.D.13
+
+1.B.D.14. urim₂{ki} ud₅-saŋ gal ki-en-gi-ra iri# an#-da mu₂-a
+#lem: Urim[1]SN; udsaŋ[band]; gal[big]; Kengir[1]; iri[city]; an[sky]; mu[grow]
+#etcsl: line-id=1.B.D.14
+
+1.B.D.15. ul-ul-la eš₃ maš₂-a du₃-a {e₂}tur₃ šag₄# hul₂#-za
+#lem: ul[swell]; eš[shrine]; maš[goat]; du[build]; tur[animal stall]; šag[heart]; hul[rejoice]
+#etcsl: line-id=1.B.D.15
+
+1.B.D.16. ha-ra-ni-ib-AŠ a-ra₂-e {d}iš-me-{d}da-gan X ab₂ kug-ga saŋ NE
+#lem: X; ara[way]; Išmedagan[1]RN; X; ab[cow]; kug[pure]; saŋ[head]; X
+#etcsl: line-id=1.B.D.16
+
+1.B.D.17. ninda₂ gud dug₃ ha-ra-ni-ib-u₅-e numun zid ha-ra#-ab-i-i
+#lem: ninda[breeding bull]; gud[bull]; dug[good]; u[ride]; numun[seed]; zid[right]; e[bring out]
+#etcsl: line-id=1.B.D.17
+
+1.B.D.18. [i₃] saŋ ga saŋ ga unu₂ kug-za NI X [hu]-mu#-peš-peš-e
+#lem: i[oil]; saŋ[head]; ga[milk]; saŋ[head]; ga[milk]; unu[dwelling]; kug[pure]; X; X; peš[thick]
+#etcsl: line-id=1.B.D.18
+
+1.B.D.19. [...] X mah# gaba nu-ŠA# X maš₂#-za-ke₄ X X-e
+#lem: X; X; mah[great]; gaba[breast]; X; X; maš[goat]; X; X
+#etcsl: line-id=1.B.D.19
+
+1.B.D.20. [X X] ki# nin ki mah [X X] X X [X X] X
+#lem: X; X; ki[place]; nin[lady]; ki[place]; mah[great]; X; X; X; X; X; X; X
+#etcsl: line-id=1.B.D.20
+
+1.B.D.21. [X X] X MA ŋiš-hur# [... si ha-ra]-ab-sa₂-sa₂#-[e]
+#lem: X; X; X; X; ŋešhur[plan]; X; si[horn]; sa[equal]
+#etcsl: line-id=1.B.D.21
+
+1.B.D.22. [...] X BA IM šim [...] ha-ra-ab-X [...]
+#lem: X; X; X; X; šim[aromatic substance]; X; X; X
+#etcsl: line-id=1.B.D.22
+
+1.B.D.23. [X X X] kug-sig₁₇ si-a-zu nin# [X X] {[d]}nin#-gal
+#lem: X; X; X; kugsig[gold]; si[fill]; nin[lady]; X; X; Ningal[1]DN
+#etcsl: line-id=1.B.D.23
+
+1.B.D.24. [X X]-ba ud-gin₇ dalla he₂-ni-in#-[e₃] hu#-mu-a-til₃-en#
+#lem: X; X; ud[sun]; dalla[(to be) bright]; e[leave]; til[live (of a single person)]
+#etcsl: line-id=1.B.D.24
+
+1.B.D.25. [X X] gal-la {d}iš-me-{d}da-gan# [X X] hu#-mu-ra-ab-be₂
+#lem: X; X; gal[big]; Išmedagan[1]RN; X; X; e[speak]
+#etcsl: line-id=1.B.D.25
+
+@div trailer 
+
+1.B.D.26. [sa]-ŋar-[ra]-am₃#
+#lem: saŋara[musical notation]
+#etcsl: line-id=1.B.D.26
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal E
+
+1.B.E.27. X X {d}iš#-me-{d}da#-gan dumu {d}en-lil₂-[la₂ ...] nu-kur₂-ru-da# he₂-a
+#lem: X; X; Išmedagan[1]RN; dumu[child]; Enlil[1]DN; X; kur[different]; me[be]
+#etcsl: line-id=1.B.E.27
+
+@div trailer 
+
+1.B.E.28. [ŋiš]-gi₄-ŋal₂ sa-ŋar-[ra-bi-im]
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=1.B.E.28
+
+@end trailer
+
+@end jicgijal
+
+@div uru F
+
+1.B.F.29. en# gal an kug-ta nam tar-re gal#-[an]-zu#
+#lem: en[lord]; gal[big]; an[sky]; kug[pure]; nam[fate]; tar[cut]; galanzu[wise]
+#etcsl: line-id=1.B.F.29
+
+1.B.F.30. [X X] en dadag an kug-ta nam tar-re# [gal]-zu#
+#lem: X; X; en[lord]; dadag[bright]; an[sky]; kug[pure]; nam[fate]; tar[cut]; galanzu[wise]
+#etcsl: line-id=1.B.F.30
+
+1.B.F.31. {[d]}[iš]-me-{d}da-gan# dumu {d}en-lil₂-la₂ mas-su₂ a-ba-ra ki#-i gal he₂-na-a-aŋ₂#
+#lem: Išmedagan[1]RN; dumu[child]; Enlil[1]DN; massu[leader]; aba[who?]; ki[place]; gal[big]; aŋ[measure]
+#etcsl: line-id=1.B.F.31
+
+@div trailer 
+
+1.B.F.32. [u₁₈-ru₁₂]-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=1.B.F.32
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+1.B.F.33. a-da-ab# {d}nanna
+#lem: adab[drum]; Nanna[1]DN
+#etcsl: line-id=1.B.F.33
+
+#etcsl#doc lines 32 and 33 are written as one line in source
+
+@end trailer
+
+@end segment
+
+@end version
+
+@div version 2 (Version B)
+
+$ (note@c25413.ver1!c25413.n3: Due to the fragmentary state of the ms., UM 29-15-132, possible indentation cannot be taken into account here; line numbers refer to physical lines)
+@div segment A
+
+@div unknown A
+
+$ (note@c25413.seg1!c25413.n4: This passage runs parallel to Segment A, lines 18-29, of Version A)
+$ (unknown no. of lines missing)
+2.A.A.1. ki [...]
+#lem: ki[place]; X
+#etcsl: line-id=2.A.A.1
+
+2.A.A.2. ud nu₂-[a ...]
+#lem: ud[sun]; nud[lie down]; X
+#etcsl: line-id=2.A.A.2
+
+2.A.A.3. uŋ₃ [...]
+#lem: uŋ[people]; X
+#etcsl: line-id=2.A.A.3
+
+2.A.A.4. en kur-ra [...]
+#lem: en[lord]; kur[mountain(s)]; X
+#etcsl: line-id=2.A.A.4
+
+2.A.A.5. ka-aš [...]
+#lem: kaš[decision]; X
+#etcsl: line-id=2.A.A.5
+
+2.A.A.6. {d}en-ki {d}[nin-ki ...]
+#lem: Enkik[1]DN; Ninki[1 Ninki-goddess]; X
+#etcsl: line-id=2.A.A.6
+
+2.A.A.7. en [...]
+#lem: en[lord]; X
+#etcsl: line-id=2.A.A.7
+
+2.A.A.8. e₃-a [...]
+#lem: e[leave]; X
+#etcsl: line-id=2.A.A.8
+
+2.A.A.9. a-a X [...]
+#lem: aya[father]; X; X
+#etcsl: line-id=2.A.A.9
+
+2.A.A.10. nun niŋ₂# [...]
+#lem: nun[prince]; niŋ[thing]; X
+#etcsl: line-id=2.A.A.10
+
+$ 1 line missing
+2.A.A.12. šag₄# [...]
+#lem: šag[heart]; X
+#etcsl: line-id=2.A.A.12
+
+$ 9 lines missing
+2.A.A.22. e₂# [...]
+#lem: e[house]; X
+#etcsl: line-id=2.A.A.22
+
+2.A.A.23. e₂-gal# ni₂# gur₃-X-na
+#lem: egal[palace]; ni[fear]; gur[lift]
+#etcsl: line-id=2.A.A.23
+
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara B
+
+2.B.B.1. [...]-e
+#lem: X
+#etcsl: line-id=2.B.B.1
+
+#etcsl#doc Lines 12-24 of this passage run parallel to Segment B, lines 25-31, of Version A)
+
+2.B.B.2. [...] X EZEN
+#lem: X; X; X
+#etcsl: line-id=2.B.B.2
+
+2.B.B.3. [...] X
+#lem: X; X
+#etcsl: line-id=2.B.B.3
+
+2.B.B.4. [...] X X
+#lem: X; X; X
+#etcsl: line-id=2.B.B.4
+
+2.B.B.5. [...] X [...] GA
+#lem: X; X; X; X
+#etcsl: line-id=2.B.B.5
+
+2.B.B.6. [...] X-gin₇ KI kug X E
+#lem: X; X; X; kug[purify]; X; X
+#etcsl: line-id=2.B.B.6
+
+2.B.B.7. [...] X X X X X X-na
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=2.B.B.7
+
+2.B.B.8. [...] HA X X X TU X
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=2.B.B.8
+
+2.B.B.9. [...] GI {d}en-X X E
+#lem: X; X; En.X[0]DN; X; X
+#etcsl: line-id=2.B.B.9
+
+2.B.B.10. [...] X X X X
+#lem: X; X; X; X; X
+#etcsl: line-id=2.B.B.10
+
+2.B.B.11. [...] {d}en-X RI
+#lem: X; En.X[0]DN; X
+#etcsl: line-id=2.B.B.11
+
+2.B.B.12. [...] {[d]}[iš]-X-X-da-gan-na
+#lem: X; Išmedagan[1]RN
+#etcsl: line-id=2.B.B.12
+
+2.B.B.13. [...]-mu#-[...]-ab#-be₂
+#lem: dug[speak]
+#etcsl: line-id=2.B.B.13
+
+@div trailer 
+
+2.B.B.14. [sa-ŋar-ra]-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=2.B.B.14
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal C
+
+2.B.C.15. [...] {d}en-lil₂-la₂
+#lem: X; Enlil[1]DN
+#etcsl: line-id=2.B.C.15
+
+2.B.C.16. [...]-a
+#lem: X
+#etcsl: line-id=2.B.C.16
+
+@div trailer 
+
+2.B.C.17. [ŋiš-gi₄-ŋal₂ sa]-ŋar#-[ra]-bi-im#
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=2.B.C.17
+
+@end trailer
+
+@end jicgijal
+
+@div uru D
+
+2.B.D.18. [...] X ZU#
+#lem: X; X; X
+#etcsl: line-id=2.B.D.18
+
+$ 4 lines missing
+@div trailer 
+
+2.B.D.23. [u₁₈-ru₁₂-bi]-im#
+#lem: uru[literary subscript]
+#etcsl: line-id=2.B.D.23
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+2.B.D.24. [a-da-ab] {[d]}nanna-kam
+#lem: adab[drum]; Nanna[1]DN
+#etcsl: line-id=2.B.D.24
+
+@end trailer
+
+@end segment
+
+@end version
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@h1 Version A
+
+
+#lg A	sa-gida
+
+
+@(1.A.A.1 = 1-16)  @gap{1 line fragmentary}  …… what he orders is faithfully executed, …… endowed with beauty in the @wTN{E-kur}, …… among the great gods, the great and august lord …… in the heavens, …… whose seat (?) no other god ……! August ……, lord whose abode is the mountains, Father @wDN{Nanna} ……, …… fixes the months and the new moon according to a cord (?), establishes the year ……, …… life for the multitudes ……, …… who puts all the lands in order, …… who makes the @wWN{Tigris} and the @wWN{Euphrates} bring flowing water ……, …… fine grain ……, …… lush vegetation in the spacious land ……,  @gap{1 line fragmentary}  …… Lord @wRN{Išme-@wDN{Dagan}} ……  @gap{1 line unclear}  august …… bestowed upon Father @wDN{Nanna} by @wDN{An} and @wDN{Enlil} …….
+
+@(1.A.A.17 = 17-22) After you have extended yourself in the bright ……, the daylight ……, after you have established …… on earth, on the day of the disappearance of the moon, as you have completed the month, you summon (?) the people, lord; and then in the nether world you decree great judgments, you decide sublime verdicts. @wDN{Enki} and @wDN{Ninki}, the great lords, the great princes, the lords who determine fates, await your utterances, father; they …… the newborn (?) moon.
+
+@(1.A.A.23 = 23-30) Prince, you place justice in every mouth, and make propriety resplendent. Daily (?) you make hearts content, daily (?) you determine fates appropriately, daily (?) your refulgence ……. You brighten the night sky in the broad firmament, and illuminate the darkness. The @wDN{Anuna} gods stand by with prayers and supplications at your rising. The sweet sight of your resplendent crescent, full of loveliness, brings joy to the great lady of the @wTN{Ki-ur}, Mother @wDN{Ninlil}, in ……, and the true and august lady, the good cow, the leader …… prays …… in the @wTN{E-ŋa-ŋiš-šua}, her delightful residence, the awesome palace.
+
+#trailer rubric	sa-gida
+
+
+@(1.A.A.31 = 31) @fsux{Sa-gida}.
+
+#lg B	jicgijal
+
+
+@(1.A.B.32 = 32) Brightest lord, may you make @wRN{Išme-@wDN{Dagan}} …… exert superior strength.
+
+#trailer rubric	jicgijal
+
+
+@(1.A.B.33 = 33) @fsux{Ŋišgiŋal} of the @fsux{sa-gida}.
+
+#lg C	unknown
+
+
+@(1.A.C.34 = 34-35) Lord, great and august crown of the sky ……. …… @wDN{Ninlil} …….  @gap{unknown no. of lines missing} 
+
+
+#lg D	sa-jara
+
+
+@(1.B.D.1 = 1-8) …… heart ……. …… his august name …… king ……. You have been assigned divine powers from the divine powers by Lord @wDN{Nunamnir}. He has presented you with the capacity to determine fates, the role of a supreme deity. He has elevated you; the great lord, @wDN{Enlil}, has made you one of the princes. With the rightful tiara and headdress, he has made you glorious on the holy august dais. He has bestowed upon you the guardianship of all the countries teeming (?) like fish. The prince of all the foreign countries …… like a shepherd (?).
+
+@(1.B.D.9 = 9-25) Except you, no god …… in the entirety of heaven and earth. Bright countenance in the holy sky, you …… like daylight. The Land rejoices over the harvest, the great festival that is full of delight, and the black-headed people look to you as to their father. Great lord, you hearken to anyone who approaches you for succour; you are the beloved of the Land. @wSN{Urim}, the great cosmic bond of @wGN{Sumer}, the city that has grown as high as the heavens, joyfully becomes of one accord for you in the sanctuary built with extispicy, in your delightful cattle-pen. …… @wRN{Išme-@wDN{Dagan}} ……, may the breed-bull and the good ox mount holy cows ……, may they multiply vigorously for you. May premium …… and premium milk, the milk of your holy dining room …… become abundant there.  @gap{2 lines fragmentary}  May he care properly for …… divine plans for you. May he …… for you. …… your …… filled with gold, the lady …… @wDN{Ningal}, on its …… appear as brightly as daylight ……. May he …… @wRN{Išme-@wDN{Dagan}} …….
+
+#trailer rubric	sa-jara
+
+
+@(1.B.D.26 = 26) @fsux{Sa-ŋara}.
+
+#lg E	jicgijal
+
+
+@(1.B.E.27 = 27) May the …… of @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil}, …… be immutable.
+
+#trailer rubric	jicgijal
+
+
+@(1.B.E.28 = 28) @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
+
+#lg F	uru
+
+
+@(1.B.F.29 = 29-31) Great lord, most wise in determining the fates from the holy heavens, ……! Brightest lord, most wise in determining the fates from the holy heavens, whom do you love more than @wRN{Išme-@wDN{Dagan}}, @wDN{Enlil's} son, the leader?
+
+#trailer rubric	uru
+
+
+@(1.B.F.32 = 32) Its @fsux{uru}.
+
+#trailer subscript	adab
+
+
+@(1.B.F.33 = 33) An @fsux{adab} of @wDN{Nanna}.
+
+
+
+@h1 Version B
+
+
+#lg A	unknown
+
+
+$ (This passage runs parallel to Segment A, lines 18-29, of Version A)
+
+@(2.A.A.1 = 1-7)  @gap{unknown no. of lines missing}   @gap{1 line fragmentary}  On the day of the disappearance of the moon, ……, …… the people, lord, …… verdicts in the nether world. @wDN{Enki} and @wDN{Ninki}, ……, lord, …….
+
+@(2.A.A.8 = 8-23)  @gap{1 line fragmentary}  Father, ……. Prince, …….  @gap{1 line missing}  …… the hearts …….  @gap{9 lines missing}   @gap{1 line fragmentary}  …… in her awesome palace.
+
+
+#lg B	sa-jara
+
+
+$ (Lines 12-24 of this passage run parallel to Segment B, lines 25-31, of Version A))
+
+@(2.B.B.1 = 1-13)   @gap{13 lines fragmentary} 
+
+#trailer rubric	sa-jara
+
+
+@(2.B.B.14 = 14) @fsux{Sa-ŋara}.
+
+#lg C	jicgijal
+
+
+@(2.B.C.15 = 15-16) …… of @wDN{Enlil} ……  @gap{1 line fragmentary} 
+
+#trailer rubric	jicgijal
+
+
+@(2.B.C.17 = 17) @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
+
+#lg D	uru
+
+
+@(2.B.D.18 = 18-22)  @gap{1 line fragmentary}   @gap{4 lines missing} 
+#trailer rubric	uru
+
+
+@(2.B.D.23 = 23) Its @fsux{uru}.
+
+#trailer subscript	adab
+
+
+@(2.B.D.24 = 24) An @fsux{adab} of @wDN{Nanna}. @notep{lines 23 and 24 are written as one line in source}
+

@@ -1,0 +1,123 @@
+&Q000565 = Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.2.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.04&display=Crit&charenc=gcirc#
+
+1. {m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
+#lem: Nannakiaŋ[1]PN; rabizigatum[military official]
+#etcsl: line-id=1
+
+2. u₃-na-dug₄
+#lem: dug[speak]
+#etcsl: line-id=2
+
+3. {m}li-pi₂-it-eš₄-tar₂ lugal-zu na-ab-be₂-a
+#lem: Lipiteštar[1]RN; lugal[king]; e[speak]
+#etcsl: line-id=3
+
+4. mu (1:erin₂ lu₂-kur₂-ra-ke₄:1) (2:lugal u₃-na-dug₄ šu mu-e-taka₄:2)
+#lem: mu[name]; erin[people]; lukur[stranger]; lugal[king]; unadug[letter]; šu[hand]; taka[set aside]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) lu₂-kur₂-ra-ke₄
+#lem: lukur[stranger]
+:4v.2.1: ($1 ms. has instead:$) u₃-ne-dug₄!(ZU) šu bi₂-taka₄
+#lem: unadug[letter]; šu[hand]; taka[set aside]
+
+5. {m}at-ta₂-ma-nu-um (1:lu₂:1) lugal-a-ni-ir bi₂-in-sag₉-ge
+#lem: Attamannum[1]PN; lu[person]; lugal[king]; sag[good]
+#etcsl: line-id=5
+
+:5v.1.1: ($1 ms. has instead:$) arad
+#lem: arad[slave]
+
+6. dirig-zu-še₃ (1:arad lugal-a-ni-ir:1) na-X
+#lem: dirig[make more than]; arad[slave]; lugal[king]; X
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) lu₂
+#lem: lu[person]
+
+7. a-na-aš-am₃ (1:ŋe₂₆-e X nu-zu-ŋu₁₀-ta za-e šu ŋar lugal-zu li-bi₂-in-gi₄:1)
+#lem: anaš[why?]; ŋaʾe[I]; X; zu[know]; zaʾe[you]; šu[hand]; ŋar[put]; lugal[king]; gi[turn]
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) erin₂ šu šag₄-še₃ i₃-ŋal₂-a-ŋa₂# nam-lu₂-ulu₃-ba li-bi₂-ŋar
+#lem: erin[people]; šu[hand]; šag[heart]; ŋal[⟦be⟧ to be (there]; namlulu[humanity]; ŋar[put]
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+7A. ne-eš₂ erin₂ mu-un-ŋa₂-ŋa₂-e
+#lem: ineš[now]; erin[people]; ŋar[put]
+#etcsl: line-id=7A
+
+@endvariants
+8. a₂-še (1:2:1) li-mu-um erin₂ (2:lu₂ {ŋiš}šukur:2)
+#lem: aše[now]; n; n; erin[people]; lu[person]; šukur[lance]
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) 4
+#lem: n
+:8v.1.2: ($1 other ms. has instead:$) 3
+#lem: n
+:8v.2.1: ($1 ms. has instead:$) lu₂ {ŋiš}šukur giŋ₄
+#lem: lu[person]; šukur[lance]; giŋ[ax]
+
+9. (1:2:1) li-mu-um erin₂ (2:lu₂ {ŋiš}pan:2)
+#lem: n; n; erin[people]; lu[person]; pana[bow]
+#etcsl: line-id=9
+
+:9v.1.1: ($1 ms. has instead:$) 4
+#lem: n
+:9v.2.1: ($1 ms. has instead:$) lu₂ {ŋiš}pan giŋ₄
+#lem: lu[person]; pana[bow]; giŋ[ax]
+
+10. (1:2:1) li-mu-um erin₂ (2:lu₂ dur₁₀-tab-ba:2) (3:im-mu-e-ši-sar:3)
+#lem: n; n; erin[people]; lu[person]; durtaba[an ax]; sar[run]
+#etcsl: line-id=10
+
+:10v.1.1: ($1 ms. has instead:$) 1
+#lem: n
+:10v.2.1: ($1 ms. has instead:$) lu₂ dur₁₀-tab-ba giŋ₄
+#lem: lu[person]; durtaba[an ax]; giŋ[ax]
+:10v.3.1: ($1 ms. has instead:$) im#-ma-sar-eš
+#lem: sar[run]
+
+11. lu₂-kur₂ iri-gibil-a al-dur₂-ru-ne-eš
+#lem: lukur[stranger]; Irigibil[1]SN; durun[sit]
+#etcsl: line-id=11
+
+12. ki-tuš-bi-ta sar-bi₂-ib
+#lem: kituš[dwelling place]; sar[run]
+#etcsl: line-id=12
+
+13. X X šu i₃-ŋar-re-ne nam bi₂-X [...]
+#lem: X; X; šu[hand]; ŋar[put]; nam[fate]; X; X
+#etcsl: line-id=13
+
+14. iri dili-dili zag-ba# zag-za en-nu-uŋ₃-bi ak#-X-ab
+#lem: iri[city]; dili[single]; zag[side]; zag[side]; ennuŋ[watch]; ak[do]
+#etcsl: line-id=14
+
+15. iri-bi šu-zu-ta la-ba-ra-e₃
+#lem: iri[city]; šu[hand]; e[leave]
+#etcsl: line-id=15
+
+16. nam-lu₂-ulu₃-zu ŋar-bi₂-ib
+#lem: namlulu[humanity]; ŋar[put]
+#etcsl: line-id=16
+
+17. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=17
+
+
+
+
+
+
+

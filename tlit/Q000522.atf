@@ -1,0 +1,55 @@
+&Q000522 = A prayer for Ḫammu-ràbi (Ḫammu-ràbi E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.2.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.5&display=Crit&charenc=gcirc#
+
+$ 37 lines missing
+38. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=38
+
+39. [...] saŋ# an-še₃ mi-[X-il₂]
+#lem: X; saŋ[head]; an[sky]; il[raise]
+#etcsl: line-id=39
+
+40. [...] igi-ni-še₃ X [...]
+#lem: X; igi[eye]; X; X
+#etcsl: line-id=40
+
+41. [...] mu-un-na-e-hul₂-hul₂ [...]
+#lem: X; hul[rejoice]; X
+#etcsl: line-id=41
+
+42. [...] gu₂-da mu-ni-in#-[la₂] X
+#lem: X; gu[neck]; la[hang]; X
+#etcsl: line-id=42
+
+43. X [...] X-da-zu nam mu-ni-ib₂-tar# X
+#lem: X; X; X; nam[fate]; tar[cut]; X
+#etcsl: line-id=43
+
+44. X [...] X-da-bi he₂-me-en nam-nun-bi ak-[de₃]
+#lem: X; X; X; me[be]; namnun[magnificence]; ak[do]
+#etcsl: line-id=44
+
+45. [X X] saŋ#-e-eš mi-ni-in-rig₇-ga-zu muš₃ nam-[ba-tum₂-mu]
+#lem: X; X; saŋ[head]; rig[donate]; muš[face]; tum[bring]
+#etcsl: line-id=45
+
+46. [...] X GI ši-bi₂-du₇ ud-bi ha-ra-su₃-[ud-de₃]
+#lem: X; X; X; du[perfect]; ud[sun]; sud[distant]
+#etcsl: line-id=46
+
+47. nam tar-ra mu sa₄-a-<<mu>>-me-en gaba gi na-an-[X-tuku]
+#lem: nam[fate]; tar[cut]; mu[name]; še[call by name]; gaba[breast]; gi[turn]; tuku[acquire]
+#etcsl: line-id=47
+
+
+
+
+
+
+

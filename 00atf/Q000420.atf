@@ -1,0 +1,156 @@
+&Q000420 = A praise poem of Šulgi
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.b
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.b&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. X kug#-sig₁₇# UD# X X [X X] mi₂ he₂-ma-ni-in#-[dug₄]
+#lem: X; kugsig[gold]; X; X; X; X; X; mi[cvne]; dug[speak]
+#etcsl: line-id=A.1
+
+A.2. {ŋiš}tukul-la ud sud X [...]-ŋa₂ u₁₈-ru-gin₇ ki he₂-ma-ni-us₂-sa#
+#lem: tukul[weapon]; ud[sun]; sud[distant]; X; X; urun[exalted]; ki[place]; us[accompany]
+#etcsl: line-id=A.2
+
+A.3. NI# [...] X RU X-ma-ŋu₁₀-ne
+#lem: X; X; X; X; X
+#etcsl: line-id=A.3
+
+A.4. [X X] X X X X X [X X] X gaba# zig₃-ga-ŋu₁₀#-ne#
+#lem: X; X; X; X; X; X; X; X; X; X; gaba[breast]; zig[rise]
+#etcsl: line-id=A.4
+
+A.5. [še-er]-zid# ud-de₉-eš₂ mu₂-a-gin₇ [men] kug-ga mul-la-ŋu₁₀-ne
+#lem: šerzid[radiance]; ud[sun]; mu[grow]; men[tiara]; kug[pure]; mul[shine]
+#etcsl: line-id=A.5
+
+A.6. [ŋidru] mah nam-he₂-a ur₄-ur₄-ra šu-ŋu₁₀-še₃ ŋal₂-la-bi
+#lem: ŋidru[scepter]; mah[great]; namhe[abundance]; ur[gather]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.6
+
+A.7. {ŋiš}gu-za suhuš gen₆-na X X saŋ-eš₂ rig₇-ga-ŋa₂
+#lem: guza[chair]; suhuš[foundation]; gin[confirm]; X; X; saŋ[head]; rig[donate]
+#etcsl: line-id=A.7
+
+A.8. X X saŋ an-še₃ he-bi₂-il₂
+#lem: X; X; saŋ[head]; an[sky]; il[raise]
+#etcsl: line-id=A.8
+
+A.9. šul-gi sipad zid ki-en-gi-ra-me-en₃ niŋ₂-zid ki-bi-še₃ hu-mu-ŋar-ŋa₂-ar
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]; niŋzid[righteousness]; ki[place]; ŋar[put]
+#etcsl: line-id=A.9
+
+A.10. niŋ₂-erim₂ a-ŋi₆ a e₃-a-gin₇ uzug₂(|KA.U₂|)-ge he₂-mi-bu₃
+#lem: niŋerim[evil]; aŋi[wave]; a[water]; e[leave]; muzug[ritually unclean]; bur[tear out]
+#etcsl: line-id=A.10
+
+A.11. mi₂ gal-gal ni₂-ŋu₁₀ en-na bi₂-dug₄-ga
+#lem: mi[cvne]; gal[big]; ni[self]; enna[as many as]; dug[speak]
+#etcsl: line-id=A.11
+
+A.12. mu {d}en-lil₂-la₂ lul ba-ra-na# he₂-gen₆#
+#lem: mu[name]; Enlil[1]DN; lul[false]; me[be]; gin[confirm]
+#etcsl: line-id=A.12
+
+A.13. am babbar₂-gin₇ saŋ he₂-ši#-[...]
+#lem: am[wild bull]; babbar[white]; saŋ[head]; X
+#etcsl: line-id=A.13
+
+A.14. X X [...]
+#lem: X; X; X
+#etcsl: line-id=A.14
+
+@end segment
+
+@div segment B
+
+$ (unknown no. of lines missing)
+B.1. X X [...]
+#lem: X; X; X
+#etcsl: line-id=B.1
+
+B.2. unken ak X [...]
+#lem: unkin[assembly]; ak[do]; X; X
+#etcsl: line-id=B.2
+
+B.3. mi₂-bi-im hu-mu#-[dug₄]
+#lem: mi[cvne]; dug[speak]
+#etcsl: line-id=B.3
+
+B.4. X X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.4
+
+B.5. [...] URUD# X X [...]-mu#-dug₄
+#lem: X; X; X; X; dug[speak]
+#etcsl: line-id=B.5
+
+B.6. [...] X kalam-ma ŋen-na-ŋa₂ mi₂#-bi-im hu-mu#-dug₄
+#lem: X; X; kalam[the Land (of Sumer)]; ŋen[go]; mi[cvne]; dug[speak]
+#etcsl: line-id=B.6
+
+B.7. šu dim₄ niŋ₂ sag₉-ge X-gin₇ ka-ga mi-ni-ŋal₂-la ŋa₂-ra mi₂ zid-bi-im hu-mu-dug₄
+#lem: šu[hand]; dim[check]; niŋ[thing]; sag[good]; X; kag[mouth]; ŋal[⟦be⟧ to be (there]; ŋaʾe[I]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=B.7
+
+B.8. ŋešba₂ lirum₃-ta a₂ ha-ma-gun₃ mi₂-bi-im hu-mu-dug₄
+#lem: ŋešba[boxer]; lirum[strength]; a[arm]; gunu[speckled]; mi[cvne]; dug[speak]
+#etcsl: line-id=B.8
+
+B.9. a-la {d}en-lil₂-da ma-ab-be₂ kalam-ma gi₄-a X X X X NA HI NIM dar-ra-ŋa₂
+#lem: ala[exuberance]; Enlil[1]DN; e[speak]; kalam[the Land (of Sumer)]; gi[turn]; X; X; X; X; X; X; X; dar[split]
+#etcsl: line-id=B.9
+
+B.10. eš₃ nibru{ki}-še₃ ŋiri₃ urim₅{ki}-ma-še₃ šu niŋin₂-niŋin₂-na-ŋa₂
+#lem: eš[shrine]; Nibru[1]SN; ŋiri[foot]; Urim[1]SN; šu[hand]; niŋin[encircle]
+#etcsl: line-id=B.10
+
+B.11. kaskal da-na 30 ŋen-na-ŋa₂ ŋa₂-ra mi₂ zid-bi-im hu-mu-dug₄#
+#lem: kaskal[way]; dana[unit of length]; n; ŋen[go]; ŋaʾe[I]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=B.11
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-4) Let praise be sung for me that ……. Through weapons an enduring …… has been established for me like a tower, as I ……, as I rise in opposition …….
+
+@(A.5 = 5-8) When I am radiant in the holy crown like a brilliance that is renewed daily (?), and the majestic sceptre that amasses abundance has been entrusted into my hands, on my firmly founded throne …… granted as a gift …… I lift my head high.
+
+@(A.9 = 9-12) I am @wRN{Šulgi}, the good shepherd of @wGN{Sumer}, and I have always established justice. Like a flood, like onrushing water, I have torn out wickedness as being unclean (?). As much great praise as I have had sung about me -- by the name of @wDN{Enlil}, none is false, and all is true.
+
+@(A.13 = 13-14) Like a white wild bull …….  @gap{1 line fragmentary} 
+
+
+
+$ (unknown no. of lines missing)
+@(B.1 = 1-5)  @gap{1 line fragmentary}  Let praise be sung that I have …… the assembly (?).  @gap{2 lines fragmentary} 
+
+@(B.6 = 6-7) Let praise be sung, that I have gone across the …… of the Land. Let deserved praise be sung for me, that in every mouth I have put prudence (?), an attractive quality like …….
+
+@(B.8 = 8-11) Let praise be sung, that I have shown strength in grappling and wrestling. Let deserved praise be sung for me, that I have …… in the Land, that I have made a return visit to the shrine @wSN{Nibru} and back along the road to @wSN{Urim}, and have marched a distance of 30 @fsux{dana}.
+
+
+

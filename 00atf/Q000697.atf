@@ -1,0 +1,173 @@
+&Q000697 = A balbale to Ninazu (Ninazu A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.17.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.17.1&display=Crit&charenc=gcirc#
+
+1. lugal iri ab₂-gin₇ lu-a [unudₓ(UNU₃) X X za-e]-me#-en
+#lem: lugal[king]; iri[city]; ab[cow]; lu[abundant]; unud[cowherd]; X; X; zaʾe[you]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 17
+
+2. {d}nin-a-zu iri ab₂-gin₇ [lu-a unudₓ(UNU₃) X X za]-e-me-en
+#lem: Ninazu[1]DN; iri[city]; ab[cow]; lu[abundant]; unud[cowherd]; X; X; zaʾe[you]
+#etcsl: line-id=2
+
+3. en {d}nin-a-zu-ŋu₁₀ <iri> ab₂-[gin₇ lu-a] unud(UNU₃)# [X X za]-e-me-en
+#lem: en[lord]; Ninazu[1]DN; iri[city]; ab[cow]; lu[abundant]; unud[cowherd]; X; X; zaʾe[you]
+#etcsl: line-id=3
+
+4. {gi}kid za-gin₃-na-gin₇ X [...] X ad-KID X-bi za-e-me-en
+#lem: kid[reed mat or woven object]; zagin[lapis lazuli]; X; X; X; ad.KID[basket weaver]; X; zaʾe[you]
+#etcsl: line-id=4
+
+5. udu-gin₇ amaš-e ri#-[a dur₂]-ru-na-dur₂-<ru-na> na-gada-bi za-e-me-en
+#lem: udu[sheep]; amaš[sheepfold]; ri[impose]; durun[sit]; nagada[herdsman]; zaʾe[you]
+#etcsl: line-id=5
+
+6. hur-saŋ sukud-ra₂ ul gur₃-ru en {d}nin-a-zu-me-en
+#lem: hursaŋ[mountain]; sukud[height]; ul[swell]; gur[lift]; en[lord]; Ninazu[1]DN
+#etcsl: line-id=6
+
+7. en# {d}nin-a-zu ki-in-du ha-ba-dim₂-ma {d}nanna he₂-e-da-hul₂
+#lem: en[lord]; Ninazu[1]DN; kindu[earth]; dim[create]; Nanna[1]DN; hul[rejoice]
+#etcsl: line-id=7
+
+8. uru₁₇ umuš gal-la {d}nanna tud#-[da]-me-en
+#lem: urun[exalted]; umuš[consideration]; gal[big]; Nanna[1]DN; utud[give birth (to)]
+#etcsl: line-id=8
+
+9. pa mul-zu {d}dil-im₂-babbar-re a₂ he₂-em-mi-ni-in-rin₂-rin₂#-ne₂#
+#lem: pa[branch]; mul[shine]; Dilimbabbar[1]DN; a[arm]; girim[clear]
+#etcsl: line-id=9
+
+10. {ŋiš}gu-za an-ne₂ ma-ra-an-šum₂-ma-zu suhuš-bi nam#-[mi-in-gen₆]
+#lem: guza[chair]; An[1]DN; šum[give]; suhuš[foundation]; gin[confirm]
+#etcsl: line-id=10
+
+11. zag an ki-še₃ ŋiri₃ si he₂-da-ab-sa₂ ud-gin₇ si he₂-da-ab-sa₂#
+#lem: zag[side]; an[sky]; ki[place]; ŋiri[foot]; si[horn]; sa[equal]; ud[sun]; si[horn]; sa[equal]
+#etcsl: line-id=11
+
+12. en {d}nin#-[a]-zu#-ŋu₁₀ ud-gin₇ si ha-ra-ab-sa₂ ud-gin₇ si ha#-[ra-ab-sa₂]
+#lem: en[lord]; Ninazu[1]DN; ud[sun]; si[horn]; sa[equal]; ud[sun]; si[horn]; sa[equal]
+#etcsl: line-id=12
+
+13. {d}suen#-[e] šibir# nam-en-na#-zu šu im-mi-du₇
+#lem: Suen[1]DN; šibir[shepherd's staff]; namen[the office of en-priest]; šu[hand]; du[perfect]
+#etcsl: line-id=13
+
+14. {ŋiš}ŋidru mah kur-kur-ra pa e₃ uŋ₃-e im-mi-lah₆
+#lem: ŋidru[scepter]; mah[great]; kur[mountain(s)]; pa[branch]; e[leave]; uŋ[people]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=14
+
+15. {d}lamma-zu e₂-kiš-nu-ŋal₂-la a₂ gal ha-ra-an-X-a
+#lem: lammar[(female) tutelary deity]; Ekišnuŋal[1]TN; a[arm]; gal[big]; X
+#etcsl: line-id=15
+
+16. {d}nin-a-zu urim₂{ki}-ma tud-da {d}nanna he₂-e-[da-hul₂]
+#lem: Ninazu[1]DN; Urim[1]SN; utud[give birth (to)]; Nanna[1]DN; hul[rejoice]
+#etcsl: line-id=16
+
+17. en {d}nin-a-zu urim₂{ki}-ma tud-da {d}nanna he₂-e-da-hul₂
+#lem: en[lord]; Ninazu[1]DN; Urim[1]SN; utud[give birth (to)]; Nanna[1]DN; hul[rejoice]
+#etcsl: line-id=17
+
+18. a-a ugu-zu kur gal {d}en-lil₂-le mu-zu pa bi₂-in-e₃
+#lem: aya[father]; ugu[bear]; kur[mountain(s)]; gal[big]; Enlil[1]DN; mu[name]; pa[branch]; e[leave]
+#etcsl: line-id=18
+
+19. ama ugu-zu nin mah ki-ur₃-ra nam-zu mu-[ra-ni-tar]
+#lem: ama[mother]; ugu[bear]; nin[lady]; mah[great]; Kiʾur[1]; nam[fate]; tar[cut]
+#etcsl: line-id=19
+
+20. e₂-zu iri-zu kur [ki] sikil-ta ki-[tuš-bi] hu-mu-un-ŋa₂-[ŋa₂]
+#lem: e[house]; iri[city]; kur[mountain(s)]; ki[place]; sikil[pure]; kituš[dwelling place]; ŋar[put]
+#etcsl: line-id=20
+
+21. enegir{ki} iri-zu# kur ki sikil-ta [ki-tuš-bi] hu-mu-un-ŋa₂#-[ŋa₂]
+#lem: Enegir[1]SN; iri[city]; kur[mountain(s)]; ki[place]; sikil[pure]; kituš[dwelling place]; ŋar[put]
+#etcsl: line-id=21
+
+22. en {d}nin-a-zu-ŋu₁₀ ki-tuš-bi hu-mu-[un]-ŋa₂-[ŋa₂] ki-tuš-bi hu-mu-un-ŋa₂-ŋa₂
+#lem: en[lord]; Ninazu[1]DN; kituš[dwelling place]; ŋar[put]; kituš[dwelling place]; ŋar[put]
+#etcsl: line-id=22
+
+23. aga kug-sig₁₇ saŋ-za ma-ra-ni-in-gen₆ šu zid ma-ra-ni-in-du₇
+#lem: aga[tiara]; kugsig[gold]; saŋ[head]; gin[confirm]; šu[hand]; zid[right]; du[perfect]
+#etcsl: line-id=23
+
+24. dumu nir-ŋal₂ a-a ugu-na-ke₄ šag₄ ki aŋ₂-ŋa₂ bi₂-X
+#lem: dumu[child]; nirŋal[authoritative]; aya[father]; ugu[bear]; šag[heart]; ki[place]; aŋ[measure]; X
+#etcsl: line-id=24
+
+25. [...]-ni# igi saŋ-ŋa₂ mu-ši-in-bar
+#lem: X; igi[eye]; saŋ[choose]; bar[place outside]
+#etcsl: line-id=25
+
+26. [an]-ne₂# nam dug₃ mu-ri-in-tar
+#lem: An[1]DN; nam[fate]; dug[good]; tar[cut]
+#etcsl: line-id=26
+
+27. [dumu] {[d]}en-[lil₂] lugal kur-kur-ra-ka me-lem₄-zu he₂-e₃
+#lem: dumu[child]; Enlil[1]DN; lugal[king]; kur[mountain(s)]; melim[frightening splendor]; e[leave]
+#etcsl: line-id=27
+
+28. [en] {[d]}[nin]-a-zu-ŋu₁₀ me-lem₄-zu he₂-e₃ me-lem₄-zu he₂-e₃
+#lem: en[lord]; Ninazu[1]DN; melim[frightening splendor]; e[leave]; melim[frightening splendor]; e[leave]
+#etcsl: line-id=28
+
+29. nitalam#-zu ki-sikil munus sag₉-ga nin {d}nin-girid₂-da
+#lem: ŋidlam[(equal ranking) spouse]; kisikil[young woman]; munus[woman]; sag[good]; nin[lady]; Ningirida[1]DN
+#etcsl: line-id=29
+
+30. e₂-zu iri-zu hu-mu-ra-ab-be₂ šita-še₃ ša-ra-da-gub
+#lem: e[house]; iri[city]; e[speak]; šita[prayer]; gub[stand]
+#etcsl: line-id=30
+
+31. [diŋir] kalam#-ma en {d}nin-a-zu-ŋu₁₀
+#lem: diŋir[deity]; kalam[the Land (of Sumer)]; en[lord]; Ninazu[1]DN
+#etcsl: line-id=31
+
+@div trailer 
+
+32. bal#-bal-e {d}nin-a-zu-kam
+#lem: balbale[literary subscript]; Ninazu[1]DN
+#etcsl: line-id=32
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-6) O king, you are the …… shepherd of the city which thrives like cattle! @wDN{Ninazu}, you are the …… shepherd of the city which thrives like cattle! My lord @wDN{Ninazu}, you are the …… shepherd of the city which thrives like cattle! You are the reed-worker of the ……, …… like a shining mat! You are the herdsman of them that dwell like sheep in a sheepfold, you who exude the allure of the high hills, Lord @wDN{Ninazu}!
+
+@(7 = 7-15) Lord @wDN{Ninazu}, may @wDN{Nanna} rejoice over you that the earth was created. Powerful and of great intelligence, you were engendered by @wDN{Nanna}. May @wDN{Ašimbabbar} make the shining branches of your sceptre radiant in your grasp. He has strengthened the foundations of the throne which @wDN{An} gave you. May he make the way straight for you as far as the ends of heaven and earth, may he make it as straight for you as the sunlight. My lord @wDN{Ninazu}, may he make it as straight for you as the sunlight, may he make it as straight for you as the sunlight. @wDN{Suen} has perfected your lordly staff, the lofty sceptre which shines over all the foreign countries, and guides the people. Your protective goddess has …… great power for you in @wTN{E-kiš-nu-ŋal}.
+
+@(16 = 16-22) @wDN{Ninazu}, born in @wSN{Urim}, may @wDN{Nanna} rejoice over you. Lord @wDN{Ninazu}, born in @wSN{Urim}, may @wDN{Nanna} rejoice over you. The father who engendered you, the Great Mountain @wDN{Enlil}, has made your name glorious. Your own mother, the august lady, has decided your destiny in the @wTN{Ki-ur}. May you take your seat in your house, in your city -- the mountain, the pure place! May you take your seat in @wSN{Enegir}, in your city -- the mountain, the pure place! My lord @wDN{Ninazu}, may you take your seat there, may you take your seat there!
+
+@(23 = 23-31) He has fixed the golden headdress on your head, making you truly perfect with it. He has …… the lordly son of his own father, the beloved of his heart. He has looked with best favour on ……. @wDN{An} has determined a good destiny for you. Son of @wDN{Enlil} king of the lands, may your splendour shine forth! My lord @wDN{Ninazu}, may your splendour shine forth, may your splendour shine forth! May your wife, the maiden, the good woman, Lady @wDN{Ningirida}, say to you: @q[Ningirida,Ninazu]{“Your house, your city!”} as she steps before you in prayer, god of the Land, my lord @wDN{Ninazu}!
+
+#trailer subscript	balbale
+
+
+@(32 = 32) A @fsux{balbale} of @wDN{Ninazu}.
+
+
+

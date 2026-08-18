@@ -1,0 +1,214 @@
+&Q000467 = An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.17
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.17&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div sa-gida A
+
+$ (unknown no. of lines missing)
+A.A.1. [...] X KI X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.A.1
+
+A.A.2. {d}a-nun-na diŋir gal-gal-e-ne# [...]
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; X
+#etcsl: line-id=A.A.2
+
+A.A.3. e₂#-gal kug ki-tuš IM X GID₂ mu-X [...] X
+#lem: egal[palace]; kug[purify]; kituš[dwelling place]; X; X; X; X; X; X
+#etcsl: line-id=A.A.3
+
+A.A.4. nam-sukkal-mah-a-ni mu-ra-an-šum₂ en {d}<nu>-nam-[nir-re]
+#lem: namsukkalmah[office of sukkalmah]; šum[give]; en[lord]; Nunamnir[1]DN
+#etcsl: line-id=A.A.4
+
+A.A.5. ŋidru kug šu-za ma-ra-ni-in-ge-en mu-zu dalla bi₂-in-e₃
+#lem: ŋidru[scepter]; kug[purify]; šu[hand]; gin[confirm]; mu[name]; dalla[(to be) bright]; e[leave]
+#etcsl: line-id=A.A.5
+
+A.A.6. ŋiš-hur e₂-kur-ra šu du₇-du₇ niŋ₂ galam-galam-ma-bi
+#lem: ŋešhur[plan]; Ekur[1]TN; šu[hand]; du[perfect]; niŋ[thing]; galam[skilful]
+#etcsl: line-id=A.A.6
+
+A.A.7. šu-luh ŋarza mah-bi us₂ zid dab₅-be₂ kug-ge sikil-e-bi
+#lem: šuluh[ritual cleansing]; ŋarza[rites]; mah[great]; us[path]; zid[right]; dab[seize]; kug[pure]; sikil[pure]
+#etcsl: line-id=A.A.7
+
+A.A.8. me lu-lu-a me dirig-ga-bi pa e₃ mah ak-bi
+#lem: me[Being]; lu[abundant]; me[Being]; dirig[make more than]; pa[branch]; e[leave]; mah[great]; ak[do]
+#etcsl: line-id=A.A.8
+
+A.A.9. šu ši-bi₂-du₇-du₇ dug₄-ga nam-gal-la ud til₃-la-še₃ za-a-am₃
+#lem: šu[hand]; du[perfect]; dug[speak]; namgal[greatness]; ud[sun]; til[live (of a single person)]; zaʾe[you]
+#etcsl: line-id=A.A.9
+
+A.A.10. {d}nuska nun na degₓ(RI) e₂-kur-ra za-e ši-bi₂-in-ga-me-en-nam
+#lem: Nuska[1]DN; nun[prince]; na[cvne]; deg[gather up]; Ekur[1]TN; zaʾe[you]; me[be]
+#etcsl: line-id=A.A.10
+
+A.A.11. an ki šu₂-a kur niŋin₂#-na-ba dili-zu i₃-mah-me-en
+#lem: an[sky]; ki[place]; šuš[cover]; kur[mountain(s)]; niŋin[encircle]; dili[single]; mah[great]
+#etcsl: line-id=A.A.11
+
+A.A.12. ub-šu-unken-na ki di gal ku₅-ru a₂ aŋ₂-ŋa₂ gal-gal-la-še₃
+#lem: Ubšuʾunkenak[1]TN; ki[place]; did[lawsuit]; gal[big]; kud[break off]; a[arm]; aŋ[measure]; gal[big]
+#etcsl: line-id=A.A.12
+
+A.A.13. {d}a-nun-na diŋir ki a-na me-a gu₂ ma-ra-si-si-de₃-eš
+#lem: Anunak[1]DN; diŋir[deity]; ki[place]; ana[what?]; me[be]; gu[neck]; si[fill]
+#etcsl: line-id=A.A.13
+
+A.A.14. eš-bar dug₄-ga u₁₈-ru {d}en-lil₂-la₂ za-e šu# mu-ne-ri-ib-X-en
+#lem: ešbar[decision]; dug[speak]; urun[exalted]; Enlil[1]DN; zaʾe[you]; šu[hand]; X
+#etcsl: line-id=A.A.14
+
+A.A.15. inim kug an-gin₇ šu nu-teŋ₃-ŋe₂₆-zu-še₃ igi-bi šu-mu-e-ši-ŋal₂
+#lem: inim[word]; kug[purify]; an[sky]; šu[hand]; teŋ[approach]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.A.15
+
+A.A.16. [...] mah ni₂ guru₃ ki us₂-a-bi nam-bi igi-bi ib-zu-zu-un
+#lem: X; mah[great]; ni[fear]; gur[lift]; ki[place]; us[accompany]; nam[fate]; igi[eye]; zu[know]
+#etcsl: line-id=A.A.16
+
+@div trailer 
+
+A.A.17. [sa]-gid₂#-da-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=A.A.17
+
+@end trailer
+
+@end sa-gida
+
+@div unknown B
+
+A.B.18. [X X] {[d]}iš-me-{d}da-gan-na# ki X [...]
+#lem: X; X; Išmedagan[1]RN; ki[place]; X; X
+#etcsl: line-id=A.B.18
+
+A.B.19. [...] he₂-a AŠ aŋ₂ [...]
+#lem: X; me[be]; X; aŋ[measure]; X
+#etcsl: line-id=A.B.19
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+B.B.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.B.1
+
+B.B.2. [...] X [...] me he₂-na-X [...]
+#lem: X; X; X; me[Being]; X; X
+#etcsl: line-id=B.B.2
+
+$ 2 lines missing
+B.B.5. en gal X {[d]}nuska# saŋ en₃# [tar] diŋir gal-gal-e!-ne#
+#lem: en[lord]; gal[big]; X; Nuska[1]DN; saŋ[head]; en[cvne]; tar[cut]; diŋir[deity]; gal[big]
+#etcsl: line-id=B.B.5
+
+B.B.6. {d}nuska! nun nir-ŋal₂ e₂-kur#-[ra] saŋ en₃ tar X X
+#lem: Nuska[1]DN; nun[prince]; nirŋal[authoritative]; Ekur[1]TN; saŋ[head]; en[cvne]; tar[cut]; X; X
+#etcsl: line-id=B.B.6
+
+B.B.7. šul a₂ aŋ₂-e gal-zu eš-bar X X
+#lem: šul[youth]; a[arm]; aŋ[measure]; galanzu[wise]; ešbar[decision]; X; X
+#etcsl: line-id=B.B.7
+
+B.B.8. diŋir# zid X [...] X ki aŋ₂ [...] šudu₃! ŋiš tuku
+#lem: diŋir[deity]; zid[right]; X; X; X; ki[place]; aŋ[measure]; X; šud[prayer]; ŋeš[tree]; tuku[acquire]
+#etcsl: line-id=B.B.8
+
+B.B.9. ud e₂-kur za-gin₃ eš₃ me i-i ezen-gin₇ du₃!-a-ba
+#lem: ud[sun]; Ekur[1]TN; zagin[lapis lazuli]; eš[shrine]; me[Being]; e[bring out]; ezem[festival]; du[build]
+#etcsl: line-id=B.B.9
+
+B.B.10. {d}en-lil₂ {d}nin-lil₂-bi hi!-li-a mu-un-dur₂-ru-ne-eš-a-ba
+#lem: Enlil[1]DN; Ninlil[1]DN; hili[attractiveness]; durun[sit]
+#etcsl: line-id=B.B.10
+
+B.B.11. inim sag₉-ga {d}iš-me-{d}da-gan-na ka kug-zu he₂-em-tum₃
+#lem: inim[word]; sag[good]; Išmedagan[1]RN; kag[mouth]; kug[pure]; tum[bring]
+#etcsl: line-id=B.B.11
+
+B.B.12. i₃-ne-dug₄ ud šu₂-še₃ e-ne-ne-er su₃-ra₂-še₃ hu-mu-ne-dug₃
+#lem: dug[speak]; ud[sun]; šuš[cover]; anene[they]; sud[distant]; dug[good]
+#etcsl: line-id=B.B.12
+
+B.B.13. ud e₂ {d}en-lil₂-la₂ eš₃ me i-i ezen-gin₇ du₃-a-ba
+#lem: ud[sun]; e[house]; Enlil[1]DN; eš[shrine]; me[Being]; e[bring out]; ezem[festival]; du[build]
+#etcsl: line-id=B.B.13
+
+B.B.14. {d}en-lil₂ {d}nin-lil₂-bi hi-li-a mu-un-dur₂-ru-ne-eš-a-ba
+#lem: Enlil[1]DN; Ninlil[1]DN; hili[attractiveness]; durun[sit]
+#etcsl: line-id=B.B.14
+
+B.B.15. inim sag₉-ga {d}iš-me-{d}da-gan-na ka kug-zu he₂-em-tum₃
+#lem: inim[word]; sag[good]; Išmedagan[1]RN; kag[mouth]; kug[pure]; tum[bring]
+#etcsl: line-id=B.B.15
+
+B.B.16. i₃-ne-dug₄ ud šu₂-še₃ e-ne-ne-er su₃-ra₂-še₃ hu-mu-ne-dug₃
+#lem: dug[speak]; ud[sun]; šuš[cover]; anene[they]; sud[distant]; dug[good]
+#etcsl: line-id=B.B.16
+
+B.B.17. šudu₃ a-ra-zu-a šu mu₂-mu₂-da-ni igi dug₃ hu-mu-ni-du₈-uš
+#lem: šud[prayer]; arazu[supplication]; šu[hand]; mu[grow]; igi[eye]; dug[good]; du[spread]
+#etcsl: line-id=B.B.17
+
+B.B.18. til₃ niŋ₂ dug₃ bal dug₃ mu giri₁₇-zal-la za-e e₃-mu-na-ra-ab
+#lem: til[live (of a single person)]; niŋ[thing]; dug[good]; bala[turn]; dug[good]; mu[year]; kirizal[joy]; zaʾe[you]; e[leave]
+#etcsl: line-id=B.B.18
+
+B.B.19. en-en gal-gal sig nim-ma-ke₄-ne nun il₂-bi he₂-a
+#lem: en[lord]; gal[big]; sig[weak]; nim[high]; nun[prince]; il[raise]; me[be]
+#etcsl: line-id=B.B.19
+
+B.B.20. nam-nun zi-ŋal₂-la# kur-kur uŋ₃ lu-a ul-še₃ he₂-ak-e
+#lem: namnun[magnificence]; ziŋal[living things]; kur[mountain(s)]; uŋ[people]; lu[abundant]; ul[distant time]; ak[do]
+#etcsl: line-id=B.B.20
+
+B.B.21. {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ka igi dug₃ hu-mu-ni-du₈-uš
+#lem: Išmedagan[1]RN; dumu[child]; Enlil[1]DN; igi[eye]; dug[good]; du[spread]
+#etcsl: line-id=B.B.21
+
+B.B.22. til₃ niŋ₂ dug₃ bal dug₃ mu giri₁₇-zal-la za-e e₃-mu-na-ra-ab
+#lem: til[live (of a single person)]; niŋ[thing]; dug[good]; bala[turn]; dug[good]; mu[year]; kirizal[joy]; zaʾe[you]; e[leave]
+#etcsl: line-id=B.B.22
+
+B.B.23. en-en gal-gal sig nim-ma-ke₄-ne nun il₂-bi he₂-a
+#lem: en[lord]; gal[big]; sig[weak]; nim[high]; nun[prince]; il[raise]; me[be]
+#etcsl: line-id=B.B.23
+
+B.B.24. [nam-nun] zi#-ŋal₂-la kur-kur uŋ₃ lu-a ul-še₃ he₂-ak-e
+#lem: namnun[magnificence]; ziŋal[living things]; kur[mountain(s)]; uŋ[people]; lu[abundant]; ul[distant time]; ak[do]
+#etcsl: line-id=B.B.24
+
+B.B.25. [...] AN {d}nuska
+#lem: X; X; Nuska[1]DN
+#etcsl: line-id=B.B.25
+
+B.B.26. [...] X-a-ni he₂-me-en UD X [...]
+#lem: X; X; me[be]; X; X; X
+#etcsl: line-id=B.B.26
+
+B.B.27. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.B.27
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

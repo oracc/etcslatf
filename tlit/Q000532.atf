@@ -1,0 +1,90 @@
+&Q000532 = A hymn to Marduk for Abī-Ešuḫ (Abī-Ešuḫ A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.5.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.5.1&display=Crit&charenc=gcirc#
+
+@div kirugu A
+
+A.1. lugal me an ki-bi-da-ke₄ ab-ur₄-ra dumu saŋ-kal {d}en-ki-ke₄
+#lem: lugal[king]; me[Being]; an[sky]; ki[place]; ur[gather]; dumu[child]; saŋkal[foremost]; Enkik[1]DN
+#etcsl: line-id=A.1
+
+A.2. {d}marduk en er₉-ra ur-saŋ šag₄ 1(AŠ)-ša₄ palil {d}nun-gal-e-ne
+#lem: Marduk[1]DN; en[lord]; ir[mighty]; ursaŋ[warrior]; šag[heart]; n; palil[first and foremost]; Nungal[1]DN
+#etcsl: line-id=A.2
+
+A.3. a₂-ŋal₂ {d}a-nun-na-ke₄-ne diŋir gal-gal-e-ne gen₆ eš-bar ab-šum₂-šum₂-mu-a
+#lem: aŋal[strong]; Anunak[1]DN; diŋir[deity]; gal[big]; gin[confirm]; ešbar[decision]; šum[give]
+#etcsl: line-id=A.3
+
+A.4. nun gal šag₄-bal-bal an kug-ga-ke₄ en nam tar-tar dab-ba niŋ₂-nam-ma
+#lem: nun[prince]; gal[big]; šabalbal[descendent]; An[1]DN; kug[pure]; en[lord]; nam[fate]; tar[cut]; dab[seize]; niŋnam[anything]
+#etcsl: line-id=A.4
+
+A.5. gal-an-zu šag₄-zu mah nam-diŋir-bi pa e₃-a saŋ en₃ tar igi im-bar-ra-ke₄
+#lem: galanzu[wise]; šag[heart]; mah[great]; namdiŋir[divinity]; pa[branch]; e[leave]; saŋ[head]; en[cvne]; tar[cut]; igi[eye]; bar[place outside]
+#etcsl: line-id=A.5
+
+A.6. pa-bil₂-ga-zu an lugal diŋir-re-e-ne-ke₄ nam-en-zu an ki um-ma-na-bi ib₂-ta-an-ŋal₂
+#lem: pabilga[kinship term]; An[1]DN; lugal[king]; diŋir[deity]; namen[the office of en-priest]; an[sky]; ki[place]; ummana[army]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.6
+
+A.7. a₂ aŋ₂-ŋa₂ gal mah an ki-bi-da-ke₄ saŋ keše₂-da#-bi [ma]-ra-an-šum₂ šibir kur-kur-ra gamₓ(GURUN)-ma šu he₂-em-mi-la₂-am₃#
+#lem: a[arm]; aŋ[measure]; gal[big]; mah[great]; an[sky]; ki[place]; saŋ[head]; kešed[bind]; šum[give]; šibir[shepherd's staff]; kur[mountain(s)]; gurum[bend]; šu[hand]; la[hang]
+#etcsl: line-id=A.7
+
+A.8. diŋir gal-gal-e-ne ib₂-dirig-ga ŋidru lugal ŋarza diŋir-re-e-ne si sa₂-sa₂-eš-a mu-ra-an-tah
+#lem: diŋir[deity]; gal[big]; dirig[make more than]; ŋidru[scepter]; lugal[king]; ŋarza[rites]; diŋir[deity]; si[horn]; sa[equal]; tah[add]
+#etcsl: line-id=A.8
+
+A.9. {d}en-lil₂-le nam-lugal kiš! an ki-bi-da-ke₄ nam-še₃ mu-ni-in-tar zag ša₄ la-ba-an-tuku
+#lem: Enlil[1]DN; namlugal[kingship]; kiš[totality]; an[sky]; ki[place]; nam[fate]; tar[cut]; zag[side]; sa[equal]; tuku[acquire]
+#etcsl: line-id=A.9
+
+A.10. {d}a-nun-na-ke₄-ne mi-ri-ib₂-gu-ul nam-mu-ru₆-na ak-de₃ mu-ra-an-šum₂
+#lem: Anunak[1]DN; gal[big]; namurun[exaltedness]; ak[do]; šum[give]
+#etcsl: line-id=A.10
+
+@div trailer 
+
+A.11. ki-ru-gu₂ 1-a-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.11
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal B
+
+B.12. {d}marduk nun a-bi-e₂-šu-uh dumu ki aŋ₂ šag₄-zu-ke₄ nam-en-bi {d}utu-gin₇ an ub-ta pa e₃ ha-ba-ak-eš zag ša₄ nu-un-tuku-tuku
+#lem: Marduk[1]DN; nun[prince]; Abiešuh[1]RN; dumu[child]; ki[place]; aŋ[measure]; šag[heart]; namen[the office of en-priest]; Utu[1]DN; an[sky]; ub[corner]; pa[branch]; e[leave]; ak[do]; zag[side]; sa[equal]; tuku[acquire]
+#etcsl: line-id=B.12
+
+@div trailer 
+
+B.13. ŋiš-gi-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.13
+
+@end trailer
+
+@end jicgijal
+
+@div unknown C
+
+C.14. ur-saŋ nam-kalag-ga du₈ mah# sug₄#-ga nam-en-bi an ki-bi-da ši-ib₂-gu-lu {d}marduk <nam-kalag-ga du₈ mah sug₄-ga nam-en-bi an ki-bi-da ši-ib₂-gu-lu>
+#lem: ursaŋ[warrior]; namkalag[strength]; du[throne platform for a deity]; mah[great]; sug[full]; namen[the office of en-priest]; an[sky]; ki[place]; gal[big]; Marduk[1]DN; namkalag[strength]; du[throne platform for a deity]; mah[great]; sug[full]; namen[the office of en-priest]; an[sky]; ki[place]; gal[big]
+#etcsl: line-id=C.14
+
+@end unknown
+
+
+
+
+
+
+

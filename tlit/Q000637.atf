@@ -1,0 +1,182 @@
+&Q000637 = A balbale to Inana (Dumuzid-Inana F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.06
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.06&display=Crit&charenc=gcirc#
+
+1. %e ga-ša-an-ŋen %s gi-rin-e u₆ ga-e-da-dug₄
+#lem: gašan[lady]N; girim[flower]; u[admiration]; dug[speak]
+#etcsl: line-id=1
+
+2. %e ga#-[ša]-an#-[an]-na#-ŋen %s gi-rin hal-hal-la %e i-bi₂-ŋu₁₀ de₃-ma#-al#
+#lem: Gašanana[]DN; girim[flower]; hal[divide]; ibi[eye]N; mal[be]V/i
+#etcsl: line-id=2
+
+3. inim %e mu#-[un]-gar₃#-ra-bi su₈-ba-bi
+#lem: inim[word]; mungar[farmer]N; subad[shepherd]N
+#etcsl: line-id=3
+
+4. %e mu-ud-na-ŋu₁₀# %s X [...] X [mi₂ %e de₃]-ma#-ab-dug₄
+#lem: mudna[spouse]N; X; X; X; mi[cvne]; dug[speak]
+#etcsl: line-id=4
+
+5. %e ga-ša-an-ŋen %s gi-rin-e %e da-nu₂
+#lem: gašan[lady]N; girim[flower]; nud[lie]
+#etcsl: line-id=5
+
+6. %e ga-ša-an-an-na-ŋen %s gi-rin-e kaš₄ %e da-mu-ni-dug₄-dug₄
+#lem: Gašanana[]DN; girim[flower]; kaš[run]; dug[speak]
+#etcsl: line-id=6
+
+7. [X X] MI#-NE-še₃ %e de₃-eŋ₃-ŋa₂-sug₂-ge-eš
+#lem: X; X; X; sug[stand]
+#etcsl: line-id=7
+
+8. [X X] DA# {d}ama-ušumgal-an-na X X [gaba  %e  da]-mu-da-ri  %s 
+#lem: X; X; X; Amaʾušumgalanak[1]DN; X; X; gaba[breast]; ri[impose]
+#etcsl: line-id=8
+
+9. [...] X X X X a %e da-an-su₃
+#lem: X; X; X; X; X; a[water]; su[sprinkle]
+#etcsl: line-id=9
+
+10. [... a  %e  da]-mul-mul#  %s  meš₃-ŋu₁₀ pa  %e  da-e₃  %s 
+#lem: X; a[water]; mul[shine]; mes[tree]; pa[branch]; e[leave]
+#etcsl: line-id=10
+
+11. [e₂]  %e  {[d]}[mu]-ul#-lil₂-la₂-ke₄  %s  a %e da-aŋ₂-su₃
+#lem: e[house]; Mullil[1]DN; a[water]; su[sprinkle]
+#etcsl: line-id=11
+
+12. [X X] X a  %e  da-mul-mul  %s  meš₃-ŋu₁₀ pa  %e  da-an-e₃  %s 
+#lem: X; X; X; a[water]; mul[shine]; mes[tree]; pa[branch]; e[leave]
+#etcsl: line-id=12
+
+13. [X X e₂]-kur-ra a %e da-aŋ₂-su₃
+#lem: X; X; Ekur[1]TN; a[water]; su[sprinkle]
+#etcsl: line-id=13
+
+14. X lugal#-ŋu₁₀ {ŋiš}meš₃-gin₇ kisal-la bi₂-in-mu₂-mu₂
+#lem: X; lugal[king]; mes[tree]; kisal[courtyard]; mu[grow]
+#etcsl: line-id=14
+
+15. [e₂]  %e  {[d]}mu#-ul-lil₂-la₂-ke₄  %s  a bi₂-in-su₃
+#lem: e[house]; Mullil[1]DN; a[water]; su[sprinkle]
+#etcsl: line-id=15
+
+16. lugal# {d}ama-ušumgal-an-na {ŋiš}meš₃-gin₇ kisal-la bi₂-in-mu₂-mu₂
+#lem: lugal[king]; Amaʾušumgalanak[1]DN; mes[tree]; kisal[courtyard]; mu[grow]
+#etcsl: line-id=16
+
+17. %e u₃#-mu-un-ra %s e₂-kur-re mu-da-ab-du₇
+#lem: umun[lord]N; Ekur[1]TN; du[perfect]
+#etcsl: line-id=17
+
+18. e₂-gal hul₂-la me-te-ŋal₂ me-[en-de₃-en]
+#lem: egal[palace]; hul[rejoice]; meteŋal[seemly]; menden[we]
+#etcsl: line-id=18
+
+19. e₂#  %e  {d}mu-ul-lil₂-la₂-ke₄  %s  [...]
+#lem: e[house]; Mullil[1]DN; X
+#etcsl: line-id=19
+
+20. [e₂]  %e  {[d]}[mu]-ul#-lil₂-la₂-ke₄  %s  [...]
+#lem: e[house]; Mullil[1]DN; X
+#etcsl: line-id=20
+
+21. [...] e₂-kur-re [...]
+#lem: X; Ekur[1]TN; X
+#etcsl: line-id=21
+
+$ (approx. 3 lines missing)
+25. X [lugal]-ŋu₁₀# {ŋiš}meš₃ zid-de₃-[eš ...]
+#lem: X; lugal[king]; mes[tree]; zid[right]; X
+#etcsl: line-id=25
+
+26. [X X gi]-rin-na hi-li du₈-du₈ a-a ama#-na#
+#lem: X; X; girim[flower]; hili[attractiveness]; du[spread]; aya[father]; ama[mother]
+#etcsl: line-id=26
+
+27. [...]-na-ŋu₁₀ ba-an-tud-da X [...]
+#lem: X; utud[give birth (to)]; X; X
+#etcsl: line-id=27
+
+28. [...] X abzu-ta %e na-aŋ₂ ze₂-eb da-aŋ₂#-[tar]
+#lem: X; X; abzu[(cosmic) underground water]; naŋ[fate]N; zeb[good]V/i; tar[cut]
+#etcsl: line-id=28
+
+29. [...] a zid-da numun zid-da
+#lem: X; a[water]; zid[right]; numun[seed]; zid[right]
+#etcsl: line-id=29
+
+30. [...] X šeg₁₂ abzu-ta u₃-mu-un-da-ši-e₃
+#lem: X; X; šeg[brick]; abzu[(cosmic) underground water]; e[leave]
+#etcsl: line-id=30
+
+31. [...] {ŋiš}meš₃-gin₇ pa  %e  da-an-e₃  %s 
+#lem: X; mes[tree]; pa[branch]; e[leave]
+#etcsl: line-id=31
+
+32. [...] {[d]}ama-ušumgal-an-na an-ne₂ he₂-a-u₃-tud
+#lem: X; Amaʾušumgalanak[1]DN; An[1]DN; utud[give birth (to)]
+#etcsl: line-id=32
+
+33. [...] X E šu ša-mu-da-dug₄
+#lem: X; X; X; šu[hand]; dug[speak]
+#etcsl: line-id=33
+
+34. [...] gi-rin-na-gin₇ hi-li-zu dug₃-ga-am₃
+#lem: X; girim[flower]; hili[attractiveness]; dug[good]
+#etcsl: line-id=34
+
+35. [...] X mi₂ ga-mu-ra-ni-ib-dug₄
+#lem: X; X; mi[cvne]; dug[speak]
+#etcsl: line-id=35
+
+36. {[d]}[ama-ušumgal]-an-na {ŋiš}meš₃ ne-en pa %e  %e  da-an-e₃  %s 
+#lem: Amaʾušumgalanak[1]DN; mes[tree]; nen[this]; pa[branch]; e[leave]
+#etcsl: line-id=36
+
+37. [...] EN# KID balaŋ er₂  %e  da-mu-ra-de₆  %s 
+#lem: X; X; X; balaŋ[an instrument]; er[tears]; de[carry]
+#etcsl: line-id=37
+
+38. [X X] {[ŋiš]}tir ha-šu-ur₂-ra-gin₇ zag-ŋu₁₀ %e %e du₅-mu-ri-ib-us₂
+#lem: X; X; tir[forest]; hašur[tree]; zag[side]; us[follow]
+#etcsl: line-id=38
+
+39. [X X] X e₂-kur-re hu-mu-un-ši-hul₂-e
+#lem: X; X; X; Ekur[1]TN; hul[rejoice]
+#etcsl: line-id=39
+
+40. KA#-ŋu₁₀# X lu₂ %e ša₃#-ab#-[ŋa₂ %s ...] %e de₃-ŋa₂-ra-sug₂-sug₂-ge-eš
+#lem: X; X; lu[person]; šab[heart]N; X; sug[stand]
+#etcsl: line-id=40
+
+41. %e na-aŋ₂-zu-še₃ %s e₂-kur-re dur₂# %e de₃#-X X
+#lem: naŋ[fate]N; Ekur[1]TN; dur[buttocks]; X; X
+#etcsl: line-id=41
+
+42. e₂-kur-re e₂  %e  {d}mu-ul-lil₂-la₂-ke₄  %s  a-ra-zu-zu ga-gub#
+#lem: Ekur[1]TN; e[house]; Mullil[1]DN; arazu[supplication]; gub[stand]
+#etcsl: line-id=42
+
+43. an-ne₂ ki# mah-a-na %e ma-an-ze₂-eŋ₃-ŋen
+#lem: An[1]DN; ki[place]; mah[great]; zeŋ[give]V/t
+#etcsl: line-id=43
+
+44. %e u₃-mu-un %s kur# gal %e {d}mu-ul-lil₂ %s gaba ŊA₂ X X X
+#lem: umun[lord]N; kur[mountain(s)]; gal[big]; Mullil[]DN; gaba[breast]; X; X; X; X
+#etcsl: line-id=44
+
+@div trailer 
+
+45. bal-bal-e {d}inana-kam
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=45
+
+@end trailer
+
+

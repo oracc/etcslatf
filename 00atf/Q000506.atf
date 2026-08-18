@@ -1,0 +1,361 @@
+&Q000506 = Sîn-iddinam and Iškur (Sîn-iddinam E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.6.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.6.5&display=Crit&charenc=gcirc#
+
+1. {d}iškur en ud piriŋ# [...] ud gal an# ki
+#lem: Iškur[1]DN; en[lord]; ud[storm]; piriŋ[lion]; X; ud[storm]; gal[big]; an[sky]; ki[place]
+#etcsl: line-id=1
+
+2. nam-mah-a-ni-še₃ nir-ŋal₂
+#lem: nammah[greatness]; nirŋal[authoritative]
+#etcsl: line-id=2
+
+3. saŋ-kal ka-mud-ŋal₂ dumu an-na#
+#lem: saŋkal[foremost]; kamudŋal[advocate]; dumu[child]; An[1]DN
+#etcsl: line-id=3
+
+4. saŋ er₉-ra gu₂ e₃-a
+#lem: saŋ[head]; ir[mighty]; gu[neck]; e[leave]
+#etcsl: line-id=4
+
+5. en saŋ huš ud gal-la# X-bi#-a gaba-šu#-ŋar nu-tuku
+#lem: en[lord]; saŋ[head]; huš[reddish]; ud[storm]; gal[big]; X; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=5
+
+6. dungu sir₂-re
+#lem: dungu[cloud]; sir[dense]
+#etcsl: line-id=6
+
+7. mir-a kaš₄-kaš₄ X-da-ni
+#lem: mir[north wind]; kaš[run]; X
+#etcsl: line-id=7
+
+8. ki mu-un-da-tuku₄-e
+#lem: ki[place]; tuku[rock]
+#etcsl: line-id=8
+
+9. an daŋal-la tum₉ mah gu₃ ru-ru-gu₂
+#lem: an[sky]; daŋal[wide]; tumu[wind]; mah[great]; gu[voice]; rugu[withstand]
+#etcsl: line-id=9
+
+10. [za-pa]-aŋ₂-bi he₂-ŋal₂-am₃#
+#lem: zipaŋ[voice]; heŋal[plenty]
+#etcsl: line-id=10
+
+11. šeg₁₀# gi₄-ni-še₃ kalam hur-saŋ gal-gal
+#lem: šeg[voice]; gi[turn]; kalam[the Land (of Sumer)]; hursaŋ[mountain]; gal[big]
+#etcsl: line-id=11
+
+12. ni₂-bi ba-an-da-ab-gi₄
+#lem: ni[fear]; gi[turn]
+#etcsl: line-id=12
+
+13. ur-saŋ gal šibir-ta šu dab₅-e
+#lem: ursaŋ[warrior]; gal[big]; šibir[shepherd's staff]; šu[hand]; dab[seize]
+#etcsl: line-id=13
+
+14. nam-nir-ra zag keše₂
+#lem: namnir[supremacy]; zag[side]; kešed[bind]
+#etcsl: line-id=14
+
+15. a-ab mur ša₄-ni
+#lem: aʾabak[sea]; mur[noise]; ša[cvve]
+#etcsl: line-id=15
+
+16. me-<lem₄> kalam-ma dul-la-še₃
+#lem: melim[frightening splendor]; kalam[the Land (of Sumer)]; dul[cover]
+#etcsl: line-id=16
+
+17. na₄ gal-gal# BAD₃ šeŋₓ(|IM.A|) gilim
+#lem: na[stone weight]; gal[big]; X; šeŋ[rain]; gilim[cross]
+#etcsl: line-id=17
+
+18. X X-ba mu-un-na-gub-be₂-eš
+#lem: X; X; gub[stand]
+#etcsl: line-id=18
+
+$ 2 lines missing
+21. gi#-gin₇# X X X
+#lem: gi[reed]; X; X; X
+#etcsl: line-id=21
+
+22. ni₂-bi ŋal₂-la-ni-še₃
+#lem: ni[self]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=22
+
+23. X DI mu#-un-na-il₂
+#lem: X; X; il[raise]
+#etcsl: line-id=23
+
+24. uŋ₃ šar₂-ra-ba igi-bi im-ši-ŋal₂
+#lem: uŋ[people]; šar[numerous]V/i; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=24
+
+25. en nam-he₂ giri₁₇-zal lu-lu-lu
+#lem: en[lord]; namhe[abundance]; kirizal[joy]; lu[abundant]
+#etcsl: line-id=25
+
+26. zi kalam-ma šum₂-mu
+#lem: zi[life]; kalam[the Land (of Sumer)]; šum[give]
+#etcsl: line-id=26
+
+27. nun šag₄ gur-ru šu niŋin₂-bi dug₃
+#lem: nun[prince]; šag[heart]; gur[turn]; šu[hand]; niŋin[encircle]; dug[good]
+#etcsl: line-id=27
+
+28. an-dul₃ larsam{ki}-ma#
+#lem: andul[shade]; Larsam[1]SN
+#etcsl: line-id=28
+
+29. a₂-tah {d}suen-i-din-na-am ki me₃-ka
+#lem: atah[helper]; Siniddinam[1]RN; ki[place]; me[battle]
+#etcsl: line-id=29
+
+30. šen-šen-na erin₂ zag-ga-na gub-bu
+#lem: šen[battle]; erin[people]; zag[side]; gub[stand]
+#etcsl: line-id=30
+
+31. en gal ku₃-ŋal₂ an {d}en-lil₂-ka
+#lem: en[lord]; gal[big]; guŋal[inspector]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=31
+
+32. nam-ma-ni zag nu-sa₂
+#lem: nam[fate]; zag[side]; sa[equal]
+#etcsl: line-id=32
+
+33. lugal-a-ni-ir
+#lem: lugal[king]
+#etcsl: line-id=33
+
+34. {d}suen-i-din-na-am nitah kalag-ga
+#lem: Siniddinam[1]RN; nita[male]; kalag[strong]
+#etcsl: line-id=34
+
+35. nun sun₅-na ni₂-tuku {d}en-lil₂-la₂
+#lem: nun[prince]; sun[humble]; nituku[pious]; Enlil[1]DN
+#etcsl: line-id=35
+
+36. he₂-am₃ e₂-kur-ra-kam
+#lem: heʾam[so be it!]; Ekur[1]TN
+#etcsl: line-id=36
+
+37. šul mu dug₃ sa₄ {d}nanna-ke₄
+#lem: šul[youth]; mu[name]; dug[good]; še[call by name]; Nanna[1]DN
+#etcsl: line-id=37
+
+38. u₂-a urim₅#{ki}-ma
+#lem: ua[provisioner]; Urim[1]SN
+#etcsl: line-id=38
+
+39. lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN
+#etcsl: line-id=39
+
+40. lugal ki-en-gi ki-uri-ke₄
+#lem: lugal[king]; Kengir[1]; Akkad[1 Akkad]
+#etcsl: line-id=40
+
+41. ŋeštug₂ daŋal igi-ŋal₂ dirig šum₂-ma
+#lem: ŋeštug[ear]; daŋal[wide]; igiŋal[wise]; dirig[make more than]; šum[give]
+#etcsl: line-id=41
+
+42. {d}nu-dim₂-mud-ke₄
+#lem: Nudimmud[1]DN
+#etcsl: line-id=42
+
+43. bal dug₃ til₃ ud su₃-ra₂ he₂-ŋal₂ niŋ₂ nu-til-e
+#lem: bala[turn]; dug[good]; til[live (of a single person)]; ud[sun]; sud[distant]; heŋal[plenty]; niŋ[thing]; til[complete]
+#etcsl: line-id=43
+
+44. {d}iškur diŋir-ra-ni
+#lem: Iškur[1]DN; diŋir[deity]
+#etcsl: line-id=44
+
+45. saŋ-e-eš-e rig₇-ga
+#lem: saŋ[head]; rig[donate]
+#etcsl: line-id=45
+
+46. ŋiš-hur eridug{ki}-ga si sa₂-sa₂
+#lem: ŋešhur[plan]; Eridug[1]SN; si[horn]; sa[equal]
+#etcsl: line-id=46
+
+47. nidba
+#lem: nindaba[(food) offering]
+#etcsl: line-id=47
+
+48. diŋir-re-e-ne šu du₇-du₇
+#lem: diŋir[deity]; šu[hand]; du[perfect]
+#etcsl: line-id=48
+
+49. gal-an-zu me libir
+#lem: galanzu[wise]; me[Being]; libir[old]
+#etcsl: line-id=49
+
+50. ki-bi# bi₂-in-gi₄-a
+#lem: ki[place]; gi[turn]
+#etcsl: line-id=50
+
+51. [...] X uŋ₃ šar₂-ra-ni
+#lem: X; X; uŋ[people]; šar[numerous]V/i
+#etcsl: line-id=51
+
+52. [zid]-de₃-eš
+#lem: zid[right]
+#etcsl: line-id=52
+
+53. [mu]-un-pad₃#-da
+#lem: pad[find]
+#etcsl: line-id=53
+
+54. {[ŋiš]}[gu]-za# mah
+#lem: guza[chair]; mah[great]
+#etcsl: line-id=54
+
+55. [...] me-dim₂-ta dirig
+#lem: X; medim[limbs]; dirig[make more than]
+#etcsl: line-id=55
+
+56. [diŋir]-ra#-ni-ir sig₁₀-ga
+#lem: diŋir[deity]; sig[put into]
+#etcsl: line-id=56
+
+57. [...] kug luh-ha
+#lem: X; kug[metal]; luh[clean]
+#etcsl: line-id=57
+
+58. [gal]-le#-eš ak
+#lem: gal[big]; ak[do]
+#etcsl: line-id=58
+
+59. [...] KA# an sig₇-ga
+#lem: X; X; an[sky]; sissig[green-yellow]
+#etcsl: line-id=59
+
+$ (approx. 4 lines missing)
+64. me-te nam-u₁₈-ru-ka-ni
+#lem: mete[appropriate thing]; namurun[exaltedness]
+#etcsl: line-id=64
+
+65. dub₃ ŋal₂-le bi₂-du₇-a
+#lem: dub[knee]; ŋal[⟦be⟧ to be (there]; du[perfect]
+#etcsl: line-id=65
+
+66. šag₄ la-la-ŋal₂-la-na
+#lem: šag[heart]; lalaŋal[charming]
+#etcsl: line-id=66
+
+67. kiŋ₂-bi im-mi-in-til
+#lem: kiŋ[work]; til[complete]
+#etcsl: line-id=67
+
+68. ud-bi-a {d}iškur diŋir-ra-ni
+#lem: ud[storm]; Iškur[1]DN; diŋir[deity]
+#etcsl: line-id=68
+
+69. {ŋiš}gu-za ka silim-ma-ka-na
+#lem: guza[chair]; kag[mouth]; silim[healthy]
+#etcsl: line-id=69
+
+70. gal-bi dur₂ mi-ni-in-ŋar
+#lem: gal[big]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=70
+
+71. ud-a ud ul-le₂-a-aš
+#lem: ud[sun]; ud[sun]; ul[distant time]
+#etcsl: line-id=71
+
+72. me-dim₂-bi im-mi-in-dirig
+#lem: medim[limbs]; dirig[make more than]
+#etcsl: line-id=72
+
+73. ŋiš-hur me mah-bi
+#lem: ŋešhur[plan]; me[Being]; mah[great]
+#etcsl: line-id=73
+
+74. ki-bi mi-ni-in-kiŋ₂-kiŋ₂
+#lem: ki[place]; kiŋ[seek]
+#etcsl: line-id=74
+
+75. 2 am gal ki aš-te#
+#lem: n; am[wild bull]; gal[big]; ki[place]; guza[chair]
+#etcsl: line-id=75
+
+76. erim₂ lugal-la du₇-de₃#
+#lem: erim[enemy]; lugal[king]; du[push]
+#etcsl: line-id=76
+
+77. zid-da gab₂-bu#-[bi]
+#lem: zid[right]; gab[left (hand)]
+#etcsl: line-id=77
+
+78. sig#-ta im-mi-in#-[...]
+#lem: sig[weak]; X
+#etcsl: line-id=78
+
+79. ERIN₂-PIRIG X X X [X X]
+#lem: ERIN₂.PIRIG[an animal]; X; X; X; X; X
+#etcsl: line-id=79
+
+80. he₂-ŋal₂-la# {d}a-nun#-[na]
+#lem: heŋal[plenty]; Anunak[1]DN
+#etcsl: line-id=80
+
+81. me-še₃ an-ur₂ [...]
+#lem: meše[where to? whither?]; anur[horizon]; X
+#etcsl: line-id=81
+
+82. mu-un#-na-da-sug₂-sug₂#-[ge-eš]
+#lem: sug[stand]
+#etcsl: line-id=82
+
+83. alan-bi mi-ni-in#-[...]
+#lem: alan[image]; X
+#etcsl: line-id=83
+
+84. du₁₀-ub-ba im-mi-in#-[...]
+#lem: dub[knee]; X
+#etcsl: line-id=84
+
+85. [...] im-mi#-[...]
+#lem: X; X
+#etcsl: line-id=85
+
+$ 3 lines missing
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) When @wDN{Iškur} -- the lord, the storm, the …… lion, the great storm of heaven and earth, confident in his majesty, the foremost, the advocate, the son of @wDN{An}, whose head is clothed in power, the fearsome chief lord, the great storm that has no rival ……, who masses the clouds -- rushes within the storm, the earth trembles before him.
+
+@(9 = 9-18) A majestic wind bellowing in the broad heavens, whose thunder signifies abundance -- when he utters his cries, the Land and the great mountains are fearful. Great hero, holding the shepherd's crook in his hand and clasping authority at his side -- when he roars over the sea and covers the Land with radiance, huge hailstones …… and slanting (?) rain, …… they set up …… for him.
+
+@(21 = 19-23)  @gap{2 lines missing}  …… like a reed (?), on their own accord at his presence they (?) lift …… to him.
+
+@(24 = 24-32) He surveys these numerous people -- the lord of prosperity who makes celebration plentiful, who gives sustenance to the Land, the merciful prince whose solicitude is kind, the protector of @wSN{Larsam}, the helper of @wRN{@wDN{Sîn}-iddinam} on the battlefield, who stands in combat with the troops at his side, the great lord, the canal administrator of @wDN{An} and @wDN{Enlil}, whose destiny has no equal!
+
+@(33 = 33-56) @wRN{@wDN{Sîn}-iddinam} -- the mighty man, the humble prince who respects @wDN{Enlil}; approved with a @q{“let it be so!”} by the @wTN{E-kur}; the young man given a propitious name by @wDN{Nanna}; the provider of @wSN{Urim}, the king of @wSN{Larsam}, the king of @wGN{Sumer} and @wGN{Akkad}, given broad wisdom and surpassing intelligence by @wDN{Nudimmud}, granted a good reign, a long life and unending abundance by @wDN{Iškur}, his god; who puts in order the divine plans of @wSN{Eridug}, who makes perfect offerings to the gods; the wise one who has restored the ancient divine powers, …… who has favourably identified his numerous people -- put in place a majestic throne, …… surpassing in form, for his lord, for his god.
+
+@(57 = 57-67) Made grandly from …… and refined silver, …… of the beautiful heavens,  @gap{approx. 4 lines missing}  befitting his size and well-suited to running (?) -- with jubilation he finished the work.
+
+@(68 = 68-74) At that time he grandly seated @wDN{Iškur}, his god, on his throne of glory. Then he made its form surpassing for ever. He sought out its majestic divine plans and divine powers.
+
+@(75 = 75-85) By the throne he …… two great wild bulls, below (?) on the right and the left, butting the king's enemies.  @gap{1 line fragmentary}  The @wDN{Anuna} gods in abundance …… stand beside him …… the horizon (?). He …… that statue and …… on its lap. He …….  @gap{3 lines missing} 
+
+
+

@@ -1,0 +1,198 @@
+&Q000320 = Ur III catalogue at Yale (Y1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.1.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.1.2&display=Crit&charenc=gcirc#
+
+1. diŋir šembi₂-zid-da dar!-a
+#lem: diŋir[deity]; šembizida[kohl]; dar[split]
+#etcsl: line-id=1
+
+2. {d}en-lil₂-la₂ dug₄#-ga-ni nu-kur₂
+#lem: Enlil[1]DN; dug[speak]; kur[different]
+#etcsl: line-id=2
+
+3. lugal# an kug-ga me-te-bi
+#lem: lugal[king]; an[sky]; kug[pure]; mete[appropriate thing]
+#etcsl: line-id=3
+
+4. lugal {d}en-lil₂-ra gub-ba
+#lem: lugal[king]; Enlil[1]DN; gub[stand]
+#etcsl: line-id=4
+
+5. en gud ban₃-da
+#lem: en[lord]; gud[bull]; banda[junior]
+#etcsl: line-id=5
+
+6. še-er-zid en-da gal
+#lem: šerzid[radiance]; en[lord]; gal[big]
+#etcsl: line-id=6
+
+7. munus zid mi₂ dug₄-ga
+#lem: munus[woman]; zid[right]; mi[cvne]; dug[speak]
+#etcsl: line-id=7
+
+8. en su-li₂-im
+#lem: en[lord]; sulim[awesome radiance]
+#etcsl: line-id=8
+
+9. ur-saŋ en huš gal
+#lem: ursaŋ[warrior]; en[lord]; huš[reddish]; gal[big]
+#etcsl: line-id=9
+
+10. ur-saŋ en me ša-ra tum₂-ma
+#lem: ursaŋ[warrior]; en[lord]; me[Being]; šar[numerous]V/i; tum[suitable]
+#etcsl: line-id=10
+
+11. lugal an#-[šag₄]-ta# hi-[li] guru₃#
+#lem: lugal[king]; anšag[the interior of heaven]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=11
+
+12. nin me-e he₂-du₇
+#lem: nin[lady]; me[Being]; hedu[ornament]
+#etcsl: line-id=12
+
+13. en inim nun zu
+#lem: en[lord]; inim[word]; nun[prince]; zu[know]
+#etcsl: line-id=13
+
+14. {d}šul-gi hi-li sud
+#lem: Šulgir[1]RN; hili[attractiveness]; sud[distant]
+#etcsl: line-id=14
+
+15. {d}šul-gi diŋir zid
+#lem: Šulgir[1]RN; diŋir[deity]; zid[right]
+#etcsl: line-id=15
+
+16. en gal-zu an-na
+#lem: en[lord]; galanzu[wise]; an[sky]
+#etcsl: line-id=16
+
+17. lugal-ŋu₁₀ hi-li guru₃
+#lem: lugal[king]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=17
+
+#etcsl#inc Ur-Namma E, 2.4.1.5, line 25 and Ur-Namma F, 2.4.1.6, line 25
+
+18. lugal inim sag₉
+#lem: lugal[king]; inim[word]; sag[goodness]
+#etcsl: line-id=18
+
+19. ur-saŋ šag₄ kug-ta
+#lem: ursaŋ[warrior]; šag[heart]; kug[pure]
+#etcsl: line-id=19
+
+20. lugal a-ma-ru
+#lem: lugal[king]; amaru[flood]
+#etcsl: line-id=20
+
+21. lugal me-lem₄ huš
+#lem: lugal[king]; melim[frightening splendor]; huš[reddish]
+#etcsl: line-id=21
+
+22. ur-saŋ ni₂ gal guru₃
+#lem: ursaŋ[warrior]; ni[fear]; gal[big]; gur[lift]
+#etcsl: line-id=22
+
+23. en an ki-a
+#lem: en[lord]; an[sky]; ki[place]
+#etcsl: line-id=23
+
+24. lugal ud gu₃ di
+#lem: lugal[king]; ud[storm]; gu[voice]; di[speak]
+#etcsl: line-id=24
+
+25. lugal ŋiš-tug₂ daŋal
+#lem: lugal[king]; ŋeštug[ear]; daŋal[wide]
+#etcsl: line-id=25
+
+26. ur-saŋ šul zid tud-da
+#lem: ursaŋ[warrior]; šul[youth]; zid[right]; utud[give birth (to)]
+#etcsl: line-id=26
+
+27. nin hi-li sud
+#lem: nin[lady]; hili[attractiveness]; sud[distant]
+#etcsl: line-id=27
+
+28. aŋrig zid unken-na
+#lem: agrig[steward]; zid[right]; unkin[assembly]
+#etcsl: line-id=28
+
+29. ušum huš an-na#
+#lem: ušum[snake]; huš[reddish]; an[sky]
+#etcsl: line-id=29
+
+30. lugal-me šag₄-ta ur-saŋ-me-en
+#lem: lugal[king]; šag[heart]; ursaŋ[warrior]
+#etcsl: line-id=30
+
+#etcsl#inc Šulgi A, 2.4.2.01
+
+31. nin-ŋu₁₀ suh za-gin₃ za-na gun₃!-a
+#lem: nin[lady]; suh[crown]; zagin[lapis lazuli]; X; gunu[speckled]
+#etcsl: line-id=31
+
+32. en me-lem₄ sud-sud
+#lem: en[lord]; melim[frightening splendor]; sud[distant]
+#etcsl: line-id=32
+
+33. šu-niŋin₂ 32 en₈-du lugal
+#lem: šuniŋin[total]; n; endu[song]; lugal[king]
+#etcsl: line-id=33
+
+34. lugal en gal-di an-na
+#lem: lugal[king]; en[lord]; galdi[exalted]; an[sky]
+#etcsl: line-id=34
+
+35. saŋ-me-en kug
+#lem: saŋmen[crown]; kug[purify]
+#etcsl: line-id=35
+
+36. ama he₂-ŋal₂-la du₃-a
+#lem: ama[mother]; heŋal[plenty]; du[build]
+#etcsl: line-id=36
+
+37. gud-e si ŋar-re
+#lem: gud[bull]; si[horn]; ŋar[put]
+#etcsl: line-id=37
+
+38. nun-ne₂ e₂ en kur₉-ra-ta
+#lem: nun[prince]; e[house]; en[lord]; kur[enter]
+#etcsl: line-id=38
+
+39. ud za-la-ra
+#lem: ud[sun]; zal[pass time]
+#etcsl: line-id=39
+
+40. ur-saŋ piriŋ huš uru₂ me gal-gal
+#lem: ursaŋ[warrior]; piriŋ[lion]; huš[reddish]; uru[flood]; me[Being]; gal[big]
+#etcsl: line-id=40
+
+41. ur-saŋ šag₄-tur₃
+#lem: ursaŋ[warrior]; šagtur[womb]
+#etcsl: line-id=41
+
+42. dumu an-na
+#lem: dumu[child]; An[1]DN
+#etcsl: line-id=42
+
+#etcsl#inc Luma A, 2.3.1 (?)
+
+43. sahar ka-a du₃-a
+#lem: sahar[soil]; kag[mouth]; du[build]
+#etcsl: line-id=43
+
+44. šu-niŋin₂ 10 en₈-du igi-še₃-am₃
+#lem: šuniŋin[total]; n; endu[song]; igi[eye]
+#etcsl: line-id=44
+
+45. pad₃-da niŋ₂-u₂-rum
+#lem: pad[find]; niŋurum[property]
+#etcsl: line-id=45
+
+
+
+
+

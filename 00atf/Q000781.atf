@@ -1,0 +1,169 @@
+&Q000781 = A drinking song
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.5.a
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.a&display=Crit&charenc=gcirc#
+
+1. {gi}gakkul-e {gi}gakkul-e
+#lem: gakkul[mash-tub]; gakkul[mash-tub]
+#etcsl: line-id=1
+
+2. {gi}gakkul-e {dug}lam-sa₂-ri
+#lem: gakkul[mash-tub]; lamdre[brewing vat]
+#etcsl: line-id=2
+
+3. {gi}gakkul-e niŋ₂ ur₅ sag₉-sag₉-ge
+#lem: gakkul[mash-tub]; niŋ[thing]; ur[liver]; sag[good]
+#etcsl: line-id=3
+
+4. {dug}lam-sa₂-ri niŋ₂ šag₄ hul₂-hul₂-e
+#lem: lamdre[brewing vat]; niŋ[thing]; šag[heart]; hul[rejoice]
+#etcsl: line-id=4
+
+5. {dug}u-gur-bal niŋ₂ e₂-a me-te-bi
+#lem: ugurbal[jar for beer production]; niŋ[thing]; e[house]; mete[appropriate thing]
+#etcsl: line-id=5
+
+6. {dug}šag₄-gub-be₂ niŋ₂ kaš sig₉-sig₉-ge
+#lem: šaggub[container]; niŋ[thing]; kaš[beer]; sig[put into]
+#etcsl: line-id=6
+
+7. {dug}am-am |DU.DU| {dug}lam-sa₂-ra-ke₄
+#lem: amam[beer jar]; X; lamdre[brewing vat]
+#etcsl: line-id=7
+
+8. {gi}buniŋ(SUG) {u₂}bur₂ {gi}ba-an-du₈ silaŋ-ŋa₂-ke₄
+#lem: buniŋ[trough]; bur[wild grass]; bandudu[seeding basket of a plow]; silaŋ[knead]
+#etcsl: line-id=8
+
+9. dug sag₉ dag-dug-e sa gi₄-a
+#lem: dug[(clay) pot]; sag[goodness]; dagdug[potstands]; sa[sinew]; gi[turn]
+#etcsl: line-id=9
+
+10. šag₄ diŋir-za hu-mu-ra-ab-huŋ-e
+#lem: šag[heart]; diŋir[deity]; huŋ[pacify]
+#etcsl: line-id=10
+
+11. igi {gi}gakkul-am₃ igi-me na-nam
+#lem: igi[eye]; gakkul[mash-tub]; igi[eye]; me[be]
+#etcsl: line-id=11
+
+12. šag₄ {gi}gakkul-am₃ šag₄-me na-nam
+#lem: šag[heart]; gakkul[mash-tub]; šag[heart]; me[be]
+#etcsl: line-id=12
+
+13. %e aŋ₂ %s šag₄-zu gur₄-gur₄-ru ni₂-bi-a
+#lem: aŋ[thing]N; šag[heart]; gur[thick]; ni[self]
+#etcsl: line-id=13
+
+14. šag₄-me-a gur₄-gur₄-ru ni₂-bi-a
+#lem: šag[heart]; gur[thick]; ni[self]
+#etcsl: line-id=14
+
+15. ur₅-me bi₂-sag₉ šag₄-me bi₂-hul₂
+#lem: ur[liver]; sag[good]; šag[heart]; hul[rejoice]
+#etcsl: line-id=15
+
+16. šeg₁₂ nam tar-ra a de₂-zu
+#lem: šeg[brick]; nam[fate]; tar[cut]; a[water]; de[pour]
+#etcsl: line-id=16
+
+17. silim-ma he₂-ŋal₂-e ki us₂-sa-zu
+#lem: silim[healthy]; heŋal[plenty]; ki[place]; us[accompany]
+#etcsl: line-id=17
+
+18. {d}nin-ka-si za-da hu-mu-u₈-da-an-til₃
+#lem: Ninkasik[1]DN; zaʾe[you]; til[live (of a single person)]
+#etcsl: line-id=18
+
+19. kaš ŋeštin hu-mu-ra-an-bal-bal-e
+#lem: kaš[beer]; ŋeštin[vine]; bala[turn]
+#etcsl: line-id=19
+
+20. kurun₂ lal₃-e gu₃ nun ha-ra-ni-ib-be₂
+#lem: kurun[beer]; lal[syrup]; gu[voice]; nun[prince]; e[speak]
+#etcsl: line-id=20
+
+21. {gi}buniŋ(SUG) {u₂}bur₂-a kaš ku₇-ku₇-dam
+#lem: buniŋ[trough]; bur[wild grass]; kaš[beer]; kud[sweet]
+#etcsl: line-id=21
+
+22. sagi lu₂-tur-ra lunga₃ bi₂-in-gub-en
+#lem: šagia[cup-bearer]; lutur[child]; lungak[brewer]; gub[stand]
+#etcsl: line-id=22
+
+23. a-niŋin₂-e niŋin-na-ŋu₁₀-ne
+#lem: aniŋin[reservoir]; niŋin[encircle]
+#etcsl: line-id=23
+
+24. gur₄-gur₄-re-ŋa₂ gur₄-gur₄-re-ŋa₂-ŋu₁₀-ne
+#lem: gur[thick]; gur[thick]
+#etcsl: line-id=24
+
+25. kaš naŋ-e %e me-e %s sig₁₀-ga-ŋu₁₀-ne
+#lem: kaš[beer]; naŋ[drink]; meʾe[I]IP; sig[put into]
+#etcsl: line-id=25
+
+26. kurun₂ naŋ-a ul ti-a-ŋu₁₀-ne
+#lem: kurun[beer]; naŋ[drink]; ul[swell]; teŋ[approach]
+#etcsl: line-id=26
+
+27. šag₄ hul₂-la ur₅ sag₉-ga-ŋu₁₀-ne
+#lem: šag[heart]; hul[rejoice]; ur[liver]; sag[good]
+#etcsl: line-id=27
+
+28. šag₄-ŋa₂ šag₄ hul₂-la ŋal₂-la-bi
+#lem: šag[heart]; šag[heart]; hul[rejoice]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=28
+
+29. ur₅ sag₉ {tug₂}pala₃-a ša-mur₁₀-ra-ŋu₁₀-ne
+#lem: ur[liver]; sag[goodness]; pala[garment]; mur[dress]
+#etcsl: line-id=29
+
+30. šag₄ {d}inana ki-bi ba-ab-gi₄
+#lem: šag[heart]; Inanak[1]DN; ki[place]; gi[turn]
+#etcsl: line-id=30
+
+31. šag₄ %e ga-ša-an-an-na-ke₄ %s ki-bi ba-ab-gi₄
+#lem: šag[heart]; Gašanana[1]DN; ki[place]; gi[turn]
+#etcsl: line-id=31
+
+@div trailer 
+
+32. [...] {[d]}[nin]-ka-si-kam
+#lem: X; Ninkasik[1]DN
+#etcsl: line-id=32
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-9) The @fsux{gakkul} vat, the @fsux{gakkul} vat! The @fsux{gakkul} vat, the @fsux{lamsare} vat! The @fsux{gakkul} vat, which puts us in a happy mood! The @fsux{lamsare} vat, which makes the heart rejoice! The @fsux{ugurbal} jar, glory of the house! The @fsux{šaggub} jar, filled with beer! The @fsux{amam} jar, which carries the beer from the @fsux{lamsare} vat! The troughs made with @fsux{bur} grass and the pails for kneading the dough! All the beautiful vessels are ready on their pot stands!
+
+@(10 = 10-20) May the heart of your god be well disposed towards you! Let the eye of the @fsux{gakkul} vat be our eye, and let the heart of the @fsux{gakkul} vat be our heart! What makes your heart feel wonderful in itself also makes our hearts feel wonderful in themselves! We are in a happy mood, our hearts are joyful! You have poured a libation over the fated brick, and you have laid the foundations in peace and prosperity -- now may @wDN{Ninkasi} dwell with you! She should pour beer and wine for you! Let the pouring of the sweet liquor resound pleasantly for you!
+
+@(21 = 21-31) In the troughs made with @fsux{bur} grass, there is sweet beer. I will have the cupbearers, the boys and the brewers stand by. As I spin around the lake of beer, while feeling wonderful, feeling wonderful, while drinking beer, in a blissful mood, while drinking alcohol and feeling exhilarated, with joy in the heart and a contented liver -- my heart is a heart filled with joy! I clothe my contented liver in a garment fit for a queen! The heart of @wDN{Inana} is happy once again; the heart of @wDN{Inana} is happy once again!
+
+#trailer subscript	missing
+
+
+@(32 = 32) A …… to @wDN{Ninkasi}.
+
+
+

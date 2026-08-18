@@ -1,0 +1,528 @@
+&Q000776 = An elegy on the death of Nannaya
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.5.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.2&display=Crit&charenc=gcirc#
+
+1. ab#-ba ki re-a-še₃ dumu-ni-ir kiŋ₂ bi₂-in-gi₄
+#lem: abba[father]; ki[place]; re[that]; dumu[child]; kiŋ[work]; gi[turn]
+#etcsl: line-id=1
+
+2. dumu ki ba₉-ra₂ ŋen-na re ud-ba ba-ra-an-bad
+#lem: dumu[child]; ki[place]; bad[open]; ŋen[go]; re[that]; ud[sun]; bad[open]
+#etcsl: line-id=2
+
+3. ab-ba %e uru₂{ki}-a %s tuš-a-ra tur₅-ra gaba ba-ri
+#lem: abba[father]; uru[city]; tuš[sit (down)]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=3
+
+4. sud-aŋ₂ kal-la kur sud-da pad₃-da tur₅-ra gaba ba-ri
+#lem: sud[distant]; kal[rare]; kur[mountain(s)]; sud[distant]; pad[find]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=4
+
+5. KA DIM₃ sag₉-sag₉ lu₂ inim zil₂-zil₂-le tur₅-ra gaba ba-ri
+#lem: X; X; sag[good]; lu[person]; inim[word]; zil[good]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=5
+
+6. alan sud tuku saŋ-du tuku teš₂-bi tur₅-ra gaba ba-ri
+#lem: alan[image]; sud[distant]; tuku[acquire]; saŋdu[head]; tuku[acquire]; teš[unity]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=6
+
+7. gal-zu ŋiš-hur-ra me-te unken-na tur₅-ra gaba ba-ri
+#lem: galanzu[wise]; ŋešhur[plan]; mete[appropriate thing]; unkin[assembly]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=7
+
+8. lu₂ gen₆-na ni₂ teŋ₃-ŋe₂₆ diŋir-bi tur₅-ra gaba ba-ri
+#lem: lu[person]; gin[confirm]; ni[fear]; teŋ[approach]; diŋir[deity]; tur[ill]; gaba[breast]; ri[impose]
+#etcsl: line-id=8
+
+9. tur₅-ra u₂ nu-gu₇ gaba ba-ri tur₅-ra ba-an-dab₅
+#lem: tur[ill]; u[plant(s)]; gu[eat]; gaba[breast]; ri[impose]; tur[ill]; dab[seize]
+#etcsl: line-id=9
+
+10. ka u₃-ba-e-šu₂ ninda nu-mu-un-šu₂-šu₂ šag₄-sug₄-ga ba-an-nu₂
+#lem: kag[mouth]; šuš[cover]; ninda[bread]; šuš[cover]; šagsug[empty]; nud[lie down]
+#etcsl: line-id=10
+
+11. dub-gin₇ bar-gin₇ ni₂-ŋal₂-la RI ib₂-gurud-da mu-un-la₂
+#lem: dub[tablet]; bar[outside]; niŋal[awe-inspiring]; X; gurud[throw]; la[hang]
+#etcsl: line-id=11
+
+12. ur-saŋ gaba ur₄-ur₄ ŋiri₃ nu-mu-un#-[da]-bad-de₃
+#lem: ursaŋ[warrior]; gaba[breast]; ur[roam around]; ŋiri[foot]; bad[open]
+#etcsl: line-id=12
+
+13. KA tur₅-ra-a-ni-ta nam-dumu-ni i-si-iš# X i₃-gu₇
+#lem: X; tur[ill]; namdumu[status as son]; isiš[tears]; X; gu[eat]
+#etcsl: line-id=13
+
+14. šag₄ sag₃-sag₃-ge i-si-iš SI A X
+#lem: šag[heart]; sag[strike]; isiš[tears]; X; X; X
+#etcsl: line-id=14
+
+15. dub zu nibru{ki}-a ki-lul-la ba-an-ug₅
+#lem: dub[tablet]; zu[know]; Nibru[1]SN; kilulak[murder]; ug[kill]
+#etcsl: line-id=15
+
+16. inim-bi kaskal su₃-ra₂-še₃ dumu-ni-ir ba-[an]-na-te
+#lem: inim[word]; kaskal[way]; sud[distant]; dumu[child]; teŋ[approach]
+#etcsl: line-id=16
+
+17. dumu ad-da-a-ni-ta nu-ub-da-la₂-a-gin₇
+#lem: dumu[child]; adda[father]; la[hang]
+#etcsl: line-id=17
+
+18. kiŋ₂!(TUG₂) in-ši-gi₄-in₄-nam nu-ub-da-gur-ra-am₃
+#lem: kiŋ[work]; gi[turn]; gur[turn]
+#etcsl: line-id=18
+
+19. dumu er₂ in-pad₃ sahar-ta ma-ra-da-šub šir₃ nam-nar mu-un-na-ab-e
+#lem: dumu[child]; er[tears]; pad[find]; sahar[soil]; šub[fall]; šir[sing]; namnar[musicianship]; e[speak]
+#etcsl: line-id=19
+
+20. {m}lu₂-diŋir-ra šag₄ NE-NE-a-ni-ta i-lu ab-sar-re
+#lem: Ludiŋira[1]PN; šag[heart]; X; ilu[lament]; sar[write]
+#etcsl: line-id=20
+
+21. ab-ba ki-lul-la ba-an-ug₅-ga-ta
+#lem: abba[father]; kilulak[murder]; ug[kill]
+#etcsl: line-id=21
+
+22. (1:{m}{d}nanna-a:1) šag₄ hul dim₂-ma-ni-ta kur-še₃ ba-ab-DU-a
+#lem: Nannaya[1]; šag[heart]; hulu[bad]; dim[create]; kur[mountain(s)]; X
+#etcsl: line-id=22
+
+:22v.1.1: ($1 ms. has instead:$) {m}{d}nanna-a-ŋu₁₀
+#lem: Nannaya[1]
+
+23. dam-zu niŋ₂ ud-bi-ta nitalam-a-ni na-nam me-da nu-mu-un-su-a
+#lem: dam[spouse]; niŋ[thing]; udbita[former]; ŋidlam[(equal ranking) spouse]; me[be]; meta[where from? whence?]; numunkuš[widow]
+#etcsl: line-id=23
+
+24. {tum₉}dal-ha-mun-gin₇ ud DI ma-ra-ab-kaš₄-kaš₄-e u₁₈-lu ma-ab-sag₃-ge
+#lem: dalhamun[dust storm]; ud[sun]; X; kaš[run]; ulu[south wind]; sag[strike]
+#etcsl: line-id=24
+
+25. a₂-e₃-gin₇ za-e ma-ra-ab-ak-e dim₂-ma-ni in-kur₂
+#lem: aʾea[foster-child]; zaʾe[you]; ak[do]; dimma[thought]; kur[different]
+#etcsl: line-id=25
+
+26. al-lib mu-na-ŋar i-gi₄-in-zu i-im-ši-tud-tud-de₃
+#lem: allib[stupor]; ŋar[put]; iginzu[as if]; utud[give birth (to)]
+#etcsl: line-id=26
+
+27. [X X] im-ma-[ab]-gur#-re ab₂-gin₇ gu₃ [X X]
+#lem: X; X; gur[turn]; ab[cow]; gu[voice]; X; X
+#etcsl: line-id=27
+
+28. [X X] a-nir an-DAG er₂ im-ma-še₈-še₈
+#lem: X; X; anir[lament]; X; er[tears]; šeš[weep]
+#etcsl: line-id=28
+
+29. [X X]-bi mu-un-šu₂ u₃ niŋ₂-zid ba-an-dab₅
+#lem: X; X; šuš[cover]; u[and]; niŋzid[righteousness]; dab[seize]
+#etcsl: line-id=29
+
+30. [...]-a NI [...]
+#lem: X; X; X
+#etcsl: line-id=30
+
+31. [...]-a-ur₄-ur₄ mu-da-[ab]-ZA
+#lem: ur[gather]; X
+#etcsl: line-id=31
+
+32. [...] šu mu-ra-ab-tag-ge šag₄ [...] BA [X X] BAD
+#lem: X; šu[hand]; tag[touch]; šag[heart]; X; X; X; X; X
+#etcsl: line-id=32
+
+33. [...] zi-zi ud zal-še₃ KA X KA
+#lem: X; zig[rise]; ud[sun]; zal[pass time]; X; X; X
+#etcsl: line-id=33
+
+34. [...] ki# dur₂-ru-na-ta lukur {d}nin-urta-ke₄ X TA [...] ma-ra-da-šub
+#lem: X; ki[place]; durun[sit]; lukur[priestess]; Ninurtak[1]DN; X; X; X; šub[fall]
+#etcsl: line-id=34
+
+35. diŋir sig₇-ga-gin₇ [X X] KA mi-ni-in-[X X]-a
+#lem: diŋir[deity]; sissig[green-yellow]; X; X; X; X; X
+#etcsl: line-id=35
+
+36. an-gul-a-ni hul [...]
+#lem: gul[destroy]; hulu[bad]; X
+#etcsl: line-id=36
+
+37. šag₄ PI-ra-ke₄ {{%akk ga-gi₄-i}} HUB₂ IN [...]
+#lem: šag[heart]; X; L; X; X; X
+#etcsl: line-id=37
+
+38. X IGI KA [X X] U₈ [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=38
+
+39. uŋ₃# daŋal-la še mu-e-ši-ib-[...] A [...]
+#lem: uŋ[people]; daŋal[wide]; še[barley]; X; X; X
+#etcsl: line-id=39
+
+40. suh₃-suh₃ šen-šen-na nin-diŋir {d}nuska [...] TE
+#lem: suh[confuse]; šen[battle]; erešdiŋir[priestess]; Nuska[1]DN; X; X
+#etcsl: line-id=40
+
+41. [X X]-ra-an-sil₂-sil₂-e U₈-ni ma-ra-an-SU-e
+#lem: X; sil[split]; X; X
+#etcsl: line-id=41
+
+42. [X X] GI ma-[...]-nam
+#lem: X; X; X; X
+#etcsl: line-id=42
+
+43. [X X] KI [...]-nam
+#lem: X; X; X; X
+#etcsl: line-id=43
+
+44. [X X] ur₂-zu-ta [...]-de₃
+#lem: X; X; ur[root]; X
+#etcsl: line-id=44
+
+45. [X X] A GA [...]-ra
+#lem: X; X; X; X; X
+#etcsl: line-id=45
+
+46. [...]-de₂-e
+#lem: de[pour]
+#etcsl: line-id=46
+
+47. dumu tur-zu dumu lugal-la-gin₇ [mu]-da-ak-[a]
+#lem: dumu[child]; tur[small]; dumu[child]; lugal[king]; ak[do]
+#etcsl: line-id=47
+
+48. a-na-am₃ i₃-gu₇ [...]
+#lem: ana[what?]; gu[eat]; X
+#etcsl: line-id=48
+
+49. a-na-am₃ i₃-naŋ# [...]
+#lem: ana[what?]; naŋ[drink]; X
+#etcsl: line-id=49
+
+50. lal₃ i₃-nun [X X] MA [...] mu-un-[...]
+#lem: lal[syrup]; inun[ghee]; X; X; X; X; X
+#etcsl: line-id=50
+
+51. {ŋiš}banšur i₃-zu-ta mu#-un-[da]-ŋa₂-[ŋa₂]
+#lem: banšur[table]; zu[know]; ŋar[put]
+#etcsl: line-id=51
+
+52. er₂ im-ŋa₂-ŋa₂-a-ni er₂ arhuš [X X]-am₃#
+#lem: er[tears]; ŋar[put]; er[tears]; arhuš[compassion]; X; X
+#etcsl: line-id=52
+
+53. i-im-sig₇-sig₇-ga-a-ni ki aŋ₂ šag₄ kug-ga-kam
+#lem: sissig[green-yellow]; ki[place]; aŋ[measure]; šag[heart]; kug[pure]
+#etcsl: line-id=53
+
+54. še ur₄-ur₄ KUL-gin₇ saŋ ba-da#-[...]-eš#
+#lem: še[barley]; ur[gather]; X; saŋ[head]; X
+#etcsl: line-id=54
+
+55. amar mušen-e amar [...] SA LA he-en-gi₄-gi₄ [...] al-il₂-il₂
+#lem: amar[calf]; mušen[bird]; amar[calf]; X; X; X; gi[turn]; X; il[raise]
+#etcsl: line-id=55
+
+56. e₂-gi₄-a dumu tur-zu me-na me-na-am₃ bi₂-in-dug₄-ga-a
+#lem: egia[bride]; dumu[child]; tur[small]; mena[when?]; mena[when?]; dug[speak]
+#etcsl: line-id=56
+
+57. ugu-ne-ne-a [...] U₂-zu bi₂-in-šub
+#lem: ugu[skull]; X; X; šub[fall]
+#etcsl: line-id=57
+
+58. [...]-ne-ne-a [X X]-ra ma-ra-an-si-ig
+#lem: X; X; X; sig[put into]
+#etcsl: line-id=58
+
+59. ur₂ e₂-ke₄ [...] ŠA NE [X X] ma-ra-[...]
+#lem: ur[loin]; e[house]; X; X; X; X; X; X
+#etcsl: line-id=59
+
+60. [X X]-zu [...] ad dug₃-dug₃-ga-[...] u₃-sa₂-a [X X]-a
+#lem: X; X; X; ad[voice]; dug[good]; usag[sleep]; X; X
+#etcsl: line-id=60
+
+61. [...]-gin₇ im-ma-ab-[X X]
+#lem: X; X; X
+#etcsl: line-id=61
+
+62. i-lu [...]-zu [...] nu-gul-[e]
+#lem: ilu[lament]; X; X; gul[destroy]
+#etcsl: line-id=62
+
+63. ad-da-ŋu₁₀ šag₄-zu [he₂-huŋ-ŋe₂₆]
+#lem: adda[father]; šag[heart]; huŋ[pacify]
+#etcsl: line-id=63
+
+64. {m}{d}nanna-a ur₅-zu [he₂-sag₉]
+#lem: Nannaya[1]; ur[liver]; sag[good]
+#etcsl: line-id=64
+
+65. en ensi₂ [...] er₃-ra-bi a-ab-[...]
+#lem: en[lord]; ensik[ruler]; X; X; X
+#etcsl: line-id=65
+
+66. šu nam-uš₂-ta kar-ra [...] UL [...]
+#lem: šu[hand]; namuš[death]; kar[harbor]; X; X; X
+#etcsl: line-id=66
+
+67. šu nam-uš₂ niŋ₂ X X-ba bi₂-ib-si lu₂ [...]
+#lem: šu[hand]; namuš[death]; niŋ[thing]; X; X; si[fill]; lu[person]; X
+#etcsl: line-id=67
+
+68. nam-uš₂ niŋ₂ dug₃ diŋir-ra-kam ki nam tar-ra [...]
+#lem: namuš[death]; niŋ[thing]; dug[good]; diŋir[deity]; ki[place]; nam[fate]; tar[cut]; X
+#etcsl: line-id=68
+
+69. šag₄-bal-bal-zu dug₃-zu he₂-en-[X X]
+#lem: šabalbal[descendent]; dug[good]; X; X
+#etcsl: line-id=69
+
+70. dumu-munus-zu [X X]-ne-a ma-ra-[X X]
+#lem: dumumunus[daughter]; X; X; X; X
+#etcsl: line-id=70
+
+71. ab-ba iri{ki}-za-a-kam kana₅ ma-[ra-X-X]
+#lem: abba[father]; iri[city]; kana[dark]; X
+#etcsl: line-id=71
+
+72. ki-sikil iri{ki}-za-a-kam [X X] MU mu-ra-ab-[X X]
+#lem: kisikil[young woman]; iri[city]; X; X; X; X; X
+#etcsl: line-id=72
+
+73. saŋ {na₄}kin₂-kin₂-[X X] er₂-zu [...] IN [...]
+#lem: saŋ[head]; kinkin[small millstone]; X; er[tears]; X; X; X
+#etcsl: line-id=73
+
+74. e₂ im-ma-ni-ŋa₂-ŋa₂ [...]
+#lem: e[house]; ŋar[put]; X
+#etcsl: line-id=74
+
+75. kug in-taka₄ še bi₂-[in]-tuku niŋ₂-gur₁₁ daŋal bi₂-in-[...]
+#lem: kug[metal]; taka[set aside]; še[barley]; tuku[acquire]; niŋgur[property]; daŋal[wide]; X
+#etcsl: line-id=75
+
+76. ibila suhuš gen₆-na [...] MAŠ-zu ha-ra-ab-[X X]
+#lem: ibila[heir]; suhuš[foundation]; gin[confirm]; X; X; X; X
+#etcsl: line-id=76
+
+77. lu₂-ug₅-ge-zu šag₄ |IGI+X|-gin₇ [...]
+#lem: luʾuge[murderer]; šag[heart]; X; X
+#etcsl: line-id=77
+
+78. zag-zu a₂ hul-la za-e ma-ra-kiŋ₂-ŋa₂
+#lem: zag[side]; a[arm]; hulu[bad]; zaʾe[you]; kiŋ[seek]
+#etcsl: line-id=78
+
+79. šu ŋar gen₆ lugal sipad diŋir-za-a-kam
+#lem: šu[hand]; ŋar[put]; gin[confirm]; lugal[king]; sipad[shepherd]; diŋir[deity]
+#etcsl: line-id=79
+
+80. sa₂-ŋar gen₆ {d}utu-u₃-kam
+#lem: saŋar[counselor]; gin[confirm]; Utu[1]DN
+#etcsl: line-id=80
+
+81. lu₂-bi lu₂ nam kud he₂#-a nam-uš₂ [...]
+#lem: lu[person]; lu[person]; nam[fate]; kud[separate]; me[be]; namuš[death]; X
+#etcsl: line-id=81
+
+82. ŋiri₃-pad-ra₂-ni lu₂ [...]
+#lem: ŋiripadra[bone]; lu[person]; X
+#etcsl: line-id=82
+
+83. {u₂}kul li-li-a-ni [...] MA [...] tuku mu-bi [...]
+#lem: kul[plant]; lilia[offspring]; X; X; X; tuku[acquire]; mu[name]; X
+#etcsl: line-id=83
+
+# is this {u₂}numun / u₂ numun / or really {u₂}kul as we read in admin texts?
+
+84. niŋ₂-gur₁₁-bi buru₅{mušen} [...] dal-a-gin₇ [...] he₂-[...]
+#lem: niŋgur[property]; buru[sparrow]; X; dal[fly]; X; X
+#etcsl: line-id=84
+
+85. [X X] TUG₂ ki [X X]-ib-la₂-e KU-KU-de₃ kalam-ma [...]
+#lem: X; X; X; ki[place]; X; la[hang]; X; kalam[the Land (of Sumer)]; X
+#etcsl: line-id=85
+
+86. inim niŋ₂ sag₉-ga X-zu he₂-en-tum₂ šag₄ dug₃ he₂-ri-ib-ŋa₂-ŋa₂
+#lem: inim[word]; niŋ[thing]; sag[good]; X; tum[bring]; šag[heart]; dug[good]; ŋar[put]
+#etcsl: line-id=86
+
+87. {m}{d}nanna-a ur₅-zu he₂-sag₉ šag₄-zu he₂-ši-huŋ-ŋe₂₆
+#lem: Nannaya[1]; ur[liver]; sag[good]; šag[heart]; huŋ[pacify]
+#etcsl: line-id=87
+
+88. {d}utu en gal a-ra-li-ke₄
+#lem: Utu[1]DN; en[lord]; gal[big]; Arali[1]GN
+#etcsl: line-id=88
+
+89. ki ku₁₀-ku₁₀ ud-še₃ u₃-mu-ni-in-tud di kud-zu i₃-kud-de₃
+#lem: ki[place]; kukkug[dark]; ud[sun]; utud[give birth (to)]; did[lawsuit]; kud[cut]; kud[cut]
+#etcsl: line-id=89
+
+90. {d}nanna-a ud nu₂-a nam-zu he₂-tar-re
+#lem: Nanna[1]DN; ud[sun]; nud[lie down]; nam[fate]; tar[cut]
+#etcsl: line-id=90
+
+91. {d}nergal {d}en-lil₂ kur-ra-ke₄ igi-bi-a sag₉-ni
+#lem: Nergal[1]DN; Enlil[1]DN; kur[mountain(s)]; igi[eye]; sag[good]
+#etcsl: line-id=91
+
+92. ki-TAR gu₇ mu-zu he₂-pad₃-de₃ u₂ dug₃ he₂-ri-ib-gu₇-e
+#lem: X; gu[eat]; mu[name]; pad[find]; u[plant(s)]; dug[good]; gu[eat]
+#etcsl: line-id=92
+
+93. ŠE₃ bar-ra nin kur-ra he₂-me-en arhuš hu-mu-ra-an-tuku-tuku
+#lem: X; bar[outside]; nin[lady]; kur[mountain(s)]; me[be]; arhuš[compassion]; tuku[acquire]
+#etcsl: line-id=93
+
+94. ki-naŋ a dug₃-ga e₂-zu he₂-ni-ib-us₂-X
+#lem: kinaŋ[libation place]; a[water]; dug[good]; e[house]; us[accompany]
+#etcsl: line-id=94
+
+95. e₂-a NIM-ta he₂-bi₂-in-KU X en {d}nin-ŋiš-zid-da#
+#lem: e[house]; X; X; X; en[lord]; Ninŋešzidak[1]
+#etcsl: line-id=95
+
+96. kalag-ga {d}gilgameš₂ silim ha-ra-an#-[X X]
+#lem: kalag[strong]; Gilgameš[1]DN; silim[healthy]; X; X
+#etcsl: line-id=96
+
+97. {d}bi₂-ti u₃ {d}e-ta₂-na a₂-tah-zu [X X]
+#lem: Biti[1]DN; u[and]; Etana[1]RN; atah[helper]; X; X
+#etcsl: line-id=97
+
+98. diŋir kur-ra-ke₄ šudu₃-zu he₂-em-ša₄-[...]
+#lem: diŋir[deity]; kur[mountain(s)]; šud[prayer]; ša[cvve]
+#etcsl: line-id=98
+
+99. muš₃-am₃ diŋir-zu he₂-em-me nam-zu [...]
+#lem: mušam[(exclamation of) compassion]; diŋir[deity]; e[speak]; nam[fate]; X
+#etcsl: line-id=99
+
+100. diŋir iri{ki}-za-a-kam šag₄ šu niŋin₂ ha-ra-X
+#lem: diŋir[deity]; iri[city]; šag[heart]; šu[hand]; niŋin[encircle]; X
+#etcsl: line-id=100
+
+101. šag₄ zu₂ keše₂ šul-a-lum ha-ra-du₈#
+#lem: šag[heart]; zu[tooth]; kešed[bind]; šulalum[punishment]; du[spread]
+#etcsl: line-id=101
+
+102. nam-tag-ga e₂-e-ke₄ šid-bi he₂-en-gaz
+#lem: namtaga[sin]; e[house]; šid[count]; gaz[kill]
+#etcsl: line-id=102
+
+103. niŋ₂-hul dim₂-ma-zu MUNUS kur-ta ge-en₆-na-bi
+#lem: niŋhulu[evil]; dim[create]; X; kur[mountain(s)]; gin[confirm]
+#etcsl: line-id=103
+
+104. egir-zu he₂-sag₉ X [...] X X-zu [...] X
+#lem: egir[back]; sag[good]; X; X; X; X; X; X
+#etcsl: line-id=104
+
+105. [...] TUG₂ he₂-dab₅
+#lem: X; X; dab[seize]
+#etcsl: line-id=105
+
+106. {d}udug {d}lamma X X GAR-zu he₂-X
+#lem: udug[demon]; lammar[(female) tutelary deity]; X; X; X; X
+#etcsl: line-id=106
+
+107. dumu u₃-tu-ud-da-zu nam#-saŋ-še₃ he₂-ni-sar
+#lem: dumu[child]; utud[give birth (to)]; namsaŋ[eminence]; sar[write]
+#etcsl: line-id=107
+
+108. dumu-munus-zu diŋir he₂-tuku-tuku
+#lem: dumumunus[daughter]; diŋir[deity]; tuku[acquire]
+#etcsl: line-id=108
+
+109. dam-zu he₂-til₃ im-ri-a-zu he₂-daŋal
+#lem: dam[spouse]; til[live (of a single person)]; imria[clan]; daŋal[wide]
+#etcsl: line-id=109
+
+110. he₂-ŋal₂ saŋ sag₉-ga ud šu₂-uš-e he₂-ni-gur₃-ru
+#lem: heŋal[plenty]; saŋ[head]; sag[good]; ud[sun]; šuš[cover]; gur[lift]
+#etcsl: line-id=110
+
+111. a-pap-za kurun niŋ₂ dug₃-ga muš₂ nam-ba-an-tum₂-mu
+#lem: apap[clay pipe]; kurun[beer]; niŋ[thing]; dug[good]; muš[face]; tum[bring]
+#etcsl: line-id=111
+
+112. (1:KA:1) e₂-e-zu (2:KA:2) diŋir-za-kam du-ri₂-še₃ he₂-a
+#lem: X; e[house]; X; diŋir[deity]; duri[forever]; me[be]
+#etcsl: line-id=112
+
+:112v.1.1: ($1 ms. has instead:$) tu₆
+#lem: tu[incantation]
+:112v.2.1: ($1 ms. has instead:$) tu₆
+#lem: tu[incantation]
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) A father sent a message to his son, to a far-off place; at that time the son, having gone to a distant place, was far away.
+
+@(3 = 3-8) The city-dwelling father was stricken with illness. He, precious brilliance found in a distant mountain (?), was stricken with illness. He, attractive in ……, a man who made words pleasing, was stricken with illness. He who had a tall figure, and altogether was powerful, was stricken with illness. He, wise in divine plans and an ornament of the assembly, was stricken with illness. He who was a man of truth, god-fearing, was stricken with illness.
+
+@(9 = 9-15) He, not eating, was stricken with illness and was languishing away (?). Having closed his mouth, he ate no food and lay famished. According to a tablet ……. The warrior, a wanderer (?), did not move a foot. From (?) his sick …… he was consumed with wailing for his children. Heart anguished, overcome by wailing, the scholar died a violent death in @wSN{Nibru}.
+
+@(16 = 16-19) This matter reached his son on the distant journey. Like a son who does not depend closely on his father, he had not returned the message which had been sent (?) to him. Now the son shed tears, threw himself to the dust and performed a musical song for him.
+
+@(20 = 20-32) @wPN{Lu-diŋira} out of his inflamed heart wrote a lament: @q[Lu-dijira,Nannaya]{“O father who has died a violent death, O  @varh[t552.v1]{@wPN{@wDN{Nanna}ya} }@vart[t552.v2,t552.v1]{@varn{1 ms. has instead:} my @wPN{@wDN{Nanna}ya} }, who through the evil planned against him has been carried off to the nether world, your wife's husband is a thing of the past, forever she will be a widow -- wheels (?) about you like a whirlwind, ……. She used to treat you as a foster-child -- now her reason is gone. Stupor has fallen upon her as if she were about to give birth. She turns the ……, moans (?) like a cow. She …… a lament, and sheds tears. She has covered up its …… and has taken (?) what is just (?).  @gap{1 line fragmentary}  The one who gathers (?) ……. …… touches you, the heart …….”}
+
+#etcsl#altGrpo
+#etcsl#alt t552.v1 t552.v2
+#etcsl#altGrpc
+
+@(33 = 33-39) @q{“The one who (?) rises (?) …… at dawn (?) from among the …… who dwell in ……, the @fsux{lukur} priestess of @wDN{Ninurta} from the ……, has thrown ……. Like a mourning (?) god (?), she ……. Her shouts (?) …… evil. In the midst of the cloister (?) she (?) …….  @gap{1 line fragmentary}  …… has made (?) the widespread people …… grain and …….”}
+
+@(40 = 40-46) @q{“The confusion of battles …… the @fsux{nin-diŋir} priestess of @wDN{Nuska}. She tears apart (?) …… for you, …… for you her (?) …….  @gap{5 lines fragmentary} ”}
+
+@(47 = 47-55) @q{“Your sons who were treated (?) like king's sons, what do they (?) eat ……, what do they (?) drink ……? They (?) …… honey and ghee. They load the table with (?) oil for you. The tears which they shed for him are tears of compassion. Their mourning (?) for him is that of loving and pure-hearted ones. They are bent over like over-ripe grain. The fledglings return ……, raise …….”}
+
+@(56 = 56-62) @q{“Over the brides of your sons who have said @q{“Where, where is he now?”} your …… has fallen. In their …… has been silenced (?) for you. On the laps of the household …… for you. Your …… sweet sounds …… sleep …… has been …… like ……. The …… lament for you …… does not (?) cease.”}
+
+@(63 = 63-69) @q{“O my father, may your heart be at rest. O @wPN{@wDN{Nanna}ya}, may your spirit be pleased. The @fsux{en} and @fsux{ensi} ……. Those who have escaped the hand of death ……. The hand of death has been …… in their ……. Death is the favour of the gods, the place where fate is decreed ……. May your offspring …… your knee.”}
+
+@(70 = 70-76) @q{“Your daughters have …… for you in their ……. The elders of your city have set up (?) mourning (?) for you. The young women of your city have …… for you. The slave at the grindstone …… has shed (?) tears for you. The house where he is placed (?) ……. He has …… silver, has acquired grain, has …… wide possessions. May the eldest son …… for you your …… firm foundations.”}
+
+@(77 = 77-84) @q{“As for your murderer who …… like one who …… the heart, your …… who plotted malice against you -- true (?) execution belongs to the king, the shepherd, your god; true (?) counsel belongs to @wDN{Utu}. May that man be a man accursed, death ……. …… his bones. May the names of his offspring ……. May their possessions …… like birds flying away.”}
+
+@(85 = 85-87) @q{“May the …… of the Land ……. May he bring you favourable …… words, may they make you content. O @wPN{@wDN{Nanna}ya}, may your spirit be pleased, may your heart be at rest.”}
+
+@(88 = 88-98) @q{“@wDN{Utu}, the great lord of the nether world, after turning the dark places to light, will judge your case. May @wDN{Nanna} decree your fate on the day of sleep. @wDN{Nergal}, the @wDN{Enlil} of the underworld, …… before it, may the …… utter your name, may he cause you to eat fresh food. May you be …… of the underworld, and may she have pity on you. May your household bring fresh water to the libation place. May Lord @wDN{Ninŋišzida} …… the house ……. May the mighty @wDN{Gilgameš} …… health for you. May @wDN{Neti} and @wRN{Etana} be your helpers. May the god of the underworld utter prayers for you.”}
+
+@(99 = 99-103) @q{“May your god say @q{“Enough!”}, may he …… your fate. May the god of your city …… compassion on you. May he release you from wrath and sin. May he erase the reckoning of the guilt of your house. …… the evil planned against you …….”}
+
+@(104 = 104-112) @q{“May your descendants be happy, ……. May ……. May the protective gods and goddesses …… your ……. May the children you begot be written down for privilege (?). May your daughters have divine favour. May your wife stay well, may your kin multiply. May prosperity and well-being (?) surround them day in day out. May good beer never cease in your libation tube. May the  @varh[t552.v3]{invocation }@vart[t552.v4,t552.v3]{@varn{1 ms. has instead:} incantation } of your house be forever the  @varh[t552.v5]{invocation }@vart[t552.v6,t552.v5]{@varn{1 ms. has instead:} incantation } of your god.”}
+
+#etcsl#altGrpo
+#etcsl#alt t552.v3 t552.v4
+#etcsl#alt t552.v5 t552.v6
+#etcsl#altGrpc
+
+#etcsl#linkGrpo
+#etcsl#link type=q t552.q1 t552.q2 t552.q3 t552.q4 t552.q5 t552.q6 t552.q7 t552.q8 t552.q9 t552.q10 t552.q11 t552.q12
+#etcsl#linkGrpc
+
+

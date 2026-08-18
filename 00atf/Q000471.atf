@@ -1,0 +1,174 @@
+&Q000471 = An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.21
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.21&display=Crit&charenc=gcirc#
+
+@div sa-ŋara A
+
+$ (unknown no. of lines missing)
+A.1. e₂#-kur-ra# e₂ [...]
+#lem: Ekur[1]TN; e[house]; X
+#etcsl: line-id=A.1
+
+A.2. šu il₂-la-zu-še₃! diŋir gal-gal-e#-[ne ...]
+#lem: šu[hand]; il[raise]; diŋir[deity]; gal[big]; X
+#etcsl: line-id=A.2
+
+A.3. ur₂# kug til₃ niŋ₂ dug₃ dirig-zu-še₃! [...]
+#lem: ur[loin]; kug[purify]; til[live (of a single person)]; niŋ[thing]; dug[good]; dirig[make more than]; X
+#etcsl: line-id=A.3
+
+A.4. bal# dug₃-bi-še₃ ŋal₂-ŋal₂-la AB X [...]
+#lem: bala[turn]; dug[good]; ŋal[⟦be⟧ to be (there]; X; X; X
+#etcsl: line-id=A.4
+
+A.5. {d#}iš-me-{d}da-gan dumu {d}en-lil₂-[la₂ ...]
+#lem: Išmedagan[1]RN; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=A.5
+
+A.6. [e₂]-gal-mah e₂ nam-nin-a-za UL [...]
+#lem: Egalmah[1]TN; e[house]; namnin[ladyship]; X; X
+#etcsl: line-id=A.6
+
+A.7. [...] nun-ne₂ {ŋiš}meš₃ pa mul-la X [...]
+#lem: X; nun[prince]; mes[tree]; pa[branch]; mul[shine]; X; X
+#etcsl: line-id=A.7
+
+A.8. [nam]-til₃#-la-ni dug₃-ge daŋal {d}iš-me-{[d]}[da-gan ...]
+#lem: namtil[life]; dug[good]; daŋal[wide]; Išmedagan[1]RN; X
+#etcsl: line-id=A.8
+
+A.9. [...] ki |DAG.KISIM₅×X| kug dumu an-na KA X [...]
+#lem: X; ki[place]; X; kug[purify]; dumu[child]; An[1]DN; X; X; X
+#etcsl: line-id=A.9
+
+A.10. [...] X egir-bi [...]
+#lem: X; X; egir[back]; X
+#etcsl: line-id=A.10
+
+A.11. [...] di# kud-ba kur-re he₂-si [...]
+#lem: X; did[lawsuit]; kud[cut]; kur[mountain(s)]; si[fill]; X
+#etcsl: line-id=A.11
+
+A.12. [...] X igi bar šeg₁₂ e₂-kur-ra-ka [...]
+#lem: X; X; igi[eye]; bar[place outside]; šeg[brick]; Ekur[1]TN; X
+#etcsl: line-id=A.12
+
+@div trailer 
+
+A.13. [sa]-ŋar-[ra-am₃]
+#lem: saŋara[musical notation]
+#etcsl: line-id=A.13
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal B
+
+B.14. {[d]}[da]-gan# sipad {d}iš-me-da-gan-na dumu {d}en-[lil₂-la₂-X] {tug₂}pala bar-še₃ šu# [...]
+#lem: Dagan[1]DN; sipad[shepherd]; Išmedagan[1]RN; dumu[child]; Enlil[1]DN; pala[garment]; bar[outside]; šu[hand]; X
+#etcsl: line-id=B.14
+
+@div trailer 
+
+B.15. [ŋiš-gi₄]-ŋal₂ sa-ŋar#-[ra-bi-im]
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=B.15
+
+@end trailer
+
+@end jicgijal
+
+@div uru C
+
+C.16. en# mah me an-na me ki KA HI gal [...]
+#lem: en[lord]; mah[great]; me[Being]; an[sky]; me[Being]; ki[place]; X; X; gal[big]; X
+#etcsl: line-id=C.16
+
+C.17. {d}da-gan en mah me an-na me ki KA# [HI gal ...]
+#lem: Dagan[1]DN; en[lord]; mah[great]; me[Being]; an[sky]; me[Being]; ki[place]; X; X; gal[big]; X
+#etcsl: line-id=C.17
+
+C.18. {d}iš-me-{d}da-gan kalam-ma mi-ni-in-suh# [...] šu hu-mu-e-[...]
+#lem: Išmedagan[1]RN; kalam[the Land (of Sumer)]; suh[choose]; X; šu[hand]; X
+#etcsl: line-id=C.18
+
+@div trailer 
+
+C.19. [u₁₈-ru₁₂]-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=C.19
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+C.20. a-da-ab {[d]}[da-gan-kam]
+#lem: adab[drum]; Dagan[1]DN
+#etcsl: line-id=C.20
+
+#etcsl#doc lines 19 and 20 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-jara
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-12) In the @wTN{E-kur}, the house ……. The great gods …… to your upraised hands. …… holy lap for your exceedingly pleasant life. …… for its good reign ……. @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil} ……. …… joy (?) in the @wTN{Egal-maḫ}, your ladylike house. …… the prince …… @fsux{meš} tree with shining branches ……. …… to make his life pleasant …… @wRN{Išme-@wDN{Dagan}} ……. …… holy …… the child of @wDN{An} …….  @gap{2 lines fragmentary}  …… brick-built @wTN{E-kur} …….
+
+#trailer rubric	sa-jara
+
+
+@(A.13 = 13) @fsux{Sa-ŋara}.
+
+#lg B	jicgijal
+
+
+@(B.14 = 14) @wDN{Dagan}, you have …… the shepherd @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil}, with a royal garment.
+
+#trailer rubric	jicgijal
+
+
+@(B.15 = 15) @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
+
+#lg C	uru
+
+
+@(C.16 = 16-17) The lofty lord, …… the divine powers of heaven and the divine powers of the earth; @wDN{Dagan}, the august lord, …… the divine powers of heaven and the divine powers of the earth. He has chosen @wRN{Išme-@wDN{Dagan}} in the Land, he …….
+
+#trailer rubric	uru
+
+
+@(C.19 = 19) Its @fsux{uru}.
+
+#trailer subscript	adab
+
+
+@(C.20 = 20) An @fsux{adab} of @wDN{Dagan} (?). @notep{lines 19 and 20 are written as one line in source}
+
+
+

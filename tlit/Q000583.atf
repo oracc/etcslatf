@@ -1,0 +1,77 @@
+&Q000583 = Letter from Inim-Inana to Enlil-massu
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.11
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.11&display=Crit&charenc=gcirc#
+
+1. {m}{d}en-lil₂-mas-su u₃-na-a-dug₄
+#lem: Enlilmassu[1]PN; dug[speak]
+#etcsl: line-id=1
+
+2. {m}inim-{d}inana-ke₄ na-ab-be₂-a
+#lem: Iniminana[1]PN; e[speak]
+#etcsl: line-id=2
+
+3. inim na-me ma-an-ne-eš-ma lul-aš ba-hul₂-le
+#lem: inim[word]; name[any]; e[speak]; lul[false]; hul[rejoice]
+#etcsl: line-id=3
+
+4. {d}lamma ud til₃-la-a kal-le lugal-šu₂
+#lem: lammar[(female) tutelary deity]; ud[sun]; til[live (of a single person)]; kal[rare]; Lugalšu[1]PN
+#etcsl: line-id=4
+
+5. {m}na-<bi>-{d}en-lil₂ u₃ {d}en-lil₂-al-sag₉
+#lem: Nabienlil[1]PN; u[and]; Enlilalsag[1]PN
+#etcsl: line-id=5
+
+6. um-mi-a šu igi du#-zu-ne
+#lem: ummia[expert]; šu[hand]; igi[eye]; du[go]
+#etcsl: line-id=6
+
+7. {d}nin-imma₃ diŋir-zu
+#lem: Ninimma[1]DN; diŋir[deity]
+#etcsl: line-id=7
+
+8. u₃ {d}nisaba nin ŋeštug₂ daŋal-la-ke₄
+#lem: u[and]; Nisabak[1]DN; nin[lady]; ŋeštug[ear]; daŋal[wide]
+#etcsl: line-id=8
+
+9. ŋeštug₂ ha-ra-ab-šum₂-mu-ne
+#lem: ŋeštug[ear]; šum[give]
+#etcsl: line-id=9
+
+10. niŋ₂ im-ma im-sar-re-a
+#lem: niŋ[thing]; im[clay]; sar[write]
+#etcsl: line-id=10
+
+11. iri šu-bi nu-gi₄ al-me-a nu-e-zu-u₃
+#lem: iri[city]; šu[hand]; gi[turn]; me[be]; zu[know]
+#etcsl: line-id=11
+
+12. min giŋ₄ kug-babbar diš tug₂ min {tug₂}bar-sig₉
+#lem: min[two]; giŋ[unit of weight]; kugbabbar[silver]; diš[one]; tug[textile]; min[two]; barsig[garment]
+#etcsl: line-id=12
+
+13. lu₂-gen₆-na šu mu-ra-da₁₃-da₁₃# šu ti-ba-ab
+#lem: Lugena[1]PN; šu[hand]; taka[set aside]; šu[hand]; teŋ[approach]
+#etcsl: line-id=13
+
+14. ha-la (1:da₁₃-da₁₃#:1) ama-zu šu nam-bi₂-te-en-teŋ₃
+#lem: hala[inheritance share]; taka[set aside]; ama[mother]; šu[hand]; teŋ[approach]
+#etcsl: line-id=14
+
+:14v.1.1: ($1 ms. has instead:$) da-da
+#lem: taka[set aside]
+
+15. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=15
+
+
+
+
+
+
+

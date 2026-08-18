@@ -1,0 +1,299 @@
+&Q000670 = A balbale to Suen (Nanna A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.01
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.01&display=Crit&charenc=gcirc#
+
+1. me-a lu ab₂ me-a lu-lu
+#lem: mea[where?]; lu[abundant]; ab[cow]; mea[where?]; lu[abundant]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 2; OB catalogue from Nibru (N4), 0.2.08, Seg. D, line 4
+
+2. šilam {d}suen me-a lu-lu
+#lem: šilam[cow]; Suen[1]DN; mea[where?]; lu[abundant]
+#etcsl: line-id=2
+
+3. gig₂-bi {na₄}za-gin₃ duru₅-am₃
+#lem: giggig[black]; zagin[lapis lazuli]; duru[wet]
+#etcsl: line-id=3
+
+4. ab₂-ba babbar-bi iti₆ e₃-a-am₃
+#lem: ab[cow]; babbar[white]; itud[moon]; e[leave]
+#etcsl: line-id=4
+
+5. tur-tur-bi še-gin₇ ma-ra-ši-sur
+#lem: tur[small]; še[barley]; sur[press]
+#etcsl: line-id=5
+
+6. gal-gal-bi am-gin₇ ma-ra-ši-lu
+#lem: gal[big]; am[wild bull]; lu[abundant]
+#etcsl: line-id=6
+
+7. ab₂ lu-a tur₃ lu-a-na
+#lem: ab[cow]; lu[abundant]; tur[animal stall]; lu[abundant]
+#etcsl: line-id=7
+
+8. giri₁₇-zal an-na-ke₄ saman!(|EŠ₂.NUN.SUD.EŠ₂.TU|)-ma ba-ni-in-du₈
+#lem: kirizal[joy]; an[sky]; saman[tethering rope]; du[spread]
+#etcsl: line-id=8
+
+9. ga ab₂ sig₇-a-bi banšur-ra i-ni-in-de₂
+#lem: ga[milk]; ab[cow]; sissig[green-yellow]; banšur[table]; de[pour]
+#etcsl: line-id=9
+
+10. šu dadag-ge ga na-tum₃-tum₃
+#lem: šu[hand]; dadag[bright]; ga[milk]; tum[bring]
+#etcsl: line-id=10
+
+11. lugal-ŋu₁₀ kiŋ₂-ŋa₂ til₃-la-ni
+#lem: lugal[king]; kiŋ[work]; til[complete]
+#etcsl: line-id=11
+
+12. {d}suen saman za-gin₃ ab₂ BAD ak-a#
+#lem: Suen[1]DN; saman[tethering rope]; zagin[lapis lazuli]; ab[cow]; X; ak[do]
+#etcsl: line-id=12
+
+13. ab₂ am₃-ra-ra-ra ab₂ am₃-KU-KU-[KU]
+#lem: ab[cow]; rah[beat]; ab[cow]; X
+#etcsl: line-id=13
+
+14. e-ne ab₂-ba nam-sipad mu-un-ak
+#lem: ane[he]; ab[cow]; namsipad[shepherdship]; ak[do]
+#etcsl: line-id=14
+
+15. ama ugu-ni nin nibru{ki}-ke₄
+#lem: ama[mother]; ugu[bear]; nin[lady]; Nibru[1]SN
+#etcsl: line-id=15
+
+16. en-ra edin-a-na a-ra-zu mu-na-ab-be₂
+#lem: en[lord]; eden[back]; arazu[supplication]; e[speak]
+#etcsl: line-id=16
+
+17. a-ra-zu unud(UNU₃) a-ra-zu
+#lem: arazu[supplication]; unud[cowherd]; arazu[supplication]
+#etcsl: line-id=17
+
+18. edin dug₃-ga ab₂ hu-mu-ra-ši-lu
+#lem: eden[back]; dug[good]; ab[cow]; lu[abundant]
+#etcsl: line-id=18
+
+19. ŋi₆ u₃-na um-ma-te-a-ta
+#lem: ŋi[night]; ŋiʾunak[night]; teŋ[approach]
+#etcsl: line-id=19
+
+20. e₂-kur eš₃ kal-kal za-e he₂-me-u₃-tud
+#lem: Ekur[1]TN; eš[shrine]; kal[rare]; zaʾe[you]; utud[give birth (to)]
+#etcsl: line-id=20
+
+21. ki aŋ₂-bi na-nam ki aŋ₂-bi na-nam
+#lem: ki[place]; aŋ[measure]; me[be]; ki[place]; aŋ[measure]; me[be]
+#etcsl: line-id=21
+
+22. en e₂-kur-ra ki aŋ₂-bi na-nam
+#lem: en[lord]; Ekur[1]TN; ki[place]; aŋ[measure]; me[be]
+#etcsl: line-id=22
+
+23. {d}en-lil₂-la₂ lu₂ la-la-ni na-nam
+#lem: Enlil[1]DN; lu[person]; lala[plenty]; me[be]
+#etcsl: line-id=23
+
+24. {d}suen ama ugu-ni i-lu-ni na-nam
+#lem: Suen[1]DN; ama[mother]; ugu[bear]; ilu[lament]; me[be]
+#etcsl: line-id=24
+
+25. ama ugu-ni šag₄ ki aŋ₂-ŋa₂-ni-ta
+#lem: ama[mother]; ugu[bear]; šag[heart]; ki[place]; aŋ[measure]
+#etcsl: line-id=25
+
+26. {d}suen-ra mi₂-e-eš na-mu-un-e
+#lem: Suen[1]DN; mi[cvne]; e[speak]
+#etcsl: line-id=26
+
+27. [ki] aŋ₂# šag₄-ga niŋ₂ šag₄ te-en-na-me-en
+#lem: ki[place]; aŋ[measure]; šag[heart]; niŋ[thing]; šag[heart]; ten[extinguish]
+#etcsl: line-id=27
+
+28. {d#}suen amar za-gin₃ dub₃ kug-ga peš-a
+#lem: Suen[1]DN; amar[calf]; zagin[lapis lazuli]; dub[knee]; kug[pure]; peš[thick]
+#etcsl: line-id=28
+
+29. [niŋ₂]-nam šag₄-ge al dug₄-ga-zu
+#lem: niŋnam[anything]; šag[heart]; al[cvne]; dug[speak]
+#etcsl: line-id=29
+
+30. [niŋ₂ kal]-kal-la šag₄-ge guru₇-a-zu
+#lem: niŋ[thing]; kal[rare]; šag[heart]; guru[grain heap]
+#etcsl: line-id=30
+
+31. [X X X] zi-zi he₂-du₇ e₂-kur-ra
+#lem: X; X; X; zig[rise]; hedu[ornament]; Ekur[1]TN
+#etcsl: line-id=31
+
+32. dug₃ {d}en-lil₂-la₂-ka za-e al dug₄-ba-ni-ib
+#lem: dug[good]; Enlil[1]DN; zaʾe[you]; al[cvne]; dug[speak]
+#etcsl: line-id=32
+
+33. giri₁₇-zal an-na za-e he₂-me-u₃-tud
+#lem: kirizal[joy]; an[sky]; zaʾe[you]; utud[give birth (to)]
+#etcsl: line-id=33
+
+34. i-lu-zu e₂-kur-re he₂-em-me
+#lem: ilu[lament]; Ekur[1]TN; e[speak]
+#etcsl: line-id=34
+
+35. zi-zu uŋ₃-e he₂-em-mi-ib-aŋ₂-ŋe₂₆
+#lem: zi[life]; uŋ[people]; aŋ[measure]
+#etcsl: line-id=35
+
+36. {d}suen an ki-a he₂-em-dirig-ge-en
+#lem: Suen[1]DN; an[sky]; ki[place]; dirig[make more than]
+#etcsl: line-id=36
+
+37. ab₂ GAR-NE ga-bi banšur-ra i-ni-in-de₂
+#lem: ab[cow]; GAR.NE[designation of cows]; ga[milk]; banšur[table]; de[pour]
+#etcsl: line-id=37
+
+38. {d}suen-e šu-luh-e si bi₂-in-sa₂
+#lem: Suen[1]DN; šuluh[ritual cleansing]; si[horn]; sa[equal]
+#etcsl: line-id=38
+
+39. niŋ₂ šu dug₄-ga-ŋu₁₀ dadag-ga-am₃
+#lem: niŋ[thing]; šu[hand]; dug[speak]; dadag[bright]
+#etcsl: line-id=39
+
+40. a-a-ŋu₁₀ {d}en-lil₂-le dug₃-ga he₂-gu₇-e
+#lem: aya[father]; Enlil[1]DN; dug[good]; gu[eat]
+#etcsl: line-id=40
+
+41. lugal ma₂-gur₈ kug an-na dirig-ga
+#lem: lugal[king]; magur[barge]; kug[purify]; an[sky]; dirig[make more than]
+#etcsl: line-id=41
+
+42. ama-ni ul-la mi₂ na-mu-un-e
+#lem: ama[mother]; ul[swell]; mi[cvne]; e[speak]
+#etcsl: line-id=42
+
+43. am an-ne₂ zid-de₃-eš pad₃-da-ŋu₁₀
+#lem: am[wild bull]; An[1]DN; zid[right]; pad[find]
+#etcsl: line-id=43
+
+44. mu-zu kur-kur-ra %e ze₂-be₂-eš im-ma-al
+#lem: mu[name]; kur[mountain(s)]; zeb[good]V/i; mal[be]V/i
+#etcsl: line-id=44
+
+45. en tur₃ kug-ga šu-luh dadag-ga-am₃
+#lem: en[lord]; tur[animal stall]; kug[pure]; šuluh[ritual cleansing]; dadag[bright]
+#etcsl: line-id=45
+
+46. a ra eš₃ kug-ga-am₃ saman za-gin₃-na
+#lem: a[water]; ri[impose]; eš[shrine]; kug[pure]; saman[tethering rope]; zagin[lapis lazuli]
+#etcsl: line-id=46
+
+47. dumu ur-saŋ {d}nin-lil₂-le tud-da
+#lem: dumu[child]; ursaŋ[warrior]; Ninlil[1]DN; utud[give birth (to)]
+#etcsl: line-id=47
+
+48. {d}nanna a-gar₃ a ru-a ki aŋ₂ an kug-ga#
+#lem: Nanna[1]DN; agar[meadow]; a[water]; ri[impose]; ki[place]; aŋ[measure]; An[1]DN; kug[pure]
+#etcsl: line-id=48
+
+49. nam-sipad kalam-ma an-ne₂ ma-ra-an-šum₂
+#lem: namsipad[shepherdship]; kalam[the Land (of Sumer)]; An[1]DN; šum[give]
+#etcsl: line-id=49
+
+50. {d}en-lil₂-le mu dug₃-ga mi-ri-in-sa₄
+#lem: Enlil[1]DN; mu[name]; dug[good]; še[call by name]
+#etcsl: line-id=50
+
+51. dug₄-ga zid dumu {d}en-lil₂-la₂-me-en
+#lem: dug[speak]; zid[right]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=51
+
+52. an-ne₂ šag₄ mah-a-na nam-lugal ma-ra-an-šum₂
+#lem: An[1]DN; šag[heart]; mah[great]; namlugal[kingship]; šum[give]
+#etcsl: line-id=52
+
+53. iri-zu urim₂{ki} šag₄-ge bi₂-pad₃
+#lem: iri[city]; Urim[1]SN; šag[heart]; pad[find]
+#etcsl: line-id=53
+
+54. id₂ nun-e ku₆ mušen ma-ra-ab-tum₃
+#lem: id[river]; nun[prince]; kud[fish]; mušen[bird]; tum[bring]
+#etcsl: line-id=54
+
+55. dumu-saŋ {d}en-lil₂-la₂ nam-en-na X [...]
+#lem: dumusaŋ[first-born]; Enlil[1]DN; namen[the office of en-priest]; X; X
+#etcsl: line-id=55
+
+56. nam-lugal an-na za-ra mu-ra-an-šum₂
+#lem: namlugal[kingship]; an[sky]; zaʾe[you]; šum[give]
+#etcsl: line-id=56
+
+57. diŋir an-na hi-li gur₃-ru-me-en
+#lem: diŋir[deity]; an[sky]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=57
+
+58. iti₆-zu kug-ga-am₃ dadag-ga-am₃
+#lem: itud[moon]; kug[pure]; dadag[bright]
+#etcsl: line-id=58
+
+59. {d}utu-gin₇ %e su₈-ba %s kalam-ma-me-en
+#lem: Utu[1]DN; subad[shepherd]N; kalam[the Land (of Sumer)]
+#etcsl: line-id=59
+
+60. {d}nanna lugal-ra ud-de₃-eš-e mu-un-e₃
+#lem: Nanna[1]DN; lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=60
+
+@div trailer 
+
+61. bal-bal-e {d}suen-na-kam
+#lem: balbale[literary subscript]; Suen[1]DN
+#etcsl: line-id=61
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-14) How many there are! How many cows there are! How many cattle of @wDN{Suen} there are! The dark ones are translucent lapis lazuli; the pale cows are the light of the risen moon. The little ones trickle down like barleycorns for you; the large ones throng together like wild bulls for you. The Glory of Heaven @noteref{Suen} has undone the halters of the numerous cows in his teeming herd. He has poured out milk from the beautiful cows at the offering table; his bright hands ever pour the milk. After my king has completed the work, @wDN{Suen} …… the shining halter …… the cows, he …… the cows, he …… the cows. He acts as the herder of the cows.
+
+@(15 = 15-20) His own mother, the lady of @wSN{Nibru}, speaks a prayer to the lord in his desert: @q[Ninlil,Nanna]{“A prayer, O shepherd! A prayer! May the cows be numerous for you in the good desert. When you arrive at nightfall, may you renew the @wTN{E-kur}, the highly prized sanctuary.”}
+
+@(21 = 21-24) He is its lover, he is its lover, he is the lord, the @wTN{E-kur's} lover! He is the man of delight to @wDN{Enlil}, he is @wDN{Suen}, the cry of joy of his own mother.
+
+@(25 = 25-36) The mother who bore him speaks kindly from her loving heart to @wDN{Suen}: @q[Ninlil,Suen]{“You are the beloved of the heart who calms the heart, @wDN{Suen}, shining calf who grew fat on the holy lap; you can wish in your heart for anything! You can desire everything precious to the heart! ……, splendour of the @wTN{E-kur}, make your wish on @wDN{Enlil's} lap. May you create glory in heaven! May the @wTN{E-kur} sing a song of joy about you, may the people call upon your life, @wDN{Suen}, may you be supreme in heaven and earth!”}
+
+@(37 = 37-40) He has poured out milk from the …… cows at the offering table, @wDN{Suen} has ordained the purification rites: @q[Suen,self]{“Everything that I do is brilliant! My father @wDN{Enlil} has fed me well.”}
+
+@(41 = 41-49) His mother speaks kindly in joy to the king, the holy barge which travels across the sky: @q[Ninlil,Nanna]{“My wild bull whom @wDN{An} has well called, your name is respected in all lands. Lord of the holy herd who consecrates the purification rites, seed engendered in a holy shrine, shining halter, heroic child born by @wDN{Ninlil}! @wDN{Nanna}, seed engendered in the fields, beloved of holy @wDN{An}! @wDN{An} has conferred on you the shepherding of the Land!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t41301.q1 t41301.q2
+#etcsl#linkGrpc
+
+@(50 = 50-60) @q{“@wDN{Enlil} has named you with a good renown -- you are the son of @wDN{Enlil} whose speech is just. In his elevated heart @wDN{An} has bestowed kingship on you. He has chosen your city @wSN{Urim} in his heart. For you he has brought fish and birds to the princely river. First-born of @wDN{Enlil}, who …… the rank of lord, he has bestowed on you the kingship of heaven. You are a god dressed in beauty in the heavens. Your moonlight is holy and bright, and because like @wDN{Utu} you are a shepherd of the Land, @wDN{Nanna}, it shines forth for the king like the daylight.”}
+
+#trailer subscript	balbale
+
+
+@(61 = 61) A @fsux{balbale} of @wDN{Suen}.
+
+
+

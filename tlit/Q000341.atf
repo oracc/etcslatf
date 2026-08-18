@@ -1,0 +1,234 @@
+&Q000341 = Inana and Gudam
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.3.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.4&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. gud-dam iri{ki} [...]
+#lem: Gudam[1]PN; iri[city]; X
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 13
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. gud-[dam ...]
+#lem: Gudam[1]PN; X
+#etcsl: line-id=B.1
+
+B.2. gud-dam [...]
+#lem: Gudam[1]PN; X
+#etcsl: line-id=B.2
+
+B.3. {d}inana [...]
+#lem: Inanak[1]DN; X
+#etcsl: line-id=B.3
+
+B.4. gud-dam šag₄ unug{ki#} [...]
+#lem: Gudam[1]PN; šag[heart]; Unug[1]SN; X
+#etcsl: line-id=B.4
+
+B.5. {e₂}šutum# [...] im-ma-ni-[...]
+#lem: šutum[storehouse]; X; X
+#etcsl: line-id=B.5
+
+B.6. gud-dam kaš i-[...] kurun i-[...]
+#lem: Gudam[1]PN; kaš[beer]; X; kurun[beer]; X
+#etcsl: line-id=B.6
+
+B.7. {zabar}aga [...] {zabar#}aga [...]
+#lem: aga[vessel]; X; aga[vessel]; X
+#etcsl: line-id=B.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. {zabar}aga X im-gur₄-gur₄-re
+#lem: aga[vessel]; X; gur[thick]
+#etcsl: line-id=C.1
+
+C.2. ti-lim-da ma₂-gur₈ kug im-bi-bi-re
+#lem: tilimda[water vessel]; magur[barge]; kug[purify]; babbar[white]
+#etcsl: line-id=C.2
+
+C.3. zid₂-gu sag₁₀ suhur-sun₄-la₂#{ku₆} X X X X TUM X X
+#lem: zidgu[type of flour]; sag[good]; suhursumla[fish]; X; X; X; X; X; X; X
+#etcsl: line-id=C.3
+
+C.4. E ku₆ šum₂-e E ku₆ zu₂-lum-ma-gin₇ im-BUL-[...]
+#lem: X; kud[fish]; šum[give]; X; kud[fish]; zulum[the fruit of the date-palm]; X
+#etcsl: line-id=C.4
+
+C.5. gud-dam-ra e-sir₂ unug{ki}-ga-ke₄ šar₂-am₃ mu-na-an#-[us₂ ...]
+#lem: Gudam[1]PN; esir[street]; Unug[1]SN; šar[numerous]V/i; us[accompany]; X
+#etcsl: line-id=C.5
+
+C.6. šar₂-ra {ŋiš}tukul-a mu-na-an-dur₂-ru-ne-eš
+#lem: šar[numerous]V/i; tukul[weapon]; durun[sit]
+#etcsl: line-id=C.6
+
+C.7. nar-a-ni lugal-gaba-ŋal₂ DI gub-bu-de₃ ba-ra-e₃
+#lem: nar[musician]; Lugalgabaŋal[1]PN; X; gub[stand]; e[leave]
+#etcsl: line-id=C.7
+
+C.8. ugnim-e igi im-ma-an-sig₁₀
+#lem: ugnim[army]; igi[eye]; sig[put into]
+#etcsl: line-id=C.8
+
+C.9. nar-e en₃-du-a šu i-ni-in-gi₄ sa šu-na bi₂-in-RU
+#lem: nar[musician]; endu[song]; šu[hand]; gi[turn]; sa[sinew]; šu[hand]; X
+#etcsl: line-id=C.9
+
+C.10. i₃-gu₇-a-zu i₃-gu₇-a-zu
+#lem: gu[eat]; gu[eat]
+#etcsl: line-id=C.10
+
+C.11. ninda nu-e-gu₇ uzu-zu-um i₃-gu₇
+#lem: ninda[bread]; gu[eat]; uzu[flesh]; gu[eat]
+#etcsl: line-id=C.11
+
+$ (possibly an erasure: X)
+C.12. i₃-naŋ-a-zu i₃-naŋ-a-zu
+#lem: naŋ[drink]; naŋ[drink]
+#etcsl: line-id=C.12
+
+C.13. kaš nu-e-naŋ uš₂-zu-um i₃-naŋ
+#lem: kaš[beer]; naŋ[drink]; uš[blood]; naŋ[drink]
+#etcsl: line-id=C.13
+
+$ (possibly an erasure: XX)
+C.14. gud-dam-e e-sir₂ unug{ki}-ga-ke₄ šar₂-am₃ ma-ra-mi-u₃-us₂
+#lem: Gudam[1]PN; esir[street]; Unug[1]SN; šar[numerous]V/i; us[accompany]
+#etcsl: line-id=C.14
+
+C.15. šar₂-ra-am₃ {ŋiš}tukul-a ma-ra-dur₂-ru-ne-eš
+#lem: šar[numerous]V/i; tukul[weapon]; durun[sit]
+#etcsl: line-id=C.15
+
+C.16. DU a-na-ak-en munus-e ŋa₂-a ma-an-dug₄-ga un-ne-DU-de₃-en
+#lem: X; ak[do]; munus[woman]; ŋaʾe[I]; dug[speak]; X
+#etcsl: line-id=C.16
+
+C.17. gud-dam-e haš₂ tibir-ra bi₂-in-ra ni₂ su-e bi₂-ib₂-us₂
+#lem: Gudam[1]PN; haš[thigh]; tibir[hand]; rah[beat]; ni[fear]; su[flesh]; us[accompany]
+#etcsl: line-id=C.17
+
+C.18. šar₂-ur₃ a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ šu nu-um-ma-ti
+#lem: Šarur[1]DN; a[arm]; namursaŋ[heroism]; šu[hand]; teŋ[approach]
+#etcsl: line-id=C.18
+
+C.19. e₂ zabalam{ki} ŋa₂-a GIL ki-bi dal-la mi-ni-gi₄
+#lem: e[house]; Zabalam[1]SN; ŋaʾe[I]; X; ki[place]; dal[fly]; gi[turn]
+#etcsl: line-id=C.19
+
+C.20. {ŋiš}dal e₂-an-na pa-ba mi-ni-in-kud
+#lem: ŋešdal[crossbar]; Eanak[1]TN; pa[branch]; kud[cut]
+#etcsl: line-id=C.20
+
+C.21. gud-dam sila-še₃ im-ma-na-ra-e₃
+#lem: Gudam[1]PN; sila[street]; e[leave]
+#etcsl: line-id=C.21
+
+C.22. gud-dam-e e-sir₂ unug{ki}-ga-ke₄ šar₂-ra mu-ni-in-gaz
+#lem: Gudam[1]PN; esir[street]; Unug[1]SN; šar[numerous]V/i; gaz[kill]
+#etcsl: line-id=C.22
+
+C.23. šar₂-ra {ŋiš}tukul-a-na mu-ni-in-ug₇
+#lem: šar[numerous]V/i; tukul[weapon]; uš[die]
+#etcsl: line-id=C.23
+
+C.24. (1:{ŋiš}ig abul-la im-ma-an-guru₅-guru₅:1)
+#lem: ig[door]; abula[gate]; guguru[trim down]
+#etcsl: line-id=C.24
+
+:24v.1.1: ($the other ms. has instead:$) abul-a abula {d}iškur [...]
+#lem: abula[gate]; abula[gate]; Iškur[1]DN; X
+
+C.25. a gaba-na-ka im-ma-da-an-e₃
+#lem: a[water]; gaba[breast]; e[leave]
+#etcsl: line-id=C.25
+
+C.26. šu-peš tur šu-peš {d}inana-ke₄
+#lem: šukud[fisherman]; tur[small]; šukud[fisherman]; Inanak[1]DN
+#etcsl: line-id=C.26
+
+C.27. {urud}dur₁₀-tab-ba (1:mu-na-an-bar-re-ia-ka:1)
+#lem: durtaba[an ax]; bar[place outside]
+#etcsl: line-id=C.27
+
+:27v.1.1: ($the other ms. has instead:$) šu he₂-[...]
+#lem: šu[hand]; X
+
+C.28. gud-dam-ra im-ma-an-ra-ah
+#lem: Gudam[1]PN; rah[beat]
+#etcsl: line-id=C.28
+
+C.29. gud-dam-e er₂ im-ma-an-pad₃!(RU) šeₓ(SIG₇)-šeₓ(SIG₇) i₃-ŋa₂-ŋa₂
+#lem: Gudam[1]PN; er[tears]; pad[find]; še[tear]; ŋar[put]
+#etcsl: line-id=C.29
+
+C.30. {d}inana zi-ŋu₁₀ šum₂-ma-ab
+#lem: Inanak[1]DN; zi[life]; šum[give]
+#etcsl: line-id=C.30
+
+C.31. gud kur-ra ga-mu-ra-ab-šum₂ tur₃-zu ga-mu-ra-ab-lu
+#lem: gud[bull]; kur[mountain(s)]; šum[give]; tur[animal stall]; lu[abundant]
+#etcsl: line-id=C.31
+
+C.32. udu kur-ra ga-mu-ra-ab-šum₂! amaš-zu ga-mu-ra-ab-lu
+#lem: udu[sheep]; kur[mountain(s)]; šum[give]; amaš[sheepfold]; lu[abundant]
+#etcsl: line-id=C.32
+
+C.33. kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; gi[turn]
+#etcsl: line-id=C.33
+
+@variants
+
+#etcsl#ms the other ms. adds 3 lines:
+C.33A. gud kur-ra ŋa₂-a-[ra ...]
+#lem: gud[bull]; kur[mountain(s)]; ŋaʾe[I]; X
+#etcsl: line-id=C.33A
+
+C.33B. udu kur-ra ŋa₂-a-[ra ...]
+#lem: udu[sheep]; kur[mountain(s)]; ŋaʾe[I]; X
+#etcsl: line-id=C.33B
+
+C.33C. {ŋiš#}tukul-še₃ ma-ra#-[...]
+#lem: tukul[weapon]; X
+#etcsl: line-id=C.33C
+
+@endvariants
+C.34. a-šag₄ zabalam{ki}-a dur₂ ŋar bi₂-e-ŋar-ra e-duru₂-bi ki-nu₂-ba
+#lem: ašag[field]; Zabalam[1]SN; dur[buttocks]; ŋar[put]; ŋar[put]; eduru[village]; kinud[sleeping quarter]
+#etcsl: line-id=C.34
+
+C.35. daŋal-ba anše ha-ra-ab-huŋ-e X al hu-mu-ra-ab-be₂
+#lem: daŋal[wide]; anše[equid]; huŋ[pacify]; X; al[cvne]; e[speak]
+#etcsl: line-id=C.35
+
+C.36. {d}inana nam-ur-saŋ ga-am₃-dug₄
+#lem: Inanak[1]DN; namursaŋ[heroism]; dug[speak]
+#etcsl: line-id=C.36
+
+C.37. za₃-mi₂-zu dug₃-ga-am₃
+#lem: zamin[praise]; dug[good]
+#etcsl: line-id=C.37
+
+@end segment
+
+
+
+
+
+
+

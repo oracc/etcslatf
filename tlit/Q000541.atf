@@ -1,0 +1,99 @@
+&Q000541 = Letter from Aradŋu to Šulgi about irrigation work
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.03&display=Crit&charenc=gcirc#
+
+1. lugal-ŋu₁₀-ra u₃-na-a-dug₄
+#lem: lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. {m}arad-ŋu₁₀ arad-zu na-ab-be₂-a
+#lem: Aradŋu[1]PN; arad[slave]; e[speak]
+#etcsl: line-id=2
+
+3. lugal-ŋu₁₀ niŋ₂ na-me-še₃ a₂-še mu-e-da-a-aŋ₂
+#lem: lugal[king]; niŋ[thing]; name[any]; aše[now]; aŋ[measure]
+#etcsl: line-id=3
+
+4. a-ab-ba kur dilmun{ki}-na-ta
+#lem: aʾabak[sea]; kur[mountain(s)]; Dilmun[1]GN
+#etcsl: line-id=4
+
+5. (1:a mun₄ gaba kur mar-tu{ki}-ta:1)
+#lem: a[water]; mun[salt]; gaba[breast]; kur[mountain(s)]; Martu[1 Amorite]
+#etcsl: line-id=5
+
+:5v.1.1: ($some mss. have instead:$) a mun₄ gaba kur mar-tu{ki}-še₃
+#lem: a[water]; mun[salt]; gaba[breast]; kur[mountain(s)]; Martu[1 Amorite]
+
+6. (1:da#:1) si-mu-ur-ru-um (2:[ma]-da X{ki}-še₃:2)
+#lem: dag[side]; Simurrum[1]SN; mada[land]; X[1]SN
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) gaba#
+#lem: gaba[breast]
+:6v.2.1: ($1 ms. has instead:$) ma-da su-bir₄{ki}-ta
+#lem: mada[land]; Subir[1]GN
+
+7. iri{ki} dili-dili-bi (1:ma-da-ma-da-bi:1)
+#lem: iri[city]; dili[single]; mada[land]
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) ugnim-be₂-ne
+#lem: ugnim[army]
+
+8. id₂ a-šag₄ a-gar₃-bi u₃ eg₂ pa₅-bi
+#lem: id[river]; ašag[field]; agar[meadow]; u[and]; eg[levee]; par[(small) canal]
+#etcsl: line-id=8
+
+9. igi X IN X X DU en šag₄ X X
+#lem: igi[eye]; X; X; X; X; X; en[lord]; šag[heart]; X; X
+#etcsl: line-id=9
+
+10. iri{ki}-iri{ki} ŋiš tuku lugal-ŋu₁₀
+#lem: iri[city]; ŋeš[tree]; tuku[acquire]; lugal[king]
+#etcsl: line-id=10
+
+11. ki X X X BI X X X ur₂ X X X X
+#lem: ki[place]; X; X; X; X; X; X; X; ur[loin]; X; X; X; X
+#etcsl: line-id=11
+
+12. bad₃-bi en-nu-uŋ₃ kalag-ga bi₂-gub
+#lem: bad[wall]; ennuŋ[watch]; kalag[strong]; gub[stand]
+#etcsl: line-id=12
+
+13. ugnim-bi gu₂ ŋiš bi₂-ŋar-ŋar
+#lem: ugnim[army]; gu[neck]; ŋeš[tree]; ŋar[put]
+#etcsl: line-id=13
+
+14. X sig X X X X NE X X
+#lem: X; sig[weak]; X; X; X; X; X; X; X
+#etcsl: line-id=14
+
+15. a-gar₃ a ŋar-ra-bi a-ta im-ta-e₃
+#lem: agar[meadow]; a[water]; ŋar[put]; a[water]; e[leave]
+#etcsl: line-id=15
+
+16. X eg₂ zal-la-bi X bi₂-ak
+#lem: X; eg[levee]; zal[pass time]; X; ak[do]
+#etcsl: line-id=16
+
+17. X X a-šag₄-bi ŋiš-gi X-ra
+#lem: X; X; ašag[field]; ŋešgi[thicket]; X
+#etcsl: line-id=17
+
+18. [...] X-ke₄ saŋ sag₃-ge X-bi
+#lem: X; X; saŋ[head]; sag[strike]; X
+#etcsl: line-id=18
+
+$ (4 lines fragmentary)
+$ (unknown no. of lines missing)
+
+
+
+
+
+

@@ -1,0 +1,439 @@
+&Q000518 = A praise poem of Ḫammu-ràbi (Ḫammu-ràbi A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.2.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.1&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. [...]-še₃ mu-un#-X [...]
+#lem: X; X; X
+#etcsl: line-id=A.1
+
+A.2. [...] nam-en-bi ak-de₃ mu-un#-[...]
+#lem: X; namen[the office of en-priest]; ak[do]; X
+#etcsl: line-id=A.2
+
+A.3. [...] šu iri [...]
+#lem: X; šu[hand]; iri[city]; X
+#etcsl: line-id=A.3
+
+A.4. [...] X ZI hul-da X-ni-me#-[en]
+#lem: X; X; X; hulu[bad]; X
+#etcsl: line-id=A.4
+
+A.5. [...] X nu-mu-un-tuku# [...]
+#lem: X; X; tuku[acquire]; X
+#etcsl: line-id=A.5
+
+A.6. [...] keše₂-ni-[me]-en
+#lem: X; kešed[bind]
+#etcsl: line-id=A.6
+
+A.7. [...] X MAR A BU A₂ UR X GIŠ# ZI
+#lem: X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=A.7
+
+A.8. [...] GU TU UM DI U₃ DA-DA SU
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=A.8
+
+A.9. [...] X X DI nam-da-X-a-ni!-še₃
+#lem: X; X; X; X; X
+#etcsl: line-id=A.9
+
+A.10. [...]-zu X um-ma-ri saŋ gig₂-ga X IM# en GIL
+#lem: X; X; ri[impose]; saŋ[head]; giggig[black]; X; X; en[lord]; X
+#etcsl: line-id=A.10
+
+A.11. X [...] {[id₂]}buranuna KU X X X X ki-bi-da-ke₄ ha-ba-da-[...]
+#lem: X; X; Buranun[1 Euphrates]; X; X; X; X; X; ki[place]; X
+#etcsl: line-id=A.11
+
+A.12. {id₂}idigna# X IM AN# [...]
+#lem: Idigna[1 Tigris]; X; X; X; X
+#etcsl: line-id=A.12
+
+A.13. gu₂ {id₂}ir-ni-na-ta garaš₂(|KI.KAL.BAD|) bi-ib₂-du₃ [...] X
+#lem: gu[neck]; Irnina[1]WN; garaš[military camp]; du[build]; X; X
+#etcsl: line-id=A.13
+
+A.14. ha-am-mu-ra-bi lugal {d}gibil mu-X [...]
+#lem: Hammurabi[1]RN; lugal[king]; Gibil[1]DN; X; X
+#etcsl: line-id=A.14
+
+A.15. {d}en-<lil₂>-le nam-a-ni-še₃ X X [...]
+#lem: Enlil[1]DN; nam[fate]; X; X; X
+#etcsl: line-id=A.15
+
+A.16. {d}en-ki-ke₄ nam-ur-[saŋ ...]
+#lem: Enkik[1]DN; namursaŋ[heroism]; X
+#etcsl: line-id=A.16
+
+A.17. {d}suen-na mu-un-[...]
+#lem: Suen[1]DN; X
+#etcsl: line-id=A.17
+
+A.18. {d}utu maš-maš [...]
+#lem: Utu[1]DN; mašmaš[sorcerer]; X
+#etcsl: line-id=A.18
+
+A.19. ka piriŋ# A [...]
+#lem: kag[mouth]; piriŋ[lion]; X; X
+#etcsl: line-id=A.19
+
+A.20. niŋ₂ šag₄-ge de₆-a-ni [...]
+#lem: niŋ[thing]; šag[heart]; de[carry]; X
+#etcsl: line-id=A.20
+
+A.21. {d}iškur nam-ur-saŋ [...]
+#lem: Iškur[1]DN; namursaŋ[heroism]; X
+#etcsl: line-id=A.21
+
+A.22. {d}marduk nam-kalag IM X la-[...]
+#lem: Marduk[1]DN; namkalag[strength]; X; X; X
+#etcsl: line-id=A.22
+
+A.23. {d}inana me X X X [...]
+#lem: Inanak[1]DN; me[Being]; X; X; X; X
+#etcsl: line-id=A.23
+
+A.24. ni₂-tuku [...]
+#lem: nituku[pious]; X
+#etcsl: line-id=A.24
+
+A.25. X [...]
+#lem: X; X
+#etcsl: line-id=A.25
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.1
+
+B.2. AN [...]
+#lem: X; X
+#etcsl: line-id=B.2
+
+B.3. X [...]
+#lem: X; X
+#etcsl: line-id=B.3
+
+B.4. X [...]
+#lem: X; X
+#etcsl: line-id=B.4
+
+B.5. X [...]
+#lem: X; X
+#etcsl: line-id=B.5
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] AB KID X NI X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=C.1
+
+C.2. [...] e-ri nam-lu₂-[ulu₃ ...]
+#lem: X; ri[impose]; namlulu[humanity]; X
+#etcsl: line-id=C.2
+
+C.3. [...] a-ri nam-zu [...]
+#lem: X; ri[impose]; nam[fate]; X
+#etcsl: line-id=C.3
+
+C.4. [...] X X-me-en#
+#lem: X; X; X
+#etcsl: line-id=C.4
+
+C.5. [...] X-zu-e sag₃-ge
+#lem: X; X; sag[strike]
+#etcsl: line-id=C.5
+
+C.6. [...] HAR nam-zu E AN X
+#lem: X; X; nam[fate]; X; X; X
+#etcsl: line-id=C.6
+
+C.7. [...] X X-ke₄ saŋ X tah!-tah
+#lem: X; X; X; saŋ[head]; X; tah[add]
+#etcsl: line-id=C.7
+
+C.8. [...] X kur gal X-le-ne
+#lem: X; X; kur[mountain(s)]; gal[big]; X
+#etcsl: line-id=C.8
+
+C.9. [...] X mu-un-dug₄-eš
+#lem: X; X; dug[speak]
+#etcsl: line-id=C.9
+
+C.10. [...] me lugal-la-ke₄#
+#lem: X; me[Being]; lugal[king]
+#etcsl: line-id=C.10
+
+C.11. [...] X NA RA SI X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.11
+
+C.12. [...] {d}en-lil₂ saŋ [...]
+#lem: X; Enlil[1]DN; saŋ[head]; X
+#etcsl: line-id=C.12
+
+C.13. [...] PA IM AŠ
+#lem: X; X; X; X
+#etcsl: line-id=C.13
+
+C.14. [... nam]-en#-bi ak
+#lem: X; namen[the office of en-priest]; ak[do]
+#etcsl: line-id=C.14
+
+C.15. [...]-bi ak
+#lem: X; ak[do]
+#etcsl: line-id=C.15
+
+C.16. [...] X ib₂ NE X X DI#
+#lem: X; X; ib[angry]; X; X; X; X
+#etcsl: line-id=C.16
+
+C.17. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=C.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+D.1. X X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=D.1
+
+D.2. [...] {d}en-ki-ke₄
+#lem: X; Enkik[1]DN
+#etcsl: line-id=D.2
+
+D.3. [...] X-zu kalam-ta e₃-a
+#lem: X; X; kalam[the Land (of Sumer)]; e[leave]
+#etcsl: line-id=D.3
+
+D.4. [...] X me-te nam-diŋir LAGAB
+#lem: X; X; mete[appropriate thing]; namdiŋir[divinity]; X
+#etcsl: line-id=D.4
+
+D.5. [...] KA ib₂-ni X
+#lem: X; X; ib[angry]; X
+#etcsl: line-id=D.5
+
+D.6. [...] X BI RI X EN IG A X
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=D.6
+
+D.7. [...] X X X X X ŋar-ŋar-ra
+#lem: X; X; X; X; X; X; ŋar[put]
+#etcsl: line-id=D.7
+
+D.8. [...]-gin₇ niŋ₂-hul₂-e X X
+#lem: X; niŋhul[joy]; X; X
+#etcsl: line-id=D.8
+
+D.9. [...]-ra en₃-du-bi i-i#-e
+#lem: X; endu[song]; e[bring out]
+#etcsl: line-id=D.9
+
+D.10. [...] GI# alan-zu la-ba-da-an-kur₉-re
+#lem: X; X; alan[image]; kur[enter]
+#etcsl: line-id=D.10
+
+D.11. [...] ud-da-ni#-še₃
+#lem: X; ud[sun]
+#etcsl: line-id=D.11
+
+D.12. [...] X X zu šu mi-ni-ib₂-|DU.DU|
+#lem: X; X; X; zu[know]; šu[hand]; X
+#etcsl: line-id=D.12
+
+D.13. {[d]}[en]-lil₂ šag₄-zu mu-un-na-dim₂
+#lem: Enlil[1]DN; šag[heart]; dim[create]
+#etcsl: line-id=D.13
+
+D.14. [...] ba#-da-an-kur₉-re
+#lem: X; kur[enter]
+#etcsl: line-id=D.14
+
+D.15. [...] nam kal-kal [...]
+#lem: X; nam[fate]; kal[rare]; X
+#etcsl: line-id=D.15
+
+D.16. [...] X RI DA lu₂ X X [...]
+#lem: X; X; X; X; lu[person]; X; X; X
+#etcsl: line-id=D.16
+
+D.17. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=D.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+E.1. X [...]
+#lem: X; X
+#etcsl: line-id=E.1
+
+E.2. lu₂ X [...]
+#lem: lu[person]; X; X
+#etcsl: line-id=E.2
+
+E.3. E [...]
+#lem: X; X
+#etcsl: line-id=E.3
+
+E.4. X [...]
+#lem: X; X
+#etcsl: line-id=E.4
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment F
+
+F.1. X [...] X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=F.1
+
+F.2. [nun]-bi {d}marduk lu₂ mu-un#-[...]
+#lem: nun[prince]; Marduk[1]DN; lu[person]; X
+#etcsl: line-id=F.2
+
+F.3. aš₂ gig-ga [...]
+#lem: aš[curse]; gig[sick]; X
+#etcsl: line-id=F.3
+
+F.4. ib₂-ba gu-la {d}marduk [...]
+#lem: ib[angry]; gal[big]; Marduk[1]DN; X
+#etcsl: line-id=F.4
+
+F.5. mu-ru-ub diŋir gal-gal#-[e-ne]
+#lem: murub[middle]; diŋir[deity]; gal[big]
+#etcsl: line-id=F.5
+
+F.6. AN X X an-še₃ [...] X X DU [...] nam ha-[...]
+#lem: X; X; X; an[sky]; X; X; X; X; X; nam[fate]; X
+#etcsl: line-id=F.6
+
+F.7. [...] {ŋiš}tukul X [...] KA mi-[...]
+#lem: X; tukul[weapon]; X; X; X; X
+#etcsl: line-id=F.7
+
+F.8. GIŠ X GAR X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=F.8
+
+F.9. šeg₁₂-X ni₂# te-a-ni [...]
+#lem: šeg[brick]; ni[fear]; teŋ[approach]; X
+#etcsl: line-id=F.9
+
+F.10. [X X] X X X X X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=F.10
+
+F.11. [X X] NI AN X X X X [...]
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=F.11
+
+F.12. [X X] X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=F.12
+
+F.13. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=F.13
+
+F.14. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=F.14
+
+F.15. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=F.15
+
+F.16. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=F.16
+
+F.17. [...] X X [X X]
+#lem: X; X; X; X; X
+#etcsl: line-id=F.17
+
+F.18. [...]-ta hul KIŊ₂ [...] X E
+#lem: X; hulu[bad]; X; X; X; X
+#etcsl: line-id=F.18
+
+F.19. X X [...] X GA nam ha-la X
+#lem: X; X; X; X; X; nam[fate]; hala[inheritance share]; X
+#etcsl: line-id=F.19
+
+F.20. [...] X X X X X X mu-un-na-DU-X
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=F.20
+
+F.21. [saŋ] gig₂#-ga X X X NI X X X X [...]
+#lem: saŋ[head]; giggig[black]; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=F.21
+
+F.22. [X X] X X GAR [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=F.22
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-17)   @gap{1 line fragmentary}  …… acting as its lord ……  @gap{7 lines fragmentary}  …… the black-headed ……. …… the @wWN{Euphrates} ……. …… the @wWN{Tigris} ……. …… on the banks of the @wWN{Irnina} watercourse ……. King @wRN{Ḫammu-rābi} …… @wDN{Gibil} @noteref{the god of fire}. @wDN{Enlil} ……. @wDN{Enki} …… heroism. @wDN{Suen} …….
+
+@(A.18 = 18-24) @wDN{Utu} the sorcerer ……  @gap{1 line fragmentary}  …… his favourite ……. @wDN{Iškur} …… heroism. @wDN{Marduk} …… strength (?). @wDN{Inana} …… divine powers. …… reverent ……  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1-5)  @gap{5 fragmentary lines}   @gap{unknown no. of lines missing} 
+
+
+@(C.1 = 1-17)  @gap{1 line fragmentary}  …… humanity …….  @gap{5 lines fragmentary}  …… the Great Mountain …….  @gap{1 line fragmentary}  …… the divine powers of kingship …….  @gap{1 line fragmentary}  …… @wDN{Enlil} …….  @gap{1 line fragmentary}  …… acting as its lord (?).  @gap{3 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(D.1 = 1-17)  @gap{1 line fragmentary}  …… @wDN{Enki} ……. …… emerging from the Land. …… befitting divinity …….  @gap{3 lines fragmentary}  …… joyous ……. …… praising with their songs ……. …… your statue shall not be brought in ……  @gap{2 lines fragmentary}  …… formed your heart for @wDN{Enlil} (?). …… enter ……. …… precious destinies …….  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(E.1 = 1-4)  @gap{4 fragmentary lines}   @gap{unknown no. of lines missing} 
+
+
+@(F.1 = 1-22)  @gap{1 line fragmentary}  …… its prince (?) @wDN{Marduk} who ……. …… curse ……. …… great wrath …… @wDN{Marduk} ……. …… midst of the great gods ……  @gap{1 line fragmentary}  …… weapon …….  @gap{1 line fragmentary}  …… brickwork (?) …….  @gap{9 lines fragmentary}  …… portion …….  @gap{1 line fragmentary}  …… the black-headed …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

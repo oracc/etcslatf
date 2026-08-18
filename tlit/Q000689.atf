@@ -1,0 +1,67 @@
+&Q000689 = A fragment of a hymn to Nanna
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.d
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.d&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+1. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=1
+
+2. [...] X su-na a-ia [...]
+#lem: X; X; Suen[1]DN; aya[father]; X
+#etcsl: line-id=2
+
+3. [ma] in-di-ri ma in-di-ri# [...]
+#lem: ma[ship]; dirig[make more than]; ma[ship]; dirig[make more than]; X
+#etcsl: line-id=3
+
+4. [...] %e u₃#-mu-ra %s e-su-la-ši mu-uš ŋa₂-ar# [...]
+#lem: X; umun[lord]N; Esila[1]TN; X; ŋar[put]; X
+#etcsl: line-id=4
+
+5. [...] u₃#-ri-ma e-mu-ud-ku-ra [...]
+#lem: X; Urim[1]SN; Emudkurak[1]TN; X
+#etcsl: line-id=5
+
+6. [...] e-ki-iš-nu-ŋal₂ X [...]
+#lem: X; Ekišnuŋal[1]TN; X; X
+#etcsl: line-id=6
+
+7. [...] ka-ar-zi-[da] X X X [...]
+#lem: X; Karzida[1]TN; X; X; X; X
+#etcsl: line-id=7
+
+8. [...] ka-ar-za-gi-na ki e-na [...]
+#lem: X; Karzagina[1]TN; ki[place]; X; X
+#etcsl: line-id=8
+
+9. [...] %e i-bi %s ne-pa-ar-ši %e ma-la %s [...]
+#lem: X; ibi[eye]N; ŋipar[cloister]; mal[be]V/i; X
+#etcsl: line-id=9
+
+10. [...] LI UR₂ X [...] X NA [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=10
+
+11. [...] ka#-ar-za-gi-na ki e-na [...]
+#lem: X; Karzagina[1]TN; ki[place]; X; X
+#etcsl: line-id=11
+
+12. [...] X KA MI TA di-li du-a [...]
+#lem: X; X; X; X; X; dili[single]; ŋen[go]; X
+#etcsl: line-id=12
+
+13. [...] ma im-di-ri ma im-di-ri!(IM) %e u₃-mu#-[un %s ...]
+#lem: X; ma[ship]; dirig[make more than]; ma[ship]; dirig[make more than]; umun[lord]N; X
+#etcsl: line-id=13
+
+
+
+
+
+
+

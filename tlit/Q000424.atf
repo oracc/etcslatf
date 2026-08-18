@@ -1,0 +1,91 @@
+&Q000424 = A balbale to Inana for Šu-Suen (Šu-Suen C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.4.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.4.3&display=Crit&charenc=gcirc#
+
+1. siki-ŋu₁₀ hi-iz{sar}-am₃ a im-ma#-[an-dug₄]
+#lem: siki[hair]; hiz[vegetable]; a[water]; dug[speak]
+#etcsl: line-id=1
+
+2. hi-iz gakkul₃(|U.DIM|){sar}-am₃ a im-[ma-an-dug₄]
+#lem: hiz[vegetable]; gakkul[heart (of a plant)]; a[water]; dug[speak]
+#etcsl: line-id=2
+
+3. su-hu-uh₂-hu-ub₄-bi ba-tag-tag [...]
+#lem: suh[confuse]; tag[touch]; X
+#etcsl: line-id=3
+
+4. emeda(|UM.ME|){da}-ŋu₁₀ mah mu-un-X-[X X]
+#lem: emeda[nursemaid]; mah[great]; X; X
+#etcsl: line-id=4
+
+5. siki-ŋu₁₀ a-a-lum im-mi-in-ak
+#lem: siki[hair]; ayalum[stag]; ak[do]
+#etcsl: line-id=5
+
+6. suh tur-tur-bi mu-un-dub-dub
+#lem: suh[crown]; tur[small]; dub[heap up]
+#etcsl: line-id=6
+
+7. he₂-em-du-ŋu₁₀ si im-sa₂-sa₂-e
+#lem: hindum[tiara or garland]; si[horn]; sa[equal]
+#etcsl: line-id=7
+
+8. he₂-em-du siki-ŋu₁₀ hi-iz{sar} nisig sag₉-sag₉-ga-am₃
+#lem: hindum[tiara or garland]; siki[hair]; hiz[vegetable]; nisig[greenery]; sag[good]
+#etcsl: line-id=8
+
+9. šeš#-e igi bar lu₂ til₃!-la-na im-ma-ni#-in-kur₉-re-en
+#lem: šeš[brother]; igi[eye]; bar[place outside]; lu[person]; til[live (of a single person)]; kur[enter]
+#etcsl: line-id=9
+
+10. {[d]}šu-{d}suen saŋ#-ba# lu₂ sag₉-ga im-ma-ni-in-pad₃-de₃#-[en]
+#lem: Šusuen[1]RN; saŋ[head]; lu[person]; sag[good]; pad[find]
+#etcsl: line-id=10
+
+11. [X X] X X [hi-li]-ŋu₁₀ nu-til#-le-dam
+#lem: X; X; X; X; hili[attractiveness]; til[complete]
+#etcsl: line-id=11
+
+12. [...]-re-dam
+#lem: X
+#etcsl: line-id=12
+
+$ 5 lines missing
+18. %e u₃-mu-un-me %s he₂-me-en %e u₃-[mu]-un#-me %s he₂-me-en
+#lem: umun[lord]N; me[be]; umun[lord]N; me[be]
+#etcsl: line-id=18
+
+19. kug {na₄}za-gin₃-na %e u₃-mu-un-me %s he₂-me-en
+#lem: kug[metal]; zagin[lapis lazuli]; umun[lord]N; me[be]
+#etcsl: line-id=19
+
+20. %e mu-un-gar₃ %s še mah tum₃-me he₂-me-en
+#lem: mungar[farmer]N; še[barley]; mah[great]; tum[bring]; me[be]
+#etcsl: line-id=20
+
+21. igi-ŋa₂ lal₃-bi-im šag₄-ŋa₂ hi-li-bi-im
+#lem: igi[eye]; lal[syrup]; šag[heart]; hili[attractiveness]
+#etcsl: line-id=21
+
+22. ud nam-til₃-la he₂-en-na-e₃ {d}šu-{d}suen [...]
+#lem: ud[sun]; namtil[life]; e[leave]; Šusuen[1]RN; X
+#etcsl: line-id=22
+
+@div trailer 
+
+23. bal-bal-e {d}inana-kam
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=23
+
+@end trailer
+
+
+
+
+
+
+

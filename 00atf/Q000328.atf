@@ -1,0 +1,321 @@
+&Q000328 = OB catalogue from Nibru (N4)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.2.08
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2.08&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. X X [...]
+#lem: X; X; X
+#etcsl: line-id=A.1
+
+A.2. gub-ba-bi [...]
+#lem: gub[stand]; X
+#etcsl: line-id=A.2
+
+A.3. X U₂ NU X
+#lem: X; X; X; X
+#etcsl: line-id=A.3
+
+A.4. X X %e a-še-er %s X
+#lem: X; X; ašer[lament]N; X
+#etcsl: line-id=A.4
+
+A.5. X RU ME X
+#lem: X; X; X; X
+#etcsl: line-id=A.5
+
+A.6. il₂ X NU DU X
+#lem: il[raise]; X; X; X; X
+#etcsl: line-id=A.6
+
+A.7. X U₃ NE MA#
+#lem: X; X; X; X
+#etcsl: line-id=A.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] X ZU X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.2
+
+B.3. [...] X nir a₂-tuku X [...]
+#lem: X; X; nir[lordly]; atuku[powerful]; X; X
+#etcsl: line-id=B.3
+
+B.4. [...] X %e gel-le-eŋ₃-ŋa₂-ŋu₁₀ %s X [...]
+#lem: X; X; geleŋ[forsake]V/t; X; X
+#etcsl: line-id=B.4
+
+#etcsl#inc Lisin A, 4.10.1 (?)
+
+B.5. [...] X-er-ra-ŋu₁₀ [...]
+#lem: X; X; X
+#etcsl: line-id=B.5
+
+B.6. [...] E mah-me-en [...]
+#lem: X; X; mah[great]; X
+#etcsl: line-id=B.6
+
+B.7. u₃-ma gig-ŋu₁₀ [...]
+#lem: uma[triumph]; gig[sick]; X
+#etcsl: line-id=B.7
+
+B.8. BU RI GUD KA A
+#lem: X; X; X; X; X
+#etcsl: line-id=B.8
+
+B.9. u₃-ma zi-zi-ŋu₁₀
+#lem: uma[triumph]; zig[rise]
+#etcsl: line-id=B.9
+
+B.10. %e ga-ša-an-ŋu₁₀ de₃-gur#
+#lem: gašan[lady]N; gur[turn]
+#etcsl: line-id=B.10
+
+B.11. {d}utu gud huš [...]
+#lem: Utu[1]DN; gud[bull]; huš[reddish]; X
+#etcsl: line-id=B.11
+
+B.12. {d}utu ur-saŋ# [...]
+#lem: Utu[1]DN; ursaŋ[warrior]; X
+#etcsl: line-id=B.12
+
+B.13. {d}utu e₃-ma
+#lem: Utu[1]DN; e[leave]
+#etcsl: line-id=B.13
+
+B.14. e₂#-gi₄-a e₂#-[ta nam-ta-e₃]
+#lem: egia[bride]; e[house]; e[leave]
+#etcsl: line-id=B.14
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. X [...]
+#lem: X; X
+#etcsl: line-id=C.1
+
+C.2. X [...]
+#lem: X; X
+#etcsl: line-id=C.2
+
+C.3. X [...]
+#lem: X; X
+#etcsl: line-id=C.3
+
+C.4. X [...]
+#lem: X; X
+#etcsl: line-id=C.4
+
+C.5. X [...]
+#lem: X; X
+#etcsl: line-id=C.5
+
+C.6. X [...]
+#lem: X; X
+#etcsl: line-id=C.6
+
+C.7. X [...]
+#lem: X; X
+#etcsl: line-id=C.7
+
+C.8. X [...]
+#lem: X; X
+#etcsl: line-id=C.8
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+D.1. dumu lugal [...]
+#lem: dumu[child]; lugal[king]; X
+#etcsl: line-id=D.1
+
+D.2. an nam-[nir-ra]
+#lem: An[1]DN; namnir[supremacy]
+#etcsl: line-id=D.2
+
+#etcsl#inc The debate between Winter and Summer, 5.3.3
+
+D.3. a-ba-a mu-un-ba-al-[e]
+#lem: aba[who?]; bal[dig]
+#etcsl: line-id=D.3
+
+#etcsl#inc Ur-Namma D, 2.4.1.4
+
+D.4. me-a lu#
+#lem: mea[where?]; lu[abundant]
+#etcsl: line-id=D.4
+
+#etcsl#inc Nanna A, 4.13.01
+
+D.5. me-am-ra
+#lem: meʾam[term of endearment]
+#etcsl: line-id=D.5
+
+#etcsl#inc Nanna B, 4.13.02 (?)
+
+D.6. lugal he₂-ŋal₂ [...]
+#lem: lugal[king]; heŋal[plenty]; X
+#etcsl: line-id=D.6
+
+D.7. šembi₂#-zid-da dar!-ra
+#lem: šembizida[kohl]; dar[split]
+#etcsl: line-id=D.7
+
+D.8. X KA NE ŊAR X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=D.8
+
+D.9. pad₃-da {d}en-lil₂ X
+#lem: pad[find]; Enlil[1]DN; X
+#etcsl: line-id=D.9
+
+D.10. {[d]}hendur#-saŋ šul ŋi₆ du-du
+#lem: Hendursaŋak[1]DN; šul[youth]; ŋi[night]; ŋen[go]
+#etcsl: line-id=D.10
+
+#etcsl#inc Nergal A, 4.15.1
+
+D.11. X gud-gin₇
+#lem: X; gud[bull]
+#etcsl: line-id=D.11
+
+D.12. [...] bur₁₂-bur₁₂-re
+#lem: X; bur[tear out]
+#etcsl: line-id=D.12
+
+D.13. [...] lu₂ X
+#lem: X; lu[person]; X
+#etcsl: line-id=D.13
+
+D.14. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=D.14
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+E.1. A X he₂-ŋal₂ NAM#
+#lem: X; X; heŋal[plenty]; X
+#etcsl: line-id=E.1
+
+E.2. X X ME X
+#lem: X; X; X; X
+#etcsl: line-id=E.2
+
+E.3. AB X X
+#lem: X; X; X
+#etcsl: line-id=E.3
+
+E.4. X me-a
+#lem: X; me[be]
+#etcsl: line-id=E.4
+
+E.5. X X X NI
+#lem: X; X; X; X
+#etcsl: line-id=E.5
+
+E.6. X X {d}ba-u₂-ŋu₁₀
+#lem: X; X; Bau[1]DN
+#etcsl: line-id=E.6
+
+E.7. X MU X X
+#lem: X; X; X; X
+#etcsl: line-id=E.7
+
+E.8. X X X X
+#lem: X; X; X; X
+#etcsl: line-id=E.8
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment F
+
+F.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=F.1
+
+#etcsl#doc Ni. 9925; it is uncertain if fragments F and G are part of this catalogue
+
+F.2. [...] %e a#-še-er %s BU
+#lem: X; ašer[lament]N; X
+#etcsl: line-id=F.2
+
+F.3. [...] dugud#-ra na-nam
+#lem: X; dugud[heavy]; me[be]
+#etcsl: line-id=F.3
+
+F.4. [...] E %e na-aŋ₂ %s mu-na-X
+#lem: X; X; naŋ[fate]N; X
+#etcsl: line-id=F.4
+
+F.5. [...]-ra# ud i-ni-in-zal
+#lem: X; ud[sun]; zal[pass time]
+#etcsl: line-id=F.5
+
+F.6. [...] zig₃#-ga-na
+#lem: X; zig[rise]
+#etcsl: line-id=F.6
+
+F.7. [...] hul-hul#
+#lem: X; hulu[bad]
+#etcsl: line-id=F.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment G
+
+G.1. X [...]
+#lem: X; X
+#etcsl: line-id=G.1
+
+#etcsl#doc Ni. 9925; it is uncertain if fragments F and G are part of this catalogue
+
+G.2. ME [...]
+#lem: X; X
+#etcsl: line-id=G.2
+
+G.3. e₂ [...]
+#lem: e[house]; X
+#etcsl: line-id=G.3
+
+G.4. nin# [...]
+#lem: nin[lady]; X
+#etcsl: line-id=G.4
+
+G.5. MA [...]
+#lem: X; X
+#etcsl: line-id=G.5
+
+G.6. X [...]
+#lem: X; X
+#etcsl: line-id=G.6
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+

@@ -1,0 +1,235 @@
+&Q000546 = Letter from Puzur-Šulgi to Šulgi about the advance of the enemy
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.07&display=Crit&charenc=gcirc#
+
+1. lugal-ŋu₁₀-ra u₃-na-a-dug₄
+#lem: lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. (1:puzur₄-{d}šul-gi:1) šagina bad₃ igi-hur-saŋ-ŋa₂
+#lem: Puzuršulgir[1]PN; šakkanak[general]; bad[wall]; Igihursaŋa[1]GN
+#etcsl: line-id=2
+
+:2v.1.1: ($1 ms. has instead:$) puzur₄-{d}marduk
+#lem: Puzurmarduk[1]PN
+:2v.1.2: ($1 other ms. has instead:$) puzur₄-{d}nu-muš#-[da]
+#lem: Puzurnumušda[1]PN
+
+3. arad-zu na-ab-be₂-a
+#lem: arad[slave]; e[speak]
+#etcsl: line-id=3
+
+4. lugal-ŋu₁₀ (1:kug-sig₁₇ kug-babbar:1) (2:diŋir-re-e-ne:2) in-ne-dim₂-dim₂-ma
+#lem: lugal[king]; kugsig[gold]; kugbabbar[silver]; diŋir[deity]; dim[create]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) kug-sig₁₇ {na₄}za-gin₃
+#lem: kugsig[gold]; zagin[lapis lazuli]
+:4v.1.2: ($1 other ms. has instead:$) kug-babbar kug-sig₁₇#
+#lem: kugbabbar[silver]; kugsig[gold]
+:4v.2.1: ($1 ms. has instead:$) diŋir gal-gal
+#lem: diŋir[deity]; gal[big]
+
+5. zi-ni-še₃-am₃ in-nu-u₃
+#lem: zi[life]; nu[not]
+#etcsl: line-id=5
+
+6. lugal-ŋu₁₀ (1:zi:1) ugnim u₃ kalam-ma-ni-še₃
+#lem: lugal[king]; zi[life]; ugnim[army]; u[and]; kalam[the Land (of Sumer)]
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) silim-ma
+#lem: silim[healthy]
+
+7. bad₃ gal igi-hur-saŋ-ŋa₂ mu lu₂-kur₂ hul-ŋal₂-še₃
+#lem: bad[wall]; gal[big]; Igihursaŋa[1]GN; mu[name]; lukur[stranger]; huluŋal[evil]
+#etcsl: line-id=7
+
+8. uŋ₃ kalam-ma-ni-še₃ mu-un-du₃
+#lem: uŋ[people]; kalam[the Land (of Sumer)]; du[build]
+#etcsl: line-id=8
+
+9. i₃-ne-eš ugnim lu₂-kur₂-ra im-ma-an-zig₃
+#lem: ineš[now]; ugnim[army]; lukur[stranger]; zig[rise]
+#etcsl: line-id=9
+
+10. (1:1-am₃:1) lu₂ igi-ŋa₂ sah₆-bi i-im-tum₂-ma dab₅-dab₅-be₂
+#lem: n; lu[person]; igi[eye]; zah[disappear]; tum[bring]; dab[seize]
+#etcsl: line-id=10
+
+:10v.1.1: ($1 ms. has instead:$) [...]-ni#-am₃
+#lem: X
+
+11. inim ma-an-dug₄-ma (1:igi-še₃! ib-DU:1)
+#lem: inim[word]; dug[speak]; igi[eye]; X
+#etcsl: line-id=11
+
+:11v.1.1: ($1 ms. has instead:$) [...]-ŋen-na-ab ba-ŋen
+#lem: ŋen[go]; ŋen[go]
+
+12. ŋiškim lu₂-kur₂-ra ŋe₂₆-e i₃-zu
+#lem: ŋeškim[sign]; lukur[stranger]; ŋaʾe[I]; zu[know]
+#etcsl: line-id=12
+
+13. lu₂-kur₂ me₃!-še₃ usu-ni im-ma-til usu-ŋu₁₀ i₃-tur
+#lem: lukur[stranger]; me[battle]; usu[strength]; til[complete]; usu[strength]; tur[small]
+#etcsl: line-id=13
+
+14. bad₃ nu-mu-un-da-kal-la-ge (1:en-nu nu-mu-da-ak-e:1)
+#lem: bad[wall]; kalag[strong]; ennuŋ[watch]; ak[do]
+#etcsl: line-id=14
+
+:14v.1.1: ($1 ms. has instead:$) iri# en-<nu> nu-un-da-ŋa₂-ŋa₂
+#lem: iri[city]; ennuŋ[watch]; ŋar[put]
+
+15. nam (1:{m}šu-{d}nu-muš-da:1) ensi₂ GIR₂-lum-tur-ra{ki}
+#lem: nam[fate]; Šunumušda[1]PN; ensik[ruler]; GIR₂.lumtura[1]SN
+#etcsl: line-id=15
+
+:15v.1.1: ($1 ms. has instead:$) {m}šu-{d}marduk
+#lem: Šumarduk[1]PN
+:15v.1.2: ($1 other ms. has instead:$) puzur₄-{d}nu-muš-da
+#lem: Puzurnumušda[1]PN
+
+16. 5 nindan he₂-ni-dar-dar
+#lem: n; nindan[unit of length]; dar[split]
+#etcsl: line-id=16
+
+17. nam {m}lugal-me-lem₄ šabra (1:{id₂}šeg₅-šeg₅:1)
+#lem: nam[fate]; Lugalmelem[1]; šabra[chief administrator of a temple or other household]; Šegšeg[1]WN
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) |NI.ŠIM.X|{ki}
+#lem: NI.ŠIM.X[1]SN
+
+18. (1:40:1) nindan GAM ugu-ba nu-ub-ŋar
+#lem: n; nindan[unit of length]; X; ugu[skull]; ŋar[put]
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. has instead:$) 25
+#lem: n
+:18v.1.2: ($1 other ms. has instead:$) 30
+#lem: n
+:18v.1.3: ($1 further ms. has instead:$) 45#
+#lem: n
+
+19. nam {m}KA-kug-ga-ni ensi₂ ma-da MURUB₄{ki}
+#lem: nam[fate]; KAkugani[1]PN; ensik[ruler]; mada[land]; MURUB[1]GN
+#etcsl: line-id=19
+
+20. 45 nindan gaba dab₅-ba-bi ba-gul-gul
+#lem: n; nindan[unit of length]; gaba[breast]; dab[seize]; gul[destroy]
+#etcsl: line-id=20
+
+21. nam {m}ta-ki-il-i₃-li₂-šu (1:gu₂!-gal:1) {id₂}ab₂-gal u₃ {id₂}me-{d}en-lil₂-la₂
+#lem: nam[fate]; Takililišu[1]PN; guŋal[inspector]; Abgal[1]WN; u[and]; Meʾenlila[1]WN
+#etcsl: line-id=21
+
+:21v.1.1: ($1 ms. has instead:$) ensi₂
+#lem: ensik[ruler]
+
+22. 50 nindan saŋ ba-sud₄ murub₄-ba im-da-an-ri
+#lem: n; nindan[unit of length]; saŋ[head]; sud[distant]; murub[middle]; ri[impose]
+#etcsl: line-id=22
+
+23. ud lu₂-kur₂ im-durunₓ(|KU.KU|)-na-a ugu-bi-še₃ (1:nu-ub-ŋar:1)
+#lem: ud[sun]; lukur[stranger]; durun[sit]; ugu[skull]; ŋar[put]
+#etcsl: line-id=23
+
+:23v.1.1: ($1 ms. has instead:$) nu-ub-dug₄
+#lem: dug[speak]
+:23v.1.2: ($1 other ms. has instead:$) u₃-nu-ub-zu
+#lem: zu[know]
+
+24. (1:lu₂-kur₂ i₃-durun-na-a usu-ŋu₁₀ im-til:1)
+#lem: lukur[stranger]; durun[sit]; usu[strength]; til[complete]
+#etcsl: line-id=24
+
+:24v.1.1: ($1 ms. has instead:$) lu₂-kur₂ me₃-še₃ a₂-a-ni im-til
+#lem: lukur[stranger]; me[battle]; a[arm]; til[complete]
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+24A. [...]-kal#-la-ge [...]-da-ak-e
+#lem: kalag[strong]; ak[do]
+#etcsl: line-id=24A
+
+@endvariants
+25. ugnim-bi šag₄ hur-saŋ-ŋa₂-ka i₃-tuš
+#lem: ugnim[army]; šag[heart]; hursaŋ[mountain]; tuš[sit (down)]
+#etcsl: line-id=25
+
+26. tukum-bi lugal-ŋa₂ an-na-kam
+#lem: tukumbi[if]; lugal[king]; anna[approval]
+#etcsl: line-id=26
+
+27. 7200 erin₂ lu₂ kiŋ₂ ak-ne {ŋiš}dusu-a ma-ab-il₂-e (1:ul₄-la-bi hu-mu-ši-[in]-gi₄-gi₄:1)
+#lem: n; erin[people]; lu[person]; kiŋ[work]; ak[do]; dupsik[basket (for carrying earth and bricks)]; il[raise]; ul[hasten]; gi[turn]
+#etcsl: line-id=27
+
+:27v.1.1: ($1 ms. has instead:$) KIŊ₂-KIŊ₂-bi X [...] he₂#-em-sug₂-ge-eš
+#lem: X; X; X; gub[stand]
+
+28. 70 aga-us₂ (1:šimaški RI ib₂-SU#-a:1)
+#lem: n; agaʾus[professional soldier]; Šimaški[1]GN; X; X
+#etcsl: line-id=28
+
+:28v.1.1: ($1 ms. has instead:$) LU₂-DA GIŠ! nu-um-KU-a
+#lem: LU₂.DA[1]GN; X; X
+:28v.1.2: ($1 other ms. has instead:$) LU₂#-[...] X ib-til ib₂#-[...]
+#lem: LU.X[1]GN; X; til[complete]; X
+
+29. (1:[ul₄]-la-bi hu-mu-ši-in-gi₄-gi₄:1)
+#lem: ul[hasten]; gi[turn]
+#etcsl: line-id=29
+
+:29v.1.1: ($1 ms. has instead:$) ugu-ŋu₁₀-še₃ he₂-em-sub₂-be₂-eš
+#lem: ugu[skull]; ŋen[go]
+
+30. (1:dim₂-ma-bi in-dab₅ ki-tuš-bi ga-ba-ni-kur₂:1)
+#lem: dimma[thought]; dab[seize]; kituš[dwelling place]; kur[different]
+#etcsl: line-id=30
+
+:30v.1.1: ($1 ms. has instead:$) dim₂-ma-ni in-dab₅ ki-tuš-bi in-kur₂
+#lem: dimma[thought]; dab[seize]; kituš[dwelling place]; kur[different]
+:30v.1.2: ($1 other ms. has instead:$) dim₂-ma-ŋu₁₀ ib₂-dab₅! ki-tuš!-bi ga-ba-ni-kur₂
+#lem: dimma[thought]; dab[seize]; kituš[dwelling place]; kur[different]
+
+31. he₂-zu ŋi₆-ta ud ul-le₂-a-aš nam-tag-ni dugud
+#lem: zu[know]; ŋi[night]; ud[sun]; ul[distant time]; namtaga[sin]; dugud[heavy]
+#etcsl: line-id=31
+
+32. arad {d}šul-gi lugal-ŋa₂ gen₆-na-me-en
+#lem: arad[slave]; Šulgir[1]RN; lugal[king]; gin[confirm]
+#etcsl: line-id=32
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+32A. [...]-a KA-ŋu₁₀ niŋ₂ gu₂ šub-bu-bi in-nu-u₃
+#lem: X; X; niŋ[thing]; gu[neck]; šub[fall]; nu[not]
+#etcsl: line-id=32A
+
+@endvariants
+33. nam-ba-da-ug₅-en
+#lem: ug[kill]
+#etcsl: line-id=33
+
+34. lugal-ŋu₁₀ he₂-en-zu (1::1)
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=34
+
+:34v.1.1: ($1 ms. adds:$) a-ma-ru-[kam]
+#lem: amaru[flood]
+
+
+
+
+
+
+

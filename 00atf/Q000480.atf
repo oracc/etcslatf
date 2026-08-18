@@ -1,0 +1,79 @@
+&Q000480 = A hymn to Enki for Išme-Dagan
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.b
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.b&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+1. ambar#-bi KA X [...]
+#lem: ambar[reed-bed]; X; X; X
+#etcsl: line-id=1
+
+2. a#-gar₃ gal#-gal gan₂-ne₂ E# [...]
+#lem: agar[meadow]; gal[big]; gana[field]; X; X
+#etcsl: line-id=2
+
+3. pu₂-{ŋiš}kiri₆ X kug il₂ [...]
+#lem: pukiri[irrigated orchard]; X; kug[purify]; il[raise]; X
+#etcsl: line-id=3
+
+4. u₂-gu₇ a naŋ# {d}a-nun-ke₄-[ne] X X
+#lem: ugu[food]; a[water]; naŋ[drink]; Anunak[1]DN; X; X
+#etcsl: line-id=4
+
+5. a-a {d}en-lil₂ ama gal {d}nin-lil₂-[bi] saŋ-e-eš mu-ni-rig₇-[eš]
+#lem: aya[father]; Enlil[1]DN; ama[mother]; gal[big]; Ninlil[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=5
+
+6. nibru{ki} mah en nin-zu-gin₇ diŋir na#-[me nu-dib₂]
+#lem: Nibru[1]SN; mah[great]; en[lord]; nin[lady]; diŋir[deity]; name[any]; dib[pass]
+#etcsl: line-id=6
+
+7. e-ne-e-ne nun er₉-me-eš diŋir pa [e₃-me-eš]
+#lem: ane[he]; nun[prince]; ir[mighty]; diŋir[deity]; pa[branch]; e[leave]
+#etcsl: line-id=7
+
+8. {d}en-lil₂ {d}nin-lil₂-gin₇ diŋir na-me nu#-[dib₂]
+#lem: Enlil[1]DN; Ninlil[1]DN; diŋir[deity]; name[any]; dib[pass]
+#etcsl: line-id=8
+
+9. e-ne-e-ne nun er₉-me-eš en [nam tar-re-me-eš]
+#lem: ane[he]; nun[prince]; ir[mighty]; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=9
+
+10. šag₄#-zu-a lugal {d}en-ki-ra# me mu-na-ni-[šum₂-mu-uš]
+#lem: šag[heart]; lugal[king]; Enkik[1]DN; me[Being]; šum[give]
+#etcsl: line-id=10
+
+11. nibru{ki} šir₃ kug-zu niŋ₂ kal-kal [a-re-eš-še₃ dib₂-am₃]
+#lem: Nibru[1]SN; šir[sing]; kug[pure]; niŋ[thing]; kal[rare]; ar[celebrate]; dib[pass]
+#etcsl: line-id=11
+
+12. {d}iš-me-{d}da-gan-me-en du-ri₂-še₃ [ka-ga₁₄ mu-ni-ŋar]
+#lem: Išmedagan[1]RN; duri[forever]; kag[mouth]; ŋar[put]
+#etcsl: line-id=12
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-5)  @gap{unknown no. of lines missing}  The task of …… its marshes, of …… the great arable lands and the fields, of …… the fruit orchards that bear pure ……, of …… food and drink for the @wDN{Anuna} gods -- all this was bestowed on him by Father @wDN{Enlil} and the great mother @wDN{Ninlil}.
+
+@(6 = 6-12) August @wSN{Nibru}! No deity excels like your lord and lady! They are powerful princes; they are brilliantly revealed deities. No deity excels like @wDN{Enlil} or @wDN{Ninlil}! They are powerful princes; they are lords who can decide destinies. In your midst they have given divine powers to King @wDN{Enki}. @wSN{Nibru}, your holy songs are exceptionally precious, surpassing all praise! I, @wRN{Išme-@wDN{Dagan}}, have placed them in everyone's mouths for all time.
+
+
+

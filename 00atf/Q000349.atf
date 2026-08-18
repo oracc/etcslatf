@@ -1,0 +1,1463 @@
+&Q000349 = Nanna-Suen's journey to Nibru
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.5.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.5.1&display=Crit&charenc=gcirc#
+
+1. ur-saŋ-e iri ama-na#-[še₃]
+#lem: ursaŋ[warrior]; iri[city]; ama[mother]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Urim (U2), 0.2.04, line 47
+
+2. {d}nanna-{d}suen-e ŋeštug₂#-[ga-ni na-an-gub]
+#lem: Nannasuen[1]DN; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=2
+
+3. {d}suen-e iri ama-na#-[še₃]
+#lem: Suen[1]DN; iri[city]; ama[mother]
+#etcsl: line-id=3
+
+4. {d}dil-im₂-babbar-re ŋeštug₂-[ga-ni na-an-gub]
+#lem: Dilimbabbar[1]DN; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=4
+
+5. iri ama-na-še₃ a-a-[na-še₃]
+#lem: iri[city]; ama[mother]; aya[father]
+#etcsl: line-id=5
+
+6. {d}nanna-{d}suen-e ŋeštug₂-ga-ni na-[an-gub]
+#lem: Nannasuen[1]DN; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=6
+
+7. {d}en-lil₂-la₂-še₃ {d}nin-lil₂-[la₂-še₃]
+#lem: Enlil[1]DN; Ninlil[1]DN
+#etcsl: line-id=7
+
+8. {d}dil-im₂-babbar-e ŋeštug₂-ga-ni na-an-gub
+#lem: Dilimbabbar[1]DN; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=8
+
+9. ur-saŋ-me-en ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen
+#lem: ursaŋ[warrior]; ŋaʾe[I]; iri[city]; ŋen[go]
+#etcsl: line-id=9
+
+10. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; aya[father]; ŋen[go]
+#etcsl: line-id=10
+
+11. {d}suen-me-en ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen
+#lem: Suen[1]DN; ŋaʾe[I]; iri[city]; ŋen[go]
+#etcsl: line-id=11
+
+12. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; aya[father]; ŋen[go]
+#etcsl: line-id=12
+
+13. a-a-ŋu₁₀ {d}en-lil₂-la₂-še₃ ga-an-ši-ŋen
+#lem: aya[father]; Enlil[1]DN; ŋen[go]
+#etcsl: line-id=13
+
+14. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen ama-ŋu₁₀-še₃ ga-an-ši-ŋen
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; ama[mother]; ŋen[go]
+#etcsl: line-id=14
+
+15. ama-ŋu₁₀ {d}nin-lil₂-la₂-še₃ ga-an-ši-ŋen
+#lem: ama[mother]; Ninlil[1]DN; ŋen[go]
+#etcsl: line-id=15
+
+16. a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+#lem: aya[father]; ŋen[go]
+#etcsl: line-id=16
+
+17. iri šen-šen-na ki sikil-la [...]
+#lem: iri[city]; šen[pure]; ki[place]; sikil[pure]; X
+#etcsl: line-id=17
+
+$ 6 lines missing
+24. [... e₃ gal]-gal#-la-am₃
+#lem: X; e[leave]; gal[big]
+#etcsl: line-id=24
+
+25. [... e₃ gal]-gal#-la-am₃
+#lem: X; e[leave]; gal[big]
+#etcsl: line-id=25
+
+26. [...] e₃ gal-gal-la₂-am₃
+#lem: X; e[leave]; gal[big]
+#etcsl: line-id=26
+
+27. [...] e₃ gal-gal-la₂-am₃
+#lem: X; e[leave]; gal[big]
+#etcsl: line-id=27
+
+28. [nibru]{[ki]}-ŋu₁₀# ŋiš-kin₂ ŋiš gig₂ ki dug₃-ge mu₂-a
+#lem: Nibru[1]SN; ŋešgana[tree]; ŋeš[tree]; giggig[black]; ki[place]; dug[good]; mu[grow]
+#etcsl: line-id=28
+
+29. [eš₃ nibru]{[ki]}-ŋu₁₀# ŋiš-kin₂ ŋiš babbar ki sikil-e mu₂-a
+#lem: eš[shrine]; Nibru[1]SN; ŋešgana[tree]; ŋeš[tree]; babbar[white]; ki[place]; sikil[pure]; mu[grow]
+#etcsl: line-id=29
+
+30. [nibru]{[ki]}-[ŋu₁₀] ki dug₃-ga barag-bi ša-mu-un-du₃
+#lem: Nibru[1]SN; ki[place]; dug[good]; barag[sanctum]; du[build]
+#etcsl: line-id=30
+
+31. eš₃ nibru{ki} mu-bi mu dug₃-ga-am₃
+#lem: eš[shrine]; Nibru[1]SN; mu[name]; mu[name]; dug[good]
+#etcsl: line-id=31
+
+32. nibru{ki}-ŋu₁₀ ki dug₃-ga barag-bi ša-mu-un-du₃
+#lem: Nibru[1]SN; ki[place]; dug[good]; barag[sanctum]; du[build]
+#etcsl: line-id=32
+
+33. eš₃ nibru{ki} mu-bi mu dug₃-ga-am₃
+#lem: eš[shrine]; Nibru[1]SN; mu[name]; mu[name]; dug[good]
+#etcsl: line-id=33
+
+34. iri-ŋu₁₀ {kur}dilmun{ki} nu-me-a {ŋiš}ŋišnimbar ba-mu₂
+#lem: iri[city]; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; mu[grow]
+#etcsl: line-id=34
+
+35. nibru{ki} {kur}dilmun{ki} nu-me-a {ŋiš}ŋišnimbar ba-mu₂
+#lem: Nibru[1]SN; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; mu[grow]
+#etcsl: line-id=35
+
+36. ama gal {d}nin-lil₂-le šag₄ gada ba-ni-in-la₂
+#lem: ama[mother]; gal[big]; Ninlil[1]DN; šag[heart]; gada[flax]; la[hang]
+#etcsl: line-id=36
+
+37. {d}suen-e {ŋiš}ma₂-gur₈ im-nu₂-e
+#lem: Suen[1]DN; magur[barge]; nud[lie down]
+#etcsl: line-id=37
+
+38. {ŋiš}ma₂-gur₈ im-nu₂-e {gi}kid-bur₂ im-gi₄-[gi₄]
+#lem: magur[barge]; nud[lie down]; kidbur[mat]; gi[turn]
+#etcsl: line-id=38
+
+39. {ŋiš}ma₂-gur₈-ra gi-bi tum-ma-al{ki}-še₃
+#lem: magur[barge]; gi[reed]; Tummal[1]TN
+#etcsl: line-id=39
+
+40. {d}nanna-{d}suen-e lu₂ im-ši-in-gi₄#-[gi₄]
+#lem: Nannasuen[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=40
+
+41. {ŋiš}ma₂-gur₈-ra esir-bi abzu-še₃
+#lem: magur[barge]; esir[bitumen]; abzu[(cosmic) underground water]
+#etcsl: line-id=41
+
+42. {d}dil-im₂-babbar-re lu₂ im-ši-in-gi₄-gi₄
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=42
+
+43. {u₂}A-|ZI&ZI.LAGAB|-bi du₆-a-šag₄-ga-še₃
+#lem: A.ZI\&ZI.LAGAB[esparto grass]; Duašaga[1]SN
+#etcsl: line-id=43
+
+44. {d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+#lem: Nannasuen[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=44
+
+45. {ŋiš}mi-ri₂-za-bi tir ha-šu-ur₂-ra-še₃
+#lem: miriza[plank]; tir[forest]; hašur[tree]
+#etcsl: line-id=45
+
+46. {d}dil-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=46
+
+47. {ŋiš}eme-sig-bi tir kug-nun-na-še₃
+#lem: emesig[plank]; tir[forest]; Kugnuna[1]SN
+#etcsl: line-id=47
+
+48. {[d]}[nanna]-{[d]}suen#-e [lu₂ im-ši-in-gi₄]-gi₄#
+#lem: Nannasuen[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=48
+
+@variants
+
+#etcsl#ms 3 mss. add 2 lines in a parallel passage:
+48A. {[ŋiš]}[a-da-ma₂-bi kur šim] {[ŋiš]}[erin-na-še₃]
+#lem: adama[wooden object]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=48A
+
+48B. {[d]}[dil-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄]
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=48B
+
+@endvariants
+49. {[ŋiš]}[u₃-bi tir eb₂-la-ka]-še₃#
+#lem: u[planking]; tir[forest]; Ebla[1]SN
+#etcsl: line-id=49
+
+50. {[d]}[dil-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄]
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=50
+
+51. {[ŋiš]}[u₃-suh₅-bi] {[ŋiš]}[tir šim] {[ŋiš]}[erin-na-še₃]
+#lem: usuh[tree]; tir[forest]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=51
+
+52. {[d]}[nanna]-{[d]}[suen-e lu₂ im-ši-in-gi₄-gi₄]
+#lem: Nannasuen[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=52
+
+53. [u₂ ... X-bi] {[ŋiš]}[li la-an-gi₄-še₃]
+#lem: u[plant(s)]; X; X; li[juniper]; Langi[1]SN
+#etcsl: line-id=53
+
+54. {[d]}[dil-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄]
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=54
+
+55. [...]-bi [X-še₃]
+#lem: X; X
+#etcsl: line-id=55
+
+56. {d}dil-im₂-babbar#-re lu₂# [im-ši-in-gi₄-gi₄]
+#lem: Dilimbabbar[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=56
+
+57. [...]-bi# DUL u₂ X-še₃#
+#lem: X; X; u[plant(s)]; X
+#etcsl: line-id=57
+
+58. {d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-[gi₄]
+#lem: Nannasuen[1]DN; lu[person]; gi[turn]
+#etcsl: line-id=58
+
+59. {[ŋiš]}ma₂-gur₈-ra gi-bi tum-ma-al{[ki]}-[ta]
+#lem: magur[barge]; gi[reed]; Tummal[1]TN
+#etcsl: line-id=59
+
+60. {[d]}nanna#-{d}suen-ra mu-na-da-ri#-[a]
+#lem: Nannasuen[1]DN; ri[impose]
+#etcsl: line-id=60
+
+61. {ŋiš#}ma₂-gur₈-ra esir-bi abzu-[ta]
+#lem: magur[barge]; esir[bitumen]; abzu[(cosmic) underground water]
+#etcsl: line-id=61
+
+62. {d}dil-im₂-babbar-ra mu-na-da-ri-a
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=62
+
+63. {u₂}A-|ZI&ZI.LAGAB|-bi du₆-a-šag₄-ga-ta
+#lem: A.ZI\&ZI.LAGAB[esparto grass]; Duašaga[1]SN
+#etcsl: line-id=63
+
+64. {d}nanna-{d}suen-ra mu-na-da-an-ri-a
+#lem: Nannasuen[1]DN; ri[impose]
+#etcsl: line-id=64
+
+65. {ŋiš}mi-ri₂-za-bi tir ha-šu-ur₂-ra-ta
+#lem: miriza[plank]; tir[forest]; hašur[tree]
+#etcsl: line-id=65
+
+66. {d}dil-im₂-babbar-ra mu-na-da-an-ri-a
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=66
+
+67. {ŋiš}eme-sig-bi tir kug-nun-na-ta
+#lem: emesig[plank]; tir[forest]; Kugnuna[1]SN
+#etcsl: line-id=67
+
+68. {d}nanna-{d}suen-ra mu-na-da-an-ri-a
+#lem: Nannasuen[1]DN; ri[impose]
+#etcsl: line-id=68
+
+@variants
+
+#etcsl#ms 3 mss. add 2 lines:
+68A. {ŋiš}a-da-ma₂-bi kur šim {ŋiš}erin-na-ta
+#lem: adama[wooden object]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=68A
+
+68B. {d}dil-im₂-babbar-e mu-na-da-an-ri-am₃
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=68B
+
+@endvariants
+69. {ŋiš}u₃-bi tir eb₂-la-ta
+#lem: u[planking]; tir[forest]; Ebla[1]SN
+#etcsl: line-id=69
+
+70. {d}dil-im₂-babbar-ra mu-na-da-an-ri-a
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=70
+
+71. {ŋiš}u₃-suh₅-bi {ŋiš}tir šim {ŋiš}erin-na-ta
+#lem: usuh[tree]; tir[forest]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=71
+
+72. {d}nanna-{d}suen mu-na-da-an-ri-a
+#lem: Nannasuen[1]DN; ri[impose]
+#etcsl: line-id=72
+
+73. u₂ X X-bi {ŋiš}li la-an-gi₄-ta
+#lem: u[plant(s)]; X; X; li[juniper]; Langi[1]SN
+#etcsl: line-id=73
+
+74. {d}dil-im₂-babbar-ra mu-na-da-an-ri-a
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=74
+
+75. [X-bi X-ta]
+#lem: X; X
+#etcsl: line-id=75
+
+76. {[d]}[dil-im₂-babbar-ra mu-na-da-an-ri-a]
+#lem: Dilimbabbar[1]DN; ri[impose]
+#etcsl: line-id=76
+
+77. [X-bi DUL u₂ X-ta]
+#lem: X; X; u[plant(s)]; X
+#etcsl: line-id=77
+
+78. {[d]}[nanna]-{[d]}[suen-ra mu-na-da-an-ri-a]
+#lem: Nannasuen[1]DN; ri[impose]
+#etcsl: line-id=78
+
+79. [...]-ni#-in-ri
+#lem: ri[impose]
+#etcsl: line-id=79
+
+80. {d#}utu mu-un-da-hul₂
+#lem: Utu[1]DN; hul[rejoice]
+#etcsl: line-id=80
+
+81. [...] bi₂#-in-ŋar
+#lem: X; ŋar[put]
+#etcsl: line-id=81
+
+82. {d}gibil₆ mu-un-da-hul₂
+#lem: Gibil[1]DN; hul[rejoice]
+#etcsl: line-id=82
+
+83. [...] X ba-ni-ib-be₂-e
+#lem: X; X; e[speak]
+#etcsl: line-id=83
+
+84. [...] ba-ni-in-dug₄
+#lem: X; dug[speak]
+#etcsl: line-id=84
+
+85. [...] X-nu₂
+#lem: X; nud[lie down]
+#etcsl: line-id=85
+
+86. [...] X-bi bi₂-in-du₈
+#lem: X; X; du[spread]
+#etcsl: line-id=86
+
+87. [... mu]-un#-da-hul₂
+#lem: X; hul[rejoice]
+#etcsl: line-id=87
+
+88. [...] X
+#lem: X; X
+#etcsl: line-id=88
+
+89. [... mu]-un#-da-hul₂
+#lem: X; hul[rejoice]
+#etcsl: line-id=89
+
+90. [...] X
+#lem: X; X
+#etcsl: line-id=90
+
+91. [...] X
+#lem: X; X
+#etcsl: line-id=91
+
+$ 5 lines missing
+97. X [...]
+#lem: X; X
+#etcsl: line-id=97
+
+98. {d}suen [...]
+#lem: Suen[1]DN; X
+#etcsl: line-id=98
+
+99. aškud₂-zu# [...]
+#lem: aškud[part of a door]; X
+#etcsl: line-id=99
+
+100. {d}suen-e {ŋiš}ma₂ X [...]
+#lem: Suen[1]DN; ma[ship]; X; X
+#etcsl: line-id=100
+
+101. {d}suen-e {ŋiš}ma₂ a-a X [...]
+#lem: Suen[1]DN; ma[ship]; aya[father]; X; X
+#etcsl: line-id=101
+
+102. {d}suen-e {ŋiš}ma₂-gur₈-ra X [...]
+#lem: Suen[1]DN; magur[barge]; X; X
+#etcsl: line-id=102
+
+103. {d}suen-e a-u₃-a [...]
+#lem: Suen[1]DN; aʾua[cultic musician]; X
+#etcsl: line-id=103
+
+104. {d}suen-e a-[u₃-a ...]
+#lem: Suen[1]DN; aʾua[cultic musician]; X
+#etcsl: line-id=104
+
+$ 5 lines missing
+110. a-[u₃-a ...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=110
+
+111. a-u₃-[a ...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=111
+
+112. a-u₃-a [...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=112
+
+113. a-u₃-a {d}aš-[im₂-babbar-e ...]
+#lem: aʾua[cultic musician]; Dilimbabbar[1]DN; X
+#etcsl: line-id=113
+
+114. a-u₃-a ur₂ [...]
+#lem: aʾua[cultic musician]; ur[loin]; X
+#etcsl: line-id=114
+
+115. a-u₃-a {d}nanna#-{[d]}[suen-e ...]
+#lem: aʾua[cultic musician]; Nannasuen[1]DN; X
+#etcsl: line-id=115
+
+116. a-u₃-a dumu {[d]}[en-lil₂-la₂ ...]
+#lem: aʾua[cultic musician]; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=116
+
+$ 5 lines missing
+122. a-[u₃-a ...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=122
+
+123. a-u₃-[a ...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=123
+
+124. a-u₃-a [...]
+#lem: aʾua[cultic musician]; X
+#etcsl: line-id=124
+
+125. a-u₃-a {d}nanna-{[d]}[suen-e ...]
+#lem: aʾua[cultic musician]; Nannasuen[1]DN; X
+#etcsl: line-id=125
+
+126. lugal-zu a-a-ni [...]
+#lem: lugal[king]; aya[father]; X
+#etcsl: line-id=126
+
+127. {d}nanna šul {d}suen-e [...]
+#lem: Nanna[1]DN; šul[youth]; Suen[1]DN; X
+#etcsl: line-id=127
+
+128. {d}suen-e a-a [...]
+#lem: Suen[1]DN; aya[father]; X
+#etcsl: line-id=128
+
+129. {d}dil-im₂-babbar-e [...]
+#lem: Dilimbabbar[1]DN; X
+#etcsl: line-id=129
+
+130. {d}suen-[e ...]
+#lem: Suen[1]DN; X
+#etcsl: line-id=130
+
+$ 5 lines missing
+136. X [...] a-u₃-a-ba [...]
+#lem: X; X; aʾua[cultic musician]; X
+#etcsl: line-id=136
+
+137. a-u₃-a-ba [...] X X X [...]
+#lem: aʾua[cultic musician]; X; X; X; X; X
+#etcsl: line-id=137
+
+138. a-u₃-a-ba [...] a-u₃-a {d}[...]
+#lem: aʾua[cultic musician]; X; aʾua[cultic musician]; X[1]DN
+#etcsl: line-id=138
+
+139. X [...] X [...] a-u₃-a X X X [...]
+#lem: X; X; X; X; aʾua[cultic musician]; X; X; X; X
+#etcsl: line-id=139
+
+140. [...] BI [...] lugal-zu a-a-ni {d}en-lil₂-ra
+#lem: X; X; X; lugal[king]; aya[father]; Enlil[1]DN
+#etcsl: line-id=140
+
+141. nesaŋ mu-un-na-ab-tum₃ [...] MU [...] X
+#lem: nesaŋ[first-fruit offering]; tum[bring]; X; X; X; X
+#etcsl: line-id=141
+
+142. [...] saŋ us₂ mu-na-dur₂-ru-ne-eš
+#lem: X; saŋ[head]; us[accompany]; durun[sit]
+#etcsl: line-id=142
+
+143. a-u₃-a-ba dumu X X X {d}nanna-ar X gi₄ X
+#lem: aʾua[cultic musician]; dumu[child]; X; X; X; Nanna[1]DN; X; gi[turn]; X
+#etcsl: line-id=143
+
+144. mu-na-dur₂-ru-ne-[eš ...] X [...]
+#lem: durun[sit]; X; X; X
+#etcsl: line-id=144
+
+$ 2 lines missing
+147. {[d]}[nanna]-{[d]}[suen]-me-en [...]-en
+#lem: Nannasuen[1]DN; X
+#etcsl: line-id=147
+
+148. [e₂] {[d]}[en-lil₂-la₂]-še₃ X X [zag im]-la₂#-la₂-e-en
+#lem: e[house]; Enlil[1]DN; X; X; zag[side]; la[hang]
+#etcsl: line-id=148
+
+149. {d}dil-im₂-babbar{ar}-me-en e₂ {d}en-lil₂-la₂-še₃
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=149
+
+150. X X [...] zag im-la₂-la₂-e-en
+#lem: X; X; X; zag[side]; la[hang]
+#etcsl: line-id=150
+
+$ 6 lines missing
+157. [gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re]
+#lem: gud[bull]; tur[animal stall]; gu[neck]; gur[turn]
+#etcsl: line-id=157
+
+158. {[d]}[nanna]-{[d]}[suen-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=158
+
+159. [udu niga šag₄ mu-da-ab-la₂-e]
+#lem: udu[sheep]; niga[fattened]; šag[heart]; la[hang]
+#etcsl: line-id=159
+
+160. {[d]}[dil-im₂-babbar-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=160
+
+161. [tur₃-e ib₂-da-ab-luh-luh-e]
+#lem: tur[animal stall]; luh[clean]
+#etcsl: line-id=161
+
+162. {[d]}[nanna]-{[d]}[suen-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=162
+
+163. [ud₅-de₃ niŋ₂-ar₃-ra bi₂-ib₂-gu₇-e]
+#lem: uzud[(female) goat]; niŋara[groats]; gu[eat]
+#etcsl: line-id=163
+
+164. {[d]}[dil-im₂-babbar-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=164
+
+165. [ze₂-da niŋ₂ bar-bar sur-ra ...]
+#lem: zeda[suckling pig]; niŋ[thing]; bar[back]; sur[twist]; u
+#etcsl: line-id=165
+
+166. {[d]}[nanna]-{[d]}[suen-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=166
+
+167. [peš₂-ŋiš-gi niŋ₂ kun sud kun sud-da]
+#lem: pešgi[rodent]; niŋ[thing]; kun[tail]; sud[distant]; kun[tail]; sud[distant]
+#etcsl: line-id=167
+
+168. [šag₄ am₃-mi-ni-ib₂-gul-gul]
+#lem: šag[heart]; gul[destroy]
+#etcsl: line-id=168
+
+169. {[d]}[dil-im₂-babbar-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=169
+
+170. [kud-da mušen tur-re šu bi₂-ib₂-zu-zu]
+#lem: kušu[creature]; mušen[bird]; tur[small]; šu[hand]; zu[know]
+#etcsl: line-id=170
+
+171. {[d]}[nanna]-{[d]}[suen-e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=171
+
+172. [u₅-bi₂]{[mušen]} [tur tul₂-ta ba-ra-an-tum₂-mu]
+#lem: ubi[bird]; tur[small]; tul[public fountain]; tum[bring]
+#etcsl: line-id=172
+
+173. {d}dil-im₂-babbar-[e e₂] {[d]}[en-lil₂-la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=173
+
+174. a-zag-gun₃{mušen} tur X-ta ba-ra-an-tum₂-mu
+#lem: azagun[bird]; tur[small]; X; tum[bring]
+#etcsl: line-id=174
+
+175. {d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=175
+
+176. suhur{ku₆}-e šag₄ mu-da-ab-sur-re
+#lem: suhur[carp]; šag[heart]; sur[press]
+#etcsl: line-id=176
+
+177. {d}dil-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=177
+
+178. eštub{ku₆}-e <X>-bi zag im-la₂
+#lem: eštub[carp]; X; zag[side]; la[hang]
+#etcsl: line-id=178
+
+179. {d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=179
+
+180. i₃ A-|ZI&ZI.LAGAB| a mu-un-de₂-de₂-e
+#lem: i[oil]; A.ZI\&ZI.LAGAB[esparto grass]; a[water]; de[pour]
+#etcsl: line-id=180
+
+181. {d}dil-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=181
+
+182. nunuz ŋir₃-lam-ma mu-un-sig₉#-[sig₉-ge]
+#lem: nunuz[egg]; ŋirlam[basket]; sig[put into]
+#etcsl: line-id=182
+
+183. {d}nanna-{d}suen-e e₂ {[d]}[en-lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=183
+
+184. gi sumun gi henbur mud [ŋal₂ im-me]
+#lem: gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; mud[create]; ŋal[⟦be⟧ to be (there]; dug[speak]
+#etcsl: line-id=184
+
+185. {d}dil-im₂-babbar-re e₂ {d}[en-lil₂-la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=185
+
+186. u₈ 600-am₃ sila₄ im-mi-in-tu-ud
+#lem: u[sheep]; n; sila[lamb]; utud[give birth (to)]
+#etcsl: line-id=186
+
+187. {udu}utua₂-bi šag₄-ba šu ba-ni-in-ba-ba
+#lem: utuwa[ram]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=187
+
+188. gu₂ {id₂}surungal-la im-mi-in-ba
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=188
+
+189. {d}nanna-{d}suen-e e₂ {d}en-[lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=189
+
+190. ud₅ 600-am₃ maš₂ im-mi-in-tu-[ud]
+#lem: uzud[(female) goat]; n; maš[goat]; utud[give birth (to)]
+#etcsl: line-id=190
+
+191. maš₂-ud₅-da šag₄-ba šu ba-ni-in-ba-ba
+#lem: mašuzudak[breed-goat]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=191
+
+192. gu₂ {id₂}surungal-la im-mi-in-ba
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=192
+
+193. {d}dil-im₂-babbar-re e₂ {d}en-lil₂-[la₂-še₃]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=193
+
+194. ab₂ 600-am₃ amar im-mi-in-tu-[ud]
+#lem: ab[cow]; n; amar[calf]; utud[give birth (to)]
+#etcsl: line-id=194
+
+195. gud-ab₂-ba šag₄-ba šu ba-ni-in-ba-ba
+#lem: gudabak[breed bull]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=195
+
+196. gu₂ {id₂}surungal-la im-mi-in-ba
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=196
+
+197. {d}nanna-{d}suen-e e₂ {d}en#-[lil₂-la₂-še₃]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN
+#etcsl: line-id=197
+
+198. nidba-a saŋ-bi enegir{ki}-a egir-bi# [urim₂]{[ki]}-[ma]
+#lem: nindaba[(food) offering]; saŋ[head]; Enegir[1]SN; egir[back]; Urim[1]SN
+#etcsl: line-id=198
+
+199. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=199
+
+200. {d}nin-girid₂-da e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: Ningirida[1]DN; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=200
+
+201. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=201
+
+202. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=202
+
+203. {ŋiš}ma₂#-[gur₈]-ra# zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
+#etcsl: line-id=203
+
+204. ŋiri₃-ni# gakkul# zabar-ra im-ma-an-šu₂-šu₂
+#lem: ŋiri[foot]; gakkul[mash-tub]; zabar[bronze]; šuš[cover]
+#etcsl: line-id=204
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+204A. šu-si-ni bulug {ŋiš}taškarin mu-na-an-bur₁₂-bur₁₂-re
+#lem: šusi[finger]; bulug[needle]; taškarin[box tree]; bur[tear out]
+#etcsl: line-id=204A
+
+@endvariants
+205. aškud₂-bi i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+#lem: aškud[part of a door]; ihenunak[precious oil]; šu[hand]; ur[drag]
+#etcsl: line-id=205
+
+206. šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+#lem: šag[heart]; inun[ghee]; lal[syrup]; ŋeštin[vine]; niŋ[thing]; gal[big]
+#etcsl: line-id=206
+
+207. si {ŋiš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul# hu-mu-ni-ib-dug₄#
+#lem: si[horn]; masaŋ[prow]; suhur[carp]; eštub[carp]; ul[swell]; dug[speak]
+#etcsl: line-id=207
+
+208. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
+#etcsl: line-id=208
+
+209. nidba-a saŋ-bi larsam{ki}-ma egir-bi enegir{ki}-a
+#lem: nindaba[(food) offering]; saŋ[head]; Larsam[1]SN; egir[back]; Enegir[1]SN
+#etcsl: line-id=209
+
+210. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=210
+
+211. {d}še-ri₅-da sag₉-ga e₂-<ta> nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: Šerda[1]DN; sag[good]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=211
+
+212. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=212
+
+213. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-[en]
+#lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=213
+
+214. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-[sal-e]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
+#etcsl: line-id=214
+
+215. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+#lem: ŋiri[foot]; gakkul[mash-tub]; zabar[bronze]; šuš[cover]
+#etcsl: line-id=215
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+215A. šu-si-ni {ŋiš}bulug {ŋiš}taškarin mu-na-bur₁₂-bur₁₂-re
+#lem: šusi[finger]; bulug[needle]; taškarin[box tree]; bur[tear out]
+#etcsl: line-id=215A
+
+@endvariants
+216. aškud₂-bi i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+#lem: aškud[part of a door]; ihenunak[precious oil]; šu[hand]; ur[drag]
+#etcsl: line-id=216
+
+217. šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-[ul-e]
+#lem: šag[heart]; inun[ghee]; lal[syrup]; ŋeštin[vine]; niŋ[thing]; gal[big]
+#etcsl: line-id=217
+
+218. si {ŋiš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib#-[dug₄]
+#lem: si[horn]; masaŋ[prow]; suhur[carp]; eštub[carp]; ul[swell]; dug[speak]
+#etcsl: line-id=218
+
+219. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
+#etcsl: line-id=219
+
+220. nidba-a saŋ-bi ki unug{ki}-ga egir-bi larsam{ki#}-[ma]
+#lem: nindaba[(food) offering]; saŋ[head]; ki[place]; Unug[1]SN; egir[back]; Larsam[1]SN
+#etcsl: line-id=220
+
+221. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab#-[e₃]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=221
+
+222. kug {d}inana-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: kug[purify]; Inanak[1]DN; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=222
+
+223. silim-ma he₂-me-en silim-ma he₂-[me-en] {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=223
+
+224. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂# [silim-ma he₂]-me#-en
+#lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=224
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+224A. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en# {ŋiš}ma₂ silim#-[ma he₂-me-en]
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=224A
+
+@endvariants
+225. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
+#etcsl: line-id=225
+
+226. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+#lem: ŋiri[foot]; gakkul[mash-tub]; zabar[bronze]; šuš[cover]
+#etcsl: line-id=226
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+226A. šu-si-ni bulug {ŋiš}taškarin-na mu-na-an-bur₁₂-bur₁₂-re
+#lem: šusi[finger]; bulug[needle]; taškarin[box tree]; bur[tear out]
+#etcsl: line-id=226A
+
+@endvariants
+227. aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+#lem: aškud[part of a door]; ihenunak[precious oil]; šu[hand]; ur[drag]
+#etcsl: line-id=227
+
+228. šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul#-[e]
+#lem: šag[heart]; inun[ghee]; lal[syrup]; ŋeštin[vine]; niŋ[thing]; gal[big]
+#etcsl: line-id=228
+
+229. si {ŋiš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni#-[ib-dug₄]
+#lem: si[horn]; masaŋ[prow]; suhur[carp]; eštub[carp]; ul[swell]; dug[speak]
+#etcsl: line-id=229
+
+230. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂#-[mu] nibru{ki}-še₃ ba-du-[un]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
+#etcsl: line-id=230
+
+231. nidba-a saŋ-bi šuruppag{ki}-a egir-bi unug{ki}-ga
+#lem: nindaba[(food) offering]; saŋ[head]; Šuruppag[1]SN; egir[back]; Unug[1]SN
+#etcsl: line-id=231
+
+232. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=232
+
+233. {d}nin-unug-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: Ninunugak[1]DN; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=233
+
+234. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=234
+
+235. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=235
+
+236. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
+#etcsl: line-id=236
+
+237. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+#lem: ŋiri[foot]; gakkul[mash-tub]; zabar[bronze]; šuš[cover]
+#etcsl: line-id=237
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+237A. šu-si-ni bulug {ŋiš}taškarin-na mu-na-an-bur₁₂-bur₁₂-re
+#lem: šusi[finger]; bulug[needle]; taškarin[box tree]; bur[tear out]
+#etcsl: line-id=237A
+
+@endvariants
+238. aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+#lem: aškud[part of a door]; ihenunak[precious oil]; šu[hand]; ur[drag]
+#etcsl: line-id=238
+
+239. šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+#lem: šag[heart]; inun[ghee]; lal[syrup]; ŋeštin[vine]; niŋ[thing]; gal[big]
+#etcsl: line-id=239
+
+240. si {ŋiš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib#-[dug₄]
+#lem: si[horn]; masaŋ[prow]; suhur[carp]; eštub[carp]; ul[swell]; dug[speak]
+#etcsl: line-id=240
+
+241. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
+#etcsl: line-id=241
+
+242. nidba-a saŋ-bi tum-ma-al{ki}-a egir-bi šuruppag{ki}-ga
+#lem: nindaba[(food) offering]; saŋ[head]; Tummal[1]TN; egir[back]; Šuruppag[1]SN
+#etcsl: line-id=242
+
+243. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=243
+
+244. {d}nin-lil₂ sag₉-ga e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+#lem: Ninlil[1]DN; sag[good]; e[house]; e[leave]; e[house]; e[leave]
+#etcsl: line-id=244
+
+245. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=245
+
+246. {ŋiš}ma₂ dumu nun-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
+#lem: ma[ship]; dumu[child]; nun[prince]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
+#etcsl: line-id=246
+
+247. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
+#etcsl: line-id=247
+
+248. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+#lem: ŋiri[foot]; gakkul[mash-tub]; zabar[bronze]; šuš[cover]
+#etcsl: line-id=248
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+248A. šu-si-ni bulug# {ŋiš}taškarin#-[na] mu#-na-an-bur₁₂-bur₁₂-re
+#lem: šusi[finger]; bulug[needle]; taškarin[box tree]; bur[tear out]
+#etcsl: line-id=248A
+
+@endvariants
+249. aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+#lem: aškud[part of a door]; ihenunak[precious oil]; šu[hand]; ur[drag]
+#etcsl: line-id=249
+
+250. šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+#lem: šag[heart]; inun[ghee]; lal[syrup]; ŋeštin[vine]; niŋ[thing]; gal[big]
+#etcsl: line-id=250
+
+251. si {ŋiš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+#lem: si[horn]; masaŋ[prow]; suhur[carp]; eštub[carp]; ul[swell]; dug[speak]
+#etcsl: line-id=251
+
+252. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
+#etcsl: line-id=252
+
+253. nidba-a saŋ-bi nibru{ki}-a egir-bi tum-ma-al{ki}-a
+#lem: nindaba[(food) offering]; saŋ[head]; Nibru[1]SN; egir[back]; Tummal[1]TN
+#etcsl: line-id=253
+
+254. kar za-gin₃ kar {d}en-lil₂-la₂-še₃
+#lem: kar[harbor]; zagin[lapis lazuli]; kar[harbor]; Enlil[1]DN
+#etcsl: line-id=254
+
+255. {d}nanna-{d}suen-e {ŋiš}ma₂ na-ga-am₃-mi-in-us₂
+#lem: Nannasuen[1]DN; ma[ship]; us[accompany]
+#etcsl: line-id=255
+
+256. kar babbar kar {d}en-lil₂-la₂-še₃
+#lem: kar[harbor]; babbar[white]; kar[harbor]; Enlil[1]DN
+#etcsl: line-id=256
+
+257. {d}dil-im₂-babbar₂-e {ŋiš}ma₂ na-ga-am₃-mi-in-us₂
+#lem: Dilimbabbar[1]DN; ma[ship]; us[accompany]
+#etcsl: line-id=257
+
+258. kun-saŋ a-a ugu-na nam-mi-in-gub
+#lem: kunsaŋ[an architectural term]; aya[father]; ugu[bear]; gub[stand]
+#etcsl: line-id=258
+
+259. i₃-du₈ a-a ugu-ni-ra gu₃ mu-na-de₂-e
+#lem: idu[doorkeeper]; aya[father]; ugu[bear]; gu[voice]; de[pour]
+#etcsl: line-id=259
+
+260. e₂ ŋal₂-lu i₃-du₈ e₂ ŋal₂-lu
+#lem: e[house]; ŋal[open]; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=260
+
+261. [e₂] ŋal₂#-lu {d}kal-kal e₂ ŋal₂-lu
+#lem: e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
+#etcsl: line-id=261
+
+262. {[d]}[kal]-kal# lu₂-ŋiš-e₃ e₂ ŋal₂-lu
+#lem: Kalkal[1]DN; luŋešed[doorman]; e[house]; ŋal[open]
+#etcsl: line-id=262
+
+263. [lu₂-ŋiš]-ed₃ ŋiš-e₃ e₂ ŋal₂-lu
+#lem: luŋešed[doorman]; luŋešed[doorman]; e[house]; ŋal[open]
+#etcsl: line-id=263
+
+264. i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
+#lem: idu[doorkeeper]; e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
+#etcsl: line-id=264
+
+265. gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re
+#lem: gud[bull]; tur[animal stall]; gu[neck]; gur[turn]
+#etcsl: line-id=265
+
+266. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ [ŋal₂-lu]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=266
+
+267. udu niga šag₄ mu-da-ab-la₂-e
+#lem: udu[sheep]; niga[fattened]; šag[heart]; la[hang]
+#etcsl: line-id=267
+
+268. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=268
+
+269. tur₃-e ib₂-<da>-ab-luh-luh-e
+#lem: tur[animal stall]; luh[clean]
+#etcsl: line-id=269
+
+270. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=270
+
+271. ud₅-de₃ niŋ₂-ar₃-ra bi₂-ib₂-gu₇-en
+#lem: uzud[(female) goat]; niŋara[groats]; gu[eat]
+#etcsl: line-id=271
+
+272. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=272
+
+273. ze₂-da niŋ₂ bar-bar sur-ra <X>
+#lem: zeda[suckling pig]; niŋ[thing]; bar[back]; sur[twist]; u
+#etcsl: line-id=273
+
+274. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=274
+
+275. peš₂-ŋiš-gi niŋ₂ kun sud kun sud-da
+#lem: pešgi[rodent]; niŋ[thing]; kun[tail]; sud[distant]; kun[tail]; sud[distant]
+#etcsl: line-id=275
+
+276. {d}dil-im₂-babbar-me-en šag₄ am₃-mi-ni-ib₂-gul-gul
+#lem: Dilimbabbar[1]DN; šag[heart]; gul[destroy]
+#etcsl: line-id=276
+
+277. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=277
+
+278. kud-da mušen tur-re šu bi₂-ib₂-zu-zu
+#lem: kušu[creature]; mušen[bird]; tur[small]; šu[hand]; zu[know]
+#etcsl: line-id=278
+
+279. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=279
+
+280. u₅-bi₂{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
+#lem: ubi[bird]; tur[small]; tul[public fountain]; tum[bring]
+#etcsl: line-id=280
+
+281. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=281
+
+282. a-zag-gun₃{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
+#lem: azagun[bird]; tur[small]; tul[public fountain]; tum[bring]
+#etcsl: line-id=282
+
+283. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=283
+
+284. suhur{ku₆}-e šag₄ mu-da-ab-sur-re
+#lem: suhur[carp]; šag[heart]; sur[press]
+#etcsl: line-id=284
+
+285. {d}dil-im₂-babbar₂-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-[lu]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=285
+
+286. eštub{ku₆}-e zag im-la₂-la₂-e
+#lem: eštub[carp]; zag[side]; la[hang]
+#etcsl: line-id=286
+
+287. {d}nanna-{d}suen#-[me]-en e₂ {[d]}[en-lil₂-la₂-še₃ i₃]-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=287
+
+288. i₃ A-|ZI&ZI.LAGAB| a mu-un-de₂-de₂-e
+#lem: i[oil]; A.ZI\&ZI.LAGAB[esparto grass]; a[water]; de[pour]
+#etcsl: line-id=288
+
+289. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=289
+
+290. nunuz ŋir₃-lam-e mu-un-sig₉-sig₉-ge
+#lem: nunuz[egg]; ŋirlam[basket]; sig[put into]
+#etcsl: line-id=290
+
+291. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=291
+
+292. gi sumun gi henbur-e [mud] ŋal₂ im-me
+#lem: gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; mud[create]; ŋal[⟦be⟧ to be (there]; dug[speak]
+#etcsl: line-id=292
+
+293. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=293
+
+294. u₈ 600-am₃ sila₄ im-mi-in-[tu]-ud
+#lem: u[sheep]; n; sila[lamb]; utud[give birth (to)]
+#etcsl: line-id=294
+
+295. {udu}utua₂-bi šag₄-ba šu ba-ni-in-ba-ba
+#lem: utuwa[ram]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=295
+
+296. gu₂ {id₂}surungal im-[mi-in-ba]
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=296
+
+297. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈# [e₂ ŋal₂-lu]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=297
+
+298. ud₅ 600-am₃ maš₂ im-mi-in-tu-ud
+#lem: uzud[(female) goat]; n; maš[goat]; utud[give birth (to)]
+#etcsl: line-id=298
+
+299. maš₂-ud₅-da-bi šag₄-ba šu ba-ni-in-ba-ba
+#lem: mašuzudak[breed-goat]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=299
+
+300. gu₂ {id₂}surungal [im-mi-in-ba]
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=300
+
+301. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-[du₈] e₂ [ŋal₂-lu]
+#lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=301
+
+302. ab₂ 600#-am₃ amar im-mi-in-tu-ud
+#lem: ab[cow]; n; amar[calf]; utud[give birth (to)]
+#etcsl: line-id=302
+
+303. gud-ab₂-ba šag₄-ba šu ba-ni-in-ba-ba
+#lem: gudabak[breed bull]; šag[heart]; šu[hand]; ba[allot]
+#etcsl: line-id=303
+
+304. gu₂ {id₂}surungal im-mi-[in-ba]
+#lem: gu[neck]; Surungal[1]WN; ba[allot]
+#etcsl: line-id=304
+
+305. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ [i₃-du₈ e₂ ŋal₂-lu]
+#lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
+#etcsl: line-id=305
+
+306. i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu#
+#lem: idu[doorkeeper]; e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
+#etcsl: line-id=306
+
+307. niŋ₂ saŋ {ŋiš}ma₂ niŋ₂-saŋ ga-ra-ni-ib-šum₂
+#lem: niŋ[thing]; saŋ[head]; ma[ship]; nesaŋ[first-fruit offering]; šum[give]
+#etcsl: line-id=307
+
+308. niŋ₂ egir {ŋiš}ma₂ niŋ₂ egir ga-ra-ni-ib-šum₂
+#lem: niŋ[thing]; egir[back]; ma[ship]; niŋ[thing]; egir[back]; šum[give]
+#etcsl: line-id=308
+
+309. hul₂-la-da i₃-du₈-e hul₂-la-da
+#lem: hul[rejoice]; idu[doorkeeper]; hul[rejoice]
+#etcsl: line-id=309
+
+310. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+#lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
+#etcsl: line-id=310
+
+311. {d}kal-kal lu₂-ŋiš-e₃ hul₂-la-da
+#lem: Kalkal[1]DN; luŋešed[doorman]; hul[rejoice]
+#etcsl: line-id=311
+
+312. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+#lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
+#etcsl: line-id=312
+
+313. {d}kal-kal lu₂-{ŋiš}mud-e hul₂-la-da
+#lem: Kalkal[1]DN; lumud[bolt-handler]; hul[rejoice]
+#etcsl: line-id=313
+
+314. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+#lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
+#etcsl: line-id=314
+
+315. kur-ra igi ŋal₂ e₂ {d}en-lil₂-la₂-še₃
+#lem: kur[mountain(s)]; igi[eye]; ŋal[⟦be⟧ to be (there]; e[house]; Enlil[1]DN
+#etcsl: line-id=315
+
+316. {d}nanna-{d}suen-e nidba si bi₂-in-sa₂
+#lem: Nannasuen[1]DN; nindaba[(food) offering]; si[horn]; sa[equal]
+#etcsl: line-id=316
+
+317. {d}en-lil₂-e nidba hul₂-la-da
+#lem: Enlil[1]DN; nindaba[(food) offering]; hul[rejoice]
+#etcsl: line-id=317
+
+318. dumu-ni {d}suen-ra ninda mu-na-ba-e
+#lem: dumu[child]; Suen[1]DN; ninda[bread]; ba[allot]
+#etcsl: line-id=318
+
+319. {d}suen-ra {d}en-lil₂ mu-un-da-hul₂ mi₂ zid na-mu-un-ne
+#lem: Suen[1]DN; Enlil[1]DN; hul[rejoice]; mi[cvne]; zid[right]; e[speak]
+#etcsl: line-id=319
+
+320. lu₂-tur-ŋu₁₀ lu₂ {ninda}gug₂ gu₇-a-ra {ninda}gug₂ šum₂-mu-na-ab-ze₂-en
+#lem: lutur[child]; lu[person]; gug[cake]; gu[eat]; gug[cake]; šum[give]
+#etcsl: line-id=320
+
+321. {d}nanna-ŋu₁₀ {ninda}gug₂ gu₇ ki aŋ₂-ŋa₂-ra {ninda}gug₂ šum₂-mu-na-ab-ze₂-en
+#lem: Nanna[1]DN; gug[cake]; gu[eat]; ki[place]; aŋ[measure]; gug[cake]; šum[give]
+#etcsl: line-id=321
+
+322. ninda-ba u₃ ninda mah e₂-kur-ta e₃-mu-na-ra-ab-ze₂-en
+#lem: nindaba[ration]; u[and]; ninda[bread]; mah[great]; Ekur[1]TN; e[leave]
+#etcsl: line-id=322
+
+323. kaš sag₁₀-ga a₂ sikil-la-ŋu₁₀ de₂-mu-na-ra-ab-ze₂-en
+#lem: kaš[beer]; sag[good]; a[arm]; sikil[pure]; de[pour]
+#etcsl: line-id=323
+
+324. ti-lim-da u₁₈-ru ki us₂-sa mu-bi he₂-em-ma-X-X
+#lem: tilimda[water vessel]; urun[exalted]; ki[place]; us[accompany]; mu[name]; X
+#etcsl: line-id=324
+
+325. {ninda}gug₂ gi-rin-na lal₃ si-gug₂ a sikil dug₄-ga-na-ab-ze₂-en
+#lem: gug[cake]; girim[clear]; lal[syrup]; sigug[crescent-shaped cake]; a[water]; sikil[purify]; dug[speak]
+#etcsl: line-id=325
+
+326. {d}suen-e a-a ugu-ni-ra mu-na-ni-ib-gi₄-gi₄
+#lem: Suen[1]DN; aya[father]; ugu[bear]; gi[turn]
+#etcsl: line-id=326
+
+327. a-a ugu-ŋu₁₀ gu₇-a-zu ši-im-si-in
+#lem: aya[father]; ugu[bear]; gu[eat]; si[fill]
+#etcsl: line-id=327
+
+328. kur gal a-a ugu-ŋu₁₀ naŋ-a-zu ši-im-si-in
+#lem: kur[mountain(s)]; gal[big]; aya[father]; ugu[bear]; naŋ[drink]; si[fill]
+#etcsl: line-id=328
+
+329. igi il₂-la-zu nam-lugal-am₃
+#lem: igi[eye]; il[raise]; namlugal[kingship]
+#etcsl: line-id=329
+
+330. {d}en-lil₂ he₂-ŋal₂-zu a-GABA gub-ba-am₃
+#lem: Enlil[1]DN; heŋal[plenty]; X; gub[stand]
+#etcsl: line-id=330
+
+331. šum₂-ma-da-ab {d}en-lil₂ šum₂-ma-da-ab urim₂{ki}-še₃ ga-ŋen
+#lem: šum[give]; Enlil[1]DN; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=331
+
+332. id₂-da a-eštub šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: id[river]; aʾeštub[early flooding]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=332
+
+333. a-šag₄-ga še gu-nu šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=333
+
+334. ambar-ra ku₆-da suhur{ku₆} šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=334
+
+335. ŋiš-gi-a gi sumun gi henbur šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=335
+
+336. {ŋiš}tir-{ŋiš}tir-ra šeg₉ šeg₉-bar šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=336
+
+337. an-edin-na {ŋiš}maš-gurum šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: aneden[the high steppe]; mašgurum[plant]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=337
+
+338. pu₂-kiri₆ lal₃ ŋeštin šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=338
+
+339. e₂-gal-la zi su₃-ud-ŋal₂ šum₂-ma-da-ab urim₂{ki} ga-ŋen
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=339
+
+340. mu-na-an-šum₂ {d}en-lil₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: šum[give]; Enlil[1]DN; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=340
+
+341. id₂-da a-eštub mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: id[river]; aʾeštub[early flooding]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=341
+
+342. a-šag₄-ga še gu-nu mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=342
+
+343. ambar-a ku₆-da suhur{ku₆} mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=343
+
+344. ŋiš-gi-a gi sumun gi henbur mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=344
+
+345. tir-tir-ra šeg₉ šeg₉-bar mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=345
+
+346. an-edin-na {ŋiš}maš-gurum mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: aneden[the high steppe]; mašgurum[plant]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=346
+
+347. pu₂-kiri₆ lal₃ ŋeštin mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=347
+
+348. e₂-gal-la zi su₃-ud-ŋal₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-an-ŋen
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give]; Urim[1]SN; ŋen[go]
+#etcsl: line-id=348
+
+349. lugal-ŋu₁₀ barag-za {d}en-lil₂-la₂
+#lem: lugal[king]; barag[sanctum]; Enlil[1]DN
+#etcsl: line-id=349
+
+350. {d}nanna-ar-{d}suen-e ud 7 he₂-a-ši-ib-tud
+#lem: Nannasuen[1]DN; ud[sun]; n; utud[give birth (to)]
+#etcsl: line-id=350
+
+351. barag kug-za ama gal {d}nin-lil₂-la₂
+#lem: barag[sanctum]; kug[pure]; ama[mother]; gal[big]; Ninlil[1]DN
+#etcsl: line-id=351
+
+352. en {d}dil-im₂-babbar-e ud 7 he₂-a-ši-ib-tud
+#lem: en[lord]; Dilimbabbar[1]DN; ud[sun]; n; utud[give birth (to)]
+#etcsl: line-id=352
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) The heroic @wDN{Nanna-Suen} fixed his mind on the city of his mother. @wDN{Suen} @wDN{Ašimbabbar} fixed his mind on the city of his mother. @wDN{Nanna-Suen} fixed his mind on the city of his mother and his father. @wDN{Ašimbabbar} fixed his mind on the city of @wDN{Enlil} and @wDN{Ninlil}:
+
+@(9 = 9-16) @q[Nanna-Suen,self]{“I, the hero, will set off for my city. I will set off for my city, I will set off to my father. I, @wDN{Suen}, will set off for my city. I will set off for my city, I will set off to my father. I will set off to my father @wDN{Enlil}. I will set off for my city, I will set off to my mother. I will set off to my mother @wDN{Ninlil}. I will set off to my father.”}
+
+@(17 = 17-27) @q{“The shining city, the pure place …….  @gap{6 lines missing}  …… very great, …… very great, …… very great, …… very great.”}
+
+@(28 = 28-36) @q{“My @wSN{Nibru}, where black birch trees grow in a good place, my sanctuary @wSN{Nibru}, where white birch trees grow in a pure place -- my @wSN{Nibru's} shrine is built in a good place. The sanctuary @wSN{Nibru's} name is a good name. My @wSN{Nibru's} shrine is built in a good place. The sanctuary @wSN{Nibru's} name is a good name. Before @wSN{Dilmun} existed, palm trees grew in my city. Before @wSN{Dilmun} existed, palm trees grew in @wSN{Nibru} and the great mother @wDN{Ninlil} was clothed in fine linen.”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t151.q1 t151.q2 t151.q3
+#etcsl#linkGrpc
+
+@(37 = 37-38) @wDN{Suen} set about constructing (?) a barge. He set about constructing (?) a barge and sent for reed matting.
+
+@(39 = 39-48) @wDN{Nanna-Suen} despatched people to @wSN{Tummal} for the barge's reeds. @wDN{Ašimbabbar} despatched people to the @fsux{abzu} for the barge's pitch. @wDN{Nanna-Suen} despatched people to @wSN{Du-ašaga} for its rushes. @wDN{Ašimbabbar} despatched people to the cypress forest for its strakes (?). @wDN{Nanna-Suen} despatched people to the forests of @wSN{Kug-nuna} for its ribbing (?).  @vart[t151.v1,t151.v1]{@varn{3 mss. add 2 lines in a parallel passage:} @wDN{Ašimbabbar} despatched people to the mountain of fragrant cedar for its beams. }
+
+@(49 = 49-58) @wDN{Ašimbabbar} despatched people to the forests of @wSN{Ebla} for its planking. @wDN{Nanna-Suen} despatched people to the fragrant cedar forest for its fir wood. @wDN{Ašimbabbar} despatched people to the junipers of @wSN{Langi} for its ……. @wDN{Ašimbabbar} despatched people to …… for its ……. @wDN{Nanna-Suen} despatched people to the mound of …… for its …….
+
+@(59 = 59-82) When the barge's reeds were brought to @wDN{Nanna-Suen} from @wSN{Tummal}, when the barge's pitch was brought to @wDN{Ašimbabbar} from the @fsux{abzu}, when its rushes were brought to @wDN{Nanna-Suen} from @wSN{Du-ašaga}, when its strakes (?) were brought to @wDN{Ašimbabbar} from the cypress forest, when its ribbing (?) was brought to @wDN{Nanna-Suen} from the forests of @wSN{Kug-nuna},  @vart[t151.v2,t151.v2]{@varn{3 mss. add 2 lines:} when its beams were brought to @wDN{Ašimbabbar} from the mountain of fragrant cedar, } when its planking was brought to @wDN{Ašimbabbar} from the forests of @wSN{Ebla}, when its fir wood was brought to @wDN{Nanna-Suen} from the fragrant cedar forest, when its …… was brought to @wDN{Ašimbabbar} from the junipers of @wSN{Langi}, when its …… was brought to @wDN{Ašimbabbar} from ……, when its …… was brought to @wDN{Nanna-Suen} from the mound of ……,  @gap{1 line fragmentary} @wDN{Utu} rejoiced at him and put ……. @wDN{Gibil} rejoiced at him.  @gap{lines 83-146 missing or fragmentary} 
+
+@(147 = 147-150) (He declared:) @q[Nanna-Suen,self]{“I am @wDN{Nanna-Suen}, I ……, I will …… to the house of @wDN{Enlil}. I am @wDN{Ašimbabbar}, and I will …… to the house of @wDN{Enlil}.”}  @gap{6 lines missing} 
+
+@(157 = 157-166) @wDN{Nanna-Suen} will gather bulls for the cow-pen for the house of @wDN{Enlil}. @wDN{Ašimbabbar} will collect (?) fattened sheep for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will purify the cow-pen for the house of @wDN{Enlil}. @wDN{Ašimbabbar} will feed meal to the goats for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will …… porcupines for the house of @wDN{Enlil}.
+
+@(167 = 167-175) @wDN{Ašimbabbar} will …… long-tailed bush-rats for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will gather (?) turtles (?) and small birds for the house of @wDN{Enlil}. @wDN{Ašimbabbar} will bring small @fsux{ubi} birds from the pond for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will bring small @fsux{azagun} birds from the …… for the house of @wDN{Enlil}.
+
+@(176 = 176-185) @wDN{Ašimbabbar} will …… @fsux{suḫur} carp for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will …… @fsux{eštub} carp for the house of @wDN{Enlil}. @wDN{Ašimbabbar} will pour the oil of rushes onto the water for the house of @wDN{Enlil}. @wDN{Nanna-Suen} will fill baskets with eggs for the house of @wDN{Enlil}. @wDN{Ašimbabbar} will cause old reed and fresh reed to thrive for the house of @wDN{Enlil}.
+
+@(186 = 186-197) @wDN{Nanna-Suen} will cause six hundred ewes to give birth to lambs for the house of @wDN{Enlil}, for he will cause their rams to be let loose among them, and he will distribute them along the banks of the @wWN{Surungal} canal. @wDN{Ašimbabbar} will cause six hundred she-goats to give birth to kids for the house of @wDN{Enlil}, for he will cause their bucks to be let loose among them, and he will distribute them along the banks of the @wWN{Surungal} canal. @wDN{Nanna-Suen} will cause six hundred cows to give birth to calves for the house of @wDN{Enlil}, for he will cause their bulls to be let loose among them, and he will distribute them along the banks of the @wWN{Surungal} canal.
+
+@(198 = 198-202) @wSN{Enegir} lay ahead of the offerings, @wSN{Urim} lay behind them. She brought out of the house what should not come out of the house, what should not come out of the house -- @wDN{Ningirida} brought out of the house what should not come out of the house: @q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen}, welcome, welcome, O boat!”}
+
+@(203 = 203-208) She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat.  @vart[t151.v3,t151.v3]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ningirida,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, syrup and wine be abundant in your midst, may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} But the boat did not give her its cargo: @q[Nanna-Suen,Ningirida]{“I am going to @wSN{Nibru}!”}
+
+@(209 = 209-213) @wSN{Larsam} lay ahead of the offerings, @wSN{Enegir} lay behind them. She brought out of the house what should not come out of the house, what should not come out of the house -- the lovely @wDN{Šerida} brought out of the house what should not come out of the house: @q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father, welcome, welcome, O boat!”}
+
+@(214 = 214-219) She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat.  @vart[t151.v4,t151.v4]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Cerida,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, syrup and wine be abundant in your midst, may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} But the boat did not give her its cargo: @q[Nanna-Suen,Cerida]{“I am going to @wSN{Nibru}!”}
+
+@(220 = 220-224) @wSN{Unug} lay ahead of the offerings, @wSN{Larsam} lay behind them. She brought out of the house what should not come out of the house, what should not come out of the house -- holy @wDN{Inana} brought out of the house what should not come out of the house: @q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, O boat!  @vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”}
+
+@(225 = 225-230) She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat.  @vart[t151.v6,t151.v6]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Inana,Nanna-Suen]{“I shall rub precious oil on your peg. May ghee, syrup and wine be abundant in your midst, may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} But the boat did not give her its cargo: @q[Nanna-Suen,Inana]{“I am going to @wSN{Nibru}!”}
+
+@(231 = 231-235) @wSN{Šuruppag} lay ahead of the offerings, @wSN{Unug} lay behind them. She brought out of the house what should not come out of the house, what should not come out of the house -- @wDN{Ninunuga} brought out of the house what should not come out of the house: @q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen} welcome, welcome, O boat!”}
+
+@(236 = 236-241) She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat.  @vart[t151.v7,t151.v7]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ninunuga,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, syrup and wine be abundant in your midst, may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} But the boat did not give her its cargo: @q[Nanna-Suen,Ninunuga]{“I am going to @wSN{Nibru}!”}
+
+@(242 = 242-246) @wSN{Tummal} lay ahead of the offerings, @wSN{Šuruppag} lay behind them. She brought out of the house what should not come out of the house, what should not come out of the house -- the fair @wDN{Ninlil} brought out of the house what should not come out of the house: @q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of the princely son welcome, welcome, O boat!”}
+
+@(247 = 247-252) She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. @vart[t151.v8,t151.v8]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ninlil,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, syrup and wine be abundant in your midst, may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} But the boat did not give her its cargo: @q[Nanna-Suen,Ninlil]{“I am going to @wSN{Nibru}!”}
+
+@(253 = 253-257) @wSN{Nibru} lay ahead of the offerings, @wSN{Tummal} lay behind them. At the Shining Quay, the quay of @wDN{Enlil}, @wDN{Nanna-Suen} finally docked the boat. At the White Quay, the quay of @wDN{Enlil}, @wDN{Ašimbabbar} finally docked the boat.
+
+@(258 = 258-264) He stood at the grand stairway of his father who begot him and called out to the porter of his father who begot him: @q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! Open the house, @wDN{Kalkal}, open the house! @wDN{Kalkal}, doorkeeper, open the house! Doorman, doorkeeper, open the house! Porter, open the house! @wDN{Kalkal}, open the house!”}
+
+@(265 = 265-274) @q{“I, @wDN{Nanna-Suen}, have gathered bulls for the cow-pen for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Ašimbabbar}, have collected (?) fattened sheep for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, shall purify the cow-pen for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Ašimbabbar}, shall feed meal to the goats for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, have …… porcupines for the house of @wDN{Enlil}; porter, open the house.”}
+
+@(275 = 275-283) @q{“I, @wDN{Ašimbabbar} -- I, @wDN{Ašimbabbar} -- have …… long-tailed bush-rats for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, have gathered (?) turtles (?) and little birds for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Ašimbabbar}, have brought small @fsux{ubi} birds from the pond for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; porter, open the house.”}
+
+@(284 = 284-293) @q{“I, @wDN{Ašimbabbar}, …… @fsux{suḫur} carp for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, …… @fsux{eštub} carp for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Ašimbabbar}, shall pour the oil of rushes onto the water for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Nanna-Suen}, have filled baskets with eggs for the house of @wDN{Enlil}; porter, open the house. I, @wDN{Ašimbabbar}, have caused old reed and fresh reed to thrive for the house of @wDN{Enlil}; porter, open the house.”}
+
+@(294 = 294-305) @q{“I, @wDN{Nanna-Suen}, have caused six hundred ewes to give birth to lambs for the house of @wDN{Enlil}, for I have caused their rams to be let loose among them, and I have distributed them along the banks of the @wWN{Surungal} canal; porter, open the house. I, @wDN{Ašimbabbar}, have caused six hundred she-goats to give birth to kids for the house of @wDN{Enlil}, for I have caused their bucks to be let loose among them, and I have distributed them along the banks of the @wWN{Surungal} canal; porter, open the house. I, @wDN{Nanna-Suen}, have caused six hundred cows to give birth to calves for the house of @wDN{Enlil}, for I have caused their bulls to be let loose among them, and I have distributed them along the banks of the @wWN{Surungal} canal; porter, open the house.”}
+
+@(306 = 306-308) @q{“Porter, open the house! @wDN{Kalkal}, open the house! I will give you that which is in the prow of the boat as a first offering, and I will give you that which is in the stern of the boat as a last offering.”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t151.q4 t151.q5 t151.q6 t151.q7 t151.q8 t151.q9
+#etcsl#linkGrpc
+
+@(309 = 309-318) Rejoicing, the porter rejoicing, the porter rejoicing opened the house. @wDN{Kalkal}, the doorkeeper, rejoicing, the porter rejoicing opened the house. @wDN{Kalkal}, in charge of the bolt-handle, rejoicing, the porter rejoicing opened the house. At the house of @wDN{Enlil}, ……, @wDN{Nanna-Suen} made the offerings. @wDN{Enlil}, rejoicing over the offerings, offered bread to @wDN{Suen}, his son.
+
+@(319 = 319-325) @wDN{Enlil} rejoiced over @wDN{Suen} and spoke kindly: @q[Enlil,Kalkal]{“Give sweet cakes to my little fellow who eats sweet cakes. Give sweet cakes to my @wDN{Nanna} who loves eating sweet cakes. Bring out from the @wTN{E-kur} the bread allotment and first quality bread for him. Pour out for him the finest beer, my pure ……. May the …… of the towering @fsux{tilimda} vessels, standing on the ground, ……. Order pure sweet cake, syrup, crescent (?) cake and clear water for him.”}
+
+@(326 = 326-330) @wDN{Suen} replied to his father who begot him: @q[Nanna-Suen,Enlil]{“Father who begot me, I am indeed satisfied with what you have given me to eat. O Great Mountain, father who begot me, I am indeed satisfied with what you have given me to drink. Wherever you lift your eyes, there is kingship. O @wDN{Enlil}, your abundance is …….”}
+
+@(331 = 331-339) @q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! In the river give me the carp-flood -- I want to set off for @wSN{Urim}! In the fields give me speckled barley -- I want to set off for @wSN{Urim}! In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! In the palace give me long life -- I want to set off for @wSN{Urim}!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t151.q10 t151.q11
+#etcsl#linkGrpc
+
+@(340 = 340-348) He gave to him, @wDN{Enlil} gave to him -- and he set off for @wSN{Urim}. In the river he gave him the carp-flood -- and he set off for @wSN{Urim}. In the field he gave him speckled barley -- and he set off for @wSN{Urim}. In the pond he gave him @fsux{kuda} carp and @fsux{suḫur} carp -- and he set off for @wSN{Urim}. In the reedbeds he gave him old reed and fresh reed -- and he set off for @wSN{Urim}. In the forests he gave him the ibex and wild ram -- and he set off for @wSN{Urim}. In the high plain he gave him the @fsux{mašgurum} tree -- and he set off for @wSN{Urim}. In the orchards he gave him syrup and wine -- and he set off for @wSN{Urim}. In the palace he gave him long life -- and he set off for @wSN{Urim}.
+
+@(349 = 349-352) My king, on your throne, for @wDN{Enlil}, may @wDN{Nanna-Suen} make you be born for seven days. On your holy throne, for the great mother @wDN{Ninlil}, may Lord @wDN{Ašimbabbar} make you be born for seven days.
+
+
+

@@ -1,0 +1,244 @@
+&Q000634 = A balbale to Inana (Dumuzid-Inana C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.03&display=Crit&charenc=gcirc#
+
+@div unknown A
+
+A.1. nin₉-ŋu₁₀ e₂-a a-na-am₃ mu-e-[ak]
+#lem: nin[sister]; e[house]; ana[what?]; ak[do]
+#etcsl: line-id=A.1
+
+A.2. lu₂-tur e₂-a a-na-am₃ mu-e-ak#
+#lem: lutur[child]; e[house]; ana[what?]; ak[do]
+#etcsl: line-id=A.2
+
+A.3. a im-ma-tu₅ %e na-ma %s im-ma-su-ub
+#lem: a[water]; tu[cvve]; nama[potash]N; sub[rub]
+#etcsl: line-id=A.3
+
+A.4. a šen-dilim₂ kug-ga im-ma-tu₅
+#lem: a[water]; šendili[ewer]; kug[pure]; tu[cvve]
+#etcsl: line-id=A.4
+
+A.5. %e na-ma %s bur babbar-ra im-ma-su-ub
+#lem: nama[potash]N; bur[(stone) bowl]; babbar[white]; sub[rub]
+#etcsl: line-id=A.5
+
+A.6. %e u₅ ze₂-ba %s bur-ra im-ma-šeš₄
+#lem: u[oil]N; zeb[good]V/i; bur[(stone) bowl]; šeš[anoint]
+#etcsl: line-id=A.6
+
+A.7. {tug₂}pala₃ %e na-aŋ₂ ga-ša-an-an-na %s im-ma-mur₁₀
+#lem: pala[garment]; naŋ[fate]N; Gašanana[1]DN; mur[dress]
+#etcsl: line-id=A.7
+
+A.8. ur₅-re e₂-a mi-ni-ib₂-ni₁₀-ni₁₀-e-en
+#lem: ur[that]; e[house]; niŋin[encircle]
+#etcsl: line-id=A.8
+
+A.9. šem-bi-zid %e i-bi₂-ŋa₂ mu-ni-mar-mar
+#lem: šembizida[kohl]; ibi[eye]N; mar[place]V/t
+#etcsl: line-id=A.9
+
+A.10. gu₂-bar-ŋu₁₀ mu-DU si bi₂-sa₂
+#lem: gubar[nape of the neck]; X; si[horn]; sa[equal]
+#etcsl: line-id=A.10
+
+A.11. siki-ŋu₁₀ im-da-la₂ a bi₂-tu₅#
+#lem: siki[hair]; la[hang]; a[water]; tu[cvve]
+#etcsl: line-id=A.11
+
+A.12. {ŋiš}tukul-ŋu₁₀ bal in-na-sag₉-ga mu-zu
+#lem: tukul[weapon]; bala[turn]; sag[good]; zu[know]
+#etcsl: line-id=A.12
+
+A.13. saŋ-ŋu₁₀ ba-suh₃ si bi₂-sa₂
+#lem: saŋ[head]; suh[confuse]; si[horn]; sa[equal]
+#etcsl: line-id=A.13
+
+A.14. suh-ŋu₁₀ ba-bur₂-bur₂ mu-dub-dub
+#lem: suh[crown]; bur[spread out]; dub[heap up]
+#etcsl: line-id=A.14
+
+A.15. gu₂ gu₂-bar-ra-ka mu-ni-in-šub
+#lem: gu[neck]; gubar[nape of the neck]; šub[fall]
+#etcsl: line-id=A.15
+
+A.16. har kug-sig₁₇ šu-ŋa₂ im-mi-du₃
+#lem: har[ring]; kugsig[gold]; šu[hand]; du[build]
+#etcsl: line-id=A.16
+
+A.17. za-gin₃ di₄-di₄ gu₂-ŋa₂ im-mi-sig₉
+#lem: zagin[lapis lazuli]; didila[small(er)]; gu[neck]; sig[put into]
+#etcsl: line-id=A.17
+
+A.18. murub₂-bi gu₂ sa-ŋa₂ si bi₂-sa₂
+#lem: murub[middle]; gu[neck]; sa[sinew]; si[horn]; sa[equal]
+#etcsl: line-id=A.18
+
+A.19. nin₉ igi šag₄-za-ta mu-de₆-de₆
+#lem: nin[sister]; igi[eye]; šag[heart]; de[carry]
+#etcsl: line-id=A.19
+
+A.20. šag₄-za šag₄ ki aŋ₂ mu-de₆-de₆
+#lem: šag[heart]; šag[heart]; ki[place]; aŋ[measure]; de[carry]
+#etcsl: line-id=A.20
+
+A.21. {d}inana-zu teš₂ mu-ra-an-šum₂
+#lem: Inanak[1]DN; teš[unity]; šum[give]
+#etcsl: line-id=A.21
+
+A.22. nin₉ mul-mul lal₃ ama ugu-za-me-en
+#lem: nin[sister]; mul[shine]; lal[syrup]; ama[mother]; ugu[bear]
+#etcsl: line-id=A.22
+
+A.23. nin₉ lu₂ niŋ₂ 5 ma-ra-de₆-a-ŋu₁₀
+#lem: nin[sister]; lu[person]; niŋ[thing]; n; de[carry]
+#etcsl: line-id=A.23
+
+A.24. nin₉ lu₂ niŋ₂ 10 ma-ra-de₆-a-ŋu₁₀
+#lem: nin[sister]; lu[person]; niŋ[thing]; n; de[carry]
+#etcsl: line-id=A.24
+
+A.25. alan-za šu ma-ra-ni-in-du₇-am₃
+#lem: alan[image]; šu[hand]; du[perfect]
+#etcsl: line-id=A.25
+
+A.26. nin₉ mul-mul sag₉-ga-bi na-de₆
+#lem: nin[sister]; mul[shine]; sag[good]; de[carry]
+#etcsl: line-id=A.26
+
+A.27. šeš-ŋu₁₀ e₂-gal-ta kur₉-re-ni
+#lem: šeš[brother]; egal[palace]; kur[enter]
+#etcsl: line-id=A.27
+
+A.28. nar-e-ne lu₂ hu-mu-ni-[...]
+#lem: nar[musician]; lu[person]; X
+#etcsl: line-id=A.28
+
+A.29. %e [me]-e %s ka-ta %e mu-tin %s ga-mu-[...]-de₂#
+#lem: meʾe[I]IP; kag[mouth]; mutin[vine]N; de[pour]
+#etcsl: line-id=A.29
+
+A.30. ur₅#-re šag₄-ga-ni he-em-hul₂-le#
+#lem: ur[that]; šag[heart]; hul[rejoice]
+#etcsl: line-id=A.30
+
+A.31. ur₅-re šag₄-ga-ni he₂-em-sag₉-ge
+#lem: ur[that]; šag[heart]; sag[good]
+#etcsl: line-id=A.31
+
+A.32. he₂-lah₅ he₂-lah₅ i₃-i₃ gara₂-bi ga-na he₂-lah₅
+#lem: lah[plural stem of tum ⟦bring⟧]; lah[plural stem of tum ⟦bring⟧]; i[oil]; gara[cream]; gana[come on!]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.32
+
+A.33. nin₉-ŋu₁₀ e₂-a ga-mu-u₈-da-lah₅#
+#lem: nin[sister]; e[house]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.33
+
+A.34. u₈-gin₇ sila₄ he₂-em-tum₂ he₂-[em-tum₂]
+#lem: u[sheep]; sila[lamb]; tum[bring]; tum[bring]
+#etcsl: line-id=A.34
+
+A.35. [nin₉]-ŋu₁₀# e₂#-a ga-mu-u₈-da-lah₅#
+#lem: nin[sister]; e[house]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.35
+
+A.36. ud₅-gin₇ maš₂ he₂-em-tum₂ he₂-[em-tum₂]
+#lem: uzud[(female) goat]; maš[goat]; tum[bring]; tum[bring]
+#etcsl: line-id=A.36
+
+A.37. nin₉#-ŋu₁₀ e₂-a ga-mu-u₈-da#-[lah₅]
+#lem: nin[sister]; e[house]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.37
+
+A.38. u₈-gin₇ sila₄ sag₉-sag₉-ga he₂#-a
+#lem: u[sheep]; sila[lamb]; sag[good]; me[be]
+#etcsl: line-id=A.38
+
+A.39. nin₉-ŋu₁₀ e₂-a ga-mu-u₈-da-[lah₅]
+#lem: nin[sister]; e[house]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.39
+
+A.40. ud₅-gin₇ maš₂ gun₃-gun₃-a he₂-a
+#lem: uzud[(female) goat]; maš[goat]; gunu[speckled]; me[be]
+#etcsl: line-id=A.40
+
+A.41. nin₉-ŋu₁₀ e₂-a ga-mu-u₈-da-lah₅
+#lem: nin[sister]; e[house]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=A.41
+
+A.42. i-da-lam (1:gaba-me:1) ba-gub-gub
+#lem: adal[an exclamation]; gaba[breast]; gub[stand]
+#etcsl: line-id=A.42
+
+:42v.1.1: ($1 ms. has instead:$) gaba-ŋu₁₀
+#lem: gaba[breast]
+
+A.43. i-da-lam (1:gal₄-la-me:1) siki ba-an-mu₂
+#lem: adal[an exclamation]; gala[female genitals]; siki[hair]; mu[grow]
+#etcsl: line-id=A.43
+
+:43v.1.1: ($1 ms. has instead:$) gal₄-la-ŋa₂
+#lem: gala[female genitals]
+
+A.44. ur₂ %e mu-tin-na-še₃ %e di-di-de₃ %s ba-ba ga-ba-hul₂-hul₂-le-en-de₃-en
+#lem: ur[loin]; mutin[male]; de[go]; ba[allot]; hul[rejoice]
+#etcsl: line-id=A.44
+
+A.45. gu₄-ud-an-ze₂-en gu₄-ud-an-ze₂-en
+#lem: gud[jump (on)]; gud[jump (on)]
+#etcsl: line-id=A.45
+
+A.46. {d}ba-u₂ gal₄-la-ŋa₂-ke₄-eš ga-ba-hul₂-hul₂-le-en-de₃-en
+#lem: Bau[1]DN; gala[female genitals]; hul[rejoice]
+#etcsl: line-id=A.46
+
+A.47. gu₄-ud-an-ze₂-en gu₄-ud-an-ze₂-en
+#lem: gud[jump (on)]; gud[jump (on)]
+#etcsl: line-id=A.47
+
+A.48. egir-bi in-na-sag₉ in-na-sag₉
+#lem: egir[back]; sag[good]; sag[good]
+#etcsl: line-id=A.48
+
+@div trailer 
+
+A.49. bal-bal-e {d}inana-kam
+#lem: balbale[subscript]; Inanak[1]DN
+#etcsl: line-id=A.49
+
+@end trailer
+
+@end unknown
+
+@div ŋišgiŋal B
+
+B.50. he₂-lah₅ he₂-lah₅
+#lem: lah[plural stem of tum ⟦bring⟧]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=B.50
+
+B.51. i₃-i₃ gara₂-bi ga-na he₂-lah₅
+#lem: i[oil]; gara[cream]; gana[come on!]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=B.51
+
+@div trailer 
+
+B.52. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.52
+
+@end trailer
+
+@end jicgijal
+
+
+
+
+
+
+

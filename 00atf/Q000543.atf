@@ -1,0 +1,94 @@
+&Q000543 = Letter from Aradŋu to Šulgi about Aba-indasa's missing troops
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.05&display=Crit&charenc=gcirc#
+
+1. lugal-ŋu₁₀-ra u₃-na-dug₄
+#lem: lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. arad₂-ŋu₁₀ arad₂-zu na-ab-be₂-a
+#lem: Aradŋu[1]PN; arad[slave]; e[speak]
+#etcsl: line-id=2
+
+3. {m}a-ba-in-da-sa₂-a ugula erin₂ zu₂ keše₂ lugal niŋ₂ X mu-da-an-gi₄
+#lem: Abaindasa[1]PN; ugula[overseer]; erin[people]; zu[tooth]; kešed[bind]; lugal[king]; niŋ[thing]; X; gi[turn]
+#etcsl: line-id=3
+
+4. lugal-ŋu₁₀ bar inim-ma ha-ba-zu-zu-de₃
+#lem: lugal[king]; bar[outside]; inim[word]; zu[know]
+#etcsl: line-id=4
+
+5. ud zi-mu-dar-ra-še₃! igi-ŋu₁₀ bi₂-ib-ŋar-ra
+#lem: ud[sun]; Zimudar[1]GN; igi[eye]; ŋar[put]
+#etcsl: line-id=5
+
+6. kaskal lugal-ŋu₁₀ erin₂ zig₃-ga-ŋu₁₀
+#lem: kaskal[way]; lugal[king]; erin[people]; zig[rise]
+#etcsl: line-id=6
+
+7. {m}a-ba-in-da-sa₂-a erin₂-bi igi u₃-bi₂-in-kar₂
+#lem: Abaindasa[1]PN; erin[people]; igi[eye]; kar[blow]
+#etcsl: line-id=7
+
+8. 2 li-mu-um erin₂-bi nu-ŋal₂
+#lem: n; n; erin[people]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=8
+
+9. saŋ#-ŋa₂# nu-un-DU igi nu-un-GI
+#lem: saŋ[head]; X; igi[eye]; X
+#etcsl: line-id=9
+
+10. ha-ra-kalag lugal-ŋu₁₀ mu-un-X [...] mu-un-dab₅
+#lem: harrankalag[stronghold]; lugal[king]; X; X; dab[seize]
+#etcsl: line-id=10
+
+11. [...] X-bi šer₇-da lugal [...] nu-AŠ
+#lem: X; X; šerda[crime]; lugal[king]; X; X
+#etcsl: line-id=11
+
+12. [...]-ba šu [...]
+#lem: X; šu[hand]; X
+#etcsl: line-id=12
+
+13. [...] ka# NI X [...] ŋar
+#lem: X; kag[mouth]; X; X; X; ŋar[put]
+#etcsl: line-id=13
+
+14. niŋ₂ lugal-ŋu₁₀ ab-be₂-na-ŋu₁₀
+#lem: niŋ[thing]; lugal[king]; e[speak]
+#etcsl: line-id=14
+
+15. lugal-ŋu₁₀ he₂-en-zu
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=15
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Say to my lord: this is what @wPN{Aradŋu}, your servant, says:
+
+@(3 = 3-4) @wPN{Aba-indasa}, the captain of the royal pledged troops, has sent you ……. May my lord take note most carefully concerning this matter.
+
+@(5 = 5-10) When I had set my sights towards @wGN{Zimudar}, I was levying troops for the expedition, my lord; but when @wPN{Aba-indasa} had inspected the troops, 2000 men of those troops were missing. They were not ……, nor ……. They have …… the fortress, my lord, they have taken …….
+
+@(11 = 11-15) …… offence …….  @gap{2 lines fragmentary}  Whatever you say, my lord! May my lord know!
+
+
+

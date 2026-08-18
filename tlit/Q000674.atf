@@ -1,0 +1,292 @@
+&Q000674 = A hymn to Nanna (Nanna E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.05&display=Crit&charenc=gcirc#
+
+1. dumu nun-e |AB×A| kug-ta e₃#-a ba-zal-zal si i₃-[...]
+#lem: dumu[child]; nun[prince]; AB×A[bathing chamber]; kug[pure]; e[leave]; zal[pass time]; si[horn]; X
+#etcsl: line-id=1
+
+2. kur me sikil eš₃ abzu šag₄ X X daŋal kur me# [...]
+#lem: kur[mountain(s)]; me[Being]; sikil[purify]; eš[shrine]; Eʾabzu[1]; šag[heart]; X; X; daŋal[wide]; kur[mountain(s)]; me[Being]; X
+#etcsl: line-id=2
+
+3. ki-ur₃ mah dur₂# [X X] daŋal#-la [...]
+#lem: kiʾur[foundation]; mah[great]; dur[buttocks]; X; X; daŋal[wide]; X
+#etcsl: line-id=3
+
+4. ambar-ta me-lem₄# huš# tum₃# muš₃# ni₂# [X X]-ge-en
+#lem: ambar[reed-bed]; melim[frightening splendor]; huš[reddish]; tum[bring]; muš[face]; ni[fear]; X; X
+#etcsl: line-id=4
+
+5. nam-dug₃-zu-še₃ nam-gal nam-mah-zu-še₃ saŋ im-ma#-il₂-la₂
+#lem: namdug[goodness]; namgal[greatness]; nammah[greatness]; saŋ[head]; il[raise]
+#etcsl: line-id=5
+
+6. nam tar-re-de₃-eš a₂ mah mi-ni-in-sud₄-un
+#lem: nam[fate]; tar[cut]; a[arm]; mah[great]; sud[distant]
+#etcsl: line-id=6
+
+7. nam-lugal an ki-zu an gal-e šu daŋal mu-ri-in-dug₄
+#lem: namlugal[kingship]; an[sky]; ki[place]; An[1]DN; gal[big]; šu[hand]; daŋal[wide]; dug[speak]
+#etcsl: line-id=7
+
+8. nam-dumu nun gal-zu {d}en-lil₂-le nam-men! šu mi-ri-in-du₇
+#lem: namdumu[status as son]; nun[prince]; gal[big]; Enlil[1]DN; nammen[lordship]; šu[hand]; du[perfect]
+#etcsl: line-id=8
+
+9. nam-diŋir mah {d}en-lil₂ pa e₃ ma-ra-ni-in-e₃
+#lem: namdiŋir[divinity]; mah[great]; Enlil[1]DN; pa[branch]; e[leave]; e[leave]
+#etcsl: line-id=9
+
+10. a DU-a a sig mah-zu-še₃ nam tar-re ki dug₃ ama dug₃
+#lem: a[water]; X; a[water]; sig[weak]; mah[great]; nam[fate]; tar[cut]; ki[place]; dug[good]; ama[mother]; dug[good]
+#etcsl: line-id=10
+
+11. {d}en-ki |AB×A|-šag₄ kug-ta ŋiri₃-zu-še₃ im-mi-in-ŋar
+#lem: Enkik[1]DN; AB×A.šag₄[center of a bathing chamber]; kug[pure]; ŋiri[foot]; ŋar[put]
+#etcsl: line-id=11
+
+12. {d}en-lil₂ nam-mah nam-en-na mi-ni-in-tud-de₃-en
+#lem: Enlil[1]DN; nammah[greatness]; namen[the office of en-priest]; utud[give birth (to)]
+#etcsl: line-id=12
+
+13. {d}nanna ud-sakar-zu ud-sakar 7-bi mu pad₃-da
+#lem: Nanna[1]DN; udsakar[crescent moon]; udsakar[crescent moon]; n; mu[name]; pad[find]
+#etcsl: line-id=13
+
+14. {d}en-lil₂ an ki-ka mu-zu mu kug-ga mu mi-ri-in-pad₃
+#lem: Enlil[1]DN; an[sky]; ki[place]; mu[name]; mu[name]; kug[pure]; mu[name]; pad[find]
+#etcsl: line-id=14
+
+15. dumu nun-e nam-gal-zu an ki-a pa e₃ im-mi-in-e₃
+#lem: dumu[child]; nun[prince]; namgal[greatness]; an[sky]; ki[place]; pa[branch]; e[leave]; e[leave]
+#etcsl: line-id=15
+
+16. unken mah nam {d}en-lil₂-la₂-na saŋ-e-eš mu-ra-an-rig₇
+#lem: unkin[assembly]; mah[great]; nam[fate]; Enlil[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=16
+
+17. {d}en-ki-ke₄ ki eš₃ eridug{ki}-ta nam-men! nam-mah-zu mu-ri-in-tar
+#lem: Enkik[1]DN; ki[place]; eš[shrine]; Eridug[1]SN; nammen[lordship]; nammah[greatness]; tar[cut]
+#etcsl: line-id=17
+
+18. abzu mah ki eš₃ eridug{ki}-ta nam-en gal-zu-še₃
+#lem: abzu[(cosmic) underground water]; mah[great]; ki[place]; eš[shrine]; Eridug[1]SN; namen[the office of en-priest]; gal[big]
+#etcsl: line-id=18
+
+19. lugal an ki-ke₄ an# ki# gun₃-a nam-gal-zu-še₃ ba-an-dug₄
+#lem: lugal[king]; an[sky]; ki[place]; an[sky]; ki[place]; gunu[speckled]; namgal[greatness]; dug[speak]
+#etcsl: line-id=19
+
+20. {d}nanna saŋ-zu il₂ {d}a-nun-na-ke₄-ne-er ha-la ba-an-pad₃
+#lem: Nanna[1]DN; saŋ[head]; il[raise]; Anunak[1]DN; hala[inheritance share]; pad[find]
+#etcsl: line-id=20
+
+21. me sikil šag₄ hul₂-la-ka-ne-ne ki#-tuš kug# im-mi-ni-in-tuš-un
+#lem: me[Being]; sikil[purify]; šag[heart]; hul[rejoice]; kituš[dwelling place]; kug[purify]; tuš[sit (down)]
+#etcsl: line-id=21
+
+22. diŋir gal-gal-e-ne nidba-eš gal# [ba]-an-pad₃
+#lem: diŋir[deity]; gal[big]; nindaba[(food) offering]; gal[big]; pad[find]
+#etcsl: line-id=22
+
+23. zag gu-la₂ šag₄ hi-li mah si-a im#-[mi-ni]-in-durun-uš
+#lem: zag[side]; gal[big]; šag[heart]; hili[attractiveness]; mah[great]; si[fill]; durun[sit]
+#etcsl: line-id=23
+
+24. diŋir-re-e-ne sizkur₂ šag₄ hul₂-la-ne#-[ne im]-mi#-ni-in-šum₂-šum₂
+#lem: diŋir[deity]; siškur[prayer]; šag[heart]; hul[rejoice]; šum[give]
+#etcsl: line-id=24
+
+25. ki mah ki kug-ga mi-ni-in#-[tuš]-un
+#lem: ki[place]; mah[great]; ki[place]; kug[pure]; tuš[sit (down)]
+#etcsl: line-id=25
+
+26. {d}nanna ki kug-ga ki-tuš kug mi-ni-in-[tuš]-un#
+#lem: Nanna[1]DN; ki[place]; kug[pure]; kituš[dwelling place]; kug[purify]; tuš[sit (down)]
+#etcsl: line-id=26
+
+27. {d}en-ki-ke₄ ki-tuš ma-ra-ab-sikil-e# ki#-tuš# ma#-ra#-ab-šen-e
+#lem: Enkik[1]DN; kituš[dwelling place]; sikil[pure]; kituš[dwelling place]; šen[pure]
+#etcsl: line-id=27
+
+28. an mu-ra-ab-kug-ge ki mu-ra-ab#-[šen-e]
+#lem: an[sky]; kug[purify]; ki[place]; šen[pure]
+#etcsl: line-id=28
+
+29. e₂-kiš-nu-ŋal₂ e₂ tir {ŋiš}erin-na an-še₃# si# ma-ra#-an-sa₂
+#lem: Ekišnuŋal[1]TN; e[house]; tir[forest]; eren[cedar]; an[sky]; si[horn]; sa[equal]
+#etcsl: line-id=29
+
+30. dur₂ mah-zu ki kug-ga ma-ra-ab-ak ur₂ niŋ₂ an ki-a
+#lem: dur[buttocks]; mah[great]; ki[place]; kug[pure]; ak[do]; ur[loin]; niŋ[thing]; an[sky]; ki[place]
+#etcsl: line-id=30
+
+31. ŋiš#-hur šu-luh mah-zu si ma-ra-an#-sa₂-e
+#lem: ŋešhur[plan]; šuluh[ritual cleansing]; mah[great]; si[horn]; sa[equal]
+#etcsl: line-id=31
+
+32. [...] gir₄# X-zu banšur ki kug-ga ma-ra-ab-šen
+#lem: X; gir[oven]; X; banšur[table]; ki[place]; kug[pure]; šen[pure]
+#etcsl: line-id=32
+
+33. [...] kiŋ₂-sig-bi kiŋ₂-sig kiŋ₂-nim-zu
+#lem: X; kiŋsig[afternoon meal]; kiŋsig[afternoon meal]; kiŋnim[morning meal]
+#etcsl: line-id=33
+
+34. [...] X X si ma-ra-an-sa₂
+#lem: X; X; X; si[horn]; sa[equal]
+#etcsl: line-id=34
+
+35. [šu-luh]-ha ma-ra-ab-ku₃-ug ma-ra-ab-šen
+#lem: šuluh[ritual cleansing]; kug[pure]; šen[pure]
+#etcsl: line-id=35
+
+36. [X X] X DU SA U₃# du₈# X UZ KA LA# ba-an-sig₇
+#lem: X; X; X; X; X; X; du[spread]; X; X; X; X; sissig[green-yellow]
+#etcsl: line-id=36
+
+37. X [...] X mi-ni-in-pad₃
+#lem: X; X; X; pad[find]
+#etcsl: line-id=37
+
+38. {d}en-ki# abzu-ni u₃-tud šu-luh# mu-ra-an-ŋa₂-ŋa₂
+#lem: Enkik[1]DN; abzu[(cosmic) underground water]; utud[give birth (to)]; šuluh[ritual cleansing]; ŋar[put]
+#etcsl: line-id=38
+
+39. {d}ku₃-su₁₃-e šu-luh-ha ba-ni-gub e₂ ni₂-bi u₃-tud
+#lem: Kusug[1]DN; šuluh[ritual cleansing]; gub[stand]; e[house]; ni[self]; utud[give birth (to)]
+#etcsl: line-id=39
+
+40. |AB×A|-šag₄ bar-ba gir₄ gud udu ninda eš₃ bar-ba šu-luh kug-bi
+#lem: AB×A.šag₄[center of a bathing chamber]; bar[outside]; gir[oven]; gud[bull]; udu[sheep]; ninda[bread]; eš[shrine]; bar[outside]; šuluh[ritual cleansing]; kug[pure]
+#etcsl: line-id=40
+
+41. e₂-e i₃ im-sikil-e saŋ ba-ab-ha-za a₂-šu-ŋiri₃ ba-an-KU-uš
+#lem: e[house]; i[oil]; sikil[pure]; saŋ[head]; haza[hold]; ašuŋiri[limbs]; X
+#etcsl: line-id=41
+
+42. šu-luh kug nu-šub-bu-še₃ ambar mah
+#lem: šuluh[ritual cleansing]; kug[purify]; šub[fall]; ambar[reed-bed]; mah[great]
+#etcsl: line-id=42
+
+43. |AB×A| daŋal kug-ga-ta nam-bi im-ta-e₃
+#lem: AB×A[bathing chamber]; daŋal[wide]; kug[pure]; nam[fate]; e[leave]
+#etcsl: line-id=43
+
+44. e₂-kiš-nu-ŋal₂ barag mah kug-ga me gal mah an ki-a šu du₇
+#lem: Ekišnuŋal[1]TN; barag[sanctum]; mah[great]; kug[pure]; me[Being]; gal[big]; mah[great]; an[sky]; ki[place]; šu[hand]; du[perfect]
+#etcsl: line-id=44
+
+45. |AB×A| kug-ta peš₁₀ mah a tu₅-a-zu
+#lem: AB×A[bathing chamber]; kug[pure]; piš[bank]; mah[great]; a[water]; tu[cvve]
+#etcsl: line-id=45
+
+46. i₃ hur-saŋ su kug ŋal₂-la-zu
+#lem: i[oil]; hursaŋ[mountain]; su[flesh]; kug[purify]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=46
+
+47. {d}nanna barag mah-zu ba#-ŋar-ra
+#lem: Nanna[1]DN; barag[sanctum]; mah[great]; ŋar[put]
+#etcsl: line-id=47
+
+48. gada mah keše₂ saŋ il₂ si mul suh₁₀-gir₁₁ nam-men!-na
+#lem: gada[flax]; mah[great]; kešed[bind]; saŋ[head]; il[raise]; si[horn]; mul[shine]; suhgir[diadem]; nammen[lordship]
+#etcsl: line-id=48
+
+49. i₃ mah i₃ nam-men! i₃ erim₃ gal-zu su-bar kug-ga-ka
+#lem: i[oil]; mah[great]; i[oil]; nammen[lordship]; i[oil]; erim[storeroom]; gal[big]; subar[body]; kug[pure]
+#etcsl: line-id=49
+
+50. kar-za-gin₃ kar mah kar kug-ga-na
+#lem: Karzagina[1]TN; kar[harbor]; mah[great]; kar[harbor]; kug[pure]
+#etcsl: line-id=50
+
+51. {d}nin-gublaga-ke₄ en šu im-ma-an-kug-ga
+#lem: Ningublagak[1]DN; en[lord]; šu[hand]; kug[metal]
+#etcsl: line-id=51
+
+52. {d}tarah abzu eridug{ki}-ta šu-bi i₃ im-sikil-e
+#lem: Durah[1]DN; abzu[(cosmic) underground water]; Eridug[1]SN; šu[hand]; i[oil]; sikil[pure]
+#etcsl: line-id=52
+
+53. u₂-a-zu banšur unu₂ ki gal-zu-še₃ šu kug ŋa₂-ŋa₂-zu-še₃
+#lem: ua[provisioner]; banšur[table]; unu[dwelling]; ki[place]; gal[big]; šu[hand]; kug[purify]; ŋar[put]
+#etcsl: line-id=53
+
+54. {d}ku₃-su₃-e šu sikil šu dadag ak šu im-ma-an-kug-ge
+#lem: Kusug[1]DN; šu[hand]; sikil[purify]; šu[hand]; dadag[bright]; ak[do]; šu[hand]; kug[metal]
+#etcsl: line-id=54
+
+55. {d}tarah abzu eridug{ki}-ta šu-bi i₃ im-sikil-e
+#lem: Durah[1]DN; abzu[(cosmic) underground water]; Eridug[1]SN; šu[hand]; i[oil]; sikil[pure]
+#etcsl: line-id=55
+
+56. eš₃ abzu barag mah urim₂{ki}-ma nam dug₃ gal tar-re
+#lem: eš[shrine]; Eʾabzu[1]; barag[sanctum]; mah[great]; Urim[1]SN; nam[fate]; dug[good]; gal[big]; tar[cut]
+#etcsl: line-id=56
+
+57. e₂-kiš#-nu-ŋal₂ ki-tuš kug dug₃-ga-am₃ {d}nin-gal nin! mah-bi
+#lem: Ekišnuŋal[1]TN; kituš[dwelling place]; kug[purify]; dug[good]; Ningal[1]DN; nin[lady]; mah[great]
+#etcsl: line-id=57
+
+58. [ki-tuš] kug ki nam-nin-za {d}nanna lugal-bi-ir
+#lem: kituš[dwelling place]; kug[purify]; ki[place]; namnin[ladyship]; Nanna[1]DN; lugal[king]
+#etcsl: line-id=58
+
+59. e₂-kiš#-nu-ŋal₂ agrun-kug-ga e₂ nam-lugal-zu
+#lem: Ekišnuŋal[1]TN; Agrunkug[1]TN; e[house]; namlugal[kingship]
+#etcsl: line-id=59
+
+60. {d}nanna {d}nin-gal ki-tuš mi-ni-ib₂-hul₂-ne
+#lem: Nanna[1]DN; Ningal[1]DN; kituš[dwelling place]; hul[rejoice]
+#etcsl: line-id=60
+
+61. {d}suen#-[e] en# zu mah an ki aga-zu aga mah-am₃
+#lem: Suen[1]DN; en[lord]; zu[know]; mah[great]; an[sky]; ki[place]; aga[tiara]; aga[tiara]; mah[great]
+#etcsl: line-id=61
+
+62. me-lem₄ huš# an ki-a sig₉-ge# {d}dil-im₂-babbar-e# šu# he₂#-en-na-kug-ge
+#lem: melim[frightening splendor]; huš[reddish]; an[sky]; ki[place]; sig[put into]; Dilimbabbar[1]DN; šu[hand]; kug[metal]
+#etcsl: line-id=62
+
+63. an-gin₇ he₂-en-na-kug-[ge ki]-gin₇# he₂-en-na-šen-e
+#lem: an[sky]; kug[metal]; ki[place]; šen[pure]
+#etcsl: line-id=63
+
+64. šag₄ an-na#-gin₇ [he₂]-en-na-dadag-ge
+#lem: šag[heart]; an[sky]; dadag[bright]
+#etcsl: line-id=64
+
+65. aga# an ki-a aga kug saŋ# [he₂]-em-ma-il₂-e
+#lem: aga[tiara]; an[sky]; ki[place]; aga[tiara]; kug[purify]; saŋ[head]; il[raise]
+#etcsl: line-id=65
+
+66. {[d]}suen#-e en zu mah an# ki# barag sikil-la šu du₇
+#lem: Suen[1]DN; en[lord]; zu[know]; mah[great]; an[sky]; ki[place]; barag[sanctum]; sikil[pure]; šu[hand]; du[perfect]
+#etcsl: line-id=66
+
+67. {[d]}aš#-im₂-babbar-e saŋ-men aga# zid#-da si mul mah X X
+#lem: Dilimbabbar[1]DN; saŋmen[crown]; aga[tiara]; zid[right]; si[horn]; mul[shine]; mah[great]; X; X
+#etcsl: line-id=67
+
+68. saŋ im-ma-il₂-e#
+#lem: saŋ[head]; il[raise]
+#etcsl: line-id=68
+
+69. i₃ kug i₃ sikil i₃ dadag-ge
+#lem: i[oil]; kug[purify]; i[oil]; sikil[purify]; i[oil]; dadag[bright]
+#etcsl: line-id=69
+
+#etcsl#doc This line is written on the left edge of the tablet and may represent an accidentally omitted line, or else the catchline to another composition, possibly an incantation.
+
+
+
+
+
+
+

@@ -1,0 +1,227 @@
+&Q000461 = A hymn to Inana for Išme-Dagan (Išme-Dagan K)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.11
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.11&display=Crit&charenc=gcirc#
+
+1. ki-sikil {d}inana dumu {d}suen-na-ka
+#lem: kisikil[young woman]; Inanak[1]DN; dumu[child]; Suen[1]DN
+#etcsl: line-id=1
+
+2. me kalam-ma# dirig# niŋ₂-nam-e sa₂ di
+#lem: me[Being]; kalam[the Land (of Sumer)]; dirig[make more than]; niŋnam[anything]; sa[equal]; di[speak]
+#etcsl: line-id=2
+
+3. an-na me dab₅-dab₅-be₂ ki-a me ur₄-ur₄-e
+#lem: an[sky]; me[Being]; dab[seize]; ki[place]; me[Being]; ur[gather]
+#etcsl: line-id=3
+
+4. il₂-la dib saŋ an-ne₂ us₂-e
+#lem: il[raise]; dib[pass]; saŋ[head]; an[sky]; us[accompany]
+#etcsl: line-id=4
+
+5. me-lem₄-a-ni izi sud-e il₂-la-gin₇ ŋi₆ u₃-na bi₂-gen₆
+#lem: melim[frightening splendor]; izi[fire]; sud[distant]; il[raise]; ŋi[night]; ŋiʾunak[night]; gin[confirm]
+#etcsl: line-id=5
+
+6. diŋir na-me gaba-ri-ni-še₃ nu-gub-bu e-ne-ra im-ma-zal
+#lem: diŋir[deity]; name[any]; gabari[equal]; gub[stand]; ane[he]; zal[pass time]
+#etcsl: line-id=6
+
+7. {d}inana-ra an tuku₄-tuku₄-e ki sag₃-sag₃-ge
+#lem: Inanak[1]DN; an[sky]; tuku[rock]; ki[place]; sag[strike]
+#etcsl: line-id=7
+
+8. ub-da 4-ba šu-ni ŋal₂-le nam-nin gal-bi ak
+#lem: ub[corner]; n; šu[hand]; ŋal[⟦be⟧ to be (there]; namnin[ladyship]; gal[big]; ak[do]
+#etcsl: line-id=8
+
+9. me₃ šen-šen-e ka du₈-e ŋiš ŋiš-e la₂-e
+#lem: me[battle]; šen[battle]; kag[mouth]; du[spread]; ŋeš[tree]; ŋeš[tree]; la[hang]
+#etcsl: line-id=9
+
+10. nam-ur-saŋ-bi am sumun₂-gin₇ teš₂-bi-da du₇-du₇
+#lem: namursaŋ[heroism]; am[wild bull]; sumun[wild cow]; teš[unity]; du[push]
+#etcsl: line-id=10
+
+11. uš₂ erim₂-ma a-gin₇ ki-e na₈-na₈ ad₆!-bi ŋar-ŋar-e
+#lem: uš[blood]; erim[enemy]; a[water]; ki[place]; naŋ[drink]; adda[corpse]; ŋar[put]
+#etcsl: line-id=11
+
+12. erin₂ gar₃ dar-ra-bi nam-ra-aš šum₂-mu igi-a sug₂-ga-bi
+#lem: erin[people]; gar[cvne]; dar[split]; namra[booty]; šum[give]; igi[eye]; sug[stand]
+#etcsl: line-id=12
+
+13. uŋ₃ ki-ta an-na-še₃ ed₃-de₃ uŋ₃ (1:kur₂:1) ki šu bal-e
+#lem: uŋ[people]; ki[place]; an[sky]; ed[go up]; uŋ[people]; kur[alienate]; ki[place]; šu[hand]; bala[turn]
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) šar₂
+#lem: šar[numerous]V/i
+
+14. zalag ku₁₀-ku₁₀-še₃ du₃ ku₁₀-ku₁₀ zalag-še₃ dib-be₂
+#lem: zalag[bright]; kukkug[dark places]; du[build]; kukkug[dark]; zalag[bright]; dib[pass]
+#etcsl: line-id=14
+
+15. {[d]}[en-lil₂] {[d]}nin-lil₂-bi kug {d}inana-ra mu-na-an-šum₂-mu-uš
+#lem: Enlil[1]DN; Ninlil[1]DN; kug[purify]; Inanak[1]DN; šum[give]
+#etcsl: line-id=15
+
+16. [an ki]-a gaba-ri nu-mu-ni-in-tuku-uš
+#lem: an[sky]; ki[place]; gabari[equal]; tuku[acquire]
+#etcsl: line-id=16
+
+17. e₂ [X X] ama₅ ki ŋa₂-ŋa₂ saŋ-e-eš mu-ni-in-rig₇-eš
+#lem: e[house]; X; X; emi[queen's household]; ki[place]; ŋar[put]; saŋ[head]; rig[donate]
+#etcsl: line-id=17
+
+18. dam X [...]-še₃# šum₂-mu teš₂-bi dug₃-ge nam-še₃ mu-ni-in-tar-re-eš
+#lem: dam[spouse]; X; X; šum[give]; teš[unity]; dug[good]; nam[fate]; tar[cut]
+#etcsl: line-id=18
+
+19. ni₂-tuku-na ki-tuš ki ŋar-ra-na šag₄ zalag-ga ŋa₂-ŋa₂
+#lem: nituku[pious]; kituš[dwelling place]; ki[place]; ŋar[put]; šag[heart]; zalag[bright]; ŋar[put]
+#etcsl: line-id=19
+
+20. ni₂ nu-tuku-na e₂ du₃-a-na ur₅ sag₉-ge nu-ŋa₂-ŋa₂
+#lem: ni[fear]; tuku[acquire]; e[house]; du[build]; ur[liver]; sag[good]; ŋar[put]
+#etcsl: line-id=20
+
+21. nitah munus-a munus nitah-a-bi ku₄-ku₄ šu bal ba-a-ak
+#lem: nita[male]; munus[woman]; munus[woman]; nita[male]; kur[enter]; šu[hand]; bala[turn]; ak[do]
+#etcsl: line-id=21
+
+22. ki-sikil-e-ne nam-ŋuruš-e tug₂ zid-da mu₄-mu₄
+#lem: kisikil[young woman]; namŋuruš[manliness]; tug[textile]; zid[right]; mur[dress]
+#etcsl: line-id=22
+
+23. ŋuruš-e-ne nam-ki-sikil-e-eš₂ tug₂ gab₂-bu mu₄-mu₄
+#lem: ŋuruš[young adult male]; namkisikil[status as a young woman]; tug[textile]; gab[left (hand)]; mur[dress]
+#etcsl: line-id=23
+
+24. X zu [nitah-e]-ne {ŋiš}bal šu-ba ŋa₂-ŋa₂ munus-e-ne-er {ŋiš}tukul šum₂-mu
+#lem: X; zu[know]; nita[male]; balak[spindle]; šu[hand]; ŋar[put]; munus[woman]; tukul[weapon]; šum[give]
+#etcsl: line-id=24
+
+#etcsl#doc written in six short lines on the edge; must belong here on the basis of the content
+
+25. eme bungu munus-e e-ne di
+#lem: eme[tongue]; bunga[child]; munus[woman]; ene[pleasure?]; di[speak]
+#etcsl: line-id=25
+
+26. eme munus-e bungu e-ne [di]
+#lem: eme[tongue]; munus[woman]; bunga[child]; ene[pleasure?]; di[speak]
+#etcsl: line-id=26
+
+27. niŋ₂ galam-ma ŋar-ŋar ŋa₂ kur₂-ra KA-ge TUM [...]
+#lem: niŋ[thing]; galam[skilful]; ŋar[put]; ŋa[house]; kur[different]; X; X; X
+#etcsl: line-id=27
+
+28. {d}en-lil₂ {d}nin-lil₂-bi {d}inana-ra šu-ni-še₃ mu-un-ŋar-[re-eš]
+#lem: Enlil[1]DN; Ninlil[1]DN; Inanak[1]DN; šu[hand]; ŋar[put]
+#etcsl: line-id=28
+
+29. e₂-gal e₂ nam-nin-ka-ni nu-gig an-na-ra
+#lem: egal[palace]; e[house]; namnin[ladyship]; nugig[midwife]; an[sky]
+#etcsl: line-id=29
+
+30. mu-na-an-du₃-uš [su] zig₃ im-da-ri-eš
+#lem: du[build]; su[flesh]; zig[rise]; ri[impose]
+#etcsl: line-id=30
+
+31. {ŋiš}rab₃ kur-kur-ra-ka mi-ni-in-kur₉-re-eš ni₂ me-lem₄ bi₂-in-guru₃-uš
+#lem: raba[clamp]; kur[mountain(s)]; kur[enter]; ni[fear]; melim[frightening splendor]; gur[lift]
+#etcsl: line-id=31
+
+32. saŋ gig₂ šu ri-ri-e-de₃ KA-bi X MA X [...]
+#lem: saŋ[head]; giggig[black]; šu[hand]; ri[impose]; X; X; X; X; X
+#etcsl: line-id=32
+
+33. di uŋ₃ šar₂-ra si sa₂-e-de₃ zid tam-me X [...]
+#lem: did[lawsuit]; uŋ[people]; šar[numerous]V/i; si[horn]; sa[equal]; zid[right]; tam[clean]; X; X
+#etcsl: line-id=33
+
+34. lu₂ niŋ₂-a₂-zig₃ ka-ga₁₄ mi-ni-in-ŋal₂-la-ar ŋar-[...]
+#lem: lu[person]; niŋazig[violence]; kag[mouth]; ŋal[⟦be⟧ to be (there]; ŋar[put]
+#etcsl: line-id=34
+
+35. kilib₃-ba-bi kug {d}inana-ra šu-ni im-mi-in-si-[si-eš]
+#lem: kilib[total]; kug[purify]; Inanak[1]DN; šu[hand]; si[fill]
+#etcsl: line-id=35
+
+36. {d}iš-me-{d}da-gan saŋ us₂ muš nu-tum₂-mu MU A₂ X X šum₂
+#lem: Išmedagan[1]RN; saŋ[head]; us[accompany]; muš[face]; tum[bring]; X; X; X; X; šum[give]
+#etcsl: line-id=36
+
+37. {d}en-lil₂ {d}nin-lil₂-bi nu-pad₃ dam-še₃ mu-na-an-šum₂-mu-uš
+#lem: Enlil[1]DN; Ninlil[1]DN; pad[find]; dam[spouse]; šum[give]
+#etcsl: line-id=37
+
+38. e₂ diŋir-re-e-ne du₃-du₃-de₃ šukur₂-ud-bi šub-šub-bu-de₃
+#lem: e[house]; diŋir[deity]; du[build]; šukurud[daily ration]; šub[fall]
+#etcsl: line-id=38
+
+39. gi-gun₄-na-bi šen-šen-e-de₃ barag-bi kug-ge-de₃
+#lem: giguna[high sacred terrace]; šen[pure]; barag[sanctum]; kug[metal]
+#etcsl: line-id=39
+
+40. unu₂-ba kurun₂ lal₃ kaš# kurun-bi ud šu₂-uš gen₆-ne₂-de₃
+#lem: unu[dwelling]; kurun[beer]; lal[syrup]; kaš[beer]; kurun[beer]; ud[sun]; šuš[cover]; gin[confirm]
+#etcsl: line-id=40
+
+41. {d}inana {d}iš-me-{d}da-gan-bi
+#lem: Inanak[1]DN; Išmedagan[1]RN
+#etcsl: line-id=41
+
+42. {d}en-lil₂ {d}nin-lil₂-bi saŋ-e-eš mu-ni-in-rig₇-eš
+#lem: Enlil[1]DN; Ninlil[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=42
+
+43. nibru{ki} mah en nin-zu-gin₇ diŋir na-me nu-dib
+#lem: Nibru[1]SN; mah[great]; en[lord]; nin[lady]; diŋir[deity]; name[any]; dib[pass]
+#etcsl: line-id=43
+
+44. šag₄-zu-a ki-sikil {d}inana-ra me mu-na-ni-in-šum₂-mu-uš
+#lem: šag[heart]; kisikil[young woman]; Inanak[1]DN; me[Being]; šum[give]
+#etcsl: line-id=44
+
+45. {d}iš-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar
+#lem: Išmedagan[1]RN; duri[forever]; kag[mouth]; ŋar[put]
+#etcsl: line-id=45
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-6) Young woman @wDN{Inana}, @wDN{Suen's} daughter, who makes the divine powers of the Land supreme, who achieves everything, who seizes the divine powers in heaven and gathers them up on earth, who proceeds proudly with her head reaching the heavens, whose radiance makes the nighttime secure like a fire which lights up into the distance -- no god can stand up as her opposition, …….
+
+@(7 = 7-18) Holy @wDN{Inana} was endowed by @wDN{Enlil} and @wDN{Ninlil} with the capacity to make the heavens shake, to make the earth tremble, to hold the four directions in her hand and to act grandly as their lady, to shout with wide open mouth in battle and combat and to wreak carnage (?), to butt all at once valiantly (?) like a wild bull, to make the earth drink the blood of enemies like water and to pile up their bodies, to take captive their overwhelmed (?) troops and to make them serve, to make the people ascend from below to above, to make the  @varh[t25411.v1]{foreign } @vart[t25411.v2,t25411.v1]{@varn{1 ms. has instead:} numerous } people change their place, and to turn light to darkness and darkness to light. They made her without rival in heaven and on earth. They bestowed on her the power to establish a woman's domain in ……. They detemined as her fate to ……, to make them content together.
+
+#etcsl#altGrpo
+#etcsl#alt t25411.v1 t25411.v2
+#etcsl#altGrpc
+
+@(19 = 19-31) @wDN{Inana} was entrusted by @wDN{Enlil} and @wDN{Ninlil} with the capacity to gladden the heart of those who revere her in their established residences, but not to soothe the mood of those who do not revere her in their well-built houses; to turn a man into a woman and a woman into a man, to change one into the other, to make young women dress as men on their right side, to make young men dress as women on their left side, to put spindles into the hands of men ……, and to give weapons to the women; to see that women amuse themselves by using children's language, to see that children amuse themselves by using women's language, to …… skill, to ……. They built a palace, her house of ladyship, for the mistress of heaven, and invested it with fearsome radiance. They made it into the neck-stock of all the foreign countries, and imbued it with awe-inspiring, terrifying splendour.
+
+@(32 = 32-35) To clamp down (?) on the black-headed people, to ……, to decide justly the lawsuits of the numerous people, to select the just, ……, to …… who speaks (?) violently -- all these were entrusted into @wDN{Inana's} hands by them.
+
+@(36 = 36-42) @wDN{Enlil} and @wDN{Ninlil} gave her @wRN{Išme-@wDN{Dagan}}, the constant attendant, …… as her husband ……. The duty to build temples for the gods, to furnish their daily portions, to purify their raised temples and to sanctify their daises, to secure their daily liquor, syrup and choice beer in their dining halls -- all this was bestowed on @wDN{Inana} and @wRN{Išme-@wDN{Dagan}} by @wDN{Enlil} and @wDN{Ninlil}.
+
+@(43 = 43-45) August @wSN{Nibru}, no god excels like your lord and lady! In your midst they have bestowed the divine powers on the young woman @wDN{Inana}. I, @wRN{Išme-@wDN{Dagan}}, have put this @noteref{i.e. this composition} in everyone's mouth for all time.
+
+
+

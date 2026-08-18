@@ -1,0 +1,146 @@
+&Q000683 = A hymn to Nanna (Nanna N)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.14
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.14&display=Crit&charenc=gcirc#
+
+1. UR₂ NE-ru an kug-ge si-a
+#lem: X; X; an[sky]; kug[pure]; si[fill]
+#etcsl: line-id=1
+
+2. ku-zu-e mi-li gur-u₃-a
+#lem: kugzu[wise]; melim[frightening splendor]; gur[lift]
+#etcsl: line-id=2
+
+3. nanna me-en-zu ku-ku-gu
+#lem: Nanna[1]DN; men[tiara]; kug[pure]
+#etcsl: line-id=3
+
+4. en di-il₅ en UD ud an-ne ši-X
+#lem: en[lord]; dili[single]; en[lord]; X; ud[sun]; an[sky]; X
+#etcsl: line-id=4
+
+5. u₃-na ba-ba-ra ud X [...]
+#lem: un[high]; babbar[white]; ud[sun]; X; X
+#etcsl: line-id=5
+
+6. an ki-a na degₓ(RI) ši-[...]
+#lem: an[sky]; ki[place]; na[cvne]; deg[gather up]; X
+#etcsl: line-id=6
+
+7. diŋir-me-en A₂ X [...]
+#lem: diŋir[deity]; X; X; X
+#etcsl: line-id=7
+
+8. ki-u₃-lu-X [...]
+#lem: kiʾulutim[place of creation]; X
+#etcsl: line-id=8
+
+9. su X X [...]
+#lem: šul[youth]; X; X; X
+#etcsl: line-id=9
+
+10. X [kug si gur e-a-zu-ne]
+#lem: X; kug[purify]; si[horn]; gur[lift]; e[leave]
+#etcsl: line-id=10
+
+11. [X X mi-li-im]-mu# na-il₅#
+#lem: X; X; melim[frightening splendor]; il[raise]
+#etcsl: line-id=11
+
+12. [... X-zu kug]-ga-am# da-da-ga#
+#lem: X; X; kug[pure]; dadag[bright]
+#etcsl: line-id=12
+
+13. [e i lu₂-gal]-ŋu₁₀ u₃ zid ši-mu-nu
+#lem: e[vocative interjection]; i[(vocative exclamation)]; lugal[king]; ud[sun]; zid[right]; e[leave]
+#etcsl: line-id=13
+
+14. {[d]}[nanna] kug# si gur e-a-zu-ne
+#lem: Nanna[1]DN; kug[purify]; si[horn]; gur[lift]; e[leave]
+#etcsl: line-id=14
+
+15. [X X] mi-li-im-mu na-il₅
+#lem: X; X; melim[frightening splendor]; il[raise]
+#etcsl: line-id=15
+
+16. [...] X-zu kug-ga-am da-da-ga
+#lem: X; X; kug[pure]; dadag[bright]
+#etcsl: line-id=16
+
+17. e i lu₂-gal-ŋu₁₀ u₃ zid ši-mu-nu
+#lem: e[vocative interjection]; i[(vocative exclamation)]; lugal[king]; ud[sun]; zid[right]; e[leave]
+#etcsl: line-id=17
+
+18. SA ŠE RI en ša-ge ba-da-na
+#lem: X; X; X; en[lord]; šag[heart]; pad[find]
+#etcsl: line-id=18
+
+19. UR₂ ku-zu pa₃ e ši-mi-nu
+#lem: X; kug[pure]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=19
+
+20. X-la BAR KU BA en KA-KA nu-si!-li-ge
+#lem: X; X; X; X; en[lord]; X; silig[cease]
+#etcsl: line-id=20
+
+21. u₃ bi-na zid a-na šu-du sa₂ ha-pa-du
+#lem: ud[sun]; X; zid[right]; an[sky]; šud[prayer]; sa[equal]; dug[speak]
+#etcsl: line-id=21
+
+22. ki-sa₂-al ma-he ninda ba-ŋa₂-ra-zu
+#lem: kisal[courtyard]; mah[great]; ninda[bread]; ŋar[put]
+#etcsl: line-id=22
+
+23. ti-gi ni₅ du-ge si ha-pa₃-ne-sa₂
+#lem: tigi[drum or other musical instrument]; niŋ[thing]; dug[good]; si[horn]; sa[equal]
+#etcsl: line-id=23
+
+24. um-mi na-na ti-gi mu-ra-an-du
+#lem: unkin[assembly]; an[sky]; tigi[drum or other musical instrument]; du[play (a musical instrument)]
+#etcsl: line-id=24
+
+25. {d}nanna ki-sa₂-al ma-he ninda ba-ŋa₂-ra-zu
+#lem: Nanna[1]DN; kisal[courtyard]; mah[great]; ninda[bread]; ŋar[put]
+#etcsl: line-id=25
+
+26. ti-gi ni₅-in du-ge si ha-pa-ne-sa₂
+#lem: tigi[drum or other musical instrument]; niŋ[thing]; dug[good]; si[horn]; sa[equal]
+#etcsl: line-id=26
+
+27. um-mi na-na ti-gi mu-ra-an-du
+#lem: unkin[assembly]; an[sky]; tigi[drum or other musical instrument]; du[play (a musical instrument)]
+#etcsl: line-id=27
+
+28. %e |URU×UD|{ri}-zu %s he-ŋa₂-la he-da-an-du
+#lem: uru[city]; heŋal[plenty]; du[go]
+#etcsl: line-id=28
+
+29. u₃-ri-ma gu an-še₃ he-en-zig₃-[ge]
+#lem: Urim[1]SN; gu[neck]; an[sky]; zig[rise]
+#etcsl: line-id=29
+
+30. en di-il₅ en UD ud su-ud-šu ul-a-še₃
+#lem: en[lord]; dili[single]; en[lord]; X; ud[sun]; sud[distant]; ul[distant time]
+#etcsl: line-id=30
+
+31. {d}nanna %e |URU×UD|{ri}-zu %s he-ŋa₂-la he-da-an-du#
+#lem: Nanna[1]DN; uru[city]; heŋal[plenty]; du[go]
+#etcsl: line-id=31
+
+32. u₃-ri-ma gu an-še₃ he-en-zig₃-[ge]
+#lem: Urim[1]SN; gu[neck]; an[sky]; zig[rise]
+#etcsl: line-id=32
+
+33. en di-il₅ en UD ud su-ud-šu ul-a-še₃
+#lem: en[lord]; dili[single]; en[lord]; X; ud[sun]; sud[distant]; ul[distant time]
+#etcsl: line-id=33
+
+
+
+
+
+
+

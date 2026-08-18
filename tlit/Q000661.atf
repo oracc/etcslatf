@@ -1,0 +1,237 @@
+&Q000661 = A balbale to Inana (Dumuzid-Inana E1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.31
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.31&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. X [...]
+#lem: X; X
+#etcsl: line-id=A.1
+
+A.2. iri A# [...]
+#lem: iri[city]; X; X
+#etcsl: line-id=A.2
+
+A.3. UD X [...]
+#lem: X; X; X
+#etcsl: line-id=A.3
+
+A.4. HA X [...]
+#lem: X; X; X
+#etcsl: line-id=A.4
+
+A.5. X X [...]
+#lem: X; X; X
+#etcsl: line-id=A.5
+
+A.6. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.6
+
+A.7. [...] X me-teš₂ X [...]
+#lem: X; X; meteš[praise]; X; X
+#etcsl: line-id=A.7
+
+A.8. X X X [...] EZEN [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.8
+
+A.9. šul-e X X MU U₃ X [...]
+#lem: šul[youth]; X; X; X; X; X; X
+#etcsl: line-id=A.9
+
+A.10. bur-e bur-ta [...]
+#lem: bur[(stone) bowl]; bur[(stone) bowl]; X
+#etcsl: line-id=A.10
+
+A.11. %e ku₆-ma-al %s id₂-ta X [...]
+#lem: kumal[inspector]; id[river]; X; X
+#etcsl: line-id=A.11
+
+A.12. MUŠ₂ X X MUŠ₂ X balaŋ-ta I [...]
+#lem: X; X; X; X; X; balaŋ[an instrument]; X; X
+#etcsl: line-id=A.12
+
+A.13. ud-bi-a MUŠ₂ nitah UD NE [...]
+#lem: ud[sun]; X; nita[male]; X; X; X
+#etcsl: line-id=A.13
+
+A.14. X ki ŋiš gid₂ [...]
+#lem: X; ki[place]; ŋeš[tree]; gid[long]; X
+#etcsl: line-id=A.14
+
+A.15. saŋ TI X MES la₂ [...]
+#lem: saŋ[head]; X; X; X; la[hang]; X
+#etcsl: line-id=A.15
+
+A.16. tur-tur-ra SA A₂ E X [...]
+#lem: tur[small]; X; X; X; X; X
+#etcsl: line-id=A.16
+
+A.17. ki-sikil tur-ra suh mu#-[...]
+#lem: kisikil[young woman]; tur[small]; suh[crown]; X
+#etcsl: line-id=A.17
+
+A.18. ŋuruš tur-ra {tug₂}niŋ₂-la₂ mu-[...]
+#lem: ŋuruš[young adult male]; tur[small]; niŋla[an item of clothing]; X
+#etcsl: line-id=A.18
+
+A.19. ki ezem-ma-še₃ ma-la-ŋu₁₀-u₃ he₂#-[...]
+#lem: ki[place]; ezem[festival]; malag[female neighbor]; X
+#etcsl: line-id=A.19
+
+A.20. ur-ra mu-un-u₅ ur-ra mu#-[...]
+#lem: ur[dog]; u[ride]; ur[dog]; X
+#etcsl: line-id=A.20
+
+A.21. [...] X X ur-mah-a mu#-[...]
+#lem: X; X; X; urmah[lion]; X
+#etcsl: line-id=A.21
+
+A.22. [...] X ur gal-la [...]
+#lem: X; X; ur[dog]; gal[big]; X
+#etcsl: line-id=A.22
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. [X X] mu#-un#-degₓ(RI)-degₓ(RI) ŋeštug₂-ga# [...]
+#lem: X; X; deg[gather up]; ŋeštug[ear]; X
+#etcsl: line-id=B.2
+
+B.3. im-da-du₇-ru im-da-du₇-ru X X i-[...]
+#lem: du[perfect]; du[perfect]; X; X; X
+#etcsl: line-id=B.3
+
+B.4. šem-bi-zid-da im-da-du₇#-[ru]
+#lem: šembizida[kohl]; du[perfect]
+#etcsl: line-id=B.4
+
+B.5. mu-un-dub-dub-be₂ mu-un-bur₂-bur₂#-[re]
+#lem: dub[heap up]; bur[spread out]
+#etcsl: line-id=B.5
+
+B.6. a im-ma-tu₅ naŋa im-ma-[su-ub]
+#lem: a[water]; tu[cvve]; naŋa[potash]; sub[rub]
+#etcsl: line-id=B.6
+
+B.7. %e na-ma %s bur babbar-ra im-ma-[su-ub]
+#lem: nama[potash]N; bur[(stone) bowl]; babbar[white]; sub[rub]
+#etcsl: line-id=B.7
+
+B.8. a {urud}šen-dilim₂ kug-ga im-ma-[tu₅]
+#lem: a[water]; šendili[ewer]; kug[pure]; tu[cvve]
+#etcsl: line-id=B.8
+
+B.9. %e u₅ ze₂-ba %s {na₄}bur-ra im#-ma-[šeš₄]
+#lem: u[oil]N; zeb[good]V/i; bur[(stone) bowl]; šeš[anoint]
+#etcsl: line-id=B.9
+
+B.10. tug₂ dan₃-na-ni im-ma-[mur₁₀]
+#lem: tug[textile]; dan[pure]; mur[dress]
+#etcsl: line-id=B.10
+
+B.11. mu-un-bur₂-bur₂-re mu-un-dub#-[dub-be₂]
+#lem: bur[spread out]; dub[heap up]
+#etcsl: line-id=B.11
+
+B.12. %e i-bi₂-ni %s šem-bi-zid-da %e [X-mar]
+#lem: ibi[eye]N; šembizida[kohl]; mar[place]V/t
+#etcsl: line-id=B.12
+
+B.13. {na₄}za-gin₃ gu₂-ni!(SI)-a im-ma-[sig₉]
+#lem: zagin[lapis lazuli]; gu[neck]; sig[put into]
+#etcsl: line-id=B.13
+
+B.14. murub₂-bi gu₂ sa-na si bi₂-[sa₂]
+#lem: murub[middle]; gu[neck]; sa[sinew]; si[horn]; sa[equal]
+#etcsl: line-id=B.14
+
+B.15. {na₄}kišib gu₂-bar-ra-na im-mi-[...]
+#lem: kišib[cylinder seal]; gubar[nape of the neck]; X
+#etcsl: line-id=B.15
+
+B.16. {tug₂}pala₃ %e na-aŋ₂-ga-ša-an-na-ka %s bar-ra# [X-dul]
+#lem: pala[garment]; naŋgašan[ladyship]N; bar[outside]; dul[cover]
+#etcsl: line-id=B.16
+
+B.17. {d}dur₇-tur e₂ ma-la-ga [...]
+#lem: Durtur[1]DN; e[house]; malag[female neighbor]; X
+#etcsl: line-id=B.17
+
+B.18. {d}dur₇-tur il₂-la du-a KU BI X [...]
+#lem: Durtur[1]DN; il[raise]; ŋen[go]; X; X; X; X
+#etcsl: line-id=B.18
+
+B.19. {d}dur₇-tur du₅-la₂-ta du₇#-[du₇ ...]
+#lem: Durtur[1]DN; dul[lower]; du[whirl]; X
+#etcsl: line-id=B.19
+
+B.20. {d}dur₇-tur ma-la-ga [...]
+#lem: Durtur[1]DN; malag[female neighbor]; X
+#etcsl: line-id=B.20
+
+B.21. {d}dur₇#-tur# X [...] X [...]
+#lem: Durtur[1]DN; X; X; X; X
+#etcsl: line-id=B.21
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] X HA E X AN X X
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=C.1
+
+C.2. [...] X X X X na-an-na
+#lem: X; X; X; X; X; nu[not]
+#etcsl: line-id=C.2
+
+C.3. [...]  %e  {d}u₃-mu-un-ban₃-da  %s 
+#lem: X; Umunbanda[1]DN
+#etcsl: line-id=C.3
+
+C.4. [...]  %e  {[d]}[ga]-ša#-an-sumun₂-na  %s 
+#lem: X; Gašansumun[1]DN
+#etcsl: line-id=C.4
+
+C.5. {d}dur₇-tur X X ŠE₃-bi-ta šembi₂-zid %e i-bi₂-[na %s ...]
+#lem: Durtur[1]DN; X; X; X; šembizida[kohl]; ibi[eye]N; X
+#etcsl: line-id=C.5
+
+C.6. X X di-de₃ X X in-na-an-šum₂-ma X [...]
+#lem: X; X; di[speak]; X; X; šum[give]; X; X
+#etcsl: line-id=C.6
+
+C.7. X ALAM ŋiš ki [...]
+#lem: X; X; ŋeš[tree]; ki[place]; X
+#etcsl: line-id=C.7
+
+@div trailer 
+
+C.8. bal-bal-e {d}inana#-[kam]
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=C.8
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

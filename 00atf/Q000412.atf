@@ -1,0 +1,213 @@
+&Q000412 = A tigi to Ninurta for Šulgi (Šulgi T)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.20
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.20&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. en nam-ur-saŋ-ŋa₂ šu du₇-a ki aŋ₂# [...]
+#lem: en[lord]; namursaŋ[heroism]; šu[hand]; du[perfect]; ki[place]; aŋ[measure]; X
+#etcsl: line-id=A.1
+
+A.2. {d}nin-urta {ŋiš}meš₃ pa mul daŋal-la [...]
+#lem: Ninurtak[1]DN; mes[tree]; pa[branch]; mul[shine]; daŋal[wide]; X
+#etcsl: line-id=A.2
+
+A.3. tukul me₃ ak-še₃ kuš₃ tag-ga kur [...]
+#lem: tukul[weapon]; me[battle]; ak[do]; kušum[cvne]; tag[touch]; kur[mountain(s)]; X
+#etcsl: line-id=A.3
+
+A.4. ušum igi huš muš#-šag₄-tur₃ ki-bal-a uš₁₁-bi# [...]
+#lem: ušum[snake]; igi[eye]; huš[reddish]; muššagtur[(mythical) snake]; kibala[rebel land]; uš[poison]; X
+#etcsl: line-id=A.4
+
+A.5. [X X] X gaba# zig₃ piriŋ zag e₃ X X [...]
+#lem: X; X; X; gaba[breast]; zig[rise]; piriŋ[lion]; zag[side]; e[leave]; X; X; X
+#etcsl: line-id=A.5
+
+A.6. {d}nin-urta nun gal {d}en-ki-da# [...]
+#lem: Ninurtak[1]DN; nun[prince]; gal[big]; Enkik[1]DN; X
+#etcsl: line-id=A.6
+
+A.7. lugal-ŋu₁₀ iri-za eš₃ nibru{ki} tir X [...]
+#lem: lugal[king]; iri[city]; eš[shrine]; Nibru[1]SN; tir[forest]; X; X
+#etcsl: line-id=A.7
+
+A.8. e₂-šu-me-ša₄ ki šu mu-ra#-[...]
+#lem: Ešumeša[1]TN; ki[place]; šu[hand]; X
+#etcsl: line-id=A.8
+
+A.9. en nam-lugal-e šu mu-ra-ab-du₇ [...]
+#lem: en[lord]; namlugal[kingship]; šu[hand]; du[perfect]; X
+#etcsl: line-id=A.9
+
+A.10. ad gi₄-gi₄ ušumgal kalam-ma KA X [...]
+#lem: ad[voice]; gi[turn]; ušumgal[great dragon]; kalam[the Land (of Sumer)]; X; X; X
+#etcsl: line-id=A.10
+
+A.11. {d}nin-urta bad₃ gal nibru{ki}-a X [...]
+#lem: Ninurtak[1]DN; bad[wall]; gal[big]; Nibru[1]SN; X; X
+#etcsl: line-id=A.11
+
+A.12. lugal-ŋu₁₀ me sag₂ nu-di ur-saŋ# [...]
+#lem: lugal[king]; me[Being]; sag[scatter]; di[speak]; ursaŋ[warrior]; X
+#etcsl: line-id=A.12
+
+A.13. piriŋ gaba-ŋal₂ NE MU{ŋiš} šu bar-bar [...]
+#lem: piriŋ[lion]; gabaŋal[forceful]; X; X; šu[hand]; bar[place outside]; X
+#etcsl: line-id=A.13
+
+A.14. lugal ŋeštug₂ daŋal an ki-a u₂ [...]
+#lem: lugal[king]; ŋeštug[ear]; daŋal[wide]; an[sky]; ki[place]; u[plant(s)]; X
+#etcsl: line-id=A.14
+
+A.15. ŋidru mah kalam-e zag dib-ba ki [...]
+#lem: ŋidru[scepter]; mah[great]; kalam[the Land (of Sumer)]; zag[side]; dib[pass]; ki[place]; X
+#etcsl: line-id=A.15
+
+A.16. {d}nin-urta lu₂-erim₂ ri X X [...]
+#lem: Ninurtak[1]DN; luʾerim[evildoer]; ri[impose]; X; X; X
+#etcsl: line-id=A.16
+
+@div trailer 
+
+A.17. sa-gid₂-[da-am₃]
+#lem: sagida[musical notation]
+#etcsl: line-id=A.17
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+B.18. ur-saŋ en ni₂ er₉ gaba zig₃-ga [...]
+#lem: ursaŋ[warrior]; en[lord]; ni[self]; ir[mighty]; gaba[breast]; zig[rise]; X
+#etcsl: line-id=B.18
+
+B.19. {d}nin-urta ud huš# izi er₉-ra nam#-[...]
+#lem: Ninurtak[1]DN; ud[storm]; huš[reddish]; izi[fire]; ir[mighty]; X
+#etcsl: line-id=B.19
+
+B.20. ud hu-luh-ha sumur!-ra₂ ki-bal-a piriŋ# [...]
+#lem: ud[storm]; huluh[frightened]; sumur[angry]; kibala[rebel land]; piriŋ[lion]; X
+#etcsl: line-id=B.20
+
+B.21. ušum ni₂ ri en gaba gi₄ nu#-tuku igi [...]
+#lem: ušum[snake]; ni[fear]; ri[impose]; en[lord]; gaba[breast]; gi[turn]; tuku[acquire]; igi[eye]; X
+#etcsl: line-id=B.21
+
+B.22. lugal# ŋeštug₂ daŋal {ŋiš}rab₃ diŋir-[re-e-ne]
+#lem: lugal[king]; ŋeštug[ear]; daŋal[wide]; raba[clamp]; diŋir[deity]
+#etcsl: line-id=B.22
+
+B.23. [X X]-e a₂ mah šum₂-ma [...]
+#lem: X; X; a[arm]; mah[great]; šum[give]; X
+#etcsl: line-id=B.23
+
+B.24. [...] X zid šul-gi-ra [...]
+#lem: X; X; zid[right]; Šulgir[1]RN; X
+#etcsl: line-id=B.24
+
+B.25. [...] X X X X MU NI X NE# [...]
+#lem: X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.25
+
+B.26. [... ni₂]-te-na-ka šag₄-ge ba-e-ni-pad₃#-[...]
+#lem: X; ni[self]; šag[heart]; pad[find]
+#etcsl: line-id=B.26
+
+B.27. [...] TE# A# {d}nin-urta za₃-mi₂
+#lem: X; X; X; Ninurtak[1]DN; zamin[praise]
+#etcsl: line-id=B.27
+
+@div trailer 
+
+B.28. [sa-ŋar]-ra-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.28
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal C
+
+C.29. [...] šul#-gi-re til₃ su₃-ud mu nam-he₂ saŋ-e-eš rig₇-ga X
+#lem: X; Šulgir[1]RN; til[live (of a single person)]; sud[distant]; mu[year]; namhe[abundance]; saŋ[head]; rig[donate]; X
+#etcsl: line-id=C.29
+
+@div trailer 
+
+C.30. [ŋiš-gi₅]-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=C.30
+
+@end trailer
+
+@end jicgijal
+
+@div trailer 
+
+C.31. [ti]-gi# {d}nin-urta-ka-kam
+#lem: tigi[drum or other musical instrument]; Ninurtak[1]DN
+#etcsl: line-id=C.31
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-gida
+
+
+@(A.1 = 1-16) Lord, perfect warrior, beloved by ……. @wDN{Ninurta}, @fsux{meš} tree with a broad shining canopy, ……. Weapon striding into battle, …… foreign countries. A dragon with a terrifying face, venomous snake who …… its venom against the rebel lands. …… overpowering ……, foremost lion ……. @wDN{Ninurta}, who …… with the great prince @wDN{Enki}. My king, in your city, shrine @wSN{Nibru}, ……. @wTN{E-šu-me-ša}, where …… for you. Lord, the kingship is perfect with you ……. Adviser, the dragon of the Land, ……. @wDN{Ninurta}, the great wall of @wSN{Nibru}, ……. My king, whose divine powers cannot be scattered, warrior ……. Forceful lion, ……. King with the broad wisdom of heaven and earth, ……. Exalted sceptre rising above the Land, ……. @wDN{Ninurta}, who …… the enemy, …….
+
+#trailer rubric	sa-gida
+
+
+@(A.17 = 17) @fsux{Sa-gida}.
+
+#lg B	sa-jara
+
+
+@(B.18 = 18-27) Warrior, powerful lord, overpowering ……. @wDN{Ninurta}, terrible storm, powerful fire, ……. Frightening storm, raging against the rebellious lands, …… lion. Dragon spreading terror, lord without rival ……. King with broad wisdom, neck-stock of gods. …… given strength ……. …… trustworthy ……, @wRN{Šulgi} ……  @gap{1 line fragmentary}  You have chosen …… among your own …… in your heart. ……, @wDN{Ninurta}, be praised.
+
+#trailer rubric	sa-jara
+
+
+@(B.28 = 28) @fsux{Sa-ŋara}.
+
+#lg C	jicgijal
+
+
+@(C.29 = 29) ……, bestow a long life and prosperous years on @wRN{Šulgi}!
+
+#trailer rubric	jicgijal
+
+
+@(C.30 = 30) Its @fsux{ŋišgiŋal}.
+
+#trailer subscript	tigi
+
+
+@(C.31 = 31) A @fsux{tigi} (?) of @wDN{Ninurta}.
+
+
+

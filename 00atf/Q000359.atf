@@ -1,0 +1,288 @@
+&Q000359 = The šumunda grass
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.7.7
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.7&display=Crit&charenc=gcirc#
+
+1. ab-ba na mu-un-de ab-ba na mu-un-[de]
+#lem: abba[father]; na[cvne]; deg[gather up]; abba[father]; na[cvne]; deg[gather up]
+#etcsl: line-id=1
+
+2. im ba-šeŋ₃-ŋa₂-ba e₂-ŋar₈ ba-gul-la-[ba]
+#lem: im[rain]; šeŋ[rain]; egar[wall]; gul[destroy]
+#etcsl: line-id=2
+
+3. šika bar₇-bar₇-ra ba-šeŋ₃-ŋa₂-ba
+#lem: šika[sherd]; bar[burn]; šeŋ[rain]
+#etcsl: line-id=3
+
+4. lu₂-ra lu₂ gi₄-ba gaba ba-ri-a-ba
+#lem: lu[person]; lu[person]; gi[turn]; gaba[breast]; ri[impose]
+#etcsl: line-id=4
+
+5. %e mu %s ba-dug₄-ga-ba in-ga-an-dug₄
+#lem: meš[penis]N; dug[speak]; dug[speak]
+#etcsl: line-id=5
+
+6. še ba-su-ub-ba in-ga-an-su-ub
+#lem: še[cvne]; sub[rub]; sub[rub]
+#etcsl: line-id=6
+
+7. ud im-e ŋe₂₆-e ga-šeŋ₃ im-mi-in-dug₄-ga-ba
+#lem: ud[sun]; im[rain]; ŋaʾe[I]; šeŋ[rain]; dug[speak]
+#etcsl: line-id=7
+
+8. ud e₂-ŋar₈-e ŋe₂₆-e ga-gul!(ŠEŊ₃) im-mi-in-dug₄-ga-ba
+#lem: ud[sun]; egar[wall]; ŋaʾe[I]; gul[destroy]; dug[speak]
+#etcsl: line-id=8
+
+9. ud a-ma-ru ŋe₂₆-e ga-ur₃-ur₃ im-mi-in-dug₄-ga-ba
+#lem: ud[sun]; amaru[flood]; ŋaʾe[I]; ur[drag]; dug[speak]
+#etcsl: line-id=9
+
+10. an in-dug₄ ki in-tu-ud
+#lem: an[sky]; dug[speak]; ki[place]; utud[give birth (to)]
+#etcsl: line-id=10
+
+11. {u₂}šumunda in-ga-an-tu-ud
+#lem: sumundar[beetroot]; utud[give birth (to)]
+#etcsl: line-id=11
+
+12. ki in-tu-ud an in-dug₄
+#lem: ki[place]; utud[give birth (to)]; an[sky]; dug[speak]
+#etcsl: line-id=12
+
+13. {u₂}šumunda in-ga-an-tu-ud
+#lem: sumundar[beetroot]; utud[give birth (to)]
+#etcsl: line-id=13
+
+14. gi lum-lum-ma-ni izi ba-an-la₂
+#lem: gi[reed]; lum[fruit]; izi[fire]; la[hang]
+#etcsl: line-id=14
+
+15. ri-a-ri-a-bi gaba ba-ri-a-bi
+#lem: ri[impose]; gaba[breast]; ri[impose]
+#etcsl: line-id=15
+
+16. um-ma ud-da ba-ra-ab-taka₄-a
+#lem: umma[old woman]; ud[sun]; taka[set aside]
+#etcsl: line-id=16
+
+17. ab-ba ud-da ba-ra-ab-taka₄-a
+#lem: abba[father]; ud[sun]; taka[set aside]
+#etcsl: line-id=17
+
+18. gala-mah mu-da ba-ra-ab-taka₄-a
+#lem: galamah[chief lament singer]; mu[year]; taka[set aside]
+#etcsl: line-id=18
+
+19. %e mu-lu %s a-ma-ru-ta ba-ra-ab-taka₄-a
+#lem: mulu[person]N; amaru[flood]; taka[set aside]
+#etcsl: line-id=19
+
+20. {u₂}šumunda kiŋ₂-gi₄-a ba-an-gaz
+#lem: sumundar[beetroot]; kiŋgia[messenger]; gaz[kill]
+#etcsl: line-id=20
+
+21. kiŋ₂-gi₄-a ba-an-gaz sahar-tu₁₁-be₂ ba-tuš
+#lem: kiŋgia[messenger]; gaz[kill]; sahar.HUB₂[dust-heap]; tuš[sit (down)]
+#etcsl: line-id=21
+
+22. {u₂}šumunda izi la₂-la₂ am₃-me u₂-du₃-a-ni nu-ub-be₂
+#lem: sumundar[beetroot]; izi[fire]; la[hang]; dug[speak]; ududu[reed bundle]; e[speak]
+#etcsl: line-id=22
+
+23. u₂ nu-mu-dub₂-dub₂-be₂ u₂ nu-mu-bur₂-bur₂-re
+#lem: u[plant(s)]; dub[tremble]; u[plant(s)]; bur[spread out]
+#etcsl: line-id=23
+
+24. u₂ nu-mu-bur₂-bur₂-re %e ma-a %s um-ma-an-du₃
+#lem: u[plant(s)]; bur[spread out]; ma[house]N; du[build]
+#etcsl: line-id=24
+
+25. tukum mu-un-gub-be₃ tukum mu-un-nu₂-e
+#lem: tukum[if]; gub[stand]; tukum[if]; nud[lie down]
+#etcsl: line-id=25
+
+26. izi um-ma-an-šum₂ daŋal-ba ŋen-na-ni
+#lem: izi[fire]; šum[give]; daŋal[wide]; ŋen[go]
+#etcsl: line-id=26
+
+27. {u₂}šumunda ki-gub-ba-ni a-a sis-na
+#lem: sumundar[beetroot]; kigub[station]; a[water]; ses[bitter]
+#etcsl: line-id=27
+
+28. izi ga-ba-ŋar ga-ba-ŋar im-ma-ni-in-du₇-e
+#lem: izi[fire]; ŋar[put]; ŋar[put]; du[push]
+#etcsl: line-id=28
+
+29. ur₂ e₂-an-na-ke₄ izi im-ma-ni-ri
+#lem: ur[loin]; Eanak[1]TN; izi[fire]; ri[impose]
+#etcsl: line-id=29
+
+30. šu im-ma-ni-in-du₃ šu im-ma-ni-in-la₂
+#lem: šu[hand]; du[build]; šu[hand]; la[hang]
+#etcsl: line-id=30
+
+31. inim ka-na um-ma-da-ŋal₂-la
+#lem: inim[word]; kag[mouth]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=31
+
+32. %e ga-ša-an-an-na-<ke₄> %s uga!(NAŊA){mušen} ba-e-dab₅ ugu-ni-še₃ ba-gub
+#lem: Gašanana[1]DN; uga[raven]; dab[seize]; ugu[skull]; gub[stand]
+#etcsl: line-id=32
+
+33. sipad-de₃ %e e-ze₂-ni ma-a-a-ba %s mu-da-ab-šub
+#lem: sipad[shepherd]; eze[sheep]N; ma[house]N; šub[fall]
+#etcsl: line-id=33
+
+34. %e ga-ša-an-an-na-ke₄!(RA) %s uga{mušen} ba-e-dab₅-ba
+#lem: Gašanana[1]DN; uga[raven]; dab[seize]
+#etcsl: line-id=34
+
+35. im ba-šeŋ₃-ŋa₂-ba e₂-ŋar₈ ba-gul-la-ba
+#lem: im[rain]; šeŋ[rain]; egar[wall]; gul[destroy]
+#etcsl: line-id=35
+
+36. šika bar₇-bar₇-ra ba-šeŋ₃-ŋa₂-ba
+#lem: šika[sherd]; bar[burn]; šeŋ[rain]
+#etcsl: line-id=36
+
+37. {d}dumu-zid-de₃ gaba ba-ri-a-bi
+#lem: Dumuzid[1]DN; gaba[breast]; ri[impose]
+#etcsl: line-id=37
+
+38. im ba-da-šeŋ₃ e₂-ŋar₈ ba-da-gul
+#lem: im[rain]; šeŋ[rain]; egar[wall]; gul[destroy]
+#etcsl: line-id=38
+
+39. tur₃ ba-da-gul amaš ba-da-bur₁₂
+#lem: tur[animal stall]; gul[destroy]; amaš[sheepfold]; bur[tear out]
+#etcsl: line-id=39
+
+40. id₂-da a-ŋi₆ hul ba-an-da-šub
+#lem: id[river]; aŋi[wave]; hulu[bad]; šub[fall]
+#etcsl: line-id=40
+
+41. ambar-ra im-hul ba-an-da-šub
+#lem: ambar[reed-bed]; imhul[destructive wind]; šub[fall]
+#etcsl: line-id=41
+
+42. X %e na-aŋ₂ %s GADA {id₂}idigna {id₂}buranuna-ke₄
+#lem: X; naŋ[fate]N; X; Idigna[1 Tigris]; Buranun[1 Euphrates]
+#etcsl: line-id=42
+
+43. {id₂}idigna {id₂}buranuna-ke₄ u₂ gid₂-da ba-an-mu₂
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; u[plant(s)]; gid[long]; mu[grow]
+#etcsl: line-id=43
+
+44. u₂ gid₂-da AN X aŋ₂ zu-a
+#lem: u[plant(s)]; gid[long]; X; X; aŋ[measure]; zu[know]
+#etcsl: line-id=44
+
+$ 5 lines missing
+50. u₂-du₃-a-ni mu-ub#-be₂ [u₂ mu-dub₂]-dub₂#-be₂
+#lem: ududu[reed bundle]; e[speak]; u[plant(s)]; dub[tremble]
+#etcsl: line-id=50
+
+51. {u₂}šumunda izi la₂ e-X [...] X
+#lem: sumundar[beetroot]; izi[fire]; la[hang]; X; X; X
+#etcsl: line-id=51
+
+52. {u₂}šumunda izi la₂ am₃-[ma-an]-du₃
+#lem: sumundar[beetroot]; izi[fire]; la[hang]; du[build]
+#etcsl: line-id=52
+
+53. izi la₂ am₃-ma-an-du₃ en₃ mu-un-na-tar-re
+#lem: izi[fire]; la[hang]; du[build]; en[cvne]; tar[cut]
+#etcsl: line-id=53
+
+54. %e ga-ša-an-an-na-ra %s {lu₂}azlag tug₂-ga-ni dan₃-dan₃-na
+#lem: Gašanana[1]DN; azlag[fuller]; tug[textile]; dan[pure]
+#etcsl: line-id=54
+
+55. %e ga-ša-an-an-na %s nagar {ŋiš}bal-e šu bi₂-in-dab₅-ba
+#lem: Gašanana[1]DN; nagar[carpenter]; balak[spindle]; šu[hand]; dab[seize]
+#etcsl: line-id=55
+
+56. %e ga-ša-an-an-na %s bahar₂-e {dug}sila₃ am₃-kir₃-kir₃
+#lem: Gašanana[1]DN; bahar[potter]; sila[unit of capacity]; kid[break off]
+#etcsl: line-id=56
+
+57. bahar₂ {dug}utul₂ kug mu-un-na-an-šum₂ sipad-de₃ %e e-ze₂-ni mu-na-ab-ga
+#lem: bahar[potter]; utul[tureen]; kug[purify]; šum[give]; sipad[shepherd]; eze[sheep]N; ga[carry]
+#etcsl: line-id=57
+
+58. sipad-de₃ %e e-ze₂-ni mu-na-ab-ga %s en₃ mu-un-na-tar-re
+#lem: sipad[shepherd]; eze[sheep]N; ga[carry]; en[cvne]; tar[cut]
+#etcsl: line-id=58
+
+59. u₂ giri₁₇-zal u₂ giri₁₇-zal buru₁₄-gin₇ %e mu-na-ab-ga
+#lem: u[plant(s)]; kirizal[joy]; u[plant(s)]; kirizal[joy]; buru[harvest]; ga[carry]
+#etcsl: line-id=59
+
+60. gu₃ an-e ba-te gu₃ ki-še₃ ba-te
+#lem: gu[voice]; an[sky]; teŋ[approach]; gu[voice]; ki[place]; teŋ[approach]
+#etcsl: line-id=60
+
+61. gu₃ šu niŋin₂-na-ni an-ur₂-ra tug₂-gin₇ im-mi-in-dul gada-gin₇ im-mi-in-bur₂
+#lem: gu[voice]; šu[hand]; niŋin[encircle]; anur[horizon]; tug[textile]; dul[cover]; gada[flax]; bur[spread out]
+#etcsl: line-id=61
+
+62. saŋ-du {u₂}šumunda-ke₄ {tum₉}[u₁₈-lu]-{[tum₉]}[u₁₈]-lu# bi₂-in-šub
+#lem: saŋdu[head]; sumundar[beetroot]; ulu[south wind]; šub[fall]
+#etcsl: line-id=62
+
+63. {u₂}šumunda mu-zu [...] X-e
+#lem: sumundar[beetroot]; mu[name]; X; X
+#etcsl: line-id=63
+
+64. u₂ he₂-me-en [...]
+#lem: u[plant(s)]; me[be]; X
+#etcsl: line-id=64
+
+65. u₂ hul gig-ga [he₂-me-en ...]
+#lem: u[plant(s)]; hulu[bad]; gig[sick]; me[be]; X
+#etcsl: line-id=65
+
+66. mu-[zu ...]
+#lem: mu[name]; X
+#etcsl: line-id=66
+
+$ (approx. 23 lines missing)
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1) The @fsux{abba} instructed, the @fsux{abba} instructed:
+
+@(2 = 2-13) When the rain rained, when walls were demolished, when it rained potsherds and fireballs, when one person confronted another defiantly, when there was copulation -- he also copulated, when there was kissing -- he also kissed. When the rain said: @q[rain,others]{“I will rain,”} when the wall said: @q[wall,others]{“I will rain@noteref{scribal error for 'demolish' ?}”}, when the flood said: @q[flood,others]{“I will sweep everything away”} -- Heaven impregnated (?), Earth gave birth, she gave birth also to the @fsux{šumunda} grass. Earth gave birth, Heaven impregnated (?), she gave birth also to the @fsux{šumunda} grass.
+
+@(14 = 14-21) His luxuriant reeds carry fire. They who defied it, who defied it, the @fsux{umma} who had survived that day, the @fsux{abba} who had survived that day, the chief @fsux{gala} priest who had survived that year, whoever had survived the Flood -- the @fsux{šumunda} grass crushed them with labour, crushed them with labour, made them crouch in the dust.
+
+@(22 = 22-28) The @fsux{šumunda} grass is a fire carrier, he cannot be tied into bundles, the grass cannot be shifted, the grass cannot be loosened, the grass cannot be loosened. When built into a booth, one moment he stands up, one moment he lies down. Having kindled a fire, he spreads it wide. The @fsux{šumunda} grass's habitat is among his bitter waters. He butts about (saying): @q[cumunda grass,others]{“I will start, I will start a fire.”}
+
+@(29 = 29-34) He set fire to the base of the @wTN{E-ana}; there he was bound, there he was fettered. When he protested, @wDN{Inana} seized a raven there and set it on top of him. The shepherd abandoned his sheep in their enclosure. @wDN{Inana} seized the raven there.
+
+@(35 = 35-49) When the rain had rained, when walls had been demolished, when it rained potsherds and fireballs, when @wDN{Dumuzid} was defied -- the rain rained, walls were demolished, the cowpen was demolished, the sheepfold was ripped out, wild flood-waters were hurled against the rivers, wild rains were hurled against the marshes. By (?) the …… of the @wWN{Tigris} and the @wWN{Euphrates}, of the @wWN{Tigris} and the @wWN{Euphrates}, long grass grew, long grass …….  @gap{5 lines missing} 
+
+@(50 = 50-59) He tied him into bundles, he shifted him, he …… @fsux{šumunda} grass, the fire-carrier. He bundled up the @fsux{šumunda} grass, the fire carrier, bundled up the fire carrier. The launderer who made her garments clean asks her, @wDN{Inana} -- the carpenter who gave her the spindle to hold in her hand (asks her), @wDN{Inana} -- the potter who fashioned pots and jugs (asks her), @wDN{Inana}. The potter gave her holy drinking vessels, the shepherd brought her his sheep, the shepherd brought her his sheep -- he asks her. He brought her all kinds of luxuriant plants, as if it were the harvest.
+
+@(60 = 60-66) Her voice reached Heaven, her voice reached Earth, her resounding cry covered the horizon like a garment, was spread over it like a cloth, she hurled fierce winds at the head of the @fsux{šumunda} grass (saying): @q[Inana,cumunda grass]{“@fsux{Šumunda} grass, your name ……. You shall be a plant ……. You shall be a hateful plant ……. Your name …….”}  @gap{approx. 23 lines missing} 
+
+
+

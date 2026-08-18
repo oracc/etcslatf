@@ -1,0 +1,79 @@
+&Q000576 = Letter from Ur-Enlila to a governor and temple administrator
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.04&display=Crit&charenc=gcirc#
+
+1. ensi₂ saŋŋa-ra u₃-na-a-dug₄
+#lem: ensik[ruler]; saŋŋa[an official]; dug[speak]
+#etcsl: line-id=1
+
+2. {m}ur-{d}en-lil₂-la₂-ke₄ na-ab-be₂-a
+#lem: Urenlila[1]PN; e[speak]
+#etcsl: line-id=2
+
+3. pa₅ (1:a-luh-ha:1) a i-ib₂-tum₃
+#lem: par[(small) canal]; luh[clean]; a[water]; tum[bring]
+#etcsl: line-id=3
+
+:3v.1.1: ($1 ms. has instead:$) i₃-luh-ha
+#lem: luh[clean]
+
+4. (1:{m}{d}en-lil₂-diŋir-ŋu₁₀:1) u₃ ha-an-za-mu
+#lem: Enlildiŋirŋu[1]PN; u[and]; Hanzamu[1]PN
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) {m}{d}en-lil₂-a₂-ŋu₁₀
+#lem: Enlilaŋu[1]PN
+:4v.1.2: ($another ms. has instead:$) {[m]}{[d]}en#-lil₂-la₂-ŋu₁₀
+#lem: Enlilaŋu[1]PN
+
+5. (1:ib₂-sig₃-ge-eš:1) mu-da-an-kar-re-eš
+#lem: sig[put into]; kar[flee]
+#etcsl: line-id=5
+
+:5v.1.1: ($1 ms. has instead:$) ib₂-sig₉-ge-eš
+#lem: sig[put into]
+
+6. {m}lugal-an-ne₂ na-ab-be₂-a
+#lem: Lugalane[1]PN; e[speak]
+#etcsl: line-id=6
+
+7. ŋe₂₆-e pa₅ 1(DIŠ)-am₃ za-e pa₅ 1(DIŠ)-am₃ ensi₂ pa₅ 1(DIŠ)-am₃
+#lem: ŋaʾe[I]; par[(small) canal]; n; zaʾe[you]; par[(small) canal]; n; ensik[ruler]; par[(small) canal]; n
+#etcsl: line-id=7
+
+8. a (1:he₂-mu-e-de₆:1) bi₂-dug₄ nu-mu-un-še-ge-eš
+#lem: a[water]; de[carry]; dug[speak]; šeg[agree]
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) he₂-mu-e-dug₄
+#lem: dug[speak]
+
+9. erin₂ id₂-zu nu-ma pa₅-bi a i-ib₂-tum₃
+#lem: erin[people]; id[river]; nu[not]; par[(small) canal]; a[water]; tum[bring]
+#etcsl: line-id=9
+
+10. ŋa₂-a sah₆-bi a ma-ab-tum₃
+#lem: ŋaʾe[I]; zah[disappear]; a[water]; tum[bring]
+#etcsl: line-id=10
+
+11. a₂ ma-tur ia₂ ŋuruš (1:10:1) hu-mu-e-ši-in-gi₄-gi₄-ma
+#lem: a[arm]; tur[small]; ya[five]; ŋuruš[young adult male]; n; gi[turn]
+#etcsl: line-id=11
+
+:11v.1.1: ($1 ms. has instead:$) ŋeš₂
+#lem: ŋeš[sixty]
+
+12. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=12
+
+
+
+
+
+
+

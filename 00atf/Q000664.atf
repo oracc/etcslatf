@@ -1,0 +1,189 @@
+&Q000664 = A balbale to Inana
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.a
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.a&display=Crit&charenc=gcirc#
+
+1. ab₂ gu₃ <dug₃>-ga amar gu₃ su₃-ra
+#lem: ab[cow]; gu[voice]; dug[good]; amar[calf]; gu[voice]; sud[distant]
+#etcsl: line-id=1
+
+2. in-nin₉ {e₂}tur₃-ra niŋ₂-niŋin₂-na-me-en
+#lem: innin[lady]; tur[animal stall]; niŋin[encircle]
+#etcsl: line-id=2
+
+3. {lu₂}ki-sikil nu-um-ši!-dun₅-na-am₃
+#lem: kisikil[young woman]; dun[rock]
+#etcsl: line-id=3
+
+4. {d}inana {dug}šakir₃-e gu₃ he₂-em-me
+#lem: Inanak[1]DN; šakir[churn]; gu[voice]; e[speak]
+#etcsl: line-id=4
+
+5. {dug}šakir₃ nitalam₂-zu# gu₃ he₂-em-me
+#lem: šakir[churn]; ŋidlam[(equal ranking) spouse]; gu[voice]; e[speak]
+#etcsl: line-id=5
+
+6. {dug}šakir₃ {d}dumu-zid-da# gu₃ he₂-em-me
+#lem: šakir[churn]; Dumuzid[1]DN; gu[voice]; e[speak]
+#etcsl: line-id=6
+
+7. {d}inana {dug}šakir₃-e gu₃# he₂-em-me
+#lem: Inanak[1]DN; šakir[churn]; gu[voice]; e[speak]
+#etcsl: line-id=7
+
+8. {dug}šakir₃ {d}dumu-zid-[...] gu₃ he₂-em-me
+#lem: šakir[churn]; Dumuzid[1]DN; gu[voice]; e[speak]
+#etcsl: line-id=8
+
+9. dun₅-ru {dug}šakir₃-ra ša#-mu-ra-an-du₁₂-am₃
+#lem: dun[rock]; šakir[churn]; du[play (a musical instrument)]
+#etcsl: line-id=9
+
+10. {d}inana ur₅-re ša#-mu-u₈-hul₂-le#
+#lem: Inanak[1]DN; ur[that]; hul[rejoice]
+#etcsl: line-id=10
+
+11. {dug}šakir₃ kug-ge gu₃ X ša-mu-ra!(NA)-[ab-be₂]
+#lem: šakir[churn]; kug[pure]; gu[voice]; X; dug[speak]
+#etcsl: line-id=11
+
+12. {d}nin-e₂-gal ur₅-re ša#-mu-u₈-hul₂-[le]
+#lem: Ninegalak[1]DN; ur[that]; hul[rejoice]
+#etcsl: line-id=12
+
+13. sipad zid lu₂ i-lu dug₃-ga-[ke₄]
+#lem: sipad[shepherd]; zid[right]; lu[person]; ilu[lament]; dug[good]
+#etcsl: line-id=13
+
+14. mur ša₄-am₃ i-lu ša-mu-ra-an-ib#-[be₂]
+#lem: mur[noise]; ša[cvve]; ilu[lament]; e[speak]
+#etcsl: line-id=14
+
+15. in-nin i-lu# niŋ₂ ku₇-ku₇#-[da]
+#lem: innin[lady]; ilu[lament]; niŋ[thing]; kud[sweet]
+#etcsl: line-id=15
+
+16. {d}inana šag₄-zu# he₂-em-hul₂#-[le]
+#lem: Inanak[1]DN; šag[heart]; hul[rejoice]
+#etcsl: line-id=16
+
+17. in-nin {e₂}tur₃-ra kur₉-[ra]-zu-ne#
+#lem: innin[lady]; tur[animal stall]; kur[enter]
+#etcsl: line-id=17
+
+18. {d}inana tur₃ ša-mu-u₈#-[da-hul₂-le]
+#lem: Inanak[1]DN; tur[animal stall]; hul[rejoice]
+#etcsl: line-id=18
+
+19. nu-u₈-<gig> amaš-a kur₉-ra-zu#-[ne]
+#lem: nugig[priestess]; amaš[sheepfold]; kur[enter]
+#etcsl: line-id=19
+
+20. {d}inana amaš ša-mu-u₈-[da]-hul₂-le#
+#lem: Inanak[1]DN; amaš[sheepfold]; hul[rejoice]
+#etcsl: line-id=20
+
+21. e₂-ubur#-ra-ka kur₉-ra-zu#-ne
+#lem: eʾuburak[animal pen]; kur[enter]
+#etcsl: line-id=21
+
+22. siki u₈ zid#-de₃ ša-mu-ra-an-barag₂-ge
+#lem: siki[hair]; u[sheep]; zid[right]; barag[spread out]
+#etcsl: line-id=22
+
+23. nitalam₂-zu# {d}ama-ušumgal-an-na
+#lem: ŋidlam[(equal ranking) spouse]; Amaʾušumgalanak[1]DN
+#etcsl: line-id=23
+
+24. gaba kug-za# [...] GAN# MA AL he₂-em-me
+#lem: gaba[breast]; kug[pure]; X; X; X; X; e[speak]
+#etcsl: line-id=24
+
+25. amaš kug-ge i₃ ki ha-ra-sud-e
+#lem: amaš[sheepfold]; kug[pure]; i[oil]; ki[place]; sud[distant]
+#etcsl: line-id=25
+
+26. %e u₅ %s i₃-sud-e ga i₃-sud-e
+#lem: u[oil]N; sud[distant]; ga[milk]; sud[distant]
+#etcsl: line-id=26
+
+27. {d}inana ur₅-re ša-mu-u₈-hul₂-le
+#lem: Inanak[1]DN; ur[that]; hul[rejoice]
+#etcsl: line-id=27
+
+28. amaš kug-ge i₃ ki ha-ra-sud-e
+#lem: amaš[sheepfold]; kug[pure]; i[oil]; ki[place]; sud[distant]
+#etcsl: line-id=28
+
+29. {d}nin-e₂-gal ur₅-re ša-mu-u₈-hul₂#-le
+#lem: Ninegalak[1]DN; ur[that]; hul[rejoice]
+#etcsl: line-id=29
+
+30. lugal šag₄-ge bi₂-pad₃-da-zu
+#lem: lugal[king]; šag[heart]; pad[find]
+#etcsl: line-id=30
+
+31. {d}dumu-zid dumu {d}en-lil₂#-ra
+#lem: Dumuzid[1]DN; dumu[child]; Enlil[1]DN
+#etcsl: line-id=31
+
+32. {e₂}tur₃-e i₃ ga he₂-en-da-ab-be₂
+#lem: tur[animal stall]; i[oil]; ga[milk]; e[speak]
+#etcsl: line-id=32
+
+33. amaš#-e giri₁₇-zal-la he₂-en-da-ab-be₂
+#lem: amaš[sheepfold]; kirizal[joy]; e[speak]
+#etcsl: line-id=33
+
+34. sipad# zid-dam ud-da-ni# he₂-su₃-ud
+#lem: sipad[shepherd]; zid[right]; ud[sun]; sud[distant]
+#etcsl: line-id=34
+
+35. sipad# zid {d}dumu-zid-de₃ ud nam-he₂-a-ke₄ <X>
+#lem: sipad[shepherd]; zid[right]; Dumuzid[1]DN; ud[sun]; namhe[abundance]; X
+#etcsl: line-id=35
+
+@div trailer 
+
+36. bal-bal-e {d}inana-kam
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=36
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) Lady, you who wander among sweet-voiced cows and gentle-voiced calves in the cattle-pen; young woman, no sooner will you arrive there, @wDN{Inana}, than the churn should sound! May the churn of your spouse sound, @wDN{Inana}, may the churn of @wDN{Dumuzid} sound! May the churn sound, may the churn of @wDN{Dumuzid} sound!
+
+@(9 = 9-16) The rocking of the churn will sing for you, @wDN{Inana}, thus making you joyous. The holy churn will sound …… for you, thus making you joyous, @wDN{Ninegala}. The good shepherd, the man of sweet songs, will loudly (?) sing songs for you; lady, with the sweetest songs, @wDN{Inana}, may he make your heart joyous!
+
+@(17 = 17-22) Lady, when you enter the cattle-pen, @wDN{Inana}, the cattle-pen indeed will rejoice over you. Mistress, when you enter the sheepfold, @wDN{Inana}, the sheepfold indeed will rejoice over you. When you enter the feeding-pen, healthy ewes will spread out their wool for you.
+
+@(24 = 23-29) May your spouse, @wDN{Ama-ušumgal-ana}, …… on (?) your holy breast. May the holy sheepfold produce plentiful supplies of butter (?) for you. It will make butter plentiful (?), it will make milk plentiful (?), thus making you joyous, @wDN{Inana}. May the holy sheepfold make the butter extensive (?) for you, thus making you joyous, @wDN{Ninegala}.
+
+@(30 = 30-35) For the king you have chosen with your heart, for @wDN{Dumuzid}, the son of @wDN{Enlil}, may the cattle-pen produce (?) butter and milk, may the sheepfold produce (?) abundance! May the days of the true shepherd be numerous! The true shepherd, @wDN{Dumuzid} …… days of prosperity!
+
+#trailer subscript	balbale
+
+
+@(36 = 36) A @fsux{balbale} of @wDN{Inana}.
+
+
+

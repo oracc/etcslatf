@@ -1,0 +1,218 @@
+&Q000747 = A šir-namšub to Utu (Utu F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.32.f
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.32.f&display=Crit&charenc=gcirc#
+
+1. GAN [...]
+#lem: X; X
+#etcsl: line-id=1
+
+2. kur [...]
+#lem: kur[mountain(s)]; X
+#etcsl: line-id=2
+
+3. {d}utu [...]
+#lem: Utu[1]DN; X
+#etcsl: line-id=3
+
+4. {d}utu [...]
+#lem: Utu[1]DN; X
+#etcsl: line-id=4
+
+$ (8 lines fragmentary)
+13. IM [...]
+#lem: X; X
+#etcsl: line-id=13
+
+14. IM KA [...]
+#lem: X; X; X
+#etcsl: line-id=14
+
+15. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=15
+
+16. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=16
+
+17. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=17
+
+18. šul {d}utu |GIRI₃×X|-re-ne amar sumun₂-na#-ke₄
+#lem: šul[youth]; Utu[1]DN; X; amar[calf]; sumun[wild cow]
+#etcsl: line-id=18
+
+19. amar sumun₂-na-ke₄ amar dumu zid-da-ke₄
+#lem: amar[calf]; sumun[wild cow]; amar[calf]; dumu[child]; zid[right]
+#etcsl: line-id=19
+
+20. {d}utu šeš lugal {d}inana-ke₄
+#lem: Utu[1]DN; šeš[brother]; lugal[king]; Inanak[1]DN
+#etcsl: line-id=20
+
+21. en-me-en de₆-de₆ sila sir₂-ra-ke₄
+#lem: en[lord]; de[carry]; sila[street]; esir[street]
+#etcsl: line-id=21
+
+22. {d}utu kaš mu-un-ŋal₂ e₂ kurun-ka-ke₄
+#lem: Utu[1]DN; kaš[beer]; ŋal[⟦be⟧ to be (there]; e[house]; kurun[beer]
+#etcsl: line-id=22
+
+23. šul {d}utu kaš mu-un-ŋal₂ e₂ kurun-ka-ke₄
+#lem: šul[youth]; Utu[1]DN; kaš[beer]; ŋal[⟦be⟧ to be (there]; e[house]; kurun[beer]
+#etcsl: line-id=23
+
+24. šeš-ŋu₁₀ %e u₃-mu-un %s ni₂ gur₃-ru kur-še₃ ga-ba-e-da-u₅
+#lem: šeš[brother]; umun[lord]N; ni[fear]; gur[lift]; kur[mountain(s)]; u[ride]
+#etcsl: line-id=24
+
+25. %e u₃-mu-un %s an-na %e u₃-mu-un %s ni₂ gur₃-ru %e u₃-mu-un %s kur-še₃ ga-ba-e-da-u₅
+#lem: umun[lord]N; an[sky]; umun[lord]N; ni[fear]; gur[lift]; umun[lord]N; kur[mountain(s)]; u[ride]
+#etcsl: line-id=25
+
+26. kur šim-ma-še₃ kur {ŋiš}erin-na-še₃ kur-še₃
+#lem: kur[mountain(s)]; šim[aromatic substance]; kur[mountain(s)]; eren[cedar]; kur[mountain(s)]
+#etcsl: line-id=26
+
+27. kur {ŋiš}erin-na kur ha-šu-ur₂-ra-še₃ kur-še₃
+#lem: kur[mountain(s)]; eren[cedar]; kur[mountain(s)]; hašur[tree]; kur[mountain(s)]
+#etcsl: line-id=27
+
+28. kur kug-ga kur za-gin₃-na-še₃ kur-še₃
+#lem: kur[mountain(s)]; kug[metal]; kur[mountain(s)]; zagin[lapis lazuli]; kur[mountain(s)]
+#etcsl: line-id=28
+
+29. kur gakkul₃-a mu-un-mu₂-mu₂-[še₃ kur-še₃]
+#lem: kur[mountain(s)]; gakkul[heart (of a plant)]; mu[grow]; kur[mountain(s)]
+#etcsl: line-id=29
+
+30. id₂ hal-hal-la a-ki-ta su₃-ud-bi-[še₃ kur-še₃]
+#lem: id[river]; hal[roll (around)]; akita[source]; sud[distant]; kur[mountain(s)]
+#etcsl: line-id=30
+
+31. šeš-ŋu₁₀ ŋen-a ga-[...]
+#lem: šeš[brother]; ŋen[go]; X
+#etcsl: line-id=31
+
+32. šeš-ŋu₁₀ ab-šag₄-ga igi-ŋu₁₀ NE [...]
+#lem: šeš[brother]; abšag[center of the sea]; igi[eye]; X; X
+#etcsl: line-id=32
+
+33. šeš-ŋu₁₀ munus-e-ne mu-[...]
+#lem: šeš[brother]; munus[woman]; X
+#etcsl: line-id=33
+
+34. {d}utu munus-e-ne mu-[...]
+#lem: Utu[1]DN; munus[woman]; X
+#etcsl: line-id=34
+
+35. %e aŋ₂ %s munus-e-ne %e mu %s mu-X nu-zu-ŋen
+#lem: aŋ[thing]N; munus[woman]; meš[penis]N; X; zu[know]
+#etcsl: line-id=35
+
+36. %e aŋ₂ %s munus-e-ne %e mu %s dug₄ nu-zu-ŋen
+#lem: aŋ[thing]N; munus[woman]; meš[penis]N; dug[speak]; zu[know]
+#etcsl: line-id=36
+
+37. %e aŋ₂ %s munus-e-ne še su-ub nu-zu-ŋen
+#lem: aŋ[thing]N; munus[woman]; še[cvne]; sub[rub]; zu[know]
+#etcsl: line-id=37
+
+38. %e mu %s dug₄ nu-zu-ŋen še su-ub nu-zu-ŋen
+#lem: meš[penis]N; dug[speak]; zu[know]; še[cvne]; sub[rub]; zu[know]
+#etcsl: line-id=38
+
+39. kur-ra a-na %e mu-un-ma-al %s a-na ga-gu₇-un-de₃-en
+#lem: kur[mountain(s)]; ana[what?]; mal[be]V/i; ana[what?]; gu[eat]
+#etcsl: line-id=39
+
+40. hur-saŋ-ŋa₂ a-na %e mu-un-ma-al %s a-na ga-gu₇-un-de₃-en
+#lem: hursaŋ[mountain]; ana[what?]; mal[be]V/i; ana[what?]; gu[eat]
+#etcsl: line-id=40
+
+41. kur šim-ma-še₃ kur {ŋiš}erin-na-še₃
+#lem: kur[mountain(s)]; šim[aromatic substance]; kur[mountain(s)]; eren[cedar]
+#etcsl: line-id=41
+
+42. kur {ŋiš}erin-na kur ha-šu-ur₂-ra-še₃
+#lem: kur[mountain(s)]; eren[cedar]; kur[mountain(s)]; hašur[tree]
+#etcsl: line-id=42
+
+43. kur-ra a-na %e mu-un-ma-al %s a-na ga-gu₇-un-de₃-en
+#lem: kur[mountain(s)]; ana[what?]; mal[be]V/i; ana[what?]; gu[eat]
+#etcsl: line-id=43
+
+44. šim mu-un-gu₇-a-ta {ŋiš}erin mu-un-gu₇-a-ta
+#lem: šim[aromatic substance]; gu[eat]; eren[cedar]; gu[eat]
+#etcsl: line-id=44
+
+45. šu-ŋu₁₀ šu u₃-bi₂-du₃ e₂-ŋu₁₀-še₃ gi₄-mu
+#lem: šu[hand]; šu[hand]; du[build]; e[house]; gi[turn]
+#etcsl: line-id=45
+
+46. e₂-ŋu₁₀-še₃ gi₄-mu e₂-ŋu₁₀ zabalam{ki}-a-ra
+#lem: e[house]; gi[turn]; e[house]; Zabalam[1]SN
+#etcsl: line-id=46
+
+47. ama-ŋu₁₀-še₃ gi₄-mu ama-ŋu₁₀  %e  ga-ša-an-gal-ra  %s 
+#lem: ama[mother]; gi[turn]; ama[mother]; Gašangal[1]DN
+#etcsl: line-id=47
+
+48. ušbar-ŋu₁₀-še₃ gi₄-mu  %e  ga-ša-an-sumun₂-na-ra  %s 
+#lem: ušbar[father-in-law]; gi[turn]; Gašansumun[1]DN
+#etcsl: line-id=48
+
+49. e-rib-bi₂-ŋu₁₀ gi₄-mu  %e  {d}mu-tin-an-na-ra  %s 
+#lem: erib[husband's sister]; gi[turn]; Mutinana[1]DN
+#etcsl: line-id=49
+
+50. šu dili ed₂-da-ke₄ e₂ lu₂ ed₂-da-ke₄
+#lem: šu[hand]; dili[single]; e[leave]; e[house]; lu[person]; e[leave]
+#etcsl: line-id=50
+
+51. e₂ lu₂ ed₂-da-ke₄ šu dili ed₂-da-ke₄
+#lem: e[house]; lu[person]; e[leave]; šu[hand]; dili[single]; e[leave]
+#etcsl: line-id=51
+
+52. {d}utu ama-bi-me-en {d}utu a-a-bi-me-en
+#lem: Utu[1]DN; ama[mother]; Utu[1]DN; aya[father]
+#etcsl: line-id=52
+
+53. {d}utu nu-siki-ke₄ {d}utu nu-mu-su-e
+#lem: Utu[1]DN; nusiki[orphan]; Utu[1]DN; numunkuš[widow]
+#etcsl: line-id=53
+
+54. {d}utu nu-siki-ke₄ a-a-ni-gin₇ igi-bi ma-ra-pad₃
+#lem: Utu[1]DN; nusiki[orphan]; aya[father]; igi[eye]; pad[find]
+#etcsl: line-id=54
+
+55. {d}utu nu-mu-su-e ama-bi-gin₇ šu gi₄-gi₄-bi-me-en
+#lem: Utu[1]DN; numunkuš[widow]; ama[mother]; šu[hand]; gi[turn]
+#etcsl: line-id=55
+
+56. a-lu za-da a-lu |DU.DU|
+#lem: X; zaʾe[you]; X; X
+#etcsl: line-id=56
+
+@div trailer 
+
+x.
+#lem: 
+
+#etcsl: line-id=x
+
+#etcsl#doc This composition is inscribed on a tablet whose colophon specifies it as a šir-namšub of Utu
+
+@end trailer
+
+
+
+
+
+
+

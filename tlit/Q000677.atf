@@ -1,0 +1,165 @@
+&Q000677 = An adab to Nanna (Nanna H)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.08
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.08&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div sa-gida A
+
+A.A.1. en zid nam tar-ra {d}nin-lil₂-le tud-da
+#lem: en[lord]; zid[right]; nam[fate]; tar[cut]; Ninlil[1]DN; utud[give birth (to)]
+#etcsl: line-id=A.A.1
+
+A.A.2. {d}suen dumu ki aŋ₂ {d}nin-lil₂-la₂
+#lem: Suen[1]DN; dumu[child]; ki[place]; aŋ[measure]; Ninlil[1]DN
+#etcsl: line-id=A.A.2
+
+A.A.3. e₂-kur-re e₂ {d}en-lil₂-la₂-ka
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN
+#etcsl: line-id=A.A.3
+
+A.A.4. {d}suen gaba-šu-ŋar nu-mu-ni-tuku-am₃
+#lem: Suen[1]DN; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=A.A.4
+
+A.A.5. me-zu me mah-am₃ an-ne₂ šum₂-ma-a-am₃
+#lem: me[Being]; me[Being]; mah[great]; An[1]DN; šum[give]
+#etcsl: line-id=A.A.5
+
+A.A.6. me al nu-di diŋir-re-e-ne
+#lem: me[Being]; al[cvne]; di[speak]; diŋir[deity]
+#etcsl: line-id=A.A.6
+
+A.A.7. a-a-zu an kug-ge saŋ-e-eš₂ mu-ri-in-rig₇
+#lem: aya[father]; An[1]DN; kug[pure]; saŋ[head]; rig[donate]
+#etcsl: line-id=A.A.7
+
+A.A.8. {d}en-lil₂-le nam-e-eš₂ mu-ri-in-tar
+#lem: Enlil[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=A.A.8
+
+A.A.9. en šu-luh kug-ga an-e gub-ba-am₃-ma
+#lem: en[lord]; šuluh[ritual cleansing]; kug[pure]; An[1]DN; gub[stand]
+#etcsl: line-id=A.A.9
+
+A.A.10. [...] GIŠGAL# piriŋ sikil diŋir-re-e-ne
+#lem: X; X; piriŋ[lion]; sikil[purify]; diŋir[deity]
+#etcsl: line-id=A.A.10
+
+A.A.11. [mi₂ zid] dug₄-ga ud an-na#-<me>-en
+#lem: mi[cvne]; zid[right]; dug[speak]; ud[sun]; an[sky]
+#etcsl: line-id=A.A.11
+
+A.A.12. [...] X [...] X-ni-de₂
+#lem: X; X; X; de[pour]
+#etcsl: line-id=A.A.12
+
+$ (unknown no. of lines missing)
+@end sa-gida
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara B
+
+B.B.1. [e₂ ...] iri an-ne₂ ki ŋar#-[ra]
+#lem: e[house]; X; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.B.1
+
+B.B.2. [e₂ ...] X RA iri an-ne₂ ki ŋar-[ra]
+#lem: e[house]; X; X; X; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.B.2
+
+B.B.3. [e₂ ...] {[d]}[lugal]-ban₃-da iri an-ne₂ ki ŋar-ra
+#lem: e[house]; X; Lugalbanda[1]DN; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.B.3
+
+B.B.4. e₂ X [...] X X iri an-ne₂ ki ŋar-ra
+#lem: e[house]; X; X; X; X; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.B.4
+
+B.B.5. e₂ ki zabalam₂{ki} {d}inana iri an-ne₂ ki ŋar-ra
+#lem: e[house]; ki[place]; Zabalam[1]SN; Inanak[1]DN; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.B.5
+
+@div trailer 
+
+B.B.6. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.B.6
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal C
+
+B.C.7. eš₃ urim₂{ki} nam-galam-ma-bi-ta
+#lem: eš[shrine]; Urim[1]SN; namgalam[skillfullness]
+#etcsl: line-id=B.C.7
+
+B.C.8. šag₄-bi-a {d}en-ki {d}nin-ki-ne nam si-si sa₂-bi-ta
+#lem: šag[heart]; Enki[2]DN; Ninki[1 Ninki-goddess]; nam[fate]; si[horn]; sa[equal]
+#etcsl: line-id=B.C.8
+
+B.C.9. me šu ši!-im-du₇-du₇-ne diŋir-diŋir a-nun-na am₃-ma-sug₂-sug₂-ge
+#lem: me[Being]; šu[hand]; du[perfect]; diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=B.C.9
+
+@div trailer 
+
+B.C.10. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-bi-im
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=B.C.10
+
+@end trailer
+
+@end jicgijal
+
+@div uru D
+
+B.D.11. urim₂{ki} eš₃ kur-ra
+#lem: Urim[1]SN; eš[shrine]; kur[mountain(s)]
+#etcsl: line-id=B.D.11
+
+B.D.12. eš₃ urim₂{ki} eš₃ kur-ra
+#lem: eš[shrine]; Urim[1]SN; eš[shrine]; kur[mountain(s)]
+#etcsl: line-id=B.D.12
+
+B.D.13. urim₂{ki} iri an-ne₂ ki ŋar-ra
+#lem: Urim[1]SN; iri[city]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=B.D.13
+
+@div trailer 
+
+B.D.14. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=B.D.14
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+B.D.15. a-da-ab {d}nanna-kam
+#lem: adab[drum]; Nanna[1]DN
+#etcsl: line-id=B.D.15
+
+#etcsl#doc lines 14 and 15 are written as one line in source
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

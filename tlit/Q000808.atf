@@ -1,0 +1,690 @@
+&Q000808 = Proverbs: collection 15
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.15
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.15&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 15.a1
+
+A.15.a1.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.15.a1.1
+
+#etcsl#eq = Alster 1997 15 Sec. A 1
+
+@end proverb
+
+@div proverb 15.a2
+
+A.15.a2.2. a-na# MUNUS A mu-na-ni-in-[...]
+#lem: ana[what?]; X; X; X
+#etcsl: line-id=A.15.a2.2
+
+#etcsl#eq = Alster 1997 15 Sec. A 2
+
+@end proverb
+
+@div proverb 15.a3
+
+A.15.a3.3. ud-ba na-ŋa₂-ah-gin₇# gu₃# mu!-un-na#-de₂-a
+#lem: ud[sun]; naŋah[fool]; gu[voice]; de[pour]
+#etcsl: line-id=A.15.a3.3
+
+#etcsl#eq = Alster 1997 15 Sec. A 3A
+
+A.15.a3.4. X-zu anše dab₅ lu₂ hu-mu-un-e-e-še
+#lem: X; anše[equid]; dab[seize]; lu[person]; e[speak]
+#etcsl: line-id=A.15.a3.4
+
+@end proverb
+
+@div proverb 15.a4
+
+A.15.a4.5. X RI in-bi-im
+#lem: X; X; in[abuse]
+#etcsl: line-id=A.15.a4.5
+
+#etcsl#eq = Alster 1997 15 Sec. A 3B
+
+A.15.a4.6. e₂#-gal me-te-bi-im
+#lem: egal[palace]; mete[appropriate thing]
+#etcsl: line-id=A.15.a4.6
+
+@end proverb
+
+@div proverb 15.a5
+
+A.15.a5.7. in-ga-hul₂-e ama lu₂-kar-ra-kam
+#lem: hul[rejoice]; ama[mother]; lukara[fugitive]
+#etcsl: line-id=A.15.a5.7
+
+#etcsl#eq = Alster 1997 15 Sec. A 4
+
+@end proverb
+
+@div proverb 15.a6
+
+A.15.a6.8. in#-ga-hul₂-zu uŋ₃-e he₂-em-me
+#lem: hul[rejoice]; uŋ[people]; e[speak]
+#etcsl: line-id=A.15.a6.8
+
+#etcsl#eq = Alster 1997 15 Sec. A 5
+
+A.15.a6.9. [he₂]-am₃-zu diŋir-zu he₂-em-me
+#lem: heʾam[so be it!]; diŋir[deity]; e[speak]
+#etcsl: line-id=A.15.a6.9
+
+@end proverb
+
+@div proverb 15.a7
+
+A.15.a7.10. [in]-ga#-hul₂-e sed-da-ka
+#lem: hul[rejoice]; sed[cold]
+#etcsl: line-id=A.15.a7.10
+
+#etcsl#eq = Alster 1997 15 Sec. A 6
+
+A.15.a7.11. [X X] E NE ban₃-da
+#lem: X; X; X; X; banda[junior]
+#etcsl: line-id=A.15.a7.11
+
+@end proverb
+
+@div proverb 15.a8
+
+A.15.a8.12. X in-ga-hul₂-a-kam [X X] X-am₃ al-KU
+#lem: X; hul[rejoice]; X; X; X; X
+#etcsl: line-id=A.15.a8.12
+
+#etcsl#eq = Alster 1997 15 Sec. A 7
+
+@end proverb
+
+@div proverb 15.a9
+
+A.15.a9.13. [X X X] X ninda šag₄-gal-la-ni-še₃
+#lem: X; X; X; X; ninda[bread]; šaggal[food]
+#etcsl: line-id=A.15.a9.13
+
+#etcsl#cf = Alster 1997 15 Sec. A 8; cf. 6.1.19.f3
+
+A.15.a9.14. [...] in-kud-da
+#lem: X; kud[cut]
+#etcsl: line-id=A.15.a9.14
+
+A.15.a9.15. [...] X-da!-šu₂
+#lem: X; šuš[cover]
+#etcsl: line-id=A.15.a9.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 15.b1
+
+B.15.b1.1. igi# sipad-tur-re mu-e-ši-in-il₂-e
+#lem: igi[eye]; sipadtur[junior shepherd]; il[raise]
+#etcsl: line-id=B.15.b1.1
+
+#etcsl#cf cf. 6.1.14.4, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10
+
+B.15.b1.2. {d}en-lil₂-le iri{ki} nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=B.15.b1.2
+
+@end proverb
+
+@div proverb 15.b2
+
+B.15.b2.3. igi bahar₂-e mu-un-ši-in-il₂-e
+#lem: igi[eye]; bahar[potter]; il[raise]
+#etcsl: line-id=B.15.b2.3
+
+#etcsl#cf cf. 6.1.14.5, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12
+
+B.15.b2.4. {d}en-lil₂ iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=B.15.b2.4
+
+@end proverb
+
+@div proverb 15.b3
+
+B.15.b3.5. igi# nu-{ŋiš}kiri₆-e mu-un-ši-in-il₂-e
+#lem: igi[eye]; nukirik[gardener]; il[raise]
+#etcsl: line-id=B.15.b3.5
+
+#etcsl#cf cf. 6.2.5: UM 29-16-519 Seg. A ll. 13-14
+
+B.15.b3.6. {d}en-lil₂-le iri nam [ku₅]-ra₂-ni ha-ba-ši#-in-il₂-e
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=B.15.b3.6
+
+@end proverb
+
+@div proverb 15.b4
+
+B.15.b4.7. engar igi# [uru₃-a a-na]-am₃# ak#-X
+#lem: engar[farmer]; igi[eye]; uru[guard]; ana[what?]; ak[do]
+#etcsl: line-id=B.15.b4.7
+
+#etcsl#cf cf. 6.1.16.c4
+
+@end proverb
+
+@div proverb 15.b5
+
+B.15.b5.8. peš₁₀-a# [im al]-šeŋ₃#-am₃
+#lem: piš[bank]; im[rain]; šeŋ[rain]
+#etcsl: line-id=B.15.b5.8
+
+#etcsl#cf cf. 6.1.25.1
+
+B.15.b5.9. bar-rim₄-ma# im# nu-um-bi-iz
+#lem: barim[dry land]; im[rain]; biz[trickle]
+#etcsl: line-id=B.15.b5.9
+
+@end proverb
+
+@div proverb 15.b6
+
+B.15.b6.10. AN ba-za {urud}šukur na-šum₂-mu#-un#
+#lem: X; baza[dwarf]; šukur[lance]; šum[give]
+#etcsl: line-id=B.15.b6.10
+
+#etcsl#cf cf. 6.2.3: UET 6/2 305, 6.2.3: UET 6/2 330
+
+B.15.b6.11. {d}en-lil₂ a₂-tah-a-ni-im
+#lem: Enlil[1]DN; atah[helper]
+#etcsl: line-id=B.15.b6.11
+
+@end proverb
+
+@div proverb 15.b7
+
+B.15.b7.12. en-e ku₆ an-gi₄ ga-raš{sar} an-gi₄
+#lem: en[priest]; kud[fish]; gi[turn]; garaš[leek]; gi[turn]
+#etcsl: line-id=B.15.b7.12
+
+#etcsl#cf cf. 6.1.25.2
+
+B.15.b7.13. u₃ za₃-hi-li#-a he₂-da-an-gi₄
+#lem: u[and]; zahili[plant]; gi[turn]
+#etcsl: line-id=B.15.b7.13
+
+@end proverb
+
+@div proverb 15.b8
+
+B.15.b8.14. e₂ {d}en-lil₂-la₂# i₃-du₃ nu-un-til
+#lem: e[house]; Enlil[1]DN; du[build]; til[complete]
+#etcsl: line-id=B.15.b8.14
+
+#etcsl#cf cf. 6.1.03.31, 6.1.09.b1, 6.1.11.18, 6.1.25.4, 6.2.1: Ni 4469 Seg. A ll. 9-12
+
+B.15.b8.15. bad₃ [nibru]{[ki]} i₃-du₃ [...]-in-aŋ₂
+#lem: bad[wall]; Nibru[1]SN; du[build]; aŋ[measure]
+#etcsl: line-id=B.15.b8.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 15.c1
+
+C.15.c1.1. X [X X] X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.15.c1.1
+
+@end proverb
+
+@div proverb 15.c2
+
+C.15.c2.2. {kuš}a₂-si# unud!(KU) gud ha-[ba-šum₂-X]
+#lem: asi[strap]; unud[cowherd]; gud[bull]; šum[give]
+#etcsl: line-id=C.15.c2.2
+
+#etcsl#cf cf. 6.1.26.b3, 6.1.28.7
+
+C.15.c2.3. sipad udu# ha-ba-šum-[...]
+#lem: sipad[shepherd]; udu[sheep]; šum[slaughter]
+#etcsl: line-id=C.15.c2.3
+
+C.15.c2.4. ki! saŋ!-ki nu-ŋal₂-la# lu₂ na-an-ni-dib₂-be₂#
+#lem: ki[place]; saŋki[forehead]; ŋal[⟦be⟧ to be (there]; lu[person]; dib[pass]
+#etcsl: line-id=C.15.c2.4
+
+@end proverb
+
+@div proverb 15.c3
+
+C.15.c3.5. šag₄ ŋidru-ka i₃ he₂-en-de₂ [lu₂] na#-me nu-zu
+#lem: šag[heart]; ŋidru[scepter]; i[oil]; de[pour]; lu[person]; name[any]; zu[know]
+#etcsl: line-id=C.15.c3.5
+
+#etcsl#cf cf. 6.1.01.104, 6.1.11.54, 6.1.26.b4, 6.1.28.8
+
+@end proverb
+
+@div proverb 15.c4
+
+C.15.c4.6. [gir₅] iri kur₂-ra-am₃ saŋ-ŋa₂-am₃
+#lem: gir[stranger]; iri[city]; kur[different]; saŋ[head]
+#etcsl: line-id=C.15.c4.6
+
+#etcsl#cf cf. 6.1.14.55
+
+@end proverb
+
+@div proverb 15.c5
+
+C.15.c5.7. [...] lu₂-ra nu-si-si-me-en
+#lem: X; lu[person]; si[fill]
+#etcsl: line-id=C.15.c5.7
+
+#etcsl#cf cf. 6.1.14.56
+
+C.15.c5.8. [...] MU mu-da-ŋal₂#
+#lem: X; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.15.c5.8
+
+C.15.c5.9. [...] MU mu-da-ŋal₂
+#lem: X; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.15.c5.9
+
+@end proverb
+
+@div proverb 15.c6
+
+C.15.c6.10. X X X X A X e₂ {d}en-lil₂-la₂ niŋ₂-ni ab-šid-šid-de₃
+#lem: X; X; X; X; X; X; e[house]; Enlil[1]DN; niŋ[thing]; šid[count]
+#etcsl: line-id=C.15.c6.10
+
+C.15.c6.11. niŋ₂-ni šid!-a-de₃# nam-ba-ab-tah#-[e]
+#lem: niŋ[thing]; šid[count]; tah[add]
+#etcsl: line-id=C.15.c6.11
+
+C.15.c6.12. mu-ne-ne he₂-ha-lam#-[e]
+#lem: e[speak]; halam[forsake]
+#etcsl: line-id=C.15.c6.12
+
+@end proverb
+
+@div proverb 15.c7
+
+C.15.c7.13. mu-un-il₂-la kaskal-la X [...]
+#lem: il[raise]; kaskal[way]; X; X
+#etcsl: line-id=C.15.c7.13
+
+@end proverb
+
+@div proverb 15.c8
+
+C.15.c8.14. mu-un-il₂-il₂ niŋ₂ HAR# [...]
+#lem: il[raise]; niŋ[thing]; X; X
+#etcsl: line-id=C.15.c8.14
+
+@end proverb
+
+@div proverb 15.c9
+
+C.15.c9.15. a il₂-la bi₂-ib-i-[...]
+#lem: a[water]; il[raise]; X
+#etcsl: line-id=C.15.c9.15
+
+@end proverb
+
+@div proverb 15.c10
+
+C.15.c10.16. lu₂-IM lu₂ SU [...]
+#lem: lutumu[criminal]; lu[person]; X; X
+#etcsl: line-id=C.15.c10.16
+
+@end proverb
+
+@div proverb 15.c11
+
+C.15.c11.17. niŋ₂ al-sukud-ra₂ X [...]
+#lem: niŋ[thing]; sukud[height]; X; X
+#etcsl: line-id=C.15.c11.17
+
+@end proverb
+
+@div proverb 15.c12
+
+C.15.c12.18. [...] X-am₃ an-gu#-[...] X LUL-ni im#-[...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.15.c12.18
+
+C.15.c12.19. [...]-bi# nu-gul# [...]
+#lem: X; gul[destroy]; X
+#etcsl: line-id=C.15.c12.19
+
+@end proverb
+
+@div proverb 15.c13
+
+C.15.c13.20. su#-a su-a-bi-še₃ {d}nin-kilim niŋ₂ ak-ak-bi-še₃
+#lem: sua[wild cat]; sua[wild cat]; ninkilim[mongoose]; niŋ[thing]; ak[do]
+#etcsl: line-id=C.15.c13.20
+
+@end proverb
+
+@div proverb 15.c14
+
+C.15.c14.21. a zig₃-ga 1 1/2 kuš₃ im-ma-an-zig₃
+#lem: a[water]; zig[rise]; n; n; kuš[unit of length]; zig[rise]
+#etcsl: line-id=C.15.c14.21
+
+C.15.c14.22. 3 kuš₃ a kar-ra ŋal₂-la ŋiri₃-na ba-ni-in-si
+#lem: n; kuš[unit of length]; a[water]; kar[harbor]; ŋal[⟦be⟧ to be (there]; ŋiri[foot]; si[fill]
+#etcsl: line-id=C.15.c14.22
+
+@end proverb
+
+@div proverb 15.c15
+
+C.15.c15.23. {id₂}idigna uz{mušen}-am₃ {id₂}buranun-na kur-gi₄{mušen}-am₃
+#lem: Idigna[1 Tigris]; uz[wild duck]; Buranun[1 Euphrates]; kurgi[goose]
+#etcsl: line-id=C.15.c15.23
+
+#etcsl#cf cf. 6.2.5: IM 62823 Seg. B l. 10
+
+C.15.c15.24. lugal nam-ba-teŋ₃-ŋe₂₆ šu na₄ ba-an-kur₉
+#lem: lugal[king]; teŋ[approach]; šu[hand]; na[stone weight]; kur[enter]
+#etcsl: line-id=C.15.c15.24
+
+@end proverb
+
+@div proverb 15.c16
+
+C.15.c16.25. X X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=C.15.c16.25
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 15.d1
+
+D.15.d1.1. [...] X
+#lem: X; X
+#etcsl: line-id=D.15.d1.1
+
+D.15.d1.2. [...] X X
+#lem: X; X; X
+#etcsl: line-id=D.15.d1.2
+
+@end proverb
+
+@div proverb 15.d2
+
+D.15.d2.3. [...] X X
+#lem: X; X; X
+#etcsl: line-id=D.15.d2.3
+
+D.15.d2.4. [...] BA X
+#lem: X; X; X
+#etcsl: line-id=D.15.d2.4
+
+D.15.d2.5. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=D.15.d2.5
+
+@end proverb
+
+@div proverb 15.d3
+
+D.15.d3.6. [...]-da daŋal X [...] X-X-an-tum₃
+#lem: X; daŋal[wide]; X; X; tum[bring]
+#etcsl: line-id=D.15.d3.6
+
+@end proverb
+
+@div proverb 15.d4
+
+D.15.d4.7. {u₂}X{sar} u₂ nam-tar gig-ga-kam
+#lem: X; u[plant(s)]; namtar[fate]; gig[sick]
+#etcsl: line-id=D.15.d4.7
+
+D.15.d4.8. NE %e ta am₃-ir
+#lem: X; ta[what?]QP; ir[bring]
+#etcsl: line-id=D.15.d4.8
+
+@end proverb
+
+@div proverb 15.d5
+
+D.15.d5.9. IM X X [...]-la-ba
+#lem: X; X; X; X
+#etcsl: line-id=D.15.d5.9
+
+D.15.d5.10. e₂ X X [...]-la-ba
+#lem: e[house]; X; X; X
+#etcsl: line-id=D.15.d5.10
+
+D.15.d5.11. ŊA₂ [X X X]-an-ŋa₂-ŋa₂
+#lem: X; X; X; ŋar[put]
+#etcsl: line-id=D.15.d5.11
+
+D.15.d5.12. [...]-ab#-DU
+#lem: X
+#etcsl: line-id=D.15.d5.12
+
+@end proverb
+
+@div proverb 15.d6
+
+D.15.d6.13. [...] i₃-pad₃-de₃
+#lem: X; pad[find]
+#etcsl: line-id=D.15.d6.13
+
+D.15.d6.14. [...] X i₃-pad₃-de₃
+#lem: X; X; pad[find]
+#etcsl: line-id=D.15.d6.14
+
+D.15.d6.15. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=D.15.d6.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+@div proverb 15.e1
+
+E.15.e1.1. X [...] RA X TI
+#lem: X; X; X; X; X
+#etcsl: line-id=E.15.e1.1
+
+@end proverb
+
+@div proverb 15.e2
+
+E.15.e2.2. id₂ [...] X
+#lem: id[river]; X; X
+#etcsl: line-id=E.15.e2.2
+
+@end proverb
+
+@div proverb 15.e3
+
+E.15.e3.3. [...] X |KA×LI|-bi
+#lem: X; X; X
+#etcsl: line-id=E.15.e3.3
+
+@end proverb
+
+@div proverb 15.e4
+
+E.15.e4.4. X [X X X] mu#-un-de₂
+#lem: X; X; X; X; de[pour]
+#etcsl: line-id=E.15.e4.4
+
+E.15.e4.5. X [...] X NE ŊA₂ nu-un-gu₇-e
+#lem: X; X; X; X; X; gu[eat]
+#etcsl: line-id=E.15.e4.5
+
+@end proverb
+
+@div proverb 15.e5
+
+E.15.e5.6. e₂ igi-nim-ma# lugal-bi nu-ub-us₂
+#lem: e[house]; iginim[upper land]; lugal[king]; us[accompany]
+#etcsl: line-id=E.15.e5.6
+
+@end proverb
+
+@div proverb 15.e6
+
+E.15.e6.7. KU-e bar e₃ [X X]
+#lem: X; bar[outside]; e[leave]; X; X
+#etcsl: line-id=E.15.e6.7
+
+@end proverb
+
+@div proverb 15.e7
+
+E.15.e7.8. ur-mah [X X] X [...]
+#lem: urmah[lion]; X; X; X; X
+#etcsl: line-id=E.15.e7.8
+
+@end proverb
+
+@div proverb 15.e8
+
+E.15.e8.9. AN [...]
+#lem: X; X
+#etcsl: line-id=E.15.e8.9
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment F
+
+@div proverb 15.f1
+
+F.15.f1.1. [...]-X-de₃-en
+#lem: X
+#etcsl: line-id=F.15.f1.1
+
+F.15.f1.2. [...]-du-du-de₃-en#
+#lem: ŋen[go]
+#etcsl: line-id=F.15.f1.2
+
+@end proverb
+
+@div proverb 15.f2
+
+F.15.f2.3. [...] X-un
+#lem: X; X
+#etcsl: line-id=F.15.f2.3
+
+F.15.f2.4. [...] X
+#lem: X; X
+#etcsl: line-id=F.15.f2.4
+
+F.15.f2.5. [...]-gi₄-gi₄-in
+#lem: gi[turn]
+#etcsl: line-id=F.15.f2.5
+
+@end proverb
+
+@div proverb 15.f3
+
+F.15.f3.6. [...]-me-en
+#lem: X
+#etcsl: line-id=F.15.f3.6
+
+F.15.f3.7. [...] X X
+#lem: X; X; X
+#etcsl: line-id=F.15.f3.7
+
+F.15.f3.8. [...] sig₉-ga
+#lem: X; sig[put into]
+#etcsl: line-id=F.15.f3.8
+
+F.15.f3.9. [...] X-in#-X-e-še
+#lem: X; X
+#etcsl: line-id=F.15.f3.9
+
+@end proverb
+
+@div proverb 15.f4
+
+F.15.f4.10. [...] X im-dar-ra mu#-e-DUB
+#lem: X; X; dar[split]; X
+#etcsl: line-id=F.15.f4.10
+
+@end proverb
+
+@div proverb 15.f5
+
+F.15.f5.11. [...] tur-ra di-de₃ ba#-da#-dug₄
+#lem: X; tur[small]; di[speak]; dug[speak]
+#etcsl: line-id=F.15.f5.11
+
+F.15.f5.12. [...] GA AL X X
+#lem: X; X; X; X; X
+#etcsl: line-id=F.15.f5.12
+
+@end proverb
+
+@div proverb 15.f6
+
+F.15.f6.13. [...] X X [...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=F.15.f6.13
+
+F.15.f6.14. X X-ab-DU-[X X]
+#lem: X; X; X
+#etcsl: line-id=F.15.f6.14
+
+@end proverb
+
+@div proverb 15.f7
+
+F.15.f7.15. [...] 1(DIŠ) GAN [X X]
+#lem: X; n; X; X; X
+#etcsl: line-id=F.15.f7.15
+
+#etcsl#cf cf. 6.1.03.152
+
+@end proverb
+
+@div proverb 15.f8
+
+F.15.f8.16. ($traces$)
+
+#etcsl: line-id=F.15.f8.16
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

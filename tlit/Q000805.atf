@@ -1,0 +1,704 @@
+&Q000805 = Proverbs: collection 12
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.12
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.12&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div proverb 12.a1
+
+A.12.a1.1. lugal [...]
+#lem: lugal[king]; X
+#etcsl: line-id=A.12.a1.1
+
+#etcsl#eq = Alster 1997 12 Sec. B 1
+
+A.12.a1.2. šu [...]
+#lem: šu[hand]; X
+#etcsl: line-id=A.12.a1.2
+
+A.12.a1.3. lu₂ X [...]
+#lem: lu[person]; X; X
+#etcsl: line-id=A.12.a1.3
+
+A.12.a1.4. igi eridug{ki} MA X X [...]
+#lem: igi[eye]; Eridug[1]SN; X; X; X; X
+#etcsl: line-id=A.12.a1.4
+
+@end proverb
+
+@div proverb 12.a2
+
+A.12.a2.5. lugal-e SAR igi silaŋ-ŋe₂₆ [...] X
+#lem: lugal[king]; X; igi[eye]; silaŋ[knead]; X; X
+#etcsl: line-id=A.12.a2.5
+
+#etcsl#eq = Alster 1997 12 Sec. B 2
+
+A.12.a2.6. nu-me-X nu-gu₇-e-[še]
+#lem: me[be]; gu[eat]
+#etcsl: line-id=A.12.a2.6
+
+@end proverb
+
+@div proverb 12.a3
+
+A.12.a3.7. lugal-e X [...] X arad-da-ni#
+#lem: lugal[king]; X; X; X; arad[slave]
+#etcsl: line-id=A.12.a3.7
+
+#etcsl#eq = Alster 1997 12 Sec. B 3
+
+@end proverb
+
+@div proverb 12.a4
+
+A.12.a4.8. lugal-e mu-un-zu#
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=A.12.a4.8
+
+#etcsl#eq = Alster 1997 12 Sec. B 4
+
+A.12.a4.9. aŋrig-e nu-mu-un-zu#
+#lem: agrig[steward]; zu[know]
+#etcsl: line-id=A.12.a4.9
+
+@end proverb
+
+@div proverb 12.a5
+
+A.12.a5.10. lugal-e da ha-ra-nu₂# u₃ nin-e muš₃-me-zu he₂-eb-ra
+#lem: lugal[king]; dag[side]; nud[lie down]; u[and]; nin[lady]; mušme[face]; rah[beat]
+#etcsl: line-id=A.12.a5.10
+
+#etcsl#eq = Alster 1997 12 Sec. B 5
+
+@end proverb
+
+@div proverb 12.a6
+
+A.12.a6.11. lugal e₂-e-ke₄ DIM₂-zu
+#lem: lugal[king]; e[house]; X
+#etcsl: line-id=A.12.a6.11
+
+#etcsl#eq = Alster 1997 12 Sec. B 6
+
+A.12.a6.12. DIM₂-e {ŋiš}rab₃-am₃
+#lem: X; raba[clamp]
+#etcsl: line-id=A.12.a6.12
+
+@end proverb
+
+@div proverb 12.a7
+
+A.12.a7.13. lugal e₂-e u₃ nin e₂-e-ke₄ {ŋiš}za-na mi-ni-ib-tag-ge-ne
+#lem: lugal[king]; e[house]; u[and]; nin[lady]; e[house]; zana[doll]; tag[touch]
+#etcsl: line-id=A.12.a7.13
+
+#etcsl#eq = Alster 1997 12 Sec. B 7
+
+@end proverb
+
+@div proverb 12.a8
+
+A.12.a8.14. esaŋ₂-e šu bi₂-ib-degₓ(RI)-degₓ(RI)
+#lem: esaŋ[grain-store]; šu[hand]; deg[gather up]
+#etcsl: line-id=A.12.a8.14
+
+#etcsl#eq = Alster 1997 12 Sec. B 8
+
+@end proverb
+
+@div proverb 12.a9
+
+A.12.a9.15. niŋ₂ e₃ min₃-na-ne-ne-ka
+#lem: niŋ[thing]; e[leave]; n
+#etcsl: line-id=A.12.a9.15
+
+#etcsl#eq = Alster 1997 12 Sec. B 9
+
+A.12.a9.16. ŋe₂₆#-e in-ga-me-en-na-e-še
+#lem: ŋaʾe[I]; e[speak]
+#etcsl: line-id=A.12.a9.16
+
+@end proverb
+
+@div proverb 12.a10
+
+A.12.a10.17. (1:lu₂ u₂-gu de₂-a u₂-gu de₂-a lu₂ kiŋ₂-kiŋ₂-da-aš u₂-gu i-ni-in-de₂:1)
+#lem: lu[person]; ugu[cvne]; de[pour]; ugu[cvne]; de[pour]; lu[person]; kiŋ[seek]; ugu[cvne]; de[pour]
+#etcsl: line-id=A.12.a10.17
+
+:17v.1.1: ($1 ms. has instead:$) [... u₂-gu ...] nu-un-de₂ [... u₂-gu ...] mu#-<na>-an-de₂
+#lem: X; ugu[cvne]; X; de[pour]; X; ugu[cvne]; X; de[pour]
+
+#etcsl#eq = Alster 1997 12 Sec. B 10
+
+@end proverb
+
+@div proverb 12.a11
+
+A.12.a11.18. AB# šag₄ ŋiš-ur₃-bi DE₂-a-ka
+#lem: X; šag[heart]; ŋušur[beam]; X
+#etcsl: line-id=A.12.a11.18
+
+#etcsl#eq = Alster 1997 12 Sec. B 11
+
+A.12.a11.19. lu₂ usu-bi e₂-a-na-ka
+#lem: lu[person]; usu[strength]; e[house]
+#etcsl: line-id=A.12.a11.19
+
+@end proverb
+
+@div proverb 12.a12
+
+A.12.a12.20. lu₂ niŋ₂ hab₂-e igi-ni al-tur-tur
+#lem: lu[person]; niŋ[thing]; hab[malodorous]; igi[eye]; tur[small]
+#etcsl: line-id=A.12.a12.20
+
+#etcsl#eq = Alster 1997 12 Sec. B 12
+
+A.12.a12.21. X-bi ab-gu-ul
+#lem: X; gal[big]
+#etcsl: line-id=A.12.a12.21
+
+@end proverb
+
+@div proverb 12.a13
+
+A.12.a13.22. lu₂ tug₂-ga-ni u₂-gu an-de₂
+#lem: lu[person]; tug[textile]; ugu[cvne]; de[pour]
+#etcsl: line-id=A.12.a13.22
+
+#etcsl#eq = Alster 1997 12 Sec. B 13
+
+A.12.a13.23. ga#-[...]-X-da#-kar A [X-e-še]
+#lem: kar[flee]; X; X
+#etcsl: line-id=A.12.a13.23
+
+@end proverb
+
+@div proverb 12.a14
+
+A.12.a14.24. [...] MU
+#lem: X; X
+#etcsl: line-id=A.12.a14.24
+
+#etcsl#eq = Alster 1997 12 Sec. A 1 = Sec. B 13 B obv. i 11 ll. 3-5
+
+A.12.a14.25. [...] NA# ri#-nam-ma-ab
+#lem: X; X; ri[impose]
+#etcsl: line-id=A.12.a14.25
+
+A.12.a14.26. [...] MU# ga-ba-ni#-ib-DI-e-še
+#lem: X; X; X
+#etcsl: line-id=A.12.a14.26
+
+@end proverb
+
+@div proverb 12.a15
+
+A.12.a15.27. [...]-a
+#lem: X
+#etcsl: line-id=A.12.a15.27
+
+#etcsl#eq = Alster 1997 12 Sec. B 14
+
+A.12.a15.28. [...] X
+#lem: X; X
+#etcsl: line-id=A.12.a15.28
+
+@end proverb
+
+@div proverb 12.a16
+
+A.12.a16.29. [...]-ta# inim-ba KA tam-ma (1:bur₃-re:1) nu-gur
+#lem: X; inim[word]; X; tam[clean]; burud[perforate]; gur[turn]
+#etcsl: line-id=A.12.a16.29
+
+:29v.1.1: ($1 ms. has instead:$) sir₅-re
+#lem: X
+
+#etcsl#eq = Alster 1997 12 Sec. A 2
+
+A.12.a16.30. sag₉-ga-ŋu₁₀ lu₂ hul dim₂-ma-ŋu₁₀
+#lem: sag[good]; lu[person]; hulu[bad]; dim[create]
+#etcsl: line-id=A.12.a16.30
+
+@end proverb
+
+@div proverb 12.a17
+
+A.12.a17.31. [...] kin-kin-ne ma₂ iri{ki!} sa₂ ib₂-dug₄
+#lem: X; kiŋ[seek]; ma[ship]; iri[city]; sa[equal]; dug[speak]
+#etcsl: line-id=A.12.a17.31
+
+#etcsl#eq = Alster 1997 12 Sec. A 3
+
+@end proverb
+
+@div proverb 12.a18
+
+A.12.a18.32. (1:[...] kin#-kin-ne# [...] mu#-un-ši-gi₄:1)
+#lem: X; kiŋ[seek]; X; gi[turn]
+#etcsl: line-id=A.12.a18.32
+
+:32v.1.1: ($1 ms. has instead:$) [...] {na₄}za-gin₃-na mu-un-pad₃
+#lem: X; zagin[lapis lazuli]; pad[find]
+
+#etcsl#eq = Alster 1997 12 Sec. A 4
+
+@end proverb
+
+@div proverb 12.a19
+
+A.12.a19.33. [...] zu₂ keše₂ ak-a-še₃
+#lem: X; zu[tooth]; kešed[bind]; ak[do]
+#etcsl: line-id=A.12.a19.33
+
+#etcsl#eq = Alster 1997 12 Sec. A 5
+
+A.12.a19.34. [...] lu₂#-dim₃-ma-ni
+#lem: X; ludima[fool]
+#etcsl: line-id=A.12.a19.34
+
+A.12.a19.35. [...] an-na-ab-be₂-en
+#lem: X; e[speak]
+#etcsl: line-id=A.12.a19.35
+
+A.12.a19.36. [...] X-am₃
+#lem: X; X
+#etcsl: line-id=A.12.a19.36
+
+A.12.a19.37. [...]-ib#-DI-e-še
+#lem: X
+#etcsl: line-id=A.12.a19.37
+
+@end proverb
+
+@div proverb 12.a20
+
+A.12.a20.38. [...] nu#-tuku-a
+#lem: X; tuku[acquire]
+#etcsl: line-id=A.12.a20.38
+
+#etcsl#eq = Alster 1997 12 Sec. A 6
+
+A.12.a20.39. [...] X [X X]
+#lem: X; X; X; X
+#etcsl: line-id=A.12.a20.39
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 12.b1
+
+B.12.b1.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.12.b1.1
+
+#etcsl#eq = Alster 1997 12 Sec. C 1
+
+@end proverb
+
+@div proverb 12.b2
+
+B.12.b2.2. lugal-ŋu₁₀ hul₂-la-zu an-gu-lu-X#
+#lem: lugal[king]; hul[rejoice]; gal[big]
+#etcsl: line-id=B.12.b2.2
+
+#etcsl#eq = Alster 1997 12 Sec. C 2
+
+B.12.b2.3. u₃! er₂ pad₃-da-zu an-gu-lu-X#
+#lem: u[and]; er[tears]; pad[find]; gal[big]
+#etcsl: line-id=B.12.b2.3
+
+@end proverb
+
+@div proverb 12.b3
+
+B.12.b3.4. lugal-be₂-ne bi₂-in-kur₂-ru-uš
+#lem: lugal[king]; kur[different]
+#etcsl: line-id=B.12.b3.4
+
+#etcsl#eq = Alster 1997 12 Sec. C 3
+
+B.12.b3.5. tug₂-ku-ru-um am₃-mur₁₀-re-eš
+#lem: tugkurum[mourning garment?]; mur[dress]
+#etcsl: line-id=B.12.b3.5
+
+@end proverb
+
+@div proverb 12.b4
+
+B.12.b4.6. lu₂ tug₂ bir₇-bir₇-ra na-ab-be₂-a
+#lem: lu[person]; tug[textile]; bir[shred]; e[speak]
+#etcsl: line-id=B.12.b4.6
+
+#etcsl#eq = Alster 1997 12 Sec. C 4
+
+B.12.b4.7. kal-kal-la al-kal-la-ge-e-še
+#lem: kal[rare]; kalag[strong]
+#etcsl: line-id=B.12.b4.7
+
+@end proverb
+
+@div proverb 12.b5
+
+B.12.b5.8. lu₂ an il₂-la še₁₀ nu-ub-dur₂-re
+#lem: lu[person]; an[sky]; il[raise]; šed[excrement]; dur[sit]
+#etcsl: line-id=B.12.b5.8
+
+#etcsl#eq = Alster 1997 12 Sec. C 5
+
+@end proverb
+
+@div proverb 12.b6
+
+B.12.b6.9. lu₂ gi duru₅ ak-gin₇ lu₂-lu₂-u₃-ra
+#lem: lu[person]; gi[reed]; duru[wet]; ak[do]; lu[person]
+#etcsl: line-id=B.12.b6.9
+
+#etcsl#eq = Alster 1997 12 Sec. C 6
+
+B.12.b6.10. niŋ₂-gen₆-na inim nu-mu-un-da-ab-bal-e
+#lem: niŋgina[truth]; inim[word]; bala[turn]
+#etcsl: line-id=B.12.b6.10
+
+@end proverb
+
+@div proverb 12.b7
+
+B.12.b7.11. lu₂ {gi}pe-el X-e
+#lem: lu[person]; pela[reed]; X
+#etcsl: line-id=B.12.b7.11
+
+#etcsl#eq = Alster 1997 12 Sec. C 7
+
+B.12.b7.12. lu₂ pu₂-a a-ab-sig₁₀-ge
+#lem: lu[person]; pu[cistern]; sig[put into]
+#etcsl: line-id=B.12.b7.12
+
+@end proverb
+
+@div proverb 12.b8
+
+B.12.b8.13. lu₂ gud X zuh-a
+#lem: lu[person]; gud[bull]; X; zuh[steal]
+#etcsl: line-id=B.12.b8.13
+
+#etcsl#eq = Alster 1997 12 Sec. C 8
+
+B.12.b8.14. buru₁₄-e si mu-un-X-e-še
+#lem: buru[harvest]; si[horn]; X
+#etcsl: line-id=B.12.b8.14
+
+@end proverb
+
+@div proverb 12.b9
+
+B.12.b9.15. lu₂ dug₃ dab₅-ba {d}nin-tur₅-re
+#lem: lu[person]; dug[good]; dab[seize]; Nintur[1]DN
+#etcsl: line-id=B.12.b9.15
+
+#etcsl#eq = Alster 1997 12 Sec. C 9
+
+B.12.b9.16. inim-ma nu-[mu]-na#-an-sig₁₀-e-še
+#lem: inim[word]; sig[put into]
+#etcsl: line-id=B.12.b9.16
+
+@end proverb
+
+@div proverb 12.b10
+
+B.12.b10.17. lu₂ ha-la X [...] X-ba-ni-ta
+#lem: lu[person]; hala[inheritance share]; X; X; X
+#etcsl: line-id=B.12.b10.17
+
+#etcsl#eq = Alster 1997 12 Sec. C 10
+
+B.12.b10.18. BA X [...] X NE
+#lem: X; X; X; X; X
+#etcsl: line-id=B.12.b10.18
+
+@end proverb
+
+@div proverb 12.b11
+
+B.12.b11.19. kug-zu da-[...] X A# NA#
+#lem: kugzu[wise]; X; X; X; X
+#etcsl: line-id=B.12.b11.19
+
+#etcsl#eq = Alster 1997 12 Sec. C 11
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 12.c1
+
+C.12.c1.1. X [...] lu₂-inim KA# [...]
+#lem: X; X; luʾinimak[witness]; X; X
+#etcsl: line-id=C.12.c1.1
+
+#etcsl#eq = Alster 1997 12 Sec. D 1
+
+C.12.c1.2. inim sig gu₇!-gu₇# KA [...] mu-ni-ib-be₂
+#lem: inim[word]; sig[weak]; gu[eat]; X; X; e[speak]
+#etcsl: line-id=C.12.c1.2
+
+@end proverb
+
+@div proverb 12.c2
+
+C.12.c2.3. lu₂ na-me ŠUL dug₄ X [...]
+#lem: lu[person]; name[any]; X; dug[speak]; X; X
+#etcsl: line-id=C.12.c2.3
+
+#etcsl#eq = Alster 1997 12 Sec. D 2
+
+C.12.c2.4. ŋeštug₂-ga-ni u₃-bi₂#-[...]
+#lem: ŋeštug[ear]; X
+#etcsl: line-id=C.12.c2.4
+
+C.12.c2.5. lugal ŠUL-še₃ an-na-ab#-[...]
+#lem: lugal[king]; X; X
+#etcsl: line-id=C.12.c2.5
+
+C.12.c2.6. ŋa₂-nu ŠUL-zu u₂ [...]
+#lem: ŋen[go]; X; u[plant(s)]; X
+#etcsl: line-id=C.12.c2.6
+
+C.12.c2.7. nam-erim₂ ga-bi₂-[...]
+#lem: namerim[oath]; X
+#etcsl: line-id=C.12.c2.7
+
+@end proverb
+
+@div proverb 12.c3
+
+C.12.c3.8. lu₂ še lum-lum er₂ al-še₈-še₈
+#lem: lu[person]; še[barley]; lum[fruit]; er[tears]; šeš[weep]
+#etcsl: line-id=C.12.c3.8
+
+#etcsl#eq = Alster 1997 12 Sec. D 2A
+
+C.12.c3.9. lu₂ a de₂-a ka-bi nu-ba-e
+#lem: lu[person]; a[water]; de[pour]; kag[mouth]; ba[allot]
+#etcsl: line-id=C.12.c3.9
+
+@end proverb
+
+@div proverb 12.c4
+
+C.12.c4.10. lu₂ {kuš}a₂-ŋa₂-la₂-ni nu-keše₂-da gu₅-li-ni-da šag₄ bi₂-in-dab₅
+#lem: lu[person]; aŋala[leather sack]; kešed[bind]; guli[friend]; šag[heart]; dab[seize]
+#etcsl: line-id=C.12.c4.10
+
+#etcsl#cf = Alster 1997 12 Sec. D 3; cf. 6.2.5: YBC 9916
+
+@end proverb
+
+@div proverb 12.c5
+
+C.12.c5.11. lu₂ si sa₂-ra {na₄}kinkin id₂-da mu-na-ab-dirig-dirig
+#lem: lu[person]; si[horn]; sa[equal]; kinkin[small millstone]; id[river]; dirig[make more than]
+#etcsl: line-id=C.12.c5.11
+
+#etcsl#cf = Alster 1997 12 Sec. D 4; cf. 6.2.5: YBC 9906
+
+@end proverb
+
+@div proverb 12.c6
+
+C.12.c6.12. lu₂ niŋ₂-tuku u₂ [...]-bi# he₂-gu₇#-e
+#lem: lu[person]; niŋtuku[rich]; u[plant(s)]; X; gu[eat]
+#etcsl: line-id=C.12.c6.12
+
+#etcsl#eq = Alster 1997 12 Sec. D 5
+
+C.12.c6.13. ukur₃ zid₂-kukkuš-bi he₂-gu₇#-[e]
+#lem: ukur[poor]; zidkukkuš[flour]; gu[eat]
+#etcsl: line-id=C.12.c6.13
+
+@end proverb
+
+@div proverb 12.c7
+
+C.12.c7.14. lu₂ mun til-la [...] al-us₂-sa# A# [...]
+#lem: lu[person]; mun[salt]; til[complete]; X; us[accompany]; X; X
+#etcsl: line-id=C.12.c7.14
+
+#etcsl#eq = Alster 1997 12 Sec. D 6
+
+@end proverb
+
+@div proverb 12.c8
+
+C.12.c8.15. lu₂ šag₄ X [...]
+#lem: lu[person]; šag[heart]; X; X
+#etcsl: line-id=C.12.c8.15
+
+#etcsl#eq = Alster 1997 12 Sec. D 7
+
+@end proverb
+
+@div proverb 12.c9
+
+C.12.c9.16. lu₂ [...]
+#lem: lu[person]; X
+#etcsl: line-id=C.12.c9.16
+
+#etcsl#eq = Alster 1997 12 Sec. D 8
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 12.d1
+
+D.12.d1.1. UD [...]
+#lem: X; X
+#etcsl: line-id=D.12.d1.1
+
+#etcsl#eq = Alster 1997 12 Sec. E 1
+
+D.12.d1.2. itid [...] X a-na-am₃ [...]
+#lem: itud[moon]; X; X; ana[what?]; X
+#etcsl: line-id=D.12.d1.2
+
+@end proverb
+
+@div proverb 12.d2
+
+D.12.d2.3. lu₂ en-nu-uŋ₃ X [...] a-šag₄ [...]
+#lem: lu[person]; ennuŋ[watch]; X; X; ašag[field]; X
+#etcsl: line-id=D.12.d2.3
+
+#etcsl#eq = Alster 1997 12 Sec. E 2
+
+D.12.d2.4. ŋiš gub-ba-še₃ AD [...]
+#lem: ŋeš[tree]; gub[stand]; X; X
+#etcsl: line-id=D.12.d2.4
+
+@end proverb
+
+@div proverb 12.d3
+
+D.12.d3.5. šeg₉-bar {ŋiš}asal₂# X
+#lem: šeŋbar[an animal]; asal[poplar]; X
+#etcsl: line-id=D.12.d3.5
+
+#etcsl#cf = Alster 1997 12 Sec. E 3; cf. 6.2.3: UET 6/2 282 and UET 6/2 332
+
+D.12.d3.6. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=D.12.d3.6
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+@div proverb 12.e1
+
+E.12.e1.1. [...] TI
+#lem: X; X
+#etcsl: line-id=E.12.e1.1
+
+#etcsl#eq = Alster 1997 12 Sec. F 1
+
+E.12.e1.2. [...]-bi ur₂ bi₂-[...]-gen₆
+#lem: X; ur[loin]; gin[confirm]
+#etcsl: line-id=E.12.e1.2
+
+E.12.e1.3. [...]-gin₇-nam mu-ak-en-[...]-en-e-še
+#lem: X; ak[do]
+#etcsl: line-id=E.12.e1.3
+
+E.12.e1.4. [...] X NE an#-gu-lu-uš
+#lem: X; X; X; gal[big]
+#etcsl: line-id=E.12.e1.4
+
+E.12.e1.5. [...] lu₂-a la-ba-ŋal₂-le-eš
+#lem: X; lu[person]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=E.12.e1.5
+
+E.12.e1.6. [...] X X-gu₇-e
+#lem: X; X; gu[eat]
+#etcsl: line-id=E.12.e1.6
+
+@end proverb
+
+@end segment
+
+@div segment F
+
+$ (unplaced)
+@div proverb 12.f1
+
+F.12.f1.1. [...] X a# mu-ni#-dul-am₃
+#lem: X; X; a[water]; dul[cover]
+#etcsl: line-id=F.12.f1.1
+
+#etcsl#eq = Alster 1997 p. 205 CBS 7800 rev. 1
+
+@end proverb
+
+@div proverb 12.f2
+
+F.12.f2.2. [...] X [...] X ne₃# nu-tuku-a
+#lem: X; X; X; X; ne[strength]; tuku[acquire]
+#etcsl: line-id=F.12.f2.2
+
+#etcsl#eq = Alster 1997 p. 205 CBS 7800 rev. 2
+
+@end proverb
+
+@div proverb 12.f3
+
+F.12.f3.3. [...] TI-a šu bar-ra lu₂ sig₁₀-ge₅ ak ba-da-ab-[...]
+#lem: X; X; šu[hand]; bar[place outside]; lu[person]; sig[put into]; ak[do]; X
+#etcsl: line-id=F.12.f3.3
+
+#etcsl#eq = Alster 1997 p. 205 CBS 7800 rev. 3
+
+@end proverb
+
+@div proverb 12.f4
+
+F.12.f4.4. [...] dam#-ni-še₃ keše₂-keše₂-da
+#lem: X; dam[spouse]; kešed[bind]
+#etcsl: line-id=F.12.f4.4
+
+#etcsl#eq = Alster 1997 p. 205 CBS 7800 rev. 4
+
+F.12.f4.5. ŋiš₃-a-ni sila₃ GI ab-kiŋ₂-kiŋ₂-e
+#lem: ŋeš[penis]; sila[unit of capacity]; X; kiŋ[seek]
+#etcsl: line-id=F.12.f4.5
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

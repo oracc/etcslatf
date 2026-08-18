@@ -1,0 +1,314 @@
+&Q000509 = A hymn to Ḫaia for Rīm-Sîn (Rīm-Sîn B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.9.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.9.2&display=Crit&charenc=gcirc#
+
+@div uru A
+
+A.1. en ŋeštug₂ mah šu du₇ sa₂ gal-e pad₃-da
+#lem: en[lord]; ŋeštug[ear]; mah[great]; šu[hand]; du[perfect]; sa[advice]; gal[big]; pad[find]
+#etcsl: line-id=A.1
+
+A.2. {d}ha-ia₃ dub gal-gal ha-ha-za ŋeštug₂-ŋeštug₂-ga peš-peš
+#lem: Haia[1]DN; dub[tablet]; gal[big]; haza[hold]; ŋeštug[ear]; peš[thick]
+#etcsl: line-id=A.2
+
+A.3. šid-du₃ hal-an-kug igi zag til galam-ma-ke₄ e₂-GEŠTUG₂-{d}NISABA-ke₄
+#lem: šid[count]; Halankug[1]TN; igi[eye]; zag[side]; til[make complete]; galam[skilful]; E₂.GEŠTUG₂.NISABA.k[1]TN
+#etcsl: line-id=A.3
+
+A.4. pisaŋ-dub-ba e₂-gal an ki-a kiŋ₂ kilib-ba šid-šid
+#lem: bisaŋdubak[archivist]; egal[palace]; an[sky]; ki[place]; kiŋ[work]; kilib[total]; šid[count]
+#etcsl: line-id=A.4
+
+A.5. gi kug-ga šu ŋal₂-le im nam-tar gal-gal mul-mul
+#lem: gi[reed]; kug[pure]; šu[hand]; ŋal[⟦be⟧ to be (there]; im[clay]; namtar[fate]; gal[big]; mul[shine]
+#etcsl: line-id=A.5
+
+A.6. gal-an-zu inim ŋeštug₂ degₓ(RI)-ge ud-bi-še₃ an kug-ga-ra
+#lem: galanzu[wise]; inim[word]; ŋeštug[ear]; deg[gather up]; ud[sun]; An[1]DN; kug[pure]
+#etcsl: line-id=A.6
+
+A.7. kišib-ŋal₂ a-a {d}en-lil₂-la₂-ke₄ lu₂ tam-ma e₃ erim₃ e₂-kur-ra
+#lem: kišibŋal[seal bearer]; aya[father]; Enlil[1]DN; lu[person]; tam[clean]; e[leave]; erim[storeroom]; Ekur[1]TN
+#etcsl: line-id=A.7
+
+A.8. he₂-du₇ eš₃-e abzu-a siki bar-ra la₂-la₂ en {d}nu-dim₂-mud-ra
+#lem: hedu[ornament]; eš[shrine]; Eʾabzu[1]; siki[hair]; bar[outside]; la[hang]; en[lord]; Nudimmud[1]DN
+#etcsl: line-id=A.8
+
+A.9. {d}ha-ia₃ šag₄-gada-la₂ e₂-u₆-nir-ra uz-ga kug lu-lu
+#lem: Haia[1]DN; šaggadala[priest]; Eunir[1]TN; uzga[priest]; kug[purify]; lu[abundant]
+#etcsl: line-id=A.9
+
+A.10. umun₂ ak-ak eš₃ e₂-kiš-nu-ŋal₂-la₂-ke₄ mu mah-bi gal-la
+#lem: umun[knowledge]; ak[do]; eš[shrine]; Ekišnuŋal[1]TN; mu[name]; mah[great]; gal[big]
+#etcsl: line-id=A.10
+
+A.11. šag₄ inim-ŋal₂ ki-sikil {d}nin-gal-e unu₇ gal-e til₃-la
+#lem: šag[heart]; inimŋal[eloquent]; kisikil[young woman]; Ningal[1]DN; unu[dwelling]; gal[big]; til[live (of a single person)]
+#etcsl: line-id=A.11
+
+A.12. muš₃-me sag₉ nitalam₂ ki aŋ₂ {d}nun-bar-še-gu-nu
+#lem: mušme[face]; sag[goodness]; ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; Nunbaršegunu[1]DN
+#etcsl: line-id=A.12
+
+A.13. lu₂ mu mah mussa kur gal a-a {d}en-lil₂-la₂-kam
+#lem: lu[person]; mu[name]; mah[great]; mussa[son-in-law]; kur[mountain(s)]; gal[big]; aya[father]; Enlil[1]DN
+#etcsl: line-id=A.13
+
+A.14. saŋŋa ban₃-da igi-ŋal₂-tuku pad₃-da an ki-bi-da-ke₄
+#lem: saŋŋa[an official]; banda[junior]; igiŋaltuku[wise]; pad[find]; an[sky]; ki[place]
+#etcsl: line-id=A.14
+
+A.15. gu₂-un diŋir-re-[e-ne] šu gid₂-i ma-dam kur ab su₃-ud-da inim-ma-ni bur₂-e
+#lem: gun[load]; diŋir[deity]; šu[hand]; gid[long]; madam[abundance]; kur[mountain(s)]; ab[sea]; sud[distant]; inim[word]; bur[spread out]
+#etcsl: line-id=A.15
+
+A.16. gal-zu me mah nam-nun-na#-ka u₅ tur₃ zag keše₂-da
+#lem: galanzu[wise]; me[Being]; mah[great]; namnun[magnificence]; u[ride]; tur[animal stall]; zag[side]; kešed[bind]
+#etcsl: line-id=A.16
+
+A.17. šag₄ daŋal sur-ra ŋiš-hur kug-ga e₂ eridug{ki}-ga-ke₄ šu dab-be₂
+#lem: šag[heart]; daŋal[wide]; sur[press]; ŋešhur[plan]; kug[pure]; e[house]; Eridug[1]SN; šu[hand]; dab[seize]
+#etcsl: line-id=A.17
+
+A.18. {d}ha-ia₃ lu₂ šu-luh sikil-la engur-ra-ke₄ tug₂-ba₁₃ tug₂ la₂-la₂
+#lem: Haia[1]DN; lu[person]; šuluh[ritual cleansing]; sikil[pure]; engur[(cosmic) underground waters]; ba[garment]; tug[textile]; la[hang]
+#etcsl: line-id=A.18
+
+A.19. {d}indagara saŋŋa₇(|GA.BALAG|) utah-he₂ kur-ta ka du₈-u₃ diŋir-re-e-ne-ke₄
+#lem: Indagara[1]DN; saŋŋa[an official]; utah[heaven]; kur[mountain(s)]; kag[mouth]; du[spread]; diŋir[deity]
+#etcsl: line-id=A.19
+
+A.20. šag₄ dub-ba su₃-ud-da zu-a galam ak-ak diŋir gal-gal-e-ne
+#lem: šag[heart]; dub[tablet]; sud[distant]; zu[know]; galam[skilful]; ak[do]; diŋir[deity]; gal[big]
+#etcsl: line-id=A.20
+
+A.21. šu-nir-nir {ŋiš}gag-a du₃-du₃ saŋ sig₉-ga ki galam hur kalam-ma
+#lem: šunir[emblem]; gag[nail]; du[build]; saŋ[head]; sig[put into]; ki[place]; galam[skilful]; hur[scratch]; kalam[the Land (of Sumer)]
+#etcsl: line-id=A.21
+
+A.22. ki šu tag-tag unu₇ sig₇-ga an-šar₂ kur gal-ra
+#lem: ki[place]; šu[hand]; tag[touch]; unu[dwelling]; sissig[green-yellow]; Anšar[1]DN; kur[mountain(s)]; gal[big]
+#etcsl: line-id=A.22
+
+A.23. saŋ il₂ mah eš₃-e abzu-ta dug₄-ga-ni še-ga
+#lem: saŋ[head]; il[raise]; mah[great]; eš[shrine]; Eʾabzu[1]; dug[speak]; šeg[agree]
+#etcsl: line-id=A.23
+
+A.24. lu₂ saŋ keše₂ ninda babbar sikil-la šu dab-be₂ e₂ diŋir-re-e-ne
+#lem: lu[person]; saŋ[head]; kešed[bind]; ninda[bread]; babbar[white]; sikil[pure]; šu[hand]; dab[seize]; e[house]; diŋir[deity]
+#etcsl: line-id=A.24
+
+A.25. {d}ku₃-su₃ {d}indagara e-ne-ne-da nu an nu-sikil-la ki nu-dadag-ge
+#lem: Kusug[1]DN; Indagara[1]DN; anene[they]; nu[not]; an[sky]; sikil[pure]; ki[place]; dadag[bright]
+#etcsl: line-id=A.25
+
+A.26. u₂ gal-gal sud-sud an {d}en-lil₂-la₂ unu₇ mah-ne-ne-ke₄
+#lem: u[plant(s)]; gal[big]; sud[distant]; An[1]DN; Enlil[1]DN; unu[dwelling]; mah[great]
+#etcsl: line-id=A.26
+
+A.27. lu₂ muš₃ kug-ga igi du₈ en {d}nu-dim₂-mud-e
+#lem: lu[person]; muš[flat space]; kug[pure]; igi[eye]; du[spread]; en[lord]; Nudimmud[1]DN
+#etcsl: line-id=A.27
+
+A.28. zabar kug-ga šu ŋal₂-le šag₄ hul₂-hul₂ bar sig₁₀-sig₁₀-ge₅
+#lem: zabar[bronze]; kug[pure]; šu[hand]; ŋal[⟦be⟧ to be (there]; šag[heart]; hul[rejoice]; bar[outside]; sig[put into]
+#etcsl: line-id=A.28
+
+A.29. lugal-ŋu₁₀ nam-mah-zu šir₃-ra ga-am₃-i-i
+#lem: lugal[king]; nammah[greatness]; šir[song]; e[bring out]
+#etcsl: line-id=A.29
+
+A.30. {d}ha-ia₃ nam-gal-zu gi₁₆-sa-še₃ ga-am₃-pad₃-pad₃-de₃-en
+#lem: Haia[1]DN; namgal[greatness]; gilsa[treasure]; pad[find]
+#etcsl: line-id=A.30
+
+A.31. a-ba za-a-gin₇ diŋir-re-e-ne-ke₄ me kug-ga-aš tum₂-ma
+#lem: aba[who?]; zaʾe[you]; diŋir[deity]; me[Being]; kug[pure]; tum[suitable]
+#etcsl: line-id=A.31
+
+A.32. nitalam ki aŋ₂-zu ki-sikil {d}nisaba nin gal nin-e-ne
+#lem: ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; kisikil[young woman]; Nisabak[1]DN; nin[lady]; gal[big]; nin[lady]
+#etcsl: line-id=A.32
+
+A.33. u₃-tud-da šag₄-ga-ni {d}nin-lil₂-la₂ dam mah {d}nu-nam-nir-ra
+#lem: utud[give birth (to)]; šag[heart]; Ninlil[1]DN; dam[spouse]; mah[great]; Nunamnir[1]DN
+#etcsl: line-id=A.33
+
+A.34. barag e₂-kur-ra-ke₄ saŋ il₂-la an-še₃ ši-in-da-til₃
+#lem: barag[sanctum]; Ekur[1]TN; saŋ[head]; il[raise]; an[sky]; til[live (of a single person)]
+#etcsl: line-id=A.34
+
+A.35. nam-nin diŋir-re-e-ne-ke₄ me-er-ga-bi al-ak-e diŋir zag ša₄ nu-tuku
+#lem: namnin[ladyship]; diŋir[deity]; merga[first one]; ak[do]; diŋir[deity]; zag[side]; sa[equal]; tuku[acquire]
+#etcsl: line-id=A.35
+
+A.36. za-e ninda₂ gal ŋalga zid pad₃-da en₃ tar-tar diŋir-re-e-ne-ke₄
+#lem: zaʾe[you]; ninda[breeding bull]; gal[big]; ŋalga[(fore)thought]; zid[right]; pad[find]; en[cvne]; tar[cut]; diŋir[deity]
+#etcsl: line-id=A.36
+
+A.37. {d}ha-ia₃ me šum₂-šum₂-mu kiŋ₂ aŋ₂-e ki-šu-peš igi zu-zu-me-en
+#lem: Haia[1]DN; me[Being]; šum[give]; kiŋ[work]; aŋ[measure]; kišupeš[cultic place]; igi[eye]; zu[know]
+#etcsl: line-id=A.37
+
+A.38. {d}en-ki-ke₄ eš₃-e abzu-ta mu₇-mu₇ nam-til₃-la-ni mu-ra-rig₇
+#lem: Enkik[1]DN; eš[shrine]; Eʾabzu[1]; mu[incantation]; namtil[life]; rig[donate]
+#etcsl: line-id=A.38
+
+A.39. en ŋi₆-par₃-e mu-ni-ib-huŋ-en saŋ sig₁₀ mu-ni-ib-ŋar-re-en
+#lem: en[priest]; ŋipar[cloister]; huŋ[hire]; saŋ[head]; sig[put into]; ŋar[put]
+#etcsl: line-id=A.39
+
+A.40. sipad kalam-ma-ra ŋidru mah ud su₃-ra₂ šu-ni-še₃ bi₂-ib-dab₅-e-en
+#lem: sipad[shepherd]; kalam[the Land (of Sumer)]; ŋidru[scepter]; mah[great]; ud[sun]; sud[distant]; šu[hand]; dab[seize]
+#etcsl: line-id=A.40
+
+A.41. {d}ha-ia₃ diŋir kalam-ma a-ra-zu uŋ₃ šar₂-ra ŋiš tuku-me-en
+#lem: Haia[1]DN; diŋir[deity]; kalam[the Land (of Sumer)]; arazu[supplication]; uŋ[people]; šar[numerous]V/i; ŋeš[tree]; tuku[acquire]
+#etcsl: line-id=A.41
+
+A.42. za-e diŋir gal-gal-e-ne uŋ₃ daŋal-la šu-ni-še₃ bi₂-ib-dab₅-e-en
+#lem: zaʾe[you]; diŋir[deity]; gal[big]; uŋ[people]; daŋal[wide]; šu[hand]; dab[seize]
+#etcsl: line-id=A.42
+
+A.43. a-a {d}en-ki abzu-ta ed₂-da-ni-ta
+#lem: aya[father]; Enkik[1]DN; abzu[(cosmic) underground water]; e[leave]
+#etcsl: line-id=A.43
+
+A.44. {d}ha-ia₃ nam-gal-bi za-e ša-mu-re-da-an-aŋ₂
+#lem: Haia[1]DN; namgal[greatness]; zaʾe[you]; aŋ[measure]
+#etcsl: line-id=A.44
+
+A.45. uŋ₃ šag₄-ba i₃-ni-me-a-ke₄ gu₂-bi an-še₃ ši-bi₂-ib₂-zi-zi
+#lem: uŋ[people]; šag[heart]; e[speak]; gu[neck]; an[sky]; zig[rise]
+#etcsl: line-id=A.45
+
+A.46. nam-lu₂-ulu₃-bi ud asil-la₂ mi-ni-ib-zal-zal-le-ne
+#lem: namlulu[humanity]; ud[sun]; asilala[joy]; zal[pass time]
+#etcsl: line-id=A.46
+
+A.47. uŋ₃ šar₂-ra-bi šag₄ hul₂-la ud ul-le₂-a-aš bi₂-ib-ak-e-en
+#lem: uŋ[people]; šar[numerous]V/i; šag[heart]; hul[rejoice]; ud[sun]; ul[distant time]; ak[do]
+#etcsl: line-id=A.47
+
+A.48. e₂ diŋir gal-gal-e-ne ezen ab-ŋar-re-en giri₁₇-zal ši-bi₂-du₈-du₈-un
+#lem: e[house]; diŋir[deity]; gal[big]; ezem[festival]; ŋar[put]; kirizal[joy]; du[spread]
+#etcsl: line-id=A.48
+
+A.49. saŋ-kal saŋ-kal-e diŋir-re-e-ne-ke₄ ŋiš-šub gal-gal uŋ₃ til-la-ni
+#lem: saŋkal[foremost]; saŋkal[foremost]; diŋir[deity]; ŋeššub[lot]; gal[big]; uŋ[people]; til[complete]
+#etcsl: line-id=A.49
+
+A.50. igi sag₉-ga-zu nam-til₃ si-a lugal-ra igi zid bar-mu-un-ši-ib
+#lem: igi[eye]; sag[good]; namtil[life]; si[fill]; lugal[king]; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=A.50
+
+A.51. nun {d}ri-im-{d}suen bal hul₂-hul₂ ud su₃-ud-da šu zid ŋar-mu-na-ab
+#lem: nun[prince]; Rimsin[1]RN; bala[turn]; hul[rejoice]; ud[sun]; sud[distant]; šu[hand]; zid[right]; ŋar[put]
+#etcsl: line-id=A.51
+
+A.52. im nam-til₃-la-ke₄ du-ri₂-še₃ nu-kur₂-ru mu-bi gub-i₃
+#lem: im[clay]; namtil[life]; duri[forever]; kur[different]; mu[year]; gub[stand]
+#etcsl: line-id=A.52
+
+A.53. sipad {d}ri-im-{d}suen nam-en-bi an {d}en-lil₂-la₂ ki he₂-aŋ₂-e-ne
+#lem: sipad[shepherd]; Rimsin[1]RN; namen[the office of en-priest]; An[1]DN; Enlil[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=A.53
+
+A.54. lu₂ šir₃-ra-ke₄ za₃-mi₂-zu ka-bi-a mi-ni-ib-dug₃-ge-ne
+#lem: lu[person]; šir[song]; zamin[praise]; kag[mouth]; dug[good]
+#etcsl: line-id=A.54
+
+A.55. {d}ha-ia₃ lu₂ šir₃-ra-ke₄ za₃-mi₂-zu ka-bi-a mi-ni-ib-dug₃-ge-ne
+#lem: Haia[1]DN; lu[person]; šir[song]; zamin[praise]; kag[mouth]; dug[good]
+#etcsl: line-id=A.55
+
+A.56. en an ki lugal abzu-a za₃-mi₂-bi mah-a
+#lem: en[lord]; an[sky]; ki[place]; lugal[king]; abzu[(cosmic) underground water]; zamin[praise]; mah[great]
+#etcsl: line-id=A.56
+
+A.57. a-a {d}en-ki lugal abzu-a za₃-mi₂-zu dug₃-ga
+#lem: aya[father]; Enkik[1]DN; lugal[king]; abzu[(cosmic) underground water]; zamin[praise]; dug[good]
+#etcsl: line-id=A.57
+
+@div trailer 
+
+A.58. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=A.58
+
+@end trailer
+
+@end uru
+
+@div ŋišgiŋal B
+
+B.59. {d}ha-ia₃ diŋir kalam-ma ga-til₃-e ki aŋ₂ nun {d}ri-im-{d}suen-e a₂ bad tal₂-ni he₂-me-en
+#lem: Haia[1]DN; diŋir[deity]; kalam[the Land (of Sumer)]; gatil[vow]; ki[place]; aŋ[measure]; nun[prince]; Rimsin[1]RN; a[arm]; bad[open]; tal[broad]; me[be]
+#etcsl: line-id=B.59
+
+@div trailer 
+
+B.60. ŋiš-gi-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.60
+
+@end trailer
+
+@end jicgijal
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	uru
+
+
+@(A.1 = 1-8) Lord, perfect in august wisdom and recognised for his mighty counsel, @wDN{Ḫaia}, who holds the great tablets, who enriches the deep wisdom! Accountant of Ḫal-an-kug, having the final overview of the arts of @wDN{Nisaba's} house of wisdom; palace archivist of heaven and earth, who keeps count of every single assignment, who holds a holy reed-stylus and covers the great tablets of destiny with writing! Wise one, who prompts holy @wDN{An} with words and attention at the appropriate times; seal-holder of Father @wDN{Enlil}! He who brings forth the holy objects from the treasure-house of @wTN{E-kur}; ornament of the @fsux{abzu} shrine, wearing his hair loose for Lord @wDN{Nudimmud}!
+
+@(A.9 = 9-20) @wDN{Ḫaia}, linen-clad priest of @wTN{E-unir}, who stocks the holy @fsux{uzga} precinct; learned scholar of the shrine @wTN{E-kiš-nu-ŋal}, whose august name is great, whose mind is discerning; who dwells in the great dining-hall alongside the maiden @wDN{Ningal}! Fair of features, beloved spouse of @wDN{Nun-bar-še-gunu} and augustly renowned father-in-law of Father @wDN{Enlil}, the Great Mountain; junior administrator, possessor of wisdom, acknowledged in heaven and earth, who receives the tribute for the gods, the abundance of mountains and seas! Interpreter of the obscurity of @wDN{Enlil's} (?) words, skilful one who steers the august princely divine powers, with …… girt at his side! Formed (?) with a broad heart, holding in his hands the holy divine plans of the temple of @wSN{Eridug}, @wDN{Ḫaia}, who wears the ceremonial robe during pure lustrations of the @fsux{engur}! @wDN{Indagara}, administrator who performs the opening of the mouth for the gods in the heavens and in the underworld, and who is versed in the meaning of obscure tablets; craftsman of the great gods!
+
+@(A.21 = 21-28) He who fixes the standards on their pegs, planner (?) who artfully excavates (?) the soil of the Land, who decorates the floor and makes the dining-hall attractive for @wDN{Anšar} and the Great Mountain! Tall and with head high, he whose utterances from the @fsux{abzu} shrine are favourable, who carefully holds the pure white loaves of the house of the gods! @wDN{Kusu} and @wDN{Indagara}, without whom heaven would not be pure nor earth bright, continual providers of the great meals of @wDN{An} and @wDN{Enlil} in their grand dining-hall! He who gazes upon the holy precinct, upon Lord @wDN{Nudimmud}; he who holds the holy bronze vessels, who makes hearts rejoice and soothes spirits!
+
+@(A.29 = 29-38) My king, I shall praise your eminence in song! @wDN{Ḫaia}, I will declare your greatness perpetually! Who among the gods is fitted like you for the holy divine powers? Your beloved spouse is the maiden @wDN{Nisaba}, the great queen of queens. @wDN{Ninlil}, who was born of her holy womb, the august wife of @wDN{Nunamnir}, sits with her on the dais of @wTN{E-kur} with head raised high, uniquely entitled to behave as queen of the gods, the peerless goddess. In the @fsux{abzu} shrine, @wDN{Enki} has bestowed his incantations of life on you, great breed-bull, who are recognised for your right understanding, who constantly care for the gods, @wDN{Ḫaia}, you who operate effectively the assigning of divine powers, who mark out the cult places.
+
+@(A.39 = 39-42) You appoint the high priest for the @fsux{ŋipar} and install him there as its caretaker. You make the shepherd of the Land hold in his hands the august sceptre until distant days. @wDN{Ḫaia}, you are the god of the Land who gives ear to the prayers of all the people. You make the king hold the widespread people in his hands for the great gods.
+
+@(A.43 = 43-48) When Father @wDN{Enki} comes forth from the @fsux{abzu}, he assigns (?) its greatness to you, @wDN{Ḫaia}. You cause the people who are in its midst to lift their necks towards heaven; you make its population pass their days in rejoicing. You keep all its people forever contented. You establish festivals in the houses of the great gods; you spread splendour.
+
+@(A.49 = 49-58) Leader, leader (?) of the gods, complete the great fates of the people. Look favourably upon the king with your gracious gaze that is full of life. Duly grant a joyous reign of long days to prince @wRN{Rīm-@wDN{Sîn}}, marking its years on the tablet of life, forever unalterable. May @wDN{An} and @wDN{Enlil} love the shepherd @wRN{Rīm-@wDN{Sîn}} in the office of high priest. The singers will make your praise resound sweetly in their mouths; @wDN{Ḫaia}, the singers will make your praise resound sweetly in their mouths. Lord of heaven and earth, king of the @fsux{abzu}, its praise is august. Father @wDN{Enki}, king of the @fsux{abzu}, your praise is sweet.
+
+#trailer rubric	uru
+
+
+@(A.58 = 58) Its @fsux{uru}.
+
+#lg B	jicgijal
+
+
+@(B.59 = 59) @wDN{Ḫaia}, god of the Land, who loves the words @q{“Give me life!”}, extend your broad arms round prince @wRN{Rīm-@wDN{Sîn}}.
+
+#trailer rubric	jicgijal
+
+
+@(B.60 = 60) Its @fsux{ŋišgiŋal}.
+
+
+

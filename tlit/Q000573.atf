@@ -1,0 +1,95 @@
+&Q000573 = Letter from Ur-saga to a king fearing the loss of his father's household
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.01
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.01&display=Crit&charenc=gcirc#
+
+1. lugal (1:gud:1) igi gun₃ sun₄ {na₄}za-gin₃ la₂-ŋu₁₀-ur₂ {{%akk a-na %akk šar-ri %akk ša %akk ki# %akk al#-pi# %akk ši-it-ha-ri# %akk qi₂#-bi-ma#}}
+#lem: lugal[king]; gud[bull]; igi[eye]; gunu[speckled]; sum[beard]; zagin[lapis lazuli]; la[hang]; L; L; L; L; L; L; L
+#etcsl: line-id=1
+
+:1v.1.1: ($1 ms. has instead:$) am
+#lem: am[wild bull]
+:1v.1.2: ($1 other ms. has instead:$) alim#
+#lem: alim[bison]
+
+2. u₃-na-a-dug₄
+#lem: dug[speak]
+#etcsl: line-id=2
+
+3. alan kug-sig₁₇ ud dug₃-ga tud-da {{%akk ṣa-lamₓ(LUM) %akk hu-ra#-ṣi %akk i-nu-mi %akk ṭa-bu %akk UD.DA}}
+#lem: alan[image]; kugsig[gold]; ud[sun]; dug[good]; utud[give birth (to)]; L; L; L; L; L
+#etcsl: line-id=3
+
+4. ab₂-za-za amaš kug-ga buluŋ₃-ŋa₂ šag₄ (1:kug {d}inana-ta pad₃-da:1) {{%akk wa-tu}}
+#lem: abzaza[zebu]; amaš[sheepfold]; kug[pure]; buluŋ[grow]; šag[heart]; kug[purify]; Inanak[1]DN; pad[find]; L
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) kug {d}inana [...] {[d]}suen-na#
+#lem: kug[purify]; Inanak[1]DN; X; Suen[1]DN
+
+5. en nir-ŋal₂ {d}inana-ŋu₁₀-ur₂ u₃-na-de₃-tah
+#lem: en[lord]; nirŋal[authoritative]; Inanak[1]DN; tah[add]
+#etcsl: line-id=5
+
+6. za-e dim₂-ma-zu dumu an-na-me-en {{%akk wa-X %akk [...] %akk X-ra-ni}}
+#lem: zaʾe[you]; dim[create]; dumu[child]; An[1]DN; L; L; L
+#etcsl: line-id=6
+
+7. dug₄-ga-zu inim diŋir-ra-gin₇ (1:hur nu-gi₄-gi₄-dam:1) {{%akk hu-ur %akk la %akk ta-ar}}
+#lem: dug[speak]; inim[word]; diŋir[deity]; hur[ever (again)]; gi[turn]; L; L; L
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) kur#-kur nu-gi₄#-[...]
+#lem: kur[mountain(s)]; gi[turn]
+
+8. inim-zu im an-ta šeŋ₃-ŋe₂₆-gin₇ (1:šid nu-tuku-tuku-dam:1) {{%akk X# %akk BI.NA}}
+#lem: inim[word]; im[rain]; an[sky]; šeŋ[rain]; šid[recite]; tuku[acquire]; L; L
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) šid# nu-du₃-du₃-dam#
+#lem: šid[recite]; du[build]
+:8v.1.2: ($1 other ms. has instead:$) šid nu-da₁₃-da₁₃-dam#
+#lem: šid[recite]; taka[set aside]
+
+9. {m}ur-sag₉-ga arad-zu na-ab-be₂-a
+#lem: Ursaga[1]PN; arad[slave]; e[speak]
+#etcsl: line-id=9
+
+10. lugal-ŋu₁₀ bar-ŋa₂ en₃ (1:bi₂-in-tar:1) dumu urim₂{ki}-ma-me-en
+#lem: lugal[king]; bar[outside]; en[cvne]; tar[cut]; dumu[child]; Urim[1]SN
+#etcsl: line-id=10
+
+:10v.1.1: ($2 mss. have instead:$) li-bi₂-in-tar
+#lem: tar[cut]
+
+11. tukum-bi (1:lugal-ŋa₂ an-na-kam:1)
+#lem: tukumbi[if]; lugal[king]; anna[approval]
+#etcsl: line-id=11
+
+:11v.1.1: ($1 ms. has instead:$) lugal-ŋu₁₀# u₃-na-an-dug₃
+#lem: lugal[king]; dug[good]
+
+12. e₂ ad-da-ŋa₂ lu₂ nam-ba-ab-tum₃
+#lem: e[house]; adda[father]; lu[person]; tum[bring]
+#etcsl: line-id=12
+
+13. (1:ki-ur₃ e₂ ad-da-ŋa₂:1) lu₂ nam-mu-da-an-kar-re
+#lem: kiʾur[foundation]; e[house]; adda[father]; lu[person]; kar[flee]
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) ki-ur₃ ab-ba-ŋa₂
+#lem: kiʾur[foundation]; abba[father]
+
+14. lugal-ŋu₁₀ he₂-en-zu
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=14
+
+
+
+
+
+
+

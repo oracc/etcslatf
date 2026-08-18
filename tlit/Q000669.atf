@@ -1,0 +1,131 @@
+&Q000669 = A hymn to Martu (Martu B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.12.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.12.2&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [...] X X ZU igi kar₂ me DA X X X ur₄-ur₄
+#lem: X; X; X; X; igi[eye]; kar[blow]; me[Being]; X; X; X; X; ur[gather]
+#etcsl: line-id=A.1
+
+A.2. [...] X X ušum zag dib an ki-a mu mah-a sa₄-a
+#lem: X; X; X; ušum[snake]; zag[side]; dib[pass]; an[sky]; ki[place]; mu[name]; mah[great]; še[call by name]
+#etcsl: line-id=A.2
+
+A.3. [...] X saŋ an gal ri-a dub₃ kug-ga peš-e
+#lem: X; X; saŋ[head]; An[1]DN; gal[big]; ri[impose]; dub[knee]; kug[pure]; peš[thick]
+#etcsl: line-id=A.3
+
+A.4. [...] X sig₁₀-ga ulutim₂ X X si-a-ni X u₃-tud-da {d}uraš-a
+#lem: X; X; sig[put into]; uludin[form]; X; X; si[fill]; X; utud[give birth (to)]; Uraš[1]DN
+#etcsl: line-id=A.4
+
+A.5. X sag₉ MUŠ₃ X ul-la u₆ di-de₃ ba-ab-du₇
+#lem: X; sag[goodness]; X; X; ul[swell]; u[admiration]; di[speak]; du[perfect]
+#etcsl: line-id=A.5
+
+A.6. mi₂ dug₄-ga kur gal {d}en-lil₂-le nam dug₃-ge-eš tar-ra
+#lem: mi[cvne]; dug[speak]; kur[mountain(s)]; gal[big]; Enlil[1]DN; nam[fate]; dug[good]; tar[cut]
+#etcsl: line-id=A.6
+
+A.7. KA TAR# sag₉ gurun šu tag X la-la-bi X-ge nu-gid₂-da
+#lem: X; X; sag[goodness]; gurun[fruit]; šu[hand]; tag[touch]; X; lala[plenty]; X; gid[long]
+#etcsl: line-id=A.7
+
+A.8. [saŋ]-kug#-ŋal₂ diŋir gal-gal-e-ne šag₄ dab₅-dab₅-bi X [...]
+#lem: saŋguŋal[proud]; diŋir[deity]; gal[big]; šag[heart]; dab[seize]; X; X
+#etcsl: line-id=A.8
+
+A.9. [X X] X-bi sikil šu-luh dadag a-ra₂-ni [...]
+#lem: X; X; X; sikil[purify]; šuluh[ritual cleansing]; dadag[bright]; ara[way]; X
+#etcsl: line-id=A.9
+
+A.10. [X X] dug₄-ga-ni u₃-en₃ nu-ša₄ umuš ŋalga [...]
+#lem: X; X; dug[speak]; uʾen[explanation]; ša[cvve]; umuš[consideration]; ŋalga[(fore)thought]; X
+#etcsl: line-id=A.10
+
+A.11. [...] su₃#-ra₂ mas-su X HI-HI [...]
+#lem: X; sud[distant]; massu[leader]; X; X; X
+#etcsl: line-id=A.11
+
+$ at least 26 lines missing
+@end segment
+
+@div segment B
+
+B.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] X U₂ ŋal₂-la# [...]
+#lem: X; X; X; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=B.2
+
+B.3. [...] GAR NE TUG₂ ŋal₂-la# [...]
+#lem: X; X; X; X; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=B.3
+
+B.4. [X X] X [...] X ZA X X mi₂! zid mu-na#-[X-dug₄]
+#lem: X; X; X; X; X; X; X; X; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=B.4
+
+B.5. [...] še#-er-kan dug₄#-[ga] šim# {ŋiš}erin-na KA X X [...]
+#lem: X; šerkan[ornament]; dug[speak]; šim[aromatic substance]; eren[cedar]; X; X; X; X
+#etcsl: line-id=B.5
+
+B.6. [X X] šag₄-ke₄ im-du₈-gin₇ su-za šeŋ₃-šeŋ₃ a [...]
+#lem: X; X; šag[heart]; imdu[dew]; su[flesh]; šeŋ[rain]; a[water]; X
+#etcsl: line-id=B.6
+
+B.7. KA IM inim sag₉-sag₉-ge-zu-a di-de₃ mu#-[...]
+#lem: X; X; inim[word]; sag[good]; di[speak]; X
+#etcsl: line-id=B.7
+
+B.8. X X zid-da X IM X inim sag₉-sag₉-ge-zu-a di#-[de₃ ...]
+#lem: X; X; zid[right]; X; X; X; inim[word]; sag[good]; di[speak]; X
+#etcsl: line-id=B.8
+
+B.9. šudu₃! a-ra-zu-bi mu-X-ša₄ NAM X X X X [X X]
+#lem: šud[prayer]; arazu[supplication]; ša[cvve]; X; X; X; X; X; X; X
+#etcsl: line-id=B.9
+
+B.10. niŋ₂ šu dug₄-ga-ni šim {ŋiš}erin-na-gin₇ bar zu NE a ha-ba-dug₃
+#lem: niŋ[thing]; šu[hand]; dug[speak]; šim[aromatic substance]; eren[cedar]; bar[outside]; zu[know]; X; a[water]; dug[good]
+#etcsl: line-id=B.10
+
+B.11. X X X iri he₂-sud dam dumu-bi he₂-sag₉
+#lem: X; X; X; iri[city]; sud[distant]; dam[spouse]; dumu[child]; sag[good]
+#etcsl: line-id=B.11
+
+B.12. [X X] X nam-til₃ ud su₃-ud#-da saŋ-e-eš he₂-en-na-rig₇
+#lem: X; X; X; namtil[life]; ud[sun]; sud[distant]; saŋ[head]; rig[donate]
+#etcsl: line-id=B.12
+
+B.13. [...] nam-diŋir-zu saŋ-ta dug₃-ga-am₃
+#lem: X; namdiŋir[divinity]; saŋ[head]; dug[good]
+#etcsl: line-id=B.13
+
+B.14. [...] X ud ul-le₂-a X X X he₂-ni-in-X X
+#lem: X; X; ud[sun]; ul[distant time]; X; X; X; X; X
+#etcsl: line-id=B.14
+
+@div trailer 
+
+B.15. [...] A DI {d}mar-[tu]-ka#-kam
+#lem: X; X; X; Martu[1 Martu]
+#etcsl: line-id=B.15
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+&Q000580 = Letter from Šamaš-ṭàb to Ilak-ni'id
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.08
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.08&display=Crit&charenc=gcirc#
+
+1. {m}i-la-ak-ni-id u₃-na-dug₄
+#lem: Ilakniʾid[1]PN; dug[speak]
+#etcsl: line-id=1
+
+2. {m}{d}UTU-DUG₃-e na-ab-be₂-a
+#lem: Šamašṭab[1]PN; e[speak]
+#etcsl: line-id=2
+
+3. kaskal itid 1(DIŠ) ud 15-kam ud IM-za he₂-bi₂-DU
+#lem: kaskal[way]; itud[moon]; n; ud[sun]; n; ud[sun]; X; X
+#etcsl: line-id=3
+
+4. šag₄ (1:ni-qum{ki}-ma-še₃:1) a-na-še-am₃ itid-da ud eš₅-kam-ma-bi
+#lem: šag[heart]; Niqqum[1]SN; anaš[why?]; itud[moon]; ud[sun]; ešakamak[third]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) ni-qum{ki}-ma-ta
+#lem: Niqqum[1]SN
+
+5. a₂ aŋ₂-ŋa₂-zu na-ma-tum₃
+#lem: a[arm]; aŋ[measure]; tum[bring]
+#etcsl: line-id=5
+
+6. bar-zu en₃ bi₂-in-tar ŋiri₃-zu si ba-ab-sa₂
+#lem: bar[outside]; en[cvne]; tar[cut]; ŋiri[foot]; si[horn]; sa[equal]
+#etcsl: line-id=6
+
+7. min anše-ŋiš-am₃ kug-bi limmu₅ giŋ₄
+#lem: min[two]; anše[equid]; kug[metal]; limmu[four]; giŋ[unit of weight]
+#etcsl: line-id=7
+
+8. 1(DIŠ) šag₄-ga-du₃ gada kug-bi MAŠ giŋ₄
+#lem: n; šagadu[belt]; gada[flax]; kug[metal]; n; giŋ[unit of weight]
+#etcsl: line-id=8
+
+9. a₂ {ŋiš}ma₂-zu 1(DIŠ) giŋ₄
+#lem: a[arm]; ma[ship]; n; giŋ[unit of weight]
+#etcsl: line-id=9
+
+10. a₂ (1:mas-su {ŋiš}ma₂-zu:1) 1(DIŠ) 1/3 giŋ₄-am₃
+#lem: a[arm]; massu[designation of a hire charge]; ma[ship]; n; n; giŋ[unit of weight]
+#etcsl: line-id=10
+
+:10v.1.1: ($1 ms. has instead:$) ma-zu ma-zum
+#lem: massu[designation of a hire charge]; ma[ship]
+:10v.1.2: ($another ms. has instead:$) {ŋiš}ma₂-zu ma₂-zu
+#lem: massu[designation of a hire charge]; ma[ship]
+
+11. a bi₂-si-ig
+#lem: a[water]; sig[clear]
+#etcsl: line-id=11
+
+12. zig₃-ga dili-dili-zu šag₄-bi-ta nu-ŋal₂
+#lem: zig[rise]; dili[single]; šag[heart]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=12
+
+13. 2(aš) gun₂ siki (1:da-gal-tum-ma:1) kug-bi ha-ra-da-šid
+#lem: n; gun[load]; siki[hair]; dagaltuma[description of wool or sheep]; kug[metal]; šid[count]
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) da-ga-al-tum-ma
+#lem: dagaltuma[description of wool or sheep]
+:13v.1.2: ($another ms. has instead:$) da-ga-AN-tum-ma
+#lem: dagaltuma[description of wool or sheep]
+
+14. niŋ₂-sam₂-ma kug (1:1(DIŠ) 2/3:1) ma-na-kam an-na-a gi₄-ma-ni-ib
+#lem: niŋšama[purchase]; kug[metal]; n; n; mana[unit of weight]; anna[metal]; gi[turn]
+#etcsl: line-id=14
+
+:14v.1.1: ($2 mss. have instead:$) 2/3
+#lem: n
+
+15. {na₄}du₈-ši-a {na₄}nir₇-igi (1:{na₄}nir₇-muš-ŋir₂:1)
+#lem: dušia[stone]; nirigi[A stone]; nirmušŋir[stone]
+#etcsl: line-id=15
+
+:15v.1.1: ($2 mss. have instead:$) {na₄}nir₇-muš-su₃-ud
+#lem: nirmušsud[stone]
+
+16. ŋeštug₂-zu he₂-en-ŋal₂
+#lem: ŋeštug[ear]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=16
+
+17. kug dili-dili-zu saŋ-bi ha-ra-ab-dab₅ im-ma (1:hu-mu-ra-ab-tag:1)
+#lem: kug[metal]; dili[single]; saŋ[head]; dab[seize]; im[clay]; tag[touch]
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) hu-mu-ra-ab-ak
+#lem: ak[do]
+
+18. ud-da-ta a₂ aŋ₂-ŋa₂-zu he₂-em-tum₃
+#lem: udata[hereafter]; a[arm]; aŋ[measure]; tum[bring]
+#etcsl: line-id=18
+
+19. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=19
+
+
+
+
+
+
+

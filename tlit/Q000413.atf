@@ -1,0 +1,177 @@
+&Q000413 = An adab (?) to Nergal for Šulgi (?) (Šulgi U)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.21
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.21&display=Crit&charenc=gcirc#
+
+@div šagbatuku A
+
+$ (unknown no. of lines missing)
+A.1. {d}nergal# [...]
+#lem: Nergal[1]DN; X
+#etcsl: line-id=A.1
+
+A.2. ni₂ gal i ganzer X IGI X X [...]
+#lem: ni[fear]; gal[big]; e[bring out]; Ganzer[1]GN; X; X; X; X; X
+#etcsl: line-id=A.2
+
+A.3. ni₂ me-lem₄-ma-bi sa-bar-ra# AN X [...] DU
+#lem: ni[fear]; melim[frightening splendor]; sabar[net]; X; X; X; X
+#etcsl: line-id=A.3
+
+A.4. an-ne₂ ki-e ni₂-bi ba-ni#-[X X]
+#lem: an[sky]; ki[place]; ni[fear]; X; X
+#etcsl: line-id=A.4
+
+@div trailer 
+
+A.5. šag₄-ba-tuku 2-[kam-ma-am₃]
+#lem: šagbatuku[liturgical rubric]; n
+#etcsl: line-id=A.5
+
+@end trailer
+
+@end cagbatuku
+
+@div barsud B
+
+B.6. ur-saŋ am a₂ gur-gur ab₂-gin₇ in#-[...]
+#lem: ursaŋ[warrior]; am[wild bull]; a[arm]; gur[thick]; ab[cow]; X
+#etcsl: line-id=B.6
+
+B.7. mu huš-zu ni₂ su zig₃ bar-re-dam
+#lem: mu[name]; huš[reddish]; ni[fear]; su[flesh]; zig[rise]; bar[place outside]
+#etcsl: line-id=B.7
+
+B.8. ulu₃-gin₇-nam ki-bal šub-šub-bu-[me-en]
+#lem: ulu[south wind]; kibala[rebel land]; šub[fall]
+#etcsl: line-id=B.8
+
+B.9. kur niŋ₂-daŋal-ba si-ŋar-bi-me-en
+#lem: kur[mountain(s)]; niŋdaŋala[vastness]; siŋar[bolt]
+#etcsl: line-id=B.9
+
+B.10. e₂-meš₃-lam za-e tuš-a-zu-ne
+#lem: Emeslam[1]TN; zaʾe[you]; tuš[sit (down)]
+#etcsl: line-id=B.10
+
+B.11. hul₂-hul₂-le šag₄-ge₈ guru₆ SUD-me-en₃
+#lem: hul[rejoice]; šag[heart]; guru[grain heap]; X
+#etcsl: line-id=B.11
+
+B.12. uŋ₃-e gu₂ ši-im-si ŋiri₃-zu-še₃
+#lem: uŋ[people]; gu[neck]; si[fill]; ŋiri[foot]
+#etcsl: line-id=B.12
+
+@div trailer 
+
+B.13. bar-sud 2-kam-ma-am₃
+#lem: barsud[musical notation]; n
+#etcsl: line-id=B.13
+
+@end trailer
+
+@end barsud
+
+@div sa-gida C
+
+C.14. [ki-bal]-e nam-nir-ŋal₂-zu {d}meš₃!-lam!-ta-e₃-a
+#lem: kibala[rebel land]; namnirŋal[authority]; Meslamtaea[1]
+#etcsl: line-id=C.14
+
+C.15. [ki-bal]-e šul ši-im-mi-niŋin₂-niŋin₂
+#lem: kibala[rebel land]; šul[youth]; niŋin[encircle]
+#etcsl: line-id=C.15
+
+C.16. {[d]}nergal# nam-nir-ŋal₂-zu ki-bal-e
+#lem: Nergal[1]DN; namnirŋal[authority]; kibala[rebel land]
+#etcsl: line-id=C.16
+
+C.17. [a-a]-zu# ki gal-bi ši-im-ma-an-aŋ₂
+#lem: aya[father]; ki[place]; gal[big]; aŋ[measure]
+#etcsl: line-id=C.17
+
+C.18. nam-ur-saŋ#-zu uŋ₃-e im-mi-zu-<<me>>
+#lem: namursaŋ[heroism]; uŋ[people]; zu[know]
+#etcsl: line-id=C.18
+
+C.19. a-a-zu {d}en-lil₂-le ki gal-bi ši-im-ma-an-aŋ₂
+#lem: aya[father]; Enlil[1]DN; ki[place]; gal[big]; aŋ[measure]
+#etcsl: line-id=C.19
+
+C.20. nam-ur-saŋ-zu uŋ₃-e im-mi-zu
+#lem: namursaŋ[heroism]; uŋ[people]; zu[know]
+#etcsl: line-id=C.20
+
+C.21. ur-saŋ uŋ₃-e TAR-TAR diŋir kur-ra niŋin
+#lem: ursaŋ[warrior]; uŋ[people]; X; diŋir[deity]; kur[mountain(s)]; niŋin[encircle]
+#etcsl: line-id=C.21
+
+C.22. ki-bal-e X-da ba-ni-dug₄
+#lem: kibala[rebel land]; X; dug[speak]
+#etcsl: line-id=C.22
+
+C.23. {d}nergal uŋ₃-e TAR-TAR diŋir kur-ra niŋin
+#lem: Nergal[1]DN; uŋ[people]; X; diŋir[deity]; kur[mountain(s)]; niŋin[encircle]
+#etcsl: line-id=C.23
+
+C.24. ki# dib-ba-zu erin₂ teš₂-bi-še₃ hul mi#-[ni-X ...]
+#lem: ki[place]; dib[pass]; erin[people]; teš[unity]; hulu[bad]; X; X
+#etcsl: line-id=C.24
+
+C.25. an-ša₄-an!{ki} ti-da-nu-um-ma# [...]
+#lem: Anšan[1]GN; Tidnum[1 Tidnum]; X
+#etcsl: line-id=C.25
+
+C.26. {d}nergal ki dib-ba erin₂ teš₂-bi-še₃# [hul mi-ni-X ...]
+#lem: Nergal[1]DN; ki[place]; dib[pass]; erin[people]; teš[unity]; hulu[bad]; X; X
+#etcsl: line-id=C.26
+
+@div trailer 
+
+C.27. sa-gid₂-[da-am₃]
+#lem: sagida[musical notation]
+#etcsl: line-id=C.27
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal D
+
+D.28. ur-saŋ šul!-gi#-ra zi# [...]
+#lem: ursaŋ[warrior]; Šulgir[1]RN; zi[life]; X
+#etcsl: line-id=D.28
+
+D.29. a₂ ši-im-ši-X [...]
+#lem: a[arm]; X; X
+#etcsl: line-id=D.29
+
+@div trailer 
+
+E.x. ŋiš#-[gi₄-ŋal₂-bi-im]
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=D.30
+
+@end trailer
+
+@end jicgijal
+
+@div unknown E
+
+x.
+#lem: 
+
+#etcsl: line-id=E.x
+
+$ (unknown no. of lines missing)
+@end unknown
+
+
+
+
+
+
+

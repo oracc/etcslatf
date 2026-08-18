@@ -1,0 +1,99 @@
+&Q000488 = An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.5.8
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.5.8&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. in-nin egir₃ zid dumu-gir₁₅ e₂-mah-ha nitalam lugal-la
+#lem: innin[lady]; egir[princess]; zid[right]; dumugir[citizen]; Emah[1]TN; ŋidlam[(equal ranking) spouse]; lugal[king]
+#etcsl: line-id=A.A.1
+
+A.A.2. %e nu-nus %s diŋir nam-nin-na tum₂ an ki-e dirig
+#lem: nunus[woman]N; diŋir[deity]; namnin[ladyship]; tum[suitable]; an[sky]; ki[place]; dirig[make more than]
+#etcsl: line-id=A.A.2
+
+A.A.3. ar₂-a-ni# šir₃-ra ga-mu-ni-ib-be₂ mi₂ zid-de₃-eš ga-am₃-dug₄
+#lem: ar[celebrate]; šir[song]; e[speak]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=A.A.3
+
+A.A.4. X X he₂-me-a LUM-LUM NE he₂-du₇
+#lem: X; X; me[be]; X; X; hedu[ornament]
+#etcsl: line-id=A.A.4
+
+A.A.5. [...] X X X me gal-la gub-be₂
+#lem: X; X; X; X; me[Being]; gal[big]; gub[stand]
+#etcsl: line-id=A.A.5
+
+A.A.6. {d}li#-pi₂-it#-eš₄-tar₂ dumu {d}en#-[lil₂]-la₂-ra mi₂ zid na-mu-[ni-dug₄]
+#lem: Lipiteštar[1]RN; dumu[child]; Enlil[1]DN; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=A.A.6
+
+A.A.7. [...] X LI IR X [...] MA %e ze₂-eb %s za-e X [...]
+#lem: X; X; X; X; X; X; X; zeb[good]V/i; zaʾe[you]; X; X
+#etcsl: line-id=A.A.7
+
+A.A.8. [...] X-bi AG₂ [...] X X %e i-ib₂-ze₂-eb %s X [...]
+#lem: X; X; X; X; X; X; zeb[good]V/i; X; X
+#etcsl: line-id=A.A.8
+
+A.A.9. [X X] ki %e ma-ra %s ma-an-pad₃-de₂ [...]
+#lem: X; X; ki[place]; meʾe[I]IP; pad[find]; X
+#etcsl: line-id=A.A.9
+
+A.A.10. [X X] X hul₂-la dirig# [...]
+#lem: X; X; X; hul[rejoice]; dirig[make more than]; X
+#etcsl: line-id=A.A.10
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div ŋišgiŋal B
+
+B.B.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.B.1
+
+B.B.2. X DU X X X X X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=B.B.2
+
+B.B.3. {d}inana {d}li#-pi₂-it#-[eš₄-tar₂ ...] ur₂ kug-za [...] X X X NE
+#lem: Inanak[1]DN; Lipiteštar[1]RN; X; ur[loin]; kug[pure]; X; X; X; X; X
+#etcsl: line-id=B.B.3
+
+@div trailer 
+
+B.B.4. ŋiš-gi₄-ŋal₂-bi-im#
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.B.4
+
+@end trailer
+
+@end jicgijal
+
+@div trailer 
+
+B.B.5. u₃-a-di {d}inana-kam
+#lem: uʾadi[type of composition]; Inanak[1]DN
+#etcsl: line-id=B.B.5
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

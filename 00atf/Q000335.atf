@@ -1,0 +1,658 @@
+&Q000335 = Enki's journey to Nibru
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.1.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.4&display=Crit&charenc=gcirc#
+
+1. ud re-a nam ba-tar-ra-ba
+#lem: ud[sun]; re[that]; nam[fate]; tar[cut]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 7, line 20, line 21; OB catalogue in the Louvre, 0.2.02, line 7, line 14, line 15; OB catalogue from Urim (U2), 0.2.04, line 28; OB catalogue from Nibru (N3), 0.2.06, line 6; OB catalogue at Andrews University, 0.2.11, line 24
+
+2. mu he₂-ŋal₂ an u₃-tud-da
+#lem: mu[year]; heŋal[plenty]; an[sky]; utud[give birth (to)]
+#etcsl: line-id=2
+
+3. uŋ₃-e u₂-šim-gin₇ ki in-dar-ra-ba
+#lem: uŋ[people]; ušim[greenery]; ki[place]; dar[split]
+#etcsl: line-id=3
+
+4. en abzu lugal {d}en-ki-ke₄
+#lem: en[lord]; abzu[(cosmic) underground water]; lugal[king]; Enkik[1]DN
+#etcsl: line-id=4
+
+5. {d}en-ki en nam tar-tar-re-de₃
+#lem: Enkik[1]DN; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=5
+
+6. e₂-a-ni kug {na₄}za-gin₃-na teš₂-bi ba-ni-in-du₃
+#lem: e[house]; kug[metal]; zagin[lapis lazuli]; teš[unity]; du[build]
+#etcsl: line-id=6
+
+7. kug {na₄}za-gin₃-bi ud kar₂-kar₂-a-ka
+#lem: kug[metal]; zagin[lapis lazuli]; ud[sun]; kar[blow]
+#etcsl: line-id=7
+
+8. eš₃-e abzu-a ul im-ma-ni-in-de₆
+#lem: eš[shrine]; Eʾabzu[1]; ul[swell]; de[carry]
+#etcsl: line-id=8
+
+9. suh₁₀ kug galam dug₄-ga abzu-ta e₃-a
+#lem: suh[crown]; kug[purify]; galam[skilful]; dug[speak]; abzu[(cosmic) underground water]; e[leave]
+#etcsl: line-id=9
+
+10. en {d}nu-dim₂-mud-ra mu-un-na-sug₂-sug₂-ge-eš
+#lem: en[lord]; Nudimmud[1]DN; sug[stand]
+#etcsl: line-id=10
+
+11. e₂ kug-ga i-ni-in-du₃ {na₄}za-gin₃-na i-ni-in-gun₃
+#lem: e[house]; kug[metal]; du[build]; zagin[lapis lazuli]; gunu[speckled]
+#etcsl: line-id=11
+
+12. gal-le-eš kug-sig₁₇-ga šu tag ba-ni-in-dug₄
+#lem: gal[big]; kugsig[gold]; šu[hand]; tag[touch]; dug[speak]
+#etcsl: line-id=12
+
+13. eridug{ki}-ga e₂ gu₂-a bi₂-in-du₃
+#lem: Eridug[1]SN; e[house]; gu[neck]; du[build]
+#etcsl: line-id=13
+
+14. šeg₁₂-bi inim dug₄-dug₄ ad gi₄-gi₄
+#lem: šeg[brick]; inim[word]; dug[speak]; ad[voice]; gi[turn]
+#etcsl: line-id=14
+
+15. gi-sal-la-bi gud-gin₇ mur im-ša₄
+#lem: gisal[eaves]; gud[bull]; mur[noise]; ša[cvve]
+#etcsl: line-id=15
+
+16. e₂ {d}en-ki-ke₄ gu₃ nun di-dam
+#lem: e[house]; Enkik[1]DN; gu[voice]; nun[prince]; di[speak]
+#etcsl: line-id=16
+
+17. e₂-e lugal-bi-ir ŋi₆-a ar₂ im-ma-ab-de₆ dug₃-bi mu-un-ŋa₂-ŋa₂
+#lem: e[house]; lugal[king]; ŋi[night]; ar[celebrate]; de[carry]; dug[good]; ŋar[put]
+#etcsl: line-id=17
+
+18. lugal {d}en-ki-ra sukkal {d}isimud-de₃ mi₂ (1:dug₃-ge-eš:1) im-me
+#lem: lugal[king]; Enkik[1]DN; sukkal[secretary]; Isimud[1]DN; mi[cvne]; dug[good]; dug[speak]
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. has instead:$) zid-de₃-eš
+#lem: zid[right]
+
+19. e₂-e im-ma-ŋen gu₃ im-ma-de₂-e
+#lem: e[house]; ŋen[go]; gu[voice]; de[pour]
+#etcsl: line-id=19
+
+20. šeg₁₂-e im-ma-ŋen gu₃ im-ma-ab-šum₂-mu
+#lem: šeg[brick]; ŋen[go]; gu[voice]; šum[give]
+#etcsl: line-id=20
+
+21. e₂ kug {na₄}za-gin₃-na ki ŋar-ra
+#lem: e[house]; kug[metal]; zagin[lapis lazuli]; ki[place]; ŋar[put]
+#etcsl: line-id=21
+
+22. temen-bi abzu-a sig₉-ga
+#lem: temen[foundation]; abzu[(cosmic) underground water]; sig[put into]
+#etcsl: line-id=22
+
+23. nun-e abzu-ta mi₂ dug₄-ga
+#lem: nun[prince]; abzu[(cosmic) underground water]; mi[cvne]; dug[speak]
+#etcsl: line-id=23
+
+24. {id₂}idigna {id₂}buranun-na mah ni₂ šu ti-a
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; mah[great]; ni[fear]; šu[hand]; teŋ[approach]
+#etcsl: line-id=24
+
+25. abzu {d}en-ki-ke₄ ul-la bi₂-in-tum₂-mu
+#lem: abzu[(cosmic) underground water]; Enkik[1]DN; ul[swell]; tum[bring]
+#etcsl: line-id=25
+
+26. {ŋiš}saŋ-kul-zu gaba-šu-ŋar nu-tuku
+#lem: saŋkul[bolt]; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=26
+
+27. {ŋiš}si-ŋar-zu ur-mah ni₂ gur₃-ru
+#lem: siŋar[bolt]; urmah[lion]; ni[fear]; gur[lift]
+#etcsl: line-id=27
+
+28. ŋiš-ur₃-zu gud an-na suh₁₀ kug galam dug₄-ga
+#lem: ŋušur[beam]; gud[bull]; an[sky]; suh[crown]; kug[purify]; galam[skilful]; dug[speak]
+#etcsl: line-id=28
+
+29. {gi}kid-zu za-gin₃-na ŋiš-ur₃-še₃ gun₃-a
+#lem: kid[reed mat or woven object]; zagin[lapis lazuli]; ŋušur[beam]; gunu[speckled]
+#etcsl: line-id=29
+
+30. nir-gam-ma-zu (1:gud:1) si gur₃-ru
+#lem: nir.GAM.ma[arch]; gud[bull]; si[horn]; gur[lift]
+#etcsl: line-id=30
+
+:30v.1.1: ($some mss. have instead:$) am
+#lem: am[wild bull]
+
+31. kan₄-zu ur-mah (1:lu₂:1) šu ti-a
+#lem: kan[gate]; urmah[lion]; lu[person]; šu[hand]; teŋ[approach]
+#etcsl: line-id=31
+
+:31v.1.1: ($1 ms. has instead:$) ni₂
+#lem: ni[fear]
+
+32. kun₄-zu ug lu₂-ra ed₃-de₃
+#lem: kuŋ[stair(case)]; ug[lion]; lu[person]; ed[go up]
+#etcsl: line-id=32
+
+33. abzu ki sikil me-te-ŋal₂
+#lem: abzu[(cosmic) underground water]; ki[place]; sikil[purify]; meteŋal[seemly]
+#etcsl: line-id=33
+
+34. e₂-engur-ra lugal-zu ŋiri₃ im-ma-ri-in-gub
+#lem: Eʾengura[1]TN; lugal[king]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=34
+
+35. {d}en-ki lugal abzu-ke₄
+#lem: Enkik[1]DN; lugal[king]; abzu[(cosmic) underground water]
+#etcsl: line-id=35
+
+36. temen-zu {na₄}gug im-ma-da-an-sa₂
+#lem: temen[foundation]; gug[carnelian]; sa[equal]
+#etcsl: line-id=36
+
+37. |KA×LI|-|KA×LI| za-gin₃-na mi₂ im-ma-ri-in-dug₄
+#lem: X; zagin[lapis lazuli]; mi[cvne]; dug[speak]
+#etcsl: line-id=37
+
+38. e₂ {d}en-ki-ke₄ lal₃-har-ra kug kurum₇ ak
+#lem: e[house]; Enkik[1]DN; lal₃.HI×AŠ₂[wax]; kug[purify]; gurum[inspection]; ak[do]
+
+#etcsl: line-id=38
+
+39. gud lugal-bi-ir us₂-a sig₁₀-ga
+#lem: gud[bull]; lugal[king]; us[accompany]; sig[put into]
+#etcsl: line-id=39
+
+40. ni₂-bi-še₃ mur ša₄ teš₂-bi-še₃ ad gi₄-gi₄
+#lem: ni[self]; mur[noise]; ša[cvve]; teš[unity]; ad[voice]; gi[turn]
+#etcsl: line-id=40
+
+41. e₂-engur-ra {d}en-ki-ke₄ gi dub-ba-an kug la₂-am₃
+#lem: Eʾengura[1]TN; Enkik[1]DN; gi[reed]; dubban[fence]; kug[purify]; la[hang]
+#etcsl: line-id=41
+
+42. šag₄-zu-ta barag mah ki ŋar-ra
+#lem: šag[heart]; barag[sanctum]; mah[great]; ki[place]; ŋar[put]
+#etcsl: line-id=42
+
+43. zag-du₈-zu aškud₂ kug an-na
+#lem: zadu[door jamb]; aškud[part of a door]; kug[purify]; an[sky]
+#etcsl: line-id=43
+
+44. abzu ki sikil ki nam tar-ra
+#lem: abzu[(cosmic) underground water]; ki[place]; sikil[purify]; ki[place]; nam[fate]; tar[cut]
+#etcsl: line-id=44
+
+45. en ŋeštug₂-ga lugal {d}en-ki
+#lem: en[lord]; ŋeštug[ear]; lugal[king]; Enkik[1]DN
+#etcsl: line-id=45
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+45A. {[d]}[en]-ki# en nam tar-tar-re-de₃
+#lem: Enkik[1]DN; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=45A
+
+@endvariants
+46. {d}nu-dim₂-mud en eridug{ki}-ga-ke₄
+#lem: Nudimmud[1]DN; en[lord]; Eridug[1]SN
+#etcsl: line-id=46
+
+47. šag₄ šeg₉-bar-ra lu₂ igi nu-bar-re-dam
+#lem: šag[heart]; šeŋbar[an animal]; lu[person]; igi[eye]; bar[place outside]
+#etcsl: line-id=47
+
+48. abgal-zu siki bar-ra bi₂-in-du₈
+#lem: abgal[sage]; siki[hair]; bar[outside]; du[spread]
+#etcsl: line-id=48
+
+49. eridug{ki} {d}en-ki-ke₄ ki aŋ₂-ŋa₂-ni
+#lem: Eridug[1]SN; Enkik[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=49
+
+50. e₂-engur-ra šag₄-bi he₂-ŋal₂ sug₄-ga
+#lem: Eʾengura[1]TN; šag[heart]; heŋal[plenty]; sug[full]
+#etcsl: line-id=50
+
+51. abzu zi kalam-ma ki aŋ₂ {d}en-ki-ke₄
+#lem: abzu[(cosmic) underground water]; zi[life]; kalam[the Land (of Sumer)]; ki[place]; aŋ[measure]; Enkik[1]DN
+#etcsl: line-id=51
+
+52. e₂ zag-ga du₃-a me galam-ma tum₂-ma
+#lem: e[house]; zag[side]; du[build]; me[Being]; galam[skilful]; tum[suitable]
+#etcsl: line-id=52
+
+53. eridug{ki} ŋissu-zu ab-šag₄-ga la₂-a
+#lem: Eridug[1]SN; ŋissu[shade]; abšag[center of the sea]; la[hang]
+#etcsl: line-id=53
+
+54. a-ab-ba zig₃-ga gaba-šu-ŋar nu-tuku
+#lem: aʾabak[sea]; zig[rise]; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=54
+
+55. id₂ mah ni₂-ŋal₂-la su kalam-ma zi-zi
+#lem: id[river]; mah[great]; niŋal[awe-inspiring]; su[flesh]; kalam[the Land (of Sumer)]; zig[rise]
+#etcsl: line-id=55
+
+56. e₂-engur-ra uru₂ mah ki us₂-sa
+#lem: Eʾengura[1]TN; urun[exalted]; mah[great]; ki[place]; us[accompany]
+#etcsl: line-id=56
+
+57. e₂ da engur-ra piriŋ abzu šag₄-ga
+#lem: e[house]; dag[side]; engur[(cosmic) underground waters]; piriŋ[lion]; abzu[(cosmic) underground water]; šag[heart]
+#etcsl: line-id=57
+
+58. e₂ mah {d}en-ki-ke₄ ŋeštug₂ kalam-e šum₂-mu
+#lem: e[house]; mah[great]; Enkik[1]DN; ŋeštug[ear]; kalam[the Land (of Sumer)]; šum[give]
+#etcsl: line-id=58
+
+59. akkil-zu id₂ mah zig₃-ga-gin₇
+#lem: akkil[noise]; id[river]; mah[great]; zig[rise]
+#etcsl: line-id=59
+
+60. lugal {d}en-ki-ra mu-un-na-tuku-am₃
+#lem: lugal[king]; Enkik[1]DN; tuku[acquire]
+#etcsl: line-id=60
+
+61. e₂ kug-ga-ni-še₃ dug₃-bi mu-un-ŋa₂-ŋa₂
+#lem: e[house]; kug[pure]; dug[good]; ŋar[put]
+#etcsl: line-id=61
+
+@variants
+
+62. {ŋiš}za₃-mi₂ {ŋiš}al-ŋar {ŋiš}balaŋ al-ŋar-sur₉-da
+#lem: zamin[lyre]; alŋar[musical instrument]; balaŋ[an instrument]; alŋarsur[drumstick]
+#etcsl: line-id=62
+
+@variant
+
+#etcsl#ms some mss. have instead the line:
+A. {ŋiš}za₃-mi₂ {ŋiš}al-ŋar balaŋ sur₉-za
+#lem: zamin[lyre]; alŋar[musical instrument]; balaŋ[an instrument]; surru[priest]
+#etcsl: line-id=A
+
+@variant
+
+#etcsl#ms 1 ms. has instead the line:
+B. {[ŋiš]}[za₃-mi₂] {ŋiš}al-ŋar-zu balaŋ {ŋiš}al-ŋar-sur₉-ra-ta
+#lem: zamin[lyre]; alŋar[musical instrument]; balaŋ[an instrument]; alŋarsur[drumstick]
+#etcsl: line-id=B
+
+@variant
+
+#etcsl#ms 1 ms. has instead the line:
+C. {ŋiš}za₃-mi₂ {ŋiš}al-ŋar balaŋ {ŋiš}sur₉-am₃
+#lem: zamin[lyre]; alŋar[musical instrument]; balaŋ[an instrument]; sur[plectrum?]
+#etcsl: line-id=C
+
+@endvariants
+63. {ŋiš}har-har {ŋiš}sa-bi₂-tum {ŋiš}mi-ri₂-tum e₂ sig₉-ga
+#lem: harhar[musical instrument]; sabitum[musical instrument]; miritum[musical instrument]; e[house]; sig[silent]
+#etcsl: line-id=63
+
+64. ad dug₃-ga (1:nundum bur₂-re:1) balaŋ-ŋa₂
+#lem: ad[voice]; dug[good]; nundum[lip]; bur[spread out]; balaŋ[an instrument]
+#etcsl: line-id=64
+
+:64v.1.1: ($1 ms. has instead:$) nundum-nundum
+#lem: nundum[lip]
+
+65. šag₄ ni₂-ba-ka ad ha-ba-ni-ib-ša₄
+#lem: šag[heart]; ni[self]; ad[voice]; ša[cvve]
+#etcsl: line-id=65
+
+66. {ŋiš}al-ŋar kug {d}en-ki-ke₄ ni₂-ba mu-un-na-du₁₂
+#lem: alŋar[musical instrument]; kug[purify]; Enkik[1]DN; ni[self]; du[play (a musical instrument)]
+#etcsl: line-id=66
+
+67. (1:nar:1) 7-e ad he₂-em-mi-ib-ša₄
+#lem: nar[musician]; n; ad[voice]; ša[cvve]
+#etcsl: line-id=67
+
+:67v.1.1: ($some mss. have instead:$) tigi
+#lem: tigi[drum or other musical instrument]
+
+68. dug₄-ga {d}en-ki-ke₄ šu nu-bal-e-de₃
+#lem: dug[speak]; Enkik[1]DN; šu[hand]; bala[turn]
+#etcsl: line-id=68
+
+69. KA X X ki-bi-še₃ ŋal₂-la-am₃
+#lem: X; X; X; ki[place]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=69
+
+70. sukkal# {d}isimud-de₃ šeg₁₂-e gu₃ ba-an-šum₂
+#lem: sukkal[secretary]; Isimud[1]DN; šeg[brick]; gu[voice]; šum[give]
+#etcsl: line-id=70
+
+71. e₂-engur-ra-ke₄ (1:šir₃:1) dug₃-ge-eš im-me
+#lem: Eʾengura[1]TN; šir[sing]; dug[good]; dug[speak]
+#etcsl: line-id=71
+
+:71v.1.1: ($1 ms. has instead:$) mi₂
+#lem: mi[cvne]
+
+72. mu-un-du₃-a-ba mu-un-du₃-a-ba
+#lem: du[build]; du[build]
+#etcsl: line-id=72
+
+73. eridug{ki} {d}en-ki-ke₄ im-ma-an-il₂-la-ba
+#lem: Eridug[1]SN; Enkik[1]DN; il[raise]
+#etcsl: line-id=73
+
+74. hur-saŋ galam kad₅-dam a-e ba-dirig
+#lem: hursaŋ[mountain]; galam[skilful]; kad[tie]; a[water]; dirig[make more than]
+#etcsl: line-id=74
+
+75. zag-ga-a-ni ŋiš-gi-a ba-an-KU
+#lem: zag[side]; ŋešgi[thicket]; X
+#etcsl: line-id=75
+
+76. {ŋiš}kiri₆ sig₇-ga gurun il₂-la-a-ba
+#lem: kiri[(fruit) plantation]; sissig[green-yellow]; gurun[fruit]; il[raise]
+#etcsl: line-id=76
+
+77. mušen-e (1::1) haš₄-bi mu-un-ŋa₂-ŋa₂
+#lem: mušen[bird]; haš[thigh]; ŋar[put]
+#etcsl: line-id=77
+
+:77v.1.1: ($1 ms. adds:$) ŋi₆
+#lem: ŋi[night]
+
+78. suhur{ku₆}-e u₂-lal₃-e e-ne mu-un-e
+#lem: suhur[carp]; ulal[plant]; ene[pleasure?]; dug[speak]
+#etcsl: line-id=78
+
+79. eštub{ku₆}-e gi-zi di₄-di₄-la₂ kun mu-un-na-sud-e
+#lem: eštub[carp]; gizi[fresh reed]; didila[small(er)]; kun[tail]; sud[distant]
+#etcsl: line-id=79
+
+80. {d}en-ki zig₃-ga-na ku₆ i-zi-eš₂ na-zig₃
+#lem: Enkik[1]DN; zig[rise]; kud[fish]; izi[wave]; zig[rise]
+#etcsl: line-id=80
+
+81. abzu-e u₆ am₃-ma-gub
+#lem: abzu[(cosmic) underground water]; u[admiration]; gub[stand]
+#etcsl: line-id=81
+
+82. engur-ra hul₂-la mu-ni-ib-de₆
+#lem: engur[(cosmic) underground waters]; hul[rejoice]; de[carry]
+#etcsl: line-id=82
+
+83. a-ab-ba-gin₇ ni₂ mu-un-da-ŋal₂
+#lem: aʾabak[sea]; ni[fear]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=83
+
+84. id₂ mah-gin₇ su zig₃ mu-un-da-ri
+#lem: id[river]; mah[great]; su[flesh]; zig[rise]; ri[impose]
+#etcsl: line-id=84
+
+85. {id₂}buranun-na u₁₈-lu sumur mu-un-da-an-zig₃
+#lem: Buranun[1 Euphrates]; ulu[south wind]; sumur[angry]; zig[rise]
+#etcsl: line-id=85
+
+86. {ŋiš}gi-muš-a-ni (1:{d}nirah-a-ni:1)
+#lem: gimuš[boat pole]; Nirah[1]DN
+#etcsl: line-id=86
+
+:86v.1.1: ($some mss. have instead:$) im-du-du-a-ni
+#lem: Imdudu[1]DN
+
+87. {ŋiš}ŋisal-a-ni gi tur-tur-a-ni
+#lem: ŋisal[rudder]; gi[reed]; tur[small]
+#etcsl: line-id=87
+
+88. {d}en-ki u₅-a-ni mu he₂-ŋal₂ sug₄-ga
+#lem: Enkik[1]DN; u[ride]; mu[year]; heŋal[plenty]; sug[full]
+#etcsl: line-id=88
+
+89. {ŋiš}ma₂ ni₂-bi nam-du₈ eš₂ ni₂-bi nam-dab₅
+#lem: ma[ship]; ni[self]; du[spread]; eš[rope]; ni[self]; dab[seize]
+#etcsl: line-id=89
+
+90. e₂ eridug{ki}-ga-ke₄ im-ma-kar-ra
+#lem: e[house]; Eridug[1]SN; kar[flee]
+#etcsl: line-id=90
+
+91. id₂-de₃ lugal-bi-ir ad im-mi-ib-gi₄-gi₄
+#lem: id[river]; lugal[king]; ad[voice]; gi[turn]
+#etcsl: line-id=91
+
+92. gu₃-bi gu₃ amar-ra gu₃ ab₂ dug₃-ga-ke₄
+#lem: gu[voice]; gu[voice]; amar[calf]; gu[voice]; ab[cow]; dug[good]
+#etcsl: line-id=92
+
+93. {d}en-ki-ke₄ gud im-ma-ab-gaz-e udu im-ma-ab-šar₂-re
+#lem: Enkik[1]DN; gud[bull]; gaz[kill]; udu[sheep]; šar[slaughter]
+#etcsl: line-id=93
+
+94. {kuš}a₂-la₂ nu-ŋal₂-la ki-bi-še₃ sa₂ im-dug₄
+#lem: ala[wooden drum]; ŋal[⟦be⟧ to be (there]; ki[place]; sa[equal]; dug[speak]
+#etcsl: line-id=94
+
+95. ub₃ zabar nu-ŋal₂-la ki-bi-še₃ im-mi-in-e₃
+#lem: ub[drum]; zabar[bronze]; ŋal[⟦be⟧ to be (there]; ki[place]; e[leave]
+#etcsl: line-id=95
+
+96. nibru{ki}-še₃ ŋiri₃-ni dili mu-un-gub
+#lem: Nibru[1]SN; ŋiri[foot]; dili[single]; gub[stand]
+#etcsl: line-id=96
+
+97. gi-gun₄-na eš₃-e nibru{ki}-a im-ma-da-an-ku₄-ku₄
+#lem: giguna[high sacred terrace]; eš[shrine]; Nibru[1]SN; kur[enter]
+#etcsl: line-id=97
+
+98. {d}en-ki-ke₄ kaš-kaš-e ba-te kurun₂-kurun₂-e ba-te
+#lem: Enkik[1]DN; kaš[beer]; teŋ[approach]; kurun[beer]; teŋ[approach]
+#etcsl: line-id=98
+
+99. kurun₂ gal zabar-ra ba-ni-in-de₂
+#lem: kurun[beer]; gal[big]; zabar[bronze]; de[pour]
+#etcsl: line-id=99
+
+100. {kaš}ulušin dili-am₃ ba-ni-in-sur
+#lem: ulušin[date-sweetened emmer-beer]; dili[single]; sur[press]
+#etcsl: line-id=100
+
+101. {dug}ku-kur-ru₂ kaš dug₃-dug₃-ga duh-bi bi₂-in-sa₂-sa₂
+#lem: kurkudu[container]; kaš[beer]; dug[good]; duh[bran]; sa[equal]
+#etcsl: line-id=101
+
+102. ka-bi lal₃ zu₂-lum-ma niŋ₂ er₉ ba-ni-in-ak
+#lem: kag[mouth]; lal[syrup]; zulum[the fruit of the date-palm]; niŋ[thing]; ir[mighty]; ak[do]
+#etcsl: line-id=102
+
+103. duh-bi niŋ₂ lal₃-lal₃ dili-a sed-še₃ bi₂-in-du₈
+#lem: duh[bran]; niŋ[thing]; lal[syrup]; dili[single]; sed[cold]; du[spread]
+#etcsl: line-id=103
+
+104. {d}en-ki-ke₄ eš₃-e nibru{ki}-am₃
+#lem: Enkik[1]DN; eš[shrine]; Nibru[1]SN
+#etcsl: line-id=104
+
+105. a-a-ni {d}en-lil₂-ra ninda mu-un-gu₇-e
+#lem: aya[father]; Enlil[1]DN; ninda[bread]; gu[eat]
+#etcsl: line-id=105
+
+106. an ki mah-a im-ma-an-tuš
+#lem: An[1]DN; ki[place]; mah[great]; tuš[sit (down)]
+#etcsl: line-id=106
+
+107. an-ra {d}en-lil₂ im-ma-ni-in-us₂
+#lem: An[1]DN; Enlil[1]DN; us[accompany]
+#etcsl: line-id=107
+
+108. {d}nin-tur₅ zag gal-la im-mi-in-tuš
+#lem: Nintur[1]DN; zag[side]; gal[big]; tuš[sit (down)]
+#etcsl: line-id=108
+
+109. {d}a-nun-na ki-us₂-ki-us₂-bi im-mi-in-dur₂-ru-ne-eš
+#lem: Anunak[1]DN; kiʾus[path]; durun[sit]
+#etcsl: line-id=109
+
+110. lu₂-e-ne kaš i₃-na₈-na₈-ne kurun im-dug₃-ge-ne
+#lem: lu[person]; kaš[beer]; naŋ[drink]; kurun[beer]; dug[good]
+#etcsl: line-id=110
+
+111. {zabar}aga im-gur₄-gur₄-re-e-ne
+#lem: aga[vessel]; gur[thick]
+#etcsl: line-id=111
+
+112. zabar-e {d}uraš-e a-da-min₃ mu-un-di-ne
+#lem: zabar[bronze]; Uraš[1]DN; adamin[contest]; e[speak]
+#etcsl: line-id=112
+
+113. ti-lim-da ma₂-gur₈ kug im-ba-ba-re-e-ne
+#lem: tilimda[water vessel]; magur[barge]; kug[purify]; babbar[white]
+#etcsl: line-id=113
+
+114. kaš ba-dug₄ kurun₂ ba-dug₃-ga-ta
+#lem: kaš[beer]; dug[speak]; kurun[beer]; dug[good]
+#etcsl: line-id=114
+
+115. e₂-ta ŋiri₃-bi-a ba-ra-ŋar-ra-ta
+#lem: e[house]; ŋiri[foot]; ŋar[put]
+#etcsl: line-id=115
+
+116. {d}en-lil₂ nibru{ki}-a hul₂-la mu-ni-ib-de₆
+#lem: Enlil[1]DN; Nibru[1]SN; hul[rejoice]; de[carry]
+#etcsl: line-id=116
+
+117. {d}en-lil₂-le {d}a-nun-na-ke₄-ne gu₃ mu-na-de₂-e
+#lem: Enlil[1]DN; Anunak[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=117
+
+118. diŋir gal-gal-la i₃-sug₂-ge-en-za-na
+#lem: diŋir[deity]; gal[big]; sug[stand]
+#etcsl: line-id=118
+
+119. {d}a-nun-na ub-šu-unken-na-ka si mu-un-sa₂-sa₂-e-en-za-na
+#lem: Anunak[1]DN; Ubšuʾunkenak[1]TN; si[horn]; sa[equal]
+#etcsl: line-id=119
+
+120. dumu-ŋu₁₀ e₂ mu-un-du₃ lugal {d}en-ki-ke₄
+#lem: dumu[child]; e[house]; du[build]; lugal[king]; Enkik[1]DN
+#etcsl: line-id=120
+
+121. eridug{ki} hur-saŋ-gin₇ ki-ta (1:ba-ra-ri:1)
+#lem: Eridug[1]SN; hursaŋ[mountain]; ki[place]; ri[impose]
+#etcsl: line-id=121
+
+:121v.1.1: ($1 ms. has instead:$) ba-ra-e₃
+#lem: e[leave]
+
+122. ki dug₃-ga-am₃ e₂ im-ma-an-du₃
+#lem: ki[place]; dug[good]; e[house]; du[build]
+#etcsl: line-id=122
+
+123. eridug{ki} ki sikil lu₂ nu-ku₄-ku₄-da
+#lem: Eridug[1]SN; ki[place]; sikil[purify]; lu[person]; kur[enter]
+#etcsl: line-id=123
+
+124. e₂ kug-ga du₃-a za-gin₃-na gun₃-a
+#lem: e[house]; kug[metal]; du[build]; zagin[lapis lazuli]; gunu[speckled]
+#etcsl: line-id=124
+
+125. e₂ tigi 7-e si sa₂-e nam-šub šum₂-ma
+#lem: e[house]; tigi[drum or other musical instrument]; n; si[horn]; sa[equal]; namšub[incantation]; šum[give]
+#etcsl: line-id=125
+
+126. šir₃ kug teš₂ e₂ ki al-dug₃-ga
+#lem: šir[sing]; kug[purify]; teš[unity]; e[house]; ki[place]; dug[good]
+#etcsl: line-id=126
+
+127. eš₃ abzu nam dug₃ {d}en-ki-ke₄ me galam-ma tum₂-ma
+#lem: eš[shrine]; Eʾabzu[1]; nam[fate]; dug[good]; Enkik[1]DN; me[Being]; galam[skilful]; tum[suitable]
+#etcsl: line-id=127
+
+128. eridug{ki} e₂ kug-ga du₃-a-ba
+#lem: Eridug[1]SN; e[house]; kug[metal]; du[build]
+#etcsl: line-id=128
+
+129. a-a {d}en-ki za₃-mi₂
+#lem: aya[father]; Enkik[1]DN; zamin[praise]
+#etcsl: line-id=129
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) In those remote days, when the fates were determined; in a year when @wDN{An} brought about abundance, and people broke through the earth like green plants -- then the lord of the @fsux{abzu}, King @wDN{Enki}, @wDN{Enki}, the lord who determines the fates, built up his temple entirely from silver and lapis lazuli. Its silver and lapis lazuli were the shining daylight. Into the shrine of the @fsux{abzu} he brought joy.
+
+@(9 = 9-17) An artfully made bright crenellation rising out from the @fsux{abzu} was erected for Lord @wDN{Nudimmud}. He built the temple from precious metal, decorated it with lapis lazuli, and covered it abundantly with gold. In @wSN{Eridug}, he built the house on the bank. Its brickwork makes utterances and gives advice. Its eaves roar like a bull; the temple of @wDN{Enki} bellows. During the night the temple praises its lord and offers its best for him.
+
+@(18 = 18-25) Before Lord @wDN{Enki}, @wDN{Isimud} the minister praises the temple; he goes to the temple and speaks to it. He goes to the brick building and addresses it: @q[Isimud,E-engura]{“Temple, built from precious metal and lapis lazuli; whose foundation pegs are driven into the @fsux{abzu}; which has been cared for by the prince in the @fsux{abzu}! Like the @wWN{Tigris} and the @wWN{Euphrates}, it is mighty and awe-inspiring (?). Joy has been brought into @wDN{Enki's}@fsux{abzu}.”}
+
+@(26 = 26-32) @q{“Your lock has no rival. Your bolt is a fearsome lion. Your roof beams are the bull of heaven, an artfully made bright headgear. Your reed-mats are like lapis lazuli, decorating the roof-beams. Your vault is a  @varh[t114.v1]{bull }@vart[t114.v2,t114.v1]{@varn{some mss. have instead:} wild bull } raising its horns. Your door is a lion who  @varh[t114.v3]{seizes a man }@vart[t114.v4,t114.v3]{@varn{1 ms. has instead:} is awe-inspiring }. Your stairway is a lion coming down on a man.”}
+
+#etcsl#altGrpo
+#etcsl#alt t114.v3 t114.v4
+#etcsl#alt t114.v1 t114.v2
+#etcsl#altGrpc
+
+@(33 = 33-43) @q{“@fsux{Abzu}, pure place which fulfils its purpose! @wTN{E-engura}! Your lord has directed his steps towards you. @wDN{Enki}, lord of the @fsux{abzu}, has embellished your foundation pegs with cornelian. He has adorned you with …… and (?) lapis lazuli. The temple of @wDN{Enki} is provisioned with holy wax (?); it is a bull obedient to its master, roaring by itself and giving advice at the same time. @wTN{E-engura}, which @wDN{Enki} has surrounded with a holy reed fence! In your midst a lofty throne is erected, your door-jamb is the holy locking bar of heaven.”}
+
+@(44 = 44-48) @q{“@fsux{Abzu}, pure place, place where the fates are determined -- the lord of wisdom, Lord @wDN{Enki},  @vart[t114.v5,t114.v5]{@varn{1 ms. adds 1 line:} the lord who determines the fates, }@wDN{Nudimmud}, the lord of @wSN{Eridug}, lets nobody look into its midst. Your @fsux{abgal} priests let their hair down their backs.”}
+
+@(49 = 49-61) @q{“@wDN{Enki's} beloved @wSN{Eridug}, @wTN{E-engura} whose inside is full of abundance! @fsux{Abzu}, life of the Land, beloved of @wDN{Enki}! Temple built on the edge, befitting the artful divine powers! @wSN{Eridug}, your shadow extends over the midst of the sea! Rising sea without a rival; mighty awe-inspiring river which terrifies the Land! @wTN{E-engura}, high citadel (?) standing firm on the earth! Temple at the edge of the @fsux{engur}, a lion in the midst of the @fsux{abzu}; lofty temple of @wDN{Enki}, which bestows wisdom on the Land; your cry, like that of a mighty rising river, reaches (?) King @wDN{Enki}.”}
+
+@(62 = 62-67) @q{“He made  @varh[t114.v6]{the lyre, the @fsux{alŋar} instrument, the @fsux{balaŋ} drum with the drumsticks }@vart[t114.v7,t114.v6]{@varn{some mss. have instead:} the lyre, the @fsux{alŋar} instrument, the @fsux{balaŋ} drum of your @fsux{sur} priests }@vart[t114.v8,t114.v6]{@varn{1 ms. has instead:} your lyre and @fsux{alŋar} instrument, the @fsux{balaŋ} drum with the drumsticks }@vart[t114.v9,t114.v6]{@varn{1 ms. has instead:} the lyre, the @fsux{alŋar} instrument, the @fsux{balaŋ} drum and even the plectrum (?) }, the @fsux{ḫarḫar}, the @fsux{sabitum}, and the …… @fsux{miritum} instruments offer their best for his holy temple. The …… resounded by themselves with a sweet sound. The holy @fsux{alŋar} instrument of @wDN{Enki} played for him on his own and seven  @varh[t114.v10]{singers sang }@vart[t114.v11,t114.v10]{@varn{some mss. have instead:} @fsux{tigi} drums resounded. }”}
+
+#etcsl#altGrpo
+#etcsl#alt t114.v6 t114.v7 t114.v8 t114.v9
+#etcsl#alt t114.v10 t114.v11
+#etcsl#altGrpc
+
+@(68 = 68-70) @q{“What @wDN{Enki} says is irrefutable; …… is well established (?).”} This is what Isimud spoke to the brick building; he praised the @wTN{E-engura}  @varh[t114.v12]{with sweet songs } @vart[t114.v13,t114.v12]{@varn{1 ms. has instead:} duly. }
+
+#etcsl#linkGrpo
+#etcsl#link type=q t114.q1 t114.q2 t114.q3 t114.q4 t114.q5 t114.q6
+#etcsl#linkGrpc
+#etcsl#altGrpo
+#etcsl#alt t114.v12 t114.v13
+#etcsl#altGrpc
+
+@(71 = 71-82) As it has been built, as it has been built; as @wDN{Enki} has raised @wSN{Eridug} up, it is an artfully built mountain which floats on the water. His shrine (?) spreads (?) out into the reedbeds; birds brood  @vart[t114.v14,t114.v14]{@varn{1 ms. adds:} at night } in its green orchards laden with fruit. The @fsux{suḫur} carp play among the honey-herbs, and the @fsux{eštub} carp dart among the small @fsux{gizi} reeds. When @wDN{Enki} rises, the fish rise before him like waves. He has the @fsux{abzu} stand as a marvel, as he brings joy into the @fsux{engur}.
+
+@(83 = 83-92) Like the sea, he is awe-inspiring; like a mighty river, he instils fear. The @wWN{Euphrates} rises before him as it does before the fierce south wind. His punting pole is  @varh[t114.v15]{@wDN{Nirah} } @vart[t114.v16,t114.v15]{@varn{some mss. have instead:} @wDN{Imdudu} }; his oars are the small reeds. When @wDN{Enki} embarks, the year will be full of abundance. The ship departs of its own accord, with tow rope held (?) by itself. As he leaves the temple of @wSN{Eridug}, the river gurgles (?) to its lord: its sound is a calf's mooing, the mooing of a good cow.
+
+#etcsl#altGrpo
+#etcsl#alt t114.v15 t114.v16
+#etcsl#altGrpc
+
+@(93 = 93-95) @wDN{Enki} had oxen slaughtered, and had sheep offered there lavishly. Where there were no @fsux{ala} drums, he installed some in their places; where there were no bronze @fsux{ub} drums, he despatched some to their places.
+
+@(96 = 96-103) He directed his steps on his own to @wSN{Nibru} and entered the temple terrace, the shrine of @wSN{Nibru}. @wDN{Enki} reached for (?) the beer, he reached for (?) the liquor. He had liquor poured into big bronze containers, and had emmer-wheat beer pressed out (?). In @fsux{kukuru} containers which make the beer good he mixed beer-mash. By adding date-syrup to its taste (?), he made it strong. He …… its bran-mash.
+
+@(104 = 104-116) In the shrine of @wSN{Nibru}, @wDN{Enki} provided a meal for @wDN{Enlil}, his father. He seated @wDN{An} at the head of the table and seated @wDN{Enlil} next to @wDN{An}. He seated @wDN{Nintur} in the place of honour and seated the @wDN{Anuna} gods at the adjacent places (?). All of them were drinking and enjoying beer and liquor. They filled the bronze @fsux{aga} vessels to the brim and started a competition, drinking from the bronze vessels of @wDN{Uraš}. They made the @fsux{tilimda} vessels shine like holy barges. After beer and liquor had been libated and enjoyed, and after …… from the house, @wDN{Enlil} was made happy in @wSN{Nibru}.
+
+@(117 = 117-129) @wDN{Enlil} addressed the @wDN{Anuna} gods: @q{“Great gods who are standing here! @wDN{Anuna}, who have lined up in the @wTN{Ubšu-unkena}! My son, King @wDN{Enki} has built up the temple! He has made @wSN{Eridug}@varh[t114.v17]{rise up (?) }@vart[t114.v18,t114.v17]{@varn{1 ms. has instead:} come out } from the ground like a mountain! He has built it in a pleasant place, in @wSN{Eridug}, the pure place, where no one is to enter -- a temple built with silver and decorated with lapis lazuli, a house which tunes the seven @fsux{tigi} drums properly, and provides incantations; where holy songs make all of the house a lovely place -- the shrine of the @fsux{abzu}, the good destiny of @wDN{Enki}, befitting the elaborate divine powers; the temple of @wSN{Eridug}, built with silver: for all this, Father @wDN{Enki} be praised!”}
+
+#etcsl#altGrpo
+#etcsl#alt t114.v17 t114.v18
+#etcsl#altGrpc
+
+

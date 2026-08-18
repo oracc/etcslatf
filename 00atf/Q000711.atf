@@ -1,0 +1,203 @@
+&Q000711 = A hymn to Ninisina (Ninisina D)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.22.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22.4&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. nin me mah dib saŋ il₂ ni₂ guru₃ dumu ki aŋ₂ an gal-la
+#lem: nin[lady]; me[Being]; mah[great]; dib[pass]; saŋ[head]; il[raise]; ni[fear]; gur[lift]; dumu[child]; ki[place]; aŋ[measure]; An[1]DN; gal[big]
+#etcsl: line-id=A.1
+
+A.2. {d}nin-isin₂{si}-na {d}uraš-e tud-da šag₄ gal nam gal DU
+#lem: Ninisinak[1]DN; Uraš[1]DN; utud[give birth (to)]; šag[heart]; gal[big]; nam[fate]; gal[big]; X
+#etcsl: line-id=A.2
+
+A.3. [ad] gi₄#-gi₄ gal-di a-a ugu-na aŋrig zid e₂-kur-ra
+#lem: ad[voice]; gi[turn]; galdi[exalted]; aya[father]; ugu[bear]; agrig[steward]; zid[right]; Ekur[1]TN
+#etcsl: line-id=A.3
+
+A.4. [...] eš₂# sig₇-ga barag kug-ge he₂-du₇# X
+#lem: X; eš[rope]; sissig[green-yellow]; barag[sanctum]; kug[pure]; hedu[ornament]; X
+#etcsl: line-id=A.4
+
+A.5. arhuš₂ tuku X X saŋ gig₂-ga kug {d}nin-isin₂{si}-na niŋ₂-nam-ma-ni pa e₃ [...]
+#lem: arhuš[compassion]; tuku[acquire]; X; X; saŋ[head]; giggig[black]; kug[purify]; Ninisinak[1]DN; niŋnam[anything]; pa[branch]; e[leave]; X
+#etcsl: line-id=A.5
+
+A.6. nin tug₂ babbar₂ tug₂-ba₁₃ [...] X-ŋu₁₀
+#lem: nin[lady]; tug[textile]; babbar[white]; ba[garment]; X; X
+#etcsl: line-id=A.6
+
+A.7. nam-gur₄ dirig dug₄-ge [dib]-ba-zu a-ra₂ mah-bi ša-an-i-i
+#lem: namgur[thickness]; dirig[make more than]; dug[speak]; dib[pass]; ara[way]; mah[great]; e[bring out]
+#etcsl: line-id=A.7
+
+A.8. a-a ugu-zu X X an kug X X me-me dirig-ga za-ar ma-ra-an-ri
+#lem: aya[father]; ugu[bear]; X; X; An[1]DN; kug[purify]; X; X; me[Being]; dirig[make more than]; zaʾe[you]; ri[impose]
+#etcsl: line-id=A.8
+
+A.9. nin šag₄ šu niŋin₂ X [...] lu₂ X X gi₄ lu₂ dub-ba zi-zi-i šag₄-ta mu-e-de₆
+#lem: nin[lady]; šag[heart]; šu[hand]; niŋin[encircle]; X; X; lu[person]; X; X; gi[turn]; lu[person]; dub[heap up]; zig[rise]; šag[heart]; de[carry]
+#etcsl: line-id=A.9
+
+A.10. nam-a-zu# lu₂ til₃-le lu₂ X X [...]
+#lem: namazu[the craft of the physician]; lu[person]; til[live (of a single person)]; lu[person]; X; X; X
+#etcsl: line-id=A.10
+
+A.11. nin tu₆ dug₄-ga-[ni]-ta lu₂ [...] sag₉ [X X] X X šum₂-mu
+#lem: nin[lady]; tu[incantation]; dug[speak]; lu[person]; X; sag[goodness]; X; X; X; X; šum[give]
+#etcsl: line-id=A.11
+
+A.12. simₓ(GIG)-simₓ(GIG)-ma su lu₂-ulu₃ he₂-[...] mu₇-mu₇-ga-ni ed₃-de₃
+#lem: sim[carbuncle]; su[flesh]; lulu[man]; X; mu[incantation]; ed[go up]
+#etcsl: line-id=A.12
+
+A.13. bulug niŋ₂ zi-pa-aŋ₂-[ŋa₂]-na su-a-[na ...]
+#lem: bulug[needle]; niŋ[thing]; zipaŋ[breath]; su[flesh]; X
+#etcsl: line-id=A.13
+
+A.14. nin u₂ nam-til₃-la X X ab-ba X [...]
+#lem: nin[lady]; u[plant(s)]; namtil[life]; X; X; abba[father]; X; X
+#etcsl: line-id=A.14
+
+A.15. lu₂ ug₅-ge lu₂ [...]-ba
+#lem: lu[person]; ug[kill]; lu[person]; X
+#etcsl: line-id=A.15
+
+A.16. {d}nin-til₃-mud X X X lu₂ X [X X] luh UD dadag-ga
+#lem: Nintilmud[1]DN; X; X; X; lu[person]; X; X; X; luh[clean]; X; dadag[bright]
+#etcsl: line-id=A.16
+
+A.17. šu zid diŋir-ra-na-še₃ šu X X X [...]
+#lem: šu[hand]; zid[right]; diŋir[deity]; šu[hand]; X; X; X; X
+#etcsl: line-id=A.17
+
+A.18. [...] X [...] X [...] X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=A.18
+
+$ (approx. 40 lines missing)
+@end segment
+
+@div segment B
+
+B.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.1
+
+B.2. AN X [...]
+#lem: X; X; X
+#etcsl: line-id=B.2
+
+B.3. i₃-si-in{ki} iri X [...]
+#lem: Isin[1]SN; iri[city]; X; X
+#etcsl: line-id=B.3
+
+B.4. lu₂-erim₂-ma-ke₄ X [...]
+#lem: luʾerim[evildoer]; X; X
+#etcsl: line-id=B.4
+
+B.5. {d}nin-isin₂{si}-na AN X [...] AN [...]
+#lem: Ninisinak[1]DN; X; X; X; X; X
+#etcsl: line-id=B.5
+
+B.6. e₂-gal-mah barag babbar₂ [...] GAN [...]
+#lem: Egalmah[1]TN; barag[sanctum]; babbar[white]; X; X; X
+#etcsl: line-id=B.6
+
+B.7. 2-na-ne-ne X [...] X LA₂ [...]
+#lem: n; X; X; X; X; X
+#etcsl: line-id=B.7
+
+B.8. lugal mu# pad₃ [...]
+#lem: lugal[king]; mu[name]; pad[find]; X
+#etcsl: line-id=B.8
+
+B.9. {d}nin-isin₂#{[si]}-[na ...]
+#lem: Ninisinak[1]DN; X
+#etcsl: line-id=B.9
+
+B.10. šag₄-ge guru₇# [...] X RU [...] nu-še-ga
+#lem: šag[heart]; guru[grain heap]; X; X; X; X; šeg[agree]
+#etcsl: line-id=B.10
+
+B.11. KA nu-ŋar [...] X LA za-ar hu-[...]-X-te-še₃
+#lem: X; ŋar[put]; X; X; X; zaʾe[you]; teŋ[approach]
+#etcsl: line-id=B.11
+
+B.12. i₃-si-in#{[ki]} X nidba kadra-bi [...] gal-bi
+#lem: Isin[1]SN; X; nindaba[(food) offering]; kadra[greeting gift]; X; gal[big]
+#etcsl: line-id=B.12
+
+B.13. [...] gu₂-za hu-mu-ra-an-X [...] us₂
+#lem: X; gu[neck]; X; X; us[accompany]
+#etcsl: line-id=B.13
+
+B.14. [...] nibru{ki}-še₃ za-e kur₉-X-X-ni-ib
+#lem: X; Nibru[1]SN; zaʾe[you]; kur[enter]
+#etcsl: line-id=B.14
+
+B.15. [...] zid-de₃-eš X X [...]-me-en
+#lem: X; zid[right]; X; X; X
+#etcsl: line-id=B.15
+
+B.16. [... diŋir]-re-e-ne-ke₄ [...] TE A MU
+#lem: X; diŋir[deity]; X; X; X; X
+#etcsl: line-id=B.16
+
+B.17. [...] ki [...]-a-ba
+#lem: X; ki[place]; X
+#etcsl: line-id=B.17
+
+B.18. [...] MU X za-a-am₃
+#lem: X; X; X; zaʾe[you]
+#etcsl: line-id=B.18
+
+B.19. [...] su-bi
+#lem: X; su[flesh]
+#etcsl: line-id=B.19
+
+B.20. [...] kar₂ [...]-me-en
+#lem: X; kar[blow]; X
+#etcsl: line-id=B.20
+
+B.21. {[d]}[nin-isin₂]{si}-na dumu mah an-na [X X]
+#lem: Ninisinak[1]DN; dumu[child]; mah[great]; An[1]DN; X; X
+#etcsl: line-id=B.21
+
+B.22. za₃-mi₂-zu dug₃-ga-am₃
+#lem: zamin[praise]; dug[good]
+#etcsl: line-id=B.22
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-7) Lady, surpassing with august divine powers, with head high, full of awesomeness, beloved daughter of great @wDN{An}! @wDN{Ninisina}, born of @wDN{Uraš}, from the great womb …… a great destiny, grandiloquent counsellor of her own father, good stewardess of @wTN{E-kur}! Beautiful ……, glory of the holy throne-dais, merciful, …… of the black-headed! Holy @wDN{Ninisina}, making everything manifest! My lady, …… in a white garment and cloak! The impressive course of your outstandingly great deeds, which surpass description, is praised.
+
+@(A.8 = 8-18) Your own father …… holy @wDN{An} has assigned to you supreme divine powers ……. Lady, …… mercy, who …… man, who lets …… stand up (?), you brought …… from the womb. Your medical skills heal a man, …… a man. Lady who benefits a man …… with her incantations, and gives ……! Sores …… a man's body, her spells ……. A pin at her (?) throat, …… on her (?) body. Lady, the plant of life ……. The dying man ……. @wDN{Nintilmud}, …… man …… shining ……. He is entrusted (?) into the good hands of his god, ……  @gap{1 line fragmentary}   @gap{approx. 40 lines missing} 
+
+
+@(B.1 = 1-22)  @gap{2 lines fragmentary}  @wSN{Isin}, the city ……. The wicked ……. @wDN{Ninisina} ……. @wTN{Egal-maḫ}, the throne-dais ……. The two of them ……. The king summoned by name ……. @wDN{Ninisina} ……. …… desire …….  @gap{1 line fragmentary}  @wSN{Isin} …… its offerings and gifts ……, …… chair for you ……. …… enter @wSN{Nibru}. …… rightly ……. …… the gods ……  @gap{4 lines fragmentary}  @wDN{Ninisina}, exalted child of @wDN{An}, ……, it is sweet to praise you.
+
+
+

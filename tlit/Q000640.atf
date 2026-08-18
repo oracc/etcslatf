@@ -1,0 +1,204 @@
+&Q000640 = A kunŋar to Inana (Dumuzid-Inana I)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.09
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.09&display=Crit&charenc=gcirc#
+
+1. ama-me-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re {{%akk u₂-ra-an-ni}}
+#lem: ama[mother]; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]; L
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Urim (U3), 0.2.05, Seg. B, line 6
+
+2. šul-e ama-me-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+#lem: šul[youth]; ama[mother]; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]
+#etcsl: line-id=2
+
+3. ama-ŋu₁₀  %e  {d}ga-ša-an-gal-da  %s  nu-me-<a> sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+#lem: ama[mother]; Gašangal[1]DN; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]
+#etcsl: line-id=3
+
+4.  %e  {d}ga-ša-an-gi-kug-ga-da  %s  nu-me-a sila a-ŋi₆ edin#-na i-iŋ₃-ŋi₆-in-sar-[re]
+#lem: Gašankikuga[1]DN; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]
+#etcsl: line-id=4
+
+5. a-a {d}suen-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆#-[in]-sar#-re
+#lem: aya[father]; Suen[1]DN; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]
+#etcsl: line-id=5
+
+6. šeš-ŋu₁₀ {d}utu-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-[in]-sar#-re
+#lem: šeš[brother]; Utu[1]DN; me[be]; sila[street]; aŋi[wave]; eden[back]; sar[run]
+#etcsl: line-id=6
+
+7. {lu₂}ki-sikil du₁₄-gin₇ na-an-mu₂-mu₂-un
+#lem: kisikil[young woman]; dud[combat]; mu[grow]
+#etcsl: line-id=7
+
+8. {d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+#lem: Inanak[1]DN; inim[word]; me[be]
+#etcsl: line-id=8
+
+9. {d}inana du₁₄-gin₇ na-an-mu₂-mu₂-un
+#lem: Inanak[1]DN; dud[combat]; mu[grow]
+#etcsl: line-id=9
+
+10. {d}nin-e₂-gal-la ad-gin₇ ga-am₃-gi₄-de₃-en
+#lem: Ninegalak[1]DN; ad[voice]; gi[turn]
+#etcsl: line-id=10
+
+11. a-a-ŋu₁₀ a-a-zu-gin₇ in-ga-dim₂
+#lem: aya[father]; aya[father]; dim[create]
+#etcsl: line-id=11
+
+12. {d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+#lem: Inanak[1]DN; inim[word]; me[be]
+#etcsl: line-id=12
+
+13. ama-ŋu₁₀# ama-zu-gin₇ in#-ga-dim₂
+#lem: ama[mother]; ama[mother]; dim[create]
+#etcsl: line-id=13
+
+14. {d}nin-e₂-gal-la ad-[gin₇ ga]-am₃#-gi₄-de₃-en
+#lem: Ninegalak[1]DN; ad[voice]; gi[turn]
+#etcsl: line-id=14
+
+15. {d}ŋeštin-an-na {d}nin#-X-he₂-nu#-X-gin₇ in-ga-dim₂
+#lem: Ŋeštinanak[1]DN; Nin.X.henu.X[1]DN; dim[create]
+#etcsl: line-id=15
+
+16. {d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+#lem: Inanak[1]DN; inim[word]; me[be]
+#etcsl: line-id=16
+
+17. ŋe₂₆-e {d}utu-gin₇ in-ga-dim₂#-me-en
+#lem: ŋaʾe[I]; Utu[1]DN; dim[create]
+#etcsl: line-id=17
+
+18. {d}nin-e₂-gal-la ad-gin₇ ga#-am₃-gi₄-de₃-en
+#lem: Ninegalak[1]DN; ad[voice]; gi[turn]
+#etcsl: line-id=18
+
+19. {d}en-ki {d}suen-gin₇ in-ga-dim₂
+#lem: Enkik[1]DN; Suen[1]DN; dim[create]
+#etcsl: line-id=19
+
+20. {d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+#lem: Inanak[1]DN; inim[word]; me[be]
+#etcsl: line-id=20
+
+21. {d}dur₇-tur {d}nin-gal-gin₇ in-ga-dim₂
+#lem: Durtur[1]DN; Ningal[1]DN; dim[create]
+#etcsl: line-id=21
+
+22. {d}nin-e₂-gal-la# ad-gin₇ ga-am₃-gi₄-de₃-en
+#lem: Ninegalak[1]DN; ad[voice]; gi[turn]
+#etcsl: line-id=22
+
+23. inim bi₂-in-eš-a inim hi-li-eš-am₃
+#lem: inim[word]; e[speak]; inim[word]; hili[attractiveness]
+#etcsl: line-id=23
+
+24. du₁₄ mu₂-mu₂-da-a hi-li šag₄-ga-na-ke₄
+#lem: dud[combat]; mu[grow]; hili[attractiveness]; šag[heart]
+#etcsl: line-id=24
+
+25. {na₄}šuba-ke₄# {na₄}šuba-ke₄ {na₄}šuba na-ur₁₁-ru
+#lem: šuba[precious stone]; šuba[precious stone]; šuba[precious stone]; uru[sow]
+#etcsl: line-id=25
+
+26. {d}ama-ušumgal-an-na {na₄}šuba-ke₄ {na₄}šuba na-ur₁₁-ru
+#lem: Amaʾušumgalanak[1]DN; šuba[precious stone]; šuba[precious stone]; uru[sow]
+#etcsl: line-id=26
+
+27. {na₄}šuba-na {na₄}šuba tur-tur-bi nu-mu-ne₂-eš na-ŋa₂#-[ŋa₂]
+#lem: šuba[precious stone]; šuba[precious stone]; tur[small]; e[speak]; ŋar[put]
+#etcsl: line-id=27
+
+28. {[na₄]}šuba-na# {na₄}šuba gal-gal-bi guru₇#-še₃ na-du₃-[du₃]
+#lem: šuba[precious stone]; šuba[precious stone]; gal[big]; guru[grain store]; du[build]
+#etcsl: line-id=28
+
+29. PI-na-ni ur₃#-ra la₂-la₂-a ur₃-ra mu#-na-ab-la₂-[la₂]
+#lem: X; ur[roof]; la[hang]; ur[roof]; la[hang]
+#etcsl: line-id=29
+
+30. {d}inana [bad₃]-da la₂-la₂-a bad₃-da mu-na-ab-la₂-[la₂]
+#lem: Inanak[1]DN; bad[wall]; la[hang]; bad[wall]; la[hang]
+#etcsl: line-id=30
+
+31. MUNUS# [X X X] {[d]}ama-ušumgal-an-na-ra gu₃ mu-na-de₂-e
+#lem: X; X; X; X; Amaʾušumgalanak[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=31
+
+32. {na₄}šuba# [ur₁₁]-ru {na₄}šuba ur₁₁-ru a-ba-a mu#-[na]-ur₁₁-ru
+#lem: šuba[precious stone]; uru[sow]; šuba[precious stone]; uru[sow]; aba[who?]; uru[sow]
+#etcsl: line-id=32
+
+33. {d}ama-ušumgal-an-na {na₄#}šuba ur₁₁#-ru a-ba-a mu-na-ur₁₁-ru
+#lem: Amaʾušumgalanak[1]DN; šuba[precious stone]; uru[sow]; aba[who?]; uru[sow]
+#etcsl: line-id=33
+
+34. {na₄}šuba-[na] {na₄}šuba# tur-tur-bi ši-pa-aŋ₂-me %e de₃-a
+#lem: šuba[precious stone]; šuba[precious stone]; tur[small]; zipaŋ[breath]; me[be]
+#etcsl: line-id=34
+
+35. {na₄}šuba-na {na₄}šuba# gal-gal-bi gaba kug-me %e de₃-a
+#lem: šuba[precious stone]; šuba[precious stone]; gal[big]; gaba[breast]; kug[pure]; me[be]
+#etcsl: line-id=35
+
+36. {d}ama-ušumgal-an-na nu-u₈-gig-ra inim mu-ni-ib-gi₄-gi₄
+#lem: Amaʾušumgalanak[1]DN; nugig[priestess]; inim[word]; gi[turn]
+#etcsl: line-id=36
+
+37. nu-u₈-gig-ga-am₃ dam-ŋu₁₀ nu-u₈-gig-ga-am₃ e-ne-er mu-na-ur₁₁-ru
+#lem: nugig[priestess]; dam[spouse]; nugig[priestess]; ane[he]; uru[sow]
+#etcsl: line-id=37
+
+38. kug {d}inana-ke₄ nu-bar-ra e-ne-er mu-na-ur₁₁-ru
+#lem: kug[purify]; Inanak[1]DN; nubar[female profession]; ane[he]; uru[sow]
+#etcsl: line-id=38
+
+39. {na₄}šuba-na-ke₄ {na₄}šuba-na-ke₄ {na₄}šuba na-ur₁₁-ru
+#lem: šuba[precious stone]; šuba[precious stone]; šuba[precious stone]; uru[sow]
+#etcsl: line-id=39
+
+40. {d}ama-ušumgal-an-na-ke₄ {na₄}šuba-na-ke₄ {na₄}šuba na-ur₁₁-ru
+#lem: Amaʾušumgalanak[1]DN; šuba[precious stone]; šuba[precious stone]; uru[sow]
+#etcsl: line-id=40
+
+41. {na₄}šuba ur₁₁-ru {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+#lem: šuba[precious stone]; uru[sow]; šuba[precious stone]; uru[sow]; aba[who?]; uru[sow]
+#etcsl: line-id=41
+
+42. {d}ama-ušumgal-an-na {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+#lem: Amaʾušumgalanak[1]DN; šuba[precious stone]; uru[sow]; aba[who?]; uru[sow]
+#etcsl: line-id=42
+
+43. ma-ab-du₃-da-a-ŋa₂ ma-ab-du₃-da-a-ŋa₂ sun₄-a-ni {na₄}za-gin₃-na {{%akk ba-a-ni-i}}
+#lem: du[build]; du[build]; sum[beard]; zagin[lapis lazuli]; L
+#etcsl: line-id=43
+
+44. me-a-am an-ne₂ ma-ab-du₃-da-a-ŋa₂ sun₄-a-ni {na₄}za-gin₃-na
+#lem: meʾam[term of endearment]; An[1]DN; du[build]; sum[beard]; zagin[lapis lazuli]
+#etcsl: line-id=44
+
+45. X-e sun₄-a-ni {na₄}za-gin₃-na sun₄-a-ni {na₄}za-gin₃-na
+#lem: X; sum[beard]; zagin[lapis lazuli]; sum[beard]; zagin[lapis lazuli]
+#etcsl: line-id=45
+
+@div trailer 
+
+46. kun-ŋar {d}inana-kam
+#lem: kunŋar[literary subscript]; Inanak[1]DN
+#etcsl: line-id=46
+
+@end trailer
+
+
+
+
+
+
+

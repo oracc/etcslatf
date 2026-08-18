@@ -1,0 +1,410 @@
+&Q000815 = Proverbs: collection 23
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.23
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.23&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 23.1
+
+A.23.1.1. [...] MU id₂-da X [...]
+#lem: X; X; id[river]; X; X
+#etcsl: line-id=A.23.1.1
+
+A.23.1.2. [...] DIM₂-bi SI
+#lem: X; X; X
+#etcsl: line-id=A.23.1.2
+
+A.23.1.3. [...] HI a-pap lu₂ SU BA A
+#lem: X; X; apap[clay pipe]; lu[person]; X; X; X
+#etcsl: line-id=A.23.1.3
+
+A.23.1.4. [...] sikil-ra a-pap an-dul₃ nu-lu-a
+#lem: X; sikil[pure]; apap[clay pipe]; andul[shade]; lu[abundant]
+#etcsl: line-id=A.23.1.4
+
+@end proverb
+
+@div proverb 23.2
+
+A.23.2.5. [...]-ŋu₁₀ diŋir-ŋu₁₀ dumu-gir₁₅-ŋu₁₀ me-ŋu₁₀
+#lem: X; diŋir[deity]; dumugir[citizen]; me[Being]
+#etcsl: line-id=A.23.2.5
+
+#etcsl#cf cf. 6.1.01.125, 6.1.14.41, 6.1.22: l. 33
+
+A.23.2.6. [...]-ŋu₁₀ e₂ um-ma e₃-a
+#lem: X; e[house]; umma[old woman]; e[leave]
+#etcsl: line-id=A.23.2.6
+
+A.23.2.7. [...]-še₃ e₂ DU-de₃
+#lem: X; e[house]; X
+#etcsl: line-id=A.23.2.7
+
+A.23.2.8. %e [mu-ud-na]-ŋu₁₀ %s ku₆-a ŋiri₃-pad ma-degₓ(RI)-degₓ(RI)
+#lem: mudna[spouse]N; kud[fish]; ŋiripadra[bone]; deg[gather up]
+#etcsl: line-id=A.23.2.8
+
+A.23.2.9. [...] X GI GA edin-na nu-me-am₃
+#lem: X; X; X; X; eden[back]; me[be]
+#etcsl: line-id=A.23.2.9
+
+@end proverb
+
+@div proverb 23.3
+
+A.23.3.10. [...] X hi-li-na
+#lem: X; X; hili[attractiveness]
+#etcsl: line-id=A.23.3.10
+
+A.23.3.11. [...] X-bi dug₃-ga-X
+#lem: X; X; dug[good]
+#etcsl: line-id=A.23.3.11
+
+A.23.3.12. [...] X GA in-nu-uš X
+#lem: X; X; X; inu[straw]; X
+#etcsl: line-id=A.23.3.12
+
+A.23.3.13. [...] X dug₃-ga
+#lem: X; X; dug[good]
+#etcsl: line-id=A.23.3.13
+
+@end proverb
+
+@div proverb 23.4
+
+A.23.4.14. [...] ki-gub ga-mu-da-[...]
+#lem: X; kigub[station]; X
+#etcsl: line-id=A.23.4.14
+
+A.23.4.15. [...] DAR [...]
+#lem: X; X; X
+#etcsl: line-id=A.23.4.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 23.6
+
+B.23.6.1. [...] GI X DAM [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.23.6.1
+
+B.23.6.2. u₃ nu-mu-da-be₂ X [...]
+#lem: u[and]; dug[speak]; X; X
+#etcsl: line-id=B.23.6.2
+
+@end proverb
+
+@div proverb 23.7
+
+B.23.7.3. hi-li sipad KU šir-[a-ni]
+#lem: hili[attractiveness]; sipad[shepherd]; X; šir[testicle]
+#etcsl: line-id=B.23.7.3
+
+#etcsl#cf cf. 6.1.01.153, 6.1.01.159, 6.1.02.62, 6.1.02.142, 6.1.03.9, 6.1.16.b4-5, 6.1.22: ll. 26-27, 6.1.25.7
+
+B.23.7.4. nu-{ŋiš}kiri₆ suhur-[a-ni]
+#lem: nukirik[gardener]; suhur[tuft]
+#etcsl: line-id=B.23.7.4
+
+B.23.7.5. {kuš}a₂-ŋa₂-la₂-še₃ šu! il₂ [...]
+#lem: aŋala[leather sack]; šu[hand]; il[raise]; X
+#etcsl: line-id=B.23.7.5
+
+B.23.7.6. dam nu-il₂ dumu nu-[il₂]
+#lem: dam[spouse]; il[raise]; dumu[child]; il[raise]
+#etcsl: line-id=B.23.7.6
+
+B.23.7.7. lu₂-lul-la e₂-[a-ni nu-mu-un-da-du₃]
+#lem: lulul[liar]; e[house]; du[build]
+#etcsl: line-id=B.23.7.7
+
+B.23.7.8. e₂ gu₅-li-ŋu₁₀ {ŋiš}al-tar-re [ba-gub]
+#lem: e[house]; guli[friend]; altar[construction work]; gub[stand]
+#etcsl: line-id=B.23.7.8
+
+B.23.7.9. lu₂-lul-la gal₄-la! [ba-an-us₂]
+#lem: lulul[liar]; gala[female genitals]; us[accompany]
+#etcsl: line-id=B.23.7.9
+
+B.23.7.10. lu₂ nu-ŋar-ra {ŋiš}šu-gur₁₀ 2-[am₃]
+#lem: lu[person]; niŋnuŋara[malice]; kin[sickle]; n
+#etcsl: line-id=B.23.7.10
+
+B.23.7.11. e₂ lu₂ zid-da du₃-a
+#lem: e[house]; lu[person]; zid[right]; du[build]
+#etcsl: line-id=B.23.7.11
+
+B.23.7.12. lu₂-lul-la ba-gul
+#lem: lulul[liar]; gul[destroy]
+#etcsl: line-id=B.23.7.12
+
+@end proverb
+
+@div proverb 23.8
+
+B.23.8.13. nu-mu-un-na-du-du ŋiri₃ <nu>-mu-na-ŋa₂-ŋa₂
+#lem: du[go]; ŋiri[foot]; ŋar[put]
+#etcsl: line-id=B.23.8.13
+
+B.23.8.14. nam-til₃-la (1:a-gin₇ i₃-dib₂-be₂:1)
+#lem: namtil[life]; a[water]; dib[pass]
+#etcsl: line-id=B.23.8.14
+
+:14v.1.1: ($1 ms. has instead:$) e-ne-gin₇ mu-ni-in-dib₂-be₂
+#lem: ane[he]; dib[pass]
+
+B.23.8.15. lu₂ zid nu-kal!-la (1:nam-uš₂-ta dirig:1)
+#lem: lu[person]; zid[right]; kal[rare]; namuš[death]; dirig[make more than]
+#etcsl: line-id=B.23.8.15
+
+:15v.1.1: ($1 ms. has instead:$) nam-til₃ li#-bi₂-in-šum₂#
+#lem: namtil[life]; šum[give]
+
+B.23.8.16. nu-kug-gin₇ (1:mu-un-TI GAR-e nu-tar!-[re]:1)
+#lem: kug[pure]; X; X; tar[cut]
+#etcsl: line-id=B.23.8.16
+
+:16v.1.1: ($1 ms. has instead:$) mu-un-ni-šub en₃-na nu-tar#-re
+#lem: šub[fall]; en[cvne]; tar[cut]
+
+B.23.8.17. tug₂-gin₇ i₃-mu₄-mu₄
+#lem: tug[textile]; mur[dress]
+#etcsl: line-id=B.23.8.17
+
+B.23.8.18. nam-tag dugud un-ŋar-ra
+#lem: namtaga[sin]; dugud[heavy]; ŋar[put]
+#etcsl: line-id=B.23.8.18
+
+B.23.8.19. (1:a-ba mu-ni lu₂ dam lu₂-kam ba-nu₂!:1)
+#lem: aba[who?]; mu[name]; lu[person]; dam[spouse]; lu[person]; nud[lie down]
+#etcsl: line-id=B.23.8.19
+
+:19v.1.1: ($1 ms. has instead:$) a-ba-am₃ e-ne lu₂ dam lu₂-ka in-da-nu₂#-a
+#lem: aba[who?]; ane[he]; lu[person]; dam[spouse]; lu[person]; nud[lie down]
+
+@end proverb
+
+@div proverb 23.9
+
+B.23.9.20. an u₂-ga{mušen} ki {d}nin-kilim
+#lem: an[sky]; uga[raven]; ki[place]; ninkilim[mongoose]
+#etcsl: line-id=B.23.9.20
+
+#etcsl#cf cf. 6.1.01.128, 6.1.22: ll. 146-147, 6.2.3: UET 6/2 210
+
+B.23.9.21. edin-na ur-mah-e ki-tuš-a-bi-X nitalam!(|MUNUS.UŠ|)-ŋu₁₀ me#-am₃ ga-ba-ŋen
+#lem: eden[back]; urmah[lion]; kituš[dwelling place]; ŋidlam[(equal ranking) spouse]; mea[where?]; ŋen[go]
+#etcsl: line-id=B.23.9.21
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 23.14
+
+C.23.14.1. [...] RI
+#lem: X; X
+#etcsl: line-id=C.23.14.1
+
+C.23.14.2. [...] ŋa₂-ŋa₂
+#lem: X; ŋar[put]
+#etcsl: line-id=C.23.14.2
+
+C.23.14.3. [...] X GA na-am₃
+#lem: X; X; X; me[be]
+#etcsl: line-id=C.23.14.3
+
+C.23.14.4. [...] X DI# NU UM nam-ma-an-GA#
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.23.14.4
+
+@end proverb
+
+@div proverb 23.15
+
+C.23.15.5. [...] MU niŋ₂-ŋu₁₀ e₃-a niŋ₂ LU X-ba e₃-a
+#lem: X; X; niŋ[thing]; e[leave]; niŋ[thing]; X; X; e[leave]
+#etcsl: line-id=C.23.15.5
+
+C.23.15.6. [...] ku#-nu-da
+#lem: X; kunu[approach]
+#etcsl: line-id=C.23.15.6
+
+@end proverb
+
+@div proverb 23.16
+
+C.23.16.7. [...] NU nam-<mu>-un-da-ku₄-ku₄
+#lem: X; X; kur[enter]
+#etcsl: line-id=C.23.16.7
+
+C.23.16.8. X bappir-re šu nam-kar₂-kar₂-de₃
+#lem: X; bappir[an ingredient in beer-making]; šu[hand]; kar[blow]
+#etcsl: line-id=C.23.16.8
+
+C.23.16.9. [...] tum₃ am₃-ba nu-ub-kur₉
+#lem: X; tum[bring]; ba[allot]; kur[enter]
+#etcsl: line-id=C.23.16.9
+
+C.23.16.10. [...] me šul diŋir-zu he₂-du₈
+#lem: X; me[Being]; šul[youth]; diŋir[deity]; du[spread]
+#etcsl: line-id=C.23.16.10
+
+@end proverb
+
+@div proverb 23.17
+
+C.23.17.11. [...] X GA BA X X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.23.17.11
+
+C.23.17.12. [...] X X
+#lem: X; X; X
+#etcsl: line-id=C.23.17.12
+
+@end proverb
+
+@div proverb 23.18
+
+C.23.18.13. {[kuš]}ummud# zi lu₂-kam
+#lem: ummud[waterskin]; zi[life]; lu[person]
+#etcsl: line-id=C.23.18.13
+
+#etcsl#cf cf. 6.1.19.c7, 6.1.21.c1, 6.1.24.8
+
+C.23.18.14. {[kuš]}e-sir₂ igi lu₂-kam
+#lem: esir[sandal(s)]; igi[eye]; lu[person]
+#etcsl: line-id=C.23.18.14
+
+C.23.18.15. [dam] ma!-ma lu₂-kam
+#lem: dam[spouse]; dim[check]; lu[person]
+#etcsl: line-id=C.23.18.15
+
+C.23.18.16. [dumu]-nitah# ŋissu lu₂-kam
+#lem: dumunita[son]; ŋissu[shade]; lu[person]
+#etcsl: line-id=C.23.18.16
+
+C.23.18.17. [dumu]-munus# saŋ šum₂-ma lu₂-kam
+#lem: dumumunus[daughter]; saŋ[head]; šum[give]; lu[person]
+#etcsl: line-id=C.23.18.17
+
+C.23.18.18. [e₂]-gi₄#-a %e mu-la %s lu₂-kam
+#lem: egia[bride]; mula[policeman]N; lu[person]
+#etcsl: line-id=C.23.18.18
+
+@end proverb
+
+@div proverb 23.19
+
+C.23.19.19. [...] AB DU
+#lem: X; X; X
+#etcsl: line-id=C.23.19.19
+
+C.23.19.20. [...] X NE
+#lem: X; X; X
+#etcsl: line-id=C.23.19.20
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+#lg 23.1	proverb
+
+@(A.23.1.1 = 1-4)   @gap{4 lines fragmentary} 
+
+#lg 23.2	proverb
+
+@(A.23.2.5 = 5-9)  @note{cf. @xref[t.6.1.01,t.6.1.01.125]{6.1.01.125}, @xref[t.6.1.14,t.6.1.14.41]{6.1.14.41}, @xref[t.6.1.22,]{6.1.22: l. 33}}  @gap{3 lines unclear}  My husband picks the bones from the fish for me. …… is not in the desert.
+
+#lg 23.3	proverb
+
+@(A.23.3.10 = 10-13)   @gap{4 lines fragmentary} 
+
+#lg 23.4	proverb
+
+@(A.23.4.14 = 14-15)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg 23.6	proverb
+
+@(B.23.6.1 = 1-2)   @gap{2 lines fragmentary} 
+
+#lg 23.7	proverb
+
+@(B.23.7.3 = 3-12)  @note{cf. @xref[t.6.1.01,t.6.1.01.153]{6.1.01.153}, @xref[t.6.1.01,t.6.1.01.159]{6.1.01.159}, @xref[t.6.1.02,t.6.1.02.62]{6.1.02.62}, @xref[t.6.1.02,t.6.1.02.142]{6.1.02.142}, @xref[t.6.1.03,t.6.1.03.9]{6.1.03.9}, @xref[t.6.1.16,t.6.1.16.b4]{6.1.16.b4-5}, @xref[t.6.1.22,]{6.1.22: ll. 26-27}, @xref[t.6.1.25,t.6.1.25.7]{6.1.25.7}} A …… shepherd's sex appeal is his testicles (?); a gardener's is his hair. …… a waterskin. He who does not support a wife, and who does not support a son. Although the dishonest man was unable to build his own house, he came to serve as a construction worker at my friend's house. A dishonest man chases after women's genitals; an unreliable man has two sickles. A house built by a righteous man is destroyed by a treacherous man.
+
+#lg 23.8	proverb
+
+@(B.23.8.13 = 13-19)  No one walks together with him or directs their steps towards him. Life  @varh[t6123.v1]{passes him by like water } @vart[t6123.v2,]{@note{1 ms. has instead:} eludes him just as he avoids others }. He is dear to no just man,  @varh[t6123.v3]{plague prevails over him } @vart[t6123.v4,]{@note{1 ms. has instead:} life is not given to him }. Like a worthless penny,  @varh[t6123.v5]{……; no one …… } @vart[t6123.v6,]{@note{1 ms. has instead:} he is thrown away; no one cares about him }. He is clothed with a garment as if a heavy punishment were assigned to him.  @varh[t6123.v7]{Who is he? His name? A man sleeping with someone's wife. } @vart[t6123.v8,]{@note{1 ms. has instead:} Who is he? He is a man who slept with someone's wife. }
+
+
+#etcsl#altGrpo
+#etcsl#alt t6123.v1 t6123.v2
+#etcsl#alt t6123.v3 t6123.v4
+#etcsl#alt t6123.v5 t6123.v6
+#etcsl#alt t6123.v7 t6123.v8
+#etcsl#altGrpc
+#lg 23.9	proverb
+
+@(B.23.9.20 = 20-21)  @note{cf. @xref[t.6.1.01,t.6.1.01.128]{6.1.01.128}, @xref[t.6.1.22,]{6.1.22: ll. 146-147}, @xref[t.6.2.3,t623.h9]{6.2.3: UET 6/2 210}} In the sky there is the raven, on the earth there is the mongoose; and in the desert a lion in its den; my husband (?), where shall I go?  @gap{unknown no. of lines missing} 
+
+
+#lg 23.14	proverb
+
+@(C.23.14.1 = 1-4)   @gap{4 lines fragmentary} 
+
+#lg 23.15	proverb
+
+@(C.23.15.5 = 5-6)   @gap{2 lines unclear} 
+
+#lg 23.16	proverb
+
+@(C.23.16.7 = 7-10)   @gap{4 lines unclear} 
+
+#lg 23.17	proverb
+
+@(C.23.17.11 = 11-12)   @gap{2 lines fragmentary} 
+
+#lg 23.18	proverb
+
+@(C.23.18.13 = 13-18)  @note{cf. @xref[t.6.1.19,t.6.1.19.c7]{6.1.19.c7}, @xref[t.6.1.21,t.6.1.21.c1]{6.1.21.c1}, @xref[t.6.1.24,t.6.1.24.8]{6.1.24.8}} A man's waterskin is his life. A man's sandals are his eyes. A man's wife is his ……. A man's son is his protective shade. A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.
+
+#lg 23.19	proverb
+
+@(C.23.19.19 = 19-20)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

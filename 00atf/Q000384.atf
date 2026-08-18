@@ -1,0 +1,321 @@
+&Q000384 = An adab to Bau for Luma (Luma A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.3.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.1&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. dumu an-na an gal ki gal-ta šag₄ kug-ga-ni im-mi-in-pad₃-de₃
+#lem: dumu[child]; An[1]DN; an[sky]; gal[big]; ki[place]; gal[big]; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in Ur III catalogue at Yale, 0.1.2, line 42 (?)
+
+A.2. nam-nin kalam-ma-kam bi₂-in-tum₂-en
+#lem: namnin[ladyship]; kalam[the Land (of Sumer)]; tum[suitable]
+#etcsl: line-id=A.2
+
+A.3. {d}ba-u₂ dumu an-na an gal ki gal-ta
+#lem: Bau[1]DN; dumu[child]; An[1]DN; an[sky]; gal[big]; ki[place]; gal[big]
+#etcsl: line-id=A.3
+
+A.4. šag₄ kug-ga-ni im-mi-in-pad₃-de₃
+#lem: šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=A.4
+
+A.5. nam-nin kalam-ma-kam bi₂-in-tum₂-en
+#lem: namnin[ladyship]; kalam[the Land (of Sumer)]; tum[suitable]
+#etcsl: line-id=A.5
+
+A.6. {d}en-lil₂-le e₂-kur za-gin₃-ta
+#lem: Enlil[1]DN; Ekur[1]TN; zagin[lapis lazuli]
+#etcsl: line-id=A.6
+
+A.7. ki-sikil ama {d}ba-u₂ igi zid mu-un-ši-in-bar
+#lem: kisikil[young woman]; ama[mother]; Bau[1]DN; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=A.7
+
+A.8. en# {d}nin-ŋir₂-su gal-bi mu-un-na-an-du₇
+#lem: en[lord]; Ninŋirsuk[1]DN; gal[big]; du[perfect]
+#etcsl: line-id=A.8
+
+A.9. kur gal {d}en-lil₂-le e₂-kur za-gin₃-ta
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; Ekur[1]TN; zagin[lapis lazuli]
+#etcsl: line-id=A.9
+
+A.10. ki-sikil ama {d}ba-u₂ igi zid mu-un-ši-in-bar
+#lem: kisikil[young woman]; ama[mother]; Bau[1]DN; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=A.10
+
+A.11. en {d}nin-ŋir₂-su-ra gal-bi mu-na-ab-du₇
+#lem: en[lord]; Ninŋirsuk[1]DN; gal[big]; du[perfect]
+#etcsl: line-id=A.11
+
+A.12. e₂-tar-sir₂-sir₂ an-ne₂ ŋar-ra-za
+#lem: Etarsirsir[1]TN; An[1]DN; ŋar[put]
+#etcsl: line-id=A.12
+
+A.13. nam kur-kur-ra ša-mu-ni-ib₂-tar-re
+#lem: nam[fate]; kur[mountain(s)]; tar[cut]
+#etcsl: line-id=A.13
+
+A.14. nin-ŋu₁₀ ŋiš i₃-in-bar di-bi-še₃! i₃-kud-de₃
+#lem: nin[lady]; kaš[decision]; bar[place outside]; did[lawsuit]; kud[cut]
+#etcsl: line-id=A.14
+
+A.15. {d}ba-u₂ e₂-tar-sir₂-sir₂ an-ne₂ ŋar-ra-za
+#lem: Bau[1]DN; Etarsirsir[1]TN; an[sky]; ŋar[put]
+#etcsl: line-id=A.15
+
+A.16. nam kur-kur-ra ša-mu-ni-ib₂-tar-re
+#lem: nam[fate]; kur[mountain(s)]; tar[cut]
+#etcsl: line-id=A.16
+
+A.17. {d}ba-u₂ ŋiš i₃-in-bar di-bi-še₃ i₃-kud-de₃
+#lem: Bau[1]DN; kaš[decision]; bar[place outside]; did[lawsuit]; kud[cut]
+#etcsl: line-id=A.17
+
+A.18. {d}lamma RI kisal iri-kug-ga-za
+#lem: lammar[(female) tutelary deity]; X; kisal[courtyard]; Irikug[1]SN
+#etcsl: line-id=A.18
+
+A.19. saŋ gig₂-ge-zu si ša-ra-ab-sa₂-e
+#lem: saŋ[head]; giggig[black]; si[horn]; sa[equal]
+#etcsl: line-id=A.19
+
+A.20. {d}ba-u₂ {d}lamma RI kisal iri-kug-ga-za
+#lem: Bau[1]DN; lammar[(female) tutelary deity]; X; kisal[courtyard]; Irikug[1]SN
+#etcsl: line-id=A.20
+
+A.21. saŋ gig₂-ge-zu si ša-ra-ab-sa₂-e
+#lem: saŋ[head]; giggig[black]; si[horn]; sa[equal]
+#etcsl: line-id=A.21
+
+A.22. nin-ŋu₁₀ dug₄-ga-zu ki-bi-še₃ ši-ib₂-ŋar
+#lem: nin[lady]; dug[speak]; ki[place]; ŋar[put]
+#etcsl: line-id=A.22
+
+A.23. {d}ba-u₂ dug₄-ga-zu ki-bi-še₃ ši-ib₂-ŋar
+#lem: Bau[1]DN; dug[speak]; ki[place]; ŋar[put]
+#etcsl: line-id=A.23
+
+A.24. [ki] lagaš{ki}-a ki-tuš kug me sikil-la-za
+#lem: ki[place]; Lagaš[1]SN; kituš[dwelling place]; kug[purify]; me[Being]; sikil[pure]
+#etcsl: line-id=A.24
+
+A.25. lugal#-še₃ hul₂-la hu-mu-un-ši-ni-ib-ŋal₂
+#lem: lugal[king]; hul[rejoice]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.25
+
+A.26. nin-ŋu₁₀ lugal-še₃ šu-mu-un-ši-ŋal₂
+#lem: nin[lady]; lugal[king]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.26
+
+A.27. {[d]}ba-u₂ ki lagaš{ki} ki-tuš kug me sikil-la-za
+#lem: Bau[1]DN; ki[place]; Lagaš[1]SN; kituš[dwelling place]; kug[purify]; me[Being]; sikil[pure]
+#etcsl: line-id=A.27
+
+A.28. lugal-še₃ hul₂-la ša-mu-un-ši-ni-ib₂-ŋal₂
+#lem: lugal[king]; hul[rejoice]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.28
+
+A.29. {d}ba-u₂ lum-ma šu-mu-un-ši-ib₂-ŋal₂
+#lem: Bau[1]DN; Luma[1]RN; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.29
+
+A.30. inim kug-zu giri₁₇ šu ša-ra-ab-ŋal₂
+#lem: inim[word]; kug[pure]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.30
+
+@div trailer 
+
+A.31. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=A.31
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.32. nin si-a-ni e-du₇ {d}ba-u₂ niŋ₂-zu lu₂ nu-zu
+#lem: nin[lady]; si[horn]; du[perfect]; Bau[1]DN; niŋ[thing]; lu[person]; zu[know]
+#etcsl: line-id=B.32
+
+B.33. dumu an-na an X-la-ta teš₂ mu-ŋal₂-da mah-di
+#lem: dumu[child]; An[1]DN; An[1]DN; X; teš[unity]; ŋal[⟦be⟧ to be (there]; mahdi[exalted]
+#etcsl: line-id=B.33
+
+@div trailer 
+
+B.34. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.34
+
+@end trailer
+
+@end jicgijal
+
+@div unknown C
+
+C.35. nin-ŋu₁₀ dug₄-ga-zu zid-da
+#lem: nin[lady]; dug[speak]; zid[right]
+#etcsl: line-id=C.35
+
+C.36. inim mah-zu niŋ₂ nu-silig-ge-de₃
+#lem: inim[word]; mah[great]; niŋ[thing]; silig[cease]
+#etcsl: line-id=C.36
+
+C.37. {d}ba-u₂ dug₄-ga-zu <zid-da>
+#lem: Bau[1]DN; dug[speak]; zid[right]
+#etcsl: line-id=C.37
+
+C.38. inim mah-zu <niŋ₂ nu-silig-ge-de₃>
+#lem: inim[word]; mah[great]; niŋ[thing]; silig[cease]
+#etcsl: line-id=C.38
+
+C.39. inim kug-zu diŋir-ra ša-mu-un-na-ŋal₂
+#lem: inim[word]; kug[pure]; diŋir[deity]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.39
+
+C.40. lugal-ra ud-de₃-eš-e mu-un-e₃
+#lem: lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=C.40
+
+C.41. {d}ba-u₂ inim kug-zu <diŋir-ra ša-mu-un-na-ŋal₂>
+#lem: Bau[1]DN; inim[word]; kug[pure]; diŋir[deity]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.41
+
+C.42. lugal lum-ma-ra ud-de₃-eš-e <mu-un-e₃>
+#lem: lugal[king]; Luma[1]RN; ud[sun]; e[leave]
+#etcsl: line-id=C.42
+
+C.43. saŋ-ki-za ki hul₂-hul₂-la-bi
+#lem: saŋki[forehead]; ki[place]; hul[rejoice]
+#etcsl: line-id=C.43
+
+C.44. lugal-ra ud-de₃-eš-e mu-un-e₃
+#lem: lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=C.44
+
+C.45. {d}ba-u₂ saŋ-ki-za <ki hul₂-hul₂-la-bi>
+#lem: Bau[1]DN; saŋki[forehead]; ki[place]; hul[rejoice]
+#etcsl: line-id=C.45
+
+C.46. lugal lum-ma-ra <ud-de₃-eš-e mu-un-e₃>
+#lem: lugal[king]; Luma[1]RN; ud[sun]; e[leave]
+#etcsl: line-id=C.46
+
+C.47. inim-zu ki dug₃-ga sa₂-a-bi
+#lem: inim[word]; ki[place]; dug[good]; sa[equal]
+#etcsl: line-id=C.47
+
+C.48. lugal-ra ud-de₃-eš-e mu-un-e₃
+#lem: lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=C.48
+
+C.49. {d}ba-u₂ inim-zu <ki dug₃-ga sa₂-a-bi>
+#lem: Bau[1]DN; inim[word]; ki[place]; dug[good]; sa[equal]
+#etcsl: line-id=C.49
+
+C.50. lugal lum-ma-ra ud-de₃-eš-e <mu-un-e₃>
+#lem: lugal[king]; Luma[1]RN; ud[sun]; e[leave]
+#etcsl: line-id=C.50
+
+C.51. lum-ma lugal an-ne₂ sahar-ra
+#lem: Luma[1]RN; lugal[king]; an[sky]; sahar[soil]
+#etcsl: line-id=C.51
+
+C.52. mu mah mu-na-an-šum₂ inim zid mu-na-an-dug₄
+#lem: mu[name]; mah[great]; šum[give]; inim[word]; zid[right]; dug[speak]
+#etcsl: line-id=C.52
+
+C.53. {d}ba-u₂ lum-ma <lugal an-ne₂ sahar-ra>
+#lem: Bau[1]DN; Luma[1]RN; lugal[king]; an[sky]; sahar[soil]
+#etcsl: line-id=C.53
+
+C.54. mu mah mu-na-an-šum₂ <inim zid mu-na-an-dug₄>
+#lem: mu[name]; mah[great]; šum[give]; inim[word]; zid[right]; dug[speak]
+#etcsl: line-id=C.54
+
+C.55. nin iri-ni ki aŋ₂-e ni₂-te-ni pa bi₂-in-e₃
+#lem: nin[lady]; iri[city]; ki[place]; aŋ[measure]; ni[self]; pa[branch]; e[leave]
+#etcsl: line-id=C.55
+
+C.56. {d}ba-u₂ nin iri-ni <ki aŋ₂-e ni₂-te-ni pa bi₂-in-e₃>
+#lem: Bau[1]DN; nin[lady]; iri[city]; ki[place]; aŋ[measure]; ni[self]; pa[branch]; e[leave]
+#etcsl: line-id=C.56
+
+C.57. lugal-ra ki# kug-ga-še₃# mi₂# zid mu-ni-in-dug₄
+#lem: lugal[king]; ki[place]; kug[pure]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=C.57
+
+@end unknown
+
+@div trailer 
+
+C.58. a-da-ab {d}ba-u₂-kam
+#lem: adab[drum]; Bau[1]DN
+#etcsl: line-id=C.58
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-gida
+
+
+@(A.1 = 1-11) Child of @wDN{An}, he has chosen you in his holy heart in the great sky and on the great earth and made you worthy of the ladyship of the Land. @wDN{Bau}, child of @wDN{An}, he has chosen you in his holy heart in the great sky and on the great earth and made you worthy of the ladyship of the Land. @wDN{Enlil} has looked at you with favour, young woman, Mother @wDN{Bau}, from the shining @wTN{E-kur}, and made you eminently fit for Lord @wDN{Ninŋirsu}. The Great Mountain @wDN{Enlil} has looked at you with favour, young woman, Mother @wDN{Bau}, from the shining @wTN{E-kur} and made you eminently fit for Lord @wDN{Ninŋirsu}.
+
+@(A.12 = 12-21) In the @wTN{E-tar-sirsir}, founded for you by @wDN{An}, you decide the fate of all the countries; you, my lady, render verdicts and decree judgments. @wDN{Bau}, in the @wTN{E-tar-sirsir}, founded for you by @wDN{An}, you decide the fate of all the countries; you, @wDN{Bau}, render verdicts and decree judgments. The …… protective genius directs your black-headed people before you in your courtyard in @wSN{Iri-kug}. @wDN{Bau}, the …… protective genius directs your black-headed people before you in your courtyard in @wSN{Iri-kug}.
+
+@(A.22 = 22-30) My lady, what you say is firmly grounded; @wDN{Bau}, what you say is firmly grounded. It makes the king ruling in the land of @wSN{Lagaš}, in your holy dwelling place of the pure divine powers, extremely happy; my lady, it makes the king extremely happy. @wDN{Bau}, it makes the king ruling in the land of @wSN{Lagaš}, in your holy dwelling place of the pure divine powers, extremely happy; @wDN{Bau}, it makes @wRN{Luma} extremely happy, he salutes your holy words.
+
+#trailer rubric	sa-gida
+
+
+@(A.31 = 31) This is the @fsux{sa-gida}.
+
+#lg B	jicgijal
+
+
+@(B.32 = 32-33) Lady whose horns are perfect (?), @wDN{Bau}, nobody can learn what you are; child of @wDN{An}, with …… @wDN{An}, grandiloquent one.
+
+#trailer rubric	jicgijal
+
+
+@(B.34 = 34) @fsux{Ŋišgiŋal}.
+
+#lg C	unknown
+
+
+@(C.35 = 35-50) My lady, what you say is trustworthy, your lofty words are enduring. @wDN{Bau}, what you say is trustworthy, your lofty words are enduring. Your holy words are devoted to the god, they are as clear as daylight for the king. @wDN{Bau}, your holy words are devoted to the god, they are as clear as daylight for the king, @wRN{Luma}. Your joyous countenance is as clear as daylight for the king; @wDN{Bau}, your joyous countenance is as clear as daylight for the king, @wRN{Luma}. Your words, which …… the pleasant place, are as clear as daylight for the king; @wDN{Bau}, your words, which …… the pleasant place, are as clear as daylight for the king, @wRN{Luma}.
+
+@(C.51 = 51-57) You have given a lofty name to @wRN{Luma}, the king …… by @wDN{An}, you have spoken to him with friendly words. @wDN{Bau}, you have given a lofty name to @wRN{Luma}, the king …… by @wDN{An}, you have spoken to him with friendly words. Lady who loves his city, you have made him pre-eminent; @wDN{Bau}, lady who loves his city, you have made him pre-eminent. In the holy place you have treated the king graciously.
+
+#trailer subscript	adab
+
+
+@(C.58 = 58) An @fsux{adab} of @wDN{Bau}.
+
+
+
+

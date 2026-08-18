@@ -1,0 +1,2134 @@
+&Q000799 = Proverbs: collection 5
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.05&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div proverb 5.1
+
+@variants
+
+A.5.1.1. am-si ni₂-te#-a-ni maš₂#-[anše] {[d]}[šakkan₂-ka]
+#lem: amsi[elephant]; ni[self]; mašanše[animals]; Šakkan[1]DN
+#etcsl: line-id=A.5.1.1
+
+A.5.1.2. niŋ₂ ŋe₂₆-gin₇-nam nu-ŋal₂ na-[ab-be₂-a]
+#lem: niŋ[thing]; ŋaʾe[I]; ŋal[⟦be⟧ to be (there]; e[speak]
+#etcsl: line-id=A.5.1.2
+
+A.5.1.3. an-ti-ri₂-gu₇{mušen}-e mu-na#-[ni-ib-gi₄-gi₄]
+#lem: altirigu[wren]; gi[turn]
+#etcsl: line-id=A.5.1.3
+
+A.5.1.4. u₃ ŋe₂₆-e igi-te-en-ŋu₁₀-še₃
+#lem: u[and]; ŋaʾe[I]; igiten[fraction (math.)]
+#etcsl: line-id=A.5.1.4
+
+A.5.1.E. za-a-gin₇-nam al-dim₂-me-en-e-še#
+#lem: zaʾe[you]; dim[create]
+#etcsl: line-id=A.5.1.5
+
+@variant
+
+#etcsl#ms instead of lines 1-5, 1 ms. has:
+A. am-si ni₂-ta-na maš₂-anše {d}šakkan₂-ka {{%akk um-ma %akk pi-ru-um %akk i-na %akk ra-ma-ni-ša %akk i-na %akk bu-ul %akk ša-am-ka-an}}
+#lem: amsi[elephant]; ni[self]; mašanše[animals]; Šakkan[1]DN; L; L; L; L; L; L; L
+#etcsl: line-id=A.5.1.A
+
+B. niŋ₂ ŋe₂₆-gen₆-na-am al-di-me-en nu-ŋal₂ na-ab-be₂-a {{%akk ša %akk ki-ma %akk ia-ti-ma %akk zu-u₂ %akk u₂-ul %akk i-ba-ši}}
+#lem: niŋ[thing]; ŋaʾe[I]; dim[create]; ŋal[⟦be⟧ to be (there]; e[speak]; L; L; L; L; L; L
+#etcsl: line-id=A.5.1.B
+
+C. al-ti-ri₂-gu mu-na-ni-ib-gi₄-gi₄ {{%akk si-pi-di-qa₂-ar %akk i-ip-pa-al}}
+#lem: altirigu[wren]; gi[turn]; L; L
+#etcsl: line-id=A.5.1.C
+
+D. u₃ ŋe₂₆-e i-gi₄-ten-ŋu₁₀-uš {{%akk u₃ %akk a-na-ku %akk ki-ma %akk ka-a-ti}}
+#lem: u[and]; ŋaʾe[I]; igiten[fraction (math.)]; L; L; L; L
+#etcsl: line-id=A.5.1.D
+
+E. za-a-gen₆-nam al-di-me-en-e-še {{%akk a-na %akk ma-na-ti-ia-ma %akk ze₂-a-ku}}
+#lem: zaʾe[you]; dim[create]; L; L; L
+#etcsl: line-id=A.5.1.E
+
+@endvariants
+@end proverb
+
+@div proverb 5.2
+
+A.5.2.6. (1:am-si-gin₇ ma₂ su-a ed₃-de₃-de₃ im-du-de₃-en:1)
+#lem: amsi[elephant]; ma[ship]; su[sink]; ed[go up]; ŋen[go]
+#etcsl: line-id=A.5.2.6
+
+:6v.1.1: ($1 ms. has instead:$) am-si ma sa-a e-de-de-en im-tu-mu-un-e-še {{%akk pi-ra %akk a-na %akk i-li-pi %akk ṭe-bi-tim %akk a-na %akk šu-li-i %akk i-re-ed-du-u₂}}
+#lem: amsi[elephant]; ma[ship]; su[sink]; ed[go up]; de[carry]; L; L; L; L; L; L; L
+
+@end proverb
+
+@div proverb 5.3
+
+A.5.3.7. am-e niŋ₂-gig apin-na-kam
+#lem: am[wild bull]; niŋgig[evil]; apin[(seed) plow]
+#etcsl: line-id=A.5.3.7
+
+#etcsl#cf cf. 6.1.03.14
+
+@end proverb
+
+@div proverb 5.4
+
+A.5.4.8. am-gin₇ nam-sag₉-ga ni₂-zu-ka al-sag₉-ge-en-e-še
+#lem: am[wild bull]; namsag[pleasure]; ni[self]; sag[good]
+#etcsl: line-id=A.5.4.8
+
+@end proverb
+
+@div proverb 5.5
+
+A.5.5.9. am-e {u₂}numun₂ al!-ni₁₀-ni₁₀-e
+#lem: am[wild bull]; numun[alfalfa grass]; niŋin[encircle]
+#etcsl: line-id=A.5.5.9
+
+@end proverb
+
+@div proverb 5.6
+
+A.5.6.10. am-e {ŋiš}apin-na du₈-du₈-u₃
+#lem: am[wild bull]; apin[(seed) plow]; du[spread]
+#etcsl: line-id=A.5.6.10
+
+@end proverb
+
+@div proverb 5.7
+
+A.5.7.11. am-e gi KA tug₂ ab-ur₃-re-en
+#lem: am[wild bull]; gi[reed]; X; tug[textile]; ur[drag]
+#etcsl: line-id=A.5.7.11
+
+@end proverb
+
+@variants
+
+#etcsl#ms 1 ms. adds 5 lines (= 4 proverbs):
+@div proverb 5.8
+
+A.5.8.11A. [am]-e# gu₂ e₃-a gu₂# [...]
+#lem: am[wild bull]; gu[neck]; e[leave]; gu[neck]; X
+#etcsl: line-id=A.5.8.11A
+
+A.5.8.11B. [...] an-ta ba-[...]
+#lem: X; an[sky]; X
+#etcsl: line-id=A.5.8.11B
+
+@end proverb
+
+@div proverb 5.9
+
+A.5.9.11C. am-e a₂ kalag-ga-zu [...] mu-e-du₇ [...]
+#lem: am[wild bull]; a[arm]; kalag[strong]; X; du[push]; X
+#etcsl: line-id=A.5.9.11C
+
+@end proverb
+
+@div proverb 5.10
+
+A.5.10.11D. am-e u₃-na-gin₇ SI# [...]
+#lem: am[wild bull]; una[wild]; X; X
+#etcsl: line-id=A.5.10.11D
+
+@end proverb
+
+@div proverb 5.11
+
+A.5.11.11E. am-e ni₂# er₉# [...]
+#lem: am[wild bull]; ni[fear]; ir[mighty]; X
+#etcsl: line-id=A.5.11.11E
+
+@end proverb
+
+@endvariants
+@div proverb 5.12
+
+A.5.12.12. gud-de₃ ŋiri₃-zu-a al-dab₅-be₂-en
+#lem: gud[bull]; ŋiri[foot]; dab[seize]
+#etcsl: line-id=A.5.12.12
+
+@end proverb
+
+@div proverb 5.13
+
+A.5.13.13. gud-gin₇ a-ga gur-ra nu-e-zu
+#lem: gud[bull]; aga[rear]; gur[turn]; zu[know]
+#etcsl: line-id=A.5.13.13
+
+@end proverb
+
+@div proverb 5.14
+
+A.5.14.14. gud naŋa dub₂-ba-še₃ ur-gir₁₅-re ka-bi al-du₈-du₈-u₃
+#lem: gud[bull]; naŋa[potash]; dub[tremble]; urgir[(domestic) dog]; kag[mouth]; du[spread]
+#etcsl: line-id=A.5.14.14
+
+@end proverb
+
+@div proverb 5.15
+
+A.5.15.15. gud a₂ la₂-am₃ lu₂ a₂ la₂-bi an-gu-lu-uš
+#lem: gud[bull]; a[arm]; la[hang]; lu[person]; a[arm]; la[hang]; gal[big]
+#etcsl: line-id=A.5.15.15
+
+@end proverb
+
+@div proverb 5.16
+
+A.5.16.16. [gud ...] X-še₃ ga-an-da-il₂-e
+#lem: gud[bull]; X; X; il[raise]
+#etcsl: line-id=A.5.16.16
+
+@end proverb
+
+@div proverb 5.17
+
+A.5.17.17. [gud sur₁₂-ra ab-sin₂-bi] al-sag₉-sag₉
+#lem: gud[bull]; sur[threshing floor]; absin[furrow]; sag[good]
+#etcsl: line-id=A.5.17.17
+
+#etcsl#cf cf. 6.1.02.86, 6.1.26.d6
+
+@end proverb
+
+@div proverb 5.18
+
+A.5.18.18. [gud ...]-u₃-de₃
+#lem: gud[bull]; X
+#etcsl: line-id=A.5.18.18
+
+A.5.18.19. [...]-e-še
+#lem: X
+#etcsl: line-id=A.5.18.19
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 5.25
+
+B.5.25.1. gud# [...]
+#lem: gud[bull]; X
+#etcsl: line-id=B.5.25.1
+
+B.5.25.2. nu-mu-da#-[...]
+#lem: X
+#etcsl: line-id=B.5.25.2
+
+@end proverb
+
+@div proverb 5.26
+
+B.5.26.3. gud šar₂-ra šurum-bi nu-ŋal₂#-[la-am₃]
+#lem: gud[bull]; šar[numerous]V/i; šurum[dung]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.5.26.3
+
+@end proverb
+
+@div proverb 5.27
+
+B.5.27.4. gud al-lu-lu-un šurum-bi al-degₓ(RI)-degₓ(RI)-ge-en#
+#lem: gud[bull]; lu[abundant]; šurum[dung]; deg[gather up]
+#etcsl: line-id=B.5.27.4
+
+@end proverb
+
+@div proverb 5.28
+
+B.5.28.5. gud šabra-gin₇ sila-a al-ni₁₀-ni₁₀-en
+#lem: gud[bull]; šabra[chief administrator of a temple or other household]; sila[street]; niŋin[encircle]
+#etcsl: line-id=B.5.28.5
+
+@end proverb
+
+@div proverb 5.29
+
+B.5.29.6. gud lugal-bi in-ga-hul₂ sukkal abul-la-kam
+#lem: gud[bull]; lugal[king]; hul[rejoice]; sukkal[secretary]; abula[gate]
+#etcsl: line-id=B.5.29.6
+
+@end proverb
+
+@div proverb 5.30
+
+B.5.30.7. ab₂-e# šag₄# gen₆-na-ni-ta mu-gud si nu-ub-tu₁₁
+#lem: ab[cow]; šag[heart]; gin[confirm]; gud[jump (on)]; si[horn]; tub[strike]
+#etcsl: line-id=B.5.30.7
+
+@end proverb
+
+@div proverb 5.31
+
+B.5.31.8. ab₂ su#-a-gin₇# eŋer# lu₂# gi#-gur-da-ka al-du-un
+#lem: ab[cow]; sua[wild cat]; egir[back]; lu[person]; gigurda[basket]; du[go]
+#etcsl: line-id=B.5.31.8
+
+@end proverb
+
+@div proverb 5.32
+
+B.5.32.9. ab₂# šag₄-sug₄-ga#-bi lu₂# na-me šu nu-bar-re
+#lem: ab[cow]; šagsug[empty]; lu[person]; name[any]; šu[hand]; bar[place outside]
+#etcsl: line-id=B.5.32.9
+
+@end proverb
+
+@div proverb 5.33
+
+B.5.33.10. X NUN# X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.5.33.10
+
+@end proverb
+
+@div proverb 5.34
+
+B.5.34.11. ab₂ u₃-nu-tud-da#-gin₇ amar-za nu-me-a mi-ni-ib-kiŋ₂-kiŋ₂#-e-en
+#lem: ab[cow]; utud[give birth (to)]; amar[calf]; me[be]; kiŋ[seek]
+#etcsl: line-id=B.5.34.11
+
+@end proverb
+
+@div proverb 5.35
+
+B.5.35.12. ab₂-e ambar-ra amar-e# bar-rim₄-ma in-dib
+#lem: ab[cow]; ambar[reed-bed]; amar[calf]; barim[dry land]; dib[pass]
+#etcsl: line-id=B.5.35.12
+
+@end proverb
+
+@div proverb 5.36
+
+B.5.36.13. amar-e šag₄# X X X i-ni-in-kur₉
+#lem: amar[calf]; šag[heart]; X; X; X; kur[enter]
+#etcsl: line-id=B.5.36.13
+
+B.5.36.14. ed₂-de₃# nu-ub-zu# sipad-de₃# saŋ# en₃# un-tar
+#lem: e[leave]; zu[know]; sipad[shepherd]; saŋ[head]; en[cvne]; tar[cut]
+#etcsl: line-id=B.5.36.14
+
+B.5.36.15. [...] {dug#}šakir₃ ba#-an-šub {dug}šakir₃-e ba-an-gaz
+#lem: X; šakir[churn]; šub[fall]; šakir[churn]; gaz[kill]
+#etcsl: line-id=B.5.36.15
+
+B.5.36.16. ud# amar-e im-ta#-e₃ amar-e ba-an-gam
+#lem: ud[sun]; amar[calf]; e[leave]; amar[calf]; gurum[bend]
+#etcsl: line-id=B.5.36.16
+
+B.5.36.17. u₃ {dug}šakir₃ ba-an-gaz
+#lem: u[and]; šakir[churn]; gaz[kill]
+#etcsl: line-id=B.5.36.17
+
+@end proverb
+
+@div proverb 5.37
+
+B.5.37.18. anše-kur-gin₇ i₃-hur#-en i₃-naŋ-zu
+#lem: sisi[horse]; hur[scratch]; naŋ[drink]
+#etcsl: line-id=B.5.37.18
+
+@end proverb
+
+@div proverb 5.38
+
+B.5.38.19. anše-kur lu₂ u₅-a-ni u₃-mu-ni-in-šub
+#lem: sisi[horse]; lu[person]; u[ride]; šub[fall]
+#etcsl: line-id=B.5.38.19
+
+#etcsl#cf cf. 6.2.3: UET 6/2 287
+
+B.5.38.20. tukum-bi gu₂-un-ŋu₁₀ da-ri₂-še₃
+#lem: tukumbi[if]; gun[load]; dari[eternal]
+#etcsl: line-id=B.5.38.20
+
+B.5.38.21. ne-en-nam al-sig-en-e-še
+#lem: nen[this]; sig[weak]
+#etcsl: line-id=B.5.38.21
+
+@end proverb
+
+@div proverb 5.39
+
+B.5.39.22. anše barag la₂-a-ni u₃-mu-ni-in-šub
+#lem: anše[equid]; barag[sack]; la[hang]; šub[fall]
+#etcsl: line-id=B.5.39.22
+
+#etcsl#cf cf. 6.2.3: UET 6/2 283
+
+B.5.39.23. du#-lum ud-bi-ta ŋeštug₂-ŋa₂ ba-an-u₁₈-lu-un-e-še
+#lem: dulum[toil]; udbita[former]; ŋeštug[ear]; ulu[cvve]
+#etcsl: line-id=B.5.39.23
+
+@end proverb
+
+@div proverb 5.40
+
+B.5.40.24. [anše] X [X X] X X NU# UN# [...]
+#lem: anše[equid]; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.5.40.24
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 5.41
+
+C.5.41.1. anše# mu-šub{ub} ur-gir₁₅-re in-[...]
+#lem: anše[equid]; šub[fall]; urgir[(domestic) dog]; X
+#etcsl: line-id=C.5.41.1
+
+@end proverb
+
+@div proverb 5.42
+
+C.5.42.2. anše# id₂-da al-dirig-dirig-ge-ma ur-gir₁₅-re šu ba-ši-ib-degₓ(RI)-degₓ(RI)
+#lem: anše[equid]; id[river]; dirig[make more than]; urgir[(domestic) dog]; šu[hand]; deg[gather up]
+#etcsl: line-id=C.5.42.2
+
+#etcsl#cf cf. 6.2.3: UET 6/2 315
+
+C.5.42.3. [me]-na#-am₃ al-ed₃-de₃ al-gu₇-e-še
+#lem: mena[when?]; ed[go up]; gu[eat]
+#etcsl: line-id=C.5.42.3
+
+@end proverb
+
+@div proverb 5.43
+
+C.5.43.4. anše mu du₃-u₃-bi a₂ bal-e
+#lem: anše[equid]; mu[year]; du[build]; a[arm]; bala[turn]
+#etcsl: line-id=C.5.43.4
+
+C.5.43.5. iti₆-ka# izi mu-ni-in-sag₃#-ge
+#lem: itud[moon]; izi[fire]; sag[strike]
+#etcsl: line-id=C.5.43.5
+
+@end proverb
+
+@div proverb 5.44
+
+C.5.44.6. anše ne-eš₂-am₃ tuš-ma-ab ŋiš₃ pir₂-bi il₂-il₂-ni-ib
+#lem: anše[equid]; ineš[now]; tuš[sit (down)]; ŋeš[penis]; birig[sneer at]; il[raise]
+#etcsl: line-id=C.5.44.6
+
+#etcsl#cf cf. 6.2.3: UET 6/2 236
+
+@end proverb
+
+@div proverb 5.45
+
+C.5.45.7. anše kug 1 giŋ₄-e bal-še₃ i₃-ak-e
+#lem: anše[equid]; kug[metal]; n; giŋ[unit of weight]; bala[turn]; ak[do]
+#etcsl: line-id=C.5.45.7
+
+@end proverb
+
+@div proverb 5.46
+
+C.5.46.8. anše bar udu hi-a-ka ŋiškim nu-mu-e-da-tuku
+#lem: anše[equid]; bar[outside]; udu[sheep]; hi[mix (up)]; ŋeškim[sign]; tuku[acquire]
+#etcsl: line-id=C.5.46.8
+
+#etcsl#cf cf. 6.2.3: UET 6/2 234
+
+@end proverb
+
+@div proverb 5.47
+
+C.5.47.9. [anše ...] kalag#-ge-de₃
+#lem: anše[equid]; X; kalag[strong]
+#etcsl: line-id=C.5.47.9
+
+C.5.47.10. e₂ murum₅-za-ka X-zu na-an#-tuš-e
+#lem: e[house]; murum[member of the wife's family]; X; tuš[sit (down)]
+#etcsl: line-id=C.5.47.10
+
+C.5.47.11. X u₃-bi₂-in-il₂-de₃-en saŋ# mu-ni-in-kal-la!-e-še
+#lem: X; il[raise]; saŋ[head]; kal[rare]
+#etcsl: line-id=C.5.47.11
+
+@end proverb
+
+@div proverb 5.48
+
+C.5.48.12. anše# murgu₂#-na mu-ni-ib-ra#-ra-de₃
+#lem: anše[equid]; murgu[shoulder]; rah[beat]
+#etcsl: line-id=C.5.48.12
+
+C.5.48.13. a-na-am₃# eme X X-am₃#
+#lem: ana[what?]; eme[tongue]; X; X
+#etcsl: line-id=C.5.48.13
+
+@end proverb
+
+@div proverb 5.49
+
+C.5.49.14. anše edin#-še₃ dib-dib-ba NE X [u₃]-bi₂#-in-te
+#lem: anše[equid]; eden[back]; dib[pass]; X; X; teŋ[approach]
+#etcsl: line-id=C.5.49.14
+
+C.5.49.15. dur₂#-bi-ta im-ma-ra-an#-zig₃
+#lem: dur[buttocks]; zig[rise]
+#etcsl: line-id=C.5.49.15
+
+@end proverb
+
+@div proverb 5.50
+
+C.5.50.16. anše# za-na tar lu₂ za-na tar mu-un-pad₃#
+#lem: anše[equid]; X; tar[cut]; lu[person]; X; tar[cut]; pad[find]
+#etcsl: line-id=C.5.50.16
+
+C.5.50.17. ak#-e-de₃ u₃ ŋen-na-e#-še
+#lem: ak[do]; u[and]; ŋen[go]
+#etcsl: line-id=C.5.50.17
+
+@end proverb
+
+@div proverb 5.51
+
+C.5.51.18. [anše] tur₅-ra# X X X mu-ni-in-ed₃-de₃
+#lem: anše[equid]; tur[ill]; X; X; X; ed[go up]
+#etcsl: line-id=C.5.51.18
+
+C.5.51.19. [en-na]-bi-še₃#-am₃# su#-zu nu-ra-sag₉#-ge-en-e-še
+#lem: en[lord]; su[flesh]; sag[good]
+#etcsl: line-id=C.5.51.19
+
+C.5.51.20. tukum#-bi en-na-bi-še₃-am₃ su#-zu nu-ra-sag₉-ge-en
+#lem: tukumbi[if]; en[lord]; su[flesh]; sag[good]
+#etcsl: line-id=C.5.51.20
+
+C.5.51.21. X X X zu ku₃-ŋal₂ i₃-ŋal₂ he₂-mu-e-DU
+#lem: X; X; X; zu[know]; guŋal[inspector]; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=C.5.51.21
+
+C.5.51.22. u₃# ŋiri₃-pad-ra₂-zu hu-mu-ra-sag₉-ge-e-še
+#lem: u[and]; ŋiripadra[bone]; sag[good]
+#etcsl: line-id=C.5.51.22
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 5.52
+
+D.5.52.1. anše kaš₃ lu-[lu-a ...]
+#lem: anše[equid]; kaš[urine]; lu[abundant]; X
+#etcsl: line-id=D.5.52.1
+
+@end proverb
+
+@div proverb 5.53
+
+D.5.53.2. anše nam X [...]
+#lem: anše[equid]; nam[fate]; X; X
+#etcsl: line-id=D.5.53.2
+
+@end proverb
+
+@div proverb 5.55
+
+D.5.55.3. ur-mah-e ud₅ hu-nu-a u₃-mu-ni-in-dab₅
+#lem: urmah[lion]; uzud[(female) goat]; hunu[weak (of animals)]; dab[seize]
+#etcsl: line-id=D.5.55.3
+
+#etcsl#cf cf. 6.2.3: UET 6/2 212
+
+D.5.55.4. šu ba-am₃ u₈ tab-ba-ŋu₁₀ gur-ra ga-mu-ra-ab-šum₂
+#lem: šu[hand]; ba[allot]; u[sheep]; tab[double]; gur[turn]; šum[give]
+#etcsl: line-id=D.5.55.4
+
+D.5.55.5. tukum-bi šu mu-ri-bar-re mu-zu dug₄-ma-ab
+#lem: tukumbi[if]; šu[hand]; bar[place outside]; mu[name]; dug[speak]
+#etcsl: line-id=D.5.55.5
+
+D.5.55.6. ud₅-de₃ ur-mah-e mu-na-ni-ib-gi₄-gi₄ za-e mu-ŋu₁₀ nu-e-zu
+#lem: uzud[(female) goat]; urmah[lion]; gi[turn]; zaʾe[you]; mu[name]; zu[know]
+#etcsl: line-id=D.5.55.6
+
+D.5.55.7. umun₂ mu-e-da-ak-e mu-ŋu₁₀-um
+#lem: umun[knowledge]; ak[do]; mu[name]
+#etcsl: line-id=D.5.55.7
+
+D.5.55.8. ud ur-mah-e {e₂}tur₃-še₃ i-ŋen-na
+#lem: ud[sun]; urmah[lion]; tur[animal stall]; ŋen[go]
+#etcsl: line-id=D.5.55.8
+
+D.5.55.9. (1::1) mu-e-bur₂-e-en gu₃ al-de₂-de₂-e
+#lem: bur[spread out]; gu[voice]; de[pour]
+#etcsl: line-id=D.5.55.9
+
+:9v.1.1: ($1 ms. adds:$) ur-mah-e#
+#lem: urmah[lion]
+
+D.5.55.10. e-ne gu₂-re-ta mu-un-na-ni-ib-gi₄-gi₄
+#lem: ane[he]; gure[that side]; gi[turn]
+#etcsl: line-id=D.5.55.10
+
+D.5.55.11. mu-e-bur₂-e-en umun₂ mu-e-ak bar udu hi-a-ka nu-dur₂-ru-na-e-še
+#lem: bur[spread out]; umun[knowledge]; ak[do]; bar[outside]; udu[sheep]; hi[mix (up)]; durun[sit]
+#etcsl: line-id=D.5.55.11
+
+@end proverb
+
+@div proverb 5.56
+
+D.5.56.12. ud ur-mah-e {e₂}tur₃-še₃ ur-gir₁₅-re eš₂ siki sur-ra i₃-mur₁₀
+#lem: ud[sun]; urmah[lion]; tur[animal stall]; urgir[(domestic) dog]; eš[rope]; siki[hair]; sur[press]; mur[dress]
+#etcsl: line-id=D.5.56.12
+
+@end proverb
+
+@div proverb 5.57
+
+D.5.57.13. ur-mah-e šah₂ ŋiš-gi₄ u₃-mu-ni-in-dab₅
+#lem: urmah[lion]; šah[pig]; ŋešgi[thicket]; dab[seize]
+#etcsl: line-id=D.5.57.13
+
+#etcsl#cf cf. 6.2.3: UET 6/2 211
+
+D.5.57.14. e-ne gu₃ mu-ra-ra-ra
+#lem: ane[he]; gu[voice]; rah[beat]
+#etcsl: line-id=D.5.57.14
+
+D.5.57.15. en-na-bi-še₃-am₃ uzu-zu ka-ŋu₁₀ nu-mu-ni-in-si
+#lem: en[lord]; uzu[flesh]; kag[mouth]; si[fill]
+#etcsl: line-id=D.5.57.15
+
+D.5.57.16. za-pa-aŋ₂-zu ŋeštug₂-ŋu₁₀ u₂ ba-ni-in-hub₂-e-še
+#lem: zipaŋ[voice]; ŋeštug[ear]; u[cvne]; hub[cvve]
+#etcsl: line-id=D.5.57.16
+
+@end proverb
+
+@div proverb 5.58
+
+D.5.58.17. ur-mah-e pu₂ niŋ₂ ŋiri₃-a-ka u₃-mu-ni-in-šub
+#lem: urmah[lion]; pu[cistern]; niŋ[thing]; ŋiri[foot]; šub[fall]
+#etcsl: line-id=D.5.58.17
+
+D.5.58.18. ka₅-a ugu-bi-še₃ u₃-um-ŋen-ma {kuš}e-sir₂-zu
+#lem: kaʾa[fox]; ugu[skull]; ŋen[go]; esir[sandal(s)]
+#etcsl: line-id=D.5.58.18
+
+D.5.58.19. gu₂-še₃ e₂-še₃ mu-e-ši-tum₃-mu-un-e-še
+#lem: gu[neck]; e[house]; tum[bring]
+#etcsl: line-id=D.5.58.19
+
+@end proverb
+
+@div proverb 5.59
+
+D.5.59.20. ur-mah-e a₂-tah-zu ŋiš-gi-a lu-lu-am₃
+#lem: urmah[lion]; atah[helper]; ŋešgi[thicket]; lu[abundant]
+#etcsl: line-id=D.5.59.20
+
+#etcsl#cf cf. 6.2.3: UET 6/2 208 l. 1
+
+@end proverb
+
+@div proverb 5.60
+
+D.5.60.21. ur-mah-e ŋiš-gi-a lu₂ zu-a-ni nu-ub-gu₇
+#lem: urmah[lion]; ŋešgi[thicket]; lu[person]; zu[know]; gu[eat]
+#etcsl: line-id=D.5.60.21
+
+#etcsl#cf cf. 6.2.3: UET 6/2 208 l. 2
+
+@end proverb
+
+@div proverb 5.61
+
+D.5.61.22. ur-mah-e lu₂ kišib sag₃-ge-da in-sig₁₀-ma
+#lem: urmah[lion]; lu[person]; kišib[cylinder seal]; sag[strike]; sig[put into]
+#etcsl: line-id=D.5.61.22
+
+D.5.61.23. e₂ {ŋiš}tukul nu-me-a in-sig₁₀-ge-en-e-še
+#lem: e[house]; tukul[weapon]; me[be]; sig[put into]
+#etcsl: line-id=D.5.61.23
+
+@end proverb
+
+@div proverb 5.62
+
+D.5.62.24. ur-mah-e šag₄-ne-ša₄ im-til₃-la šu ba-ab-teŋ₃-ŋe₂₆#
+#lem: urmah[lion]; šaneša[supplication]; til[live (of a single person)]; šu[hand]; teŋ[approach]
+#etcsl: line-id=D.5.62.24
+
+@end proverb
+
+@div proverb 5.63
+
+D.5.63.25. ur-mah-e gu₃ u₃-mu-un-ra-ra
+#lem: urmah[lion]; gu[voice]; rah[beat]
+#etcsl: line-id=D.5.63.25
+
+D.5.63.26. niŋ₂-gu₇-zu %s nam-ba-šub-be₂-en
+#lem: niŋgu[food]N; šub[fall]
+#etcsl: line-id=D.5.63.26
+
+@end proverb
+
+@div proverb 5.64
+
+D.5.64.27. ur-mah-e niŋ₂-ar₃-ra al-gu₇-e
+#lem: urmah[lion]; niŋara[groats]; gu[eat]
+#etcsl: line-id=D.5.64.27
+
+@end proverb
+
+@div proverb 5.65
+
+D.5.65.28. ur-mah-e nam#-lu₂-kurun-na al#-ak-e
+#lem: urmah[lion]; namlukurunak[craft of the brewer]; ak[do]
+#etcsl: line-id=D.5.65.28
+
+@end proverb
+
+@div proverb 5.66
+
+D.5.66.29. ur-mah-e tu₇ mu-un-kum₂
+#lem: urmah[lion]; tu[soup]; kum[hot]
+#etcsl: line-id=D.5.66.29
+
+D.5.66.30. a-ba nu-dug₃-ga ab-be₂-e-še
+#lem: aba[who?]; dug[good]; e[speak]
+#etcsl: line-id=D.5.66.30
+
+@end proverb
+
+@div proverb 5.67
+
+D.5.67.31. ki ur-mah-e lu₂ in-gu₇-a
+#lem: ki[place]; urmah[lion]; lu[person]; gu[eat]
+#etcsl: line-id=D.5.67.31
+
+D.5.67.32. min₃-kam-ma-še₃ lu₂ na-me nu-dib₂-be₂
+#lem: minakamak[second]; lu[person]; name[any]; dib[pass]
+#etcsl: line-id=D.5.67.32
+
+@end proverb
+
+@div proverb 5.68
+
+D.5.68.33. igi ur-mah-a-ka uzu al-gu₇-e
+#lem: igi[eye]; urmah[lion]; uzu[flesh]; gu[eat]
+#etcsl: line-id=D.5.68.33
+
+@end proverb
+
+@div proverb 5.x1
+
+D.5.x1.34. [...]
+#lem: X
+#etcsl: line-id=D.5.x1.34
+
+#etcsl#eq = Alster 1997 5 Vers. A 69
+
+D.5.x1.35. a mu-e-naŋ# [...] mu-zig₃
+#lem: a[water]; naŋ[drink]; X; zig[rise]
+#etcsl: line-id=D.5.x1.35
+
+@end proverb
+
+@div proverb 5.x2
+
+D.5.x2.36. ur-mah a-ne u₃-bi₂-te
+#lem: urmah[lion]; ane[he]; teŋ[approach]
+#etcsl: line-id=D.5.x2.36
+
+#etcsl#eq = Alster 1997 5 Vers. B 69
+
+D.5.x2.37. ur-bar-ra mi-ni-ib₂-sar-re-en
+#lem: urbara[wolf]; sar[run]
+#etcsl: line-id=D.5.x2.37
+
+@end proverb
+
+@div proverb 5.x3
+
+D.5.x3.38. uzu ur-bar-ra nam-mu-ni-gu₇^1^^2^
+#lem: uzu[flesh]; urbara[wolf]; gu[eat]
+#etcsl: line-id=D.5.x3.38
+
+#etcsl#eq ^1^ = Alster 1997 5 Vers. A 70 = 5 Vers. B 76
+
+@variants
+
+#etcsl#ms ^2^ Vers. B adds 1 line:
+D.5.x3.38A. mah-e ga-ba-an-gam
+#lem: mah[great]; gurum[bend]
+#etcsl: line-id=D.5.x3.38A
+
+@endvariants
+@end proverb
+
+@div proverb 5.x4
+
+D.5.x4.39. ku₆ ur-mah X ki aŋ₂ kud-de₃ nu-ub-zu
+#lem: kud[fish]; urmah[lion]; X; ki[place]; aŋ[measure]; kud[cut]; zu[know]
+#etcsl: line-id=D.5.x4.39
+
+#etcsl#eq = Alster 1997 5 Vers. B 70
+
+@end proverb
+
+@div proverb 5.x5
+
+D.5.x5.40. ur-bar-ra 9-bi 10-am₃ udu hi-a u₃-mu-ni-in-dab₅
+#lem: urbara[wolf]; n; n; udu[sheep]; hi[mix (up)]; dab[seize]
+#etcsl: line-id=D.5.x5.40
+
+#etcsl#eq = Alster 1997 5 Vers. A 71 = 5 Vers. B 74
+
+D.5.x5.41. 1(DIŠ)-am₃ ab-si-am₃ ha-la-be₂-ne nu-ha#-la-a
+#lem: n; si[fill]; hala[inheritance share]; hal[divide]
+#etcsl: line-id=D.5.x5.41
+
+D.5.x5.42. ka₅-a ugu-bi-še₃ u₃-un-ŋen
+#lem: kaʾa[fox]; ugu[skull]; ŋen[go]
+#etcsl: line-id=D.5.x5.42
+
+D.5.x5.43. ŋe₂₆-e ga-mu-e-ne-ha-la
+#lem: ŋaʾe[I]; hal[divide]
+#etcsl: line-id=D.5.x5.43
+
+D.5.x5.44. 9 za-e-en-ze₂-en 1(DIŠ)-am₃ šu te-ba-ab-ze₂-en
+#lem: n; menzen[you (plural)]; n; šu[hand]; teŋ[approach]
+#etcsl: line-id=D.5.x5.44
+
+D.5.x5.45. ŋe₂₆-e dili-ŋu₁₀-ne 9 šu ga-ba-ab-ti
+#lem: ŋaʾe[I]; dili[single]; n; šu[hand]; teŋ[approach]
+#etcsl: line-id=D.5.x5.45
+
+D.5.x5.46. ne-e ha-la šag₄-ŋu₁₀-e-še
+#lem: nen[this]; hala[inheritance share]; šag[heart]N
+#etcsl: line-id=D.5.x5.46
+
+@end proverb
+
+@div proverb 5.x6
+
+D.5.x6.47. ur-bar-ra he₂-gu₇!(KA)-e {d}utu igi i-bi₂-in-du₈
+#lem: urbara[wolf]; gu[eat]; Utu[1]DN; igi[eye]; du[spread]
+#etcsl: line-id=D.5.x6.47
+
+#etcsl#eq = Alster 1997 5 Vers. B 71
+
+D.5.x6.48. en-na teš₂ i-i-X
+#lem: enna[until]; meteš[praise]; e[bring out]
+#etcsl: line-id=D.5.x6.48
+
+D.5.x6.49. i₃-buluŋ₃-e-še
+#lem: buluŋ[grow]
+#etcsl: line-id=D.5.x6.49
+
+@end proverb
+
+@div proverb 5.x7
+
+D.5.x7.50. ur-bar-ra alal ur₃ e₂#-a#-še₃ u₃-bi₂-[...]
+#lem: urbara[wolf]; alal[tube]; ur[roof]; e[house]; X
+#etcsl: line-id=D.5.x7.50
+
+#etcsl#eq = Alster 1997 5 Vers. A 72
+
+D.5.x7.51. mu-im-ma ze₂-da#-zu-še₃ i₃-SAR# [...]
+#lem: muʾimma[last year]; zeda[stench]; SAR[be nauseated?]; X
+#etcsl: line-id=D.5.x7.51
+
+D.5.x7.52. DU me-en-de₃ mu#-u₂-a ba-SAR# [...]
+#lem: X; menden[we]; mu[year]; SAR[be nauseated?]; X
+#etcsl: line-id=D.5.x7.52
+
+D.5.x7.53. me-na ze₂-da-zu aš₂ bi₂-bal-en-de₃#-[en]
+#lem: mena[when?]; zeda[stench]; aš[curse]; bala[turn]
+#etcsl: line-id=D.5.x7.53
+
+D.5.x7.54. DU ŋe₂₆-e šag₄-ŋar tuku-a a-na ga-gu₇#-[e-še]
+#lem: X; ŋaʾe[I]; šaŋar[starvation]; tuku[acquire]; ana[what?]; gu[eat]
+#etcsl: line-id=D.5.x7.54
+
+@end proverb
+
+@div proverb 5.x8
+
+D.5.x8.55. [...] X-en#-e-še
+#lem: X; X
+#etcsl: line-id=D.5.x8.55
+
+#etcsl#eq = Alster 1997 p. 133 P i 10'
+
+@end proverb
+
+@div proverb 5.x9
+
+D.5.x9.56. [ur]-bar#-ra KA X X
+#lem: urbara[wolf]; X; X; X
+#etcsl: line-id=D.5.x9.56
+
+#etcsl#eq = Alster 1997 p. 133 P i 11'
+
+D.5.x9.57. [...] X sila₄ am₃-ma#-dur₂#-ru
+#lem: X; X; sila[lamb]; dur[sit]
+#etcsl: line-id=D.5.x9.57
+
+@end proverb
+
+@div proverb 5.x10
+
+D.5.x10.58. ur-bar#-ra {ŋiš}es₂-ad u₃-mu#-mi-in-tuš
+#lem: urbara[wolf]; esad[trap]; tuš[sit (down)]
+#etcsl: line-id=D.5.x10.58
+
+#etcsl#eq = Alster 1997 5 Vers. B 72
+
+D.5.x10.59. {d}utu-ra an-na-ab-be₂ i-im-ta-ed₂-de₃-en
+#lem: Utu[1]DN; e[speak]; e[leave]
+#etcsl: line-id=D.5.x10.59
+
+D.5.x10.60. a-da-al-ta sila₄ na-an-gu₇-e-en
+#lem: adalta[henceforth]; sila[lamb]; gu[eat]
+#etcsl: line-id=D.5.x10.60
+
+D.5.x10.61. ud šag₄-ŋar an-tuku sila₄ šu ba-ni-in-ti-a
+#lem: ud[sun]; šaŋar[starvation]; tuku[acquire]; sila[lamb]; šu[hand]; teŋ[approach]
+#etcsl: line-id=D.5.x10.61
+
+D.5.x10.62. niŋ₂ mu-e-dug₄-ga-zu a-na ma-nam
+#lem: niŋ[thing]; dug[speak]; ana[what?]; me[be]
+#etcsl: line-id=D.5.x10.62
+
+D.5.x10.63. mu zid-ŋu₁₀-a i-ni-dug₄-ga
+#lem: mu[name]; zid[right]; dug[speak]
+#etcsl: line-id=D.5.x10.63
+
+D.5.x10.64. DU ŋe₂₆-e a-na ga-gu₇-e-še
+#lem: X; ŋaʾe[I]; ana[what?]; gu[eat]
+#etcsl: line-id=D.5.x10.64
+
+@end proverb
+
+@div proverb 5.x11
+
+D.5.x11.65. ur-bar-ra {d}utu-ra er₂ i₃#-še₈-še₈ maš₂-anše ba-du₇-du₇
+#lem: urbara[wolf]; Utu[1]DN; er[tears]; šeš[weep]; mašanše[animals]; du[push]
+#etcsl: line-id=D.5.x11.65
+
+#etcsl#eq = Alster 1997 5 Vers. A 73 = 5 Vers. B 73
+
+D.5.x11.66. ŋe₂₆-e dili-ŋu₁₀-ne-e-še#
+#lem: ŋaʾe[I]; dili[single]
+#etcsl: line-id=D.5.x11.66
+
+@end proverb
+
+@div proverb 5.x12
+
+D.5.x12.67. ur-gir₁₅!-gin₇ lu₂-keše₂-keše₂-da u₃-[...]
+#lem: urgir[(domestic) dog]; lukeškešda[tetherer]; X
+#etcsl: line-id=D.5.x12.67
+
+#etcsl#eq = Alster 1997 5 Vers. A 74
+
+D.5.x12.68. zu₂ ab-kud-[...]
+#lem: zu[tooth]; kud[cut]
+#etcsl: line-id=D.5.x12.68
+
+@end proverb
+
+@div proverb 5.x13
+
+D.5.x13.69. ki ur-bar-ra sila₄ in-kar-ra
+#lem: ki[place]; urbara[wolf]; sila[lamb]; kar[flee]
+#etcsl: line-id=D.5.x13.69
+
+#etcsl#eq = Alster 1997 5 Vers. B 75
+
+D.5.x13.70. sipad-de₃ udu nu-mu-ni-lu-lu
+#lem: sipad[shepherd]; udu[sheep]; lu[abundant]
+#etcsl: line-id=D.5.x13.70
+
+@end proverb
+
+@div proverb 5.75
+
+D.5.75.71. ur-gir₁₅-re ŋiri₃-pad-ra₂ nam-ba-an-sig₁₀-ge-de₃-en
+#lem: urgir[(domestic) dog]; ŋiripadra[bone]; sig[put into]
+#etcsl: line-id=D.5.75.71
+
+@end proverb
+
+@div proverb 5.76
+
+D.5.76.72. ur-gir₁₅ maš₂-ŋi₆ mud₅-am₃
+#lem: urgir[(domestic) dog]; mašŋik[(nocturnal) vision]; mud[joy]
+#etcsl: line-id=D.5.76.72
+
+@end proverb
+
+@div proverb 5.77
+
+D.5.77.73. ur-gir₁₅-re eš₂-dam-še₃ in-kur₉-ma
+#lem: urgir[(domestic) dog]; ešdam[tavern]; kur[enter]
+#etcsl: line-id=D.5.77.73
+
+D.5.77.74. niŋ₂ na-me igi nu-mu-un-du₈
+#lem: niŋ[thing]; name[any]; igi[eye]; du[spread]
+#etcsl: line-id=D.5.77.74
+
+D.5.77.75. ne-en ŋal₂ taka₄-en-e-še
+#lem: nen[this]; ŋal[open]; taka[set aside]
+#etcsl: line-id=D.5.77.75
+
+@end proverb
+
+@div proverb 5.78
+
+D.5.78.76. ur-gir₁₅ lugal-a-ni-ir na-ab-be₂-a
+#lem: urgir[(domestic) dog]; lugal[king]; e[speak]
+#etcsl: line-id=D.5.78.76
+
+#etcsl#cf cf. 6.2.3: UET 6/2 264
+
+D.5.78.77. tukum-bi nam-sag₉-ga-ŋu₁₀ ba-ra-ŋal₂
+#lem: tukumbi[if]; namsag[pleasure]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=D.5.78.77
+
+D.5.78.78. i-bi₂-za-ŋu₁₀ nu-ra-ŋal₂-e-še
+#lem: ibiza[financial loss]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=D.5.78.78
+
+@end proverb
+
+@div proverb 5.79
+
+D.5.79.79. ur-gir₁₅-re e₂ lugal-la-na-ka nu-dur₂-ru-un
+#lem: urgir[(domestic) dog]; e[house]; lugal[king]; durun[sit]
+#etcsl: line-id=D.5.79.79
+
+#etcsl#cf cf. 6.2.3: UET 6/2 231 ll. 1-2
+
+@end proverb
+
+@div proverb 5.80
+
+D.5.80.80. ur mu₂-da bar hul₃#-X-a hul a-ab-gig
+#lem: ur[dog]; mu[grow]; bar[outside]; hul[rein]; hulu[bad]; gig[sick]
+#etcsl: line-id=D.5.80.80
+
+#etcsl#cf cf. 6.2.3: UET 6/2 231 ll. 3
+
+@end proverb
+
+@div proverb 5.81
+
+D.5.81.81. ur-gir₁₅-re šu te-ba-ab mu-un-zu
+#lem: urgir[(domestic) dog]; šu[hand]; teŋ[approach]; zu[know]
+#etcsl: line-id=D.5.81.81
+
+#etcsl#cf cf. 6.2.3: UET 6/2 225
+
+D.5.81.82. ŋa₂-ŋa₂ nu-un-zu
+#lem: ŋar[put]; zu[know]
+#etcsl: line-id=D.5.81.82
+
+@end proverb
+
+@div proverb 5.82
+
+D.5.82.83. ur-gir₁₅-re (1:{na₄}kinkin eme KA ak:1)
+#lem: urgir[(domestic) dog]; kinkin[small millstone]; eme[tongue]; X; ak[do]
+#etcsl: line-id=D.5.82.83
+
+:83v.1.1: ($1 ms. has instead:$) mu-X-ŋar-ra-X-X eme mi-ni-ib-šub₆-ba
+#lem: ŋar[put]; eme[tongue]; šub[lick]
+
+D.5.82.84. tab-ba-ni-ir an-na-ab-be₂ (1::1) tug₂ {ŋiš}ba-an ga-mu-ra-ab-mur₁₀-e-še
+#lem: taba[companion]; e[speak]; tug[textile]; ban[unit of capacity]; mur[dress]
+#etcsl: line-id=D.5.82.84
+
+:84v.1.1: ($1 ms. adds:$) kiŋ₂-gi₄-a an-ta
+#lem: kiŋgia[messenger]; an[sky]
+
+@end proverb
+
+@div proverb 5.83
+
+D.5.83.85. ur-gir₁₅-re lu₂ ki aŋ₂-bi mu-un-zu
+#lem: urgir[(domestic) dog]; lu[person]; ki[place]; aŋ[measure]; zu[know]
+#etcsl: line-id=D.5.83.85
+
+D.5.83.86. ur di-kud-dam kun-bi maškim ak#
+#lem: ur[dog]; dikud[judge]; kun[tail]; maškim[an administrator]; ak[do]
+#etcsl: line-id=D.5.83.86
+
+@end proverb
+
+@div proverb 5.84
+
+D.5.84.87. ur ŋiri₃-pad-ra₂ al-tukur₂-re
+#lem: ur[dog]; ŋiripadra[bone]; tukur[chew]
+#etcsl: line-id=D.5.84.87
+
+D.5.84.88. gu-du-ni an-na-ab-be₂
+#lem: gudu[buttocks]; e[speak]
+#etcsl: line-id=D.5.84.88
+
+D.5.84.89. a-ra-ab-gig-ga#-X-e-še
+#lem: gig[sick]
+#etcsl: line-id=D.5.84.89
+
+@end proverb
+
+@div proverb 5.85
+
+D.5.85.90. ur-gir₁₅-re {uzu}i₃-udu he₂-eb₂#-X-X
+#lem: urgir[(domestic) dog]; lib[sheep fat]; X
+#etcsl: line-id=D.5.85.90
+
+#etcsl#cf cf. 6.2.3: UET 6/2 228
+
+D.5.85.91. ur-gir₁₅-re mu-bi-[im]
+#lem: urgir[(domestic) dog]; mu[name]
+#etcsl: line-id=D.5.85.91
+
+@end proverb
+
+@div proverb 5.86
+
+D.5.86.92. ur-gir₁₅ {ŋiš}ma₂#-addir-ra# nu#-gub-bu
+#lem: urgir[(domestic) dog]; maʾaddir[ferryboat]; gub[stand]
+#etcsl: line-id=D.5.86.92
+
+@end proverb
+
+@div proverb 5.87
+
+D.5.87.93. ur-gir₁₅#-re ab-NI-en
+#lem: urgir[(domestic) dog]; X
+#etcsl: line-id=D.5.87.93
+
+D.5.87.94. [...] X la₂ ki u₃-bi₂-in-KU-DU
+#lem: X; X; la[hang]; ki[place]; X
+#etcsl: line-id=D.5.87.94
+
+@end proverb
+
+@div proverb 5.88
+
+D.5.88.95. ur-gir₁₅-re nam zu₂-lum-ma-ta {ŋiš}kiri₆# u₃-ba-ni-ib₂-ed₂-de₃
+#lem: urgir[(domestic) dog]; nam[fate]; zulum[the fruit of the date-palm]; kiri[(fruit) plantation]; e[leave]
+#etcsl: line-id=D.5.88.95
+
+D.5.88.96. lugal {ŋiš}kiri₆-ke₄ ib₂-ta-an-sar-re
+#lem: lugal[king]; kiri[(fruit) plantation]; sar[run]
+#etcsl: line-id=D.5.88.96
+
+D.5.88.97. lu₂-zuh ne-[e ...] X ne#-e GA#
+#lem: luzuha[thief]; nen[this]; X; X; nen[this]; X
+#etcsl: line-id=D.5.88.97
+
+D.5.88.98. ed₂-de₃ zu₂-lum-bi X [...] X-un-kal-X
+#lem: e[leave]; zulum[the fruit of the date-palm]; X; X; kal[rare]
+#etcsl: line-id=D.5.88.98
+
+D.5.88.99. [...] en MU [...] X NE# [...] MU#
+#lem: X; en[lord]; X; X; X; X; X; X
+#etcsl: line-id=D.5.88.99
+
+@end proverb
+
+@div proverb 5.89
+
+D.5.89.100. ur-gir₁₅-re lu₂ X [...]
+#lem: urgir[(domestic) dog]; lu[person]; X; X
+#etcsl: line-id=D.5.89.100
+
+D.5.89.101. u₃ tuku du₈ en zu [...]
+#lem: u[and]; tuku[acquire]; du[spread]; en[lord]; zu[know]; X
+#etcsl: line-id=D.5.89.101
+
+@end proverb
+
+@div proverb 5.90
+
+D.5.90.102. ur-gir₁₅-re GAR-bi GAM ŊA₂ [...]
+#lem: urgir[(domestic) dog]; X; X; X; X
+#etcsl: line-id=D.5.90.102
+
+@end proverb
+
+@div proverb 5.91
+
+D.5.91.103. ur-gir₁₅-re saŋ-du [...]-in-UD
+#lem: urgir[(domestic) dog]; saŋdu[head]; X
+#etcsl: line-id=D.5.91.103
+
+D.5.91.104. [...] tuku
+#lem: X; tuku[acquire]
+#etcsl: line-id=D.5.91.104
+
+@end proverb
+
+@div proverb 5.92
+
+D.5.92.105. ur-gir₁₅-gin₇ ki za-za hul a-ab#-gig
+#lem: urgir[(domestic) dog]; ki[place]; zaza[bow down]; hulu[bad]; gig[sick]
+#etcsl: line-id=D.5.92.105
+
+@end proverb
+
+@div proverb 5.93
+
+D.5.93.106. ur-gir₁₅ {ŋiš}ellag ra-gin₇ dum-dam i₃-ib₂-za
+#lem: urgir[(domestic) dog]; ellag[ball]; rah[beat]; dumdam[sound]; za[cvve]
+#etcsl: line-id=D.5.93.106
+
+#etcsl#cf cf. 6.1.03.95
+
+@end proverb
+
+@div proverb 5.94
+
+D.5.94.107. ur-gir₁₅-re gu₂ gid₂-gid₂-ab-ze₂-en ur-tur ki aŋ₂-ab-ze₂-en
+#lem: urgir[(domestic) dog]; gu[neck]; gid[long]; urtur[puppy]; ki[place]; aŋ[measure]
+#etcsl: line-id=D.5.94.107
+
+@end proverb
+
+@div proverb 5.95
+
+D.5.95.108. ur šag₄ dab₅-ba PU₂ igi nu-zalag-ge
+#lem: ur[dog]; šag[heart]; dab[seize]; X; igi[eye]; zalag[bright]
+#etcsl: line-id=D.5.95.108
+
+#etcsl#cf cf. 6.2.2: MDP 27 102
+
+@end proverb
+
+@div proverb 5.96
+
+D.5.96.109. ur sam₂-bi igi-za ŋal₂ {ŋiš}gigir sam₂-bi ba-an-hul
+#lem: ur[dog]; sa[pay for]; igi[eye]; ŋal[⟦be⟧ to be (there]; gigir[chariot]; sa[pay for]; hulu[bad]
+#etcsl: line-id=D.5.96.109
+
+@end proverb
+
+@div proverb 5.97
+
+D.5.97.110. ur sag₉-ga ur-tur-še₃ ba-an-kur₉
+#lem: ur[dog]; sag[good]; urtur[puppy]; kur[enter]
+#etcsl: line-id=D.5.97.110
+
+#etcsl#cf cf. 6.2.3: UET 6/2 223
+
+@end proverb
+
+@div proverb 5.98
+
+D.5.98.111. ur mu₂-da-gin₇ gu₃ bi₂-in-de₂
+#lem: ur[dog]; mu[grow]; gu[voice]; de[pour]
+#etcsl: line-id=D.5.98.111
+
+#etcsl#cf cf. 6.2.3: UET 6/2 324
+
+D.5.98.112. kug kuš du₃-u₃-bi ba-ni-in-gi₄
+#lem: kug[purify]; kuš[skin]; du[build]; gi[turn]
+#etcsl: line-id=D.5.98.112
+
+@end proverb
+
+@div proverb 5.99
+
+D.5.99.113. ur mu₂-da-gin₇ iti₆-a šu-ne-ne X-ge
+#lem: ur[dog]; mu[grow]; itud[moon]; šu[hand]; X
+#etcsl: line-id=D.5.99.113
+
+@end proverb
+
+@div proverb 5.100
+
+D.5.100.114. ur mu₂-da-gin₇ a lugal mah-<ni>-ir DU-da-bi
+#lem: ur[dog]; mu[grow]; a[water]; lugal[king]; mah[great]; X
+#etcsl: line-id=D.5.100.114
+
+@end proverb
+
+@div proverb 5.101
+
+D.5.101.115. ur mu₂-da-gin₇ id₂-da gid₂ TUG₂ al-ak-e
+#lem: ur[dog]; mu[grow]; id[river]; gid[long]; X; ak[do]
+#etcsl: line-id=D.5.101.115
+
+#etcsl#cf cf. 6.2.3: UET 6/2 309
+
+@end proverb
+
+@div proverb 5.102
+
+D.5.102.116. ur-gir₁₅-re e₂ ganba-še₃
+#lem: urgir[(domestic) dog]; e[house]; šakanka[market price]
+#etcsl: line-id=D.5.102.116
+
+D.5.102.117. šaŋan-la₂ {ŋiš}suhub₄ ib₂-ba-ni ba-an-haš
+#lem: šaŋanla[trader]; suhub[door bolt]; ib[hips]; haš[break off]
+#etcsl: line-id=D.5.102.117
+
+D.5.102.118. e₃-ma-ni-ta kun-bi en₃ ab-tar-re
+#lem: e[leave]; kun[tail]; en[cvne]; tar[cut]
+#etcsl: line-id=D.5.102.118
+
+D.5.102.119. egir-ŋu₁₀-ta niŋ₂ na-me bi₂-in-gub
+#lem: egir[back]; niŋ[thing]; name[any]; gub[stand]
+#etcsl: line-id=D.5.102.119
+
+D.5.102.120. niŋ₂ sag₉-ga-zu bi₂-in-eš
+#lem: niŋ[thing]; sag[good]; e[speak]
+#etcsl: line-id=D.5.102.120
+
+D.5.102.121. DU ŋi₆-da ga-gur niŋ₂ na-me šu ga-an-ti
+#lem: X; ŋi[night]; gur[turn]; niŋ[thing]; name[any]; šu[hand]; teŋ[approach]
+#etcsl: line-id=D.5.102.121
+
+D.5.102.122. an-ga-am₃ gur-ru-da-ni-ta ib₂-ba-ni ba-an-haš
+#lem: angam[consequently]; gur[turn]; ib[hips]; haš[break off]
+#etcsl: line-id=D.5.102.122
+
+D.5.102.123. kun-a-ni ba-an-ur₃ sila ba-ni-in-tuš
+#lem: kun[tail]; ur[drag]; sila[street]; tuš[sit (down)]
+#etcsl: line-id=D.5.102.123
+
+D.5.102.124. gibil-be₂-eš-am₃ kun en₃ ab-tar-tar-re
+#lem: gibil[new]; kun[tail]; en[cvne]; tar[cut]
+#etcsl: line-id=D.5.102.124
+
+D.5.102.125. niŋ₂ ud-bi-ta-gin₇ igi-zu-ta im-ma-e₃-e-še
+#lem: niŋ[thing]; udbita[former]; igi[eye]; e[leave]
+#etcsl: line-id=D.5.102.125
+
+@end proverb
+
+@div proverb 5.103
+
+D.5.103.126. ur-gir₁₅-re en-te-en-na-ka# HAR#-HAR# BU-ra
+#lem: urgir[(domestic) dog]; enten[winter]; X; X
+#etcsl: line-id=D.5.103.126
+
+D.5.103.127. eridug{ki} eš₃-ta igi# X NA# X X [X X] du₈#
+#lem: Eridug[1]SN; eš[shrine]; igi[eye]; X; X; X; X; X; X; du[spread]
+#etcsl: line-id=D.5.103.127
+
+D.5.103.128. zag e₂-me-eš-ka giri₁₇-ŋa₂ a-tar i₃-ak-a-e-še
+#lem: zag[side]; emeš[summer]; kiri[nose]; attar[derision]; ak[do]
+#etcsl: line-id=D.5.103.128
+
+@end proverb
+
+@div proverb 5.104
+
+D.5.104.129. ur#-[gir₁₅-re ...]-ni#-in-HAR šudul# niŋ₂ na-me šu nu-gun₃#-gun₃-gun₃
+#lem: urgir[(domestic) dog]; X; šudul[yoke]; niŋ[thing]; name[any]; šu[hand]; gunu[speckled]
+#etcsl: line-id=D.5.104.129
+
+D.5.104.130. [...] a-ga-zu-ta gud niga a-ab-šum-u₃-de₃# [...]
+#lem: X; aga[rear]; gud[bull]; niga[fattened]; šum[slaughter]; X
+#etcsl: line-id=D.5.104.130
+
+@end proverb
+
+@div proverb 5.105
+
+D.5.105.131. [ur-gir₁₅-re ...] X sipad-de₃ zi-ni [...]
+#lem: urgir[(domestic) dog]; X; X; sipad[shepherd]; zi[life]; X
+#etcsl: line-id=D.5.105.131
+
+@end proverb
+
+@div proverb 5.106
+
+D.5.106.132. ur-gir₁₅-re ŋiš-šu dab-ba ga-ba-al mu-du₃-du₃-e#
+#lem: urgir[(domestic) dog]; ŋeššu[manacles]; dab[seize]; gabal[fight]; du[build]
+#etcsl: line-id=D.5.106.132
+
+#etcsl#cf cf. 6.2.2: MDP 27 82, 6.2.3: UET 6/2 224
+
+D.5.106.133. [...] ur-gir₁₅-re gu₃ nu-ub-ra-ra-an-e-še
+#lem: X; urgir[(domestic) dog]; gu[voice]; rah[beat]
+#etcsl: line-id=D.5.106.133
+
+@end proverb
+
+@div proverb 5.107
+
+D.5.107.134. ur-gir₁₅-re zu₂ mu-ra-ra
+#lem: urgir[(domestic) dog]; zu[tooth]; rah[beat]
+#etcsl: line-id=D.5.107.134
+
+#etcsl#cf cf. 6.2.3: UET 6/2 222
+
+D.5.107.135. ninda pad-ra₂ ka-ga₁₄-na
+#lem: ninda[bread]; pad[break (into bits)]; kag[mouth]
+#etcsl: line-id=D.5.107.135
+
+@end proverb
+
+@div proverb 5.108
+
+D.5.108.136. ur-gir₁₅-re# ŋiš tuku# ba-an-zu
+#lem: urgir[(domestic) dog]; ŋeš[tree]; tuku[acquire]; zu[know]
+#etcsl: line-id=D.5.108.136
+
+D.5.108.137. en-na ŋeštug za-na har-ra-ni# šu bi₂-in-kar#
+#lem: enna[until]; ŋeštug[ear]; zu[know]; har[ring]; šu[hand]; kar[flee]
+#etcsl: line-id=D.5.108.137
+
+@end proverb
+
+@div proverb 5.109
+
+D.5.109.138. ur-gir₁₅ ur₃-ra-še₃ mu-un-ed₃
+#lem: urgir[(domestic) dog]; ur[roof]; ed[go up]
+#etcsl: line-id=D.5.109.138
+
+@end proverb
+
+@div proverb 5.110
+
+D.5.110.139. ur-gir₁₅-re udu hi-a al-šid-en
+#lem: urgir[(domestic) dog]; udu[sheep]; hi[mix (up)]; šid[count]
+#etcsl: line-id=D.5.110.139
+
+@end proverb
+
+@div proverb 5.111
+
+D.5.111.140. ur-gin₇ ki-nu₂ nu-e-tuku
+#lem: ur[dog]; kinud[sleeping quarter]; tuku[acquire]
+#etcsl: line-id=D.5.111.140
+
+@end proverb
+
+@div proverb 5.112
+
+D.5.112.141. ur kun nu-tuku-am₃
+#lem: ur[dog]; kun[tail]; tuku[acquire]
+#etcsl: line-id=D.5.112.141
+
+@end proverb
+
+@div proverb 5.114
+
+D.5.114.142. [ur-gir₁₅ ...] X gu₃# i-ni-in-ra-ra-aš
+#lem: urgir[(domestic) dog]; X; X; gu[voice]; rah[beat]
+#etcsl: line-id=D.5.114.142
+
+D.5.114.143. [...] gu₃# bi₂-in-de₂
+#lem: X; gu[voice]; de[pour]
+#etcsl: line-id=D.5.114.143
+
+@end proverb
+
+@div proverb 5.115
+
+D.5.115.144. [ur-gir₁₅]-re# ŋiri₃ al-degₓ(RI)-degₓ(RI)-ge
+#lem: urgir[(domestic) dog]; ŋiri[foot]; deg[gather up]
+#etcsl: line-id=D.5.115.144
+
+#etcsl#cf cf. 6.2.3: UET 6/2 230 ll. 1-2
+
+@end proverb
+
+@div proverb 5.116
+
+D.5.116.145. [ur-gir₁₅]-re# kaš-de₂-a-še₃ al-ŋen
+#lem: urgir[(domestic) dog]; kašdea[banquet]; ŋen[go]
+#etcsl: line-id=D.5.116.145
+
+#etcsl#cf cf. 6.2.3: UET 6/2 230 ll. 3-5
+
+D.5.116.146. [ŋiri₃-pad-ra₂]-bi igi u₃-bi₂-in-du₈ ba-ŋen
+#lem: ŋiripadra[bone]; igi[eye]; du[spread]; ŋen[go]
+#etcsl: line-id=D.5.116.146
+
+D.5.116.147. [ki al-du]-un#-na-a dirig ne-e al-gu₇-e-en-e-še!
+#lem: ki[place]; du[go]; dirig[make more than]; nen[this]; gu[eat]
+#etcsl: line-id=D.5.116.147
+
+@end proverb
+
+@div proverb 5.117
+
+D.5.117.148. nig# [...] X X še u₂ a gu₇-a ur-tur zu₂ nu-tuku-a
+#lem: nig[female dog]; X; X; X; še[barley]; u[plant(s)]; a[water]; gu[eat]; urtur[puppy]; zu[tooth]; tuku[acquire]
+#etcsl: line-id=D.5.117.148
+
+@end proverb
+
+@div proverb 5.118
+
+D.5.118.149. nig# [X X] en#-na hu-hu-nu ur-tur igi nu-bad-ba₉-re₆
+#lem: nig[female dog]; X; X; enna[until]; hunu[weak (of animals)]; urtur[puppy]; igi[eye]; bad[open]
+#etcsl: line-id=D.5.118.149
+
+@end proverb
+
+@div proverb 5.119
+
+D.5.119.150. nig dumu#-ne-ne saŋ keše₂ mu-ak-e
+#lem: nig[female dog]; dumu[child]; saŋ[head]; kešed[bind]; ak[do]
+#etcsl: line-id=D.5.119.150
+
+D.5.119.151. ninda ki-sig₁₀-ga na-an-gu₇-un-ze₂-en
+#lem: ninda[bread]; kisiga[funerary offerings]; gu[eat]
+#etcsl: line-id=D.5.119.151
+
+D.5.119.152. e-ne u₃-um-de₆ lu₂ im-ma-gu₇-e-še
+#lem: ane[he]; de[carry]; lu[person]; gu[eat]
+#etcsl: line-id=D.5.119.152
+
+@end proverb
+
+@div proverb 5.120
+
+D.5.120.153. nig tud-da-gin₇ erin₂ zu₂ ab!-kud-kud-de₃
+#lem: nig[female dog]; utud[give birth (to)]; erin[people]; zu[tooth]; kud[cut]
+#etcsl: line-id=D.5.120.153
+
+#etcsl#cf cf. 6.2.3: UET 6/2 232
+
+@end proverb
+
+@div proverb 5.121
+
+D.5.121.154. nig# lu₂-gin₇ egir saŋ sar-ra-ka al-du-un
+#lem: nig[female dog]; lu[person]; egir[back]; saŋ[head]; sar[run]; du[go]
+#etcsl: line-id=D.5.121.154
+
+@end proverb
+
+@div proverb 5.122
+
+D.5.122.155. nig# dub#-sar-ra-gin₇ a-šag₄-ga nam-saŋ-ŋa₂ al-ak-e
+#lem: nig[female dog]; dubsar[scribe]; ašag[field]; namsaŋ[eminence]; ak[do]
+#etcsl: line-id=D.5.122.155
+
+@end proverb
+
+@div proverb 5.123
+
+D.5.123.156. [nig] maš₂#-še₃ na-ab-be₂-a mi-ni-ib-sig₇-sig₇-ge-en
+#lem: nig[female dog]; maš[goat]; e[speak]; sissig[green-yellow]
+#etcsl: line-id=D.5.123.156
+
+#etcsl#cf cf. 6.2.3: UET 6/2 313
+
+D.5.123.157. [mi]-ni#-ib-gun₃-gun₃-un dumu-ŋu₁₀ ki ab-aŋ₂-e-še
+#lem: gunu[speckled]; dumu[child]; ki[place]; aŋ[measure]
+#etcsl: line-id=D.5.123.157
+
+@end proverb
+
+@div proverb 5.124
+
+D.5.124.158. nig ud-da-tuš-a ninda šukur₂ ka-ga₁₄-ni-še₃
+#lem: nig[female dog]; uddatuš[jester]; ninda[bread]; šukur[food allocation]; kag[mouth]
+#etcsl: line-id=D.5.124.158
+
+D.5.124.159. {ŋiš}kul di-kud gu-du-ni-še₃
+#lem: kul[handle]; dikud[judge]; gudu[buttocks]
+#etcsl: line-id=D.5.124.159
+
+@end proverb
+
+@div proverb 5.125
+
+D.5.125.160. nig# al-tuku-un-de₃-en sa₂ am₃-di-di-en-de₃-en
+#lem: nig[female dog]; tuku[acquire]; sa[equal]; dug[speak]
+#etcsl: line-id=D.5.125.160
+
+D.5.125.161. mu# bi₂-ib-sa₄-sa₄-en-de₃-en
+#lem: mu[name]; še[call by name]
+#etcsl: line-id=D.5.125.161
+
+@end proverb
+
+@end segment
+
+@div segment E
+
+$ (unplaced)
+@div proverb 5.e1
+
+E.5.e1.1. [...]-e
+#lem: X
+#etcsl: line-id=E.5.e1.1
+
+#etcsl#eq = Alster 1997 p. 121 D i 1 = Gordon 1958 5.19
+
+@end proverb
+
+@div proverb 5.e2
+
+E.5.e2.2. [...] mu#-X-un
+#lem: X; X
+#etcsl: line-id=E.5.e2.2
+
+#etcsl#eq = Alster 1997 p. 121 D i 2 = Gordon 1958 5.20
+
+E.5.e2.3. [...]-RI#-e-ne
+#lem: X
+#etcsl: line-id=E.5.e2.3
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+#lg 5.1	proverb
+
+@(A.5.1.1 = 1-5)  @varh[t6105.v1]{The elephant spoke to himself: @q{“There is nothing like me among all the creatures of @wDN{Šakkan}!”} The wren (?) answered him: @q{“But I, in my own small way, was created just as you were!”} } @vart[t6105.v2,]{@note{1 ms. has instead:} The elephant spoke to himself: @q{“Among all the creatures of @wDN{Šakkan}, the one that can defecate like me has yet to be created!”} The wren (?) answered him: @q{“But I, in my own small way, can defecate just as much as you!”} }
+
+#etcsl#altGrpo
+#etcsl#alt t6105.v1 t6105.v2
+#etcsl#altGrpc
+#lg 5.2	proverb
+
+@(A.5.2.6 = 6)  @varh[t6105.v3]{You go like an elephant to raise a sunken boat. } @vart[t6105.v4,]{@note{1 ms. has instead:} An elephant is led to a sunken boat to raise it. }
+
+#etcsl#altGrpo
+#etcsl#alt t6105.v3 t6105.v4
+#etcsl#altGrpc
+#lg 5.3	proverb
+
+@(A.5.3.7 = 7)  @note{cf. @xref[t.6.1.03,t.6.1.03.14]{6.1.03.14}} The wild bull is taboo for the plough.
+
+#lg 5.4	proverb
+
+@(A.5.4.8 = 8)  @q{“Like the wild bull, you only do what pleases you.”}
+
+#lg 5.5	proverb
+
+@(A.5.5.9 = 9)  The wild bull wanders about amid the rushes.
+
+#lg 5.6	proverb
+
+@(A.5.6.10 = 10)  The wild bull is free from the plough (?).
+
+#lg 5.7	proverb
+
+@(A.5.7.11 = 11)  The wild bull …… I abandon the claim.
+
+
+#lg 5.12	proverb
+
+@(A.5.12.12 = 12)  An ox will catch you in your path.
+
+#lg 5.13	proverb
+
+@(A.5.13.13 = 13)  Like an ox, you do not know how to turn back.
+
+#lg 5.14	proverb
+
+@(A.5.14.14 = 14)  The dog snarls at an ox scrubbed with soap.
+
+#lg 5.15	proverb
+
+@(A.5.15.15 = 15)  The ox has been tamed; its tamers are great.
+
+#lg 5.16	proverb
+
+@(A.5.16.16 = 16)  The ox …….
+
+#lg 5.17	proverb
+
+@(A.5.17.17 = 17)  @note{cf. @xref[t.6.1.02,t.6.1.02.86]{6.1.02.86}, @xref[t.6.1.26,t.6.1.26.d6]{6.1.26.d6}} The furrows seem pleasant to an ox on the threshing floor.
+
+#lg 5.18	proverb
+
+@(A.5.18.18 = 18-19)  The ox …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg 5.25	proverb
+
+@(B.5.25.1 = 1-2)  The ox ……  @gap{1 line fragmentary} 
+
+#lg 5.26	proverb
+
+@(B.5.26.3 = 3)  From so many oxen, is there no dung?
+
+#lg 5.27	proverb
+
+@(B.5.27.4 = 4)  If you make the oxen multiply, you may collect their dung.
+
+#lg 5.28	proverb
+
+@(B.5.28.5 = 5)  O ox, you wander about in the street like a commissioner.
+
+#lg 5.29	proverb
+
+@(B.5.29.6 = 6)  The owner of an ox is also happy at being the emissary at the city gate.
+
+#lg 5.30	proverb
+
+@(B.5.30.7 = 7)  The cow jumps to her heart's content, but she does not gore.
+
+#lg 5.31	proverb
+
+@(B.5.31.8 = 8)  O cow, like a cat you walk behind the man carrying the food basket.
+
+#lg 5.32	proverb
+
+@(B.5.32.9 = 9)  No one will give away even a barren cow for nothing.
+
+#lg 5.33	proverb
+
+@(B.5.33.10 = 10)   @gap{1 line fragmentary} 
+
+#lg 5.34	proverb
+
+@(B.5.34.11 = 11)  Like a cow that has not given birth, you are looking for a calf of yours that does not exist!
+
+#lg 5.35	proverb
+
+@(B.5.35.12 = 12)  The cow walks in the marsh, the calf on the dry ground.
+
+#lg 5.36	proverb
+
+@(B.5.36.13 = 13-17)  A calf entered ……. It did not know how to get out. When the herdsman came to inspect, he hurled the churn towards it, smashing the churn. When the calf came out, it cowered -- but the churn was still smashed.
+
+#lg 5.37	proverb
+
+@(B.5.37.18 = 18)  Like a horse you paw the ground where you drink.
+
+#lg 5.38	proverb
+
+@(B.5.38.19 = 19-21)  @note{cf. @xref[t.6.2.3,t623.h34]{6.2.3: UET 6/2 287}} The horse, after throwing off his rider, said: @q{“Were my load to be like this forever, how weak I would become!”}
+
+#lg 5.39	proverb
+
+@(B.5.39.22 = 22-23)  @note{cf. @xref[t.6.2.3,t623.h35]{6.2.3: UET 6/2 283}} The donkey, after he had thrown off his packs, said: @q{“Now I can forget the burdens of former days!”}
+
+#lg 5.40	proverb
+
+@(B.5.40.24 = 24)  The donkey …….  @gap{unknown no. of lines missing} 
+
+
+#lg 5.41	proverb
+
+@(C.5.41.1 = 1)  The donkey stumbled, and the dog …….
+
+#lg 5.42	proverb
+
+@(C.5.42.2 = 2-3)  @note{cf. @xref[t.6.2.3,t623.h36]{6.2.3: UET 6/2 315}} While the donkey was swimming in the river, the dog was busy gathering food: @q{“When will he climb out and eat?”}
+
+#lg 5.43	proverb
+
+@(C.5.43.4 = 4-5)  He who rents a donkey for a whole year kindles a fire in the moonlight.
+
+#lg 5.44	proverb
+
+@(C.5.44.6 = 6)  @note{cf. @xref[t.6.2.3,t623.h37]{6.2.3: UET 6/2 236}} Make the donkey sit like this! Make it lift its shrivelled penis!
+
+#lg 5.45	proverb
+
+@(C.5.45.7 = 7)  A donkey is being used to transport one shekel of silver.
+
+#lg 5.46	proverb
+
+@(C.5.46.8 = 8)  @note{cf. @xref[t.6.2.3,t623.h38]{6.2.3: UET 6/2 234}} Using a donkey in place of sheep will not provide you with an omen.
+
+#lg 5.47	proverb
+
+@(C.5.47.9 = 9-11)  A donkey ……: @q{“In order to grow powerful, don't let your …… dwell in the house of your brother-in-law! When you are able to support a ……, then you may choose a wife.”}
+
+#lg 5.48	proverb
+
+@(C.5.48.12 = 12-13)  If you keep beating a donkey on its back, what ……?
+
+#lg 5.49	proverb
+
+@(C.5.49.14 = 14-15)  When the donkey, walking in the desert, met ……, it roused it from where it sat.
+
+#lg 5.50	proverb
+
+@(C.5.50.16 = 16-17)  A …… donkey came across a …… man: @q{“Do it and then go!”}
+
+#lg 5.51	proverb
+
+@(C.5.51.18 = 18-22)  A sick donkey went up ……: @q{“How long have you not felt well? If until now you have not felt well, …… there is a canal inspector ……. Let him come to you, and your bones will feel well again.  @gap{unknown no. of lines missing} ”}
+
+
+#lg 5.52	proverb
+
+@(D.5.52.1 = 1)  The donkey …… plenty of urine …….
+
+#lg 5.53	proverb
+
+@(D.5.53.2 = 2)  A donkey …….
+
+#lg 5.55	proverb
+
+@(D.5.55.3 = 3-11)  @note{cf. @xref[t.6.2.3,t623.h39]{6.2.3: UET 6/2 212}} The lion had caught a helpless she-goat: @q{“Let me go! I will give you my fellow ewe in return!”} @q{“If I am to let you go, tell me your name!”} The she-goat answered the lion: @q{“You do not know my name? 'I-am-cleverer-than-you' is my name!”} When the lion came to the fold,  @varh[t6105.v6]{he } @vart[t6105.v7,]{@note{1 ms. has instead:} the lion } cried: @q{“I release you!”} She answered him from the other side: @q{“You released me, but were you clever? As for the sheep, none live here!”}
+
+
+#etcsl#altGrpo
+#etcsl#alt t6105.v6 t6105.v7
+#etcsl#altGrpc
+#lg 5.56	proverb
+
+@(D.5.56.12 = 12)  When the lion came to the sheepfold, there was a dog wearing a leash of spun wool.
+
+#lg 5.57	proverb
+
+@(D.5.57.13 = 13-16)  @note{cf. @xref[t.6.2.3,t623.h40]{6.2.3: UET 6/2 211}} When the lion caught a wild boar, he roared: @q{“Your flesh has not yet filled my mouth, but your squeals have deafened my ears!”}
+
+#lg 5.58	proverb
+
+@(D.5.58.17 = 17-19)  A lion having fallen into a trap, a fox came up to him and said: @q{“I'll take your sandals home to the other side for you!”}
+
+#lg 5.59	proverb
+
+@(D.5.59.20 = 20)  @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 208 l. 1}} O lion, your allies in the reedbeds are numerous.
+
+#lg 5.60	proverb
+
+@(D.5.60.21 = 21)  @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 208 l. 2}} In the reedbeds the lion does not eat his acquaintance.
+
+#lg 5.61	proverb
+
+@(D.5.61.22 = 22-23)  The lion …… the man who …… said: @q{“I shall put in place a house without weapons.”}
+
+#lg 5.62	proverb
+
+@(D.5.62.24 = 24)  The lion who lives a life of compassion will receive it.
+
+#lg 5.63	proverb
+
+@(D.5.63.25 = 25-26)  When a lion roars, one says: @q{“Don't drop your food!”}
+
+#lg 5.64	proverb
+
+@(D.5.64.27 = 27)  Is the lion accustomed to eating that which is milled?
+
+#lg 5.65	proverb
+
+@(D.5.65.28 = 28)  Is the lion accustomed to performing the brewers' craft?
+
+#lg 5.66	proverb
+
+@(D.5.66.29 = 29-30)  If the lion heats the soup, who would say @q{“It is no good”}?
+
+#lg 5.67	proverb
+
+@(D.5.67.31 = 31-32)  No-one walks for a second time at the place where a lion has eaten a man.
+
+#lg 5.68	proverb
+
+@(D.5.68.33 = 33)  He eats meat in the presence of a lion.
+
+#lg 5.x1	proverb
+
+@(D.5.x1.34 = 34-35)  @note{= Alster 1997 5 Vers. A 69}  @gap{1 line missing}  you drink water …….
+
+#lg 5.x2	proverb
+
+@(D.5.x2.36 = 36-37)  @note{= Alster 1997 5 Vers. B 69} Were a lion to approach him, you would chase only the wolf away!
+
+#lg 5.x3	proverb
+
+@(D.5.x3.38 = 38)  @note{= Alster 1997 5 Vers. A 70 = 5 Vers. B 76} You should not eat the flesh of a wolf.  @vart[t6105.v8,]{@note{Vers. B adds:} Let me subdue it with all my might. }
+
+#lg 5.x4	proverb
+
+@(D.5.x4.39 = 39)  @note{= Alster 1997 5 Vers. B 70} Loving the lion's fish (?), he did not know how to cut it (?).
+
+#lg 5.x5	proverb
+
+@(D.5.x5.40 = 40-46)  @note{= Alster 1997 5 Vers. A 71 = 5 Vers. B 74} Nine wolves having caught 10 sheep, there was one too many and they did not know how to share out the portions. A fox came along and said: @q{“Let me allocate the portions for you! The nine of you take one sheep. I by myself shall take nine -- this shall be my share!”}
+
+#lg 5.x6	proverb
+
+@(D.5.x6.47 = 47-49)  @note{= Alster 1997 5 Vers. B 71} Imagine a wolf is eating. @wDN{Utu} looks down on it and says: @q{“Provided you praise me you will grow fat”} would be the reply.
+
+#lg 5.x7	proverb
+
+@(D.5.x7.50 = 50-54)  @note{= Alster 1997 5 Vers. A 72} The wolf …… the drain-pipe of a house's roof: @q{“Last year we were nauseated (?) by your stench. Now this year we are still nauseated (?)! How much longer will we be cursed with your stench? -- Now, as for me, I am hungry! What can I eat?”}
+
+#lg 5.x8	proverb
+
+@(D.5.x8.55 = 55)  @note{= Alster 1997 p. 133 P i 10'}  @gap{1 line fragmentary} 
+
+#lg 5.x9	proverb
+
+@(D.5.x9.56 = 56-57)  @note{= Alster 1997 p. 133 P i 11'} A wolf …… sat …… a lamb.
+
+#lg 5.x10	proverb
+
+@(D.5.x10.58 = 58-64)  @note{= Alster 1997 5 Vers. B 72} While the wolf sat stuck in a trap, he said to @wDN{Utu}: @q{“When I come out, let me henceforth eat no more sheep. When I am hungry, the sheep I've taken, whatever you mention -- what will they mean to me? I shall be bound by a righteous oath. -- Now, what can I eat?”}
+
+#lg 5.x11	proverb
+
+@(D.5.x11.65 = 65-66)  @note{= Alster 1997 5 Vers. A 73 = 5 Vers. B 73} The wolf wept before @wDN{Utu}: @q{“The animals frisk around together, but I am all alone.”}
+
+#lg 5.x12	proverb
+
+@(D.5.x12.67 = 67-68)  @note{= Alster 1997 5 Vers. A 74} He bites like a dog does when its tetherer …….
+
+#lg 5.x13	proverb
+
+@(D.5.x13.69 = 69-70)  @note{= Alster 1997 5 Vers. B 75} The shepherd cannot increase his flock where the wolf takes sheep.
+
+#lg 5.75	proverb
+
+@(D.5.75.71 = 71)  Dog, you shouldn't …… bones.
+
+#lg 5.76	proverb
+
+@(D.5.76.72 = 72)  To a dog a dream is a joy.
+
+#lg 5.77	proverb
+
+@(D.5.77.73 = 73-75)  A dog entered a tavern and said: @q{“I can't see a thing. I'll open this one!”}
+
+#lg 5.78	proverb
+
+@(D.5.78.76 = 76-78)  @note{cf. @xref[t.6.2.3,t623.h42]{6.2.3: UET 6/2 264}} A dog said to his master: @q{“If my pleasure is of no importance to you, then my loss should not be either!”}
+
+#lg 5.79	proverb
+
+@(D.5.79.79 = 79)  @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 231 ll. 1-2}} The dog does not let me sit down in his master's house.
+
+#lg 5.80	proverb
+
+@(D.5.80.80 = 80)  @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 231 ll. 3}} A rabid dog hates …… the chain (?) …….
+
+#lg 5.81	proverb
+
+@(D.5.81.81 = 81-82)  @note{cf. @xref[t.6.2.3,t623.h44]{6.2.3: UET 6/2 225}} The dog understands @q{“Take it!”}, but it does not understand @q{“Put it down!”}
+
+#lg 5.82	proverb
+
+@(D.5.82.83 = 83-84)  The dog  @varh[t6105.v9]{wags his tongue (?) at a millstone } @vart[t6105.v10,]{@note{1 ms. has instead:} …… licks his tongue }, and says to his companion: @q{“@vart[t6105.v11,]{@note{1 ms. adds:} It is an omen from heaven! } Let me clothe you in the lid of a measuring bowl!”}
+
+
+#etcsl#altGrpo
+#etcsl#alt t6105.v9 t6105.v10
+#etcsl#altGrpc
+#lg 5.83	proverb
+
+@(D.5.83.85 = 85-86)  The dog recognises a man who loves him; as the dog is judge, so its tail acts (?) as commissioner!
+
+#lg 5.84	proverb
+
+@(D.5.84.87 = 87-89)  The dog gnawing on a bone says to his anus: @q{“This is going to hurt you!”}
+
+#lg 5.85	proverb
+
+@(D.5.85.90 = 90-91)  @note{cf. @xref[t.6.2.3,t623.h45]{6.2.3: UET 6/2 228}} A dog which …… sheep-fat -- @q{“dog”} is indeed its name.
+
+#lg 5.86	proverb
+
+@(D.5.86.92 = 92)  A dog does not stand still on the ferry-boat!
+
+#lg 5.87	proverb
+
+@(D.5.87.93 = 93-94)  A dog ……  @gap{1 line fragmentary} 
+
+#lg 5.88	proverb
+
+@(D.5.88.95 = 95-99)  When the dog goes out into an orchard to get dates, the owner of the orchard chases him away. The thief …… goes out …… dates.  @gap{1 line fragmentary} 
+
+#lg 5.89	proverb
+
+@(D.5.89.100 = 100-101)  A dog ……  @gap{1 line fragmentary} 
+
+#lg 5.90	proverb
+
+@(D.5.90.102 = 102)  A dog …….
+
+#lg 5.91	proverb
+
+@(D.5.91.103 = 103-104)  A dog ……  @gap{1 line fragmentary} 
+
+#lg 5.92	proverb
+
+@(D.5.92.105 = 105)  Like a dog, he hates to grovel.
+
+#lg 5.93	proverb
+
+@(D.5.93.106 = 106)  @note{cf. @xref[t.6.1.03,t.6.1.03.95]{6.1.03.95}} He growls like a dog struck by a ball (?).
+
+#lg 5.94	proverb
+
+@(D.5.94.107 = 107)  Control the dog, but love the puppy!
+
+#lg 5.95	proverb
+
+@(D.5.95.108 = 108)  @note{cf. @xref[t.6.2.2,t622.h3]{6.2.2: MDP 27 102}} An angry dog …….
+
+#lg 5.96	proverb
+
+@(D.5.96.109 = 109)  To purchase a dog is within your sights; to purchase a waggon is to be destroyed.
+
+#lg 5.97	proverb
+
+@(D.5.97.110 = 110)  @note{cf. @xref[t.6.2.3,t623.h46]{6.2.3: UET 6/2 223}} A dog which is played with turns into a puppy.
+
+#lg 5.98	proverb
+
+@(D.5.98.111 = 111-112)  @note{cf. @xref[t.6.2.3,t623.h47]{6.2.3: UET 6/2 324}} He cried out like a dog in a frenzy; its reward was having its skin flayed.
+
+#lg 5.99	proverb
+
+@(D.5.99.113 = 113)  Like rabid dogs, …… their paws in the moonlight.
+
+#lg 5.100	proverb
+
+@(D.5.100.114 = 114)  Like a rabid dog …….
+
+#lg 5.101	proverb
+
+@(D.5.101.115 = 115)  @note{cf. @xref[t.6.2.3,t623.h48]{6.2.3: UET 6/2 309}} You behave like a rabid dog stretching his neck into the river (?) …….
+
+#lg 5.102	proverb
+
+@(D.5.102.116 = 116-125)  A dog entered a warehouse. The merchant broke his leg with a wooden door-bolt: @q{“Get out of here!”} The dog questioned his tail: @q{“Is there something behind me?”} @q{“Those things which make you happy!”} it was told. @q{“Well then, let me go back again tonight and receive something!”} And so, upon his return, his leg was again broken. He dragged his tail and sat in the street. A second time he questioned his tail: @q{“Did the bolt just come out from in front of you, like before?”}
+
+#lg 5.103	proverb
+
+@(D.5.103.126 = 126-128)  The dog …… winter ……:  @gap{1 line fragmentary}  @q{“The start of summer will tease my nose!”}
+
+#lg 5.104	proverb
+
+@(D.5.104.129 = 129-130)  The dog …… a yoke does not adorn (?) anything: @q{“…… behind you a fattened ox is being slaughtered.”}
+
+#lg 5.105	proverb
+
+@(D.5.105.131 = 131)  The dog …… the shepherd …… his throat …….
+
+#lg 5.106	proverb
+
+@(D.5.106.132 = 132-133)  @note{cf. @xref[t.6.2.2,t622.h4]{6.2.2: MDP 27 82}, @xref[t.6.2.3,t623.h49]{6.2.3: UET 6/2 224}} A chained dog starts a fight. Would you not roar at that dog ……?
+
+#lg 5.107	proverb
+
+@(D.5.107.134 = 134-135)  @note{cf. @xref[t.6.2.3,t623.h50]{6.2.3: UET 6/2 222}} If a dog snarls, throw a morsel into his mouth.
+
+#lg 5.108	proverb
+
+@(D.5.108.136 = 136-137)  The dog has been taught to pay attention; as long as he pays attention, he may escape his chain.
+
+#lg 5.109	proverb
+
+@(D.5.109.138 = 138)  A dog climbed up onto the roof.
+
+#lg 5.110	proverb
+
+@(D.5.110.139 = 139)  Dog, you are counting sheep.
+
+#lg 5.111	proverb
+
+@(D.5.111.140 = 140)  Like a dog you have nowhere to sleep.
+
+#lg 5.112	proverb
+
+@(D.5.112.141 = 141)  He is a dog without a tail.
+
+#lg 5.114	proverb
+
+@(D.5.114.142 = 142-143)  …… they roared at the dog …… cried out …….
+
+#lg 5.115	proverb
+
+@(D.5.115.144 = 144)  @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 230 ll. 1-2}} The dog collects bones.
+
+#lg 5.116	proverb
+
+@(D.5.116.145 = 145-147) @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 230 ll. 3-5}} A dog went to a party. When he saw the bones there, he left, saying: @q{“Where I am going, I shall get more to eat than this!”}
+
+#lg 5.117	proverb
+
+@(D.5.117.148 = 148)  When a bitch eats …… food and drink, the puppies will have no teeth.
+
+#lg 5.118	proverb
+
+@(D.5.118.149 = 149)  When the bitch is weakened from ……, the puppies will not be able to open their eyes.
+
+#lg 5.119	proverb
+
+@(D.5.119.150 = 150-152)  Bitches advise their young: @q{“You should not eat the food from a funeral offering. When the person has brought it here, they will eat it.”}
+
+#lg 5.120	proverb
+
+@(D.5.120.153 = 153)  @note{cf. @xref[t.6.2.3,t623.h52]{6.2.3: UET 6/2 232}} Like a whelping bitch he bites the workmen.
+
+#lg 5.121	proverb
+
+@(D.5.121.154 = 154)  Like a man's bitch you are walking behind a shaven-headed man.
+
+#lg 5.122	proverb
+
+@(D.5.122.155 = 155)  Like the bitch of a scribe, he struts through the fields as though he were in charge (?).
+
+#lg 5.123	proverb
+
+@(D.5.123.156 = 156-157)  @note{cf. @xref[t.6.2.3,t623.h53]{6.2.3: UET 6/2 313}} Thus says the bitch to the kid goat: @q{“Whether you are yellow or mottled, I still love my little ones.”}
+
+#lg 5.124	proverb
+
+@(D.5.124.158 = 158-159)  The bitch is a fool: bread is the food ration for her mouth, and a …… is the judge for her anus!
+
+#lg 5.125	proverb
+
+@(D.5.125.160 = 160-161)  When we have a bitch and have caught hold of her, only then will we give her a name.
+
+
+$ (unplaced)
+
+#lg 5.e1	proverb
+
+@(E.5.e1.1 = 1)  @note{= Alster 1997 p. 121 D i 1 = Gordon 1958 5.19}  @gap{1 line fragmentary} 
+
+#lg 5.e2	proverb
+
+@(E.5.e2.2 = 2-3)  @note{= Alster 1997 p. 121 D i 2 = Gordon 1958 5.20}  @gap{2 lines fragmentary} 
+
+
+

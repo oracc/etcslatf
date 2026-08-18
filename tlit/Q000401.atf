@@ -1,0 +1,341 @@
+&Q000401 = An adab to Enlil for Šulgi (Šulgi G)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.07&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. {d}en-lil₂ gal-di en me-te-na niŋ₂-dug₄-ga-ni zid
+#lem: Enlil[1]DN; galdi[exalted]; en[lord]; mete[appropriate thing]; niŋduga[speech]; zid[right]
+#etcsl: line-id=A.1
+
+A.2. {d}nu-nam-nir sipad da-ri₂ kalam-ma kur gal-ta e₃-a
+#lem: Nunamnir[1]DN; sipad[shepherd]; dari[eternal]; kalam[the Land (of Sumer)]; kur[mountain(s)]; gal[big]; e[leave]
+#etcsl: line-id=A.2
+
+A.3. sa₂ gal pad₃-de₃ gu₂-gal an ki me ša-ra u₅-a
+#lem: sa[advice]; gal[big]; pad[find]; gugal[foremost]; an[sky]; ki[place]; me[Being]; šar[numerous]V/i; u[ride]
+#etcsl: line-id=A.3
+
+A.4. en nam-nun-na-ni-še₃ ni₂ gal im-guru₃ mul-an šu du₇-a
+#lem: en[lord]; namnun[magnificence]; ni[fear]; gal[big]; gur[lift]; mulan[heavenly star]; šu[hand]; du[perfect]
+#etcsl: line-id=A.4
+
+A.5. me ul me saŋ₅-e gal kiŋ₂-ŋa₂ dili-ni diŋir mah
+#lem: me[Being]; ul[distant time]; me[Being]; saŋ[choose]; gal[big]; kiŋ[seek]; dili[single]; diŋir[deity]; mah[great]
+#etcsl: line-id=A.5
+
+A.6. en ud til₃ kur-zag til-la-še₃ uŋ₃ dub₃-us₂ dili-a tum₂
+#lem: en[lord]; ud[sun]; til[live (of a single person)]; kurzag[mountain border]; til[complete]; uŋ[people]; dus[path]; dili[single]; tum[carry]
+#etcsl: line-id=A.6
+
+A.7. sa-par₃ mah an ki šu₂-a eš₂ kur-kur-ra la₂-a
+#lem: sabar[net]; mah[great]; an[sky]; ki[place]; šuš[cover]; eš[rope]; kur[mountain(s)]; la[hang]
+#etcsl: line-id=A.7
+
+A.8. {d}en-lil₂-da a-ba a₂ mu-da-an-aŋ₂ a-ba-ga-an-da-sa₂
+#lem: Enlil[1]DN; aba[who?]; a[arm]; aŋ[measure]; sa[equal]
+#etcsl: line-id=A.8
+
+A.9. gal bi₂-dug₄ šag₄-ga-ni id₂ mah a-na-am₃ de₆-a-bi
+#lem: gal[big]; dug[speak]; šag[heart]; id[river]; mah[great]; ana[what?]; de[carry]
+#etcsl: line-id=A.9
+
+A.10. inim kug-ga-na LIL₂ lal₃-ŋar-ra-bi e₂-ta nam-ta-e₃
+#lem: inim[word]; kug[pure]; X; lal₃.HI×AŠ₂[subterranean waters]; e[house]; e[leave]
+
+#etcsl: line-id=A.10
+
+A.11. niŋ₂-bi niŋ₂ kug-ga-am₃ niŋ₂ šen-nam me e₂-kur-ra-kam
+#lem: niŋ[thing]; niŋ[thing]; kug[pure]; niŋ[thing]; šen[pure]; me[Being]; Ekur[1]TN
+#etcsl: line-id=A.11
+
+A.12. šeg₁₂ zid nam tar-ra abzu sa-dur₂-ra niŋ₂ kal-kal-la-am₃
+#lem: šeg[brick]; zid[right]; nam[fate]; tar[cut]; abzu[(cosmic) underground water]; sadur[bottom]; niŋ[thing]; kal[rare]
+#etcsl: line-id=A.12
+
+A.13. e₂-kur lu₂ zid-de₃ i₃-du₃-e mu da-ri₂-kam
+#lem: Ekur[1]TN; lu[person]; zid[right]; du[build]; mu[name]; dari[eternal]
+#etcsl: line-id=A.13
+
+A.14. dumu lu₂ zid-da-ke₄ ŋidru mi-<ni>-ib₂-su₃-ra₂ {ŋiš}gu-za-bi nu-kur₂
+#lem: dumu[child]; lu[person]; zid[right]; ŋidru[scepter]; sud[distant]; guza[chair]; kur[different]
+#etcsl: line-id=A.14
+
+A.15. nam-bi-še₃ e₂-kur-ra sig₇ mi-ni-ŋar {d}aš!-im₂-babbar-re
+#lem: nam[fate]; Ekur[1]TN; sissig[green-yellow]; ŋar[put]; Dilimbabbar[1]DN
+#etcsl: line-id=A.15
+
+A.16. a-a-ni {d}en-lil₂ inim-ma bi₂-sig₁₀ ama di-da mi-ni-in-de₆
+#lem: aya[father]; Enlil[1]DN; inim[word]; sig[put into]; ama[mother]; utud[give birth (to)]; de[carry]
+#etcsl: line-id=A.16
+
+A.17. e₂-dug₃-ga {d}nanna dumu nun-ne₂ niŋ₂ al ba-ni-dug₄
+#lem: Eduga[1]TN; Nanna[1]DN; dumu[child]; nun[prince]; niŋ[thing]; al[cvne]; dug[speak]
+#etcsl: line-id=A.17
+
+A.18. en-ne₂ <a> šag₄-tur-še₃ ŋal₂-la-na lu₂ zid mi-ni-u₃-tud
+#lem: en[priest]; a[water]; šagtur[womb]; ŋal[⟦be⟧ to be (there]; lu[person]; zid[right]; utud[give birth (to)]
+#etcsl: line-id=A.18
+
+A.19. {d}en-lil₂ sipad a₂ kalag-ga-ke₄ meš₃-e pa bi₂-e₃
+#lem: Enlil[1]DN; sipad[shepherd]; a[arm]; kalag[strong]; mes[hero]; pa[branch]; e[leave]
+#etcsl: line-id=A.19
+
+A.20. dumu nam-lugal barag-ge₄ he₂-du₇ šul-gi lugal-am₃
+#lem: dumu[child]; namlugal[kingship]; barag[sanctum]; hedu[ornament]; Šulgir[1]RN; lugal[king]
+#etcsl: line-id=A.20
+
+A.21. a piriŋ-ŋa₂ <e₂>-kur šu daŋal-la dug₄-dug₄ ki aŋ₂ {[d]}[nin]-lil₂-la₂
+#lem: a[water]; piriŋ[lion]; Ekur[1]TN; šu[hand]; daŋal[wide]; dug[speak]; ki[place]; aŋ[measure]; Ninlil[1]DN
+#etcsl: line-id=A.21
+
+A.22. e₂-kur-ta nam-nir-ŋal₂ šum₂-ma lugal urim₅#{[ki]}-ma
+#lem: Ekur[1]TN; namnirŋal[authority]; šum[give]; lugal[king]; Urim[1]SN
+#etcsl: line-id=A.22
+
+A.23. šag₄ zalag-zalag sipad {d}lamma kalam-ma mu-ni bi₂#-in#-dug₃
+#lem: šag[heart]; zalag[bright]; sipad[shepherd]; lammar[(female) tutelary deity]; kalam[the Land (of Sumer)]; mu[name]; dug[good]
+#etcsl: line-id=A.23
+
+A.24. šul-gi {d}en-lil₂-le šag₄ kug-ge bi₂-pad₃ kalam šu-ni bi₂-si
+#lem: Šulgir[1]RN; Enlil[1]DN; šag[heart]; kug[pure]; pad[find]; kalam[the Land (of Sumer)]; šu[hand]; si[fill]
+#etcsl: line-id=A.24
+
+A.25. šibir ešgiri₂ a₂-na mu-ni-la₂ sipad kur-kur-ra-kam
+#lem: šibir[shepherd's staff]; ešgiri[staff]; a[arm]; la[hang]; sipad[shepherd]; kur[mountain(s)]
+#etcsl: line-id=A.25
+
+A.26. ŋidru {d}nanna šu nu-bal-e šu-ni-še₃ mu-ŋar
+#lem: ŋidru[scepter]; Nanna[1]DN; šu[hand]; bala[turn]; šu[hand]; ŋar[put]
+#etcsl: line-id=A.26
+
+A.27. dur₂ nam-lugal sag₂ nu-di-da gu₂ an-še₃ mi-ni-zig₃
+#lem: dur[buttocks]; namlugal[kingship]; sag[scatter]; di[speak]; gu[neck]; an[sky]; zig[rise]
+#etcsl: line-id=A.27
+
+A.28. ud šudu₃-dam ŋi₆ nam-šita-am₃ kalam u₂-sal-la-am₃
+#lem: ud[sun]; šud[prayer]; ŋi[night]; namšita[prayer]; kalam[the Land (of Sumer)]; usal[meadow]
+#etcsl: line-id=A.28
+
+A.29. sipad he₂-ŋal₂-la šul-gi mu gi₁₆-sa lugal asilₓ(EZEN)-le₂
+#lem: sipad[shepherd]; heŋal[plenty]; Šulgir[1]RN; mu[name]; gilsa[treasure]; lugal[king]; asilala[joy]
+#etcsl: line-id=A.29
+
+A.30. kalag-ga a lu₂ zid-de₃ ri-a {d}en-lil₂ mu-i-i
+#lem: kalag[strong]; a[water]; lu[person]; zid[right]; ri[impose]; Enlil[1]DN; e[bring out]
+#etcsl: line-id=A.30
+
+@div trailer 
+
+A.31. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=A.31
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.32. šul#-[gi] lugal uru₁₆ [...] ku-kur silim-e-eš₂ dug₄-ga
+#lem: Šulgir[1]RN; lugal[king]; urun[exalted]; X; kurku[wish]; silim[healthy]; dug[speak]
+#etcsl: line-id=B.32
+
+B.33. lugal# X aga₃-kar₂ {d}inana ki-bal-a bi₂-sig₁₀
+#lem: lugal[king]; X; agakar[conquest]; Inanak[1]DN; kibala[rebel land]; sig[put into]
+#etcsl: line-id=B.33
+
+@div trailer 
+
+B.34. ŋiš-gi₅-ŋal₂ sa-gid₂-da-kam
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#etcsl: line-id=B.34
+
+@end trailer
+
+@end jicgijal
+
+@div sa-ŋara C
+
+C.35. {d}en-lil₂ zid-da-am₃ inim-ma-ni mah-am₃
+#lem: Enlil[1]DN; zid[right]; inim[word]; mah[great]
+#etcsl: line-id=C.35
+
+C.36. nam dug₃ tar-ra-ni saŋ-bi-še₃ e₃-a-am₃
+#lem: nam[fate]; dug[good]; tar[cut]; saŋ[head]; e[leave]
+#etcsl: line-id=C.36
+
+C.37. gu niŋ₂ kalag mu₂-mu₂ še niŋ₂ kalag mu₂-mu₂
+#lem: gu[cord]; niŋ[thing]; kalag[strong]; mu[grow]; še[barley]; niŋ[thing]; kalag[strong]; mu[grow]
+#etcsl: line-id=C.37
+
+C.38. šul-gi e₂-kur-ra u₂-a-bi na-nam
+#lem: Šulgir[1]RN; Ekur[1]TN; ua[provisioner]; me[be]
+#etcsl: line-id=C.38
+
+C.39. gu-bi gu na-nam še-bi še na-nam
+#lem: gu[cord]; gu[cord]; me[be]; še[barley]; še[barley]; me[be]
+#etcsl: line-id=C.39
+
+C.40. niŋ₂-u₂-rum {d}nanna ama-tud e₂-kur-ra
+#lem: niŋurum[property]; Nanna[1]DN; amaʾatud[house-born slave]; Ekur[1]TN
+#etcsl: line-id=C.40
+
+C.41. šag₄-ta mu pad₃#-da {d}nin-lil₂-la₂ na-nam
+#lem: šag[heart]; mu[name]; pad[find]; Ninlil[1]DN; me[be]
+#etcsl: line-id=C.41
+
+C.42. šul-gi sipad kalam-ma saŋ {d}en-lil₂-le zu
+#lem: Šulgir[1]RN; sipad[shepherd]; kalam[the Land (of Sumer)]; saŋ[head]; Enlil[1]DN; zu[know]
+#etcsl: line-id=C.42
+
+C.43. e₂-a lu₂-bi na-nam ud he₂-em-ma-ab-su₃-re₆
+#lem: e[house]; lu[person]; me[be]; ud[sun]; sud[distant]
+#etcsl: line-id=C.43
+
+C.44. urim₅{ki} iri{ki} dug₃ nun-ne₂ ki ŋar-ra
+#lem: Urim[1]SN; iri[city]; dug[good]; nun[prince]; ki[place]; ŋar[put]
+#etcsl: line-id=C.44
+
+C.45. šag₄-bi dub-šen kug abzu igi nu-bar
+#lem: šag[heart]; dubšen[treasure chest]; kug[purify]; abzu[(cosmic) underground water]; igi[eye]; bar[place outside]
+#etcsl: line-id=C.45
+
+C.46. nam#-išib dug₃-ga-kam šu-luh dadag-ga-kam
+#lem: namišib[office of išib-priest]; dug[good]; šuluh[ritual cleansing]; dadag[bright]
+#etcsl: line-id=C.46
+
+C.47. nidba gal-gal-bi e₂-kur hul₂-le-de₃
+#lem: nindaba[(food) offering]; gal[big]; Ekur[1]TN; hul[rejoice]
+#etcsl: line-id=C.47
+
+C.48. {d}en#-lil₂-le gu₃ ba-an-de₂ dug₄#-ga!(BI) zid-zid-dam
+#lem: Enlil[1]DN; gu[voice]; de[pour]; dug[speak]; zid[right]
+#etcsl: line-id=C.48
+
+C.49. sipad nam-lugal-la barag mah-ha tum₂-ma
+#lem: sipad[shepherd]; namlugal[kingship]; barag[sanctum]; mah[great]; tum[suitable]
+#etcsl: line-id=C.49
+
+C.50. šul-gi nam-en-na tug₂-ba₁₃ sud-sud-am₃
+#lem: Šulgir[1]RN; namen[the office of en-priest]; ba[garment]; sud[distant]
+#etcsl: line-id=C.50
+
+C.51. bur!# an-naₓ(AN) he-nun-na sug₂-sug₂-ga-ni-še₃
+#lem: bur[(stone) bowl]; anna[metal]; henun[plenty]; sug[stand]
+#etcsl: line-id=C.51
+
+C.52. unu₂ e₂-kur#-ra-ka kiŋ₂-sig gub#-ba#-ni-še₃#
+#lem: unu[dwelling]; Ekur[1]TN; kiŋsig[afternoon meal]; gub[stand]
+#etcsl: line-id=C.52
+
+C.53. {d}en-lil₂ nam-nun-na [mu]-ni#-in-tar-e#
+#lem: Enlil[1]DN; namnun[magnificence]; tar[cut]
+#etcsl: line-id=C.53
+
+C.54. an-gin₇ sig₇-ga-ni X [...]-e#
+#lem: an[sky]; sissig[green-yellow]; X; X
+#etcsl: line-id=C.54
+
+C.55. {d}nanna lugal-am₃ [...]-am₃#
+#lem: Nanna[1]DN; lugal[king]; X
+#etcsl: line-id=C.55
+
+C.56. ki-ur₃ ki gal-la# [...] dug₃# mu-na#-šum₂
+#lem: Kiʾur[1]; ki[place]; gal[big]; X; dug[good]; šum[give]
+#etcsl: line-id=C.56
+
+C.57. {d}en-lil₂-la₂ KA# [...] mu#-ši-daŋal-e
+#lem: Enlil[1]DN; X; X; daŋal[wide]
+#etcsl: line-id=C.57
+
+C.58. kur a nun gi₄-a gu₂-un-gu₂-un# mu-na-ab-za
+#lem: kur[mountain(s)]; a[arm]; nun[prince]; gi[turn]; gungugu[an animal noise]; za[cvve]
+#etcsl: line-id=C.58
+
+C.59. ma-da mu-gen₆-ge-en₆# uŋ₃ ŋiri₃-ni-še₃ mu-nu₂
+#lem: mada[land]; gin[confirm]; uŋ[people]; ŋiri[foot]; nud[lie down]
+#etcsl: line-id=C.59
+
+C.60. šul-gi sipad lu₂-lal₃! nibru{ki} ki aŋ₂-am₃
+#lem: Šulgir[1]RN; sipad[shepherd]; lulal[dear]; Nibru[1]SN; ki[place]; aŋ[measure]
+#etcsl: line-id=C.60
+
+C.61. šeg₁₂ {d}en-lil₂-la₂ ŋissu-bi dug₃-ga-am₃
+#lem: šeg[brick]; Enlil[1]DN; ŋissu[shade]; dug[good]
+#etcsl: line-id=C.61
+
+C.62. sipad zid šul-gi-re ni₂ he₂-em-ši-ib₂-ten-ten
+#lem: sipad[shepherd]; zid[right]; Šulgir[1]RN; ni[self]; ten[extinguish]
+#etcsl: line-id=C.62
+
+@div trailer 
+
+C.63. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=C.63
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal D
+
+D.64. šul-gi bal-za {d}en-lil₂-le ud dug₃ ma-ra-ni-in-e₃
+#lem: Šulgir[1]RN; bala[turn]; Enlil[1]DN; ud[sun]; dug[good]; e[leave]
+#etcsl: line-id=D.64
+
+@div trailer 
+
+D.65. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=D.65
+
+@end trailer
+
+@end jicgijal
+
+@div uru E
+
+E.66. an-na lugal-be₂-e ki-a kur gal-be₂-e
+#lem: an[sky]; lugal[king]; ki[place]; kur[mountain(s)]; gal[big]
+#etcsl: line-id=E.66
+
+E.67. a-a {d}en-lil₂ an-na lugal-be₂-e ki-a kur gal-be₂-e
+#lem: aya[father]; Enlil[1]DN; an[sky]; lugal[king]; ki[place]; kur[mountain(s)]; gal[big]
+#etcsl: line-id=E.67
+
+E.68. gal bi₂-dug₄ šul-gi bal zid-da šag₄-ge-eš i-pad₃
+#lem: gal[big]; dug[speak]; Šulgir[1]RN; bala[turn]; zid[right]; šag[heart]; pad[find]
+#etcsl: line-id=E.68
+
+@div trailer 
+
+E.69. u₁₈-ru₁₂-NI-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=E.69
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+E.70. a-da-ab {d}en-lil₂-la₂-kam
+#lem: adab[drum]; Enlil[1]DN
+#etcsl: line-id=E.70
+
+#etcsl#doc lines 69 and 70 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

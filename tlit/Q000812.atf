@@ -1,0 +1,678 @@
+&Q000812 = Proverbs: collection 19
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.19
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.19&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 19.a1
+
+A.19.a1.1. [hur-saŋ gig₂]-ŋu₁₀ [im-babbar ba]-an-mu₂
+#lem: hursaŋ[mountain]; giggig[black]; imbabbar[gypsum]; mu[grow]
+#etcsl: line-id=A.19.a1.1
+
+#etcsl#cf cf. 6.1.10.10-12, 6.1.17.b3: ll. 14-17, 5.6.7: ll. 29-31
+
+A.19.a1.2. [ama-ŋu₁₀] {[ŋiš]}tir#-ta [lu₂] mu#-ši-in-gi₄-in
+#lem: ama[mother]; tir[forest]; lu[person]; gi[turn]
+#etcsl: line-id=A.19.a1.2
+
+A.19.a1.3. [šu dab₅-ba]-ŋu₁₀ ma-an-šum₂
+#lem: šu[hand]; dab[seize]; šum[give]
+#etcsl: line-id=A.19.a1.3
+
+A.19.a1.4. {[d]}nin#-kilim niŋ₂ hab₂-ba X gu₇-gu₇-ŋu₁₀
+#lem: ninkilim[mongoose]; niŋ[thing]; hab[malodorous]; X; gu[eat]
+#etcsl: line-id=A.19.a1.4
+
+A.19.a1.5. [dug i₃]-nun-na-še₃ [gu₂ nu-mu-da]-an-la₂#
+#lem: dug[(clay) pot]; inun[ghee]; gu[neck]; la[hang]
+#etcsl: line-id=A.19.a1.5
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 19.b1
+
+B.19.b1.1. [šah₂ niga ab-šum]-u₃#-de₃ [niŋ₂ i₃-gu₇]-a-ŋu₁₀ ga-ab-sug₆-e-še
+#lem: šah[pig]; niga[fattened]; šum[slaughter]; niŋ[thing]; gu[eat]; sug[replace]
+#etcsl: line-id=B.19.b1.1
+
+#etcsl#cf cf. 6.1.09.a12, 6.1.21.b4, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2
+
+@end proverb
+
+@div proverb 19.b2
+
+B.19.b2.2. šah₂#-ze₂-eh-tur-re šu al-gud-gu₄-ud-de₃
+#lem: šahzehtur[piglet]; šu[hand]; gud[jump (on)]
+#etcsl: line-id=B.19.b2.2
+
+#etcsl#cf cf. 6.1.09.a13, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4
+
+B.19.b2.3. [sag₉]-ga#-aš ŋe₂₆-e nu-gu₇-e-še
+#lem: sag[good]; ŋaʾe[I]; gu[eat]
+#etcsl: line-id=B.19.b2.3
+
+@end proverb
+
+@div proverb 19.b3
+
+B.19.b3.4. [en]-gin₇ du₃ saŋ-gin₇ til₃
+#lem: en[lord]; du[build]; saŋ[head]; til[live (of a single person)]
+#etcsl: line-id=B.19.b3.4
+
+#etcsl#cf cf. 6.1.02.137
+
+B.19.b3.5. saŋ#-gin₇ du₃ en-gin₇ til₃
+#lem: saŋ[head]; du[build]; en[lord]; til[live (of a single person)]
+#etcsl: line-id=B.19.b3.5
+
+@end proverb
+
+@div proverb 19.b4
+
+B.19.b4.6. e₂ gul-gul-e kug i₃-gul-e
+#lem: e[house]; gul[destroy]; kug[metal]; gul[destroy]
+#etcsl: line-id=B.19.b4.6
+
+#etcsl#cf cf. 6.1.02.135, 6.1.24.3
+
+B.19.b4.7. e₂ gul-e kug-sig₁₇ i₃-gul-e
+#lem: e[house]; gul[destroy]; kugsig[gold]; gul[destroy]
+#etcsl: line-id=B.19.b4.7
+
+@end proverb
+
+@div proverb 19.b5
+
+B.19.b5.8. dam %e u₃-mu-un-si %s gam-am₃ am ug₅-ga-am₃
+#lem: dam[spouse]; umunsik[ruler]N; gurum[bend]; am[wild bull]; ug[kill]
+#etcsl: line-id=B.19.b5.8
+
+#etcsl#cf cf. 6.1.09.a14, 6.1.24.4
+
+B.19.b5.9. %e [u₃]-mu#-un-si %s gam-am₃ arad# ug₅-ga-am₃
+#lem: umunsik[ruler]N; gurum[bend]; arad[slave]; ug[kill]
+#etcsl: line-id=B.19.b5.9
+
+@end proverb
+
+@div proverb 19.b6
+
+B.19.b6.10. [ga-gid₂ mu]-ra#-ab-kud#
+#lem: gid[long]; kud[cut]
+#etcsl: line-id=B.19.b6.10
+
+#etcsl#cf cf. 6.1.03.71, 6.1.11.19, 6.1.24.5
+
+B.19.b6.11. [šu-bi bar] edin#-na mu-da-DU
+#lem: šu[hand]; bar[outside]; eden[back]; X
+#etcsl: line-id=B.19.b6.11
+
+B.19.b6.12. [...]-še₃ a-na-ak
+#lem: X; ak[do]
+#etcsl: line-id=B.19.b6.12
+
+@end proverb
+
+@div proverb 19.b7
+
+B.19.b7.13. [...] he₂#-en-zu
+#lem: X; zu[know]
+#etcsl: line-id=B.19.b7.13
+
+B.19.b7.14. [...]-am₃
+#lem: X
+#etcsl: line-id=B.19.b7.14
+
+B.19.b7.15. [...] X X
+#lem: X; X; X
+#etcsl: line-id=B.19.b7.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 19.c1
+
+C.19.c1.1. {[d]}[en-lil₂-le a-na-am₃ in-ak in-bul-bul]
+#lem: Enlil[1]DN; ana[what?]; ak[do]; inbulbul[an agricultural product]
+#etcsl: line-id=C.19.c1.1
+
+#etcsl#cf cf. 6.1.03.25, 6.2.5: YBC 4677 ll. 8-10
+
+C.19.c1.2. {[urud]}[šukur in]-sig₁₀# [su] mu#-ni-ib-[te]-te
+#lem: šukur[lance]; sig[put into]; su[flesh]; te[pierce]
+#etcsl: line-id=C.19.c1.2
+
+@end proverb
+
+@div proverb 19.c2
+
+C.19.c2.3. {d}utu bar-ra he₂-en-ni-šu₂ ni₂-zu šu nu-zu-a kur₉-ni-ib
+#lem: Utu[1]DN; bar[outside]; šuš[cover]; ni[self]; šu[hand]; zu[know]; kur[enter]
+#etcsl: line-id=C.19.c2.3
+
+#etcsl#cf cf. 6.1.03.26, 6.1.24.9
+
+@end proverb
+
+@div proverb 19.c3
+
+C.19.c3.4. ŋiš-šub us₂-sa ama-zu hul₂-la
+#lem: ŋeššub[lot]; us[accompany]; ama[mother]; hul[rejoice]
+#etcsl: line-id=C.19.c3.4
+
+#etcsl#cf cf. 6.1.01.145, 6.1.22: ll. 87-88, 6.1.28.4
+
+C.19.c3.5. kaš₄ <dug₄>-ga-ab diŋir-zu hul₂-la
+#lem: kaš[run]; dug[speak]; diŋir[deity]; hul[rejoice]
+#etcsl: line-id=C.19.c3.5
+
+@end proverb
+
+@div proverb 19.c4
+
+C.19.c4.6. igi il₂-la-za dam tuku-ba-ni-ib
+#lem: igi[eye]; il[raise]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=C.19.c4.6
+
+#etcsl#cf cf. 6.1.01.146
+
+@end proverb
+
+@div proverb 19.c5
+
+C.19.c5.7. {d}inana-ke₄ dam ur₂ kum₂-ma ha-ra-an-nu₂-e
+#lem: Inanak[1]DN; dam[spouse]; ur[loin]; kum[hot]; nud[lie down]
+#etcsl: line-id=C.19.c5.7
+
+#etcsl#cf cf. 6.1.01.147
+
+C.19.c5.8. dumu a₂ tal₂-tal₂-la ha-ra-an-ba-e
+#lem: dumu[child]; a[arm]; tal[broad]; ba[allot]
+#etcsl: line-id=C.19.c5.8
+
+C.19.c5.9. ki niŋ₂ sag₉-ga ha-ra-ab-kiŋ₂-kiŋ₂-e
+#lem: ki[place]; niŋ[thing]; sag[good]; kiŋ[seek]
+#etcsl: line-id=C.19.c5.9
+
+@end proverb
+
+@div proverb 19.c6
+
+C.19.c6.10. u₂ dam-da %e ze₂-eb %s u₂ ama-da %e ze₂-eb
+#lem: u[plant(s)]; dam[spouse]; zeb[good]V/i; u[plant(s)]; ama[mother]; zeb[good]V/i
+#etcsl: line-id=C.19.c6.10
+
+#etcsl#cf cf. 6.1.01.126, 6.1.14.42, 6.1.22: l. 34, 6.2.3: UET 6/2 284
+
+C.19.c6.11. {d}ezina₂-{d}ku₃-su₃ e₂-a he₂-me-da-an-til₃
+#lem: Ezinakusu[1]DN; e[house]; til[live (of a single person)]
+#etcsl: line-id=C.19.c6.11
+
+@end proverb
+
+@div proverb 19.c7
+
+C.19.c7.12. {kuš}ummud zi lu₂-kam {kuš}e-sir₂ igi# lu₂-kam
+#lem: ummud[waterskin]; zi[life]; lu[person]; esir[sandal(s)]; igi[eye]; lu[person]
+#etcsl: line-id=C.19.c7.12
+
+#etcsl#cf cf. 6.1.21.c1, 6.1.23.18, 6.1.24.8
+
+C.19.c7.13. dam dim₄-ma lu₂-kam dumu-nitah ŋissu lu₂-kam
+#lem: dam[spouse]; dim[check]; lu[person]; dumunita[son]; ŋissu[shade]; lu[person]
+#etcsl: line-id=C.19.c7.13
+
+C.19.c7.14. dumu-munus saŋ šu ŋar lu₂-kam e₂-gi₄-a gal₅-la₂ lu₂-kam
+#lem: dumumunus[daughter]; saŋ[head]; šu[hand]; ŋar[put]; lu[person]; egia[bride]; galla[policeman]; lu[person]
+#etcsl: line-id=C.19.c7.14
+
+@end proverb
+
+@div proverb 19.c8
+
+C.19.c8.15. mussa-tur UŠ X X X
+#lem: mussatur[son-in-law]; X; X; X; X
+#etcsl: line-id=C.19.c8.15
+
+#etcsl#cf cf. 6.1.21.c2
+
+@end proverb
+
+@div proverb 19.c9
+
+C.19.c9.16. {uzu}suš₂ %e al-ze₂-eb %s {uzu}i₃-udu# %e al#-[ze₂-eb]
+#lem: suš[grease]; zeb[good]V/i; lib[sheep fat]; zeb[good]V/i
+#etcsl: line-id=C.19.c9.16
+
+#etcsl#cf cf. 6.1.01.190
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 19.d1
+
+D.19.d1.1. GA X [...]
+#lem: X; X; X
+#etcsl: line-id=D.19.d1.1
+
+D.19.d1.2. kuš X [...]
+#lem: kuš[skin]; X; X
+#etcsl: line-id=D.19.d1.2
+
+@end proverb
+
+@div proverb 19.d2
+
+D.19.d2.3. u₅{[mušen]} [...]
+#lem: u[wild goose]; X
+#etcsl: line-id=D.19.d2.3
+
+D.19.d2.4. lum-lum [...]
+#lem: lum[fruit]; X
+#etcsl: line-id=D.19.d2.4
+
+@end proverb
+
+@div proverb 19.d3
+
+D.19.d3.5. um{mušen} al-[sah₆ gu-du-bi] am₃-[kar]
+#lem: um[water bird]; zah[disappear]; gudu[buttocks]; kar[flee]
+#etcsl: line-id=D.19.d3.5
+
+#etcsl#cf cf. 6.1.21.c14
+
+@end proverb
+
+@div proverb 19.d4
+
+D.19.d4.6. um{mušen}-gin₇# [...]
+#lem: um[water bird]; X
+#etcsl: line-id=D.19.d4.6
+
+#etcsl#cf cf. 6.1.02.c12
+
+@end proverb
+
+@div proverb 19.d5
+
+D.19.d5.7. um{mušen} [...]
+#lem: um[water bird]; X
+#etcsl: line-id=D.19.d5.7
+
+#etcsl#cf cf. 6.2.5: IM 62823 Seg. B l. 3
+
+@end proverb
+
+@div proverb 19.d6
+
+D.19.d6.8. mušen# [...]
+#lem: mušen[bird]; X
+#etcsl: line-id=D.19.d6.8
+
+@end proverb
+
+$ 1 line missing
+@div proverb 19.d7
+
+D.19.d7.10. MU# [...]
+#lem: X; X
+#etcsl: line-id=D.19.d7.10
+
+@end proverb
+
+@div proverb 19.d8
+
+D.19.d8.11. HAR-da mul-an# [...] ku₆-da engur-ra# [...]
+#lem: X; mulan[heavenly star]; X; kud[fish]; engur[(cosmic) underground waters]; X
+#etcsl: line-id=D.19.d8.11
+
+#etcsl#cf cf. 6.2.5: IM 62823 Seg. B l. 4
+
+@end proverb
+
+@div proverb 19.d9
+
+D.19.d9.12. e₂-ta e₃ sila-ta kur₉-ra# geme₂ nin-a-ni ŋišbum-ma-ni# [bi₂-in-tuš]
+#lem: e[house]; e[leave]; sila[street]; kur[enter]; geme[female worker]; nin[lady]; ŋešbun[(cultic) meal]; tuš[sit (down)]
+#etcsl: line-id=D.19.d9.12
+
+#etcsl#cf cf. 6.1.03.41, 6.1.28.25
+
+@end proverb
+
+@div proverb 19.d10
+
+D.19.d10.13. %e gi₄-in %s an-ba pa nu-um-e₃# %e ga-ša-an-a-ni %s mu-ni-ib-gu-ul-gu-ul#
+#lem: gin[worker]N; anba[litter]; pa[branch]; e[leave]; gašan[lady]N; gal[big]
+#etcsl: line-id=D.19.d10.13
+
+#etcsl#cf cf. 6.1.21.c7
+
+@end proverb
+
+@div proverb 19.d11
+
+D.19.d11.14. %e gi₄-in-ŋen ga-ša-an-ra# še-er# nu-mu-un-na-ma#-[al]
+#lem: gin[worker]N; gašan[lady]N; šer[lordly]; mal[be]V/i
+#etcsl: line-id=D.19.d11.14
+
+#etcsl#cf cf. 6.2.3: UET 6/2 386, 6.2.3: UET 6/2 387
+
+D.19.d11.15. %e mu#-[ud-na-ŋu₁₀ %s ga-an-ze₂-e-še]
+#lem: mudna[spouse]N; zir[tear out]
+#etcsl: line-id=D.19.d11.15
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+@div proverb 19.e1
+
+E.19.e1.1. X [...]
+#lem: X; X
+#etcsl: line-id=E.19.e1.1
+
+@end proverb
+
+@div proverb 19.e2
+
+E.19.e2.2. kug-zu# [...]
+#lem: kugzu[wise]; X
+#etcsl: line-id=E.19.e2.2
+
+#etcsl#cf cf. 6.1.09.d2, 6.2.3: UET 6/3 464 ll. 1-2
+
+E.19.e2.3. gal-an-zu a#-[ra₂ ...]
+#lem: galanzu[wise]; ara[way]; X
+#etcsl: line-id=E.19.e2.3
+
+@end proverb
+
+@div proverb 19.e3
+
+E.19.e3.4. is-hab₂ ki-bid₃-da# X šu ša-an-ša-[ša-da]
+#lem: ishab[rogue]; kibid[buttocks]; X; šu[hand]; šanšaša[cvve]
+#etcsl: line-id=E.19.e3.4
+
+#etcsl#cf cf. 6.1.09.d3, 6.1.13.29, 6.2.3: UET 6/3 464 l. 3
+
+E.19.e3.5. šu-ni bid₃-da# [ba-ni-in-gid₂]
+#lem: šu[hand]; bed[anus]; gid[long]
+#etcsl: line-id=E.19.e3.5
+
+@end proverb
+
+@div proverb 19.e4
+
+E.19.e4.6. kug X [...]
+#lem: kug[purify]; X; X
+#etcsl: line-id=E.19.e4.6
+
+E.19.e4.7. X [...]
+#lem: X; X
+#etcsl: line-id=E.19.e4.7
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment F
+
+@div proverb 19.f1
+
+F.19.f1.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=F.19.f1.1
+
+@end proverb
+
+@div proverb 19.f2
+
+F.19.f2.2. id₂ mah ki-mah#-X
+#lem: id[river]; mah[great]; kimah[grave]
+#etcsl: line-id=F.19.f2.2
+
+@end proverb
+
+@div proverb 19.f3
+
+F.19.f3.3. an#-ur₂# an#-šag₄#-ga# ninda šag₄#-gal-la-ni-še₃ bi₂-in-tur
+#lem: anur[horizon]; anšag[the interior of heaven]; ninda[bread]; šaggal[food]; tur[small]
+#etcsl: line-id=F.19.f3.3
+
+#etcsl#cf cf. 6.1.15.a9
+
+F.19.f3.4. šu# kalam-ma-ni-ta še ba-an-da-tur
+#lem: šu[hand]; kalam[the Land (of Sumer)]; še[barley]; tur[small]
+#etcsl: line-id=F.19.f3.4
+
+@end proverb
+
+@div proverb 19.f4
+
+F.19.f4.5. AN dumu-munus diŋir-da he₂-e!
+#lem: X; dumumunus[daughter]; diŋir[deity]; me[be]
+#etcsl: line-id=F.19.f4.5
+
+#etcsl#cf cf. 6.1.01.40, 6.2.1: Ni 4469 Seg. A ll. 1-4
+
+F.19.f4.6. ninda-ni niŋ₂-ussu-zug₄ X he₂-a
+#lem: ninda[bread]; niŋmuzug[impure thing]; X; me[be]
+#etcsl: line-id=F.19.f4.6
+
+F.19.f4.7. lu₂ <nu>-mu-un-šu₂-šu₂
+#lem: lu[person]; šuš[cover]
+#etcsl: line-id=F.19.f4.7
+
+@end proverb
+
+@div proverb 19.f5
+
+F.19.f5.8. ninda pad-pad-ra₂ šum₂-sikil zil₂-la₂ ninda e₂-dub-ba-a
+#lem: ninda[bread]; pad[break (into bits)]; šumsikil[an alliaceous vegetable]; zil[good]; ninda[bread]; edubbaʾa[scribal school]
+#etcsl: line-id=F.19.f5.8
+
+#etcsl#cf cf. 6.1.01.58
+
+@end proverb
+
+@div proverb 19.f6
+
+F.19.f6.9. dabin a-šag₄-ga# {uzu}suš₂-am₃#
+#lem: dabin[semolina]; ašag[field]; suš[grease]
+#etcsl: line-id=F.19.f6.9
+
+#etcsl#cf cf. 6.1.01.48
+
+@end proverb
+
+@div proverb 19.f7
+
+F.19.f7.10. X X [...]
+#lem: X; X; X
+#etcsl: line-id=F.19.f7.10
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment G
+
+@div proverb 19.g1
+
+G.19.g1.1. teš₂-e he₂-il₂-il₂# za-e lag-ga he₂-dur₂#
+#lem: teš[unity]; il[raise]; zaʾe[you]; lag[clod (of earth)]; dur[sit]
+#etcsl: line-id=G.19.g1.1
+
+#etcsl#cf cf. 6.1.03.117
+
+@end proverb
+
+@div proverb 19.g2
+
+G.19.g2.2. X {ŋiš}al ed₂#-de₃#
+#lem: X; al[hoe]; e[leave]
+#etcsl: line-id=G.19.g2.2
+
+G.19.g2.3. [...] X {ŋiš}al# X# ed₂#-de₃#
+#lem: X; X; al[hoe]; X; e[leave]
+#etcsl: line-id=G.19.g2.3
+
+G.19.g2.4. [...]-ni-in-sa₂#
+#lem: sa[equal]
+#etcsl: line-id=G.19.g2.4
+
+@end proverb
+
+@div proverb 19.g3
+
+G.19.g3.5. [...] tuku-a
+#lem: X; tuku[acquire]
+#etcsl: line-id=G.19.g3.5
+
+@end proverb
+
+@div proverb 19.g4
+
+G.19.g4.6. [...] nu-SU#-a
+#lem: X; X
+#etcsl: line-id=G.19.g4.6
+
+G.19.g4.7. [...] X X-e
+#lem: X; X; X
+#etcsl: line-id=G.19.g4.7
+
+G.19.g4.8. [...] ib₂#-SU-SU-e
+#lem: X; X
+#etcsl: line-id=G.19.g4.8
+
+@end proverb
+
+@div proverb 19.g5
+
+G.19.g5.9. [...] UR# umma#{ki}
+#lem: X; X; Umma[1]SN
+#etcsl: line-id=G.19.g5.9
+
+G.19.g5.10. [...] KI# X
+#lem: X; X; X
+#etcsl: line-id=G.19.g5.10
+
+G.19.g5.11. AB# [X X] X il₂# UR šuruppag#{ki}-ka
+#lem: X; X; X; X; il[raise]; X; Šuruppag[1]SN
+#etcsl: line-id=G.19.g5.11
+
+@end proverb
+
+@div proverb 19.g6
+
+G.19.g6.12. gu₇# u₃-bi₂-ib-be₂ ba-an-dab₅-be₂-eš
+#lem: gu[eat]; e[speak]; dab[seize]
+#etcsl: line-id=G.19.g6.12
+
+G.19.g6.13. ze₂-ze₂ an-ze₂
+#lem: zir[tear out]; zir[tear out]
+#etcsl: line-id=G.19.g6.13
+
+G.19.g6.14. AN KU UG ba-ab-gu₇#
+#lem: X; X; X; gu[eat]
+#etcsl: line-id=G.19.g6.14
+
+@end proverb
+
+@div proverb 19.g7
+
+G.19.g7.15. sipad šu-nim-ma engar šu-nim-ma
+#lem: sipad[shepherd]; šunim[early]; engar[farmer]; šunim[early]
+#etcsl: line-id=G.19.g7.15
+
+#etcsl#cf cf. 5.5.5: ll. 63-65
+
+G.19.g7.16. ŋuruš-e ud tur-ra-na-ka# dam ba-tuku-tuku-u₂-a
+#lem: ŋuruš[young adult male]; ud[sun]; tur[small]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=G.19.g7.16
+
+G.19.g7.17. a#-ba-a mu#-da-ab-sa₂-e
+#lem: aba[who?]; sa[equal]
+#etcsl: line-id=G.19.g7.17
+
+@end proverb
+
+@div proverb 19.g8
+
+G.19.g8.18. [...] te#-a-ni
+#lem: X; teŋ[approach]
+#etcsl: line-id=G.19.g8.18
+
+G.19.g8.19. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=G.19.g8.19
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment H
+
+@div proverb 19.h1
+
+H.19.h1.1. [...] X
+#lem: X; X
+#etcsl: line-id=H.19.h1.1
+
+H.19.h1.2. [...] X X
+#lem: X; X; X
+#etcsl: line-id=H.19.h1.2
+
+H.19.h1.3. [...] X [X X]
+#lem: X; X; X; X
+#etcsl: line-id=H.19.h1.3
+
+H.19.h1.4. [...] DI
+#lem: X; X
+#etcsl: line-id=H.19.h1.4
+
+H.19.h1.5. [...]-gu₇#-e#
+#lem: gu[eat]
+#etcsl: line-id=H.19.h1.5
+
+H.19.h1.6. [...]-bi
+#lem: X
+#etcsl: line-id=H.19.h1.6
+
+@end proverb
+
+$ (some small unplaced fragments have not been included; see Alster 1997 pp. 249-250)
+@end segment
+
+
+
+
+
+
+

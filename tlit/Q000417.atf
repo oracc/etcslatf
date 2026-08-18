@@ -1,0 +1,140 @@
+&Q000417 = A praise poem of Šulgi (Šulgi Y)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.25
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.25&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+1. [X X] X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=1
+
+2. [X X] X ba-ni-ŋar-re#-[eš]
+#lem: X; X; X; ŋar[put]
+#etcsl: line-id=2
+
+3. nam-lugal-ŋa₂ ud-bi sud-da#
+#lem: namlugal[kingship]; ud[sun]; sud[distant]
+#etcsl: line-id=3
+
+4. bal-ŋa₂ he₂-ŋal₂ pa ed₂-ed₂-dam
+#lem: bala[turn]; heŋal[plenty]; pa[branch]; e[leave]
+#etcsl: line-id=4
+
+5. {d}en-ki en dug₄-ga-ni nu-kur₂-ru saŋ il₂ ba-ni-kur₉
+#lem: Enkik[1]DN; en[lord]; dug[speak]; kur[different]; saŋ[head]; il[raise]; kur[enter]
+#etcsl: line-id=5
+
+6. {d}utu inim-ma-ni saŋ-ba du maškim-še₃ ma-an-šum₂
+#lem: Utu[1]DN; inim[word]; saŋ[head]; ŋen[go]; maškim[an administrator]; šum[give]
+#etcsl: line-id=6
+
+7. {d}nin-lil₂ kalam-ma gu₃ hul₂-la ma-ni-de₂-a-ke₄-eš₂
+#lem: Ninlil[1]DN; kalam[the Land (of Sumer)]; gu[voice]; hul[rejoice]; de[pour]
+#etcsl: line-id=7
+
+8. unken-na ŋizzal ma-ni-ak-ke₄-eš₂
+#lem: unkin[assembly]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=8
+
+9. šul-gi sipad zid ki-en-gi-ra-me#-[en]
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]
+#etcsl: line-id=9
+
+10. ŋa₂-ŋiš-šu₂-a e₂ di si im#-sa₂#-[...] X-[na]
+#lem: Ŋaŋiššua[1]TN; e[house]; did[lawsuit]; si[horn]; sa[equal]; X
+#etcsl: line-id=10
+
+11. e₂ mah nam-[nin]-a tum₂-ma-na
+#lem: e[house]; mah[great]; namnin[ladyship]; tum[suitable]
+#etcsl: line-id=11
+
+12. {e₂}pa-pah ki u₆# di kur-kur-ra ni₂# huš# gur₃-ru-na
+#lem: papah[cella]; ki[place]; u[admiration]; di[speak]; kur[mountain(s)]; ni[fear]; huš[reddish]; gur[lift]
+#etcsl: line-id=12
+
+13. e₂ X X [...] GI# šag₄-bi-a silim mu-na#-X-[dug₄]
+#lem: e[house]; X; X; X; X; šag[heart]; silim[healthy]; dug[speak]
+#etcsl: line-id=13
+
+14. [X X] mu-da-ab#-du₃ DA NI X [...] mu-|DU.DU| X [...]
+#lem: X; X; du[build]; X; X; X; X; X; X; X
+#etcsl: line-id=14
+
+15. X gu₂ mu-da-ab#-[...]
+#lem: X; gu[neck]; X
+#etcsl: line-id=15
+
+16. urud niŋ₂ kalag-ga-a X [...]
+#lem: urud[copper]; niŋ[thing]; kalag[strong]; X; X
+#etcsl: line-id=16
+
+17. lu₂ hul-ŋal₂ {ŋiš}tukul-la mu-ši-[... X-a]
+#lem: lu[person]; huluŋal[evil]; tukul[weapon]; X; X
+#etcsl: line-id=17
+
+18. a₂ aŋ₂-ŋa₂-ni-ta me₃-a mu-ni-gaz-a
+#lem: a[arm]; aŋ[measure]; me[battle]; gaz[kill]
+#etcsl: line-id=18
+
+19. ur-saŋ gal-gal mu-til-la-ŋu₁₀ bar-ba im-mi-X
+#lem: ursaŋ[warrior]; gal[big]; til[complete]; bar[outside]; X
+#etcsl: line-id=19
+
+20. gu₂-bi-a ŋiri₃-ŋu₁₀ im-mi-gub
+#lem: gu[neck]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=20
+
+21. ki-gal-ba ni₂-ŋu₁₀ saŋ im-ma-ni-il₂
+#lem: kigal[platform]; ni[self]; saŋ[head]; il[raise]
+#etcsl: line-id=21
+
+22. alan kug-sig₁₇ alan {na₄}za-gin₃-na-ŋu₁₀
+#lem: alan[image]; kugsig[gold]; alan[image]; zagin[lapis lazuli]
+#etcsl: line-id=22
+
+23. kisal mah e₂-niŋ₂-ŋa₂-ra-ka-na si ba-ni-sa₂-sa₂
+#lem: kisal[courtyard]; mah[great]; Eniŋara[1]TN; si[horn]; sa[equal]
+#etcsl: line-id=23
+
+24. aratta kug-gin₇ gi₁₆-sa mi-ni-ŋar-ŋar
+#lem: Aratta[1]GN; kug[pure]; gilsa[treasure]; ŋar[put]
+#etcsl: line-id=24
+
+25. e₂-muhaldim gal-la-ni gud udu ba-ni-ŋar
+#lem: emuhaldim[kitchen]; gal[big]; gud[bull]; udu[sheep]; ŋar[put]
+#etcsl: line-id=25
+
+26. e₂-gir₄ mah-a-ni he₂-ŋal₂-la bi₂-de₆
+#lem: egir[bakery]; mah[great]; heŋal[plenty]; de[carry]
+#etcsl: line-id=26
+
+27. e₂-lunga₃ zabar-re he₂-du₇-na
+#lem: elungak[brewery]; zabar[bronze]; hedu[ornament]
+#etcsl: line-id=27
+
+28. kaš!(GUD)-kaš!(GUD)-bi-ta NE ki ba-ni-us₂-us₂
+#lem: kaš[beer]; X; ki[place]; us[accompany]
+#etcsl: line-id=28
+
+29. kaš gig₂ kurun kaš su₄ <e₂> a₂ sikil-ba sur-ra
+#lem: kaš[beer]; giggig[black]; kurun[beer]; kaš[beer]; su[red]; e[house]; a[arm]; sikil[pure]; sur[press]
+#etcsl: line-id=29
+
+30. kiŋ₂-sig unu₂ gal-la-ni ba-ni-ŋar
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; ŋar[put]
+#etcsl: line-id=30
+
+31. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=31
+
+$ (unknown no. of lines missing)
+
+
+
+
+
+

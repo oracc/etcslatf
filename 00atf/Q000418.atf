@@ -1,0 +1,271 @@
+&Q000418 = A love song of Šulgi (Šulgi Z)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.26
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.26&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. U₃# [nu]-mu-e-de₃-[RI-RI-X]
+#lem: X; X
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 4
+
+A.2. šeš#-[ŋu₁₀] U₃# nu-mu#-[e]-de₃-RI-RI-[...]
+#lem: šeš[brother]; X; X
+#etcsl: line-id=A.2
+
+A.3. gi-ru U₃ nu-mu-[e]-de₃-RI-RI-[...]
+#lem: giru[an affectionate epithet]; X; X
+#etcsl: line-id=A.3
+
+A.4. ki-ga aŋ₂-ŋu₁₀ U₃ nu-mu#-e-de₃-[RI]-RI#
+#lem: ki[place]; aŋ[measure]; X; X
+#etcsl: line-id=A.4
+
+A.5. %e i-bi₂ %s sag₉-sag₉-[ŋu₁₀ U₃ nu-mu-e]-de₃-RI-RI#{la-X-X-e}
+#lem: ibi[eye]N; sag[good]; X; X
+#etcsl: line-id=A.5
+
+A.6. an-bi šu-ŋa₂ nu-mu-[e-de₃]-ŋa₂#-ŋa₂
+#lem: an[sky]; šu[hand]; ŋar[put]
+#etcsl: line-id=A.6
+
+A.7. garadin₃-bi %e ma#-a-ar %s A [X X] X X X X
+#lem: garadin[bundle (of reeds)]; meʾe[I]IP; X; X; X; X; X; X; X
+#etcsl: line-id=A.7
+
+A.8. X-bi %e ma-a-[ar] %s A# X [nu]-ku₇-ku₇-X
+#lem: X; meʾe[I]IP; X; X; kud[sweet]
+#etcsl: line-id=A.8
+
+A.9. še guru₇ X [...] MA X [...]
+#lem: še[barley]; guru[grain store]; X; X; X; X; X
+#etcsl: line-id=A.9
+
+A.10. nin₉-ŋu₁₀ gana₂#-[ŋu₁₀-še₃ ŋe₂₆-e ga]-ba#-e-de₃-ŋen
+#lem: nin[sister]; gana[field]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.10
+
+A.11. nin₉! [sag₉-ga-ŋu₁₀ gana₂-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃]-ŋen#
+#lem: nin[sister]; sag[good]; gana[field]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.11
+
+A.12. gana₂ gal-[ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen]
+#lem: gana[field]; gal[big]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.12
+
+A.13. gana₂ tur-[ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen]
+#lem: gana[field]; tur[small]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.13
+
+A.14. še nim X a šu-nim-[bi] dug₄#-[ga]-ŋu₁₀-še₃
+#lem: še[barley]; nim[early]; X; a[water]; šunim[early]; dug[speak]
+#etcsl: line-id=A.14
+
+A.15. še sig a sig-bi dug₄-ga-ŋu₁₀-še₃
+#lem: še[barley]; sig[weak]; a[water]; sig[weak]; dug[speak]
+#etcsl: line-id=A.15
+
+A.16. še-bi a gurun-na [...]
+#lem: še[barley]; a[water]; gurun[fruit]; X
+#etcsl: line-id=A.16
+
+A.17. garadin₃-bi# X X NI [...]
+#lem: garadin[bundle (of reeds)]; X; X; X; X
+#etcsl: line-id=A.17
+
+A.18. [nin₉-ŋu₁₀] gana₂#-ŋu₁₀-še₃ ŋe₂₆-e [ga]-ba#-e-de₃-[ŋen]
+#lem: nin[sister]; gana[field]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.18
+
+A.19. [nin₉] sag₉#-ga-ŋu₁₀ gana₂-ŋu₁₀-še₃# ŋe₂₆-e [ga-ba-e-de₃-ŋen]
+#lem: nin[sister]; sag[good]; gana[field]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=A.19
+
+A.20. gana₂ gal#-gal X UD-UD [...]
+#lem: gana[field]; gal[big]; X; X; X
+#etcsl: line-id=A.20
+
+A.21. gana₂# tur-ŋa₂ šu [...]
+#lem: gana[field]; tur[small]; šu[hand]; X
+#etcsl: line-id=A.21
+
+A.22. [...] X U₃ [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.22
+
+A.23. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.23
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.1
+
+B.2. [... X-da]-ka ba#-hul# [...]
+#lem: X; X; hulu[bad]; X
+#etcsl: line-id=B.2
+
+B.3. X garadin₃-na-ka AN X [...]
+#lem: X; garadin[bundle (of reeds)]; X; X; X
+#etcsl: line-id=B.3
+
+B.4. X X-da-ka ba-hul X [X X]
+#lem: X; X; hulu[bad]; X; X; X
+#etcsl: line-id=B.4
+
+B.5. X garadin₃-na-ka AN X X X [...]
+#lem: X; garadin[bundle (of reeds)]; X; X; X; X; X
+#etcsl: line-id=B.5
+
+B.6. %e mu-un-gar₃ %s a-šag₄ ur₁₁-ru mu-[...] ŋar-[ra]
+#lem: mungar[farmer]N; ašag[field]; uru[sow]; X; ŋar[put]
+#etcsl: line-id=B.6
+
+B.7. %e u₃#-mu-un %s šul-gi-ra MU še X X X X X
+#lem: umun[lord]N; Šulgir[1]RN; X; še[barley]; X; X; X; X; X
+#etcsl: line-id=B.7
+
+B.8. X X-ir a-šag₄ ur₁₁-ru mu-X ŋar-ra
+#lem: X; X; ašag[field]; uru[sow]; X; ŋar[put]
+#etcsl: line-id=B.8
+
+B.9. AN X-bi gur ab-ba-še₃{{ab-ba-ŋu₁₀}} sa₂#-dug₄ šu ha-ra#-an-il₂
+#lem: X; X; gur[turn]; abba[father]; abba[father]; sadug[regular temple offerings]; šu[hand]; il[raise]
+#etcsl: line-id=B.9
+
+B.10. nin₉-ŋu₁₀! {[ŋiš]}kiri₆-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+#lem: nin[sister]; kiri[(fruit) plantation]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=B.10
+
+B.11. nin₉ sag₉-[ga]-ŋu₁₀ {ŋiš}kiri₆-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+#lem: nin[sister]; sag[good]; kiri[(fruit) plantation]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=B.11
+
+B.12. nin₉#-ŋu₁₀ {ŋiš}[kiri₆]-ŋu₁₀#-še₃ ŋe₂₆-e ga-ba-<e>-de₃-ŋen
+#lem: nin[sister]; kiri[(fruit) plantation]; ŋaʾe[I]; ŋen[go]
+#etcsl: line-id=B.12
+
+B.13. nin₉-ŋu₁₀ {ŋiš}kiri₆#-[ŋu₁₀ ...] X X-mu-ši-ib
+#lem: nin[sister]; kiri[(fruit) plantation]; X; X; X
+#etcsl: line-id=B.13
+
+B.14. {ŋiš}ildag₂ SAR X [...]
+#lem: ildag[poplar]; X; X; X
+#etcsl: line-id=B.14
+
+B.15. šita₃{ta} {ŋiš}ildag₂#-[ŋu₁₀]-še₃# ga-ba-e-de₃#-ŋen
+#lem: šitan[water-channel]; ildag[poplar]; ŋen[go]
+#etcsl: line-id=B.15
+
+#etcsl#text Sumerian gloss: ki-en-DU
+
+B.16. nin₉-ŋu₁₀ {ŋiš}hašhur-ŋu₁₀-še₃# ga-ba-e-de₃-ŋen
+#lem: nin[sister]; hašhur[apple (tree)]; ŋen[go]
+#etcsl: line-id=B.16
+
+B.17. DU₈-a {ŋiš}hašhur [...] šu-ŋa₂ {{%akk i-na}} he₂-ŋal₂
+#lem: X; hašhur[apple (tree)]; X; šu[hand]; L; heŋal[plenty]
+#etcsl: line-id=B.17
+
+B.18. nin₉-ŋu₁₀ {ŋiš}nu-ur₂-ma-ŋu₁₀#-še₃ ga-ba-e-de₃-ŋen
+#lem: nin[sister]; nurma[pomegranate tree]; ŋen[go]
+#etcsl: line-id=B.18
+
+B.19. lal₃-e dar-ra X X-ku₇ in-ga-ba-ni-ib-DU
+#lem: lal[syrup]; dar[split]; X; kud[sweet]; X
+#etcsl: line-id=B.19
+
+B.20. nin₉-ŋu₁₀ {ŋiš}kiri₆-ŋu₁₀#-[še₃ ga]-ba-e-de₃-ŋen#
+#lem: nin[sister]; kiri[(fruit) plantation]; ŋen[go]
+#etcsl: line-id=B.20
+
+B.21. nin₉ sag₉-ga {ŋiš}kiri₆#-ŋu₁₀-še₃ [ga-ba-e-de₃-ŋen]
+#lem: nin[sister]; sag[good]; kiri[(fruit) plantation]; ŋen[go]
+#etcsl: line-id=B.21
+
+B.22. nisig ki-en-DU-na-gin₇ [...]
+#lem: nisig[greenery]; ki.en.DU[watercourse]; X
+#etcsl: line-id=B.22
+
+B.23. MA LA KUM NA {{%x TA# KA BI X}} A X [...]
+#lem: X; X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.23
+
+B.24. hi-iz gakkul# dug₄#-ga X X [...]
+#lem: hiz[vegetable]; gakkul[heart (of a plant)]; dug[speak]; X; X; X
+#etcsl: line-id=B.24
+
+B.25. niŋ₂ X-la₂{sar} ga-ba#-[...]
+#lem: niŋ[thing]; X; X
+#etcsl: line-id=B.25
+
+B.26. [...]{sar} ga-ba#-[...]
+#lem: X; X
+#etcsl: line-id=B.26
+
+B.27. guru₇#-za# X A NU X ga#-mu#-ra#-ab-X
+#lem: guru[grain store]; X; X; X; X; X
+#etcsl: line-id=B.27
+
+B.28. KU₇ GA MU U₈ KA-KA X X [...] X
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.28
+
+B.29. nin₉ sag₉-ga šag₄ hi-li-e-a X
+#lem: nin[sister]; sag[good]; šag[heart]; hili[attractiveness]; X
+#etcsl: line-id=B.29
+
+B.30. an-na šu-ŋa₂ LA X za-ra ga-mu-[X-X]-da-zu-[...] X
+#lem: an[sky]; šu[hand]; X; X; zaʾe[you]; X; X
+#etcsl: line-id=B.30
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-9) @q[Inana,Culgi]{“The …… because of you does not ……. My brother, the …… because of you does not ……. Lad (?), the …… because of you does not ……. My beloved, the …… because of you does not ……. My fairest of countenance, the …… because of you does not ……. Its date clusters because of you are not placed in my hand. Its sheaves are …… for me. Its …… are not sweet for me. Grain …… the silos (?).”}
+
+@(A.10 = 10-17) @q[Culgi,Inana]{“My sister, I would go with you to my fields. My fair sister, I would go with you to my fields. I would go with you to my large fields. I would go with you to my small fields. For my early grain irrigated with its early water, for my late grain irrigated with its late water, …… its grain …… sheaves …….”}
+
+@(A.18 = 18-23) @q{“My sister, I would go with you to my fields. My fair sister, I would go with you to my fields. …… the large fields. …… in my small fields.”}  @gap{2 lines fragmentary}  @gap{unknown no. of lines missing} 
+
+#etcsl#linkGrpo
+#etcsl#link type=q t24226.q1 t24226.q2
+#etcsl#linkGrpc
+
+@(B.1 = 1-9)  @gap{1 line fragmentary}  @q[Inana,farmer]{“In the …… of the ……, it has become fallow (?) ……. In the …… of the sheaves, the date clusters (?) ……. In the …… of the ……, it has become fallow (?) ……. In the …… of the sheaves, the date clusters (?) ……. Farmer, plough the field, set up the ……. …… of Lord @wRN{Šulgi}. For …… plough the field, set up the ……. He will bring offerings (?) to the …… for you.”}
+
+@(B.10 = 10-19) @q[Culgi,Inana]{“My (?) sister, I would go with you to my garden. My fair sister, I would go with you to my garden. My sister, I would go with you to my garden. My sister, …… my garden, …… the @fsux{ildag} tree. I would go with you to my @fsux{ildag} tree by the watercourse. My sister, I would go with you to my apple tree. May …… the apple tree be in my hand. My sister, I would go with you to my pomegranate tree and then …… there the sweet …… covered (?) in honey.”}
+
+@(B.20 = 20-30) @q{“My sister, I would go with you to my garden. Fair sister, I would go with you to my garden. …… like the plants of the watercourse.  @gap{1 line fragmentary}  …… the sprout of a lettuce. I would …… plant there. I would …… plant there. In your (?) silo …… I would …… for you.  @gap{1 line fragmentary}  Fair sister, luxuriant of heart ……. I would …… of the date-clusters for you (?).”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t24226.q3 t24226.q4
+#etcsl#linkGrpc
+
+

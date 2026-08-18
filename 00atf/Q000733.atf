@@ -1,0 +1,370 @@
+&Q000733 = A hymn to Nisaba (Nisaba A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.16.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.16.1&display=Crit&charenc=gcirc#
+
+@div version 1 (Old Babylonian version)
+
+1.1. nin mul-an-gin₇ gun₃-a dub za-gin₃ šu (1:du₈:1)
+#lem: nin[lady]; mulan[heavenly star]; gunu[speckled]; dub[tablet]; zagin[lapis lazuli]; šu[hand]; du[spread]
+#etcsl: line-id=1.1
+
+:1v.1.1: ($Cited in OB catalogue from Urim (U1), 0.2.03, line 17; OB catalogue from Urim (U2), 0.2.04, line 1$) du₇
+#lem: du[perfect]
+
+1.2. {d}nisaba immal₂ gal {d}uraš-e tud-da
+#lem: Nisabak[1]DN; immal[cow]; gal[big]; Uraš[1]DN; utud[give birth (to)]
+#etcsl: line-id=1.2
+
+1.3. šeg₉-bar naŋa kug-ga ga zid gu₇-a
+#lem: šeŋbar[an animal]; naŋa[potash]; kug[pure]; ga[milk]; zid[right]; gu[eat]
+#etcsl: line-id=1.3
+
+1.4. gi (1:DI:1) 7-e ka ba-a
+#lem: gi[reed]; X; n; kag[mouth]; ba[allot]
+#etcsl: line-id=1.4
+
+:4v.1.1: ($1 ms. has instead:$) DIM
+#lem: X
+
+1.5. me gal 50-e šu du₇-a
+#lem: me[Being]; gal[big]; n; šu[hand]; du[perfect]
+#etcsl: line-id=1.5
+
+1.6. nin-ŋu₁₀ a₂-nun-ŋal₂ e₂-kur-ra
+#lem: nin[lady]; anunŋal[strong]; Ekur[1]TN
+#etcsl: line-id=1.6
+
+1.7. ušumgal ezen-e dalla e₃-a
+#lem: ušumgal[great dragon]; ezem[festival]; dalla[(to be) bright]; e[leave]
+#etcsl: line-id=1.7
+
+1.8. {d}a-ru-ru kalam-ma im-ta KA-KA dug₄
+#lem: Aruru[1]DN; kalam[the Land (of Sumer)]; im[clay]; X; dug[speak]
+#etcsl: line-id=1.8
+
+1.9. (1:ki im-si ud-da:1) šag₄ kuš₂-u₃ {{%akk da-ti# X [...] ša-am-ša-X [...]}}
+#lem: ki[place]; si[fill]; ud[sun]; šag[heart]; kušu[tired]; L; L; L; L; L
+#etcsl: line-id=1.9
+
+:9v.1.1: ($1 ms. has instead:$) ki-ŋar a sed-de₃
+#lem: kiŋar[area]; a[water]; sed[cold]
+
+1.10. kur (1:i₃-he-nun-ta:1) mi₂ zid dug₄-ga
+#lem: kur[mountain(s)]; ihenunak[precious oil]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=1.10
+
+:10v.1.1: ($3 mss. have instead:$) he-nun-ta
+#lem: henun[plenty]
+
+1.11. ŋeštug₂ ŋar kur gal-e tud-da
+#lem: ŋeštug[ear]; ŋar[put]; kur[mountain(s)]; gal[big]; utud[give birth (to)]
+#etcsl: line-id=1.11
+
+1.12. munus zid dub-sar mah an-na saŋ-tun₃ {d}en-lil₂-la₂
+#lem: munus[woman]; zid[right]; dubsar[scribe]; mah[great]; An[1]DN; saŋ.DUN₃[land recorder]; Enlil[1]DN
+#etcsl: line-id=1.12
+
+1.13. gal-zu igi-ŋal₂ diŋir-re-e-ne
+#lem: galanzu[wise]; igiŋal[wise]; diŋir[deity]
+#etcsl: line-id=1.13
+
+1.14. ab-sin₂-na še gu mu₂-mu₂-de₃
+#lem: absin[furrow]; še[barley]; gu[cord]; mu[grow]
+#etcsl: line-id=1.14
+
+1.15. {d}ezina₂ nam-en-na u₆ di-de₃
+#lem: Ezina[1]DN; namen[the office of en-priest]; u[admiration]; di[speak]
+#etcsl: line-id=1.15
+
+1.16. barag gal 7-e mi₂ zid di-dam
+#lem: barag[sanctum]; gal[big]; n; mi[cvne]; zid[right]; di[speak]
+#etcsl: line-id=1.16
+
+1.17. gu zi-zi-dam še zi-zi-dam
+#lem: gu[cord]; zig[rise]; še[barley]; zig[rise]
+#etcsl: line-id=1.17
+
+1.18. buru₁₄ ezen (1:gal:1) {d}en-lil₂-la₂-ke₄ {{%akk [...]-im [...] X-a}}
+#lem: buru[harvest]; ezem[festival]; gal[big]; Enlil[1]DN; L; L; L
+#etcsl: line-id=1.18
+
+:18v.1.1: ($1 ms. has instead:$) mah
+#lem: mah[great]
+
+1.19. nam-nun gal-la-ni su nam-mi-in-su-ub
+#lem: namnun[magnificence]; gal[big]; su[flesh]; sub[rub]
+#etcsl: line-id=1.19
+
+1.20. tug₂-ba₁₃ kug šag₄-ge (1:nam-mi-in-mur₁₀:1)
+#lem: ba[garment]; kug[purify]; šag[heart]; mur[dress]
+#etcsl: line-id=1.20
+
+:20v.1.1: ($1 ms. has instead:$) nam-mi-in-la₂
+#lem: la[hang]
+
+1.21. nidba nu-ŋal₂-la ŋa₂-ŋa₂-de₃
+#lem: nindaba[(food) offering]; ŋal[⟦be⟧ to be (there]; ŋar[put]
+#etcsl: line-id=1.21
+
+1.22. ne-saŋ gal kurun₂-na de₂-e-de₃
+#lem: nesaŋ[first-fruit offering]; gal[big]; kurun[beer]; de[pour]
+#etcsl: line-id=1.22
+
+1.23. diŋir nam₂-nir#-[ra] {d}en-lil₂ huŋ-e-de₃
+#lem: diŋir[deity]; namnir[supremacy]; Enlil[1]DN; huŋ[pacify]
+#etcsl: line-id=1.23
+
+1.24. {d}ku₃-su₃ arhuš sud {d}ezina₂ huŋ-e-de₃
+#lem: Kusug[1]DN; arhuš[compassion]; sud[distant]; Ezina[1]DN; huŋ[pacify]
+#etcsl: line-id=1.24
+
+1.25. en gal mu-un-huŋ-e ezen mu-un-huŋ-e
+#lem: en[priest]; gal[big]; huŋ[pacify]; ezem[festival]; huŋ[pacify]
+#etcsl: line-id=1.25
+
+1.26. en gal kalam-ma im-ma-huŋ-e
+#lem: en[priest]; gal[big]; kalam[the Land (of Sumer)]; huŋ[pacify]
+#etcsl: line-id=1.26
+
+1.27. ki-sikil {d}nisaba šudu₃-de₃ mu-un-gub
+#lem: kisikil[young woman]; Nisabak[1]DN; šud[prayer]; gub[stand]
+#etcsl: line-id=1.27
+
+1.28. nidba sikil-la si nam-mi-in-sa₂ {{%akk ni-in#-[da-ba] el-[la-am] [...]}}
+#lem: nindaba[(food) offering]; sikil[pure]; si[horn]; sa[equal]; L; L; L
+#etcsl: line-id=1.28
+
+1.29. e₂-GEŠTUG₂-{d}NISABA-ke₄ ŋal₂ nam-mi-in-taka₄ {{%akk bi-[it] [...]}}
+#lem: E₂.GEŠTUG₂.NISABA.k[1]TN; ŋal[open]; taka[set aside]; L; L
+#etcsl: line-id=1.29
+
+1.30. dub za-gin₃ dub₃-ba nam-mi-in-ŋar
+#lem: dub[tablet]; zagin[lapis lazuli]; dub[knee]; ŋar[put]
+#etcsl: line-id=1.30
+
+1.31. dub mul-an kug-ta šag₄ im-ma-da-kuš₂-u₃
+#lem: dub[tablet]; mulan[heavenly star]; kug[pure]; šag[heart]; kušu[tired]
+#etcsl: line-id=1.31
+
+1.32. aratta{ki} e₂-za-gin₃-na šu-ni-še₃ mu-un-ŋar {{%akk i-na [...] bi-tim [i-na] qa₂-ti-ša# i#-[...]}}
+#lem: Aratta[1]GN; Ezagin[1]TN; šu[hand]; ŋar[put]; L; L; L; L; L; L
+#etcsl: line-id=1.32
+
+1.33. ereš₂{ki} he-nun-na mu-un-du₃-u₃-nam {{%akk e-re-eš i-na# ṭu₃#-[uh-di-im] i-pe-eš₁₅#}}
+#lem: Ereš[1]SN; henun[plenty]; du[build]; L; L; L; L
+#etcsl: line-id=1.33
+
+1.34. šeg₁₂ naŋa di₄-di₄-la₂ ki ŋar-ra {{%akk i-na li-bi-it-tim# el-le-tim a-na# aš#-[ri] ta-ša-ak-ka-an#}}
+#lem: šeg[brick]; naŋa[potash]; didila[small(er)]; ki[place]; ŋar[put]; L; L; L; L; L; L
+#etcsl: line-id=1.34
+
+1.35. ŋeštug₂ nam-galam-ma saŋ-e-eš rig₇-ga {{%akk uz#-[...] X ru bu [...]}}
+#lem: ŋeštug[ear]; namgalam[skillfullness]; saŋ[head]; rig[donate]; L; L; L; L; L
+#etcsl: line-id=1.35
+
+1.36. abzu men gal eridug{ki} eš₃ hal-ha-la
+#lem: Eʾabzu[1]; men[tiara]; gal[big]; Eridug[1]SN; eš[shrine]; hal[divide]
+#etcsl: line-id=1.36
+
+1.37. nun# [...] nun hal-ha-la
+#lem: nun[prince]; X; nun[prince]; hal[divide]
+#etcsl: line-id=1.37
+
+1.38. engar gal nam-nun-na e₂ ni₂ gur₃-ru nagar eridug{ki}-ga
+#lem: engar[farmer]; gal[big]; namnun[magnificence]; e[house]; ni[fear]; gur[lift]; nagar[carpenter]; Eridug[1]SN
+#etcsl: line-id=1.38
+
+1.39. lugal šu-luh-luh-ha-ke₄ en muš₃ en gal-la {d}en-ki-ke₄
+#lem: lugal[king]; luh[clean]; en[lord]; muš[flat space]; en[priest]; gal[big]; Enkik[1]DN
+#etcsl: line-id=1.39
+
+1.40. e₂-engur-ra ki-tuš-a-ni {{%akk a#-gu-ur i-na# wa#-[ša]-bi-šu}}
+#lem: Eʾengura[1]TN; kituš[dwelling place]; L; L; L
+#etcsl: line-id=1.40
+
+1.41. abzu eridug{ki}-ga du₃-du₃-a-ni {{%akk ap#-sa₃-am e-ri-du i-na e-pe-ši-i-šu}}
+#lem: Eʾabzu[1]; Eridug[1]SN; du[build]; L; L; L; L
+#etcsl: line-id=1.41
+
+1.42. hal-an-kug šag₄ kuš₂-u₃-da-ni {{%akk i-na ha-al-la-an-ku i-na mi-it-lu-ki-šu}}
+#lem: Halankug[1]TN; šag[heart]; kušu[tired]; L; L; L; L
+#etcsl: line-id=1.42
+
+1.43. e₂ {ŋiš}taškarin tun₃ bar-ra-ni {{%akk bi-it ti-is-ka-ri-in-ni-im i-na šu-pe-el#-ti-i-šu}}
+#lem: e[house]; taškarin[box tree]; tun[ax]; bar[place outside]; L; L; L; L
+#etcsl: line-id=1.43
+
+1.44. abgal siki bar-ra du₈-a-ni {{%akk ab-gal-lum ša pe-re-et-su₂ a-na wa-ar-ki-i-šu i-na wu-uš-šu-ri-im}}
+#lem: abgal[sage]; siki[hair]; bar[outside]; du[spread]; L; L; L; L; L; L; L
+#etcsl: line-id=1.44
+
+1.45. e₂ ŋeštug₂-ga-ke₄ ŋal₂ taka₄-a-ni {{%akk bi-it# uz#-ni#-im# i-na pe-te-e-ša#}}
+#lem: e[house]; ŋeštug[ear]; ŋal[open]; taka[set aside]; L; L; L; L
+#etcsl: line-id=1.45
+
+1.46. {ŋiš}ig ŋeštug₂-ga sila-ba gub-ba-ni {{%akk [da]-la-at uz-ni-[im] [...]}}
+#lem: ig[door]; ŋeštug[ear]; sila[street]; gub[stand]; L; L; L
+#etcsl: line-id=1.46
+
+1.47. unu₂ gal {ŋiš}erin-a til₃-la-ni {{%akk [...]-li#-iš# ra-bi-iš [...] X-li i-na#}}
+#lem: unu[dwelling]; gal[big]; eren[cedar]; til[complete]; L; L; L; L; L
+#etcsl: line-id=1.47
+
+1.48. šita {ŋiš}ŋišnimbar šu du₈-a-ni
+#lem: šita[weapon]; ŋešnimbar[date-palm]; šu[hand]; du[spread]
+#etcsl: line-id=1.48
+
+1.49. šita-ba tug₂-ba₁₃ sag₃-sag₃-a-ni
+#lem: šita[weapon]; ba[garment]; sag[strike]
+#etcsl: line-id=1.49
+
+1.50. {d}nisaba um-me gal-gal-la X 7 mu-un-na-dug₄
+#lem: Nisabak[1]DN; e[speak]; gal[big]; X; n; dug[speak]
+#etcsl: line-id=1.50
+
+1.51. {d}nisaba munus zid munus sag₉-ga munus (1:kur-ra:1) tud-da {{%akk [...] X# ul#-du-u₂}}
+#lem: Nisabak[1]DN; munus[woman]; zid[right]; munus[woman]; sag[good]; munus[woman]; kur[mountain(s)]; utud[give birth (to)]; L; L; L
+#etcsl: line-id=1.51
+
+:51v.1.1: ($1 ms. has instead:$) kur-re
+#lem: kur[mountain(s)]
+
+1.52. {d}nisaba tur₃-ra i₃ he₂-me-en amaš-a gara₂ he₂-me-en {{%akk {[d]}nisaba# i-na ta-ar-ba-ṣi-im# lu#-u₂# ša-am-nu-um at-ti [i-na] su-pu-ri-im# lu#-u₂# li#-iš-du#-um# at#-ti#}}
+#lem: Nisabak[1]DN; tur[animal stall]; i[oil]; me[be]; amaš[sheepfold]; gara[cream]; me[be]; L; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=1.52
+
+1.53. e₂ niŋ₂-gur₁₁-ra (1:kišib-ŋal₂:1) he₂-me-en {{%akk [i-na] [bi]-it ma-ku-ri-im [ka]-ni-ik-ta-šu# at#-ti}}
+#lem: e[house]; niŋgur[property]; kišibŋal[seal bearer]; me[be]; L; L; L; L; L
+#etcsl: line-id=1.53
+
+:53v.1.1: ($2 mss. have instead:$) kišib-la₂
+#lem: kišibla[seal bearer]
+
+1.54. e₂-gal-la aŋrig zid he₂-me-en
+#lem: egal[palace]; agrig[steward]; zid[right]; me[be]
+#etcsl: line-id=1.54
+
+1.55. guru₇-du₆ guru₇-maš-a guru₇ gu₂ gur he₂-me-en {{%akk ka#-re-e ti-li [ka]-re-e ma-a-ši [ka-re]-e ki-ša-da-ti#-šu-nu [...]-ba-ri}}
+#lem: gurudud[grain heap]; gurumaš[grain heap]; guru[grain store]; gu[neck]; gur[turn]; me[be]; L; L; L; L; L; L; L
+#etcsl: line-id=1.55
+
+1.56. nun-e {d}nisaba-ra mi₂ dug₄-ga {{%akk ru-bu-u₂ {d}[...] u₂-ki-in [...]}}
+#lem: nun[prince]; Nisabak[1]DN; mi[cvne]; dug[speak]; L; L; L; L
+#etcsl: line-id=1.56
+
+1.57. a-a {d}en-ki za₃-mi₂-zu dug₃-ga-am₃ {{%akk a#-bu-um [...] X [...]}}
+#lem: aya[father]; Enkik[1]DN; zamin[praise]; dug[good]; L; L; L; L
+#etcsl: line-id=1.57
+
+@end version
+
+@div version 2 (A version of the beginning, preserved on a stone tablet from Lagaš perhaps dating to the Ur III period)
+
+2.1. nin mul-an gun₃-a
+#lem: nin[lady]; mulan[heavenly star]; gunu[speckled]
+#etcsl: line-id=2.1
+
+2.2. dub za-gin₃ šu du₈
+#lem: dub[tablet]; zagin[lapis lazuli]; šu[hand]; du[spread]
+#etcsl: line-id=2.2
+
+2.3. {d}nisaba gal immalₓ(TUR₃) uraš-še₃ tud-da
+#lem: Nisabak[1]DN; gal[big]; immal[cow]; Uraš[1]DN; utud[give birth (to)]
+#etcsl: line-id=2.3
+
+2.4. GI naŋa kug-ge ga zid gu₇-a
+#lem: X; naŋa[potash]; kug[pure]; ga[milk]; zid[right]; gu[eat]
+#etcsl: line-id=2.4
+
+2.5. gi ŠID 7-na ka ba-a
+#lem: gi[reed]; Enlil[1]DN; n; kag[mouth]; ba[allot]
+#etcsl: line-id=2.5
+
+2.6. me gal 50 šu du₇-a
+#lem: me[Being]; gal[big]; n; šu[hand]; du[perfect]
+#etcsl: line-id=2.6
+
+2.7. nin-ŋu₁₀ a₂-nun-ŋal₂ e₂-kur-ra
+#lem: nin[lady]; anunŋal[strong]; Ekur[1]TN
+#etcsl: line-id=2.7
+
+2.8. a-ru₁₂-ru₁₂ kalam-ma
+#lem: Aruru[1]DN; kalam[the Land (of Sumer)]
+#etcsl: line-id=2.8
+
+2.9. im-da KA-KA dug₄
+#lem: im[clay]; X; dug[speak]
+#etcsl: line-id=2.9
+
+@end version
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+@h1 Old Babylonian version
+
+@(1.1 = 1-6) Lady coloured like the stars of heaven, @varh[t4161.v1]{holding } @vart[t4161.v2,t4161.v1]{@varn{3 mss. have instead:} perfectly endowed with } a lapis-lazuli tablet! @wDN{Nisaba}, great wild cow born by @wDN{Uraš}, wild sheep nourished on good milk among holy alkaline plants, opening the mouth for seven …… reeds! Perfectly endowed with fifty great divine powers, my lady, most powerful in @wTN{E-kur}!
+
+#etcsl#altGrpo
+#etcsl#alt t4161.v1 t4161.v2
+#etcsl#altGrpc
+
+@(1.7 = 7-13) Dragon emerging in glory at the festival, @wDN{Aruru} @noteref{mother goddess} of the Land, …… from the clay, calming @varh[t4161.v3]{…… } @vart[t4161.v4,t4161.v3]{@varn{1 ms. has instead:} the region with cool water }, lavishing @varh[t4161.v5]{fine oil } @vart[t4161.v6,t4161.v5]{@varn{3 mss. have instead:} plenty } on the foreign lands, engendered in wisdom by the Great Mountain @noteref{@wDN{Enlil}}! Good woman, chief scribe of @wDN{An}, record-keeper of @wDN{Enlil}, wise sage of the gods!
+
+#etcsl#altGrpo
+#etcsl#alt t4161.v3 t4161.v4
+#etcsl#alt t4161.v5 t4161.v6
+#etcsl#altGrpc
+
+@(1.14 = 14-20) In order to make barley and flax grow in the furrows, so that excellent corn can be admired; to provide for the seven great throne-daises by making flax shoot forth and making barley shoot forth at the harvest, the @varh[t4161.v7]{great } @vart[t4161.v8,t4161.v7]{@varn{1 ms. has instead:} august } festival of @wDN{Enlil} -- in her great princely role she has cleansed her body and has @varh[t4161.v9]{put } @vart[t4161.v10,t4161.v9]{@varn{1 ms. has instead:} draped } the holy priestly garment on her torso.
+
+#etcsl#altGrpo
+#etcsl#alt t4161.v7 t4161.v8
+#etcsl#alt t4161.v9 t4161.v10
+#etcsl#altGrpc
+
+@(1.21 = 21-26) In order to establish bread offerings where none existed, and to pour forth great libations of alcohol, so as to appease the god of grandeur, @wDN{Enlil}, and to appease merciful @wDN{Kusu} and @wDN{Ezina}, she will appoint a great @fsux{en} priest, and will appoint a festival; she will appoint a great @fsux{en} priest of the Land.
+
+@(1.27 = 27-35) He @noteref{Enki (?)} approaches the maiden @wDN{Nisaba} in prayer. He has organised pure food-offerings; he has opened up @wDN{Nisaba's} house of learning, and has placed the lapis-lazuli tablet on her knees, for her to consult the holy tablet of the heavenly stars. In @wSN{Aratta} he has placed @wTN{E-zagin} at her disposal. You have built up @wSN{Ereš} in abundance, founded from little …… bricks, you who are granted the most complex wisdom!
+
+@(1.36 = 36-50) In the @wTN{Abzu}, the great crown of @wSN{Eridug}, where sanctuaries are apportioned, where elevated …… are apportioned -- when @wDN{Enki}, the great princely farmer of the awe-inspiring temple, the carpenter of @wSN{Eridug}, the master of purification rites, the lord of the great @fsux{en} priest's precinct, occupies @wTN{E-engura}, and when he builds up the @wTN{Abzu} of @wSN{Eridug}; when he takes counsel in @wTN{Ḫal-an-kug}, when he splits with an axe the house of boxwood; when the sage's hair is allowed to hang loose, when he opens the house of learning, when he stands in the street of the door of learning; when he finishes (?) the great dining hall of cedar, when he grasps the date-palm mace, when he strikes (?) the priestly garment with that mace, then he utters seven …… to @wDN{Nisaba}, the supreme nursemaid:
+
+@(1.51 = 51-55) @q[Enki,Nisaba]{“O @wDN{Nisaba}, good woman, fair woman, woman born @varh[t4161.v11]{in the mountains }@vart[t4161.v12,t4161.v11]{@varn{1 ms. has instead:} by the mountains }! @wDN{Nisaba}, may you be the butter in the cattle-pen, may you be the cream in the sheepfold, may you be keeper of the seal in the treasury, may you be a good steward in the palace, may you be a heaper up of grain among the grain piles and in the grain stores!”}
+
+#etcsl#altGrpo
+#etcsl#alt t4161.v11 t4161.v12
+#etcsl#altGrpc
+
+@(1.56 = 56-57) Because the Prince @noteref{Enki} cherished @wDN{Nisaba}, O Father @wDN{Enki}, it is sweet to praise you!
+
+
+
+
+
+@h1 A version of the beginning, preserved on a stone tablet from Lagaš perhaps dating to the Ur III period
+
+@(2.1 = 1-9) Lady coloured as the stars, holding a lapis-lazuli tablet! @wDN{Nisaba}, born by @wDN{Uraš} in the great sheepfold (?), …… nourished on good milk among holy alkaline plants, opening the mouth on seven …… reeds! Perfectly endowed with fifty great divine powers, my lady, the most powerful in @wTN{E-kur}! @wDN{Aruru} @noteref{mother goddess} of the Land, …… from the clay!
+
+
+
+
+

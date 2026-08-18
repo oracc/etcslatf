@@ -1,0 +1,108 @@
+&Q000576 = Letter from Ur-Enlila to a governor and temple administrator
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.04&display=Crit&charenc=gcirc#
+
+1. ensi₂ saŋŋa-ra u₃-na-a-dug₄
+#lem: ensik[ruler]; saŋŋa[an official]; dug[speak]
+#etcsl: line-id=1
+
+2. {m}ur-{d}en-lil₂-la₂-ke₄ na-ab-be₂-a
+#lem: Urenlila[1]PN; e[speak]
+#etcsl: line-id=2
+
+3. pa₅ (1:a-luh-ha:1) a i-ib₂-tum₃
+#lem: par[(small) canal]; luh[clean]; a[water]; tum[bring]
+#etcsl: line-id=3
+
+:3v.1.1: ($1 ms. has instead:$) i₃-luh-ha
+#lem: luh[clean]
+
+4. (1:{m}{d}en-lil₂-diŋir-ŋu₁₀:1) u₃ ha-an-za-mu
+#lem: Enlildiŋirŋu[1]PN; u[and]; Hanzamu[1]PN
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) {m}{d}en-lil₂-a₂-ŋu₁₀
+#lem: Enlilaŋu[1]PN
+:4v.1.2: ($another ms. has instead:$) {[m]}{[d]}en#-lil₂-la₂-ŋu₁₀
+#lem: Enlilaŋu[1]PN
+
+5. (1:ib₂-sig₃-ge-eš:1) mu-da-an-kar-re-eš
+#lem: sig[put into]; kar[flee]
+#etcsl: line-id=5
+
+:5v.1.1: ($1 ms. has instead:$) ib₂-sig₉-ge-eš
+#lem: sig[put into]
+
+6. {m}lugal-an-ne₂ na-ab-be₂-a
+#lem: Lugalane[1]PN; e[speak]
+#etcsl: line-id=6
+
+7. ŋe₂₆-e pa₅ 1(DIŠ)-am₃ za-e pa₅ 1(DIŠ)-am₃ ensi₂ pa₅ 1(DIŠ)-am₃
+#lem: ŋaʾe[I]; par[(small) canal]; n; zaʾe[you]; par[(small) canal]; n; ensik[ruler]; par[(small) canal]; n
+#etcsl: line-id=7
+
+8. a (1:he₂-mu-e-de₆:1) bi₂-dug₄ nu-mu-un-še-ge-eš
+#lem: a[water]; de[carry]; dug[speak]; šeg[agree]
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) he₂-mu-e-dug₄
+#lem: dug[speak]
+
+9. erin₂ id₂-zu nu-ma pa₅-bi a i-ib₂-tum₃
+#lem: erin[people]; id[river]; nu[not]; par[(small) canal]; a[water]; tum[bring]
+#etcsl: line-id=9
+
+10. ŋa₂-a sah₆-bi a ma-ab-tum₃
+#lem: ŋaʾe[I]; zah[disappear]; a[water]; tum[bring]
+#etcsl: line-id=10
+
+11. a₂ ma-tur ia₂ ŋuruš (1:10:1) hu-mu-e-ši-in-gi₄-gi₄-ma
+#lem: a[arm]; tur[small]; ya[five]; ŋuruš[young adult male]; n; gi[turn]
+#etcsl: line-id=11
+
+:11v.1.1: ($1 ms. has instead:$) ŋeš₂
+#lem: ŋeš[sixty]
+
+12. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=12
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Say to the governor and temple administrator what @wPN{Ur-Enlila} says:
+
+@(3 = 3-5) The irrigation ditch which has been cleared was bringing water but @varh[t3304.v1]{@wPN{Enlil-diŋirŋu} } @vart[t3304.v2,t3304.v1]{@varn{1 ms. has instead:} @wPN{Enlil-aŋu} } @vart[t3304.v3,t3304.v1]{@varn{another ms. has instead:} @wPN{Enlilaŋu} }  and @wPN{Ḫanzamu} have drawn off the water and taken it from the ditch.
+
+#etcsl#altGrpo
+#etcsl#alt t3304.v1 t3304.v2 t3304.v3
+#etcsl#altGrpc
+
+@(6 = 6) And what @wPN{Lugal-Ane} says:
+
+@(7 = 7-12) I proposed, @q{“@varh[t3304.v4]{Water should be brought }@vart[t3304.v5,t3304.v4]{@varn{1 ms. has instead:} The irrigation should be done }  on the basis of one ditch for me, one ditch for you and one ditch for the governor,”} but they did not agree. Your canal has no workers but its ditch brings water. It brings water for me unchecked. My workforce is inadequate so send me five or @varh[t3304.v6]{10 } @vart[t3304.v7,t3304.v6]{@varn{1 ms. has instead:} 60 }  able-bodied men. It is urgent.
+
+#etcsl#altGrpo
+#etcsl#alt t3304.v4 t3304.v5
+#etcsl#alt t3304.v6 t3304.v7
+#etcsl#altGrpc
+
+
+

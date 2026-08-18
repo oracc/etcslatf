@@ -1,0 +1,86 @@
+&Q000638 = A balbale to Inana (Dumuzid-Inana G)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.07&display=Crit&charenc=gcirc#
+
+1. niŋ₂ lam-lam-ma ama ugu-na# [...] X
+#lem: niŋ[thing]; lam[flourish]; ama[mother]; ugu[bear]; X; X
+#etcsl: line-id=1
+
+2. šag₄ %e i-bi₂ %s sag₉-sag₉ ad-da-na ad mu-un-da#-[gi₄-gi₄]
+#lem: šag[heart]; ibi[eye]N; sag[good]; adda[father]; ad[voice]; gi[turn]
+#etcsl: line-id=2
+
+3. šeš-me he₂-me-en šeš-me he₂-me-en
+#lem: šeš[brother]; me[be]; šeš[brother]; me[be]
+#etcsl: line-id=3
+
+4. šeš kan₄ e₂-gal-la-me he₂-me-en
+#lem: šeš[brother]; kan[gate]; egal[palace]; me[be]
+#etcsl: line-id=4
+
+5. %e u₃-mu-un-si %s {ŋiš}ma₂-gur₈-ra#-me he₂-me-en
+#lem: umunsik[ruler]N; magur[barge]; me[be]
+#etcsl: line-id=5
+
+6. nu-banda₃ {ŋiš}gigir₂-ra-me he₂-me-en
+#lem: nubanda[overseer]; gigir[chariot]; me[be]
+#etcsl: line-id=6
+
+7. kuš₇ {ŋiš}gigir₂ sar-ra-me he₂-me-en
+#lem: kuš[high official]; gigir[chariot]; sar[run]; me[be]
+#etcsl: line-id=7
+
+8. ad-da iri di ku₅-ru-me he₂-me-en
+#lem: adda[father]; iri[city]; did[lawsuit]; kud[cut]; me[be]
+#etcsl: line-id=8
+
+9. mussa niŋ₂ 5 mussa niŋ₂ 10 <he₂-me-en>
+#lem: mussa[son-in-law]; niŋ[thing]; n; mussa[son-in-law]; niŋ[thing]; n; me[be]
+#etcsl: line-id=9
+
+10. šeš mussa ad-da-me he₂-me-en
+#lem: šeš[brother]; mussa[son-in-law]; adda[father]; me[be]
+#etcsl: line-id=10
+
+11. mussa gu₂ zig₃-ga!-me he₂-me-en
+#lem: mussa[son-in-law]; gu[neck]; zig[rise]; me[be]
+#etcsl: line-id=11
+
+12. ama-me niŋ₂ %e ze₂-ba %s he₂-me-da-ab-dug₄
+#lem: ama[mother]; niŋ[thing]; zeb[good]V/i; dug[speak]
+#etcsl: line-id=12
+
+13. im-ma-ŋen-na-zu %e na-aŋ₂-til₃ %s na-nam
+#lem: ŋen[go]; naŋtil[life]N; me[be]
+#etcsl: line-id=13
+
+14. e₂-a kur₉-ra-zu he₂-ŋal₂-la-am₃
+#lem: e[house]; kur[enter]; heŋal[plenty]
+#etcsl: line-id=14
+
+15. da nu₂-da hul₂-la dirig-ŋu₁₀
+#lem: dag[side]; nud[lie down]; hul[rejoice]; dirig[make more than]
+#etcsl: line-id=15
+
+16. %e ze₂-ba-ŋu₁₀ %s ki!-nu₂-[a %e du₅]-mu#-ni-ib-ze₂-be₂-en-de₃-en
+#lem: zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=16
+
+@div trailer 
+
+17. bal-bal-e {d}inana-kam#
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=17
+
+@end trailer
+
+
+
+
+
+
+

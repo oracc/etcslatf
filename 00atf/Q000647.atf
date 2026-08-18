@@ -1,0 +1,675 @@
+&Q000647 = A balbale (?) to Inana (Dumuzid-Inana P)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.16
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.16&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [...]-ŋa₂# kug#-ga-a-am₃
+#lem: X; kug[pure]
+#etcsl: line-id=A.1
+
+A.2. [...] si sa₂-sa₂ %e me-e %s ($illegible gloss$)
+#lem: X; si[horn]; sa[equal]; meʾe[I]IP
+#etcsl: line-id=A.2
+
+A.3. [...] gal₄-la ki X [X X]-am₃
+#lem: X; gala[female genitals]; ki[place]; X; X; X
+#etcsl: line-id=A.3
+
+A.4. [...]-an#-du₇ nam-nun-na ba-an-du₇ ($illegible gloss$)
+#lem: du[push]; namnun[magnificence]; du[perfect]
+#etcsl: line-id=A.4
+
+A.5. [...] KI X X GAM-e
+#lem: X; X; X; X; X
+#etcsl: line-id=A.5
+
+A.6. [...] igi ŋa₂-ŋa₂
+#lem: X; igi[eye]; ŋar[put]
+#etcsl: line-id=A.6
+
+A.7. [...] si sa₂-sa₂ %e me-e
+#lem: X; si[horn]; sa[equal]; meʾe[I]IP
+#etcsl: line-id=A.7
+
+A.8. [...] X šu BA [...]
+#lem: X; X; šu[hand]; X; X
+#etcsl: line-id=A.8
+
+A.9. [...] X X X [...] X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.9
+
+A.10. [...] X [...] X
+#lem: X; X; X; X
+#etcsl: line-id=A.10
+
+A.11. [...]-ŋu₁₀ gal₄-la-ŋu₁₀ MA X X [...]
+#lem: X; gala[female genitals]; X; X; X; X
+#etcsl: line-id=A.11
+
+A.12. [...] diŋir-e ba-ab-du₇-a-ŋu₁₀
+#lem: X; diŋir[deity]; du[perfect]
+#etcsl: line-id=A.12
+
+A.13. [...] dur₂-ra-ŋu₁₀
+#lem: X; dur[buttocks]
+#etcsl: line-id=A.13
+
+A.14. X X [...] X-er-tab gun₃-a-ŋu₁₀
+#lem: X; X; X; X; gunu[speckled]
+#etcsl: line-id=A.14
+
+A.15. X X [X X] X il₂-il₂ dur₂-ra-ŋu₁₀ ($illegible gloss$)
+#lem: X; X; X; X; X; il[raise]; dur[buttocks]
+#etcsl: line-id=A.15
+
+A.16. X X X [...] X-e %e mar-ra-ŋu₁₀
+#lem: X; X; X; X; X; mar[place]V/t
+#etcsl: line-id=A.16
+
+A.17. X X X [...] X X dug₄-ga-ŋu₁₀
+#lem: X; X; X; X; X; X; dug[speak]
+#etcsl: line-id=A.17
+
+A.18. X X X e₂-gal me-te-ŋu₁₀
+#lem: X; X; X; egal[palace]; mete[appropriate thing]
+#etcsl: line-id=A.18
+
+A.19. X X MA ZA ud zal-la-ŋu₁₀ {{muš₃ X X}}
+#lem: X; X; X; X; ud[sun]; zal[pass time]; X; X; X
+#etcsl: line-id=A.19
+
+A.20. MUNUS [X X] PA-za kušum₄ tag-ga-am₃
+#lem: X; X; X; X; kušum[cvne]; tag[touch]
+#etcsl: line-id=A.20
+
+A.21. {d}dumu-zid-de₃ a X E %e mi-ni-in-ga-ga
+#lem: Dumuzid[1]DN; a[water]; X; X; ga[carry]V/t
+#etcsl: line-id=A.21
+
+A.22. uŋ₃ šar₂-re-da %e i-bi₂-ŋu₁₀ mu-ma-al
+#lem: uŋ[people]; šar[numerous]V/i; ibi[eye]N; mal[be]V/i
+#etcsl: line-id=A.22
+
+A.23. {d}dumu-zid nam-diŋir kalam-ma-še₃ mu-pad₃
+#lem: Dumuzid[1]DN; namdiŋir[divinity]; kalam[the Land (of Sumer)]; pad[find]
+#etcsl: line-id=A.23
+
+A.24. {d}dumu-zid ki-ig-ga aŋ₂  %e  {d}mu-ul-lil₂-la₂-ra  %s 
+#lem: Dumuzid[1]DN; ki[place]; aŋ[measure]; Mullil[1]DN
+#etcsl: line-id=A.24
+
+A.25. mu mu-ni-mah nam mu-ni-tar
+#lem: mu[name]; mah[great]; nam[fate]; tar[cut]
+#etcsl: line-id=A.25
+
+A.26. ama-ŋu₁₀ saŋ us₂ mu-na-kal
+#lem: ama[mother]; saŋ[head]; us[accompany]; kal[rare]
+#etcsl: line-id=A.26
+
+A.27. ad-da-ŋu₁₀ silim-e-eš mu-un-na-e
+#lem: adda[father]; silim[healthy]; e[speak]
+#etcsl: line-id=A.27
+
+A.28. a mu-ši-tu₅ %e na-ma %s mu-ši-su-ub
+#lem: a[water]; tu[cvve]; nama[potash]N; sub[rub]
+#etcsl: line-id=A.28
+
+A.29. šen a tu₅-a X u₃-mu-ši-gub
+#lem: šen[cauldron]; a[water]; tu[cvve]; X; gub[stand]
+#etcsl: line-id=A.29
+
+A.30. tug₂-ŋu₁₀ tug₂ %e aŋ₂ %s kalag-ga-gin₇ si ba-sa₂-e
+#lem: tug[textile]; tug[textile]; aŋ[thing]N; kalag[strong]; si[horn]; sa[equal]
+#etcsl: line-id=A.30
+
+A.31. {tug₂}pala₃ mah mu-na-kalag-ge-en
+#lem: pala[garment]; mah[great]; kalag[strong]
+#etcsl: line-id=A.31
+
+A.32. [...] e₃-bi-še₃ %e ma-ma-ma-an
+#lem: X; e[leave]; mar[place]V/t
+#etcsl: line-id=A.32
+
+A.33. [...]-bur₂-bur₂-re-en
+#lem: bur[spread out]
+#etcsl: line-id=A.33
+
+A.34. [...]-ba-en#
+#lem: X
+#etcsl: line-id=A.34
+
+A.35. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.35
+
+$ (approx. 7 lines missing)
+@end segment
+
+@div segment B
+
+B.1. nin X X [...] AN [...]
+#lem: nin[lady]; X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. %e uru₂ %s bar e₂ [X X] za-gin₃ AN [...]
+#lem: uru[city]; bar[outside]; e[house]; X; X; zagin[lapis lazuli]; X; X
+#etcsl: line-id=B.2
+
+B.3. šag₄ eš₃-ŋu₁₀ a-ra-zu-a mu-ni-[...]
+#lem: šag[heart]; eš[shrine]; arazu[supplication]; X
+#etcsl: line-id=B.3
+
+B.4. kug a-ra-zu-a mi-X-pad₃#-[...]
+#lem: kug[purify]; arazu[supplication]; pad[find]
+#etcsl: line-id=B.4
+
+B.5. X X tug₂ kalag-ga %e <ga>-ša-an-an-na-me-[en]
+#lem: X; X; tug[textile]; kalag[strong]; Gašanana[1]DN
+#etcsl: line-id=B.5
+
+B.6. gala-e šir₃-ra mu-ni-ib₂-[...]
+#lem: gala[lamentation singer]; šir[song]; X
+#etcsl: line-id=B.6
+
+B.7. nar-e en₃-du-a mu-ni-ib₂-[be₂]
+#lem: nar[musician]; endu[song]; e[speak]
+#etcsl: line-id=B.7
+
+B.8. %e mu-ud-na-ŋu₁₀ %s mu-da-an-[hul₂-le]
+#lem: mudna[spouse]N; hul[rejoice]
+#etcsl: line-id=B.8
+
+B.9. (1:am:1) {d}dumu-zid mu-da-an-[hul₂-le]
+#lem: am[wild bull]; Dumuzid[1]DN; hul[rejoice]
+#etcsl: line-id=B.9
+
+:9v.1.1: ($1 ms. has instead:$) %e u₃-mu-un
+#lem: umun[lord]
+
+B.10. kurku₂ ka ka silim A [...]
+#lem: kurku[wish]; kag[mouth]; kag[mouth]; silim[healthy]; X; X
+#etcsl: line-id=B.10
+
+B.11. %e ga-ša-an %s kur-kur-<ra> tur mu-ni-ib₂#-[...]
+#lem: gašan[lady]N; kur[mountain(s)]; tur[small]; X
+#etcsl: line-id=B.11
+
+B.12. u₃-gul zi-zi nibru{ki#} [...]
+#lem: ugul[cvne]; zig[rise]; Nibru[1]SN; X
+#etcsl: line-id=B.12
+
+B.13. u₃-gul %e mar-mar %s tur an X [...]
+#lem: ugul[cvne]; mar[place]V/t; tur[small]; an[sky]; X; X
+#etcsl: line-id=B.13
+
+B.14. in-nin₉-e ni₂ silim-e-eš# [X-e]
+#lem: innin[lady]; ni[self]; silim[healthy]; dug[speak]
+#etcsl: line-id=B.14
+
+B.15. gala-e šir₃-ra mu#-[...]
+#lem: gala[lamentation singer]; šir[song]; X
+#etcsl: line-id=B.15
+
+B.16. {d}inana-ke₄ silim-e-eš [X-e]
+#lem: Inanak[1]DN; silim[healthy]; dug[speak]
+#etcsl: line-id=B.16
+
+B.17. gal₄-la-ni šir₃-ra mi-ni-[...]
+#lem: gala[female genitals]; šir[song]; X
+#etcsl: line-id=B.17
+
+B.18. gal₄-la ŋar-ra ne-en GAG X [...]
+#lem: gala[female genitals]; ŋar[put]; nen[this]; X; X; X
+#etcsl: line-id=B.18
+
+B.19. si-gin₇ {ŋiš}mar gal-e keše₂# [...]
+#lem: si[horn]; mar[wagon]; gal[big]; kešed[bind]; X
+#etcsl: line-id=B.19
+
+B.20. ma₂ an-na ne-en eš₂ la₂ [...]
+#lem: ma[ship]; an[sky]; nen[this]; eš[rope]; la[hang]; X
+#etcsl: line-id=B.20
+
+B.21. ud-sakar gibil-gin₇ hi-li gur₃#-[ru-ŋu₁₀]
+#lem: udsakar[crescent moon]; gibil[new]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=B.21
+
+B.22. kislah ne-en edin-na šub-[...]
+#lem: kislah[uncultivated]; nen[this]; eden[back]; šub[fall]
+#etcsl: line-id=B.22
+
+B.23. a-šag₄ uz{mušen} ne-en uz{mušen} dur₂-[ra]-ŋu₁₀#
+#lem: ašag[field]; uz[wild duck]; nen[this]; uz[wild duck]; dur[buttocks]
+#etcsl: line-id=B.23
+
+B.24. a-šag₄ an-na ne-en a %e ma-ra-ŋu₁₀
+#lem: ašag[field]; an[sky]; nen[this]; a[water]; mar[place]V/t
+#etcsl: line-id=B.24
+
+B.25. %e ma-a %s gal₄-la-ŋu₁₀ du₆ du₈-du₈-a a %e ma-<<a>>-ra
+#lem: meʾe[I]IP; gala[female genitals]; dud[(ruin) mound]; du[spread]; a[water]; mar[place]V/t
+#etcsl: line-id=B.25
+
+B.26. ki-sikil-ŋen a-ba-a ur₁₁-ru-a-bi
+#lem: kisikil[young woman]; aba[who?]; uru[sow]
+#etcsl: line-id=B.26
+
+B.27. gal₄-la-ŋu₁₀ ki duru₅ a %e ma-ra
+#lem: gala[female genitals]; ki[place]; duru[wet]; a[water]; mar[place]V/t
+#etcsl: line-id=B.27
+
+B.28. %e ga-ša-an-ŋen %s gud a-ba-a bi₂-ib₂-gub-be₂
+#lem: gašan[lady]N; gud[bull]; aba[who?]; gub[stand]
+#etcsl: line-id=B.28
+
+B.29. in-nin₉ lugal-e ha-ra-an-ur₁₁-ru
+#lem: innin[lady]; lugal[king]; uru[sow]
+#etcsl: line-id=B.29
+
+B.30. {d}dumu-zid lugal-e ha-ra-ur₁₁-ru
+#lem: Dumuzid[1]DN; lugal[king]; uru[sow]
+#etcsl: line-id=B.30
+
+B.31. [gal₄-la]-ŋa₂ ur₁₁-ru %e mu-lu %s %e ša₃-ab-ŋa₂-kam
+#lem: gala[female genitals]; uru[sow]; mulu[person]N; šab[heart]N
+#etcsl: line-id=B.31
+
+B.32. [...] ur₂ kug-ge a ba-an-tu₅
+#lem: X; ur[loin]; kug[pure]; a[water]; tu[cvve]
+#etcsl: line-id=B.32
+
+B.33. [...] kug-ga-am₃ šen kug# X
+#lem: X; kug[pure]; šen[cauldron]; kug[purify]; X
+#etcsl: line-id=B.33
+
+B.34. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.34
+
+$ (approx. 3 lines missing)
+@end segment
+
+@div segment C
+
+C.1. {d}nin-e₂-gal kug-ga-am₃# [...]
+#lem: Ninegalak[1]DN; kug[pure]; X
+#etcsl: line-id=C.1
+
+C.2. [...] X ŊA₂ X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=C.2
+
+C.3. [...] NUN-bi [...]
+#lem: X; X; X
+#etcsl: line-id=C.3
+
+C.4. [...]-e dam [...]
+#lem: X; dam[spouse]; X
+#etcsl: line-id=C.4
+
+C.5. [...] LA [...]
+#lem: X; X; X
+#etcsl: line-id=C.5
+
+C.6. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=C.6
+
+C.7. ur₂ kug# [...]
+#lem: ur[loin]; kug[purify]; X
+#etcsl: line-id=C.7
+
+C.8. |GIŠ.BIL₂| pa-pa-al mu#-[...]
+#lem: GIŠ.NE@s[fresh fruit]; papal[bud]; X
+
+#etcsl: line-id=C.8
+
+C.9. ur₂ lugal-la-ta zig₃-ga-ni-[ta]
+#lem: ur[loin]; lugal[king]; zig[rise]
+#etcsl: line-id=C.9
+
+C.10. gu mu-un-da-zig₃ še mu-un-da-zig₃
+#lem: gu[cord]; zig[rise]; še[barley]; zig[rise]
+#etcsl: line-id=C.10
+
+C.11. edin# {ŋiš}kiri₆ giri₁₇-zal-gin₇ mu-un-da-ab-si
+#lem: eden[back]; kiri[(fruit) plantation]; kirizal[joy]; si[fill]
+#etcsl: line-id=C.11
+
+C.12. e₂-nam-til₃-la e₂ lugal-la-ka
+#lem: Enamtilak[1]TN; e[house]; lugal[king]
+#etcsl: line-id=C.12
+
+C.13. nitalam₂-a-ni ul-la mu-un-da-an-tuš
+#lem: ŋidlam[(equal ranking) spouse]; ul[swell]; tuš[sit (down)]
+#etcsl: line-id=C.13
+
+C.14. e₂-nam-til₃-la e₂ {d}dumu-zid-da-ka
+#lem: Enamtilak[1]TN; e[house]; Dumuzid[1]DN
+#etcsl: line-id=C.14
+
+C.15. {d}inana ul-la mu-un-da-an-tuš
+#lem: Inanak[1]DN; ul[swell]; tuš[sit (down)]
+#etcsl: line-id=C.15
+
+C.16. {d}inana e₂-a-ni hul₂-la-e
+#lem: Inanak[1]DN; e[house]; hul[rejoice]
+#etcsl: line-id=C.16
+
+C.17. lugal-ra u₃-gul mu-na-ŋa₂-ŋa₂
+#lem: lugal[king]; ugul[cvne]; ŋar[put]
+#etcsl: line-id=C.17
+
+C.18. ga sig₇-a-ma-ab %e mu-ud-na-ŋu₁₀ %s ga sig₇-a#-[ma-ab]
+#lem: ga[milk]; sissig[green-yellow]; mudna[spouse]N; ga[milk]; sissig[green-yellow]
+#etcsl: line-id=C.18
+
+C.19. %e mu-ud-na-ŋu₁₀ me-e %s ga %e de₃-e-da-na₈#-[na₈]
+#lem: mudna[spouse]N; meʾe[I]IP; ga[milk]; naŋ[drink]
+#etcsl: line-id=C.19
+
+C.20. am {d}dumu-zid ga sig₇-a-ma-ab#
+#lem: am[wild bull]; Dumuzid[1]DN; ga[milk]; sissig[green-yellow]
+#etcsl: line-id=C.20
+
+C.21. %e mu-ud-na-ŋu₁₀ %e me-e %s ga %e de₃-e-da#-[na₈-na₈]
+#lem: mudna[spouse]N; meʾe[I]IP; ga[milk]; naŋ[drink]
+#etcsl: line-id=C.21
+
+C.22. ga ud₅-da-ke₄ amaš [...]
+#lem: ga[milk]; uzud[(female) goat]; amaš[sheepfold]; X
+#etcsl: line-id=C.22
+
+C.23. nin šar₂-ra {dug}šakir kug-ŋa₂ sug₄-[...]
+#lem: nin[lady]; šar[numerous]V/i; šakir[churn]; kug[pure]; sug[full]
+#etcsl: line-id=C.23
+
+C.24. {d}dumu-zid ga am-si-har-ra-an#-[na ...]
+#lem: Dumuzid[1]DN; ga[milk]; amsiharran[camel]; X
+#etcsl: line-id=C.24
+
+C.25. am-si#-har-ra-an-na ga-bi [...]
+#lem: amsiharran[camel]; ga[milk]; X
+#etcsl: line-id=C.25
+
+C.26. %e u₅ %s ga-bi %e ze₂-ba-am₃ %s [...]
+#lem: u[oil]N; ga[milk]; zeb[good]V/i; X
+#etcsl: line-id=C.26
+
+C.27. %e u₃-mu-un %s {d}du₅-mu-zid %e [...] me-e %s ga %e de₃-e-da#-[na₈-na₈]
+#lem: umun[lord]N; Dumuzid[1]DN; X; meʾe[I]IP; ga[milk]; naŋ[drink]
+#etcsl: line-id=C.27
+
+C.28. nitalam-ŋu₁₀ ama₅ niŋ₂ dug₃-ga X [...]
+#lem: ŋidlam[(equal ranking) spouse]; emi[queen's household]; niŋ[thing]; dug[good]; X; X
+#etcsl: line-id=C.28
+
+C.29. {d}inana %e me-e %s a-ra-ab-gub-[be₂-en]
+#lem: Inanak[1]DN; meʾe[I]IP; gub[stand]
+#etcsl: line-id=C.29
+
+C.30. e₂-nam-til₃-la-za <igi> mu-e-ni-ib₂-[gub-be₂-en]
+#lem: Enamtilak[1]TN; igi[eye]; gub[stand]
+#etcsl: line-id=C.30
+
+C.31. su₃-ra₂-aŋ₂ ki u₆ di kalam-ma-[kam]
+#lem: sudaŋ[precious metal or material (possibly amber)]; ki[place]; u[admiration]; di[speak]; kalam[the Land (of Sumer)]
+#etcsl: line-id=C.31
+
+C.32. e₂ nam kur-kur-ra tar-ra na-[nam]
+#lem: e[house]; nam[fate]; kur[mountain(s)]; tar[cut]; me[be]
+#etcsl: line-id=C.32
+
+C.33. uŋ₃ zi-ŋal₂-la si sa₂-e-dam
+#lem: uŋ[people]; ziŋal[living things]; si[horn]; sa[equal]
+#etcsl: line-id=C.33
+
+C.34. {d}nin-e₂-gal %e me-e %s a-ra-ab-gub-be₂-[en]
+#lem: Ninegalak[1]DN; meʾe[I]IP; gub[stand]
+#etcsl: line-id=C.34
+
+C.35. e₂-nam-til₃-la-za igi mu-e-ni-ib-gub-be₂#-[en]
+#lem: Enamtilak[1]TN; igi[eye]; gub[stand]
+#etcsl: line-id=C.35
+
+C.36. e₂-nam-til₃-la ama₅ zi su₃-ud-ŋal₂#-[la-am₃]
+#lem: Enamtilak[1]TN; emi[queen's household]; zi[life]; sudŋal[long-lasting]
+#etcsl: line-id=C.36
+
+C.37. {[d]}[inana %e me-e %s a-ra-ab]-gub-be₂-en#
+#lem: Inanak[1]DN; meʾe[I]IP; gub[stand]
+#etcsl: line-id=C.37
+
+C.38. [e₂-nam-til₃-la-za igi mu-e-ni-ib-gub-be₂-en]
+#lem: Enamtilak[1]TN; igi[eye]; gub[stand]
+#etcsl: line-id=C.38
+
+$ 3 lines missing
+C.42. X [...]
+#lem: X; X
+#etcsl: line-id=C.42
+
+C.43. šag₄ X [...]
+#lem: šag[heart]; X; X
+#etcsl: line-id=C.43
+
+C.44. e₂-nam-[til₃-la ...]
+#lem: Enamtilak[1]TN; X
+#etcsl: line-id=C.44
+
+C.45.  %e  ga-ša-an-gal-e  %s  zid-de₃-eš# X X
+#lem: Gašangal[1]DN; zid[right]; X; X
+#etcsl: line-id=C.45
+
+C.46. nam-til₃ ud su₃-ra₂-aš %e %e du₅-mu-ra-ab-ze₂-eŋ₃
+#lem: namtil[life]; ud[sun]; sud[distant]; zeŋ[give]V/t
+#etcsl: line-id=C.46
+
+C.47. {d}dumu-zid {d}inana hi-li ki-ga aŋ₂-bi-im
+#lem: Dumuzid[1]DN; Inanak[1]DN; hili[attractiveness]; ki[place]; aŋ[measure]
+#etcsl: line-id=C.47
+
+C.48. {d}inana %e me-<e> %s a-ra-ab-gub-be₂-en
+#lem: Inanak[1]DN; meʾe[I]IP; gub[stand]
+#etcsl: line-id=C.48
+
+C.49. e₂-nam-til₃-la-za <igi> mu-e-ni-gub-be₂-en
+#lem: Enamtilak[1]TN; igi[eye]; gub[stand]
+#etcsl: line-id=C.49
+
+C.50. e₂ me-lem₄-bi kalam-ma dul-la
+#lem: e[house]; melim[frightening splendor]; kalam[the Land (of Sumer)]; dul[cover]
+#etcsl: line-id=C.50
+
+C.51. e₂ šag₄-bi-ta šu-luh kug-kug-ga-am₃
+#lem: e[house]; šag[heart]; šuluh[ritual cleansing]; kug[pure]
+#etcsl: line-id=C.51
+
+C.52. e₂ niŋ₂-gur₁₁-ra gal-bi tum₂-ma
+#lem: e[house]; niŋgur[property]; gal[big]; tum[suitable]
+#etcsl: line-id=C.52
+
+C.53. X [...] X %e u₅ %s ga-ar₃-ni-ta
+#lem: X; X; X; u[oil]N; gaʾar[cheese]
+#etcsl: line-id=C.53
+
+C.54. [...]-e ma-ra-ni-ib₂-gub-be₂
+#lem: X; gub[stand]
+#etcsl: line-id=C.54
+
+C.55. [...] X-la-še₃
+#lem: X; X
+#etcsl: line-id=C.55
+
+C.56. [...]-an-ši-ak-e
+#lem: ak[do]
+#etcsl: line-id=C.56
+
+C.57. [...]-la si-a-na
+#lem: X; si[fill]
+#etcsl: line-id=C.57
+
+C.58. [...] X nin-a-na
+#lem: X; X; nin[lady]
+#etcsl: line-id=C.58
+
+C.59. [... ki-ig]-ga# aŋ₂-bi
+#lem: X; ki[place]; aŋ[measure]
+#etcsl: line-id=C.59
+
+C.60. [...] kalag#-ga-ba
+#lem: X; kalag[strong]
+#etcsl: line-id=C.60
+
+C.61. [...]-ga#-ba
+#lem: X
+#etcsl: line-id=C.61
+
+C.62. [...] lugal#-la
+#lem: X; lugal[king]
+#etcsl: line-id=C.62
+
+C.63. [...]-e
+#lem: X
+#etcsl: line-id=C.63
+
+C.64. [...] X
+#lem: X; X
+#etcsl: line-id=C.64
+
+C.65. [...] X
+#lem: X; X
+#etcsl: line-id=C.65
+
+C.66. [...] {d}inana-kam
+#lem: X; Inanak[1]DN
+#etcsl: line-id=C.66
+
+@end segment
+
+@div segment D
+
+$ (Unplaceable; possibly part of another composition)
+$ (unknown no. of lines missing)
+D.1. in-nin₉# [...]
+#lem: innin[lady]; X
+#etcsl: line-id=D.1
+
+D.2. {d}inana [...]
+#lem: Inanak[1]DN; X
+#etcsl: line-id=D.2
+
+D.3. mi₂ zid X [...]
+#lem: mi[cvne]; zid[right]; X; X
+#etcsl: line-id=D.3
+
+D.4. {d}en-lil₂ X [...]
+#lem: Enlil[1]DN; X; X
+#etcsl: line-id=D.4
+
+D.5. zag an [...]
+#lem: zag[side]; an[sky]; X
+#etcsl: line-id=D.5
+
+D.6. in-nin₉ [...]
+#lem: innin[lady]; X
+#etcsl: line-id=D.6
+
+D.7. mi₂ zid [...]
+#lem: mi[cvne]; zid[right]; X
+#etcsl: line-id=D.7
+
+D.8. in-nin₉ [...]
+#lem: innin[lady]; X
+#etcsl: line-id=D.8
+
+D.9. mu-un-[...]
+#lem: X
+#etcsl: line-id=D.9
+
+D.10. ŋiš X [...]
+#lem: ŋeš[tree]; X; X
+#etcsl: line-id=D.10
+
+D.11. mi₂ zid X [...]
+#lem: mi[cvne]; zid[right]; X; X
+#etcsl: line-id=D.11
+
+D.12. šu BI [...]
+#lem: šu[hand]; X; X
+#etcsl: line-id=D.12
+
+D.13. KA X [...]
+#lem: X; X; X
+#etcsl: line-id=D.13
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-10) …… of my …… is holy. I am she who directs ……. …… genitals ……. …… is perfect for august status. Subduing ……, fixing my gaze ……, I am she who directs …….  @gap{3 lines fragmentary} 
+
+@(A.11 = 11-21) …… my genitals ……, my …… which is seemly for a deity, …… of my buttocks, my brightly coloured ……, …… of my buttocks, my …… established by ……, my …… ordered by ……, my …… which befits the palace, my …… which passes the time ……, …… is racing. @wDN{Dumuzid} brings …….
+
+@(A.22 = 22-27) I gazed over all the people, and chose @wDN{Dumuzid} as god of the Land. For @wDN{Dumuzid}, beloved by @wDN{Enlil}, I exalted his name and decreed his destiny. My mother cherishes him constantly, and my father speaks his praise.
+
+@(A.28 = 28-35) I bathed and rubbed myself with soap for him, standing at the washing basin. For him I straightened my clothes as the garments of power, I reinforced for him the noble vestments. I put ……, I loosened ……  @gap{2 lines fragmentary}   @gap{approx. 7 lines missing} 
+
+
+@(B.1 = 1-9) The queen ……. Outside (?) the city, the house (?) …… lapis lazuli ……. In my sanctuary, …… in prayer, in holy prayer, ……. I am @wDN{Inana} …… powerful garment. The @fsux{gala} singer …… in song, the musician performs a hymn. My bridegroom rejoices beside me, the  @varh[t40816.v1]{wild bull } @vart[t40816.v2,t40816.v1]{@varn{1 ms. has instead:} lord } @wDN{Dumuzid} rejoices beside me.
+
+#etcsl#altGrpo
+#etcsl#alt t40816.v1 t40816.v2
+#etcsl#altGrpc
+
+@(B.10 = 10-17) …… a desire in laudatory words. The lady of all the lands ……, who raises up prayers in @wSN{Nibru} ……, who lowers prayers ……, the lady praises herself; the @fsux{gala} singer …… in song. @wDN{Inana} praises …… her genitals in song:
+
+@(B.18 = 18-28) @q[Inana,Dumuzi]{“These genitals, ……, like a horn, …… a great waggon, this moored Boat of Heaven …… of mine, clothed in beauty like the new crescent moon, this waste land abandoned in the desert ……, this field of ducks where my ducks sit, this high well-watered field of mine: my own genitals, the maiden's, a well-watered opened-up mound -- who will be their ploughman? My genitals, the lady's, the moist and well-watered ground -- who will put an ox there?”}
+
+@(B.29 = 29-30) @q[Dumuzid,Inana]{“Lady, the king shall plough them for you; @wDN{Dumuzid} the king shall plough them for you.”}
+
+@(B.31 = 31-34) @q[Inana,Dumuzid]{“Plough in my genitals, man of my heart!”} …… bathed her holy hips, …… holy ……, the holy basin  @gap{1 line fragmentary}   @gap{approx. 3 lines missing} 
+
+
+@(C.1 = 1-11) @wDN{Ninegala}, the holy …….  @gap{5 lines fragmentary}  The holy embrace ……. Fresh fruits (?) and shoots ……. As she arises from the king's embrace, the flax rises up with her, the barley rises up with her. With her, the desert is filled with a glorious garden.
+
+@(C.12 = 12-17) His wife dwelt happily with him in @wTN{E-namtila}, the king's house; @wDN{Inana} dwelt happily with him in @wTN{E-namtila}, @wDN{Dumuzid's} house. Rejoicing in his house, @wDN{Inana} pleads with the king:
+
+@(C.18 = 18-27) @q[Inana,Dumuzid]{“Make the milk yellow for me, my bridegroom, make the milk yellow for me, and I will drink the milk with you, my bridegroom! Wild bull @wDN{Dumuzid}, make the milk yellow for me, and I will drink the milk with you, my bridegroom! …… the goat's milk …… the fold; lord (?) of all things, fill my holy churns. @wDN{Dumuzid}, …… camel's milk. The milk of the camels ……. Their butter and milk are sweet, ……. Lord @wDN{Dumuzid}, …… I will drink the milk with you.”}
+
+@(C.28 = 28-42) @q[Dumuzid,Inana]{“My spouse, …… the pleasant building. @wDN{Inana}, I will place them at your disposal, I will place them there before you in your @wTN{E-namtila}, the amazing source of the Land's radiance, the house where the destiny of all the lands is decreed, where the living people are correctly guided. @wDN{Ninegala}, I will place them at your disposal, I will place them there before you in your @wTN{E-namtila}. @wDN{Inana}, I will place them at your disposal in @wTN{E-namtila}, the building which grants long life. I will place them there before you in your @wTN{E-namtila}.  @gap{3 lines missing}  @gap{1 line fragmentary} ”}
+
+@(C.43 = 43-47) Inside (?) ……, @wTN{E-namtila} ……. @wDN{Ningal} faithfully ……: @q[Ningal,Dumuzid]{“I will give you life unto distant days, @wDN{Dumuzid}, the desire and love of @wDN{Inana}.”}
+
+@(C.48 = 48-66) @q[Dumuzid,Inana]{“@wDN{Inana}, I will place them at your disposal, I will place them there before you in your @wTN{E-namtila}, the house whose splendour covers the Land, the house in which the purification rites are most holy, the house with appropriately grand treasures.”} …… with his butter and cheese, …… will place at your disposal there …….  @gap{11 lines fragmentary}  …… of @wDN{Inana}.
+
+
+$ (unplaceable; possibly part of another composition)
+
+$ (unknown no. of lines missing)
+@(D.1 = 1-13)  @gap{beginnings of 13 fragmentary lines}   @gap{unknown no. of lines missing} 
+
+
+

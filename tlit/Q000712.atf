@@ -1,0 +1,227 @@
+&Q000712 = An adab to Ninisina (Ninisina E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.22.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22.5&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. [...] an gal-e# zid#-[de₃]-eš tud-da#
+#lem: X; An[1]DN; gal[big]; zid[right]; utud[give birth (to)]
+#etcsl: line-id=A.A.1
+
+#etcsl#cite Cited in OB catalogue at Andrews University, 0.2.11, line 5
+
+A.A.2. kug# {d}nin-isin₂#{si}-na nam#-šul# šag₄-ta de₆
+#lem: kug[purify]; Ninisinak[1]DN; namšul[manhood]; šag[heart]; de[carry]
+#etcsl: line-id=A.A.2
+
+A.A.3. {d}uraš-a dub₃# kug#-ga buluŋ₃-ŋa₂#
+#lem: Uraš[1]DN; dub[knee]; kug[pure]; buluŋ[grow]
+#etcsl: line-id=A.A.3
+
+A.A.4. [me] nam-nin#-a gal-le#-eš šum₂-ma
+#lem: me[Being]; namnin[ladyship]; gal[big]; šum[give]
+#etcsl: line-id=A.A.4
+
+A.A.5. [ni₂ me]-lem₄ da-da-<ra>-še₃ dug₄-ga
+#lem: ni[fear]; melim[frightening splendor]; dadara[tied up]; dug[speak]
+#etcsl: line-id=A.A.5
+
+A.A.6. {[d]}nin#-isin₂{si}-na-ra nam-mah#-a-ni ga-am₃-dug₄#
+#lem: Ninisinak[1]DN; nammah[greatness]; dug[speak]
+#etcsl: line-id=A.A.6
+
+A.A.7. {[d]}nin#-isin₂{si}-na-X zid#-de₃-eš tud-da
+#lem: Ninisinak[1]DN; zid[right]; utud[give birth (to)]
+#etcsl: line-id=A.A.7
+
+A.A.8. kug# {d#}nin-isin₂{si}-na nam-nin# šag₄-ta# de₆
+#lem: kug[purify]; Ninisinak[1]DN; namnin[ladyship]; šag[heart]; de[carry]
+#etcsl: line-id=A.A.8
+
+A.A.9. {d}uraš-a dub₃# kug-ga# buluŋ₃-ŋa₂#
+#lem: Uraš[1]DN; dub[knee]; kug[pure]; buluŋ[grow]
+#etcsl: line-id=A.A.9
+
+A.A.10. me nam-nin-a gal-le-eš# šum₂-ma#
+#lem: me[Being]; namnin[ladyship]; gal[big]; šum[give]
+#etcsl: line-id=A.A.10
+
+A.A.11. ni₂ me-lem₄ da-da#-ra-še₃ dug₄-ga#
+#lem: ni[fear]; melim[frightening splendor]; dadara[tied up]; dug[speak]
+#etcsl: line-id=A.A.11
+
+A.A.12. {d}nin-isin₂{si}-na-[ra] nam-mah#-a-ni ga-am₃#-dug₄
+#lem: Ninisinak[1]DN; nammah[greatness]; dug[speak]
+#etcsl: line-id=A.A.12
+
+A.A.13. en gal!-zu niŋ₂-nam-ma# kur gal a#-a {d}en-lil₂
+#lem: en[lord]; galanzu[wise]; niŋnam[anything]; kur[mountain(s)]; gal[big]; aya[father]; Enlil[1]DN
+#etcsl: line-id=A.A.13
+
+A.A.14. saŋ-kal diŋir# {d#}a-nun-na-ke₄-ne
+#lem: saŋkal[foremost]; diŋir[deity]; Anunak[1]DN
+#etcsl: line-id=A.A.14
+
+A.A.15. sun₅-na# giri₁₇ šu ŋal₂#-[la] igi zid# [mu-ši]-in-bar
+#lem: sun[humble]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=A.A.15
+
+A.A.16. nam-saŋ-tun₃# [X X] X za-gin₃
+#lem: nam.saŋ.DUN₃[office of land recorder]; X; X; X; zagin[lapis lazuli]
+#etcsl: line-id=A.A.16
+
+A.A.17. diŋir nir-re X X gal# X-a
+#lem: diŋir[deity]; nir[lordly]; X; X; gal[big]; X
+#etcsl: line-id=A.A.17
+
+A.A.18. diŋir gal-gal-e-ne#-[er] šukur₂ šum₂#-mu [...] X
+#lem: diŋir[deity]; gal[big]; šukur[food allocation]; šum[give]; X; X
+#etcsl: line-id=A.A.18
+
+A.A.19. {d}nin#-isin₂{si}-na [...] X gal X-a#
+#lem: Ninisinak[1]DN; X; X; gal[big]; X
+#etcsl: line-id=A.A.19
+
+A.A.20. %e mar-za %s nam-nin-a X [...] nam-X nam-mah-a-ni X X
+#lem: marza[rites]N; namnin[ladyship]; X; X; X; nammah[greatness]; X; X
+#etcsl: line-id=A.A.20
+
+A.A.21. {d}nin#-isin₂{si}-na en [gal-zu niŋ₂-nam-ma] kur gal# a-a# {d}en#-lil₂
+#lem: Ninisinak[1]DN; en[lord]; galanzu[wise]; niŋnam[anything]; kur[mountain(s)]; gal[big]; aya[father]; Enlil[1]DN
+#etcsl: line-id=A.A.21
+
+A.A.22. saŋ-kal diŋir# {[d]}a#-nun-[na]-ke₄-ne#
+#lem: saŋkal[foremost]; diŋir[deity]; Anunak[1]DN
+#etcsl: line-id=A.A.22
+
+A.A.23. sun₅-na giri₁₇# šu# ŋal₂-la# [igi zid] mu-ši-in#-bar
+#lem: sun[humble]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=A.A.23
+
+A.A.24. nam#-saŋ-tun₃ X X X za-gin₃#
+#lem: nam.saŋ.DUN₃[office of land recorder]; X; X; X; zagin[lapis lazuli]
+#etcsl: line-id=A.A.24
+
+A.A.25. [diŋir] nir-re# X [...] gal# [...]-a
+#lem: diŋir[deity]; nir[lordly]; X; X; gal[big]; X
+#etcsl: line-id=A.A.25
+
+A.A.26. [diŋir gal-gal]-e#-ne-er šukur₂# šum₂-mu# X X
+#lem: diŋir[deity]; gal[big]; šukur[food allocation]; šum[give]; X; X
+#etcsl: line-id=A.A.26
+
+A.A.27. {[d]}[nin-isin₂]{si#}-na X X gal# X-[a]
+#lem: Ninisinak[1]DN; X; X; gal[big]; X
+#etcsl: line-id=A.A.27
+
+A.A.28. %e [mar-za %s nam-nin-a] X [... nam-X nam-mah-a-ni X X]
+#lem: marza[rites]N; namnin[ladyship]; X; X; X; nammah[greatness]; X; X
+#etcsl: line-id=A.A.28
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara B
+
+B.B.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.B.1
+
+B.B.2. nun# [...]
+#lem: nun[prince]; X
+#etcsl: line-id=B.B.2
+
+B.B.3. X [...]
+#lem: X; X
+#etcsl: line-id=B.B.3
+
+B.B.4. nam# [...]
+#lem: nam[fate]; X
+#etcsl: line-id=B.B.4
+
+B.B.5. X
+#lem: X
+#etcsl: line-id=B.B.5
+
+B.B.6. AN# [...]
+#lem: X; X
+#etcsl: line-id=B.B.6
+
+@div trailer 
+
+B.B.7. [sa-ŋar-ra-am₃]
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.B.7
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal C
+
+B.C.8. nin# [...]
+#lem: nin[lady]; X
+#etcsl: line-id=B.C.8
+
+@div trailer 
+
+B.C.9. ŋiš#-[gi₄-ŋal₂ sa-ŋar-ra-bi]-im#
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=B.C.9
+
+@end trailer
+
+@end jicgijal
+
+@div uru D
+
+B.D.10. munus zid# [...] X X
+#lem: munus[woman]; zid[right]; X; X; X
+#etcsl: line-id=B.D.10
+
+B.D.11. {d}nin-isin₂{[si]}-[na ...] X X E [...] {[d]}en-lil₂-la₂
+#lem: Ninisinak[1]DN; X; X; X; X; X; Enlil[1]DN
+#etcsl: line-id=B.D.11
+
+B.D.12. X [... im]-mi-in#-mah
+#lem: X; X; mah[great]
+#etcsl: line-id=B.D.12
+
+@div trailer 
+
+B.D.13. u₁₈#-ru₁₂-bi-im#
+#lem: uru[literary subscript]
+#etcsl: line-id=B.D.13
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+B.D.14. a-da-ab {d}nin-isin₂{si#}-na-kam#
+#lem: adab[drum]; Ninisinak[1]DN
+#etcsl: line-id=B.D.14
+
+#etcsl#doc lines 13 and 14 are written as one line in source
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

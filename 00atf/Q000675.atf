@@ -1,0 +1,251 @@
+&Q000675 = The herds of Nanna (Nanna F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.06
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.06&display=Crit&charenc=gcirc#
+
+1. en-e an-na KA mu-ni-in-su-ub
+#lem: en[lord]; an[sky]; X; sub[rub]
+#etcsl: line-id=1
+
+2. (1:ŋi₆ u₃-na:1) šu tag mu-ni-in-dug₄
+#lem: ŋi[night]; ŋiʾunak[night]; šu[hand]; tag[touch]; dug[speak]
+#etcsl: line-id=2
+
+:2v.1.1: ($1 ms. has instead:$) ki-a
+#lem: ki[place]
+
+3. {d}nanna-a an-na KA mu-ni-in-su-ub
+#lem: Nanna[1]DN; an[sky]; X; sub[rub]
+#etcsl: line-id=3
+
+4. (1:ŋi₆ u₃-na:1) šu tag mu-ni-in-dug₄
+#lem: ŋi[night]; ŋiʾunak[night]; šu[hand]; tag[touch]; dug[speak]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) ki-a
+#lem: ki[place]
+
+5. kur suh₃-suh₃-ha-ta e₃-a-ni
+#lem: kur[mountain(s)]; suh[confuse]; e[leave]
+#etcsl: line-id=5
+
+6. an-bar₇-ra {d}utu-gin₇ bi₂-in-gub
+#lem: anbar[mid-day]; Utu[1]DN; gub[stand]
+#etcsl: line-id=6
+
+7. {d}dil-im₂-babbar kur suh₃-suh₃-ha-ta e₃-a-ni
+#lem: Dilimbabbar[1]DN; kur[mountain(s)]; suh[confuse]; e[leave]
+#etcsl: line-id=7
+
+8. an-bar₇-ra {d}utu bi₂-in-gub
+#lem: anbar[mid-day]; Utu[1]DN; gub[stand]
+#etcsl: line-id=8
+
+9. a-a-ni inim#-ma-ni zid-da#
+#lem: aya[father]; inim[word]; zid[right]
+#etcsl: line-id=9
+
+10. ud-de₃ ŋi₆-a inim# mu#-un-di-ni-ib₂-be₂
+#lem: ud[sun]; ŋi[night]; inim[word]; e[speak]
+#etcsl: line-id=10
+
+11. {d}en-lil₂-le inim-[ma-ni] zid#-da
+#lem: Enlil[1]DN; inim[word]; zid[right]
+#etcsl: line-id=11
+
+12. ud-de₃ ŋi₆-a inim mu-un#-[di-ni]-ib₂#-DU
+#lem: ud[sun]; ŋi[night]; inim[word]; X
+#etcsl: line-id=12
+
+13. eš-bar-ra nam mu-un-di-ni-ib₂#-tar-re
+#lem: ešbar[decision]; nam[fate]; tar[cut]
+#etcsl: line-id=13
+
+14. ŋi₆-par₄ mah-a-ni 4 na-nam
+#lem: ŋipar[cloister]; mah[great]; n; me[be]
+#etcsl: line-id=14
+
+15. (1:{du}du₈:1) 4 mu-un-na-ŋar-ra
+#lem: du[throne platform for a deity]; n; ŋar[put]
+#etcsl: line-id=15
+
+:15v.1.1: ($1 ms. has instead:$) tur₃
+#lem: tur[animal stall]
+
+16. {e₂}tur₃ gal-a-ni eše₃{iku} 4-am₃
+#lem: tur[animal stall]; gal[big]; eše[unit of area]; n
+#etcsl: line-id=16
+
+17. (1:{ŋiš}al-ŋar-surₓ(|UZ₃#.BALAG#|)-ra:1) mu-na-tag-tag-ge
+#lem: alŋarsur[drumstick]; tag[touch]
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) {dug}šakir₃-[ra]
+#lem: šakir[churn]
+
+18. ab₂-e gu₂ mu-na-di-ni-ib-gur-re#
+#lem: ab[cow]; gu[neck]; gur[turn]
+#etcsl: line-id=18
+
+19. ab₂ hi-a-ni 36000 3600-am₃
+#lem: ab[cow]; hi[mix (up)]; n; n
+#etcsl: line-id=19
+
+20. (1:ab₂ X amar-a-ni:1) 36000 36000 36000-am₃
+#lem: ab[cow]; X; amar[calf]; n; n; n
+#etcsl: line-id=20
+
+:20v.1.1: ($1 ms. has instead:$) ab₂ peš-a#-X-ni
+#lem: ab[cow]; peš[thick]
+
+21. gud-ab₂-ka-ni 36000 36000 36000 3600 5-am₃
+#lem: gudabak[breed bull]; n; n; n; n; n
+#etcsl: line-id=21
+
+22. ab₂ igi gun₃-bi 36000 3600 4-am₃
+#lem: ab[cow]; igi[eye]; gunu[speckled]; n; n; n
+#etcsl: line-id=22
+
+23. ab₂ babbar₂-bi 36000 36000 36000 3600 5-am₃
+#lem: ab[cow]; babbar[white]; n; n; n; n; n
+#etcsl: line-id=23
+
+24. ab₂ kiŋ₂#-sig#-bi 5-ta a-ra₂ 4-am₃
+#lem: ab[cow]; kiŋsig[afternoon meal]; n; ara[times (with numbers)]; n
+#etcsl: line-id=24
+
+25. ab₂ hi-a a-a {d}nanna-kam
+#lem: ab[cow]; hi[mix (up)]; aya[father]; Nanna[1]DN
+#etcsl: line-id=25
+
+26. ab₂-šilam#-a-ni 36000 5 na-nam
+#lem: abšilam[cow]; n; n; me[be]
+#etcsl: line-id=26
+
+27. ab₂-zag#-eš-zag-eš-bi 4-me-eš
+#lem: ab[cow]; n
+#etcsl: line-id=27
+
+28. maš₂-anše-maš₂-anše-bi 7-me-eš
+#lem: mašanše[animals]; n
+#etcsl: line-id=28
+
+29. unud(UNU₃) KUŠ₂ du₃-bi 7-me-eš
+#lem: unud[cowherd]; X; du[build]; n
+#etcsl: line-id=29
+
+30. ab₂-ba til₃-la-ba 4-me-eš
+#lem: ab[cow]; til[live (of a single person)]; n
+#etcsl: line-id=30
+
+31. en-ra mu-un-i-i mu-un-ar₂-e-ne
+#lem: en[lord]; e[bring out]; ar[celebrate]
+#etcsl: line-id=31
+
+32. ŋi₆-par₄-ra mu-ni-ib-sud-sud-u₃-ne
+#lem: ŋipar[cloister]; sud[distant]
+#etcsl: line-id=32
+
+33. šid gal-bi {d}nisaba-ke₄
+#lem: šid[recite]; gal[big]; Nisabak[1]DN
+#etcsl: line-id=33
+
+34. {d}nisaba-ke₄ šid-bi mu-un-dab₅
+#lem: Nisabak[1]DN; šid[count]; dab[seize]
+#etcsl: line-id=34
+
+35. im-ma bi₂-ib-gub-be₂-<<en>>
+#lem: im[clay]; gub[stand]
+#etcsl: line-id=35
+
+36. ab₂ kug {d}nanna-ke₄ mi₂ dug₄-ga# šul# {d}suen za₃-mi₂
+#lem: ab[cow]; kug[purify]; Nanna[1]DN; mi[cvne]; dug[speak]; šul[youth]; Suen[1]DN; zamin[praise]
+#etcsl: line-id=36
+
+37. i₃ nam-he₂-ŋal₂ tur₃ kug X maš₂-a-ke₄
+#lem: i[oil]; namheŋal[abundance]; tur[animal stall]; kug[purify]; X; maš[goat]
+#etcsl: line-id=37
+
+38. šu mu-un-da-mu₂-mu₂
+#lem: šu[hand]; mu[grow]
+#etcsl: line-id=38
+
+39. kurun₂ gal hur-saŋ lal₃ kurun₂-bi-da
+#lem: kurun[beer]; gal[big]; hursaŋ[mountain]; lal[syrup]; kurun[beer]
+#etcsl: line-id=39
+
+40. lugal-ra du₈ mah sikil-la-na
+#lem: lugal[king]; du[throne platform for a deity]; mah[great]; sikil[pure]
+#etcsl: line-id=40
+
+41. mu-na-da-ab-šar₂!-re
+#lem: šar[numerous]V/i
+#etcsl: line-id=41
+
+42. kalag-ga ŋiškim-til₃ {d}en-lil₂-la₂
+#lem: kalag[strong]; ŋeškimtil[trust]; Enlil[1]DN
+#etcsl: line-id=42
+
+43. šul# diŋir zi-ŋal₂-la
+#lem: šul[youth]; diŋir[deity]; ziŋal[living things]
+#etcsl: line-id=43
+
+44. mas-su₂ kalam-ma {d}nin-gal nin ŋi₆-par₄-ra
+#lem: massu[leader]; kalam[the Land (of Sumer)]; Ningal[1]DN; nin[lady]; ŋipar[cloister]
+#etcsl: line-id=44
+
+45. a-a {d}nanna za₃-mi₂
+#lem: aya[father]; Nanna[1]DN; zamin[praise]
+#etcsl: line-id=45
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) The lord has burnished (?) the heavens; he has embellished  @varh[t41306.v1]{the night } @vart[t41306.v2,t41306.v1]{@varn{1 ms. has instead:} the earth }. @wDN{Nanna} has burnished the heavens; he has embellished  @varh[t41306.v3]{the night } @vart[t41306.v4,t41306.v3]{@varn{1 ms. has instead:} the earth }. When he comes forth from the turbulent mountains, he stands as @wDN{Utu} stands at noon. When @wDN{Ašimbabbar} comes forth from the turbulent mountains, he stands as @wDN{Utu} stands at noon.
+
+#etcsl#altGrpo
+#etcsl#alt t41306.v1 t41306.v2
+#etcsl#alt t41306.v3 t41306.v4
+#etcsl#altGrpc
+
+@(9 = 9-13) His father, whose word is true, speaks with him day and night. @wDN{Enlil}, whose word is true, speaks with him day and night, and in decision determines the fates with him.
+
+@(14 = 14-17) His lofty @fsux{ŋipar} shrines number four. There are four  @varh[t41306.v5]{platforms } @vart[t41306.v6,t41306.v5]{@varn{1 ms. has instead:} cattle pens } which he has established for him. His great temple cattle pens, one @fsux{eše} in size, number four. They play for him  @varh[t41306.v7]{on the drumsticks } @vart[t41306.v8,t41306.v7]{@varn{1 ms. has instead:} on the churn }.
+
+#etcsl#altGrpo
+#etcsl#alt t41306.v5 t41306.v6
+#etcsl#alt t41306.v7 t41306.v8
+#etcsl#altGrpc
+
+@(18 = 18-25) The cows are driven together in herds for him. His various types of cow number 39600.  @varh[t41306.v9]{His young (?) cows and calves } @vart[t41306.v10,t41306.v9]{@varn{1 ms. has instead:} His fattened cows } number 108000. His young bulls number 126000. The sparkling-eyed cows number 50400. The white cows number 126000. The cows for the evening meal (?) are in four groups of five each (?). Such are the various types of cow of Father @wDN{Nanna}.
+
+#etcsl#altGrpo
+#etcsl#alt t41306.v9 t41306.v10
+#etcsl#altGrpc
+
+@(26 = 26-30) His wild cows number 180000. The …… cows are four. Their herds of cattle are seven. Their …… herdsmen are seven. There are four of those who dwell among the cows (?).
+
+@(31 = 31-36) They give praise to the lord, singing paeans (?) as they move into the @fsux{ŋipar} shrines. @wDN{Nisaba} has taken their grand total; @wDN{Nisaba} has taken their count, and she is writing it on clay. The holy cows of @wDN{Nanna}, cherished by the youth @wDN{Suen}, be praised!
+
+@(37 = 37-41) He is ever able to increase the butter of abundance in the holy animal pens of …… and goats. He is able to provide abundantly the great liquor of the mountains, and syrup, and alcoholic drink for the king on his lofty pure platform.
+
+@(42 = 42-45) Mighty one, trusted one of @wDN{Enlil}, youth, god of living creatures, leader of the Land, and @wDN{Ningal}, lady of the @fsux{ŋipar} shrines -- O Father @wDN{Nanna}, be praised!
+
+
+

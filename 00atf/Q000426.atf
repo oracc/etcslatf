@@ -1,0 +1,234 @@
+&Q000426 = An adab to An for Šu-Suen (Šu-Suen E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.4.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.4.5&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div šagbatuku A
+
+$ (unknown no. of lines missing)
+A.A.1. šag₄-ta ur#-[saŋ ...]
+#lem: šag[heart]; ursaŋ[warrior]; X
+#etcsl: line-id=A.A.1
+
+@div trailer 
+
+A.A.2. šag₄#-[ba-tuku ...]
+#lem: šagbatuku[liturgical rubric]; X
+#etcsl: line-id=A.A.2
+
+@end trailer
+
+@end cagbatuku
+
+@div barsud B
+
+A.B.3. {d}šu-{d}suen gal-zu X X [...]
+#lem: Šusuen[1]RN; galanzu[wise]; X; X; X
+#etcsl: line-id=A.B.3
+
+A.B.4. X X MU lu₂ X X X [...]
+#lem: X; X; X; lu[person]; X; X; X; X
+#etcsl: line-id=A.B.4
+
+A.B.5. [...] X U₃ barag X [...]
+#lem: X; X; X; barag[sanctum]; X; X
+#etcsl: line-id=A.B.5
+
+A.B.6. X X [X X] mu-na-ab-X [...] hi-li me-te# [...]
+#lem: X; X; X; X; X; X; hili[attractiveness]; mete[appropriate thing]; X
+#etcsl: line-id=A.B.6
+
+@div trailer 
+
+A.B.7. bar-sud [2-kam-ma-am₃]
+#lem: barsud[musical notation]; n
+#etcsl: line-id=A.B.7
+
+@end trailer
+
+@end barsud
+
+@div unknown C
+
+A.C.8. an-e X [...] KA [...]
+#lem: An[1]DN; X; X; X; X
+#etcsl: line-id=A.C.8
+
+A.C.9. {d}šu-{d}suen# [...]
+#lem: Šusuen[1]RN; X
+#etcsl: line-id=A.C.9
+
+A.C.10. AN [...]
+#lem: X; X
+#etcsl: line-id=A.C.10
+
+A.C.11. KI# [...]
+#lem: X; X
+#etcsl: line-id=A.C.11
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-gida D
+
+B.D.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.D.1
+
+B.D.2. {d}[šu]-{d}suen# [...] zig₃-ga# [...]
+#lem: Šusuen[1]RN; X; zig[rise]; X
+#etcsl: line-id=B.D.2
+
+@div trailer 
+
+B.D.3. sa-[gid₂-da]
+#lem: sagida[musical notation]
+#etcsl: line-id=B.D.3
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal E
+
+B.E.4. AN DA X mu-un-X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.E.4
+
+@div trailer 
+
+B.E.5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#etcsl: line-id=B.E.5
+
+@end trailer
+
+@end jicgijal
+
+@div uru F
+
+B.F.6. an-e nam mu-un-tar-ra# [...]
+#lem: An[1]DN; nam[fate]; tar[cut]; X
+#etcsl: line-id=B.F.6
+
+B.F.7. an kug-ga nam mu-un-tar eš₃ urim₂# [...]
+#lem: An[1]DN; kug[pure]; nam[fate]; tar[cut]; eš[shrine]; Urim[1]SN; X
+#etcsl: line-id=B.F.7
+
+B.F.8. an-e ud-gin₇ {d}šu-{d}suen-ra me X [...] KA mu-un-na-ni-in-[...]
+#lem: An[1]DN; ud[sun]; Šusuen[1]RN; me[Being]; X; X; X; X
+#etcsl: line-id=B.F.8
+
+@div trailer 
+
+B.F.9. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=B.F.9
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+B.F.10. a-da-ab an#-[na-kam]
+#lem: adab[drum]; An[1]DN
+#etcsl: line-id=B.F.10
+
+#etcsl#doc lines 9 and 10 are written as one line in source
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+#lg A	cagbatuku
+
+
+
+$ (unknown no. of lines missing)
+@(A.A.1 = 1) Warrior from birth …….
+
+#trailer rubric	cagbatuku
+
+
+@(A.A.2 = 2) @fsux{Šagbatuku}.
+
+#lg B	barsud
+
+
+@(A.B.3 = 3-6) Wise @wRN{Šu-@wDN{Suen}} …….  @gap{1 line fragmentary}  …… dais ……. …… the beauty and ornament …….
+
+#trailer rubric	barsud
+
+
+@(A.B.7 = 7) 2nd (?) @fsux{barsud}.
+
+#lg C	unknown
+
+
+@(A.C.8 = 8-11) @wDN{An} ……. @wRN{Šu-@wDN{Suen}} …….  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg D	sa-gida
+
+
+@(B.D.1 = 1-2)  @gap{1 line fragmentary}  @wRN{Šu-@wDN{Suen}} …… rising …….
+
+#trailer rubric	sa-gida
+
+
+@(B.D.3 = 3) @fsux{Sa-gida}.
+
+#lg E	jicgijal
+
+
+@(B.E.4 = 4)  @gap{1 line fragmentary} 
+
+#trailer rubric	jicgijal
+
+
+@(B.E.5 = 5) @fsux{Ŋišgiŋal} of the @fsux{sa-gida}.
+
+#lg F	uru
+
+
+@(B.F.6 = 6-8) As @wDN{An} determined the fates ……. Holy @wDN{An} determined the fates, …… the shrine @wSN{Urim} ……. Like the sunlight @wDN{An} …… for @wRN{Šu-@wDN{Suen}}.
+
+#trailer rubric	uru
+
+
+@(B.F.9 = 9) Its @fsux{uru}.
+
+#trailer subscript	adab
+
+
+@(B.F.10 = 10) An @fsux{adab} of @wDN{An}. @notep{lines 9 and 10 are written as one line in source}
+
+
+

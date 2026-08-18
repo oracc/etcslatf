@@ -1,0 +1,269 @@
+&Q000651 = A kunŋar to Inana (Dumuzid-Inana T)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.20
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.20&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. [X X] sed-sed-e sed! RI [...]
+#lem: X; X; sed[cold]; sed[cool]; X; X
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 19 (?)
+
+A.2. kug {d}inana-ra!(KE₄) u₂ bur₁₂-bur₁₂-re bur₁₂-re [...]
+#lem: kug[purify]; Inanak[1]DN; u[plant(s)]; bur[tear out]; bur[tear out]; X
+#etcsl: line-id=A.2
+
+A.3. lu₂ zu₂-lum degₓ(RI)-degₓ(RI)-ge %e mu-nim-mar %s AN [...]
+#lem: lu[person]; zulum[the fruit of the date-palm]; deg[gather up]; munimmar[palm]N; X; X
+#etcsl: line-id=A.3
+
+A.4. kug {d}inana-ra lu₂ zu₂-lum degₓ(RI)-degₓ(RI)-ge %e mu-nim-mar# %s [...]
+#lem: kug[purify]; Inanak[1]DN; lu[person]; zulum[the fruit of the date-palm]; deg[gather up]; munimmar[palm]N; X
+#etcsl: line-id=A.4
+
+A.5. a he₂-en-na-tum₂ a he₂-en-na-tum₂ numun ziz₂ gig₂-ga
+#lem: a[water]; tum[bring]; a[water]; tum[bring]; numun[seed]; ziz[emmer wheat]; giggig[black]
+#etcsl: line-id=A.5
+
+A.6. {d}inana-ra a-da du₆ he₂-en-na-tum₂ numun ziz₂ babbar-ra
+#lem: Inanak[1]DN; a[water]; dud[(ruin) mound]; tum[bring]; numun[seed]; ziz[emmer wheat]; babbar[white]
+#etcsl: line-id=A.6
+
+A.7. lu₂ na-de₆ lu₂ na-de₆ du₆ za pad₃-še₃ na-de₆
+#lem: lu[person]; de[carry]; lu[person]; de[carry]; dud[(ruin) mound]; za[bead]; pad[find]; de[carry]
+#etcsl: line-id=A.7
+
+A.8. ki-sikil {d}inana lu₂ na-de₆ du₆ za pad₃-še₃ na-de₆
+#lem: kisikil[young woman]; Inanak[1]DN; lu[person]; de[carry]; dud[(ruin) mound]; za[bead]; pad[find]; de[carry]
+#etcsl: line-id=A.8
+
+A.9. du₆-ra gaba-bi-a za-gin₃-na bi₂-ib-degₓ(RI)-degₓ(RI)-ge
+#lem: dud[(ruin) mound]; gaba[breast]; zagin[lapis lazuli]; deg[gather up]
+#etcsl: line-id=A.9
+
+A.10. {d}inana-ra du₆-ra gaba-bi-a za-gin₃-na bi₂-ib-degₓ(RI)-degₓ(RI)-ge
+#lem: Inanak[1]DN; dud[(ruin) mound]; gaba[breast]; zagin[lapis lazuli]; deg[gather up]
+#etcsl: line-id=A.10
+
+A.11. nunuz dur₂-ra in-pad₃-de₃ dur₂-ra-na mu-un-ŋa₂-ŋa₂
+#lem: nunuz[egg]; dur[buttocks]; pad[find]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=A.11
+
+A.12. {d}inana-ke₄ nunuz saŋ-ŋa₂ in-pad₃-de₃ saŋ-ŋa₂-na mu-un-ŋa₂-ŋa₂
+#lem: Inanak[1]DN; nunuz[egg]; saŋ[head]; pad[find]; saŋ[head]; ŋar[put]
+#etcsl: line-id=A.12
+
+A.13. {na₄}lagab za-gin₃ dur₅-ru in-pad₃-de₃ gu₂-bar-ra-na mu-un-ŋa₂-ŋa₂
+#lem: lagab[block]; zagin[lapis lazuli]; duru[wet]; pad[find]; gubar[nape of the neck]; ŋar[put]
+#etcsl: line-id=A.13
+
+A.14. niŋ₂-gal₄-la kug-sig₁₇ in-pad₃-de₃ siki saŋ-ŋa₂-na mu-un-ŋa₂-ŋa₂
+#lem: niŋgalla[jewellery (for or in the form of female genitals)]; kugsig[gold]; pad[find]; siki[hair]; saŋ[head]; ŋar[put]
+#etcsl: line-id=A.14
+
+A.15. kug-sig₁₇ ŋeštug₂-ŋeštug₂ sal-la in-pad₃-de₃ ŋeštug₂-na{ŋeš-du-X} mu-un-ŋa₂-ŋa₂
+#lem: kugsig[gold]; ŋeštug[ear]; sal[thin]; pad[find]; ŋeštug[ear]; ŋar[put]
+#etcsl: line-id=A.15
+
+A.16. zabar %e aŋ₂-su-ub %s ak-a in-pad₃-de₃ us₂ ŋeštug₂-ga-na mu-un-ŋa₂-ŋa₂
+#lem: zabar[bronze]; aŋsub[polishing]; ak[do]; pad[find]; us[accompany]; ŋeštug[ear]; ŋar[put]
+#etcsl: line-id=A.16
+
+A.17. niŋ₂ lal₃ dirig-dirig-ga in-pad₃-de₃ igi#-ni-a mu-un-ŋa₂-ŋa₂ ($illegible gloss$)
+#lem: niŋ[thing]; lal[syrup]; dirig[make more than]; pad[find]; igi[eye]; ŋar[put]
+#etcsl: line-id=A.17
+
+A.18. niŋ₂ e₂-nun bar-ra in-pad₃-de₃ giri₁₇-ni-a mu-un-ŋa₂-ŋa₂
+#lem: niŋ[thing]; enun[shrine]; bar[outside]; pad[find]; kiri[nose]; ŋar[put]
+#etcsl: line-id=A.18
+
+A.19. KIN-GIŠ-BAD-DIR in-pad₃-de₃ ka-ga₁₄-na mu-un-ŋa₂-ŋa₂
+#lem: X; pad[find]; kag[mouth]; ŋar[put]
+#etcsl: line-id=A.19
+
+A.20. tum₁₂-šu-gur₄ sag₉-ga in-pad₃-de₃ en₃-dur-ra-na mu-un-ŋa₂-ŋa₂
+#lem: tumšugur[dove-shaped ring?]; sag[good]; pad[find]; endur[navel]; ŋar[put]
+#etcsl: line-id=A.20
+
+A.21. pu₂ lal₃ a dug₃-ga in-pad₃-de₃ ib₂-ib₂-a-ni mu-un-ŋa₂-ŋa₂
+#lem: pu[cistern]; lal[syrup]; a[water]; dug[good]; pad[find]; ib[hips]; ŋar[put]
+#etcsl: line-id=A.21
+
+A.22. {na₄}ŋiš-nu₁₁-gal zalag-ga in-pad₃-de₃ haš₄-na mu-un-ŋa₂-ŋa₂
+#lem: ŋešnugal[alabaster]; zalag[bright]; pad[find]; haš[thigh]; ŋar[put]
+#etcsl: line-id=A.22
+
+A.23. (1:{ŋiš}kim₃ siki!:1) gig₂-ga in-pad₃-de₃ gal₄-la-na mu-un-ŋa₂-ŋa₂ {{%x LAL₂ GAG [...]}}
+#lem: kim[willow]; siki[hair]; giggig[black]; pad[find]; gala[female genitals]; ŋar[put]; X; X; u
+#etcsl: line-id=A.23
+
+:23v.1.1: ($1 ms. has instead:$) siki sug₄
+#lem: siki[hair]; sug[full]
+
+A.24. HUB₂-HUB₂-be₂{{{kuš}e-sir₂}} du₇-a in-pad₃-de₃ me-ri-si-na mu-un-ŋa₂-ŋa₂
+#lem: suhub[boots]; esir[sandal(s)]; du[perfect]; pad[find]; ŋirisi[toe]; ŋar[put]
+#etcsl: line-id=A.24
+
+@div trailer 
+
+A.25. sa-gid₂#-da-am₃#
+#lem: sagida[musical notation]
+#etcsl: line-id=A.25
+
+@end trailer
+
+@end sa-gida
+
+@div unknown B
+
+B.26. lu₂ du₆-ra {na₄}za-gin₃ degₓ(RI)-degₓ(RI)-ga-ra en gaba-na mu-ri
+#lem: lu[person]; dud[(ruin) mound]; zagin[lapis lazuli]; deg[gather up]; en[lord]; gaba[breast]; ri[impose]
+#etcsl: line-id=B.26
+
+B.27. {d}inana du₆-ra {na₄}za-gin₃ degₓ(RI)-degₓ(RI)-ga-ra {d}dumu-zid-da <gaba-na> mu-ri
+#lem: Inanak[1]DN; dud[(ruin) mound]; zagin[lapis lazuli]; deg[gather up]; Dumuzid[1]DN; gaba[breast]; ri[impose]
+#etcsl: line-id=B.27
+
+B.28. [mu₆]-sub₃ an-na kuš₇ {d}en-lil₂-la₂ en gaba-na mu-ri
+#lem: munsub[shepherd]; An[1]DN; kuš[high official]; Enlil[1]DN; en[lord]; gaba[breast]; ri[impose]
+#etcsl: line-id=B.28
+
+B.29. kuš₇ an-na na-gada {d}en-lil₂-la₂ {d}dumu-zid gaba-na mu#-ri
+#lem: kuš[high official]; An[1]DN; nagada[herdsman]; Enlil[1]DN; Dumuzid[1]DN; gaba[breast]; ri[impose]
+#etcsl: line-id=B.29
+
+B.30. {ŋiš}ig {na₄}za-gin₃-na ŋi₆-par₄-ra gub-ba en gaba-na mu-ri
+#lem: ig[door]; zagin[lapis lazuli]; ŋipar[cloister]; gub[stand]; en[lord]; gaba[breast]; ri[impose]
+#etcsl: line-id=B.30
+
+B.31. {ŋiš}ig sal arah₄ e₂-an-na-ka gub-ba {d}dumu-zid gaba-na mu-ri
+#lem: ig[door]; sal[thin]; arah[storehouse]; Eanak[1]TN; gub[stand]; Dumuzid[1]DN; gaba[breast]; ri[impose]
+#etcsl: line-id=B.31
+
+B.32. du₆-ra gaba-bi-a im-mi-in-gur-ru-a
+#lem: dud[(ruin) mound]; gaba[breast]; gur[turn]
+#etcsl: line-id=B.32
+
+B.33. {d}inana-ke₄ du₆-ra gaba-bi-a im-mi-in-gur-ru-a
+#lem: Inanak[1]DN; dud[(ruin) mound]; gaba[breast]; gur[turn]
+#etcsl: line-id=B.33
+
+B.34. munus-e niŋ₂ i-lu-lam-ma-na ni₂ šu tag-ba he₂-ku₄#-ku₄#
+#lem: munus[woman]; niŋ[thing]; ilulamma[song]; ni[self]; šu[hand]; tag[touch]; kur[enter]
+#etcsl: line-id=B.34
+
+B.35. ki-sikil-e [šir₃] dug₄-ga-ni-a a-a-ni-še₃ lu₂ mu-un-gi₄
+#lem: kisikil[young woman]; šir[sing]; dug[speak]; aya[father]; lu[person]; gi[turn]
+#etcsl: line-id=B.35
+
+B.36. {d}inana ki-e-ne-di-ba sud-a a-a-ni-še₃ lu₂ mu-un-gi₄
+#lem: Inanak[1]DN; kiʾenedi[play area]; sud[distant]; aya[father]; lu[person]; gi[turn]
+#etcsl: line-id=B.36
+
+B.37. %e ma-ŋu₁₀ ma-ŋu₁₀-a de₃-ma-ab-BU-ne
+#lem: ma[house]N; ma[house]N; X
+#etcsl: line-id=B.37
+
+B.38. %e ga-ša-an-ŋen ma-ŋu₁₀ ma-ŋu₁₀-a de₃-ma-ab-BU-ne
+#lem: gašan[lady]N; ma[house]N; ma[house]N; X
+#etcsl: line-id=B.38
+
+B.39. %e ma %s ŋi₆-par₄-ra-ŋu₁₀-a %e de₃-ma-ab-BU-ne
+#lem: ma[house]N; ŋipar[cloister]; X
+#etcsl: line-id=B.39
+
+B.40. ŋiš-nu₂ gi₄-rin-na-ŋu₁₀ %e de₃-ma-ab-gub-bu-ne!
+#lem: ŋešnud[bed]; girim[flower]; gub[stand]
+#etcsl: line-id=B.40
+#etcsl#text Text UN-NA-AB-GUB-BU-NE.
+
+B.41. u₂ za-gin₃ dur₅-ru-ŋu₁₀ %e de₃-ma-ab-barag₂-ge-ne
+#lem: u[plant(s)]; zagin[lapis lazuli]; duru[wet]; barag[spread]
+#etcsl: line-id=B.41
+
+B.42. %e me-e mu-lu# ša₃-ba-ŋu₁₀ de₃-ma-ni-ib-ku₄-ku₄-ne
+#lem: meʾe[I]IP; mulu[person]N; šab[heart]N; kur[enter]
+#etcsl: line-id=B.42
+
+B.43. {d}ama-ušumgal-an-na-ŋu₁₀ %e de₃-ma-ni-ib-ku₄-ku₄-ne
+#lem: Amaʾušumgalanak[1]DN; kur[enter]
+#etcsl: line-id=B.43
+
+B.44. šu-ni šu-ŋu₁₀-ta %e de₃-ŋa₂!-da-ma-ma-ne
+#lem: šu[hand]; šu[hand]; mar[place]
+#etcsl: line-id=B.44
+
+B.45. %e ša-ba-ni ša₃-ab-ŋu₁₀-ta de₃-ŋa₂-da-ma-ma-ne
+#lem: šab[heart]N; šab[heart]N; mar[place]
+#etcsl: line-id=B.45
+
+B.46. šu saŋ#-še₃ %e ma#-al-la-na %s u₃ ku-bi %e ze₂-ba %s an-ga
+#lem: šu[hand]; saŋ[head]; mal[be]V/i; u[sleep]; ku[place]; zeb[good]V/i; me[be]
+#etcsl: line-id=B.46
+
+B.47. %e ša₃-<ab> %s ša₃-ba tab-ba-na hi-li-bi ku₇-ku₇-da an-ga
+#lem: šab[heart]N; šag[heart]; tab[double]; hili[attractiveness]; kud[sweet]; me[be]
+#etcsl: line-id=B.47
+
+@end unknown
+
+@div trailer 
+
+B.48. kun-ŋar# {d}inana#-kam
+#lem: kunŋar[literary subscript]; Inanak[1]DN
+#etcsl: line-id=B.48
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-gida
+
+
+@(A.1 = 1-10) …… he who cools, who cools ……. He who uproots the grass for holy @wDN{Inana}, who uproots ……. He who gathers the dates, …… the date palm. He who gathers the dates for holy @wDN{Inana}, …… the date palm. Let him bring her water, let him bring her water, and black emmer seeds. With the water let him bring @wDN{Inana} a heap, and white emmer seeds. The man brings, the man brings, he brings a heap of stones to choose from. The man brings to the maiden @wDN{Inana}, he brings a heap of stones to choose from. He gathers the lapis lazuli from the top of the heap. He gathers the lapis lazuli for @wDN{Inana} from the top of the heap.
+
+@(A.11 = 11-24) She chooses the buttocks beads and puts them on her buttocks. @wDN{Inana} chooses the head stones and puts them on her head. She chooses the lumps of translucent lapis lazuli and puts them on the nape of her neck. She chooses the golden genitals and puts them on the hair of her head. She chooses the ribbons (?) of gold for the ears and puts them on her ears. She chooses the burnished bronze and puts it in her ear lobes (?). She chooses that which drips with honey and puts it on her face. She chooses that of the outer shrine and puts it on her nose. She chooses the …… and puts it on her mouth. She chooses the beautiful …… ring and puts it in her navel. She chooses a well of honey and fresh water and puts it on her hips. She chooses bright alabaster and puts it on her thighs. She chooses black  @varh[t40820.v1]{…… willow (?) } @vart[t40820.v2,t40820.v1]{@varn{1 ms. has instead:} fleece (?) } and puts it on her genitals. She chooses ornate sandals and puts them on her toes.
+
+#etcsl#altGrpo
+#etcsl#alt t40820.v1 t40820.v2
+#etcsl#altGrpc
+#trailer rubric	sa-gida
+
+
+@(A.25 = 25) @fsux{Sa-gida}.
+
+#lg B	unknown
+
+
+@(B.26 = 26-31) The lord meets her for whom lapis lazuli was gathered from the heap. @wDN{Dumuzid} meets @wDN{Inana} for whom lapis lazuli was gathered from the heap. The shepherd of @wDN{An}, the servant of @wDN{Enlil}, the lord meets her. The servant of @wDN{An}, the herdsman of @wDN{Enlil}, @wDN{Dumuzid} meets her. The lord meets her at the lapis lazuli door which stands in the @fsux{ŋipar} shrine. @wDN{Dumuzid} meets her at the narrow door which stands in the storehouse of @wTN{E-ana}.
+
+@(B.32 = 32-36) When she turns from the top of the heap, when @wDN{Inana} turns from the top of the heap, may the woman enter (?) with her songs, decorated (?). The maiden, singing, sends a messenger to her father. @wDN{Inana}, dancing from joy, sends a messenger to her father:
+
+@(B.37 = 37-47) @q[Inana,An]{“Let them …… for me into my house, my house. Let them …… into my house, my house for me, the queen. Let them …… for me into my @fsux{ŋipar} shrine. Let them erect for me my flowered bed. Let them spread it for me with herbs like translucent lapis lazuli. For me let them bring in the man of my heart. Let them bring in to me my @wDN{Ama-ušumgal-ana}. Let them put his hand in my hand, let them put his heart by my heart. As hand is put to head, the sleep is so pleasant. As heart is pressed to heart, the pleasure is so sweet.”}
+
+#trailer subscript	kunjar
+
+
+@(B.48 = 48) @fsux{Kunŋar} of @wDN{Inana}.
+
+
+

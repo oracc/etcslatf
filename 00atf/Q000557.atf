@@ -1,0 +1,355 @@
+&Q000557 = Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.17
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.17&display=Crit&charenc=gcirc#
+
+1. {d}i-bi₂-{d}suen lugal-ŋu₁₀-ra u₃-na-a-dug₄
+#lem: Ibbisuen[1]RN; lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. {m}iš-bi-er₃-ra arad-zu na-ab-be₂-a
+#lem: Išbierra[1]RN; arad[slave]; e[speak]
+#etcsl: line-id=2
+
+3. kaskal i₃-si-in{ki} ka-zal-lu{ki}-še₃
+#lem: kaskal[way]; Isin[1]SN; Kazallu[1]SN
+#etcsl: line-id=3
+
+4. še sa₁₀-sa₁₀-de₃ (1:a₂-še₃ mu-e-da-a-aŋ₂:1)
+#lem: še[barley]; sa[pay for]; a[arm]; aŋ[measure]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) im-kur₉#-re#-en#
+#lem: kur[enter]
+
+5. ganba 1 še gur-ta-am₃ še sa₂ di
+#lem: šakanka[market price]; n; še[barley]; gur[unit of capacity]; še[barley]; sa[equal]; di[speak]
+#etcsl: line-id=5
+
+6. 20 gun₂ kug-babbar še (1:sa₁₀-sa₁₀-de₃:1) ba-an-ŋar
+#lem: n; gun[load]; kugbabbar[silver]; še[barley]; sa[pay for]; ŋar[put]
+#etcsl: line-id=6
+
+:6v.1.1: ($2 mss. have instead:$) SAM₂-re-de₃
+#lem: X
+
+7. inim mar-tu lu₂-kur₂-ra šag₄ ma-da-zu kur₉-ra ŋiš bi₂-tuku
+#lem: inim[word]; Martu[1 Amorite]; lukur[stranger]; šag[heart]; mada[land]; kur[enter]; ŋeš[tree]; tuku[acquire]
+#etcsl: line-id=7
+
+8. 72000 še gur še du₃-[a]-bi# šag₄# i₃-si-in{ki#}-na-ke₄ (1:ba-an-kur₉-re-en:1)
+#lem: n; še[barley]; gur[unit of capacity]; še[barley]; du[all]; šag[heart]; Isin[1]SN; kur[enter]
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) ba-an-kur₉{+ur#}
+#lem: kur[enter]
+
+9. a-da-al-la-bi mar-tu du₃-du₃-a-bi šag₄ kalam-ma-še₃ ba-an-kur₉-re-en
+#lem: adallabi[now]; Martu[1 Amorite]; du[all]; šag[heart]; kalam[the Land (of Sumer)]; kur[enter]
+#etcsl: line-id=9
+
+10. bad₃ gal-gal dili-dili-bi im-mi-in-dab₅-dab₅
+#lem: bad[wall]; gal[big]; dili[single]; dab[seize]
+#etcsl: line-id=10
+
+11. mu mar-tu še-ba sag₃-ge (1:nu-mu-e-da-šum₂-mu:1)
+#lem: mu[name]; Martu[1 Amorite]; še[barley]; sag[strike]; šum[give]
+#etcsl: line-id=11
+
+:11v.1.1: ($2 mss. have instead:$) [...]-mu-un-da-ak-e
+#lem: ak[do]
+
+12. ugu-ŋu₁₀ mu-ta-ni-kalag i₃-tuš-u₃-de₃-en
+#lem: ugu[skull]; kalag[strong]; tuš[sit (down)]
+#etcsl: line-id=12
+
+13. lugal-ŋu₁₀ 600 (1:{ŋiš}ma₂-gur₈:1) 120 gur-ta-am₃ he₂-em-du₈-e
+#lem: lugal[king]; n; magur[barge]; n; gur[unit of capacity]; du[spread]
+#etcsl: line-id=13
+
+:13v.1.1: ($2 mss. have instead:$) ma₂
+#lem: ma[ship]
+
+14. {ŋiš}ma₂ 72 kalag-ga 20 {ŋiš}ZA PI# X# 30 X X GAN
+#lem: ma[ship]; n; kalag[strong]; n; ZA[type of boat]; X; X; n; X; X; X
+#etcsl: line-id=14
+
+15. 50 {ŋiš}X 60 {ŋiš}ig ma₂# ugu# ma₂# ŋa₂-ŋa₂#
+#lem: n; X; n; ig[door]; ma[ship]; ugu[skull]; ma[ship]; ŋar[put]
+#etcsl: line-id=15
+
+16. u₃ {ŋiš}ma₂ du₃-a-bi he₂-X
+#lem: u[and]; ma[ship]; du[all]; X
+#etcsl: line-id=16
+
+17. id₂-da {id₂}kur-ra {id₂}pa-li-iš-tum-ta
+#lem: id[river]; Idkura[1]WN; Palištum[1]WN
+#etcsl: line-id=17
+
+18. du₆ sal-la-še₃# (1:he₂-em-ta-ed₃-de₃-eš!:1)
+#lem: dud[(ruin) mound]; sal[thin]; ed[go up]
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. has instead:$) [...]-bi₂#-ib-ed₂-de₃#
+#lem: e[leave]
+
+19. u₃ ŋe₂₆-e igi-ni-še₃ (1:ga-am₃-ma-ši-ŋen:1)
+#lem: u[and]; ŋaʾe[I]; igi[eye]; ŋen[go]
+#etcsl: line-id=19
+
+:19v.1.1: ($1 ms. has instead:$) ga-am₃-ta#-e₃#
+#lem: e[leave]
+
+20. ki {ŋiš}ma₂ kar-bi ugu-ŋa₂ e-tuku
+#lem: ki[place]; ma[ship]; kar[harbor]; ugu[skull]; tuku[acquire]
+#etcsl: line-id=20
+
+21. HI-HI še du₃-a-bi he₂-ŋa₂-ŋa₂ he₂-e-sa₂#
+#lem: X; še[barley]; du[all]; ŋar[put]; sa[equal]
+#etcsl: line-id=21
+
+22. tukum-bi še ba-an-tur-re-en
+#lem: tukumbi[if]; še[barley]; tur[small]
+#etcsl: line-id=22
+
+23. ŋe₂₆-e še ga-mu-ra-kur₉
+#lem: ŋaʾe[I]; še[barley]; kur[enter]
+#etcsl: line-id=23
+
+24. lugal-ŋu₁₀ elam-ma{ki} šen-šen-na zi ba-an-ir
+#lem: lugal[king]; Elam[1]GN; šen[battle]; zi[life]; ir[cvve]
+#etcsl: line-id=24
+
+25. še-ba-ni ul₄-la-bi al-til-la
+#lem: še[barley]; ul[hasten]; til[complete]
+#etcsl: line-id=25
+
+26. lirum-lirum na-an-tah-en
+#lem: lirum[strength]; tah[add]
+#etcsl: line-id=26
+
+27. nam-arad-da-ni-še₃ saŋ-zu na-an-šum₂-mu-un
+#lem: namarad[slavery]; saŋ[head]; šum[give]
+#etcsl: line-id=27
+
+28. u₃ egir-ra-ni-še₃ na-an-du-un
+#lem: u[and]; egir[back]; du[go]
+#etcsl: line-id=28
+
+29. še mu 15-ta-am₃ šag₄-gal e₂-gal-zu
+#lem: še[barley]; mu[year]; n; šaggal[food]; egal[palace]
+#etcsl: line-id=29
+
+30. u₃ iri (1:du₃-a-bi:1) šu-ŋu₁₀-ta i₃-ŋal₂
+#lem: u[and]; iri[city]; du[all]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=30
+
+:30v.1.1: ($1 ms. has instead:$) du₃-a-zu
+#lem: du[all]
+
+31. (1::1) i₃-si-in{ki} nibru{ki}-a (2:en-nu-uŋ₃ ha-ra-ab-ak-e:2)
+#lem: Isin[1]SN; Nibru[1]SN; ennuŋ[watch]; ak[do]
+#etcsl: line-id=31
+
+:31v.1.1: ($1 ms. adds:$) iri
+#lem: iri[city]
+:31v.2.1: ($2 mss. have instead:$) en-nu-uŋ₃ ak-de₃
+#lem: ennuŋ[watch]; ak[do]
+
+32. (1:ugu-ŋa₂ he₂-tuku:1)
+#lem: ugu[skull]; tuku[acquire]
+#etcsl: line-id=32
+
+:32v.1.1: ($1 ms. has instead:$) lugal-ŋu₁₀ ugu-ŋa₂ e-tuku
+#lem: lugal[king]; ugu[skull]; tuku[acquire]
+
+33. lugal-ŋu₁₀ he₂#-en-zu
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=33
+
+$ (end of shorter version)
+34. lugal-ŋu₁₀ ni₂ nu-te ni₂ nu-gid₂-i šag₄-ba ŋe₂₆-e nu-te#-BU
+#lem: lugal[king]; ni[fear]; teŋ[approach]; ni[self]; gid[long]; šag[heart]; ŋaʾe[I]; X
+#etcsl: line-id=34
+
+35. diŋir dili-dili-bi igi he₂-ni-ib₂-kiŋ₂-kiŋ₂-e ki-bi he₂-kiŋ₂-kiŋ₂#
+#lem: diŋir[deity]; dili[single]; igi[eye]; kiŋ[seek]; ki[place]; kiŋ[seek]
+#etcsl: line-id=35
+
+36. uŋ₃ daŋal-bi nam-lu₂-ulu₃-bi!# [...] X BI mah
+#lem: uŋ[people]; daŋal[wide]; namlulu[humanity]; X; X; X; mah[great]
+#etcsl: line-id=36
+
+37. he₂-silim-me-eš# numun zid-da (1:he₂-en-gal-le#-eš:1)
+#lem: silim[healthy]; numun[seed]; zid[right]; gal[big]
+#etcsl: line-id=37
+
+:37v.1.1: ($1 ms. has instead:$) [...]-kal#-le-eš
+#lem: kal[rare]
+
+38. urim₂{ki} iri# kug-zu an ki-da# mu₂#-a
+#lem: Urim[1]SN; iri[city]; kug[pure]; an[sky]; ki[place]; mu[grow]
+#etcsl: line-id=38
+
+39. nun gal-me-e GAG X X saŋ-ki-bi kal-la
+#lem: nun[prince]; gal[big]; X; X; X; saŋki[forehead]; kal[rare]
+#etcsl: line-id=39
+
+40. me šum₂-mu uš ŋiš-hur# ge#-en-gen₆-ne₂ sig igi-nim-ma
+#lem: me[Being]; šum[give]; uš[foundation]; ŋešhur[plan]; gin[confirm]; sig[weak]; iginim[upper land]
+#etcsl: line-id=40
+
+41. šu-ta he₂-kar-re KA# X X-bi he₂-eb₂-be₂
+#lem: šu[hand]; kar[flee]; X; X; X; e[speak]
+#etcsl: line-id=41
+
+42. e₂-kiš-nu-ŋal₂ eš₃ an ki šu₂-šu₂ X X X nu-tuku
+#lem: Ekišnuŋal[1]TN; eš[shrine]; an[sky]; ki[place]; šuš[cover]; X; X; X; tuku[acquire]
+#etcsl: line-id=42
+
+43. elam{ki} ur-idim lu₂ niŋ₂ ha-lam-ma-ke₄
+#lem: Elam[1]GN; uridim[mad dog]; lu[person]; niŋ[thing]; halam[forsake]
+#etcsl: line-id=43
+
+44. šu pe!-el nu-ma-ak-e {d}lamma-bi nu-si-il#
+#lem: šu[hand]; pel[defile]; ak[do]; lammar[(female) tutelary deity]; sil[split]
+#etcsl: line-id=44
+
+45. lugal-ŋu₁₀ KA sig₁₀-sig₁₀ gal-gal dub₃-tuku mu-un#-kar#
+#lem: lugal[king]; X; sig[put into]; gal[big]; dubtuku[runner]; kar[flee]
+#etcsl: line-id=45
+
+46. {m}i-bi-{d}suen-ka šag₄-ta-am₃ ki aŋ₂#-me-eš
+#lem: Ibbisuen[1]RN; šag[heart]; ki[place]; aŋ[measure]
+#etcsl: line-id=46
+
+47. an {d}en-lil₂ {d}en!-ki igi zid hu-mu-un-ši-bar-re-e-ne
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; igi[eye]; zid[right]; bar[place outside]
+#etcsl: line-id=47
+
+48. [X X] X X RU E X X X he₂-en-ŋar igi-bi he₂-eb₂-[gi₄]-gi₄
+#lem: X; X; X; X; X; X; X; X; X; ŋar[put]; igi[eye]; gi[turn]
+#etcsl: line-id=48
+
+49. X X abula! urim₂{ki}-ma ŋal₂ da₁₃!-da₁₃!-da a-a
+#lem: X; X; abula[gate]; Urim[1]SN; ŋal[open]; taka[set aside]; aya[father]
+#etcsl: line-id=49
+
+50. X he₂-ni!-ib-be₂ a-ba-am₃ lugal-ŋu₁₀-e-še
+#lem: X; e[speak]; aba[who?]; lugal[king]
+#etcsl: line-id=50
+
+51. lugal# {d}en-lil₂# X X gaba-ri nu-tuku-me-en#
+#lem: lugal[king]; Enlil[1]DN; X; X; gabari[equal]; tuku[acquire]
+#etcsl: line-id=51
+
+52. [...] X X X [...] šag₄-zu na-an-gig-ga#
+#lem: X; X; X; X; X; šag[heart]; gig[sick]
+#etcsl: line-id=52
+
+53. [...] šu mu-un#-gi suhuš-bi mu-ri-in-ge-en
+#lem: X; šu[hand]; gi[turn]; suhuš[foundation]; gin[confirm]
+#etcsl: line-id=53
+
+54. [...] X numun-bi-a šag₄-zu he₂-en-dug₃-ge
+#lem: X; X; numun[seed]; šag[heart]; dug[good]
+#etcsl: line-id=54
+
+55. en#-na lugal-ŋu₁₀ al-til₃-la nam-lugal urim₂{ki} mu-un-ak-e
+#lem: enna[until]; lugal[king]; til[live (of a single person)]; namlugal[kingship]; Urim[1]SN; ak[do]
+#etcsl: line-id=55
+
+56. niŋ₂ na-me lugal-ŋu₁₀ kiŋ₂ mu-na-ni-ib₂-gi₄
+#lem: niŋ[thing]; name[any]; lugal[king]; kiŋ[work]; gi[turn]
+#etcsl: line-id=56
+
+57. a-ma-ru-kam nam-ba-e-šub-de₃-en-ze₂-en
+#lem: amaru[flood]; šub[fall]
+#etcsl: line-id=57
+
+58. igi# {d}utu-kam ka-ŋu₁₀ nu-bala-e
+#lem: igi[eye]; Utu[1]DN; kag[mouth]; bala[turn]
+#etcsl: line-id=58
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Say to @wRN{Ibbi-@wDN{Suen}}, my lord: this is what @wRN{Išbi-@wDN{Erra}}, your servant, says:
+
+@(3 = 3-6) You ordered me to travel to @wSN{Isin} and @wSN{Kazallu} to purchase grain. With grain reaching the exchange rate of one shekel of silver per @fsux{gur}, 20 talents of silver have been invested for  @varh[t3117.v1]{the purchase } @vart[t3117.v2,t3117.v1]{@varn{2 mss. have instead:} …… } of grain.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v1 t3117.v2
+#etcsl#altGrpc
+
+@(7 = 7-12) I heard news that the hostile @wEN{Martu} have entered inside your territories.  @varh[t3117.v3]{I entered with 72,000 @fsux{gur} of grain } @vart[t3117.v4,t3117.v3]{@varn{1 ms. has instead:} 72,000 @fsux{gur} of grain was brought } -- the entire amount of grain -- inside @wSN{Isin}. Now I have let the @wEN{Martu}, all of them, penetrate inside the Land, and one by one I have seized all the fortifications therein. Because of the @wEN{Martu},  @varh[t3117.v5]{I am unable to hand over } @vart[t3117.v6,t3117.v5]{@varn{2 mss. have instead:} I am unable to make …… } this grain for threshing. They are stronger than me, while I am condemned to sitting around.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v3 t3117.v4
+#etcsl#alt t3117.v5 t3117.v6
+#etcsl#altGrpc
+
+@(13 = 13-16) Let my lord repair 600  @varh[t3117.v7]{barges } @vart[t3117.v8,t3117.v7]{@varn{2 mss. have instead:} boats } of 120 @fsux{gur} draught each; 72 solid boats, 20 ……, 30 ……, placing (?) 50 …… and 60 (?) boat doors on the boats (?), may he also …… all the boats.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v7 t3117.v8
+#etcsl#altGrpc
+
+@(17 = 17-21)  @varh[t3117.v9]{Let them bring it up } @vart[t3117.v10,t3117.v9]{@varn{1 ms. has instead:} May he make them go out } by water, along the @wWN{Kura} and the @wWN{Palištum} watercourses, to the grain heaps (?) that are spread out. And I myself intend to  @varh[t3117.v11]{go (?) } @vart[t3117.v12,t3117.v11]{@varn{1 ms. has instead:} come out } and meet them (?). The place there where the boats moor will be under my responsibility. Let them load up huge amounts of grain (?), the entire amount of grain; it should reach (?) you.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v9 t3117.v10
+#etcsl#alt t3117.v11 t3117.v12
+#etcsl#altGrpc
+
+@(22 = 22-23) If you have not got enough grain, I myself shall have grain brought in to you.
+
+@(24 = 24-28) My lord has become distressed about the battles in @wGN{Elam}. But the @wEN{Elamites'} grain rations have quickly been exhausted, so do not slacken your forces! Do not fall head first into their slavery, nor follow at their heels!
+
+@(29 = 29-30) I have at my disposal enough grain to meet the needs of your palace and of  @varh[t3117.v13]{all the cities } @vart[t3117.v14,t3117.v13]{@varn{1 ms. has instead:} all your cities } for 15 years.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v13 t3117.v14
+#etcsl#altGrpc
+
+@(31 = 31-33)  @varh[t3117.v15]{That I should guard for you } @vart[t3117.v16,t3117.v15]{@varn{2 mss. have instead:} To guard }  @vart[t3117.v17,t3117.v17]{@varn{1 ms. adds:} the city of } @wSN{Isin}, and @wSN{Nibru}:  @varh[t3117.v18]{let it be my responsibility. } @vart[t3117.v19,t3117.v18]{@varn{1 ms. has instead:} my lord, is this my responsibility? } My lord should know this! @noteref{end of shorter version}
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v15 t3117.v16
+#etcsl#alt t3117.v18 t3117.v19
+#etcsl#altGrpc
+
+@(34 = 34-37) My lord, I am without fear! I will not delay (?); I will not …… in their midst. Each one of @wSN{Isin's} and @wSN{Nibru's} gods may search there for faces (?); I have indeed looked for them. Their widespread people, their population ……, huge ……, are indeed healthy; the true seed is  @varh[t3117.v20]{indeed great there } @vart[t3117.v21,t3117.v20]{@varn{1 ms. has instead:} precious }.
+
+#etcsl#altGrpo
+#etcsl#alt t3117.v20 t3117.v21
+#etcsl#altGrpc
+
+@(38 = 38-41) @wSN{Urim}, your holy city, rivalling heaven and earth, whose great prince you are ……, of which the appearance is precious, which dispenses the divine powers and makes the foundations (?) and the plans firm both in the south and in the uplands, will surely escape from the grasp and will cry …….
+
+@(42 = 42-45) @wGN{Elam}, a raging dog, a destroyer, will not defile @wTN{E-kiš-nu-ŋal}, the sanctuary which covers heaven and earth, which has no ……. Its protective spirits shall not be split apart! My lord: the loudest roarer (?), the runner, has taken flight (?)!
+
+@(46 = 46-51) May @wDN{An}, @wDN{Enlil} and @wDN{Enki}, who have loved @wRN{Ibbi-@wDN{Suen}} from the womb, look upon him approvingly. …… is indeed placed there; they have changed (?) their appearance. With the …… and (?) the city-gates of @wSN{Urim} opening, they cry @q{“Aee!”} If …… says, @q{“Who is my lord?”} -- You are the king to whom @wDN{Enlil} has given …… no rival!
+
+@(52 = 52-55) Your heart should not fret over this, ……! For …… has avenged (?) ……; he has made its foundations firm for you. Let your heart be glad over …… and (?) its seed. As long as my lord is alive, he will exercise kingship over @wSN{Urim}.
+
+@(56 = 56-58) Do not suddenly reject anything that is sent as a message (?) to my lord! Before @wDN{Utu}, I will not change my word (?).
+
+
+

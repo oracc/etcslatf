@@ -1,0 +1,87 @@
+&Q000739 = A balbale to Šara (Šara A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.30.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.30.1&display=Crit&charenc=gcirc#
+
+$ 29 lines missing
+30. X X X [...] si hu-mu#-[...]
+#lem: X; X; X; X; si[horn]; X
+#etcsl: line-id=30
+
+31. si mah-e KA nun# [...]
+#lem: simuš[brilliance]; mah[great]; X; nun[prince]; X
+#etcsl: line-id=31
+
+32. {d}šara₂ šir₃-zu me-te-aš ši-im-[mi-ib-ŋal₂]
+#lem: Šara[1]DN; šir[song]; mete[appropriate thing]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=32
+
+33. {d}šara₂ me-zu kal-kal a-a an u₃-tud-zu [...]
+#lem: Šara[1]DN; me[Being]; kal[rare]; aya[father]; An[1]DN; utud[give birth (to)]; X
+#etcsl: line-id=33
+
+34. ama ugu#-zu kug {d}inana-[ke₄]
+#lem: ama[mother]; ugu[bear]; kug[purify]; Inanak[1]DN
+#etcsl: line-id=34
+
+35. [X X] X kug-ga dur₂ ša-mu-u₈-de₃-[ŋar]
+#lem: X; X; X; kug[pure]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=35
+
+36. [...]-da nu-u₈-gig-ga-am₃
+#lem: X; nugig[priestess]
+#etcsl: line-id=36
+
+37. [...] X am₃-mi-ni-in-DU-en
+#lem: X; X; X
+#etcsl: line-id=37
+
+38. [...] mu dug₃-ga mi-ri-in-sa₄
+#lem: X; mu[name]; dug[good]; še[call by name]
+#etcsl: line-id=38
+
+39. [...] X-za hul₂-bi
+#lem: X; X; hul[rejoice]
+#etcsl: line-id=39
+
+40. [...] ša-mu-un-til₃ en šag₄-ba dalla i₃-e₃
+#lem: X; til[live (of a single person)]; en[lord]; šag[heart]; dalla[(to be) bright]; e[leave]
+#etcsl: line-id=40
+
+41. [X X] an#-na-ke₄ X X MU X X X X
+#lem: X; X; an[sky]; X; X; X; X; X; X; X
+#etcsl: line-id=41
+
+42. {[d]}šara₂# HAR-re X [...] X-en
+#lem: Šara[1]DN; X; X; X; X
+#etcsl: line-id=42
+
+43. X dug₃ kug-ga u₃-gul ŋar X X X X X-ga
+#lem: X; dug[good]; kug[pure]; ugul[cvne]; ŋar[put]; X; X; X; X; X
+#etcsl: line-id=43
+
+44. [...] dumu-gir₁₅ gal-di X kug X X
+#lem: X; dumugir[citizen]; galdi[exalted]; X; kug[purify]; X; X
+#etcsl: line-id=44
+
+45. eš₃# e₂-mah-ta ud-de₃-eš i-im-e₃
+#lem: eš[shrine]; Emah[1]TN; ud[sun]; e[leave]
+#etcsl: line-id=45
+
+@div trailer 
+
+46. [bal]-bal-e {d}šara₂-kam
+#lem: balbale[literary subscript]; Šara[1]DN
+#etcsl: line-id=46
+
+@end trailer
+
+
+
+
+
+
+

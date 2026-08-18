@@ -1,0 +1,595 @@
+&Q000746 = A šir-namšub to Utu (Utu E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.32.e
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.32.e&display=Crit&charenc=gcirc#
+
+@div kirugu A
+
+A.1. ninda %e ze₂-eb %s bi₂-in-gu₇-a kaš ze₂ bi₂-in-ga-naŋ
+#lem: ninda[bread]; zeb[good]V/i; gu[eat]; kaš[beer]; dug[good]; naŋ[drink]
+#etcsl: line-id=A.1
+
+A.2. e₂ %e mu-lu %s zid-de₃ kurun₂ bur-ra
+#lem: e[house]; mulu[person]N; zid[right]; kurun[beer]; bur[(stone) bowl]
+#etcsl: line-id=A.2
+
+A.3. %e u₃-mu-un %s erim₆-ma kur gal  %e  {d}mu-ul-lil₂-le  %s 
+#lem: umun[lord]N; erim[storeroom]; kur[mountain(s)]; gal[big]; Mullil[1]DN
+#etcsl: line-id=A.3
+
+A.4. nin erim₆-ma ama gal {d}nin-lil₂-le
+#lem: nin[lady]; erim[storeroom]; ama[mother]; gal[big]; Ninlil[1]DN
+#etcsl: line-id=A.4
+
+A.5. šul {d}utu %e u₃-mu-un %s hur-saŋ-ŋa₂-ke₄
+#lem: šul[youth]; Utu[1]DN; umun[lord]N; hursaŋ[mountain]
+#etcsl: line-id=A.5
+
+A.6. {d}še₃-ri₅-da en šul me₂-ke₄
+#lem: Šerda[1]DN; en[lord]; šul[youth]; me[battle]
+#etcsl: line-id=A.6
+
+A.7. {d}en-ki {d}nin-ki {d}en-mul {d}nin-mul-e
+#lem: Enkik[1]DN; Ninki[1 Ninki-goddess]; Enmul[1]DN; Ninmul[1]DN
+#etcsl: line-id=A.7
+
+@div trailer 
+
+A.8. ki-ru-gu₂ 1-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.8
+
+@end trailer
+
+@end kirugu
+
+@div kirugu B
+
+B.9. %e mu-lu %s zid ninda-zu
+#lem: mulu[person]N; zid[right]; ninda[bread]
+#etcsl: line-id=B.9
+
+B.10. ud sud-da ga-am₃ da-ri₂-še₃
+#lem: ud[sun]; sud[distant]; me[be]; dari[eternal]
+#etcsl: line-id=B.10
+
+B.11. gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+#lem: gub[stand]; alim[bison]; alim[bison]; alim[bison]; alala[soothing expression]
+#etcsl: line-id=B.11
+
+B.12. %e mu-lu %s zid-zid-da-ke₄ ninda-zu
+#lem: mulu[person]N; zid[right]; ninda[bread]
+#etcsl: line-id=B.12
+
+B.13. %e u₃-mu-un %s erim₆-ma kur gal %e {d}mu-ul-lil₂
+#lem: umun[lord]N; erim[storeroom]; kur[mountain(s)]; gal[big]; Mullil[]DN
+#etcsl: line-id=B.13
+
+B.14. nin erim₆-ma ama gal {d}nin-lil₂
+#lem: nin[lady]; erim[storeroom]; ama[mother]; gal[big]; Ninlil[1]DN
+#etcsl: line-id=B.14
+
+B.15. šul {d}utu %e u₃-mu-un %s hur-saŋ-ŋa₂-ke₄
+#lem: šul[youth]; Utu[1]DN; umun[lord]N; hursaŋ[mountain]
+#etcsl: line-id=B.15
+
+B.16. {d}še₃-ri₅-da en šul me₂-ke₄
+#lem: Šerda[1]DN; en[lord]; šul[youth]; me[battle]
+#etcsl: line-id=B.16
+
+B.17. ud su₃-ra₂ ga-am₃ da-ri₂-še₃
+#lem: ud[sun]; sud[distant]; me[be]; dari[eternal]
+#etcsl: line-id=B.17
+
+B.18. gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+#lem: gub[stand]; alim[bison]; alim[bison]; alim[bison]; alala[soothing expression]
+#etcsl: line-id=B.18
+
+B.19. %e mu-lu %s zid zi su₃-ud-ŋal₂
+#lem: mulu[person]N; zid[right]; zi[life]; sudŋal[long-lasting]
+#etcsl: line-id=B.19
+
+B.20. %e de₃-emₓ(|A.AN|)-tuku %s ga-am₃ da-ri₂-še₃
+#lem: tuku[acquire]; me[be]; dari[eternal]
+#etcsl: line-id=B.20
+
+B.21. %e mu-lu %s zid-zid-da-ke₄ zi su₃-ud-ŋal₂
+#lem: mulu[person]N; zid[right]; zi[life]; sudŋal[long-lasting]
+#etcsl: line-id=B.21
+
+B.22. %e de₃-emₓ(|A.AN|)-tuku %s ga-am₃ da-ri₂-še₃
+#lem: tuku[acquire]; me[be]; dari[eternal]
+#etcsl: line-id=B.22
+
+B.23. gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+#lem: gub[stand]; alim[bison]; alim[bison]; alim[bison]; alala[soothing expression]
+#etcsl: line-id=B.23
+
+@div trailer 
+
+B.24. ki-ru-gu₂ 2-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=B.24
+
+@end trailer
+
+@end kirugu
+
+@div kirugu C
+
+C.25. a-u₃-am₃-ma e₂-a u₃-li-li
+#lem: aʾuʾa[soothing expression]; e[house]; uli[lamentation]
+#etcsl: line-id=C.25
+
+C.26. al-li-li-am₃-ma e₂-a u₃-li-li
+#lem: alliliamma[soothing expression]; e[house]; uli[lamentation]
+#etcsl: line-id=C.26
+
+C.27. kaš de₂-an-na-ni kurun₂ de₂-an-na-ni
+#lem: kaš[beer]; de[pour]; kurun[beer]; de[pour]
+#etcsl: line-id=C.27
+
+C.28. sukkal %e u₃-mu-un-zu-ra %s kurun₂ de₂-an-na-ni
+#lem: sukkal[secretary]; umun[lord]N; kurun[beer]; de[pour]
+#etcsl: line-id=C.28
+
+C.29. {d}nuska  %e  {d}mu-ul-lil₂-ra  %s  kurun₂ de₂-an-na-ni
+#lem: Nuska[1]DN; Mullil[1]DN; kurun[beer]; de[pour]
+#etcsl: line-id=C.29
+
+C.30. kaš ud-de₃ i-de₂ kaš ne-em₃ ga-ra-na₈-na₈
+#lem: kaš[beer]; ud[sun]; de[pour]; kaš[beer]; nen[this]; naŋ[drink]
+#etcsl: line-id=C.30
+
+C.31. kurun₂ ud-de₃ i-de₂ kurun₂ ne-em₃ ga-ra-te-en-ten
+#lem: kurun[beer]; ud[sun]; de[pour]; kurun[beer]; nen[this]; ten[extinguish]
+#etcsl: line-id=C.31
+
+C.32. %e u₃-mu-un %s gu₇-a! naŋ-a %e de₃-ra-tuku-am₃
+#lem: umun[lord]N; gu[eat]; naŋ[drink]; tuku[acquire]
+#etcsl: line-id=C.32
+
+C.33. %e {d}mu-ul-lil₂ %s gu₇!-a naŋ-a %e de₃-ra-tuku-am₃
+#lem: Mullil[]DN; gu[eat]; naŋ[drink]; tuku[acquire]
+#etcsl: line-id=C.33
+
+C.34. gu₇-a-zu-še₃ gu %e am₃-ši-ma-al %s še %e am₃-ši-ma-al
+#lem: gu[eat]; gu[cord]; mal[be]V/i; še[barley]; mal[be]V/i
+#etcsl: line-id=C.34
+
+C.35. naŋ-a-zu-še₃ id₂-da a-eštub{ku₆} %e am₃-ši-ma-al
+#lem: naŋ[drink]; id[river]; aʾeštub[early flooding]; mal[be]V/i
+#etcsl: line-id=C.35
+
+C.36. gu₇-a-zu-še₃ a-šag₄-ga še gu-nu %e am₃-ši-ma-al
+#lem: gu[eat]; ašag[field]; še[barley]; gunu[qualification of barley]; mal[be]V/i
+#etcsl: line-id=C.36
+
+C.37. %e mu-lu %s zid ša-mu-ra-de₆-a tuku-a-a
+#lem: mulu[person]N; zid[right]; de[carry]; tuku[acquire]
+#etcsl: line-id=C.37
+
+C.38. zid₂ %e mu-lu %s zid-zid-da ša-mu-ra-de₆-a tuku-a-a
+#lem: zid[flour]; mulu[person]N; zid[right]; de[carry]; tuku[acquire]
+#etcsl: line-id=C.38
+
+C.39. šu-ni giri₁₇{ki-ri}-a %e ša-ri-ma-al
+#lem: šu[hand]; kiri[nose]; mal[be]V/i
+#etcsl: line-id=C.39
+
+C.40. gu₇-a ša-mu-ra-ab-be₂ naŋ-a ša-mu-ra-ab-be₂
+#lem: gu[eat]; dug[speak]; naŋ[drink]; dug[speak]
+#etcsl: line-id=C.40
+
+@div trailer 
+
+C.41. ki-ru-gu₂ 3-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=C.41
+
+@end trailer
+
+@end kirugu
+
+@div kirugu D
+
+D.42. kaš bur-ra-gi₄-a šag₄ gu₂-bi [gi₄]-a
+#lem: kaš[beer]; burgia[an offering]; šag[heart]; gu[neck]; gi[turn]
+#etcsl: line-id=D.42
+
+D.43. ne-saŋ e₂-e-ka kaš bur-ra#-gi₄-a
+#lem: nesaŋ[first-fruit offering]; e[house]; kaš[beer]; burgia[an offering]
+#etcsl: line-id=D.43
+
+D.44. bur gal-gal an-ne₂ sug₂-ga#-še₃
+#lem: bur[(stone) bowl]; gal[big]; an[sky]; sug[stand]
+#etcsl: line-id=D.44
+
+D.45. ninda šu sikil-la %e ze₂-eŋ₃-ŋa₂-še₃
+#lem: ninda[bread]; šu[hand]; sikil[pure]; zeŋ[give]V/t
+#etcsl: line-id=D.45
+
+D.46. e₂ %e mu-lu %s zid-de₃ šu e₃-ba-še₃
+#lem: e[house]; mulu[person]N; zid[right]; šu[hand]; e[leave]
+#etcsl: line-id=D.46
+
+D.47. %e mu-lu %s zid-zid-da-ke₄ šu e₃-[ba]-še₃
+#lem: mulu[person]N; zid[right]; šu[hand]; e[leave]
+#etcsl: line-id=D.47
+
+D.48. %e dim₃-me-er mu-lu-ke₄ %s šu e₃-[ba-še₃]
+#lem: dimmer[deity]N; mulu[person]N; šu[hand]; e[leave]
+#etcsl: line-id=D.48
+
+D.49. %e u₃-mu-un {d}am-an-ki-ke₄ %s šu [e₃-ba-še₃]
+#lem: umun[lord]N; Amanki[1]DN; šu[hand]; e[leave]
+#etcsl: line-id=D.49
+
+D.50. šag₄-bi-še₃ %e mu-lu %s zid-de₃ gu₂-[bi mu-un-ši-ib₂-gi₄]
+#lem: šag[heart]; mulu[person]N; zid[right]; gu[neck]; gi[turn]
+#etcsl: line-id=D.50
+
+D.51. %e mu-lu %s zid-de₃ %e mu-lu %s zid-zid-da-[ke₄] gu₂-bi mu-un-ši-ib₂-[gi₄]
+#lem: mulu[person]N; zid[right]; mulu[person]N; zid[right]; gu[neck]; gi[turn]
+#etcsl: line-id=D.51
+
+D.52. %e u₃-mu-un %s erim₆-ma kur gal %e {d}mu-ul-lil₂ %s gu₂-bi mu-un-ši-ib₂-gi₄
+#lem: umun[lord]N; erim[storeroom]; kur[mountain(s)]; gal[big]; Mullil[]DN; gu[neck]; gi[turn]
+#etcsl: line-id=D.52
+
+D.53. nin erim₆-ma ama gal {d}nin-lil₂ gu₂-bi mu-un-ši-[ib₂-gi₄]
+#lem: nin[lady]; erim[storeroom]; ama[mother]; gal[big]; Ninlil[1]DN; gu[neck]; gi[turn]
+#etcsl: line-id=D.53
+
+D.54. lu₂ zid-zid-da-ke₄ kaš-zu bur-ra %e me-ri %s ki a-da-ab-KU
+#lem: lu[person]; zid[right]; kaš[beer]; bur[(stone) bowl]; meri[foot]N; ki[place]; X
+#etcsl: line-id=D.54
+
+D.55. zabar-bi %e ši su₃-ud-ma-al de₃-ra-ab-dirig-ge
+#lem: zabar[bronze]; ši[life]N; sudmal[long-lasting]; dirig[exceed]
+#etcsl: line-id=D.55
+
+D.56. nibru{ki} du₃-du₃-a-ba X KI %e X %s X X-a-ba %e še-eb %s e₂-e X-a-ba
+#lem: Nibru[1]SN; du[build]; X; X; X; X; X; šeb[brick]N; e[house]; X
+#etcsl: line-id=D.56
+
+D.57. dam til₃-la e₂ X [...] dirig-ge
+#lem: dam[spouse]; til[live (of a single person)]; e[house]; X; X; dirig[make more than]
+#etcsl: line-id=D.57
+
+D.58. a e₂-a a X [...]
+#lem: a[water]; e[house]; a[water]; X; X
+#etcsl: line-id=D.58
+
+@div trailer 
+
+D.59. ki-[ru-gu₂ 4-kam-ma]
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=D.59
+
+@end trailer
+
+@end kirugu
+
+@div kirugu E
+
+E.60. %e i-bi₂ %s bar-mu-[ši-ib %e i-bi₂ %s bar-mu]-ši-ib
+#lem: ibi[eye]N; bar[place outside]; ibi[eye]N; bar[place outside]
+#etcsl: line-id=E.60
+
+E.61. {d}utu %e i-bi₂ %s bar-[mu-ši-ib %e i-bi₂ %s bar-mu]-ši-ib
+#lem: Utu[1]DN; ibi[eye]N; bar[place outside]; ibi[eye]N; bar[place outside]
+#etcsl: line-id=E.61
+
+E.62. am e₂-babbar-ra %e i-[bi₂ %s bar-mu-ši-ib %e i-bi₂] %s bar-mu-ši-ib
+#lem: am[wild bull]; Ebabbara[1]; ibi[eye]N; bar[place outside]; ibi[eye]N; bar[place outside]
+#etcsl: line-id=E.62
+
+E.63. sun₄ mu₂ dumu {d}[nin-gal-e tud-da X X ... %e i-bi₂ %s bar-mu-ši-ib]
+#lem: sum[beard]; mu[grow]; dumu[child]; Ningal[1]DN; utud[give birth (to)]; X; X; X; ibi[eye]N; bar[place outside]
+#etcsl: line-id=E.63
+
+E.64. za-e %e i-bi₂-zu %s gud [tur₃-ra um-ši-bar gud tur₃-re am₃]-si
+#lem: zaʾe[you]; ibi[eye]N; gud[bull]; tur[animal stall]; bar[place outside]; gud[bull]; tur[animal stall]; si[fill]
+#etcsl: line-id=E.64
+
+E.65. za-e %e i-bi₂-zu e-ze₂ %s amaš-[a um-ši-bar %e e-ze₂] %s amaš#-e am₃-si
+#lem: zaʾe[you]; ibi[eye]N; eze[sheep]N; amaš[sheepfold]; bar[place outside]; eze[sheep]N; amaš[sheepfold]; si[fill]
+#etcsl: line-id=E.65
+
+E.66. lu₂-ulu₃-ra um-ši-bar me šu-e am₃-X
+#lem: lulu[man]; bar[place outside]; me[Being]; e[speak]; X
+#etcsl: line-id=E.66
+
+@div trailer 
+
+E.67. ki-ru-gu₂ 5-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=E.67
+
+@end trailer
+
+@end kirugu
+
+@div kirugu F
+
+F.68. munu₄{mu-nu}-ta še₁₀{X-X} buru₅-ta ma-ra-ra-degₓ(RI)-degₓ(RI)
+#lem: munu[malt]; šed[excrement]; buru[sparrow]; deg[gather up]
+#etcsl: line-id=F.68
+
+F.69. še-ta še₁₀ %e še-en-gilim₂-ta %s ma!-ra-ra-degₓ(RI)-degₓ(RI)
+#lem: še[barley]; šed[excrement]; šengilim[rodent]; deg[gather up]
+#etcsl: line-id=F.69
+
+# collate: tlit še-en-gilim₁
+
+F.70. buru₁₄# an-ta zu₂ bir₅{mušen}-ra %e me-e %s ma-ra-ra-degₓ(RI)-degₓ(RI)
+#lem: buru[harvest]; an[sky]; zu[tooth]; bir[locust]; meʾe[I]IP; deg[gather up]
+#etcsl: line-id=F.70
+
+F.71. %e aŋ₂-e u₃-mu-un-e de₃-gu₇-e %s IM bi₂-gu₇
+#lem: aŋ[thing]N; umun[lord]N; gu[eat]; X; gu[eat]
+#etcsl: line-id=F.71
+
+F.72. ur-saŋ šul {d}utu %e de₃-na₈-na₈ %s IM bi₂-naŋ
+#lem: ursaŋ[warrior]; šul[youth]; Utu[1]DN; naŋ[drink]; X; naŋ[drink]
+#etcsl: line-id=F.72
+
+F.73. šul {d}utu %e de₃-ŠEŠ-e %s ma-gu₇-e %e de₃-ŠEŠ-e %s ma-na₈-na₈
+#lem: šul[youth]; Utu[1]DN; X; gu[eat]; X; naŋ[drink]
+#etcsl: line-id=F.73
+
+@div trailer 
+
+F.74. ki-ru-gu₂ 6-[kam-ma]
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=F.74
+
+@end trailer
+
+@end kirugu
+
+@div kirugu G
+
+G.75. kaš dur₂{du-ur₂} e₂ lam-ra-zu [...]
+#lem: kaš[beer]; dur[buttocks]; e[house]; lam[flourish]; X
+#etcsl: line-id=G.75
+
+G.76. ugu lam-sa₂-zu [...]
+#lem: ugu[skull]; lamdre[brewing vat]; X
+#etcsl: line-id=G.76
+
+G.77. sukkal zid gala [...]
+#lem: sukkal[secretary]; zid[right]; gala[lamentation singer]; X
+#etcsl: line-id=G.77
+
+G.78. sukkal e₂ zid-da [...]
+#lem: sukkal[secretary]; e[house]; zid[right]; X
+#etcsl: line-id=G.78
+
+G.79. šul {d}utu X X [...]
+#lem: šul[youth]; Utu[1]DN; X; X; X
+#etcsl: line-id=G.79
+
+@div trailer 
+
+G.80. ki-[ru-gu₂ 7-kam-ma]
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=G.80
+
+@end trailer
+
+@end kirugu
+
+@div kirugu H
+
+H.81. ud %e ša₃-ab %s X [...]
+#lem: ud[sun]; šab[heart]N; X; X
+#etcsl: line-id=H.81
+
+H.82. a kal-la [...]
+#lem: a[water]; kal[rare]; X
+#etcsl: line-id=H.82
+
+H.83. ne-saŋ kug [...]
+#lem: nesaŋ[first-fruit offering]; kug[purify]; X
+#etcsl: line-id=H.83
+
+H.84. šul {d}utu kug [...]
+#lem: šul[youth]; Utu[1]DN; kug[purify]; X
+#etcsl: line-id=H.84
+
+@div trailer 
+
+H.85. ki-ru-[gu₂ 8-kam-ma]
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=H.85
+
+@end trailer
+
+@end kirugu
+
+@div kirugu I
+
+I.86. u₃-li-li [...]
+#lem: uli[lamentation]; X
+#etcsl: line-id=I.86
+
+I.87. %e {d}mu-ul#-[lil₂ ...]
+#lem: Mullil[]DN; X
+#etcsl: line-id=I.87
+
+$ 2 lines missing
+I.90. X [...]
+#lem: X; X
+#etcsl: line-id=I.90
+
+I.91. X X [...]
+#lem: X; X; X
+#etcsl: line-id=I.91
+
+I.92. dam X X X [...]
+#lem: dam[spouse]; X; X; X; X
+#etcsl: line-id=I.92
+
+I.93. DA X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=I.93
+
+$ (2 lines fragmentary)
+I.96. lu₂ X X X X X X [...]
+#lem: lu[person]; X; X; X; X; X; X; X
+#etcsl: line-id=I.96
+
+$ (12 lines fragmentary)
+I.109. ama-ŋu₁₀ [...]
+#lem: ama[mother]; X
+#etcsl: line-id=I.109
+
+I.110. ama-ŋu₁₀ [...]
+#lem: ama[mother]; X
+#etcsl: line-id=I.110
+
+@div trailer 
+
+I.x. ki-ru-gu₂# X-kam-ma#
+#lem: kirugu[division notation in certain literary compositions]; X
+#etcsl: line-id=I.111
+
+@end trailer
+
+@end kirugu
+
+@div trailer 
+
+x.
+#lem: 
+
+#etcsl: line-id=I.x
+
+#etcsl#doc This composition is inscribed on a tablet whose colophon specifies it as a šir-namšub of Utu
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	kirugu
+
+
+@(A.1 = 1-7) Whoever has eaten good bread has also drunk good beer, in the house where the righteous man has filled the bowls with liquor -- the lord of the storehouse, the Great Mountain @wDN{Enlil}; the lady of the storehouse, the great mother @wDN{Ninlil}; youthful @wDN{Utu}, lord of the mountain; @wDN{Šerida}, youthful leader of battle; the @wDN{Enki} and @wDN{Ninki} deities; @wDN{Enmul} and @wDN{Ninmul}.
+
+#trailer rubric	kirugu
+
+
+@(A.8 = 8) 1st @fsux{kirugu}.
+
+#lg B	kirugu
+
+
+@(B.9 = 9-18) Unto distant days, indeed forever, stand by the righteous man who gives you bread, O exalted one, O exalted one, O exalted one -- @fsux{elalu}! Unto distant days, indeed forever, stand by the most righteous of men who gives you bread, O lord of the storehouse, Great Mountain @wDN{Enlil}! O lady of the storehouse, great mother @wDN{Ninlil}! O youthful @wDN{Utu}, lord of the mountain! O @wDN{Šerida}, youthful leader of battle! O exalted one, O exalted one, O exalted one -- @fsux{elalu}!
+
+@(B.19 = 19-23) May the righteous man have a long life, indeed forever! May the most righteous of men have a long life, indeed forever! Stand by him, O exalted one, O exalted one, O exalted one -- @fsux{elalu}!
+
+#trailer rubric	kirugu
+
+
+@(B.24 = 24) 2nd @fsux{kirugu}.
+
+#lg C	kirugu
+
+
+@(C.25 = 25-33) @fsux{Auamma}! -- in the house -- @fsux{ulili}! @fsux{Alliliamma}! -- in the house -- @fsux{ulili}! Pour out beer for him, pour out liquor for him, O minister, pour out liquor for your lord, O @wDN{Nuska}, pour out liquor for @wDN{Enlil}! Beer has now been poured out: let me give you this beer to drink. Liquor has now been poured out: let me give you this liquor to refresh yourself. O lord, eat and drink! May it be acceptable (?) to you! O @wDN{Enlil}, eat and drink! May it be acceptable (?) to you!
+
+@(C.34 = 34-40) As you eat, flax comes into being, grain comes into being. As you drink, early floods come into being in the rivers. As you eat, mottled grain comes into being in the fields. Accept what the righteous man has brought to you! Accept the flour that the most righteous man has brought to you! He has paid homage to you. He says to you @q[,Enlil]{“Eat”}, he says to you @q[,Enlil]{“Drink”}.
+
+#trailer rubric	kirugu
+
+
+@(C.41 = 41) 3rd @fsux{kirugu}.
+
+#lg D	kirugu
+
+
+@(D.42 = 42-50) The beer for the @fsux{bur-gia} offerings has been filled to overflowing. Among the offerings of the house, at the place where the huge bowls have been stood under the heavens, where bread has been offered by pure hands, at the house where the righteous man has offered prayers, where the most righteous of men has offered prayers, where the god of the man has offered prayers, where Lord @wDN{Enki} has offered prayers, there the righteous man has filled to overflowing the beer for the @fsux{bur-gia} offerings.
+
+@(D.51 = 51-58) The righteous man, the most righteous of men, has filled them to overflowing. O lord of the storehouse, Great Mountain @wDN{Enlil}, he has filled them to overflowing. O lady of the storehouse, great mother @wDN{Ninlil}, he has filled them to overflowing. The most righteous of men has …… the bowls with your beer. May this bronze vessel increase his long life. When @wSN{Nibru} had been fully built, when …… had been ……, when the brickwork of this house had been ……, the living spouse ……, the seed of the house, the seed …….
+
+#trailer rubric	kirugu
+
+
+@(D.59 = 59) 4th @fsux{kirugu}.
+
+#lg E	kirugu
+
+
+@(E.60 = 60-66) Gaze upon him, gaze upon him! O @wDN{Utu}, gaze upon him, gaze upon him! O wild bull of the @wTN{E-babbar}, gaze upon him, gaze upon him! O bearded one, son born to @wDN{Ningal}, ……, gaze upon him! When you gaze upon the bulls in the cattle-pen, bulls fill the cattle-pen. When you gaze upon the sheep in the fold, sheep fill the fold. When you have gazed upon the man, …….
+
+#trailer rubric	kirugu
+
+
+@(E.67 = 67) 5th @fsux{kirugu}.
+
+#lg F	kirugu
+
+
+@(F.68 = 68-73) For you, I will clear away from the malt the droppings of the little birds. For you, I will clear away from the grain the droppings of the rodents. For you, I will clear away from the grain ears the beaks of the locusts. May the lord eat this produce -- he has eaten ……. May the hero, youthful @wDN{Utu}, drink -- he has drunk ……. May youthful @wDN{Utu} …… -- he will give it to me to eat; may he …… -- he will give it to me to drink.
+
+#trailer rubric	kirugu
+
+
+@(F.74 = 74) 6th @fsux{kirugu}.
+
+#lg G	kirugu
+
+
+@(G.75 = 75-79) The beer …… your seat in the brewery. Over your brewing vats ……. The good minister …… the @fsux{gala} priest. The minister of the good house ……. Youthful @wDN{Utu} …….
+
+#trailer rubric	kirugu
+
+
+@(G.80 = 80) 7th @fsux{kirugu}.
+
+#lg H	kirugu
+
+
+@(H.81 = 81-84) When the heart ……, the precious seed ……. The holy offerings ……. Youthful @wDN{Utu} …….
+
+#trailer rubric	kirugu
+
+
+@(H.85 = 85) 8th @fsux{kirugu}.
+
+#lg I	kirugu
+
+
+@(I.86 = 86-110) @fsux{Ulili} ……! @wDN{Enlil} …….  @gap{2 lines missing}   @gap{21 lines fragmentary} 
+
+#trailer rubric	kirugu
+
+
+@(I.111 = 111) …… @fsux{kirugu}.
+
+
+#trailer subscript	cir-namcub
+
+@(x = x) @notetrailer{This composition is inscribed on a tablet whose colophon specifies it as a @fsux{šir-namšub} of Utu}
+
+
+

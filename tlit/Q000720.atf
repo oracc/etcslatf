@@ -1,0 +1,193 @@
+&Q000720 = A šir-gida to Ninurta (Ninurta A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.27.01
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.27.01&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. ur-saŋ dumu nir-ŋal₂ {d}en-lil₂-la₂
+#lem: ursaŋ[warrior]; dumu[child]; nirŋal[authoritative]; Enlil[1]DN
+#etcsl: line-id=A.1
+
+A.2. {d}nin-urta gud huš nam-nun-na tum₂-ma
+#lem: Ninurtak[1]DN; gud[bull]; huš[reddish]; namnun[magnificence]; tum[suitable]
+#etcsl: line-id=A.2
+
+A.3. meš₃ e₂-šu-me-ša₄ pa e₃-a
+#lem: mes[hero]; Ešumeša[1]TN; pa[branch]; e[leave]
+#etcsl: line-id=A.3
+
+A.4. he₂-du₇ e₂-kur-ra di-kud si! sa₂!
+#lem: hedu[ornament]; Ekur[1]TN; dikud[judge]; si[horn]; sa[equal]
+#etcsl: line-id=A.4
+
+A.5. lugal X X X diŋir-re-e-ne
+#lem: lugal[king]; X; X; X; diŋir[deity]
+#etcsl: line-id=A.5
+
+A.6. gud du₇-du₇ ki-bal-a ŋiri₃ gub
+#lem: gud[bull]; du[push]; kibala[rebel land]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=A.6
+
+A.7. {d}nin-urta en e₂-šu-me-ša₄-ke₄
+#lem: Ninurtak[1]DN; en[lord]; Ešumeša[1]TN
+#etcsl: line-id=A.7
+
+A.8. barag an-na-ke₄ dur₂ nam-[mi-in-ŋar]
+#lem: barag[sanctum]; An[1]DN; dur[buttocks]; ŋar[put]
+#etcsl: line-id=A.8
+
+A.9. ud-sakar gibil-am₃ uŋ₃-e pa am₃-[X-e₃]
+#lem: udsakar[crescent moon]; gibil[new]; uŋ[people]; pa[branch]; e[leave]
+#etcsl: line-id=A.9
+
+A.10. {d}nanna an uraš-a DU [...]
+#lem: Nanna[1]DN; an[sky]; uraš[earth]; X; X
+#etcsl: line-id=A.10
+
+A.11. ŋidru kug-an sud-aŋ₂ šu-na ŋal₂-[la-am₃]
+#lem: ŋidru[scepter]; kugan[metal]; sud[distant]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.11
+
+A.12. men zid an-na saŋ-ŋa₂ ŋal₂-[la-am₃]
+#lem: men[tiara]; zid[right]; An[1]DN; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.12
+
+A.13. {d}utu ha-šu-ur₂-ta e₃#-[am₃]
+#lem: Utu[1]DN; hašur[tree]; e[leave]
+#etcsl: line-id=A.13
+
+A.14. {d}nanna kur un₃-na gub-[ba-am₃]
+#lem: Nanna[1]DN; kur[mountain(s)]; un[high]; gub[stand]
+#etcsl: line-id=A.14
+
+A.15. (1:en kisal:1) SI [...] X [...]
+#lem: en[lord]; kisal[courtyard]; X; X; X; X
+#etcsl: line-id=A.15
+
+:15v.1.1: ($1 ms. has instead:$) en lugal
+#lem: en[lord]; lugal[king]
+
+A.16. lugal ama₅ kur-ra in-tud-[...]
+#lem: lugal[king]; emi[queen's household]; kur[mountain(s)]; utud[give birth (to)]
+#etcsl: line-id=A.16
+
+A.17. dub-us₂ [...] SIG₇-ga# [...]
+#lem: dubus[second]; X; X; X
+#etcsl: line-id=A.17
+
+$ at least 6 lines missing
+@end segment
+
+@div segment B
+
+B.1. [X X] X e-ne di [...]
+#lem: X; X; X; ene[pleasure?]; di[speak]; X
+#etcsl: line-id=B.1
+
+B.2. [X X] X teš₂ dug₄-ga [...]
+#lem: X; X; X; teš[voice]; dug[speak]; X
+#etcsl: line-id=B.2
+
+B.3. [...] X bad-da en {d}nin-urta-ke₄
+#lem: X; X; bad[open]; en[lord]; Ninurtak[1]DN
+#etcsl: line-id=B.3
+
+B.4. X X-am₃ IN X me šar₂-ra unu₂ la₂ šuba# [...]
+#lem: X; X; X; X; me[Being]; šar[numerous]V/i; unu[adornment]; la[hang]; šuba[precious stone]; X
+#etcsl: line-id=B.4
+
+B.5. {d}inana X hi-li sag₉ X il₂-la-na KA mu-na-ni-X
+#lem: Inanak[1]DN; X; hili[attractiveness]; sag[goodness]; X; il[raise]; X; X
+#etcsl: line-id=B.5
+
+B.6. en ki gal an-na si la₂ X X X X
+#lem: en[lord]; ki[place]; gal[big]; An[1]DN; si[horn]; la[hang]; X; X; X; X
+#etcsl: line-id=B.6
+
+B.7. X-da abzu-a muš₃ nu-tum₂-mu-da
+#lem: X; abzu[(cosmic) underground water]; muš[face]; tum[bring]
+#etcsl: line-id=B.7
+
+B.8. en pap-šeš e₂ me dug₃-dug₃-ga-[...]
+#lem: en[lord]; pašeš[foremost]; e[house]; me[Being]; dug[good]
+#etcsl: line-id=B.8
+
+B.9. {d}en-ki-ke₄ eš₃ abzu-<a> šu mu₂-mu₂-da
+#lem: Enkik[1]DN; eš[shrine]; Eʾabzu[1]; šu[hand]; mu[grow]
+#etcsl: line-id=B.9
+
+B.10. abzu-gin₇ ŋeštug₂ mah kalam-ma sig₉-ga
+#lem: abzu[(cosmic) underground water]; ŋeštug[ear]; mah[great]; kalam[the Land (of Sumer)]; sig[put into]
+#etcsl: line-id=B.10
+
+B.11. ŊA₂ ulu₃-ba e₂ sikil-la-ka-ni
+#lem: X; ulu[south wind]; e[house]; sikil[pure]
+#etcsl: line-id=B.11
+
+B.12. ŊA₂ DUB-DUB ŊA₂ mi₂ dug₄-ga-ni
+#lem: X; X; X; mi[cvne]; dug[speak]
+#etcsl: line-id=B.12
+
+B.13. ŊA₂ DUB šeš-a pad₃-da-ni
+#lem: X; X; šeš[brother]; pad[find]
+#etcsl: line-id=B.13
+
+B.14. (1:e₂ {ŋiš}erin-na EZEN KU-KU-a-ni:1)
+#lem: e[house]; eren[cedar]; X; X
+#etcsl: line-id=B.14
+
+:14v.1.1: ($1 ms. has instead:$) en [...]
+#lem: en[lord]; X
+
+B.15. šag₄-tum₂-ma izi ŋar-ra-ni
+#lem: šagtum[pasture land]; izi[fire]; ŋar[put]
+#etcsl: line-id=B.15
+
+B.16. en KA kug kur un₃-na gub-bu-de₃
+#lem: en[lord]; X; kug[purify]; kur[mountain(s)]; un[high]; gub[stand]
+#etcsl: line-id=B.16
+
+B.17. ŋiš-nu₁₁ X GAR-bi en-nu-uŋ₃ ak-de₃
+#lem: ŋešnu[light]; X; X; ennuŋ[watch]; ak[do]
+#etcsl: line-id=B.17
+
+B.18. itid-da eš₃ gal-la muš₃ nu-tum₂-mu-de₃
+#lem: itud[moon]; eš[shrine]; gal[big]; muš[face]; tum[bring]
+#etcsl: line-id=B.18
+
+B.19. u₄-ta-u₁₈-lu en diŋir-re-e-ne
+#lem: Utaʾulu[1]; en[lord]; diŋir[deity]
+#etcsl: line-id=B.19
+
+B.20. ur-saŋ gal an-na en gal {d}en-lil₂-la₂
+#lem: ursaŋ[warrior]; gal[big]; An[1]DN; en[lord]; gal[big]; Enlil[1]DN
+#etcsl: line-id=B.20
+
+B.21. {d}nin-urta dumu mah e₂-kur-ra
+#lem: Ninurtak[1]DN; dumu[child]; mah[great]; Ekur[1]TN
+#etcsl: line-id=B.21
+
+B.22. nir-ŋal₂ a-a ugu-na za₃-mi₂-zu dug₃-ga-am₃
+#lem: nirŋal[authoritative]; aya[father]; ugu[bear]; zamin[praise]; dug[good]
+#etcsl: line-id=B.22
+
+@div trailer 
+
+B.23. šir₃-gid₂-du {d}nin-urta-kam
+#lem: širgida[literary subscript]; Ninurtak[1]DN
+#etcsl: line-id=B.23
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

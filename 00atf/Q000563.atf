@@ -1,0 +1,114 @@
+&Q000563 = Letter from Iddin-Dagan to Sîn-illat about the troops
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.2.02
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.02&display=Crit&charenc=gcirc#
+
+1. {m}{d}suen-illat ra-bi-si₂-ka₃-tum-ma u₃-na-a-dug₄
+#lem: Sinillat[1]PN; rabizigatum[military official]; dug[speak]
+#etcsl: line-id=1
+
+2. {d}i-din-{d}da-gan lugal-zu na-ab-be₂-a
+#lem: Iddindagan[1]RN; lugal[king]; e[speak]
+#etcsl: line-id=2
+
+3. kaskal-ŋu₁₀ ni₂-tuku saŋ gi₄-a gu₂ id₂-da min-a-bi mu-da-ab-bal-e
+#lem: kaskal[way]; nituku[pious]; saŋ[head]; gi[turn]; gu[neck]; id[river]; min[two]; bala[turn]
+#etcsl: line-id=3
+
+4. ka-ku-la-tum{[ki]} gaba-ri gid₂-da-zu-u₃-ne
+#lem: Kakkulatum[1]SN; gabari[equal]; gid[long]
+#etcsl: line-id=4
+
+5. {d}lamma {d}da-gan {d}X X u₃ {d}en-lil₂ lugal kalam [...] erin₂-na gu₂ bi-in-ri
+#lem: lammar[(female) tutelary deity]; Dagan[1]DN; X[1]DN; X; u[and]; Enlil[1]DN; lugal[king]; kalam[the Land (of Sumer)]; X; erin[people]; gu[neck]; ri[impose]
+#etcsl: line-id=5
+
+6. me-lem₄-ŋu₁₀ kalam-ma ba-e-dul
+#lem: melim[frightening splendor]; kalam[the Land (of Sumer)]; dul[cover]
+#etcsl: line-id=6
+
+7. u₃ za-e nam-ur-saŋ nam-kalag-ga-zu X X-bi-še₃ ba-e-[...]
+#lem: u[and]; zaʾe[you]; namursaŋ[heroism]; namkalag[strength]; X; X; X
+#etcsl: line-id=7
+
+8. [...] TAR [...] ba-an-da-[...]
+#lem: X; X; X; X
+#etcsl: line-id=8
+
+9. nam#-lugal [...] |DU.DU|-a ba-[X-X]
+#lem: namlugal[kingship]; X; X; X
+#etcsl: line-id=9
+
+10. ugnim# [X X]{ki} bi₂-[...]
+#lem: ugnim[army]; X; X[1]SN; X
+#etcsl: line-id=10
+
+11. kiŋ₂ gal-la [...]
+#lem: kiŋ[work]; gal[big]; X
+#etcsl: line-id=11
+
+12. lu₂ X X-ne en-nu-uŋ₃ ŋa₂-ŋa₂-da
+#lem: lu[person]; X; X; ennuŋ[watch]; ŋar[put]
+#etcsl: line-id=12
+
+13. a-ga-aš gi₄-bi he₂#-mi-in-du₈
+#lem: aga[rear]; gi[turn]; du[spread]
+#etcsl: line-id=13
+
+14. ku₄-ku₄ ed₂-de₃ kiŋ₂ bar ha-ra-ak-ne
+#lem: kur[enter]; e[leave]; kiŋ[seek]; bar[outside]; ak[do]
+#etcsl: line-id=14
+
+15. lugal-ŋu₁₀ TUKU GA NE ŊA₂ X NA
+#lem: lugal[king]; X; X; X; X; X; X
+#etcsl: line-id=15
+
+16. ka lul-za u₃-mu-e-X X
+#lem: kag[mouth]; lul[false]; X; X
+#etcsl: line-id=16
+
+17. (1:ugnim-zu nam-ba-e-la₂:1)
+#lem: ugnim[army]; la[hang]
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) ugnim-bi KAR nam-X [...]
+#lem: ugnim[army]; X; X; X
+
+18. ul₄-la-bi %e ŋa₂-nam-ma
+#lem: ul[hasten]; men[go]V/i
+#etcsl: line-id=18
+
+19. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=19
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Speak to @wPN{@wDN{Sîn}-illat} the general: this is what @wRN{Iddin-@wDN{Dagan}}, your lord, says:
+
+@(3 = 3-9) My expeditionary force is able to cross to both banks of the river, inspiring awe and creating a blockade. When you moved opposite @wSN{Kakkulātum}, the protective goddess and @wDN{Dagan} and …… and @wDN{Enlil}, king of the Land, …… the soldiers. My splendour covers the Land. And as for you, your heroism and strength …….  @gap{1 line fragmentary}  Kingship (?) …….
+
+@(10 = 10-19) The troops ……. …… heavy (?) work (?). You (?) should …… the recruits (?) of the …… men who are mounting guard. They should check on your behalf …… all those entering and leaving. My lord, ……. When you …… by your treacherous …….  @varh[t3202.v1]{Do not cut back (?) your troops } @vart[t3202.v2,t3202.v1]{@varn{1 ms. has instead:} their troops …… }. Come quickly! It is urgent!
+
+#etcsl#altGrpo
+#etcsl#alt t3202.v1 t3202.v2
+#etcsl#altGrpc
+
+

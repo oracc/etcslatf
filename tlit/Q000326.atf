@@ -1,0 +1,175 @@
+&Q000326 = OB catalogue from Nibru (N3)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.2.06
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2.06&display=Crit&charenc=gcirc#
+
+1. ur-saŋ alim mah
+#lem: ursaŋ[warrior]; alim[bison]; mah[great]
+#etcsl: line-id=1
+
+2. me-a lu
+#lem: mea[where?]; lu[abundant]
+#etcsl: line-id=2
+
+#etcsl#inc Nanna A, 4.13.01
+
+3. me-a-am
+#lem: meʾam[term of endearment]
+#etcsl: line-id=3
+
+#etcsl#inc Nanna B, 4.13.02 (?)
+
+4. U₃ nu-mu-e-de₃-RI-RI
+#lem: X; X
+#etcsl: line-id=4
+
+#etcsl#doc two compositions are known with this incipit: Šulgi Z, 2.4.2.26; Šu-Suen H, 2.4.4.8
+
+5. iri-me-a
+#lem: iri[city]
+#etcsl: line-id=5
+
+6. ud re-a
+#lem: ud[sun]; re[that]
+#etcsl: line-id=6
+
+#etcsl#doc four compositions are known with this incipit: Enki and Ninmaḫ, 1.1.2; Enki's journey to Nibru, 1.1.4; Gilgameš, Enkidu and the nether world, 1.8.1.4; The instructions of Šuruppag 5.6.1
+
+7. en me galam#-ma
+#lem: en[lord]; me[Being]; galam[skilful]
+#etcsl: line-id=7
+
+#etcsl#inc Ur-Ninurta B, 2.5.6.2
+
+8. me-e diŋir-ŋa₂
+#lem: mea[where?]; diŋir[deity]
+#etcsl: line-id=8
+
+9. {d}gibil₆ {d}gibil₆
+#lem: Gibil[1]DN; Gibil[1]DN
+#etcsl: line-id=9
+
+10. ud 30 ud nu₂-a
+#lem: ud[sun]; n; ud[sun]; nud[lie down]
+#etcsl: line-id=10
+
+11. an u₁₈-ru gal
+#lem: an[sky]; urun[exalted]; gal[big]
+#etcsl: line-id=11
+
+#etcsl#inc Ur-Ninurta E, 2.5.6.5
+
+12. munus zid me inim di-di X
+#lem: munus[woman]; zid[right]; me[Being]; inim[word]; di[speak]; X
+#etcsl: line-id=12
+
+13. lugal tud-da-zu
+#lem: lugal[king]; utud[give birth (to)]
+#etcsl: line-id=13
+
+14. {d}nin-lil₂ nin nibru{ki}
+#lem: Ninlil[1]DN; nin[lady]; Nibru[1]SN
+#etcsl: line-id=14
+
+15. en EZEN gal an ki
+#lem: en[lord]; X; gal[big]; an[sky]; ki[place]
+#etcsl: line-id=15
+
+16. {d}ŋeštin nin ki aŋ₂
+#lem: Ŋeštin[1]DN; nin[lady]; ki[place]; aŋ[measure]
+#etcsl: line-id=16
+
+17. lugal iri ab₂-gin₇ lu-X
+#lem: lugal[king]; iri[city]; ab[cow]; lu[abundant]
+#etcsl: line-id=17
+
+#etcsl#inc Ninazu A, 4.17.1
+
+18. ud huš gal
+#lem: ud[storm]; huš[reddish]; gal[big]
+#etcsl: line-id=18
+
+#etcsl#inc Inana A, 4.07.1
+
+19. u₂ sed₆ sed₆ HU
+#lem: u[plant(s)]; sed[cold]; sed[cold]; X
+#etcsl: line-id=19
+
+#etcsl#inc Dumuzid-Inana T, 4.08.20 (?)
+
+20. en me sag₂# nu-di
+#lem: en[lord]; me[Being]; sag[scatter]; di[speak]
+#etcsl: line-id=20
+
+#etcsl#inc Ibbi-Suen A, 2.4.5.1
+
+21. kug-ga-am₃ in-tu-ud
+#lem: kug[pure]; utud[give birth (to)]
+#etcsl: line-id=21
+
+#etcsl#inc Šu-Suen A, 2.4.4.1
+
+22. [...] X
+#lem: X; X
+#etcsl: line-id=22
+
+23. X [...] X GAL X X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=23
+
+24. X nam-til₃ ra-gaba
+#lem: X; namtil[life]; ragaba[rider]
+#etcsl: line-id=24
+
+25. u₂-šim saŋ nam-il₂
+#lem: ušim[greenery]; saŋ[head]; il[raise]
+#etcsl: line-id=25
+
+26. nin hi-li šu du₇
+#lem: nin[lady]; hili[attractiveness]; šu[hand]; du[perfect]
+#etcsl: line-id=26
+
+27. X ŋidru-a šu du₇
+#lem: X; ŋidru[scepter]; šu[hand]; du[perfect]
+#etcsl: line-id=27
+
+28. il₂-la il₂-la
+#lem: il[raise]; il[raise]
+#etcsl: line-id=28
+
+29. in-na-ab me-a
+#lem: Inab[1]SN; me[be]
+#etcsl: line-id=29
+
+#etcsl#inc The marriage of Martu, 1.7.1 (?)
+
+30. ŋiš ga-šub-šub
+#lem: ŋeš[tree]; šub[fall]
+#etcsl: line-id=30
+
+#etcsl#inc Ninurta D, 4.27.04
+
+31. šubur-e šu mu₂
+#lem: subur[slave]; šu[hand]; mu[grow]
+#etcsl: line-id=31
+
+#etcsl#inc Ninšubur B, 4.25.2
+
+32. lugal-ŋu₁₀ ud ug šu TU
+#lem: lugal[king]; ud[storm]; ug[lion]; šu[hand]; X
+#etcsl: line-id=32
+
+33. ur-saŋ ud gal-le-eš
+#lem: ursaŋ[warrior]; ud[sun]; gal[big]
+#etcsl: line-id=33
+
+#etcsl#inc Šu-Suen D, 2.4.4.4 (?)
+
+
+
+
+
+

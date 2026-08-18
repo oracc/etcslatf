@@ -1,0 +1,2092 @@
+&Q000821 = Proverbs: from Nibru
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.2.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.2.1&display=Crit&charenc=gcirc#
+
+@div version 1 (Ni 4166 (Alster 1997 pp. 293-294))
+
+@div segment A
+
+1.A.1. TUR X [...]
+#lem: X; X; X
+#etcsl: line-id=1.A.1
+
+1.A.2. kur KU X [...]
+#lem: kur[mountain(s)]; X; X; X
+#etcsl: line-id=1.A.2
+
+1.A.3. šu-ni [...]
+#lem: šu[hand]; X
+#etcsl: line-id=1.A.3
+
+1.A.4. ki sug₆-ga [...]
+#lem: ki[place]; sug[replace]; X
+#etcsl: line-id=1.A.4
+
+1.A.5. |MUNUS+X| MU X [...]
+#lem: X; X; X; X
+#etcsl: line-id=1.A.5
+
+1.A.6. ŋiri₃ niŋ₂-ŋiri₃# [...]
+#lem: ŋiri[foot]; niŋŋiri[go-between's fee]; X
+#etcsl: line-id=1.A.6
+
+1.A.7. ur-mah [...]
+#lem: urmah[lion]; X
+#etcsl: line-id=1.A.7
+
+1.A.8. X IGI X [...]
+#lem: X; X; X; X
+#etcsl: line-id=1.A.8
+
+1.A.9. nu-um-mi-[...]
+#lem: X
+#etcsl: line-id=1.A.9
+
+1.A.10. dam [...]
+#lem: dam[spouse]; X
+#etcsl: line-id=1.A.10
+
+1.A.11. X IM# [...]
+#lem: X; X; X
+#etcsl: line-id=1.A.11
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+1.B.1. X X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=1.B.1
+
+1.B.2. al-tar-zu gub-[...]
+#lem: altar[construction work]; gub[stand]
+#etcsl: line-id=1.B.2
+
+1.B.3. e₂ dirig-ga a-šag₄-ga KA [...]
+#lem: e[house]; dirig[make more than]; ašag[field]; X; X
+#etcsl: line-id=1.B.3
+
+1.B.4. ušumgal-e gaba gi₄ nu-BAD ah₆ X
+#lem: ušumgal[great dragon]; gaba[breast]; gi[turn]; X; ah[saliva]; X
+#etcsl: line-id=1.B.4
+
+1.B.5. e₂-a du₃-du₃-u₃
+#lem: e[house]; du[build]
+#etcsl: line-id=1.B.5
+
+1.B.6. |MAŠ+X| AMAŠ-e
+#lem: X; X
+#etcsl: line-id=1.B.6
+
+1.B.7. banšur GI kalag-ga-ka
+#lem: banšur[table]; X; kalag[strong]
+#etcsl: line-id=1.B.7
+
+1.B.8. za-pa-aŋ₂-bi-e
+#lem: zipaŋ[voice]
+#etcsl: line-id=1.B.8
+
+1.B.9. ur-mah nu-til ši-im-mu₂-e
+#lem: urmah[lion]; til[complete]; mu[grow]
+#etcsl: line-id=1.B.9
+
+1.B.10. gu₂ kaš₄ TAR-TAR SIKIL GI
+#lem: gu[neck]; kaš[run]; X; X; X
+#etcsl: line-id=1.B.10
+
+1.B.11. X IR-ra du₃-a
+#lem: X; X; du[build]
+#etcsl: line-id=1.B.11
+
+1.B.12. e₃ KU GI GAR₃# X X X DU# X X
+#lem: e[leave]; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=1.B.12
+
+1.B.13. KIŊ₂ DA dam-gara₃# im-us₂
+#lem: X; X; damgar[merchant]; us[accompany]
+#etcsl: line-id=1.B.13
+
+1.B.14. a e₂-gal-la am₃-e₃ X X
+#lem: a[water]; egal[palace]; e[leave]; X; X
+#etcsl: line-id=1.B.14
+
+1.B.15. [...] GAR₃ X X UM
+#lem: X; X; X; X; X
+#etcsl: line-id=1.B.15
+
+1.B.16. [...] X GA-ar
+#lem: X; X; X
+#etcsl: line-id=1.B.16
+
+1.B.17. [...] X
+#lem: X; X
+#etcsl: line-id=1.B.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+1.C.1. e₂-še₃ nu-DI-X X
+#lem: e[house]; X; X
+#etcsl: line-id=1.C.1
+
+1.C.2. iri#{ki} nu-ŋa₂-ŋa₂
+#lem: iri[city]; ŋar[put]
+#etcsl: line-id=1.C.2
+
+1.C.3. KUŠ HI {u₂}sas ga hi-iz{sar}-kam
+#lem: X; X; sas[grass]; ga[milk]; hiz[vegetable]
+#etcsl: line-id=1.C.3
+
+1.C.4. IM hi-a-da HI X MU [X X] X
+#lem: X; hi[mix (up)]; X; X; X; X; X; X
+#etcsl: line-id=1.C.4
+
+1.C.5. ad-KID gaba ud X šar₂
+#lem: ad.KID[basket weaver]; gaba[breast]; ud[storm]; X; šar[numerous]V/i
+#etcsl: line-id=1.C.5
+
+1.C.6. X [X X] X šar₂-šar₂
+#lem: X; X; X; X; šar[numerous]V/i
+#etcsl: line-id=1.C.6
+
+1.C.7. [...]-še₃ a₂ du₇-du₇
+#lem: X; a[arm]; du[push]
+#etcsl: line-id=1.C.7
+
+1.C.8. [...] X [...] niŋ₂-u₂#-[rum]
+#lem: X; X; X; niŋurum[property]
+#etcsl: line-id=1.C.8
+
+1.C.9. [...] X
+#lem: X; X
+#etcsl: line-id=1.C.9
+
+1.C.10. [...] DU [X X] GIM
+#lem: X; X; X; X; X
+#etcsl: line-id=1.C.10
+
+1.C.11. [...] NE
+#lem: X; X
+#etcsl: line-id=1.C.11
+
+1.C.12. [...] X X bi₂#-in-[...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=1.C.12
+
+1.C.13. [...] X
+#lem: X; X
+#etcsl: line-id=1.C.13
+
+@end segment
+
+@end version
+
+@div version 2 (N 4248 (Alster 1997 pp. 290-291))
+
+@div segment A
+
+2.A.1. [...] X
+#lem: X; X
+#etcsl: line-id=2.A.1
+
+2.A.2. [...]-ib#-KAL#
+#lem: X
+#etcsl: line-id=2.A.2
+
+2.A.3. [...] MUG# TUG₂-la-ke₄
+#lem: X; X; X
+#etcsl: line-id=2.A.3
+
+2.A.4. [...]-da bi₂-ib-BAD-e
+#lem: X; X
+#etcsl: line-id=2.A.4
+
+2.A.5. [...]-da mu-ni-hal-na
+#lem: X; hal[divide]
+#etcsl: line-id=2.A.5
+
+2.A.6. [...] la₂#-am₃
+#lem: X; la[hang]
+#etcsl: line-id=2.A.6
+
+2.A.7. [...] X ib#-pad₃-de₃
+#lem: X; X; pad[find]
+#etcsl: line-id=2.A.7
+
+2.A.8. [...]-mu-ub
+#lem: X
+#etcsl: line-id=2.A.8
+
+#etcsl#cf cf. Ni 9824 Seg. B ll. 3-5, 6.1.09.d4, 6.2.3: UET 6/2 315 ll. 10-13
+
+2.A.9. [kug-ŋa₂]-ke₄#-eš
+#lem: kug[metal]
+#etcsl: line-id=2.A.9
+
+2.A.10. [kug-sig₁₇]-ŋa₂#-ke₄-eš
+#lem: kugsig[gold]
+#etcsl: line-id=2.A.10
+
+2.A.11. [dub-šen]-ŋa₂-ke₄-eš
+#lem: dubšen[treasure chest]
+#etcsl: line-id=2.A.11
+
+2.A.12. [dub-šen-dilim₂]-ŋa₂-ke₄-eš
+#lem: dubšendilim[container]
+#etcsl: line-id=2.A.12
+
+2.A.13. [ŋe₂₆-e] ba-til-de₃-en-e-še
+#lem: ŋaʾe[I]; til[complete]
+#etcsl: line-id=2.A.13
+
+2.A.14. [...]-na#-dug₃-ga
+#lem: dug[good]
+#etcsl: line-id=2.A.14
+
+2.A.15. [...]-an#-gu₇-[e]
+#lem: gu[eat]
+#etcsl: line-id=2.A.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+2.B.1. [...] TE#
+#lem: X; X
+#etcsl: line-id=2.B.1
+
+2.B.2. [...] X
+#lem: X; X
+#etcsl: line-id=2.B.2
+
+2.B.3. [...]-kam#
+#lem: X
+#etcsl: line-id=2.B.3
+
+2.B.4. [...] X X
+#lem: X; X; X
+#etcsl: line-id=2.B.4
+
+2.B.5. [...] hur#-hur-re
+#lem: X; hur[scratch]
+#etcsl: line-id=2.B.5
+
+2.B.6. [...]-ke₄# an-ta
+#lem: X; an[sky]
+#etcsl: line-id=2.B.6
+
+2.B.7. [...] nin#-a-ne
+#lem: X; nin[lady]
+#etcsl: line-id=2.B.7
+
+2.B.8. [...]-en#
+#lem: X
+#etcsl: line-id=2.B.8
+
+2.B.9. [...]-ke₄#
+#lem: X
+#etcsl: line-id=2.B.9
+
+@end segment
+
+@end version
+
+@div version 3 (N 3395 (Alster 1997 pp. 288-290))
+
+@div segment A
+
+3.A.1. HI IM# KAR# [...]-RI#-RI-ne# {{%akk [...]}}
+#lem: X; X; X; X; L
+#etcsl: line-id=3.A.1
+
+3.A.2. ZI₂ du₈-bi-ib šukur₂ nu-ŋar-re {{%akk gi-im-[...]}}
+#lem: X; du[spread]; šukur[food allocation]; ŋar[put]; L
+#etcsl: line-id=3.A.2
+
+3.A.3. NA ZI₂ X BAD e-ri-in-nam {{%akk a-na %akk ša-hi-i-im %akk X %akk [...]}}
+#lem: X; X; X; X; X; L; L; L; L
+#etcsl: line-id=3.A.3
+
+3.A.4. di-bi-da an-ša₄-an{ki}-na {{%akk i-me-er %akk an-ša-ni-[im]}}
+#lem: dibida[donkey]; Anšan[1]GN; L; L
+#etcsl: line-id=3.A.4
+
+3.A.5. dim₃-šah₂ mar-ha-ši{ki} {{%akk ma-ar-gi₄ %akk pa-ra-ah-[ši]}}
+#lem: damšah[hippopotamus]; Marhaši[1]GN; L; L
+#etcsl: line-id=3.A.5
+
+3.A.6. gul-lum me-luh-ha{ki} {{%akk šu-ra-an %akk me-luh-[ha]}}
+#lem: gullum[cat (from Meluhha)]; Meluhha[1]; L; L
+#etcsl: line-id=3.A.6
+
+3.A.7. til-lu-ug sa₁₂-ti-um{ki} {{%akk pi-i-ir %akk ša-ad-di-[im]}}
+#lem: tillug[elephant]; Satium[1]GN; L; L
+#etcsl: line-id=3.A.7
+
+3.A.8. {ŋiš}asal₂ HI ga-raš{sar}-gin₇ šab-šab-e {{%akk ša %akk ṣa-ar-ba-tam %akk ki-ma# %akk ka#-[...] %akk i-ha-ra-[ṣu]}}
+#lem: asal[poplar]; X; garaš[leek]; šab[trim]; L; L; L; L; L
+#etcsl: line-id=3.A.8
+
+3.A.9. {ŋiš}al im-NI-sahar-a ŋar-ra {d}nin-kilim-ma iri-na {{%akk al-lum %akk ša %akk i-na %akk ṭi-dim %akk na-[du-u₂] %akk ši-ku-tu %akk a-[li-ša]}}
+#lem: al[hoe]; im.NI.sahar[type of clay]; ŋar[put]; ninkilim[mongoose]; iri[city]; L; L; L; L; L; L; L
+#etcsl: line-id=3.A.9
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+3.B.1. inim ŋar-ra MAŠ gur šag₄ edin-a {{%akk im %akk ṣa %akk a %akk pa %akk šum₂ %akk aš₂ %akk sa %akk ša %akk ṣe-[ri]}}
+#lem: inim[word]; ŋar[put]; n; gur[unit of capacity]; šag[heart]; eden[back]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.1
+
+3.B.2. [...] X UL en-gin₇ dab₅-ba {{%akk ki-ma %akk ka-aš-da-an-[...]}}
+#lem: X; X; X; en[lord]; dab[seize]; L; L
+#etcsl: line-id=3.B.2
+
+3.B.3. X X šu nu-us₂ {{%akk kam-ma-am %akk u₂-ul %akk <i>-ṣa-ab-ba-[at]}}
+#lem: X; X; šu[hand]; us[accompany]; L; L; L
+#etcsl: line-id=3.B.3
+
+3.B.4. [...] X ki nu-ši-la₂ {{%akk a-na %akk i-nim %akk u₂-ul %akk i-qa₂-[al]}}
+#lem: X; X; ki[place]; la[hang]; L; L; L; L
+#etcsl: line-id=3.B.4
+
+3.B.5. [ki]-in#-du-a al-hur {{%akk qa₂-aq-qa₂-ra-am %akk u₂-up-[...] %akk [...]}}
+#lem: kindu[earth]; hur[scratch]; L; L; L
+#etcsl: line-id=3.B.5
+
+3.B.6. {[f]}[kar]-ke₄ gi-dub HI IR BU sila šub {{%akk ha-ri-im-tum %akk ša %akk i-na %akk su₂-qi₃-im# %akk u₄ %akk mu %akk WA %akk tu %akk X}}
+#lem: karkid[prostitute]; gidubak[stylus]; X; X; X; sila[street]; šub[fall]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.6
+
+3.B.7. [...] X lu₂ šub-ba na-an-ŋar
+#lem: X; X; lu[person]; šub[fall]; ŋar[put]
+#etcsl: line-id=3.B.7
+
+3.B.8. [anše edin]-na#-gin₇ lul X ŋar-ra {{%akk ša %akk ki-ma %akk i-me-er %akk ṣe-ri %akk X %akk X %akk pi %akk ša-kan %akk X}}
+#lem: anše[equid]; eden[back]; lul[false]; X; ŋar[put]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.8
+
+3.B.9. [X X] BU KUN KA-na KA-KA ba-NIM-ma {{%akk ša-ri-u₂-um %akk ša %akk ka-ak-ka-šu %akk wa-ṣi-a %akk ša %akk X %akk [...]}}
+#lem: X; X; X; X; X; X; X; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.9
+
+3.B.10. [...] lahtan#-na |KA×X| ud šu₂-a {{%akk ša %akk i-na %akk la-ah-ta-nim %akk u₃ %akk hu-bu-[ri-im]}}
+#lem: X; lahtan[beer vat]; X; ud[sun]; šuš[cover]; L; L; L; L; L
+#etcsl: line-id=3.B.10
+
+3.B.11. [X X] X ki-umun₂ giri₁₇ šu du₈-a {{%akk ap-pa %akk ib-bir-ru %akk [...]}}
+#lem: X; X; X; kiʾumun[place of learning]; kiri[nose]; šu[hand]; du[spread]; L; L; L
+#etcsl: line-id=3.B.11
+
+3.B.12. [X X] e#-gi-ru-ne {{%akk ša %akk i-na %akk ab %akk pi-lum %akk ša %akk i-na %akk ir-[...] %akk X}}
+#lem: X; X; X; L; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.12
+
+3.B.13. [...] X E NE {{%akk šu %akk ni %akk X %akk gu %akk ši %akk X %akk mu %akk X %akk X %akk X}}
+#lem: X; X; X; X; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=3.B.13
+
+@end segment
+
+@end version
+
+@div version 4 (Ni 4469 (Alster 1997 pp. 295-296))
+
+@div segment A
+
+4.A.1. [...] he₂#-e-a
+#lem: X; me[be]
+#etcsl: line-id=4.A.1
+
+#etcsl#cf cf. 6.1.01.40, 6.1.19.f4
+
+4.A.2. [ninda-ni niŋ₂]-ussu!(IMIN)
+#lem: ninda[bread]; niŋmuzug[impure thing]
+#etcsl: line-id=4.A.2
+
+4.A.3. [... he₂]-am₃
+#lem: X; me[be]
+#etcsl: line-id=4.A.3
+
+4.A.4. [lu₂ nu-mu-un-šu₂]-šu₂!
+#lem: lu[person]; šuš[cover]
+#etcsl: line-id=4.A.4
+
+4.A.5. [...] dub#-ba-kam
+#lem: X; dub[tablet]
+#etcsl: line-id=4.A.5
+
+4.A.6. [...] X X DI
+#lem: X; X; X; X
+#etcsl: line-id=4.A.6
+
+4.A.7. [...]-bi
+#lem: X
+#etcsl: line-id=4.A.7
+
+4.A.8. [...] DI#
+#lem: X; X
+#etcsl: line-id=4.A.8
+
+4.A.9. si-mu-ur#-[ru-um i₃-dab₅] bad₃-bi [nu-un-gul]
+#lem: Simurrum[1]SN; dab[seize]; bad[wall]; gul[destroy]
+#etcsl: line-id=4.A.9
+
+#etcsl#cf cf. 6.1.03.31, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.1.25.4
+
+4.A.10. e₂-an-na [i₃-du₃] u₃-mu-un#-[šub]
+#lem: Eanak[1]TN; du[build]; šub[fall]
+#etcsl: line-id=4.A.10
+
+4.A.11. nam-lugal! [kalag-ga] igi nu-mu-ni-[du₈]
+#lem: namlugal[kingship]; kalag[strong]; igi[eye]; du[spread]
+#etcsl: line-id=4.A.11
+
+4.A.12. ur₅ na-an-na# [šag₄ sig-ga] kur-ra ba-ra#-[an-de₆]
+#lem: ur[that]; Nanni[1]RN; šag[heart]; sig[weak]; kur[mountain(s)]; de[carry]
+#etcsl: line-id=4.A.12
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+4.B.1. X X [...]
+#lem: X; X; X
+#etcsl: line-id=4.B.1
+
+4.B.2. [...] GIM# [...]
+#lem: X; X; X
+#etcsl: line-id=4.B.2
+
+4.B.3. [X X] GAN [...]
+#lem: X; X; X; X
+#etcsl: line-id=4.B.3
+
+4.B.4. A X KA [...]
+#lem: X; X; X; X
+#etcsl: line-id=4.B.4
+
+4.B.5. gabu₂-ba im-[...]
+#lem: gab[left (hand)]; X
+#etcsl: line-id=4.B.5
+
+4.B.6. ar₂-ar₂-e lu₂ [...]
+#lem: ar[ruin]; lu[person]; X
+#etcsl: line-id=4.B.6
+
+4.B.7. a-na-aš-am₃ saŋ X [...]
+#lem: anaš[why?]; saŋ[head]; X; X
+#etcsl: line-id=4.B.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+4.C.1. [...] SU
+#lem: X; X
+#etcsl: line-id=4.C.1
+
+4.C.2. [...] X-SU-SU
+#lem: X; X
+#etcsl: line-id=4.C.2
+
+4.C.3. [...] X
+#lem: X; X
+#etcsl: line-id=4.C.3
+
+@end segment
+
+@end version
+
+@div version 5 (Ni 13186 (Alster 1997 p. 297))
+
+@div segment A
+
+5.A.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=5.A.1
+
+5.A.2. [...] X ŊA₂ [...]
+#lem: X; X; X; X
+#etcsl: line-id=5.A.2
+
+5.A.3. [...]-kam NA [...]
+#lem: X; X; X
+#etcsl: line-id=5.A.3
+
+5.A.4. [...] X IG [...]
+#lem: X; X; X; X
+#etcsl: line-id=5.A.4
+
+5.A.5. [...] maš₂ šu [...]
+#lem: X; maš[goat]; šu[hand]; X
+#etcsl: line-id=5.A.5
+
+5.A.6. [...] X GA! AM₃ [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=5.A.6
+
+5.A.7. [...] X šu gid₂! [...]
+#lem: X; X; šu[hand]; gid[long]; X
+#etcsl: line-id=5.A.7
+
+#etcsl#cf cf. 6.1.13.27
+
+5.A.8. [...] 1/3 X [...]
+#lem: X; n; X; X
+#etcsl: line-id=5.A.8
+
+5.A.9. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=5.A.9
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+5.B.1. [...] lu₂# nu-[...]
+#lem: X; lu[person]; X
+#etcsl: line-id=5.B.1
+
+5.B.2. [...] lu₂# nu-me-en
+#lem: X; lu[person]; me[be]
+#etcsl: line-id=5.B.2
+
+#etcsl#cf cf. 6.1.01.95
+
+5.B.3. [...] TUR X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=5.B.3
+
+5.B.4. [...] X DU [...]
+#lem: X; X; X; X
+#etcsl: line-id=5.B.4
+
+5.B.5. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=5.B.5
+
+5.B.6. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=5.B.6
+
+@end segment
+
+@end version
+
+@div version 6 (Ni 9697 (Alster 1997 p. 297))
+
+@div segment A
+
+6.A.1. [...] DA SA [...]
+#lem: X; X; X; X
+#etcsl: line-id=6.A.1
+
+6.A.2. [...] GA NAM nu-[...]
+#lem: X; X; X; X
+#etcsl: line-id=6.A.2
+
+6.A.3. [...] mu#-na-ab-kiŋ₂
+#lem: X; kiŋ[seek]
+#etcsl: line-id=6.A.3
+
+6.A.4. [...] X gi₄-gi₄-da-ni
+#lem: X; X; gi[turn]
+#etcsl: line-id=6.A.4
+
+6.A.5. [...]-gin₇ e₂-a-na! ba-ra-an-gi
+#lem: X; e[house]; gi[turn]
+#etcsl: line-id=6.A.5
+
+6.A.6. [...] lu₂# gaba-ŋal₂
+#lem: X; lu[person]; gabaŋal[forceful]
+#etcsl: line-id=6.A.6
+
+6.A.7. [...] X šu im-ma-ab-gur
+#lem: X; X; šu[hand]; gur[turn]
+#etcsl: line-id=6.A.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+6.B.1. [...] im-ma-an-kud [X X]
+#lem: X; kud[cut]; X; X
+#etcsl: line-id=6.B.1
+
+6.B.2. [...]-an-tur₅-tur₅-de₃-en
+#lem: tur[ill]
+#etcsl: line-id=6.B.2
+
+6.B.3. [...] im-sam₂#
+#lem: X; sa[pay for]
+#etcsl: line-id=6.B.3
+
+6.B.4. [...] X ug₅
+#lem: X; X; ug[kill]
+#etcsl: line-id=6.B.4
+
+6.B.5. [...] X ba-an-du₈
+#lem: X; X; du[spread]
+#etcsl: line-id=6.B.5
+
+6.B.6. [...] X
+#lem: X; X
+#etcsl: line-id=6.B.6
+
+@end segment
+
+@end version
+
+@div version 7 (Ni 9824 (Alster 1997 p. 297))
+
+@div segment A
+
+7.A.1. [me-bi na-ab-ta-ab-ha-lam]-me-en-ze₂#-[en]
+#lem: me[Being]; halam[forsake]
+#etcsl: line-id=7.A.1
+
+#etcsl#cf cf. 6.1.02.1, 6.1.07.1, 6.2.3: UET 6/2 356 ll. 3-8
+
+7.A.2. [gud-de₃] ki-gub-bi na-ab#-[ta-ab-kur₂-ru]-de₃-en-ze₂#-[en]
+#lem: gud[bull]; kigub[station]; kur[different]
+#etcsl: line-id=7.A.2
+
+7.A.3. [gud] DU#-a {ŋiš#}tukul a-ab-am₃#
+#lem: gud[bull]; X; tukul[weapon]; aʾabak[sea]
+#etcsl: line-id=7.A.3
+
+#etcsl#cf cf. 6.1.02.83
+
+7.A.4. [a-a] igi# i-ni-bar nam-tar-ŋu₁₀ ba-[dib-ba]
+#lem: a[water]; igi[eye]; bar[place outside]; namtar[fate]; dib[pass]
+#etcsl: line-id=7.A.4
+
+#etcsl#cf cf. 6.1.02.4
+
+7.A.5. [X X] X X A X X [X X]
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=7.A.5
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+7.B.1. [...] X-še₃
+#lem: X; X
+#etcsl: line-id=7.B.1
+
+7.B.2. [...]-e#-a
+#lem: X
+#etcsl: line-id=7.B.2
+
+7.B.3. [...]-ke₄#-eš
+#lem: X
+#etcsl: line-id=7.B.3
+
+#etcsl#cf cf. N 4248 Seg. A ll. 8-13, 6.1.09.d4, 6.2.3: UET 6/2 315 ll. 10-13
+
+7.B.4. [...]-X-ke₄-eš
+#lem: X
+#etcsl: line-id=7.B.4
+
+7.B.5. [ŋe₂₆-e] ba#-am₃-til₃-la
+#lem: ŋaʾe[I]; til[complete]
+#etcsl: line-id=7.B.5
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+7.C.1. e₂-{[na₄]}[kinkin-na du₁₄ he₂-en-ŋal₂]
+#lem: ekinkin[mill]; dud[combat]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=7.C.1
+
+#etcsl#cf cf. 6.1.03.42, 6.1.22: ll. 278-279, 6.2.5: YBC 8713 l. 7
+
+7.C.2. geme₂ [niŋ₂ zuh-a]
+#lem: geme[female worker]; niŋ[thing]; zuh[steal]
+#etcsl: line-id=7.C.2
+
+7.C.3. he₂#-[em-ma-ab-ed₃-de₃]
+#lem: ed[go up]
+#etcsl: line-id=7.C.3
+
+@end segment
+
+@end version
+
+@div version 8 (Ni 9832 (Alster 1997 p. 297))
+
+@div segment A
+
+8.A.1. [...]-ba-ŋu₁₀
+#lem: X
+#etcsl: line-id=8.A.1
+
+8.A.2. [...] he₂#-a
+#lem: X; me[be]
+#etcsl: line-id=8.A.2
+
+8.A.3. [...] šag₄-ŋu₁₀
+#lem: X; šag[heart]
+#etcsl: line-id=8.A.3
+
+8.A.4. [...] X BU
+#lem: X; X; X
+#etcsl: line-id=8.A.4
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+8.B.1. X [...]
+#lem: X; X
+#etcsl: line-id=8.B.1
+
+8.B.2. ŋiri₃ [...]
+#lem: ŋiri[foot]; X
+#etcsl: line-id=8.B.2
+
+8.B.3. pad₃! IM [...]
+#lem: pad[find]; X; X
+#etcsl: line-id=8.B.3
+
+8.B.4. LUM TE X [...]
+#lem: X; X; X; X
+#etcsl: line-id=8.B.4
+
+8.B.5. šu-si bi₂#-[...]
+#lem: šusi[finger]; X
+#etcsl: line-id=8.B.5
+
+#etcsl#cf cf. 6.1.03.45, 6.1.07.43
+
+8.B.6. {na₄}kinkin bur₁₂#-[ra-gin₇]
+#lem: kinkin[small millstone]; bur[tear out]
+#etcsl: line-id=8.B.6
+
+8.B.7. al#-[du₇-du₇-du₇-de₃-en]
+#lem: du[push]
+#etcsl: line-id=8.B.7
+
+@end segment
+
+@end version
+
+@div version 9 (N 6119 (Alster 1997 p. 292) and N 4047 (Veldhuis 2000c fig. 8))
+
+9.1. [...] al#-gu₇ X X
+#lem: X; gu[eat]; X; X
+#etcsl: line-id=9.1
+
+9.2. [...] X A saŋ a-tar-zu nam-ŋu₁₀
+#lem: X; X; X; saŋ[head]; attar[derision]; anam[what]
+#etcsl: line-id=9.2
+
+9.3. X niŋ₂-kas₇-ŋu₁₀
+#lem: X; niŋkas[account]
+#etcsl: line-id=9.3
+
+9.4. [X X]-ab#-ak-e-še
+#lem: X; ak[do]
+#etcsl: line-id=9.4
+
+9.5. ud-da-tuš-a# ga-na 1(DIŠ)-am₃
+#lem: uddatuš[jester]; gana[come on!]; n
+#etcsl: line-id=9.5
+
+9.6. dug₄-ga-ab šu (1:ku₄-ku₄-ba:1) ib₂-ŋu₁₀
+#lem: dug[speak]; šu[hand]; kur[enter]; ib[hips]
+#etcsl: line-id=9.6
+
+:6v.1.1: ($N 4047 has instead:$) a₂-ba
+#lem: a[arm]
+
+9.7. 50 ma-na-am₃ ab-gu-ul-e-še
+#lem: n; mana[unit of weight]; gal[big]
+#etcsl: line-id=9.7
+
+9.8. ud-da-tuš-a ugu iri-ke₄ a-tar i₃-ak-e
+#lem: uddatuš[jester]; ugu[skull]; iri[city]; attar[derision]; ak[do]
+#etcsl: line-id=9.8
+
+9.9. ugu-ni a-tar mu-ni-ib-ak-e-eš
+#lem: ugu[skull]; attar[derision]; ak[do]
+#etcsl: line-id=9.9
+
+9.10. er₂ i₃-še₈-še₈
+#lem: er[tears]; šeš[weep]
+#etcsl: line-id=9.10
+
+@end version
+
+@div version 10 (Ni 3318 (Alster 1997 p. 293))
+
+@div segment A
+
+10.A.1. [...] X X [...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=10.A.1
+
+10.A.2. [ka₅-a šag₄] ba-ab-su# [...]
+#lem: kaʾa[fox]; šag[heart]; sud[distant]; X
+#etcsl: line-id=10.A.2
+
+#etcsl#cf cf. 6.1.02.59-60
+
+10.A.3. [ubur] ama-bi ba-an-had₂#
+#lem: ubur[breast]; ama[mother]; ah[dry]
+#etcsl: line-id=10.A.3
+
+10.A.4. [ka₅-a ama]-bi X X
+#lem: kaʾa[fox]; ama[mother]; X; X
+#etcsl: line-id=10.A.4
+
+10.A.5. [...]-dirig
+#lem: dirig[make more than]
+#etcsl: line-id=10.A.5
+
+10.A.6. [ka₅-a] ŋeštug₂#-bi X [...]
+#lem: kaʾa[fox]; ŋeštug[ear]; X; X
+#etcsl: line-id=10.A.6
+
+#etcsl#cf cf. 6.1.02.61, 6.2.5: P 374
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+10.B.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=10.B.1
+
+10.B.2. [...] LA₂ ZU [...]
+#lem: X; X; X; X
+#etcsl: line-id=10.B.2
+
+10.B.3. [...] šag₄#-ta# [...]
+#lem: X; šag[heart]; X
+#etcsl: line-id=10.B.3
+
+10.B.4. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=10.B.4
+
+@end segment
+
+@end version
+
+@div version 11 (Ni 4338 + 4340 (Alster 1997 pp. 294-295))
+
+11.1. [...] mu#-un#-[...]
+#lem: X; X
+#etcsl: line-id=11.1
+
+11.2. [...]-ni igi u₃-bi₂-in-du₈#
+#lem: X; igi[eye]; du[spread]
+#etcsl: line-id=11.2
+
+11.3. [...]-na genna a-ba i₃-in-X X
+#lem: X; genna[(young) child]; aba[who?]; X; X
+#etcsl: line-id=11.3
+
+11.4. [...] MU# A nu-me-[a]
+#lem: X; X; X; me[be]
+#etcsl: line-id=11.4
+
+11.5. [...] mu-un-il₂-en-e-[še]
+#lem: X; il[raise]
+#etcsl: line-id=11.5
+
+11.6. [...] IR dur₂-ru šu-ni ma-an-[...] X
+#lem: X; X; dur[buttocks]; šu[hand]; X; X
+#etcsl: line-id=11.6
+
+11.7. [...] X-mu-de₃-en a-na-gin₇-nam ga-ab#-[...]
+#lem: X; X; anagin[how?]; X
+#etcsl: line-id=11.7
+
+11.8. [...] mu#-ra-ab-kal-[la-ge ...]
+#lem: X; kalag[strong]; X
+#etcsl: line-id=11.8
+
+11.9. [... mu-ra]-ab-kal-la-ge [X X]
+#lem: X; kalag[strong]; X; X
+#etcsl: line-id=11.9
+
+11.10. [...] X MU NE-NE X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=11.10
+
+@end version
+
+@div version 12 (Ni 4122 (Alster 1997 p. 293))
+
+12.1. KU NE [...]
+#lem: X; X; X
+#etcsl: line-id=12.1
+
+12.2. ah uš₇ sahar nu-[gi₄-a]
+#lem: ah[saliva]; uš[poison]; sahar[soil]; gi[turn]
+#etcsl: line-id=12.2
+
+#etcsl#cf cf. 6.1.03.8
+
+12.3. eme! ak an-bar₇# [an-dul₃ nu-ŋa₂-ŋa₂]
+#lem: eme[tongue]; ak[do]; anbar[mid-day]; andul[shade]; ŋar[put]
+#etcsl: line-id=12.3
+
+12.4. gu₂ urin gal-la [...]
+#lem: gu[neck]; urin[standard]; gal[big]; X
+#etcsl: line-id=12.4
+
+12.5. X niŋ₂-gig {d}[...]
+#lem: X; niŋgig[evil]; X[1]DN
+#etcsl: line-id=12.5
+
+12.6. [...] X MA₂ PAD X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=12.6
+
+12.7. [...] GAR X [...]
+#lem: X; X; X; X
+#etcsl: line-id=12.7
+
+12.8. [...] X NI [...]
+#lem: X; X; X; X
+#etcsl: line-id=12.8
+
+12.9. [...] X MI [...]
+#lem: X; X; X; X
+#etcsl: line-id=12.9
+
+@end version
+
+@div version 13 (Ni 4300 (Alster 1997 p. 294))
+
+@div segment A
+
+13.A.1. [...] AB# X IN X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=13.A.1
+
+13.A.2. [...] MU# X-e [...]
+#lem: X; X; X; X
+#etcsl: line-id=13.A.2
+
+13.A.3. [...] X X UD NE X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=13.A.3
+
+13.A.4. [nam-tar-ŋu₁₀ gu₃-nam] ama-ŋu₁₀ mu-da-[kur₂]
+#lem: namtar[fate]; gu[voice]; ama[mother]; kur[different]
+#etcsl: line-id=13.A.4
+
+#etcsl#cf cf. 6.1.02.6
+
+13.A.5. [...] X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=13.A.5
+
+13.A.6. [...] X ba-an-X [...]
+#lem: X; X; X; X
+#etcsl: line-id=13.A.6
+
+13.A.7. [...] X ZA GA DU ma-an#-[...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=13.A.7
+
+13.A.8. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=13.A.8
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+13.B.1. [...]-me#-en [...]
+#lem: X; X
+#etcsl: line-id=13.B.1
+
+@end segment
+
+@end version
+
+@div version 14 (Ni 5327 (Alster 1997 pp. 296-297))
+
+14.1. u₅-munu₄{mušen} [...]
+#lem: hamun[bird]; X
+#etcsl: line-id=14.1
+
+#etcsl#cf cf. 6.2.3: UET 6/2 247
+
+14.2. tilla₂ [...]
+#lem: tilla[street]; X
+#etcsl: line-id=14.2
+
+14.3. u₅-munu₄{mušen} GI [...]
+#lem: hamun[bird]; X; X
+#etcsl: line-id=14.3
+
+14.4. X-ŋu₁₀ he₂-X [...]
+#lem: X; X; X
+#etcsl: line-id=14.4
+
+14.5. KA# UN# du₃ [...]
+#lem: X; X; du[build]; X
+#etcsl: line-id=14.5
+
+14.6. e#-ne# ZI₂# DUG# X [...]
+#lem: ane[he]; X; X; X; X
+#etcsl: line-id=14.6
+
+14.7. X u₅-munu₄{mušen} [...]
+#lem: X; hamun[bird]; X
+#etcsl: line-id=14.7
+
+14.8. ki lu₂ am₃-[...]
+#lem: ki[place]; lu[person]; X
+#etcsl: line-id=14.8
+
+14.9. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=14.9
+
+@end version
+
+@div version 15 (Ni 4099 (Alster 1997 p. 293))
+
+15.1. [...] X TUG₂ TAR-TAR# X X X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=15.1
+
+15.2. [...] aŋ₂ erin₂-bi ŋuruš X [...]
+#lem: X; aŋ[measure]; erin[people]; ŋuruš[young adult male]; X; X
+#etcsl: line-id=15.2
+
+15.3. [...] X ŊA₂ ME MA₂ X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=15.3
+
+15.4. [...] X-bi X-e# [...]
+#lem: X; X; X; X
+#etcsl: line-id=15.4
+
+15.5. [...] KA GAM X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=15.5
+
+15.6. [...] X-bi ZUM KAL [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=15.6
+
+15.7. [...] za-e X [...]
+#lem: X; zaʾe[you]; X; X
+#etcsl: line-id=15.7
+
+15.8. [...] za-a-[...]
+#lem: X; zaʾe[you]
+#etcsl: line-id=15.8
+
+@end version
+
+@div version 16 (N 3059 (Alster 1997 p. 430))
+
+16.1. [...] A# X ZU lu₂ na-me nu-ub-tuku
+#lem: X; X; X; X; lu[person]; name[any]; tuku[acquire]
+#etcsl: line-id=16.1
+
+16.2. [...] X ab-dab₅-be₂
+#lem: X; X; dab[seize]
+#etcsl: line-id=16.2
+
+16.3. [...] dam# teš₂-tuku lugal zu-a
+#lem: X; dam[spouse]; teštuku[proud]; lugal[king]; zu[know]
+#etcsl: line-id=16.3
+
+16.4. [... ga]-ba#-al ba-an-du₃-e
+#lem: X; gabal[fight]; du[build]
+#etcsl: line-id=16.4
+
+16.5. [...] ab-kud-de₃#
+#lem: X; kud[cut]
+#etcsl: line-id=16.5
+
+16.6. [...] i-ni-in-[...] X
+#lem: X; X; X
+#etcsl: line-id=16.6
+
+16.7. [...] X IN [X X]
+#lem: X; X; X; X; X
+#etcsl: line-id=16.7
+
+@end version
+
+@div version 17 (N 5225 (Alster 1997 pp. 291-292))
+
+17.1. X al-ur₁₁-ru gur nu-um-da-X-X-e
+#lem: X; uru[sow]; gur[unit of capacity]; X
+#etcsl: line-id=17.1
+
+17.2. lu₂-tur-re ga-ba-al mu-ni-in-du₃-uš-a
+#lem: lutur[child]; gabal[fight]; du[build]
+#etcsl: line-id=17.2
+
+17.3. lu₂ gu-la du₁₄ ha-ra-ni-ib-mu₂-mu₂
+#lem: lu[person]; gal[big]; dud[combat]; mu[grow]
+#etcsl: line-id=17.3
+
+17.4. lu₂-tur-re ama-ni ki an-aŋ₂
+#lem: lutur[child]; ama[mother]; ki[place]; aŋ[measure]
+#etcsl: line-id=17.4
+
+17.5. šeš-gal šeš-gal# [...]-da#
+#lem: šešgal[kinship term]; šešgal[kinship term]; X
+#etcsl: line-id=17.5
+
+17.6. lu₂ nesaŋ-ke₄ nesaŋ ŋen-na-ke₄ [X X]
+#lem: lu[person]; nesaŋ[first-fruit offering]; nesaŋ[first-fruit offering]; ŋen[go]; X; X
+#etcsl: line-id=17.6
+
+17.7. LUL# KU# [X X X X] X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=17.7
+
+@end version
+
+@div version 18 (Ni 9829 (Alster 1997 p. 297))
+
+18.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=18.1
+
+18.2. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=18.2
+
+18.3. [...] nam# am₃-mi-ni-[...]
+#lem: X; nam[fate]; X
+#etcsl: line-id=18.3
+
+18.4. [...] X kur₂-ra [...]
+#lem: X; X; kur[different]; X
+#etcsl: line-id=18.4
+
+18.5. [...] X AN NI X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=18.5
+
+18.6. [...] X mu-ra#-[...]
+#lem: X; X; X
+#etcsl: line-id=18.6
+
+18.7. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=18.7
+
+@end version
+
+@div version 19 (Ni 5271 (Alster 1997 p. 296))
+
+19.1. [...] X ME# X [...] X tum₃-tum₃
+#lem: X; X; X; X; X; X; tum[carry]
+#etcsl: line-id=19.1
+
+19.2. [...] X-ni am₃-zur-re
+#lem: X; X; zur[roil]
+#etcsl: line-id=19.2
+
+19.3. [...] ur₅# in-da-ur₅
+#lem: X; ur[smell]; ur[smell]
+#etcsl: line-id=19.3
+
+19.4. [...] ur₅ kisim gu-du-ka
+#lem: X; ur[smell]; kisim[sour milk]; gudu[buttocks]
+#etcsl: line-id=19.4
+
+19.5. [...] TU# ur₅-ra tud-da
+#lem: X; X; ura[interest-bearing loan]; utud[give birth (to)]
+#etcsl: line-id=19.5
+
+19.6. [...] izi-ka nu₂
+#lem: X; izi[fire]; nud[lie down]
+#etcsl: line-id=19.6
+
+@end version
+
+@div version 20 (N 7577 + N 7578 (Veldhuis 2000c fig. 10))
+
+20.1. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=20.1
+
+20.2. [...] X šu nu-u₂-X [...]
+#lem: X; X; šu[hand]; X; X
+#etcsl: line-id=20.2
+
+20.3. [...] šag₄# diŋir-ŋa₂ ba-X [...]
+#lem: X; šag[heart]; diŋir[deity]; X; X
+#etcsl: line-id=20.3
+
+20.4. [...] DIM-DIM DA# [...]
+#lem: X; X; X; X
+#etcsl: line-id=20.4
+
+20.5. [...] X X NE šu ZI [...]
+#lem: X; X; X; X; šu[hand]; X; X
+#etcsl: line-id=20.5
+
+@end version
+
+@div version 21 (Ni 3981 (Alster 1997 p. 293))
+
+21.1. sizkur₂#-re nam-til₃-ni X [i₃]-u₃#-tud
+#lem: siškur[prayer]; namtil[life]; X; utud[give birth (to)]
+#etcsl: line-id=21.1
+
+21.2. me-a# [X X] X-ze₂-en
+#lem: mea[where?]; X; X; X
+#etcsl: line-id=21.2
+
+21.3. me-a igi X X X-en
+#lem: mea[where?]; igi[eye]; X; X; X
+#etcsl: line-id=21.3
+
+21.4. dumu lu₂ niŋ₂-si-sa₂ u₂-šim-e ba-nu₂
+#lem: dumu[child]; lu[person]; niŋsisa[justice]; išim[hunger]; nud[lie down]
+#etcsl: line-id=21.4
+
+21.5. ZA X X [...] KA# [...] X
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=21.5
+
+@end version
+
+@div version 22 (CBS 12666 (Veldhuis 2000c fig. 3))
+
+22.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=22.1
+
+22.2. [...] X EN X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=22.2
+
+22.3. [...] UG# X [...]
+#lem: X; X; X; X
+#etcsl: line-id=22.3
+
+22.4. [...] ba-an-ug₅ [...]
+#lem: X; ug[kill]; X
+#etcsl: line-id=22.4
+
+@end version
+
+@div version 23 (N 1905 (Alster 1997 pl. 114))
+
+23.1. [...]-en#-ze₂#-[...]
+#lem: X
+#etcsl: line-id=23.1
+
+23.2. [...] TU-e gul-lu X
+#lem: X; X; gul[destroy]; X
+#etcsl: line-id=23.2
+
+23.3. [...] X-e ba-an-de₆
+#lem: X; X; de[carry]
+#etcsl: line-id=23.3
+
+23.4. [...] šag₄ ba-an-de₆
+#lem: X; šag[heart]; de[carry]
+#etcsl: line-id=23.4
+
+@end version
+
+@div version 24 (N 3884 (Veldhuis 2000c fig. 7))
+
+24.1. [...] kar₂
+#lem: X; kar[blow]
+#etcsl: line-id=24.1
+
+24.2. [...]-GA#-GA
+#lem: X
+#etcsl: line-id=24.2
+
+24.3. [...] lil₂-la₂
+#lem: X; lil[ghost]
+#etcsl: line-id=24.3
+
+24.4. [...]-sa₄#-a-me-en
+#lem: še[call by name]
+#etcsl: line-id=24.4
+
+@end version
+
+@div version 25 (CBS 14213 (Alster 1997 p. 304))
+
+25.1. a₂ aŋ₂-ŋa₂ 1(DIŠ)-am₃ mu-e-[...]
+#lem: a[arm]; aŋ[measure]; n; X
+#etcsl: line-id=25.1
+
+25.2. šag₄-zu ga-bi₂-ib-dug₃
+#lem: šag[heart]; dug[good]
+#etcsl: line-id=25.2
+
+25.3. nam-a₂-ŋal₂-ŋu₁₀ ga-e#-[...]
+#lem: namaŋal[strength]; X
+#etcsl: line-id=25.3
+
+@end version
+
+@div version 26 (IM 58660 = 3N-T 731 (Alster 1997 p. 305))
+
+26.1. nu-mu-un-su dam-egir-ra-ni na-ab-be₂-a
+#lem: numunkuš[widow]; damegir[secondary wife]; e[speak]
+#etcsl: line-id=26.1
+
+26.2. a-na nu-mu-un-su-a-me-eš
+#lem: ana[what?]; numunkuš[widow]
+#etcsl: line-id=26.2
+
+26.3. dam# nitalam in-nu
+#lem: dam[spouse]; ŋidlam[(equal ranking) spouse]; nu[not]
+#etcsl: line-id=26.3
+
+@end version
+
+@div version 27 (N 4909 (Veldhuis 2000c fig. 9))
+
+27.1. X X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=27.1
+
+27.2. lu₂# niŋ₂ gur-ra-ka# [...]
+#lem: lu[person]; niŋ[thing]; gur[turn]; X
+#etcsl: line-id=27.2
+
+27.3. KA-na am₃-[...]
+#lem: X; X
+#etcsl: line-id=27.3
+
+@end version
+
+@div version 28 (N 5569 (Veldhuis 2000c p. 395))
+
+28.1. sig₉-ga-ar nam-ba-an-na-kur₂ [...]
+#lem: sig[weak]; kur[different]; X
+#etcsl: line-id=28.1
+
+28.2. kalag-ga-ar nam-ba-an-še₈-še₈#
+#lem: kalag[strong]; šeš[weep]
+#etcsl: line-id=28.2
+
+28.3. gašam-še₃ a₂-ni X
+#lem: gašam[knowing]; a[arm]; X
+#etcsl: line-id=28.3
+
+@end version
+
+@div version 29 (CBS 3811 (Alster 1997 p. 303))
+
+29.1. gud sa ab-kud-kud
+#lem: gud[bull]; sa[sinew]; kud[cut]
+#etcsl: line-id=29.1
+
+29.2. {ŋiš}šudul-a nu₂-nu₂
+#lem: šudul[yoke]; nud[lie down]
+#etcsl: line-id=29.2
+
+@end version
+
+@div version 30 (CBS 5971 (Alster 1997 pl. 114))
+
+30.1. [...] X X-e
+#lem: X; X; X
+#etcsl: line-id=30.1
+
+30.2. [...] X in-naŋ
+#lem: X; X; naŋ[drink]
+#etcsl: line-id=30.2
+
+@end version
+
+@div version 31 (CBS 7968 (Alster 1997 p. 303))
+
+31.1. mu {d}gu-la nin-ŋa₂-še₃! šub-ba
+#lem: mu[name]; Gula[1]DN; nin[lady]; šub[fall]
+#etcsl: line-id=31.1
+
+31.2. ŋe₂₆-e igi-ŋa₂ ki-gub-ba nu-tuku-a
+#lem: ŋaʾe[I]; igi[eye]; kigub[station]; tuku[acquire]
+#etcsl: line-id=31.2
+
+@end version
+
+@div version 32 (IM 58400 = 3N-T 242 (Alster 1997 p. 304))
+
+32.1. e₂ lu₂-ka {im}šu-rin-na na-an-sar-re
+#lem: e[house]; lu[person]; šurin[oven]; sar[smoke]
+#etcsl: line-id=32.1
+
+32.2. ninda-bi i₃-bi₂ TAR#
+#lem: ninda[bread]; ibi[smoke]; X
+#etcsl: line-id=32.2
+
+@end version
+
+@div version 33 (N 6194 (Alster 1997 p. 304))
+
+33.1. ŋen za-e dumu-me-e-ke₄
+#lem: ŋen[go]; zaʾe[you]; dumu[child]
+#etcsl: line-id=33.1
+
+33.2. za-e nu-me-en-na-ta
+#lem: zaʾe[you]; e[speak]
+#etcsl: line-id=33.2
+
+@end version
+
+@div version 34 (UM 55-21-38 = 2N-T 172 (Alster 1997 p. 305))
+
+34.1. an-na ba-an-DU
+#lem: an[sky]; X
+#etcsl: line-id=34.1
+
+34.2. an-na ba-an-zig₃
+#lem: an[sky]; zig[rise]
+#etcsl: line-id=34.2
+
+@end version
+
+@div version 35 (UM 55-21-278 = 3N-T 179 (Alster 1997 p. 305))
+
+35.1. ka₅-a zu₂ bi₂-in-sud₂-sud₂
+#lem: kaʾa[fox]; zu[tooth]; sud[grind]
+#etcsl: line-id=35.1
+
+35.2. saŋ nam-mi-bul-bul
+#lem: saŋ[head]; bul[shake]
+#etcsl: line-id=35.2
+
+@end version
+
+@div version 36 (3N-T 232 + 244 (Alster 1997 p. 304))
+
+36.1. pa₅ {ŋiš}kiri₆-ke₄ a na-an-tum₃
+#lem: par[(small) canal]; kiri[(fruit) plantation]; a[water]; tum[bring]
+#etcsl: line-id=36.1
+
+36.2. niŋ₂-ki i₃-ŋal₂
+#lem: niŋki[herd of (wild) animals]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=36.2
+
+@end version
+
+@div version 37 (CBS 6551 (Alster 1997 p. 303))
+
+37.1. gud-ŋu₁₀ ga mu-ra-ab-tum₂-tum₂-e
+#lem: gud[bull]; ga[milk]; tum[bring]
+#etcsl: line-id=37.1
+
+@end version
+
+@div version 38 (CBS 7867 (Alster 1997 p. 303))
+
+38.1. lu₂# še-ŋeš-i₃ gu₇-a-gin₇ [bid₃]-da#-ni an-dur₂
+#lem: lu[person]; šeŋeši[sesame seed]; gu[eat]; bed[anus]; dur[sit]
+#etcsl: line-id=38.1
+
+@end version
+
+@div version 39 (CBS 11372 (Alster 1997 p. 304))
+
+39.1. dug₄#-ga-dug₄-ga šag₄ lu₂-ulu₃-kam ŋal₂-la
+#lem: dug[speak]; šag[heart]; lulu[man]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=39.1
+
+@end version
+
+@div version 40 (N 2182 (Veldhuis 2000c fig. 5))
+
+40.1. [...]-bi RI saŋ MU NI X [...]
+#lem: X; X; saŋ[head]; X; X; X; X
+#etcsl: line-id=40.1
+
+@end version
+
+@div version 41 (N 5925 (Alster 1997 p. 304))
+
+41.1. ninda-ni šah₂-ta šu ur₃ am₃-me
+#lem: ninda[bread]; šah[pig]; šu[hand]; ur[drag]; dug[speak]
+#etcsl: line-id=41.1
+
+@end version
+
+@div version 42 (UM 29-16-394 (Alster 1997 p. 305))
+
+42.1. lugal iri šag₄-ge pad₃-da# he₂-til₃
+#lem: lugal[king]; iri[city]; šag[heart]; pad[find]; til[live (of a single person)]
+#etcsl: line-id=42.1
+
+@end version
+
+@div version 43 (3N-T 161 (Alster 1997 p. 304))
+
+43.1. me-zu nu-mu-zu
+#lem: me[Being]; zu[know]
+#etcsl: line-id=43.1
+
+@end version
+
+@div version 44 (3N-T 772 = TIM 10/1 132 (Alster 1997 p. 305))
+
+44.1. gud si gal-gal-zu ma-ra-an-gi₄-gi₄-de₃
+#lem: gud[bull]; si[horn]; gal[big]; gi[turn]
+#etcsl: line-id=44.1
+
+@end version
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@h1 Ni 4166 (Alster 1997 pp. 293-294)
+
+
+@(1.A.1 = 1-3)  @gap{2 lines fragmentary}  …… his hand …….
+
+@(1.A.4 = 4-11)  @gap{2 lines fragmentary}  …… the go-between's fee …… lion ……  @gap{1 line fragmentary}  …… not …… wife ……  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(1.B.1 = 1-2) Get on with (?) your assigned work!
+
+@(1.B.3 = 3-9) …… more than a house …… field ……. The dragon doesn't …… its rival. In building a house ……  @gap{1 line fragmentary}  …… of the strong man. …… its roar, the lion won't cease …….
+
+@(1.B.10 = 10-13)  @gap{3 lines fragmentary}  …… follow the merchant.
+
+@(1.B.14 = 14-17) The palace's water is coming out …….  @gap{3 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(1.C.1 = 1-2) …… not …… to the house. He will not found a city.
+
+@(1.C.3 = 3-4) …… meadow grass is the milk of a lettuce.  @gap{1 line fragmentary} 
+
+@(1.C.5 = 5-6) A reed worker …… the breast of a storm …… are many.
+
+@(1.C.7 = 7) …… butting against …….
+
+@(1.C.8 = 8-13)  @gap{6 lines fragmentary} 
+
+
+
+@h1 N 4248 (Alster 1997 pp. 290-291)
+
+
+@(2.A.1 = 1-2)  @gap{2 lines fragmentary} 
+
+@(2.A.3 = 3-7)  @gap{5 lines fragmentary} 
+
+@(2.A.8 = 8-13) @note{cf. @xref[t.6.2.1,]{Ni 9824 Seg. B ll. 3-5}, @xref[t.6.1.09,t.6.1.09.d4]{6.1.09.d4}, @xref[t.6.2.3,]{6.2.3: UET 6/2 315 ll. 10-13}}  @gap{1 line fragmentary}  Because of my silver, because of my gold, because of my money chest, because of my …… chest, I am finished.
+
+@(2.A.14 = 14-15) …… good …… eat …….  @gap{unknown no. of lines missing} 
+
+
+@(2.B.1 = 1)  @gap{1 line fragmentary} 
+
+@(2.B.2 = 2-3)  @gap{2 lines fragmentary} 
+
+@(2.B.4 = 4-9)  @gap{6 lines fragmentary} 
+
+
+
+@h1 N 3395 (Alster 1997 pp. 288-290)
+
+
+@(3.A.1 = 1-3)  @gap{1 line unclear}  Release the ……! He will not provide the food supply.  @gap{1 line unclear} 
+
+@(3.A.4 = 4-8) The donkey of @wSN{Anšan}, the bear (?) of @wGN{Marḫaši}, the cat of @wSN{Meluḫa}, the elephant of the eastern mountains, bite off Euphrates poplars as if they were leeks.
+
+@(3.A.9 = 9) A pickaxe put in the …… clay is a mongoose in its city.  @gap{unknown no. of lines missing} 
+
+
+@(3.B.1 = 1-2) In a complaint, half a @fsux{gur} from the desert …… seized like a lord …….
+
+@(3.B.3 = 3-5) He cannot …… in his hand. He does not listen ……. He scratches on the ground.
+
+@(3.B.6 = 6-7) A courtesan who …… in the streets …… doesn't give …… to a fallen man.
+
+@(3.B.8 = 8-9) Like a wild ass which has put …….  @gap{1 line fragmentary} 
+
+@(3.B.10 = 10-11) He who rubbed (?) his nose against a beer vat or a large beer container (?) …….
+
+@(3.B.12 = 12-13)  @gap{2 lines fragmentary} 
+
+
+
+@h1 Ni 4469 (Alster 1997 pp. 295-296)
+
+
+@(4.A.1 = 1-4) @note{cf. @xref[t.6.1.01,t.6.1.01.40]{6.1.01.40}, @xref[t.6.1.19,t.6.1.19.f4]{6.1.19.f4}} Let …… be ……. Let his bread be foul food. No man should eat it.
+
+@(4.A.5 = 5)  @gap{1 line fragmentary} 
+
+@(4.A.6 = 6-8)  @gap{3 lines fragmentary} 
+
+@(4.A.9 = 9-12) @note{cf. @xref[t.6.1.03,t.6.1.03.31]{6.1.03.31}, @xref[t.6.1.09,t.6.1.09.b1]{6.1.09.b1}, @xref[t.6.1.11,t.6.1.11.18]{6.1.11.18}, @xref[t.6.1.15,t.6.1.15.b8]{6.1.15.b8}, @xref[t.6.1.25,t.6.1.25.4]{6.1.25.4}} He captured @wSN{Simurrum} but did not destroy its walls. He built @wTN{E-ana} but then abandoned it. He did not see mighty kingship. Thus @wRN{Nanni} was carried off to the nether world despondent.  @gap{unknown no. of lines missing} 
+
+
+@(4.B.1 = 1)  @gap{1 line fragmentary} 
+
+@(4.B.2 = 2-3)  @gap{2 lines fragmentary} 
+
+@(4.B.4 = 4-5)  @gap{2 lines fragmentary} 
+
+@(4.B.6 = 6) …… someone …… the mounds.
+
+@(4.B.7 = 7) Why ……?  @gap{unknown no. of lines missing} 
+
+
+@(4.C.1 = 1-3)  @gap{3 lines fragmentary} 
+
+
+
+@h1 Ni 13186 (Alster 1997 p. 297)
+
+
+@(5.A.1 = 1)  @gap{1 line fragmentary} 
+
+@(5.A.2 = 2-3)  @gap{2 lines fragmentary} 
+
+@(5.A.4 = 4)  @gap{1 line fragmentary} 
+
+@(5.A.5 = 5-6)  @gap{2 lines fragmentary} 
+
+@(5.A.7 = 7-8) @note{cf. @xref[t.6.1.13,t.6.1.13.27]{6.1.13.27}} …… accept …… one-third …….
+
+@(5.A.9 = 9)  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(5.B.1 = 1) …… no-one …….
+
+@(5.B.2 = 2) @note{cf. @xref[t.6.1.01,t.6.1.01.95]{6.1.01.95}} …… you are not a man.
+
+@(5.B.3 = 3)  @gap{1 line fragmentary} 
+
+@(5.B.4 = 4-5)  @gap{2 lines fragmentary} 
+
+@(5.B.6 = 6)  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 9697 (Alster 1997 p. 297)
+
+
+@(6.A.1 = 1)  @gap{1 line fragmentary} 
+
+@(6.A.2 = 2)  @gap{1 line fragmentary} 
+
+@(6.A.3 = 3) …… seek out …….
+
+@(6.A.4 = 4) On his returning …….
+
+@(6.A.5 = 5) Like a …… he won't return to his house.
+
+@(6.A.6 = 6) …… a strong man.
+
+@(6.A.7 = 7) …… he rolled …….  @gap{unknown no. of lines missing} 
+
+
+@(6.B.1 = 1-2) …… cut it …… you will be ill.
+
+@(6.B.3 = 3-4) …… bought ……. …… dead …….
+
+@(6.B.5 = 5-6) …… open ……  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 9824 (Alster 1997 p. 297)
+
+
+@(7.A.1 = 1-2) @note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}, @xref[t.6.1.07,t.6.1.07.1]{6.1.07.1}, @xref[t.6.2.3,]{6.2.3: UET 6/2 356 ll. 3-8}} You should not eradicate their place in the universe. You should not move the oxen from their places!
+
+@(7.A.3 = 3) @note{cf. @xref[t.6.1.02,t.6.1.02.83]{6.1.02.83}} An ox is walking around (?); a mace is …….
+
+@(7.A.4 = 4) @note{cf. @xref[t.6.1.02,t.6.1.02.4]{6.1.02.4}} I looked into the water. My destiny was drifting past.
+
+@(7.A.5 = 5)  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(7.B.1 = 1-2)  @gap{2 lines fragmentary} 
+
+@(7.B.3 = 3-5) @note{cf. @xref[t.6.1.02,]{N 4248 Seg. A ll. 8-13}, @xref[t.6.1.09,t.6.1.09.d4]{6.1.09.d4}, @xref[t.6.2.3,]{6.2.3: UET 6/2 315 ll. 10-13}} …… because of ……. …… because of …… I am finished.  @gap{unknown no. of lines missing} 
+
+
+@(7.C.1 = 1-3) @note{cf. @xref[t.6.1.03,t.6.1.03.42]{6.1.03.42}, @xref[t.6.1.22,]{6.1.22: ll. 278-279}, @xref[t.6.2.5,]{6.2.5: YBC 8713 l. 7}} If there is a dispute at the mill, a slave girl reveals (?) what she has stolen.
+
+
+
+@h1 Ni 9832 (Alster 1997 p. 297)
+
+
+@(8.A.1 = 1-3) …… my ……. Let there be ……. …… my heart.
+
+@(8.A.4 = 4)  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(8.B.1 = 1-4)  @gap{4 lines fragmentary} 
+
+@(8.B.5 = 5-7) @note{cf. @xref[t.6.1.03,t.6.1.03.45]{6.1.03.45}, @xref[t.6.1.07,t.6.1.07.43]{6.1.07.43}} …… finger. You are forever pushing like a millstone torn out of its joint.
+
+
+
+@h1 N 6119 (Alster 1997 p. 292) and N 4047 (Veldhuis 2000 fig. 8)
+
+@(9.1 = 1)  @gap{1 line fragmentary} 
+
+@(9.2 = 2-4) What is …… your mockery to me? …… whatever he will do …… to my accounts.
+
+@(9.5 = 5-6) Come on, clown! Just for once, say: @q{“…… my hips are heavier than 50 @fsux{mana} weight.”}
+
+@(9.8 = 8-10) A clown made fun of the city. They made fun of him and he wept.
+
+
+
+@h1 Ni 3318 (Alster 1997 p. 293)
+
+
+@(10.A.1 = 1)  @gap{1 line fragmentary} 
+
+@(10.A.2 = 2-5) @note{cf. @xref[t.6.1.02,t.6.1.02.59]{6.1.02.59-60}} The vixen quenched her thirst but still her motherly teats were dry. Each fox is even more …… than its mother.
+
+@(10.A.6 = 6) @note{cf. @xref[t.6.1.02,t.6.1.02.61]{6.1.02.61}, @xref[t.6.2.5,t625.h21]{6.2.5: P 374}} If the hearing of the fox …….  @gap{unknown no. of lines missing} 
+
+
+@(10.B.1 = 1)  @gap{1 line fragmentary} 
+
+@(10.B.2 = 2)  @gap{1 line fragmentary} 
+
+@(10.B.3 = 3-4)  @gap{2 lines fragmentary} 
+
+
+
+@h1 Ni 4338 + 4340 (Alster 1997 pp. 294-295)
+
+@(11.1 = 1)  @gap{1 line fragmentary} 
+
+@(11.2 = 2-5) …… when his …… looks around, who …… child? …… without …… raise …….
+
+@(11.6 = 6-10) …… sit …… his hands for me. I will ……. How can I ……? …… make it strong for you …… make it strong ……  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 4122 (Alster 1997 p. 293)
+
+@(12.1 = 1)  @gap{1 line fragmentary} 
+
+@(12.2 = 2-5) @note{cf. @xref[t.6.1.03,t.6.1.03.8]{6.1.03.8}} To spit without covering it up with dust, to kiss with the tongue at midday without providing shade,  @gap{1 line unclear}  are abominations to the god …….
+
+@(12.6 = 6-9)  @gap{4 lines fragmentary} 
+
+
+
+@h1 Ni 4300 (Alster 1997 p. 294)
+
+
+@(13.A.1 = 1)  @gap{1 line fragmentary} 
+
+@(13.A.2 = 2)  @gap{1 line fragmentary} 
+
+@(13.A.3 = 3)  @gap{1 line fragmentary} 
+
+@(13.A.4 = 4-6) @note{cf. @xref[t.6.1.02,t.6.1.02.6]{6.1.02.6}} My fate is her voice: my mother can change it.  @gap{2 lines fragmentary} 
+
+@(13.A.7 = 7)  @gap{1 line fragmentary} 
+
+@(13.A.8 = 8)  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(13.B.1 = 1)  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 5327 (Alster 1997 pp. 296-297)
+
+@(14.1 = 1-2) @note{cf. @xref[t.6.2.3,t623.h103]{6.2.3: UET 6/2 247}} The …… bird …… town square …….
+
+@(14.3 = 3-6) The …… bird …… may it …… my ……  @gap{2 lines fragmentary} 
+
+@(14.7 = 7-9) The …… bird ……  @gap{2 lines fragmentary} 
+
+
+
+@h1 Ni 4099 (Alster 1997 p. 293)
+
+@(15.1 = 1-2)  @gap{1 line fragmentary}  …… the workers …… young men …….
+
+@(15.3 = 3)  @gap{1 line fragmentary} 
+
+@(15.4 = 4)  @gap{1 line fragmentary} 
+
+@(15.5 = 5)  @gap{1 line fragmentary} 
+
+@(15.6 = 6)  @gap{1 line fragmentary} 
+
+@(15.7 = 7) …… you …….
+
+@(15.8 = 8) …… yours.
+
+
+
+@h1 N 3059 (Alster 1997 p. 430)
+
+@(16.1 = 1) …… no-one has …….
+
+@(16.2 = 2)  @gap{1 line fragmentary} 
+
+@(16.3 = 3) …… a modest wife …….
+
+@(16.4 = 4-5) …… he will cause a fight ……  @gap{1 line fragmentary} 
+
+@(16.6 = 6-7)  @gap{2 lines fragmentary} 
+
+
+
+@h1 N 5225 (Alster 1997 pp. 291-292)
+
+@(17.1 = 1) …… ploughing …… not …… a @fsux{gur}.
+
+@(17.2 = 2-3) Let great men stir up the conflict for lesser men to fight out.
+
+@(17.4 = 4-6) The little fellow loves his mother; an older brother …… an older brother. The man in charge of the offerings (?) …… a proper (?) offering.
+
+@(17.7 = 7)  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 9829 (Alster 1997 p. 297)
+
+@(18.1 = 1)  @gap{1 line fragmentary} 
+
+@(18.2 = 2-7)  @gap{6 lines fragmentary} 
+
+
+
+@h1 Ni 5271 (Alster 1997 p. 296)
+
+@(19.1 = 1)  @gap{1 line fragmentary} 
+
+@(19.2 = 2)  @gap{1 line fragmentary} 
+
+@(19.3 = 3) …… that smells, really smells.
+
+@(19.4 = 4) …… smells, cheese of the anus.
+
+@(19.5 = 5) ……, one born into debt (?).
+
+@(19.6 = 6) …… who sleeps …… of the fire.
+
+
+
+@h1 N 7577 + N 7578 (Veldhuis 2000 fig. 10)
+
+@(20.1 = 1)  @gap{1 line fragmentary} 
+
+@(20.2 = 2)  @gap{1 line fragmentary} 
+
+@(20.3 = 3-4) …… my god's heart ……  @gap{1 line fragmentary} 
+
+@(20.5 = 5)  @gap{1 line fragmentary} 
+
+
+
+@h1 Ni 3981 (Alster 1997 p. 293)
+
+@(21.1 = 1) Prayer has given birth to his life.
+
+@(21.2 = 2-4) Where …… you ……. Where …… you ……. The son of the just man lies hungry.
+
+@(21.5 = 5)  @gap{1 line fragmentary} 
+
+
+
+@h1 CBS 12666 (Veldhuis 2000 fig. 3)
+
+@(22.1 = 1)  @gap{1 line fragmentary} 
+
+@(22.2 = 2-4)  @gap{2 lines fragmentary}  …… died.
+
+
+
+@h1 N 1905 (Alster 1997 pl. 114)
+
+@(23.1 = 1)  @gap{1 line fragmentary} 
+
+@(23.2 = 2)  @gap{1 line fragmentary} 
+
+@(23.3 = 3-4)  @gap{1 line fragmentary}  plotted …….
+
+
+
+@h1 N 3884 (Veldhuis 2000 fig. 7)
+
+@(24.1 = 1)  @gap{1 line fragmentary} 
+
+@(24.2 = 2)  @gap{1 line fragmentary} 
+
+@(24.3 = 3-4)  @gap{2 lines fragmentary} 
+
+
+
+@h1 CBS 14213 (Alster 1997 p. 304)
+
+@(25.1 = 1-3) You …… a single instruction: @q{“Let me please your heart, let me …… my strength!”}
+
+
+
+@h1 IM 58660 = 3N-T 731 (Alster 1997 p. 305)
+
+@(26.1 = 1-3) Thus speaks a widow, a man's junior wife: @q{“What can widows become? They cannot be principal wives!”}
+
+
+
+@h1 N 4909 (Veldhuis 2000 fig. 9)
+
+@(27.1 = 1)  @gap{1 line fragmentary} 
+
+@(27.2 = 2-3)  @gap{1 line unclear}   @gap{1 line fragmentary} 
+
+
+
+@h1 N 5569 (Veldhuis 2000 p. 395)
+
+@(28.1 = 1-3) Do not be hostile to the weakling; do not cry for the strong one. To the craftsman his arm …….
+
+
+
+@h1 CBS 3811 (Alster 1997 p. 303)
+
+@(29.1 = 1-2) The ox has broken its sinews and is lying in its yoke.
+
+
+
+@h1 CBS 5971 (Alster 1997 pl. 114)
+
+@(30.1 = 1-2)  @gap{1 line fragmentary}  …… drinking …….
+
+
+
+@h1 CBS 7968 (Alster 1997 p. 303)
+
+@(31.1 = 1-2) I prostrate myself for the sake of @wDN{Gula}, my lady, but in my own eyes I don't have a place to stand.
+
+
+
+@h1 IM 58400 = 3N-T 242 (Alster 1997 p. 304)
+
+@(32.1 = 1-2) Don't cause the oven in a man's house to smoke. The smoke will ruin (?) the bread.
+
+
+
+@h1 N 6194 (Alster 1997 p. 304)
+
+@(33.1 = 1-2) Come, you are our son, even from when you did not exist!
+
+
+
+@h1 UM 55-21-38 = 2N-T 172 (Alster 1997 p. 305)
+
+@(34.1 = 1-2) It went up to heaven, it rose to heaven.
+
+
+
+@h1 UM 55-21-278 = 3N-T 179 (Alster 1997 p. 305)
+
+@(35.1 = 1-2) The fox gnashed its teeth and shook its head.
+
+
+
+@h1 3N-T 232 + 244 (Alster 1997 p. 304)
+
+@(36.1 = 1-2) The ditches of the garden should not flow with water, or there will be vermin.
+
+
+
+@h1 CBS 6551 (Alster 1997 p. 303)
+
+@(37.1 = 1) Is my ox to provide milk for you?
+
+
+
+@h1 CBS 7867 (Alster 1997 p. 303)
+
+@(38.1 = 1) Like a man who eats sesame oil, his anus farts.
+
+
+
+@h1 CBS 11372 (Alster 1997 p. 304)
+
+@(39.1 = 1) Talking endlessly is what humankind has most on its mind.
+
+
+
+@h1 N 2182 (Veldhuis 2000 fig. 5)
+
+@(40.1 = 1)  @gap{1 line fragmentary} 
+
+
+
+@h1 N 5925 (Alster 1997 p. 304)
+
+@(41.1 = 1) He wipes his bread on the pig.
+
+
+
+@h1 UM 29-16-394 (Alster 1997 p. 305)
+
+@(42.1 = 1) May the king live in his favourite city.
+
+
+
+@h1 3N-T 161 (Alster 1997 p. 304)
+
+@(43.1 = 1) Your role in life is unknown.
+
+
+
+@h1 3N-T 772 = TIM 10/1 132 (Alster 1997 p. 305)
+
+@(44.1 = 1) Your ox with its large horns will always return to you.
+
+

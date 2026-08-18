@@ -1,0 +1,86 @@
+&Q000520 = A praise poem of Ḫammu-ràbi (Ḫammu-ràbi C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.2.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.3&display=Crit&charenc=gcirc#
+
+1. {d}en-ki-ke₄ eš₃-e ki mah-a mi₂ zid mu-ni-in-dug₄
+#lem: Enkik[1]DN; eš[shrine]; ki[place]; mah[great]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=1
+
+2. lugal-e lu₂ šu-luh-e ki aŋ₂ me sikil-la tum₂-ma
+#lem: lugal[king]; lu[person]; šuluh[ritual cleansing]; ki[place]; aŋ[measure]; me[Being]; sikil[pure]; tum[suitable]
+#etcsl: line-id=2
+
+3. lugal ŋiš-hur kal-kal gal-zu-a ni₂-tuku inim sag₉-sag₉-ge šu-ni-še₃ ŋal₂#-la
+#lem: lugal[king]; ŋešhur[plan]; kal[rare]; galanzu[wise]; nituku[pious]; inim[word]; sag[good]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=3
+
+4. sipad šag₄ še-ga en {d}nu-nam-nir#-[ra] ki aŋ₂ ama {d}nin#-[lil₂-la₂]
+#lem: sipad[shepherd]; šag[heart]; šeg[agree]; en[lord]; Nunamnir[1]DN; ki[place]; aŋ[measure]; ama[mother]; Ninlil[1]DN
+#etcsl: line-id=4
+
+5. nidba gal-gal e₂-kur-ra ba-[...]
+#lem: nindaba[(food) offering]; gal[big]; Ekur[1]TN; X
+#etcsl: line-id=5
+
+6. X šag₄ dug₃-ga nun gal {d}en-ki-ke₄ X [...]
+#lem: X; šag[heart]; dug[good]; nun[prince]; gal[big]; Enkik[1]DN; X; X
+#etcsl: line-id=6
+
+7. mi₂ dug₄-ga kug {d}dam-gal-nun#-[na] sipad zid {d}ha-am-mu#-[ra-bi]
+#lem: mi[cvne]; dug[speak]; kug[purify]; Damgalnunak[1]DN; sipad[shepherd]; zid[right]; Hammurabi[1]RN
+#etcsl: line-id=7
+
+8. lugal-e eš₃ e₂-kiš-[nu-ŋal₂] niŋ₂-nam mi-ni-in-X [...]
+#lem: lugal[king]; eš[shrine]; Ekišnuŋal[1]TN; niŋnam[anything]; X; X
+#etcsl: line-id=8
+
+9. ha-am-mu-ra-bi X-a-ni X [...]
+#lem: Hammurabi[1]RN; X; X; X
+#etcsl: line-id=9
+
+10. {d}nanna {d}nin-gal-bi ud šu₂-uš# [...]
+#lem: Nanna[1]DN; Ningal[1]DN; ud[sun]; šuš[cover]; X
+#etcsl: line-id=10
+
+11. lugal niŋ₂-hul₂-la-ni X [...] šu-luh ŋiš-hur me X [...]
+#lem: lugal[king]; niŋhul[joy]; X; X; šuluh[ritual cleansing]; ŋešhur[plan]; me[Being]; X; X
+#etcsl: line-id=11
+
+12. ki-bi-še₃ bi₂-in-[gi₄-gi₄]
+#lem: ki[place]; gi[turn]
+#etcsl: line-id=12
+
+13. ša-ra-da-gub-bu# [...] KA NI šu bur₂-ra
+#lem: gub[stand]; X; X; X; šu[hand]; bur[spread out]
+#etcsl: line-id=13
+
+14. šul! {d}suen niŋ₂ al [di ...] E še še-ga
+#lem: šul[youth]; Suen[1]DN; niŋ[thing]; al[cvne]; di[speak]; X; X; še[barley]; šeg[agree]
+#etcsl: line-id=14
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-7) @wDN{Enki} has esteemed him truly in the shrine, the august place -- the king who loves purification rites and is well-suited to the pure divine powers, the king who is skilled in the precious plans, who is reverent, eloquent and deft (?), the shepherd, favourite of Lord @wDN{Nunamnir} and beloved of Mother @wDN{Ninlil}, who …… great food offerings in @wTN{E-kur}, who delights (?) the great prince @wDN{Enki}, ……, who is cherished by holy @wDN{Damgalnuna}: the good shepherd @wRN{Ḫammu-rābi}.
+
+@(8 = 8-14) The king has …… everything in the shrine @wTN{E-kiš-nu-ŋal}. @wRN{Ḫammu-rābi}, whose ……. Daily he …… @wDN{Nanna} and @wDN{Ningal}. The king whose joy is …… has restored the purification rites, plans and divine powers ……. He will stand there before you ……, O youth @wDN{Suen}, fulfilling …… all your requirements.
+
+
+

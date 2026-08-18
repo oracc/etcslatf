@@ -1,0 +1,97 @@
+&Q000319 = Ur III catalogue from Nibru (N1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.1.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.1.1&display=Crit&charenc=gcirc#
+
+1. dub-saŋ-ta
+#lem: dubsaŋ[first]
+#etcsl: line-id=1
+
+2. {d}en-ki unu₂ gal im-ed₃
+#lem: Enkik[1]DN; unu[dwelling]; gal[big]; ed[go up]
+#etcsl: line-id=2
+
+3. an-zag-še₃
+#lem: anzag[horizon]
+#etcsl: line-id=3
+
+4. an-ŋi₆ zu ama tu₆ zu-ke₄
+#lem: anŋi[eclipse]; zu[know]; ama[mother]; tu[incantation]; zu[know]
+#etcsl: line-id=4
+
+5. ŋiš-gi tuku₄-e
+#lem: ŋešgi[thicket]; tuku[rock]
+#etcsl: line-id=5
+
+6. AN KAŠ₄ AN KAŠ₄ me₃-ke₄
+#lem: X; X; X; X; me[battle]
+#etcsl: line-id=6
+
+7. maš-maš erim₂ kur₂-kur₂
+#lem: mašmaš[sorcerer]; erim[enemy]; kur[different]
+#etcsl: line-id=7
+
+8. ŋiri₃-ŋen-na {d}en#-ki ki unu₂ gal im-ed₃-kam
+#lem: ŋiriŋena[procedure]; Enkik[1]DN; ki[place]; unu[dwelling]; gal[big]; ed[go up]
+#etcsl: line-id=8
+
+9. šag₄ PU₂ 1(AŠ)-kam
+#lem: šag[heart]; X; n
+#etcsl: line-id=9
+
+10. dub-saŋ-ta
+#lem: dubsaŋ[first]
+#etcsl: line-id=10
+
+11. X X kaskal-la imin me-še₃
+#lem: X; X; kaskal[way]; imin[seven]; me[be]
+#etcsl: line-id=11
+
+12. {d}li-li-a-ke₄
+#lem: Lilia[1]DN
+#etcsl: line-id=12
+
+13. igi X imin-na in-kur₉-re-en
+#lem: igi[eye]; X; imin[seven]; kur[enter]
+#etcsl: line-id=13
+
+14. šul a₂ he₂-la₂
+#lem: šul[youth]; a[arm]; la[hang]
+#etcsl: line-id=14
+
+15. gu DI sig₁₀-ga# ŠA gal-kam
+#lem: gu[cord]; X; sig[put into]; X; gal[big]
+#etcsl: line-id=15
+
+16. ŋiri₃-ŋen-na {d}li-li-a-kam
+#lem: ŋiriŋena[procedure]; Lilia[1]DN
+#etcsl: line-id=16
+
+17. šag₄ PU₂ 1(AŠ)-kam
+#lem: šag[heart]; X; n
+#etcsl: line-id=17
+
+18. ŋiri₃ IŠ lu₂ inim zid-da GA |KA×X| BA
+#lem: ŋiri[foot]; X; lu[person]; inim[word]; zid[right]; X; X; X
+#etcsl: line-id=18
+
+19. ŋiri₃-ŋen-na-bi lu₂ nu-da-pad₃
+#lem: ŋiriŋena[procedure]; lu[person]; pad[find]
+#etcsl: line-id=19
+
+20. ŋiri₃-ŋen-na
+#lem: ŋiriŋena[procedure]
+#etcsl: line-id=20
+
+21. iri-bal-a aš₂ di-da-kam
+#lem: iribala[rebel town]; aš[curse]; di[speak]
+#etcsl: line-id=21
+
+
+
+
+
+

@@ -1,0 +1,299 @@
+&Q000455 = A balbale to Enki for Išme-Dagan (Išme-Dagan E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.05&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+$ 1 line missing
+A.A.2. [...] šag₄# kug-ga# X [...]
+#lem: X; šag[heart]; kug[pure]; X; X
+#etcsl: line-id=A.A.2
+
+A.A.3. inim# sig₁₀-sig₁₀#-ge inim-ma-ni u₁₈-ru eš-bar-e X [...]
+#lem: inim[word]; sig[put into]; inim[word]; urun[exalted]; ešbar[decision]; X; X
+#etcsl: line-id=A.A.3
+
+A.A.4. [...] X X palil diŋir-re-e-ne niŋ₂-nam-ma gal-zu# [...]
+#lem: X; X; X; palil[first and foremost]; diŋir[deity]; niŋnam[anything]; galanzu[wise]; X
+#etcsl: line-id=A.A.4
+
+A.A.5. [X X] {d}en-ki šag₄ kuš₂ an kug-ga ad gi₄-gi₄ kur gal# [...]
+#lem: X; X; Enkik[1]DN; šag[heart]; kušu[tired]; An[1]DN; kug[pure]; ad[voice]; gi[turn]; kur[mountain(s)]; gal[big]; X
+#etcsl: line-id=A.A.5
+
+A.A.6. [...] palil diŋir-re-e-ne niŋ₂-nam-ma gal-zu# [...]
+#lem: X; palil[first and foremost]; diŋir[deity]; niŋnam[anything]; galanzu[wise]; X
+#etcsl: line-id=A.A.6
+
+A.A.7. [X X] {d}en-ki šag₄ kuš₂ an kug-ga ad gi₄-gi₄ kur# [gal ...]
+#lem: X; X; Enkik[1]DN; šag[heart]; kušu[tired]; An[1]DN; kug[pure]; ad[voice]; gi[turn]; kur[mountain(s)]; gal[big]; X
+#etcsl: line-id=A.A.7
+
+A.A.8. [sa₂] pad₃-de₃ dug₄-ga-ni nu-kam₃-me a-ra₂-a-ni ni₂ [...]
+#lem: sa[advice]; pad[find]; dug[speak]; kam[alter]; ara[way]; ni[fear]; X
+#etcsl: line-id=A.A.8
+
+A.A.9. šag₄ su₃-ud-ŋal₂ me šar₂-ra u₅-a {d#}en#-lil₂-gin₇ [...]
+#lem: šag[heart]; sudŋal[long-lasting]; me[Being]; šar[numerous]V/i; u[ride]; Enlil[1]DN; X
+#etcsl: line-id=A.A.9
+
+A.A.10. {d}nu-dim₂-mud barag kug si-par₃-si-par₃ AN [...]
+#lem: Nudimmud[1]DN; barag[sanctum]; kug[purify]; sipar[an implement]; X; X
+#etcsl: line-id=A.A.10
+
+A.A.11. en ni₂ guru₃ an uraš-e tud-da pap gal [...]
+#lem: en[lord]; ni[fear]; gur[lift]; An[1]DN; Uraš[1]DN; utud[give birth (to)]; pap[relation]; gal[big]; X
+#etcsl: line-id=A.A.11
+
+A.A.12. lugal a-ra₂ zu {d}en-lil₂-la₂ saŋ en₃ tar [...]
+#lem: lugal[king]; ara[way]; zu[know]; Enlil[1]DN; saŋ[head]; en[cvne]; tar[cut]; X
+#etcsl: line-id=A.A.12
+
+A.A.13. [...] zag dib dumu-saŋ an kug-ga me-ni šu# nu-teŋ₃#-[ŋa₂ ...]
+#lem: X; zag[side]; dib[pass]; dumusaŋ[first-born]; An[1]DN; kug[pure]; me[Being]; šu[hand]; teŋ[approach]; X
+#etcsl: line-id=A.A.13
+
+A.A.14. {[d]}[en]-lil₂ ban₃-da dug₄-ga zid-da ŋiš-hur-e X [...]
+#lem: Enlil[1]DN; banda[junior]; dug[speak]; zid[right]; ŋešhur[plan]; X; X
+#etcsl: line-id=A.A.14
+
+A.A.15. {d}nu-dim₂-mud en nam tar-tar-re kalam ge#-[en ...]
+#lem: Nudimmud[1]DN; en[lord]; nam[fate]; tar[cut]; kalam[the Land (of Sumer)]; gin[confirm]; X
+#etcsl: line-id=A.A.15
+
+A.A.16. {d}en-ki gud gal eridug{ki}-ga il₂ [...] X X
+#lem: Enkik[1]DN; gud[bull]; gal[big]; Eridug[1]SN; il[raise]; X; X; X
+#etcsl: line-id=A.A.16
+
+A.A.17. X buluŋ₃ dirig {d}a-nun-ke₄-[ne ...]
+#lem: X; buluŋ[grow]; dirig[make more than]; Anunak[1]DN; X
+#etcsl: line-id=A.A.17
+
+A.A.18. X NU DUB UN KA# [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.A.18
+
+A.A.19. [...] u₈-gin₇ [...]
+#lem: X; u[sheep]; X
+#etcsl: line-id=A.A.19
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div unknown B
+
+B.B.1. [...] X ŋal₂-la [...]
+#lem: X; X; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=B.B.1
+
+#etcsl#doc The sequence of Segments B and C is uncertain, and they may well belong to a different composition
+
+B.B.2. {[d]}[iš-me]-{[d]}da-gan# [...]
+#lem: Išmedagan[1]RN; X
+#etcsl: line-id=B.B.2
+
+B.B.3. [...] X UD HA [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.B.3
+
+B.B.4. [...] NE# e₂ {d}en-lil₂# [...]
+#lem: X; X; e[house]; Enlil[1]DN; X
+#etcsl: line-id=B.B.4
+
+B.B.5. [...] {d}en-lil₂-la₂-ra KA# [...] dug₄-ga-ni# [...]
+#lem: X; Enlil[1]DN; X; X; dug[speak]; X
+#etcsl: line-id=B.B.5
+
+B.B.6. [...] šag₄ kuš₂ an kug-ga# [...]
+#lem: X; šag[heart]; kušu[tired]; An[1]DN; kug[pure]; X
+#etcsl: line-id=B.B.6
+
+B.B.7. [...] X ZI TA DU#
+#lem: X; X; X; X; X
+#etcsl: line-id=B.B.7
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment C
+
+@div unknown C
+
+C.C.1. {d}nu-dim₂-[mud ...]
+#lem: Nudimmud[1]DN; X
+#etcsl: line-id=C.C.1
+
+#etcsl#doc The sequence of Segments B and C is uncertain, and they may well belong to a different composition
+
+C.C.2. en eridug{ki} [...]
+#lem: en[lord]; Eridug[1]SN; X
+#etcsl: line-id=C.C.2
+
+C.C.3. {d}iš-me-{d}[da-gan ...]
+#lem: Išmedagan[1]RN; X
+#etcsl: line-id=C.C.3
+
+C.C.4. dumu {d}en-lil₂-[la₂ ...]
+#lem: dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=C.C.4
+
+C.C.5. a₂-zu mu-da-[X-aŋ₂ ...]
+#lem: a[arm]; aŋ[measure]; X
+#etcsl: line-id=C.C.5
+
+C.C.6. igi-ŋal₂ pad₃ [...]
+#lem: igiŋal[wise]; pad[find]; X
+#etcsl: line-id=C.C.6
+
+C.C.7. ŋiš-hur tuku [...]
+#lem: ŋešhur[plan]; tuku[acquire]; X
+#etcsl: line-id=C.C.7
+
+C.C.8. kug-zu niŋ₂-nam#-[ma ...]
+#lem: kugzu[wise]; niŋnam[anything]; X
+#etcsl: line-id=C.C.8
+
+C.C.9. kiŋ₂# mah [...]
+#lem: kiŋ[work]; mah[great]; X
+#etcsl: line-id=C.C.9
+
+C.C.10. X X [...]
+#lem: X; X; X
+#etcsl: line-id=C.C.10
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment D
+
+@div unknown D
+
+D.D.1. [...] me dirig# [...]
+#lem: X; me[Being]; dirig[make more than]; X
+#etcsl: line-id=D.D.1
+
+D.D.2. [...] AGA TUM LI [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=D.D.2
+
+D.D.3. [...] X kurun₂ {kaš}ulušin₃ X [...]
+#lem: X; X; kurun[beer]; ulušin[date-sweetened emmer-beer]; X; X
+#etcsl: line-id=D.D.3
+
+D.D.4. |KI.LUGAL.GUB|-a šu si ha-ra#-[X-sa₂ ...] giri₁₇ šu ha-ra-[X-ŋal₂]
+#lem: KI.LUGAL.DU[cultic place]; šu[hand]; si[horn]; sa[equal]; X; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=D.D.4
+
+D.D.5. [...] sizkur₂#-ra ma-<ra>-ni-ib₂-be₂ X [...]
+#lem: X; siškur[prayer]; e[speak]; X; X
+#etcsl: line-id=D.D.5
+
+@end unknown
+
+@div ŋišgiŋal E
+
+D.E.6. {[d]}[iš-me]-{d}da-gan dumu {d}en-lil₂-la₂-ke₄ nam#-[til₃-la-na ud zig₃-ga] ud# ha-ba-ni-ib₂-su₃-[ud ...]
+#lem: Išmedagan[1]RN; dumu[child]; Enlil[1]DN; namtil[life]; ud[sun]; zig[rise]; ud[sun]; sud[distant]; X
+#etcsl: line-id=D.E.6
+
+D.E.7. a-a {d}en-ki {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-[ke₄] nam-til₃-la-na ud zig₃-ga [ud ha-ba-ni-ib₂-su₃-ud ...]
+#lem: aya[father]; Enkik[1]DN; Išmedagan[1]RN; dumu[child]; Enlil[1]DN; namtil[life]; ud[sun]; zig[rise]; ud[sun]; sud[distant]; X
+#etcsl: line-id=D.E.7
+
+@div trailer 
+
+D.E.8. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=D.E.8
+
+@end trailer
+
+@end jicgijal
+
+@div trailer 
+
+D.E.9. bal-bal-e {d}en-ki-ka-[kam]
+#lem: balbale[literary subscript]; Enkik[1]DN
+#etcsl: line-id=D.E.9
+
+#etcsl#doc lines 8 and 9 are written as one line in source
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+#lg A	unknown
+
+
+@(A.A.2 = 1-19)  @gap{1 line missing}  …… in the holy heart ……, ……, whose words are powerful, who …… decisions. …… foremost of the gods, omniscient ……. …… @wDN{Enki}, counsellor of holy @wDN{An}, adviser of the Great Mountain ……. …… foremost of the gods, omniscient ……. …… @wDN{Enki}, counsellor of holy @wDN{An}, adviser of the Great Mountain ……. Adviser, whose statements cannot be countermanded, whose ways …… fearsomeness. Patient-hearted, who rides upon all the divine powers, who …… like @wDN{Enlil}. @wDN{Nudimmud} …… holy dais ……. Lord imbued with fearsomeness, borne by @wDN{An} and @wDN{Uraš}, eldest brother of ……. King whose ways are recognised by @wDN{Enlil}, caretaker of ……. Supreme ……, first-born child of holy @wDN{An}, whose divine powers are untouchable ……. Junior @wDN{Enlil} of trustworthy utterances, …… divine plans. @wDN{Nudimmud}, lord who determines the fates, who strengthens the Land ……. @wDN{Enki}, great bull of @wSN{Eridug}, ……. …… greatly exalted among the @wDN{Anuna} …….  @gap{1 line fragmentary}  …… like sheep (?) …….  @gap{unknown no. of lines missing} 
+
+
+#lg B	unknown
+
+
+$ (The sequence of Segments B and C is uncertain, and they may well belong to a different composition)
+
+@(B.B.1 = 1-7)  @gap{1 line fragmentary}  @wRN{Išme-@wDN{Dagan}} …….  @gap{1 line fragmentary}  …… the house (?) of @wDN{Enlil} ……. …… of @wDN{Enlil} …… his statements ……. …… counsellor of holy @wDN{An} …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg C	unknown
+
+
+$ (The sequence of Segments B and C is uncertain, and they may well belong to a different composition)
+
+@(C.C.1 = 1-10) @wDN{Nudimmud} ……. Lord of @wSN{Eridug} ……. @wRN{Išme-@wDN{Dagan}} ……, son of @wDN{Enlil} ……. …… gives (?) you your instructions ……. Wise ……. …… divine plans ……. Omniscient …….  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg D	unknown
+
+
+@(D.D.1 = 1-5) …… excellent divine powers ……  @gap{1 line fragmentary}  May he prepare for you …… liquor and emmer beer …… at the royal offering-place and salute you from there. …… prays to you (?) …….
+
+#lg E	jicgijal
+
+
+@(D.E.6 = 6-7) May he bestow a long life with vigorous (?) days on @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil}! May Father @wDN{Enki} bestow a long life with vigorous (?) days on @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil}!
+
+#trailer rubric	jicgijal
+
+
+@(D.E.8 = 8) Its @fsux{ŋišgiŋal}.
+
+#trailer subscript	balbale
+
+
+@(D.E.9 = 9) A @fsux{balbale} of @wDN{Enki}. @notep{lines 8 and 9 are written as one line in source}
+
+
+

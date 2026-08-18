@@ -1,0 +1,234 @@
+&Q000497 = An adab to Ninurta for Būr-Suen (Būr-Suen A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.7.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.7.1&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. [...] en# kur gal-e tud-da# mah#-a-ni zag nu-sa₂
+#lem: X; en[lord]; kur[mountain(s)]; gal[big]; utud[give birth (to)]; mah[great]; zag[side]; sa[equal]
+#etcsl: line-id=A.1
+
+A.2. {[d]}[nin]-urta# gal-di an ki-a dirig {d}a-nun-ke₄-ne
+#lem: Ninurtak[1]DN; galdi[exalted]; an[sky]; ki[place]; dirig[make more than]; Anunak[1]DN
+#etcsl: line-id=A.2
+
+A.3. [X X] palil diŋir-re-e-ne ŋiškim-til₃ an-na
+#lem: X; X; palil[first and foremost]; diŋir[deity]; ŋeškimtil[trust]; An[1]DN
+#etcsl: line-id=A.3
+
+A.4. [X X] gur₃#-ru ud-gin₇ šeg₁₁ gi₄-gi₄ šen-šen-na gu₃ mur ak
+#lem: X; X; gur[lift]; ud[storm]; šeg[voice]; gi[turn]; šen[battle]; gu[voice]; mur[make a noise]; ak[do]
+#etcsl: line-id=A.4
+
+A.5. [...] am gal-gin₇ du₇-du₇ bad₃ ki-bal gul-gul
+#lem: X; am[wild bull]; gal[big]; du[push]; bad[wall]; kibala[rebel land]; gul[destroy]
+#etcsl: line-id=A.5
+
+A.6. [...] X [...] {[d]}en#-lil₂-la₂-ke₄ DI-DI kur šu-ni nu-e₃
+#lem: X; X; X; Enlil[1]DN; X; kur[mountain(s)]; šu[hand]; e[leave]
+#etcsl: line-id=A.6
+
+A.7. [...] {d}nu-nam-nir-ra dug₄-ga-ni ki-bi-še₃ ŋar#
+#lem: X; Nunamnir[1]DN; dug[speak]; ki[place]; ŋar[put]
+#etcsl: line-id=A.7
+
+A.8. [...] X [... nam]-nun-na tum₂-ma na degₓ(RI) e₂-kur-ra
+#lem: X; X; X; namnun[magnificence]; tum[suitable]; na[cvne]; deg[gather up]; Ekur[1]TN
+#etcsl: line-id=A.8
+
+A.9. [...] X sag₂ nu-di {ŋiš}rab₃ diŋir-re-e-[ne]
+#lem: X; X; sag[scatter]; di[speak]; raba[clamp]; diŋir[deity]
+#etcsl: line-id=A.9
+
+$ (approx. 7 lines missing)
+A.17. [...] saŋ-tab-a-ni he₂-a
+#lem: X; saŋtab[helper]; me[be]
+#etcsl: line-id=A.17
+
+A.18. [...] AMA dumu {d}iškur-ra-ke₄
+#lem: X; X; dumu[child]; Iškur[1]DN
+#etcsl: line-id=A.18
+
+A.19. [...] X X [X X] X u₂ dug₃ he₂-bi₂-ib₂-gu₇-e
+#lem: X; X; X; X; X; X; u[plant(s)]; dug[good]; gu[eat]
+#etcsl: line-id=A.19
+
+A.20. [...] ŋal₂ mu sa₄# [X X] si he₂-em-sa₂-sa₂-e
+#lem: X; ŋal[⟦be⟧ to be (there]; mu[name]; še[call by name]; X; X; si[horn]; sa[equal]
+#etcsl: line-id=A.20
+
+A.21. e₂-šu-me-ša₄ ki-tuš ki aŋ₂-ŋa₂-ni saŋ us₂-bi he₂-a
+#lem: Ešumeša[1]TN; kituš[dwelling place]; ki[place]; aŋ[measure]; saŋ[head]; us[accompany]; me[be]
+#etcsl: line-id=A.21
+
+A.22. nidba gal-gal-la-ni ud šu₂-uš-e X X muš nam-ba-an-tum₂-mu
+#lem: nindaba[(food) offering]; gal[big]; ud[sun]; šuš[cover]; X; X; muš[face]; tum[bring]
+#etcsl: line-id=A.22
+
+A.23. {d}bur-{d}suen me-te nam-lugal-la# ki aŋ₂ an-na-ke₄
+#lem: Bursuenak[1]RN; mete[appropriate thing]; namlugal[kingship]; ki[place]; aŋ[measure]; An[1]DN
+#etcsl: line-id=A.23
+
+A.24. mu giri₁₇-zal nam-til₃ niŋ₂ dug₃-ga# [...] X ha#-ba-ni-ib-su₃-re₆
+#lem: mu[year]; kirizal[joy]; namtil[life]; niŋ[thing]; dug[good]; X; X; sud[distant]
+#etcsl: line-id=A.24
+
+@div trailer 
+
+A.25. sa#-gid₂-[da]-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=A.25
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.26. {[d]}nin-urta {d}bur-{d}suen-ra ni₂-tuku-ni a₂-tah-a-ni he₂-a
+#lem: Ninurtak[1]DN; Bursuenak[1]RN; nituku[pious]; atah[helper]; me[be]
+#etcsl: line-id=B.26
+
+@div trailer 
+
+B.27. [ŋiš]-gi₅-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.27
+
+@end trailer
+
+@end jicgijal
+
+@div sa-ŋara C
+
+C.28. [X X] a₂ zid-da {d}en-lil₂-la₂ kur ki-bal gul-gul
+#lem: X; X; a[arm]; zid[right]; Enlil[1]DN; kur[mountain(s)]; kibala[rebel land]; gul[destroy]
+#etcsl: line-id=C.28
+
+C.29. {[d]}nin-urta a₂ zid-da {d}en-lil₂-la₂ kur ki-bal gul-gul
+#lem: Ninurtak[1]DN; a[arm]; zid[right]; Enlil[1]DN; kur[mountain(s)]; kibala[rebel land]; gul[destroy]
+#etcsl: line-id=C.29
+
+C.30. lugal zig₃-ga-ni a-ma-ru na-me saŋ nu-šum₂-mu
+#lem: lugal[king]; zig[rise]; amaru[flood]; name[any]; saŋ[head]; šum[give]
+#etcsl: line-id=C.30
+
+C.31. {d}nin-urta ud sumur me₃-a erim₂-e ŋiri₃ saga₁₁ di
+#lem: Ninurtak[1]DN; ud[storm]; sumur[angry]; me[battle]; erim[enemy]; ŋiri[foot]; saga[press?]; di[speak]
+#etcsl: line-id=C.31
+
+C.32. nam-ur-saŋ da-da-ra-še₃ dug₄-ga šul gaba-ri nu-tuku-a
+#lem: namursaŋ[heroism]; dadara[tied up]; dug[speak]; šul[youth]; gabari[equal]; tuku[acquire]
+#etcsl: line-id=C.32
+
+C.33. a₂ mah šum₂-ma {d}nu-nam-nir-ra šag₄ a-a-na dug₃-dug₃
+#lem: a[arm]; mah[great]; šum[give]; Nunamnir[1]DN; šag[heart]; aya[father]; dug[good]
+#etcsl: line-id=C.33
+
+C.34. dug₄-ga-dug₄-ga u₁₈-ru-zu nam-mah gal-gal-la
+#lem: dug[speak]; urun[exalted]; nammah[greatness]; gal[big]
+#etcsl: line-id=C.34
+
+C.35. {[d]}[nin-urta] dug₄-ga-dug₄-ga u₁₈-ru-zu nam-mah gal-gal-la
+#lem: Ninurtak[1]DN; dug[speak]; urun[exalted]; nammah[greatness]; gal[big]
+#etcsl: line-id=C.35
+
+C.36. [...] ki-bal-a sig₁₀-sig₁₀-ge₅ gu₂ du₃-a gam-gam
+#lem: X; kibala[rebel land]; sig[put into]; gu[neck]; du[build]; gurum[bend]
+#etcsl: line-id=C.36
+
+C.37. [...] X ŋa₂-ŋa₂ ud-gin₇ šeg₁₁ gi₄-gi₄
+#lem: X; X; ŋar[put]; ud[storm]; šeg[voice]; gi[turn]
+#etcsl: line-id=C.37
+
+C.38. [...] X X X-ke₄
+#lem: X; X; X; X
+#etcsl: line-id=C.38
+
+C.39. [...] X
+#lem: X; X
+#etcsl: line-id=C.39
+
+C.40. [...] IM
+#lem: X; X
+#etcsl: line-id=C.40
+
+$ 4 lines missing
+C.45. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=C.45
+
+C.46. [...] X sig-ta [...]
+#lem: X; X; sig[weak]; X
+#etcsl: line-id=C.46
+
+@div trailer 
+
+C.47. [sa-ŋar-ra-am₃]
+#lem: saŋara[musical notation]
+#etcsl: line-id=C.47
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal D
+
+D.48. [X X] X X X mu pad₃-da-zu {d}bur#-{[d]}[suen ...]
+#lem: X; X; X; X; X; mu[name]; pad[find]; Bursuenak[1]RN; X
+#etcsl: line-id=D.48
+
+@div trailer 
+
+D.49. [ŋiš]-gi₅-ŋal₂-[bi-im]
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=D.49
+
+@end trailer
+
+@end jicgijal
+
+@div uru E
+
+E.50. [ur]-saŋ ušum zag dib [...]
+#lem: ursaŋ[warrior]; ušum[snake]; zag[side]; dib[pass]; X
+#etcsl: line-id=E.50
+
+E.51. {d}nin-urta ušum zag dib [...]
+#lem: Ninurtak[1]DN; ušum[snake]; zag[side]; dib[pass]; X
+#etcsl: line-id=E.51
+
+E.52. {d}bur-{d}suen zid-de₃-eš pad₃-da-zu# [...]
+#lem: Bursuenak[1]RN; zid[right]; pad[find]; X
+#etcsl: line-id=E.52
+
+@div trailer 
+
+E.53. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#etcsl: line-id=E.53
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+E.54. a-da-ab {d}[nin-urta-ka-kam]
+#lem: adab[drum]; Ninurtak[1]DN
+#etcsl: line-id=E.54
+
+#etcsl#doc lines 53 and 54 written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

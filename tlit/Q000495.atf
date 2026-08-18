@@ -1,0 +1,165 @@
+&Q000495 = An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.6.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.6.6&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div barsud A
+
+A.A.1. ur-saŋ nam-he₂-a gu₃ ru-ru-gu₂ giri₁₇-zal
+#lem: ursaŋ[warrior]; namhe[abundance]; gu[voice]; rugu[withstand]; kirizal[joy]
+#etcsl: line-id=A.A.1
+
+#etcsl#cite Cited in OB catalogue from Urim (U3), 0.2.05, Seg. A, line 7
+
+A.A.2. a-a {d}iškur ud gal-la-ke₄ za#-[e] gi₄# [...]
+#lem: aya[father]; Iškur[1]DN; ud[storm]; gal[big]; zaʾe[you]; gi[turn]; X
+#etcsl: line-id=A.A.2
+
+@div trailer 
+
+A.A.3. bar-sud-[am₃]
+#lem: barsud[musical notation]
+#etcsl: line-id=A.A.3
+
+@end trailer
+
+@end barsud
+
+@div unknown B
+
+A.B.4. a-ma-ru {tum₉}u₁₈-lu mah# {tum₉#}[mir mir-ra]
+#lem: amaru[flood]; ulu[south wind]; mah[great]; mir[north wind]; mir[angry]
+#etcsl: line-id=A.B.4
+
+A.B.5. za-pa-aŋ₂-ŋa₂-ni X X X
+#lem: zipaŋ[voice]; X; X; X
+#etcsl: line-id=A.B.5
+
+A.B.6. X gi₄-ne-eš₂ an ki GI# [...]
+#lem: X; gi[turn]; an[sky]; ki[place]; X; X
+#etcsl: line-id=A.B.6
+
+A.B.7. {d}iškur-ra tum₉ ki# TE X GAR A X [...]
+#lem: Iškur[1]DN; tumu[wind]; ki[place]; X; X; X; X; X; X
+#etcsl: line-id=A.B.7
+
+A.B.8. nim ŋir₂-ŋir₂ AN [...] X X A X
+#lem: nim[lightning]; ŋir[flash]; X; X; X; X; X; X
+#etcsl: line-id=A.B.8
+
+A.B.9. X [...]
+#lem: X; X
+#etcsl: line-id=A.B.9
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara C
+
+B.C.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.C.1
+
+B.C.2. 2-[kam]-ma-ra {tum₉}u₁₈-lu {tum₉}mir mir-ra-da mu#-[...]
+#lem: n; ulu[south wind]; mir[north wind]; mir[angry]; X
+#etcsl: line-id=B.C.2
+
+B.C.3. 3-kam-ma-ra im-hul an-na-ke₄ gaba dumu lu₂-bi [...]
+#lem: n; imhul[destructive wind]; an[sky]; gaba[breast]; dumu[child]; lu[person]; X
+#etcsl: line-id=B.C.3
+
+B.C.4. 4-kam-ma dungu sir₂ an-na-ke₄ gu₃ im-ma-an-de₂# X
+#lem: n; dungu[cloud]; sir[dense]; an[sky]; gu[voice]; de[pour]; X
+#etcsl: line-id=B.C.4
+
+B.C.5. gana₂ zid-da še gu-nu im-gub {d}ezina₂ hul₂-la# [...]
+#lem: gana[field]; zid[right]; še[barley]; gunu[qualification of barley]; gub[stand]; Ezina[1]DN; hul[rejoice]; X
+#etcsl: line-id=B.C.5
+
+B.C.6. {d}iškur-e niŋ₂-nam mu-un-ŋar-ŋar buru₁₄ še mah im-[...]
+#lem: Iškur[1]DN; niŋnam[anything]; ŋar[put]; buru[harvest]; še[barley]; mah[great]; X
+#etcsl: line-id=B.C.6
+
+B.C.7. ur-{d}nin-urta guru₇-du₆ guru₇-maš a-gar₃ mu-na-an#-[dub]
+#lem: Urninurta[1]RN; gurudud[grain heap]; gurumaš[grain heap]; agar[meadow]; dub[heap up]
+#etcsl: line-id=B.C.7
+
+B.C.8. ud dug₃-ga numun-bi mu-ni-in-sig₁₀ gig₂-ga KA [...]
+#lem: ud[sun]; dug[good]; numun[seed]; sig[put into]; kib[wheat]; X; X
+#etcsl: line-id=B.C.8
+
+B.C.9. ur-{d}nin-urta dumu an-na-ra numun!-bi mu-ni#-[in-sig₁₀ ...]
+#lem: Urninurta[1]RN; dumu[child]; An[1]DN; numun[seed]; sig[put into]; X
+#etcsl: line-id=B.C.9
+
+B.C.10. {d}iškur {d}inana# {d}X#-ke₄ til₃ mu-na-an#-[...]
+#lem: Iškur[1]DN; Inanak[1]DN; X[1]DN; til[live (of a single person)]; X
+#etcsl: line-id=B.C.10
+
+@div trailer 
+
+B.C.11. sa-ŋar-ra-am₃#
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.C.11
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal D
+
+B.D.12. ur-{d}nin-urta šag₄ X {d}nin-lil₂-la₂-ke₄ {d}iškur [...]
+#lem: Urninurta[1]RN; šag[heart]; X; Ninlil[1]DN; Iškur[1]DN; X
+#etcsl: line-id=B.D.12
+
+@div trailer 
+
+B.D.13. ŋiš-gi-ŋal₂-bi-im#
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.D.13
+
+@end trailer
+
+@end jicgijal
+
+@div uru E
+
+B.E.14. en ku₃-ŋal₂ an ki uŋ₃ kug zi šum₂
+#lem: en[lord]; guŋal[inspector]; an[sky]; ki[place]; uŋ[people]; kug[purify]; zi[life]; šum[give]
+#etcsl: line-id=B.E.14
+
+B.E.15. a-a {d}iškur en ku₃-ŋal₂ an ki uŋ₃ kug zi šum₂#
+#lem: aya[father]; Iškur[1]DN; en[lord]; guŋal[inspector]; an[sky]; ki[place]; uŋ[people]; kug[purify]; zi[life]; šum[give]
+#etcsl: line-id=B.E.15
+
+B.E.16. ur-{d}nin-urta he₂-ŋal₂ hu-mu-na-ŋal₂ saŋ [...]
+#lem: Urninurta[1]RN; heŋal[plenty]; ŋal[⟦be⟧ to be (there]; saŋ[head]; X
+#etcsl: line-id=B.E.16
+
+@div trailer 
+
+B.E.17. u₁₈-ru₁₂-[bi-im]
+#lem: uru[literary subscript]
+#etcsl: line-id=B.E.17
+
+@end trailer
+
+@end uru
+
+@end segment
+
+
+
+
+
+
+

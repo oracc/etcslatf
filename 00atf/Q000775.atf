@@ -1,0 +1,446 @@
+&Q000775 = The message of Lu-diŋira to his mother
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.5.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.1&display=Crit&charenc=gcirc#
+
+1. lu₂-kaš₄-e lugal-la har-ra-an-na ŋen-na
+#lem: kaš[runner]; lugal[king]; harran[route]; ŋen[go]
+#etcsl: line-id=1
+
+2. nibru{ki} ga-e-gi₄ inim-bi dug₄-ba-ab
+#lem: Nibru[1]SN; gi[turn]; inim[word]; dug[speak]
+#etcsl: line-id=2
+
+3. kaskal su₃-ra₂ i-im-du-de₃-[en]
+#lem: kaskal[way]; sud[distant]; ŋen[go]
+#etcsl: line-id=3
+
+4. ama-ŋu₁₀ (1:mud-am₃ u₃ nu-mu-ni-ku#-[ku]:1)
+#lem: ama[mother]; mud[scared]; u[sleep]; ku[place]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) u₃ DU-da u₃ ku-ku-ba
+#lem: u[and]; X; u[sleep]; ku[place]
+
+5. (1:ama₅-a-ni:1) ka-ŋiri₃ al-gib-ba
+#lem: emi[queen's household]; kaŋirid[road]; gilim[cross]
+#etcsl: line-id=5
+
+:5v.1.1: ($1 ms. has instead:$) ama₅ saŋ gi₄-a
+#lem: emi[queen's household]; saŋ[head]; gi[turn]
+
+6. lu₂ du (1:kaskal-la:1) silim-ma-ŋu₁₀ en₃ (2:al-tar-tar-re:2)
+#lem: lu[person]; ŋen[go]; kaskal[way]; silim[healthy]; en[cvne]; tar[cut]
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) har-ra-an-na
+#lem: harran[route]
+:6v.2.1: ($1 ms. has instead:$) nu-tar-tar-re
+#lem: tar[cut]
+
+7. u₃-na-a-dug₄ silim-ma-ŋu₁₀ šu-ni-še₃ ŋar-i₃
+#lem: unadug[letter]; silim[healthy]; šu[hand]; ŋar[put]
+#etcsl: line-id=7
+
+8. ama-ŋu₁₀ hul₂-hul₂-la-am₃ še-er-ka-an mi-ri-in-dug₄-ga
+#lem: ama[mother]; hul[rejoice]; šerkan[ornament]; dug[speak]
+#etcsl: line-id=8
+
+9. tukum-bi ama-ŋu₁₀ nu-e-zu ŋiškim ga-mu-ra-ab-šum₂
+#lem: tukumbi[if]; ama[mother]; zu[know]; ŋeškim[sign]; šum[give]
+#etcsl: line-id=9
+
+10. mu-bi (1:ša-at-eš₄-tar₂:1) (2:inim-bi-ta:2) TE E MU
+#lem: mu[name]; Šateštar[1]PN; inim[word]; X; X; X
+#etcsl: line-id=10
+
+:10v.1.1: ($1 ms. has instead:$) ši!-ma!-at-eš₄-tar₂
+#lem: Šimateštar[1]PN
+:10v.2.1: ($some mss. have instead:$) MUNUS-bi-ta
+#lem: X
+
+11. alan muš₂-a me-dim₂ bar šu-ta ŋar-ra
+#lem: alan[image]; muš[face]; medim[limbs]; bar[outside]; šu[hand]; ŋar[put]
+#etcsl: line-id=11
+
+12. diŋir sag₉-ga dag-gi₄-a-ka-ni
+#lem: diŋir[deity]; sag[good]; daggi[city quarter]
+#etcsl: line-id=12
+
+13. ud tur-ra-ni-ta nam-ma-ni tar-ra-am₃
+#lem: ud[sun]; tur[small]; nam[fate]; tar[cut]
+#etcsl: line-id=13
+
+14. ne₃ ni-te-am₃ e₂ ušbar-ra-ni si sa₂ mu-un-ak
+#lem: ne[strength]; ni[self]; e[house]; ušbar[father-in-law]; si[horn]; sa[equal]; ak[do]
+#etcsl: line-id=14
+
+15. diŋir nin-a-ni-še₃ sun₅-na-še₃ gub-ba
+#lem: diŋir[deity]; nin[lady]; sun[humble]; gub[stand]
+#etcsl: line-id=15
+
+16. ki {d}inana-ke₄ kiŋ₂-kiŋ₂ mu-un-zu
+#lem: ki[place]; Inanak[1]DN; kiŋ[seek]; zu[know]
+#etcsl: line-id=16
+
+17. (1:inim lugal-la-ke₄:1) inim-bi li-bi-gu-ul-e
+#lem: inim[word]; lugal[king]; inim[word]; gul[destroy]
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) gu₃ de₂ lugal
+#lem: gu[voice]; de[pour]; lugal[king]
+
+18. šu dim₄-ma-am₃ niŋ₂-gur₁₁ mu-un-šar₂-šar₂
+#lem: šu[hand]; dim[check]; niŋgur[property]; šar[numerous]V/i
+#etcsl: line-id=18
+
+19. ki aŋ₂ mi₂ dug₄-ga zi-šag₄-ŋal₂-la-am₃
+#lem: ki[place]; aŋ[measure]; mi[cvne]; dug[speak]; zišagŋal[encouragement]
+#etcsl: line-id=19
+
+20. sila₄ i₃ dug₃-ga lal₃ i₃-nun zal-le šag₄-ga-ke₄
+#lem: sila[lamb]; i[oil]; dug[good]; lal[syrup]; inun[ghee]; zal[pass time]; šag[heart]
+#etcsl: line-id=20
+
+21. ŋiškim ama-ŋu₁₀ 2-kam-ma ga-mu-ra-ab-šum₂
+#lem: ŋeškim[sign]; ama[mother]; n; šum[give]
+#etcsl: line-id=21
+
+22. ama-ŋu₁₀ su₃-ra₂-aŋ₂-gin₇ (1:an-na:1) lu-lim hur-saŋ-ŋa₂
+#lem: ama[mother]; sudaŋ[precious metal or material (possibly amber)]; an[sky]; lulim[stag]; hursaŋ[mountain]
+#etcsl: line-id=22
+
+:22v.1.1: ($1 ms. has instead:$) an-ur₂-ra
+#lem: anur[horizon]
+
+23. mul a₂-gu₂-zig₃-ga (1:ud MAŠ daŋal-la-ke₄:1)
+#lem: mul[star]; aguziga[dawn]; ud[sun]; n; daŋal[wide]
+#etcsl: line-id=23
+
+:23v.1.1: ($1 ms. has instead:$) ud-ud ŋa₂-ŋa₂
+#lem: ud[sun]; ŋar[put]
+
+24. {na₄}gug kal-la {na₄}du₈-ši-a mar-ha-ši{ki}
+#lem: gug[carnelian]; kal[rare]; dušia[stone]; Marhaši[1]GN
+#etcsl: line-id=24
+
+25. gi₁₆-sa šeš lugal hi-li du₈-du₈-a
+#lem: gilsa[treasure]; šeš[brother]; lugal[king]; hili[attractiveness]; du[spread]
+#etcsl: line-id=25
+
+26. (1:{na₄}kišib nir₂-a {d}utu-gin₇ he₂-du₇-a:1)
+#lem: kišib[cylinder seal]; nir[valuable stone]; Utu[1]DN; hedu[ornament]
+#etcsl: line-id=26
+
+:26v.1.1: ($1 ms. has instead:$) gi₁₆ {na₄}gug-am₃ bibra he₂-du₇-a
+#lem: gilsa[treasure]; gug[carnelian]; bibra[stone vessel]; hedu[ornament]
+:26v.1.2: ($1 ms. has instead:$) X gi₄ DU gug {na₄}nir₂ he₂-du₇-a
+#lem: X; gi[turn]; X; gug[carnelian]; nir[valuable stone]; hedu[ornament]
+:26v.1.3: ($1 ms. has instead:$) gi₁₆-gi₁₆-sa# [...]-am₃# bibra# sig₇#-ga-a
+#lem: gilsa[treasure]; X; bibra[stone vessel]; sissig[green-yellow]
+
+27. har an-na šu-gur an-ta-sur-ra
+#lem: har[ring]; anna[metal]; šugur[ring]; antasura[precious metal or stone]
+#etcsl: line-id=27
+
+28. lagab kug-sig₁₇ kug-babbar zalag-ga-kam
+#lem: lagab[block]; kugsig[gold]; kugbabbar[silver]; zalag[bright]
+#etcsl: line-id=28
+
+29. (1:[niŋ₂]-zi-ŋal₂ niŋ₂ zi pa e₃ zi bur₂ HAR-HAR:1)
+#lem: niŋziŋal[living creature]; niŋ[thing]; zi[life]; paŋ[breathe]; e[leave]; zi[life]; bur[spread out]; X
+#etcsl: line-id=29
+
+:29v.1.1: ($1 ms. has instead:$) {ŋiš}pu₂ E zal-le niŋ₂ zi pa-an{aŋ₂}-pa-an{aŋ₂}
+#lem: pu[cistern]; X; zal[pass time]; niŋ[thing]; zi[life]; paŋ[breathe]
+:29v.1.2: ($1 ms. has instead:$) [...] NE# ki X [...]
+#lem: X; X; ki[place]; X; X
+
+30. {d}lamma {na₄}ŋiš-nu₁₁-gal ki-gal {na₄}za-gin₃-na gub-ba-am₃
+#lem: lammar[(female) tutelary deity]; ŋešnugal[alabaster]; kigal[platform]; zagin[lapis lazuli]; gub[stand]
+#etcsl: line-id=30
+
+31. (1:dim₃-ma zu₂ til-la:1) (2:hi-li šu ŋiri₃ gur₃-ru-a:2)
+#lem: dima[small object]; zu[tooth]; til[complete]; hili[attractiveness]; šu[hand]; ŋiri[foot]; gur[lift]
+#etcsl: line-id=31
+
+:31v.1.1: ($2 mss. have instead:$) dim₃-ma til₃-la
+#lem: dima[small object]; til[live (of a single person)]
+:31v.2.1: ($1 ms. has instead:$) ul MAŠ niŋ₂ ur₂-re
+#lem: ul[swell]; X; niŋ[thing]; gur[lift]
+:31v.2.2: ($1 ms. has instead:$) ul {{%akk ul-ṣu₂-u₂}} gur₃-ra
+#lem: ul[swell]; L; gur[lift]
+
+32. ŋiškim ama-ŋu₁₀ 3-kam-ma ga-mu-ra-ab-šum₂
+#lem: ŋeškim[sign]; ama[mother]; n; šum[give]
+#etcsl: line-id=32
+
+33. ama-ŋu₁₀ šeŋ₁₄ (1:an-na:1) a numun saŋ-ŋa₂-ke₄
+#lem: ama[mother]; šeŋ[rain]; an[sky]; a[water]; numun[seed]; saŋ[head]
+#etcsl: line-id=33
+
+:33v.1.1: ($1 ms. has instead:$) ud a₂-ba
+#lem: ud[sun]; a[time]
+
+34. buru₁₄ he₂-nun (1:še gu-nu mu₂-a:1)
+#lem: buru[harvest]; henun[plenty]; še[barley]; gunu[qualification of barley]; mu[grow]
+#etcsl: line-id=34
+
+:34v.1.1: ($1 ms. has instead:$) še! ba-til-la gu-nu dirig
+#lem: še[barley]; til[complete]; gunu[qualification of barley]; dirig[make more than]
+:34v.1.2: ($1 ms. has instead:$) guru₅-gu₂ X an-na
+#lem: guguru[trim down]; X; an[sky]
+:34v.1.3: ($1 ms. has instead:$) bu-lu-ug ba-til gu₂ [...]
+#lem: buluŋ[grow]; til[complete]; gu[neck]; X
+
+35. {ŋiš}kiri₆ (1:me-a:1) (2:i-si-iš la₂-la₂-e:2)
+#lem: kiri[(fruit) plantation]; me[Being]; isiš[tears]; la[hang]
+#etcsl: line-id=35
+
+:35v.1.1: ($1 ms. has instead:$) la-la
+#lem: lala[plenty]
+:35v.2.1: ($1 ms. has instead:$) asil-la₂ si-a
+#lem: asilala[joy]; si[fill]
+
+36. {ŋiš}u₃-suh₅ a de₂-a (1:{ŋiš}li:1) šu tag-ga
+#lem: usuh[tree]; a[water]; de[pour]; li[juniper]; šu[hand]; tag[touch]
+#etcsl: line-id=36
+
+:36v.1.1: ($1 ms. has instead:$) {ŋiš}še u₃-suh₅
+#lem: še[(conifer) cone]; usuh[tree]
+
+37. gurun zag-mu-a (1:niŋ₂-tu-hu-um:1) nesaŋ-ŋa₂
+#lem: gurun[fruit]; zagmuk[new year]; niŋtuhum[fruit]; nesaŋ[first-fruit offering]
+#etcsl: line-id=37
+
+:37v.1.1: ($1 ms. has instead:$) u₂-{ŋiš}kiri₆
+#lem: ukiri[garden produce]
+
+38. pa₅-šita₃ mu₂-sar-re a hi-li-a de₆-a
+#lem: paršita[water channel]; musar[garden]; a[water]; hili[attractiveness]; de[carry]
+#etcsl: line-id=38
+
+39. zu₂-lum dilmun-na ku₇-ku₇ zu₂-lum saŋ kiŋ₂-kiŋ₂-e
+#lem: zulum[the fruit of the date-palm]; Dilmun[1]GN; kud[sweet]; zulum[the fruit of the date-palm]; saŋ[head]; kiŋ[seek]
+#etcsl: line-id=39
+
+40. ŋiškim ama-ŋu₁₀ 4-kam-ma ga-mu-ra-ab-šum₂
+#lem: ŋeškim[sign]; ama[mother]; n; šum[give]
+#etcsl: line-id=40
+
+41. ama-ŋu₁₀ ezen sizkur₂-re asil-la₂ si-a
+#lem: ama[mother]; ezem[festival]; siškur[prayer]; asilala[joy]; si[fill]
+#etcsl: line-id=41
+
+42. (1:sizkur₂:1) a₂-ki-tum igi du₈-de₃ huš-a
+#lem: siškur[prayer]; akiti[festival at new year]; igi[eye]; du[spread]; huš[reddish]
+#etcsl: line-id=42
+
+:42v.1.1: ($1 ms. has instead:$) ezen
+#lem: ezem[festival]
+
+43. (1:lu-lu-gu-na:1) (2:dumu:2) lugal-la i-lu he₂-ŋal₂-la-kam
+#lem: lulubuna[offspring]; dumu[child]; lugal[king]; ilu[lament]; heŋal[plenty]
+#etcsl: line-id=43
+
+:43v.1.1: ($1 ms. has instead:$) lu-li-gu₂-na
+#lem: lulubuna[offspring]
+:43v.1.2: ($1 ms. has instead:$) lu-lu-bu#-na
+#lem: lulubuna[offspring]
+:43v.2.1: ($1 ms. has instead:$) dumu-munus
+#lem: dumumunus[daughter]
+
+44. ki-e-ne-di hul₂-hul₂-le ŋar-ra
+#lem: kiʾenedi[play area]; hul[rejoice]; ŋar[put]
+#etcsl: line-id=44
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+44A. [...] gurun he₂-ŋal₂# [...]
+#lem: X; gurun[fruit]; heŋal[plenty]; X
+#etcsl: line-id=44A
+
+@endvariants
+45. ki aŋ₂ šag₄ ki aŋ₂ la-la nu-gi₄-gi₄-da
+#lem: ki[place]; aŋ[measure]; šag[heart]; ki[place]; aŋ[measure]; lala[plenty]; gi[turn]
+#etcsl: line-id=45
+
+46. inim de₆-a lu₂-nam-ra (1:ama-ni-še₃:1) gur-ra-am₃
+#lem: inim[word]; de[carry]; lunamra[captive]; ama[mother]; gur[turn]
+#etcsl: line-id=46
+
+:46v.1.1: ($1 ms. has instead:$) giri₁₇-zal-še₃
+#lem: kirizal[joy]
+
+47. ŋiškim ama-ŋu₁₀ 5-kam-ma ga-mu-ra-ab-šum₂
+#lem: ŋeškim[sign]; ama[mother]; n; šum[give]
+#etcsl: line-id=47
+
+48. ama-ŋu₁₀ {ŋiš}ŋišnimbar ir-si-im dug₃-dug₃-ga
+#lem: ama[mother]; ŋešnimbar[date-palm]; irsim[fragrance]; dug[good]
+#etcsl: line-id=48
+
+49. gigir šim-li {ŋiš}mar-šum {ŋiš}taškarin
+#lem: gigir[chariot]; li[juniper]; maršum[bed]; taškarin[box tree]
+#etcsl: line-id=49
+
+50. (1:tug₂ sag₉-ga#:1) i₃ gu-la ak-a
+#lem: tug[textile]; sag[good]; i[oil]; gal[big]; ak[do]
+#etcsl: line-id=50
+
+:50v.1.1: ($1 ms. has instead:$) ŠE₃ UD dug₃-ga
+#lem: X; X; dug[good]
+
+51. ga-ra-an he₂-me-du (1:gu₂ me-er-me-er-re-da:1)
+#lem: garan[bunch (of fruit)]; hindum[tiara or garland]; gu[neck]; mer[cvve]
+#etcsl: line-id=51
+
+:51v.1.1: ($1 ms. has instead:$) gu₂ me-er-me-re-de₃ du₇
+#lem: gu[neck]; mer[cvve]; du[perfect]
+
+52. (1::1) {dug}šaŋan nunuz ga-nu₁₁{mušen} i₃ (2:saŋ:2) (3:šag₄-bi dirig:3)
+#lem: šaŋan[flask]; nunuz[egg]; ganu[bird]; i[oil]; saŋ[head]; šag[heart]; dirig[make more than]
+#etcsl: line-id=52
+
+:52v.1.1: ($1 ms. adds:$) ama-ŋu₁₀
+#lem: ama[mother]
+:52v.2.1: ($1 ms. has instead:$) šim
+#lem: šim[aromatic substance]
+:52v.3.1: ($1 ms. has instead:$) šag₄ bi₂-si
+#lem: šag[heart]; si[fill]
+
+@variants
+
+#etcsl#ms 1 ms. adds 2 lines:
+52A. munus sag₉-ga {d}lamma tuku-a mu-X [...]
+#lem: munus[woman]; sag[good]; lammar[(female) tutelary deity]; tuku[acquire]; X; X
+#etcsl: line-id=52A
+
+52B. munus {d}a-ru-ru arhuš mu-ra-an-šum₂ [...] u₃-tud [...]
+#lem: munus[woman]; Aruru[1]DN; arhuš[compassion]; šum[give]; X; utud[give birth (to)]; X
+#etcsl: line-id=52B
+
+@endvariants
+@variants
+
+53. ŋiškim a-ra-dug₄-ga-ŋu₁₀ igi dalla-bi gub-za
+#lem: ŋeškim[sign]; dug[speak]; igi[eye]; dalla[(to be) bright]; gub[stand]
+#etcsl: line-id=53
+
+54. {m}lu₂-diŋir-ra dumu ki aŋ₂-zu silim-ma e-ne-ra dug₄-na
+#lem: Ludiŋira[1]PN; dumu[child]; ki[place]; aŋ[measure]; silim[healthy]; ane[he]; dug[speak]
+#etcsl: line-id=54
+
+@variant
+
+#etcsl#ms instead of lines 53-54, 1 ms. has:
+A. ŋiškim# [a-ra-dug₄]-ga#-ŋu₁₀ ulutim₂ an-šum₂
+#lem: ŋeškim[sign]; dug[speak]; uludin[form]; šum[give]
+#etcsl: line-id=A
+
+B. munus sag₉!-sag₉! {d}lamma-{d}lamma tuku-am₃ e-ne-am₃! ama-ŋu₁₀
+#lem: munus[woman]; sag[good]; lammar[(female) tutelary deity]; tuku[acquire]; ane[he]; ama[mother]
+#etcsl: line-id=B
+
+C. ŋeštug ŋal₂-la še-en hul₂!-le-eš DU-mu-un
+#lem: ŋeštug[ear]; ŋal[⟦be⟧ to be (there]; X; hul[rejoice]; X
+#etcsl: line-id=C
+
+D. {m}lu₂-diŋir-ra dumu ki aŋ₂-ŋa₂-zu silim#-ma# [...] SUM GI₄
+#lem: Ludiŋira[1]PN; dumu[child]; ki[place]; aŋ[measure]; silim[healthy]; X; X; X
+#etcsl: line-id=D
+
+E. X e#-ne-ra dug₄#-[...]
+#lem: X; ane[he]; dug[speak]
+#etcsl: line-id=E
+
+F. X X NE# ga-mu-šum₂ X [...]
+#lem: X; X; X; šum[give]; X; X
+#etcsl: line-id=F
+
+@endvariants
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) Royal courier, start the journey! I want to send you to @wSN{Nibru} -- deliver this message! You are going on a long journey. My mother  @varh[t551.v1]{is worried, she cannot sleep } @vart[t551.v2,t551.v1]{@varn{1 ms. has instead:} is too (?) …… to sleep }. Although the way to  @varh[t551.v3]{her } @vart[t551.v4,t551.v3]{@varn{1 ms. has instead:} the closed } woman's domain is blocked, deliver my letter of greeting into her hands,  @varh[t551.v5]{as she keeps asking } @vart[t551.v6,t551.v5]{@varn{1 ms. has instead:} and then she will not keep asking } the  @varh[t551.v7]{travellers } @vart[t551.v8,t551.v7]{@varn{1 ms. has instead:} wayfarers } about my well-being. Then my mother will be delighted, and will treat you most kindly (?) for it.
+
+#etcsl#altGrpo
+#etcsl#alt t551.v1 t551.v2
+#etcsl#alt t551.v3 t551.v4
+#etcsl#alt t551.v5 t551.v6
+#etcsl#alt t551.v7 t551.v8
+#etcsl#altGrpc
+
+@(9 = 9-20) In case you should not recognise my mother, let me describe her to you. Her name is  @varh[t551.v9]{@wPN{Šat-@wDN{Eštar}} } @vart[t551.v10,t551.v9]{@varn{1 ms. has instead:} @wPN{Šimat-@wDN{Eštar}} },  @varh[t551.v11]{…… by her words } @vart[t551.v12,t551.v11]{@varn{some mss. have instead:} …… } ……. Her body, face and limbs, and outer appearance are ……. She is the fair goddess of her city-quarter. Her fate has been decided since the days of her youth. Single-handed she keeps in order the house of her father-in-law. She serves humbly before her divine mistress. She knows how to look after @wDN{Inana's} place. She never disobeys the  @varh[t551.v13]{orders } @vart[t551.v14,t551.v13]{@varn{1 ms. has instead:} wishes } of the king. She is energetic and causes possessions to multiply. She is loving, gentle, and lively. By nature she is a lamb, sweet butter, honey, flowing ghee.
+
+#etcsl#altGrpo
+#etcsl#alt t551.v9 t551.v10
+#etcsl#alt t551.v11 t551.v12
+#etcsl#alt t551.v13 t551.v14
+#etcsl#altGrpc
+
+@(21 = 21-31) Let me give you another description of my mother: My mother is like the bright light  @varh[t551.v15]{in the sky } @vart[t551.v16,t551.v15]{@varn{1 ms. has instead:} on the horizon }, a doe on the hillsides. She is the morning star,  @varh[t551.v17]{shining even at noon-time } @vart[t551.v18,t551.v17]{@varn{1 ms. has instead:} providing plenty of light }. She is precious cornelian, a topaz from @wGN{Marḫaši}. She is the jewellery of a king's brother, full of beauty. She is  @varh[t551.v19]{a cylinder seal of @fsux{nir} stone, an ornament like the sun } @vart[t551.v20,t551.v19]{@varn{1 ms. has instead:} a cornelian jewel, an ornamental drinking cup } @vart[t551.v21,t551.v19]{@varn{1 ms. has instead:} a cornelian ……, an ornament of @fsux{nir} stone } @vart[t551.v22,t551.v19]{@varn{1 ms. has instead:} a …… jewel, a beautiful drinking cup }. She is a bracelet of tin, a ring of @fsux{antasura} metal. She is a nugget of shining gold and silver,  @varh[t551.v23]{but which is living and draws breath …… } @vart[t551.v24,t551.v23]{@varn{1 ms. has instead:} …… and breathing } @vart[t551.v25,t551.v23]{@varn{1 ms. has instead:} …… place …… }. She is an alabaster statuette of a protective goddess standing on a pedestal of lapis lazuli. She is  @varh[t551.v26]{a polished rod of ivory } @vart[t551.v27,t551.v26]{@varn{2 mss. have instead:} a living figurine (?) },  @varh[t551.v28]{with limbs full of beauty } @vart[t551.v29,t551.v28]{@varn{1 ms. has instead:} …… } @vart[t551.v30,t551.v28]{@varn{1 ms. has instead:} full of pleasure }.
+
+#etcsl#altGrpo
+#etcsl#alt t551.v15 t551.v16
+#etcsl#alt t551.v17 t551.v18
+#etcsl#alt t551.v19 t551.v20 t551.v21 t551.v22
+#etcsl#alt t551.v23 t551.v24 t551.v25
+#etcsl#alt t551.v26 t551.v27
+#etcsl#alt t551.v28 t551.v29 t551.v30
+#etcsl#altGrpc
+
+@(32 = 32-39) Let me give you a third description of my mother: My mother is  @varh[t551.v31]{rain from heaven } @vart[t551.v32,t551.v31]{@varn{1 ms. has instead:} timely rain }, water for the finest seeds. She is a bountiful harvest of  @varh[t551.v33]{fully-grown fine barley } @vart[t551.v34,t551.v33]{@varn{1 ms. has instead:} ripe, exceedingly fine barley } @vart[t551.v35,t551.v33]{@varn{1 ms. has instead:} heavenly …… } @vart[t551.v36,t551.v33]{@varn{1 ms. has instead:} ripe maturity (?) …… }. She is a garden of  @varh[t551.v37]{…… } @vart[t551.v38,t551.v37]{@varn{1 ms. has instead:} delights },  @varh[t551.v39]{full of laughter } @vart[t551.v40,t551.v39]{@varn{1 ms. has instead:} filled with rejoicing }. She is a well-irrigated pine tree,  @varh[t551.v41]{an adorned juniper } @vart[t551.v42,t551.v41]{@varn{1 ms. has instead:} adorned with pine-cones }. She is early fruit, the  @varh[t551.v43]{products } @vart[t551.v44,t551.v43]{@varn{1 ms. has instead:} garden's yield } of the first month. She is an irrigation ditch bringing fertilising water to the garden plots. She is a sweet @wGN{Dilmun} date, a prime date much sought after.
+
+#etcsl#altGrpo
+#etcsl#alt t551.v31 t551.v32
+#etcsl#alt t551.v33 t551.v34 t551.v35 t551.v36
+#etcsl#alt t551.v37 t551.v38
+#etcsl#alt t551.v39 t551.v40
+#etcsl#alt t551.v41 t551.v42
+#etcsl#alt t551.v43 t551.v44
+#etcsl#altGrpc
+
+@(40 = 40-46) Let me give you a fourth description of my mother: My mother fills the festivals and offerings with joy. She is  @varh[t551.v45]{an @fsux{akitum} offering } @vart[t551.v46,t551.v45]{@varn{1 ms. has instead:} the @fsux{akitum} festival }, awesome (?) to look upon. She is the offspring,  @varh[t551.v47]{the child } @vart[t551.v48,t551.v47]{@varn{1 ms. has instead:} the daughter } of the king, a song of abundance. She is a place of entertainment set up for delights.  @vart[t551.v49,t551.v49]{@varn{1 ms. adds:} …… fruit …… abundance. } She is a lover, a loving heart who never becomes sated with pleasure. She is the good news that the captive will return  @varh[t551.v50]{to his mother } @vart[t551.v51,t551.v50]{@varn{1 ms. has instead:} to celebrate }.
+
+#etcsl#altGrpo
+#etcsl#alt t551.v45 t551.v46
+#etcsl#alt t551.v47 t551.v48
+#etcsl#alt t551.v50 t551.v51
+#etcsl#altGrpc
+
+@(47 = 47-52) Let me give you a fifth description of my mother: My mother is a palm-tree, with the sweetest fragrance. She is a chariot of juniper wood, a sedan chair of boxwood. She is  @varh[t551.v52]{a fine cloth } @vart[t551.v53,t551.v52]{@varn{1 ms. has instead:} a good …… } perfumed with refined oil. She is a bunch of grapes, a garland (?)  @varh[t551.v54]{growing luxuriantly } @vart[t551.v55,t551.v54]{@varn{1 ms. has instead:} perfect in luxuriant growth }.  @varh[t551.v56]{She } @vart[t551.v57,t551.v56]{@varn{1 ms. has instead:} My mother } is a phial made from an ostrich egg,  @varh[t551.v58]{overflowing } @vart[t551.v59,t551.v58]{@varn{1 ms. has instead:} full } with  @varh[t551.v60]{finest } @vart[t551.v61,t551.v60]{@varn{1 ms. has instead:} perfumed } oil.  @vart[t551.v62,t551.v62]{@varn{1 ms. adds:} She is a fair woman, accompanied by a protective goddess ……. She is a woman who will show you compassion like (?) @wDN{Aruru}, …… born ……. }
+
+#etcsl#altGrpo
+#etcsl#alt t551.v52 t551.v53
+#etcsl#alt t551.v54 t551.v55
+#etcsl#alt t551.v56 t551.v57
+#etcsl#alt t551.v58 t551.v59
+#etcsl#alt t551.v60 t551.v61
+#etcsl#altGrpc
+
+@(53 = 53-54)  @varh[t551.v63]{When, thanks to the descriptions I have given you, you stand in her (?) radiant presence, tell her: @q[Lu-dijira,Cat-Ectar]{“Your beloved son @wPN{Lu-diŋira} is in good health.”} } @vart[t551.v64,t551.v63]{@varn{1 ms. has instead:} The descriptions I have given you describe (?) her (?) appearance. A most fair woman accompanied by many protective goddesses, she is my mother. Pay attention, …… joyfully ……: @q[Lu-dijira,Cat-Ectar]{“Your beloved son @wPN{Lu-diŋira} is in good health ……”}, tell her …….  @gap{1 line fragmentary}  }
+
+#etcsl#altGrpo
+#etcsl#alt t551.v63 t551.v64
+#etcsl#altGrpc
+
+
+

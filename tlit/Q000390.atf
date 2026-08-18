@@ -1,0 +1,177 @@
+&Q000390 = A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.1.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1.5&display=Crit&charenc=gcirc#
+
+$ (approx. 6 lines missing)
+1. abula#-zu e₃#-[a a mah gaba-šu-ŋar nu-tuku]
+#lem: abula[gate]; e[leave]; a[water]; mah[great]; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=1
+
+2. [eš₃] urim₅#{[ki]} [šag₄-zu kur] he₂-ŋal₂# bar#-[zu hur-saŋ he-nun-na]
+#lem: eš[shrine]; Urim[1]SN; šag[heart]; kur[mountain(s)]; heŋal[plenty]; bar[outside]; hursaŋ[mountain]; henun[plenty]
+#etcsl: line-id=2
+
+3. [e₂]-kiš#-[nu-ŋal₂ hur-saŋ] galam-ma šag₄-bi [lu₂ nu]-zu#
+#lem: Ekišnuŋal[1]TN; hursaŋ[mountain]; galam[skilful]; šag[heart]; lu[person]; zu[know]
+#etcsl: line-id=3
+
+4. ki ut ti-zu# [...] {ŋiš}erin-na mu-zu-še₃ kalam hul₂-[a]
+#lem: ki[place]; u[admiration]; dug[speak]; X; eren[cedar]; mu[name]; kalam[the Land (of Sumer)]; hul[rejoice]
+#etcsl: line-id=4
+
+5. en-zu en sig₇-ga mu pad₃-da
+#lem: en[lord]; en[lord]; sissig[green-yellow]; mu[name]; pad[find]
+#etcsl: line-id=5
+
+6. dumu {d}nin-sumun₂-ka me-te kur-kur-ra
+#lem: dumu[child]; Ninsumunak[1]DN; mete[appropriate thing]; kur[mountain(s)]
+#etcsl: line-id=6
+
+7. urim₅{ki} me gal-zu a-ra₂-ab diŋir-re-ne
+#lem: Urim[1]SN; me[Being]; galanzu[wise]; raba[clamp]; diŋir[deity]
+#etcsl: line-id=7
+
+8. kalam-ma ŋal₂-la teš₂# mu-zu he₂-i-i
+#lem: kalam[the Land (of Sumer)]; ŋal[⟦be⟧ to be (there]; teš[unity]; mu[name]; e[bring out]
+#etcsl: line-id=8
+
+9. kan₄-zu an sig₇-ga su zig₃ gur₃-ru
+#lem: kan[gate]; an[sky]; sissig[green-yellow]; su[flesh]; zig[rise]; gur[lift]
+#etcsl: line-id=9
+
+10. ŋal₂ da₁₃-da₁₃-bi!(GA) {d}utu an-ur₂-ta ud mi-ne#-ŋar-ra-ta
+#lem: ŋal[open]; taka[set aside]; Utu[1]DN; anur[horizon]; ud[sun]; ŋar[put]
+#etcsl: line-id=10
+
+11. gi-ša₃-zu-ta ki nam tar-re diŋir-re-ne
+#lem: kisa[platform]; ki[place]; nam[fate]; tar[cut]; diŋir[deity]
+#etcsl: line-id=11
+
+12. di si sa₂ kud!-me-en teš₂ mu-zu he₂-i-i
+#lem: did[lawsuit]; si[horn]; sa[equal]; kud[cut]; teš[unity]; mu[name]; e[bring out]
+#etcsl: line-id=12
+
+13. šag₄-ga-<zu>-ta ŋiš-hur zid-da hul-ŋal₂ nu-[dab₅]-be₂#
+#lem: šag[heart]; ŋešhur[plan]; zid[right]; huluŋal[evil]; dab[seize]
+#etcsl: line-id=13
+
+14. e₂-kiš-nu-ŋal₂ šag₄-zu ušumgal hul-ŋal₂ nu-un#-zu
+#lem: Ekišnuŋal[1]TN; šag[heart]; ušumgal[great dragon]; huluŋal[evil]; zu[know]
+#etcsl: line-id=14
+
+15. e₂ gi-gun₄-na-zu nidba-zu KID DIM {d}en-lil₂# su₃-ru
+#lem: e[house]; giguna[high sacred terrace]; nindaba[(food) offering]; X; X; Enlil[1]DN; sud[distant]
+#etcsl: line-id=15
+
+16. dub-la₂-mah ki nam tar-re-za diŋir gal-gal-e-ne
+#lem: Dublamah[1]TN; ki[place]; nam[fate]; tar[cut]; diŋir[deity]; gal[big]
+#etcsl: line-id=16
+
+17. nam mi-ni-ib-tar-re-ne
+#lem: nam[fate]; tar[cut]
+#etcsl: line-id=17
+
+18. e₂-temen-ni₂-gur₃-ru# tum₂-ma
+#lem: Etemenniguru[1]TN; tum[suitable]
+#etcsl: line-id=18
+
+19. u₃-tud-da# [...] teš₂# mu-zu he₂-i-i
+#lem: utud[give birth (to)]; X; teš[unity]; mu[name]; e[bring out]
+#etcsl: line-id=19
+
+20. en sig₇-[ga ... sipad] zid ur-{d}namma
+#lem: en[lord]; sissig[green-yellow]; X; sipad[shepherd]; zid[right]; Urnamma[1]RN
+#etcsl: line-id=20
+
+21. urim₅#{[ki]} [...]
+#lem: Urim[1]SN; X
+#etcsl: line-id=21
+
+22. e₂ sig₃-ga# {d}utu-gin₇# AN# [...]
+#lem: e[house]; sig[silent]; Utu[1]DN; X; X
+#etcsl: line-id=22
+
+23. teš₂ mu-zu he₂-i-i ur-{d}namma X [...]
+#lem: teš[unity]; mu[name]; e[bring out]; Urnamma[1]RN; X; X
+#etcsl: line-id=23
+
+24. sun₄ za-gin₃ sud-sud X [...]
+#lem: sum[beard]; zagin[lapis lazuli]; sud[distant]; X; X
+#etcsl: line-id=24
+
+25. lugal hi-li gur₃-ru me-lem₄ kalam#-[ma dul-la]
+#lem: lugal[king]; hili[attractiveness]; gur[lift]; melim[frightening splendor]; kalam[the Land (of Sumer)]; dul[cover]
+#etcsl: line-id=25
+
+#etcsl#cite Cited in Ur III catalogue at Yale, 0.1.2, line 17; OB catalogue from Nibru (N6), 0.2.13, line 12
+
+26. ur-{d}namma {d}dil-im₂-babbar-re šag₄ kug-ge [ba-ni-in-pad₃]
+#lem: Urnamma[1]RN; Dilimbabbar[1]DN; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=26
+
+27. niŋ₂-erim₂ igi-ni-še₃ nu-dib-ba niŋ₂-si-[sa₂]
+#lem: niŋerim[evil]; igi[eye]; dib[pass]; niŋsisa[justice]
+#etcsl: line-id=27
+
+28. {d}ur-{d}namma-ke₄ niŋ₂-gur₁₁ sa₂ bi₂-in-dug₄
+#lem: Urnamma[1]RN; niŋgur[property]; sa[equal]; dug[speak]
+#etcsl: line-id=28
+
+29. lugal-e pa-mul-pa-mul zu
+#lem: lugal[king]; pamul[spreading branch]; zu[know]
+#etcsl: line-id=29
+
+30. {d}ur-{d}namma-ke₄ maš-gi-i-i im-me
+#lem: Urnamma[1]RN; maškim[an administrator]; dug[speak]
+#etcsl: line-id=30
+
+31. inim zu en-na-ke₄ pa-mul-pa-mul zu
+#lem: inim[word]; zu[know]; en[lord]; pamul[spreading branch]; zu[know]
+#etcsl: line-id=31
+
+32. {d}ur-{d}namma-ke₄ maš-gi-i-[i] im-me
+#lem: Urnamma[1]RN; maškim[an administrator]; dug[speak]
+#etcsl: line-id=32
+
+33. lugal-e e₂ {d}suen-na-ke₄
+#lem: lugal[king]; e[house]; Suen[1]DN
+#etcsl: line-id=33
+
+34. {d}ur-{d}namma-ke₄ ni₂ he₂-eb-ši-ib₂-te-en-ten
+#lem: Urnamma[1]RN; ni[self]; ten[extinguish]
+#etcsl: line-id=34
+
+35. lugal-e {id₂}idigna {id₂}buranuna-ke₄
+#lem: lugal[king]; Idigna[1 Tigris]; Buranun[1 Euphrates]
+#etcsl: line-id=35
+
+36. {d}ur-{d}namma-ke₄ nam mu-ni#-ib!(ZU)-tar-re#
+#lem: Urnamma[1]RN; nam[fate]; tar[cut]
+#etcsl: line-id=36
+
+37. nin-bi nin niŋ₂-gur₁₁-ra-ke₄ nin e₂ [...]
+#lem: nin[lady]; nin[lady]; niŋgur[property]; nin[lady]; e[house]; X
+#etcsl: line-id=37
+
+38. {d}ur-{d}namma-ke₄ nam mu-ni-ib-tar-[re]
+#lem: Urnamma[1]RN; nam[fate]; tar[cut]
+#etcsl: line-id=38
+
+39. munus a nun-na#-ke₄ mi₂ zid-de₃-eš# [mu-un-e]
+#lem: munus[woman]; a[water]; nun[prince]; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=39
+
+40. {d}[ur]-{[d]}[namma]-ke₄# |ŊA₂×X| NE NA [...]
+#lem: Urnamma[1]RN; X; X; X; X
+#etcsl: line-id=40
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+&Q000534 = A hymn to Marduk for a king
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.5.b
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.5.b&display=Crit&charenc=gcirc#
+
+1. {d}marduk he₂-til₃-e
+#lem: Marduk[1]DN; til[live (of a single person)]
+#etcsl: line-id=1
+
+2. X-la he₂-ri-ib-si-si
+#lem: X; si[fill]
+#etcsl: line-id=2
+
+3. nam-til₃-zu {d}marduk he₂-eb₂-be₂
+#lem: namtil[life]; Marduk[1]DN; e[speak]
+#etcsl: line-id=3
+
+4. nam-til₃-la-zu he₂-ri-ib-sud-dam
+#lem: namtil[life]; sud[distant]
+#etcsl: line-id=4
+
+5. [ud] du#-ru-še₃ he₂-ri-ib-tuku-a
+#lem: ud[sun]; duri[forever]; tuku[acquire]
+#etcsl: line-id=5
+
+6. he₂-til₃-la
+#lem: til[live (of a single person)]
+#etcsl: line-id=6
+
+7. he₂-silim-ma
+#lem: silim[healthy]
+#etcsl: line-id=7
+
+8. gi₁₆-sa-aš he₂-a
+#lem: gilsa[treasure]; me[be]
+#etcsl: line-id=8
+
+9. ŋiš-šub-ba-zu nam-til₃-la he₂-a
+#lem: ŋeššub[lot]; namtil[life]; me[be]
+#etcsl: line-id=9
+
+10. nam-til₃ šag₄ dug₃-ga ha-la-zu he₂-a
+#lem: namtil[life]; šag[heart]; dug[good]; hala[inheritance share]; me[be]
+#etcsl: line-id=10
+
+11. ud nu₂-a ma-mu₂-zu he₂-en-sag₉
+#lem: ud[sun]; nud[lie down]; mamud[dream]; sag[good]
+#etcsl: line-id=11
+
+12. zig₃-ga-am₃ inim-ŋar-zu he₂-en-sag₉
+#lem: zig[rise]; iŋar[oracular utterance]; sag[good]
+#etcsl: line-id=12
+
+13. ki ŋiri₃ gub-ba-zu silim-ma he₂-ni-ib₂-gen₆
+#lem: ki[place]; ŋiri[foot]; gub[stand]; silim[healthy]; gin[confirm]
+#etcsl: line-id=13
+
+14. til₃#-la lugal-ŋu₁₀ igi an-ne₂ a-a diŋir-re-e-ne-ke₄ sag₉-ga
+#lem: til[live (of a single person)]; lugal[king]; igi[eye]; An[1]DN; aya[father]; diŋir[deity]; sag[good]
+#etcsl: line-id=14
+
+15. [...] lugal-zu kalam-ma he₂-ri-ib-il₂-e
+#lem: X; lugal[king]; kalam[the Land (of Sumer)]; il[raise]
+#etcsl: line-id=15
+
+16. [...] X {ŋiš}gu-za-zu su₃-u₄-ra₂-še₃ hu-mu-un-X X
+#lem: X; X; guza[chair]; sud[distant]; X; X
+#etcsl: line-id=16
+
+17. KA# X gi₁₆#-sa-aš he₂-a
+#lem: X; X; gilsa[treasure]; me[be]
+#etcsl: line-id=17
+
+18. <ŋiš-šub-ba-zu nam-til₃-la he₂-a>
+#lem: ŋeššub[lot]; namtil[life]; me[be]
+#etcsl: line-id=18
+
+19. {d}a-a KA nam-til₃-la X [...] a₂-zu [...]
+#lem: Aya[1]DN; X; namtil[life]; X; X; a[arm]; X
+#etcsl: line-id=19
+
+20. ŋiš DUG-LAGAB a-ra₂ gub-ba ŋiš KA ŋiš LU# [...]
+#lem: ŋeš[tree]; X; ara[way]; gub[stand]; ŋeš[tree]; X; ŋeš[tree]; X; X
+#etcsl: line-id=20
+
+21. diŋir u₂ gu₇-am₃ (1:a silim:1) X til₃-la ud su₃-ra₂ ŋiš-šub-ba-zu ŋa₂-ŋa₂
+#lem: diŋir[deity]; u[plant(s)]; gu[eat]; a[water]; silim[healthy]; X; til[live (of a single person)]; ud[sun]; sud[distant]; ŋeššub[lot]; ŋar[put]
+#etcsl: line-id=21
+
+:21v.1.1: ($1 ms. has instead:$) a naŋ-naŋ
+#lem: a[water]; naŋ[drink]
+
+22. ka-ta gub-ba nam-til₃ ha-ba-rig₇
+#lem: kag[mouth]; gub[stand]; namtil[life]; rig[donate]
+#etcsl: line-id=22
+
+23. he₂-til₃-la he₂-silim-ma gi₁₆-sa-aš he₂-a
+#lem: til[live (of a single person)]; silim[healthy]; gilsa[treasure]; me[be]
+#etcsl: line-id=23
+
+24. ŋiš-šub-ba-zu nam-til₃-la he₂-a
+#lem: ŋeššub[lot]; namtil[life]; me[be]
+#etcsl: line-id=24
+
+25. nam-til₃ šag₄ dug₃-ga ha-la-zu he₂-a
+#lem: namtil[life]; šag[heart]; dug[good]; hala[inheritance share]; me[be]
+#etcsl: line-id=25
+
+26. ud nu₂-a ma-mu₂-zu he₂-en-sag₉
+#lem: ud[sun]; nud[lie down]; mamud[dream]; sag[good]
+#etcsl: line-id=26
+
+27. zig₃-ga-am₃ inim-ŋar-zu he₂-en-sag₉
+#lem: zig[rise]; iŋar[oracular utterance]; sag[good]
+#etcsl: line-id=27
+
+28. ki ŋiri₃ gub-ba-zu silim-ma he₂-ni-ib₂-gen₆#
+#lem: ki[place]; ŋiri[foot]; gub[stand]; silim[healthy]; gin[confirm]
+#etcsl: line-id=28
+
+29. ud du-ru-še₃ he₂-til₃ X [...]
+#lem: ud[sun]; duri[forever]; til[live (of a single person)]; X; X
+#etcsl: line-id=29
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-13) May @wDN{Marduk} grant life! May he make your …… full! May @wDN{Marduk} decree life for you! May he prolong your life, and may he let you keep it for everlasting days! May you live, and may you have peace! May it last forever! May life be your lot, and may a life of contentment be your share! When you lie down to sleep, may your dreams be propitious, and when you rise, may your omens be favourable! Wherever you walk, may you be established in peace!
+
+@(14 = 14-29) May the life of my king be pleasant in the eyes of @wDN{An}, father of the gods! May he let you wear your royal …… in the Land! May your …… throne be …… until distant days! ……, may it last forever, and may life be your lot! May @wDN{Aya} …… life, …… your strength!  @gap{1 line unclear}  May it be your lot to be a god, eating food and  @varh[t285b.v1]{…… peaceful water } @vart[t285b.v2,t285b.v1]{@varn{1 ms. has instead:} drinking water …… } of long life! May a divine command bestow life on you! May you live, and may you have peace! May it last forever and may life be your lot! May a life of contentment be your share! When you lie down to sleep, may your dreams be propitious, and when you rise, may your omens be favourable! Wherever you walk, may you be established in peace! May you live for everlasting days ……!
+
+#etcsl#altGrpo
+#etcsl#alt t285b.v1 t285b.v2
+#etcsl#altGrpc
+
+

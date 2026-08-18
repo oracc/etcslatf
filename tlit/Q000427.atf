@@ -1,0 +1,359 @@
+&Q000427 = An adab (?) to Suen for Šu-Suen (Šu-Suen F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.4.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.4.6&display=Crit&charenc=gcirc#
+
+@div barsud A
+
+A.1. še#-er-zid bad-ta [...]
+#lem: šerzid[radiance]; bad[open]; X
+#etcsl: line-id=A.1
+
+A.2. an-na ni₂-bi# X [...]
+#lem: an[sky]; ni[fear]; X; X
+#etcsl: line-id=A.2
+
+A.3. [...] ŊA₂ kal [...]
+#lem: X; X; kal[rare]; X
+#etcsl: line-id=A.3
+
+A.4. {d}suen# [...]
+#lem: Suen[1]DN; X
+#etcsl: line-id=A.4
+
+A.5. {d}šu-{d}suen# [...] BAD MU X [X X]
+#lem: Šusuen[1]RN; X; X; X; X; X; X
+#etcsl: line-id=A.5
+
+A.6. {d}nanna ša-mu#-u₈#-da-an-u₅ AN [...]
+#lem: Nanna[1]DN; u[ride]; X; X
+#etcsl: line-id=A.6
+
+@div trailer 
+
+A.7. bar-sud-[am₃]
+#lem: barsud[musical notation]
+#etcsl: line-id=A.7
+
+@end trailer
+
+@end barsud
+
+@div šagbatuku B
+
+B.8. hi-li an-na nun uraš-a-X
+#lem: hili[attractiveness]; an[sky]; nun[prince]; uraš[earth]
+#etcsl: line-id=B.8
+
+B.9. šul {d}suen u₁₈-ru ud an ki
+#lem: šul[youth]; Suen[1]DN; urun[exalted]; ud[sun]; an[sky]; ki[place]
+#etcsl: line-id=B.9
+
+B.10. mu he₂-ŋal₂-la X X dug₃ ki-bi-še₃! zal-e
+#lem: mu[year]; heŋal[plenty]; X; X; dug[good]; ki[place]; zal[pass time]
+#etcsl: line-id=B.10
+
+B.11. {d}nanna# en itid-da u₃-tud-X
+#lem: Nanna[1]DN; en[lord]; itud[moon]; utud[give birth (to)]
+#etcsl: line-id=B.11
+
+B.12. {d}šu#-{d}suen-ŋu₁₀ mu-un-u₃-tud#
+#lem: Šusuen[1]RN; utud[give birth (to)]
+#etcsl: line-id=B.12
+
+@div trailer 
+
+B.13. šag₄-ba-tuku-am₃
+#lem: šagbatuku[liturgical rubric]
+#etcsl: line-id=B.13
+
+@end trailer
+
+@end cagbatuku
+
+@div barsud C
+
+C.14. peš₁₀-ŋal₂ ne₃ gal diŋir gal-e-ne
+#lem: pešŋal[mighty?]; ne[strength]; gal[big]; diŋir[deity]; gal[big]
+#etcsl: line-id=C.14
+
+C.15. a-a {d}nanna di-zu eš-bar galam
+#lem: aya[father]; Nanna[1]DN; did[lawsuit]; ešbar[decision]; galam[skilful]
+#etcsl: line-id=C.15
+
+C.16. {d}nu-nam-nir-da nam gal tar-re
+#lem: Nunamnir[1]DN; nam[fate]; gal[big]; tar[cut]
+#etcsl: line-id=C.16
+
+C.17. {d}dil-im₂-babbar šul ki aŋ₂-ŋa₂-na
+#lem: Dilimbabbar[1]DN; šul[youth]; ki[place]; aŋ[measure]
+#etcsl: line-id=C.17
+
+C.18. {d}šu-{d}suen-ŋu₁₀-ur₂ nam mu-ni-ib-tar-re
+#lem: Šusuen[1]RN; nam[fate]; tar[cut]
+#etcsl: line-id=C.18
+
+@div trailer 
+
+C.19. bar-sud 2-kam-ma-am₃
+#lem: barsud[musical notation]; n
+#etcsl: line-id=C.19
+
+@end trailer
+
+@end barsud
+
+@div šagbatuku D
+
+D.20. ud ŋi₆# dug₃#-dug₃ mu zu₂ keše₂-de₃
+#lem: ud[sun]; ŋi[night]; dug[good]; mu[year]; zu[tooth]; kešed[bind]
+#etcsl: line-id=D.20
+
+D.21. {d#}nanna# aga₃ an kug-ga-ke₄
+#lem: Nanna[1]DN; aga[tiara]; an[sky]; kug[pure]
+#etcsl: line-id=D.21
+
+D.22. [X X] X X-ni {d}šu-{d}suen-ŋu₁₀
+#lem: X; X; X; X; Šusuen[1]RN
+#etcsl: line-id=D.22
+
+D.23. X [...] X X X X zu ki-zu ka#
+#lem: X; X; X; X; X; X; zu[know]; ki[place]; kag[mouth]
+#etcsl: line-id=D.23
+
+D.24. X [X X] X A saŋ MU X [...]
+#lem: X; X; X; X; X; saŋ[head]; X; X; X
+#etcsl: line-id=D.24
+
+@div trailer 
+
+D.25. šag₄-ba-tuku 2-kam-ma-am₃
+#lem: šagbatuku[liturgical rubric]; n
+#etcsl: line-id=D.25
+
+@end trailer
+
+@end cagbatuku
+
+@div sa-barsuda E
+
+E.26. [...] {d}nanna# en# gal an ki-a-ka
+#lem: X; Nanna[1]DN; en[lord]; gal[big]; an[sky]; ki[place]
+#etcsl: line-id=E.26
+
+E.27. [X X] X X X pa bi₂-in-e₃
+#lem: X; X; X; X; X; pa[branch]; e[leave]
+#etcsl: line-id=E.27
+
+E.28. [...] X al-barag₂-ge
+#lem: X; X; barag[spread out]
+#etcsl: line-id=E.28
+
+E.29. [...] X X X X
+#lem: X; X; X; X; X
+#etcsl: line-id=E.29
+
+E.30. [...] X X
+#lem: X; X; X
+#etcsl: line-id=E.30
+
+$ (approx. 1 line missing)
+E.32. [...] X NAM [...]
+#lem: X; X; X; X
+#etcsl: line-id=E.32
+
+E.33. [...] X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=E.33
+
+E.34. [...] kisal# aga zid an-na X X
+#lem: X; kisal[courtyard]; aga[tiara]; zid[right]; an[sky]; X; X
+#etcsl: line-id=E.34
+
+E.35. [...] X saŋ-ŋa₂ na mi-ni-in-degₓ(RI)
+#lem: X; X; saŋ[head]; na[cvne]; deg[gather up]
+#etcsl: line-id=E.35
+
+E.36. {[d]}[šu]-{[d]}[suen]-ŋu₁₀ nun kalam-ma-ka
+#lem: Šusuen[1]RN; nun[prince]; kalam[the Land (of Sumer)]
+#etcsl: line-id=E.36
+
+@div trailer 
+
+E.37. [sa]-bar#-sud-da-am₃
+#lem: sabarsud[notation]
+#etcsl: line-id=E.37
+
+@end trailer
+
+@end sa-barsuda
+
+@div ŋišgiŋal F
+
+F.38. [...] ud-da-a-ni {d}šu-{d}suen-ŋu₁₀ su₃-ud-mu-un-ši
+#lem: X; ud[sun]; Šusuen[1]RN; sud[distant]
+#etcsl: line-id=F.38
+
+F.39. {[d]}[šu]-{[d]}suen#-ŋu₁₀ an-da mu₂-a
+#lem: Šusuen[1]RN; an[sky]; mu[grow]
+#etcsl: line-id=F.39
+
+@div trailer 
+
+F.40. ŋiš-gi₄-ŋal₂-bi#-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=F.40
+
+@end trailer
+
+@end jicgijal
+
+@div sa-ŋara G
+
+G.41. en dumu an-na [...]-a
+#lem: en[lord]; dumu[child]; An[1]DN; X
+#etcsl: line-id=G.41
+
+G.42. si mul-mul-da# [...] X-ka
+#lem: si[horn]; mul[shine]; X; X
+#etcsl: line-id=G.42
+
+G.43. {d}nanna gal-di [...] NE
+#lem: Nanna[1]DN; galdi[exalted]; X; X
+#etcsl: line-id=G.43
+
+G.44. KA-KA-ga niŋ₂ X PA X X X
+#lem: X; niŋ[thing]; X; X; X; X; X
+#etcsl: line-id=G.44
+
+G.45. ud ŋiš-he₂-a ud uraš-a
+#lem: ud[sun]; ŋešhe[firmament]; ud[sun]; uraš[earth]
+#etcsl: line-id=G.45
+
+G.46. su-lim-ma-ni uŋ₃-e dub₃ bar-bar-re
+#lem: sulim[awesome radiance]; uŋ[people]; dub[knee]; bar[place outside]
+#etcsl: line-id=G.46
+
+G.47. en {d}dil-im₂-babbar ušum# pa e₃
+#lem: en[lord]; Dilimbabbar[1]DN; ušum[snake]; pa[branch]; e[leave]
+#etcsl: line-id=G.47
+
+G.48. šul {d}suen muš₃ kug ki us₂-sa
+#lem: šul[youth]; Suen[1]DN; muš[face]; kug[purify]; ki[place]; us[accompany]
+#etcsl: line-id=G.48
+
+G.49. {d}nanna an ki-a u₅-a e₃{e}
+#lem: Nanna[1]DN; an[sky]; ki[place]; u[ride]; e[leave]
+#etcsl: line-id=G.49
+
+G.50. {[d]}[šu]-{d}suen kalam-ma am₃-mi-in-u₅
+#lem: Šusuen[1]RN; kalam[the Land (of Sumer)]; u[ride]
+#etcsl: line-id=G.50
+
+G.51. X [...] ni₂# gur₃-ru an-e ušumgal
+#lem: X; X; ni[fear]; gur[lift]; an[sky]; ušumgal[great dragon]
+#etcsl: line-id=G.51
+
+G.52. [X X] X ni₂! gur₃-ru an-na [...]
+#lem: X; X; X; ni[fear]; gur[lift]; an[sky]; X
+#etcsl: line-id=G.52
+
+G.53. [X X] X nun {d}šu-{d}suen-ŋu₁₀ nir ša-mu-u₈#-da-ŋal₂-la
+#lem: X; X; X; nun[prince]; Šusuen[1]RN; nir[lordly]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=G.53
+
+G.54. [...] gu₂-da mu-ni-in-la₂-la₂#
+#lem: X; gu[neck]; la[hang]
+#etcsl: line-id=G.54
+
+G.55. [...] X [X X] kur-kur niŋ₂-daŋal-ba#
+#lem: X; X; X; X; kur[mountain(s)]; niŋdaŋala[vastness]
+#etcsl: line-id=G.55
+
+G.56. ŋidru# ud# su₃-ra₂ X X [X X]
+#lem: ŋidru[scepter]; ud[sun]; sud[distant]; X; X; X; X
+#etcsl: line-id=G.56
+
+G.57. uŋ₃ ki-bal-a X [...] BI X
+#lem: uŋ[people]; kibala[rebel land]; X; X; X; X
+#etcsl: line-id=G.57
+
+G.58. kilib₃-ba-bi HI [...] |DU.DU|-e
+#lem: kilib[total]; X; X; X
+#etcsl: line-id=G.58
+
+G.59. dumu nun zi-le {d}[en-lil₂]-la₂#-še₃
+#lem: dumu[child]; nun[prince]; zil[good]; Enlil[1]DN
+#etcsl: line-id=G.59
+
+G.60. {d}šu-{d}suen šu-ni-a [...] mi#-in-si
+#lem: Šusuen[1]RN; šu[hand]; X; si[fill]
+#etcsl: line-id=G.60
+
+G.61. lugal-ŋu₁₀ EZEN X-la
+#lem: lugal[king]; X; X
+#etcsl: line-id=G.61
+
+G.62. {d}šu-{d}suen giri₁₇-zal X [...] X-ka
+#lem: Šusuen[1]RN; kirizal[joy]; X; X; X
+#etcsl: line-id=G.62
+
+@div trailer 
+
+G.63. sa-[ŋar-ra-am₃]
+#lem: saŋara[musical notation]
+#etcsl: line-id=G.63
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal H
+
+H.64. {d}šu-{d}suen-ŋu₁₀ ud til₃-la# [...]
+#lem: Šusuen[1]RN; ud[sun]; til[live (of a single person)]; X
+#etcsl: line-id=H.64
+
+@div trailer 
+
+H.65. <ŋiš-gi₄-ŋal₂-bi-im>
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=H.65
+
+@end trailer
+
+@end jicgijal
+
+@div uru I
+
+I.66. en an-na dug₃-ŋal₂ ki [...]
+#lem: en[lord]; an[sky]; dugŋal[well-disposed?]; ki[place]; X
+#etcsl: line-id=I.66
+
+I.67. šul {d}suen en an-na-kam X [...]
+#lem: šul[youth]; Suen[1]DN; en[lord]; an[sky]; X; X
+#etcsl: line-id=I.67
+
+I.68. {d#}šu-{d}suen# X X X [...]
+#lem: Šusuen[1]RN; X; X; X; X
+#etcsl: line-id=I.68
+
+@div trailer 
+
+I.69. u₁₈#-ru₁₂-bi-im# X
+#lem: uru[literary subscript]; X
+#etcsl: line-id=I.69
+
+@end trailer
+
+@end uru
+
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+&Q000688 = An excerpt from a hymn to Nanna
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.c
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.c&display=Crit&charenc=gcirc#
+
+1. diŋir diŋir-re-e-ne DI bi₂-in-X
+#lem: diŋir[deity]; diŋir[deity]; X; X
+#etcsl: line-id=1
+
+2. un₃-na e₃ me an-na šu du₇
+#lem: un[high]; e[leave]; me[Being]; an[sky]; šu[hand]; du[perfect]
+#etcsl: line-id=2
+
+3. men ri-ba še-er-zid X nun X an-na
+#lem: men[tiara]; rib[surpassing]; šerzid[radiance]; X; nun[prince]; X; an[sky]
+#etcsl: line-id=3
+
+4. mi₂ zid dug₄-ga an {d}uraš-a u₃-tud-da dur-an-ki
+#lem: mi[cvne]; zid[right]; dug[speak]; An[1]DN; Uraš[1]DN; utud[give birth (to)]; Durankik[1]TN
+#etcsl: line-id=4
+
+5. ud še-er-zid men urim₂{ki}-ma
+#lem: ud[sun]; šerzid[radiance]; men[tiara]; Urim[1]SN
+#etcsl: line-id=5
+
+6. niŋ₂ dug₃-ge niŋ₂ dug₃-ge al na-an-ga-am₃-mi-in-dug₄
+#lem: niŋ[thing]; dug[good]; niŋ[thing]; dug[good]; al[cvne]; dug[speak]
+#etcsl: line-id=6
+
+7. en-e nam %e uru₂-na %s tar-re-de₃ {d}en-lil₂ mu-un-kuš₂-u₃
+#lem: en[lord]; nam[fate]; uru[city]; tar[cut]; Enlil[1]DN; kušu[tired]
+#etcsl: line-id=7
+
+8. a-a-ŋu₁₀ %e uru₂-ŋu₁₀ %s ki-bi ha-ma-gi₄-gi₄
+#lem: aya[father]; uru[city]; ki[place]; gi[turn]
+#etcsl: line-id=8
+
+9. dug₄-ga zid-zid-da a-a {d}nanna šu-ni na-e₃
+#lem: dug[speak]; zid[right]; aya[father]; Nanna[1]DN; šu[hand]; e[leave]
+#etcsl: line-id=9
+
+10. nam₂ nun-e nam₂ nun-e nam-nun gal diŋir-re-e-ne-ke₄
+#lem: nam[lord]; nun[prince]; nam[lord]; nun[prince]; namnun[magnificence]; gal[big]; diŋir[deity]
+#etcsl: line-id=10
+
+11. e₂ an-gin₇ ni₂ su zig₃ ri-a me-lem₄-ma gur₃-ru-me-en
+#lem: e[house]; an[sky]; ni[fear]; su[flesh]; zig[rise]; ri[impose]; melim[frightening splendor]; gur[lift]
+#etcsl: line-id=11
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-5) God who …… among the gods, coming forth on high, perfecting the divine powers of heaven! Outstanding crown, radiance, ……, prince, …… of heaven, justly cherished by @wDN{An} and @wDN{Uraš}! Born in @wTN{Dur-an-ki}! Light, radiance and crown of @wSN{Urim}!
+
+@(6 = 6-8) Now in addition he desired something good, something good. The lord wearied @wDN{Enlil} to determine the fate of his city: @q[Nanna,Enlil]{“My father, may you restore my city for me!”}
+
+@(9 = 9-11) No one should escape the grasp of Father @wDN{Nanna}, him of most just words! Princely lord, princely lord, great princeliness among the gods! In the temple that, like the heavens, inspires terror and fear, you are awesome.
+
+
+

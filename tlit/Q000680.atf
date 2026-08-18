@@ -1,0 +1,235 @@
+&Q000680 = A šir-namšub to Suen (Nanna K)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.11
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.11&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. an-gin₇ su₃-ra₂-e ki#-[gin₇ ...]
+#lem: an[sky]; sud[distant]; ki[place]; X
+#etcsl: line-id=A.A.1
+
+A.A.2. %e u₃-mu-un %s {d}nanna an-gin₇ su₃-ra₂-e ki-[gin₇ ...]
+#lem: umun[lord]N; Nanna[1]DN; an[sky]; sud[distant]; ki[place]; X
+#etcsl: line-id=A.A.2
+
+A.A.3. %e u₃-mu-un %s {d}dil-im₂-babbar an-gin₇ su₃-ra₂-e ki-gin₇# [...]
+#lem: umun[lord]N; Dilimbabbar[1]DN; an[sky]; sud[distant]; ki[place]; X
+#etcsl: line-id=A.A.3
+
+A.A.4. %e mu-nu₁₀-de₃ %s ki ab₂ lu-a-na#
+#lem: munud[herdsman]; ki[place]; ab[cow]; lu[abundant]
+#etcsl: line-id=A.A.4
+
+A.A.5. {d}suen-e tur₃-ta %e mu-lu %s mu-un-gi₄#
+#lem: Suen[1]DN; tur[animal stall]; mulu[person]N; gi[turn]
+#etcsl: line-id=A.A.5
+
+A.A.6. X [...] amar lu-a-na
+#lem: X; X; amar[calf]; lu[abundant]
+#etcsl: line-id=A.A.6
+
+A.A.7. {d}suen-e [tur₃-ta] %e mu-lu %s mu-un-gi₄#
+#lem: Suen[1]DN; tur[animal stall]; mulu[person]N; gi[turn]
+#etcsl: line-id=A.A.7
+
+A.A.8. {d}suen X [...] X MI ZI₂ X X X
+#lem: Suen[1]DN; X; X; X; X; X; X; X; X
+#etcsl: line-id=A.A.8
+
+A.A.9. {d}nanna [...] X X X X X
+#lem: Nanna[1]DN; X; X; X; X; X; X
+#etcsl: line-id=A.A.9
+
+A.A.10. %e aŋ₂ %s [...]
+#lem: aŋ[thing]N; X
+#etcsl: line-id=A.A.10
+
+A.A.11. {d}suen X [...] X
+#lem: Suen[1]DN; X; X; X
+#etcsl: line-id=A.A.11
+
+A.A.12. lu₂ nitalam!(|UŠ.MUNUS.UŠ.DI|) [...]
+#lem: lu[person]; ŋidlam[(equal ranking) spouse]; X
+#etcsl: line-id=A.A.12
+
+A.A.13. lu₂ X {d}nin-gal-e [...]
+#lem: lu[person]; X; Ningal[1]DN; X
+#etcsl: line-id=A.A.13
+
+A.A.14. i₃ mu-da-ŋal₂ [...]
+#lem: i[oil]; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=A.A.14
+
+A.A.15. i₃-te-er-da [...]
+#lem: itirda[dairy product]; X
+#etcsl: line-id=A.A.15
+
+A.A.16. ga-ar₃ IM ga-gin₇ [...]
+#lem: gaʾar[cheese]; X; ga[milk]; X
+#etcsl: line-id=A.A.16
+
+A.A.17. ama {d}nin-gal [...]
+#lem: ama[mother]; Ningal[1]DN; X
+#etcsl: line-id=A.A.17
+
+A.A.18. lu₂ DI %e mu-ud-na-ŋu₁₀ %s [...]
+#lem: lu[person]; X; mudna[spouse]N; X
+#etcsl: line-id=A.A.18
+
+A.A.19. lu₂ DI {d}suen-ŋu₁₀ [...]
+#lem: lu[person]; X; Suen[1]DN; X
+#etcsl: line-id=A.A.19
+
+A.A.20. lu₂ [a] tu₅-a-ŋu₁₀ [...]
+#lem: lu[person]; a[water]; tu[cvve]; X
+#etcsl: line-id=A.A.20
+
+A.A.21. [X X] X X X-ŋu₁₀ [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.A.21
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div kirugu B
+
+B.B.1. %e u₃-mu-un-e %s dug₄-ga# [zid-da ...]
+#lem: umun[lord]N; dug[speak]; zid[right]; X
+#etcsl: line-id=B.B.1
+
+B.B.2. %e u₃-mu-un-e %s <e₂>-kiš{ki}-[nu-ŋal₂ ...]
+#lem: umun[lord]N; Ekišnuŋal[1]TN; X
+#etcsl: line-id=B.B.2
+
+B.B.3. id₂-da a-eštub si-a-na [...]
+#lem: id[river]; aʾeštub[early flooding]; si[fill]; X
+#etcsl: line-id=B.B.3
+
+B.B.4. a-šag₄-ga še gu-nu ŋal₂-la X [...]
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; ŋal[⟦be⟧ to be (there]; X; X
+#etcsl: line-id=B.B.4
+
+B.B.5. ambar!-ra |HI.SUHUR| suhur{ku₆} [...]
+#lem: ambar[reed-bed]; HI.SUHUR[fish]; suhur[carp]; X
+#etcsl: line-id=B.B.5
+
+B.B.6. %e mu-gi-e %s gi sumun gi [henbur ...]
+#lem: mugi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; X
+#etcsl: line-id=B.B.6
+
+B.B.7. tir-tir-e šeg₉ [šeg₉-bar ...]
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; X
+#etcsl: line-id=B.B.7
+
+B.B.8. an-edin-na %e {mu}maš-gurum!# [...]
+#lem: aneden[the high steppe]; mašgurum[plant]; X
+#etcsl: line-id=B.B.8
+
+B.B.9. pu₂-kiri₆ lal₃ ŋeštin# [...]
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; X
+#etcsl: line-id=B.B.9
+
+B.B.10. mu-sar-re hi-iz{sar} [za₃-hi-li]{[sar]} [...]
+#lem: musar[garden]; hiz[vegetable]; zahili[plant]; X
+#etcsl: line-id=B.B.10
+
+B.B.11. e₂-gal!-e zi su₃-ud-[ŋal₂ ...]
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; X
+#etcsl: line-id=B.B.11
+
+B.B.12. [...] ŋe₂₆-e mu-un-til₃-le#
+#lem: X; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=B.B.12
+
+B.B.13. [...] ki X-za-am₃ ŋe₂₆-e mu-un-[til₃-le]
+#lem: X; ki[place]; X; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=B.B.13
+
+B.B.14. [...] %e še-eb %s urim₂{ki}-ma-za
+#lem: X; šeb[brick]N; Urim[1]SN
+#etcsl: line-id=B.B.14
+
+B.B.15. [X X] X {d}nanna-za
+#lem: X; X; X; Nanna[1]DN
+#etcsl: line-id=B.B.15
+
+B.B.16. dub-la₂-mah ki di# ku₅#-re-za
+#lem: Dublamah[1]TN; ki[place]; did[lawsuit]; kud[cut]
+#etcsl: line-id=B.B.16
+
+B.B.17. arahₓ(|UŠ.GID₂.DA|) ŋeštin! lal₃-za
+#lem: arah[storehouse]; ŋeštin[vine]; lal[syrup]
+#etcsl: line-id=B.B.17
+
+B.B.18. kar-zid-da kar ma₂-gur₈-ra-[za]
+#lem: Karzida[1]TN; kar[harbor]; magur[barge]
+#etcsl: line-id=B.B.18
+
+B.B.19. e₂ an-na-za e₂ ki aŋ₂-za ŋe₂₆-e mu-un-til₃#-[le]
+#lem: e[house]; an[sky]; e[house]; ki[place]; aŋ[measure]; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=B.B.19
+
+B.B.20. {d}nanna igi-nim-ta kur šim {ŋiš}erin-na-za ŋe₂₆-[e mu-un-til₃-le]
+#lem: Nanna[1]DN; iginim[upper land]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=B.B.20
+
+B.B.21. %e u₃-mu-un %s {d}nanna %e uru₂-za-a %s mu-un-[til₃-le]
+#lem: umun[lord]N; Nanna[1]DN; uru[city]; til[live (of a single person)]
+#etcsl: line-id=B.B.21
+
+B.B.22. ab₂ i₃-lu amar i₃-lu mu-un#-[til₃-le]
+#lem: ab[cow]; lu[abundant]; amar[calf]; lu[abundant]; til[live (of a single person)]
+#etcsl: line-id=B.B.22
+
+B.B.23. {d}nanna urim₂{ki}-ma-za mu#-[un-til₃-le]
+#lem: Nanna[1]DN; Urim[1]SN; til[live (of a single person)]
+#etcsl: line-id=B.B.23
+
+B.B.24. %e u₃-mu-un mu-nu₂ %s ba-ši-in-ga-an-[... %s ...]
+#lem: umun[lord]N; munud[bed]N; X; X
+#etcsl: line-id=B.B.24
+
+B.B.25. %e u₃-mu-un %s lil₂ zid an-edin RA U₃ [...]
+#lem: umun[lord]N; lil[ghost]; zid[right]; aneden[the high steppe]; X; X; X
+#etcsl: line-id=B.B.25
+
+B.B.26. %e u₃-mu-un %s lugal dumu an-na meš₃ ki gal X [...]
+#lem: umun[lord]N; lugal[king]; dumu[child]; An[1]DN; mes[hero]; ki[place]; gal[big]; X; X
+#etcsl: line-id=B.B.26
+
+@div trailer 
+
+B.B.27. ki-ru-gu₂ 3-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=B.B.27
+
+@end trailer
+
+@end kirugu
+
+@div trailer 
+
+B.B.28. šir₃-nam-šub {d}suen-na-kam
+#lem: širnamšubak[subscript]; Suen[1]DN
+#etcsl: line-id=B.B.28
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

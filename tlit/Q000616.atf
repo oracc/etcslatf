@@ -1,0 +1,400 @@
+&Q000616 = A hymn to Bau's beneficent protective goddess (Bau A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.02.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.02.1&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (note@c4021.seg1!c4021.n1: These four segments possibly belong to the same composition, in which their sequence is uncertain (Segment A = CBS 10986, B followed by C = U 16868, and D = Ni 4369))
+$ (unknown no. of lines missing)
+A.1. [...] X [...] {{%akk [...]}}
+#lem: X; X; X; L
+#etcsl: line-id=A.1
+
+A.2. [...] X [...] {{%akk [...]}}
+#lem: X; X; X; L
+#etcsl: line-id=A.2
+
+A.3. [...] X X [...] X [...] {{%akk [...]}}
+#lem: X; X; X; X; X; X; L
+#etcsl: line-id=A.3
+
+A.4. {[d]}[lamma] sag₉-ga {d}ba-u₂ mi₂-bi X X ga#-mu-u₈-de₃-en#
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; X; X; e[speak]
+#etcsl: line-id=A.4
+
+A.5. X X X X zu a kar-ra X [...] {{%akk [...] %akk i-qa₂-ab-bu#-[u₂] %akk [...]}}
+#lem: X; X; X; X; zu[know]; a[water]; kar[harbor]; X; X; L; L; L
+#etcsl: line-id=A.5
+
+A.6. X X X X ib₂-be₂-a a kar-ra X [...] {{%akk [...] %akk i-qa₂-ab-bu#-u₂ %akk X %akk [...]}}
+#lem: X; X; X; X; e[speak]; a[water]; kar[harbor]; X; X; L; L; L; L
+#etcsl: line-id=A.6
+
+A.7. X X DU ŋiškim-til₃ BI saŋ šu X [...] {{%akk [...] %akk a-la-ki-šu %akk ta-ki-il#-[...]}}
+#lem: X; X; X; ŋeškimtil[trust]; X; saŋ[head]; šu[hand]; X; X; L; L; L
+#etcsl: line-id=A.7
+
+A.8. X X NI ki šu nu-la₂-e-da usu i₃-X [...] {{%akk [...] %akk [...] %akk X %akk X %akk [...] %akk X %akk u₂-ul %akk i-ša-X %akk X %akk [...]}}
+#lem: X; X; X; ki[place]; šu[hand]; la[hang]; usu[strength]; X; X; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.8
+
+A.9. X NE niŋ₂-tuk-u₃ nu#-[...]-X-du šu nu-la₂-e-[da] {{%akk a-na %akk ša-ri#-im %akk u₂-ul# %akk il-la-ak %akk X %akk [...]}}
+#lem: X; X; niŋtuku[rich]; ŋen[go]; šu[hand]; la[hang]; L; L; L; L; L; L
+#etcsl: line-id=A.9
+
+A.10. X LA₂ X nu-X X [...] X-da dug₃-ga DI X X {{%akk u₂-ul# %akk [...] %akk [...] %akk KI-it-ti %akk X %akk ŠA %akk NU %akk X %akk [...]}}
+#lem: X; X; X; X; X; X; X; dug[good]; X; X; X; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.10
+
+A.11. ma₂-gur₈ {d}suen sud-sud# [nin] a-na-zu nu-zil₂-zil₂-i {{%akk [e]-le-pu %akk [...] %akk [...]-tum %akk ša %akk i-ša-ad-de₃-hu# %akk NIN# %akk mi#-[in-ki] %akk [la] %akk [...]}}
+#lem: magur[barge]; Suen[1]DN; sud[distant]; nin[lady]; ana[what?]; zil[good]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.11
+
+A.12. an-ti-bal ul gur₃-ru {[d]}lamma a-na-zu nu-sag₉ {{%akk [...] %akk X %akk X %akk [...] %akk [ul]-ṣa %akk na-ši-a-at %akk {d}LAMA# %akk mi#-[in-ki] %akk [la] %akk [...]}}
+#lem: antibal[sign]; ul[swell]; gur[lift]; lammar[(female) tutelary deity]; ana[what?]; sag[good]; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.12
+
+A.13. {[d]}[lamma] sag₉-ga {d}ba-u₂ mi₂-bi# <X X ga-mu-u₈-de₃-en> {{%akk {[d]}[LAMA] %akk [da-mi-iq]-tum# %akk ša %akk {d}ba-u₂ %akk [te-ek-ni-tum]}}
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; X; X; e[speak]; L; L; L; L; L
+#etcsl: line-id=A.13
+
+A.14. [...] ŋiš-ta du-a-ni {{%akk [...]-ši %akk a-la#-[ki-ša]}}
+#lem: X; ŋeš[tree]; du[go]; L; L
+#etcsl: line-id=A.14
+
+A.15. [...] X X X [...] {{%akk [...] %akk X %akk X %akk X %akk [...]}}
+#lem: X; X; X; X; X; L; L; L; L; L
+#etcsl: line-id=A.15
+
+A.16. [...] {{%akk [...] %akk X %akk X %akk X %akk X %akk X}}
+#lem: X; L; L; L; L; L; L
+#etcsl: line-id=A.16
+
+A.17. [...] {{%akk [...] %akk X %akk i-na %akk i-di-šu %akk ša-ki-[in]}}
+#lem: X; L; L; L; L; L
+#etcsl: line-id=A.17
+
+A.18. [...] {{%akk [...] %akk [ta-ad]-di-ni-šum-ma}}
+#lem: X; L; L
+#etcsl: line-id=A.18
+
+A.19. [...] {{%akk [...] %akk ta-na-ad-di}}
+#lem: X; L; L
+#etcsl: line-id=A.19
+
+A.20. [...] la-ba-ni₁₀-ni₁₀ {{%akk in# %akk [...]-pa-at-su₂ %akk X %akk X %akk ba-nu %akk u₂-ul %akk i-ik-lu₅-šu}}
+#lem: X; niŋin[encircle]; L; L; L; L; L; L; L
+#etcsl: line-id=A.20
+
+A.21. [...] X TUM mu-un-da-ab-dub {{%akk ik#-[...] %akk [...] %akk X %akk X-ak-nu-šum-ma %akk a-na %akk ša-a-ši-im %akk i-ik-mi-i-is-si₂-X}}
+#lem: X; X; X; dub[heap up]; L; L; L; L; L; L; L
+#etcsl: line-id=A.21
+
+A.22. [...] ud šu₂-uš ŋiri₃ X %s i₃-im-X {{%akk ba %akk ak %akk X %akk šu %akk šar-ru %akk u₄-mi-ša %akk a-na %akk še-pi-ša %akk ša-pi-ik}}
+#lem: u; ud[sun]; šuš[cover]; ŋiri[foot]N; u; X; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.22
+
+A.23. [...] X dug₃-zu nin-ŋu₁₀ im-mi-in-ši-X {{%akk i-na %akk i-mi-it-ti-šu %akk X %akk X-ki %akk ṭa-ba-am %akk be-el-ti %akk i-ZA-[...]}}
+#lem: X; X; dug[good]; nin[lady]; X; L; L; L; L; L; L; L
+#etcsl: line-id=A.23
+
+A.24. [X X] X giri₁₇#-zal sug₄ nin a-na-zu nu-zil₂-zil₂-i {{%akk bi-it %akk ni-gu-tim %akk ša %akk ta-ši-il-tam %akk ma-lu-u₂ %akk NIN %akk mi-in-ki# %akk la# %akk [...]}}
+#lem: X; X; X; kirizal[joy]; sug[full]; nin[lady]; ana[what?]; zil[good]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.24
+
+A.25. [X X] X mah kalam-ma {d}lamma a-na-zu nu-sag₉ {{%akk u₄-um %akk ri-ša-tim %akk ṣi₂-rum %akk ša %akk ma-ti %akk {d}LAMA %akk mi-in-ki %akk la %akk [...]}}
+#lem: X; X; X; mah[great]; kalam[the Land (of Sumer)]; lammar[(female) tutelary deity]; ana[what?]; sag[good]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.25
+
+A.26. {d}lamma sag₉-ga {d}ba-u₂ mi₂-bi <X X ga-mu-u₈-de₃-en> {{%akk {d}LAMA %akk da-mi-iq-tum %akk ša %akk {d}ba-u₂ %akk te-ek-ni#-[tum]}}
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; X; X; e[speak]; L; L; L; L; L
+#etcsl: line-id=A.26
+
+A.27. munus zid nin šu tab-ba til₃ mu₂-da-ni i₃-dug₄-ga {{%akk MUNUS %akk ZID %akk ru-ba-tum %akk ka-mi-is-tum %akk ša %akk ba-la-as-sa₃# %akk iq#-[...]}}
+#lem: munus[woman]; zid[right]; nin[lady]; šu[hand]; tab[double]; til[live (of a single person)]; mu[grow]; dug[speak]; L; L; L; L; L; L; L
+#etcsl: line-id=A.27
+
+A.28. ud me-da |DU.DU| inim bal-bal-e-da-ni {{%akk i-na %akk ma-ti-ma %akk i-na %akk a-tal₂-lu-ki %akk i-na %akk at-wi#-[i-ša]}}
+#lem: ud[sun]; meta[where from? whence?]; X; inim[word]; bala[turn]; L; L; L; L; L; L
+#etcsl: line-id=A.28
+
+A.29. a₂-gu₂-zig₃-ta zur-zur-re-eš₂ zag-ga-na šub-bu-dam {{%akk i-na %akk ki-ma %akk še-er-tim %akk i-na %akk ku-te-en-ni-i %akk zu-X %akk X %akk a-na# %akk [...] %akk [...]}}
+#lem: aguziga[dawn]; zur[take care of]; zag[side]; šub[fall]; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.29
+
+A.30. mu-zu gug₂ i₃ ga-gin₇ ka-ge mu-na-ab-si-a {{%akk šum-ki %akk ki-ma %akk ku-uk-ki %akk šam-ni %akk u₃ %akk lil₂-di %akk pi-a-am %akk ma-[X-X]}}
+#lem: mu[name]; gug[cake]; i[oil]; ga[milk]; kag[mouth]; si[fill]; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.30
+
+A.31. niŋ₂ sila{si-la₂}-ta de₆{de}-a-na kaš sur-ra-na saŋ-bi {{%akk mi-im-ma %akk ša %akk iš-tu %akk su₂-qi₂-im %akk i-na %akk ba-ba-li-ša %akk SIPAD-eš-ti %akk [...] %akk [...]}}
+#lem: niŋ[thing]; sila[street]; de[carry]; kaš[beer]; sur[press]; saŋ[head]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.31
+
+A.32. pu₂-kiri₆-na niŋ₂ saŋ-bi ha-ma-na-DU im-me-e-a {{%akk ša %akk re-e-eš %akk GIŠ.SAR-ša %akk lu-hir-ši-im %akk i-qa₂-ab-bi#}}
+#lem: pukiri[irrigated orchard]; niŋ[thing]; saŋ[head]; X; e[speak]; L; L; L; L; L
+#etcsl: line-id=A.32
+
+A.33. a₂ ud-da eš₃ ŋir₂-su₂{ki} igi mu-ri-ib-du₈-am₃ {{%akk u₄-mi-ša %akk i-na %akk bi-tim %akk gir-ši-im %akk i-na-aṭ-ṭa-[al]}}
+#lem: a[arm]; ud[sun]; eš[shrine]; Ŋirsu[1]SN; igi[eye]; du[spread]; L; L; L; L; L
+#etcsl: line-id=A.33
+
+A.34. ud šu₂-uš-e zalag-ga-ni igi-zu-še₃ mu-ni-ib-dib-dib-a {{%akk u₄-mi-ša# %akk nam#-ri-iš %akk i-na %akk mah-ri-ki %akk i-[ta-al-la-ak]}}
+#lem: ud[sun]; šuš[cover]; zalag[bright]; igi[eye]; dib[pass]; L; L; L; L; L
+#etcsl: line-id=A.34
+
+A.35. {d}lamma# X lu₂-ulu₃-ba dam a-a-še₃ mu-na-e-šum₂ {{%akk {d}LAMA %akk a-na %akk a-wi-il-tim %akk ša-a-ti %akk mu-tam %akk ki-ma %akk [a-bi] %akk [ta-ad-di-ni-šim-ma]}}
+#lem: lammar[(female) tutelary deity]; X; lulu[man]; dam[spouse]; aya[father]; šum[give]; L; L; L; L; L; L; L; L
+#etcsl: line-id=A.35
+
+A.36. [dam a-a-še₃ mu-na]-e-šum₂ dumu a-šag₄ šukur₂-še₃ mu-na-e-šum₂ {{%akk mu-tam %akk ki-ma %akk a-bi %akk ta-ad-di-ni-šim-ma %akk [...]}}
+#lem: dam[spouse]; aya[father]; šum[give]; dumu[child]; ašag[field]; šukur[food allocation]; šum[give]; L; L; L; L; L
+#etcsl: line-id=A.36
+
+A.37. [...] X inim in-de₂ lu₂ i₃-DU {{%akk bi-X-sa₃ %akk u₂-X-ma %akk mi-im-ma %akk X %akk X %akk [...]}}
+#lem: X; X; inim[word]; de[pour]; lu[person]; X; L; L; L; L; L; L
+#etcsl: line-id=A.37
+
+A.38. [...] X šum₂ X X X niŋ₂-su-ub ak-a {{%akk MUNUS %akk X %akk [...]}}
+#lem: X; X; šum[give]; X; X; X; niŋsub[polishing]; ak[do]; L; L; L
+#etcsl: line-id=A.38
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. munus zid {d}utu kalam-ma diŋir-ŋa₂ me-teš₂ ga-i-i
+#lem: munus[woman]; zid[right]; Utu[1]DN; kalam[the Land (of Sumer)]; diŋir[deity]; meteš[praise]; e[bring out]
+#etcsl: line-id=B.1
+
+B.2. sukkal-mah ama {d}ba-u₂ zi lugal-la u₃-tud
+#lem: sukkalmah[an official]; ama[mother]; Bau[1]DN; zi[life]; lugal[king]; utud[give birth (to)]
+#etcsl: line-id=B.2
+
+B.3. ra-gaba kug an-šag₄-ta dub nam-til₃-la an-ed₃!(|ITI.DU|)-de₃
+#lem: ragaba[rider]; kug[purify]; anšag[the interior of heaven]; dub[tablet]; namtil[life]; ed[go up]
+#etcsl: line-id=B.3
+
+B.4. im an-ta ŋiri₃-a DU he₂-ŋal₂ pa! e₃!(|DUL.DU|)
+#lem: im[rain]; an[sky]; ŋiri[foot]; X; heŋal[plenty]; pa[branch]; e[leave]
+#etcsl: line-id=B.4
+
+B.5. saŋ šum₂ {{%akk mu-X-hi-iš-tum}} me-te {d}ba-u₂ itima kug-ga he₂-du₇-bi-im
+#lem: saŋ[head]; šum[give]; L; mete[appropriate thing]; Bau[1]DN; itima[sleeping chamber]; kug[pure]; hedu[ornament]
+#etcsl: line-id=B.5
+
+B.6. {d}lamma lu₂ sizkur-ra {d}ba-u₂ ur₂-saŋ HI ZA KA
+#lem: lammar[(female) tutelary deity]; lu[person]; siškur[prayer]; Bau[1]DN; ursaŋ[warrior]; X; X; X
+#etcsl: line-id=B.6
+
+B.7. nam-lu₂-u₁₈-lu ki aŋ₂ niŋ₂-ba-bi hul₂-le-za
+#lem: namlulu[humanity]; ki[place]; aŋ[measure]; niŋba[gift]; hul[rejoice]
+#etcsl: line-id=B.7
+
+B.8. {d}lamma sag₉-ga {d}ba-u₂ mi₂-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; sud[distant]; e[bring out]
+#etcsl: line-id=B.8
+
+B.9. X saŋ sig₇ hi-li gur₃-ru KIŠI₄-KIŠI₄ {na₄}za-gin₃-a
+#lem: X; saŋ[head]; sissig[green-yellow]; hili[attractiveness]; gur[lift]; X; zagin[lapis lazuli]
+#etcsl: line-id=B.9
+
+B.10. [...] sig₇-ga umuš ŋar šita-e gun₃-gun₃{gu₂}-a
+#lem: X; sissig[green-yellow]; umuš[consideration]; ŋar[put]; šita[prayer]; gunu[speckled]
+#etcsl: line-id=B.10
+
+B.11. [...] DU X X MA RU X IGI X DI IB
+#lem: X; X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.11
+
+B.12. [...] lugal-še₃! he₂-em-ši-ni-ŋal₂
+#lem: X; lugal[king]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.12
+
+B.13. [...] X gub-bu-zu lal₃ X [...]
+#lem: X; X; gub[stand]; lal[syrup]; X; X
+#etcsl: line-id=B.13
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] X X DAG X RU X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=C.1
+
+C.2. [...] X gen₆-na UD-UD MA KA
+#lem: X; X; gin[confirm]; X; X; X
+#etcsl: line-id=C.2
+
+C.3. [...]-ra munus zid {d}lamma-ŋu₁₀
+#lem: X; munus[woman]; zid[right]; lammar[(female) tutelary deity]
+#etcsl: line-id=C.3
+
+C.4. {[d]}[lamma sag₉-ga] {[d]}[ba-u₂] mi₂#-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; sud[distant]; e[bring out]
+#etcsl: line-id=C.4
+
+C.5. [...] HA UM MA ŠE₃ la₂-a i-im-me ZA UD DU UR₄ ak
+#lem: X; X; X; X; X; la[hang]; e[speak]; X; X; X; X; ak[do]
+#etcsl: line-id=C.5
+
+C.6. nir-ŋal₂ ki aŋ₂ {d}ba-u₂ nin X saŋ ga zid-da-ke₄
+#lem: nirŋal[authoritative]; ki[place]; aŋ[measure]; Bau[1]DN; nin[lady]; X; saŋ[head]; ga[milk]; zid[right]
+#etcsl: line-id=C.6
+
+C.7. ha!-ra-ni-ib-X he₂-em-su₃-ra nin BA AL GIM |DU.DU|-da
+#lem: X; sud[distant]; nin[lady]; X; X; X; X
+#etcsl: line-id=C.7
+
+C.8. en {d}ig-alim-ma-ke₄ ŋidru-bi hu-mu-ŋal₂ me-teš₂-bi
+#lem: en[lord]; Igalimak[1]DN; ŋidru[scepter]; ŋal[⟦be⟧ to be (there]; mete[appropriate thing]
+#etcsl: line-id=C.8
+
+C.9. munus zid {d}lamma-ŋu₁₀ nin nam gu₃ de₂-a-za
+#lem: munus[woman]; zid[right]; lammar[(female) tutelary deity]; nin[lady]; nam[fate]; gu[voice]; de[pour]
+#etcsl: line-id=C.9
+
+C.10. {d}lamma sag₉-ga {d}ba-u₂ mi₂-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+#lem: lammar[(female) tutelary deity]; sag[good]; Bau[1]DN; mi[cvne]; sud[distant]; e[bring out]
+#etcsl: line-id=C.10
+
+C.11. nin gu₇ naŋ KA NI X X nam-he₂-a zu₂ keše₂ i
+#lem: nin[lady]; gu[eat]; naŋ[drink]; X; X; X; X; namhe[abundance]; zu[tooth]; kešed[bind]; e[bring out]
+#etcsl: line-id=C.11
+
+C.12. ki-tuš he₂-ŋal₂ abzu-ta DIN-bi-a gu₃ nun di
+#lem: kituš[dwelling place]; heŋal[plenty]; abzu[(cosmic) underground water]; X; gu[voice]; nun[prince]; di[speak]
+#etcsl: line-id=C.12
+
+@end segment
+
+@div segment D
+
+$ (unknown no. of lines missing)
+D.1. {d}lamma-ŋu₁₀ nin# [...]
+#lem: lammar[(female) tutelary deity]; nin[lady]; X
+#etcsl: line-id=D.1
+
+D.2. munus zid giri₁₇-zal il₂-il₂-i šudu₃ inim-ma [ŋiš tuku]
+#lem: munus[woman]; zid[right]; kirizal[joy]; il[raise]; šud[prayer]; inim[word]; ŋeš[tree]; tuku[acquire]
+#etcsl: line-id=D.2
+
+D.3. inim dug₃ eme si sa₂ nin niŋ₂-gen₆-e ki aŋ₂#-X
+#lem: inim[word]; dug[good]; eme[tongue]; si[horn]; sa[equal]; nin[lady]; niŋgina[truth]; ki[place]; aŋ[measure]
+#etcsl: line-id=D.3
+
+D.4. sukkal#-mah ama {d}ba-u₂ nundum kug-babbar-ra-ke₄
+#lem: sukkalmah[an official]; ama[mother]; Bau[1]DN; nundum[lip]; kugbabbar[silver]
+#etcsl: line-id=D.4
+
+D.5. X si sa₂ ŋeštug me-ze₂ UD-UD-e SI A
+#lem: X; si[horn]; sa[equal]; ŋeštug[ear]; meze[jaw]; X; X; X
+#etcsl: line-id=D.5
+
+D.6. munus zid {d}lamma-ŋu₁₀ ulutim₂ lu₂ nu-sig₁₀-ge₅-zu
+#lem: munus[woman]; zid[right]; lammar[(female) tutelary deity]; uludin[form]; lu[person]; sig[put into]
+#etcsl: line-id=D.6
+
+D.7. igi X X TI-ŋu₁₀ mi₂-bi su₃-ud-še₃ ga-mu-u₈-en-de₃-en
+#lem: igi[eye]; X; X; X; mi[cvne]; sud[distant]; e[speak]
+#etcsl: line-id=D.7
+
+D.8. kuš X me a dadag-ga sag₉-ga gal-bi dirig-ga-am₃
+#lem: kuš[skin]; X; me[Being]; a[water]; dadag[bright]; sag[good]; gal[big]; dirig[make more than]
+#etcsl: line-id=D.8
+
+D.9. AD ZA X X DAG X HU NE zi-pa-aŋ₂ X [...] X X
+#lem: X; X; X; X; X; X; X; X; zipaŋ[breath]; X; X; X; X
+#etcsl: line-id=D.9
+
+D.10. X sal-sal siki sur-sur GAR₃ mun-na SA X RA [X X] X
+#lem: X; sal[thin]; siki[hair]; sur[press]; X; mun[salt]; X; X; X; X; X; X
+#etcsl: line-id=D.10
+
+D.11. unu₂# šuba sud-sud zag-še siki [...]
+#lem: unu[adornment]; šuba[precious stone]; sud[distant]; zagše[shoulder]; siki[hair]; X
+#etcsl: line-id=D.11
+
+D.12. X ZI-gin₇ il₂-il₂-i a₂-ur₂ ud-gin₇ zalag-zalag!#-[ga-am₃]
+#lem: X; X; il[raise]; aʾur[limbs]; ud[sun]; zalag[bright]
+#etcsl: line-id=D.12
+
+D.13. X X ŠE₃-la#-gin₇ la-la-ŋal₂ a₂-diš-kuš₃ sal#-[la-am₃]
+#lem: X; X; X; lalaŋal[charming]; akuš[forearm]; sal[thin]
+#etcsl: line-id=D.13
+
+D.14. X-ge KA tum₂-ma šu-si kug-babbar [...]
+#lem: X; X; tum[suitable]; šusi[finger]; kugbabbar[silver]; X
+#etcsl: line-id=D.14
+
+D.15. {[na₄]}nir₇ SUM [...]
+#lem: nir[valuable stone]; X; X
+#etcsl: line-id=D.15
+
+D.16. [...] e₂-gal X UN [...]
+#lem: X; egal[palace]; X; X; X
+#etcsl: line-id=D.16
+
+D.17. [munus] zid {d}lamma-ŋu₁₀ ulutim₂# lu₂ nu-sig₁₀-ge₅#-[zu]
+#lem: munus[woman]; zid[right]; lammar[(female) tutelary deity]; uludin[form]; lu[person]; sig[put into]
+#etcsl: line-id=D.17
+
+D.18. [mi₂]-bi su₃-ud-še₃ ga-mu-u₈-en-de₃#-[en]
+#lem: mi[cvne]; sud[distant]; e[speak]
+#etcsl: line-id=D.18
+
+D.19. sukkal niŋ₂ nu-ha-lam-e nin ki ur₅ sag₉# [...]
+#lem: sukkal[secretary]; niŋ[thing]; halam[forsake]; nin[lady]; ki[place]; ur[liver]; sag[goodness]; X
+#etcsl: line-id=D.19
+
+D.20. šag₄ sud TA lu₂ GIM DU LI [...]
+#lem: šag[heart]; sud[distant]; X; lu[person]; X; X; X; X
+#etcsl: line-id=D.20
+
+D.21. SIG₄ {ŋiš}ŋišnimbar ŠU RI A TUM TI TA [...]
+#lem: X; ŋešnimbar[date-palm]; X; X; X; X; X; X; X
+#etcsl: line-id=D.21
+
+D.22. ib₂-ib₂ daŋal u₂ X X MA [...] me-te-ŋal₂
+#lem: ib[hips]; daŋal[wide]; u[plant(s)]; X; X; X; X; meteŋal[seemly]
+#etcsl: line-id=D.22
+
+D.23. mu-zu X X-gin₇ NA MUNUS [...] X nu-NUNUZ-a
+#lem: mu[name]; X; X; X; X; X; X; X
+#etcsl: line-id=D.23
+
+D.24. niŋ₂ šu DI SI SAR-SAR nin X X X-gin₇ la₂
+#lem: niŋ[thing]; šu[hand]; X; X; X; nin[lady]; X; X; X; la[hang]
+#etcsl: line-id=D.24
+
+D.25. BA sal-la KA tuku₄-tuku₄-e
+#lem: X; sal[thin]; X; tuku[rock]
+#etcsl: line-id=D.25
+
+D.26. munus zid {d}lamma-ŋu₁₀ alan# šu-a gi₄-a-za
+#lem: munus[woman]; zid[right]; lammar[(female) tutelary deity]; alan[image]; šu[hand]; gi[turn]
+#etcsl: line-id=D.26
+
+D.27. [mi₂]-bi# su₃#-ud-še₃ ga-mu-u₈-en-de₃-en
+#lem: mi[cvne]; sud[distant]; e[speak]
+#etcsl: line-id=D.27
+
+D.28. [...] ga i₃-ti-ir-da-gin₇ TA lu-ug-ge
+#lem: X; ga[milk]; itirda[dairy product]; X; lug[live]
+#etcsl: line-id=D.28
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

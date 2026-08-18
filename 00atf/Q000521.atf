@@ -1,0 +1,188 @@
+&Q000521 = A prayer to Asarluḫi for Ḫammu-ràbi (Ḫammu-ràbi D)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.2.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.4&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+1. NAM# X X X X IGI X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=1
+
+2. ni₂-tuku en₃ tar-tar nim-ma X [...]
+#lem: nituku[pious]; en[cvne]; tar[cut]; nim[high]; X; X
+#etcsl: line-id=2
+
+3. X KU u₃-na E sa₄ en# [...]
+#lem: X; X; una[wild]; X; še[call by name]; en[lord]; X
+#etcsl: line-id=3
+
+4. šum₂-mu-da-ab-ze₂-en {ŋiš}ŋidru [...]
+#lem: šum[give]; ŋidru[scepter]; X
+#etcsl: line-id=4
+
+5. babilim₂{ki} iri nam-en-na MU [...]
+#lem: Babilim[1]; iri[city]; namen[the office of en-priest]; X; X
+#etcsl: line-id=5
+
+6. lugal# an ub-da dirig-ge-en-ze₂-en# [...]
+#lem: lugal[king]; an[sky]; ub[corner]; dirig[make more than]; X
+#etcsl: line-id=6
+
+7. {d}asar-lu₂-hi ha-am-mu-ra-bi-ŋu₁₀-ur₂ nam# [...]
+#lem: Asarluhi[1]DN; Hammurabi[1]RN; nam[fate]; X
+#etcsl: line-id=7
+
+8. an {d}en-lil₂ {d}en-ki e-ne-bi-da KA X [...]
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; ane[he]; X; X; X
+#etcsl: line-id=8
+
+9. šag₄-ga-ne-ne-še₃ u₃-mu-ni-in-šum₂ niŋ₂ X [...]
+#lem: šag[heart]; šum[give]; niŋ[thing]; X; X
+#etcsl: line-id=9
+
+10. diŋir gal-gal kilib₃-ba-bi {d}marduk-ra hul₂-le-eš mu-ni#-[...]
+#lem: diŋir[deity]; gal[big]; kilib[total]; Marduk[1]DN; hul[rejoice]; X
+#etcsl: line-id=10
+
+11. sipad šag₄-ga-zu nam-en kalam-ma ak-de₃ mu-e-ni-in#-[...]
+#lem: sipad[shepherd]; šag[heart]; namen[the office of en-priest]; kalam[the Land (of Sumer)]; ak[do]; X
+#etcsl: line-id=11
+
+12. nam-a-ni gal-le-eš tar-re-en-ze₂-en ka kug-za X [...]
+#lem: nam[fate]; gal[big]; tar[cut]; kag[mouth]; kug[pure]; X; X
+#etcsl: line-id=12
+
+13. inim-zu BA AŠ-a ba-an-ši-ŋar-re-en-ze₂-en sipad muš₃ nu-tum₂-mu#
+#lem: inim[word]; X; X; ŋar[put]; sipad[shepherd]; muš[face]; tum[bring]
+#etcsl: line-id=13
+
+14. lugal-ra im-mi-in-sa₄-en-de₃-en ub-ta 4-ba X X E NE [...]
+#lem: lugal[king]; še[call by name]; ub[corner]; n; X; X; X; X; X
+#etcsl: line-id=14
+
+15. ha-am-mu-ra-bi nun me-te diŋir-re-e-ne sun₅-na inim-me-eš₂ MU [...]
+#lem: Hammurabi[1]RN; nun[prince]; mete[appropriate thing]; diŋir[deity]; sun[humble]; inim[word]; X; X
+#etcsl: line-id=15
+
+16. ba-ra-šum₂-mu-un-de₃-en nam-barag saŋ gig₂ mu-zu zag an [...]
+#lem: šum[give]; nambarag[royalty]; saŋ[head]; giggig[black]; mu[name]; zag[side]; an[sky]; X
+#etcsl: line-id=16
+
+17. nam-lu₂-ulu₃ kalam-ma sa₂-sa₂ TE ŋal₂-la si sa₂-sa₂-da iri [...]
+#lem: namlulu[humanity]; kalam[the Land (of Sumer)]; sa[equal]; X; ŋal[⟦be⟧ to be (there]; si[horn]; sa[equal]; iri[city]; X
+#etcsl: line-id=17
+
+18. X X X he₂#-eb₂-su₃-ud bal-zu ma₂-gur₈ za-gin₃ šu he₂-[...]
+#lem: X; X; X; sud[distant]; bala[turn]; magur[barge]; zagin[lapis lazuli]; šu[hand]; X
+#etcsl: line-id=18
+
+19. nam-sipad-zu an X X an ki šu he₂-ge-en uŋ₃-ŋa₂ u₂-sal-la [...]
+#lem: namsipad[shepherdship]; an[sky]; X; X; an[sky]; ki[place]; šu[hand]; gin[confirm]; uŋ[people]; usal[meadow]; X
+#etcsl: line-id=19
+
+20. za-pa-aŋ₂-zu {d}iškur šu X X [...] A# dul lugal gaba-ri# [nu-tuku]
+#lem: zipaŋ[voice]; Iškur[1]DN; šu[hand]; X; X; X; X; dul[cover]; lugal[king]; gabari[equal]; tuku[acquire]
+#etcsl: line-id=20
+
+21. ka-zu gira₂{ra} huš-a šu [...] TUKU#-TUKU sig igi-nim-ma [...]
+#lem: kag[mouth]; Gira[1]DN; huš[reddish]; šu[hand]; X; X; sig[weak]; iginim[upper land]; X
+#etcsl: line-id=21
+
+22. šul {d}utu a₂-tah-zu he₂-a ki NE X X X AB inim-inim šag₄-ge X [...]
+#lem: šul[youth]; Utu[1]DN; atah[helper]; me[be]; ki[place]; X; X; X; X; X; inim[word]; šag[heart]; X; X
+#etcsl: line-id=22
+
+23. du-ri₂-še₃ zag zid-da ŋen-na-zu he₂-na-nam igi il₂-la-e he₂-na#-[nam]
+#lem: duri[forever]; zag[side]; zid[right]; ŋen[go]; me[be]; igi[eye]; il[raise]; me[be]
+#etcsl: line-id=23
+
+24. X X KA-za la-ba-an-DIR er₃-ra šu X dub-bi X X X [...]
+#lem: X; X; X; X; Erra[1]DN; šu[hand]; X; dub[heap up]; X; X; X; X
+#etcsl: line-id=24
+
+25. ha-am#-mu-ra-bi dug₄-ga mah-me-eš₂ nir he₂-ŋal₂ a₂ inim dug₃-ga X [...]
+#lem: Hammurabi[1]RN; dug[speak]; mah[great]; nir[lordly]; heŋal[plenty]; a[arm]; inim[word]; dug[good]; X; X
+#etcsl: line-id=25
+
+26. ha-am#-mu-ra-bi dug₄-ga an {d}en-lil₂#-bi KU an ki šu an ub-da du₃-a šu [...]
+#lem: Hammurabi[1]RN; dug[speak]; An[1]DN; Enlil[1]DN; X; an[sky]; ki[place]; šu[hand]; an[sky]; ub[corner]; du[build]; šu[hand]; X
+#etcsl: line-id=26
+
+27. X X X-ga NU X-aš an {d}en#-[lil₂]-bi lugal-ra mu-na-X X X [...]
+#lem: X; X; X; X; X; An[1]DN; Enlil[1]DN; lugal[king]; X; X; X; X
+#etcsl: line-id=27
+
+28. {d}asar-lu₂-hi mu-ru-ub diŋir gal-gal-e-ne iri [X X] X GA IM [...]
+#lem: Asarluhi[1]DN; murub[middle]; diŋir[deity]; gal[big]; iri[city]; X; X; X; X; X; X
+#etcsl: line-id=28
+
+29. babilim₂{ki} iri ki-šu-peš₅ ki-tuš sikil-la X X X GA X X X [...]
+#lem: Babilim[1]; iri[city]; kišupeš[cultic place]; kituš[dwelling place]; sikil[pure]; X; X; X; X; X; X; X; X
+#etcsl: line-id=29
+
+30. X X suhuš barag gal ki-tuš mah ki aŋ₂-e šag₄ hul₂-la PA nir-ŋal₂ X [...]
+#lem: X; X; suhuš[foundation]; barag[sanctum]; gal[big]; kituš[dwelling place]; mah[great]; ki[place]; aŋ[measure]; šag[heart]; hul[rejoice]; X; nirŋal[authoritative]; X; X
+#etcsl: line-id=30
+
+31. X X X TUR-TUR dumu-gir₁₅ diŋir-re-e-ne mu lugal-la [...]
+#lem: X; X; X; X; dumugir[citizen]; diŋir[deity]; mu[name]; lugal[king]; X
+#etcsl: line-id=31
+
+32. [...] X X zid-de₃-eš he₂-a mu-na-ni-[...]
+#lem: X; X; X; zid[right]; me[be]; X
+#etcsl: line-id=32
+
+33. [...] u₃-mu-un-zig₃-ge-eš nam-{d}en-lil₂ uŋ₃ šar₂-ra# [...]
+#lem: X; zig[rise]; namenlil[Enlil-ship]; uŋ[people]; šar[numerous]V/i; X
+#etcsl: line-id=33
+
+34. [...] nam-a-ni pa bi₂-in-ak#-eš zi kalam-ma# [...]
+#lem: X; nam[fate]; pa[branch]; ak[do]; zi[life]; kalam[the Land (of Sumer)]; X
+#etcsl: line-id=34
+
+35. [ha-am-mu-ra]-bi sipad silim-ma-ne₂ mu-ni-gal-le-eš kilib₃ saŋ gig₂#-[ga ...]
+#lem: Hammurabi[1]RN; sipad[shepherd]; silim[healthy]; gal[big]; kilib[total]; saŋ[head]; giggig[black]; X
+#etcsl: line-id=35
+
+36. [...] X X lu₂ {d}en-ki-ke₄ sag₉-ga-ni kalam-ma X [...]
+#lem: X; X; X; lu[person]; Enkik[1]DN; sag[good]; kalam[the Land (of Sumer)]; X; X
+#etcsl: line-id=36
+
+37. [...] X X X MU [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=37
+
+$ (unknown no. of lines missing)
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+@(1 = 1-6)  @gap{1 line fragmentary}  …… the reverent one, who takes care ……,  @gap{1 line fragmentary}  (The gods are addressed:) @q[unknown,gods]{“Give him the sceptre ……! …… the name of @wSN{Babylon}, the city of lordship! Make the king pre-eminent in the world ……!”}
+
+@(7 = 7) O @wDN{Asarluḫi}, …… destiny for my @wRN{Ḫammu-rābi}!
+
+@(8 = 8-13) @wDN{An}, @wDN{Enlil} and @wDN{Enki} …… with him. When they had decided ……, all the great gods together …… joyfully to @wDN{Marduk}. (@wDN{Marduk} speaks to the great gods:) @q[Marduk,great gods]{“You have …… the shepherd of your hearts to exercise the lordship in the Land. Determine his destiny grandly, …… with your holy mouths. Appoint …… your word …… for him, the indefatigable shepherd.”}
+
+@(14 = 14-25) (The great gods speak:) @q[great gods,Hammu-rabi]{“We name him king in the four quarters of the world ……. @wRN{Ḫammu-rābi}, humble prince acceptable to the gods, …… our word, we grant you authority over the black-headed; may your name …… the limits of heaven ……! …… the inhabitants of the Land, keeping in order ……! May your reign endure ……, may it …… a shining barge! May your shepherding …… be firm, and may the people …… in the pastures! Peerless king, your roar of triumph is like @wDN{Iškur}, covering ……! Your mouth is the fiery god of fire, …… below and in the uplands ……. May youthful @wDN{Utu} be your helper, ……. May he always go at your right side and favour you. …… in your ……, @wDN{Erra} ……. @wRN{Ḫammu-rābi}, you should put your trust in our august commands, …….”}
+
+@(26 = 26-37) @wRN{Ḫammu-rābi} …… the command of @wDN{An} and @wDN{Enlil}, …… of heaven and earth, …… throughout the world ……. @wDN{An} and @wDN{Enlil} …… to the king. Among the great gods, @wDN{Asarluhi} ……. In @wSN{Babylon}, the city, the precinct, the pure dwelling ……. …… foundation, the great dais, the beloved and august dwelling, in joy ……. …… the noble son of the gods, …… royal name, …… they firmly spoke their consent to him. When they ……, they …… the power of @wDN{Enlil} over the numerous people. …… they manifested his destiny, …… the life of the Land. They magnified @wRN{Ḫammu-rābi}, their benign shepherd, and …… over all the black-headed. …… him whom @wDN{Enki} has …… his favour in the Land,  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

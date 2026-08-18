@@ -1,0 +1,64 @@
+&Q000393 = A praise poem of Ur-Namma (Ur-Namma H)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.1.8
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1.8&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. ur-{d}namma lugal [kalam-ma] X
+#lem: Urnamma[1]RN; lugal[king]; kalam[the Land (of Sumer)]; X
+#etcsl: line-id=A.1
+
+A.2. su₃-ra₂ ba₉-ra₂ X [...]
+#lem: sud[distant]; bad[open]; X; X
+#etcsl: line-id=A.2
+
+A.3. {ŋiš}esi SAR# X [...]
+#lem: esi[tree]; X; X; X
+#etcsl: line-id=A.3
+
+A.4. KA#-ge#-zu# [...]
+#lem: X; X
+#etcsl: line-id=A.4
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] HAR# [...]
+#lem: X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] kug# za-gin₃-na nam# [...]
+#lem: X; kug[metal]; zagin[lapis lazuli]; nam[fate]; X
+#etcsl: line-id=B.2
+
+B.3. [...] kug#-gin₇ kalam-ma [...]
+#lem: X; kug[metal]; kalam[the Land (of Sumer)]; X
+#etcsl: line-id=B.3
+
+B.4. [...] X HU# UD# [...] edin-na# [...]
+#lem: X; X; X; X; X; eden[back]; X
+#etcsl: line-id=B.4
+
+B.5. [...] piriŋ# ušumgal!# igi# il₂ KA-ni [...]
+#lem: X; piriŋ[lion]; ušumgal[great dragon]; igi[eye]; il[raise]; X; X
+#etcsl: line-id=B.5
+
+B.6. [ur]-{[d]}namma lugal# kalam#-ma su₃-ra₂# [ba₉-ra₂]
+#lem: Urnamma[1]RN; lugal[king]; kalam[the Land (of Sumer)]; sud[distant]; bad[open]
+#etcsl: line-id=B.6
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

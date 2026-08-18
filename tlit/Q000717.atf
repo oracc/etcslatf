@@ -1,0 +1,196 @@
+&Q000717 = A hymn to Ninšubur (Ninšubur B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.25.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.25.2&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. [šubur]-e šu mu₂-mu₂ gal-an-zu
+#lem: subur[slave]; šu[hand]; mu[grow]; galanzu[wise]
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 30
+
+A.2. [...] X AN šubur-e šu mu₂-mu₂ gal-an-zu
+#lem: X; X; X; subur[slave]; šu[hand]; mu[grow]; galanzu[wise]
+#etcsl: line-id=A.2
+
+A.3. MU X {a}akkil-{ki}ke₄ šu mu₂-mu₂ gal-an-zu
+#lem: X; X; Akkil[1]SN; šu[hand]; mu[grow]; galanzu[wise]
+#etcsl: line-id=A.3
+
+A.4. iri-na akkil#{ki}-a dur₂ ba-ni-in-ŋar
+#lem: iri[city]; Akkil[1]SN; dur[buttocks]; ŋar[put]
+#etcsl: line-id=A.4
+
+A.5. šubur-e akkil#{ki}-a dur₂ ki ba-ni-in-ŋar
+#lem: subur[slave]; Akkil[1]SN; dur[buttocks]; ki[place]; ŋar[put]
+#etcsl: line-id=A.5
+
+A.6. šubur-e X šu AN SI X X
+#lem: subur[slave]; X; šu[hand]; X; X; X; X
+#etcsl: line-id=A.6
+
+A.7.  %e  ga-ša-an-šubur#  %s  X {d}nin-tur₅ šu AN# [SI ...] X
+#lem: Gašanšubur[1]DN; X; Nintur[1]DN; šu[hand]; X; X; X; X
+#etcsl: line-id=A.7
+
+A.8. šubur šu AN SI# [...]
+#lem: subur[slave]; šu[hand]; X; X; X
+#etcsl: line-id=A.8
+
+A.9.  %e  ga-ša-an-šubur#  %s  [...]
+#lem: Gašanšubur[1]DN; X
+#etcsl: line-id=A.9
+
+A.10. an-ra X [...] X mu-e-ni-il₂-X
+#lem: An[1]DN; X; X; X; il[raise]
+#etcsl: line-id=A.10
+
+A.11. a-a {d}en#-[lil₂] %e u₃-mu-un %s kur-kur-ra-ra
+#lem: aya[father]; Enlil[1]DN; umun[lord]N; kur[mountain(s)]
+#etcsl: line-id=A.11
+
+A.12. {d}nin-[lil₂] nin ki-ur₃ ki gal-la-[ra]
+#lem: Ninlil[1]DN; nin[lady]; Kiʾur[1]; ki[place]; gal[big]
+#etcsl: line-id=A.12
+
+A.13. %e {d}am-[an-ki] %s am %e uru₂-ze₂-eb-ba-ra
+#lem: Amanki[1]DN; am[wild bull]; Uruzeb[1]SN
+#etcsl: line-id=A.13
+
+A.14. munus zid [...] X {d}dam-gal-nun-na-ra
+#lem: munus[woman]; zid[right]; X; X; Damgalnunak[1]DN
+#etcsl: line-id=A.14
+
+A.15. urim₂{ki}-ma {d}dil-im₂-babbar-ra
+#lem: Urim[1]SN; Dilimbabbar[1]DN
+#etcsl: line-id=A.15
+
+A.16.  %e  ga-ša-an-gal-e  %s  agrun-kug-ga-na
+#lem: Gašangal[1]DN; Agrunkug[1]TN
+#etcsl: line-id=A.16
+
+A.17. [...] kur gal {d}en-lil₂-le
+#lem: X; kur[mountain(s)]; gal[big]; Enlil[1]DN
+#etcsl: line-id=A.17
+
+A.18. [...] X  %e  u₃-mu-un-urta-a-ra  %s 
+#lem: X; X; Umunuraša[1]DN
+#etcsl: line-id=A.18
+
+A.19. [...] X  %e  ga-ša-an-hur-saŋ-ŋa₂-[ra]  %s 
+#lem: X; X; Gašanhursaŋak[1]DN
+#etcsl: line-id=A.19
+
+A.20. šul {d}utu eš₃ e₂-babbar-ra X X X X X zid-da [X X]
+#lem: šul[youth]; Utu[1]DN; eš[shrine]; Ebabbara[1]; X; X; X; X; X; zid[right]; X; X
+#etcsl: line-id=A.20
+
+A.21. X X KI emeda(|UM.ME|)  %e  ga-ša-an-iri₁₁-gal-la  %s 
+#lem: X; X; X; emeda[nursemaid]; Gašanirigal[1]DN
+#etcsl: line-id=A.21
+
+A.22. ki zabalam₂{ki}-a kug %e ga-ša-an-[an-na]
+#lem: ki[place]; Zabalam[1]SN; kug[purify]; Gašanana[1]DN
+#etcsl: line-id=A.22
+
+A.23.  %e  {d}mu-ul-lil₂-e  %s  diŋir gal-gal NE [...] X X-bi si sa₂ im-ma-ni-in#-[...] X
+#lem: Mullil[1]DN; diŋir[deity]; gal[big]; X; X; X; X; si[horn]; sa[equal]; X; X
+#etcsl: line-id=A.23
+
+@div trailer 
+
+A.24. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#etcsl: line-id=A.24
+
+@end trailer
+
+@end sa-gida
+
+@div unknown B
+
+B.25. šubur barag mah-a dur₂ ŋar-ra-zu-[...]
+#lem: subur[slave]; barag[sanctum]; mah[great]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=B.25
+
+B.26.  %e  ga-ša-an-šubur-e  %s  dur₂ ŋar-ra-zu-[...]
+#lem: Gašanšubur[1]DN; dur[buttocks]; ŋar[put]
+#etcsl: line-id=B.26
+
+B.27. barag a-a {d}en-lil₂-la-ke₄ dur₂ ŋar-ra-zu#-[...]
+#lem: barag[sanctum]; aya[father]; Enlil[1]DN; dur[buttocks]; ŋar[put]
+#etcsl: line-id=B.27
+
+B.28. {d}en-lil₂ {[d]}nin-lil₂-la₂-ke₄ dur₂ ŋar-ra-zu#-[...]
+#lem: Enlil[1]DN; Ninlil[1]DN; dur[buttocks]; ŋar[put]
+#etcsl: line-id=B.28
+
+B.29. %e me-e %s ama-ŋu₁₀-gin₇ ka₃-ka₃-a ama-ŋu₁₀-gin₇ [ga-u₅]
+#lem: meʾe[I]IP; ama[mother]; Kakka[1]DN; ama[mother]; u[ride]
+#etcsl: line-id=B.29
+
+B.30.  %e  ga-ša-an-šubur-ra  %s  ka₃-ka₃-a ama-ŋu₁₀-gin₇ ga-u₅
+#lem: Gašanšubur[1]DN; Kakka[1]DN; ama[mother]; u[ride]
+#etcsl: line-id=B.30
+
+B.31. sukkal zid e₂-an-na-ŋu₁₀
+#lem: sukkal[secretary]; zid[right]; Eanak[1]TN
+#etcsl: line-id=B.31
+
+B.32. {d}nin-šubur e₂-an-na-ŋu₁₀
+#lem: Ninšubur[1]DN; Eanak[1]TN
+#etcsl: line-id=B.32
+
+B.33. sukkal-mah an ki-bi-me-en
+#lem: sukkalmah[an official]; an[sky]; ki[place]
+#etcsl: line-id=B.33
+
+B.34. {d}nin-šubur an ki-bi-me-en
+#lem: Ninšubur[1]DN; an[sky]; ki[place]
+#etcsl: line-id=B.34
+
+B.35. sukkal zid {d}a-nun-na-ke₄-ne
+#lem: sukkal[secretary]; zid[right]; Anunak[1]DN
+#etcsl: line-id=B.35
+
+B.36. {d}nin-šubur {d}a-nun-na-ke₄-ne
+#lem: Ninšubur[1]DN; Anunak[1]DN
+#etcsl: line-id=B.36
+
+B.37. sukkal zid diŋir kalam-ma-ke₄
+#lem: sukkal[secretary]; zid[right]; diŋir[deity]; kalam[the Land (of Sumer)]
+#etcsl: line-id=B.37
+
+B.38. {d}nin-šubur diŋir kalam-ma-ke₄
+#lem: Ninšubur[1]DN; diŋir[deity]; kalam[the Land (of Sumer)]
+#etcsl: line-id=B.38
+
+B.39. sukkal zid ama kalam-ma-ke₄
+#lem: sukkal[secretary]; zid[right]; ama[mother]; kalam[the Land (of Sumer)]
+#etcsl: line-id=B.39
+
+B.40. {d}nin-šubur ama kalam-ma-ke₄ X X X ga-u₅
+#lem: Ninšubur[1]DN; ama[mother]; kalam[the Land (of Sumer)]; X; X; X; u[ride]
+#etcsl: line-id=B.40
+
+@end unknown
+
+@div trailer 
+
+B.41. [...] X {d}nin-šubur-ra-kam
+#lem: X; X; Ninšubur[1]DN
+#etcsl: line-id=B.41
+
+@end trailer
+
+
+
+
+
+
+

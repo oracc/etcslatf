@@ -1,0 +1,68 @@
+&Q000579 = Letter from Ugubi to his mother
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.07&display=Crit&charenc=gcirc#
+
+1. lu₂ (1:di:1) lu₂ (2:di:2) ama-ŋu₁₀-ra
+#lem: lu[person]; ŋen[go]; lu[person]; ŋen[go]; ama[mother]
+#etcsl: line-id=1
+
+:1v.1.1: ($1 ms. has instead:$) du
+#lem: ŋen[go]
+:1v.2.1: ($1 ms. has instead:$) du#
+#lem: ŋen[go]
+
+#etcsl#cite Cited in OB catalogue from Urim (U3), 0.2.05, Seg. A, line 4 (?)
+
+2. u₃-na-dug₄
+#lem: dug[speak]
+#etcsl: line-id=2
+
+3. (1:{ugu}ugu₄-bi:1) na-ab-be₂-a
+#lem: Ugubi[1]ON; e[speak]
+#etcsl: line-id=3
+
+:3v.1.1: ($2 mss. have instead:$) {ugu}{m}ugu₄-bi
+#lem: Ugubi[1]ON
+
+4. urim₂{ki} iri giri₁₇-zal {d}nanna-kam
+#lem: Urim[1]SN; iri[city]; kirizal[joy]; Nanna[1]DN
+#etcsl: line-id=4
+
+5. eridug{ki} iri he₂-ŋal₂ {d}en-ki-ka₃-ka
+#lem: Eridug[1]SN; iri[city]; heŋal[plenty]; Enkik[1]DN
+#etcsl: line-id=5
+
+6. ŋe₂₆-e eŋer {ŋiš}ig e₂ nar-gal-ka al-tuš-en
+#lem: ŋaʾe[I]; egir[back]; ig[door]; e[house]; nargal[chief musician]; tuš[sit (down)]
+#etcsl: line-id=6
+
+7. igi-tum₃-la₂ mu-gu₇-en
+#lem: igitumla[spy?]; gu[eat]
+#etcsl: line-id=7
+
+8. nam-ba-da-ug₇-en
+#lem: uš[die]
+#etcsl: line-id=8
+
+9. ninda ba-ra-gibil-la₂ kaš ba-ra-gibil-la₂
+#lem: ninda[bread]; gibil[new]; kaš[beer]; gibil[new]
+#etcsl: line-id=9
+
+10. lu₂ du kaskal-e šu taka₄-ma-ab
+#lem: lu[person]; ŋen[go]; kaskal[way]; šu[hand]; taka[set aside]
+#etcsl: line-id=10
+
+11. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=11
+
+
+
+
+
+
+

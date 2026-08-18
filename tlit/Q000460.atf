@@ -1,0 +1,118 @@
+&Q000460 = A love song of Išme-Dagan (Išme-Dagan J)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.10
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.10&display=Crit&charenc=gcirc#
+
+1. ab₂ gu₃ dug₃-ga amar gu₃ su₃-ra₂#
+#lem: ab[cow]; gu[voice]; dug[good]; amar[calf]; gu[voice]; sud[distant]
+#etcsl: line-id=1
+
+2. in-nin₉-e tur₃-e ŋen-na-e
+#lem: innin[lady]; tur[animal stall]; ŋen[go]
+#etcsl: line-id=2
+
+3. {lu₂}ki-sikil ud um!-du-u₃-nam
+#lem: kisikil[young woman]; ud[sun]; du[go]
+#etcsl: line-id=3
+
+4. {d}inana {dug}šakir₃-e gu₃ he₂-em-me
+#lem: Inanak[1]DN; šakir[churn]; gu[voice]; e[speak]
+#etcsl: line-id=4
+
+5. {dug}šakir₃ nitalam₃-zu-ke₄ gu₃ he₂-em-me
+#lem: šakir[churn]; ŋidlam[(equal ranking) spouse]; gu[voice]; e[speak]
+#etcsl: line-id=5
+
+6. {d}inana <{dug}šakir₃-e gu₃ he₂-em-me>
+#lem: Inanak[1]DN; šakir[churn]; gu[voice]; e[speak]
+#etcsl: line-id=6
+
+7. {dug}šakir₃ {d}<dumu-zid-da-ke₄ gu₃ he₂-em-me>
+#lem: šakir[churn]; Dumuzid[1]DN; gu[voice]; e[speak]
+#etcsl: line-id=7
+
+8. {d}inana <{dug}šakir₃-e gu₃ he₂-em-me>
+#lem: Inanak[1]DN; šakir[churn]; gu[voice]; e[speak]
+#etcsl: line-id=8
+
+9. dun₅-dun₅ {dug}šakir₃-ra ša!-mu-ra-ab-KU
+#lem: dun[rock]; šakir[churn]; X
+#etcsl: line-id=9
+
+10. {d}inana ur₅-re he₂-mu-e-hul₂-e
+#lem: Inanak[1]DN; ur[that]; hul[rejoice]
+#etcsl: line-id=10
+
+11. sipad zid lu₂ i-lu dug₃-ga-ke₄
+#lem: sipad[shepherd]; zid[right]; lu[person]; ilu[lament]; dug[good]
+#etcsl: line-id=11
+
+12. mur ša₄ i-lu ša-ra-an-ib-be₂
+#lem: mur[noise]; ša[cvve]; ilu[lament]; e[speak]
+#etcsl: line-id=12
+
+13. in-nin niŋ₂-nam-ma niŋ₂ ku₇-ku₇-da
+#lem: innin[lady]; niŋnam[anything]; niŋ[thing]; kud[sweet]
+#etcsl: line-id=13
+
+14. {d}inana šag₄-zu# he₂-mu-e-hul₂-le
+#lem: Inanak[1]DN; šag[heart]; hul[rejoice]
+#etcsl: line-id=14
+
+15. in-nin tur₃-ra kur₉-ra-zu-ne
+#lem: innin[lady]; tur[animal stall]; kur[enter]
+#etcsl: line-id=15
+
+16. {d}inana tur₃ ša-mu-u₈-<<mu>>-da-hul₂-le
+#lem: Inanak[1]DN; tur[animal stall]; hul[rejoice]
+#etcsl: line-id=16
+
+17. nu-u₈-gig amaš-a kur₉-ra-zu-ne
+#lem: nugig[priestess]; amaš[sheepfold]; kur[enter]
+#etcsl: line-id=17
+
+18. {d}inana amaš ša-mu-u₈-da-hul₂-le
+#lem: Inanak[1]DN; amaš[sheepfold]; hul[rejoice]
+#etcsl: line-id=18
+
+19. e₂-bu-ra-ka kur₉-ra-zu-ne
+#lem: eʾuburak[animal pen]; kur[enter]
+#etcsl: line-id=19
+
+20. siki u₈ zid-de₃ šu-mu-ba-ra-ge-nam
+#lem: siki[hair]; u[sheep]; zid[right]; barag[spread out]
+#etcsl: line-id=20
+
+21. amaš kug-ge i₃ ki ha-ra-ab-daŋal-e
+#lem: amaš[sheepfold]; kug[pure]; i[oil]; ki[place]; daŋal[wide]
+#etcsl: line-id=21
+
+22. {e₂}tur₃-e i₃ gara₂ <hu>-mu-ra-ab-tum₃
+#lem: tur[animal stall]; i[oil]; gara[cream]; tum[bring]
+#etcsl: line-id=22
+
+23. amaš-e giri₁₇-zal-la he₂-sud₄
+#lem: amaš[sheepfold]; kirizal[joy]; sud[distant]
+#etcsl: line-id=23
+
+24. {d}iš-me-{d}da-gan ud-da-ni <he₂>-su₁₃-ud
+#lem: Išmedagan[1]RN; ud[sun]; sud[distant]
+#etcsl: line-id=24
+
+25. u₈-e sila₄-bi mi₂ zid di-de₃
+#lem: u[sheep]; sila[lamb]; mi[cvne]; zid[right]; di[speak]
+#etcsl: line-id=25
+
+26. nitalam-ŋu₁₀ u₆ dug₃-ge-eš he₂-i-i
+#lem: ŋidlam[(equal ranking) spouse]; u[admiration]; dug[good]; e[bring out]
+#etcsl: line-id=26
+
+
+
+
+
+
+

@@ -1,0 +1,755 @@
+&Q000818 = Proverbs: collection 26
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.26
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.26&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (approx. 25 lines missing)
+@div proverb 26.a1
+
+A.26.a1.26. [...] mu#-ni-DU [...]
+#lem: X; X; X
+#etcsl: line-id=A.26.a1.26
+
+@end proverb
+
+@div proverb 26.a2
+
+A.26.a2.27. e₂#-gal ni₂-bi-še₃# [gam-e-dam]
+#lem: egal[palace]; ni[self]; gurum[bend]
+#etcsl: line-id=A.26.a2.27
+
+#etcsl#cf cf. 6.1.11.56, 6.1.25.9, 6.2.5: UM 29-16-519 Seg. B l. 2
+
+@end proverb
+
+@div proverb 26.a3
+
+A.26.a3.28. an-ku₄-ku₄ [X X] X
+#lem: kur[enter]; X; X; X
+#etcsl: line-id=A.26.a3.28
+
+#etcsl#cf cf. 6.1.25.12, 6.2.5: YBC 9908, 5.6.1: ll. 95-96
+
+A.26.a3.29. ib₂-ta-e₃ nu-silig-ge#-[dam]
+#lem: e[leave]; silig[cease]
+#etcsl: line-id=A.26.a3.29
+
+@end proverb
+
+@div proverb 26.a4
+
+A.26.a4.30. aš₂ a₂ zig₃-ga bal-e di X [...] dumu-nitah e₂ ad-da-[na-ta] sar-ra niŋ₂-gig {d}nin-urta-[ke₄]
+#lem: aš[curse]; a[arm]; zig[rise]; bala[turn]; di[speak]; X; X; dumunita[son]; e[house]; adda[father]; sar[run]; niŋgig[evil]; Ninurtak[1]DN
+#etcsl: line-id=A.26.a4.30
+
+#etcsl#cf cf. 6.1.22: ll. 49-50, 6.2.3: UET 6/2 259, 6.2.5: UM 29-16-519 Seg. B ll. 4-5, 6.2.5: YBC 7351, 5.6.1: l. 50
+
+@end proverb
+
+@div proverb 26.a5
+
+A.26.a5.31. uš₇ dug₄-ga sahar nu-gi-[a] eme ak an-bar₇ an-dul₃ nu-ŋal₂-la niŋ₂-gig {d}utu-ke₄
+#lem: uš[poison]; dug[speak]; sahar[soil]; gi[turn]; eme[tongue]; ak[do]; anbar[mid-day]; andul[shade]; ŋal[⟦be⟧ to be (there]; niŋgig[evil]; Utu[1]DN
+#etcsl: line-id=A.26.a5.31
+
+#etcsl#cf cf. 6.1.03.8, 6.2.1: Ni 4122 ll. 2-5
+
+@end proverb
+
+@div proverb 26.a6
+
+A.26.a6.32. šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-ke₄
+#lem: šu[hand]; gi[turn]; niŋgig[evil]; Ninurtak[1]DN
+#etcsl: line-id=A.26.a6.32
+
+#etcsl#cf cf. 6.1.11.66, 6.2.5: UM 29-16-519 Seg. B l. 6
+
+@end proverb
+
+@div proverb 26.a7
+
+A.26.a7.33. nu-dug₄-ga niŋ₂-gig {d}nin-urta-ke₄
+#lem: dug[speak]; niŋgig[evil]; Ninurtak[1]DN
+#etcsl: line-id=A.26.a7.33
+
+@end proverb
+
+@div proverb 26.a8
+
+A.26.a8.34. niŋ₂ zu a-na-am₃ ga-ra-ad-da-be₂# niŋ₂ nu-zu a-na-am₃ lu₂-ki-inim ba-ab-e₃ niŋ₂-gig {d}utu-ke₄
+#lem: niŋ[thing]; zu[know]; ana[what?]; dug[speak]; niŋ[thing]; zu[know]; ana[what?]; lukiʾinimak[witness]; e[leave]; niŋgig[evil]; Utu[1]DN
+#etcsl: line-id=A.26.a8.34
+
+#etcsl#cf cf. 6.1.03.118
+
+@end proverb
+
+@div proverb 26.a9
+
+A.26.a9.35. ki-ta kur₂ niŋ₂-gig {d}nin-urta-ke₄
+#lem: ki[place]; kur[alienate]; niŋgig[evil]; Ninurtak[1]DN
+#etcsl: line-id=A.26.a9.35
+
+@end proverb
+
+@div proverb 26.a10
+
+A.26.a10.36. lu₂ {ŋiš}ma₂ dirig-ga lu₂ {ŋiš}ma₂ ru-ru-gu₂# niŋ₂ kab₂ di-dam niŋ₂-gig {d}suen-na-ke₄
+#lem: lu[person]; ma[ship]; dirig[make more than]; lu[person]; ma[ship]; rugu[withstand]; niŋ[thing]; kab[test]; di[speak]; niŋgig[evil]; Suen[1]DN
+#etcsl: line-id=A.26.a10.36
+
+#etcsl#cf cf. 6.1.03.170, 6.1.25.13, 6.2.5: BM 57994 Seg. A ll. 1-3
+
+@end proverb
+
+@div proverb 26.a11
+
+A.26.a11.37. {ŋiš}ma₂ niŋ₂-gen₆-na ni₂ ba-ab-dirig {d#}utu kar gen₆-na mu-un-na-ši-kiŋ₂-kiŋ₂
+#lem: ma[ship]; niŋgina[truth]; ni[self]; dirig[make more than]; Utu[1]DN; kar[harbor]; gin[confirm]; kiŋ[seek]
+#etcsl: line-id=A.26.a11.37
+
+#etcsl#cf cf. 6.1.01.83, 6.2.3: UET 6/2 302, 6.2.5: YBC 8713 ll. 4-5
+
+@end proverb
+
+@div proverb 26.a12
+
+A.26.a12.38. ni₂ teŋ₃-ŋe₂₆ nam-sag₉-ga in-tu-ud
+#lem: ni[fear]; teŋ[approach]; namsag[pleasure]; utud[give birth (to)]
+#etcsl: line-id=A.26.a12.38
+
+A.26.a12.39. er₂ nam-tag al-du₈-am₃#
+#lem: er[tears]; namtaga[sin]; du[spread]
+#etcsl: line-id=A.26.a12.39
+
+A.26.a12.40. sizkur nam-til₃ ba-ab-tah-e
+#lem: siškur[prayer]; namtil[life]; tah[add]
+#etcsl: line-id=A.26.a12.40
+
+@end proverb
+
+@div proverb 26.a13
+
+A.26.a13.41. aš₂# dug₄-ga-ŋu₁₀ aš₂ nu-mu-un-[gi]
+#lem: aš[curse]; dug[speak]; aš[curse]; gi[turn]
+#etcsl: line-id=A.26.a13.41
+
+#etcsl#cf cf. 6.1.01.79
+
+A.26.a13.42. [aš₂]-e# gi-a-ŋu₁₀ aš₂ mu-un-gi#
+#lem: aš[curse]; gi[turn]; aš[curse]; gi[turn]
+#etcsl: line-id=A.26.a13.42
+
+@end proverb
+
+$ (approx. 33 lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 26.b1
+
+B.26.b1.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.26.b1.1
+
+@end proverb
+
+@div proverb 26.b2
+
+B.26.b2.2. nin# [...] {ŋiš}li# [...]
+#lem: nin[lady]; X; li[juniper]; X
+#etcsl: line-id=B.26.b2.2
+
+@end proverb
+
+@div proverb 26.b3
+
+B.26.b3.3. {kuš}a₂-si# udu# [ha-ba-šum₂]
+#lem: asi[strap]; udu[sheep]; šum[give]
+#etcsl: line-id=B.26.b3.3
+
+#etcsl#cf cf. 6.1.15.c2, 6.1.28.7
+
+B.26.b3.4. ŋiš sipad [...]
+#lem: ŋeš[tree]; sipad[shepherd]; X
+#etcsl: line-id=B.26.b3.4
+
+B.26.b3.5. ki saŋ-ki nu-ŋal₂-la# [lu₂ nu-dib₂]
+#lem: ki[place]; saŋki[forehead]; ŋal[⟦be⟧ to be (there]; lu[person]; dib[pass]
+#etcsl: line-id=B.26.b3.5
+
+@end proverb
+
+@div proverb 26.b4
+
+B.26.b4.6. šag₄ {ŋiš}ŋidru-kam i₃ he₂#-[en-de₂] lu₂ na-me [nu-zu]
+#lem: šag[heart]; ŋidru[scepter]; i[oil]; de[pour]; lu[person]; name[any]; zu[know]
+#etcsl: line-id=B.26.b4.6
+
+#etcsl#cf cf. 6.1.01.104, 6.1.11.54, 6.1.15.c3, 6.1.28.8
+
+@end proverb
+
+@div proverb 26.b5
+
+B.26.b5.7. šum₂-ma-ab lugal-la-kam# [...]
+#lem: šum[give]; lugal[king]; X
+#etcsl: line-id=B.26.b5.7
+
+#etcsl#cf cf. 6.1.03.86
+
+@end proverb
+
+@div proverb 26.b6
+
+B.26.b6.8. šum₂-ma-ab lugal#-la#-[kam ...]
+#lem: šum[give]; lugal[king]; X
+#etcsl: line-id=B.26.b6.8
+
+#etcsl#cf cf. 6.1.03.86
+
+@end proverb
+
+@div proverb 26.b7
+
+B.26.b7.9. gu₅-li# [...]
+#lem: guli[friend]; X
+#etcsl: line-id=B.26.b7.9
+
+@end proverb
+
+@div proverb 26.b8
+
+B.26.b8.10. du₁₄# [...]
+#lem: dud[combat]; X
+#etcsl: line-id=B.26.b8.10
+
+B.26.b8.11. X [...]
+#lem: X; X
+#etcsl: line-id=B.26.b8.11
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 26.c1
+
+C.26.c1.1. X [...]
+#lem: X; X
+#etcsl: line-id=C.26.c1.1
+
+@end proverb
+
+@div proverb 26.c2
+
+C.26.c2.2. kug kalag-ga la₂# [ka kalag-ga sam₂]
+#lem: kug[metal]; kalag[strong]; la[hang]; kag[mouth]; kalag[strong]; sa[pay for]
+#etcsl: line-id=C.26.c2.2
+
+#etcsl#cf cf. 6.1.18.6
+
+@end proverb
+
+@div proverb 26.c3
+
+C.26.c3.3. niŋ₂ sam₂-ma niŋ₂ sag₉#-[ga ...]
+#lem: niŋ[thing]; sa[pay for]; niŋ[thing]; sag[good]; X
+#etcsl: line-id=C.26.c3.3
+
+@end proverb
+
+@div proverb 26.c4
+
+C.26.c4.4. {ninda}gug₂ du₈ šag₄ niŋ₂-silaŋ-ŋa₂ in#-[nu-u₃]
+#lem: gug[cake]; du[spread]; šag[heart]; niŋsilaŋ[dough]; nu[not]
+#etcsl: line-id=C.26.c4.4
+
+#etcsl#cf cf. 6.1.01.52
+
+@end proverb
+
+@div proverb 26.c5
+
+C.26.c5.5. ninda min MAŠ-ta#-am₃ du₈-de₃# šag₄-ŋu₁₀ {tu₂}ba-ab-tum₂-<<ŠE>>-tum₂-am₃
+#lem: ninda[bread]; min[two]; n; du[spread]; šag[heart]; tum[bring]
+#etcsl: line-id=C.26.c5.5
+
+#etcsl#cf cf. 6.1.01.53
+
+C.26.c5.6. {im}šu-rin-na-ta šu-ŋu₁₀ nu-ub-ta-e₃
+#lem: šurin[oven]; šu[hand]; e[leave]
+#etcsl: line-id=C.26.c5.6
+
+@end proverb
+
+@div proverb 26.c6
+
+C.26.c6.7. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+#lem: lu[person]; kal[rare]; kal[rare]
+#etcsl: line-id=C.26.c6.7
+
+C.26.c6.8. a₂ dub₂-ŋu₁₀-ta mušen ku-dun mu-un-dug₄
+#lem: a[arm]; dub[tremble]; mušen[bird]; kugdun[profit]; dug[speak]
+#etcsl: line-id=C.26.c6.8
+
+@end proverb
+
+@div proverb 26.c7
+
+C.26.c7.9. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+#lem: lu[person]; kal[rare]; kal[rare]
+#etcsl: line-id=C.26.c7.9
+
+C.26.c7.10. KI ŠE₃ KAL šu-na bi₂-in-dab₅
+#lem: X; X; X; šu[hand]; dab[seize]
+#etcsl: line-id=C.26.c7.10
+
+C.26.c7.11. e-ne-še₃ sahar šu-ŋu₁₀ bi₂-in-si
+#lem: ane[he]; sahar[soil]; šu[hand]; si[fill]
+#etcsl: line-id=C.26.c7.11
+
+@end proverb
+
+@div proverb 26.c8
+
+C.26.c8.12. lu₂ kaš nu-zu-gin₇ ni₂ dar-dar-ra-am₃#
+#lem: lu[person]; kaš[beer]; zu[know]; ni[fear]; dar[split]
+#etcsl: line-id=C.26.c8.12
+
+@end proverb
+
+@div proverb 26.c9
+
+C.26.c9.13. {tum₉}u₁₈-lu igi-ŋa₂ sahar-ra bi₂-in#-[sig₉]
+#lem: ulu[south wind]; igi[eye]; sahar[soil]; sig[put into]
+#etcsl: line-id=C.26.c9.13
+
+#etcsl#cf cf. 6.1.03.142
+
+C.26.c9.14. a-na-am₃ egir-ra-[ŋa₂] ne mu-un-su-ub-su-ub-[be₂-en]
+#lem: ana[what?]; egir[back]; ne[cvne]; sub[rub]
+#etcsl: line-id=C.26.c9.14
+
+@end proverb
+
+@div proverb 26.c10
+
+C.26.c10.15. nam-tar-ŋu₁₀ ga-am₃-dug₄# [in-na-am₃]
+#lem: namtar[fate]; dug[speak]; in[abuse]
+#etcsl: line-id=C.26.c10.15
+
+#etcsl#cf cf. 6.1.02.2, 6.2.3: UET 6/2 292 ll. 1-2
+
+C.26.c10.16. pa ga-ab-e₃# [su-lum %e mar-am₃]
+#lem: pa[branch]; e[leave]; sulum[contempt]; mar[place]V/t
+#etcsl: line-id=C.26.c10.16
+
+@end proverb
+
+@div proverb 26.c11
+
+C.26.c11.17. in-na in-bi#-[im ...]
+#lem: in[abuse]; in[abuse]; X
+#etcsl: line-id=C.26.c11.17
+
+#etcsl#cf cf. 6.1.01.80
+
+@end proverb
+
+$ (approx. 25 lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 26.d1
+
+D.26.d1.1. X NA TAB DU X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=D.26.d1.1
+
+D.26.d1.2. tug₂ nam-ba#-ša-ra-ge-[en]
+#lem: tug[textile]; šarag[dry out]
+#etcsl: line-id=D.26.d1.2
+
+@end proverb
+
+@div proverb 26.d2
+
+D.26.d2.3. [ab]-ba i-degₓ(RI)-degₓ(RI)-ga ba-[...]
+#lem: abba[father]; deg[gather up]; X
+#etcsl: line-id=D.26.d2.3
+
+#etcsl#cf cf. 6.1.02.132
+
+@end proverb
+
+@div proverb 26.d3
+
+D.26.d3.4. u₂ degₓ(RI)-degₓ(RI)-ga kalag!(SIG₉)-[ga-še₃]
+#lem: u[plant(s)]; deg[gather up]; kalag[strong]
+#etcsl: line-id=D.26.d3.4
+
+#etcsl#cf cf. 6.1.02.133, 6.1.11.6, 6.1.22: l. 80
+
+D.26.d3.5. sig₉!(KALAG)-ga bar-rim₄-ma ba-e-[tuš]
+#lem: sig[weak]; barim[dry land]; tuš[sit (down)]
+#etcsl: line-id=D.26.d3.5
+
+@end proverb
+
+@div proverb 26.d4
+
+D.26.d4.6. en-te-en-na-ka a-šag₄ nu-ur₁₁-ru#
+#lem: enten[winter]; ašag[field]; uru[sow]
+#etcsl: line-id=D.26.d4.6
+
+#etcsl#cf cf. 6.1.02.20
+
+D.26.d4.7. ud# buru₁₄-a-ka šu-ni ga-rig₂ an-du₃-du₃-e
+#lem: ud[sun]; buru[harvest]; šu[hand]; garig[comb]; du[build]
+#etcsl: line-id=D.26.d4.7
+
+@end proverb
+
+@div proverb 26.d5
+
+D.26.d5.8. gud uš-ša numun nu-ŋa₂-ŋa₂
+#lem: gud[bull]; uš[foundation]; numun[seed]; ŋar[put]
+#etcsl: line-id=D.26.d5.8
+
+#etcsl#cf cf. 6.1.02.87-88
+
+D.26.d5.9. buru₁₄-ta gu₃-e lag nu-bur₁₂-re
+#lem: buru[harvest]; gu[voice]; lag[clod (of earth)]; bur[tear out]
+#etcsl: line-id=D.26.d5.9
+
+@end proverb
+
+@div proverb 26.d6
+
+D.26.d6.10. gud sur₁₂-ra ab-sin₂-bi ab-sag₉-sag₉
+#lem: gud[bull]; sur[threshing floor]; absin[furrow]; sag[good]
+#etcsl: line-id=D.26.d6.10
+
+#etcsl#cf cf. 6.1.02.86, 6.1.05.17
+
+@end proverb
+
+@div proverb 26.d7
+
+D.26.d7.11. ga-zi-in-bu lugal-ŋu₁₀ ur-saŋ mu-bi-im
+#lem: gazinbu[pole]; lugal[king]; ursaŋ[warrior]; mu[name]
+#etcsl: line-id=D.26.d7.11
+
+@end proverb
+
+@div proverb 26.d8
+
+D.26.d8.12. ga-zi-in-bu su la₂-a nu₂-nu₂
+#lem: gazinbu[pole]; su[flesh]; la[hang]; nud[lie down]
+#etcsl: line-id=D.26.d8.12
+
+#etcsl#cf cf. 6.1.02.84
+
+@end proverb
+
+@div proverb 26.d9
+
+D.26.d9.13. gud gu₃ ra-ah lag-bi nu-bur₁₂-re
+#lem: gud[bull]; gu[voice]; rah[beat]; lag[clod (of earth)]; bur[tear out]
+#etcsl: line-id=D.26.d9.13
+
+@end proverb
+
+@div proverb 26.d10
+
+D.26.d10.14. gud sig₉-ga sahar-ra igi-bi zid₂ ak-a
+#lem: gud[bull]; sig[put into]; sahar[soil]; igi[eye]; zid[flour]; ak[do]
+#etcsl: line-id=D.26.d10.14
+
+#etcsl#cf cf. 6.1.02.90
+
+@end proverb
+
+@div proverb 26.d11
+
+D.26.d11.15. {u₂}numun₂-bi {gi}en₃-bar sumun₂-bi niŋ₂ izi sag₃-ge niŋ₂ an-ta ed₂-de₃
+#lem: numun[alfalfa grass]; enbar[reed]; sumun[old]; niŋ[thing]; izi[fire]; sag[strike]; niŋ[thing]; an[sky]; e[leave]
+#etcsl: line-id=D.26.d11.15
+
+@end proverb
+
+@div proverb 26.d12
+
+D.26.d12.16. id₂ niŋ₂ ŋal₂-la he₂-gid₂-i
+#lem: id[river]; niŋ[thing]; ŋal[⟦be⟧ to be (there]; gid[long]
+#etcsl: line-id=D.26.d12.16
+
+@end proverb
+
+@div proverb 26.d13
+
+D.26.d13.17. engar#-e a-šag₄ na-ab-daŋal-la
+#lem: engar[farmer]; ašag[field]; daŋal[wide]
+#etcsl: line-id=D.26.d13.17
+
+#etcsl#cf cf. 6.1.02.131
+
+D.26.d13.18. diŋir# lu₂-u₁₈-lu šag₄-gal-la-ni nam#-ba-ab-tah-e
+#lem: diŋir[deity]; lulu[man]; šaggal[food]; tah[add]
+#etcsl: line-id=D.26.d13.18
+
+@end proverb
+
+@div proverb 26.d14
+
+D.26.d14.19. ŋi₆# 50-am₃ ud 50-am₃# ud# lul 55-[am₃]
+#lem: ŋi[night]; n; ud[sun]; n; ud[sun]; lul[false]; n
+#etcsl: line-id=D.26.d14.19
+
+#etcsl#cf cf. 6.1.14.62
+
+@end proverb
+
+@div proverb 26.d15
+
+D.26.d15.20. [a]-da tuš! kur-šag₄-ga igi# [du₈]
+#lem: a[water]; tuš[sit (down)]; kuršag[center of the mountains]; igi[eye]; du[spread]
+#etcsl: line-id=D.26.d15.20
+
+#etcsl#cf cf. 6.1.02.149, 6.1.11.69
+
+D.26.d15.21. [ni₂]-bi-še₃ [igi nu-du₈]
+#lem: ni[self]; igi[eye]; du[spread]
+#etcsl: line-id=D.26.d15.21
+
+D.26.d15.22. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=D.26.d15.22
+
+@end proverb
+
+$ (approx. 23 lines missing)
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (approx. 25 lines missing)
+#lg 26.a1	proverb
+
+@(A.26.a1.26 = 26)   @gap{1 line fragmentary} 
+
+#lg 26.a2	proverb
+
+@(A.26.a2.27 = 27)  @note{cf. @xref[t.6.1.11,t.6.1.11.56]{6.1.11.56}, @xref[t.6.1.25,t.6.1.25.9]{6.1.25.9}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. B l. 2}} The palace bows down, but only of its own accord.
+
+#lg 26.a3	proverb
+
+@(A.26.a3.28 = 28-29)  @note{cf. @xref[t.6.1.25,t.6.1.25.12]{6.1.25.12}, @xref[t.6.2.5,t625.h28]{6.2.5: YBC 9908}, @xref[t.5.6.1,]{5.6.1: ll. 95-96}} Income ……. Expenditures never cease.
+
+#lg 26.a4	proverb
+
+@(A.26.a4.30 = 30)  @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 49-50}, @xref[t.6.2.3,t623.h74]{6.2.3: UET 6/2 259}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. B ll. 4-5}, @xref[t.6.2.5,t625.h17]{6.2.5: YBC 7351}, @xref[t.5.6.1,]{5.6.1: l. 50}} Violent cursing and chasing away a son from his father's house are abominations to @wDN{Ninurta}.
+
+#lg 26.a5	proverb
+
+@(A.26.a5.31 = 31)  @note{cf. @xref[t.6.1.03,t.6.1.03.8]{6.1.03.8}, @xref[t.6.2.1,]{6.2.1: Ni 4122 ll. 2-5}} To spit without covering it up with dust and to use the tongue at midday without protection are abominations to @wDN{Utu}.
+
+#lg 26.a6	proverb
+
+@(A.26.a6.32 = 32)  @note{cf. @xref[t.6.1.11,t.6.1.11.66]{6.1.11.66}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. B l. 6}} To take revenge is an abomination to @wDN{Ninurta}.
+
+#lg 26.a7	proverb
+
+@(A.26.a7.33 = 33)  Refusing to talk is an abomination to @wDN{Ninurta}.
+
+#lg 26.a8	proverb
+
+@(A.26.a8.34 = 34)  @note{cf. @xref[t.6.1.03,t.6.1.03.118]{6.1.03.118}} When a man comes forward as a witness, saying: @q{“Let me tell you what I know,”} but does not know the relevant information, it is an abomination to @wDN{Utu}.
+
+#lg 26.a9	proverb
+
+@(A.26.a9.35 = 35)  To remove something from its proper place is an abomination to @wDN{Ninurta}.
+
+#lg 26.a10	proverb
+
+@(A.26.a10.36 = 36)  @note{cf. @xref[t.6.1.03,t.6.1.03.170]{6.1.03.170}, @xref[t.6.1.25,t.6.1.25.13]{6.1.25.13}, @xref[t.6.2.5,]{6.2.5: BM 57994 Seg. A ll. 1-3}} When a man sailing downstream encounters a man whose boat is travelling upstream, to demand an inspection is an abomination to @wDN{Suen}.
+
+#lg 26.a11	proverb
+
+@(A.26.a11.37 = 37)  @note{cf. @xref[t.6.1.01,t.6.1.01.83]{6.1.01.83}, @xref[t.6.2.3,t623.h7]{6.2.3: UET 6/2 302}, @xref[t.6.2.5,]{6.2.5: YBC 8713 ll. 4-5}} When a trustworthy boat sets sail, @wDN{Utu} seeks out a trustworthy harbour for it.
+
+#lg 26.a12	proverb
+
+@(A.26.a12.38 = 38-40)  Fear of god creates good fortune. Lamentation absolves sin. Offerings extend life.
+
+#lg 26.a13	proverb
+
+@(A.26.a13.41 = 41-42)  @note{cf. @xref[t.6.1.01,t.6.1.01.79]{6.1.01.79}} I did not answer the curse uttered against me with a curse of my own. My answering a curse would be answered with another curse.  @gap{approx. 33 lines missing} 
+
+
+#lg 26.b1	proverb
+
+@(B.26.b1.1 = 1)   @gap{1 line fragmentary} 
+
+#lg 26.b2	proverb
+
+@(B.26.b2.2 = 2)   @gap{1 line fragmentary} 
+
+#lg 26.b3	proverb
+
+@(B.26.b3.3 = 3-5)  @note{cf. @xref[t.6.1.15,t.6.1.15.c2]{6.1.15.c2}, @xref[t.6.1.28,t.6.1.28.7]{6.1.28.7}} Let the sheep be given the whip and let the shepherd ……. Where there is no toughness, no man can go about his business.
+
+#lg 26.b4	proverb
+
+@(B.26.b4.6 = 6)  @note{cf. @xref[t.6.1.01,t.6.1.01.104]{6.1.01.104}, @xref[t.6.1.11,t.6.1.11.54]{6.1.11.54}, @xref[t.6.1.15,t.6.1.15.c3]{6.1.15.c3}, @xref[t.6.1.28,t.6.1.28.8]{6.1.28.8}} If oil is poured inside the shaft of a sceptre, no one would know.
+
+#lg 26.b5	proverb
+
+@(B.26.b5.7 = 7)  @note{cf. @xref[t.6.1.03,t.6.1.03.86]{6.1.03.86}} @q{“Give me!”} is what the king says. …….
+
+#lg 26.b6	proverb
+
+@(B.26.b6.8 = 8)  @note{cf. @xref[t.6.1.03,t.6.1.03.86]{6.1.03.86}} @q{“Give me!”} is what the king says. …….
+
+#lg 26.b7	proverb
+
+@(B.26.b7.9 = 9)  …… friend …….
+
+#lg 26.b8	proverb
+
+@(B.26.b8.10 = 10-11)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+#lg 26.c1	proverb
+
+@(C.26.c1.1 = 1)   @gap{1 line fragmentary} 
+
+#lg 26.c2	proverb
+
+@(C.26.c2.2 = 2)  @note{cf. @xref[t.6.1.18,t.6.1.18.6]{6.1.18.6}} He who pays with high-valued silver negotiates a favourable position.
+
+#lg 26.c3	proverb
+
+@(C.26.c3.3 = 3)  Something bought …… something good …….
+
+#lg 26.c4	proverb
+
+@(C.26.c4.4 = 4)  @note{cf. @xref[t.6.1.01,t.6.1.01.52]{6.1.01.52}} There is no baked cake in the middle of the dough.
+
+#lg 26.c5	proverb
+
+@(C.26.c5.5 = 5-6)  @note{cf. @xref[t.6.1.01,t.6.1.01.53]{6.1.01.53}} My heart urged me to bake two loaves out of a half. My hands were unable to take them out of the oven.
+
+#lg 26.c6	proverb
+
+@(C.26.c6.7 = 7-8)  I am not dear to the man I hold dear. He has profited at my expense while I was flapping my arms like a bird.
+
+#lg 26.c7	proverb
+
+@(C.26.c7.9 = 9-11)  I am not dear to the man I hold dear. He took …… into his own hands. Because of him, my hands were filled with dust.
+
+#lg 26.c8	proverb
+
+@(C.26.c8.12 = 12)  He is fearful, like a man unacquainted with beer.
+
+#lg 26.c9	proverb
+
+@(C.26.c9.13 = 13-14)  @note{cf. @xref[t.6.1.03,t.6.1.03.142]{6.1.03.142}} The south wind has filled my eyes with dust; why (?) does it kiss me backwards (?)?
+
+#lg 26.c10	proverb
+
+@(C.26.c10.15 = 15-16)  @note{cf. @xref[t.6.1.02,t.6.1.02.2]{6.1.02.2}, @xref[t.6.2.3,]{6.2.3: UET 6/2 292 ll. 1-2}} @q{“Let me tell you about my fate”}: it will be abuse. @q{“Let me reveal it to you”}: it will be an insult.
+
+#lg 26.c11	proverb
+
+@(C.26.c11.17 = 17)  @note{cf. @xref[t.6.1.01,t.6.1.01.80]{6.1.01.80}} It is an insult resulting from an insult.  @gap{approx. 25 lines missing} 
+
+
+#lg 26.d1	proverb
+
+@(D.26.d1.1 = 1-2)   @gap{1 line fragmentary}  do not let a garment dry out.
+
+#lg 26.d2	proverb
+
+@(D.26.d2.3 = 3)  @note{cf. @xref[t.6.1.02,t.6.1.02.132]{6.1.02.132}}  @gap{1 line unclear} 
+
+#lg 26.d3	proverb
+
+@(D.26.d3.4 = 4-5)  @note{cf. @xref[t.6.1.02,t.6.1.02.133]{6.1.02.133}, @xref[t.6.1.11,t.6.1.11.6]{6.1.11.6}, @xref[t.6.1.22,]{6.1.22: l. 80}} To collect firewood is a job for the strong man. The weak man sits waiting for him on dry land.
+
+#lg 26.d4	proverb
+
+@(D.26.d4.6 = 6-7)  @note{cf. @xref[t.6.1.02,t.6.1.02.20]{6.1.02.20}} He didn't plough the field in the cool season, and at harvest time he turned his attention to carding wool.
+
+#lg 26.d5	proverb
+
+@(D.26.d5.8 = 8-9)  @note{cf. @xref[t.6.1.02,t.6.1.02.87]{6.1.02.87-88}} Low-quality oxen do not plant seed. He who eats during the harvest is not removing clods.
+
+#lg 26.d6	proverb
+
+@(D.26.d6.10 = 10)  @note{cf. @xref[t.6.1.02,t.6.1.02.86]{6.1.02.86}, @xref[t.6.1.05,t.6.1.05.17]{6.1.05.17}} Furrows are pleasant to a threshing ox.
+
+#lg 26.d7	proverb
+
+@(D.26.d7.11 = 11)  A stake, my lord; @q{“hero”} is its name.
+
+#lg 26.d8	proverb
+
+@(D.26.d8.12 = 12)  @note{cf. @xref[t.6.1.02,t.6.1.02.84]{6.1.02.84}} Salted meat lying on a stake.
+
+#lg 26.d9	proverb
+
+@(D.26.d9.13 = 13)  The bellowing ox does not remove the clods.
+
+#lg 26.d10	proverb
+
+@(D.26.d10.14 = 14)  @note{cf. @xref[t.6.1.02,t.6.1.02.90]{6.1.02.90}} The ox which has sunk into the ground -- in its own eyes it was still making flour.
+
+#lg 26.d11	proverb
+
+@(D.26.d11.15 = 15)  These rushes, these old reeds -- when set on fire, they come down from the sky.
+
+#lg 26.d12	proverb
+
+@(D.26.d12.16 = 16)  Let the river expand when there is something in it.
+
+#lg 26.d13	proverb
+
+@(D.26.d13.17 = 17-18)  @note{cf. @xref[t.6.1.02,t.6.1.02.131]{6.1.02.131}} A farmer should not widen the field. A god (?) should not increase for mankind his food demands.
+
+#lg 26.d14	proverb
+
+@(D.26.d14.19 = 19)  @note{cf. @xref[t.6.1.14,t.6.1.14.62]{6.1.14.62}} The nights are fifty, the days are fifty; but the days (?) of lies (?) are fifty-five.
+
+#lg 26.d15	proverb
+
+@(D.26.d15.20 = 20-22)  @note{cf. @xref[t.6.1.02,t.6.1.02.149]{6.1.02.149}, @xref[t.6.1.11,t.6.1.11.69]{6.1.11.69}} Those who live near the water look into the mountains. They don't look in their own direction.  @gap{1 line fragmentary}   @gap{approx. 23 lines missing} 
+
+
+

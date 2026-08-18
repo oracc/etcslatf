@@ -1,0 +1,127 @@
+&Q000691 = A balbale to Nanše (Nanše B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.14.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.2&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [...] X šu du₇-a
+#lem: X; X; šu[hand]; du[perfect]
+#etcsl: line-id=A.1
+
+A.2. [...] X X
+#lem: X; X; X
+#etcsl: line-id=A.2
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. ku₆ ŋidru šu-na na!(KI)-mu-un-ŋal₂ me <X>
+#lem: kud[fish]; ŋidru[scepter]; šu[hand]; ŋal[⟦be⟧ to be (there]; me[Being]; X
+#etcsl: line-id=B.1
+
+B.2. ku₆ {kuš}e-sir₂ ŋiri₃-na na-mu-un-sig₉ me <X>
+#lem: kud[fish]; esir[sandal(s)]; ŋiri[foot]; sig[put into]; me[Being]; X
+#etcsl: line-id=B.2
+
+B.3. ku₆ izi ab-šag₄-ga na-mu-un-zalag-ge me <X>
+#lem: kud[fish]; izi[fire]; abšag[center of the sea]; zalag[bright]; me[Being]; X
+#etcsl: line-id=B.3
+
+B.4. ku₆ sur₉-re mu-na-an-du₁₂-am₃
+#lem: kud[fish]; surru[priest]; du[play (a musical instrument)]
+#etcsl: line-id=B.4
+
+B.5. ku₆ gud-de₃ gu₃ nun mu-na-ab-be₂
+#lem: kud[fish]; gud[bull]; gu[voice]; nun[prince]; e[speak]
+#etcsl: line-id=B.5
+
+B.6. ku₆ tug₂-ba₁₃ šag₄-ge₄ nam-mi-in-la₂
+#lem: kud[fish]; ba[garment]; šag[heart]; la[hang]
+#etcsl: line-id=B.6
+
+B.7. kaš₄-kaš₄{ku₆}-e kaš₄ mu-na-ab-kar-re
+#lem: kaškaš[fish]; kaš[run]; kar[flee]
+#etcsl: line-id=B.7
+
+B.8. gur₄-gur₄{ku₆}-e ab mu-na-ab-gur₄-gur₄
+#lem: gurgur[fish]; ab[sea]; gur[thick]
+#etcsl: line-id=B.8
+
+B.9. ŋir₂{ku₆}-e ab mu-na-ab-ŋir₂-re
+#lem: ŋir[fish]; ab[sea]; ŋir[flash]
+#etcsl: line-id=B.9
+
+B.10. agargara{ku₆} zar!-re-eš mu-un-du₈-du₈
+#lem: agargara[fish-spawn]; zar[sheaf (of barley)]; du[spread]
+#etcsl: line-id=B.10
+
+B.11. ku₆ NE ab-ba mu-na-ab-mu₂-mu₂
+#lem: kud[fish]; X; ab[sea]; mu[grow]
+#etcsl: line-id=B.11
+
+B.12. ku₆ sim{mušen} mu-na-ab-dal-dal-le-ne
+#lem: kud[fish]; sim[swallow]; dal[fly]
+#etcsl: line-id=B.12
+
+B.13. %e ga-ša-an-ŋen %s {ŋiš}ma₂-gur₈-še₃  %e  da-an-u₅  %s  %e me-e %s e₂-še₃  %e  da-an-u₅  %s 
+#lem: gašan[lady]N; magur[barge]; u[ride]; meʾe[I]IP; e[house]; u[ride]
+#etcsl: line-id=B.13
+
+B.14. {ŋiš}ma₂ si-bi  %e  da-an-u₅  %s  %e me-e %s e₂-še₃  %e  da-an-u₅  %s 
+#lem: ma[ship]; si[horn]; u[ride]; meʾe[I]IP; e[house]; u[ride]
+#etcsl: line-id=B.14
+
+B.15. a₂-sumur₃-bi kug-sig₁₇ šim {ŋiš}erin-da
+#lem: asumur[canopy]; kugsig[gold]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=B.15
+
+B.16. ab-ba ša-mu-na-ab-ŋir₂-ŋir₂-re-dam
+#lem: ab[sea]; ŋir[flash]
+#etcsl: line-id=B.16
+
+B.17. ŋiš-hum-bi iti₆ giri₁₇-zal-am₃
+#lem: ŋešhum[bench]; itud[moon]; kirizal[joy]
+#etcsl: line-id=B.17
+
+B.18. ab-ba ša-mu-na-ab-dadag-ge
+#lem: ab[sea]; dadag[bright]
+#etcsl: line-id=B.18
+
+B.19. %e mu-ud-na-ŋu₁₀ mu-un-kud %s ab-ba-ka
+#lem: mudna[spouse]N; munkud[tax-collector]N; ab[sea]
+#etcsl: line-id=B.19
+
+B.20. %e  %e  u₃-mu-un-dar-a  mu-un-kud %s ab-ba-ka
+#lem: Umundara[1]DN; munkud[tax-collector]N; ab[sea]
+#etcsl: line-id=B.20
+
+B.21. e₂ ud-bi
+#lem: e[house]; ud[sun]
+#etcsl: line-id=B.21
+
+B.22. a-a
+#lem: aya[father]
+#etcsl: line-id=B.22
+
+@div trailer 
+
+B.23. bal-bal-e {d}nanše-kam
+#lem: balbale[literary subscript]; Nanše[1]DN
+#etcsl: line-id=B.23
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

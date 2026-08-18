@@ -1,0 +1,296 @@
+&Q000660 = A song of Inana and Dumuzid (Dumuzid-Inana D1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.30
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.30&display=Crit&charenc=gcirc#
+
+1. [e₂]-temen-ni₂#-guru₃#-a# X [...]
+#lem: Etemenniguru[1]TN; X; X
+#etcsl: line-id=1
+
+2. e₂ %e uru₂-ze₂-ba %s šu si sa₂-a-bi
+#lem: e[house]; Uruzeb[1]SN; šu[hand]; si[horn]; sa[equal]
+#etcsl: line-id=2
+
+3. e₂ {d}suen-na-ka dadag-ga-bi
+#lem: e[house]; Suen[1]DN; dadag[bright]
+#etcsl: line-id=3
+
+4. e₂-an-na-ka urin du₃-a-bi
+#lem: Eanak[1]TN; urin[standard]; du[build]
+#etcsl: line-id=4
+
+5. e₂ šu-bi-še₃ he₂-rig₇
+#lem: e[house]; šu[hand]; rig[donate]
+#etcsl: line-id=5
+
+6. e₂ zid-da-ŋu₁₀ dungu-gen₆{du-gu-ge} i-im-dirig
+#lem: e[house]; zid[right]; dungu[cloud]; dirig[make more than]
+#etcsl: line-id=6
+
+7. mu inim-ŋar sag₉-ga in-ga-am₃
+#lem: mu[name]; iŋar[oracular utterance]; sag[good]; me[be]
+#etcsl: line-id=7
+
+8. ki-nu₂ gi-rin{ri}-na za-gin₃ sig₁₀{zi}-ga-am₃
+#lem: kinud[sleeping quarter]; girim[flower]; zagin[lapis lazuli]; sig[put into]
+#etcsl: line-id=8
+
+9. {d}gibil₆ iri₁₂-gal-la mu-ra-an-kug-kug-ga
+#lem: Gibil[1]DN; Irigal[1]TN; kug[purify]
+#etcsl: line-id=9
+
+10. %e mu-lu₂ nam-ga-ša-an-e %s šu gal du₃-a
+#lem: mulu[person]N; naŋgašan[ladyship]N; šu[hand]; gal[big]; du[build]
+#etcsl: line-id=10
+
+11. %e šu!(U₃)-mu-un-na-ni %s mu-ra-an-sig₉
+#lem: šumun[grass]; sig[put into]
+#etcsl: line-id=11
+
+12. e₂ {gi}ušub-na mu-ra-ab-kug-ga šu-luh mu-ra-ŋa₂-ŋa₂
+#lem: e[house]; ušub[part of a reed]; kug[purify]; šuluh[ritual cleansing]; ŋar[put]
+#etcsl: line-id=12
+
+13. ud ba-an-nu₂ ud ba-an-dug₄
+#lem: ud[sun]; nud[lie down]; ud[sun]; dug[speak]
+#etcsl: line-id=13
+
+14. ud ki-nu₂-a %e i-bi₂ %s kar₂-kar₂-dam
+#lem: ud[sun]; kinud[sleeping quarter]; ibi[eye]N; kar[blow]
+#etcsl: line-id=14
+
+15. ud %e u₃-mu-un-e %s mi₂ zi-zi-i-dam
+#lem: ud[sun]; umun[lord]N; mi[cvne]; zig[rise]
+#etcsl: line-id=15
+
+16. %e u₃-mu-un-ra %s nam-til₃ ze₂-eŋ₃-ŋa₂-a
+#lem: umun[lord]N; namtil[life]; šum[give]
+#etcsl: line-id=16
+
+17. %e u₃-mu-un-ra %s ešgiri₂ ($erroneous gloss si-bi-ir$) šibir šum₂{šu}-mu-na-ab
+#lem: umun[lord]N; ešgiri[staff]; šibir[shepherd's staff]; šum[give]
+#etcsl: line-id=17
+
+18. al ba-an-dug₄ al ba-an-dug₄ ki-nu₂ al ba-an-dug₄
+#lem: al[cvne]; dug[speak]; al[cvne]; dug[speak]; kinud[sleeping quarter]; al[cvne]; dug[speak]
+#etcsl: line-id=18
+
+19. ki-nu₂ šag₄ hul₂-la al ba-an-dug₄ ki-nu₂ al ba-an-dug₄
+#lem: kinud[sleeping quarter]; šag[heart]; hul[rejoice]; al[cvne]; dug[speak]; kinud[sleeping quarter]; al[cvne]; dug[speak]
+#etcsl: line-id=19
+
+20. ki-nu₂ ur₂ %e ze₂-ba %s al ba-an-dug₄ ki-nu₂ al ba-an-dug₄
+#lem: kinud[sleeping quarter]; ur[loin]; zeb[good]V/i; al[cvne]; dug[speak]; kinud[sleeping quarter]; al[cvne]; dug[speak]
+#etcsl: line-id=20
+
+21. ki#-nu₂ nam-lugal-la al ba-an-dug₄ ki-nu₂ al ba-an-dug₄
+#lem: kinud[sleeping quarter]; namlugal[kingship]; al[cvne]; dug[speak]; kinud[sleeping quarter]; al[cvne]; dug[speak]
+#etcsl: line-id=21
+
+22. [ki]-nu₂ nam-nin-a al ba-an-dug₄ ki-nu₂ al ba-an-dug₄
+#lem: kinud[sleeping quarter]; namnin[ladyship]; al[cvne]; dug[speak]; kinud[sleeping quarter]; al[cvne]; dug[speak]
+#etcsl: line-id=22
+
+23. %e [ze₂]-ba#-ni-da ze₂-ba-ni-da %s ki-nu₂ %e ze₂-ba-ni-da
+#lem: zeb[good]V/i; zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=23
+
+24. [ki-nu₂] šag₄ hul₂-la %e ze₂-ba-ni-da %s ki-nu₂ %e ze₂-ba-ni-da
+#lem: kinud[sleeping quarter]; šag[heart]; hul[rejoice]; zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=24
+
+25. [ki-nu₂] ur₂# %e ze₂-ba ze₂-ba-ni-da %s ki-nu₂ %e ze₂-ba-ni-da
+#lem: kinud[sleeping quarter]; ur[loin]; zeb[good]V/i; zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=25
+
+26. [ki-nu₂] nam#-lugal-la %e ze₂-ba-ni-da %s ki-nu₂ %e ze₂-ba-ni-da
+#lem: kinud[sleeping quarter]; namlugal[kingship]; zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=26
+
+27. [ki-nu₂ nam]-nin-a %e ze₂-ba-ni-da %s ki-nu₂ %e ze₂-ba-ni-da
+#lem: kinud[sleeping quarter]; namnin[ladyship]; zeb[good]V/i; kinud[sleeping quarter]; zeb[good]V/i
+#etcsl: line-id=27
+
+28. [X X ki]-nu₂# mu-un-na-barag₂-ge ki-nu₂ mu-un-na-barag₂-ge
+#lem: X; X; kinud[sleeping quarter]; barag[spread out]; kinud[sleeping quarter]; barag[spread out]
+#etcsl: line-id=28
+
+29. [X X ki-nu₂ mu]-un#-na-barag₂-ge ki-nu₂ mu-un-na-barag₂-ge
+#lem: X; X; kinud[sleeping quarter]; barag[spread out]; kinud[sleeping quarter]; barag[spread out]
+#etcsl: line-id=29
+
+30. lugal# [ki-nu₂ %e ze₂-ba-ni-še₃ %s gu₃ mu-un-na-de₂-e]
+#lem: lugal[king]; kinud[sleeping quarter]; zeb[good]V/i; gu[voice]; de[pour]
+#etcsl: line-id=30
+
+31. ki aŋ₂ ki-nu₂# %e ze₂-ba-ni-še₃# %s gu₃# mu-un#-[na-de₂-e]
+#lem: ki[place]; aŋ[measure]; kinud[sleeping quarter]; zeb[good]V/i; gu[voice]; de[pour]
+#etcsl: line-id=31
+
+32. inim{i-ni} til₃ inim ud su₁₃-ra₂{ra} gu₃ mu-un-na-de₂-e
+#lem: inim[word]; til[live (of a single person)]; inim[word]; ud[sun]; sud[distant]; gu[voice]; de[pour]
+#etcsl: line-id=32
+
+33.  %e  ga-ša-an-šubur-ra  %s  sukkal zid e₂-an-na-ke₄
+#lem: Gašanšubur[1]DN; sukkal[secretary]; zid[right]; Eanak[1]TN
+#etcsl: line-id=33
+
+34. kišib-la₂!{ki-še-eb-la₂} zid-da-na im-ma-an-dab₅
+#lem: kišibla[wrist]; zid[right]; dab[seize]
+#etcsl: line-id=34
+
+35. ur₂ %e ga-ša-an-na-ka-še₃ %s hi-li-a mu-ni-kur₉
+#lem: ur[loin]; Gašanana[1]DN; hili[attractiveness]; kur[enter]
+#etcsl: line-id=35
+
+36. %e u₃-mu-un-e aŋ₂ %s šag₄-ge ba-e-pad₃-da-zu
+#lem: umun[lord]N; aŋ[thing]N; šag[heart]; pad[find]
+#etcsl: line-id=36
+
+37. lugal-e nitalam ki aŋ₂-zu ur₂ kug niŋ₂ dug₃-zu ud ha-ba-ni-ib-su₃-ud-de₃
+#lem: lugal[king]; ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; ur[loin]; kug[purify]; niŋ[thing]; dug[good]; ud[sun]; sud[distant]
+#etcsl: line-id=37
+
+38. bal sag₉-ga pa e₃ šum₂-mu-un-ab
+#lem: bala[turn]; sag[good]; pa[branch]; e[leave]; šum[give]
+#etcsl: line-id=38
+
+39. {ŋiš}gu-za nam-lugal-la suhuš gen₆-na-ba šum₂-mu-na-ab
+#lem: guza[chair]; namlugal[kingship]; suhuš[foundation]; gin[confirm]; šum[give]
+#etcsl: line-id=39
+
+40. ŋidru kalam si sa₂ ešgiri₂ šibir šum₂-mu-na-ab
+#lem: ŋidru[scepter]; kalam[the Land (of Sumer)]; si[horn]; sa[equal]; ešgiri[staff]; šibir[shepherd's staff]; šum[give]
+#etcsl: line-id=40
+
+41. aga zid men-na saŋ dalla-a šum₂-mu-na-ab
+#lem: aga[tiara]; zid[right]; men[tiara]; saŋ[head]; dalla[(to be) bright]; šum[give]
+#etcsl: line-id=41
+
+42. {d}utu e₃-ta {d}utu šu₂-še₃
+#lem: Utu[1]DN; e[leave]; Utu[1]DN; šuš[cover]
+#etcsl: line-id=42
+
+43. {tum₉}ulu₃-ta{tu-mu-ul-lu-ta} {tum₉}mir-ra-a-še₃{tu-mu-{d}mi-ra}
+#lem: ulu[south wind]; mir[north wind]
+#etcsl: line-id=43
+
+44. a-ab-ba igi-nim-ta a-ab-ba sig-še₃
+#lem: aʾabak[sea]; iginim[upper land]; aʾabak[sea]; sig[weak]
+#etcsl: line-id=44
+
+45. {ŋiš}ha-lu-ub₂!-ta {ŋiš}erin-na-še₃!(TA)
+#lem: halub[tree]; eren[cedar]
+#etcsl: line-id=45
+
+46. ki-en-gi ki-uri-a ešgiri₂ šibir šum₂-mu-na-ab!(TA)
+#lem: Kengir[1]; Akkad[1 Akkad]; ešgiri[staff]; šibir[shepherd's staff]; šum[give]
+#etcsl: line-id=46
+
+47. saŋ gig₂ dur₂-ru-na-bi nam-sipad-bi he₂-ak-e
+#lem: saŋ[head]; giggig[black]; durun[sit]; namsipad[shepherdship]; ak[do]
+#etcsl: line-id=47
+
+48. e-ne engar-gin₇ gana₂ he₂-ŋa₂-ŋa₂
+#lem: ane[he]; engar[farmer]; gana[field]; ŋar[put]
+#etcsl: line-id=48
+
+49. sipad zid-gin₇ amaš he₂-em-mi-lu-lu
+#lem: sipad[shepherd]; zid[right]; amaš[sheepfold]; lu[abundant]
+#etcsl: line-id=49
+
+50. gu he₂-en-da-ŋal₂ še he₂-en-da-ŋal₂
+#lem: gu[cord]; ŋal[⟦be⟧ to be (there]; še[barley]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=50
+
+51. id₂-da a-eštub he₂-en-da-ŋal₂
+#lem: id[river]; aʾeštub[early flooding]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=51
+
+52. a-šag₄-ga še gu-nu he₂-en-da-ŋal₂
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=52
+
+53. ambar-ra ku₆ mušen gu₃ hu-mu-da-ra-ra
+#lem: ambar[reed-bed]; kud[fish]; mušen[bird]; gu[voice]; rah[beat]
+#etcsl: line-id=53
+
+54. %e mu-gi-e %s gi sumun gi henbur he₂-en-da-an-mu₂
+#lem: mugi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; mu[grow]
+#etcsl: line-id=54
+
+55. an-edin-na %e {mu}maš-gurum %s he₂-en-da-an-mu₂
+#lem: aneden[the high steppe]; mašgurum[plant]; mu[grow]
+#etcsl: line-id=55
+
+56. tir-tir-ra šeg₉ šeg₉-bar he₂-en-da-lu
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; lu[abundant]
+#etcsl: line-id=56
+
+57. pu₂-{ŋiš}kiri₆ lal₃ ŋeštin he₂-en-da-il₂
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; il[raise]
+#etcsl: line-id=57
+
+58. mu₂-sar-ra hi-iz{sar} za₃-hi-li{sar} he₂-en-da-mu₂
+#lem: musar[garden]; hiz[vegetable]; zahili[plant]; mu[grow]
+#etcsl: line-id=58
+
+59. e₂-gal-la zi su₃-ud-ŋal₂ he₂-en-da-an-ŋal₂
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=59
+
+60. {id₂}idigna {id₂}buranun-na a-u₅-ba hu-mu-ni-ib-tum₂#
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; aʾu[high water]; tum[bring]
+#etcsl: line-id=60
+
+61. gu₂-gu₂-ba u₂ hu-mu-ta-mu₂-mu₂ a-gar₃ he₂-en-si
+#lem: gu[neck]; u[plant(s)]; mu[grow]; agar[meadow]; si[fill]
+#etcsl: line-id=61
+
+62. guru₇-du₆ guru₇-maš kug %e ga-ša-an %s {d}nisaba-ke₄ gu₂ hu-mu-ni-gur-gur
+#lem: gurudud[grain heap]; gurumaš[grain heap]; kug[purify]; gašan[lady]N; Nisabak[1]DN; gu[neck]; gur[turn]
+#etcsl: line-id=62
+
+63. %e ga-ša-an-ŋu₁₀# %s nin an ki nin an ki šu₂-a
+#lem: gašan[lady]N; nin[lady]; an[sky]; ki[place]; nin[lady]; an[sky]; ki[place]; šuš[cover]
+#etcsl: line-id=63
+
+64. ur₂ [...] ud ha-ba-ni-ib-sud-e
+#lem: ur[loin]; X; ud[sun]; sud[distant]
+#etcsl: line-id=64
+
+65. lugal [...] saŋ# il₂-la mu-un-ŋen-ne₂
+#lem: lugal[king]; X; saŋ[head]; il[raise]; ŋen[go]
+#etcsl: line-id=65
+
+66. ur₂ kug# [%e ga-ša-an-na]-ka#-še₃ %s saŋ il₂-la mu-un-ŋen
+#lem: ur[loin]; kug[purify]; Gašanana[1]DN; saŋ[head]; il[raise]; ŋen[go]
+#etcsl: line-id=66
+
+67. lugal X [... saŋ] il₂#-la ŋen-ne₂
+#lem: lugal[king]; X; X; saŋ[head]; il[raise]; ŋen[go]
+#etcsl: line-id=67
+
+68. nin!-ŋu₁₀-[ra] saŋ# il₂-la ŋen-ne₂
+#lem: nin[lady]; saŋ[head]; il[raise]; ŋen[go]
+#etcsl: line-id=68
+
+69. X U₃ [...] il₂-la KA-ta
+#lem: X; X; X; il[raise]; X
+#etcsl: line-id=69
+
+70. %e mu-gi₁₇#-[ib %s gu₂-da mu-un]-da-la₂
+#lem: mugib[priestess]N; gu[neck]; la[hang]
+#etcsl: line-id=70
+
+$ (note@c40830.70!c40830.n2: the ends of a number of further lines are preserved)
+$ (unknown no. of lines missing)
+
+
+
+
+
+

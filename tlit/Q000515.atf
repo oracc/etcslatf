@@ -1,0 +1,159 @@
+&Q000515 = An adab to Inana for Rīm-Sîn (Rīm-Sîn H)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.9.8
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.9.8&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div barsud A
+
+A.A.1. [X X] ki# aŋ₂ an-na X X [...] pad₃#
+#lem: X; X; ki[place]; aŋ[measure]; An[1]DN; X; X; X; pad[find]
+#etcsl: line-id=A.A.1
+
+A.A.2. [...] X UM MA sig₇-ga zag X BA
+#lem: X; X; X; X; sissig[green-yellow]; zag[side]; X; X
+#etcsl: line-id=A.A.2
+
+A.A.3. {d}nin-tur₅-re u₃-tud-za šag₄ mi-ni-ib-[hul₂] nam gal ša-mu-ri-in-[tar]
+#lem: Nintur[1]DN; utud[give birth (to)]; šag[heart]; hul[rejoice]; nam[fate]; gal[big]; tar[cut]
+#etcsl: line-id=A.A.3
+
+A.A.4. saŋ-ki hi-li bi₂-in-ak PA GAR ZU [X X] BA#
+#lem: saŋki[forehead]; hili[attractiveness]; ak[do]; X; X; X; X; X; X
+#etcsl: line-id=A.A.4
+
+A.A.5. me-dim₂-zu ŋiri₃ nun-na alan-zu dalla pa# e₃#
+#lem: medim[limbs]; ŋiri[foot]; nun[prince]; alan[image]; dalla[(to be) bright]; pa[branch]; e[leave]
+#etcsl: line-id=A.A.5
+
+@div trailer 
+
+A.A.6. bar-sud-am₃
+#lem: barsud[musical notation]
+#etcsl: line-id=A.A.6
+
+@end trailer
+
+@end barsud
+
+@div unknown B
+
+A.B.7. nam-munus ba-e-dug₄ nam-hi-li <ba>-e-si#
+#lem: nammunus[femininity]; dug[speak]; namhili[charm]; si[fill]
+#etcsl: line-id=A.B.7
+
+A.B.8. {d}inana he₂-du₇ an sikil-la nam-nin-a tum₂-ma
+#lem: Inanak[1]DN; hedu[ornament]; an[sky]; sikil[pure]; namnin[ladyship]; tum[suitable]
+#etcsl: line-id=A.B.8
+
+A.B.9. [...]-ga šu ša-mu-u₈-du₇ nam-zu ba-dirig
+#lem: X; šu[hand]; du[perfect]; namzu[wisdom]; dirig[make more than]
+#etcsl: line-id=A.B.9
+
+A.B.10. [...] X ZA UN IGI X ab-be₂-en UN niŋin ad ša₄-ša₄-en
+#lem: X; X; X; X; X; X; e[speak]; X; niŋin[encircle]; ad[voice]; ša[cvve]
+#etcsl: line-id=A.B.10
+
+A.B.11. [...] nam# ŋal₂ A X [...] X X-ra-me-en
+#lem: X; nam[fate]; ŋal[⟦be⟧ to be (there]; X; X; X; X; X
+#etcsl: line-id=A.B.11
+
+A.B.12. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.B.12
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara C
+
+B.C.1. [...] MA mah#
+#lem: X; X; mah[great]
+#etcsl: line-id=B.C.1
+
+B.C.2. X X [...] X [...] X X bi₂-ib-X-un [...]
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=B.C.2
+
+B.C.3. lu₂ niŋ₂-si-sa₂-ka mu-e-du₇ gu₃ teš₂ he₂-en-sig₁₀-sig₁₀
+#lem: lu[person]; niŋsisa[justice]; du[perfect]; gu[voice]; teš[unity]; sig[put into]
+#etcsl: line-id=B.C.3
+
+B.C.4. mu he₂-ŋal₂-la ud dug₃ asil-la₂-a nam-sipad he₂-ak-ke₄
+#lem: mu[year]; heŋal[plenty]; ud[sun]; dug[good]; asilala[joy]; namsipad[shepherdship]; ak[do]
+#etcsl: line-id=B.C.4
+
+B.C.5. ri-im-{d}suen lu₂ niŋ₂-si-sa₂-ka mu-e-du₇ gu₃ teš₂ he₂-en-sig₁₀-sig₁₀#
+#lem: Rimsin[1]RN; lu[person]; niŋsisa[justice]; du[perfect]; gu[voice]; teš[unity]; sig[put into]
+#etcsl: line-id=B.C.5
+
+B.C.6. mu he₂-ŋal₂-la ud dug₃ asil-la₂-a nam-sipad he₂-ak-ke₄
+#lem: mu[year]; heŋal[plenty]; ud[sun]; dug[good]; asilala[joy]; namsipad[shepherdship]; ak[do]
+#etcsl: line-id=B.C.6
+
+@div trailer 
+
+B.C.7. sa-<ŋar>-ra-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.C.7
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal D
+
+B.D.8. {d}inana ri-im-{d}suen mu niŋ₂-zid re šag₄ dug₃-ga-za mu-a-ni sud šum₂-ma-ni-ib
+#lem: Inanak[1]DN; Rimsin[1]RN; mu[name]; niŋzid[righteousness]; re[that]; šag[heart]; dug[good]; mu[name]; sud[distant]; šum[give]
+#etcsl: line-id=B.D.8
+
+B.D.9. nu-u₈-gig dirig-še₃ mah an-na-e gun₃-a
+#lem: nugig[priestess]; dirig[make more than]; mah[great]; an[sky]; gunu[speckled]
+#etcsl: line-id=B.D.9
+
+B.D.10. {d}inana nu-u₈-gig dirig-še₃ mah an-na-e gun₃-a
+#lem: Inanak[1]DN; nugig[priestess]; dirig[make more than]; mah[great]; an[sky]; gunu[speckled]
+#etcsl: line-id=B.D.10
+
+B.D.11. inim# mi₂ dug₄-ga hi-li sud-a-za
+#lem: inim[word]; mi[cvne]; dug[speak]; hili[attractiveness]; sud[distant]
+#etcsl: line-id=B.D.11
+
+B.D.12. [...] diŋir# ama gal-gal ri-im-{d}suen til₃-mu-ni-ib
+#lem: X; diŋir[deity]; ama[mother]; gal[big]; Rimsin[1]RN; til[live (of a single person)]
+#etcsl: line-id=B.D.12
+
+@div trailer 
+
+B.D.13. [ŋiš-gi]-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=B.D.13
+
+@end trailer
+
+@end jicgijal
+
+@div trailer 
+
+B.D.14. [a-da]-ab# {d}inana-kam
+#lem: adab[drum]; Inanak[1]DN
+#etcsl: line-id=B.D.14
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

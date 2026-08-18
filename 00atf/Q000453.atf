@@ -1,0 +1,114 @@
+&Q000453 = A hymn to Nibru and Išme-Dagan (Išme-Dagan C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.03&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. eš₃ nibru{ki} eš₃ abzu-a ab-dirig e₂-kur za-gin₃-am₃
+#lem: eš[shrine]; Nibru[1]SN; eš[shrine]; Eʾabzu[1]; dirig[make more than]; Ekur[1]TN; zagin[lapis lazuli]
+#etcsl: line-id=A.1
+
+A.2. nun-zu nun-a ab-dirig kur gal a-a {d}en-lil₂
+#lem: nun[prince]; nun[prince]; dirig[make more than]; kur[mountain(s)]; gal[big]; aya[father]; Enlil[1]DN
+#etcsl: line-id=A.2
+
+A.3. nin gal-zu munus zid ama {d}nin-lil₂ nam-nin-e dib-ba-am₃
+#lem: nin[lady]; gal[big]; munus[woman]; zid[right]; ama[mother]; Ninlil[1]DN; namnin[ladyship]; dib[pass]
+#etcsl: line-id=A.3
+
+A.4. saŋ en₃ tar-zu nam-šul-la dirig ur-saŋ {d}nin-urta
+#lem: saŋ[head]; en[cvne]; tar[cut]; namšul[manhood]; dirig[make more than]; ursaŋ[warrior]; Ninurtak[1]DN
+#etcsl: line-id=A.4
+
+A.5. sukkal-mah zabar zid-za tum₂-ma a₂ ki-nu₂-zu dug₃-dug₃
+#lem: sukkalmah[an official]; zabar[bronze]; zid[right]; tum[suitable]; a[arm]; kinud[sleeping quarter]; dug[good]
+#etcsl: line-id=A.5
+
+A.6. saŋ keše₂ me zid-za en-nu kar₂-kar₂-dam
+#lem: saŋ[head]; kešed[bind]; me[Being]; zid[right]; ennuŋ[watch]; kar[blow]
+#etcsl: line-id=A.6
+
+A.7. sipad me zid-za en-nu kar₂-kar₂-bi-im
+#lem: sipad[shepherd]; me[Being]; zid[right]; ennuŋ[watch]; kar[blow]
+#etcsl: line-id=A.7
+
+A.8. u₂-a-zu a ru-a kur gal-la u₃-tud-da {d}nin-lil₂-la₂
+#lem: ua[provisioner]; a[water]; ri[impose]; kur[mountain(s)]; gal[big]; utud[give birth (to)]; Ninlil[1]DN
+#etcsl: line-id=A.8
+
+A.9. {d}iš-me-{d}da-gan a ru-a kur gal-la u₃-tud-da {d}nin-lil₂-la₂
+#lem: Išmedagan[1]RN; a[water]; ri[impose]; kur[mountain(s)]; gal[big]; utud[give birth (to)]; Ninlil[1]DN
+#etcsl: line-id=A.9
+
+A.10. uŋ₃ šar₂-šar₂-ra-ba-na mu mah ŋiri₃-za sig₁₀-ga-am₃
+#lem: uŋ[people]; šar[numerous]V/i; mu[name]; mah[great]; ŋiri[foot]; sig[put into]
+#etcsl: line-id=A.10
+
+A.11. nibru{ki} za₃-mi₂-zu niŋ₂ ka-ge du₇-am₃ ka-ga₁₄ he₂-en-ŋal₂
+#lem: Nibru[1]SN; zamin[praise]; niŋ[thing]; kag[mouth]; du[perfect]; kag[mouth]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.11
+
+A.12. dug₄-ga zid-zu-še₃ diŋir {d}a-nun-na he₂-em-ma-sug₂-sug₂-ge-eš
+#lem: dug[speak]; zid[right]; diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=A.12
+
+A.13. eš₃ nibru{ki} iri ul me hal-ha za₃-mi₂-zu dug₃-ga-am₃
+#lem: eš[shrine]; Nibru[1]SN; iri[city]; ul[distant time]; me[Being]; hal[divide]; zamin[praise]; dug[good]
+#etcsl: line-id=A.13
+
+A.14. ezen gal-gal mi₂ dug₄-ga nibru{ki}
+#lem: ezem[festival]; gal[big]; mi[cvne]; dug[speak]; Nibru[1]SN
+#etcsl: line-id=A.14
+
+A.15. nam-mah {d}en-lil₂ {d}nin-lil₂-la₂
+#lem: nammah[greatness]; Enlil[1]DN; Ninlil[1]DN
+#etcsl: line-id=A.15
+
+A.16. ki diŋir gal-gal-e-ne [...]-la-e-eš-am₃
+#lem: ki[place]; diŋir[deity]; gal[big]; X
+#etcsl: line-id=A.16
+
+@div trailer 
+
+A.17. sa-gid₂-da-[am₃]
+#lem: sagida[musical notation]
+#etcsl: line-id=A.17
+
+@end trailer
+
+@end sa-gida
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-gida
+
+
+@(A.1 = 1-15) Shrine of @wSN{Nibru}, shrine surpassing the @fsux{abzu}, shining @wTN{E-kur}; your prince is the Great Mountain @wDN{Enlil} who surpasses the Prince @noteref{i.e. @wDN{Enki}}. Your great lady is the good woman, Mother @wDN{Ninlil}, excelling in refinement. Your caretaker is one whose vigour is surpassing, the hero @wDN{Ninurta}. The chief minister @noteref{i.e. @wDN{Nuska}}, who is worthy of your fair copper vessels, who makes your bedchamber exceedingly pleasant, is also the guardian watching over your honourable divine powers; he is the shepherd watching over your honourable divine powers. Your provider, who was engendered by the Great Mountain and was born by @wDN{Ninlil} -- @wRN{Išme-@wDN{Dagan}}, who was engendered by the Great Mountain, and was born by @wDN{Ninlil}, he who has achieved a high reputation among his numerous people, throws himself at your feet.
+
+@(A.11 = 11-16) @wSN{Nibru}, your praise suits the mouth! May it be uttered by every mouth! The @wDN{Anuna} gods always stand by your truthful utterances. Shrine @wSN{Nibru}, primeval city, where the divine powers are allotted, sweet is your praise! At the great festivals prepared with care in @wSN{Nibru}, all the great gods …… the majesty of @wDN{Enlil} and @wDN{Ninlil}.
+
+#trailer rubric	sa-gida
+
+
+@(A.17 = 17) @fsux{Sa-gida}.
+
+
+

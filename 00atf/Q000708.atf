@@ -1,0 +1,606 @@
+&Q000708 = A šir-gida to Ninisina (Ninisina A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.22.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22.1&display=Crit&charenc=gcirc#
+
+1. [... barag] mah-a dur₂ ŋar-ra
+#lem: X; barag[sanctum]; mah[great]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=1
+
+2. [... ni₂] gur₃#-ru u₆ di-de₃ gub-ba
+#lem: X; ni[fear]; gur[lift]; u[admiration]; di[speak]; gub[stand]
+#etcsl: line-id=2
+
+3. [...] {[d]}[nin-isin₂]{si#}-na hu-ul-hu-le-eš₂ sig₇-ga
+#lem: X; Ninisinak[1]DN; hul[rejoice]; sissig[green-yellow]
+#etcsl: line-id=3
+
+4. [... me] ur₄-ur₄ ŋarza₂ im-pad₃-de₃
+#lem: X; me[Being]; ur[gather]; ŋarza[rites]; pad[find]
+#etcsl: line-id=4
+
+5. X {[d]}[nin]-isin₂{[si]}-na-ke₄ nam-galam-ma gu₂ nam-mi-in-KU
+#lem: X; Ninisinak[1]DN; namgalam[skillfullness]; gu[neck]; X
+#etcsl: line-id=5
+
+6. [...] nam-galam-ma u₂-a me na-ur₄-ur₄-re
+#lem: X; namgalam[skillfullness]; ua[provisioner]; me[Being]; ur[gather]
+#etcsl: line-id=6
+
+7. {[d]}nin-isin₂{si}-na-ke₄ nam-galam-ma u₂-a me na-ur₄-ur₄-re
+#lem: Ninisinak[1]DN; namgalam[skillfullness]; ua[provisioner]; me[Being]; ur[gather]
+#etcsl: line-id=7
+
+8. me mah šu-še₃ na-ŋa₂-ŋa₂-ŋa₂
+#lem: me[Being]; mah[great]; šu[hand]; ŋar[put]
+#etcsl: line-id=8
+
+9. tug₂ gal-e u-gun₃ im-ma-ak-e inim im-ma-ab-sag₉-ge
+#lem: tug[textile]; gal[big]; ugunu[decoration]; ak[do]; inim[word]; sag[good]
+#etcsl: line-id=9
+
+10. bulug-kiŋ₂-gur₄-ra igi mu-un-sig₁₀-ge
+#lem: bulug.KIN.gur₄[lancet]; igi[eye]; sig[put into]
+#etcsl: line-id=10
+
+11. {d}nin-isin₂{si}-na-ke₄ ŋiri₂-GAG-e u₃-sar im-ma-ak-e
+#lem: Ninisinak[1]DN; ŋirizal[scalpel]; usar[cvne]; ak[do]
+#etcsl: line-id=11
+
+12. me nam-a-zu šu im-du₇-du₇
+#lem: me[Being]; namazu[the craft of the physician]; šu[hand]; du[perfect]
+#etcsl: line-id=12
+
+13. dumu-ni lugal ŋir₂-si-ra
+#lem: dumu[child]; lugal[king]; Ŋirsi[1]SN
+#etcsl: line-id=13
+
+14. {d}da-mu lu₂ sag₉-ga šu-ni ba-ab-šum₂-mu
+#lem: Damu[1]DN; lu[person]; sag[good]; šu[hand]; šum[give]
+#etcsl: line-id=14
+
+15. dumu-ŋu₁₀ niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+#lem: dumu[child]; niŋ[thing]; namazu[the craft of the physician]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=15
+
+16. {d}da-mu niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+#lem: Damu[1]DN; niŋ[thing]; namazu[the craft of the physician]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=16
+
+17. {tug₂}bar-sig₉-ge šu im-ma-an-ti šu im-gur-gur-re
+#lem: barsig[garment]; šu[hand]; teŋ[approach]; šu[hand]; gur[turn]
+#etcsl: line-id=17
+
+18. {tug₂}bar-sig₉ dig-dig-e im-ma-ak-e
+#lem: barsig[garment]; dig[soft]; ak[do]
+#etcsl: line-id=18
+
+19. im al-dug₄-ga im-ku₇-ku₇-e
+#lem: im[clay]; dug[speak]; kud[sweet]
+#etcsl: line-id=19
+
+20. uš₂ lugud-e šu im-šu₂-ur-šu₂-ur-re
+#lem: uš[blood]; lugud[pus]; šu[hand]; šuš[cover]
+#etcsl: line-id=20
+
+21. simₓ(GIG)-simₓ(GIG)-ma šu kum₂ mu-na-ak-e
+#lem: sim[carbuncle]; šu[hand]; kum[hot]; ak[do]
+#etcsl: line-id=21
+
+22. nin-ŋu₁₀ šag₄-zu ama kalam-ma-ka
+#lem: nin[lady]; šag[heart]; ama[mother]; kalam[the Land (of Sumer)]
+#etcsl: line-id=22
+
+23. a-zu gal saŋ gig₂-ga-kam
+#lem: azu[doctor]; gal[big]; saŋ[head]; giggig[black]
+#etcsl: line-id=23
+
+24. {d}nin-isin₂{si}-na dumu an-na-ke₄
+#lem: Ninisinak[1]DN; dumu[child]; An[1]DN
+#etcsl: line-id=24
+
+25. dumu-ni lugal ŋir₂-si-ra
+#lem: dumu[child]; lugal[king]; Ŋirsi[1]SN
+#etcsl: line-id=25
+
+26. {d}da-mu lu₂ sag₉-ga šu-ni ba-ab-šum₂-mu
+#lem: Damu[1]DN; lu[person]; sag[good]; šu[hand]; šum[give]
+#etcsl: line-id=26
+
+27. dumu-ŋu₁₀ niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+#lem: dumu[child]; niŋ[thing]; namazu[the craft of the physician]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=27
+
+28. {d}da-mu niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+#lem: Damu[1]DN; niŋ[thing]; namazu[the craft of the physician]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=28
+
+29. eš-bar kiŋ₂-ŋa₂ za₃-mi₂ mi-ri₂-in-dug₄
+#lem: ešbar[decision]; kiŋ[seek]; zamin[praise]; dug[speak]
+#etcsl: line-id=29
+
+30. kug {d}nin-isin₂{si}-na nam-išib mu-na-ak-e
+#lem: kug[purify]; Ninisinak[1]DN; namišib[office of išib-priest]; ak[do]
+#etcsl: line-id=30
+
+31. {d}en-ki-ke₄ abzu nun-na-ta saŋ-e-eš mu-ni-in-rig₇
+#lem: Enkik[1]DN; abzu[(cosmic) underground water]; nun[prince]; saŋ[head]; rig[donate]
+#etcsl: line-id=31
+
+32. šag₄-gig lipiš-gig lu₂-ulu₃-ra mu-na-kar-re
+#lem: šaggig[an illness]; lipišgig[an illness]; lulu[man]; kar[flee]
+#etcsl: line-id=32
+
+33. lu₂-ulu₃-bi muš ki bil₂-gin₇ i-im-bal-bal-e
+#lem: lulu[man]; muš[snake]; ki[place]; bil[burn]; bala[turn]
+#etcsl: line-id=33
+
+34. muš ki-uš₂-a-gin₇ e-ne dag i₃-si-il-e
+#lem: muš[snake]; kiʾuš[waste ground]; ene[cvne]; dag[roam around]; sil[split]
+#etcsl: line-id=34
+
+35. šag₄-ŋu₁₀ lipiš-ŋu₁₀ gibil-la-bi im-me
+#lem: šag[heart]; lipiš[inner body]; gibil[new]; dug[speak]
+#etcsl: line-id=35
+
+36. nin-ŋu₁₀ nam-išib-e šu gal mu-un-du₇-du₇
+#lem: nin[lady]; namišib[office of išib-priest]; šu[hand]; gal[big]; du[perfect]
+#etcsl: line-id=36
+
+37. {d}nin-isin₂{si}-na-ke₄ tu₆ bi₂-in-dug₄ ba-sag₉
+#lem: Ninisinak[1]DN; tu[incantation]; dug[speak]; sag[good]
+#etcsl: line-id=37
+
+38. i₃-nun-e nam-šub ba-an-šum₂
+#lem: inun[ghee]; namšub[incantation]; šum[give]
+#etcsl: line-id=38
+
+39. bur gal-la-na ba-ni-in-de₂
+#lem: bur[(stone) bowl]; gal[big]; de[pour]
+#etcsl: line-id=39
+
+40. šu sed-da-na nam-ma-an-de₆
+#lem: šu[hand]; sed[cold]; de[carry]
+#etcsl: line-id=40
+
+41. lu₂-ulu₃-bi tum₉-gin₇ kuš-a-na im-ma-an-di-ni-ib-ed₂-de₃
+#lem: lulu[man]; tumu[wind]; kuš[skin]; e[leave]
+#etcsl: line-id=41
+
+42. izi {u₂}numun₂ zi-zi-da-gin₇ ni₂-ba mu-un-te-en-te-en
+#lem: izi[fire]; numun[alfalfa grass]; zig[rise]; ni[self]; ten[extinguish]
+#etcsl: line-id=42
+
+43. diŋir nam-lu₂-ulu₃ sizkur a-ra-zu-a mu-na-an-sug₂-sug₂-ge-eš
+#lem: diŋir[deity]; namlulu[humanity]; siškur[prayer]; arazu[supplication]; sug[stand]
+#etcsl: line-id=43
+
+44. inim-bi-da an-ra {d}en-lil₂-ra
+#lem: inim[word]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=44
+
+45. kug {d}nin-isin₂{si}-na ki mah-a-na mu-un-ne-de₃-en-ku₄-ku₄
+#lem: kug[purify]; Ninisinak[1]DN; ki[place]; mah[great]; kur[enter]
+#etcsl: line-id=45
+
+46. {d}udug hul {d}lamma hul lu₂-ra šub-ba
+#lem: udug[demon]; hulu[bad]; lammar[(female) tutelary deity]; hulu[bad]; lu[person]; šub[fall]
+#etcsl: line-id=46
+
+47. {d}dim₃-me {d}dim₃-<me>-a-bi kur₉-ra ŋi₆ u₃-na
+#lem: Kamadme[1]DN; Kamadduru[1]DN; kur[enter]; ŋi[night]; ŋiʾunak[night]
+#etcsl: line-id=47
+
+48. nam-tar a₂-sag₃-ga lu₂-ra nu-ed₃-de₃
+#lem: Namtar[1]DN; Asag[1]DN; lu[person]; ed[go up]
+#etcsl: line-id=48
+
+49. lu₂-ra sug₂-ge-eš u₃ mu-ni-ib-kar
+#lem: lu[person]; sug[stand]; u[sleep]; kar[flee]
+#etcsl: line-id=49
+
+50. diŋir niŋ₂ mu-un-ni-ra-a-ni
+#lem: diŋir[deity]; niŋ[thing]; rah[beat]
+#etcsl: line-id=50
+
+51. saŋ-ŋu₁₀-a ba-an-di-ni-ib-šub-ba
+#lem: saŋ[head]; šub[fall]
+#etcsl: line-id=51
+
+52. lu₂-bi ensi-ra mu-un-pad₃-de₃ eŋer-ra mu-un-zu-zu
+#lem: lu[person]; ensi[dream interpreter]; pad[find]; egir[back]; zu[know]
+#etcsl: line-id=52
+
+53. lu₂-ulu₃ nam-tar um-ma-an-dirig-ga
+#lem: lulu[man]; Namtar[1]DN; dirig[make more than]
+#etcsl: line-id=53
+
+54. kug {d}nin-isin₂{si}-na sizkur mu-na-ab-be₂ a-ra-zu mu-na-ab-be₂
+#lem: kug[purify]; Ninisinak[1]DN; siškur[prayer]; e[speak]; arazu[supplication]; e[speak]
+#etcsl: line-id=54
+
+55. nin-ŋu₁₀ ka tar DU-za za im-|DU.DU|
+#lem: nin[lady]; kag[mouth]; tar[cut]; X; zaʾe[you]; X
+#etcsl: line-id=55
+
+56. tu₆-zu lu₂-ra mu-un-ta-ed₃-de₃
+#lem: tu[incantation]; lu[person]; ed[go up]
+#etcsl: line-id=56
+
+57. šul diŋir tuku he₂-em-mu-un-ak
+#lem: šul[youth]; diŋir[deity]; tuku[acquire]; ak[do]
+#etcsl: line-id=57
+
+58. egir-ba šu-si-zu u₃-mu-ne-ur₃
+#lem: egir[back]; šusi[finger]; ur[drag]
+#etcsl: line-id=58
+
+59. ni₂-zu me-teš₂-e ši-im-i-i
+#lem: ni[self]; meteš[praise]; e[bring out]
+#etcsl: line-id=59
+
+60. mu-zu dug₃-ge-eš-e im-pad₃-de₃
+#lem: mu[name]; dug[good]; pad[find]
+#etcsl: line-id=60
+
+61. nin-ŋu₁₀ ni₂-te-na ki mu-un-kiŋ₂-kiŋ₂-e
+#lem: nin[lady]; ni[self]; ki[place]; kiŋ[seek]
+#etcsl: line-id=61
+
+62. niŋ₂ nu-sig₉-ge en₃ nam-ši-in-tar
+#lem: niŋ[thing]; sig[put into]; en[cvne]; tar[cut]
+#etcsl: line-id=62
+
+63. niŋ₂ nu-dim₂-me-de₃ ŋeštug₂-ga-ni na-an-gub
+#lem: niŋ[thing]; dim[create]; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=63
+
+64. nam-nu-u₈-gig-e hi-li im-ma-an-X
+#lem: namnugig[office of the nugig]; hili[attractiveness]; X
+#etcsl: line-id=64
+
+65. lu₂ nin-ŋu₁₀ me ŋar-ŋar-ra-ba šu ba-ra-an-ti
+#lem: lu[person]; nin[lady]; me[Being]; ŋar[put]; šu[hand]; teŋ[approach]
+#etcsl: line-id=65
+
+66. ud-ba unu₇ šuba nu-ŋal₂-la-am₃
+#lem: ud[sun]; unu[adornment]; šuba[precious stone]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=66
+
+67. unu₇ šuba gu₂-a nu-ŋal₂-la-am₃
+#lem: unu[adornment]; šuba[precious stone]; gu[neck]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=67
+
+68. {d}nin-isin₂{si}-na-ke₄ inim-e bi₂-in-sig₁₀-ge
+#lem: Ninisinak[1]DN; inim[word]; sig[put into]
+#etcsl: line-id=68
+
+69. šuba na-ur₁₁-ru numun-e-eš na-ŋa₂-ŋa₂
+#lem: šuba[precious stone]; uru[sow]; numun[seed]; ŋar[put]
+#etcsl: line-id=69
+
+70. in-nin₉ nu-u₈-gig gal an-na-ke₄
+#lem: innin[lady]; nugig[priestess]; gal[big]; an[sky]
+#etcsl: line-id=70
+
+71. unu₇ šuba inim-e bi₂-ib-sig₁₀-ge
+#lem: unu[adornment]; šuba[precious stone]; inim[word]; sig[put into]
+#etcsl: line-id=71
+
+72. še-er-zid ed₂-de₃ zag keše₂-de₃-de₃
+#lem: šerzid[radiance]; e[leave]; zag[side]; kešed[bind]
+#etcsl: line-id=72
+
+73. {si}asil₃-la₂ saŋ-ŋa₂ mu-ni-ŋal₂
+#lem: asilala[joy]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=73
+
+74. šar₂ ki-sikil li-li ŋa₂-ŋa₂-de₃
+#lem: šar[numerous]V/i; kisikil[young woman]; lilia[offspring]; ŋar[put]
+#etcsl: line-id=74
+
+75. bahar₂!-ra-ke₄ si sa₂-e-de₃ gi-dur kud-de₃ nam tar-re-de₃
+#lem: bahar[potter]; si[horn]; sa[equal]; dur[umbilical cord]; kud[cut]; nam[fate]; tar[cut]
+#etcsl: line-id=75
+
+76. {ŋiš}ig niŋin₃-ŋar-ra-ke₄ šu us₂-u₃-de₃ UM ki ra-ra-de₃
+#lem: ig[door]; Niŋinŋar[1]TN; šu[hand]; us[accompany]; X; ki[place]; rah[beat]
+#etcsl: line-id=76
+
+77. dumu lu₂ ur₂-ra da an-ri-ri gu₃ nun sud-sud-de₃
+#lem: dumu[child]; lu[person]; ur[root]; dag[side]; ri[impose]; gu[voice]; nun[prince]; sud[distant]
+#etcsl: line-id=77
+
+78. šag₄ ki-še₃ ŋa₂-ŋa₂-de₃ saŋ šu bal ak-de₃
+#lem: šag[heart]; ki[place]; ŋar[put]; saŋ[head]; šu[hand]; bala[turn]; ak[do]
+#etcsl: line-id=78
+
+79. nam-nu-u₈-gig zi-ki-in-ne-en tukum di-de₃ IM-DI luh-e-de₃
+#lem: namnugig[office of the nugig]; X; tukum[if]; di[speak]; X; luh[clean]
+#etcsl: line-id=79
+
+80. me gal-gal-e pa e₃ u₃-bi₂-ak
+#lem: me[Being]; gal[big]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=80
+
+81. nin-ŋu₁₀ me-te si na-an-ga-am₃-dug₄
+#lem: nin[lady]; meteš[praise]; e[bring out]; dug[speak]
+#etcsl: line-id=81
+
+82. {d}nin-isin₂{si}-na-ke₄ silim zid-de₃-eš na-e
+#lem: Ninisinak[1]DN; silim[healthy]; zid[right]; e[speak]
+#etcsl: line-id=82
+
+83. nin munus šul a₂ mah {d}en-lil₂-la₂-me-en
+#lem: nin[lady]; munus[woman]; šul[youth]; a[arm]; mah[great]; Enlil[1]DN
+#etcsl: line-id=83
+
+84. munus sag₉-ga {d}nin-isin₂{si}-na-me-en dumu an kug-ga-me-en
+#lem: munus[woman]; sag[good]; Ninisinak[1]DN; dumu[child]; An[1]DN; kug[pure]
+#etcsl: line-id=84
+
+85. a-a-ŋu₁₀ an lugal sipad diŋir-re-e-ne
+#lem: aya[father]; An[1]DN; lugal[king]; sipad[shepherd]; diŋir[deity]
+#etcsl: line-id=85
+
+86. kalam-e barag kug-ga ba-e-tuš
+#lem: kalam[the Land (of Sumer)]; barag[sanctum]; kug[pure]; tuš[sit (down)]
+#etcsl: line-id=86
+
+87. ama-ŋu₁₀ {d}uraš nin diŋir-re-e-ne
+#lem: ama[mother]; Uraš[1]DN; nin[lady]; diŋir[deity]
+#etcsl: line-id=87
+
+88. an-da ki-nu₂ kug-ga šag₄ kuš₂-u₃ e-ne su₃-ud gal ba-e-dug₄
+#lem: An[1]DN; kinud[sleeping quarter]; kug[pure]; šag[heart]; kušu[tired]; ene[pleasure?]; sud[distant]; gal[big]; dug[speak]
+#etcsl: line-id=88
+
+89. ki-ulutim₂-ŋu₁₀ an kug ki sikil
+#lem: kiʾulutim[place of creation]; An[1]DN; kug[purify]; ki[place]; sikil[purify]
+#etcsl: line-id=89
+
+90. e₂-ŋu₁₀ e₂ i₃-si-in{ki} bulug an ki
+#lem: e[house]; e[house]; Isin[1]SN; bulug[needle]; an[sky]; ki[place]
+#etcsl: line-id=90
+
+91. tir šim {ŋiš}erin-na ir-bi nu-gul-e
+#lem: tir[forest]; šim[aromatic substance]; eren[cedar]; ir[smell]; gul[destroy]
+#etcsl: line-id=91
+
+92. šag₄-bi kur he₂-ŋal₂-la ki us₂-sa
+#lem: šag[heart]; kur[mountain(s)]; heŋal[plenty]; ki[place]; us[accompany]
+#etcsl: line-id=92
+
+93. e₂-ŋu₁₀ kur dilmun{ki} nu-me-a {ŋiš}ŋišnimbar-ta ba-an-tud
+#lem: e[house]; kur[mountain(s)]; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; utud[give birth (to)]
+#etcsl: line-id=93
+
+94. i₃-si-in{ki} kur dilmun{ki} nu-me-a {ŋiš}ŋišnimbar-ta ba-an-tud
+#lem: Isin[1]SN; kur[mountain(s)]; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; utud[give birth (to)]
+#etcsl: line-id=94
+
+95. zu₂-lum-bi gada mah ŋiš la₂-gin₇ guru₇-še₃ ba-an-dub
+#lem: zulum[the fruit of the date-palm]; gada[flax]; mah[great]; ŋeš[tree]; la[hang]; guru[grain store]; dub[heap up]
+#etcsl: line-id=95
+
+96. {d}a-nun-na diŋir gal-gal-e-ne mu-da-gu₇-u₃-ne
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; gu[eat]
+#etcsl: line-id=96
+
+97. e₂-ŋu₁₀ ki silim-ma giri₁₇-zal ki-ulutim₂ kalam-ma
+#lem: e[house]; ki[place]; silim[healthy]; kirizal[joy]; kiʾulutim[place of creation]; kalam[the Land (of Sumer)]
+#etcsl: line-id=97
+
+98. ŋi₆ u₃-na iti₆-gin₇ ma-e₃
+#lem: ŋi[night]; ŋiʾunak[night]; itud[moon]; e[leave]
+#etcsl: line-id=98
+
+99. an-bar₇-gana₂ ud-ud-gin₇ ma-e₃
+#lem: anbarkar[mid-day]; ud[sun]; e[leave]
+#etcsl: line-id=99
+
+100. nitalam-ŋu₁₀ en {d}pa-bil-saŋ dumu {d}en-lil₂-ke₄
+#lem: ŋidlam[(equal ranking) spouse]; en[lord]; Pabilsaŋ[1]DN; dumu[child]; Enlil[1]DN
+#etcsl: line-id=100
+
+101. šag₄-ba e-ne ZI₂-bi mu-da-an-nu₂ ki-nu₂ mu-ni-ib-dug₃-ge
+#lem: šag[heart]; ane[he]; X; nud[lie down]; kinud[sleeping quarter]; dug[good]
+#etcsl: line-id=101
+
+102. id₂-ŋu₁₀ {id₂}kir₁₁-sig he₂-ŋal₂ gu₇-e gig-še₃ ba-dul₅!-la₂
+#lem: id[river]; Kirsig[1]WN; heŋal[plenty]; gu[eat]; kib[wheat]; dul[cover]
+#etcsl: line-id=102
+
+103. šag₄-ba a zal-le ma-ra-il₂-il₂
+#lem: šag[heart]; a[water]; zal[pass time]; il[raise]
+#etcsl: line-id=103
+
+104. gu₂-gu₂-bi lal₃ ŋeštin ba-an-mu₂ maš₂-bi ma-sud-e
+#lem: gu[neck]; lal[syrup]; ŋeštin[vine]; mu[grow]; maš[interest (on a loan)]; sud[distant]
+#etcsl: line-id=104
+
+105. kur gal {d}en-lil₂-le šag₄-ga-ni um-ma-an-hu-luh-ha-ta
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; šag[heart]; huluh[frightened]
+#etcsl: line-id=105
+
+106. kur-da saŋ-ki um-ma-da-an-gid₂
+#lem: kur[mountain(s)]; saŋki[forehead]; gid[long]
+#etcsl: line-id=106
+
+107. ki-bal-da nam im-ma-da-an-kud
+#lem: kibala[rebel land]; nam[fate]; kud[cut]
+#etcsl: line-id=107
+
+108. ki-bal kur saŋ-ki gid₂-da-ni-še₃
+#lem: kibala[rebel land]; kur[mountain(s)]; saŋki[forehead]; gid[long]
+#etcsl: line-id=108
+
+109. a-a-ŋu₁₀ {d}en-lil₂-le im-ma-ši-in-gi₄-gi₄
+#lem: aya[father]; Enlil[1]DN; gi[turn]
+#etcsl: line-id=109
+
+110. munus šul-me-en ur-saŋ kalag-ga-me-en ŋe₂₆-e-me-en im-ši-du-un
+#lem: munus[woman]; šul[youth]; ursaŋ[warrior]; kalag[strong]; ŋaʾe[I]; du[go]
+#etcsl: line-id=110
+
+111. sipad ki-bal-ba ŋeštug₂-ga-na im-ma-ni-ib-dab₅-be₂
+#lem: sipad[shepherd]; kibala[rebel land]; ŋeštug[ear]; dab[seize]
+#etcsl: line-id=111
+
+112. ka u₃-mu-da-an-tar ka u₃-mu-da-an-sig₉
+#lem: kag[mouth]; tar[cut]; kag[mouth]; sig[silent]
+#etcsl: line-id=112
+
+113. e-ne-ra ŋeštug₂-ga u₃-mu-na-ni-in-u₁₈-lu
+#lem: ane[he]; ŋeštug[ear]; ulu[cvve]
+#etcsl: line-id=113
+
+114. iri-ba hul-a-ba lu₂ nu-mu-un-ši-zu-zu
+#lem: iri[city]; hulu[bad]; lu[person]; zu[know]
+#etcsl: line-id=114
+
+115. sipad-bi u₂-gu₇-a-na lu₂ nu-mu-ši-pad₃-de₃
+#lem: sipad[shepherd]; ugu[food]; lu[person]; pad[find]
+#etcsl: line-id=115
+
+116. a-gin₇ u₃-mu-dab₅-dab₅ buru₁₄-gin₇ u₃-[mu-su₃]-su₃#
+#lem: a[water]; dab[seize]; buru[harvest]; su[sink]
+#etcsl: line-id=116
+
+117. še-gin₇ ŋiš-ba₉-ra₂ šu um-ma-ni-ti#
+#lem: še[barley]; ŋešbadra[threshing sled]; šu[hand]; teŋ[approach]
+#etcsl: line-id=117
+
+118. izi-gin₇ {u₂}numun₂-bur-gin₇ e-ne um-ma-an-la₂
+#lem: izi[fire]; numunbur[rushes]; ane[he]; la[hang]
+#etcsl: line-id=118
+
+119. {ŋiš}tukul sag₃-ge saŋ ŋiš ra-ra-ŋu₁₀
+#lem: tukul[weapon]; sag[strike]; saŋ[head]; ŋeš[tree]; rah[beat]
+#etcsl: line-id=119
+
+120. a-a-ŋu₁₀ {d}en-lil₂-ra nibru{ki}-še₃ ka ga-mu-na-ab-de₆
+#lem: aya[father]; Enlil[1]DN; Nibru[1]SN; kag[mouth]; de[carry]
+#etcsl: line-id=120
+
+121. nin me huš-a dur₂ ŋar-ra-me-en
+#lem: nin[lady]; me[Being]; huš[reddish]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=121
+
+122. an kug-ta nam-išib šum₂-ma-me-en
+#lem: an[sky]; kug[pure]; namišib[office of išib-priest]; šum[give]
+#etcsl: line-id=122
+
+123. e₂-gal-ta niŋ₂-saŋ zig₃-ga-me-en
+#lem: egal[palace]; nesaŋ[first-fruit offering]; zig[rise]
+#etcsl: line-id=123
+
+124. barag mah-ta me šu ti-a-me-en
+#lem: barag[sanctum]; mah[great]; me[Being]; šu[hand]; teŋ[approach]
+#etcsl: line-id=124
+
+125. peš₁₀-ŋal₂ gaba-ŋal₂ an uraš-a-me-en
+#lem: pešŋal[mighty?]; gabaŋal[forceful]; An[1]DN; Uraš[1]DN
+#etcsl: line-id=125
+
+126. nin gal diŋir-re-e-ne-me-en
+#lem: nin[lady]; gal[big]; diŋir[deity]
+#etcsl: line-id=126
+
+127. ni₂-ŋu₁₀ huš-am₃ kalam-ma mu-un-ri
+#lem: ni[fear]; huš[reddish]; kalam[the Land (of Sumer)]; ri[impose]
+#etcsl: line-id=127
+
+128. su zig₃-ŋu₁₀ kur-kur-ra ši-im-ri
+#lem: su[flesh]; zig[rise]; kur[mountain(s)]; ri[impose]
+#etcsl: line-id=128
+
+129. a₂ aŋ₂-ŋa₂-ŋu₁₀ lu₂ nu-mu-un-ši-zu-zu
+#lem: a[arm]; aŋ[measure]; lu[person]; zu[know]
+#etcsl: line-id=129
+
+130. munus-me-en ur-saŋ-me-en šul-la-me-en a₂-ŋal₂ kalam-ma-me-en
+#lem: munus[woman]; ursaŋ[warrior]; šul[youth]; aŋal[strong]; kalam[the Land (of Sumer)]
+#etcsl: line-id=130
+
+131. an mu-dur₇-ra!-gin₇ mu-da-gam-e-en
+#lem: an[sky]; mudur[dirt]; gurum[bend]
+#etcsl: line-id=131
+
+132. ki-a a-ŋi₆-gin₇ mu-da-šub-šub
+#lem: ki[place]; aŋi[wave]; šub[fall]
+#etcsl: line-id=132
+
+133. {ŋiš}rab₃ kalam-ma uŋ₃ šu ri-ri-me-en
+#lem: raba[clamp]; kalam[the Land (of Sumer)]; uŋ[people]; šu[hand]; ri[impose]
+#etcsl: line-id=133
+
+134. mir-gin₇ du uŋ₃-še₃ šag₄ huŋ-e
+#lem: mir[north wind]; ŋen[go]; uŋ[people]; šag[heart]; huŋ[pacify]
+#etcsl: line-id=134
+
+135. šudu₃ a-ra-zu ŋiš tuku-me-en kug {d}nin-isin₂{si}-na za₃-mi₂
+#lem: šud[prayer]; arazu[supplication]; ŋeš[tree]; tuku[acquire]; kug[purify]; Ninisinak[1]DN; zamin[praise]
+#etcsl: line-id=135
+
+@div trailer 
+
+136. šir₃-gid₂-da {d}nin-isin₂{si}-na-kam
+#lem: širgida[literary subscript]; Ninisinak[1]DN
+#etcsl: line-id=136
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-14) …… who has taken her seat on an exalted dais, ……, imbued with awesomeness, an amazing sight, …… @wDN{Ninisina}, joyously fresh, ……, gathering up the divine powers, she announces the rites. …… @wDN{Ninisina} …… with intricate skill. ……, ministering with intricate skill, she gathers up the divine powers; @wDN{Ninisina}, ministering with intricate skill, she gathers up the divine powers. She takes in her hands the august divine powers. She attaches the incrustations to the great garment, while speaking favourable words. She tests the surgical lancet; @wDN{Ninisina} sharpens the scalpel. She has made perfect the divine powers of medicine, and hands them over to her son, the king of @wSN{Ŋirsi}, the kindly @wDN{Damu}:
+
+@(15 = 15-26) @q[Ninisina,Damu]{“My son, pay attention to everything medical! @wDN{Damu}, pay attention to everything medical!”} He takes the bandages and wipes them; he treats the bandages with embrocation, and softens the plaster that had been put on them. He mops up the blood and suppuration, and places a warm hand on the horrid wound. My lady, the midwife of the mothers of the Land, is the chief doctor of the black-headed; @wDN{Ninisina}, the daughter of @wDN{An}, hands this all over to her son, the king of @wSN{Ŋirsi}, the kindly @wDN{Damu}:
+
+@(27 = 27-35) @q[Ninisina,Damu]{“My son, pay attention to everything medical! @wDN{Damu}, pay attention to everything medical! You will be praised for your diagnoses.”} Holy @wDN{Ninisina} performs for him her role as incantation priest, which @wDN{Enki} bestowed on her from the princely @fsux{abzu}. Because of the anxiety and intestinal disease which pursue mankind, this person writhes like a snake on scorching ground, hissing like a snake in waste ground, always calling out anew: @q{“My heart! My stomach!”}
+
+@(36 = 36-45) My lady performs the incantations perfectly. @wDN{Ninisina} speaks the incantation formula over them and they become better. She performs the incantation with ghee, and pours it into her great bowl, bringing it along in her cooling hands. She makes the illness leave this person's body like wind. Like a raging fire of esparto grass, it dies out of its own accord. The personal gods of mankind stand before her pleading and praying; at their request, holy @wDN{Ninisina} intercedes before @wDN{An} and @wDN{Enlil} for them at his highest cult place:
+
+@(46 = 46-51) @q[Ninisina,An and Enlil]{“The evil demons and the evil demonesses who beset mankind, @wDN{Dim-me} and @wDN{Dim-mea} who enter by night, @wDN{Namtar} and @wDN{Asag} who will not leave a man alone, stand before the man. He is robbed of sleep (?). His god who smites all  @gap{1 line unclear} ”}
+
+@(52 = 52-60) That man calls a dream interpreter, wishing to have knowledge of the future. The man for whom the demonic illness has been too great utters pleas to holy @wDN{Ninisina}, utters prayers to her: @q[man,Ninisina]{“My lady, I come to do homage to you!”} Then your incantation descends onto the man, and you will treat him like a youth who has a protective deity. Afterwards, when you have stretched out your finger over him, he will himself praise you fittingly and call upon your name favourably!
+
+@(61 = 61-73) My lady searched intensively on her own (?), concerned herself with things that otherwise one does not bother with, directed her attention to things that otherwise one does not do. Proudly she …… the rank of Mistress, and my lady took away all the divine powers established for it. At that time, the jewellery of @fsux{šuba} stones did not exist; no jewellery of @fsux{šuba} stones was worn on the neck. @wDN{Ninisina} invented it: it was she who ploughed with the @fsux{šuba} stones, she who made them into seeds. For (?) the goddess, the great mistress of heaven, she invented the jewellery of @fsux{šuba} stones. Radiating terrifying splendour as she grasped it, she placed it joyously on her head.
+
+@(74 = 74-82) To create offspring for thousands of young women, to make things in order like a potter, to cut the umbilical cord, to determine destinies, to place a hand on the door of the Niŋin-ŋar @noteref{a part of Ninisina's temple at Isin}, ……, to let the human child scream loud and long after it is received in the embrace, to turn its belly downwards and to turn it upside down, to …… the office of Mistress, to treat it quickly, to wash …… -- after she has made all these great divine powers appear gloriously, and my lady has spoken praise …… in addition, @wDN{Ninisina} praises herself fittingly:
+
+@(83 = 83-89) @q[Ninisina,herself]{“I am the lady, the youthful woman, the great strength of @wDN{Enlil}! I am the beautiful woman @wDN{Ninisina}, daughter of holy @wDN{An}! My father @wDN{An} the king, shepherd of the gods, sat me in the Land on a holy dais. My mother @wDN{Uraš}, the lady of the gods, had momentous sexual intercourse with @wDN{An}, relaxing in the holy bedchamber; my place of engendering by holy @wDN{An} was a holy place.”}
+
+@(90 = 90-104) @q{“My house is the house of @wSN{Isin}, the cosmic border of heaven and earth, a fragrant cedar forest whose perfume does not diminish; its interior is a mountain established in plenteousness. Before the land of @wGN{Dilmun} ever existed, my house was created from a date palm. Before the land of @wGN{Dilmun} ever existed, @wSN{Isin} was created from a date palm. Its dates are like a great linen garment that hangs on a tree, heaped up into piles. The @wDN{Anuna}, the great gods, eat together with me. My house is a place of healing, full of opulence, the place of the formation of the Land. At night it shines to me like the moonlight; in the noonday heat it shines to me like the sunlight. My husband, Lord @wDN{Pabilsaŋ}, the son of @wDN{Enlil}, lies inside with me ……, enjoying his rest there. My watercourse is the @wWN{Kir-sig} watercourse, which produces plenty for eating, which spreads out over the wheat; in it the flowing water always rises high for me. Its banks make syrup and wine grow there, and make their produce rich for me.”}
+
+@(105 = 105-120) @q{“The heart of the Great Mountain @wDN{Enlil} became fearsome: he frowned at the enemy land, and cursed the rebel land. My father @wDN{Enlil} despatched me to the rebel land, the enemy land that he had frowned at -- me, the young woman, me, the strong heroine -- I went there. I made the shepherd of the rebel land there grasp @wDN{Enlil's} words well in his ears. He became frightened at me and became silent (?) in my presence. Then he was consigned to oblivion. Now no one knows him there in the destroyed city, no one finds the shepherd there in his pastures. After I had destroyed it like water, drowned it like the harvest, after I had grabbed him as a threshing sledge grabs barley, after I had set him ablaze like esparto grass, I struck him with the mace and killed him. I announced the news to my father @wDN{Enlil} in @wSN{Nibru}.”}
+
+@(121 = 121-135) @q{“I am the lady who sits upon terrifying divine powers! I am she who is endowed from holy heaven with the office of incantation priestess! I am she who withdraws the first fruits from the palace, I am she who has received the divine powers from the most elevated dais. I am mighty, I am the forceful one of @wDN{An} and @wDN{Uraš}, I am the great lady of the gods! My terror is fearsome as it weighs on the Land; my terrifying splendour burdens all the foreign lands. No man anticipates my commands. I am the lady, I am heroic, I am youthful, I am the powerful one of the Land! The heavens fold themselves in my presence like a mourning garment; the earth is more and more submerged as if by the water of a flood when I am present. I am the neck-stock of the Land which grips mankind. I am she who hastens like a north wind storm into the midst of the people! I am she who hears prayer and pleading!”} Praise be to holy @wDN{Ninisina}.
+
+#etcsl#linkGrpo
+#etcsl#link type=q t4221.q1 t4221.q2 t4221.q3 t4221.q4
+#etcsl#linkGrpc
+#trailer subscript	cir-gida
+
+
+@(136 = 136) A @fsux{šir-gida} of @wDN{Ninisina}.
+
+
+

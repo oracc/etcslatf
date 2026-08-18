@@ -1,0 +1,360 @@
+&Q000322 = OB catalogue in the Louvre (L)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.2.02
+#key: after  http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2.02&display=Crit&charenc=gcirc#
+
+$ 4 lines missing
+5. {[d]}[en-lil₂ su₃-ra₂]-še₃#
+#lem: Enlil[1]DN; sud[distant]
+#etcsl: line-id=5
+
+#etcsl#inc Enlil A, 4.05.1
+
+6. [nam₂ nun]-e
+#lem: nam[lord]; nun[prince]
+#etcsl: line-id=6
+
+#etcsl#cite three compositions are known with this incipit: Nanna M, 4.13.13; A hymn to Nanna, 4.13.a; The Keš temple hymn, 4.80.2; a fourth is cited in line 35 of this catalogue and in OB catalogue from Urim, 0.2.04, line 24; and a fifth in line 36 of this catalogue
+
+7. [ud re]-a
+#lem: ud[sun]; re[that]
+#etcsl: line-id=7
+
+#etcsl#doc four compositions are known with this incipit: Enki and Ninmaḫ, 1.1.2; Enki's journey to Nibru, 1.1.4; Gilgameš, Enkidu and the nether world, 1.8.1.4; The instructions of Šuruppag 5.6.1
+
+8. in-nin# me# huš-a
+#lem: innin[lady]; me[Being]; huš[reddish]
+#etcsl: line-id=8
+
+#etcsl#inc Inana and Ebiḫ, 1.3.2
+
+9. e₂ ud huš an ki
+#lem: e[house]; ud[storm]; huš[reddish]; an[sky]; ki[place]
+#etcsl: line-id=9
+
+#etcsl#inc Nungal A, 4.28.1
+
+10. en-e kur lu₂ til₃-la-še₃
+#lem: en[lord]; kur[mountain(s)]; lu[person]; til[live (of a single person)]
+#etcsl: line-id=10
+
+#etcsl#inc Gilgameš and Ḫuwawa (Version A), 1.8.1.5
+
+11. hur-saŋ an ki-bi-da!-ke₄
+#lem: hursaŋ[mountain]; an[sky]; ki[place]
+#etcsl: line-id=11
+
+#etcsl#inc The debate between Grain and Sheep, 5.3.2
+
+12. saŋ#-ki gid₂-da
+#lem: saŋki[forehead]; gid[long]
+#etcsl: line-id=12
+
+#etcsl#inc The cursing of Agade, 2.1.5
+
+13. edin# i-lu ŋar-u₃
+#lem: eden[back]; ilu[lament]; ŋar[put]
+#etcsl: line-id=13
+
+#etcsl#inc Dumuzid's dream, 1.4.3 (?)
+
+14. ud re-a
+#lem: ud[sun]; re[that]
+#etcsl: line-id=14
+
+#etcsl#doc four compositions are known with this incipit: Enki and Ninmaḫ, 1.1.2; Enki's journey to Nibru, 1.1.4; Gilgameš, Enkidu and the nether world, 1.8.1.4; The instructions of Šuruppag 5.6.1
+
+15. ud re-a 2(U)
+#lem: ud[sun]; re[that]; n
+#etcsl: line-id=15
+
+#etcsl#doc four compositions are known with this incipit: Enki and Ninmaḫ, 1.1.2; Enki's journey to Nibru, 1.1.4; Gilgameš, Enkidu and the nether world, 1.8.1.4; The instructions of Šuruppag 5.6.1
+
+16. e {ŋiš}al-e al-e
+#lem: e[vocative interjection]; al[hoe]; al[hoe]
+#etcsl: line-id=16
+
+#etcsl#inc The debate between Hoe and Plough, 5.3.1
+
+17. lugal-e mu-ni niŋ₂-ul-e
+#lem: lugal[king]; mu[name]; niŋul[an everlasting thing]
+#etcsl: line-id=17
+
+#etcsl#inc Šulgi B, 2.4.2.02
+
+18. lugal ud me-lem₄-bi nir#-ŋal₂
+#lem: lugal[king]; ud[storm]; melim[frightening splendor]; nirŋal[authoritative]
+#etcsl: line-id=18
+
+#etcsl#inc Ninurta's exploits: a šir-sud (?) to Ninurta, 1.6.2
+
+19. iri na-nam
+#lem: iri[city]; me[be]
+#etcsl: line-id=19
+
+#etcsl#doc two compositions are known with this incipit: Enlil and Ninlil, 1.2.1 and Nanše A, 4.14.1
+
+20. ud ul re-ta
+#lem: ud[sun]; ul[distant time]; re[that]
+#etcsl: line-id=20
+
+#etcsl#inc The debate between Bird and Fish, 5.3.5 (?)
+
+21. ki-ur₃ gal-e
+#lem: kiʾur[foundation]; gal[big]
+#etcsl: line-id=21
+
+#etcsl#inc The debate between Tree and Reed, 5.3.4
+
+22. ud ul an ki-ta
+#lem: ud[sun]; ul[distant time]; an[sky]; ki[place]
+#etcsl: line-id=22
+
+#etcsl#inc Lugalbanda in the mountain cave, 1.8.2.1
+
+23. [lugal-ban₃]-da
+#lem: Lugalbanda[1]DN
+#etcsl: line-id=23
+
+#etcsl#inc Lugalbanda and the Anzud bird, 1.8.2.2
+
+24. [iri] gud# huš
+#lem: iri[city]; gud[bull]; huš[reddish]
+#etcsl: line-id=24
+
+#etcsl#inc Enmerkar and the lord of Aratta, 1.8.2.3
+
+25. šeg₁₂# kur šuba-ta
+#lem: šeg[brick]; kur[mountain(s)]; šuba[multicoloured]
+#etcsl: line-id=25
+
+#etcsl#inc Enmerkar and En-suḫgir-ana, 1.8.2.4
+
+26. tur₃-ra-na
+#lem: tur[animal stall]
+#etcsl: line-id=26
+
+#etcsl#inc The lament for Urim, 2.2.2
+
+27. tur₃ me nun-e
+#lem: tur[animal stall]; me[Being]; nun[prince]
+#etcsl: line-id=27
+
+#etcsl#inc The lament for Nibru, 2.2.4
+
+28. iri me zid-da
+#lem: iri[city]; me[Being]; zid[right]
+#etcsl: line-id=28
+
+29. ud šu bal!(NUMUN) ak-de₃
+#lem: ud[sun]; šu[hand]; bala[turn]; ak[do]
+#etcsl: line-id=29
+
+#etcsl#inc The lament for Sumer and Urim, 2.2.3
+
+30. an-ne₂ nam-nir-ŋal₂
+#lem: An[1]DN; namnirŋal[authority]
+#etcsl: line-id=30
+
+#etcsl#inc The debate between Winter and Summer, 5.3.3
+
+31. e₂-u₆-nir
+#lem: Eunir[1]TN
+#etcsl: line-id=31
+
+#etcsl#inc The temple hymns, 4.80.1
+
+32. en mah-di# an ki
+#lem: en[lord]; mahdi[exalted]; an[sky]; ki[place]
+#etcsl: line-id=32
+
+#etcsl#inc Enki and the world order, 1.1.3
+
+33. an gal-ta# ki gal-ta
+#lem: an[sky]; gal[big]; ki[place]; gal[big]
+#etcsl: line-id=33
+
+#etcsl#inc Inana's descent to the nether world, 1.4.1
+
+34. in-nin me# gal#-gal-la
+#lem: innin[lady]; me[Being]; gal[big]
+#etcsl: line-id=34
+
+#etcsl#inc Inana and Šu-kale-tuda, 1.3.3
+
+35. nam₂ nun-e saŋ na-an-il₂-ta
+#lem: nam[lord]; nun[prince]; saŋ[head]; il[raise]
+#etcsl: line-id=35
+
+36. nam₂ nun-e e₂-kur-ta e₃!(DU)-a
+#lem: nam[lord]; nun[prince]; Ekur[1]TN; e[leave]
+#etcsl: line-id=36
+
+37. šul me₃-ka
+#lem: šul[youth]; me[battle]
+#etcsl: line-id=37
+
+#etcsl#inc Gilgameš and the bull of heaven, 1.8.1.2
+
+38. i₃-a lum-lum
+#lem: ia[(an exclamation)]; lum[fruit]
+#etcsl: line-id=38
+
+#etcsl#inc Gilgameš and Ḫuwawa (Version B), 1.8.1.5.1
+
+39. nin me zid-da
+#lem: nin[lady]; me[Being]; zid[right]
+#etcsl: line-id=39
+
+40. in-nin₉ šag₄ gur₄-ra
+#lem: innin[lady]; šag[heart]; gur[thick]
+#etcsl: line-id=40
+
+#etcsl#inc Inana C, 4.07.3
+
+41. en gal me gur₃-ru kul-aba{ki}
+#lem: en[lord]; gal[big]; me[Being]; gur[lift]; Kulaba[1]SN
+#etcsl: line-id=41
+
+42. en-e an ki-a
+#lem: en[lord]; an[sky]; ki[place]
+#etcsl: line-id=42
+
+43. an-gin₇ dim₂-ma
+#lem: An[1]DN; dim[create]
+#etcsl: line-id=43
+
+#etcsl#inc Ninurta's return to Nibru: a šir-gida to Ninurta, 1.6.1
+
+44. an-ta e₃-a-ra
+#lem: an[sky]; e[leave]
+#etcsl: line-id=44
+
+#etcsl#inc Iddin-Dagan A, 2.5.3.1
+
+45. lu₂-ulu₃ nam-mah diŋir-re-e
+#lem: lulu[man]; nammah[greatness]; diŋir[deity]
+#etcsl: line-id=45
+
+#etcsl#inc A man and his god, 5.2.4
+
+46. me-a diŋir-ŋa₂
+#lem: mea[where?]; diŋir[deity]
+#etcsl: line-id=46
+
+47. šul diŋir-zu!-ur₂
+#lem: šul[youth]; diŋir[deity]
+#etcsl: line-id=47
+
+48. ku₆-ŋu₁₀ e₂ du₃
+#lem: kud[fish]; e[house]; du[build]
+#etcsl: line-id=48
+
+#etcsl#inc The home of the fish, 5.9.1
+
+49. u₅ ŋiš-gi kug-ta
+#lem: u[wild goose]; ŋešgi[thicket]; kug[pure]
+#etcsl: line-id=49
+
+#etcsl#inc Nanše C, 4.14.3
+
+50. ud gal piriŋ an-na
+#lem: ud[sun]; gal[big]; piriŋ[lion]; an[sky]
+#etcsl: line-id=50
+
+#etcsl#inc Inana D, 4.07.4
+
+51. ud huš an#-ur₂-ra
+#lem: ud[storm]; huš[reddish]; anur[horizon]
+#etcsl: line-id=51
+
+52. ud [huš ki]-en#-gi-ra
+#lem: ud[storm]; huš[reddish]; Kengir[1]
+#etcsl: line-id=52
+
+53. ŋiš-gi# X [a]-na# X gu₃ mu-un-de₂
+#lem: ŋešgi[thicket]; X; ana[what?]; X; gu[voice]; de[pour]
+#etcsl: line-id=53
+
+#etcsl#inc The heron and the turtle, 5.9.2
+
+54. {d}šu-{d}suen lugal en gaba-ŋal₂
+#lem: Šusuen[1]RN; lugal[king]; en[lord]; gabaŋal[forceful]
+#etcsl: line-id=54
+
+#etcsl#inc Šu-Suen I, 2.4.4.9
+
+55. šul# an gal
+#lem: šul[youth]; an[sky]; gal[big]
+#etcsl: line-id=55
+
+56. ud#-bi-ta
+#lem: ud[sun]
+#etcsl: line-id=56
+
+57. ud# an-ne₂
+#lem: ud[sun]; An[1]DN
+#etcsl: line-id=57
+
+58. {d}en-lil₂ dirig-še₃
+#lem: Enlil[1]DN; dirig[make more than]
+#etcsl: line-id=58
+
+#etcsl#inc Išme-Dagan A + V, 2.5.4.01
+
+59. iri# me-lem₄-zu
+#lem: iri[city]; melim[frightening splendor]
+#etcsl: line-id=59
+
+#etcsl#inc Išme-Dagan W, 2.5.4.23 (?)
+
+60. {d#}nin-lil₂ nin diŋir-re-e-ne-ke₄
+#lem: Ninlil[1]DN; nin[lady]; diŋir[deity]
+#etcsl: line-id=60
+
+61. {d#}en-lil₂ temen an ki-bi-da
+#lem: Enlil[1]DN; temen[foundation]; an[sky]; ki[place]
+#etcsl: line-id=61
+
+#etcsl#inc Šulgi E, 2.4.2.05
+
+62. iri# mu-bi-gin₇
+#lem: iri[city]; mu[name]
+#etcsl: line-id=62
+
+#etcsl#inc Šulgi O, 2.4.2.15
+
+63. lugal-me-en₃ am a₂ pad₃-da
+#lem: lugal[king]; am[wild bull]; a[arm]; pad[find]
+#etcsl: line-id=63
+
+#etcsl#inc Šulgi C, 2.4.2.03
+
+64. ud he₂-ŋal₂-la mu-tum₃#
+#lem: ud[sun]; heŋal[plenty]; tum[bring]
+#etcsl: line-id=64
+
+65. ki dug₃ ama he₂-ŋal₂-la tud-da
+#lem: ki[place]; dug[good]; ama[mother]; heŋal[plenty]; utud[give birth (to)]
+#etcsl: line-id=65
+
+66. lugal šag₄-tur₃-gin₇
+#lem: lugal[king]; šagtur[womb]
+#etcsl: line-id=66
+
+67. nin-ŋu₁₀ suh za-gin₃ X X
+#lem: nin[lady]; suh[crown]; zagin[lapis lazuli]; X; X
+#etcsl: line-id=67
+
+68. 14 na-du₃-a
+#lem: n; narua[stele]
+#etcsl: line-id=68
+
+
+
+
+
+

@@ -1,0 +1,2767 @@
+&Q000369 = Enmerkar and the lord of Aratta
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.8.2.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&display=Crit&charenc=gcirc#
+
+1. iri gud huš {d}teš₂ ni₂ gal gur₃-ru
+#lem: iri[city]; gud[bull]; huš[reddish]; teš[(sense of) shame]; ni[fear]; gal[big]; gur[lift]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 48; OB catalogue in the Louvre, 0.2.02, line 24; OB catalogue from Urim (U2), 0.2.04, line 40
+
+2. [kul]-aba₄#{ki} keše₂ [...]
+#lem: Kulaba[1]SN; kešed[bind]; X
+#etcsl: line-id=2
+
+3. gaba ud-da ki nam tar-[re-da]
+#lem: gaba[breast]; ud[storm]; ki[place]; nam[fate]; tar[cut]
+#etcsl: line-id=3
+
+4. unug{ki} kur gal šag₄ [...]
+#lem: Unug[1]SN; kur[mountain(s)]; gal[big]; šag[heart]; X
+#etcsl: line-id=4
+
+5. kiŋ₂-sig unu₂ gal an-na# [...]
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; An[1]DN; X
+#etcsl: line-id=5
+
+6. ud re-a nam ba-[tar-ra-ba]
+#lem: ud[sun]; re[that]; nam[fate]; tar[cut]
+#etcsl: line-id=6
+
+7. unug{ki} kul-aba₄{ki} e₂-an#-[na ...]
+#lem: Unug[1]SN; Kulaba[1]SN; Eanak[1]TN; X
+#etcsl: line-id=7
+
+8. saŋ il₂-la nun-gal-e-ne mi#-[ni-X]
+#lem: saŋ[head]; il[raise]; Nungal[1]DN; X
+#etcsl: line-id=8
+
+9. he₂-ŋal₂ a-eštub ŋal₂
+#lem: heŋal[plenty]; aʾeštub[early flooding]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=9
+
+10. šeŋₓ(|IM.A|) še gu-nu ŋal₂
+#lem: šeŋ[rain]; še[barley]; gunu[qualification of barley]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=10
+
+11. unug{ki} kul-aba₄{ki}-a ib-da-an-tab
+#lem: Unug[1]SN; Kulaba[1]SN; tab[double]
+#etcsl: line-id=11
+
+@variants
+
+#etcsl#ms 1 ms. adds a line:
+11A. [...]-in-zal
+#lem: zal[pass time]
+#etcsl: line-id=11A
+
+@endvariants
+12. kur dilmun{ki} X X in-nu
+#lem: kur[mountain(s)]; Dilmun[1]GN; X; X; nu[not]
+#etcsl: line-id=12
+
+13. (1:e₂-an-na unug{ki}-e kul-aba₄{ki}-a-ka ki us₂-sa-a:1)
+#lem: Eanak[1]TN; Unug[1]SN; Kulaba[1]SN; ki[place]; us[accompany]
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead the line:$) [...] galam-a-am₃
+#lem: X; galam[skilful]
+
+14. ŋi₆-par₄ kug {d}inana-ke₄
+#lem: ŋipar[cloister]; kug[purify]; Inanak[1]DN
+#etcsl: line-id=14
+
+15. šeg₁₂ kul-aba₄{ki}-ke₄ kug ki-in-dar-ra-gin₇ pa e₃ ak-am₃
+#lem: šeg[brick]; Kulaba[1]SN; kug[metal]; kindar[hole]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=15
+
+16. [...] X X X nu-il₂ bal nu-ak-e
+#lem: X; X; X; X; il[raise]; bala[turn]; ak[do]
+#etcsl: line-id=16
+
+17. [... nu]-il₂ nam-ga-raš nu-ak-e
+#lem: X; il[raise]; namgaʾeš[sea trade]; ak[do]
+#etcsl: line-id=17
+
+18. [kug-sig₁₇ kug]-babbar urud an-na {na₄}lagab za-gin₃-na
+#lem: kugsig[gold]; kugbabbar[silver]; urud[copper]; anna[metal]; lagab[block]; zagin[lapis lazuli]
+#etcsl: line-id=18
+
+19. [na₄ hur-saŋ-ŋa₂] kur#-bi-ta teš₂-bi nu-mu-un-ed₃-de₃
+#lem: na[stone weight]; hursaŋ[mountain]; kur[mountain(s)]; teš[unity]; ed[go up]
+#etcsl: line-id=19
+
+20. [...] ezem#-ma a nu-un-tu₅!
+#lem: X; ezem[festival]; a[water]; tu[cvve]
+#etcsl: line-id=20
+
+21. [...] nu-mu-un-dur₂-ru
+#lem: X; dur[sit]
+#etcsl: line-id=21
+
+22. [...] ud bi₂-in-[zal]
+#lem: X; ud[sun]; zal[pass time]
+#etcsl: line-id=22
+
+23. [...]
+#lem: X
+#etcsl: line-id=23
+
+24. [...]
+#lem: X
+#etcsl: line-id=24
+
+25. [... gun₃]-gun₃
+#lem: X; gunu[speckled]
+#etcsl: line-id=25
+
+26. [...] ki kug X [...] {[na₄]}[za]-gin₃ duru₅-am₃
+#lem: X; ki[place]; kug[purify]; X; X; zagin[lapis lazuli]; duru[wet]
+#etcsl: line-id=26
+
+27. šag₄#-[bi] {ŋiš}meš₃ babbar-gin₇ gurun il₂-la sig₇-ga-am₃
+#lem: šag[heart]; mes[tree]; babbar[white]; gurun[fruit]; il[raise]; sissig[green-yellow]
+#etcsl: line-id=27
+
+28. {d}inana-ra en aratta{ki}-ke₄
+#lem: Inanak[1]DN; en[lord]; Aratta[1]GN
+#etcsl: line-id=28
+
+29. saŋ-men kug-sig₁₇-ga mu-na-ni-in-ŋal₂
+#lem: saŋmen[crown]; kugsig[gold]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=29
+
+30. en kul-aba₄{ki}-a-gin₇ nu-mu-na-sag₉
+#lem: en[lord]; Kulaba[1]SN; sag[good]
+#etcsl: line-id=30
+
+31. aratta{ki} eš₃ e₂-an-na ŋi₆-par₄ ki kug-gin₇
+#lem: Aratta[1]GN; eš[shrine]; Eanak[1]TN; ŋipar[cloister]; ki[place]; kug[pure]
+#etcsl: line-id=31
+
+32. kug {d}inana-ra šeg₁₂ kul-aba₄{ki}-gin₇ nu-mu-un-na-du₃
+#lem: kug[purify]; Inanak[1]DN; šeg[brick]; Kulaba[1]SN; du[build]
+#etcsl: line-id=32
+
+33. ud-ba en šag₄-ge pad₃-da {d}inana-ke₄
+#lem: ud[sun]; en[lord]; šag[heart]; pad[find]; Inanak[1]DN
+#etcsl: line-id=33
+
+34. kur šuba-ta šag₄ kug-ge pad₃-da {d}inana-ke₄
+#lem: kur[mountain(s)]; šuba[multicoloured]; šag[heart]; kug[pure]; pad[find]; Inanak[1]DN
+#etcsl: line-id=34
+
+35. en-me-er-kar₂ dumu {d}utu-ke₄
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN
+#etcsl: line-id=35
+
+36. nin₉-a-ni nin kurku₂ dug₃-ga
+#lem: nin[sister]; nin[lady]; kurku[wish]; dug[good]
+#etcsl: line-id=36
+
+37. kug {d}inana-ra u₃-gul mu-un-na-ŋa₂-ŋa₂
+#lem: kug[purify]; Inanak[1]DN; ugul[cvne]; ŋar[put]
+#etcsl: line-id=37
+
+38. nin₉-ŋu₁₀ aratta{ki} unug{ki}-še₃
+#lem: nin[sister]; Aratta[1]GN; Unug[1]SN
+#etcsl: line-id=38
+
+39. kug-sig₁₇ kug-babbar ha-ma-an-galam-e
+#lem: kugsig[gold]; kugbabbar[silver]; galam[skilful]
+#etcsl: line-id=39
+
+40. {na₄}za-gin₃ duru₅ lagab-ta [...]
+#lem: zagin[lapis lazuli]; duru[wet]; lagab[block]; X
+#etcsl: line-id=40
+
+41. su₃-ra₂-aŋ₂ {na₄}za-gin₃ duru₅# [...] X
+#lem: sudaŋ[precious metal or material (possibly amber)]; zagin[lapis lazuli]; duru[wet]; X; X
+#etcsl: line-id=41
+
+42. unug{ki}-ga kur kug [...] X X du₃
+#lem: Unug[1]SN; kur[mountain(s)]; kug[purify]; X; X; X; du[build]
+#etcsl: line-id=42
+
+43. e₂ an-ta [ed₃-da ki]-gub-ba-za
+#lem: e[house]; an[sky]; ed[go up]; kigub[station]
+#etcsl: line-id=43
+
+44. [aratta]{[ki]} [eš₃] e₂-an-na he₂-en-du₃
+#lem: Aratta[1]GN; eš[shrine]; Eanak[1]TN; du[build]
+#etcsl: line-id=44
+
+45. [ŋi₆]-par₄ kug-ga [dur₂] ŋar-ra-za
+#lem: ŋipar[cloister]; kug[pure]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=45
+
+46. šag₄-bi aratta{ki} ha-ma-an-galam-e
+#lem: šag[heart]; Aratta[1]GN; galam[skilful]
+#etcsl: line-id=46
+
+47. ŋe₂₆-e šag₄-ba amar za-gin₃-na gu₂ ga-mu-ni-[...]-la₂
+#lem: ŋaʾe[I]; šag[heart]; amar[calf]; zagin[lapis lazuli]; gu[neck]; la[hang]
+#etcsl: line-id=47
+
+48. aratta{ki} unug#{[ki]}-[še₃] gu₂ ŋiš ha-ma-[ŋa₂-ŋa₂]
+#lem: Aratta[1]GN; Unug[1]SN; gu[neck]; ŋeš[tree]; ŋar[put]
+#etcsl: line-id=48
+
+49. nam-lu₂-u₁₈-lu aratta{ki}-[ke₄]
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=49
+
+50. na₄ hur-saŋ-ŋa₂ kur#-[bi] ha-ma-ab-ed₃
+#lem: na[stone weight]; hursaŋ[mountain]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=50
+
+51. eš₃ gal ha-ma-du₃-e unu₂ gal ha-ma-ŋa₂-ŋa₂
+#lem: eš[shrine]; gal[big]; du[build]; unu[dwelling]; gal[big]; ŋar[put]
+#etcsl: line-id=51
+
+52. unu₂ gal unu₂# [diŋir-re-e-ne-ke₄ pa] e₃ [ha]-ma-ab-ak-e
+#lem: unu[dwelling]; gal[big]; unu[dwelling]; diŋir[deity]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=52
+
+53. me-ŋu₁₀ kul-aba₄{ki}-[a] si ha-ma-ni-ib-sa₂-e
+#lem: me[Being]; Kulaba[1]SN; si[horn]; sa[equal]
+#etcsl: line-id=53
+
+54. abzu kur kug-gin₇ ha-ma-ab-mu₂-mu₂
+#lem: abzu[(cosmic) underground water]; kur[mountain(s)]; kug[pure]; mu[grow]
+#etcsl: line-id=54
+
+55. eridug{ki} hur-saŋ-gin₇ ha-ma-ab-sikil-e
+#lem: Eridug[1]SN; hursaŋ[mountain]; sikil[pure]
+#etcsl: line-id=55
+
+56. eš₃ abzu kug ki-in-dar-ra-gin₇ pa e₃ ha-ma-ab-ak-e
+#lem: eš[shrine]; Eʾabzu[1]; kug[purify]; kindar[hole]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=56
+
+57. ŋe₂₆-e abzu-ta za₃-mi₂ dug₄-ga-ŋu₁₀-ne
+#lem: ŋaʾe[I]; abzu[(cosmic) underground water]; zamin[praise]; dug[speak]
+#etcsl: line-id=57
+
+58. eridug{ki}-ta me de₆-a-ŋu₁₀-ne
+#lem: Eridug[1]SN; me[Being]; de[carry]
+#etcsl: line-id=58
+
+59. nam-en-na men eš₃ bar-gin₇ sig₇-ga-ŋu₁₀-ne
+#lem: namen[the office of en-priest]; men[tiara]; eš[shrine]; bar[outside]; sissig[green-yellow]
+#etcsl: line-id=59
+
+60. unug{ki} kul-aba₄{ki}-a saŋ-men kug ŋal₂-la-ŋu₁₀-ne
+#lem: Unug[1]SN; Kulaba[1]SN; saŋmen[crown]; kug[purify]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=60
+
+61. PA-A eš₃ gal-la-ke₄ ŋi₆-par₄-ra hu-mu-un-tum₂-mu
+#lem: X; eš[shrine]; gal[big]; ŋipar[cloister]; tum[bring]
+#etcsl: line-id=61
+
+62. PA-A ŋi₆-par₄-ra-ke₄ eš₃ gal-la hu-mu-un-tum₂-mu
+#lem: X; ŋipar[cloister]; eš[shrine]; gal[big]; tum[bring]
+#etcsl: line-id=62
+
+63. [nam]-lu₂#-ulu₃ u₆ dug₃-ge-eš hu-mu-un-e
+#lem: namlulu[humanity]; u[admiration]; dug[good]; e[speak]
+#etcsl: line-id=63
+
+64. {[d]}utu# igi hul₂-la he₂-em-ši-bar-bar-re
+#lem: Utu[1]DN; igi[eye]; hul[rejoice]; bar[place outside]
+#etcsl: line-id=64
+
+65. [ud-bi]-a giri₁₇-zal an kug-ga nin kur-ra igi-ŋal₂
+#lem: ud[sun]; kirizal[joy]; An[1]DN; kug[pure]; nin[lady]; kur[mountain(s)]; igiŋal[wise]
+#etcsl: line-id=65
+
+66. in-nin₉ {d}ama-ušumgal-an-na šembi₂-zid-da-ni
+#lem: innin[lady]; Amaʾušumgalanak[1]DN; šembizida[kohl]
+#etcsl: line-id=66
+
+67. {d}inana nin kur-kur-ra-ke₄
+#lem: Inanak[1]DN; nin[lady]; kur[mountain(s)]
+#etcsl: line-id=67
+
+68. en-me-er-kar₂ dumu {d}utu-ra gu₃ mu-na-de₂-e
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=68
+
+69. en-me-er-kar₂ ŋa₂-nu na ga-e-degₓ(RI) na degₓ(RI)-ŋu₁₀ he₂-e-dab₅
+#lem: Enmerkar[1]RN; ŋen[go]; na[cvne]; deg[gather up]; na[cvne]; deg[gather up]; dab[seize]
+#etcsl: line-id=69
+
+70. inim ga-ra-ab-dug₄ ŋizzal he₂-ši-ak
+#lem: inim[word]; dug[speak]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=70
+
+71. kiŋ₂-gi₄-a inim zu zag-še tuku erin₂-ta u₃-ba-e-re-pad₃
+#lem: kiŋgia[messenger]; inim[word]; zu[know]; zagše[shoulder]; tuku[acquire]; erin[people]; pad[find]
+#etcsl: line-id=71
+
+72. inim gal {d}inana gal-zu inim-ma-ke₄ me-a hu-mu-na-ab-tum₃
+#lem: inim[word]; gal[big]; Inanak[1]DN; galanzu[wise]; inim[word]; mea[where?]; tum[bring]
+#etcsl: line-id=72
+
+73. hur-saŋ zubi-še₃ he₂-bi₂-in-ed₃-de₃
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=73
+
+74. hur-saŋ zubi-ta he₂-em-ma-da-ra-ed₃-de₃
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=74
+
+75. šušin{ki}-e kur an-ša₄-an{ki}-a-še₃
+#lem: Susa[1 Susa]; kur[mountain(s)]; Anšan[1]GN
+#etcsl: line-id=75
+
+76. peš₂ tur-gin₇ giri₁₇ šu hu-mu-na-ab-ŋal₂
+#lem: peš[large mouse]; tur[small]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=76
+
+77. hur-saŋ gal-gal ni₂-ba lu-a
+#lem: hursaŋ[mountain]; gal[big]; ni[self]; lu[abundant]
+#etcsl: line-id=77
+
+78. sahar-ra hu-mu-na-da-gur₄-gur₄-e
+#lem: sahar[soil]; gur[thick]
+#etcsl: line-id=78
+
+79. aratta{ki} unug{ki}-še₃ gu₂ ŋiš <ha>-ma-ŋa₂-ŋa₂
+#lem: Aratta[1]GN; Unug[1]SN; gu[neck]; ŋeš[tree]; ŋar[put]
+#etcsl: line-id=79
+
+80. nam-lu₂-ulu₃ aratta{ki}-ke₄
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=80
+
+81. na₄ hur-saŋ-ŋa₂ kur-bi um-ta-ab-ed₃
+#lem: na[stone weight]; hursaŋ[mountain]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=81
+
+82. eš₃ gal ha-ra-du₃-e unu₂ gal ha-ra-ŋa₂-ŋa₂
+#lem: eš[shrine]; gal[big]; du[build]; unu[dwelling]; gal[big]; ŋar[put]
+#etcsl: line-id=82
+
+83. unu₂ gal unu₂ diŋir-re-e-ne-ke₄ pa e₃ ha-ra-ab-ak-e
+#lem: unu[dwelling]; gal[big]; unu[dwelling]; diŋir[deity]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=83
+
+84. me-zu kul-aba₄{ki}-a si ha-ra-ni-ib₂-sa₂-e
+#lem: me[Being]; Kulaba[1]SN; si[horn]; sa[equal]
+#etcsl: line-id=84
+
+85. abzu kur kug-gin₇ ha-ra-ab-mu₂-mu₂
+#lem: abzu[(cosmic) underground water]; kur[mountain(s)]; kug[pure]; mu[grow]
+#etcsl: line-id=85
+
+86. eridug{ki} hur-saŋ-gin₇ ha-ra-ab-sikil-e
+#lem: Eridug[1]SN; hursaŋ[mountain]; sikil[pure]
+#etcsl: line-id=86
+
+87. eš₃ abzu kug ki-<in>-dar-ra-gin₇ pa e₃ ha-ra-ab-ak-e
+#lem: eš[shrine]; Eʾabzu[1]; kug[purify]; kindar[hole]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=87
+
+88. za-e abzu-ta za₃-mi₂ dug₄-ga-zu-ne
+#lem: zaʾe[you]; abzu[(cosmic) underground water]; zamin[praise]; dug[speak]
+#etcsl: line-id=88
+
+89. eridug{ki}-ta me de₆-a-[zu-ne]
+#lem: Eridug[1]SN; me[Being]; de[carry]
+#etcsl: line-id=89
+
+90. nam-en men-na eš₃ bar-[gin₇ sig₇-ga]-zu-ne
+#lem: namen[the office of en-priest]; men[tiara]; eš[shrine]; bar[outside]; sissig[green-yellow]
+#etcsl: line-id=90
+
+91. unug{ki}-e kul-aba₄{ki}-a saŋ-men# [kug ŋal₂-la]-zu-ne
+#lem: Unug[1]SN; Kulaba[1]SN; saŋmen[crown]; kug[purify]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=91
+
+92. PA-A eš₃ gal-la-ke₄ ŋi₆-par₄-ra hu-mu-e-tum₂-mu
+#lem: X; eš[shrine]; gal[big]; ŋipar[cloister]; tum[bring]
+#etcsl: line-id=92
+
+93. PA-A ŋi₆-par₄-ra-ke₄ eš₃ gal-la hu-mu-e-tum₂-mu
+#lem: X; ŋipar[cloister]; eš[shrine]; gal[big]; tum[bring]
+#etcsl: line-id=93
+
+94. [nam-lu₂-ulu₃] u₆ dug₃-ge-eš he₂-mu-e-e
+#lem: namlulu[humanity]; u[admiration]; dug[good]; e[speak]
+#etcsl: line-id=94
+
+95. {d}utu igi hul₂-la he₂-mu-e-ši-bar-bar-re
+#lem: Utu[1]DN; igi[eye]; hul[rejoice]; bar[place outside]
+#etcsl: line-id=95
+
+96. [nam]-lu₂-ulu₃ aratta{ki}-ke₄
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=96
+
+97. [...] NE ud šu₂-uš-ta um-[ta]-ab-il₂-ke₄-eš
+#lem: X; X; ud[sun]; šuš[cover]; il[raise]
+#etcsl: line-id=97
+
+98. [...] NE ud te-en-e um-ma-[te]-e-ta
+#lem: X; X; ud[sun]; ten[extinguish]; teŋ[approach]
+#etcsl: line-id=98
+
+99. ki {d}dumu-zid-da u₈ maš₂ sila₄-ni lu-a
+#lem: ki[place]; Dumuzid[1]DN; u[sheep]; maš[goat]; sila[lamb]; lu[abundant]
+#etcsl: line-id=99
+
+100. a kalag-ga a-šag₄ {d}dumu-zid-da-ka
+#lem: a[water]; kalag[strong]; ašag[field]; Dumuzid[1]DN
+#etcsl: line-id=100
+
+101. udu kur-ra-gin₇ dub₃ ha-ra-ni-ib-ŋar
+#lem: udu[sheep]; kur[mountain(s)]; dub[knee]; ŋar[put]
+#etcsl: line-id=101
+
+102. gaba kug-ŋa₂-a ud-gin₇ e₃-i₃
+#lem: gaba[breast]; kug[pure]; ud[sun]; e[leave]
+#etcsl: line-id=102
+
+103. zi-pa-aŋ₂-ŋa₂ niŋ₂-suh₁₀-bi he₂-me-en
+#lem: zipaŋ[breath]; niŋsuh[jewel]; me[be]
+#etcsl: line-id=103
+
+104. za-ra en-me-er-kar₂ dumu {d}utu za₃-mi₂
+#lem: zaʾe[you]; Enmerkar[1]RN; dumu[child]; Utu[1]DN; zamin[praise]
+#etcsl: line-id=104
+
+105. en-e inim kug {d}inana-ka-še₃ saŋ keše₂ (1:ba-ši-in-ak:1)
+#lem: en[lord]; inim[word]; kug[purify]; Inanak[1]DN; saŋ[head]; kešed[bind]; ak[do]
+#etcsl: line-id=105
+
+:105v.1.1: ($1 ms. has instead:$) ba-ši-in-ŋar
+#lem: ŋar[put]
+
+106. kiŋ₂-gi₄-a inim zu zag-še [tuku erin₂-ta] ba-ra-an-pad₃
+#lem: kiŋgia[messenger]; inim[word]; zu[know]; zagše[shoulder]; tuku[acquire]; erin[people]; pad[find]
+#etcsl: line-id=106
+
+@variants
+
+#etcsl#ms 1 ms. adds a line:
+106A. [...]-e kiŋ₂-gi₄-a-ni-ir [...]
+#lem: X; kiŋgia[messenger]; X
+#etcsl: line-id=106A
+
+@endvariants
+107. inim gal {d}inana gal-zu inim-ma-ke₄ me-a mu-na-ab-tum₃
+#lem: inim[word]; gal[big]; Inanak[1]DN; galanzu[wise]; inim[word]; mea[where?]; tum[bring]
+#etcsl: line-id=107
+
+108. hur-saŋ zubi-ka he₂-bi₂-in-ed₃-de₃-en
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=108
+
+109. hur-saŋ zubi-ta he₂-em-ma-da-ra-an-ed₃-de₃-en
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=109
+
+110. šušin{ki}-e [kur an]-ša₄-an{ki}-a-ke₄
+#lem: Susa[1 Susa]; kur[mountain(s)]; Anšan[1]GN
+#etcsl: line-id=110
+
+111. peš₂ tur-gin₇ giri₁₇ šu hu-mu-na-ab-ŋal₂
+#lem: peš[large mouse]; tur[small]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=111
+
+112. hur-saŋ gal-gal ni₂-ba lu-a
+#lem: hursaŋ[mountain]; gal[big]; ni[self]; lu[abundant]
+#etcsl: line-id=112
+
+113. sahar-ra hu-mu-na-da-gur₄-gur₄-e
+#lem: sahar[soil]; gur[thick]
+#etcsl: line-id=113
+
+114. kiŋ₂-gi₄-a en aratta{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; dug[speak]; tah[add]
+#etcsl: line-id=114
+
+115. iri-bi ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-an-na-ra-ab-dal-en
+#lem: iri[city]; irsaŋ[pigeon]; ŋeš[tree]; dal[fly]
+#etcsl: line-id=115
+
+116. mušen-gin₇ gud₃ us₂-sa-bi-a nam-bi₂-ib-dal-en
+#lem: mušen[bird]; gud[nest]; us[accompany]; dal[fly]
+#etcsl: line-id=116
+
+117. ganba ŋal₂-la-gin₇ na-an-si-ig-en
+#lem: šakanka[market price]; ŋal[⟦be⟧ to be (there]; sig[put into]
+#etcsl: line-id=117
+
+118. iri gul-gul-lu-gin₇ sahar nam-bi₂-ib-ha-za-en
+#lem: iri[city]; gul[destroy]; sahar[soil]; haza[hold]
+#etcsl: line-id=118
+
+119. aratta{ki} a₂-dam {d}en-ki-ke₄ nam ba-an-kud
+#lem: Aratta[1]GN; adam[habitation]; Enkik[1]DN; nam[fate]; kud[cut]
+#etcsl: line-id=119
+
+120. ki# bi₂#-in-gul-la-gin₇ ki nam-ga-bi₂-ib-gul-en
+#lem: ki[place]; gul[destroy]; ki[place]; gul[destroy]
+#etcsl: line-id=120
+
+121. egir-bi {d}inana ba-ši-in-zig₃
+#lem: egir[back]; Inanak[1]DN; zig[rise]
+#etcsl: line-id=121
+
+122. gu₃ im-[mi-in-ra šeg₁₁ im]-mi-in-gi₄
+#lem: gu[voice]; rah[beat]; šeg[voice]; gi[turn]
+#etcsl: line-id=122
+
+123. kuš₇ bi₂-[in-su-a-gin₇] kuš₇ nam-ga-bi₂-ib-su-su
+#lem: kuš[devastation]; su[sink]; kuš[devastation]; su[sink]
+#etcsl: line-id=123
+
+124. kug-sig₁₇ [u₃-tud-da]-ba {kuš}lu-ub₂-lu-ub₂-šir a-ba-ni-in-ak
+#lem: kugsig[gold]; utud[give birth (to)]; lubšir[bag]; ak[do]
+#etcsl: line-id=124
+
+125. kug-me-a sahar-ba zag u₃-ba-ni-in-us₂
+#lem: kugmea[bright metal]; sahar[soil]; zag[side]; us[accompany]
+#etcsl: line-id=125
+
+126. kug saŋ-PA-[še₃] u₃-mu-un-dim₂-dim₂
+#lem: kug[metal]; saŋ.PA[pouch]; dim[create]
+#etcsl: line-id=126
+
+127. anše kur-kur-ra-ke₄ barag um-mi-in-la₂-la₂
+#lem: anše[equid]; kur[mountain(s)]; barag[sack]; la[hang]
+#etcsl: line-id=127
+
+128. ŋe₂₆-e-še₃-am₃ {d}en-lil₂ ban₃-da ki-en-gi-ra-ke₄
+#lem: ŋaʾe[I]; Enlil[1]DN; banda[junior]; Kengir[1]
+#etcsl: line-id=128
+
+129. en {d}nu-dim₂-mud šag₄ kug-ge pad₃-da
+#lem: en[lord]; Nudimmud[1]DN; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=129
+
+130. kur me sikil-la-ke₄ ha-ma-du₃-e
+#lem: kur[mountain(s)]; me[Being]; sikil[pure]; du[build]
+#etcsl: line-id=130
+
+131. {ŋiš}taškarin-gin₇ hi-li ha-ma-ab-ak-e
+#lem: taškarin[box tree]; hili[attractiveness]; ak[do]
+#etcsl: line-id=131
+
+132. {d}utu agrun-ta e₃-a-gin₇ si-muš₂ ha-ma-ab-gun₃-gun₃
+#lem: Utu[1]DN; agrun[cella]; e[leave]; simuš[brilliance]; gunu[speckled]
+#etcsl: line-id=132
+
+133. zag-du₈-zag-du₈-bi urin ha-ma-mul-e
+#lem: zadu[door jamb]; urin[pure]; mul[shine]
+#etcsl: line-id=133
+
+134. e₂-nun-e₂-nun-ba šir₃ kug nam-šub du₁₂-a-ba
+#lem: enun[shrine]; šir[sing]; kug[purify]; namšub[incantation]; du[play (a musical instrument)]
+#etcsl: line-id=134
+
+135. nam-šub {d}nu-dim₂-mud-da-ke₄ e-ne-ra dug₄-mu-na-ab
+#lem: namšub[incantation]; Nudimmud[1]DN; ane[he]; dug[speak]
+#etcsl: line-id=135
+
+136. ud-ba muš nu-ŋal₂-am₃ ŋiri₂ nu-ŋal₂-am₃
+#lem: ud[sun]; muš[snake]; ŋal[⟦be⟧ to be (there]; ŋir[scorpion]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=136
+
+137. kir₄ nu-ŋal₂-am₃ ur-mah nu-ŋal₂-am₃
+#lem: kir[hyena]; ŋal[⟦be⟧ to be (there]; urmah[lion]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=137
+
+138. ur-gir₁₅ ur-bar-ra nu-ŋal₂-am₃
+#lem: urgir[(domestic) dog]; urbara[wolf]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=138
+
+139. ni₂ teŋ₃-ŋe₂₆ su zi-zi-i nu-ŋal₂-am₃
+#lem: ni[fear]; teŋ[approach]; su[flesh]; zig[rise]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=139
+
+140. lu₂-u₁₈-lu gaba-šu-ŋar nu-tuku
+#lem: lulu[man]; gabašuŋar[rival]; tuku[acquire]
+#etcsl: line-id=140
+
+141. ud-ba kur šubur{ki} ha-ma-zi{ki}
+#lem: ud[sun]; kur[mountain(s)]; Šubur[1]SN; Hamazi[1]SN
+#etcsl: line-id=141
+
+142. eme ha-mun ki-en-gi kur gal me nam-nun-na-ka
+#lem: eme[tongue]; hamun[harmony]; Kengir[1]; kur[mountain(s)]; gal[big]; me[Being]; namnun[magnificence]
+#etcsl: line-id=142
+
+143. ki-uri kur me-te-ŋal₂-la
+#lem: Akkad[1 Akkad]; kur[mountain(s)]; meteŋal[seemly]
+#etcsl: line-id=143
+
+144. kur mar-tu u₂-sal-la nu₂-a
+#lem: kur[mountain(s)]; Martu[1 Amorite]; usal[meadow]; nud[lie down]
+#etcsl: line-id=144
+
+145. an ki niŋin₂-na uŋ₃ saŋ sig₁₀-ga
+#lem: an[sky]; ki[place]; niŋin[encircle]; uŋ[people]; saŋ[head]; sig[put into]
+#etcsl: line-id=145
+
+146. {d}en-lil₂-ra eme 1-am₃ he₂-en-na-da-ab-dug₄
+#lem: Enlil[1]DN; eme[tongue]; n; dug[speak]
+#etcsl: line-id=146
+
+147. ud-ba a-da en a-da nun a-da lugal-la
+#lem: ud[sun]; ada[contest]; en[lord]; ada[contest]; nun[prince]; ada[contest]; lugal[king]
+#etcsl: line-id=147
+
+148. {d}en-ki a-da en a-da nun a-da lugal-la
+#lem: Enkik[1]DN; ada[contest]; en[lord]; ada[contest]; nun[prince]; ada[contest]; lugal[king]
+#etcsl: line-id=148
+
+149. a-da en-e a-da nun-e a-da lugal-la
+#lem: ada[contest]; en[lord]; ada[contest]; nun[prince]; ada[contest]; lugal[king]
+#etcsl: line-id=149
+
+150. {d}en-ki en he₂-ŋal₂-la en dug₄-ga zid-da
+#lem: Enkik[1]DN; en[lord]; heŋal[plenty]; en[lord]; dug[speak]; zid[right]
+#etcsl: line-id=150
+
+151. en ŋeštug₂-ga igi-ŋal₂ kalam-ma-ke₄
+#lem: en[lord]; ŋeštug[ear]; igiŋal[wise]; kalam[the Land (of Sumer)]
+#etcsl: line-id=151
+
+152. mas-su diŋir-re-e-ne-ke₄
+#lem: massu[leader]; diŋir[deity]
+#etcsl: line-id=152
+
+153. ŋeštug₂-ge pad₃-da en eridug{ki}-ga-ke₄
+#lem: ŋeštug[ear]; pad[find]; en[lord]; Eridug[1]SN
+#etcsl: line-id=153
+
+154. ka-ba eme i₃-kur₂ en-na mi-ni-in-ŋar-ra
+#lem: kag[mouth]; eme[tongue]; kur[different]; enna[as many as]; ŋar[put]
+#etcsl: line-id=154
+
+155. eme nam-lu₂-ulu₃ 1 i₃-me-[a]
+#lem: eme[tongue]; namlulu[humanity]; n; me[be]
+#etcsl: line-id=155
+
+156. 2-kam-ma-še₃ en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+#lem: n; en[lord]; kiŋgia[messenger]; kur[mountain(s)]; du[go]
+#etcsl: line-id=156
+
+157. aratta{ki}-aš inim mu-na-ab-tah-e
+#lem: Aratta[1]GN; inim[word]; tah[add]
+#etcsl: line-id=157
+
+158. kiŋ₂-gi₄-a ŋi₆ u₃-na-ka im 1-gin₇ šeŋ₃-ŋa₂
+#lem: kiŋgia[messenger]; ŋi[night]; ŋiʾunak[night]; im[rain]; n; šeŋ[rain]
+#etcsl: line-id=158
+
+159. an-bar₇-gana₂-ka im-du₈-gin₇ zig₃-ga
+#lem: anbarkar[mid-day]; imdu[dew]; zig[rise]
+#etcsl: line-id=159
+
+160. kiŋ₂-gi₄-a inim lugal-la-na-ke₄ saŋ keše₂ ba-ši-in-ak
+#lem: kiŋgia[messenger]; inim[word]; lugal[king]; saŋ[head]; kešed[bind]; ak[do]
+#etcsl: line-id=160
+
+161. ŋi₆ u₃-na-ka mul-am₃ im-ŋen
+#lem: ŋi[night]; ŋiʾunak[night]; mul[star]; ŋen[go]
+#etcsl: line-id=161
+
+162. an-bar₇-gana₂-ka {d}utu an-na-ta mu-un-de₃-ŋen
+#lem: anbarkar[mid-day]; Utu[1]DN; an[sky]; ŋen[go]
+#etcsl: line-id=162
+
+163. inim gal {d}inana gi-zu₂-lum-ma DU me-a mu-na-ab-tum₃
+#lem: inim[word]; gal[big]; Inanak[1]DN; gizulumma[nettle?]; X; mea[where?]; tum[bring]
+#etcsl: line-id=163
+
+164. hur-saŋ zubi-še₃ bi₂-in-ed₃-de₃
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=164
+
+165. hur-saŋ zubi-ta im-ma-da-ra-ab-ed₃-de₃
+#lem: hursaŋ[mountain]; Zubi[1]GN; ed[go up]
+#etcsl: line-id=165
+
+166. šušin{ki}-e kur an-ša₄-an{ki}-a-še₃
+#lem: Susa[1 Susa]; kur[mountain(s)]; Anšan[1]GN
+#etcsl: line-id=166
+
+167. peš₂ tur-gin₇# giri₁₇ šu mu-na-ab-ŋal₂
+#lem: peš[large mouse]; tur[small]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=167
+
+168. hur-saŋ gal-gal ni₂-ba lu-a
+#lem: hursaŋ[mountain]; gal[big]; ni[self]; lu[abundant]
+#etcsl: line-id=168
+
+169. sahar-ra mu-na-da-gur₄-gur₄
+#lem: sahar[soil]; gur[thick]
+#etcsl: line-id=169
+
+170. hur-saŋ 5 hur-saŋ 6 hur-saŋ 7-e im-me-re-bal-bal
+#lem: hursaŋ[mountain]; n; hursaŋ[mountain]; n; hursaŋ[mountain]; n; bala[turn]
+#etcsl: line-id=170
+
+171. [igi mu-un]-il₂# aratta{ki}-aš ba-te
+#lem: igi[eye]; il[raise]; Aratta[1]GN; teŋ[approach]
+#etcsl: line-id=171
+
+172. [kisal] aratta#{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+#lem: kisal[courtyard]; Aratta[1]GN; ŋiri[foot]; hul[rejoice]; gub[stand]
+#etcsl: line-id=172
+
+173. nam-nir-ŋal₂ lugal-a-na mu-un-zu
+#lem: namnirŋal[authority]; lugal[king]; zu[know]
+#etcsl: line-id=173
+
+174. bur₂-ra-bi inim šag₄-ga-na bi₂-ib₂-be₂
+#lem: bur[spread out]; inim[word]; šag[heart]; e[speak]
+#etcsl: line-id=174
+
+175. kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ab-bal-e
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; bala[turn]
+#etcsl: line-id=175
+
+176. a-a-zu lugal-ŋu₁₀ mu-e-ši-in-gi₄-in-nam
+#lem: aya[father]; lugal[king]; gi[turn]
+#etcsl: line-id=176
+
+177. en unug{ki}-ga en kul-aba₄{ki}-a-ke₄ mu-e-ši-in-gi₄-nam
+#lem: en[lord]; Unug[1]SN; en[lord]; Kulaba[1]SN; gi[turn]
+#etcsl: line-id=177
+
+178. lugal-za dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+#lem: lugal[king]; dug[speak]; anam[what]; tah[add]; anam[what]
+#etcsl: line-id=178
+
+179. lugal-ŋu₁₀ a-na bi₂-in-dug₄ a-na bi₂-in-tah-am₃
+#lem: lugal[king]; ana[what?]; dug[speak]; ana[what?]; tah[add]
+#etcsl: line-id=179
+
+180. lugal-ŋu₁₀ u₃-tud-da-ni-ta (1:nam-en-na:1) tum₂-ma
+#lem: lugal[king]; utud[give birth (to)]; namen[the office of en-priest]; tum[suitable]
+#etcsl: line-id=180
+
+:180v.1.1: ($1 ms. has instead:$) men-na
+#lem: men[tiara]
+
+181. en unug{ki}-ga muš-saŋ-kal ki-en-gi-ra til₃-la (1:kur:1) zid₂-gin₇ ma₅-ma₅
+#lem: en[lord]; Unug[1]SN; mušsaŋkal[snake]; Kengir[1]; til[live (of a single person)]; kur[mountain(s)]; zid[flour]; mu[crush]
+#etcsl: line-id=181
+
+:181v.1.1: ($2 mss. have instead:$) saŋ
+#lem: saŋ[head]
+
+182. tarah-maš kur-bad₃-da a₂-nun-ŋal₂
+#lem: durahmaš[ram]; kurbad[mountain top]; anunŋal[strong]
+#etcsl: line-id=182
+
+183. šilam-za maš naŋa kug-ga umbin sud₂-sud₂-e
+#lem: šilamza[bull?]; maš[goat]; naŋa[potash]; kug[pure]; umbin[finger]; sud[grind]
+#etcsl: line-id=183
+
+184. ab₂ zid-da kur-šag₄-ga tud-da
+#lem: ab[cow]; zid[right]; kuršag[center of the mountains]; utud[give birth (to)]
+#etcsl: line-id=184
+
+185. en-me-er-kar₂ dumu {d}utu-ke₄ mu-e-ši-in-gi₄-nam
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN; gi[turn]
+#etcsl: line-id=185
+
+@variants
+
+#etcsl#ms 2 mss. add two lines:
+185A. [lugal]-zu dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+#lem: lugal[king]; dug[speak]; anam[what]; tah[add]; anam[what]
+#etcsl: line-id=185A
+
+185B. [lugal]-ŋu₁₀ a-na bi₂-in-dug₄ [a-na] bi₂-in-tah-am₃
+#lem: lugal[king]; ana[what?]; dug[speak]; ana[what?]; tah[add]
+#etcsl: line-id=185B
+
+@endvariants
+186. lugal-ŋu₁₀ na-ab-be₂-a
+#lem: lugal[king]; e[speak]
+#etcsl: line-id=186
+
+187. iri-ni ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-na-ra-ab#-dag-e
+#lem: iri[city]; irsaŋ[pigeon]; ŋeš[tree]; dag[roam around]
+#etcsl: line-id=187
+
+188. mušen-gin₇ gud₃ us₂-sa-bi-a nam-bi₂-ib₂-hu-luh-e
+#lem: mušen[bird]; gud[nest]; us[accompany]; huluh[frightened]
+#etcsl: line-id=188
+
+189. ganba ŋal₂-la-gin₇ na-an-sig₉-ge-en
+#lem: šakanka[market price]; ŋal[⟦be⟧ to be (there]; sig[put into]
+#etcsl: line-id=189
+
+190. iri gul-gul-la-gin₇ sahar na-an-bi₂-[ib-ha-za]-en
+#lem: iri[city]; gul[destroy]; sahar[soil]; haza[hold]
+#etcsl: line-id=190
+
+191. aratta{ki} a₂-dam {d}en-ki-ke₄ nam ba-an-kud
+#lem: Aratta[1]GN; adam[habitation]; Enkik[1]DN; nam[fate]; kud[cut]
+#etcsl: line-id=191
+
+192. ki bi₂-in-gul-la-gin₇ ki nam-ga-bi₂-ib-gul-en
+#lem: ki[place]; gul[destroy]; ki[place]; gul[destroy]
+#etcsl: line-id=192
+
+193. egir-bi {d}inana ba-ši-in-zig₃
+#lem: egir[back]; Inanak[1]DN; zig[rise]
+#etcsl: line-id=193
+
+194. gu₃ im-mi-in-ra šeg₁₁ im-mi-in-gi₄
+#lem: gu[voice]; rah[beat]; šeg[voice]; gi[turn]
+#etcsl: line-id=194
+
+195. kuš₇ bi₂-in-su-a-gin₇ kuš₇ na-an-ga-bi₂-ib-su-su-un
+#lem: kuš[devastation]; su[sink]; kuš[devastation]; su[sink]
+#etcsl: line-id=195
+
+196. kug-sig₁₇ u₃-tud-da-ba {kuš}lu-ub₂-lu-ub₂-šir a-ba-ni-in-ak
+#lem: kugsig[gold]; utud[give birth (to)]; lubšir[bag]; ak[do]
+#etcsl: line-id=196
+
+197. kug-me-a sahar-ba zag u₃-ba-ni-in-us₂
+#lem: kugmea[bright metal]; sahar[soil]; zag[side]; us[accompany]
+#etcsl: line-id=197
+
+198. kug saŋ-PA-še₃ u₃-mu-un-dim₂-dim₂
+#lem: kug[metal]; saŋ.PA[pouch]; dim[create]
+#etcsl: line-id=198
+
+199. anše kur-kur-ra-ke₄ barag um-mi-in-la₂-la₂
+#lem: anše[equid]; kur[mountain(s)]; barag[sack]; la[hang]
+#etcsl: line-id=199
+
+200. ŋe₂₆-e-še₃-am₃ {d}en-lil₂ ban₃-da ki-en-gi-ra-ke₄
+#lem: ŋaʾe[I]; Enlil[1]DN; banda[junior]; Kengir[1]
+#etcsl: line-id=200
+
+201. en {d}nu-dim₂-mud-e šag₄ kug-ge pad₃-da
+#lem: en[lord]; Nudimmud[1]DN; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=201
+
+202. kur me sikil-la-ke₄ ha-ma-du₃-e
+#lem: kur[mountain(s)]; me[Being]; sikil[pure]; du[build]
+#etcsl: line-id=202
+
+203. {ŋiš}taškarin-gin₇ hi-li ha-ma-ab-ak
+#lem: taškarin[box tree]; hili[attractiveness]; ak[do]
+#etcsl: line-id=203
+
+204. {d}utu agrun-ta e₃-a-gin₇ si-muš₂ ha-ma-ab-gun₃-gun₃
+#lem: Utu[1]DN; agrun[cella]; e[leave]; simuš[brilliance]; gunu[speckled]
+#etcsl: line-id=204
+
+205. zag-du₈-zag-du₈-ba urin ha-ma-mul-e
+#lem: zadu[door jamb]; urin[pure]; mul[shine]
+#etcsl: line-id=205
+
+206. e₂-nun-e₂-nun-ba šir₃ kug nam-šub du₁₂-a-ba
+#lem: enun[shrine]; šir[sing]; kug[purify]; namšub[incantation]; du[play (a musical instrument)]
+#etcsl: line-id=206
+
+207. [nam-šub] {d}nu-dim₂-mud-ke₄ ŋa₂-ra dug₄-mu#-[na-ab]
+#lem: namšub[incantation]; Nudimmud[1]DN; ŋaʾe[I]; dug[speak]
+#etcsl: line-id=207
+
+208. a-na ma-ab-be₂-en-na-bi u₃-mu-[e-dug₄]
+#lem: ana[what?]; e[speak]; dug[speak]
+#etcsl: line-id=208
+
+209. a ru-a sun₄ {na₄}za-gin₃ [keše₂]-da-[ar]
+#lem: a[water]; ri[impose]; sum[beard]; zagin[lapis lazuli]; kešed[bind]
+#etcsl: line-id=209
+
+210. ab₂ kal-la-ga-ni kur me sikil-la-ka [tud-da-ar]
+#lem: ab[cow]; kalag[strong]; kur[mountain(s)]; me[Being]; sikil[pure]; utud[give birth (to)]
+#etcsl: line-id=210
+
+211. sahar aratta{ki}-ka a₂ e₃-[a-ar]
+#lem: sahar[soil]; Aratta[1]GN; a[arm]; e[leave]
+#etcsl: line-id=211
+
+212. ubur ab₂ zid-da ga gu₇-[a-ar]
+#lem: ubur[breast]; ab[cow]; zid[right]; ga[milk]; gu[eat]
+#etcsl: line-id=212
+
+213. kul-aba₄{ki} kur me gal-gal-la-ka nam-nun-na tum₂-ma
+#lem: Kulaba[1]SN; kur[mountain(s)]; me[Being]; gal[big]; namnun[magnificence]; tum[suitable]
+#etcsl: line-id=213
+
+214. en-me-er-kar₂ dumu {d}utu-ra
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN
+#etcsl: line-id=214
+
+215. inim-bi eš₃ e₂-an-na-ka inim dug₃ ga-na-ab-dug₄
+#lem: inim[word]; eš[shrine]; Eanak[1]TN; inim[word]; dug[good]; dug[speak]
+#etcsl: line-id=215
+
+216. ŋi₆-par₄ {ŋiš}meš₃ gibil-gin₇ gurun il₂-la-na
+#lem: ŋipar[cloister]; mes[tree]; gibil[new]; gurun[fruit]; il[raise]
+#etcsl: line-id=216
+
+217. lugal-ŋu₁₀ en kul-aba₄{ki}-ra šu-a ga-mu-na-ab-gi₄
+#lem: lugal[king]; en[lord]; Kulaba[1]SN; šu[hand]; gi[turn]
+#etcsl: line-id=217
+
+218. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=218
+
+219. kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; lugal[king]; en[lord]; Kulaba[1]SN; dug[speak]; tah[add]
+#etcsl: line-id=219
+
+220. ŋe₂₆-e-me-en en šu sikil-la tum₂-ma
+#lem: ŋaʾe[I]; en[lord]; šu[hand]; sikil[pure]; tum[suitable]
+#etcsl: line-id=220
+
+221. {ŋiš}rab₃ mah an-na nin an ki-ke₄
+#lem: raba[clamp]; mah[great]; an[sky]; nin[lady]; an[sky]; ki[place]
+#etcsl: line-id=221
+
+222. in-nin₉ me šar₂-ra kug {d}inana-ke₄
+#lem: innin[lady]; me[Being]; šar[numerous]V/i; kug[purify]; Inanak[1]DN
+#etcsl: line-id=222
+
+223. aratta{ki} kur me sikil-la-še₃ hu-mu-un-de₆-en
+#lem: Aratta[1]GN; kur[mountain(s)]; me[Being]; sikil[pure]; de[carry]
+#etcsl: line-id=223
+
+224. kur-ra {ŋiš}ig gal-gin₇ igi-ba bi₂-in-tab-en
+#lem: kur[mountain(s)]; ig[door]; gal[big]; igi[eye]; tab[double]
+#etcsl: line-id=224
+
+225. aratta{ki} unug{ki}-še₃ gu₂ a-gin₇ i₃-ŋa₂-ŋa₂
+#lem: Aratta[1]GN; Unug[1]SN; gu[neck]; agin[thus]; ŋar[put]
+#etcsl: line-id=225
+
+226. aratta{ki} unug{ki}-še₃ gu₂ ŋa₂-ŋa₂ nu-ŋal₂ e-ne-ra dug₄-mu-na-ab
+#lem: Aratta[1]GN; Unug[1]SN; gu[neck]; ŋar[put]; ŋal[⟦be⟧ to be (there]; ane[he]; dug[speak]
+#etcsl: line-id=226
+
+227. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=227
+
+228. kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ni-ib-gi₄-gi₄
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; gi[turn]
+#etcsl: line-id=228
+
+229. nin gal an-na me huš-a u₅-a
+#lem: nin[lady]; gal[big]; an[sky]; me[Being]; huš[reddish]; u[ride]
+#etcsl: line-id=229
+
+230. hur-saŋ kur šuba-ka dur₂ ŋar-ra
+#lem: hursaŋ[mountain]; kur[mountain(s)]; šuba[multicoloured]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=230
+
+231. barag kur šuba-ka še-er-ka-an dug₄-ga
+#lem: barag[sanctum]; kur[mountain(s)]; šuba[multicoloured]; šerkan[ornament]; dug[speak]
+#etcsl: line-id=231
+
+232. en lugal-ŋu₁₀ šubur-a-ni-im
+#lem: en[lord]; lugal[king]; subur[slave]
+#etcsl: line-id=232
+
+233. diŋir nin e₂-an-na-ka mu-un-di-ni-ib-kur₉-re-eš
+#lem: diŋir[deity]; nin[lady]; Eanak[1]TN; kur[enter]
+#etcsl: line-id=233
+
+234. en aratta{ki} gu₂ ki-še₃ ba-ni-in-ŋal₂
+#lem: en[lord]; Aratta[1]GN; gu[neck]; ki[place]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=234
+
+235. šeg₁₂ kul-aba₄{ki}-a-ka ur₅-gin₇ hu-mu-na-ab-be₂
+#lem: šeg[brick]; Kulaba[1]SN; ur[that]; e[speak]
+#etcsl: line-id=235
+
+236. ud-bi-a en-e šag₄ mu-un-sag₃ zi mu-un-ir-ir
+#lem: ud[sun]; en[lord]; šag[heart]; sag[strike]; zi[life]; ir[cvve]
+#etcsl: line-id=236
+
+237. gaba-ri nu-mu-da-ŋal₂ gaba-ri i₃-kiŋ₂-kiŋ₂
+#lem: gabari[equal]; ŋal[⟦be⟧ to be (there]; gabari[equal]; kiŋ[seek]
+#etcsl: line-id=237
+
+238. ŋiri₃ ni₂-te-a-na-ka igi lib-ba bi₂-in-du₈-ru gaba-ri i₃-pad₃-de₃
+#lem: ŋiri[foot]; ni[self]; igi[eye]; lib[daze]; du[spread]; gabari[equal]; pad[find]
+#etcsl: line-id=238
+
+239. gaba-ri in-pad₃ gu₃ im-ta-an-e₃
+#lem: gabari[equal]; pad[find]; gu[voice]; e[leave]
+#etcsl: line-id=239
+
+240. kiŋ₂-gi₄-a inim-ma gaba ri-bi
+#lem: kiŋgia[messenger]; inim[word]; gaba[breast]; ri[impose]
+#etcsl: line-id=240
+
+241. gud-gin₇ gu₃ nun mu-un-di-ni-ib-be₂
+#lem: gud[bull]; gu[voice]; nun[prince]; e[speak]
+#etcsl: line-id=241
+
+242. kiŋ₂-gi₄-a# lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; lugal[king]; en[lord]; Kulaba[1]SN; dug[speak]; tah[add]
+#etcsl: line-id=242
+
+243. hur-saŋ gal {ŋiš}meš₃ an-da mu₂-a
+#lem: hursaŋ[mountain]; gal[big]; mes[tree]; an[sky]; mu[grow]
+#etcsl: line-id=243
+
+244. ur₂-bi-še₃ sa-par₄-am₃ pa-bi ŋiš-bur₂-am₃
+#lem: ur[root]; sabar[net]; pa[branch]; ŋešpar[trap]
+#etcsl: line-id=244
+
+245. buru₅ umbin-bi anzud{mušen} hu-ri₂-in{mušen}-na
+#lem: buru[sparrow]; umbin[finger]; Anzud[1]DN; hurin[eagle]
+#etcsl: line-id=245
+
+246. keše₂-da {[d]}inana-ka# šar₂ dug₄-ge gib-ba
+#lem: kešed[bind]; Inanak[1]DN; šar[perfect?]; dug[speak]; gilim[cross]
+#etcsl: line-id=246
+
+247. umbin hu-ri₂-in{mušen}-bi u₃-mun kur-ra kur šuba-da ed₃-da
+#lem: umbin[finger]; hurin[eagle]; umun[blood]; kur[mountain(s)]; kur[mountain(s)]; šuba[multicoloured]; ed[go up]
+#etcsl: line-id=247
+
+248. aratta{ki} er₂ [še₈-še₈ ...]
+#lem: Aratta[1]GN; er[tears]; šeš[weep]; X
+#etcsl: line-id=248
+
+249. a bal-bal-am₃ zid₂ dub-dub-ba-am₃
+#lem: a[water]; bala[turn]; zid[flour]; dub[heap up]
+#etcsl: line-id=249
+
+250. kur-ra sizkur a-ra-zu-a giri₁₇ šu ŋal₂-la-am₃
+#lem: kur[mountain(s)]; siškur[prayer]; arazu[supplication]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=250
+
+251. lu₂ 5 nu-me-a lu₂ 10 nu-me-a
+#lem: lu[person]; n; me[be]; lu[person]; n; me[be]
+#etcsl: line-id=251
+
+252. unug{ki} zig₃-ga hur-saŋ zubi-še₃ saŋ a-gin₇ i₃-ŋa₂-ŋa₂
+#lem: Unug[1]SN; zig[rise]; hursaŋ[mountain]; Zubi[1]GN; saŋ[head]; agin[thus]; ŋar[put]
+#etcsl: line-id=252
+
+253. lugal-zu {ŋiš}tukul-ŋa₂ saŋ ha-ba-an-šum₂
+#lem: lugal[king]; tukul[weapon]; saŋ[head]; šum[give]
+#etcsl: line-id=253
+
+254. ŋe₂₆-e a-da-min₃-na saŋ ga-ba#-an-šum₂
+#lem: ŋaʾe[I]; adamin[contest]; saŋ[head]; šum[give]
+#etcsl: line-id=254
+
+255. a-da-min₃ nu-um-zu teš₂ [nu]-um#-gu₇
+#lem: adamin[contest]; zu[know]; teš[unity]; gu[eat]
+#etcsl: line-id=255
+
+256. gud-de₃ gud# a₂!-ŋal₂-bi [nu-um]-zu
+#lem: gud[bull]; gud[bull]; aŋal[strong]; zu[know]
+#etcsl: line-id=256
+
+257. [a-da]-min₃# um-zu teš₂ um-[gu₇]
+#lem: adamin[contest]; zu[know]; teš[unity]; gu[eat]
+#etcsl: line-id=257
+
+258. [gud]-de₃# gud a₂!-ŋal₂-bi um-zu#
+#lem: gud[bull]; gud[bull]; aŋal[strong]; zu[know]
+#etcsl: line-id=258
+
+259. [e]-ne# a-da-min₃ mi-ni-in-taka₄-taka₄-an
+#lem: ane[he]; adamin[contest]; taka[set aside]
+#etcsl: line-id=259
+
+260. [...]-gin₇# niŋ₂ lu₂ nu-sig₁₀-ge
+#lem: X; niŋ[thing]; lu[person]; sig[put into]
+#etcsl: line-id=260
+
+261. [e]-ne in-ga-mu-ni-in-taka₄-taka₄-an
+#lem: ane[he]; taka[set aside]
+#etcsl: line-id=261
+
+262. [2-kam]-ma-še₃ kiŋ₂-gi₄-a inim mu-ra-be₂-en
+#lem: n; kiŋgia[messenger]; inim[word]; e[speak]
+#etcsl: line-id=262
+
+263. [...] de₂-a ša-ra-ab-galam-e-en DU-a he₂-mu-e-ši-dib
+#lem: X; de[pour]; galam[skilful]; X; dib[pass]
+#etcsl: line-id=263
+
+264. [e₂]-an-na piriŋ šu-ba nu₂-a
+#lem: Eanak[1]TN; piriŋ[lion]; šu[hand]; nud[lie down]
+#etcsl: line-id=264
+
+265. šag₄-bi-ta gud gu₃ nun di-dam
+#lem: šag[heart]; gud[bull]; gu[voice]; nun[prince]; di[speak]
+#etcsl: line-id=265
+
+266. ŋi₆-par₄ {ŋiš}meš₃ gibil-gin₇ gurun il₂-la-na
+#lem: ŋipar[cloister]; mes[tree]; gibil[new]; gurun[fruit]; il[raise]
+#etcsl: line-id=266
+
+267. lugal-zu en kul-aba₄{ki}-a-ra šu-a gi₄-mu-na-ab
+#lem: lugal[king]; en[lord]; Kulaba[1]SN; šu[hand]; gi[turn]
+#etcsl: line-id=267
+
+268. hur-saŋ ur-saŋ sukud sig₉-ga-am₃
+#lem: hursaŋ[mountain]; ursaŋ[warrior]; sukud[height]; sig[put into]
+#etcsl: line-id=268
+
+269. an-usan-na {d}utu e₂-bi-še₃ du-gin₇
+#lem: usan[evening]; Utu[1]DN; e[house]; du[go]
+#etcsl: line-id=269
+
+270. igi-bi-ta uš₂ la₂-la₂-e-gin₇
+#lem: igi[eye]; uš[blood]; la[hang]
+#etcsl: line-id=270
+
+271. {d}nanna si-un₃-na mah-a-gin₇
+#lem: Nanna[1]DN; siʾuna[zenith]; mah[great]
+#etcsl: line-id=271
+
+272. saŋ-ki-bi me-lem₄ ŋal₂-la-gin₇
+#lem: saŋki[forehead]; melim[frightening splendor]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=272
+
+273. ŋiš-gin₇ kur-kur-ra gib-ba-gin₇
+#lem: ŋeš[tree]; kur[mountain(s)]; gilim[cross]
+#etcsl: line-id=273
+
+274. saŋ muš₃ aratta{ki}-ke₄
+#lem: saŋ[head]; muš[flat space]; Aratta[1]GN
+#etcsl: line-id=274
+
+275. {d}lamma sag₉-ga kur me sikil-la-še₃
+#lem: lammar[(female) tutelary deity]; sag[good]; kur[mountain(s)]; me[Being]; sikil[pure]
+#etcsl: line-id=275
+
+276. ud-da aratta{ki} aga kug an-na-gin₇ si mu-na-an-sa₂
+#lem: ud[sun]; Aratta[1]GN; aga[tiara]; kug[purify]; an[sky]; si[horn]; sa[equal]
+#etcsl: line-id=276
+
+277. ŋe₂₆-e ud-ba nam-mah-ŋu₁₀ ga-an-zu
+#lem: ŋaʾe[I]; ud[sun]; nammah[greatness]; zu[know]
+#etcsl: line-id=277
+
+278. še barag-ga nam-mu-un-sig₉-si-ig-ge mar-e nam-me-e
+#lem: še[barley]; barag[sack]; sig[put into]; mar[smear]; e[speak]
+#etcsl: line-id=278
+
+279. še-bi kur-kur-ra nam-il₂-e
+#lem: še[barley]; kur[mountain(s)]; il[raise]
+#etcsl: line-id=279
+
+280. erin₂-na mu-un-kud nam-mu-un-ŋa₂-ŋa₂
+#lem: erin[people]; kud[cut]; ŋar[put]
+#etcsl: line-id=280
+
+281. še {sa}al-kad₅-e u₃-mu-ni-in-si-si
+#lem: še[barley]; salkad[net]; si[fill]
+#etcsl: line-id=281
+
+282. anše barag la₂-e um-mi-in-la₂
+#lem: anše[equid]; barag[sack]; la[hang]; la[hang]
+#etcsl: line-id=282
+
+283. anše-bal-e da-bi-a a-ba-an-sig₁₀
+#lem: anšebala[replacement donkey]; dag[side]; sig[put into]
+#etcsl: line-id=283
+
+284. tukum-bi kisal aratta{ki}-ka guru₇-še₃ mu-dub-be₂
+#lem: tukumbi[if]; kisal[courtyard]; Aratta[1]GN; guru[grain store]; dub[heap up]
+#etcsl: line-id=284
+
+285. i₃-ge-en am₃-dub-be₂ guru₇-a hi-li-bi
+#lem: igen[really]; dub[heap up]; guru[grain store]; hili[attractiveness]
+#etcsl: line-id=285
+
+286. kur-kur-ra izi ŋar-ra-bi a₂-dam me-te-bi
+#lem: kur[mountain(s)]; izi[fire]; ŋar[put]; adam[habitation]; mete[appropriate thing]
+#etcsl: line-id=286
+
+287. bad₃ 7-e še-er-ka-an dug₄-ga
+#lem: bad[wall]; n; šerkan[ornament]; dug[speak]
+#etcsl: line-id=287
+
+288. nin ur-saŋ me₃-a tum₂-ma
+#lem: nin[lady]; ursaŋ[warrior]; me[battle]; tum[suitable]
+#etcsl: line-id=288
+
+289. {d}inana ur-saŋ me₃ sahar-ra-ke₄ saŋ ešemen {d}inana di-dam
+#lem: Inanak[1]DN; ursaŋ[warrior]; me[battle]; sahar[soil]; saŋ[head]; ešemen[skipping rope]; Inanak[1]DN; di[speak]
+#etcsl: line-id=289
+
+290. i₃-ge-en aratta{ki} ur ad₆ sar-gin₇ šu-ta im-ta-ri
+#lem: igen[really]; Aratta[1]GN; ur[dog]; adda[corpse]; sar[run]; šu[hand]; ri[impose]
+#etcsl: line-id=290
+
+291. ŋe₂₆-e ud-ba ša-ba-na-gam-e-de₃-en
+#lem: ŋaʾe[I]; ud[sun]; gurum[bend]
+#etcsl: line-id=291
+
+292. e-ne nam-mah-a-ni ši-im-ma-an-zu-zu-un
+#lem: ane[he]; nammah[greatness]; zu[know]
+#etcsl: line-id=292
+
+293. iri-gin₇ nam-tur-ŋa₂ gu₂ ši-im-ma-ŋa₂-ŋa₂-an e-ne-ra dug₄-mu-na-ab
+#lem: iri[city]; namtur[smallness]; gu[neck]; ŋar[put]; ane[he]; dug[speak]
+#etcsl: line-id=293
+
+294. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=294
+
+295. kiŋ₂-gi₄-a en aratta{ki}-ke₄
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN
+#etcsl: line-id=295
+
+296. ka-ni-gin₇ inim ka-na ba-an-sig₁₀
+#lem: kag[mouth]; inim[word]; kag[mouth]; sig[put into]
+#etcsl: line-id=296
+
+297. sumun₂-gin₇ haš₂-a-na mu-un-gur
+#lem: sumun[wild cow]; haš[thigh]; gur[turn]
+#etcsl: line-id=297
+
+298. nim-sahar-ra-gin₇ tir ud zal-le-na mu-un-ŋen
+#lem: nimsahara[fly]; tir[forest]; ud[sun]; zal[pass time]; ŋen[go]
+#etcsl: line-id=298
+
+299. šeg₁₂ kul-aba₄{ki}-a-ka ŋiri₃ hul₂-la mu-ni-in-gub
+#lem: šeg[brick]; Kulaba[1]SN; ŋiri[foot]; hul[rejoice]; gub[stand]
+#etcsl: line-id=299
+
+300. kisal mah-e kisal gu₂-en-na-ka kiŋ₂-gi₄-a i-ib₂-bur₂
+#lem: kisal[courtyard]; mah[great]; kisal[courtyard]; guʾen[assembly room]; kiŋgia[messenger]; bur[spread out]
+#etcsl: line-id=300
+
+301. lugal-a-ni-ir en kul-aba₄{ki#}-[ra]
+#lem: lugal[king]; en[lord]; Kulaba[1]SN
+#etcsl: line-id=301
+
+302. ka-ni-gin₇ šu mu-na-an-gi₄
+#lem: kag[mouth]; šu[hand]; gi[turn]
+#etcsl: line-id=302
+
+303. gud-gin₇ gu₃ mu-na-an-sig₁₀
+#lem: gud[bull]; gu[voice]; sig[put into]
+#etcsl: line-id=303
+
+304. gud ri-ri-gin₇ ŋeštug₂ mu-na-an-[ŋa₂-ŋa₂]
+#lem: gud[bull]; ri[impose]; ŋeštug[ear]; ŋar[put]
+#etcsl: line-id=304
+
+305. lugal-e zag zid-da-ni NE im-mi-in-tuš#
+#lem: lugal[king]; zag[side]; zid[right]; X; tuš[sit (down)]
+#etcsl: line-id=305
+
+306. zag gab₂-bu-ni im-ma-ni-in-gi₄
+#lem: zag[side]; gab[left (hand)]; gi[turn]
+#etcsl: line-id=306
+
+307. i₃-ge-en aratta{ki} ŋalga šum₂-ma im-ma-zu im-me
+#lem: igen[really]; Aratta[1]GN; ŋalga[(fore)thought]; šum[give]; zu[know]; dug[speak]
+#etcsl: line-id=307
+
+308. ud im-zal {d}utu im-ta-e₃-a-ra
+#lem: ud[sun]; zal[pass time]; Utu[1]DN; e[leave]
+#etcsl: line-id=308
+
+309. {d}utu kalam-ma-ka saŋ bi₂-ib-il₂
+#lem: Utu[1]DN; kalam[the Land (of Sumer)]; saŋ[head]; il[raise]
+#etcsl: line-id=309
+
+310. lugal-e {id₂}idigna {id₂}buranuna-bi-da im-ma-da-an-tab
+#lem: lugal[king]; Idigna[1 Tigris]; Buranun[1 Euphrates]; tab[double]
+#etcsl: line-id=310
+
+311. {id₂}buranun-na {id₂}idigna-da im-ma-da-an-tab
+#lem: Buranun[1 Euphrates]; Idigna[1 Tigris]; tab[double]
+#etcsl: line-id=311
+
+312. bur gal-gal an-ne₂ ba-sug₂-su₈-ug
+#lem: bur[(stone) bowl]; gal[big]; an[sky]; sug[stand]
+#etcsl: line-id=312
+
+313. bur tur-tur sila₄ u₂-šim dur₂-gin₇ zag-bi-a im-ma-an-us₂
+#lem: bur[(stone) bowl]; tur[small]; sila[lamb]; ušim[greenery]; dur[buttocks]; zag[side]; us[accompany]
+#etcsl: line-id=313
+
+314. bur i-gi₈ an-na da-bi-a ba-su₈-ug
+#lem: bur[(stone) bowl]; X; an[sky]; dag[side]; sug[stand]
+#etcsl: line-id=314
+
+315. lugal-e eš-da kug-sig₁₇-ga-ke₄
+#lem: lugal[king]; ešda[metal cultic vessel]; kugsig[gold]
+#etcsl: line-id=315
+
+316. en-me-er-kar₂ dumu {d}utu-ke₄ dub₃ mu-un-bad-ba₉-re₆
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN; dub[knee]; bad[open]
+#etcsl: line-id=316
+
+317. ud-bi-a dub i-gi₈ im me-a gi-gag unken-na
+#lem: ud[sun]; dub[tablet]; X; im[clay]; me[be]; gigag[pointed reed]; unkin[assembly]
+#etcsl: line-id=317
+
+318. alan kug-sig₁₇-ga ud dug₃-ga tud-da
+#lem: alan[image]; kugsig[gold]; ud[sun]; dug[good]; utud[give birth (to)]
+#etcsl: line-id=318
+
+319. {d}nanibgal sig₇-ga |KA×LI| sikil mu₂-da
+#lem: Nanibgal[1]DN; sissig[green-yellow]; X; sikil[purify]; mu[grow]
+#etcsl: line-id=319
+
+320. {d}nisaba nin ŋeštug₂ daŋal-la-ke₄
+#lem: Nisabak[1]DN; nin[lady]; ŋeštug[ear]; daŋal[wide]
+#etcsl: line-id=320
+
+321. e₂-GEŠTUG₂-{d}NISABA kug-ga-ni ŋal₂ mu-na-an-taka₄
+#lem: E₂.GEŠTUG₂.NISABA.k[1]TN; kug[pure]; ŋal[open]; taka[set aside]
+#etcsl: line-id=321
+
+322. e₂-gal an-na-ka kur₉-ra-ni ŋeštug₂ mu-un-ŋa₂-ŋa₂
+#lem: egal[palace]; an[sky]; kur[enter]; ŋeštug[ear]; ŋar[put]
+#etcsl: line-id=322
+
+323. en-e e₂-nun mah-a-ni ŋal₂ ba-an-taka₄
+#lem: en[lord]; enun[shrine]; mah[great]; ŋal[open]; taka[set aside]
+#etcsl: line-id=323
+
+324. {ŋiš}li₂-id-ga mah-a-ni ki ba#-[an]-us₂
+#lem: lidga[measuring vessel]; mah[great]; ki[place]; us[accompany]
+#etcsl: line-id=324
+
+325. lugal-e še-ta še libir-ra-ni šu ba-ra-an-bal#
+#lem: lugal[king]; še[barley]; še[barley]; libir[old]; šu[hand]; bala[turn]
+#etcsl: line-id=325
+
+326. munu₄ ki-šar₂-ra a ba-ni-in-[si]
+#lem: munu[malt]; kišar[totality]; a[water]; si[fill]
+#etcsl: line-id=326
+
+327. nundum-bi {u₂}hirin{hu-ri₂-in} AN [...]-sug₄-ge
+#lem: nundum[lip]; hirin[grass]; X; sug[empty]
+#etcsl: line-id=327
+
+328. {sa}al-kad₅-e igi im-mi-in-tur-tur
+#lem: salkad[net]; igi[eye]; tur[small]
+#etcsl: line-id=328
+
+329. še guru₇ ka i-ni-in-si zu₂ buru₅{mušen}-e bi₂-in-tah
+#lem: še[barley]; guru[grain store]; kag[mouth]; si[fill]; zu[tooth]; bir[locust]; tah[add]
+#etcsl: line-id=329
+
+330. anše barag la₂-e um-mi-in-la₂
+#lem: anše[equid]; barag[sack]; la[hang]; la[hang]
+#etcsl: line-id=330
+
+331. anše-bal-e da-bi-a ba-an-sig₁₀
+#lem: anšebala[replacement donkey]; dag[side]; sig[put into]
+#etcsl: line-id=331
+
+332. lugal en ŋeštug₂ daŋal-la-ke₄
+#lem: lugal[king]; en[lord]; ŋeštug[ear]; daŋal[wide]
+#etcsl: line-id=332
+
+333. en unug{ki}-ga en kul-aba₄{ki}-ke₄
+#lem: en[lord]; Unug[1]SN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=333
+
+334. har-ra-an aratta{ki}-ke₄ si bi₂-in-sa₂
+#lem: harran[route]; Aratta[1]GN; si[horn]; sa[equal]
+#etcsl: line-id=334
+
+335. nam-lu₂-ulu₃ kiši₆ ki-in-dar-ra-gin₇
+#lem: namlulu[humanity]; kiši[ant]; kindar[hole]
+#etcsl: line-id=335
+
+336. aratta{ki}-aš ni₂-ba mu-un-sub₂-be₂-eš
+#lem: Aratta[1]GN; ni[self]; sub[imperfect plural stem of ŋen⟦to go⟧]
+#etcsl: line-id=336
+
+337. en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+#lem: en[lord]; kiŋgia[messenger]; kur[mountain(s)]; du[go]
+#etcsl: line-id=337
+
+338. aratta{ki}-aš inim mu-na-ab-tah-e
+#lem: Aratta[1]GN; inim[word]; tah[add]
+#etcsl: line-id=338
+
+339. kiŋ₂-gi₄-a en aratta{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; dug[speak]; tah[add]
+#etcsl: line-id=339
+
+340. ŋidru-ŋa₂ ur₂-bi me nam-nun-na-ka
+#lem: ŋidru[scepter]; ur[root]; me[Being]; namnun[magnificence]
+#etcsl: line-id=340
+
+341. pa-bi kul-aba₄{ki}-a an-dul₃-eš i₃-ak
+#lem: pa[branch]; Kulaba[1]SN; andul[shade]; ak[do]
+#etcsl: line-id=341
+
+342. pa mul-mul-la-bi eš₃ e₂-an-na-ke₄
+#lem: pa[branch]; mul[shine]; eš[shrine]; Eanak[1]TN
+#etcsl: line-id=342
+
+343. kug {d}inana-ke₄ ni₂ im-ši-ib-te-en-ten
+#lem: kug[purify]; Inanak[1]DN; ni[self]; ten[extinguish]
+#etcsl: line-id=343
+
+344. ŋidru um-ta-an-kid₇ hu-mu-un-da-ŋal₂
+#lem: ŋidru[scepter]; kid[cut]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=344
+
+345. na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+#lem: gugŋešdili[string of carnelian beads]; zaginŋešdili[string of lapis lazuli beads]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=345
+
+346. en aratta{ki}-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ e-ne-ra dug₄-mu-na-ab
+#lem: en[lord]; Aratta[1]GN; igi[eye]; tum[bring]; ane[he]; dug[speak]
+#etcsl: line-id=346
+
+347. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=347
+
+348. kiŋ₂-gi₄-a aratta{ki}-aš du-ni
+#lem: kiŋgia[messenger]; Aratta[1]GN; ŋen[go]
+#etcsl: line-id=348
+
+349. sahar kaskal-la ŋiri₃-ni (1:mu-un-si:1)
+#lem: sahar[soil]; kaskal[way]; ŋiri[foot]; si[fill]
+#etcsl: line-id=349
+
+:349v.1.1: ($1 ms. has instead:$) mu-un-e₃
+#lem: e[leave]
+
+350. na₄ tur-tur hur-saŋ-ŋa₂-ke₄ suh₃-sah₄ mu-un-da-ab-za
+#lem: na[stone weight]; tur[small]; hursaŋ[mountain]; suhsah[sound (onomatopoeic)]; za[cvve]
+#etcsl: line-id=350
+
+351. ušumgal edin-na-ba kiŋ₂-ŋe₂₆-gin₇ gaba-ri nu-mu-ni-in-tuku
+#lem: ušumgal[great dragon]; eden[back]; kiŋ[seek]; gabari[equal]; tuku[acquire]
+#etcsl: line-id=351
+
+352. kiŋ₂-gi₄-a aratta{ki}-aš um-ma-te-a-ra
+#lem: kiŋgia[messenger]; Aratta[1]GN; teŋ[approach]
+#etcsl: line-id=352
+
+353. nam-lu₂-ulu₃ aratta{ki}-ke₄
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=353
+
+354. anše barag la₂-e u₆ di-de₃ im-ma-sug₂-sug₂-ge-eš
+#lem: anše[equid]; barag[sack]; la[hang]; u[admiration]; di[speak]; sug[stand]
+#etcsl: line-id=354
+
+355. kiŋ₂-gi₄-a kisal aratta{ki}-ka
+#lem: kiŋgia[messenger]; kisal[courtyard]; Aratta[1]GN
+#etcsl: line-id=355
+
+356. še guru₇ ka bi₂-in-si zu₂ buru₅{mušen}-e bi₂-in-tah
+#lem: še[barley]; guru[grain store]; kag[mouth]; si[fill]; zu[tooth]; bir[locust]; tah[add]
+#etcsl: line-id=356
+
+357. šeŋₓ(|IM.A|) an-na ud ŋal₂-la-gin₇
+#lem: šeŋ[rain]; an[sky]; ud[sun]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=357
+
+358. aratta{ki} he₂-ŋal₂-la i₃-du₃
+#lem: Aratta[1]GN; heŋal[plenty]; du[build]
+#etcsl: line-id=358
+
+359. diŋir dur₂-bi-a ba-da-ab-gi₄-a-gin₇#
+#lem: diŋir[deity]; dur[buttocks]; gi[turn]
+#etcsl: line-id=359
+
+360. aratta{ki} šag₄-ŋar-ra-ni am₃-la₂-[la₂]
+#lem: Aratta[1]GN; šaŋar[starvation]; la[hang]
+#etcsl: line-id=360
+
+361. nam-lu₂-ulu₃ aratta{ki}-[ke₄]
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=361
+
+362. munu₄ a sig₉-ga-na a-šag₄ mu-ni-[ib-X]
+#lem: munu[malt]; a[water]; sig[put into]; ašag[field]; X
+#etcsl: line-id=362
+
+363. egir#-ba ra₂-gaba šag₄-tam [...]
+#lem: egir[back]; ragaba[rider]; šatam[government auditor]; X
+#etcsl: line-id=363
+
+364. [...] KI A taka₄-ba [...]
+#lem: X; X; X; taka[set aside]; X
+#etcsl: line-id=364
+
+365. X [...] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=365
+
+365B. [...] X X NI [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=365B
+
+#etcsl#doc this line is possibly only a continuation of line 365
+
+366. dumu-[dumu] aratta{ki} ŋeštug₂# [...]
+#lem: dumu[child]; Aratta[1]GN; ŋeštug[ear]; X
+#etcsl: line-id=366
+
+367. aratta{ki}-aš inim mu-un-bur₂
+#lem: Aratta[1]GN; inim[word]; bur[spread out]
+#etcsl: line-id=367
+
+368. ur₅-da aratta{ki}-a šu-ta# [...]
+#lem: ur[that]; Aratta[1]GN; šu[hand]; X
+#etcsl: line-id=368
+
+370. en unug{ki}-ga-ra šu-ni i-im-[...]
+#lem: en[lord]; Unug[1]SN; šu[hand]; X
+#etcsl: line-id=370
+
+371. me-en-de₃ sug₄-ga lul-la-be₂#-[eš₂]
+#lem: menden[we]; sug[empty]; lul[false]
+#etcsl: line-id=371
+
+372. en kul-aba₄{ki}-a-ra {na₄}gug lul#-[la-me-a] ga-mu-na-dur₂-ru-ne-en-de₃-en
+#lem: en[lord]; Kulaba[1]SN; gugkal[famine]; lul[false]; durun[sit]
+#etcsl: line-id=372
+
+373. ab-ba-ab-ba inim zu-ne
+#lem: abba[father]; inim[word]; zu[know]
+#etcsl: line-id=373
+
+374. šu teš₂-a bi₂-ib-ri-eš# zag e₂-ŋar₈-e bi₂-ib-us₂-[eš]
+#lem: šu[hand]; teš[unity]; ri[impose]; zag[side]; egar[wall]; us[accompany]
+#etcsl: line-id=374
+
+375. en-ra e₂ sikil-bi hu-mu-un-ŋa₂-ŋa₂-[e-ne]
+#lem: en[lord]; e[house]; sikil[pure]; ŋar[put]
+#etcsl: line-id=375
+
+376. X [...] KIŊ₂# ŋidru-ni |DU.DU| šag₄ e₂-gal#-[la ...]
+#lem: X; X; X; ŋidru[scepter]; X; šag[heart]; egal[palace]; X
+#etcsl: line-id=376
+
+377. [bur₂-ra-bi inim šag₄-ga]-na bi₂-[ib-be₂]
+#lem: bur[spread out]; inim[word]; šag[heart]; e[speak]
+#etcsl: line-id=377
+
+378. [a-a-zu lugal-ŋu₁₀] mu-e-ši-in#-[gi₄-in-nam]
+#lem: aya[father]; lugal[king]; gi[turn]
+#etcsl: line-id=378
+
+379. [en-me-er]-kar₂# dumu {d}utu-[ke₄] mu-e-ši-in-gi₄-in-nam
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN; gi[turn]
+#etcsl: line-id=379
+
+380. lugal-zu dug₄-ga-ni nam-ŋu₁₀ tah-[a]-ni [nam]-ŋu₁₀
+#lem: lugal[king]; dug[speak]; anam[what]; tah[add]; anam[what]
+#etcsl: line-id=380
+
+381. lugal-ŋu₁₀ a-na bi₂-in#-dug₄ a-na [bi₂-in-tah]-am₃#
+#lem: lugal[king]; ana[what?]; dug[speak]; ana[what?]; tah[add]
+#etcsl: line-id=381
+
+382. ŋidru-ŋa₂ ur₂-bi me nam#-nun-na-ka#
+#lem: ŋidru[scepter]; ur[root]; me[Being]; namnun[magnificence]
+#etcsl: line-id=382
+
+383. pa-bi kul-aba₄{ki}-a an-dul₃#-eš i₃-ak
+#lem: pa[branch]; Kulaba[1]SN; andul[shade]; ak[do]
+#etcsl: line-id=383
+
+384. pa mul-mul-[la-bi] eš₃ e₂-an-na-ke₄#
+#lem: pa[branch]; mul[shine]; eš[shrine]; Eanak[1]TN
+#etcsl: line-id=384
+
+385. kug {d}inana-ke₄ ni₂ im-ši-ib-te-en-ten
+#lem: kug[purify]; Inanak[1]DN; ni[self]; ten[extinguish]
+#etcsl: line-id=385
+
+386. ŋidru um-ta-an-kid₇ hu-mu-un-da#-ŋal₂
+#lem: ŋidru[scepter]; kid[cut]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=386
+
+387. na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+#lem: gugŋešdili[string of carnelian beads]; zaginŋešdili[string of lapis lazuli beads]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=387
+
+388. en aratta{ki}-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ ŋa₂-a-ra ha-ma-an-dug₄
+#lem: en[lord]; Aratta[1]GN; igi[eye]; tum[bring]; ŋaʾe[I]; dug[speak]
+#etcsl: line-id=388
+
+389. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=389
+
+390. nam-bi-še₃ itima!-a KA ba-an-kur₉ šag₄-ka-tab-ba ba-an-nu₂
+#lem: nam[fate]; itima[sleeping chamber]; X; kur[enter]; šakatab[fasting]; nud[lie down]
+#etcsl: line-id=390
+
+391. ud im-zal inim im-šar₂-šar₂
+#lem: ud[sun]; zal[pass time]; inim[word]; šar[numerous]V/i
+#etcsl: line-id=391
+
+392. inim ka-še₃ nu-ŋar-ra im-me
+#lem: inim[word]; kag[mouth]; ŋar[put]; dug[speak]
+#etcsl: line-id=392
+
+393. inim-ma še anše gu₇-a-gin₇ ŋiri₃ mi-ni-ib-ni₁₀-ni₁₀-e
+#lem: inim[word]; še[barley]; anše[equid]; gu[eat]; ŋiri[foot]; niŋin[encircle]
+#etcsl: line-id=393
+
+394. i₃-ne-eš₂ lu₂ lu₂-u₃-ra a-na na-an-dug₄
+#lem: ineš[now]; lu[person]; lu[person]; ana[what?]; dug[speak]
+#etcsl: line-id=394
+
+395. lu₂ lu₂-ra dili a-na na-an-tah
+#lem: lu[person]; lu[person]; dili[single]; ana[what?]; tah[add]
+#etcsl: line-id=395
+
+396. lu₂ lu₂-ra in-na-ab-be₂-a ur₅ he₂-en-na-nam-ma-am₃
+#lem: lu[person]; lu[person]; e[speak]; ur[that]; me[be]
+#etcsl: line-id=396
+
+397. kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-ra [u₃]-na-a-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; lugal[king]; en[lord]; Kulaba[1]SN; dug[speak]; tah[add]
+#etcsl: line-id=397
+
+398. ŋidru ŋiš nam-me mu ŋiš na-an-sa₄-sa₄
+#lem: ŋidru[scepter]; ŋeš[tree]; me[be]; mu[name]; ŋeš[tree]; še[call by name]
+#etcsl: line-id=398
+
+399. X [...] šu-na um-ma-ni-in-ŋar igi um-ši-bar-bar
+#lem: X; X; šu[hand]; ŋar[put]; igi[eye]; bar[place outside]
+#etcsl: line-id=399
+
+@variants
+
+400. {ŋiš}ildag₂ nam-me {ŋiš}šim-gig nam-me
+#lem: ildag[poplar]; me[be]; šimgig[an aromatic tree]; me[be]
+#etcsl: line-id=400
+
+401. {ŋiš}erin nam-me {ŋiš}šu-ur₂-men₂ nam-me
+#lem: eren[cedar]; me[be]; šurmen[cypress]; me[be]
+#etcsl: line-id=401
+
+402. {ŋiš}ha-šu-ur₂ [nam-me] {[ŋiš]}[ŋišnimbar] nam#-me
+#lem: hašur[tree]; me[be]; ŋešnimbar[date-palm]; me[be]
+#etcsl: line-id=402
+
+403. {ŋiš}esi nam-me {[ŋiš]}[za-ba-lum nam-me]
+#lem: esi[tree]; me[be]; zabalum[juniper]; me[be]
+#etcsl: line-id=403
+
+@variant
+
+#etcsl#ms instead of lines 400-403, 1 ms. has:
+A. {ŋiš}ildag₂ nam-me {ŋiš}šim-gig nam-me
+#lem: ildag[poplar]; me[be]; šimgig[an aromatic tree]; me[be]
+#etcsl: line-id=A
+
+B. {ŋiš}ha-šu-ur₂ nam-me {ŋiš}ŋišnimbar nam-me
+#lem: hašur[tree]; me[be]; ŋešnimbar[date-palm]; me[be]
+#etcsl: line-id=B
+
+C. {ŋiš}erin nam-me {ŋiš}za-ba-lum nam-me
+#lem: eren[cedar]; me[be]; zabalum[juniper]; me[be]
+#etcsl: line-id=C
+
+D. {ŋiš}šu-ur₂-men₂ nam-me {[ŋiš]}[esi nam-me]
+#lem: šurmen[cypress]; me[be]; esi[tree]; me[be]
+#etcsl: line-id=D
+
+@endvariants
+404. {ŋiš}asal lam {ŋiš}gigir-ra nam-me
+#lem: asal[poplar]; lam[flourish]; gigir[chariot]; me[be]
+#etcsl: line-id=404
+
+405. {ŋiš}KID-da ŋiš-{kuš}usan₃-na nam-me
+#lem: KID.da[twig]; ŋešusan[whip handle]; me[be]
+#etcsl: line-id=405
+
+406. kug-sig₁₇ nam-me urud nam-me
+#lem: kugsig[gold]; me[be]; urud[copper]; me[be]
+#etcsl: line-id=406
+
+407. kug-me-a zid kug-babbar nam-me
+#lem: kugmea[bright metal]; zid[right]; kugbabbar[silver]; me[be]
+#etcsl: line-id=407
+
+408. {na₄}gug nam-me {na₄}za-gin₃ nam-me
+#lem: gug[carnelian]; me[be]; zagin[lapis lazuli]; me[be]
+#etcsl: line-id=408
+
+409. ŋidru um-ta-an-kid₇ hu-mu-un-da-ŋal₂
+#lem: ŋidru[scepter]; kid[cut]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=409
+
+410. na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+#lem: gugŋešdili[string of carnelian beads]; zaginŋešdili[string of lapis lazuli beads]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=410
+
+411. en kul-aba₄{ki}-a-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ e-ne-ra dug₄-mu-na-ab
+#lem: en[lord]; Kulaba[1]SN; igi[eye]; tum[bring]; ane[he]; dug[speak]
+#etcsl: line-id=411
+
+412. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=412
+
+413. kiŋ₂-gi₄-a dur₃{ur₃} si-gigir ku₅-ra₂-gin₇ ka si-il-la mu-un-ŋen
+#lem: kiŋgia[messenger]; dur[young male donkey]; sigigir[chariot harness?]; kud[cut]; kag[mouth]; sil[split]; ŋen[go]
+#etcsl: line-id=413
+
+414. anše edin-na bar-rim₄-ma kaš₄ di-gin₇ kušum₄ i₃-tag-tag-ge
+#lem: anše[equid]; eden[back]; barim[dry land]; kaš[run]; di[speak]; kušum[cvne]; tag[touch]
+#etcsl: line-id=414
+
+415. ka-ni tum₉-a bi₂-ib-zi-zi-zi
+#lem: kag[mouth]; tumu[wind]; zig[rise]
+#etcsl: line-id=415
+
+416. udu zulumhi udu sumur#-ba du₇-du₇-gin₇ dub₃-us₂ dili mu-un-dab₅
+#lem: udu[sheep]; zulumhi[fleece]; udu[sheep]; sumur[angry]; du[push]; dus[path]; dili[single]; dab[seize]
+#etcsl: line-id=416
+
+417. šeg₁₂ kul-aba₄{ki}-a-ka ŋiri₃ hul₂ mi-ni-in-gub
+#lem: šeg[brick]; Kulaba[1]SN; ŋiri[foot]; hul[rejoice]; gub[stand]
+#etcsl: line-id=417
+
+418. lugal-a-ni en kul-aba₄{ki}-a-ra
+#lem: lugal[king]; en[lord]; Kulaba[1]SN
+#etcsl: line-id=418
+
+419. inim-inim-ma mu-na-ra-si-si
+#lem: inim[word]; si[fill]
+#etcsl: line-id=419
+
+420. en-me-er-kar₂-ra {d}en-ki-ke₄ ŋeštug₂ mu-na-an#-šum₂
+#lem: Enmerkar[1]RN; Enkik[1]DN; ŋeštug[ear]; šum[give]
+#etcsl: line-id=420
+
+421. en-e aŋrig mah-a-[ni] a₂ ba-da-an#-aŋ₂
+#lem: en[lord]; agrig[steward]; mah[great]; a[arm]; aŋ[measure]
+#etcsl: line-id=421
+
+422. e₂-ni [...]
+#lem: e[house]; X
+#etcsl: line-id=422
+
+423. lugal-e sumur₃# [...] šu ba-ra-an-ti
+#lem: lugal[king]; sumur[roof]; X; šu[hand]; teŋ[approach]
+#etcsl: line-id=423
+
+424. mu-un-dul-gin₇ šu# bi₂-[in-gur-gur] igi bi₂-in#-ŋa₂!-ŋa₂!
+#lem: dul[cover]; šu[hand]; gur[turn]; igi[eye]; ŋar[put]
+#etcsl: line-id=424
+
+425. {na₄}na KA-KA šim-gin₇ zu₂# [ba-ni]-in#-ra
+#lem: na[stone weight]; X; šim[aromatic substance]; zu[tooth]; rah[beat]
+#etcsl: line-id=425
+
+426. gi su-lim-ma-ka i₃-gin₇ mu-ni-in-de₂
+#lem: gi[reed]; sulim[awesome radiance]; i[oil]; de[pour]
+#etcsl: line-id=426
+
+427. ud-ta ŋissu-še₃ am₃-ed₂-e
+#lem: ud[sun]; ŋissu[shade]; e[leave]
+#etcsl: line-id=427
+
+428. ŋissu-ta ud-še₃ am₃-ed₂-e
+#lem: ŋissu[shade]; ud[sun]; e[leave]
+#etcsl: line-id=428
+
+429. mu 5-am₃ mu 10-am₃ ba-zal-[la]-ri
+#lem: mu[year]; n; mu[year]; n; zal[pass time]
+#etcsl: line-id=429
+
+430. gi su-lim-ma giŋ₄-gin₇ bi₂-in-gaz
+#lem: gi[reed]; sulim[awesome radiance]; giŋ[ax]; gaz[kill]
+#etcsl: line-id=430
+
+431. en-e igi hul₂-la im-ši-in-bar
+#lem: en[lord]; igi[eye]; hul[rejoice]; bar[place outside]
+#etcsl: line-id=431
+
+432. i₃ li i₃ li₂ kur šuba-a-ka sag₃-ga i-ni-in-de₂
+#lem: i[oil]; lib[high quality]; i[oil]; li[press (oil)]; kur[mountain(s)]; šuba[multicoloured]; sag[strike]; de[pour]
+#etcsl: line-id=432
+
+433. en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+#lem: en[lord]; kiŋgia[messenger]; kur[mountain(s)]; du[go]
+#etcsl: line-id=433
+
+434. ŋidru šu-na mu-un-na-ŋa₂-ŋa₂
+#lem: ŋidru[scepter]; šu[hand]; ŋar[put]
+#etcsl: line-id=434
+
+435. kiŋ₂-gi₄-a aratta{ki}-aš du-a-ni
+#lem: kiŋgia[messenger]; Aratta[1]GN; du[go]
+#etcsl: line-id=435
+
+436. u₅{mušen}-gin₇ hur-saŋ-ŋa₂ nim-gin₇ sahar niŋin#-a
+#lem: u[wild goose]; hursaŋ[mountain]; nim[fly]; sahar[soil]; niŋin[encircle]
+#etcsl: line-id=436
+
+437. |HI.SUHUR|{ku₆}-gin₇ kur ur₃-ur₃-ru-[da]-ni aratta{ki}-aš ba#-te
+#lem: HI.SUHUR[fish]; kur[mountain(s)]; ur[drag]; Aratta[1]GN; teŋ[approach]
+#etcsl: line-id=437
+
+438. kisal aratta{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+#lem: kisal[courtyard]; Aratta[1]GN; ŋiri[foot]; hul[rejoice]; gub[stand]
+#etcsl: line-id=438
+
+439. ŋidru TE SI NA mu-un-gub
+#lem: ŋidru[scepter]; X; X; X; gub[stand]
+#etcsl: line-id=439
+
+440. šu kiŋ₂ si bi₂-in-sa₂ a kiŋ₂ bi₂-ib#-ak-e
+#lem: šu[hand]; kiŋ[seek]; si[horn]; sa[equal]; a[water]; kiŋ[seek]; ak[do]
+#etcsl: line-id=440
+
+441. en aratta{ki}-ke₄ ŋidru-ta igi tab-ba
+#lem: en[lord]; Aratta[1]GN; ŋidru[scepter]; igi[eye]; tab[double]
+#etcsl: line-id=441
+
+442. itima-ka ki-tuš kug-ga-ni-a ni₂ im-kar₂-kar₂-ka
+#lem: itima[sleeping chamber]; kituš[dwelling place]; kug[pure]; ni[fear]; kar[blow]
+#etcsl: line-id=442
+
+443. en-e šag₄-tam-a-ni-ir gu₃ mu-na-de₂-e
+#lem: en[lord]; šatam[government auditor]; gu[voice]; de[pour]
+#etcsl: line-id=443
+
+444. aratta{ki} u₈ sag₂#-[gin₇] he₂-em kaskal-bi [kur] ki#-bal he₂-em
+#lem: Aratta[1]GN; u[sheep]; sag[scatter]; me[be]; kaskal[way]; kur[mountain(s)]; kibala[rebel land]; me[be]
+#etcsl: line-id=444
+
+445. mah aratta{ki} kug {d}inana-ke₄
+#lem: mah[great]; Aratta[1]GN; kug[purify]; Inanak[1]DN
+#etcsl: line-id=445
+
+446. en kul-aba₄{ki}-ra mu-na-an-šum₂-ma-ta
+#lem: en[lord]; Kulaba[1]SN; šum[give]
+#etcsl: line-id=446
+
+447. lu₂-kiŋ₂-gi₄-a mu-un-gi₄-a-ni
+#lem: kiŋgia[messenger]; gi[turn]
+#etcsl: line-id=447
+
+448. {d}utu ed₂-de₃ inim dugud pa ed₂-de₃
+#lem: Utu[1]DN; e[leave]; inim[word]; dugud[heavy]; pa[branch]; e[leave]
+#etcsl: line-id=448
+
+449. a-da-al kug {d}inana-ke₄ igi me-ši-kar₂-kar₂
+#lem: adal[an exclamation]; kug[purify]; Inanak[1]DN; igi[eye]; kar[blow]
+#etcsl: line-id=449
+
+450. aratta{ki}-a lul-e me-a he₂-en-de₃-dib-e
+#lem: Aratta[1]GN; lul[false]; mea[where?]; dib[pass]
+#etcsl: line-id=450
+
+451. al me-da-aš šu al-zil₂-zil₂-i-a
+#lem: al[hoe]; meta[where from? whence?]; šu[hand]; zil[good]
+#etcsl: line-id=451
+
+452. me-en-de₃ sug₄-ga lul-la-be₂-eš₂
+#lem: menden[we]; sug[empty]; lul[false]
+#etcsl: line-id=452
+
+453. en kul-aba₄{ki}-ra {na₄}gug lul-la-me-a mu-na-dur₂-ru-ne-en-de₃-en
+#lem: en[lord]; Kulaba[1]SN; gugkal[famine]; lul[false]; durun[sit]
+#etcsl: line-id=453
+
+454. en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar
+#lem: en[lord]; Aratta[1]GN; kiŋgia[messenger]
+#etcsl: line-id=454
+
+455. inim-ma dub mah-gin₇ šu mu-na-an-sig₁₀
+#lem: inim[word]; dub[tablet]; mah[great]; šu[hand]; sig[put into]
+#etcsl: line-id=455
+
+456. kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; lugal[king]; en[lord]; Kulaba[1]SN; dug[speak]; tah[add]
+#etcsl: line-id=456
+
+457. ur na-an-gig₂-ge ur na-an-babbar-re
+#lem: ur[man]; giggig[black]; ur[man]; babbar[white]
+#etcsl: line-id=457
+
+458. ur na-an-su₄-e ur na-an-dara₄-e
+#lem: ur[man]; su[red]; ur[man]; dara[red]
+#etcsl: line-id=458
+
+459. ur na-an-sig₇-sig₇-ge ur na-an-gun₃-gun₃{gu₂} ur hu-mu-ra-ab-šum₂-mu
+#lem: ur[man]; sissig[green-yellow]; ur[man]; gunu[speckled]; ur[man]; šum[give]
+#etcsl: line-id=459
+
+460. ur-ŋu₁₀ ur-ra-ni a-da-min₃ he₂-em-da-e
+#lem: ur[man]; ur[man]; adamin[contest]; e[speak]
+#etcsl: line-id=460
+
+461. a₂-ŋal₂ he₂-zu e-ne-ra dug₄-mu-na-ab
+#lem: aŋal[strong]; zu[know]; ane[he]; dug[speak]
+#etcsl: line-id=461
+
+462. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=462
+
+463. kiŋ₂-gi₄-a u₂-lum a-lam mu-un-ŋen
+#lem: kiŋgia[messenger]; ulum[an exclamation]; alam[an exclamation]; ŋen[go]
+#etcsl: line-id=463
+
+464. šeg₁₂ kul-aba₄{ki}-ke₄ egir sig₁₀-ga-gin₇ inim mu#-un-gi₄
+#lem: šeg[brick]; Kulaba[1]SN; egir[back]; sig[put into]; inim[word]; gi[turn]
+#etcsl: line-id=464
+
+465. ud₅!-gin₇ ka gaba kur-ra-ka igi mi-ni-ib-il₂-il₂-i
+#lem: uzud[(female) goat]; kag[mouth]; gaba[breast]; kur[mountain(s)]; igi[eye]; il[raise]
+#etcsl: line-id=465
+
+466. mir! mah kiši₁₇-kiši₁₇-ta zig₃-ga-gin₇ e₂ me MIN₃ mu-un-ta-la₂-la₂
+#lem: mir[mythical snake]; mah[great]; kišig[acacia]; zig[rise]; e[house]; me[Being]; X; la[hang]
+#etcsl: line-id=466
+
+467. [X X X X]-ka saŋ mi-ni-in-il₂
+#lem: X; X; X; X; saŋ[head]; il[raise]
+#etcsl: line-id=467
+
+468. [...] aratta{ki}-a-ke₄ [...]
+#lem: X; Aratta[1]GN; X
+#etcsl: line-id=468
+
+469. ki-tuš-a-ni-ta a mah [e₃-a-gin₇ mu-un-na-ab]-be₂
+#lem: kituš[dwelling place]; a[water]; mah[great]; e[leave]; e[speak]
+#etcsl: line-id=469
+
+470. kiŋ₂-gi₄-a en aratta#{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; dug[speak]; tah[add]
+#etcsl: line-id=470
+
+471. tug₂ na-an-gig₂-ge tug₂ na-an-babbar-re
+#lem: tug[textile]; giggig[black]; tug[textile]; babbar[white]
+#etcsl: line-id=471
+
+472. tug₂ na-an-su₄-e tug₂ na-an-dara₄-e
+#lem: tug[textile]; su[red]; tug[textile]; dara[red]
+#etcsl: line-id=472
+
+473. tug₂ na-an-sig₇-sig₇-ge tug₂ na-an-gun₃-gun₃{gu₂} tug₂ ga-mu-na-ab-šum₂!
+#lem: tug[textile]; sissig[green-yellow]; tug[textile]; gunu[speckled]; tug[textile]; šum[give]
+#etcsl: line-id=473
+#etcsl#text Text HU-MU-RA-AB-ŠUM₂-MU.
+
+474. ur-ŋu₁₀ gu₂-da ŋal₂ {d}en-lil₂-la₂ ur šu ga-mu-na-taka₄
+#lem: ur[man]; gu[neck]; ŋal[⟦be⟧ to be (there]; Enlil[1]DN; ur[man]; šu[hand]; taka[set aside]
+#etcsl: line-id=474
+
+475. ur-ŋu₁₀ ur-ra-ni a-da-min₃ he₂-em-di-e
+#lem: ur[man]; ur[man]; adamin[contest]; e[speak]
+#etcsl: line-id=475
+
+476. a₂-ŋal₂ he₂-zu-zu e-ne-ra dug₄-mu-na-ab
+#lem: aŋal[strong]; zu[know]; ane[he]; dug[speak]
+#etcsl: line-id=476
+
+477. 2-kam-ma-še₃ u₃-na-dug₄ u₃-na-de₃-tah
+#lem: n; dug[speak]; tah[add]
+#etcsl: line-id=477
+
+478. en₃-tukum-še₃ lul-da LI-a he₂-ni-ib-dib-e
+#lem: entukumše[immediately]; lul[false]; X; dib[pass]
+#etcsl: line-id=478
+
+479. iri-na udu-gin₇ igi-ni hu-mu-un-su₈-ub
+#lem: iri[city]; udu[sheep]; igi[eye]; sub[imperfect plural stem of ŋen⟦to go⟧]
+#etcsl: line-id=479
+
+480. e-ne sipad-bi-gin₇ egir-bi he₂-em-us₂-e
+#lem: ane[he]; sipad[shepherd]; egir[back]; us[accompany]
+#etcsl: line-id=480
+
+481. du-a-ni kur kug {na₄}za-gin₃-na
+#lem: du[go]; kur[mountain(s)]; kug[purify]; zagin[lapis lazuli]
+#etcsl: line-id=481
+
+482. gi niŋ₂ dub-ba-gin₇ gu₂ hu-mu-na-ab-ŋar
+#lem: gi[reed]; niŋ[thing]; dub[heap up]; gu[neck]; ŋar[put]
+#etcsl: line-id=482
+
+483. kug-sig₁₇ kug-babbar su₃-ra₂-aŋ₂-bi
+#lem: kugsig[gold]; kugbabbar[silver]; sudaŋ[precious metal or material (possibly amber)]
+#etcsl: line-id=483
+
+484. {d}inana nin e₂-an-na-ra
+#lem: Inanak[1]DN; nin[lady]; Eanak[1]TN
+#etcsl: line-id=484
+
+485. kisal aratta{[ki]}-ka# guru₇-še₃ hu-mu-un-dub-dub-bu
+#lem: kisal[courtyard]; Aratta[1]GN; guru[grain store]; dub[heap up]
+#etcsl: line-id=485
+
+486. 3-kam-ma-[še₃] u₃-na-dug₄ u₃-na-de₃-tah
+#lem: n; dug[speak]; tah[add]
+#etcsl: line-id=486
+
+487. iri-ni ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-an-tar-ta-ta-an
+#lem: iri[city]; irsaŋ[pigeon]; ŋeš[tree]; tar[cut]
+#etcsl: line-id=487
+
+488. [...]-gin₇# na-an-dub₂-be₂-en
+#lem: X; dub[tremble]
+#etcsl: line-id=488
+
+489. [ganba ŋal₂-la]-gin₇# na-an-si-ig-en
+#lem: šakanka[market price]; ŋal[⟦be⟧ to be (there]; sig[put into]
+#etcsl: line-id=489
+
+490. [...] lil₂-e nam-mi-ni-in-dib-be₂-en
+#lem: X; lil[ghost]; dib[pass]
+#etcsl: line-id=490
+
+491. du-a-ni na₄ hur-saŋ-ŋa₂ šu u₃-mu-ni-in-ti
+#lem: du[go]; na[stone weight]; hursaŋ[mountain]; šu[hand]; teŋ[approach]
+#etcsl: line-id=491
+
+492. eš₃ gal eridug{ki} abzu e₂-nun ha-ma-du₃-e
+#lem: eš[shrine]; gal[big]; Eridug[1]SN; Eʾabzu[1]; Enun[1]TN; du[build]
+#etcsl: line-id=492
+
+493. a-sal bar-bi im-šu₂-ra-ke₄ šu ha#-[ma-ni]-ib-tag-ge
+#lem: asal[reed column (at door posts)]; bar[outside]; šuš[cover]; šu[hand]; tag[touch]
+#etcsl: line-id=493
+
+494. ŋissu-bi kalam-[ma ha-ma]-ni-ib-la₂-la₂-e
+#lem: ŋissu[shade]; kalam[the Land (of Sumer)]; la[hang]
+#etcsl: line-id=494
+
+495. inim dug₄-ga-ni [...]-šar₂-a-ka
+#lem: inim[word]; dug[speak]; šar[numerous]V/i
+#etcsl: line-id=495
+
+496. ŋiškim-a-ni [e-ne-ra] dug₄-mu-na-ab
+#lem: ŋeškim[sign]; ane[he]; dug[speak]
+#etcsl: line-id=496
+
+497. ud-ba en [...]-ka#-am₃
+#lem: ud[sun]; en[lord]; X
+#etcsl: line-id=497
+
+498. [...] barag-ga dur₂ ŋar-ra numun nun-na-ke₄-ne
+#lem: X; barag[sanctum]; dur[buttocks]; ŋar[put]; numun[seed]; nun[prince]
+#etcsl: line-id=498
+
+499. [X X] 1(DIŠ)-a mu₂-a
+#lem: X; X; n; mu[grow]
+#etcsl: line-id=499
+
+500. dug₄-ga-ni [mah]-am₃ šag₄-bi su-su-a-am₃
+#lem: dug[speak]; mah[great]; šag[heart]; sud[distant]
+#etcsl: line-id=500
+
+501. kiŋ₂-gi₄-a ka-ni dugud šu nu-mu-un-da-an-gi₄-gi₄
+#lem: kiŋgia[messenger]; kag[mouth]; dugud[heavy]; šu[hand]; gi[turn]
+#etcsl: line-id=501
+
+502. bar kiŋ₂-gi₄-a ka-ni dugud šu nu-mu-un-da-an-gi₄-gi₄-da-ka
+#lem: bar[outside]; kiŋgia[messenger]; kag[mouth]; dugud[heavy]; šu[hand]; gi[turn]
+#etcsl: line-id=502
+
+503. en kul-aba₄{ki}-a-ke₄ im-e šu bi₂-in-ra inim dub-gin₇ bi₂-in#-gub
+#lem: en[lord]; Kulaba[1]SN; im[clay]; šu[hand]; rah[beat]; inim[word]; dub[tablet]; gub[stand]
+#etcsl: line-id=503
+
+504. ud-bi-ta inim im-ma gub-bu nu-ub-ta-ŋal₂-la
+#lem: ud[sun]; inim[word]; im[clay]; gub[stand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=504
+
+505. i₃-ne-eš₂ {d}utu ud ne-a ur₅ he₂-en-na-nam-ma-am₃
+#lem: ineš[now]; Utu[1]DN; ud[sun]; nen[this]; ur[that]; me[be]
+#etcsl: line-id=505
+
+506. en kul-aba₄{ki}-a-ke₄ inim# [dub-gin₇] bi₂#-in-gub ur₅ he₂#-[en-na]-nam-ma
+#lem: en[lord]; Kulaba[1]SN; inim[word]; dub[tablet]; gub[stand]; ur[that]; me[be]
+#etcsl: line-id=506
+
+507. kiŋ₂-gi₄-a mušen-gin₇ a₂ dub₂ i₃-ak-e
+#lem: kiŋgia[messenger]; mušen[bird]; a[arm]; dub[tremble]; ak[do]
+#etcsl: line-id=507
+
+508. ur-bar-ra maš₂-e us₂-sa-gin₇ guru₅-uš i₃-bur₂-bur₂-re
+#lem: urbara[wolf]; maš[goat]; us[accompany]; guruš[cvne]; bur[spread out]
+#etcsl: line-id=508
+
+509. hur-saŋ 5 hur-saŋ 6 hur-saŋ 7-e im-me-re-bal-bal
+#lem: hursaŋ[mountain]; n; hursaŋ[mountain]; n; hursaŋ[mountain]; n; bala[turn]
+#etcsl: line-id=509
+
+510. igi mu-un-il₂ aratta{ki}-aš ba-te
+#lem: igi[eye]; il[raise]; Aratta[1]GN; teŋ[approach]
+#etcsl: line-id=510
+
+511. kisal aratta{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+#lem: kisal[courtyard]; Aratta[1]GN; ŋiri[foot]; hul[rejoice]; gub[stand]
+#etcsl: line-id=511
+
+512. nam-nir-ŋal₂ lugal-a-na mu-un-zu
+#lem: namnirŋal[authority]; lugal[king]; zu[know]
+#etcsl: line-id=512
+
+513. bur₂-ra-bi inim šag₄-ga-na bi₂-ib₂-be₂
+#lem: bur[spread out]; inim[word]; šag[heart]; e[speak]
+#etcsl: line-id=513
+
+514. kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ab-bal-e
+#lem: kiŋgia[messenger]; en[lord]; Aratta[1]GN; bala[turn]
+#etcsl: line-id=514
+
+515. a-a-zu lugal-[ŋu₁₀] mu-e-ši-in-gi₄-in-nam
+#lem: aya[father]; lugal[king]; gi[turn]
+#etcsl: line-id=515
+
+516. en unug{ki}-ga# en# kul-aba₄{ki}-a-ke₄ mu-[e-ši]-in-gi₄-in-nam
+#lem: en[lord]; Unug[1]SN; en[lord]; Kulaba[1]SN; gi[turn]
+#etcsl: line-id=516
+
+517. lugal-zu dug₄#-[ga-ni] nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+#lem: lugal[king]; dug[speak]; anam[what]; tah[add]; anam[what]
+#etcsl: line-id=517
+
+518. lugal-ŋu₁₀ [a-na bi₂]-in#-dug₄ a-na bi₂-in-tah-am₃
+#lem: lugal[king]; ana[what?]; dug[speak]; ana[what?]; tah[add]
+#etcsl: line-id=518
+
+519. lugal-ŋu₁₀ {[ŋiš]}[meš₃] gal dumu {d}en-lil₂-la₂-ke₄
+#lem: lugal[king]; mes[tree]; gal[big]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=519
+
+520. ŋiš-bi [an ki]-da mu₂-a
+#lem: ŋeš[tree]; an[sky]; ki[place]; mu[grow]
+#etcsl: line-id=520
+
+521. pa#-[bi an-ne₂] us₂-sa-am₃
+#lem: pa[branch]; an[sky]; us[accompany]
+#etcsl: line-id=521
+
+522. [ur₂-bi ki-a] gub-ba-bi
+#lem: ur[root]; ki[place]; gub[stand]
+#etcsl: line-id=522
+
+523. nam-en nam-lugal-la pa e₃ ak-a
+#lem: namen[the office of en-priest]; namlugal[kingship]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=523
+
+524. en-me-er-kar₂ dumu {d}utu-ke₄ im ma-an-šum₂
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN; im[clay]; šum[give]
+#etcsl: line-id=524
+
+525. en aratta{ki}-ke₄ im igi u₃-ni-bar šag₄ inim-ma u₃-bi₂-zu
+#lem: en[lord]; Aratta[1]GN; im[clay]; igi[eye]; bar[place outside]; šag[heart]; inim[word]; zu[know]
+#etcsl: line-id=525
+
+526. a-na ma-ab-be₂-en-na-bi u₃-mu-e-dug₄
+#lem: ana[what?]; e[speak]; dug[speak]
+#etcsl: line-id=526
+
+527. a ru-a sun₄ {na₄}za-gin₃ keše₂-da-ar
+#lem: a[water]; ri[impose]; sum[beard]; zagin[lapis lazuli]; kešed[bind]
+#etcsl: line-id=527
+
+528. ab₂ kal-la-ga-ni kur me sikil-la-ka tud-da-ar
+#lem: ab[cow]; kalag[strong]; kur[mountain(s)]; me[Being]; sikil[pure]; utud[give birth (to)]
+#etcsl: line-id=528
+
+529. sahar aratta!{ki}-ka a₂ e₃-a-ar
+#lem: sahar[soil]; Aratta[1]GN; a[arm]; e[leave]
+#etcsl: line-id=529
+#etcsl#text Text UNUG KI GA for aratta.
+
+530. ubur ab₂ zid-da-ka ga gu₇-a-ar
+#lem: ubur[breast]; ab[cow]; zid[right]; ga[milk]; gu[eat]
+#etcsl: line-id=530
+
+531. kul-aba₄{ki} kur me gal-gal-la-ka nam-en-na tum₂-ma-ar
+#lem: Kulaba[1]SN; kur[mountain(s)]; me[Being]; gal[big]; namen[the office of en-priest]; tum[suitable]
+#etcsl: line-id=531
+
+532. en-me-er-kar₂ dumu {d}utu-ra
+#lem: Enmerkar[1]RN; dumu[child]; Utu[1]DN
+#etcsl: line-id=532
+
+533. inim-bi eš₃ e₂-an-na-ka inim dug₃ ga-mu-na-ab-dug₄
+#lem: inim[word]; eš[shrine]; Eanak[1]TN; inim[word]; dug[good]; dug[speak]
+#etcsl: line-id=533
+
+534. ŋi₆-par₄ {ŋiš}meš₃ gibil-gin₇ gurun il₂-la-na
+#lem: ŋipar[cloister]; mes[tree]; gibil[new]; gurun[fruit]; il[raise]
+#etcsl: line-id=534
+
+535. lugal-ŋu₁₀ en kul-aba₄{ki}-ra šu-a ga-mu-na-ab-gi₄
+#lem: lugal[king]; en[lord]; Kulaba[1]SN; šu[hand]; gi[turn]
+#etcsl: line-id=535
+
+536. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#etcsl: line-id=536
+
+537. en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar
+#lem: en[lord]; Aratta[1]GN; kiŋgia[messenger]
+#etcsl: line-id=537
+
+538. im šu-rin-na-ni šu ba-ši-in-ti
+#lem: im[clay]; šurin[oven]; šu[hand]; teŋ[approach]
+#etcsl: line-id=538
+
+539. en aratta{ki}-ke₄ im-ma igi i-ni-in-bar
+#lem: en[lord]; Aratta[1]GN; im[clay]; igi[eye]; bar[place outside]
+#etcsl: line-id=539
+
+540. inim dug₄-ga gag-am₃ saŋ-ki mi-re₂-da-am₃
+#lem: inim[word]; dug[speak]; gag[nail]; saŋki[forehead]; mir[angry]
+#etcsl: line-id=540
+
+541. en aratta{ki}-ke₄ im šu-rin-na-ni igi im-bar-bar-re
+#lem: en[lord]; Aratta[1]GN; im[clay]; šurin[oven]; igi[eye]; bar[place outside]
+#etcsl: line-id=541
+
+542. ud-ba en men nam-en-na tum₂-ma dumu {d}en-lil₂-la₂-ke₄
+#lem: ud[sun]; en[lord]; men[tiara]; namen[the office of en-priest]; tum[suitable]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=542
+
+543. {d}iškur an ki-a gu₃ nun-bi di-dam
+#lem: Iškur[1]DN; an[sky]; ki[place]; gu[voice]; nun[prince]; di[speak]
+#etcsl: line-id=543
+
+544. ud du₇-du₇ ug gal-la ki [X X]-ka nam-mi-ni-in-gub
+#lem: ud[storm]; du[push]; ug[lion]; gal[big]; ki[place]; X; X; gub[stand]
+#etcsl: line-id=544
+
+545. kur-kur [...] mu-un#-tuku₄-tuku₄-e
+#lem: kur[mountain(s)]; X; tuku[rock]
+#etcsl: line-id=545
+
+546. hur-saŋ [... mu]-un#-da-peš₁₁-peš₁₁-e
+#lem: hursaŋ[mountain]; X; peš[thick]
+#etcsl: line-id=546
+
+547. ni₂ [me]-lem₄ [X X] gaba-na ŋal₂-la-bi
+#lem: ni[fear]; melim[frightening splendor]; X; X; gaba[breast]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=547
+
+548. hur-saŋ giri₁₇-zal-la gu₃ mi-ni-in-il₂
+#lem: hursaŋ[mountain]; kirizal[joy]; gu[voice]; il[raise]
+#etcsl: line-id=548
+
+549. aratta{ki} bar ud-bi šag₄ hur-saŋ-ŋa₂-ka
+#lem: Aratta[1]GN; bar[outside]; ud[sun]; šag[heart]; hursaŋ[mountain]
+#etcsl: line-id=549
+
+550. gig ni₂-bi mu₂-a gu₂ ni₂-bi an-ga-mu₂-a
+#lem: kib[wheat]; ni[self]; mu[grow]; gu[pulse]; ni[self]; mu[grow]
+#etcsl: line-id=550
+
+551. gig ni₂-bi mu₂-a guru₇ [...] X-ka
+#lem: kib[wheat]; ni[self]; mu[grow]; guru[grain store]; X; X
+#etcsl: line-id=551
+
+552. en aratta{ki}-ra mu-na-ni-in-ku₄#-[ku₄]
+#lem: en[lord]; Aratta[1]GN; kur[enter]
+#etcsl: line-id=552
+
+553. kisal aratta{ki}-a-ka igi-ni-še₃ i-im-dub
+#lem: kisal[courtyard]; Aratta[1]GN; igi[eye]; dub[heap up]
+#etcsl: line-id=553
+
+554. en aratta{ki}-ke₄ gig-e igi bi₂-in-du₈
+#lem: en[lord]; Aratta[1]GN; kib[wheat]; igi[eye]; du[spread]
+#etcsl: line-id=554
+
+555. kiŋ₂-gi₄-a igi sag₃-sag₃-a-ni mu-un-ši-ib-|UR₂×KID₂|-|UR₂×KID₂|-e
+#lem: kiŋgia[messenger]; igi[eye]; sag[strike]; X
+#etcsl: line-id=555
+
+556. en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar gu₃ mu-un-na-de₂-e
+#lem: en[lord]; Aratta[1]GN; kiŋgia[messenger]; gu[voice]; de[pour]
+#etcsl: line-id=556
+
+557. mah-bi {d}inana nin kur-kur-ra-ke₄
+#lem: mah[great]; Inanak[1]DN; nin[lady]; kur[mountain(s)]
+#etcsl: line-id=557
+
+558. iri-ni aratta{ki} šu (1:li-bi₂-in-dag:1) unug{ki}-e la-ba-an-KA
+#lem: iri[city]; Aratta[1]GN; šu[hand]; dag[roam around]; Unug[1]SN; X
+#etcsl: line-id=558
+
+:558v.1.1: ($the other ms. has instead:$) li-bi₂-in-kal
+#lem: kal[rare]
+
+559. e₂-za-gin₃-na-ka-ni šu (1:li-bi₂-in-dag:1) eš₃ e₂-an-na-ka la-ba-an-KA
+#lem: Ezagin[1]TN; šu[hand]; dag[roam around]; eš[shrine]; Eanak[1]TN; X
+#etcsl: line-id=559
+
+:559v.1.1: ($the other ms. has instead:$) li-bi₂-in-kal
+#lem: kal[rare]
+
+560. kur me sikil-la-ka šu (1:li-bi₂-in-dag:1) šeg₁₂ kul-aba₄{ki}-a-ke₄ la-ba-an-KA
+#lem: kur[mountain(s)]; me[Being]; sikil[pure]; šu[hand]; dag[roam around]; šeg[brick]; Kulaba[1]SN; X
+#etcsl: line-id=560
+
+:560v.1.1: ($the other ms. has instead:$) li-bi₂-in-kal
+#lem: kal[rare]
+
+561. ŋiš-nu₂ še-er-kan₂ dug₄ šu (1:li-bi₂-in-dag:1) ŋiš-nu₂ gi-rin-na la-ba-an-KA
+#lem: ŋešnud[bed]; šerkan[ornament]; dug[speak]; šu[hand]; dag[roam around]; ŋešnud[bed]; girim[flower]; X
+#etcsl: line-id=561
+
+:561v.1.1: ($the other ms. has instead:$) li-bi₂-in-kal
+#lem: kal[rare]
+
+562. en-ra šu sikil-la-ka-ni šu (1:li-bi₂-in-dag:1) en unug{ki}-ga en kul-aba₄{ki}-a-ra la-ba-an-KA
+#lem: en[lord]; šu[hand]; sikil[pure]; šu[hand]; dag[roam around]; en[lord]; Unug[1]SN; en[lord]; Kulaba[1]SN; X
+#etcsl: line-id=562
+
+:562v.1.1: ($the other ms. has instead:$) li-bi₂-in-kal
+#lem: kal[rare]
+
+563. aratta{ki} zid-da gab₂-bu-ba
+#lem: Aratta[1]GN; zid[right]; gab[left (hand)]
+#etcsl: line-id=563
+
+564. {d}inana nin kur-kur-ra-ke₄
+#lem: Inanak[1]DN; nin[lady]; kur[mountain(s)]
+#etcsl: line-id=564
+
+565. a mah e₃-a-gin₇ mu-un-na-niŋin₂-niŋin₂
+#lem: a[water]; mah[great]; e[leave]; niŋin[encircle]
+#etcsl: line-id=565
+
+566. lu₂-be₂-ne lu₂-lu₂-ta dar-a
+#lem: lu[person]; lu[person]; dar[split]
+#etcsl: line-id=566
+
+567. lu₂ {d}dumu-zid-de₃ lu₂-ta e₃-a-me-eš
+#lem: lu[person]; Dumuzid[1]DN; lu[person]; e[leave]
+#etcsl: line-id=567
+
+568. inim kug {d}inana ki-bi-še₃ ŋar-ŋar-me-eš
+#lem: inim[word]; kug[purify]; Inanak[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=568
+
+569. ur igi-ŋal₂-la DA-A-SAR {d}dumu-zid-da he₂-ši-im-niŋin₂-niŋin₂
+#lem: ur[man]; igiŋal[wise]; X; Dumuzid[1]DN; niŋin[encircle]
+#etcsl: line-id=569
+
+570. ul₄# %e ŋa₂-nam-ma# %s dumu ur₄-[...]
+#lem: ul[hasten]; men[go]V/i; dumu[child]; ur[gather]
+#etcsl: line-id=570
+
+571. [igi] a-ma-ru-ka gub-ba-me-eš
+#lem: igi[eye]; amaru[flood]; gub[stand]
+#etcsl: line-id=571
+
+572. egir a-ma-ru ba-ur₃-ra-ta
+#lem: egir[back]; amaru[flood]; ur[drag]
+#etcsl: line-id=572
+
+573. {d}inana nin kur-kur-ra-ke₄
+#lem: Inanak[1]DN; nin[lady]; kur[mountain(s)]
+#etcsl: line-id=573
+
+574. nam gal ki aŋ₂ {d}dumu-zid-da-ke₄
+#lem: nam[fate]; gal[big]; ki[place]; aŋ[measure]; Dumuzid[1]DN
+#etcsl: line-id=574
+
+575. a nam-til₃-la-ka mu-un-ne-sud-sud
+#lem: a[water]; namtil[life]; sud[distant]
+#etcsl: line-id=575
+
+576. gu₂ kalam-ma-ka ŋiš mu-un-ne-en-ŋal₂
+#lem: gu[neck]; kalam[the Land (of Sumer)]; ŋeš[tree]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=576
+
+577. ur igi-ŋal₂-la du-a-ni
+#lem: ur[man]; igiŋal[wise]; du[go]
+#etcsl: line-id=577
+
+578. {tug₂}saŋšu gun₃-a ugu-na i-im-šu₂
+#lem: saŋšu[cap]; gunu[speckled]; ugu[skull]; šuš[cover]
+#etcsl: line-id=578
+
+579. {tug₂}piriŋ-piriŋ-ŋa₂# zag mu-ni-in-keše₂
+#lem: piriŋ[lion]; zag[side]; kešed[bind]
+#etcsl: line-id=579
+
+580. [...] il₂-la# X šu mi-ni-in-du₈-[...]-am₃#
+#lem: X; il[raise]; X; šu[hand]; du[spread]
+#etcsl: line-id=580
+
+581. [...]-te-na mi-ni-in-dug₄
+#lem: X; dug[speak]
+#etcsl: line-id=581
+
+582. [...] nin [...] ba#-an-PA{di}
+#lem: X; nin[lady]; X; X
+#etcsl: line-id=582
+
+583. [...]-a-ni
+#lem: X
+#etcsl: line-id=583
+
+584. [...] {d}inana
+#lem: X; Inanak[1]DN
+#etcsl: line-id=584
+
+585. en₃-du-ni {d}ama-ušumgal-an-na nitalam-a-na ba-dug₃
+#lem: endu[song]; Amaʾušumgalanak[1]DN; ŋidlam[(equal ranking) spouse]; dug[good]
+#etcsl: line-id=585
+
+586. ud-bi-ta ŋeštug₂ kug ŋeštug₂# [kug] {d}dumu-zid-da-ke₄
+#lem: ud[sun]; ŋeštug[ear]; kug[purify]; ŋeštug[ear]; kug[purify]; Dumuzid[1]DN
+#etcsl: line-id=586
+
+587. šu mu-ni-in-du₇ šir₃ mu-ni#-[in]-dug₄ inim mu-ni-in-zu
+#lem: šu[hand]; du[perfect]; šir[sing]; dug[speak]; inim[word]; zu[know]
+#etcsl: line-id=587
+
+588. um-ma kur me sikil-še₃ du-a-ni
+#lem: umma[old woman]; kur[mountain(s)]; me[Being]; sikil[pure]; du[go]
+#etcsl: line-id=588
+
+589. ki-sikil ud-da-na til-la-gin₇ im-ma-na-ta-e₃
+#lem: kisikil[young woman]; ud[sun]; til[complete]; e[leave]
+#etcsl: line-id=589
+
+590. šembi₂-zid-da igi-na mu-un-gun₃
+#lem: šembizida[kohl]; igi[eye]; gunu[speckled]
+#etcsl: line-id=590
+
+591. [tug₂] babbar-ra zag mu-ni-in-keše₂
+#lem: tug[textile]; babbar[white]; zag[side]; kešed[bind]
+#etcsl: line-id=591
+
+592. [aga] zid-da iti₆-gin₇ mu-un-e₃
+#lem: aga[tiara]; zid[right]; itud[moon]; e[leave]
+#etcsl: line-id=592
+
+593. [...] X X saŋ si ba-ni-in-sa₂
+#lem: X; X; X; saŋ[head]; si[horn]; sa[equal]
+#etcsl: line-id=593
+
+594. [nitalam]-a-ni en-me-er-kar₂ barag-ge₄ mu-un-da-ab-si
+#lem: ŋidlam[(equal ranking) spouse]; Enmerkar[1]RN; barag[sanctum]; si[fill]
+#etcsl: line-id=594
+
+595. [...] um-mi-in-zi-zi
+#lem: X; zig[rise]
+#etcsl: line-id=595
+
+596. [ga-nam] im-da-lu-lu aratta{ki}-aš u₈-da sila₄-bi
+#lem: ganam[moreover]; lu[abundant]; Aratta[1]GN; u[sheep]; sila[lamb]
+#etcsl: line-id=596
+
+597. [ga-nam im]-da-lu-lu aratta{ki}-aš ud₅-da maš₂-bi
+#lem: ganam[moreover]; lu[abundant]; Aratta[1]GN; uzud[(female) goat]; maš[goat]
+#etcsl: line-id=597
+
+598. [ga-nam im]-da-lu-lu aratta{ki}-aš ab₂-da amar-bi
+#lem: ganam[moreover]; lu[abundant]; Aratta[1]GN; ab[cow]; amar[calf]
+#etcsl: line-id=598
+
+599. [ga-nam] im#-da-lu-lu aratta{ki}-aš eme₅ dur₃{ur₃} kaš₄ gig₂-ga-<bi>
+#lem: ganam[moreover]; lu[abundant]; Aratta[1]GN; eme[female donkey]; dur[young male donkey]; kaš[run]; giggig[black]
+#etcsl: line-id=599
+
+600. aratta{ki}-a na-an-da-be₂-a
+#lem: Aratta[1]GN; dug[speak]
+#etcsl: line-id=600
+
+601. [guru₇-še₃] he₂-em-dub-dub gu₂ he₂-em-ŋar-ŋar
+#lem: guru[grain store]; dub[heap up]; gu[neck]; ŋar[put]
+#etcsl: line-id=601
+
+602. [he₂]-ŋal₂# za-a he₂-ŋal₂-zu
+#lem: heŋal[plenty]; zaʾe[you]; heŋal[plenty]
+#etcsl: line-id=602
+
+603. [...] en aratta{ki}-ra u₃-mu-ni-in-ak
+#lem: X; en[lord]; Aratta[1]GN; ak[do]
+#etcsl: line-id=603
+
+604. [...] X X X RA he₂-en-[...] X
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=604
+
+605. [...] mu-un-di-ni-ib-X-e
+#lem: X; X
+#etcsl: line-id=605
+
+606. [...] mu-un-ta-e₃
+#lem: X; e[leave]
+#etcsl: line-id=606
+
+607. [...] si mu-un-na-ab-sa₂
+#lem: X; si[horn]; sa[equal]
+#etcsl: line-id=607
+
+$ 3 lines missing
+611. [...] me-te-aš [...] ŋal₂
+#lem: X; mete[appropriate thing]; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=611
+
+612. [...] X SI i-lu šag₄-[ga ...] X
+#lem: X; X; X; ilu[lament]; šag[heart]; X; X
+#etcsl: line-id=612
+
+613. [...]-ni-a he₂-ŋal₂-zu AN [...]
+#lem: X; heŋal[plenty]; X; X
+#etcsl: line-id=613
+
+614. [...] {d}en-lil₂-le saŋ-eš mu-ri-in-rig₇ [...]-la#-la-ŋa₂ he₂-zu-zu
+#lem: X; Enlil[1]DN; saŋ[head]; rig[donate]; X; zu[know]
+#etcsl: line-id=614
+
+615. [...] kar₂ a-a-ni nu-lam-lam a nu-un-de₂
+#lem: X; kar[blow]; aya[father]; lam[flourish]; a[water]; de[pour]
+#etcsl: line-id=615
+
+616. {d}en-[lil₂ lugal] kur#-kur-ra-ke₄ hu-mu-un-kar₂-re ni₂-ba
+#lem: Enlil[1]DN; lugal[king]; kur[mountain(s)]; kar[blow]; ni[self]
+#etcsl: line-id=616
+
+617. eš₂-gar₃ im#-ma-an-du₃-a-gin₇
+#lem: ešgar[work assignment]; du[build]
+#etcsl: line-id=617
+
+618. nam-lu₂-u₁₈-[lu] aratta{ki}-a-ke₄
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=618
+
+619. kug-sig₁₇ kug {na₄}[za]-gin₃ bal ak-de₃ eš₂-gar₃ X X X
+#lem: kugsig[gold]; kug[metal]; zagin[lapis lazuli]; bala[turn]; ak[do]; ešgar[work assignment]; X; X; X
+#etcsl: line-id=619
+
+620. lu₂ gurun kug-sig₁₇ gurun ŋiš gub-bu-de₃
+#lem: lu[person]; gurun[fruit]; kugsig[gold]; gurun[fruit]; ŋeš[tree]; gub[stand]
+#etcsl: line-id=620
+
+621. {ŋiš}peš₃ ŋeštin-ba niŋ₂-ta ub₄-ba-gin₇ guru₇ gal-še₃ [u₃]-mu-un-dub
+#lem: peš[fig]; ŋeštin[vine]; niŋ[thing]; ub[cavity]; guru[grain store]; gal[big]; dub[heap up]
+#etcsl: line-id=621
+
+622. {na₄}za-gin₃ duru₅ ur₂-ba mu-un-bur₂-re-ne
+#lem: zagin[lapis lazuli]; duru[wet]; ur[root]; bur[spread out]
+#etcsl: line-id=622
+
+623. {gi}ušub pa-ba mu-un-ta-bal-e-ne
+#lem: ušub[part of a reed]; pa[branch]; bala[turn]
+#etcsl: line-id=623
+
+624. {d}inana nin e₂-an-na-ra
+#lem: Inanak[1]DN; nin[lady]; Eanak[1]TN
+#etcsl: line-id=624
+
+625. kisal e₂-an-na{ki}-ka guru₇-še₃ mu-un-dub-bu-ne
+#lem: kisal[courtyard]; Eanak[1]TN; guru[grain store]; dub[heap up]
+#etcsl: line-id=625
+
+626. lugal-ŋu₁₀ ŋa₂-nu na ga-e-degₓ(RI) na degₓ(RI)-ŋu₁₀ he₂-e-dab₅
+#lem: lugal[king]; ŋen[go]; na[cvne]; deg[gather up]; na[cvne]; deg[gather up]; dab[seize]
+#etcsl: line-id=626
+
+627. inim ga-ra-ab-dug₄ ŋizzal he₂-e-ak
+#lem: inim[word]; dug[speak]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=627
+
+628. lu₂ X BI# E# kur-kur-ra uŋ₃-e u₃-un#-pad₃
+#lem: lu[person]; X; X; X; kur[mountain(s)]; uŋ[people]; pad[find]
+#etcsl: line-id=628
+
+629. [nam-lu₂]-ulu₃# aratta{ki}-[ke₄]
+#lem: namlulu[humanity]; Aratta[1]GN
+#etcsl: line-id=629
+
+630. [...]-me-eš₂ i-im-da he₂-em-me-ne
+#lem: X; e[bring out]; e[speak]
+#etcsl: line-id=630
+
+631. ŋe₂₆-e gu₂-e-ta du-a-ŋu₁₀-ne
+#lem: ŋaʾe[I]; guʾe[this side]; ŋen[go]
+#etcsl: line-id=631
+
+632. nam-lugal#-ŋu₁₀ nin mul-mul-e ma-an-šum₂
+#lem: namlugal[kingship]; nin[lady]; mul[shine]; šum[give]
+#etcsl: line-id=632
+
+633. {d}ŋeštin-an-na [...]
+#lem: Ŋeštinanak[1]DN; X
+#etcsl: line-id=633
+
+634. iri-ba lil₂ [...]
+#lem: iri[city]; lil[ghost]; X
+#etcsl: line-id=634
+
+635. ezen nu-mu-[...]
+#lem: ezem[festival]; X
+#etcsl: line-id=635
+
+636. ud šu₂-uš nam-[...]
+#lem: ud[sun]; šuš[cover]; X
+#etcsl: line-id=636
+
+$ (approx. 6 lines missing)
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-24) City, majestic bull bearing vigour and great awesome splendour, @wSN{Kulaba}, ……, breast of the storm, where destiny is determined; @wSN{Unug}, great mountain, in the midst of ……. There the evening meal of the great abode of @wDN{An} was set. In those days of yore, when the destinies were determined, the great princes allowed @wSN{Unug} @wSN{Kulaba's} @wTN{E-ana} to lift its head high. Plenty, and carp floods, and the rain which brings forth dappled barley were then increased in @wSN{Unug} @wSN{Kulaba}. Before the land of @wGN{Dilmun} yet existed, the @wTN{E-ana} of @wSN{Unug} @wSN{Kulaba} was well founded, and the holy @fsux{ŋipar} of @wDN{Inana} in brick-built @wSN{Kulaba} shone forth like the silver in the lode. Before …… carried ……, before ……, before …… carried ……, before the commerce was practised; before gold, silver, copper, tin, blocks of lapis lazuli, and mountain stones were brought down together from their mountains, before …… bathed for the festival, ……, …… time passed.  @gap{2 lines missing} 
+
+@(25 = 25-32) …… was colourfully adorned, and ……, the holy place, was …… with flawless lapis lazuli, its interior beautifully formed like a white @fsux{meš} tree bearing fruit. The lord of @wSN{Aratta} placed on his head the golden crown for @wDN{Inana}. But he did not please her like the lord of @wSN{Kulaba}. @wSN{Aratta} did not build for holy @wDN{Inana} -- unlike the Shrine @wTN{E-ana}, the @fsux{ŋipar}, the holy place, unlike brick-built @wSN{Kulaba}.
+
+@(33 = 33-37) At that time, the lord chosen by @wDN{Inana} in her heart, chosen by @wDN{Inana} in her holy heart from the bright mountain, @wRN{Enmerkar}, the son of @wDN{Utu}, made a plea to his sister, the lady who grants desires, holy @wDN{Inana}:
+
+@(38 = 38-64) @q[Enmerkar,Inana]{“My sister, let @wSN{Aratta} fashion gold and silver skilfully on my behalf for @wSN{Unug}. Let them cut the flawless lapis lazuli from the blocks, let them …… the translucence of the flawless lapis lazuli ……. …… build a holy mountain in @wSN{Unug}. Let @wSN{Aratta} build a temple brought down from heaven -- your place of worship, the Shrine @wTN{E-ana}; let @wSN{Aratta} skilfully fashion the interior of the holy @fsux{ŋipar}, your abode; may I, the radiant youth, may I be embraced there by you. Let @wSN{Aratta} submit beneath the yoke for @wSN{Unug} on my behalf. Let the people of @wSN{Aratta} bring down for me the mountain stones from their mountain, build the great shrine for me, erect the great abode for me, make the great abode, the abode of the gods, famous for me, make my @fsux{me} prosper in @wSN{Kulaba}, make the @fsux{abzu} grow for me like a holy mountain, make @wSN{Eridug} gleam for me like the mountain range, cause the @fsux{abzu} shrine to shine forth for me like the silver in the lode. When in the @fsux{abzu} I utter praise, when I bring the @fsux{me} from @wSN{Eridug}, when, in lordship, I am adorned with the crown like a purified shrine, when I place on my head the holy crown in @wSN{Unug}@wSN{Kulaba}, then may the …… of the great shrine bring me into the @fsux{ŋipar}, and may the …… of the @fsux{ŋipar} bring me into the great shrine. May the people marvel admiringly, and may @wDN{Utu} witness it in joy.”}
+
+@(65 = 65-68) Thereupon the splendour of holy @wDN{An}, the lady of the mountains, the wise, the goddess whose kohl is for @wDN{Ama-ušumgal-ana}, @wDN{Inana}, the lady of all the lands, called to @wRN{Enmerkar}, the son of @wDN{Utu}:
+
+@(69 = 69-104) @q[Inana,Enmerkar]{“Come, @wRN{Enmerkar}! I shall offer you advice: let my counsel be heeded. I shall speak words to you; let them be heard. Choose from the troops as a messenger one who is eloquent of speech and endowed with endurance. Where and to whom shall he carry the important message of wise @wDN{Inana}? Let him bring it up into the @wGN{Zubi} mountains, let him descend with it from the @wGN{Zubi} mountains. Let @wGN{Susa} and the land of @wGN{Anšan} humbly salute @wDN{Inana} like tiny mice. In the great mountain ranges, let the teeming multitudes grovel in the dust for her. @wSN{Aratta} shall submit beneath the yoke to @wSN{Unug}. The people of @wSN{Aratta} shall bring down the mountain stones from their mountains, and shall build the great shrine for you, and erect the great abode for you, will cause the great abode, the abode of the gods, to shine forth for you; will make your @fsux{me} flourish in @wSN{Kulaba}, will make the @fsux{abzu} grow for you like a holy mountain, will make @wSN{Eridug} shining for you like the mountain range, will cause the @fsux{abzu} shrine to shine forth for you like the glitter in the lode. When in the @fsux{abzu} you utter praise, when you bring the @fsux{me} from @wSN{Eridug}, when, in lordship, you are adorned with the crown like a purified shrine, when you place on your head the holy crown in @wSN{Unug}@wSN{Kulaba}, then may the …… of the great shrine bring you into the @fsux{ŋipar}, and may the …… of the @fsux{ŋipar} bring you into the great shrine. May the people marvel admiringly, and may @wDN{Utu} witness it in joy. Because …… shall carry daily, when …… in the evening cool ……, -- in the place of @wDN{Dumuzid} where the ewes, kids and lambs are numerous, the people of @wSN{Aratta} shall run around for you like the mountain sheep in the @fsux{akalag} fields, the fields of @wDN{Dumuzid}. Rise like the sun over my holy breast! You are the jewel of my throat! Praise be to you, @wRN{Enmerkar}, the son of @wDN{Utu}!”}
+
+@(105 = 105-107) The lord gave heed to the words of holy @wDN{Inana}, and chose from the troops as a messenger one who was eloquent of speech and endowed with endurance.  @vart[t1823.v1,t1823.v1]{@varn{1 ms. adds:} …… to his messenger ……. } Where and to whom will he carry the important message of wise @wDN{Inana}?
+
+@(108 = 108-133) @q[Enmerkar,messenger]{“You shall bring it up into the @wGN{Zubi} mountains, you shall descend with it from the @wGN{Zubi} mountains. Let @wGN{Susa} and the land of @wGN{Anšan} humbly salute @wDN{Inana} like tiny mice. In the great mountain ranges, let the teeming multitudes grovel in the dust for her. Messenger, speak to the lord of @wSN{Aratta} and say to him: @q[Enmerkar,messenger]{“Lest I make the people fly off from that city like a wild dove from its tree, lest I make them fly around like a bird over its well-founded nest, lest I requite (?) them as if at a current market rate, lest I make it gather dust like an utterly destroyed city, lest like a settlement cursed by @wDN{Enki} and utterly destroyed, I too utterly destroy @wSN{Aratta}; lest like the devastation which swept destructively, and in whose wake @wDN{Inana} arose, shrieked and yelled aloud, I too wreak a sweeping devastation there -- let @wSN{Aratta} pack nuggets of gold in leather sacks, placing alongside it the @fsux{kugmea} ore; package up precious metals, and load the packs on the donkeys of the mountains; and then may the Junior @wDN{Enlil} of @wGN{Sumer} have them build for me, the lord whom @wDN{Nudimmud} has chosen in his sacred heart, a mountain of a shining @fsux{me}; have them make it luxuriant for me like a boxwood tree, have them make its shining horns colourful for me as when @wDN{Utu} comes forth from his chamber, have them make its doorposts gleam brightly for me.”}”}
+
+@(134 = 134-155) @q[Enmerkar,messenger]{“Chant to him the holy song, the incantation sung in its chambers -- the incantation of @wDN{Nudimmud}: @q[Enmerkar,messenger]{“On that day when there is no snake, when there is no scorpion, when there is no hyena, when there is no lion, when there is neither dog nor wolf, when there is thus neither fear nor trembling, man has no rival! At such a time, may the lands of @wSN{Šubur} and @wSN{Ḫamazi}, the many-tongued, and @wGN{Sumer}, the great mountain of the @fsux{me} of magnificence, and @wGN{Akkad}, the land possessing all that is befitting, and the @wGN{Martu} land, resting in security -- the whole universe, the well-guarded people -- may they all address @wDN{Enlil} together in a single language! For at that time, for the ambitious lords, for the ambitious princes, for the ambitious kings, @wDN{Enki}, for the ambitious lords, for the ambitious princes, for the ambitious kings, for the ambitious lords, for the ambitious princes, for the ambitious kings -- @wDN{Enki}, the lord of abundance and of steadfast decisions, the wise and knowing lord of the Land, the expert of the gods, chosen for wisdom, the lord of @wSN{Eridug}, shall change the speech in their mouths, as many as he had placed there, and so the speech of mankind is truly one.”}”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t1823.q1 t1823.q2
+#etcsl#linkGrpc
+
+@(156 = 156-157) The lord added further instructions for the messenger going to the mountains, to @wSN{Aratta}:
+
+@(158 = 158-159) @q[Enmerkar,messenger]{“Messenger, by night, drive on like the south wind! By day, be up like the dew!”}
+
+@(160 = 160-175) The messenger gave heed to the words of his king. He journeyed by the starry night, and by day he travelled with @wDN{Utu} of heaven. Where and to whom will he carry the important message of @wDN{Inana} with its stinging tone? He brought it up into the @wGN{Zubi} mountains, he descended with it from the @wGN{Zubi} mountains. @wGN{Susa} and the land of @wGN{Anšan} humbly saluted @wDN{Inana} like tiny mice. In the great mountain ranges, the teeming multitudes grovelled in the dust for her. He traversed five mountains, six mountains, seven mountains. He lifted his eyes as he approached @wSN{Aratta}. He stepped joyfully into the courtyard of @wSN{Aratta}, he made known the authority of his king. Openly he spoke out the words in his heart. The messenger transmitted the message to the lord of @wSN{Aratta}:
+
+@(176 = 176-178) @q[messenger,lord of Aratta]{“Your father, my master, has sent me to you; the lord of @wSN{Unug}, the lord of @wSN{Kulaba}, has sent me to you.”} @q[lord of Aratta,messenger]{“What is it to me what your master has spoken? What is it to me what he has said?”}
+
+@(179 = 179-207) @q[messenger,lord of Aratta]{“This is what my master has spoken, this is what he has said. My king who from his birth has been fitted  @varh[t1823.v2]{for lordship }@vart[t1823.v3,t1823.v2]{@varn{1 ms. has instead:} for the crown }, the lord of @wSN{Unug}, the @fsux{saŋkal} snake living in @wGN{Sumer}, who pulverises  @varh[t1823.v4]{mountains }@vart[t1823.v5,t1823.v4]{@varn{2 mss. have instead:} heads } like flour, the stag of the tall mountains, endowed with princely antlers, wild cow, kid pawing the holy soapwort with its hoof, whom the good cow had given birth to in the heart of the mountains, @wRN{Enmerkar}, the son of @wDN{Utu}, has sent me to you.”}  @vart[t1823.v6,t1823.v6]{@varn{2 mss. add here:} (the lord of @wSN{Aratta} speaks): @q[lord of Aratta,messenger]{“What is it to me what your master has spoken? what is it to me what he has said?”} } @q{“This is what my master said: @q[Enmerkar,messenger]{“Lest I make the people fly off from that city like a wild dove from its tree, lest I make them fly around like a bird over its well-founded nest, lest I requite (?) them as if at a current market rate, lest I make it gather dust like an utterly destroyed city, lest like a settlement cursed by @wDN{Enki} and utterly destroyed, I too utterly destroy @wSN{Aratta}; lest like the devastation which swept destructively, and in whose wake @wDN{Inana} arose, shrieked and yelled aloud, I too wreak a sweeping devastation there -- let @wSN{Aratta} pack nuggets of gold in leather sacks, placing alongside it the @fsux{kugmea} ore; package up precious metals, and load the packs on the donkeys of the mountains; and then may the Junior @wDN{Enlil} of @wGN{Sumer} have them build for me, the lord whom @wDN{Nudimmud} has chosen in his sacred heart, a mountain of a shining @fsux{me}; have them make it luxuriant for me like a boxwood tree, have them make its shining horns colourful for me as when @wDN{Utu} comes forth from his chamber, have them make its doorposts gleam brightly for me. Chant to him for me the holy song, the incantation sung in its chambers -- the Incantation of @wDN{Nudimmud}.”}”}
+
+#etcsl#altGrpo
+#etcsl#alt t1823.v2 t1823.v3
+#etcsl#alt t1823.v4 t1823.v5
+#etcsl#altGrpc
+
+@(208 = 208-217) @q{“Say whatever you will say to me, and I shall announce that message in the shrine @wTN{E-ana} as glad tidings to the scion of him with the glistening beard, whom his stalwart cow gave birth to in the mountain of the shining @fsux{me}, who was reared on the soil of @wSN{Aratta}, who was given suck at the udder of the good cow, who is suited for office in @wSN{Kulaba}, the mountain of great @fsux{me}, to @wRN{Enmerkar}, the son of @wDN{Utu}; I shall repeat it in his @fsux{ŋipar}, fruitful as a flourishing @fsux{meš} tree, to my king, the lord of @wSN{Kulaba}.”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t1823.q3 t1823.q4 t1823.q5
+#etcsl#linkGrpc
+
+@(218 = 218-226) When he had spoken thus to him, (the lord of @wSN{Aratta} replied): @q[lord of Aratta,messenger]{“Messenger, speak to your king, the lord of @wSN{Kulaba}, and say to him: @q[lord of Aratta,messenger]{“It is I, the lord suited to purification, I whom the huge heavenly neck-stock, the queen of heaven and earth, the goddess of the numerous @fsux{me}, holy @wDN{Inana}, has brought to @wSN{Aratta}, the mountain of the shining @fsux{me}, I whom she has let bar the entrance of the mountains as if with a great door. How then shall @wSN{Aratta} submit to @wSN{Unug}? @wSN{Aratta's} submission to @wSN{Unug} is out of the question!”} Say this to him.”}
+
+@(227 = 227-235) When he had spoken thus to him, the messenger replied to the lord of @wSN{Aratta}: @q[messenger,lord of Aratta]{“The great queen of heaven, who rides upon the awesome @fsux{me}, dwelling on the peaks of the bright mountains, adorning the dais of the bright mountains -- my lord and master, who is her servant, has had them instal her as the divine queen of @wTN{E-ana}. @wSN{Aratta} shall bow, O lord, in absolute submission! She has spoken to him thus, in brick-built @wSN{Kulaba}.”}
+
+@(236 = 236-241) Thereupon, the lord became depressed and deeply troubled. He had no answer; he was searching for an answer. He stared at his own feet, trying to find an answer. He found an answer and gave a cry. He bellowed the answer to the message like a bull to the messenger:
+
+@(242 = 242-273) @q[lord of Aratta,messenger]{“Messenger! Speak to your king, the lord of @wSN{Kulaba}, and say to him: @q[lord of Aratta,messenger]{“This great mountain range is a @fsux{meš} tree grown high to the sky; its roots form a net, and its branches are a snare. It may be a sparrow but it has the talons of an Anzud bird or of an eagle. The barrier of @wDN{Inana} is perfectly made and is impenetrable (?). Those eagle talons make the blood of the enemy run from the bright mountain. Although in @wSN{Aratta} there is weeping ……, water libations are offered and flour is sprinkled; on the mountain, sacrifices and prayers are offered in obeisance. With fewer than five or 10 men, how can mobilised @wSN{Unug} proceed against the @wGN{Zubi} mountains? Your king is heading in all haste against my military might, but I am equally eager for a contest. (As the proverb goes,) he who ignores a rival, does not get to eat everything up, like the bull which ignores the bull at its side. But he who acknowledges a contest can be the outright winner, like the bull which acknowledges the bull at its side -- or does he reject me in this contest? Like ……, …… can match no one -- or does he still reject me in this contest? Again, I have words to say to you, messenger: I have an artful proposal to make to you ……, may it get across to you ……. Repeat this to your master, to the lord of @wSN{Kulaba}, a lion lying on its paws in @wTN{E-ana}, a bull bellowing within it, within his @fsux{ŋipar}, fruitful as a flourishing @fsux{meš} tree. The mountain range is a warrior, …… high, like @wDN{Utu} going to his abode at twilight, like one from whose face blood drips; or like Nanna, who is majestic in the high heavens, like him whose countenance shines with radiance, who …… is like the woods in the mountains.”}”}
+
+@(274 = 274-280) @q{“@q{“Now if @wRN{Enmerkar} just makes straight for the …… of @wSN{Aratta}, for the benevolent protective spirit of the mountain of holy powers, for @wSN{Aratta}, which is like a bright crown of heaven, then I shall make my pre-eminence clear, and he need not pour barley into sacks, nor have it carted, nor have that barley carried into the settlements, nor place collectors over the labourers.”}”}
+
+@(281 = 281-293) @q{“@q{“But if he were actually to have barley poured into carrying-nets, and to have it loaded on the packasses at whose sides reserve donkeys have been placed, and were to have it heaped up in a pile in the courtyard of @wSN{Aratta} -- were he really to heap it up in such a manner; and were @wDN{Inana}, the luxuriance of the grain pile, who is the 'illuminator of the lands', the 'ornament of the settlements', who adorns the seven walls, who is the heroic lady, fit for battle, who, as the heroine of the battleground, makes the troops dance the dance of @wDN{Inana} -- were she actually to cast off @wSN{Aratta} as if to a carrion-pursuing dog, then in that case I should submit to him; he would indeed have made me know his preeminence; like the city, I in my smallness would submit to him.”} So say to him.”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t1823.q6 t1823.q8 t1823.q10
+#etcsl#link type=q t1823.q7 t1823.q9 t1823.q11
+#etcsl#linkGrpc
+
+@(294 = 294-307) After he had spoken thus to him, the lord of @wSN{Aratta} made the messenger repeat the message just as he himself had said it. The messenger turned on his thigh like a wild cow; like a sand fly he went on his way in the morning calm. He set foot joyfully in brick-built @wSN{Kulaba}. The messenger rushed to the great courtyard, the courtyard of the throne room. He repeated it word perfect to his master, the lord of @wSN{Kulaba}; he even bellowed at him like a bull, and @wRN{Enmerkar} listened to him like an ox driver. The king had him sit …… at his right side. As he turned his left side to him, he said: @q[Enmerkar,messenger]{“Does @wSN{Aratta} really understand the implications of his own stratagem?”}
+
+@(308 = 308-338) After day had broken and @wDN{Utu} had risen, the sun god of the Land lifted his head high. The king combined the @wWN{Tigris} with the @wWN{Euphrates}. He combined the @wWN{Euphrates} with the @wWN{Tigris}. Large vessels were placed in the open air, and he stood small vessels beside them, like lambs lying on the grass. …… vessels were placed in the open air adjacent to them. Then the king, @wRN{Enmerkar}, the son of @wDN{Utu}, placed wide apart the @fsux{ešda} vessels, which were of gold. Thereupon, the …… clay tablet, the pointed stylus of the assembly, the golden statue fashioned on a propitious day, beautiful @wDN{Nanibgal}, grown with a fair luxuriance, @wDN{Nisaba}, the lady of broad wisdom, opened for him her holy house of wisdom. He entered the palace of heaven, and became attentive. Then the lord opened his mighty storehouse, and firmly set his great @fsux{lidga} measure on the ground. The king removed his old barley from the other barley; he soaked the greenmalt all through with water; its lip …… the @fsux{ḫirin} plant. He narrowed the meshes of the carrying nets. He measured out in full (?) the barley for the granary, adding for the teeth of locusts. He had it loaded on the packasses at whose sides reserve donkeys were placed. The king, the lord of broad wisdom, the lord of @wSN{Unug}, the lord of @wSN{Kulaba}, despatched them directly to @wSN{Aratta}. He made the people go on to @wSN{Aratta} on their own, like ants out of crevices. Again the lord added instructions for the messenger going to the mountains, to @wSN{Aratta}:
+
+@(339 = 339-346) @q[Enmerkar,messenger]{“Messenger, speak to the lord of @wSN{Aratta} and say to him: @q[Enmerkar,messenger]{“The base of my sceptre is the divine power of magnificence. Its crown provides a protective shade over @wSN{Kulaba}; under its spreading branches holy @wDN{Inana} refreshes herself in the shrine @wTN{E-ana}. Let him snap off a splinter from it and hold that in his hand; let him hold it in his hand like a string of cornelian beads, a string of lapis lazuli beads. Let the lord of @wSN{Aratta} bring that before me.”} So say to him.”}
+
+@(347 = 347-365) After he had thus spoken to him, the messenger went on his way to @wSN{Aratta}; his feet raised the dust of the road, and made the little pebbles of the hills thud; like a dragon prowling the desert, he was unopposed. After the messenger reached @wSN{Aratta}, the people of @wSN{Aratta} stepped forward to admire the packasses. In the courtyard of @wSN{Aratta}, the messenger measured out in full (?) the barley for the granary, adding for the teeth of locusts. As if from the rains of heaven and the sunshine, @wSN{Aratta} was filled with abundance. As when the gods return to their seats (?), @wSN{Aratta's} hunger was sated. The people of @wSN{Aratta} covered their fields with the water-soaked greenmalt. Afterwards, couriers and @fsux{šatam} officials …….  @gap{2 lines unclear} 
+
+@(366 = 366-370) The citizens of @wSN{Aratta} were mindful; he revealed the matter to @wSN{Aratta}. Consequently, in @wSN{Aratta}, from the hand ……. …… his hand …… to the lord of @wSN{Unug}.
+
+@(371 = 371-372) @q[citizens of Aratta,self]{“As for us, in the direst hunger, in our direst famine, let us prostrate ourselves before the lord of @wSN{Kulaba}!”}
+
+@(373 = 373-377) The eloquent elders wrung their hands in despair, leaning against the wall; indeed, they were even placing their treasuries (?) at the disposal of the lord. His sceptre …… in the palace ……. Openly he spoke out the words in his heart:
+
+@(378 = 378-379) @q[messenger,lord of Aratta]{“Your father, my master, sent me to you. @wRN{Enmerkar}, the son of @wDN{Utu}, sent me to you.”}
+
+@(380 = 380-388) @q[lord of Aratta,messenger]{“What is it to me what your master has spoken? What is it to me what he has said?”} @q[messenger,lord of Aratta]{“This is what my master has spoken, this is what he has said: @q[Enmerkar,messenger]{“The base of my sceptre is the divine power of magnificence. Its crown provides a protective shade over @wSN{Kulaba}; under its spreading branches holy @wDN{Inana} refreshes herself in the shrine @wTN{E-ana}.Let him snap off a splinter from it and hold that in his hand; let him hold it in his hand like a string of cornelian beads, a string of lapis lazuli beads. Let the lord of @wSN{Aratta} bring that before me. So say to him.”}”}
+
+@(389 = 389-393) After he had spoken thus to him, for that reason he went inside the sanctuary …… and lay himself down in a fast. Day broke. He discussed the matter at length, he spoke unspeakable words; he circulated with this matter as if it were barley eaten by a donkey.
+
+@(394 = 394-396) And what did one speak to another? What did one say to another? What one said to another, so indeed it was.
+
+@(397 = 397-411) @q[lord of Aratta,messenger]{“Messenger, speak to your king, the lord of @wSN{Kulaba}, and say to him: @q[lord of Aratta,messenger]{“Let him put in his hand and contemplate a sceptre that is not of wood, nor designated as wood  @varh[t1823.v7]{-- not @fsux{ildag} wood, nor @fsux{šim-gig} wood, not cedar wood, nor cypress wood, not @fsux{ḫašur} cypress, nor palm wood, not hardwood, nor @fsux{zabalum} wood }@vart[t1823.v8,t1823.v7]{@varn{1 ms. has instead:} -- not @fsux{ildag} wood, nor @fsux{šim-gig} wood, not @fsux{ḫašur} cypress, nor palm wood, not cedar wood, nor @fsux{zabalum} wood, not cypress wood, nor hardwood }, not poplar as in a chariot, not reedwork as in whip handles; not gold, nor copper, not genuine @fsux{kugmea} metal nor silver, not cornelian, nor lapis lazuli -- let him snap off a splinter from that and hold it in his hand; let him hold it in his hand like a string of cornelian beads, a string of lapis lazuli beads. Let the lord of @wSN{Kulaba} bring that before me.”} So say to him.”}
+
+#etcsl#altGrpo
+#etcsl#alt t1823.v7 t1823.v8
+#etcsl#altGrpc
+
+@(412 = 412-443) After he had spoken to him thus, the messenger went off like a young donkey, braying as it is cut off from the chariot tongue; he trotted like an onager running on dry land, he filled his mouth with wind; he ran in one track (?) like a long-woolled sheep butting other sheep in its fury. He set foot joyfully in brick-built @wSN{Kulaba}. He transmitted the message word for word to his master, the lord of @wSN{Kulaba}. Now @wDN{Enki} gave @wRN{Enmerkar} wisdom, and the lord gave instructions to his chief steward. In his house ……, the king received ……. He wrapped it up like ……, and inspected it. He pounded …… with a pestle like herbs, he poured it like oil on the …… reed. From the sunlight it emerged into the shade, and from the shade it emerged into the sunlight. After five years, 10 years had passsed, he split the …… reed with an axe. The lord looked at it, pleased, and poured on …… fine oil, fine oil of the bright mountains. The lord placed the sceptre in the hands of the messenger going to the mountains. The messenger, whose journeying to @wSN{Aratta} was like a pelican over the hills, like a fly over the ground, who darted through the mountains as swiftly as carp swim, reached @wSN{Aratta}. He set foot joyfully in the courtyard of @wSN{Aratta}, and put the sceptre in ……. He …… and …… it. The lord of @wSN{Aratta}, eying the sceptre, which was shining awesomely in the sanctuary, his holy dwelling -- he, the lord, called to his @fsux{šatam} official:
+
+@(444 = 444-453) @q[lord of Aratta,catam official]{“@wSN{Aratta} is indeed like a slaughtered sheep! Its roads are inded like those of the rebel lands! Since holy @wDN{Inana} has given the primacy of @wSN{Aratta} to the lord of @wSN{Kulaba}, now it seems that holy @wDN{Inana} is looking with favour on her man who has sent a messenger to make the severe message as clear as the light of @wDN{Utu}. So in @wSN{Aratta} where can one go in this crisis? How long before the yoke-rope becomes bearable? As for us, in the direst hunger, in our direst famine, are we to prostrate ourselves before the lord of @wSN{Kulaba}?”}
+
+@(454 = 454-455) The lord of @wSN{Aratta} entrusted a message to the messenger as if it were an important tablet:
+
+@(457 = 456-461) @q[lord of Aratta,messenger]{“Messenger! Speak to your master, the lord of @wSN{Kulaba}, and say to him: @q[lord of Aratta,messenger]{“A champion who is not black-coloured, a champion who is not white-coloured, a champion who is not brown-coloured, a champion who is not red-coloured, a champion who is not yellow-coloured, a champion who is not multicoloured -- let him give you such a champion. My champion will compete against his champion, and let the more able one prevail!”} Say this to him.”}
+
+@(462 = 462-469) After he had spoken to him thus, the messenger set off, @fsux{ulum}, @fsux{alam}. In brick-built @wSN{Kulaba}, he was speechless, like a ……. He gazed like a goat on the mountain slopes, he …… as if it were a huge @fsux{mir} snake coming out from the brambles. In …… he lifted his head. …… of @wSN{Aratta} ……. From his seat, he addressed him like a raging torrent:
+
+@(470 = 470-499) @q[Enmerkar,messenger]{“Messenger! Speak to the lord of @wSN{Aratta} and say to him: @q[Enmerkar,messenger]{“A garment that is not black-coloured, a garment that is not white-coloured, a garment that is not brown-coloured, a garment that is not red-coloured, a garment that is not yellow-coloured, a garment that is not multicoloured -- I shall give him such a garment. My champion is embraced by @wDN{Enlil}. I shall send him such a champion. My champion will compete against his champion, and let the more able one prevail!”} Say this to him. Second, speak to him and say: @q[Enmerkar,messenger]{“Let him immediately pass from subterfuge ……. In his city, let them go before him like sheep. Let him, like their shepherd, follow behind them. As he goes, let the mountain of bright lapis lazuli humble itself before him like a crushed reed. And let them heap up its shining gold and silver in the courtyard of @wSN{Aratta} for @wDN{Inana} the lady of @wTN{E-ana}.”} Third, speak to him and say: @q[Enmerkar,messenger]{“Lest I make the people fly off from that city like a wild dove from its tree, lest I smash them like ……, lest I requite (?) them as if at a current market rate, lest I make …… them walk in ……, when he goes, let them take the mountain stones, and rebuild for me the great shrine @wSN{Eridug}, the @fsux{abzu}, the @wTN{E-nun}; let them adorn its architrave for me ……. Let them make its protection spread over the Land for me.”} His speaking ……. Recite his omen to him. At that time, the lord ……, …… on the throne daises and on the chairs, the noble seed, …….”}
+
+@(500 = 500-514) His speech was substantial, and its contents extensive. The messenger, whose mouth was heavy, was not able to repeat it. Because the messenger, whose mouth was tired, was not able to repeat it, the lord of @wSN{Kulaba} patted some clay and wrote the message as if on a tablet. Formerly, the writing of messages on clay was not established. Now, under that sun and on that day, it was indeed so. The lord of @wSN{Kulaba} inscribed the message like a tablet. It was just like that. The messenger was like a bird, flapping its wings; he raged forth like a wolf following a kid. He traversed five mountains, six mountains, seven mountains. He lifted his eyes as he approached @wSN{Aratta}. He stepped joyfully into the courtyard of @wSN{Aratta}, he made known the authority of his king. Openly he spoke out the words in his heart. The messenger transmitted the message to the lord of @wSN{Aratta}:
+
+@(515 = 515-517) @q[messenger,lord of Aratta]{“Your father, my master, has sent me to you; the lord of @wSN{Unug}, the lord of @wSN{Kulaba}, has sent me to you.”} @q[lord of Aratta,messenger]{“What is it to me what your master has spoken? What is it to me what he has said?”}
+
+@(518 = 518-535)  @q[messenger,lord of Aratta]{“This is what my master has spoken, this is what he has said. My king is like a huge @fsux{meš} tree, …… son of @wDN{Enlil}; this tree has grown high, uniting heaven and earth; its crown reaches heaven, its trunk is set upon the earth. He who is made to shine forth in lordship and kingship, @wRN{Enmerkar}, the son of @wDN{Utu}, has given me a clay tablet. O lord of @wSN{Aratta}, after you have examined the clay tablet, after you have learned the content of the message, say whatever you will say to me, and I shall announce that message in the shrine @wTN{E-ana} as glad tidings to the scion of him with the glistening beard, whom his stalwart cow gave birth to in the mountains of the shining @fsux{me}, who was reared on the soil of @wSN{Aratta}, who was given suck at the udder of the good cow, who is suited for office in @wSN{Kulaba}, the mountain of great @fsux{me}, to @wRN{Enmerkar}, the son of @wDN{Utu}; I shall repeat it in his @fsux{ŋipar}, fruitful as a flourishing @fsux{meš} tree, to my king, the lord of @wSN{Kulaba}.”}
+
+@(536 = 536-556) After he had spoken thus to him, the lord of @wSN{Aratta} received his kiln-fired tablet from the messenger. The lord of @wSN{Aratta} looked at the tablet. The transmitted message was just nails, and his brow expressed anger. The lord of @wSN{Aratta} looked at his kiln-fired tablet. At that moment, the lord worthy of the crown of lordship, the son of @wDN{Enlil}, the god Iškur, thundering in heaven and earth, caused a raging storm, a great lion, in ……. He was making the mountains quake ……, he was convulsing the mountain range ……; the awesome radiance …… of his breast; he caused the mountain range to raise its voice in joy. On @wSN{Aratta's} parched flanks, in the midst of the mountains, wheat grew of its own accord, and chickpeas also grew of their own accord; they brought the wheat which grew of its own accord into the granary of …… for the lord of @wSN{Aratta}, and heaped it up before him in the courtyard of @wSN{Aratta}. The lord of @wSN{Aratta} looked at the wheat. The messenger's eyes looked askance ……. The lord of @wSN{Aratta} called to the messenger:
+
+@(557 = 557-576) @q[lord of Aratta,messenger]{“@wDN{Inana}, the lady of all the lands, has not run away from the primacy of her city, @wSN{Aratta}, nor has she stolen it for @wSN{Unug}; she has not run away from her @wTN{E-zagin}, nor has she stolen it for the shrine @wTN{E-ana}; she has not run away from the mountain of the shining @fsux{me}, nor has she stolen it for brick-built @wSN{Kulaba}; she has not run away from the adorned bed, nor has she stolen it for the shining bed; she has not run away from the purification for the lord, nor has she stolen it for the lord of @wSN{Unug}, the lord of @wSN{Kulaba}. @wDN{Inana}, the lady of all the lands, has surrounded @wSN{Aratta}, on its right and left, for her like a rising flood. They are people whom she has separated from other people, they are people whom @wDN{Dumuzid} has made step forth from other people, who firmly establish the holy words of @wDN{Inana}. Let the clever champion and the …… of @wDN{Dumuzid} whirl about! Quickly, come now, ……. After the flood had swept over, @wDN{Inana}, the lady of all the lands, from her great love of @wDN{Dumuzid}, has sprinkled the water of life upon those who had stood in the face of the flood and made the Land subject to them.”}
+
+@(577 = 577-587) The clever champion, when he came, had covered his head with a colourful turban, and wrapped himself in a garment of lion skins.  @gap{4 lines unclear}  @wDN{Inana} ……. Her song was pleasing to her spouse, @wDN{Ama-ušumgal-ana}. Since that time, she has made it perfect in the holy ear, the holy ear of @wDN{Dumuzid}, has sung it and has let the words be known.
+
+@(588 = 588-610) When the old woman came to the mountain of the shining @fsux{me}, she went up to him like a maiden who in her day is perfect, painted her eyes with kohl, wrapped herself in a white garment, came forth with the good crown like the moonlight. She arranged the …… on her head. She made @wRN{Enmerkar}, her spouse, occupy the throne-dais with her. She raised up ……, and indeed, for @wSN{Aratta}, the ewes and their lambs now multiply; indeed, for @wSN{Aratta}, the mother goats and their kids multiply; indeed, for @wSN{Aratta}, the cows and their calves multiply; indeed, for @wSN{Aratta}, the donkey mares and their black, swift-footed foals multiply. In @wSN{Aratta}, they say together: @q[citizens of Aratta,self]{“Let them heap up and pile up for the grain piles; the abundance is truly your abundance.”} After having made …… for the lord of @wSN{Aratta}, let him ……. He will ……. He came forth ……, he set right for her.  @gap{3 lines missing} 
+
+@(611 = 611-625) (An unidentified person speaks:) @q[unidentified person,lord of Aratta]{“…… befitting ……, …… the @fsux{ilu} song of the heart, …… your abundance in his ……. @wDN{Enlil} has granted you ……, and may …… be made known. …… his father was not luxuriantly fertile, and poured forth no semen. @wDN{Enlil}, king of all the lands ……. In accordance with the tasks which he has now established, the people of @wSN{Aratta} …… their task of plying gold, silver and lapis lazuli; the men who …… golden fruit, fruit trees, with their figs and grapes, shall heap the fruit up in great mounds ……; and shall dig out the flawless lapis lazuli from the roots of the trees, and shall remove the succulent part of the reeds from the crowns of the trees, and then shall heap them up in a pile in the courtyard of @wTN{E-ana} for @wDN{Inana}, the lady of @wTN{E-ana}.”}
+
+@(626 = 626-636) @q{“Come, my king, I shall offer you advice: let my counsel be heeded. I shall speak words to you; let them be heard. Let the people choose a man …… of the foreign lands, and let the people of @wSN{Aratta} speak ……. When I go from here, the ever-sparkling lady gives me my kingship. @wDN{Ŋeštin-ana} ……. In that city ……, festivals were not ……. Daily …….”}  @gap{approx. 6 lines missing} 
+
+#etcsl#linkGrpo
+#etcsl#link type=q t1823.q12 t1823.q13
+#etcsl#linkGrpc
+
+

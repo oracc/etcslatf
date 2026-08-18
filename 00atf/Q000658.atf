@@ -1,0 +1,318 @@
+&Q000658 = A song of Inana and Dumuzid (Dumuzid-Inana B1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.28
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.28&display=Crit&charenc=gcirc#
+
+@div kirugu A
+
+A.1. ud he₂-ŋal₂-la na-nam ŋi₆ nam-he₂ na-nam
+#lem: ud[sun]; heŋal[plenty]; me[be]; ŋi[night]; namhe[abundance]; me[be]
+#etcsl: line-id=A.1
+
+A.2. itid giri₁₇-zal na-nam mu asila na-nam
+#lem: itud[moon]; kirizal[joy]; me[be]; mu[year]; asilala[joy]; me[be]
+#etcsl: line-id=A.2
+
+A.3. ud-ba {lu₂}sipad-de₃ šag₄ hul₂-la ak-de₃
+#lem: ud[sun]; sipad[shepherd]; šag[heart]; hul[rejoice]; ak[do]
+#etcsl: line-id=A.3
+
+A.4. {[e₂]}tur₃-ra du-de₃ ur₅-bi zalag-ge-de₃
+#lem: tur[animal stall]; du[go]; ur[liver]; zalag[bright]
+#etcsl: line-id=A.4
+
+A.5. amaš# kug-ga ud-gin₇ kar₂-kar₂-re-de₃
+#lem: amaš[sheepfold]; kug[pure]; ud[sun]; kar[blow]
+#etcsl: line-id=A.5
+
+A.6. %e su₈#-ba %s {d}dumu-zid-de₃ šag₄ kug-ga na-an-tum₄
+#lem: subad[shepherd]N; Dumuzid[1]DN; šag[heart]; kug[pure]; tum[bring]
+#etcsl: line-id=A.6
+
+A.7. %e ga-ša-an %s an-na %e ga-ša-an %s ki-a-ra!(KE₄)
+#lem: gašan[lady]N; an[sky]; gašan[lady]N; ki[place]
+#etcsl: line-id=A.7
+
+A.8. gu₃ mu-na-de₂-e ŋalga umuš-a-ke₄
+#lem: gu[voice]; de[pour]; ŋalga[(fore)thought]; umuš[consideration]
+#etcsl: line-id=A.8
+
+A.9. {d}ama-ušumgal-an-na inim mu-un-na-ni-ib-be₂
+#lem: Amaʾušumgalanak[1]DN; inim[word]; e[speak]
+#etcsl: line-id=A.9
+
+A.10. nitalam a zal ki a-ri-a-še₃ ga-de₆
+#lem: ŋidlam[(equal ranking) spouse]; a[water]; zal[pass time]; ki[place]; eria[wasteland]; de[carry]
+#etcsl: line-id=A.10
+
+A.11. {e₂}tur₃ daŋal-la-ŋu₁₀ en₃-bi ga-me-ši-tar
+#lem: tur[animal stall]; daŋal[wide]; en[cvne]; tar[cut]
+#etcsl: line-id=A.11
+
+A.12. amaš kug-ga-ŋu₁₀ a-ra₂-bi ga-me-ši-zu
+#lem: amaš[sheepfold]; kug[pure]; ara[way]; zu[know]
+#etcsl: line-id=A.12
+
+A.13. udu-ŋu₁₀ ka u₂-gu₇ ga-me-ši-ŋar
+#lem: udu[sheep]; kag[mouth]; ugu[food]; ŋar[put]
+#etcsl: line-id=A.13
+
+A.14. a naŋ dug₃-ga LI-bi ga-me-ši-kiŋ₂
+#lem: a[water]; naŋ[drink]; dug[good]; X; kiŋ[seek]
+#etcsl: line-id=A.14
+
+A.15. nitalam umuš-bi ba-an-na-dug₄
+#lem: ŋidlam[(equal ranking) spouse]; umuš[consideration]; dug[speak]
+#etcsl: line-id=A.15
+
+A.16. ŋalga-a-ni e-ne-ra mu-un-na-an-šum₂
+#lem: ŋalga[(fore)thought]; ane[he]; šum[give]
+#etcsl: line-id=A.16
+
+A.17. nitalam-ni tuš-bi-še₃ im-ma-an-gi₄
+#lem: ŋidlam[(equal ranking) spouse]; tuš[sit (down)]; gi[turn]
+#etcsl: line-id=A.17
+
+A.18. kug %e ga-ša-an-na-ke₄ %s e₂-tur₃-kalam-ma-ke₄
+#lem: kug[purify]; Gašanana[1]DN; Eturkalamak[1]TN
+#etcsl: line-id=A.18
+
+A.19. X mu-ni-in-kur₉ niŋ₂-me-ŋar# ba-an-dab₅
+#lem: X; kur[enter]; niŋmeŋar[silence]; dab[seize]
+#etcsl: line-id=A.19
+
+A.20. %e mu-gi₁₇-ib ga-ša-an-an-na %s a-ŋi₆-gin₇ ba-lu₃
+#lem: mugib[priestess]N; Gašanana[1]DN; aŋi[wave]; lu[mix]
+#etcsl: line-id=A.20
+
+@div trailer 
+
+A.21. ki-ru-gu₂ 1-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.21
+
+@end trailer
+
+@end kirugu
+
+@div kirugu B
+
+B.22. ud-ba {lu₂}sipad-de₃ edin-še₃ ba-ra-e₃
+#lem: ud[sun]; sipad[shepherd]; eden[plain]; e[leave]
+#etcsl: line-id=B.22
+
+B.23. ŋuruš {d}dumu-zid-de₃ {e₂}tur₃-ra ga DU
+#lem: ŋuruš[young adult male]; Dumuzid[1]DN; tur[animal stall]; ga[milk]; X
+#etcsl: line-id=B.23
+
+B.24. nin₉-a-ni %e ga-ša-an %s dub-sar-ke₄
+#lem: nin[sister]; gašan[lady]N; dubsar[scribe]
+#etcsl: line-id=B.24
+
+B.25. an-da ki-bi-da-še₃ ba-ši-re₇
+#lem: an[sky]; ki[place]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=B.25
+
+B.26. amaš kug-ga ki udu du-ru šag₄-ba
+#lem: amaš[sheepfold]; kug[pure]; ki[place]; udu[sheep]; dur[sit]; šag[heart]
+#etcsl: line-id=B.26
+
+B.27. sipad-de₃ nin₉-a-ni ki-bi ba-an-su-ne₂-eš₂
+#lem: sipad[shepherd]; nin[sister]; ki[place]; sun[plural stem of kur⟦to enter⟧]
+#etcsl: line-id=B.27
+
+B.28. til₃-le-da-an-ni sipad-de₃ til₃-le-da-an-ni
+#lem: til[live (of a single person)]; sipad[shepherd]; til[live (of a single person)]
+#etcsl: line-id=B.28
+
+B.29. nin₉-a-ni nar en₃-du zu-a tuš-ba til₃-le-da-an-ni
+#lem: nin[sister]; nar[musician]; endu[song]; zu[know]; tuš[sit (down)]; til[live (of a single person)]
+#etcsl: line-id=B.29
+
+B.30. {e₂}tur₃-ra he₂-ŋal₂ im-mi-in-si
+#lem: tur[animal stall]; heŋal[plenty]; si[fill]
+#etcsl: line-id=B.30
+
+B.31. amaš-e nam-he₂-a i₃-zal-e
+#lem: amaš[sheepfold]; namhe[abundance]; zal[pass time]
+#etcsl: line-id=B.31
+
+B.32. i₃-gu₇-ne u₂ sikil i₃-gu₇-ne
+#lem: gu[eat]; u[plant(s)]; sikil[purify]; gu[eat]
+#etcsl: line-id=B.32
+
+B.33. i₃ sur-sur-ra lal₃ i₃-nun-na-ke₄
+#lem: i[oil]; sur[press]; lal[syrup]; inun[ghee]
+#etcsl: line-id=B.33
+
+B.34. i₃-naŋ-ne {kaš}ulušin₃ kurun
+#lem: naŋ[drink]; ulušin[date-sweetened emmer-beer]; kurun[beer]
+#etcsl: line-id=B.34
+
+B.35. {d}dumu-zid nin₉-a-ni šag₄ hul₂-la zal-e-de₃
+#lem: Dumuzid[1]DN; nin[sister]; šag[heart]; hul[rejoice]; zal[pass time]
+#etcsl: line-id=B.35
+
+B.36. %e su₈-[ba] %s {d}dumu-zid-de₃ šag₄ kug-ga na-an-tum₄
+#lem: subad[shepherd]N; Dumuzid[1]DN; šag[heart]; kug[pure]; tum[bring]
+#etcsl: line-id=B.36
+
+B.37. X X mu-un-ši-la₂ tur₃-ta ba-ši-in-kur₉
+#lem: X; X; la[hang]; tur[animal stall]; kur[enter]
+#etcsl: line-id=B.37
+
+B.38. [...] mu-un-na-ni#-in-de₆ u₈ sila₄-bi-da
+#lem: X; de[carry]; u[sheep]; sila[lamb]
+#etcsl: line-id=B.38
+
+B.39. sila₄ ama-bi-še₃# u₃-mu-un-na-an-kud
+#lem: sila[lamb]; ama[mother]; kud[cut]
+#etcsl: line-id=B.39
+
+B.40. ba-ši-in-u₅ X ŋiš mi-ni-in-du#
+#lem: u[ride]; X; ŋeš[tree]; du[go]
+#etcsl: line-id=B.40
+
+B.41. sipad-de₃ nin₉-a-ni# gu₃ mu-un-na-de₂-e
+#lem: sipad[shepherd]; nin[sister]; gu[voice]; de[pour]
+#etcsl: line-id=B.41
+
+B.42. nin₉-ŋu₁₀ igi bar-ra# sila₄ ama-ni# X a#-nam mu-un-ši-kiŋ₂#-[kiŋ₂]
+#lem: nin[sister]; igi[eye]; bar[place outside]; sila[lamb]; ama[mother]; X; ana[what?]; kiŋ[seek]
+#etcsl: line-id=B.42
+
+B.43. nin₉-a-ni mu-un-na#-[ni-ib-gi₄-gi₄]
+#lem: nin[sister]; gi[turn]
+#etcsl: line-id=B.43
+
+B.44. ama-a-ni murgu-na u₃-mu-un-ši-[u₅] i-lu mu-un-du-du
+#lem: ama[mother]; murgu[shoulder]; u[ride]; ilu[lament]; du[go]
+#etcsl: line-id=B.44
+
+B.45. tukum-bi murgu-na u₃-mu-un#-[ši-u₅] i-lu mu-un-du-du
+#lem: tukumbi[if]; murgu[shoulder]; u[ride]; ilu[lament]; du[go]
+#etcsl: line-id=B.45
+
+B.46. DU a-na-am₃ ŋiš-a-ni mu-un-[du₃ zal]-le#-eš a-ni mi-ni-in-si
+#lem: X; ana[what?]; ŋeš[penis]; du[build]; zal[pass time]; a[water]; si[fill]
+#etcsl: line-id=B.46
+
+B.47. maš₂ nin₉-a-ni [u₃]-mu#-un-ši-gud
+#lem: maš[goat]; nin[sister]; gud[jump (on)]
+#etcsl: line-id=B.47
+
+B.48. ba-ši-in-u₅ ŋiš# mi-ni-in-[du₃]
+#lem: u[ride]; ŋeš[penis]; du[build]
+#etcsl: line-id=B.48
+
+B.49. sipad-de₃ nin₉-a-ni [gu₃] mu-un-na-de₂-e
+#lem: sipad[shepherd]; nin[sister]; gu[voice]; de[pour]
+#etcsl: line-id=B.49
+
+B.50. nin₉-ŋu₁₀ igi bar-ra maš₂-e nin₉-[a-ni] a-na-am₃ mu-un-ši-kiŋ₂-kiŋ₂
+#lem: nin[sister]; igi[eye]; bar[place outside]; maš[goat]; nin[sister]; ana[what?]; kiŋ[seek]
+#etcsl: line-id=B.50
+
+B.51. nin₉-a-ni šag₄ nu-dab₅-ba-na [mu]-un-na-ni-ib-gi₄-gi₄
+#lem: nin[sister]; šag[heart]; dab[seize]; gi[turn]
+#etcsl: line-id=B.51
+
+B.52. nin₉-a-ni murgu-na u₃-mu#-[un-ši-u₅] i-lu mu-un-du-du
+#lem: nin[sister]; murgu[shoulder]; u[ride]; ilu[lament]; du[go]
+#etcsl: line-id=B.52
+
+B.53. tukum-bi murgu-na u₃-mu-un-[ši-u₅] i-lu mu-un-du-du
+#lem: tukumbi[if]; murgu[shoulder]; u[ride]; ilu[lament]; du[go]
+#etcsl: line-id=B.53
+
+B.54. %e te-am₃ %s a ri-a-ni gal₄-[la] mi-ni-in-su-su
+#lem: ta[what?]QP; a[water]; ri[impose]; gala[female genitals]; sud[distant]
+#etcsl: line-id=B.54
+
+B.55. ŋar-ra šeš-ŋu₁₀ su-lum %e ma-ra %s e-ne bad ba-u₅
+#lem: ŋaʾe[I]; šeš[brother]; sulum[contempt]; mar[place]V/t; ene[pleasure?]; bad[open]; u[ride]
+#etcsl: line-id=B.55
+
+B.56. a-ba-a MI ŠA AM mi-ni-in-tuku-e en-na a-ga-bi-še₃
+#lem: aba[who?]; X; X; X; tuku[acquire]; enna[until]; aga[rear]
+#etcsl: line-id=B.56
+
+@div trailer 
+
+B.57. ki-ru-gu₂ 2-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=B.57
+
+@end trailer
+
+@end kirugu
+
+@div unknown C
+
+C.58. sipad-de₃ su nu-um-zig₃# UR SU la-ba-an-SU
+#lem: sipad[shepherd]; su[flesh]; zig[rise]; X; X; X
+#etcsl: line-id=C.58
+
+C.59. nin₉-a-ni gu₃ mu-un-na-de₂-e
+#lem: nin[sister]; gu[voice]; de[pour]
+#etcsl: line-id=C.59
+
+$ (unknown no. of lines missing)
+@end unknown
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	kirugu
+
+
+@(A.1 = 1-9) It was in the days of abundance, it was in the nights of plenty; it was in the months of luxuriance, it was in the years of rejoicing. In those days the shepherd, the shepherd @wDN{Dumuzid} decided in his holy heart to make his heart joyful, to go to the cattle-pen, to brighten its mood, to make the holy sheepfold shine like the day. He of decision and resolve spoke to the queen of heaven, the queen of earth. @wDN{Ama-ušumgal-ana} addressed words to her:
+
+@(A.10 = 10-14) @q[Dumuzid,Inana]{“Wife, I am going to bring flowing water to the arid (?) place. I am going to look after my spacious cattle-pen. I am going to find out the condition of the holy sheepfold. I am going to feed my sheep. I am going to seek out the …… of fresh water for drinking.”}
+
+@(A.15 = 15-20) He told his wife of this resolve; he presented his decision to her. His wife returned to their dwelling; holy @wDN{Inana} brought …… into @wTN{E-tur-kalama}. She was dumbfounded; the mistress @wDN{Inana} was thrown into confusion as if by a flood wave.
+
+#trailer rubric	kirugu
+
+
+@(A.21 = 21) 1st @fsux{kirugu}.
+
+#lg B	kirugu
+
+
+@(B.22 = 22-34) Then the shepherd went out into the desert. The young man @wDN{Dumuzid} …… in the cattle-pen. His sister, the queen of scribes, went to …… heaven and earth. The shepherd and his sister entered there into the holy sheepfold inside which the sheep live. He was living there, the shepherd was living there; and his sister, the singer expert in song, was living in that dwelling. Abundance filled the cattle-pen, plenty flowed in the sheepfold. They ate, they ate pure food -- pressed oil, honey and ghee. They drank emmer beer and strong liquor.
+
+@(B.35 = 35-41) @wDN{Dumuzid}, the shepherd @wDN{Dumuzid} decided in his holy heart to make the heart of his sister overflow with joy. He fastened …… and brought them into the cow-pen. He brought …… for her, a ewe with its lamb. The lamb jumped up on its mother, and then mounted her and copulated with her. The shepherd said to his sister:
+
+@(B.42 = 42-46) @q[Dumuzid,Jectin-ana]{“Look, my sister! What is the lamb seeking from his mother?”} His sister replied to him: @q[Jectin-ana,Dumuzid]{“He is mounting on the back of his mother, and making her sing out.”} (@wDN{Dumuzid} speaks:) @q[Dumuzid,Jectin-ana]{“If he is mounting on her back, and making her sing out, what it really is ……: he is copulating with her and filling her to overflowing with his semen.”}
+
+@(B.47 = 47-56) The kid jumped up on his sister and then mounted her and copulated with her. The shepherd said to his sister: @q[Dumuzid,Jectin-ana]{“Look, my sister! What is the kid seeking from his sister?”} His sister, not grasping the meaning, replied to him: @q[Jectin-ana,Dumuzid]{“He is mounting on the back of his sister, and making her sing out.”} (@wDN{Dumuzid} speaks:) @q[Dumuzid,Jectin-ana]{“If he is mounting on her back, and making her sing out, what it really is: he is filling her genitals with his ejaculated semen.”} @q[Jectin-ana,Dumuzid]{“My brother, …… to me derisively …… mount! Who will cause …… to have …… in the future?”}
+
+#trailer rubric	kirugu
+
+
+@(B.57 = 57) 2nd @fsux{kirugu}.
+
+#lg C	unknown
+
+
+@(C.58 = 58-59) The shepherd was not frightened (?), and did not ……. He said to his sister:  @gap{unknown no. of lines missing} 
+
+
+

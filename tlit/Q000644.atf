@@ -1,0 +1,91 @@
+&Q000644 = A šir-namšub to Inana (Dumuzid-Inana M)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.13
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.13&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. u₄-ru-u₄-ru [...]
+#lem: X; X
+#etcsl: line-id=A.1
+
+A.2. %e aŋ₂ %e ga-ša-an-an-ka %s u₄-ru [...]
+#lem: aŋ[thing]N; Gašanana[1]DN; X; X
+#etcsl: line-id=A.2
+
+A.3. %e aŋ₂ %s me ur₃-ru# u₄-ru [...]
+#lem: aŋ[thing]N; me[Being]; ur[gather]; X; X
+#etcsl: line-id=A.3
+
+A.4. %e aŋ₂ nu-nus %s zid-ŋu₁₀# [...]
+#lem: aŋ[thing]N; nunus[woman]N; zid[right]; X
+#etcsl: line-id=A.4
+
+A.5. ki-sikil# zid-ŋu₁₀# [...]
+#lem: kisikil[young woman]; zid[right]; X
+#etcsl: line-id=A.5
+
+A.6. he₂-nun# [...] {d}dumu-zid-da# [...]
+#lem: henun[plenty]; X; Dumuzid[1]DN; X
+#etcsl: line-id=A.6
+
+A.7. {d}ušumgal-an-na# [...]
+#lem: Ušumgalana[1]DN; X
+#etcsl: line-id=A.7
+
+A.8. %e aŋ₂ ga-ša-an %s gu [...]
+#lem: aŋ[thing]N; gašan[lady]N; gu[cord]; X
+#etcsl: line-id=A.8
+
+A.9. %e ga-ša#-an-e₂-gal-la# [...]
+#lem: Gašanegala[1]DN; X
+#etcsl: line-id=A.9
+
+A.10. [...] X X IŠ [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.10
+
+$ (approx. 6 lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] X GAN [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.2
+
+B.3. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.3
+
+B.4. [...] X X EN X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.4
+
+@div trailer 
+
+B.5. šir₃-nam-šub-ba-kam#
+#lem: širnamšubak[subscript]
+#etcsl: line-id=B.5
+
+B.6. šir₃-nam-[šub ...]
+#lem: širnamšubak[subscript]; X
+#etcsl: line-id=B.6
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

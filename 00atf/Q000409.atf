@@ -1,0 +1,323 @@
+&Q000409 = An adab (?) to Utu for Šulgi (Šulgi Q)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.17
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.17&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+$ (unknown no. of lines missing)
+A.1. šul {d}[utu ... im]-ma-an-ri
+#lem: šul[youth]; Utu[1]DN; X; ri[impose]
+#etcsl: line-id=A.1
+
+A.2. ur₅-ra-aš-ta X [...] mu#-e-tum₃-tum₃
+#lem: Uraš[1]DN; X; X; tum[bring]
+#etcsl: line-id=A.2
+
+A.3. še-er-zid piriŋ gal# [...] X ur#-saŋ <an>-šag₄ kug-ta e₃!(DU)-a
+#lem: šerzid[radiance]; piriŋ[lion]; gal[big]; X; X; ursaŋ[warrior]; anšag[the interior of heaven]; kug[pure]; e[leave]
+#etcsl: line-id=A.3
+
+A.4. ud me-lem₄-ni kalam-ma bi₂-dul₄ ni₂ gal mu-da-ri
+#lem: ud[storm]; melim[frightening splendor]; kalam[the Land (of Sumer)]; dul[cover]; ni[fear]; gal[big]; ri[impose]
+#etcsl: line-id=A.4
+
+A.5. {d}utu lugal niŋ₂-si-sa₂ a zid-de₃-eš₂ tum₂-ma
+#lem: Utu[1]DN; lugal[king]; niŋsisa[justice]; a[water]; zid[right]; tum[suitable]
+#etcsl: line-id=A.5
+
+A.6. šen-na dalla mu-na-ni-in-e₃ sipad zid šul-gi-ke₄
+#lem: šen[battle]; dalla[(to be) bright]; e[leave]; sipad[shepherd]; zid[right]; Šulgir[1]RN
+#etcsl: line-id=A.6
+
+A.7. am gal an kug-ta šul {d}utu izi-ŋar-gin₇ ŋa₂-ŋa₂ ud kalam-ma igi-ŋal₂
+#lem: am[wild bull]; gal[big]; an[sky]; kug[pure]; šul[youth]; Utu[1]DN; iziŋar[torch]; ŋar[put]; ud[storm]; kalam[the Land (of Sumer)]; igiŋal[wise]
+#etcsl: line-id=A.7
+
+A.8. [kur]-kur-ra me-lem₄ ur₅-ra-aš
+#lem: kur[mountain(s)]; melim[frightening splendor]; Uraš[1]DN
+#etcsl: line-id=A.8
+
+A.9. diŋir si sa₂ <{d}>a-nun-ke₄-ne ušumgal# kug sud-sud
+#lem: diŋir[deity]; si[horn]; sa[equal]; Anunak[1]DN; ušumgal[great dragon]; kug[purify]; sud[distant]
+#etcsl: line-id=A.9
+
+A.10. dumu-saŋ {d}suen-ne₂ mi₂ dug₄-ga en dug₄-ga tud-da
+#lem: dumusaŋ[first-born]; Suen[1]DN; mi[cvne]; dug[speak]; en[lord]; dug[speak]; utud[give birth (to)]
+#etcsl: line-id=A.10
+
+A.11. šul-gi-ra {d}utu-u₃ nam#-lugal kalam-ma mu-na-an-šum₂
+#lem: Šulgir[1]RN; Utu[1]DN; namlugal[kingship]; kalam[the Land (of Sumer)]; šum[give]
+#etcsl: line-id=A.11
+
+A.12. piriŋ# zag 3-gin₇ kur u₃-mu-tuku₄-tuku₄ ki-bal mu-hul#-X
+#lem: piriŋ[lion]; zag[side]; n; kur[mountain(s)]; tuku[rock]; kibala[rebel land]; hulu[bad]
+#etcsl: line-id=A.12
+
+A.13. lu₂ gu₂-erim₂-[ŋal₂] {d}nanna-a-ka!# gu₂ X [...]
+#lem: lu[person]; guʾerimŋal[hostile]; Nanna[1]DN; gu[neck]; X; X
+#etcsl: line-id=A.13
+
+A.14. [...] X saŋ-ŋa₂ [...] X gal diŋir-re-[ne]
+#lem: X; X; saŋ[head]; X; X; gal[big]; diŋir[deity]
+#etcsl: line-id=A.14
+
+A.15. [...]-a-ni [...] X RA aŋ₂# [...]
+#lem: X; X; X; X; aŋ[measure]; X
+#etcsl: line-id=A.15
+
+A.16. [...] E [...]-ge-eš [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.16
+
+A.17. {d}utu sipad šag₄# [...] X-ni-ir [...]
+#lem: Utu[1]DN; sipad[shepherd]; šag[heart]; X; X; X
+#etcsl: line-id=A.17
+
+A.18. šul-gi niŋ₂-si-sa₂# [...]
+#lem: Šulgir[1]RN; niŋsisa[justice]; X
+#etcsl: line-id=A.18
+
+A.19. gug-kal-la AN# [...]
+#lem: gugkal[famine]; X; X
+#etcsl: line-id=A.19
+
+A.20. dumu {d}nin-sumun₂# [...]
+#lem: dumu[child]; Ninsumunak[1]DN; X
+#etcsl: line-id=A.20
+
+A.21. uŋ₃-e ni₂ gal# [...] hu-mu-ra-[...]
+#lem: uŋ[people]; ni[fear]; gal[big]; X; X
+#etcsl: line-id=A.21
+
+A.22. X šu dug₄-ga X [...] na#-me lu₂ [...]
+#lem: X; šu[hand]; dug[speak]; X; X; name[any]; lu[person]; X
+#etcsl: line-id=A.22
+
+@div trailer 
+
+A.23. [sa]-gid₂-da-am₃#
+#lem: sagida[musical notation]
+#etcsl: line-id=A.23
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.24. {d#}utu [...] lugal-ra nam dug₃ tar-mu#-[ni-ib]
+#lem: Utu[1]DN; X; lugal[king]; nam[fate]; dug[good]; tar[cut]
+#etcsl: line-id=B.24
+
+@div trailer 
+
+B.25. [ŋiš-gi₅-ŋal₂ sa]-gid₂-da-kam
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#etcsl: line-id=B.25
+
+@end trailer
+
+@end jicgijal
+
+@div sa-ŋara C
+
+C.26. [...] X mah-am₃
+#lem: X; X; mah[great]
+#etcsl: line-id=C.26
+
+C.27. [...]-na-gin₇ [...] bi₂#-i₃-sag₉-sag₉
+#lem: X; X; sag[good]
+#etcsl: line-id=C.27
+
+C.28. [...] sipad šul-gi piriŋ# [...] pad₃ ki-bal-a X [...]
+#lem: X; sipad[shepherd]; Šulgir[1]RN; piriŋ[lion]; X; pad[find]; kibala[rebel land]; X; X
+#etcsl: line-id=C.28
+
+C.29. iri en-na nu-huŋ ni₂#-bi-a [...]
+#lem: iri[city]; enna[until]; huŋ[pacify]; ni[self]; X
+#etcsl: line-id=C.29
+
+C.30. šul {d}utu uŋ₃ u₈-gin₇ lu-[a ...]
+#lem: šul[youth]; Utu[1]DN; uŋ[people]; u[sheep]; lu[abundant]; X
+#etcsl: line-id=C.30
+
+C.31. eš₃ kug za-gin₃-na hul₂-la-da X-ba hu-mu-[...]
+#lem: eš[shrine]; kug[metal]; zagin[lapis lazuli]; hul[rejoice]; X; X
+#etcsl: line-id=C.31
+
+C.32. a-ab-[...] saŋ il₂ gal-še₃ [...]
+#lem: X; saŋ[head]; il[raise]; gal[big]; X
+#etcsl: line-id=C.32
+
+C.33. a#-ab#-[...] ab₂-šilam-gin₇ saŋ il₂# [...]
+#lem: X; abšilam[cow]; saŋ[head]; il[raise]; X
+#etcsl: line-id=C.33
+
+C.34. [...] X-ni hu-mu-ra-ab#-[...]
+#lem: X; X; X
+#etcsl: line-id=C.34
+
+C.35. [...] ni₂-bi-a pa hu-mu#-[X-e₃]
+#lem: X; ni[self]; pa[branch]; e[leave]
+#etcsl: line-id=C.35
+
+C.36. [...] X BI [...]
+#lem: X; X; X; X
+#etcsl: line-id=C.36
+
+C.37. šul-gi# {d}utu# [...]
+#lem: Šulgir[1]RN; Utu[1]DN; X
+#etcsl: line-id=C.37
+
+C.38. tir šim! {ŋiš}erin!-na-da [...]
+#lem: tir[forest]; šim[aromatic substance]; eren[cedar]; X
+#etcsl: line-id=C.38
+
+C.39. lugal en an-na me-lem₄ sud₄-sud₄# [...]
+#lem: lugal[king]; en[lord]; an[sky]; melim[frightening splendor]; sud[distant]; X
+#etcsl: line-id=C.39
+
+C.40. barag mah an-na ki kug-ga-ta ud X [...]
+#lem: barag[sanctum]; mah[great]; an[sky]; ki[place]; kug[pure]; ud[sun]; X; X
+#etcsl: line-id=C.40
+
+C.41. en-ne₂ kur-kur-ra an kug-ta si mah [...]
+#lem: en[lord]; kur[mountain(s)]; an[sky]; kug[pure]; simuš[brilliance]; mah[great]; X
+#etcsl: line-id=C.41
+
+C.42. šul {d}utu niŋ₂ nam-sikil-la-zu-ta mu-na-da-lug-ga
+#lem: šul[youth]; Utu[1]DN; niŋ[thing]; namsikil[purity]; lug[live]
+#etcsl: line-id=C.42
+
+C.43. nam#-til₃ niŋ₂ dug₃ ha-la-zu he₂-am₃ dumu {d}nin-sumun₂-ka
+#lem: namtil[life]; niŋ[thing]; dug[good]; hala[inheritance share]; me[be]; dumu[child]; Ninsumunak[1]DN
+#etcsl: line-id=C.43
+
+@div trailer 
+
+C.44. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=C.44
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal D
+
+D.45. šul {d}utu sipad šag₄-ge bi₂-i₃-pad₃
+#lem: šul[youth]; Utu[1]DN; sipad[shepherd]; šag[heart]; pad[find]
+#etcsl: line-id=D.45
+
+D.46. šul-gi sipad zid lugal mu he₂-ŋal₂-la₂ nam-še₃ tar-ra-am₃
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; lugal[king]; mu[year]; heŋal[plenty]; nam[fate]; tar[cut]
+#etcsl: line-id=D.46
+
+D.47. sipad zid {d}utu-u₃ nam tar-ra-ra
+#lem: sipad[shepherd]; zid[right]; Utu[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=D.47
+
+D.48. {d}en-lil₂-le eš₃-e nibru{ki}-ta saŋ-e-eš₂ mu-ni-rig₇
+#lem: Enlil[1]DN; eš[shrine]; Nibru[1]SN; saŋ[head]; rig[donate]
+#etcsl: line-id=D.48
+
+@div trailer 
+
+D.49. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#etcsl: line-id=D.49
+
+@end trailer
+
+@end jicgijal
+
+@div unknown E
+
+E.50. en me gal-gal-la {d}nin-gal-e tud-da
+#lem: en[lord]; me[Being]; gal[big]; Ningal[1]DN; utud[give birth (to)]
+#etcsl: line-id=E.50
+
+E.51. šul# {d}utu# en# me# gal-gal-la {d}nin-gal-e tud-da
+#lem: šul[youth]; Utu[1]DN; en[lord]; me[Being]; gal[big]; Ningal[1]DN; utud[give birth (to)]
+#etcsl: line-id=E.51
+
+E.52. [...] X pad₃#
+#lem: X; X; pad[find]
+#etcsl: line-id=E.52
+
+$ (unknown no. of lines missing)
+@end unknown
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+#lg A	sa-gida
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-11) Youthful @wDN{Utu} ……, …… from @wDN{Uraš}; brilliant light, great lion, ……, hero emerging from the holy interior of heaven, storm whose splendour covers the Land and is laden with great awesomeness; @wDN{Utu}, king of justice that befits the true offspring, made @wRN{Šulgi}, the trustworthy shepherd, glorious in the battle. The great wild bull, youthful @wDN{Utu}, who like a torch illuminates the Land from the holy heavens; the wise one of all the countries, the fearsome radiance of (?) @wDN{Uraš}, the just god among the @wDN{Anuna} gods, the long (?), holy dragon, the first-born son cherished by @wDN{Suen}, the lord born to command -- @wDN{Utu} bestowed the kingship of the Land on @wRN{Šulgi}.
+
+@(A.12 = 12-22) Like a mace with three lion-heads, he makes the mountains tremble and then destroys the rebel lands. …… the enemy of @wDN{Nanna}. …… the great …… of the gods.  @gap{2 lines fragmentary}  @wDN{Utu} …… the shepherd. @wRN{Šulgi} …… justice. …… in famine. …… son of @wDN{Ninsumun} ……. May …… great fearsomeness for the people for you. …… the creation of …… no one …….
+
+#trailer rubric	sa-gida
+
+
+@(A.23 = 23) @fsux{Sa-gida}.
+
+#lg B	jicgijal
+
+
+@(B.24 = 24) @wDN{Utu}, assign a sweet destiny to the king ……!
+
+#trailer rubric	jicgijal
+
+
+@(B.25 = 25) @fsux{Ŋišgiŋal} of the @fsux{sa-gida}.
+
+#lg C	sa-jara
+
+
+@(C.26 = 26-36) …… is exalted. Like …… very pleasing. …… shepherd @wRN{Šulgi}, the lion …… the rebel lands ……. As long as the cities are not pacified ……. Youthful @wDN{Utu} …… the people numerous as ewes. May …… of the holy lapis-lazuli shrine, rejoicing. …… very proudly ……. Like a cow …… proudly.  @gap{3 lines fragmentary} 
+
+@(C.37 = 37-43) @wRN{Šulgi} …… @wDN{Utu} ……. …… a fragrant cedar forest. O king, the lord who covers the heavens with awesomeness ……. …… the heavenly august dais from the holy place. The lord …… august radiance on all the lands from the holy heavens. Because of your purity, youthful @wDN{Utu} has made everything abundant for you; may a sweet life be your lot, son of @wDN{Ninsumun}.
+
+#trailer rubric	sa-jara
+
+
+@(C.44 = 44) @fsux{Sa-ŋara}.
+
+#lg D	jicgijal
+
+
+@(D.45 = 45-48) Youthful @wDN{Utu} chose the shepherd in his heart. Years of plenty are assigned to @wRN{Šulgi}, the trustworthy shepherd, the king, as his fate. From the shrine in @wSN{Nibru}, @wDN{Enlil} bestowed this on the trustworthy shepherd, whose fate is determined by @wDN{Utu}.
+
+#trailer rubric	jicgijal
+
+
+@(D.49 = 49) @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
+
+#lg E	unknown
+
+
+@(E.50 = 50-52) Lord of all the great divine powers, borne by @wDN{Ningal}! Youthful @wDN{Utu}, lord of all the great divine powers, borne by @wDN{Ningal},  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

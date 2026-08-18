@@ -1,0 +1,137 @@
+&Q000330 = OB catalogue at Yale (Y2)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.2.12
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2.12&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [lugal-me]-en#
+#lem: lugal[king]
+#etcsl: line-id=A.1
+
+#etcsl#inc Šulgi A, 2.4.2.01
+
+A.2. lugal mi₂ dug₄
+#lem: lugal[king]; mi[cvne]; dug[speak]
+#etcsl: line-id=A.2
+
+#etcsl#inc Lipit-Eštar A, 2.5.5.1
+
+A.3. en-e niŋ₂
+#lem: en[lord]; niŋdu[that which is appropriate]
+#etcsl: line-id=A.3
+
+#etcsl#inc The song of the hoe, 5.5.4
+
+A.4. nin me
+#lem: nin[lady]; me[Being]
+#etcsl: line-id=A.4
+
+#etcsl#inc Inana B, 4.07.2
+
+A.5. bur-šu
+#lem: buršuma[dowager]
+#etcsl: line-id=A.5
+
+#etcsl#inc Išbi-Erra E, 2.5.1.5
+
+A.6. dumu# e₂
+#lem: dumu[child]; edubbaʾa[scribal school]
+#etcsl: line-id=A.6
+
+#etcsl#doc five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
+
+A.7. dumu e₂
+#lem: dumu[child]; edubbaʾa[scribal school]
+#etcsl: line-id=A.7
+
+#etcsl#doc five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
+
+A.8. dumu e₂
+#lem: dumu[child]; edubbaʾa[scribal school]
+#etcsl: line-id=A.8
+
+#etcsl#doc five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
+
+A.9. NAM
+#lem: X
+#etcsl: line-id=A.9
+
+A.10. {d}inana
+#lem: Inanak[1]DN
+#etcsl: line-id=A.10
+
+A.11. šag₄-ga AN
+#lem: šag[heart]; X
+#etcsl: line-id=A.11
+
+A.12. in-nin
+#lem: innin[lady]
+#etcsl: line-id=A.12
+
+A.13. <(e₂)>-u₆#-<(nir)>
+#lem: Eunir[1]TN
+#etcsl: line-id=A.13
+
+#etcsl#inc The Temple hymns, 4.80.1
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. DIŠ a
+#lem: X; aʾa[text]
+#etcsl: line-id=B.1
+
+B.2. DIŠ an
+#lem: X; An[1]DN
+#etcsl: line-id=B.2
+
+B.3. {ŋiš}taškarin
+#lem: taškarin[box tree]
+#etcsl: line-id=B.3
+
+B.4. {gi}gašam
+#lem: gašam[reed]
+#etcsl: line-id=B.4
+
+B.5. udu
+#lem: udu[sheep]
+#etcsl: line-id=B.5
+
+B.6. {na₄}ka-gen₆-na
+#lem: kagina[stone]
+#etcsl: line-id=B.6
+
+B.7. ZI DU₈
+#lem: X; X
+#etcsl: line-id=B.7
+
+B.8. lu₂ X
+#lem: lu[person]; X
+#etcsl: line-id=B.8
+
+B.9. NE# BI
+#lem: X; X
+#etcsl: line-id=B.9
+
+B.10. X X
+#lem: X; X
+#etcsl: line-id=B.10
+
+B.11. X X
+#lem: X; X
+#etcsl: line-id=B.11
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+

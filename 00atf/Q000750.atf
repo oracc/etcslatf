@@ -1,0 +1,2397 @@
+&Q000750 = The temple hymns
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.80.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.1&display=Crit&charenc=gcirc#
+
+1. e₂-u₆-nir an ki-da mu₂-a
+#lem: Eunir[1]TN; an[sky]; ki[place]; mu[grow]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 49; OB catalogue in the Louvre, 0.2.02, line 31; OB catalogue from Urim (U2), 0.2.04, line 21; OB catalogue at Yale (Y2), 0.2.12, line 13
+
+2. temen an ki unu₆ gal eridug{ki}
+#lem: temen[foundation]; an[sky]; ki[place]; unu[dwelling]; gal[big]; Eridug[1]SN
+#etcsl: line-id=2
+
+3. abzu eš₃ nun-bi-ir am₃-gub
+#lem: Eʾabzu[1]; eš[shrine]; nun[prince]; gub[stand]
+#etcsl: line-id=3
+
+4. e₂-du₆-kug u₂ sikil-la rig₇-ga
+#lem: Edukug[1]TN; u[plant(s)]; sikil[pure]; rig[donate]
+#etcsl: line-id=4
+
+5. pa₅ sikil nun-na-ka a naŋ-ŋa₂
+#lem: par[(small) canal]; sikil[purify]; nun[prince]; a[water]; naŋ[drink]
+#etcsl: line-id=5
+
+6. kur ki sikil-la naŋa dub₂ dug₄-ga
+#lem: kur[mountain(s)]; ki[place]; sikil[pure]; naŋa[potash]; dub[tremble]; dug[speak]
+#etcsl: line-id=6
+
+7. abzu tigi-zu me-kam
+#lem: Eʾabzu[1]; tigi[drum or other musical instrument]; me[Being]
+#etcsl: line-id=7
+
+8. bad₃ GIŊ₄ gal-zu šu si sa₂-am₃
+#lem: bad[wall]; X; gal[big]; šu[hand]; si[horn]; sa[equal]
+#etcsl: line-id=8
+
+9. kilib₃-ŋal₂ ki diŋir til₃-la-za
+#lem: kilibŋal[assembly]; ki[place]; diŋir[deity]; til[live (of a single person)]
+#etcsl: line-id=9
+
+10. kiŋ₂ gal kiŋ₂ ki dug₃ ud nu-dib-be₂
+#lem: kiŋ[work]; gal[big]; kiŋ[work]; ki[place]; dug[good]; ud[sun]; dib[pass]
+#etcsl: line-id=10
+
+11. e₂ zag keše₂-zu šita sa₂ nu-di
+#lem: e[house]; zag[side]; kešed[bind]; šita[prayer]; sa[equal]; di[speak]
+#etcsl: line-id=11
+
+12. nun-zu nun gal-e men kug
+#lem: nun[prince]; nun[prince]; gal[big]; men[tiara]; kug[purify]
+#etcsl: line-id=12
+
+13. muš₃-za ma-ra-ni-in-ge-en eridug{ki} saŋ-men ŋal₂
+#lem: muš[flat space]; gin[confirm]; Eridug[1]SN; saŋmen[crown]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=13
+
+14. kiši₁₇ mu₂ kiši₁₇ sikil ed₃-de₃ susbu₃
+#lem: kišig[acacia]; mu[grow]; kišig[acacia]; sikil[purify]; ed[go up]; susbu[priest]
+#etcsl: line-id=14
+
+15. eš₃ abzu ki-zu ki gal-zu
+#lem: eš[shrine]; Eʾabzu[1]; ki[place]; ki[place]; gal[big]
+#etcsl: line-id=15
+
+16. ki {d}utu-ra gu₃ de₂-za
+#lem: ki[place]; Utu[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=16
+
+17. gir₄ ninda il₂ u₂ sug₄-sug₄-za
+#lem: gir[oven]; ninda[bread]; il[raise]; u[plant(s)]; sug[full]
+#etcsl: line-id=17
+
+18. u₆-nir eš₃ mah an-ne₂ us₂-sa-X-za
+#lem: unir[ziggurat]; eš[shrine]; mah[great]; an[sky]; us[accompany]
+#etcsl: line-id=18
+
+19. gir₄ gal unu₆ gal-da sa₂-a-za
+#lem: gir[oven]; gal[big]; unu[dwelling]; gal[big]; sa[equal]
+#etcsl: line-id=19
+
+20. nun-zu nun an ki [X X] X nu-kur₂-ru
+#lem: nun[prince]; nun[prince]; an[sky]; ki[place]; X; X; X; kur[different]
+#etcsl: line-id=20
+
+21. [...] dug₄-ga saŋ du₃ X X-ni ŋeštug₂ degₓ(RI)-a
+#lem: X; dug[speak]; saŋ[head]; du[build]; X; X; ŋeštug[ear]; deg[gather up]
+#etcsl: line-id=21
+
+22. [X X] X en {d}nu-dim₂-mud-e
+#lem: X; X; X; en[lord]; Nudimmud[1]DN
+#etcsl: line-id=22
+
+23. [e₂-engur-ra] muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Eʾengura[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=23
+
+24. [23] e₂ {d}en-ki eridug{ki}-ga
+#lem: n; e[house]; Enkik[1]DN; Eridug[1]SN
+#etcsl: line-id=24
+
+25. X [...] X X eš₃ nam tar-ra
+#lem: X; X; X; X; eš[shrine]; nam[fate]; tar[cut]
+#etcsl: line-id=25
+
+26. X [...] X temen u₆-nir-ra il₂-la
+#lem: X; X; X; temen[foundation]; unir[ziggurat]; il[raise]
+#etcsl: line-id=26
+
+27. X [...] X a₂-dam {d}en-lil₂-la₂
+#lem: X; X; X; adam[habitation]; Enlil[1]DN
+#etcsl: line-id=27
+
+28. X [...] X-bu-zu zid-da-[zu] gab₂!-bu-zu ki-en-gi ki-uri
+#lem: X; X; X; zid[right]; gab[left (hand)]; Kengir[1]; Akkad[1 Akkad]
+#etcsl: line-id=28
+
+29. e₂ {d}en-lil₂-la₂ šag₄-zu ten-te-en bar-zu nam tar-ra
+#lem: e[house]; Enlil[1]DN; šag[heart]; ten[extinguish]; bar[outside]; nam[fate]; tar[cut]
+#etcsl: line-id=29
+
+30. zag-du₈ [a]-sal bar-zu kur-bad₃
+#lem: zadu[door jamb]; asal[reed column (at door posts)]; bar[outside]; kurbad[mountain top]
+#etcsl: line-id=30
+
+31. dub-la₂ [zag] e₃-zu kur me-te-ŋal₂
+#lem: dubla[gate tower]; zag[side]; e[leave]; kur[mountain(s)]; meteŋal[seemly]
+#etcsl: line-id=31
+
+32. KA-zu KA [...] X X AD muš₃ nun-za
+#lem: X; X; X; X; X; X; muš[flat space]; nun[prince]
+#etcsl: line-id=32
+
+33. ur₂-zu an ki-da kuš₂-u₃-de₃
+#lem: ur[root]; an[sky]; ki[place]; kušu[tired]
+#etcsl: line-id=33
+
+34. nun-zu nun gal {d}en-lil₂ en dug₃
+#lem: nun[prince]; nun[prince]; gal[big]; Enlil[1]DN; en[lord]; dug[good]
+#etcsl: line-id=34
+
+35. en zag [an]-na# en nam tar-re-da
+#lem: en[lord]; zag[side]; an[sky]; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=35
+
+36. eš₃ nibru{ki} kur gal {d}en-lil₂-le
+#lem: eš[shrine]; Nibru[1]SN; kur[mountain(s)]; gal[big]; Enlil[1]DN
+#etcsl: line-id=36
+
+37. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=37
+
+38. 13 e₂ {d}en-lil₂ nibru{ki}-a
+#lem: n; e[house]; Enlil[1]DN; Nibru[1]SN
+#etcsl: line-id=38
+
+39. tum-ma-al{ki} me nun-e gal pad₃-da ni₂ su zig₃ ri-a
+#lem: Tummal[1]TN; me[Being]; nun[prince]; gal[big]; pad[find]; ni[fear]; su[flesh]; zig[rise]; ri[impose]
+#etcsl: line-id=39
+
+40. temen šu-luh sikil-zu abzu-a la₂-a
+#lem: temen[foundation]; šuluh[ritual cleansing]; sikil[pure]; abzu[(cosmic) underground water]; la[hang]
+#etcsl: line-id=40
+
+41. iri ul ŋiš-gi gi sumun gi henbur sig₇-ga
+#lem: iri[city]; ul[distant time]; ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; sissig[green-yellow]
+#etcsl: line-id=41
+
+42. šag₄-zu kur he₂-ŋal₂-la nam-he₂-a du₃-a
+#lem: šag[heart]; kur[mountain(s)]; heŋal[plenty]; namhe[abundance]; du[build]
+#etcsl: line-id=42
+
+43. itid zag-mu ezen ŋal₂-la-za u₆ di tag-ga
+#lem: itud[moon]; zagmuk[new year]; ezem[festival]; ŋal[⟦be⟧ to be (there]; u[admiration]; di[speak]; tag[touch]
+#etcsl: line-id=43
+
+44. nin gal ki-ur₃-ra {d}en-lil₂-da zag ša₄-a
+#lem: nin[lady]; gal[big]; Kiʾur[1]; Enlil[1]DN; zag[side]; sa[equal]
+#etcsl: line-id=44
+
+45. nun-zu ama {d}nin-lil₂ nitalam ki aŋ₂ {d}nu-nam-nir-ra-kam
+#lem: nun[prince]; ama[mother]; Ninlil[1]DN; ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; Nunamnir[1]DN
+#etcsl: line-id=45
+
+46. e₂-tum-ma-al{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Etummal[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=46
+
+47. 8 e₂ {d}nin-lil₂ nibru{ki}-a
+#lem: n; e[house]; Ninlil[1]DN; Nibru[1]SN
+#etcsl: line-id=47
+
+48. e₂-me-lem₄-huš ni₂ gal gur₃-ru
+#lem: Emelemhuš[1]TN; ni[fear]; gal[big]; gur[lift]
+#etcsl: line-id=48
+
+49. eš₃-mah me nun an-ta bar-ra
+#lem: Ešmah[1]TN; me[Being]; nun[prince]; an[sky]; bar[place outside]
+#etcsl: line-id=49
+
+50. {e₂}šutum {d}en-lil₂-la₂ me ul-e ŋar-ra nir-ra tum₂-ma
+#lem: šutum[storehouse]; Enlil[1]DN; me[Being]; ul[distant time]; ŋar[put]; nir[lordly]; tum[suitable]
+#etcsl: line-id=50
+
+51. nam-nun-na saŋ il₂ na degₓ(RI) e₂-kur-ra
+#lem: namnun[magnificence]; saŋ[head]; il[raise]; na[cvne]; deg[gather up]; Ekur[1]TN
+#etcsl: line-id=51
+
+52. zag-e₃ si e₂-zu muš₃ an-da X X-a
+#lem: zage[projection]; si[horn]; e[house]; muš[flat space]; an[sky]; X; X
+#etcsl: line-id=52
+
+53. eš-bar ki di gal ku₅-ru-ba id₂-lu₂-ru-gu₂
+#lem: ešbar[decision]; ki[place]; did[lawsuit]; gal[big]; kud[cut]; idlurugu[ordeal river]
+#etcsl: line-id=53
+
+54. zid-du u₃-tud šag₄ erim₂-ŋal₂ mud-še₃ ni₁₀-ni₁₀
+#lem: ziddu[righteous(-acting)]; utud[give birth (to)]; šag[heart]; erimŋal[wicked]; mud[blood]; niŋin[encircle]
+#etcsl: line-id=54
+
+55. ki gal šu-luh sikil nam-išib-e du₇-za
+#lem: ki[place]; gal[big]; šuluh[ritual cleansing]; sikil[purify]; namišib[office of išib-priest]; du[perfect]
+#etcsl: line-id=55
+
+56. en {d}nu-nam-nir-da u₂ mu-ni-sug₄-sug₄
+#lem: en[lord]; Nunamnir[1]DN; u[plant(s)]; sug[full]
+#etcsl: line-id=56
+
+57. nun-zu nun šag₄ kuš₂-u₃ {d}en-lil₂-ke₄ eš₃-mah tum₂-ma
+#lem: nun[prince]; nun[prince]; šag[heart]; kušu[tired]; Enlil[1]DN; Ešmah[1]TN; tum[suitable]
+#etcsl: line-id=57
+
+58. {d}udug e₂-kur-ra kin-gal nuska-ke₄
+#lem: udug[demon]; Ekur[1]TN; kingal[an official]; Nuska[1]DN
+#etcsl: line-id=58
+
+59. e₂ {d}en-lil₂-la₂ muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Enlil[1]DN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=59
+
+60. 12 e₂ {d}nuska nibru{ki}-a
+#lem: n; e[house]; Nuska[1]DN; Nibru[1]SN
+#etcsl: line-id=60
+
+61. e₂-me-ur₄-an-na ki gal-la gub-ba
+#lem: Emeuranak[1]TN; ki[place]; gal[big]; gub[stand]
+#etcsl: line-id=61
+
+62. me zid ur-saŋ iri barag-ge X ki mu₂-a
+#lem: me[Being]; zid[right]; ursaŋ[warrior]; iri[city]; barag[sanctum]; X; ki[place]; mu[grow]
+#etcsl: line-id=62
+
+63. a₂ me₃ {ŋiš}mitum₂ šul mar-uru₅ gur₃-ru
+#lem: a[arm]; me[battle]; mitum[divine weapon]; šul[youth]; emarru[quiver]; gur[lift]
+#etcsl: line-id=63
+
+64. šeg₁₂ u₁₈-ru nu-silig-ge temen ud til₃-le-zu
+#lem: šeg[brick]; urun[exalted]; silig[cease]; temen[foundation]; ud[sun]; til[live (of a single person)]
+#etcsl: line-id=64
+
+65. en ul-e ŋar-ra eš-bar me nun-na-kam
+#lem: en[lord]; ul[distant time]; ŋar[put]; ešbar[decision]; me[Being]; nun[prince]
+#etcsl: line-id=65
+
+66. sahar kug kur-ra ab-si-a saŋ il₂ nun-e-ne
+#lem: sahar[soil]; kug[purify]; kur[mountain(s)]; si[fill]; saŋ[head]; il[raise]; nun[prince]
+#etcsl: line-id=66
+
+67. e₂ mah u₆ e₃-zu ud-gin₇ muš₃ barag₂-ga
+#lem: e[house]; mah[great]; u[admiration]; e[leave]; ud[sun]; muš[flat space]; barag[spread out]
+#etcsl: line-id=67
+
+68. e₂-šu-me-ša₄ mu-zu {d}en-lil₂-le ni₂ huš ma-ra-ni-in-ri
+#lem: Ešumeša[1]TN; mu[name]; Enlil[1]DN; ni[fear]; huš[reddish]; ri[impose]
+#etcsl: line-id=68
+
+69. nun-zu [...] X gal-la ur-saŋ-e ne-ni zag dib-ba
+#lem: nun[prince]; X; X; gal[big]; ursaŋ[warrior]; ne[strength]; zag[side]; dib[pass]
+#etcsl: line-id=69
+
+70. ensi₂ gal {d}en-lil₂-la₂ nir an ki-da zag ša₄-a
+#lem: ensik[ruler]; gal[big]; Enlil[1]DN; nir[lordly]; an[sky]; ki[place]; zag[side]; sa[equal]
+#etcsl: line-id=70
+
+71. kišib-ŋal₂ si-si a-a {d}en-lil₂-ka me nam-gal šu du₇
+#lem: kišibŋal[seal bearer]; si[fill]; aya[father]; Enlil[1]DN; me[Being]; namgal[greatness]; šu[hand]; du[perfect]
+#etcsl: line-id=71
+
+72. AN EN ŋal₂ saŋ ri palil a-a {d}en-lil₂-la₂
+#lem: X; X; ŋal[⟦be⟧ to be (there]; saŋ[head]; ri[impose]; palil[first and foremost]; aya[father]; Enlil[1]DN
+#etcsl: line-id=72
+
+73. saŋ-kal piriŋ kur gal-e tud-da
+#lem: saŋkal[foremost]; piriŋ[lion]; kur[mountain(s)]; gal[big]; utud[give birth (to)]
+#etcsl: line-id=73
+
+74. kur gu₂-erim₂-ŋal₂ mu-na-gul-gul en {d}nin-urta-ke₄
+#lem: kur[mountain(s)]; guʾerimŋal[hostile]; gul[destroy]; en[lord]; Ninurtak[1]DN
+#etcsl: line-id=74
+
+75. e₂-šu-me-ša₄ muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Ešumeša[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=75
+
+76. 15 e₂ {d}nin-urta nibru{ki}-a
+#lem: n; e[house]; Ninurtak[1]DN; Nibru[1]SN
+#etcsl: line-id=76
+
+77. e₂-ŋa₂-du₆-da NIŊIN saŋ-ta il₂
+#lem: Eŋaduda[1]TN; X; saŋ[head]; il[raise]
+#etcsl: line-id=77
+
+78. men an-edin-na ki kug ki sikil
+#lem: men[tiara]; aneden[the high steppe]; ki[place]; kug[purify]; ki[place]; sikil[purify]
+#etcsl: line-id=78
+
+79. e₂ temen-zu dim gal nun-na
+#lem: e[house]; temen[foundation]; dim[post]; gal[big]; nun[prince]
+#etcsl: line-id=79
+
+80. nin-zu munus dili-e ŋa₂ barag-ge si-a
+#lem: nin[lady]; munus[woman]; dili[single]; ŋa[house]; barag[sanctum]; si[fill]
+#etcsl: line-id=80
+
+81. du₆-saŋ-dili muš₃-zu nun-na ul am₃-mi-ni-ib-šar₂-re
+#lem: Dusaŋdili[1]TN; muš[flat space]; nun[prince]; ul[bud]; šar[numerous]V/i
+#etcsl: line-id=81
+
+82. nun-zu šag₄ na-dab-e dirig gal-zu
+#lem: nun[prince]; šag[heart]; dab[seize]; dirig[make more than]; galanzu[wise]
+#etcsl: line-id=82
+
+83. dumu nun kur gal-da gu₂ me-er-me-er-re
+#lem: dumu[child]; nun[prince]; kur[mountain(s)]; gal[big]; gu[neck]; mer[cvve]
+#etcsl: line-id=83
+
+84. {d}šu-zi-an-na dam ban₃-da a-a {d}en-lil₂-la₂-ke₄
+#lem: Šuziʾana[1]; dam[spouse]; banda[junior]; aya[father]; Enlil[1]DN
+#etcsl: line-id=84
+
+85. du₆-saŋ-dili muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Dusaŋdili[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=85
+
+86. 9 e₂ {d}šu-zi-an-na ŋa₂-gi-mah-a
+#lem: n; e[house]; Šuziʾana[1]; Ŋagimah[1]TN
+#etcsl: line-id=86
+
+87. keš₃{ki} uru₁₆ ulutim₂ an ki
+#lem: Keš[1]SN; urun[exalted]; uludin[form]; an[sky]; ki[place]
+#etcsl: line-id=87
+
+88. muš-šag₄-tur₃ gal-gin₇ ni₂ ri-a
+#lem: muššagtur[(mythical) snake]; gal[big]; ni[fear]; ri[impose]
+#etcsl: line-id=88
+
+89. e₂ {d}nin-hur-saŋ-ŋa₂ ki sumur-ra du₃-a
+#lem: e[house]; Ninhursaŋak[1]DN; ki[place]; sumur[angry]; du[build]
+#etcsl: line-id=89
+
+90. keš₃{ki} aratta{ki} šag₄-zu šag₄ sig bar-zu al-il₂
+#lem: Keš[1]SN; Aratta[1]GN; šag[heart]; šag[heart]; sig[weak]; bar[outside]; il[raise]
+#etcsl: line-id=90
+
+91. ug gal an-edin-na GAN šid-da edin-na dag-ga
+#lem: ug[lion]; gal[big]; aneden[the high steppe]; X; šid[count]; eden[back]; dag[roam around]
+#etcsl: line-id=91
+
+92. hur-saŋ gal mu₇-mu₇-ta ri-a
+#lem: hursaŋ[mountain]; gal[big]; mu[incantation]; ri[impose]
+#etcsl: line-id=92
+
+93. šag₄ u₂-sa₁₁-an šag₄ iti₆ nu-e₃ {d}nin-tur₅-ra sig₇-ga
+#lem: šag[heart]; usan[evening]; šag[heart]; itud[moon]; e[leave]; Nintur[1]DN; sissig[green-yellow]
+#etcsl: line-id=93
+
+94. e₂ keš₃{ki} šeg₁₂-zu tud-tud-zu
+#lem: e[house]; Keš[1]SN; šeg[brick]; utud[give birth (to)]
+#etcsl: line-id=94
+
+95. gi-gu₃-na-zu suh₁₀ za-gin₃ bar-zu du₃-a-zu
+#lem: giguna[high sacred terrace]; suh[crown]; zagin[lapis lazuli]; bar[outside]; du[build]
+#etcsl: line-id=95
+
+96. nun-zu nun šeg₅-šeg₅-ga nin zid gal an-na
+#lem: nun[prince]; nun[prince]; sig[silent]; nin[lady]; zid[right]; gal[big]; an[sky]
+#etcsl: line-id=96
+
+97. dug₄-ga-ni an dub₂-bu ka ba-a-ni ud te-eš di
+#lem: dug[speak]; an[sky]; dub[tremble]; kag[mouth]; ba[allot]; ud[storm]; teš[voice]; di[speak]
+#etcsl: line-id=97
+
+98. {d}a-ru-ru nin₉ {d}en-lil₂-la₂-ke₄
+#lem: Aruru[1]DN; nin[sister]; Enlil[1]DN
+#etcsl: line-id=98
+
+99. e₂ keš₃{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Keš[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=99
+
+100. 13 e₂ {d}nin-hur-saŋ-ŋa₂ keš₃{ki}-a
+#lem: n; e[house]; Ninhursaŋak[1]DN; Keš[1]SN
+#etcsl: line-id=100
+
+101. urim₂{ki} ninda₂ gi duru₅ sug₂-ga
+#lem: Urim[1]SN; ninda[breeding bull]; gi[reed]; duru[wet]; sug[stand]
+#etcsl: line-id=101
+
+102. e₂-kiš-nu-ŋal₂ amar ab₂ gal-la ud X |KA×X| an kug-ga
+#lem: Ekišnuŋal[1]TN; amar[calf]; ab[cow]; gal[big]; ud[sun]; X; X; an[sky]; kug[pure]
+#etcsl: line-id=102
+
+103. šilam-za ŋiš-bur₂ gud₃-a nu₂-a
+#lem: šilamza[bull?]; ŋešpar[trap]; gud[nest]; nud[lie down]
+#etcsl: line-id=103
+
+104. urim₂{ki} pisaŋ₃ gu₇ kur-kur-ra
+#lem: Urim[1]SN; bisaŋ[basket]; gu[eat]; kur[mountain(s)]
+#etcsl: line-id=104
+
+105. eš₃ ki sikil-la uraš an-na
+#lem: eš[shrine]; ki[place]; sikil[pure]; uraš[earth]; An[1]DN
+#etcsl: line-id=105
+
+106. e₂ {d}suen igi-zu-še₃ nun a-ga-zu-še₃ barag
+#lem: e[house]; Suen[1]DN; igi[eye]; nun[prince]; aga[rear]; barag[sanctum]
+#etcsl: line-id=106
+
+107. ŋišbun-zu a-da-ab unu₂ gal-zu kug šem₅ {kuš}a₂-la₂
+#lem: ŋešbun[(cultic) meal]; adab[drum]; unu[dwelling]; gal[big]; kug[purify]; šem[drum]; ala[wooden drum]
+#etcsl: line-id=107
+
+108. ud e₃-zu nam-en zid-da-zu nam kal-kal
+#lem: ud[sun]; e[leave]; namen[the office of en-priest]; zid[right]; nam[fate]; kal[rare]
+#etcsl: line-id=108
+
+109. ŋi₆-par₃ eš₃ nun me kug-ga ud X zal-[zal]-le
+#lem: ŋipar[cloister]; eš[shrine]; nun[prince]; me[Being]; kug[pure]; ud[sun]; X; zal[pass time]
+#etcsl: line-id=109
+
+110. e₂-kiš-nu-ŋal₂ iti₆# sah₆#-sah₆ kalam-ma e₃-a
+#lem: Ekišnuŋal[1]TN; itud[moon]; zah[disappear]; kalam[the Land (of Sumer)]; e[leave]
+#etcsl: line-id=110
+
+111. ud MAŠ daŋal kur-kur-re si-a
+#lem: ud[sun]; n; daŋal[wide]; kur[mountain(s)]; si[fill]
+#etcsl: line-id=111
+
+112. e₂ muš₃-zu muš-gal sug muš-a
+#lem: e[house]; muš[flat space]; mušgal[serpent]; sug[reed-bed]; muš[snake]
+#etcsl: line-id=112
+
+113. temen-zu abzu 50 engur 7-e
+#lem: temen[foundation]; abzu[(cosmic) underground water]; n; engur[(cosmic) underground waters]; n
+#etcsl: line-id=113
+
+114. eš₃ šag₄ diŋir-re-e-ne-ke₄ igi i₃-ŋal₂
+#lem: eš[shrine]; šag[heart]; diŋir[deity]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=114
+
+115. nun-zu nun ka-aš bar men an daŋal-la
+#lem: nun[prince]; nun[prince]; kaš[decision]; bar[place outside]; men[tiara]; an[sky]; daŋal[wide]
+#etcsl: line-id=115
+
+116. lugal an-kam {d}dil-im₂-babbar-e
+#lem: lugal[king]; an[sky]; Dilimbabbar[1]DN
+#etcsl: line-id=116
+
+117. eš₃ urim₂{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: eš[shrine]; Urim[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=117
+
+118. 17 e₂ {d}nanna urim₂{ki}-ma
+#lem: n; e[house]; Nanna[1]DN; Urim[1]SN
+#etcsl: line-id=118
+
+119. e₂-mu-mah hur-saŋ il₂ an-na
+#lem: Emumah[1]TN; hursaŋ[mountain]; il[raise]; an[sky]
+#etcsl: line-id=119
+
+120. uš kug temen gal-zu nam kal-kal
+#lem: uš[foundation]; kug[purify]; temen[foundation]; gal[big]; nam[fate]; kal[rare]
+#etcsl: line-id=120
+
+121. šag₄ me nun si ud zalag-ga e₃-a
+#lem: šag[heart]; me[Being]; nun[prince]; si[fill]; ud[sun]; zalag[bright]; e[leave]
+#etcsl: line-id=121
+
+122. eš₃ bar-zu an sig₇-ga igi e₃-zu uŋ₃ šar₂-ra
+#lem: eš[shrine]; bar[outside]; an[sky]; sissig[green-yellow]; igi[eye]; e[leave]; uŋ[people]; šar[numerous]V/i
+#etcsl: line-id=122
+
+123. kalam-ma zu₂ keše₂ ŋal₂ dub₃-us₂ dili-am₃
+#lem: kalam[the Land (of Sumer)]; zu[tooth]; kešed[bind]; ŋal[⟦be⟧ to be (there]; dus[path]; dili[single]
+#etcsl: line-id=123
+
+124. id₂ mah ka ŋal₂ taka₄ me DA GA-zu ur₄-ur₄
+#lem: id[river]; mah[great]; kag[mouth]; ŋal[open]; taka[set aside]; me[Being]; X; X; ur[gather]
+#etcsl: line-id=124
+
+125. ur₂-zu ni₂ gal hur-saŋ zid ki daŋal-e mu₂-a
+#lem: ur[root]; ni[fear]; gal[big]; hursaŋ[mountain]; zid[right]; ki[place]; daŋal[wide]; mu[grow]
+#etcsl: line-id=125
+
+126. ki-tuš mah-zu niŋ₂ mah me šar₂ nam-nun-na
+#lem: kituš[dwelling place]; mah[great]; niŋ[thing]; mah[great]; me[Being]; šar[numerous]V/i; namnun[magnificence]
+#etcsl: line-id=126
+
+127. HAR X AMA UD KID₂ DIR-bi šeg₁₁ gi₄-gi₄
+#lem: X; X; X; X; X; X; šeg[voice]; gi[turn]
+#etcsl: line-id=127
+
+128. e₂ giri₁₇-zal muš₃-zu a₂-dam-ma ul šar₂
+#lem: e[house]; kirizal[joy]; muš[flat space]; adam[habitation]; ul[bud]; šar[numerous]V/i
+#etcsl: line-id=128
+
+129. e₂ nun-zu šul-gi mi-ni-ib-gal nun-nun-na
+#lem: e[house]; nun[prince]; Šulgir[1]RN; gal[big]; nun[prince]
+#etcsl: line-id=129
+
+130. X šu du₇ mah-di tum₉ u₁₈-ru-un gal-la
+#lem: X; šu[hand]; du[perfect]; mahdi[exalted]; tumu[wind]; urun[exalted]; gal[big]
+#etcsl: line-id=130
+
+131. me še-er-ka-an di nam tar-re-da
+#lem: me[Being]; šerkan[ornament]; di[speak]; nam[fate]; tar[cut]
+#etcsl: line-id=131
+
+132. e₂-hur-saŋ šul-gi an-na-ke₄
+#lem: Ehursaŋ[1]TN; Šulgir[1]RN; An[1]DN
+#etcsl: line-id=132
+
+133. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=133
+
+134. 15 tah-hu-um e₂-hur-saŋ šul-gi urim₂{ki}-ma
+#lem: n; tahhum[replacement]; Ehursaŋ[1]TN; Šulgir[1]RN; Urim[1]SN
+#etcsl: line-id=134
+
+135. iri abzu-ta še-gin₇ sur-ra
+#lem: iri[city]; abzu[(cosmic) underground water]; še[barley]; sur[press]
+#etcsl: line-id=135
+
+136. edin muru₉ šag₄-ta me šu ti
+#lem: eden[back]; muru[rainstorm]; šag[heart]; me[Being]; šu[hand]; teŋ[approach]
+#etcsl: line-id=136
+
+137. kuara{ki} temen unu₂ zid-zu
+#lem: Kuʾara[1]; temen[foundation]; unu[dwelling]; zid[right]
+#etcsl: line-id=137
+
+138. en niŋ₂-šu nu-gi₄ u₆-e am₃-ma-gub
+#lem: en[lord]; niŋšu[goods]; gi[turn]; u[admiration]; gub[stand]
+#etcsl: line-id=138
+
+139. abgal 7-e sig nim-ta šu mu-ra-ni-in-mu₂-uš
+#lem: abgal[sage]; n; sig[weak]; nim[high]; šu[hand]; mu[grow]
+#etcsl: line-id=139
+
+140. nun-zu nun kal-kal {d}asar-lu₂-hi lu₂ kal-kal
+#lem: nun[prince]; nun[prince]; kal[rare]; Asarluhi[1]DN; lu[person]; kal[rare]
+#etcsl: line-id=140
+
+141. ur-saŋ nun gir₁₅ tud-da nemur₂(|PIRIG.TUR|) kar dib-be₂
+#lem: ursaŋ[warrior]; nun[prince]; gir[noble]; utud[give birth (to)]; nemur[leopard]; kar[take away (by force)]; dib[pass]
+#etcsl: line-id=141
+
+142. ud du₇-du₇-gin₇ ki-bal-da du₇-du₇
+#lem: ud[storm]; du[push]; kibala[rebel land]; du[push]
+#etcsl: line-id=142
+
+143. en-na nu-še-ga eme sig-ga nu₂-a
+#lem: enna[until]; šeg[agree]; eme[tongue]; sig[weak]; nud[lie down]
+#etcsl: line-id=143
+
+144. {d}asar-alim-nun-na dumu abzu-ke₄
+#lem: Asaralimnunak[1]DN; dumu[child]; abzu[(cosmic) underground water]
+#etcsl: line-id=144
+
+145. e₂ kuara{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Kuʾara[1]; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=145
+
+146. 11 e₂ {d}asar-lu₂-hi kuara{ki}
+#lem: n; e[house]; Asarluhi[1]DN; Kuʾara[1]
+#etcsl: line-id=146
+
+147. e₂-gud-du₇-šar₂ {na₄}nir₂ kug-ga lugal-bi u₅-a
+#lem: Eguddušar[1]TN; nir[valuable stone]; kug[pure]; lugal[king]; u[ride]
+#etcsl: line-id=147
+
+148. ŋiš-bur₂ mah il₂ dumu nun-na
+#lem: ŋešbur[an architectural ornament]; mah[great]; il[raise]; dumu[child]; nun[prince]
+#etcsl: line-id=148
+
+149. %e u₂ %s li dug₃-bi kug dug₃-ba ŋal₂-la
+#lem: u[oil]N; lib[high quality]; dug[good]; kug[purify]; dug[good]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=149
+
+150. ŋa₂-bur-ra tur₃ kug ab₂ {u₂}munzer niŋin₂-na
+#lem: Ŋabura[1]TN; tur[animal stall]; kug[purify]; ab[cow]; munzer[licorice?]; niŋin[encircle]
+#etcsl: line-id=150
+
+151. nun-zu am gal am-si a₂-ni-še₃ hul₂-la
+#lem: nun[prince]; am[wild bull]; gal[big]; amsi[elephant]; a[arm]; hul[rejoice]
+#etcsl: line-id=151
+
+152. sumun₂ si mu₂ si-muš₃-a-ni-še₃ hul₂-la
+#lem: sumun[wild cow]; si[horn]; mu[grow]; simuš[brilliance]; hul[rejoice]
+#etcsl: line-id=152
+
+153. maš-maš eme ha-mun dungu an-na bi₂-DU
+#lem: mašmaš[sorcerer]; eme[tongue]; hamun[harmony]; dungu[cloud]; an[sky]; X
+#etcsl: line-id=153
+
+154. ud an-na gu₃ mur ak ud-de₃ ki šu ra-ra šum₂-mu
+#lem: ud[storm]; an[sky]; gu[voice]; mur[make a noise]; ak[do]; ud[sun]; ki[place]; šu[hand]; rah[beat]; šum[give]
+#etcsl: line-id=154
+
+155. {d}nin-gublaga(EZEN) dumu {d}nanna-a-ke₄
+#lem: Ningublagak[1]DN; dumu[child]; Nanna[1]DN
+#etcsl: line-id=155
+
+156. ki-abrig{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi-in-ŋar
+#lem: Kiʾabrig[1]; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=156
+
+157. 10 e₂ {d}nin-gublaga(EZEN) ki-abrig{ki}
+#lem: n; e[house]; Ningublagak[1]DN; Kiʾabrig[1]
+#etcsl: line-id=157
+
+158. eš₃ agrun gal tur₃-e ri-a
+#lem: eš[shrine]; agrun[cella]; gal[big]; tur[animal stall]; ri[impose]
+#etcsl: line-id=158
+
+159. iri ban₃-da su₃-ra₂-aŋ₂ {d}suen-na
+#lem: iri[city]; banda[junior]; sudaŋ[precious metal or material (possibly amber)]; Suen[1]DN
+#etcsl: line-id=159
+
+160. kar-zid-da šag₄-zu ki u₁₈-ru-na temen-zu kug šen
+#lem: Karzida[1]TN; šag[heart]; ki[place]; urun[exalted]; temen[foundation]; kug[purify]; šen[pure]
+#etcsl: line-id=160
+
+161. eš₃ ŋi₆-par₃-zu sikil-e ŋar-ra
+#lem: eš[shrine]; ŋipar[cloister]; sikil[pure]; ŋar[put]
+#etcsl: line-id=161
+
+162. {ŋiš}ig-zu urud niŋ₂ kalag-ga ki gal-e ŋar-ra
+#lem: ig[door]; urud[copper]; niŋ[thing]; kalag[strong]; ki[place]; gal[big]; ŋar[put]
+#etcsl: line-id=162
+
+163. {e₂}tur₃ gu₃ nun ninda₂-gin₇ si ib₂-[il₂]
+#lem: tur[animal stall]; gu[voice]; nun[prince]; ninda[breeding bull]; si[horn]; il[raise]
+#etcsl: line-id=163
+
+164. nun-zu en an-na ul šar₂-a gub-ba
+#lem: nun[prince]; en[lord]; an[sky]; ul[bud]; šar[numerous]V/i; gub[stand]
+#etcsl: line-id=164
+
+165. an-bar sud-a gaba X EŠ HI bur₂ [...]
+#lem: anbar[mid-day]; sud[distant]; gaba[breast]; X; X; X; bur[spread out]; X
+#etcsl: line-id=165
+
+166. kar-zid-da {d}dil-im₂-babbar₂-re
+#lem: Karzida[1]TN; Dilimbabbar[1]DN
+#etcsl: line-id=166
+
+167. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=167
+
+168. 10 e₂ {d}nanna ga-eš₈{ki}-a
+#lem: n; e[house]; Nanna[1]DN; Gaeš[1]SN
+#etcsl: line-id=168
+
+169. e₂ an-ta e₃-a dalla e₃ kul-aba₄{ki}-a
+#lem: e[house]; an[sky]; e[leave]; dalla[(to be) bright]; e[leave]; Kulaba[1]SN
+#etcsl: line-id=169
+
+170. eš₃ e₂-babbar₂ ninda₂ babbar₂
+#lem: eš[shrine]; Ebabbara[1]; ninda[breeding bull]; babbar[white]
+#etcsl: line-id=170
+
+171. gu₂-zu {d}utu-ra an-na NI-eš te-na-ab
+#lem: gu[neck]; Utu[1]DN; an[sky]; X; teŋ[approach]
+#etcsl: line-id=171
+
+172. si-muš₃-zu ma-sila₃ tu₁₁-tu₁₁ kug za-gin₃-na
+#lem: simuš[brilliance]; masila[heel]; tub[strike]; kug[purify]; zagin[lapis lazuli]
+#etcsl: line-id=172
+
+173. sun₄ {na₄}za-gin₃ duru₅-e la₂ he₂-[...] X X
+#lem: sum[beard]; zagin[lapis lazuli]; duru[wet]; la[hang]; X; X; X
+#etcsl: line-id=173
+
+174. nun-zu ud uru₁₆ en gu₃ zid [...] X X [...]
+#lem: nun[prince]; ud[sun]; urun[exalted]; en[lord]; gu[voice]; zid[right]; X; X; X; X
+#etcsl: line-id=174
+
+175. an-ur₂ zalag-ge an-pa X zalag-ge
+#lem: anur[horizon]; zalag[bright]; anpa[zenith]; X; zalag[bright]
+#etcsl: line-id=175
+
+176. {d}utu lugal e₂-babbar₂-ra-ke₄
+#lem: Utu[1]DN; lugal[king]; Ebabbara[1]
+#etcsl: line-id=176
+
+177. e₂ larsam{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Larsam[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=177
+
+178. 9 e₂ {d}utu larsam{ki}-ma
+#lem: n; e[house]; Utu[1]DN; Larsam[1]SN
+#etcsl: line-id=178
+
+179. enegir{ki} a-pap gal a-pap ki-a {d}ereš-ki-gal-la-ka
+#lem: Enegir[1]SN; apap[clay pipe]; gal[big]; apap[clay pipe]; ki[place]; Ereškigalak[1]DN
+#etcsl: line-id=179
+
+180. gu₂-du₈-a ki-en-gi-ra gu₂ si-a nam-lu₂-ulu₃
+#lem: Gudua[1]; Kengir[1]; gu[neck]; si[fill]; namlulu[humanity]
+#etcsl: line-id=180
+
+181. e₂-gid₂-da ŋissu-zu nun kur-ra-ke₄-ne kur-ra ša-mu-ni-in-la₂
+#lem: Egida[1]TN; ŋissu[shade]; nun[prince]; kur[mountain(s)]; kur[mountain(s)]; la[hang]
+#etcsl: line-id=181
+
+182. nun-zu a en gal-la šita ki gal-la {d}ereš-ki-gal-la-ke₄ tud-da
+#lem: nun[prince]; a[water]; en[lord]; gal[big]; šita[priest]; ki[place]; gal[big]; Ereškigalak[1]DN; utud[give birth (to)]
+#etcsl: line-id=182
+
+183. gu₃ nun za-na-ru-ba šu tag-ga amar ad-ba sag₉-sag₉
+#lem: gu[voice]; nun[prince]; zanaru[musical instrument]; šu[hand]; tag[touch]; amar[calf]; ad[voice]; sag[good]
+#etcsl: line-id=183
+
+184. {d}nin-a-zu inim šudu₃-da-ke₄
+#lem: Ninazu[1]DN; inim[word]; šud[prayer]
+#etcsl: line-id=184
+
+185. e₂ enegir{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Enegir[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=185
+
+186. 7 e₂ {d}nin-a-zu enegir{ki}-ra
+#lem: n; e[house]; Ninazu[1]DN; Enegir[1]SN
+#etcsl: line-id=186
+
+187. ki ul kur sig galam-e ŋar-ra
+#lem: ki[place]; ul[distant time]; kur[mountain(s)]; sig[weak]; galam[skilful]; ŋar[put]
+#etcsl: line-id=187
+
+188. itima ki huš šag₄-tum₂-ma ri-a
+#lem: itima[sleeping chamber]; ki[place]; huš[reddish]; šagtum[pasture land]; ri[impose]
+#etcsl: line-id=188
+
+189. su zig₃ a-ra₂ mah lu₂ nu-pad₃-de₃
+#lem: su[flesh]; zig[rise]; ara[way]; mah[great]; lu[person]; pad[find]
+#etcsl: line-id=189
+
+190. ŋiš-ban₃-da{ki} si-ŋar igi-te-en gana₂ ki gal ŋiri₃ nu-ed₃
+#lem: Ŋešbanda[1]SN; siŋar[bolt]; igiten[mesh]; gana[shackles]; ki[place]; gal[big]; ŋiri[foot]; ed[go up]
+#etcsl: line-id=190
+
+191. bar gi₄-a nim-ma {ŋiš}es₂-ad-gin₇ rib-ba
+#lem: bar[outside]; gi[turn]; nim[high]; esad[trap]; rib[surpassing]
+#etcsl: line-id=191
+
+192. šag₄-zu ki ud e₃ nam-he₂ daŋal šum₂-mu
+#lem: šag[heart]; ki[place]; ud[sun]; e[leave]; namhe[abundance]; daŋal[wide]; šum[give]
+#etcsl: line-id=192
+
+193. nun-zu nun šu sikil gid₂ kug an-na-ke₄
+#lem: nun[prince]; nun[prince]; šu[hand]; sikil[purify]; gid[long]; kug[purify]; an[sky]
+#etcsl: line-id=193
+
+194. siki ul he-nun bar-ra ŋal₂-la en {d}nin-ŋiš-zid-da
+#lem: siki[hair]; ul[swell]; henun[plenty]; bar[outside]; ŋal[⟦be⟧ to be (there]; en[lord]; Ninŋešzidak[1]
+#etcsl: line-id=194
+
+195. {d}nin-ŋiš-zid-da-ke₄ ŋiš-ban₃-da{ki}
+#lem: Ninŋešzidak[1]; Ŋešbanda[1]SN
+#etcsl: line-id=195
+
+196. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=196
+
+197. 10 e₂ {d}nin-ŋiš-zid-da ŋiš-ban₃-da{ki}-a
+#lem: n; e[house]; Ninŋešzidak[1]; Ŋešbanda[1]SN
+#etcsl: line-id=197
+
+198. e₂ me gal kul-aba₄{ki}-a BAD muš₃-e eš₃ gal mu₂-a
+#lem: e[house]; me[Being]; gal[big]; Kulaba[1]SN; X; muš[flat space]; eš[shrine]; gal[big]; mu[grow]
+#etcsl: line-id=198
+
+199. gibil gurun-na sig₇-ga u₆ di hi-li gur₃-ru
+#lem: gibil[new]; gurun[fruit]; sissig[green-yellow]; u[admiration]; di[speak]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=199
+
+200. an-šag₄-ta ed₃-de₃ eš₃ gud-de₃ du₃-a
+#lem: anšag[the interior of heaven]; ed[go up]; eš[shrine]; gud[bull]; du[build]
+#etcsl: line-id=200
+
+201. e₂-an-na e₂ ub 7 izi 7 ŋi₆ u₃-na il₂-la
+#lem: Eanak[1]TN; e[house]; ub[corner]; n; izi[fire]; n; ŋi[night]; ŋiʾunak[night]; il[raise]
+#etcsl: line-id=201
+
+202. kurku₂ 7-e igi ŋal₂
+#lem: kurku[wish]; n; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=202
+
+203. nun-zu an-ur₂-ra-am₃ sikil
+#lem: nun[prince]; anur[horizon]; sikil[purify]
+#etcsl: line-id=203
+
+204. nin-zu {d}inana niŋ₂ bur-ra-am₃ BUL-BUL
+#lem: nin[lady]; Inanak[1]DN; niŋ[thing]; bur[(stone) bowl]; X
+#etcsl: line-id=204
+
+205. munus-ra še-er-ka-an di nitah-ra saŋ tug₂ dul-lu
+#lem: munus[woman]; šerkan[ornament]; di[speak]; nita[male]; saŋ[head]; tug[textile]; dul[cover]
+#etcsl: line-id=205
+
+206. suh₁₀ kurku₂ za-gin₃-na ušumgal niŋin₃-ŋar-ra
+#lem: suh[crown]; kurku[wish]; zagin[lapis lazuli]; ušumgal[great dragon]; niŋar[cella]
+#etcsl: line-id=206
+
+207. UN-gal an ki-a {d}inana-ke₄
+#lem: UN.gal[ruler]; an[sky]; ki[place]; Inanak[1]DN
+#etcsl: line-id=207
+
+208. e₂-an-na muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Eanak[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=208
+
+209. 11 e₂ {d}inana unug{ki}-ga
+#lem: n; e[house]; Inanak[1]DN; Unug[1]SN
+#etcsl: line-id=209
+
+210. e₂ u₂ za-gin₃ ŋiš-nu₂ gi-rin-na barag₂-ga
+#lem: e[house]; u[plant(s)]; zagin[lapis lazuli]; ŋešnud[bed]; girim[flower]; barag[spread out]
+#etcsl: line-id=210
+
+211. a₂-nu₂-da kug {d}inana-ke₄
+#lem: anuda[bedroom]; kug[purify]; Inanak[1]DN
+#etcsl: line-id=211
+
+212. ki šag₄ kuš₂-u₃ in-nin₉ edin-ka
+#lem: ki[place]; šag[heart]; kušu[tired]; innin[lady]; eden[back]
+#etcsl: line-id=212
+
+213. šeg₁₂ e₂-muš₃-a gi-rin kug im BU-bi ŋar-ra
+#lem: šeg[brick]; Emuš[1]TN; girim[flower]; kug[purify]; im[clay]; X; ŋar[put]
+#etcsl: line-id=213
+
+214. an-edin-na u₈ lu-a-ra
+#lem: aneden[the high steppe]; u[sheep]; lu[abundant]
+#etcsl: line-id=214
+
+215. an-BAD₃-zu e₂ a-ra-li-ka sipad-ra ša-mu-ni-in-la₂
+#lem: X; e[house]; Arali[1]GN; sipad[shepherd]; la[hang]
+#etcsl: line-id=215
+
+216. nun-zu piriŋ dib edin-na šuba nu-gig-ga
+#lem: nun[prince]; piriŋ[lion]; dib[pass]; eden[back]; šuba[precious stone]; nugig[priestess]
+#etcsl: line-id=216
+
+217. gaba kug-ga u₆ di en dam kug {d}inana
+#lem: gaba[breast]; kug[pure]; u[admiration]; di[speak]; en[lord]; dam[spouse]; kug[purify]; Inanak[1]DN
+#etcsl: line-id=217
+
+218. {d}dumu-zid lugal e₂-muš₃-a-ke₄
+#lem: Dumuzid[1]DN; lugal[king]; Emuš[1]TN
+#etcsl: line-id=218
+
+219. bad₃-tibira{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Badtibira[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=219
+
+220. 10 e₂ {d}dumu-zid bad₃-tibira{ki}-a
+#lem: n; e[house]; Dumuzid[1]DN; Badtibira[1]SN
+#etcsl: line-id=220
+
+221. e₂-igi-zu-u₁₈-ru šag₄-zu-ta nam-he₂
+#lem: Eigizuʾuru[1]TN; šag[heart]; namhe[abundance]
+#etcsl: line-id=221
+
+222. e₂ niŋ₂ ŋar-ra-zu kur he₂-gal-la
+#lem: e[house]; niŋ[thing]; ŋar[put]; kur[mountain(s)]; gal[big]
+#etcsl: line-id=222
+
+223. e₂ šim-zu kur ŋeštin-na
+#lem: e[house]; šim[aromatic substance]; kur[mountain(s)]; ŋeštin[vine]
+#etcsl: line-id=223
+
+224. sukkal zid-zu kin-gal an-[na]
+#lem: sukkal[secretary]; zid[right]; kingal[an official]; an[sky]
+#etcsl: line-id=224
+
+225. e₂ nun-zu palil diŋir-[re-e-ne]
+#lem: e[house]; nun[prince]; palil[first and foremost]; diŋir[deity]
+#etcsl: line-id=225
+
+226. sukkal zid e₂-an-na ŋidru [kug šu] du₇-e
+#lem: sukkal[secretary]; zid[right]; Eanak[1]TN; ŋidru[scepter]; kug[purify]; šu[hand]; du[perfect]
+#etcsl: line-id=226
+
+227. {d}nin-šubur sukkal zid e₂-an-na-ke₄
+#lem: Ninšubur[1]DN; sukkal[secretary]; zid[right]; Eanak[1]TN
+#etcsl: line-id=227
+
+228. {a}[e₂]-akkil muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Eakkil[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=228
+
+229. 8 e₂ {d}nin-šubur {a}akkilₓ(|GADA.KID₂.SI.A|){ki}
+#lem: n; e[house]; Ninšubur[1]DN; Akkil[1]SN
+#etcsl: line-id=229
+
+230. iri abzu-ta barag-ga ri-a nam-išib-e ŋar-ra
+#lem: iri[city]; abzu[(cosmic) underground water]; barag[sanctum]; ri[impose]; namišib[office of išib-priest]; ŋar[put]
+#etcsl: line-id=230
+
+231. e₂ mu₇-mu₇ an ki-a šid-da
+#lem: e[house]; mu[incantation]; an[sky]; ki[place]; šid[count]
+#etcsl: line-id=231
+
+232. [...] X X UM X X X sud-sud
+#lem: X; X; X; X; X; X; X; sud[distant]
+#etcsl: line-id=232
+
+233. [X X] X-e gal [...] X dam-zu
+#lem: X; X; X; gal[big]; X; X; dam[spouse]
+#etcsl: line-id=233
+
+234. [X X] X a₂-ŋal₂ [...] X X X
+#lem: X; X; X; aŋal[strong]; X; X; X; X
+#etcsl: line-id=234
+
+235. [...] DU [...]
+#lem: X; X; X
+#etcsl: line-id=235
+
+236. an kug ki [sikil-la a] gub₂-ba X X TE NE [...]
+#lem: an[sky]; kug[purify]; ki[place]; sikil[pure]; a[water]; gub[bathe]; X; X; X; X; X
+#etcsl: line-id=236
+
+237. {d}nin-girim₃ nin a gub₂-ba dadag#-[ga]
+#lem: Ningirima[1]; nin[lady]; a[water]; gub[bathe]; dadag[bright]
+#etcsl: line-id=237
+
+238. e₂ mu-ru-um{ki} muš₃-za e₂ bi₂-in-[gub] barag-za dur₂ bi₂-in-ŋar#
+#lem: e[house]; Murum[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=238
+
+239. 9 e₂ {d}nin-girim₃ [mu-ru]-um{ki}
+#lem: n; e[house]; Ningirima[1]; Murum[1]SN
+#etcsl: line-id=239
+
+240. e₂-ninnu a₂ zid-da# [lagaš]{[ki]} [gu₂]-gal# ki-en-gi-ra
+#lem: Eninnu[1]TN; a[arm]; zid[right]; Lagaš[1]SN; gugal[foremost]; Kengir[1]
+#etcsl: line-id=240
+
+241. anzud{mušen} kur-še₃# [igi il₂-la]
+#lem: Anzud[1]DN; kur[mountain(s)]; igi[eye]; il[raise]
+#etcsl: line-id=241
+
+242. šar₂-ur₃ {d}nin-ŋir₂#-[su ...] kur-kur-ta X X X X
+#lem: Šarur[1]DN; Ninŋirsuk[1]DN; X; kur[mountain(s)]; X; X; X; X
+#etcsl: line-id=242
+
+243. a₂ me₃ ud huš lu₂-ra su₃-su₃
+#lem: a[arm]; me[battle]; ud[storm]; huš[reddish]; lu[person]; su[sprinkle]
+#etcsl: line-id=243
+
+244. {d}a-nun-na diŋir gal-gal-e-ne a₂ me₃ šum₂-mu
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; a[arm]; me[battle]; šum[give]
+#etcsl: line-id=244
+
+245. šeg₁₂ du₆ kug-ta nam tar-re-da hur-saŋ-gin₇ sig₇-ga
+#lem: šeg[brick]; dud[(ruin) mound]; kug[pure]; nam[fate]; tar[cut]; hursaŋ[mountain]; sissig[green-yellow]
+#etcsl: line-id=245
+
+246. id₂-zu a lu mun kug X-zu [...] X ha-mun-na dal-a
+#lem: id[river]; a[water]; lu[abundant]; mun[salt]; kug[purify]; X; X; X; hamun[harmony]; dal[fly]
+#etcsl: line-id=246
+
+247. kan₄ iri-kug{ki}-še₃ ŋal₂-la-za
+#lem: kan[gate]; Irikug[1]SN; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=247
+
+248. bur sig₇ an kug-ga kurun₂ de₂-a an-na sug₂-ga-bi
+#lem: bur[(stone) bowl]; sissig[green-yellow]; An[1]DN; kug[pure]; kurun[beer]; de[pour]; an[sky]; sug[stand]
+#etcsl: line-id=248
+
+249. niŋ₂ ku₄-ku₄ niŋ₂ sa₂ nu-di-dam
+#lem: niŋ[thing]; kur[enter]; niŋ[thing]; sa[equal]; di[speak]
+#etcsl: line-id=249
+
+250. niŋ₂ e₃ niŋ₂ nu-silig-ge-dam
+#lem: niŋ[thing]; e[leave]; niŋ[thing]; silig[mighty]
+#etcsl: line-id=250
+
+251. šu-gar₃ igi huš e₂ me-lem₄-ma
+#lem: X; igi[eye]; huš[reddish]; e[house]; melim[frightening splendor]
+#etcsl: line-id=251
+
+252. ki di ku₅-ru en {d}nin-ŋir₂-su-ke₄
+#lem: ki[place]; did[lawsuit]; kud[break off]; en[lord]; Ninŋirsuk[1]DN
+#etcsl: line-id=252
+
+253. ni₂ gal-la su zig₃ du₈-du₈-am₃
+#lem: ni[fear]; gal[big]; su[flesh]; zig[rise]; du[spread]
+#etcsl: line-id=253
+
+254. kurun₂ gal-zu-še₃ diŋir {d}a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+#lem: kurun[beer]; gal[big]; diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=254
+
+255. nun-zu u₁₈-lu sumur ki-bal %e uru₂ %s gul-lu
+#lem: nun[prince]; ulu[south wind]; sumur[angry]; kibala[rebel land]; uru[city]; gul[destroy]
+#etcsl: line-id=255
+
+256. lugal-zu am huš a₂ pad₃-da piriŋ huš saŋ dub₂-dub₂-bu
+#lem: lugal[king]; am[wild bull]; huš[reddish]; a[arm]; pad[find]; piriŋ[lion]; huš[reddish]; saŋ[head]; dub[tremble]
+#etcsl: line-id=256
+
+257. ur-saŋ nam-en-na sa₂ sig₁₀-sig₁₀-ge₅
+#lem: ursaŋ[warrior]; namen[the office of en-priest]; sa[advice]; sig[put into]
+#etcsl: line-id=257
+
+258. nam-lugal-la u₃-ma gub-gub-bu
+#lem: namlugal[kingship]; uma[triumph]; gub[stand]
+#etcsl: line-id=258
+
+259. kalag-ga ur-saŋ gal me₃-a en gaba gi₄ nu-[tuku]
+#lem: kalag[strong]; ursaŋ[warrior]; gal[big]; me[battle]; en[lord]; gaba[breast]; gi[turn]; tuku[acquire]
+#etcsl: line-id=259
+
+260. dumu {d}en-lil₂-la₂ en {d}nin-ŋir₂-su{ki}-ke₄
+#lem: dumu[child]; Enlil[1]DN; en[lord]; Ninŋirsuk[1]DN
+#etcsl: line-id=260
+
+261. e₂-ninnu muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Eninnu[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=261
+
+262. 22 e₂ {d}nin-ŋir₂-su lagaš{ki}-a
+#lem: n; e[house]; Ninŋirsuk[1]DN; Lagaš[1]SN
+#etcsl: line-id=262
+
+263. iri-kug eš₃ numun i-i an kug-ga mu dug₃-ga sa₄-a
+#lem: Irikug[1]SN; eš[shrine]; numun[seed]; e[bring out]; An[1]DN; kug[pure]; mu[name]; dug[good]; še[call by name]
+#etcsl: line-id=263
+
+264. šag₄-zu id₂-lu₂-ru-gu₂ lu₂ zid dadag-ge
+#lem: šag[heart]; idlurugu[ordeal river]; lu[person]; zid[right]; dadag[bright]
+#etcsl: line-id=264
+
+265. e₂-ŋalga-sud erim₃ kug {na₄}za-gin₃-na gi₁₆-sa-še₃ ak-a
+#lem: Eŋalgasud[1]TN; erim[storeroom]; kug[metal]; zagin[lapis lazuli]; gilsa[treasure]; ak[do]
+#etcsl: line-id=265
+
+266. e₂-tar-sir₂-sir₂ eš-bar me i-i meš₃-e giri₁₇ šu ŋal₂
+#lem: Etarsirsir[1]TN; ešbar[decision]; me[Being]; e[bring out]; mes[hero]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=266
+
+267. nun-zu nun šag₄-la₂ sug₄ kalam-ma ama kur-kur-ra
+#lem: nun[prince]; nun[prince]; šala[pity]; sug[full]; kalam[the Land (of Sumer)]; ama[mother]; kur[mountain(s)]
+#etcsl: line-id=267
+
+268. nin a-zu gal saŋ gig₂-ga nam iri-na tar-re
+#lem: nin[lady]; azu[doctor]; gal[big]; saŋ[head]; giggig[black]; nam[fate]; iri[city]; tar[cut]
+#etcsl: line-id=268
+
+269. dumu-saŋ an kug-ga ki-sikil ama {d}ba-u₂
+#lem: dumusaŋ[first-born]; An[1]DN; kug[pure]; kisikil[young woman]; ama[mother]; Bau[1]DN
+#etcsl: line-id=269
+
+270. e₂ iri-kug muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Irikug[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=270
+
+271. 8 e₂ {d}ba-u₂ iri-kug-ga
+#lem: n; e[house]; Bau[1]DN; Irikug[1]SN
+#etcsl: line-id=271
+
+272. e₂ šilam AŊRIG X [X X]
+#lem: e[house]; šilam[cow]; X; X; X; X
+#etcsl: line-id=272
+
+273. iri dalla e₃ nun-ra gun₃-a
+#lem: iri[city]; dalla[(to be) bright]; e[leave]; nun[prince]; gunu[speckled]
+#etcsl: line-id=273
+
+274. sirara₃{ki} ki gal nun-e
+#lem: Sirara[1]SN; ki[place]; gal[big]; nun[prince]
+#etcsl: line-id=274
+
+275. BAD eš₃-e GAN šid-da-zu
+#lem: X; eš[shrine]; X; šid[count]
+#etcsl: line-id=275
+
+276. nin-zu {d}nanše ud gal-la a-ŋi₆ uru₁₆-na
+#lem: nin[lady]; Nanše[1]DN; ud[storm]; gal[big]; aŋi[wave]; urun[exalted]
+#etcsl: line-id=276
+
+277. peš₁₀ a-ab-ba-ka tud-da-a
+#lem: piš[bank]; aʾabak[sea]; utud[give birth (to)]
+#etcsl: line-id=277
+
+278. uh₂-pu₂ ab-ba-ka zu₂ li-li
+#lem: uhpu[foam]; ab[sea]; zu[tooth]; bir[shred]
+#etcsl: line-id=278
+
+279. [a] i-zi-ba e-ne dug₄-dug₄
+#lem: a[water]; izi[wave]; ene[pleasure?]; dug[speak]
+#etcsl: line-id=279
+
+280. X X X-a {d}nanše nin EN-e
+#lem: X; X; X; Nanše[1]DN; nin[lady]; X
+#etcsl: line-id=280
+
+281. e₂ sirara₃{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Sirara[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=281
+
+282. 10 e₂ {d}nanše sirara₃{ki}
+#lem: n; e[house]; Nanše[1]DN; Sirara[1]SN
+#etcsl: line-id=282
+
+283. e₂-ab-šag₄-ga-la₂-a ki kug-ga du₃-a
+#lem: Eabšagala[1]TN; ki[place]; kug[pure]; du[build]
+#etcsl: line-id=283
+
+284. gu₂-ab-ba{ki} šag₄-zu niŋ₂ u₃-tud erim₃ ŋar-ŋar-a
+#lem: Guʾabak[1]; šag[heart]; niŋ[thing]; utud[give birth (to)]; erim[storeroom]; ŋar[put]
+#etcsl: line-id=284
+
+285. eš₃ kug šilam niŋ₂ nu-silig-ge
+#lem: eš[shrine]; kug[purify]; šilam[cow]; niŋ[thing]; silig[cease]
+#etcsl: line-id=285
+
+286. nun-zu {d}nin-ŋa₂-gi₄-a aŋrig mah X
+#lem: nun[prince]; Ninŋagiak[1]DN; agrig[steward]; mah[great]; X
+#etcsl: line-id=286
+
+287. [...] kalag-ga a-a {d}en-lil₂-la₂
+#lem: X; kalag[strong]; aya[father]; Enlil[1]DN
+#etcsl: line-id=287
+
+288. [en] {[d]}[nu]-nam#-nir-da šag₄ kuš₂-u₃ X [...]
+#lem: en[lord]; Nunamnir[1]DN; šag[heart]; kušu[tired]; X; X
+#etcsl: line-id=288
+
+289. [...] X-a tud-da a-ŋi₆ a-ab-ba-ka [...]
+#lem: X; X; utud[give birth (to)]; aŋi[wave]; aʾabak[sea]; X
+#etcsl: line-id=289
+
+290. [X X a]-a-ni-gin₇ enkud ab sikil-sikil-[la]
+#lem: X; X; aya[father]; enkud[tax-collector]; ab[sea]; sikil[pure]
+#etcsl: line-id=290
+
+291. [e₂ gu₂-ab-ba]{[ki]} kug {d}nin-mar-ki-ke₄
+#lem: e[house]; Guʾabak[1]; kug[purify]; Ninmarkik[1]DN
+#etcsl: line-id=291
+
+292. [muš₃]-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=292
+
+293. [10] e₂ {d}nin-mar-ki gu₂-ab-ba{ki}
+#lem: n; e[house]; Ninmarkik[1]DN; Guʾabak[1]
+#etcsl: line-id=293
+
+294. [e₂ ki-nir-ša]{[ki]} nin-bi-ra tum₂-ma
+#lem: e[house]; Kinirša[1]SN; nin[lady]; tum[suitable]
+#etcsl: line-id=294
+
+295. [X X X hur]-saŋ#-gin₇ sig₇-ga u₆-nir-ra il₂-la
+#lem: X; X; X; hursaŋ[mountain]; sissig[green-yellow]; unir[ziggurat]; il[raise]
+#etcsl: line-id=295
+
+296. e₂ [X X]-da# ki šag₄ hul₂-la-da gu₃ nun-bi di-e
+#lem: e[house]; X; X; ki[place]; šag[heart]; hul[rejoice]; gu[voice]; nun[prince]; di[speak]
+#etcsl: line-id=296
+
+297. e₂ nun-zu ud piriŋ-ŋa₂ u₅-a GI [X X X X]
+#lem: e[house]; nun[prince]; ud[storm]; piriŋ[lion]; u[ride]; X; X; X; X; X
+#etcsl: line-id=297
+
+298. šir₃ kug šir₃ ha-mun-na il₂-la e-ne ad gal dug₄-dug₄
+#lem: šir[sing]; kug[purify]; šir[sing]; hamun[harmony]; il[raise]; ane[he]; ad[voice]; gal[big]; dug[speak]
+#etcsl: line-id=298
+
+299. dumu u₃-sumun₂ zid ama ugu-na gaba kug-ga mi₂ dug₄-ga
+#lem: dumu[child]; sumun[wild cow]; zid[right]; ama[mother]; ugu[bear]; gaba[breast]; kug[pure]; mi[cvne]; dug[speak]
+#etcsl: line-id=299
+
+300. eš₃ ki-nir-ša{ki} {d}dumu-zid-abzu-ke₄
+#lem: eš[shrine]; Kinirša[1]SN; Dumuzidabzuk[1]DN
+#etcsl: line-id=300
+
+301. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=301
+
+302. 7 e₂ {d}dumu-zid-<abzu> [ki-nir-ša]{ki}-a
+#lem: n; e[house]; Dumuzidabzuk[1]DN; Kinirša[1]SN
+#etcsl: line-id=302
+
+303. e₂-bur-sig₇-sig₇ an-ne₂ sug₂-ga
+#lem: Ebursigsig[1]TN; an[sky]; sug[stand]
+#etcsl: line-id=303
+
+304. unu₂ uru₁₆ dug₄-ge sa₂ dug₄
+#lem: unu[dwelling]; urun[exalted]; dug[speak]; sa[equal]; dug[speak]
+#etcsl: line-id=304
+
+305. he-nun ab-šag₄-ga unu₂-RI-ban₃#-[da]
+#lem: henun[plenty]; abšag[center of the sea]; unu₂.RI.banda₃[sacred area]
+#etcsl: line-id=305
+
+306. X kug-ge u₃-gul ŋa₂-ra asila la₂-a
+#lem: X; kug[pure]; ugul[cvne]; ŋar[put]; asilala[joy]; la[hang]
+#etcsl: line-id=306
+
+307. e₂-mah e₂ {d}šara₂ lu₂ zid-de₃
+#lem: Emah[1]TN; e[house]; Šara[1]DN; lu[person]; zid[right]
+#etcsl: line-id=307
+
+308. nam-he₂-a šu mu-ra-ni-in-mu₂
+#lem: namhe[abundance]; šu[hand]; mu[grow]
+#etcsl: line-id=308
+
+309. e₂-zu e₂-mah nun-zu dumu nun nu-gig-ga
+#lem: e[house]; Emah[1]TN; nun[prince]; dumu[child]; nun[prince]; nugig[priestess]
+#etcsl: line-id=309
+
+310. sigₓ(|KA×ŠID|) sal-sal muš₂ he-nun silim
+#lem: sag[good]; sal[thin]; muš[flat space]; henun[plenty]; silim[healthy]
+#etcsl: line-id=310
+
+311. gu₂-tar la₂-la₂ igi bar šilam-ma
+#lem: guhaš[nape of the neck]; la[hang]; igi[eye]; bar[place outside]; šilam[cow]
+#etcsl: line-id=311
+
+312. {d}šara₂ niŋ₂ dug₃ |KA×X| dumu ama-ni-ir me ba-a
+#lem: Šara[1]DN; niŋ[thing]; dug[good]; X; dumu[child]; ama[mother]; me[Being]; ba[allot]
+#etcsl: line-id=312
+
+313. e₂ umma{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Umma[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=313
+
+314. 11 e₂ {d}šara₂ umma{ki}-a
+#lem: n; e[house]; Šara[1]DN; Umma[1]SN
+#etcsl: line-id=314
+
+315. e₂-še-er-zid-gur₃-ru unu₂ šuba la₂
+#lem: Ešerzidguru[1]TN; unu[adornment]; šuba[precious stone]; la[hang]
+#etcsl: line-id=315
+
+316. ni₂ gal niŋin₃-ŋar kug {d}inana-ke₄
+#lem: ni[fear]; gal[big]; niŋar[cella]; kug[purify]; Inanak[1]DN
+#etcsl: line-id=316
+
+317. me zid me-a šu daŋal tag-ga
+#lem: me[Being]; zid[right]; me[be]; šu[hand]; daŋal[wide]; tag[touch]
+#etcsl: line-id=317
+
+318. zabalam{ki} eš₃ kur šuba eš₃ KA ud zal-le
+#lem: Zabalam[1]SN; eš[shrine]; kur[mountain(s)]; šuba[multicoloured]; eš[shrine]; X; ud[sun]; zal[pass time]
+#etcsl: line-id=318
+
+319. kurku₂-a ad mi-ni-in-pad₃
+#lem: kurku[wish]; ad[voice]; pad[find]
+#etcsl: line-id=319
+
+320. unu₂ zid-zu nu-gig-ge kurku₂-a ma-ra-ni-in-ri
+#lem: unu[dwelling]; zid[right]; nugig[priestess]; kurku[wish]; ri[impose]
+#etcsl: line-id=320
+
+321. nin-zu {d}inana |DAG.KISIM₅×X| munus dili-e
+#lem: nin[lady]; Inanak[1]DN; X; munus[woman]; dili[single]
+#etcsl: line-id=321
+
+322. ušumgal lu₂ [X X]-še₃ inim kur₂ di
+#lem: ušumgal[great dragon]; lu[person]; X; X; inim[word]; kur[alienate]; di[speak]
+#etcsl: line-id=322
+
+323. niŋ₂ babbar₂-ra saŋ mu₂-mu₂-mu₂ ki-bal-še₃ saŋ ŋa₂-ŋa₂
+#lem: niŋ[thing]; babbar[white]; saŋ[head]; mu[grow]; kibala[rebel land]; saŋ[head]; ŋar[put]
+#etcsl: line-id=323
+
+324. ŋiš-he₂ u₂-sa₁₁-an-na ni₂-te-a-ni-še₃ sig₇-ga
+#lem: ŋešhe[firmament]; usan[evening]; ni[self]; sissig[green-yellow]
+#etcsl: line-id=324
+
+325. dumu gal {d}suen-na kug {d}inana-ke₄
+#lem: dumu[child]; gal[big]; Suen[1]DN; kug[purify]; Inanak[1]DN
+#etcsl: line-id=325
+
+326. e₂ ki zabalam{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; ki[place]; Zabalam[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=326
+
+327. 12 e₂ {d}inana zabalam{ki}-a
+#lem: n; e[house]; Inanak[1]DN; Zabalam[1]SN
+#etcsl: line-id=327
+
+328. e₂ piriŋ gal-gin₇ su-lim gur₃-ru
+#lem: e[house]; piriŋ[lion]; gal[big]; sulim[awesome radiance]; gur[lift]
+#etcsl: line-id=328
+
+329. eš-bar an-edin-na ud-de₃ galam e₃
+#lem: ešbar[decision]; aneden[the high steppe]; ud[sun]; galam[skilful]; e[leave]
+#etcsl: line-id=329
+
+330. e₂ {d}iškur-ra igi-zu-še₃ he₂-ŋal₂ a-ga-zu-še₃ giri₁₇-zal
+#lem: e[house]; Iškur[1]DN; igi[eye]; heŋal[plenty]; aga[rear]; kirizal[joy]
+#etcsl: line-id=330
+
+331. temen ŋal₂-zu ninda₂ si piriŋ
+#lem: temen[foundation]; ŋal[⟦be⟧ to be (there]; ninda[breeding bull]; si[horn]; piriŋ[lion]
+#etcsl: line-id=331
+
+332. šibir# kug ubur!(UTUL₅) an-na šeŋₓ(|IM.A.A|) še gu-nu
+#lem: šibir[shepherd's staff]; kug[purify]; ubur[breast]; an[sky]; šeŋ[rain]; še[barley]; gunu[qualification of barley]
+#etcsl: line-id=332
+
+333. dub-la₂-za e₂-za am si bad
+#lem: dubla[gate tower]; e[house]; am[wild bull]; si[horn]; bad[open]
+#etcsl: line-id=333
+
+334. X ZI temen e₂-ŋar₈ ni₂ il₂-i-zu
+#lem: X; X; temen[foundation]; egar[wall]; ni[self]; il[raise]
+#etcsl: line-id=334
+
+335. X X X X dungu sir₂-ra
+#lem: X; X; X; X; dungu[cloud]; sir[dense]
+#etcsl: line-id=335
+
+336. [...] muš-ŋiri₂
+#lem: X; mušŋiri[fanged snake]
+#etcsl: line-id=336
+
+337. [...] iti₆
+#lem: X; itud[moon]
+#etcsl: line-id=337
+
+338. [...] X X nam-gu₇ {d}iškur a-ma-ru ur₃#-ra
+#lem: X; X; X; namgu[eating]; Iškur[1]DN; amaru[flood]; ur[drag]
+#etcsl: line-id=338
+
+339. [...] X u₁₈-lu {tum₉}mir 7
+#lem: X; X; ulu[south wind]; mir[north wind]; n
+#etcsl: line-id=339
+
+340. [...] {tum₉#}mir dal-dal
+#lem: X; mir[north wind]; dal[fly]
+#etcsl: line-id=340
+
+341. [...] X X ur₂-ta im₂-ma
+#lem: X; X; X; ur[root]; im[run]
+#etcsl: line-id=341
+
+342. [...] X X DI hur-saŋ {na₄}esi na₄-a na muš₃ ba-dar-dar-e
+#lem: X; X; X; X; hursaŋ[mountain]; esi[diorite]; na[stone weight]; na[stone weight]; muš[flat space]; dar[split]
+#etcsl: line-id=342
+
+$ 2 lines missing
+345. [...] NI [...] X X X X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=345
+
+346. [...] numun kalam X [...]
+#lem: X; numun[seed]; kalam[the Land (of Sumer)]; X; X
+#etcsl: line-id=346
+
+347. [...] X [...] nun [...] ku₃-ŋal₂ an# [ki-a]
+#lem: X; X; X; nun[prince]; X; guŋal[inspector]; an[sky]; ki[place]
+#etcsl: line-id=347
+
+348. X X [...] E [...] zi-ŋal₂ uŋ₃ [lu-a]
+#lem: X; X; X; X; X; ziŋal[living things]; uŋ[people]; lu[abundant]
+#etcsl: line-id=348
+
+349. [...] X X X X {d}iškur-[re]
+#lem: X; X; X; X; X; Iškur[1]DN
+#etcsl: line-id=349
+
+350. e₂ karkara{ki} muš₃-za e₂ bi₂-in-[gub] barag#-za dur₂ bi₂-in-[ŋar]
+#lem: e[house]; Karkar[1]; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=350
+
+351. 23 e₂ {d}iškur karkara{ki}-X
+#lem: n; e[house]; Iškur[1]DN; Karkar[1]
+#etcsl: line-id=351
+
+352. [X X] saŋ-kul an-ne₂ [ki ŋar-ra]
+#lem: X; X; saŋkul[bolt]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=352
+
+353. [...] DA A X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=353
+
+354. [X X] an ki-da [...]
+#lem: X; X; an[sky]; ki[place]; X
+#etcsl: line-id=354
+
+355. [...] X {d}en-ki#-ke₄ ki [X X] X
+#lem: X; X; Enkik[1]DN; ki[place]; X; X; X
+#etcsl: line-id=355
+
+356. [X X] X [...] NAM# [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=356
+
+$ 1 line missing
+358. [...] ŠE₃ [...]
+#lem: X; X; X
+#etcsl: line-id=358
+
+$ (approx. 2 lines missing)
+361. [... muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar]
+#lem: X; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=361
+
+362. [10 e₂] {[d]}[X X]{[ki]}-[a]
+#lem: n; e[house]; X[1]DN; X[1]SN
+#etcsl: line-id=362
+
+$ 2 lines missing
+365. [...]-zu {d}en-[...]
+#lem: X; En.X[1]DN
+#etcsl: line-id=365
+
+366. muš₃-zu an-ne₂ nam X X LUL a [...]
+#lem: muš[flat space]; An[1]DN; nam[fate]; X; X; X; a[water]; X
+#etcsl: line-id=366
+
+367. e₂-mah e₂ šar₂-ra nin-bi-ra tum₂-ma
+#lem: Emah[1]TN; e[house]; šar[numerous]V/i; nin[lady]; tum[suitable]
+#etcsl: line-id=367
+
+368. igi-zu ni₂ gal gur₃-ru šag₄-zu me-lem₄ sud
+#lem: igi[eye]; ni[fear]; gal[big]; gur[lift]; šag[heart]; melim[frightening splendor]; sud[distant]
+#etcsl: line-id=368
+
+369. ama {d}nin-tur₅ {d}en-lil₂ {d}en-ki-ke₄ nam tar-ra
+#lem: ama[mother]; Nintur[1]DN; Enlil[1]DN; Enkik[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=369
+
+370. e₂-sug₄-ga-a ŋiri₃ mu₂-mu₂ zi saŋ gig₂-ga
+#lem: Esuga[1]TN; ŋiri[foot]; mu[grow]; zi[life]; saŋ[head]; giggig[black]
+#etcsl: line-id=370
+
+371. me mah-a an-ne₂ an-šag₄-ta mu-ra-an-šum₂
+#lem: me[Being]; mah[great]; An[1]DN; anšag[the interior of heaven]; šum[give]
+#etcsl: line-id=371
+
+372. uz-ga kug-ga eš₃ ŋa₂-ŋa₂-zu
+#lem: uzga[priest]; kug[pure]; eš[shrine]; ŋar[put]
+#etcsl: line-id=372
+
+373. {d}nin-hur-saŋ-ŋa₂-ke₄ keš₃{ki}-a dug₃-bi mu-un-ŋa₂-ŋa₂
+#lem: Ninhursaŋak[1]DN; Keš[1]SN; dug[good]; ŋar[put]
+#etcsl: line-id=373
+
+374. e₂ me gal-la du₈ sikil-la šu-luh dadag-ga
+#lem: e[house]; me[Being]; gal[big]; du[throne platform for a deity]; sikil[pure]; šuluh[ritual cleansing]; dadag[bright]
+#etcsl: line-id=374
+
+375. {aš}{d}aš₇-gi₄ diŋir adab{ki}-a-ke₄
+#lem: Ašgi[1]DN; diŋir[deity]; Adab[1]SN
+#etcsl: line-id=375
+
+376. adab{ki} e₂ id₂-de₃ la₂-a re
+#lem: Adab[1]SN; e[house]; id[river]; la[hang]; re[that]
+#etcsl: line-id=376
+
+377. e₂ adab{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Adab[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=377
+
+378. 15 e₂ {d}nin-hur-saŋ-ŋa₂ adab{ki}-a
+#lem: n; e[house]; Ninhursaŋak[1]DN; Adab[1]SN
+#etcsl: line-id=378
+
+379. i₃-si-in{ki} iri an-ne₂ ki ŋar-ra šag₄-sig-ga ša-mu-un-du₃
+#lem: Isin[1]SN; iri[city]; An[1]DN; ki[place]; ŋar[put]; šagsiga[waste land?]; du[build]
+#etcsl: line-id=379
+
+380. igi-bi u₁₈-ru-am₃ šag₄-bi galam kad₅-am₃
+#lem: igi[eye]; urun[exalted]; šag[heart]; galam[skilful]; kad[tie]
+#etcsl: line-id=380
+
+381. me-bi me an-ne₂ nam tar-ra
+#lem: me[Being]; me[Being]; An[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=381
+
+382. barag-sig₉-ga {d}en-lil₂-le ki aŋ₂
+#lem: baragsiga[shrine]; Enlil[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=382
+
+383. ki nam tar-re an {d}en-lil₂-la₂
+#lem: ki[place]; nam[fate]; tar[cut]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=383
+
+384. ki ninda gu₇ diŋir gal-gal-e-ne
+#lem: ki[place]; ninda[bread]; gu[eat]; diŋir[deity]; gal[big]
+#etcsl: line-id=384
+
+385. ni₂ gal-la su zig₃ du₈-du₈-am₃
+#lem: ni[fear]; gal[big]; su[flesh]; zig[rise]; du[spread]
+#etcsl: line-id=385
+
+386. kurun₂ gal-zu-še₃ diŋir {d}a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+#lem: kurun[beer]; gal[big]; diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=386
+
+387. nun-zu ama nu-gig unu₂ šuba-a sud-sud
+#lem: nun[prince]; ama[mother]; nugig[midwife]; unu[adornment]; šuba[precious stone]; sud[distant]
+#etcsl: line-id=387
+
+388. niŋin₃-ŋar ki kug-ga-kam-ma ŋa₂-ŋa₂
+#lem: Niŋinŋar[1]TN; ki[place]; kug[pure]; ŋar[put]
+#etcsl: line-id=388
+
+389. nu-u₈-gig-ra suh₁₀ keše₂ di
+#lem: nugig[priestess]; suh[crown]; kešed[bind]; di[speak]
+#etcsl: line-id=389
+
+390. nu-bar-ra ubur 7 si sa₂-sa₂-e
+#lem: nubar[female profession]; ubur[breast]; n; si[horn]; sa[equal]
+#etcsl: line-id=390
+
+391. kurku₂-a 7-e ad [mi-ni-in-pad₃]
+#lem: kurku[wish]; n; ad[voice]; pad[find]
+#etcsl: line-id=391
+
+392. nin-zu a-zu gal kalam-ma
+#lem: nin[lady]; azu[doctor]; gal[big]; kalam[the Land (of Sumer)]
+#etcsl: line-id=392
+
+393. {i₃}nin-isin₂{si}-na dumu an-na-ke₄
+#lem: Ninisinak[1]DN; dumu[child]; An[1]DN
+#etcsl: line-id=393
+
+394. e₂ i₃-si-in{ki} muš₃-za e₂ bi₂-in-gub barag dur₂ bi₂-in-ŋar
+#lem: e[house]; Isin[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=394
+
+395. 16 e₂ {d}nin-isin₂{si}-na i₃-si-in{ki}-na
+#lem: n; e[house]; Ninisinak[1]DN; Isin[1]SN
+#etcsl: line-id=395
+
+396. ka-zal-lu{ki} suh₁₀-zu an-šag₄-ga
+#lem: Kazallu[1]SN; suh[crown]; anšag[the interior of heaven]
+#etcsl: line-id=396
+
+397. su₃-ra₂-aŋ₂ X X u₆-e gub-ba
+#lem: sudaŋ[precious metal or material (possibly amber)]; X; X; u[admiration]; gub[stand]
+#etcsl: line-id=397
+
+398. nun-[zu] a ninda₂ X X X-a am-e tud-da
+#lem: nun[prince]; a[water]; ninda[breeding bull]; X; X; X; am[wild bull]; utud[give birth (to)]
+#etcsl: line-id=398
+
+399. [...] mah# igi gun₃ en zu₂ piriŋ-ŋa₂
+#lem: X; mah[great]; igi[eye]; gunu[speckled]; en[lord]; zu[tooth]; piriŋ[lion]
+#etcsl: line-id=399
+
+400. [umbin]-še-ba amar šu ti-a
+#lem: umbinšeba[nail]; amar[calf]; šu[hand]; teŋ[approach]
+#etcsl: line-id=400
+
+401. [...] šu ti-a
+#lem: X; šu[hand]; teŋ[approach]
+#etcsl: line-id=401
+
+402. [...] šu ti-a
+#lem: X; šu[hand]; teŋ[approach]
+#etcsl: line-id=402
+
+403. X [...] gi₄#-gi₄ X ŋal₂-la a₂ šum₂-mu
+#lem: X; X; gi[turn]; X; ŋal[⟦be⟧ to be (there]; a[arm]; šum[give]
+#etcsl: line-id=403
+
+404. kun₄-sa-tu en gal {d}nu-muš-da-ke₄
+#lem: Kunsatu[1]TN; en[lord]; gal[big]; Numušda[1]DN
+#etcsl: line-id=404
+
+405. ka-zal-lu{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Kazallu[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=405
+
+406. 10 e₂ {d}nu-muš-da ka-zal-lu{ki}
+#lem: n; e[house]; Numušda[1]DN; Kazallu[1]SN
+#etcsl: line-id=406
+
+407. e₂-igi-kalam-ma uš ki ŋar-ra
+#lem: Eigikalamak[1]TN; uš[foundation]; ki[place]; ŋar[put]
+#etcsl: line-id=407
+
+408. hur-saŋ mu₂-a daŋal ki us₂-sa
+#lem: hursaŋ[mountain]; mu[grow]; daŋal[wide]; ki[place]; us[accompany]
+#etcsl: line-id=408
+
+409. kur gu₂-erim₂-ŋal₂-e X X DU
+#lem: kur[mountain(s)]; guʾerimŋal[hostile]; X; X; X
+#etcsl: line-id=409
+
+410. [X X X] an# ki {d}nin-X X [...]
+#lem: X; X; X; an[sky]; ki[place]; Nin.X[0]DN; X; X
+#etcsl: line-id=410
+
+411. X [...]
+#lem: X; X
+#etcsl: line-id=411
+
+412. X
+#lem: X
+#etcsl: line-id=412
+
+$ (approx. 1 line missing)
+414. [... muš₃-za e₂ bi₂-in-gub barag dur₂ bi₂-in-ŋar]
+#lem: X; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=414
+
+415. [8 e₂] {[d]}[lugal-mar₂-da mar₂-da]{[ki]}
+#lem: n; e[house]; Lugal-Maradak[1]DN; Marad[1]SN
+#etcsl: line-id=415
+
+416. |BAD₃.AN|{ki} eš-bar-re gal kiŋ₂-ŋa₂ šar₂ dug₄-ge gib-ba
+#lem: Der[1]SN; ešbar[decision]; gal[big]; kiŋ[seek]; šar[perfect?]; dug[speak]; gilim[cross]
+#etcsl: line-id=416
+
+417. kan₄ ni₂ me-lem₄# ŋal₂-la-za
+#lem: kan[gate]; ni[fear]; melim[frightening splendor]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=417
+
+418. ŋiš-bur₂-de₃ muš-šag₄-tur₃ muš-huš-e gu₂-da am₃-mi-ib-la₂
+#lem: ŋešbur[an architectural ornament]; muššagtur[(mythical) snake]; mušhuš[monster]; gu[neck]; la[hang]
+#etcsl: line-id=418
+
+419. nun-zu mas-su diŋir-re-e-ne
+#lem: nun[prince]; massu[leader]; diŋir[deity]
+#etcsl: line-id=419
+
+420. sa₂ pad₃-de₃ mah di-de₃ he₂-du₇
+#lem: sa[advice]; pad[find]; mah[great]; di[speak]; hedu[ornament]
+#etcsl: line-id=420
+
+421. dumu {d}uraš-a me zid nam-nun-na gal-zu
+#lem: dumu[child]; Uraš[1]DN; me[Being]; zid[right]; namnun[magnificence]; galanzu[wise]
+#etcsl: line-id=421
+
+422. {d}ištaran lugal BIR an-na-ke₄
+#lem: Ištaran[1]DN; lugal[king]; X; an[sky]
+#etcsl: line-id=422
+
+423. e₂-dim-gal-kalam-ma muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Edimgalkalamak[1]TN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=423
+
+424. 8 e₂ {d}ištaran |BAD₃.AN|{ki}-a
+#lem: n; e[house]; Ištaran[1]DN; Der[1]SN
+#etcsl: line-id=424
+
+425. e₂-sikil me sikil-bi kur-kur-ra dirig-ga
+#lem: Esikil[1]TN; me[Being]; sikil[pure]; kur[mountain(s)]; dirig[make more than]
+#etcsl: line-id=425
+
+426. mu-bi sukud u₁₈-ru ki-tuš mah ur-saŋ-ŋa₂
+#lem: mu[name]; sukud[height]; urun[exalted]; kituš[dwelling place]; mah[great]; ursaŋ[warrior]
+#etcsl: line-id=426
+
+427. e₂ kug {d}nin-a-zu e₂ me kug-kug-ga
+#lem: e[house]; kug[purify]; Ninazu[1]DN; e[house]; me[Being]; kug[pure]
+#etcsl: line-id=427
+
+428. e₂ me-zu me sikil šu-luh-zu šu-luh dadag
+#lem: e[house]; me[Being]; me[Being]; sikil[purify]; šuluh[ritual cleansing]; šuluh[ritual cleansing]; dadag[bright]
+#etcsl: line-id=428
+
+429. ki-tuš-za ur-saŋ-e ni₂ mu-ni-ib-te-en-ten
+#lem: kituš[dwelling place]; ursaŋ[warrior]; ni[self]; ten[extinguish]
+#etcsl: line-id=429
+
+430. du₈-za {d}nin-a-zu u₂ mu-ni-ib-sug₄-sug₄
+#lem: du[throne platform for a deity]; Ninazu[1]DN; u[plant(s)]; sug[full]
+#etcsl: line-id=430
+
+431. lugal-zu en gal dumu {d}en-lil₂-la₂-kam
+#lem: lugal[king]; en[lord]; gal[big]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=431
+
+432. ur-mah galam e₃ kur-re uš₁₁ šum₂-mu
+#lem: urmah[lion]; galam[skilful]; e[leave]; kur[mountain(s)]; uš[poison]; šum[give]
+#etcsl: line-id=432
+
+433. kur gu₂-erim₂-ŋal₂-la-še₃ {tum₉}u₁₈-lu-gin₇ zi-zi
+#lem: kur[mountain(s)]; guʾerimŋal[hostile]; ulu[south wind]; zig[rise]
+#etcsl: line-id=433
+
+434. bad₃ ki-bal-a-še₃ ušumgal-gin₇ guru₅-uš bur₂-ru
+#lem: bad[wall]; kibala[rebel land]; ušumgal[great dragon]; guruš[cvne]; bur[spread out]
+#etcsl: line-id=434
+
+435. nu-še-ga u₁₈-lu dul-u₃ erim₂-e ŋiri₃ saga₁₁! di
+#lem: šeg[agree]; ulu[south wind]; dul[cover]; erim[enemy]; ŋiri[foot]; saga[press?]; di[speak]
+#etcsl: line-id=435
+
+436. dub₃ ba₉-ra₂-ni hul-ŋal₂ nu-e₃
+#lem: dub[knee]; bad[open]; huluŋal[evil]; e[leave]
+#etcsl: line-id=436
+
+437. u₃-ma gub-ba-ni ki-bal %e uru₂ %s gul-gul-lu
+#lem: uma[triumph]; gub[stand]; kibala[rebel land]; uru[city]; gul[destroy]
+#etcsl: line-id=437
+
+438. saŋ-ki gid₂-da-ni uŋ₃-bi sahar-e-eš degₓ(RI)-ga
+#lem: saŋki[forehead]; gid[long]; uŋ[people]; sahar[soil]; deg[gather up]
+#etcsl: line-id=438
+
+439. e₂ nun-zu piriŋ gal erim₂ šu-bi-še₃ la₂-a
+#lem: e[house]; nun[prince]; piriŋ[lion]; gal[big]; erim[enemy]; šu[hand]; la[hang]
+#etcsl: line-id=439
+
+440. lugal-zu ud huš u₁₈-ru lipiš me₃-a
+#lem: lugal[king]; ud[storm]; huš[reddish]; urun[exalted]; lipiš[inner body]; me[battle]
+#etcsl: line-id=440
+
+441. šen-šen-na SA₄-gin₇ DU a₂ mah-bi {kuš}gur₂₁-ra
+#lem: šen[battle]; X; X; a[arm]; mah[great]; guru[shield]
+#etcsl: line-id=441
+
+442. sa-par₃ uŋ₃ daŋal-la erim₂ šu-na nu-e₃
+#lem: sabar[net]; uŋ[people]; daŋal[wide]; erim[enemy]; šu[hand]; e[leave]
+#etcsl: line-id=442
+
+443. en gal pa e₃-a mah-a-ni zag nu-sa₂
+#lem: en[lord]; gal[big]; pa[branch]; e[leave]; mah[great]; zag[side]; sa[equal]
+#etcsl: line-id=443
+
+444. a zid kur gal-e {d}nin-lil₂-le tud-da
+#lem: a[water]; zid[right]; kur[mountain(s)]; gal[big]; Ninlil[1]DN; utud[give birth (to)]
+#etcsl: line-id=444
+
+445. e₂-sikil lugal-zu ur-saŋ {d}nin-a-zu
+#lem: Esikil[1]TN; lugal[king]; ursaŋ[warrior]; Ninazu[1]DN
+#etcsl: line-id=445
+
+446. eš₃-nun-na{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: Ešnuna[1]; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=446
+
+447. 22 e₂ {d}nin-a-zu eš₃-nun-na{ki}
+#lem: n; e[house]; Ninazu[1]DN; Ešnuna[1]
+#etcsl: line-id=447
+
+448. e₂ nam-he₂-a du₃-a kiš{ki} me nam-nun-na saŋ il₂
+#lem: e[house]; namhe[abundance]; du[build]; Kiš[1]SN; me[Being]; namnun[magnificence]; saŋ[head]; il[raise]
+#etcsl: line-id=448
+
+449. a₂-dam ki ŋar-ra temen gal-zu sag₂ nu-di
+#lem: adam[habitation]; ki[place]; ŋar[put]; temen[foundation]; gal[big]; sag[scatter]; di[speak]
+#etcsl: line-id=449
+
+450. ki-sa₂-a-zu muru₉ daŋal tag-ga an-šag₄-ge dirig
+#lem: kisa[platform]; muru[rainstorm]; daŋal[wide]; tag[touch]; anšag[the interior of heaven]; dirig[make more than]
+#etcsl: line-id=450
+
+451. šag₄-zu {ŋiš}tukul {ŋiš}mitum₂ a₂ X IM še-er-ka-an ba-ni-in-dug₄
+#lem: šag[heart]; tukul[weapon]; mitum[divine weapon]; a[arm]; X; X; šerkan[ornament]; dug[speak]
+#etcsl: line-id=451
+
+452. zid-da-zu kur dub₂-bu gab₂-bu-zu erim₂ sal-e
+#lem: zid[right]; kur[mountain(s)]; dub[tremble]; gab[left (hand)]; erim[enemy]; sal[thin]
+#etcsl: line-id=452
+
+453. nun-zu u₁₈-ru mah ud gal ki us₂-sa ni₂ huš gal ri-a
+#lem: nun[prince]; urun[exalted]; mah[great]; ud[storm]; gal[big]; ki[place]; us[accompany]; ni[fear]; huš[reddish]; gal[big]; ri[impose]
+#etcsl: line-id=453
+
+454. e₂-dub lugal-zu ur-saŋ {d}za-ba₄-ba₄
+#lem: Eduba[1]; lugal[king]; ursaŋ[warrior]; Zababa[1]DN
+#etcsl: line-id=454
+
+455. e₂ kiš{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Kiš[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=455
+
+456. 8 e₂ {d}za-ba₄-ba₄ kiš{ki}-a
+#lem: n; e[house]; Zababa[1]DN; Kiš[1]SN
+#etcsl: line-id=456
+
+457. e₂-ŋiš-keše₂-da-kalam-ma
+#lem: Eŋiškešdakalamak[1]TN
+#etcsl: line-id=457
+
+458. gud a₂ nun gi₄-a diŋir-re-e-ne
+#lem: gud[bull]; a[arm]; nun[prince]; gi[turn]; diŋir[deity]
+#etcsl: line-id=458
+
+459. immal₂ ni₂ te-en-te-en gud-am a-nir ŋa₂-ŋa₂
+#lem: immal[cow]; ni[self]; ten[extinguish]; am[wild bull]; anir[lament]; ŋar[put]
+#etcsl: line-id=459
+
+460. gu₂-du₈-a kar-zu kar sig-ga a naŋ-ŋe₂₆
+#lem: Gudua[1]; kar[harbor]; kar[harbor]; sig[weak]; a[water]; naŋ[drink]
+#etcsl: line-id=460
+
+461. šag₄-zu galam kad₅ šita₂-zu šita₂ X an-ta šu bar-ra
+#lem: šag[heart]; galam[skilful]; kad[tie]; šita[weapon]; šita[weapon]; X; an[sky]; šu[hand]; bar[place outside]
+#etcsl: line-id=461
+
+462. muš₃-zu muš₃ za-gin₃ meš₃-lam-ma la₂-a
+#lem: muš[flat space]; muš[flat space]; zagin[lapis lazuli]; Mešlam[1]TN; la[hang]
+#etcsl: line-id=462
+
+463. nun-zu diŋir er₉-ra lugal meš₃-lam-ma
+#lem: nun[prince]; diŋir[deity]; ir[mighty]; lugal[king]; Mešlam[1]TN
+#etcsl: line-id=463
+
+464. diŋir huš ki-a lugal ud-šu₂-[uš]
+#lem: diŋir[deity]; huš[reddish]; ki[place]; lugal[king]; Udšuš[1]TN
+#etcsl: line-id=464
+
+465. {d}nergal {d}meš₃-lam-ta-e₃-[a]
+#lem: Nergal[1]DN; Meslamtaea[1]
+#etcsl: line-id=465
+
+466. muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=466
+
+467. 10 e₂ {d}nergal gu₂-du₈-a{ki}
+#lem: n; e[house]; Nergal[1]DN; Gudua[1]
+#etcsl: line-id=467
+
+468. u₂-ru-um{ki} u₁₈-ru-na ki di ku₅-ru {d}suen-na
+#lem: Urum[1]SN; urun[exalted]; ki[place]; did[lawsuit]; kud[break off]; Suen[1]DN
+#etcsl: line-id=468
+
+469. e₂-ab₂-lu-a tur₃ daŋal-la
+#lem: Eablua[1]TN; tur[animal stall]; daŋal[wide]
+#etcsl: line-id=469
+
+470. {d}dil-im₂-babbar-e nam-sipad-zu ša-mu-un-ak
+#lem: Dilimbabbar[1]DN; namsipad[shepherdship]; ak[do]
+#etcsl: line-id=470
+
+471. e₂ lugal-ŋu₁₀ ŋidru-zu an-na ši-bi₂#-[bad]-ba₉-re₆
+#lem: e[house]; lugal[king]; ŋidru[scepter]; an[sky]; bad[open]
+#etcsl: line-id=471
+
+472. |E₂×X| X ki-še₃ [...] X iti₆ [...] X giri₁₇-zal
+#lem: X; X; ki[place]; X; X; itud[moon]; X; X; kirizal[joy]
+#etcsl: line-id=472
+
+473. TE [...]-zu ud he₂-ni-X-[...]
+#lem: X; X; ud[sun]; X
+#etcsl: line-id=473
+
+474. nun-zu nun giri₁₇-zal kug X X [X X]
+#lem: nun[prince]; nun[prince]; kirizal[joy]; kug[purify]; X; X; X; X
+#etcsl: line-id=474
+
+475. an za-gin₃-ta e₃ giri₁₇-zal šag₄ [...] meš₃-e giri₁₇!(NE) šu ŋal₂ [...]
+#lem: an[sky]; zagin[lapis lazuli]; e[leave]; kirizal[joy]; šag[heart]; X; mes[hero]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=475
+
+476. kalam-e dadag-ge {d}suen NA# [...]
+#lem: kalam[the Land (of Sumer)]; dadag[bright]; Suen[1]DN; X; X
+#etcsl: line-id=476
+
+477. e₂ u₂-ru-um muš₃-za e₂ bi₂-in-[gub] barag-za dur₂ bi₂-in-[ŋar]
+#lem: e[house]; Urum[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=477
+
+478. 10 e₂ {d}suen-na# u₂-ru-um{ki}
+#lem: n; e[house]; Suen[1]DN; Urum[1]SN
+#etcsl: line-id=478
+
+479. zimbir{ki} barag {d}utu ud-de₃ dur₂ ŋar-ra
+#lem: Zimbir[1 Sippar]; barag[sanctum]; Utu[1]DN; ud[sun]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=479
+
+480. e₂-nun-an-na mul-an men {d}nin-gal-e tud-da
+#lem: Enunanak[1]TN; mulan[heavenly star]; men[tiara]; Ningal[1]DN; utud[give birth (to)]
+#etcsl: line-id=480
+
+481. e₂ {d}utu nun-zu X X X ki#-šar₂-ra an ki-e am₃-si
+#lem: e[house]; Utu[1]DN; nun[prince]; X; X; X; kišar[totality]; an[sky]; ki[place]; si[fill]
+#etcsl: line-id=481
+
+482. en nu₂-a-ni uŋ₃ nu₂-de₃
+#lem: en[lord]; nud[lie down]; uŋ[people]; nud[lie down]
+#etcsl: line-id=482
+
+483. zi-zi-da-ni uŋ₃ zi-zi-de₃
+#lem: zig[rise]; uŋ[people]; zig[rise]
+#etcsl: line-id=483
+
+484. gud-de₃ ur₄ X X uŋ₃-e giri₁₇ du₃-de₃
+#lem: gud[bull]; ur[be convulsed]; X; X; uŋ[people]; kiri[nose]; du[build]
+#etcsl: line-id=484
+
+485. {d}utu-ur₂ maš₂-anše u₂-a X mu-ni-in-su₈-ug
+#lem: Utu[1]DN; mašanše[animals]; u[plant(s)]; X; sug[stand]
+#etcsl: line-id=485
+
+486. saŋ gig₂-ge a mu-un-ši-ib-tu₅
+#lem: saŋ[head]; giggig[black]; a[water]; tu[cvve]
+#etcsl: line-id=486
+
+487. kalam-e zag-še mu-na-ra-si-ig
+#lem: kalam[the Land (of Sumer)]; zagše[shoulder]; sig[put into]
+#etcsl: line-id=487
+
+488. me he₂-aŋ₂-e eš₃-zu uru₂
+#lem: me[Being]; aŋ[measure]; eš[shrine]; uru[flood]
+#etcsl: line-id=488
+
+489. di ku₅-ru ki ud e₃ ud uru₁₆-na sun₄ la₂-e
+#lem: did[lawsuit]; kud[break off]; ki[place]; ud[sun]; e[leave]; ud[sun]; urun[exalted]; sum[beard]; la[hang]
+#etcsl: line-id=489
+
+490. ŋi₆ u₃-na suh₁₀ keše₂-de₃
+#lem: ŋi[night]; ŋiʾunak[night]; suh[crown]; kešed[bind]
+#etcsl: line-id=490
+
+491. {d}utu lugal e₂-babbar₂-ra-ke₄
+#lem: Utu[1]DN; lugal[king]; Ebabbara[1]
+#etcsl: line-id=491
+
+492. e₂ zimbir{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Zimbir[1 Sippar]; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=492
+
+493. 14 e₂ {d}utu zimbir{ki}-a
+#lem: n; e[house]; Utu[1]DN; Zimbir[1 Sippar]
+#etcsl: line-id=493
+
+494. e₂-hur-saŋ u₂-šim-gin₇ gurun-na sig₇-ga
+#lem: Ehursaŋ[1]TN; ušim[greenery]; gurun[fruit]; sissig[green-yellow]
+#etcsl: line-id=494
+
+495. HI-ZA{ki} šag₄-zu nam-he₂-a
+#lem: HI.ZA[1]SN; šag[heart]; namhe[abundance]
+#etcsl: line-id=495
+
+496. ki nam tar-re-da nam ši-im-da-ab-tar-re-en
+#lem: ki[place]; nam[fate]; tar[cut]; nam[fate]; tar[cut]
+#etcsl: line-id=496
+
+497. muš₃-za men-e ul he₂-em-mi-ib-tum₂-mu
+#lem: muš[flat space]; men[tiara]; ul[swell]; tum[bring]
+#etcsl: line-id=497
+
+498. {ŋiš}i-ri₉-na-zu muš-saŋ-kal u₃-zu-zu-gin₇
+#lem: arina[madder]; mušsaŋkal[snake]; zu[know]
+#etcsl: line-id=498
+
+499. temen kug-za ud he₂-ni-ib-kar₂-kar₂
+#lem: temen[foundation]; kug[pure]; ud[sun]; kar[blow]
+#etcsl: line-id=499
+
+500. ama {d}nin-tur₅ nin ulutim₂-ma
+#lem: ama[mother]; Nintur[1]DN; nin[lady]; uludin[form]
+#etcsl: line-id=500
+
+501. šag₄ ki ku₁₀-ku₁₀-ga kiŋ₂ ak-e
+#lem: šag[heart]; ki[place]; kukkug[dark]; kiŋ[work]; ak[do]
+#etcsl: line-id=501
+
+502. lugal u₃-tud suh₁₀ zid keše₂ di
+#lem: lugal[king]; utud[give birth (to)]; suh[crown]; zid[right]; kešed[bind]; di[speak]
+#etcsl: line-id=502
+
+503. en u₃-tud saŋ-men ŋa₂-ŋa₂ šu-na i₃-ŋal₂
+#lem: en[lord]; utud[give birth (to)]; saŋmen[crown]; ŋar[put]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=503
+
+504. šag₄-zu an ki {d}nin-hur-saŋ-ŋa₂-ke₄
+#lem: šag[heart]; an[sky]; ki[place]; Ninhursaŋak[1]DN
+#etcsl: line-id=504
+
+505. e₂ HI-ZA{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; HI.ZA[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=505
+
+506. 12 e₂ {d}nin-hur-saŋ-ŋa₂ HI-ZA{ki}
+#lem: n; e[house]; Ninhursaŋak[1]DN; HI.ZA[1]SN
+#etcsl: line-id=506
+
+507. ul-maš{ki} igi-nim KAB-LAH₄ kalam-ma
+#lem: Ulmaš[1]SN; iginim[upper land]; X; kalam[the Land (of Sumer)]
+#etcsl: line-id=507
+
+508. ug huš am-še₃ du₇-du₇
+#lem: ug[lion]; huš[reddish]; am[wild bull]; du[push]
+#etcsl: line-id=508
+
+509. gu₂-erim₂-ŋal₂-še₃ sa barag₂-ga
+#lem: guʾerimŋal[hostile]; sa[net]; barag[spread out]
+#etcsl: line-id=509
+
+510. niŋ₂-me-ŋar ki-bal-a du₇-du₇
+#lem: niŋmeŋar[silence]; kibala[rebel land]; du[whirl]
+#etcsl: line-id=510
+
+511. en-na nu-še-ga eme sig-ga nu₂-a
+#lem: enna[until]; šeg[agree]; eme[tongue]; sig[weak]; nud[lie down]
+#etcsl: line-id=511
+
+512. e₂ {d}inana kug {na₄}za-gin₃-na {e₂}šutum kug-sig₁₇ du₃-a
+#lem: e[house]; Inanak[1]DN; kug[metal]; zagin[lapis lazuli]; šutum[storehouse]; kugsig[gold]; du[build]
+#etcsl: line-id=512
+
+513. nun-zu a₁₂-ra₂-bu{mušen} nu-u₈-gig niŋin₃-ŋar-ra
+#lem: nun[prince]; arabu[bird]; nugig[priestess]; niŋar[cella]
+#etcsl: line-id=513
+
+514. me₃ gu₂ e₃ hu-ul-hu-ul-le-eš sig₇-ga šita₂ 7-e si sa₂-e
+#lem: me[battle]; gu[neck]; e[leave]; hul[rejoice]; sissig[green-yellow]; šita[weapon]; n; si[horn]; sa[equal]
+#etcsl: line-id=514
+
+515. a₂-kar₂ a me₃ tu₅-tu₅
+#lem: akar[implement]; a[water]; me[battle]; tu[cvve]
+#etcsl: line-id=515
+
+516. kan₄ me₃ X ŋal₂ da₁₃-da₁₃ X X X X
+#lem: kan[gate]; me[battle]; X; ŋal[open]; taka[set aside]; X; X; X; X
+#etcsl: line-id=516
+
+517. gal-zu an-na {d}inana-ke₄
+#lem: galanzu[wise]; an[sky]; Inanak[1]DN
+#etcsl: line-id=517
+
+518. e₂ ul-maš muš₃-za e₂ bi₂-<in>-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Ulmaš[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=518
+
+519. 12! e₂ {d}inana ul-maš{ki}
+#lem: n; e[house]; Inanak[1]DN; Ulmaš[1]SN
+#etcsl: line-id=519
+
+520. e₂ a₂ zid-da {urud}lub me₃ kud-kud ki-bal-še₃
+#lem: e[house]; a[arm]; zid[right]; lubi[an ax]; me[battle]; kud[cut]; kibala[rebel land]
+#etcsl: line-id=520
+
+521. a-gar₃ sig₇-sig₇-ga-bi ib₂-dun-dun
+#lem: agar[meadow]; sissig[green-yellow]; dun[dig]
+#etcsl: line-id=521
+
+522. X X X X [...] X X [...]
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=522
+
+523. [...] AN [...] X X X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=523
+
+524. nun-zu ur-saŋ [X X X] ra-ra
+#lem: nun[prince]; ursaŋ[warrior]; X; X; X; rah[beat]
+#etcsl: line-id=524
+
+525. me₃ šar₂-ra aga-kar₂ X X e-ne di
+#lem: me[battle]; šar[numerous]V/i; agakar[conquest]; X; X; ene[pleasure?]; di[speak]
+#etcsl: line-id=525
+
+526. {d}a-ba₄ diŋir a-ga-de₃{ki}-ke₄
+#lem: Aba[1]DN; diŋir[deity]; Agade[1]SN
+#etcsl: line-id=526
+
+527. e₂ a-ga-de₃{ki} muš₃-za e₂ [bi₂]-in-gub barag-za dur₂ bi₂-in-ŋar
+#lem: e[house]; Agade[1]SN; muš[flat space]; e[house]; gub[stand]; barag[sanctum]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=527
+
+528. 8 e₂ {d}a-ba₄ a-ga-de₃{ki}-a
+#lem: n; e[house]; Aba[1]DN; Agade[1]SN
+#etcsl: line-id=528
+
+529. e₂ mul-mul e₂-za-gin₃ gun₃-a kur-kur-ra šu-mu-un-bad
+#lem: e[house]; mul[shine]; Ezagin[1]TN; gunu[speckled]; kur[mountain(s)]; bad[open]
+#etcsl: line-id=529
+
+530. ha-mun du₆-du₆-da eš₃-a ŋa₂-ŋa₂
+#lem: hamun[harmony]; dud[(ruin) mound]; eš[shrine]; ŋar[put]
+#etcsl: line-id=530
+
+531. ereš₂{ki} en ul-e-ne itid-de₃ saŋ ma-ra-ni-in-il₂-eš
+#lem: Ereš[1]SN; en[lord]; e[speak]; itud[moon]; saŋ[head]; il[raise]
+#etcsl: line-id=531
+
+532. du₆-da naŋa-e naŋa di₄-di₄-la₂
+#lem: dud[(ruin) mound]; naŋa[potash]; naŋa[potash]; didila[small(er)]
+#etcsl: line-id=532
+
+533. {d}nanibgal₂ gal-e {d}nisaba-ke₄
+#lem: Nanibgal[1]DN; gal[big]; Nisabak[1]DN
+#etcsl: line-id=533
+
+534. me an-ta ba-an-e₃ me-zu ba-an-tah
+#lem: me[Being]; an[sky]; e[leave]; me[Being]; tah[add]
+#etcsl: line-id=534
+
+535. zag sal-sal-e ŋar-ra-am₃
+#lem: zag[side]; sal[thin]; ŋar[put]
+#etcsl: line-id=535
+
+536. munus zid ŋeštug₂ dirig tuku-e
+#lem: munus[woman]; zid[right]; ŋeštug[ear]; dirig[make more than]; tuku[acquire]
+#etcsl: line-id=536
+
+537. IM-GAR sed₄-da ka du₈-u₃
+#lem: X; sed[cold]; kag[mouth]; du[spread]
+#etcsl: line-id=537
+
+538. dub za-gin₃-ta ad gi₄-gi₄-gi₄
+#lem: dub[tablet]; zagin[lapis lazuli]; ad[voice]; gi[turn]
+#etcsl: line-id=538
+
+539. kur-kur-ra ad ša₄ ŋa₂-ŋa₂-ŋa₂
+#lem: kur[mountain(s)]; ad[voice]; ša[cvve]; ŋar[put]
+#etcsl: line-id=539
+
+540. munus zid naŋa kug-ga gi du₃-e tud-da
+#lem: munus[woman]; zid[right]; naŋa[potash]; kug[pure]; gi[reed]; du[build]; utud[give birth (to)]
+#etcsl: line-id=540
+
+541. an-ne₂ kuš₃ ra-ra ki eš₂ ra-ra
+#lem: an[sky]; kuš[unit of length]; rah[beat]; ki[place]; eš[rope]; rah[beat]
+#etcsl: line-id=541
+
+542. {d}nisaba za₃-mi₂
+#lem: Nisabak[1]DN; zamin[praise]
+#etcsl: line-id=542
+
+543. lu₂ dub zu₂ keše₂-da en-he₂-du₇-an-na
+#lem: lu[person]; dub[tablet]; zu[tooth]; kešed[bind]; Enheduana[1]PN
+#etcsl: line-id=543
+
+544. lugal-ŋu₁₀ niŋ₂ u₃-tud na-me lu₂ nam-mu-un-u₃-tud
+#lem: lugal[king]; niŋ[thing]; utud[give birth (to)]; name[any]; lu[person]; utud[give birth (to)]
+#etcsl: line-id=544
+
+545. 14 e₂ {d}nisaba ereš₂{ki}-a
+#lem: n; e[house]; Nisabak[1]DN; Ereš[1]SN
+#etcsl: line-id=545
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-7) O @wTN{E-unir} (House which is a ziqqurat), grown together with heaven and earth, foundation of heaven and earth, great banqueting hall of @wSN{Eridug}! @wTN{Abzu}, shrine erected for its prince, @wTN{E-du-kug} (House which is the holy mound) where pure food is eaten, watered by the prince's pure canal, mountain, pure place cleansed with the potash plant, @wTN{Abzu}, your @fsux{tigi} drums belong to the divine powers.
+
+@(8 = 8-15) Your great …… wall is in good repair. Light does not enter your meeting-place where the god dwells, the great ……, the beautiful place. Your tightly constructed house is sacred and has no equal. Your prince, the great prince, has fixed firmly a holy crown for you in your precinct -- O @wSN{Eridug} with a crown placed on your head, bringing forth thriving thornbushes, pure thornbushes for the @fsux{susbu} priests (?), O shrine @wTN{Abzu}, your place, your great place!
+
+@(16 = 16-23) At your place of calling upon @wDN{Utu}, at your oven bringing bread to eat, on your ziqqurat, a magnificent shrine stretching toward heaven, at your great oven rivalling the great banqueting hall, your prince, the prince of heaven and earth …… can never be changed, the ……, the creator, the ……, the wise one, the ……, Lord @wDN{Nudimmud}, has erected a house in your precinct, O @wTN{E-engura} (House of the subterranean waters), and taken his seat upon your dais.
+
+@(24 = 24) 23 lines: the house of @wDN{Enki} in @wSN{Eridug}.
+
+@(25 = 25-33) O ……, shrine where destiny is determined, ……, foundation, raised with a ziqqurat, ……, settlement of @wDN{Enlil}, your ……, your right and your left are @wGN{Sumer} and @wGN{Akkad}. House of @wDN{Enlil}, your interior is cool, your exterior determines destiny. Your door-jambs and architrave are a mountain summit, your projecting pilasters a dignified mountain. Your peak is a …… peak of your princely platform. Your base serves heaven and earth.
+
+@(34 = 34-37) Your prince, the great prince @wDN{Enlil}, the good lord, the lord of the limits of heaven, the lord who determines destiny, the Great Mountain @wDN{Enlil}, has erected a house in your precinct, O shrine @wSN{Nibru}, and taken his seat upon your dais.
+
+@(38 = 38) 13 lines: the house of @wDN{Enlil} in @wSN{Nibru}.
+
+@(39 = 39-46) O @wTN{Tummal}, exceedingly worthy of the princely divine powers, inspiring awe and dread! Foundation, your pure lustration extends over the @fsux{abzu}. Primeval city, reedbed green with old reeds and new shoots, your interior is a mountain of abundance built in plenitude. At your feast held in the month of the New Year, you are wondrously adorned as the great lady of @wTN{Ki-ur} rivals @wDN{Enlil}. Your princess, Mother @wDN{Ninlil}, the beloved wife of @wDN{Nunamnir}, has erected a house in your precinct, O @wTN{E-Tummal} (Tummal House), and taken a place upon your dais.
+
+@(47 = 47) 8 lines: the house of @wDN{Ninlil} in @wSN{Nibru}.
+
+@(48 = 48-56) O @wTN{E-melem-ḫuš} (House of terrifying radiance) exuding great awesomeness, @wTN{Eš-maḫ} (Magnificent shrine), to which princely divine powers were sent from heaven, storehouse of @wDN{Enlil} founded for the primeval divine powers, worthy of nobility, lifting your head in princeship, counsellor of @wTN{E-kur}, parapeted buttress, your house …… the platform with heaven. The decisions at its place of reaching the great judgment -- the river of the ordeal -- let the just live and consign to darkness the hearts that are evil. In your great place fit for pure lustration and the rites of @fsux{išib} priests, you dine with Lord @wDN{Nunamnir}.
+
+@(57 = 57-59) Your prince, the prince who is the counsellor of @wDN{Enlil} and worthy of @wTN{Eš-maḫ}, the @fsux{udug} demon of @wTN{E-kur}, the leader @wDN{Nuska}, has erected a house in your precinct, O house of @wDN{Enlil}, and taken his seat upon your dais.
+
+@(60 = 60) 12 lines: the house of @wDN{Nuska} in @wSN{Nibru}.
+
+@(61 = 61-68) O @wTN{E-me-ur-ana} (House which gathers the divine powers of heaven) standing in a great place, the just divine powers which the warrior ……, strength of battle, heroic mace, carrier of the quiver, mighty bustling brick building, your foundation is eternal. Founded by the primeval lord, with decisions which belong to the princely divine powers, holy soil filling the mountain, lifting your head among the princes, magnificent house, the wonder coming from you is like the sun whose glow spreads. E-šu-me-ša (House which …… the divine powers), @wDN{Enlil} has instilled your name with terrifying awesomeness.
+
+@(69 = 69-75) Your prince, the great ……, the warrior whose strength is boundless, the great ruler for @wDN{Enlil}, the noble who rivals heaven and earth, the provisioning (?) seal-keeper of Father @wDN{Enlil} who makes the great divine powers perfect, the ……, the leader for Father @wDN{Enlil}, the foremost, the lion engendered by the Great Mountain, who destroys the hostile lands for @wDN{Enlil}, Lord @wDN{Ninurta}, has erected a house in your precinct, O @wTN{E-šu-me-ša}, and taken his seat upon your dais.
+
+@(76 = 76) 15 lines: the house of @wDN{Ninurta} in @wSN{Nibru}.
+
+@(77 = 77-85) O @wTN{E-ŋa-duda} (House, chamber of the mound), ……, crown of the high plain, holy place, pure place, house, your foundation is a great princely mooring pole. @wTN{Du-saŋ-dili} (Singular mound), your lady, the singular woman who keeps the chamber and the dais full, gladdens your platform in princely style. Your princess who avoids anger and is exceedingly wise, the princely daughter who prospers together with the Great Mountain, @wDN{Šu-zi-ana}, the junior wife of Father @wDN{Enlil}, has erected a house in your precinct, O @wTN{Du-saŋ-dili}, and taken her seat upon your dais.
+
+@(86 = 86) 9 lines: the house of @wDN{Šu-zi-ana} in @wTN{Ŋa-gi-maḫ}.
+
+@(87 = 87-95) O mighty @wSN{Keš}, form of heaven and earth, arousing terror like a great horned viper, house of @wDN{Ninḫursaŋa}, built in a terrifying place! Respected @wSN{Keš}, your interior is a deep interior while your exterior is tall. Great lion …… on the high plain and roving about on the plain, great hill established by incantations, twilit interior in which moonlight does not shine, @wDN{Nintur} has made you beautiful -- O house @wSN{Keš}, your brickwork and your moulding of it! Your terrace! Your exterior, a lustrous @fsux{suḫ} crown, and your building of it!
+
+@(96 = 96-99) Your princess, the silencing princess, the true and great lady of heaven -- when she talks heaven trembles, when she opens her mouth a storm thunders -- @wDN{Aruru}, the sister of @wDN{Enlil}, has erected a house in your precinct, O house @wSN{Keš}, and taken her seat upon your dais.
+
+@(100 = 100) 13 lines: the house of @wDN{Ninḫursaŋa} in @wSN{Keš}.
+
+@(101 = 101-108) O @wSN{Urim}, bull standing in the wet reeds, @wTN{E-kiš-nu-ŋal} (House sending light to the earth (?)), calf of a great cow, …… light of holy heaven, ……, trap laid in a nest, @wSN{Urim}, container feeding all lands, you are a shrine in a pure place, earth of @wDN{An} -- O house of @wDN{Suen}, at your front a prince, at your back a ruler, your dining hall with @fsux{adab} songs, your great, holy banqueting hall with @fsux{šem} and @fsux{ala} drums! The light coming from you and your true lordship is a precious destiny.
+
+@(109 = 109-117) @fsux{Ŋipar}, princely shrine of the holy divine powers, shining like the …… sun, @wTN{E-kiš-nu-ŋal}, beaming moonlight which comes forth in the Land, broad light of midday which fills all lands, house, your platform is a great snake, a marsh of snakes. Your foundation is the @fsux{abzu}, fifty in number, and the @fsux{engur}, seven in number, a shrine which looks into the heart of the gods. Your prince, the prince who makes decisions, the crown of the wide heaven, the sovereign of heaven, @wDN{Ašimbabbar}, has erected a house in your precinct, O shrine @wSN{Urim}, and taken his seat upon your dais.
+
+@(118 = 118) 17 lines: the house of @wDN{Nanna} in @wSN{Urim}.
+
+@(119 = 119-128) O @wTN{E-mu-maḫ} (House with a magnificent name), rising mountain of heaven, your holy sides and your great foundation are a precious destiny. Interior full with princely divine powers, a beaming light which shines, shrine with your back to the blue sky and your prominent front to all people, in the Land it represents a binding agreement and a single track. Magnificent river with open mouth gathering together your …… divine powers, your base is great in awesomeness, a righteous hill grown in a broad place. Your lofty dwelling-place of magnificence with all the divine powers of princeship, ……, shouting ……; house of celebration, your platform gladdens the settlements.
+
+@(129 = 129-133) House, your prince @wRN{Šulgi} has made it great and most princely. The perfect and magnificent ……, the mighty and great wind, adorned with the divine powers, determining destiny, @wRN{Šulgi} of @wDN{An}, has erected a house in your precinct, O @wTN{E-ḫursaŋ} (House which is a hill), and taken his seat upon your dais.
+
+@(134 = 134) 15 lines: addition: @wTN{E-ḫursaŋ} of @wRN{Šulgi} in @wSN{Urim}.
+
+@(135 = 135-139) O city, …… from the @fsux{abzu} like barley, cloudy plain, taking the divine powers from its midst, @wSN{Kuara}, your foundation and just banqueting hall, the lord who does not hold back his goods stands ready for admiration. The Seven Sages have enlarged it for you from the south to the uplands.
+
+@(140 = 140-145) Your prince, the most precious prince @wDN{Asarluḫi}, the most precious one, is a warrior, born a noble prince, a leopard who seizes prey. He is like an onrushing storm battering the rebel land. As long as it remains disobedient, he pours spittle upon it. @wDN{Asar-alim-nuna}, the son of the @fsux{abzu}, has erected a house in your precinct, O house @wSN{Kuara}, and taken his seat upon your dais.
+
+@(146 = 146) 11 lines: the house of @wDN{Asarluḫi} in @wSN{Kuara}.
+
+@(147 = 147-156) O @wTN{E-gud-du-šar} (House with numerous perfect oxen) of holy @fsux{nir} stone in which its sovereign sits, raising a magnificent door decoration for the princely son, whose best fine oil is holy and well-prepared, @wTN{Ŋa-bura} (Chamber of bowls), holy cattle-pen pasturing cows with @fsux{munzer} plants, your prince is a great wild bull, an elephant rejoicing in its own strength, a wild cow growing horns and and delighting in its shining horns. The incantation priest of opposed languages who put clouds in the sky, the storm which roars in the sky, as the sunlight giving …… to the earth, @wDN{Ningublaga}, the son of @wDN{Nanna}, has erected a house in your precinct, O @wSN{Ki-abrig}, and taken his seat upon your dais.
+
+@(157 = 157) 10 lines: the house of @wDN{Ningublaga} in @wSN{Ki-abrig}.
+
+@(158 = 158-167) O shrine, great sanctuary founded at a cattle-pen, small shining city of @wDN{Suen}, @wTN{Kar-zida} (Pure quay), your interior is a mighty place, your foundation is holy and clean. Shrine, your @fsux{ŋipar} is founded in purity. Your door is of strong copper set up at a great place. Lowing cattle-pen, you raise your horns like a bull. Your prince, the lord of heaven standing in joy, …… at midday and ……, @wDN{Ašimbabbar}, has erected a house in your precinct, O @wTN{Kar-zida}, and taken his seat upon your dais.
+
+@(168 = 168) 10 lines: the house of @wDN{Nanna} in @wSN{Gaeš}.
+
+@(169 = 169-177) O house which comes forth from heaven, resplendent in @wSN{Kulaba}, shrine @wTN{E-babbar} (Shining house), shining bull, lift your neck to @wDN{Utu} who …… in the sky! Your shining horns are aggressive, holy and lustrous. Bearing a beard of shining lapis lazuli, ……, your prince, the mighty sunlight, the lord who …… the true word, who lightens the horizon, who lightens the sky's …… vault, @wDN{Utu}, the sovereign of @wTN{E-babbar}, has erected a house in your precinct, O house @wSN{Larsam}, and taken his seat upon your dais.
+
+@(178 = 178) 9 lines: the house of @wDN{Utu} in @wSN{Larsam}.
+
+@(179 = 179-185) O @wSN{Enegir}, great libation pipe, libation pipe to the underworld of @wDN{Ereškigala}, Gudua @noteref{Entrance to the nether world} of @wGN{Sumer} where mankind is gathered, @wTN{E-gida} (Long house), in the land your shadow has stretched over the princes of the land. Your prince, the seed of the great lord, the sacred one of the great underworld, given birth by @wDN{Ereškigala}, playing loudly on the @fsux{zanaru} instrument, sweet as the voice of a calf, @wDN{Ninazu} of the words of prayer, has erected a house in your precinct, O house @wSN{Enegir}, and taken his seat upon your dais.
+
+@(186 = 186) 7 lines: the house of @wDN{Ninazu} in @wSN{Enegir}.
+
+@(187 = 187-196) O primeval place, deep mountain founded in an artful fashion, shrine, terrifying place lying in a pasture, a dread whose lofty ways none can fathom, @wSN{Ŋišbanda}, neck-stock, meshed net, shackles of the great underworld from which none can escape, your exterior is raised up, prominent like a snare, your interior is where the sun rises, endowed with wide-spreading plenty. Your prince is the prince who stretches out his pure hand, the holy one of heaven, with luxuriant and abundant hair hanging at his back, Lord @wDN{Ninŋišzida}. @wDN{Ninŋišzida} has erected a house in your precinct, O @wSN{Ŋišbanda}, and taken his seat upon your dais.
+
+@(197 = 197) 10 lines: the house of @wDN{Ninŋišzida} in @wSN{Ŋišbanda}.
+
+@(198 = 198-203) O house with the great divine powers of @wSN{Kulaba}, ……, its platform has made the great shrine flourish. Green fresh fruit, marvellous, filled with ripeness, descending from the centre of heaven, shrine built for the bull, @wTN{E-ana} (House of heaven), house with seven corners, with seven fires lifted at night-time, surveying seven pleasures (?), your princess is on the pure horizon.
+
+@(204 = 204-208) Your lady @wDN{Inana} who ……, who adorns the woman and covers the man's head with a cloth, the one with a lustrous …… @fsux{suḫ} crown, the dragon of Niŋin-ŋar, the queen of heaven and earth, @wDN{Inana}, has erected a house in your precinct, O @wTN{E-ana}, and taken her seat upon your dais.
+
+@(209 = 209) 11 lines: the house of @wDN{Inana} in @wSN{Unug}.
+
+@(210 = 210-219) O house where lustrous herbs are strewn upon the flowery bed, the bed-chamber of holy @wDN{Inana}, where the lady of the plain refreshes herself! Brick-built @wTN{E-muš} (House which is the precinct) is flowery and holy, its …… clay established for him who tends the ewes on the high plain. Your …… house of @wGN{Arali} (House which is the nether world) gives shade (?) to the shepherd. Your prince, a raging lion on the plain, the @fsux{šuba} jewel of the Mistress whose breast is holy and marvellous, the lord who is holy @wDN{Inana's} husband, @wDN{Dumuzid}, the sovereign of @wTN{E-muš}, has erected a house in your precinct, O @wSN{Bad-tibira}, and taken his seat upon your dais.
+
+@(220 = 220) 10 lines: the house of @wDN{Dumuzid} in @wSN{Bad-tibira}.
+
+@(221 = 221-228) O @wTN{E-igizu-uru} (House, your face is mighty), with plenty coming from within, your well-stocked chamber is a mountain of abundance. House, your fragrance is a mound of vines. Your true minister is a leader in heaven. House, your princess is prominent among the gods, the true minister of @wTN{E-ana} who holds a holy sceptre in her hand. @wDN{Ninšubur}, the true minister of @wTN{E-ana}, has erected a house in your precinct, O @wTN{E-akkil} (House of lamentation), and taken her seat upon your dais.
+
+@(229 = 229) 8 lines: the house of @wDN{Ninšubur} in @wSN{Akkil}.
+
+@(230 = 230-235) O city, founded upon a dais in the @fsux{abzu}, established for the rites of @fsux{išib} priests, house where incantations of heaven and earth are recited,  @gap{4 lines fragmentary} 
+
+@(236 = 236-238) …… lustration water in the holy heaven and on the pure earth. @wDN{Ningirim}, the lady of the shining lustration water, has erected a house in your precinct, O house @wSN{Murum}, and taken her seat upon your dais.
+
+@(239 = 239) 9 lines: the house of @wDN{Ningirim} in @wSN{Murum}.
+
+@(240 = 240-248) O @wTN{E-ninnu} (House of 50), right hand of @wSN{Lagaš}, foremost in @wGN{Sumer}, the Anzud bird which gazes upon the mountain, the @fsux{šar-ur} weapon of …… @wDN{Ninŋirsu}, …… in all lands, the strength of battle, a terrifying storm which envelops men, giving the strength of battle to the @wDN{Anuna}, the great gods, brick building on whose holy mound destiny is determined, beautiful as the hills, your canal ……, your …… blowing in opposition (?) at your gate facing towards @wSN{Iri-kug}, wine is poured into holy @wDN{An's} beautiful bowls set out in the open air.
+
+@(249 = 249-254) Whatever enters you is unequalled, whatever leaves endures. ……, terrifying facade, house of radiance, a place of reaching judgment which Lord @wDN{Ninŋirsu} has filled with great awesomeness and dread! All the @wDN{Anuna} gods attend your great drinking-bouts.
+
+@(255 = 255-261) Your prince, a raging storm which destroys cities in hostile lands, your sovereign, a terrifying wild ox which will manifest its strength, a terrifying lion which smashes heads, the warrior who devises strategies in lordship and attains victory in kingship, the mighty one, the great warrior in battle, the lord without rival, the son of @wDN{Enlil}, Lord @wDN{Ninŋirsu}, has erected a house in your precinct, O @wTN{E-ninnu}, and taken his seat upon your dais.
+
+@(262 = 262) 22 lines: the house of @wDN{Ninŋirsu} in @wSN{Lagaš}.
+
+@(263 = 263-270) O @wSN{Iri-kug} (Holy city), shrine of holy @wDN{An}, which caused the human seed to come forth, called by a good name, within you is the river of ordeal which vindicates the just man. @wTN{E-ŋalga-sud} (House which spreads counsel far and wide), storehouse which eternally possesses silver and lapis lazuli, @wTN{E-tar-sirsir}, from which decisions and the divine powers come forth, where the hero performs obeisance, your princess, the merciful princess of the Land, is the mother of all lands. The lady, the great healer of the black-headed who determines the destiny of her city, the first-born daughter of holy @wDN{An}, the maiden, Mother @wDN{Bau}, has erected a house in your precinct, O house @wSN{Iri-kug}, and taken her seat upon your dais.
+
+@(271 = 271) 8 lines: the house of @wDN{Bau} in @wSN{Iri-kug}.
+
+@(272 = 272-281) O house, wild cow ……, city which appears in splendour adorned for the princess, @wSN{Sirara}, great and princely place, your …… by the shrine, your lady @wDN{Nanše}, a great storm, a mighty flood, born on the shore of the sea, who laughs on the foam of the sea, who plays on the water of the flood, who ……, @wDN{Nanše}, the …… lady, has erected a house in your precinct, O house @wSN{Sirara}, and taken her seat upon your dais.
+
+@(282 = 282) 10 lines: the house of @wDN{Nanše} in @wSN{Sirara}.
+
+@(283 = 283-292) O @wTN{E-ab-šaga-la} (House which stretches over the midst of the sea) built in a holy place, @wSN{Gu-aba}, your interior produces everything and is a well-established storehouse. Holy shrine, wild cow for which everything endures, your princess is @wDN{Ninŋagia}, the magnificent …… stewardess, the mighty …… of Father @wDN{Enlil}, who takes counsel with Lord @wDN{Nunamnir}. Born in ……, …… in the flood of the sea, like her …… father a controller of the pure sea, holy @wDN{Ninmarki} has erected a house in your precinct, O house @wSN{Gu-aba}, and taken her seat upon your dais.
+
+@(293 = 293) 10 lines: the house of @wDN{Ninmarki} in @wSN{Gu-aba}.
+
+@(294 = 294-301) O house @wSN{Kinirša}, suited for its lady, ……, beautiful as a hill, standing by the ziqqurat, house, ……, place resounding loudly with happiness, house, your princess is a storm, riding on a lion, ……. Exalted in holy song and antiphony, singing with a loud voice, the child, the true wild cow, taken care of at the holy breast of the mother who begot her, @wDN{Dumuzid-abzu}, has erected a house in your precinct, O shrine @wSN{Kinirša}, and taken her seat upon your dais.
+
+@(302 = 302) 7 lines: the house of @wDN{Dumuzid-abzu} in @wSN{Kinirša}.
+
+@(303 = 303-310) O @wTN{E-bur-sigsig} (House with beautiful bowls) set up under heaven, mighty banqueting hall, fulfilling (?) the commands, abundance of the midst of the sea in ……, at whose holy …… there is entreaty and joy. The faithful man has enlarged @wTN{E-maḫ} (Magnificent house), the house of @wDN{Šara}, for you in plenty. Your house @wTN{E-maḫ} -- whose prince is the princely son of the Mistress -- continues (?) in good fortune, an area of abundance and well-being.
+
+@(311 = 311-313) The one who arranges the hair at the nape of the neck, with the gaze of a wild cow, @wDN{Šara}, who …… good things, the son who allots the divine powers to his mother, has erected a house in your precinct, O house @wSN{Umma}, and taken his seat upon your dais.
+
+@(314 = 314) 11 lines: the house of @wDN{Šara} in @wSN{Umma}.
+
+@(315 = 315-320) O @wTN{E-šerzi-guru} (House clad in splendour) dressed with ornaments of @fsux{šuba} stone, great awesomeness, Niŋin-ŋar of holy @wDN{Inana}, adorned throughout with the divine powers which are true, @wSN{Zabalam}, shrine of the shining mountain, shrine of …… dawn, which has resounded with pleasure (?), the Mistress has founded your good banqueting hall for you in pleasure (?).
+
+@(321 = 321-326) Your lady @wDN{Inana}, the ……, the singular woman, the dragon who speaks hostile words to ……, who shines in brightness, who goes against the rebel land, through whom the firmament is made beautiful in the evening, the great daughter of @wDN{Suen}, holy @wDN{Inana}, has erected a house in your precinct, O house @wSN{Zabalam}, and taken her seat upon your dais.
+
+@(327 = 327) 12 lines: the house of @wDN{Inana} in @wSN{Zabalam}.
+
+@(328 = 328-345) O house inspiring terror like a great lion, making as clear as day the decisions for those on the high plain, house of @wDN{Iškur}, at your front is abundance, at your rear is celebration. Your foundation is a horned bull, a lion. Holy staff, teat of heaven with rain for fine barley, the pilasters of your house are a wild bull with outspread horns, your ……, foundation and wall rising high, ……, thick cloud, …… snake, …… moonlight, …… @wDN{Iškur}, a sweeping flood, …… a storm and seven raging winds, ……, blowing raging winds, …… running from the ……, splits the …… hillside, diorite, stones and …….  @gap{2 lines missing}   @gap{1 line fragmentary} 
+
+@(346 = 346-350) The ……, the seed of the Land, the ……, the …… prince, the canal inspector of heaven and earth, the …… living, the numerous people, the ……, @wDN{Iškur}, has erected a house in your precinct, O house @wSN{Karkara}, and taken his seat upon your dais.
+
+@(351 = 351) 23 lines: the house of @wDN{Iškur} in @wSN{Karkara}.
+
+@(352 = 352-361) O ……, bolt founded by @wDN{An},  @gap{4 lines fragmentary}   @gap{1 line missing}   @gap{1 line fragmentary}   @gap{approx. 2 lines missing}  …… has erected a house in your precinct, O ……, and taken a seat upon your dais.
+
+@(362 = 362) 10 (?) lines: the house of …… in …….
+
+@(365 = 363-377)  @gap{2 lines missing}   @gap{1 line fragmentary}  @wDN{An} has …… your platform. @wTN{E-maḫ} (Exalted house), house of the universe, suited for its lady, your front inspires great awesomeness, your interior is filled with radiance. Mother @wDN{Nintur}, @wDN{Enlil} and @wDN{Enki} have determined your destiny. @wTN{E-suga} (Joyous (?) house) which ……, life of the black-headed, @wDN{An} has given you the magnificent divine powers from the interior of heaven. As in @wSN{Keš}, @wDN{Ninḫursaŋa} has blessed your priests maintaining the shrine in the holy @fsux{uzga} precinct. House with great divine powers, a pure platform and cleansing lustration, @wDN{Ašgi}, the god of @wSN{Adab}, has erected a house in your precinct, O @wSN{Adab}, O house situated at a canal, O house @wSN{Adab}, and taken his seat upon your dais.
+
+@(378 = 378) 15 lines: the house of @wDN{Ninḫursaŋa} in @wSN{Adab}.
+
+@(379 = 379-391) O @wSN{Isin}, city founded by @wDN{An} which he has built on an empty plain! Its front is mighty, its interior is artfully built, its divine powers are divine powers which @wDN{An} has determined. Shrine which @wDN{Enlil} loves, place where @wDN{An} and @wDN{Enlil} determine destinies, place where the great gods dine, filled with great awesomeness and terror: all the @wDN{Anuna} gods attend your great drinking-bouts. Your princess, the mother, the Mistress adorned with jewels of @fsux{šuba} stone, who maintains the holy place's Niŋin-ŋar, who binds the @fsux{suḫ} crown on the @fsux{nugig} priestess, who causes the seven teats to flow for the @fsux{nubar} priestess, has resounded with seven pleasures (?).
+
+@(392 = 392-394) Your lady, the great healer of the Land, @wDN{Ninisina}, the daughter of @wDN{An}, has erected a house in your precinct, O house @wSN{Isin}, and taken her seat upon your dais.
+
+@(395 = 395) 16 lines: the house of @wDN{Ninisina} in @wSN{Isin}.
+
+@(396 = 396-405) O @wSN{Kazallu}, your crown reaches to the centre of heaven, shining, …… an object of admiration. Your prince is the seed of a bull, engendered by a wild bull in ……, a magnificent …… with sparkling eyes, a lord with the teeth of a lion, who snatches the calf with his claws, who snatches ……. …… who snatches ……, the …… who gives strength to the ……, the great lord @wDN{Numušda}, has erected a house in your precinct, O @wTN{Kun-satu} (Threshold of the mountain), O @wSN{Kazallu}, and taken his seat upon your dais.
+
+@(406 = 406) 10 lines: the house of @wDN{Numušda} in @wSN{Kazallu}.
+
+@(407 = 407-414) O @wTN{E-igi-kalama} (House which is the eye of the Land), your foundation is firmly laid, growing hill which stands broadly on the earth, …… the enemies' land,  @gap{3 lines fragmentary}   @gap{approx. 1 line missing}  …… has erected a house in your precinct, O ……, and taken a seat upon your dais.
+
+@(415 = 415) 8 (?) lines: the house of @wDN{Lugal-Marda} in @wSN{Marda}.
+
+@(416 = 416-423) O @wSN{Dēr} @noteref{Akkadian name; a Sumerian name is unknown}, taking extreme care of decisions, ……, on your awesome and radiant gate a decoration displays a horned viper and a @fsux{mušḫuš} embracing. Your prince, a leader of the gods, fit for giving counsel and grand speech, the son of @wDN{Uraš} who knows thoroughly the true divine powers of princeship, @wDN{Ištaran}, the …… sovereign of heaven, has erected a house in your precinct, O @wTN{E-dim-gal-kalama} (House which is the great pole of the Land), and taken his seat upon your dais.
+
+@(424 = 424) 8 lines: the house of @wDN{Ištaran} in @wSN{Dēr}.
+
+@(425 = 425-435) O @wTN{E-sikil} (Pure house) whose pure divine powers are supreme in all lands, whose name is high and mighty, magnificent dwelling of the warrior, holy house of @wDN{Ninazu}, house of the holy divine powers! House, your divine powers are pure divine powers, your lustration is a cleansing lustration. The warrior refreshes himself in your dwelling. @wDN{Ninazu} dines on your platform. Your sovereign, the great lord, the son of @wDN{Enlil}, is a towering lion spitting venom over hostile lands, rising like the south wind against enemy lands, snarling like a dragon against the walls of rebel lands, a storm enveloping the disobedient and trampling on the enemy.
+
+@(436 = 436-446) When he strides forth, no evil-doer can escape. When he establishes his triumph, the cities of the rebel lands are destroyed. When he frowns, their people are cast into the dust. House, your prince is a great lion from whose claws the enemy hangs. Your sovereign is a terrifying, mighty storm, the vigour of the battle, in combat …… like a …… with a shield on his lofty arm, a net over the widespread people from whose reach the foe cannot escape. When the great lord is resplendent, his magnificence has no equal. The true seed born of the Great Mountain and @wDN{Ninlil}, your sovereign, the warrior @wDN{Ninazu}, has erected a house in your precinct, O @wTN{E-sikil}, O @wSN{Ešnunna}, and taken his seat upon your dais.
+
+@(447 = 447) 22 lines: the house of @wDN{Ninazu} in @wSN{Ešnunna}.
+
+@(448 = 448-455) O house built in plenitude, @wSN{Kiš}, raising its head among the princely divine powers, established settlement, your great foundation cannot be scattered. Your plinth is a vast oppressive cloud floating in the midst of the sky. Your interior is a weapon, a mace decorated with ……. Your right hand makes mountains tremble, your left thins out the enemy. Your prince, mighty and magnificent, a great storm overpowering the earth, inspiring great and terrifying awe, your sovereign, the warrior @wDN{Zababa}, has erected a house in your precinct, O @wTN{E-dub} (Storage house), O house @wSN{Kiš}, and taken his seat upon your dais.
+
+@(456 = 456) 8 lines: the house of @wDN{Zababa} in @wSN{Kiš}.
+
+@(457 = 457-466) O @wTN{E-ŋiškešda-kalama} (House which is the bond of the Land), bull …… great strength among the gods, terrifying wild cow, wild bull which causes lament, @wSN{Gudua}, your quay is a low quay which bestows water, your interior is artfully built, your mace is a …… mace released from heaven, your platform is a lustrous platform spreading over @wTN{Mešlam}. Your prince, the mighty god, the sovereign of @wTN{Mešlam}, the fierce god of the underworld, the sovereign of @wTN{Ud-šuš} (Sunset), @wDN{Nergal}, @wDN{Mešlamta-ea}, has erected a house in your precinct, and taken his seat upon your dais.
+
+@(467 = 467) 10 lines: the house of @wDN{Nergal} in @wSN{Gudua}.
+
+@(468 = 468-477) O mighty @wSN{Urum} where @wDN{Suen} pronounces judgment, @wTN{E-ab-lua} (House with teeming cattle), wide cattle-yard, @wDN{Ašimbabbar} acts as your shepherd. House, my sovereign, your sceptre reaches to heaven, …… to the earth, moonlight ……, celebration, your …… may …… the light. Your prince, the prince of holy celebration, ……, who appears in the lapis lazuli coloured sky, a celebration, to whom the hero pays homage ……, who brightens the Land, …… @wDN{Suen}, has erected a house in your precinct, O house @wSN{Urum}, and taken his seat upon your dais.
+
+@(478 = 478) 10 lines: the house of @wDN{Suen} in @wSN{Urum}.
+
+@(479 = 479-488) O @wSN{Zimbir}, dais upon which @wDN{Utu} sits daily, @wTN{E-nun-ana} (House of the prince of heaven), star of heaven, crown given birth by @wDN{Ningal}, house of @wDN{Utu}, your prince, the …… of the universe, fills heaven and earth. When the lord sleeps, the people sleep; when he rises, the people rise. The bull …… and the people prostrate themselves. Before @wDN{Utu} the herds pasture ……. The black-headed have bathed before him, the Land has …… before him. He measures out the divine powers -- your shrine is a flood.
+
+@(489 = 489-492) Pronouncing judgment where the sun rises, mighty sunlight, wearing a beard, tying on the @fsux{suḫ} crown at night, @wDN{Utu}, the sovereign of @wTN{E-babbar} (Shining house), has erected a house in your precinct, O house @wSN{Zimbir}, and taken his seat upon your dais.
+
+@(493 = 493) 14 lines: the house of @wDN{Utu} in @wSN{Zimbir}.
+
+@(494 = 494-499) O @wTN{E-ḫursaŋ} (House which is a mountain) beautiful as greenery, @wSN{……} @noteref{The Sumerian name of this city is unknown}, your interior is plenitude. At the place where destiny is determined you determine destiny. May the crown bring joy to your platform. May your roots glisten like an immense @fsux{saŋkal} snake in your holy foundations.
+
+@(500 = 500-505) Mother @wDN{Nintur}, the lady of creation, performs her task within your dark place, binding the true @fsux{suḫ} crown on the new-born king, setting the crown on the new-born lord who is secure in her hand. The midwife of heaven and earth, @wDN{Ninḫursaŋa}, has erected a house in your precinct, O house @wSN{……}, and taken her seat upon your dais.
+
+@(506 = 506) 12 lines: the house of @wDN{Ninḫursaŋa} in @wSN{……}.
+
+@(507 = 507-513) O @wSN{Ulmaš}, upper land, …… of the Land, terrifying lion battering a wild bull, net spreading over an enemy, making silence fall upon a rebel land on which, as long as it remains insubmissive, spittle is poured! House of @wDN{Inana} of silver and lapis lazuli, a storehouse built of gold, your princess is an @fsux{arabu} bird, the Mistress of the Niŋin-ŋar.
+
+@(514 = 514-518) Arrayed in battle, jubilantly (?) beautiful, ready with the seven maces, washing her tools for battle, opening the door of battle and ……, the extremely wise one of heaven, @wDN{Inana}, has erected a house in your precinct, O house @wSN{Ulmaš}, and taken her seat upon your dais.
+
+@(519 = 519) 12 lines: the house of @wDN{Inana} in @wSN{Ulmaš}.
+
+@(520 = 520-523) O house, right arm, battle-axe cutting down the rebel lands, digging up their green fields,  @gap{2 lines fragmentary} 
+
+@(524 = 524-527) Your prince, the warrior who ……, who defeats (?) all in battle, exulting ……, @wDN{Aba}, the god of @wSN{Agade}, has erected a house in your precinct, O house @wSN{Agade}, and taken his seat upon your dais.
+
+@(528 = 528) 8 lines: the house of @wDN{Aba} in @wSN{Agade}.
+
+@(529 = 529-534) O house of stars, bright @wTN{E-zagin} (Lapis lazuli house), reaching into all lands, establishing …… in the shrine, @wSN{Ereš}! The primeval lords raise their heads to you every month. …… the potash plant, great @wDN{Nanibgal}, @wDN{Nisaba}, has brought divine powers from heaven and added to your divine powers.
+
+@(535 = 535-542) Sanctuary established for ……! To the true woman who possesses exceeding wisdom, soothing …… and opening the mouth, always consulting a tablet of lapis lazuli, giving advice to all lands, the true woman, the holy potash plant, born of the stylus reed, applies the measure to heaven and places the measuring-rope on the earth -- to @wDN{Nisaba} be praise!
+
+@(543 = 543-544) The compiler of the tablets was @wPN{En-ḫedu-ana}. My king, something has been created that no one has created before.
+
+@(545 = 545) 14 lines: the house of @wDN{Nisaba} in @wSN{Ereš}.
+
+
+

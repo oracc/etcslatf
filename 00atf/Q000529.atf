@@ -1,0 +1,147 @@
+&Q000529 = A hymn to Enlil for Samsu-iluna (Samsu-iluna F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.3.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.3.6&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. lugal palil an-na šag₄ kug-ge pad₃-da
+#lem: lugal[king]; palil[first and foremost]; An[1]DN; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=A.1
+
+A.2. sa-am-su-i-lu-na lugal palil an-na šag₄ kug-ge pad₃-da
+#lem: Samsuʾiluna[01]; lugal[king]; palil[first and foremost]; An[1]DN; šag[heart]; kug[pure]; pad[find]
+#etcsl: line-id=A.2
+
+A.3. TI NI BAL ga-ar-za UM MU-MU DI mah-ha
+#lem: X; X; X; ŋarza[rites]; X; X; X; mah[great]
+#etcsl: line-id=A.3
+
+A.4. KAL ZU ša hu-la saŋ-be₂-eš ha-pa-DU saŋ us₂-sa-a
+#lem: X; X; šag[heart]; hul[rejoice]; saŋ[head]; e[leave]; saŋ[head]; us[accompany]
+#etcsl: line-id=A.4
+
+A.5. {ŋiš}gu-za kug-sig₁₇ ŋar-ra DI nam-lugal-la!(ŊU₁₀) saŋ il₅-la
+#lem: guza[chair]; kugsig[gold]; ŋar[put]; X; namlugal[kingship]; saŋ[head]; il[raise]
+#etcsl: line-id=A.5
+
+A.6. šag₄-bi a₂ nam-ur-saŋ-ŋa₂-ki!-im mah-bi tuš-ša-a
+#lem: šag[heart]; a[arm]; namursaŋ[heroism]; mah[great]; tuš[sit (down)]
+#etcsl: line-id=A.6
+
+A.7. sa-am-su-i-lu-na lugal kalag-ga an-ne₂ di-kud# mah an-ne₂ nam gal mu-re-tar
+#lem: Samsuʾiluna[01]; lugal[king]; kalag[strong]; an[sky]; dikud[judge]; mah[great]; An[1]DN; nam[fate]; gal[big]; tar[cut]
+#etcsl: line-id=A.7
+
+A.8. aga gen₆-na ti-il₅-la mu-ra-ni-in-zal
+#lem: aga[tiara]; gin[confirm]; til[live (of a single person)]; zal[pass time]
+#etcsl: line-id=A.8
+
+A.9. lu₂ {d}en-lil₂! NAM GUR A IR EŠ ŠI nam-sipad uŋ₃ %e da-ga-an-ni-ši %s mu-un-na-šum₂-ma-dah
+#lem: lu[person]; Enlil[1]DN; X; X; X; X; X; X; namsipad[shepherdship]; uŋ[people]; damal[wide]V/i; šum[give]
+#etcsl: line-id=A.9
+
+A.10. sipad kiŋ₂ nibru{ki} saŋ us₂ e₂-kur-ra
+#lem: sipad[shepherd]; kiʾaŋa[beloved]; Nibru[1]SN; saŋ[head]; us[accompany]; Ekur[1]TN
+#etcsl: line-id=A.10
+
+A.11. engar gen₆-na e₂ {d}a-sa-lim-a-ka-am
+#lem: engar[farmer]; gin[confirm]; e[house]; Asalim[1]DN
+#etcsl: line-id=A.11
+
+A.12. niŋ₂-nam nu-si-li-ge₁₈ e₂-saŋ-il₅-la-ak-ki-im
+#lem: niŋnam[anything]; silig[cease]; Esaŋila[1]TN
+#etcsl: line-id=A.12
+
+A.13. {d}en-lil₂ me nam-sipad-zu kalam-ma ak-ka kur ŋiri₃-zu-uš mu-ŋar
+#lem: Enlil[1]DN; me[Being]; namsipad[shepherdship]; kalam[the Land (of Sumer)]; ak[do]; kur[mountain(s)]; ŋiri[foot]; ŋar[put]
+#etcsl: line-id=A.13
+
+A.14. še-ga {d}utu-ke₄ kiŋ₂ {d}inana-ke₄
+#lem: šeg[agree]; Utu[1]DN; kiʾaŋa[beloved]; Inanak[1]DN
+#etcsl: line-id=A.14
+
+A.15. sa-am-su-i-lu-na lugal nam nu-ug-ru {d}en-lil₂ lugal-ŋa₂-ta
+#lem: Samsuʾiluna[01]; lugal[king]; nam[fate]; kur[different]; Enlil[1]DN; lugal[king]
+#etcsl: line-id=A.15
+
+A.16. inim dug₄-ga {d}en-lil₂ {d}en-ki-ka₃-ta u₂ {d}a-sa-lim {d}za-ba-ba {d}lugal-gu₂-du₃-a lugal e₂!-a mu-du₃-a
+#lem: inim[word]; dug[speak]; Enlil[1]DN; Enkik[1]DN; u[and]; Asalim[1]DN; Zababa[1]DN; Lugalgudua[1]DN; lugal[king]; e[house]; du[build]
+#etcsl: line-id=A.16
+
+A.17. [...] X X X kur# ki-bal GU₂ LU DI X [...] X
+#lem: X; X; X; X; kur[mountain(s)]; kibala[rebel land]; X; X; X; X; X; X
+#etcsl: line-id=A.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. {d#}iškur# sa kur-kur-[ra ...]
+#lem: Iškur[1]DN; sa[net]; kur[mountain(s)]; X
+#etcsl: line-id=B.1
+
+B.2. kur-kur-re me-te-eš he-i kalag-ga si-ig X X pa₃ mu-na-<e₃>
+#lem: kur[mountain(s)]; mete[appropriate thing]; e[bring out]; kalag[strong]; sig[weak]; X; X; pa[branch]; e[leave]
+#etcsl: line-id=B.2
+
+B.3. sa-am-su-i-lu-na mu-u₂-a sa₃ nir-ŋal₂ kalam-ma-an-ni
+#lem: Samsuʾiluna[01]; muʾuʾa[youth]; sag[good]; nirŋal[authoritative]; kalam[the Land (of Sumer)]
+#etcsl: line-id=B.3
+
+B.4. gal-zu ka-aš pa-ar kalam-me si# bi-sa
+#lem: galanzu[wise]; kaš[decision]; bar[place outside]; kalam[the Land (of Sumer)]; si[horn]; sa[equal]
+#etcsl: line-id=B.4
+
+B.5. sa-am-su-i-lu-na gu₂ {id₂}idigna gu₂ {id₂}bur-na gu₂ a-a-ba-aš-ši DU gu da-a-bi-ša₂ lu₂ mu-na-a-IGI
+#lem: Samsuʾiluna[01]; gu[neck]; Idigna[1 Tigris]; gu[neck]; Buranun[1 Euphrates]; gu[neck]; ab[sea]; X; gu[neck]; id[river]; lu[person]; X
+#etcsl: line-id=B.5
+
+B.6. e₂-kur-re e₂ {d}en-lil₂-la₂-ta NI IGI pa-la-ak šag₄ hu-la-ka-ni mu-un-ni-tuš
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN; X; X; barag[sanctum]; šag[heart]; hul[rejoice]; tuš[sit (down)]
+#etcsl: line-id=B.6
+
+B.7. {d}en-lil₂-la₂ za-am-me-en-zu dug₃-ga
+#lem: Enlil[1]DN; zamin[praise]; dug[good]
+#etcsl: line-id=B.7
+
+B.8. {d}en-lil₂ lugal-ŋu₁₀ nam zal-ga mu nam-til₃-la šu-mu
+#lem: Enlil[1]DN; lugal[king]; nam[fate]; zalag[bright]; mu[year]; namtil[life]; šum[give]
+#etcsl: line-id=B.8
+
+B.9. zi u₂ su-ud-ŋa₂-al niŋ₂-ba-aš-ši-i ba-am-ma
+#lem: zi[life]; ud[sun]; sudŋal[long-lasting]; niŋba[gift]; ba[allot]
+#etcsl: line-id=B.9
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-8) O king, foremost one of @wDN{An}, chosen in his holy heart, @wRN{@wDN{Samsu}-iluna}, king, foremost one of @wDN{An}, chosen in his holy heart, …… rites …… august, ……, joyful, supreme, assiduous, with head high on the gold-decorated throne of …… kingship, who sits majestically …… in its midst in heroic strength, @wRN{@wDN{Samsu}-iluna}: @wDN{An}, the mighty king of heaven, the august judge, has assigned you a great destiny, and has made you to pass your life with a secure crown.
+
+@(A.9 = 9-17) He is the man to whom @wDN{Enlil} has given …… and the shepherdship over the widespread people, the beloved (?) shepherd of @wSN{Nibru}, the constant servant of @wTN{E-kur}; he is the trustworthy farmer of the house of @wDN{Asalim}, who takes care that provisions do not cease in @wTN{E-saŋ-ila}. For you to exercise your divine powers of shepherdship in the Land, @wDN{Enlil} has placed the foreign lands at your feet. Obedient to @wDN{Utu}, beloved (?) of @wDN{Inana}, @wRN{@wDN{Samsu}-iluna}, the king whose fate is never altered by @wDN{Enlil}, my king, at the command uttered by @wDN{Enlil}, @wDN{Enki} and @wDN{Asalim}, @wDN{Zababa}, @wDN{Lugal-gu-dua}, the king who builds temples, …… the rebel lands ……  @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1-9) @wDN{Iškur}, the net of the foreign lands …… made the foreign countries praise him duly, and made the mighty …… manifest. @wRN{@wDN{Samsu}-iluna}, the good hero, lordly one of his Land, has wisely co-ordinated decisions for the Land. From the banks of the @wWN{Tigris} and the banks of the @wWN{Euphrates}, to the shores of the sea …… and the banks of its rivers, men …… @wRN{@wDN{Samsu}-iluna}. In @wTN{E-kur}, the house of @wDN{Enlil}, …… he has taken his seat on his dais of joy. @wDN{Enlil}, it is sweet to praise you. @wDN{Enlil}, give my king a brilliant destiny and years of life! Grant him as a gift a life of long days!
+
+
+

@@ -1,0 +1,187 @@
+&Q000526 = A prayer for Samsu-iluna (Samsu-iluna C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.8.3.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.3.3&display=Crit&charenc=gcirc#
+
+1. en-e {ŋiš}gu-za barag mah-a dur₂ ŋar-ra-zu-ne
+#lem: en[lord]; guza[chair]; barag[sanctum]; mah[great]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=1
+
+2. ki-tuš nam-lugal-zu ha-ba-gen₆-ne₂
+#lem: kituš[dwelling place]; namlugal[kingship]; gin[confirm]
+#etcsl: line-id=2
+
+3. sa-am-su-i-lu-na {ŋiš}gu-za barag mah-a dur₂ ŋar-ra-zu-ne
+#lem: Samsuʾiluna[01]; guza[chair]; barag[sanctum]; mah[great]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=3
+
+4. ki-tuš nam-lugal-zu ha-ba-gen₆-ne₂
+#lem: kituš[dwelling place]; namlugal[kingship]; gin[confirm]
+#etcsl: line-id=4
+
+5. šibir# nam-en-na dab₅-a-zu-ne
+#lem: šibir[shepherd's staff]; namen[the office of en-priest]; dab[seize]
+#etcsl: line-id=5
+
+6. {ŋiš}gu-za-zu suhuš#-bi he₂-ge-en
+#lem: guza[chair]; suhuš[foundation]; gin[confirm]
+#etcsl: line-id=6
+
+7. ki kug ki sikil-la ni₂# mu₂-mu₂-da-zu-ne
+#lem: ki[place]; kug[purify]; ki[place]; sikil[pure]; ni[fear]; mu[grow]
+#etcsl: line-id=7
+
+8. me nam-nun-na šu gal-bi he₂-ni-du₇
+#lem: me[Being]; namnun[magnificence]; šu[hand]; gal[big]; du[perfect]
+#etcsl: line-id=8
+
+9. barag kug nam-lugal-ke₄# [...] X-ne-da-zu-ne
+#lem: barag[sanctum]; kug[purify]; namlugal[kingship]; X; X
+#etcsl: line-id=9
+
+10. nam-nir-ŋal₂-la gu₂ an-še₃ he₂-ni-zig₃
+#lem: namnirŋal[authority]; gu[neck]; an[sky]; zig[rise]
+#etcsl: line-id=10
+
+11. me-lem₄ nam-lugal-la mu₄-mu₄-da-zu-ne ud-gin₇! mul-mul X X X X X
+#lem: melim[frightening splendor]; namlugal[kingship]; mur[dress]; ud[sun]; mul[shine]; X; X; X; X; X
+#etcsl: line-id=11
+
+12. me mah me gal-gal#-la šu du₇-a-zu-ne
+#lem: me[Being]; mah[great]; me[Being]; gal[big]; šu[hand]; du[perfect]
+#etcsl: line-id=12
+
+13. ni₂ gal nam-lugal-la-ka# tug₂-ba₁₃-gin₇ he₂-en₆#-mur₁₀
+#lem: ni[fear]; gal[big]; namlugal[kingship]; ba[garment]; mur[dress]
+#etcsl: line-id=13
+
+14. ud zalag-ga-gin₇ dalla e₃-a-zu-ne
+#lem: ud[sun]; zalag[bright]; dalla[(to be) bright]; e[leave]
+#etcsl: line-id=14
+
+15. an-e {d}en-lil₂-bi nam gal ha-ra-ab-tar-re-ne
+#lem: An[1]DN; Enlil[1]DN; nam[fate]; gal[big]; tar[cut]
+#etcsl: line-id=15
+
+16. {d}nanna-gin₇ kalam-še₃ e₃-a-zu-ne
+#lem: Nanna[1]DN; kalam[the Land (of Sumer)]; e[leave]
+#etcsl: line-id=16
+
+17. nun gal {d}en-ki-ke₄ šag₄ gu₂-bi gi₄-a-na šudu₃! hu-mu-ri-ib₂-ša₄
+#lem: nun[prince]; gal[big]; Enkik[1]DN; šag[heart]; gu[neck]; gi[turn]; šud[prayer]; ša[cvve]
+#etcsl: line-id=17
+
+18. aga-zu {d}utu-gin₇ kalam-ma he₂-eb-zalag-ge
+#lem: aga[tiara]; Utu[1]DN; kalam[the Land (of Sumer)]; zalag[bright]
+#etcsl: line-id=18
+
+19. {ŋiš}ŋidru-zu uŋ₃ šar₂-ra si he₂-ni-ib-sa₂-sa₂-e
+#lem: ŋidru[scepter]; uŋ[people]; šar[numerous]V/i; si[horn]; sa[equal]
+#etcsl: line-id=19
+
+20. {d}suen-e zi-ŋal₂ he₂-ni-ib-lah₄-lah₄-e
+#lem: Suen[1]DN; ziŋal[living things]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=20
+
+21. šibir-zu ki-en-gi ki-uri he₂-ni-ib-tum₂# ama [a-a]-bi#-gin₇
+#lem: šibir[shepherd's staff]; Kengir[1]; Akkad[1 Akkad]; tum[bring]; ama[mother]; aya[father]
+#etcsl: line-id=21
+
+22. uŋ₃ daŋal-la uŋ₃ gu₃ [teš₂-a sig₁₀]-ga-zu#
+#lem: uŋ[people]; daŋal[wide]; uŋ[people]; gu[voice]; teš[unity]; sig[put into]
+#etcsl: line-id=22
+
+23. ma₂-gur₈ an-na-gin₇ zalag-ga-zu-še₃ giri₁₇ šu ha-[ra-ab-ŋal₂-le]
+#lem: magur[barge]; an[sky]; zalag[bright]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=23
+
+24. kur ni₂-ba tuš-a diŋir-bi [he₂-me-en]
+#lem: kur[mountain(s)]; ni[self]; tuš[sit (down)]; diŋir[deity]; me[be]
+#etcsl: line-id=24
+
+25. {d}utu-gin₇ e₃-a-zu-še₃ asila X [...]
+#lem: Utu[1]DN; e[leave]; asilala[joy]; X; X
+#etcsl: line-id=25
+
+26. ama a-a ugu-bi-gin₇ igi-bi [X-ŋal₂]
+#lem: ama[mother]; aya[father]; ugu[bear]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=26
+
+27. u₂-gu₇ daŋal-la-zu-še₃ zi-bi [...]
+#lem: ugu[food]; daŋal[wide]; zi[life]; X
+#etcsl: line-id=27
+
+28. a naŋ he₂-ŋal₂-la-zu-še₃ X [...]
+#lem: a[water]; naŋ[drink]; heŋal[plenty]; X; X
+#etcsl: line-id=28
+
+29. uŋ₃ saŋ gig₂-ga [...]
+#lem: uŋ[people]; saŋ[head]; giggig[black]; X
+#etcsl: line-id=29
+
+30. ŋissu-zu-uš ni₂# [X-te-en-te-en]
+#lem: ŋissu[shade]N; ni[self]; ten[extinguish]
+#etcsl: line-id=30
+
+31. nam-sipad-zu [...]
+#lem: namsipad[shepherdship]; X
+#etcsl: line-id=31
+
+32. [...] X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=32
+
+$ 2 lines missing
+35. [...] he₂#-i-i
+#lem: X; e[bring out]
+#etcsl: line-id=35
+
+36. [... nam]-lugal#-la ud da-ri₂-še₃ he₂-eb-ge-en
+#lem: X; namlugal[kingship]; ud[sun]; dari[eternal]; gin[confirm]
+#etcsl: line-id=36
+
+37. [...] X-me-en
+#lem: X; X
+#etcsl: line-id=37
+
+38. [...]-me-en
+#lem: X
+#etcsl: line-id=38
+
+39. [...] dadag#-ga-me-en
+#lem: X; dadag[bright]
+#etcsl: line-id=39
+
+40. sa-am-su-i-lu-na lugal-ŋu₁₀
+#lem: Samsuʾiluna[01]; lugal[king]
+#etcsl: line-id=40
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-10) Lord, may you confirm your royal position by taking your seat on the throne, the lofty dais! @wRN{@wDN{Samsu}-iluna}, may you confirm your royal position by taking your seat on the throne, the lofty dais! May you strengthen the foundations of your throne by grasping the shepherd's crook of lordship! May you bring to perfect completion the princely divine powers by inspiring awe in the holy place, the pure place! When you …… on the holy royal dais, may you lift your head high in a lordly manner!
+
+@(11 = 11-17) When you are imbued with the terrifying splendour of royalty, …… shining like the sun! When you perfectly wield the august divine powers, the great divine powers, may you be cloaked as if with a mantle in the great awesomeness of royalty! When you come forth in brilliance like the shining day, may @wDN{An} and @wDN{Enlil} determine a great destiny for you! When you appear like @wDN{Nanna} over the Land, may the great prince @wDN{Enki} pray on your behalf in his overflowing heart!
+
+@(18 = 18-24) May your headdress sparkle over the Land like @wDN{Utu}! May your sceptre correctly guide the numerous people! May @wDN{Suen} let you control the living beings! With your shepherd's crook may you lead @wGN{Sumer} and @wGN{Akkad} as if you were their mother and father! May the widespread people, the people whom you have united, pray to you as you shine like the Barge of Heaven! May you be the god of the foreign lands that are settled together!
+
+@(25 = 25-40) When you come forth like @wDN{Utu}, joy ……, and their gaze is fixed as if on their own parents. When you feed them lavishly, may their lives ……! When you generously give them drink, ……! May the black-headed people …… cool themselves in your shade! Your shepherdship …….  @gap{1 line fragmentary}   @gap{2 lines missing}  May …… be praised! May your royal …… be forever stable! May you be ……! May you be ……! May you shine ……! O @wRN{@wDN{Samsu}-iluna}, my king!
+
+
+

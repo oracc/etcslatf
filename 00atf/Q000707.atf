@@ -1,0 +1,172 @@
+&Q000707 = A hymn to Ninimma (Ninimma A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.21.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.21.1&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. kišib#-ŋal₂# e₂# niŋ₂-gur₁₁-ra [X-me-en]
+#lem: kišibŋal[seal bearer]; e[house]; niŋgur[property]; X
+#etcsl: line-id=A.1
+
+A.2. saŋ# en₃# tar diŋir gal-e-ne-me-en# [...] X GA# zu-zu#-me-en#
+#lem: saŋ[head]; en[cvne]; tar[cut]; diŋir[deity]; gal[big]; X; X; X; zu[know]
+#etcsl: line-id=A.2
+
+A.3. {d}nin-imma₃# nin %e mar-za %s gal#-gal# X e₂#-kur-ra-me-en
+#lem: Ninimma[1]DN; nin[lady]; marza[rites]N; gal[big]; X; Ekur[1]TN
+#etcsl: line-id=A.3
+
+A.4. nin# X X X X {d}en-lil₂-la₂ dub#-sar an-na-me-en
+#lem: nin[lady]; X; X; X; X; Enlil[1]DN; dubsar[scribe]; an[sky]
+#etcsl: line-id=A.4
+
+A.5. im nam#-til₃-la# X ŋal₂#-la#-me-en
+#lem: im[clay]; namtil[life]; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.5
+
+A.6. X IM X X X [...] X NE X X [...]
+#lem: X; X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=A.6
+
+#etcsl#doc l. 6 is written on the left edge of the tablet; its insertion point is marked with a line on the edge
+
+A.7. še mah# tum₃! nin e₂-sar-ra-me-en
+#lem: še[barley]; mah[great]; tum[bring]; nin[lady]; Ešara[1]TN
+#etcsl: line-id=A.7
+
+A.8. eš₂#-gana₂# za-gin₃ gi-1(diš)-nindan šu# du₇-a-me-en
+#lem: ešgana[measuring line]; zagin[lapis lazuli]; ginindan[measuring rod]; šu[hand]; du[perfect]
+#etcsl: line-id=A.8
+
+A.9. saŋ il₂# nun-gal#-e-ne-me-en
+#lem: saŋ[head]; il[raise]; Nungal[1]DN
+#etcsl: line-id=A.9
+
+A.10. X X [...] AN en HAR#-ra#-me-en
+#lem: X; X; X; X; en[lord]; X
+#etcsl: line-id=A.10
+
+A.11. [... mi₂] zid# dug₄-ga-me-en
+#lem: X; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=A.11
+
+A.12. šu# [...]-a-ke₄-ne-me-en
+#lem: šu[hand]; X
+#etcsl: line-id=A.12
+
+A.13. en₃ tar# [...] ŋeštug₂# dirig-ga-me-en#
+#lem: en[cvne]; tar[cut]; X; ŋeštug[ear]; dirig[make more than]
+#etcsl: line-id=A.13
+
+A.14. KA X GA X X hul₂#-le nu-DU-me-en#
+#lem: X; X; X; X; X; hul[rejoice]; X
+#etcsl: line-id=A.14
+
+A.15. nin-ŋu₁₀# šag₄#-ta mah-me-en# ud-da! pa e₃#-me-en#
+#lem: nin[lady]; šag[heart]; mah[great]; ud[sun]; pa[branch]; e[leave]
+#etcsl: line-id=A.15
+
+A.16. aga# za-gin₃-na he₂!-du₇-me-en# X X RA ZA an-na-me-en#
+#lem: aga[tiara]; zagin[lapis lazuli]; hedu[ornament]; X; X; X; X; an[sky]
+#etcsl: line-id=A.16
+
+A.17. [...] hi#-li šu tag-ga [...]
+#lem: X; hili[attractiveness]; šu[hand]; tag[touch]; X
+#etcsl: line-id=A.17
+
+A.18. [...] NE# RA# X X GAR₃# [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=A.18
+
+$ (approx. 10 lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] kalag#-gin₇# X [...]
+#lem: X; kalag[strong]; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] e₂#-kur-ra X nin# [...] X [...]
+#lem: X; Ekur[1]TN; X; nin[lady]; X; X; X
+#etcsl: line-id=B.2
+
+B.3. gaba-ŋal₂# {d}nanna# X X NAM# X [...]
+#lem: gabaŋal[forceful]; Nanna[1]DN; X; X; X; X; X
+#etcsl: line-id=B.3
+
+B.4. ŋeštug₂# bad niŋ₂-nam zu-a-me-en#
+#lem: ŋeštug[ear]; bad[open]; niŋnam[anything]; zu[know]
+#etcsl: line-id=B.4
+
+B.5. su₃-ra₂#-[aŋ₂] kar₂-kar₂# eš₃# mah# si#-X-[me-en]
+#lem: sudaŋ[precious metal or material (possibly amber)]; kar[blow]; eš[shrine]; mah[great]; si[fill]
+#etcsl: line-id=B.5
+
+B.6. {d}en-lil₂# [X-me]-en#
+#lem: Enlil[1]DN; X
+#etcsl: line-id=B.6
+
+B.7. e₂# saŋ# [X-me]-en#
+#lem: e[house]; saŋ[head]; X
+#etcsl: line-id=B.7
+
+B.8. X X [...]-da KA X X-me-en
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.8
+
+B.9. susbu šu-luh kug#-ga# gal-bi tum₂-ma-me-en
+#lem: susbu[priest]; šuluh[ritual cleansing]; kug[pure]; gal[big]; tum[suitable]
+#etcsl: line-id=B.9
+
+B.10. šag₄-bi# X NAM# X X KA# a₂#-gin₇ BU-BU-me-en
+#lem: šag[heart]; X; X; X; X; X; a[arm]; X
+#etcsl: line-id=B.10
+
+B.11. {d}nin-imma₃ ŋiš-hur kug-ga# za₃-mi₂-zu dug₃-ga#-am₃
+#lem: Ninimma[1]DN; ŋešhur[plan]; kug[pure]; zamin[praise]; dug[good]
+#etcsl: line-id=B.11
+
+@end segment
+
+@div segment C
+
+C.1. X [...] X X RU X X X X-me-en#
+#lem: X; X; X; X; X; X; X; X; X
+#etcsl: line-id=C.1
+
+#etcsl#doc this line is written on the left edge of the tablet; its insertion point is uncertain: somewhere in Segment B or the gap before
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-18) You are the seal-holder of the treasury of the ……. You are the caretaker of the great gods, you are ……. @wDN{Ninimma}, you are the lady of all the great rites in the @wTN{E-kur}. Lady, you are the …… of @wDN{Enlil}, you are the heavenly scribe. You …… the tablet of life.  @gap{1 line fragmentary}  You who bring the best corn are the lady of the @wTN{E-sara}. The surveyor's gleaming line and the measuring rod suit you perfectly. You can hold your head high among the great princes. You are ……. You are ……, the cherished one.  @gap{1 line fragmentary}  ……; you are exceptional in wisdom. …… joy ……. My lady, you were exalted already in the womb; you are resplendent like the sunlight. You are suited to the lapis-lazuli crown (?); you are the heavenly ……. …… adorned with loveliness …….  @gap{1 line fragmentary}   @gap{approx. 10 lines missing} 
+
+
+@(B.1 = 1-11) …… like a strong (?) ……. …… of the @wTN{E-kur} …… lady ……. …… the forceful one of @wDN{Nanna} ……. You are profoundly intelligent, one who knows everything. You are the shining light which fills the exalted sanctuary. You are she who …… by @wDN{Enlil}. You are ……. You are ……. You are most apt for the holy @fsux{susbu} rites and lustration rites.  @gap{1 line unclear}  @wDN{Ninimma} of the holy divine plans, it is sweet to praise you!
+
+
+@(C.1 = 1) You are …….
+
+
+

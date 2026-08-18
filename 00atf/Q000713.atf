@@ -1,0 +1,279 @@
+&Q000713 = Ninisina and the gods (Ninisina F)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.22.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22.6&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. X [...] IL₂ [...] mu-na-sug₂-sug₂-ge#-[eš]
+#lem: X; X; X; X; sug[stand]
+#etcsl: line-id=A.1
+
+A.2. {d}nin-isin₂{si}-na nin me gal-gal-la-ra#
+#lem: Ninisinak[1]DN; nin[lady]; me[Being]; gal[big]
+#etcsl: line-id=A.2
+
+A.3. me kug me sikil-la šu he₂-en-na-du₇-du₇
+#lem: me[Being]; kug[purify]; me[Being]; sikil[pure]; šu[hand]; du[perfect]
+#etcsl: line-id=A.3
+
+A.4. me-ni me an-ne₂# saŋ-e-eš rig₇-ga-ni
+#lem: me[Being]; me[Being]; An[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=A.4
+
+A.5. kur gal {d}en-lil₂-le nam-e-eš mu-ni-in-tar
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=A.5
+
+A.6. e₂ {d}en-lil₂-la₂-ta e₃-ni
+#lem: e[house]; Enlil[1]DN; e[leave]
+#etcsl: line-id=A.6
+
+A.7. eridug{ki} <ki> dug₃-ga am₃-ma-da-an-ku₄-ku₄
+#lem: Eridug[1]SN; ki[place]; dug[good]; kur[enter]
+#etcsl: line-id=A.7
+
+A.8. eš₃-e abzu#-a dur₂ ba-ni-in-ŋar
+#lem: eš[shrine]; Eʾabzu[1]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=A.8
+
+A.9. a-a-ni {d}en-ki-ke₄ dub₃-ba nam-mi-in-tuš
+#lem: aya[father]; Enkik[1]DN; dub[knee]; tuš[sit (down)]
+#etcsl: line-id=A.9
+
+A.10. {[d]}[nin]-isin₂{si}-na-ra mi₂ zid na-mu-un-e
+#lem: Ninisinak[1]DN; mi[cvne]; zid[right]; e[speak]
+#etcsl: line-id=A.10
+
+A.11. X X X unu₂# šuba hi-li ba-an-te
+#lem: X; X; X; unu[adornment]; šuba[precious stone]; hili[attractiveness]; teŋ[approach]
+#etcsl: line-id=A.11
+
+A.12. {d}nin-isin₂{si}-na-ra gu₂-na he₂-eb-du₃
+#lem: Ninisinak[1]DN; gu[neck]; du[build]
+#etcsl: line-id=A.12
+
+A.13. gada babbar-ra hi-li im-ma-an-[te]
+#lem: gada[flax]; babbar[white]; hili[attractiveness]; teŋ[approach]
+#etcsl: line-id=A.13
+
+A.14. dumu an kug-ga-ra bar-ra he-em-mi-in-dul#
+#lem: dumu[child]; An[1]DN; kug[pure]; bar[outside]; dul[cover]
+#etcsl: line-id=A.14
+
+A.15. en {d}nu-dim₂-mud-e nam-[e]-eš mu#-[ni-in-tar]
+#lem: en[lord]; Nudimmud[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=A.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [... mu]-de₃-nu₂
+#lem: X; nud[lie down]
+#etcsl: line-id=B.1
+
+B.2. [...] asila₃-a [ud mu]-un-di-ni-ib-zal-e
+#lem: X; asilala[joy]; ud[sun]; zal[pass time]
+#etcsl: line-id=B.2
+
+B.3. [... šag₄]-ge pad₃-da-zu
+#lem: X; šag[heart]; pad[find]
+#etcsl: line-id=B.3
+
+B.4. [nitalam₃ ki] aŋ₂-zu en# {d}pa-bil₂-saŋ-ŋe₂₆
+#lem: ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; en[lord]; Pabilsaŋ[1]DN
+#etcsl: line-id=B.4
+
+B.5. [...] dug₄-mu-un-di-ni-ib dug₄#-mu-un-di-ni-ib
+#lem: X; dug[speak]; dug[speak]
+#etcsl: line-id=B.5
+
+B.6. [... me] gal-gal me 50 he₂-du₇
+#lem: X; me[Being]; gal[big]; me[Being]; n; hedu[ornament]
+#etcsl: line-id=B.6
+
+B.7. [...] X šu du₇-a [...] unu₂# šuba sud-sud
+#lem: X; X; šu[hand]; du[perfect]; X; unu[adornment]; šuba[precious stone]; sud[distant]
+#etcsl: line-id=B.7
+
+B.8. nin# mu gal-la-ni [...] X DU X-am₃
+#lem: nin[lady]; mu[name]; gal[big]; X; X; X; X
+#etcsl: line-id=B.8
+
+B.9. kur# [gal] {[d]}en-lil₂-le [nam]-e-eš mu-ni-tar
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; nam[fate]; tar[cut]
+#etcsl: line-id=B.9
+
+B.10. eš₃# [nibru]{ki#} dur-an-ki-a-kam
+#lem: eš[shrine]; Nibru[1]SN; Durankik[1]TN
+#etcsl: line-id=B.10
+
+B.11. ki# {[d]}en-lil₂-la₂-ka
+#lem: ki[place]; Enlil[1]DN
+#etcsl: line-id=B.11
+
+B.12. [...] X-ga [e-ne he₂-en]-na#-nam-ma-am₃
+#lem: X; X; ane[he]; me[be]
+#etcsl: line-id=B.12
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] ŋal₂#-la [e-ne he₂]-en#-na-nam-ma-am₃
+#lem: X; ŋal[⟦be⟧ to be (there]; ane[he]; me[be]
+#etcsl: line-id=C.1
+
+C.2. [X X]{ki}-e [...] an-na-ka
+#lem: X; X[1]SN; X; an[sky]
+#etcsl: line-id=C.2
+
+C.3. [...] {[d]}ŋa₂-tum₃-dug₃ [e]-ne# he₂-en-na-nam-ma-am₃
+#lem: X; Ŋatumdug[1]DN; ane[he]; me[be]
+#etcsl: line-id=C.3
+
+C.4. [...] an-ne₂ us₂-sa-a-na
+#lem: X; an[sky]; us[accompany]
+#etcsl: line-id=C.4
+
+C.5. [...] mul# dumu-saŋ e-ne he₂-en-na-nam-ma-am₃
+#lem: X; mul[star]; dumusaŋ[first-born]; ane[he]; me[be]
+#etcsl: line-id=C.5
+
+C.6. [X X] ŋir₂-su{ki}-e eš₃ numun i-i-ka
+#lem: X; X; Ŋirsu[1]SN; eš[shrine]; numun[seed]; e[bring out]
+#etcsl: line-id=C.6
+
+C.7. nin#-ŋu₁₀ ama {d}ba-u₂ e-ne he₂-en-na-nam-ma-am₃
+#lem: nin[lady]; ama[mother]; Bau[1]DN; ane[he]; me[be]
+#etcsl: line-id=C.7
+
+C.8. [...]-ga umma{ki}-a šeg₁₂#-kur-šag₄-ga-ka
+#lem: X; Umma[1]SN; Šegkuršagak[1]TN
+#etcsl: line-id=C.8
+
+C.9. [...] X mir-re gu₇ [e-ne he₂]-en-na-nam-ma-am₃
+#lem: X; X; mir[north wind]; gu[eat]; ane[he]; me[be]
+#etcsl: line-id=C.9
+
+C.10. [...] X SUD [...] X-X{ki}-ka
+#lem: X; X; X; X; X[1]SN
+#etcsl: line-id=C.10
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+D.1. ušum lu₂-ra nu₂# [...] kilib₃-ba eme ed₃-de₃
+#lem: ušum[snake]; lu[person]; nud[lie down]; X; kilib[total]; eme[tongue]; ed[go up]
+#etcsl: line-id=D.1
+
+D.2. nin-ŋu₁₀ {d}nun-gal# e-ne he₂-en-na-nam-ma-am₃
+#lem: nin[lady]; Nungal[1]DN; ane[he]; me[be]
+#etcsl: line-id=D.2
+
+D.3. nin-ŋu₁₀ lagaš{ki}-a am₃-ma-da-an-ku₄-ku₄#
+#lem: nin[lady]; Lagaš[1]SN; kur[enter]
+#etcsl: line-id=D.3
+
+D.4. iri{ki} kug ki šag₄-ge pad₃-da#-ni
+#lem: iri[city]; kug[purify]; ki[place]; šag[heart]; pad[find]
+#etcsl: line-id=D.4
+
+D.5. nitalam₃ ki# [aŋ₂]-ŋa₂-ni [en] {[d]}pa-bil₂-saŋ-ŋe₂₆
+#lem: ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; en[lord]; Pabilsaŋ[1]DN
+#etcsl: line-id=D.5
+
+D.6. [...] NI A [...] mu#-da-an-ŋar
+#lem: X; X; X; X; ŋar[put]
+#etcsl: line-id=D.6
+
+D.7. [...]-na₈#-na₈-e-ne
+#lem: naŋ[drink]
+#etcsl: line-id=D.7
+
+D.8. [...] X im#-dug₃-ge-ne
+#lem: X; X; dug[good]
+#etcsl: line-id=D.8
+
+D.9. [X X] X mu-ne-šum₂
+#lem: X; X; X; šum[give]
+#etcsl: line-id=D.9
+
+D.10. [X X] X mu-de₃-nu₂
+#lem: X; X; X; nud[lie down]
+#etcsl: line-id=D.10
+
+D.11. [...] RI asila₃-a [ud mu]-un-di-ni-ib-zal-e
+#lem: X; X; asilala[joy]; ud[sun]; zal[pass time]
+#etcsl: line-id=D.11
+
+D.12. [X X] X {d}nin-isin₂{si}-na# [za₃]-mi₂-zu dug₃-ga-am₃#
+#lem: X; X; X; Ninisinak[1]DN; zamin[praise]; dug[good]
+#etcsl: line-id=D.12
+
+@div trailer 
+
+D.13. [...] {d}nin#-isin₂{[si]}-[na-kam]
+#lem: X; Ninisinak[1]DN
+#etcsl: line-id=D.13
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-5) They …… stood around her. The holy and pure divine powers befit @wDN{Ninisina}, lady of the great divine powers. Her divine powers are divine powers bestowed on her by @wDN{An}. The Great Mountain @wDN{Enlil} determined a fate for her.
+
+@(A.6 = 6-15) Having left the temple of @wDN{Enlil}, she entered @wSN{Eridug}, the pleasant place, and took her seat in the @fsux{abzu} shrine. Her father, @wDN{Enki}, seated her upon his knees. He truly cherished @wDN{Ninisina} -- as soon as …… took a fancy to jewels of @fsux{šuba} stone, they were hung around the neck of @wDN{Ninisina}; as soon as she took a fancy to a white linen garment, he dressed the daughter of holy @wDN{An} in it. Lord @wDN{Nudimmud} determined a fate for her.  @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1-2) She lay down with him on …… and spent time joyously with him.
+
+@(B.3 = 3-9) @q[Enlil,Ninisina]{“…… with your beloved spouse, Lord @wDN{Pabilsaŋ}, …… your chosen ……!”} This is what the Great Mountain @wDN{Enlil} determined as her fate for …… perfect with the great divine powers, the fifty divine powers, …… perfect …… adorned with jewels of @fsux{šuba} stone, the lady whose great name …….
+
+@(B.10 = 10-12) In the shrine of @wSN{Nibru}, @wTN{Dur-an-ki}, the place of @wDN{Enlil}, she is …… indeed.  @gap{unknown no. of lines missing} 
+
+
+@(C.1 = 1-10) …… she is indeed ……. In ……, the …… of @wDN{An}, …… she is indeed @wDN{Ŋatumdug}. In ……, her …… that reaches the heavens, she is indeed ……, the firstborn child. In …… @wSN{Ŋirsu}, the shrine which first brought forth the seed of mankind, my lady is indeed Mother @wDN{Bau}. In …… @wSN{Umma}, in the @wTN{Šeg-kuršaga}, …… she is indeed ……. In ……  @gap{unknown no. of lines missing} 
+
+
+@(D.1 = 1-2) In ……, a dragon lying in wait for men, a …… sticking out its tongue at everybody, my lady is indeed @wDN{Nungal}.
+
+@(D.3 = 3-11) My lady entered @wSN{Lagaš}. With her beloved spouse, Lord @wDN{Pabilsaŋ}, she …… the holy city, her chosen place. All the …… were drinking and enjoying ……. She gave them ……. She lay down with him on …… and spent time joyously with him.
+
+@(D.12 = 12) …… @wDN{Ninisina}, it is sweet to praise you.
+
+#trailer subscript	missing
+
+
+@(D.13 = 13) …… of @wDN{Ninisina}.
+
+
+

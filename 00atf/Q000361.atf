@@ -1,0 +1,616 @@
+&Q000361 = Gilgameš and Aga
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.8.1.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.1&display=Crit&charenc=gcirc#
+
+1. lu₂-kiŋ₂-gi₄-a ag-ga dumu en-me-barag-ge₄-si-ke₄
+#lem: kiŋgia[messenger]; Aga[1]RN; dumu[child]; Enmebaragesi[2]RN
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 12; OB catalogue from Urim (U2), 0.2.04, line 12
+
+2. kiš{ki}-ta {d}gilgameš₂ unug{ki}-še₃ mu-un-ši-re₇-eš
+#lem: Kiš[1]SN; Gilgameš[1]DN; Unug[1]SN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=2
+
+3. {d}gilgameš₂ igi ab-ba iri{ki}-na-še₃
+#lem: Gilgameš[1]DN; igi[eye]; abba[father]; iri[city]
+#etcsl: line-id=3
+
+4. inim ba-an-ŋar inim i₃-kiŋ₂-kiŋ₂-e
+#lem: inim[word]; ŋar[put]; inim[word]; kiŋ[seek]
+#etcsl: line-id=4
+
+5. tul₂ til-le-da tul₂ kalam til-til-le-da
+#lem: tul[public fountain]; til[complete]; tul[public fountain]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=5
+
+6. tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+#lem: tul[public fountain]; niŋ[thing]; banda[junior]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=6
+
+7. tul₂ burudₓ(U)-da eš₂ la₂ til-til-le-da
+#lem: tul[public fountain]; burud[perforate]; eš[rope]; la[hang]; til[complete]
+#etcsl: line-id=7
+
+8. e₂ kiš{ki}-še₃ gu₂ nam-ba-an-ŋa₂-ŋa₂-an-de₃-en {ŋiš}tukul (1:nam-ba-an-sag₃-ge-en-de₃-en:1)
+#lem: e[house]; Kiš[1]SN; gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+#etcsl: line-id=8
+
+:8v.1.1: ($2 mss. have instead:$) ga-am₃-ma-sag₃-ge-en-de₃-en
+#lem: sag[strike]
+
+9. unken ŋar-ra ab-ba iri-na-ka
+#lem: unkin[assembly]; ŋar[put]; abba[father]; iri[city]
+#etcsl: line-id=9
+
+10. {d}gilgameš₂ mu-na-ni-ib-gi₄-gi₄
+#lem: Gilgameš[1]DN; gi[turn]
+#etcsl: line-id=10
+
+11. tul₂ til-le-da tul₂ kalam til-til-le-da
+#lem: tul[public fountain]; til[complete]; tul[public fountain]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=11
+
+12. tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+#lem: tul[public fountain]; niŋ[thing]; banda[junior]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=12
+
+13. tul₂ burudₓ(U)-da eš₂ la₂ til-til-le-da
+#lem: tul[public fountain]; burud[perforate]; eš[rope]; la[hang]; til[complete]
+#etcsl: line-id=13
+
+14. e₂ kiš{ki}-še₃ (1:gu₂ ga-am₃-ŋa₂-ŋa₂-an-de₃-en {ŋiš}tukul nam-ba-sag₃-ge-en-de₃-en:1)
+#lem: e[house]; Kiš[1]SN; gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+#etcsl: line-id=14
+
+:14v.1.1: ($1 ms. has instead:$) gu₂ nam-ba-ŋa₂-ŋa₂-an-de₃-en {[ŋiš]}[tukul] ga-am₃-ma-sag₃-ge-en-de₃-en
+#lem: gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+
+15. {d}gilgameš₂ en kul-aba₄{ki}-a-ke₄
+#lem: Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=15
+
+16. {d}inana-ra nir-ŋal₂-la-e
+#lem: Inanak[1]DN; nirŋal[authoritative]
+#etcsl: line-id=16
+
+17. inim ab-ba iri-na-ke₄ šag₄-še₃ nu-mu-na-gid₂
+#lem: inim[word]; abba[father]; iri[city]; šag[heart]; gid[long]
+#etcsl: line-id=17
+
+18. 2-kam-ma-še₃ {d}gilgameš₂ (1::1) igi ŋuruš iri{ki}-na-še₃
+#lem: n; Gilgameš[1]DN; igi[eye]; ŋuruš[young adult male]; iri[city]
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. adds:$) en kul-aba{ki}-a-ke₄
+#lem: en[lord]; Kulaba[1]SN
+
+19. inim ba-an-ŋar inim i₃-kiŋ₂-kiŋ₂-e
+#lem: inim[word]; ŋar[put]; inim[word]; kiŋ[seek]
+#etcsl: line-id=19
+
+20. tul₂ til-le-da tul₂ kalam til-til-le-da
+#lem: tul[public fountain]; til[complete]; tul[public fountain]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=20
+
+21. tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+#lem: tul[public fountain]; niŋ[thing]; banda[junior]; kalam[the Land (of Sumer)]; til[complete]
+#etcsl: line-id=21
+
+22. tul₂ burudₓ(U)-da eš₂ la₂ til-til-le-da
+#lem: tul[public fountain]; burud[perforate]; eš[rope]; la[hang]; til[complete]
+#etcsl: line-id=22
+
+23. e₂ kiš{ki}-še₃ (1:gu₂ nam-ba-an-ŋar-re-en-ze₂-en {ŋiš}tukul nam-ba-an-sag₃-ge-en-ze₂-en:1)
+#lem: e[house]; Kiš[1]SN; gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+#etcsl: line-id=23
+
+:23v.1.1: ($1 ms. has instead:$) gu₂ nam-ba-ŋa₂-ŋa₂-an-de₃#-[en] {ŋiš#}tukul ga-am₃-ma-sag₃-ge-en-de₃-en#
+#lem: gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+
+24. unken ŋar-ra ŋuruš iri{ki}-na-ka {d}gilgameš₂ mu-na-ni-ib-gi₄-gi₄
+#lem: unkin[assembly]; ŋar[put]; ŋuruš[young adult male]; iri[city]; Gilgameš[1]DN; gi[turn]
+#etcsl: line-id=24
+
+25. gub-gub-bu-de₃ tuš-tuš-u₃-de₃
+#lem: gub[stand]; tuš[sit (down)]
+#etcsl: line-id=25
+
+26. dumu lugal-la da ri-e-de₃
+#lem: dumu[child]; lugal[king]; dag[side]; ri[impose]
+#etcsl: line-id=26
+
+27. zib₂ anše dab₅-dab₅-be₂-e-de₃
+#lem: zib[donkey-bridle]; anše[equid]; dab[seize]
+#etcsl: line-id=27
+
+28. a-ba zi-bi mu-un-tuku-e-še
+#lem: aba[who?]; zi[life]; tuku[acquire]
+#etcsl: line-id=28
+
+29. e₂ kiš{ki}-še₃ gu₂ nam-ba-an-ŋar-re-en-ze₂-en {ŋiš}tukul nam-ba-an-sag₃-ge-en-de₃-en
+#lem: e[house]; Kiš[1]SN; gu[neck]; ŋar[put]; tukul[weapon]; sag[strike]
+#etcsl: line-id=29
+
+30. unug{ki} ŋiš-kiŋ₂-ti diŋir-re-e-ne-ke₄
+#lem: Unug[1]SN; ŋeškiŋti[kiln]; diŋir[deity]
+#etcsl: line-id=30
+
+31. e₂-an-na e₂ an-ta ed₃-de₃
+#lem: Eanak[1]TN; e[house]; an[sky]; ed[go up]
+#etcsl: line-id=31
+
+32. diŋir gal-gal-e-ne me-dim₂-bi ba-an-ak-eš-am₃
+#lem: diŋir[deity]; gal[big]; medim[limbs]; ak[do]
+#etcsl: line-id=32
+
+33. bad₃ gal (1:bad₃ an-ne₂ ki us₂-sa:1)
+#lem: bad[wall]; gal[big]; bad[wall]; An[1]DN; ki[place]; us[accompany]
+#etcsl: line-id=33
+
+:33v.1.1: ($1 ms. has instead:$) muru₉ ki us₂-sa-a-ba
+#lem: muru[rainstorm]; ki[place]; us[accompany]
+
+34. ki-tuš mah an-ne₂ (1:ŋar-ra-ni:1)
+#lem: kituš[dwelling place]; mah[great]; An[1]DN; ŋar[put]
+#etcsl: line-id=34
+
+:34v.1.1: ($1 ms. has instead:$) ŋar-ra-a-ba
+#lem: ŋar[put]
+
+35. saŋ mu-e-sig₁₀ za-e lugal ur-saŋ-bi
+#lem: saŋ[head]; sig[put into]; zaʾe[you]; lugal[king]; ursaŋ[warrior]
+#etcsl: line-id=35
+
+36. saŋ lum-lum nun an-ne₂ ki aŋ₂
+#lem: saŋ[head]; lum[fruit]; nun[prince]; An[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=36
+
+37. du-a-ni-ta a-gin₇ ni₂ ba-an-te
+#lem: du[go]; agin[thus]; ni[fear]; teŋ[approach]
+#etcsl: line-id=37
+
+38. erin₂-bi al-tur a-ga-bi-ta al-bir-re
+#lem: erin[people]; tur[small]; aga[rear]; bir[scatter]
+#etcsl: line-id=38
+
+39. lu₂-be₂-ne igi nu-mu-un-da-ru-gu₂-uš
+#lem: lu[person]; igi[eye]; rugu[withstand]
+#etcsl: line-id=39
+
+40. ud-bi-a {d}gilgameš₂ en kul-aba₄{ki}-ke₄
+#lem: ud[sun]; Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=40
+
+41. inim ŋuruš iri-na-še₃ šag₄-ga-ni an-hul₂ ur₅-ra-ni ba-an-zalag
+#lem: inim[word]; ŋuruš[young adult male]; iri[city]; šag[heart]; hul[rejoice]; ur[liver]; zalag[bright]
+#etcsl: line-id=41
+
+42. šubur-a-ni en-ki-du₁₀-ra gu₃ mu-na-de₂-e
+#lem: subur[slave]; Enkidu[1]PN; gu[voice]; de[pour]
+#etcsl: line-id=42
+
+43. ne-eš₂ {ŋiš}šu-kar₂ a₂ me₃ sa he₂-em-mi-gi₄
+#lem: ineš[now]; šukara[tool]; a[arm]; me[battle]; sa[sinew]; gi[turn]
+#etcsl: line-id=43
+
+44. {ŋiš}tukul me₃ a₂-zu-še₃ he₂-em-mi-gi₄
+#lem: tukul[weapon]; me[battle]; a[arm]; gi[turn]
+#etcsl: line-id=44
+
+45. ni₂ gal me-lem₄-ma he₂-em-dim₂-dim₂-e
+#lem: ni[fear]; gal[big]; melim[frightening splendor]; dim[create]
+#etcsl: line-id=45
+
+46. e-ne du-a-ni-ta ni₂ gal-ŋu₁₀ he₂-eb-šu₂
+#lem: ane[he]; du[go]; ni[fear]; gal[big]; šuš[cover]
+#etcsl: line-id=46
+
+47. dim₂-ma-ni he₂-suh₃ ŋalga-a-ni he₂-bir-re
+#lem: dimma[thought]; suh[confuse]; ŋalga[(fore)thought]; bir[scatter]
+#etcsl: line-id=47
+
+48. ud nu-5-am₃ ud nu-10-am₃
+#lem: ud[sun]; n; ud[sun]; n
+#etcsl: line-id=48
+
+49. ag-ga dumu en-me-barag-ge₄-si-ke₄ unug{ki} zag-ga ba-an-dab₅-be₂-eš
+#lem: Aga[1]RN; dumu[child]; Enmebaragesi[2]RN; Unug[1]SN; zag[side]; dab[seize]
+#etcsl: line-id=49
+
+50. unug{ki}-ga dim₂-ma-bi ba-an-suh₃
+#lem: Unug[1]SN; dimma[thought]; suh[confuse]
+#etcsl: line-id=50
+
+51. {d}gilgameš₂ en kul-aba{ki}-ke₄
+#lem: Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=51
+
+52. ur-saŋ-be₂-ne-er gu₃ mu-ne-de₂-e
+#lem: ursaŋ[warrior]; gu[voice]; de[pour]
+#etcsl: line-id=52
+
+53. ur-saŋ-ŋu₁₀-ne igi (1:mu-un-suh-suh-u₃-ne:1)
+#lem: ursaŋ[warrior]; igi[eye]; suh[choose]
+#etcsl: line-id=53
+
+:53v.1.1: ($2 mss. have instead:$) saŋ₅-saŋ₅-en-ze₂-en
+#lem: saŋ[choose]
+
+54. šag₄ tuku he₂-en-zi-zi-i ag-ga-še₃ (1:ga-an-ši-ŋen:1)
+#lem: šag[heart]; tuku[acquire]; zig[rise]; Aga[1]RN; ŋen[go]
+#etcsl: line-id=54
+
+:54v.1.1: ($1 ms. has instead:$) ga-an-gi₄
+#lem: gi[turn]
+
+55. BIR-HAR-tur-ra lu₂-saŋ-lugal-a-ni
+#lem: BIRHARtura[1]PN; lusaŋlugal[royal officer]
+#etcsl: line-id=55
+
+56. lugal-a-ni-ir za₃-mi₂ mu-un-na-ab-be₂
+#lem: lugal[king]; zamin[praise]; e[speak]
+#etcsl: line-id=56
+
+57. (1::1) ŋe₂₆-e ag-ga-še₃ (2:ga-an-ši-ŋen:2)
+#lem: ŋaʾe[I]; Aga[1]RN; ŋen[go]
+#etcsl: line-id=57
+
+:57v.1.1: ($2 mss. add:$) lugal-ŋu₁₀
+#lem: lugal[king]
+:57v.2.1: ($1 ms. has instead:$) ga#-na-gud-gu₄-ud
+#lem: gud[jump (on)]
+
+58. dim₂-ma-ni he₂-suh₃ ŋalga-a-ni he₂-bir-re
+#lem: dimma[thought]; suh[confuse]; ŋalga[(fore)thought]; bir[scatter]
+#etcsl: line-id=58
+
+59. BIR-HAR-tur-ra abul-la ba-ra-e₃
+#lem: BIRHARtura[1]PN; abula[gate]; e[leave]
+#etcsl: line-id=59
+
+60. BIR-HAR-tur-ra abul-la ed₂-da-ni
+#lem: BIRHARtura[1]PN; abula[gate]; e[leave]
+#etcsl: line-id=60
+
+61. kan₄ abul-la-ka mu-ni-in-dab₅-be₂-eš
+#lem: kan[gate]; abula[gate]; dab[seize]
+#etcsl: line-id=61
+
+62. BIR-HAR-tur-ra sukud-ra₂-ni mu-ni-in-gum-gum-ne
+#lem: BIRHARtura[1]PN; sukud[height]; guz[be crushed]
+#etcsl: line-id=62
+
+63. igi ag-ga-še₃ mu-ni-in-te
+#lem: igi[eye]; Aga[1]RN; teŋ[approach]
+#etcsl: line-id=63
+
+64. ag-ga-še₃ gu₃ mu-na-de₂-e
+#lem: Aga[1]RN; gu[voice]; de[pour]
+#etcsl: line-id=64
+
+65. inim-ma-ni nu-un-til zabar-dab₅ unug{ki}-ga-ke₄ bad₃-še₃ im-me-ed₃-de₃
+#lem: inim[word]; til[complete]; zabardab[an official]; Unug[1]SN; bad[wall]; ed[go up]
+#etcsl: line-id=65
+
+66. bad₃-da gu₂-na im-ma-an-la₂
+#lem: bad[wall]; gu[neck]; la[hang]
+#etcsl: line-id=66
+
+67. ag-ga igi im-ma-ni-in-du₈
+#lem: Aga[1]RN; igi[eye]; du[spread]
+#etcsl: line-id=67
+
+68. BIR-HAR-tur-re gu₃ mu-na-de₂-e
+#lem: BIRHARtura[1]PN; gu[voice]; de[pour]
+#etcsl: line-id=68
+
+69. arad₂ lu₂ še lugal-zu-u₃
+#lem: arad[slave]; lu[person]; še[that]; lugal[king]
+#etcsl: line-id=69
+
+70. lu₂ še lugal-ŋu₁₀ in-nu
+#lem: lu[person]; še[that]; lugal[king]; nu[not]
+#etcsl: line-id=70
+
+71. lu₂# še lugal-ŋu₁₀ he₂-me-a
+#lem: lu[person]; še[that]; lugal[king]; me[be]
+#etcsl: line-id=71
+
+72. saŋ-ki huš-a-ni he₂-me-a
+#lem: saŋki[forehead]; huš[reddish]; me[be]
+#etcsl: line-id=72
+
+73. igi alim-ma-ka-ni he₂-me-a
+#lem: igi[eye]; alim[bison]; me[be]
+#etcsl: line-id=73
+
+74. sun₄! {na₄}za-gin₃-na-ka-a-ni he₂-me-a
+#lem: sum[beard]; zagin[lapis lazuli]; me[be]
+#etcsl: line-id=74
+
+75. šu-si sag₉-ga-ni he₂-me-a
+#lem: šusi[finger]; sag[good]; me[be]
+#etcsl: line-id=75
+
+76. šar₂-ra la-ba-an-šub-bu-uš šar₂-ra la-ba-an-zig₃-ge-eš
+#lem: šar[numerous]V/i; šub[fall]; šar[numerous]V/i; zig[rise]
+#etcsl: line-id=76
+
+77. šar₂-ra sahar-ra la-ba-an-da-šar₂-re-eš
+#lem: šar[numerous]V/i; sahar[soil]; šar[mix]
+#etcsl: line-id=77
+
+78. kur-kur du₃-a-bi la-ba-an-da-šu₂-a
+#lem: kur[mountain(s)]; du[all]; šuš[cover]
+#etcsl: line-id=78
+
+79. ka ma-da-ka sahar-ra la-ba-da-an-si
+#lem: kag[mouth]; mada[land]; sahar[soil]; si[fill]
+#etcsl: line-id=79
+
+80. si {ŋiš}ma₂-gur₈-ra-ka la-ba-ra-an-kud
+#lem: si[horn]; magur[barge]; kud[cut]
+#etcsl: line-id=80
+
+81. ag-ga lugal kiš{ki}-a šag₄ erin₂-na-ka-ni šaŋa-a la-ba-ni-in-ak
+#lem: Aga[1]RN; lugal[king]; Kiš[1]SN; šag[heart]; erin[people]; šaŋar[afflicted]; ak[do]
+#etcsl: line-id=81
+
+82. mu-ni-ib-ra-ra-ne mu-ni-ib-sag₃-sag₃-ge-ne
+#lem: rah[beat]; sag[strike]
+#etcsl: line-id=82
+
+83. BIR-HAR-tur-re sukud-ra₂-ni mu-ni-in-gum-gum-ne
+#lem: BIRHARtura[1]PN; sukud[height]; guz[be crushed]
+#etcsl: line-id=83
+
+84. eŋer zabar-dab₅ unug{ki}-ga-ke₄ {d}gilgameš₂ bad₃-še₃ im-me-ed₃-de₃
+#lem: egir[back]; zabardab[an official]; Unug[1]SN; Gilgameš[1]DN; bad[wall]; ed[go up]
+#etcsl: line-id=84
+
+85. ab-ba di₄-di₄-la₂ kul-aba₄{ki}-a-ke₄ me-lem₄ bi₂-ib-šu₂-šu₂
+#lem: abba[father]; didila[small(er)]; Kulaba[1]SN; melim[frightening splendor]; šuš[cover]
+#etcsl: line-id=85
+
+86. ŋuruš unug{ki}-ga-ke₄ {ŋiš}tukul me₃ a₂-ne-ne bi₂-in-si
+#lem: ŋuruš[young adult male]; Unug[1]SN; tukul[weapon]; me[battle]; a[arm]; si[fill]
+#etcsl: line-id=86
+
+87. {ŋiš}ig abul-la-ka sila-ba bi₂-in-gub
+#lem: ig[door]; abula[gate]; sila[street]; gub[stand]
+#etcsl: line-id=87
+
+88. en-ki-du₁₀ abul-la dili ba-ra-e₃
+#lem: Enkidu[1]PN; abula[gate]; dili[single]; e[leave]
+#etcsl: line-id=88
+
+89. {d}gilgameš₂ bad₃-da gu₂-na im-ma-an-la₂
+#lem: Gilgameš[1]DN; bad[wall]; gu[neck]; la[hang]
+#etcsl: line-id=89
+
+90. igi bar-re-da-ni ag-ga igi ba-ni-in-du₈
+#lem: igi[eye]; bar[place outside]; Aga[1]RN; igi[eye]; du[spread]
+#etcsl: line-id=90
+
+91. arad₂ lu₂ še lugal-zu-u₃
+#lem: arad[slave]; lu[person]; še[that]; lugal[king]
+#etcsl: line-id=91
+
+92. lu₂ še lugal-ŋu₁₀ i₃-me-a
+#lem: lu[person]; še[that]; lugal[king]; me[be]
+#etcsl: line-id=92
+
+93. bi₂-in-dug₄-ga-gin₇-nam
+#lem: dug[speak]
+#etcsl: line-id=93
+
+94. šar₂-ra ba-an-šub-bu-uš šar₂-ra ba-an-zig₃-ge-eš
+#lem: šar[numerous]V/i; šub[fall]; šar[numerous]V/i; zig[rise]
+#etcsl: line-id=94
+
+95. šar₂-ra sahar-ra ba-an-da-šar₂-re-eš
+#lem: šar[numerous]V/i; sahar[soil]; šar[mix]
+#etcsl: line-id=95
+
+96. kur-kur du₃-a-bi ba-an-da-šu₂-am₃
+#lem: kur[mountain(s)]; du[all]; šuš[cover]
+#etcsl: line-id=96
+
+97. ka ma-da-ka sahar-ra ba-da-an-si
+#lem: kag[mouth]; mada[land]; sahar[soil]; si[fill]
+#etcsl: line-id=97
+
+98. si {ŋiš}ma₂-gur₈-ra-ke₄ ba-ra-an-kud#
+#lem: si[horn]; magur[barge]; kud[cut]
+#etcsl: line-id=98
+
+99. ag-ga lugal kiš{ki}-a šag₄ erin₂-na-ka-ni šaŋa-a ba-ni-in-ak
+#lem: Aga[1]RN; lugal[king]; Kiš[1]SN; šag[heart]; erin[people]; šaŋar[afflicted]; ak[do]
+#etcsl: line-id=99
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+99A. ŋuruš# unug{ki}-ga-ke₄ erin₂-bi X A# X BA# X
+#lem: ŋuruš[young adult male]; Unug[1]SN; erin[people]; X; X; X; X; X
+#etcsl: line-id=99A
+
+@endvariants
+100. {d}gilgameš₂ en kul-aba₄{ki}-ke₄
+#lem: Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=100
+
+101. (1:ag-ga-a gu₃ mu-na-de₂-e:1)
+#lem: Aga[1]RN; gu[voice]; de[pour]
+#etcsl: line-id=101
+
+:101v.1.1: ($1 ms. has instead:$) [ag]-ga-aš sa₂ mu-na-ni!-ib-be₂#
+#lem: Aga[1]RN; sa[equal]; dug[speak]
+
+102. ag-ga ugula-ŋu₁₀ ag-ga nu-banda₃-ŋu₁₀
+#lem: Aga[1]RN; ugula[overseer]; Aga[1]RN; nubanda[overseer]
+#etcsl: line-id=102
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+102A. [ag]-ga ensi₂-ŋu₁₀ ag-ga šagina-ŋu₁₀#
+#lem: Aga[1]RN; ensik[ruler]; Aga[1]RN; šakkanak[general]
+#etcsl: line-id=102A
+
+@endvariants
+103. ag-ga šagina erin₂-na-ŋu₁₀
+#lem: Aga[1]RN; šakkanak[general]; erin[people]
+#etcsl: line-id=103
+
+104. ag-ga zi ma-an-šum₂# ag-ga nam-til₃ ma-an-šum₂
+#lem: Aga[1]RN; zi[life]; šum[give]; Aga[1]RN; namtil[life]; šum[give]
+#etcsl: line-id=104
+
+105. ag-ga lu₂-kar-ra ur₂-ra bi₂-in-tum₂-mu
+#lem: Aga[1]RN; lukara[fugitive]; ur[root]; tum[bring]
+#etcsl: line-id=105
+
+106. ag-ga mušen kar-ra še bi₂-ib-si-si
+#lem: Aga[1]RN; mušen[bird]; kar[flee]; še[barley]; si[fill]
+#etcsl: line-id=106
+
+107. unug{ki} ŋiš-kiŋ₂-ti diŋir-re-e-ne-ke₄
+#lem: Unug[1]SN; ŋeškiŋti[kiln]; diŋir[deity]
+#etcsl: line-id=107
+
+108. bad₃ gal (1:bad₃ an-ne₂ ki us₂-sa:1)
+#lem: bad[wall]; gal[big]; bad[wall]; An[1]DN; ki[place]; us[accompany]
+#etcsl: line-id=108
+
+:108v.1.1: ($the other ms. has instead:$) muru₉ ki us₂-sa-a-ba#
+#lem: muru[rainstorm]; ki[place]; us[accompany]
+
+109. ki-tuš mah an-ne₂ (1:ŋar-ra-ni:1)
+#lem: kituš[dwelling place]; mah[great]; An[1]DN; ŋar[put]
+#etcsl: line-id=109
+
+:109v.1.1: ($the other ms. has instead:$) ŋar-ra#-[a]-ba#
+#lem: ŋar[put]
+
+110. saŋ mu-sig₁₀ (1:za-e lugal ur-saŋ-bi:1)
+#lem: saŋ[head]; sig[put into]; zaʾe[you]; lugal[king]; ursaŋ[warrior]
+#etcsl: line-id=110
+
+:110v.1.1: ($the other ms. has instead:$) šu-ŋu₁₀ im-mi-ib-gi₄#
+#lem: šu[hand]; gi[turn]
+
+111. saŋ lum-lum nun an-ne₂ ki aŋ₂
+#lem: saŋ[head]; lum[fruit]; nun[prince]; An[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=111
+
+#etcsl#ms the other ms. omits this line
+
+112. igi {d}utu-še₃ šu ud-bi-ta e-ra-an-gi₄
+#lem: igi[eye]; Utu[1]DN; šu[hand]; udbita[former]; gi[turn]
+#etcsl: line-id=112
+
+113. ag-ga kiš{ki}-še₃ šu (1:ba-ni-in-ba:1)
+#lem: Aga[1]RN; Kiš[1]SN; šu[hand]; ba[allot]
+#etcsl: line-id=113
+
+:113v.1.1: ($1 ms. has instead:$) ba-ni-in-bar
+#lem: bar[place outside]
+
+114. {d}gilgameš₂ en kul-aba₄{ki}-a-ke₄
+#lem: Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#etcsl: line-id=114
+
+115. za₃-mi₂-zu dug₃-ga-am₃
+#lem: zamin[praise]; dug[good]
+#etcsl: line-id=115
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) Envoys of @wRN{Aga}, the son of @wRN{En-me-barage-si}, came from @wSN{Kiš} to @wDN{Gilgameš} in @wSN{Unug}. @wDN{Gilgameš} presented the issue before the elders of his city, carefully choosing his words: @q[Gilgamec,]{“There are wells to be finished, many wells of the Land yet to be finished; there are shallow wells of the Land yet to be finished, there are wells to deepen and hoisting gear to be completed. We should not submit to the house of @wSN{Kiš}!  @varh[t1811.v1]{Should we not smite it with weapons? }@vart[t1811.v2,t1811.v1]{@varn{2 mss. have instead:} Let us smite it with weapons! }”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v1 t1811.v2
+#etcsl#altGrpc
+
+@(9 = 9-14) In the convened assembly, his city's elders answered @wDN{Gilgameš}: @q[,Gilgamec]{“There are indeed wells to be finished, many wells of the Land yet to be finished; there are shallow wells of the Land yet to be finished, there are wells to deepen and hoisting gear to be completed.  @varh[t1811.v3]{So we should submit to the house of @wSN{Kiš}. We should not smite it with weapons! }@vart[t1811.v4,t1811.v3]{@varn{1 ms. has instead:} So should we not submit to the house of @wSN{Kiš}? Should we smite it with weapons? }”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v3 t1811.v4
+#etcsl#altGrpc
+
+@(15 = 15-23) @wDN{Gilgameš}, the lord of @wSN{Kulaba}, placing his trust in @wDN{Inana}, did not take seriously the advice of his city's elders. @wDN{Gilgameš} @vart[t1811.v5,t1811.v5]{@varn{1 ms. adds:}, the lord of @wSN{Kulaba}, } presented the issue again, this time before the able-bodied men of his city, carefully choosing his words: @q[Gilgamec,]{“There are wells to be finished, many wells of the Land yet to be finished; there are shallow wells of the Land yet to be finished, there are wells to deepen and hoisting gear to be completed.  @varh[t1811.v6]{Never before have you submitted to the house of @wSN{Kiš}. Should you not smite it with weapons? }@vart[t1811.v7,t1811.v6]{@varn{1 ms. has instead:} We should not submit to the house of @wSN{Kiš}. We should smite it with weapons! }”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v6 t1811.v7
+#etcsl#altGrpc
+
+@(24 = 24-29) In the convened assembly, his city's able-bodied men answered @wDN{Gilgameš}: @q[,Gilgamec]{“@q{“Standing on duty and sitting in attendance, escorting the king's son, and forever grasping the donkey's reins -- who has that much breath?”}, as the saying goes. You old men should not submit to the house of @wSN{Kiš}! Should we young men not smite it with weapons?”}
+
+@(30 = 30-39) @q{“The great gods created the structure of @wSN{Unug}, the handiwork of the gods, and of @wTN{E-ana}, the house lowered down from heaven. You watch over  @varh[t1811.v8]{the great rampart, the rampart which @wDN{An} founded }@vart[t1811.v9,t1811.v8]{@varn{1 ms. has instead:} its great rampart, a cloudbank resting on the earth }, the majestic residence which @wDN{An} established. You are its king and warrior, an exuberant person, a prince beloved of @wDN{An}. When @wRN{Aga} comes, what terror he will experience! That army is small, and scattered at the rear. Its men will be incapable of confronting us.”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v8 t1811.v9
+#etcsl#altGrpc
+#etcsl#linkGrpo
+#etcsl#link type=q t1811.q1 t1811.q2
+#etcsl#linkGrpc
+
+@(40 = 40-47) Then @wDN{Gilgameš}, the lord of @wSN{Kulaba}, rejoiced at the advice of his city's able-bodied men and his spirit brightened. He addressed his servant @wPN{Enkidu}: @q[Gilgamec,Enkidu]{“On this account let the weaponry and arms of battle be made ready. Let the battle mace return to your side. May they create a great terror and radiance. When he comes, my great fearsomeness will overwhelm him. His reasoning will become confused and his judgment disarrayed.”}
+
+@(48 = 48-54) Not five, not 10 days had passed when @wRN{Aga}, the son of @wRN{En-me-barage-si}, laid siege to @wSN{Unug} with his men. @wSN{Unug's} reasoning became confused. @wDN{Gilgameš}, the lord of @wSN{Kulaba}, addressed its warriors: @q[Gilgamec,]{“@varh[t1811.v10]{My warriors shall have the choice. }@vart[t1811.v11,t1811.v10]{@varn{2 mss. have instead:} My warriors, choose! } Let someone with courage volunteer  @varh[t1811.v12]{@q{“I shall go to @wRN{Aga}”} }@vart[t1811.v13,t1811.v12]{@varn{1 ms. has instead:}, and I will send him to @wRN{Aga} }.”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v10 t1811.v11
+#etcsl#alt t1811.v12 t1811.v13
+#etcsl#altGrpc
+
+@(55 = 55-58) @wPN{Birḫar-tura}, his royal guard, spoke in admiration to his king: @q[Birhar-tura,Gilgamec]{“@vart[t1811.v14,t1811.v14]{@varn{2 mss. add:} My king, } I shall  @varh[t1811.v15]{go }@vart[t1811.v16,t1811.v15]{@varn{1 ms. has instead:} go prancing (?) } to @wRN{Aga} so that his reasoning will become confused and his judgment disarrayed.”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v15 t1811.v16
+#etcsl#altGrpc
+
+@(59 = 59-69) @wPN{Birḫar-tura} went out through the city gate. As soon as @wPN{Birḫar-tura} went out through the city gate, they captured him at the gate's entrance, and then beat @wPN{Birḫar-tura's} entire length. He came into the presence of @wRN{Aga} and then spoke to @wRN{Aga}. Before he had finished speaking, an officer of @wSN{Unug} climbed up on the rampart and leaned out over the rampart. @wRN{Aga} saw him and then spoke to @wPN{Birḫar-tura}: @q[Aga,Birhar-tura]{“Slave, is that man your king?”}
+
+@(70 = 70-81) @q[Birhar-tura,Aga]{“That man is not my king! Were that man my king, were that his angry brow, were those his bison eyes, were that his lapis lazuli beard, were those his elegant fingers, would he not cast down multitudes, would he not raise up multitudes, would multitudes not be smeared with dust, would not all the nations be overwhelmed, would not the land's canal-mouths be filled with silt, would not the barges' prows be broken, and would he not take @wRN{Aga}, the king of @wSN{Kiš}, captive in the midst of his army?”}
+
+@(82 = 82-89) They hit him, they struck him. They beat @wPN{Birḫar-tura's} entire length. @wDN{Gilgameš} climbed up on the rampart after the officer of @wSN{Unug}. His radiance overwhelmed @wSN{Kulaba's} young and old. He armed @wSN{Unug's} able-bodied men with battle maces and stationed them on the causeway at the city gate's door. Only @wPN{Enkidu} went out through the city gate. @wDN{Gilgameš} leaned out over the rampart. Looking up, @wRN{Aga} saw him: @q[Aga,Birhar-tura]{“Slave, is that man your king?”}
+
+@(92 = 92-99) @q[Birhar-tura,Aga]{“That man is indeed my king.”} It was just as he had said: @wDN{Gilgameš} cast down multitudes, he raised up multitudes, multitudes were smeared with dust, all the nations were overwhelmed, the land's canal-mouths were filled with silt, the barges' prows were broken, and he took @wRN{Aga}, the king of @wSN{Kiš}, captive in the midst of his army.  @vart[t1811.v17,t1811.v17]{@varn{1 ms. adds 1 line:} @wSN{Unug's} able-bodied men …… that army. }
+
+@(100 = 100-106) @wDN{Gilgameš}, the lord of @wSN{Kulaba},  @varh[t1811.v18]{spoke to } @vart[t1811.v19,t1811.v18]{@varn{1 ms. has instead:} approached close to } @wRN{Aga}: @q[Gilgamec,Aga]{“@wRN{Aga} my overseer, @wRN{Aga} my lieutenant,  @vart[t1811.v20,t1811.v20]{@varn{1 ms. adds 1 line:} @wRN{Aga} my governor, @wRN{Aga} my commander, }@wRN{Aga} my military commander! @wRN{Aga} gave me breath, @wRN{Aga} gave me life: @wRN{Aga} took a fugitive into his embrace, @wRN{Aga} provided the fleeing bird with grain.”}
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v18 t1811.v19
+#etcsl#altGrpc
+
+@(107 = 107-113)  @varh[t1811.v21]{(The able-bodied men acclaim Gilgameš:) @q[,Gilgamec]{“You watch over @wSN{Unug}, the handiwork of the gods, the great rampart, the rampart which @wDN{An} founded, the majestic residence which @wDN{An} established. You are its king and warrior, an exuberant person, a prince beloved of @wDN{An}.”} (Gilgameš addresses Aga:) @q[Gilgamec,Aga]{“Before @wDN{Utu}, your former kindness is hereby repaid to you.”} } @vart[t1811.v22,t1811.v21]{@varn{the other ms. has instead:} @q[Gilgamec,Aga]{“I watch over @wSN{Unug}, the handiwork of the gods, its great rampart, a cloudbank resting on the earth, its majestic residence which @wDN{An} established. The city will repay the kindness shown to me. Before @wDN{Utu}, your former kindness is hereby repaid to you.”} } He set @wRN{Aga} free to go to @wSN{Kiš}.
+
+#etcsl#altGrpo
+#etcsl#alt t1811.v21 t1811.v22
+#etcsl#altGrpc
+
+@(114 = 114-115) O @wDN{Gilgameš}, lord of @wSN{Kulaba}, praising you is sweet.
+
+
+

@@ -1,0 +1,123 @@
+&Q000392 = A balbale to Enlil for Ur-Namma (Ur-Namma G)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.1.7
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1.7&display=Crit&charenc=gcirc#
+
+$ 6 lines missing
+7. {d}en-lil₂-le {d}ur!-{d}namma-ra mu#-[...]
+#lem: Enlil[1]DN; Urnamma[1]RN; X
+#etcsl: line-id=7
+
+8. a-eštub {d}ezina₂ še gu-nu saŋ-e-eš he₂-mu-rig₇#
+#lem: aʾeštub[early flooding]; Ezina[1]DN; še[barley]; gunu[qualification of barley]; saŋ[head]; rig[donate]
+#etcsl: line-id=8
+
+9. {d}ur-{d}namma uŋ₃-e nam-he₂-a gu₂ hu-mu-u₈-di-ni-ib-mar-re
+#lem: Urnamma[1]RN; uŋ[people]; namhe[abundance]; gu[neck]; mer[cvve]
+#etcsl: line-id=9
+
+10. {ŋiš}apin še dug₃-ga bi₂-ŋar-ra# gana₂ ŋar-zu dug₃-ga-am₃
+#lem: apin[(seed) plow]; še[barley]; dug[good]; ŋar[put]; gana[field]; ŋar[put]; dug[good]
+#etcsl: line-id=10
+
+11. ŋiš numun še dug₃ {ŋiš}apin gana₂ nam bi₂#-dug₃-ge
+#lem: ŋeš[tree]; numun[seed]; še[barley]; dug[good]; apin[(seed) plow]; gana[field]; nam[fate]; dug[good]
+#etcsl: line-id=11
+
+12. {ŋiš}apin še dug₃-ge ki kur X X gana₂ nam bi₂#-X X
+#lem: apin[(seed) plow]; še[barley]; dug[good]; ki[place]; kur[mountain(s)]; X; X; gana[field]; nam[fate]; X; X
+#etcsl: line-id=12
+
+13. lugal gud-de₃ gana₂ ŋar-am₃-ma gana₂ ŋar#-zu dug₃-ga-am₃
+#lem: lugal[king]; gud[bull]; gana[field]; ŋar[put]; gana[field]; ŋar[put]; dug[good]
+#etcsl: line-id=13
+
+14. {d}ur-{d}namma gana₂ ŋar-am₃-ma gana₂# ŋar-zu dug₃-ga-am₃
+#lem: Urnamma[1]RN; gana[field]; ŋar[put]; gana[field]; ŋar[put]; dug[good]
+#etcsl: line-id=14
+
+15. gana₂ ŋar-ra-za gud-de₃ ba-sag₉ gana₂ ŋar-za dug₃-ga-am₃
+#lem: gana[field]; ŋar[put]; gud[bull]; sag[good]; gana[field]; ŋar[put]; dug[good]
+#etcsl: line-id=15
+
+16. lugal-ŋu₁₀ gana₂ {d}en-lil₂-la₂-ka a₂ šu ha-ba-e-ni-du₇
+#lem: lugal[king]; gana[field]; Enlil[1]DN; a[arm]; šu[hand]; du[perfect]
+#etcsl: line-id=16
+
+17. ur-{d}namma gana₂ {d}en-lil₂-la₂-ka a₂ šu# ha#-ba-e-ni-du₇
+#lem: Urnamma[1]RN; gana[field]; Enlil[1]DN; a[arm]; šu[hand]; du[perfect]
+#etcsl: line-id=17
+
+18. ab-sin₂ gub-ba-zu im an-na si he₂-em#-ma-ni-in-sa₂
+#lem: absin[furrow]; gub[stand]; im[rain]; an[sky]; si[horn]; sa[equal]
+#etcsl: line-id=18
+
+19. lugal engar zid gana₂ daŋal-la eg₂ pa₅-re ki X [...]
+#lem: lugal[king]; engar[farmer]; zid[right]; gana[field]; daŋal[wide]; eg[levee]; par[(small) canal]; ki[place]; X; X
+#etcsl: line-id=19
+
+20. ur-{d}namma engar zid gana₂ daŋal-la eg₂ pa₅-re ki# [...]
+#lem: Urnamma[1]RN; engar[farmer]; zid[right]; gana[field]; daŋal[wide]; eg[levee]; par[(small) canal]; ki[place]; X
+#etcsl: line-id=20
+
+21. eg₂ pa₅-re {d}utu e₃-gin₇ igi-bi mu#-[...]
+#lem: eg[levee]; par[(small) canal]; Utu[1]DN; e[leave]; igi[eye]; X
+#etcsl: line-id=21
+
+22. lugal-ŋu₁₀# sa-ra# dug₃-dug₃-ge sa-ra-zu# [...]
+#lem: lugal[king]; sar[write]; dug[good]; sar[write]; X
+#etcsl: line-id=22
+
+23. [ur]-{[d]}[namma sa-ra dug₃]-dug₃#-ge sa-ra-zu# X [...]
+#lem: Urnamma[1]RN; sar[write]; dug[good]; sar[write]; X; X
+#etcsl: line-id=23
+
+$ 2 lines missing
+26. [...] SI IN# [...]
+#lem: X; X; X; X
+#etcsl: line-id=26
+
+27. X mu#-ra-an-gur X [...]
+#lem: X; gur[turn]; X; X
+#etcsl: line-id=27
+
+@div trailer 
+
+28. bal#-bal-e {d}en-lil₂-[la₂-kam]
+#lem: balbale[literary subscript]; Enlil[1]DN
+#etcsl: line-id=28
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(7 = 1-8)  @gap{6 lines missing}  @wDN{Enlil} …… to @wRN{Ur-@wDN{Namma}}. He bestowed on him (?) early floods, grain and speckled barley.
+
+@(9 = 9-15) @wRN{Ur-@wDN{Namma}}, may the people flourish in prosperity under your rule. You (?) …… the plough and good barley, and your cultivated fields will be rich. You (?) …… trees, seeds, good barley, the plough, and the fields. You (?) …… the plough and good barley ……. King, cultivate the fields with oxen, and your cultivated fields will be rich; @wRN{Ur-@wDN{Namma}}, cultivate the fields with them, and your cultivated fields will be rich. The oxen will make (?) your cultivated fields fertile; your cultivated fields will be rich.
+
+@(16 = 16-27) My king, when you have finished with all the work on the fields of @wDN{Enlil}; @wRN{Ur-@wDN{Namma}}, when you have finished with all the work on the fields of @wDN{Enlil}, may the rains of heaven make the furrows that you laid out sprout abundantly. King, faithful farmer, you have …… the levees and ditches in the wide fields; @wRN{Ur-@wDN{Namma}}, faithful farmer, you have …… the levees and ditches on the wide fields. Like the rising @wDN{Utu}, the levees and ditches ……. My king, ……; @wRN{Ur-@wDN{Namma}}, …….  @gap{2 lines missing}   @gap{2 lines fragmentary} 
+
+#trailer subscript	balbale
+
+
+@(28 = 28) A @fsux{balbale} of @wDN{Enlil}.
+
+
+

@@ -1,0 +1,338 @@
+&Q000434 = An adab to Suen for Ibbi-Suen (Ibbi-Suen C)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.5.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.5.3&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. [...] an ki su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+#lem: X; an[sky]; ki[place]; sudaŋ[precious metal or material (possibly amber)]; mu[grow]
+#etcsl: line-id=A.1
+
+A.2. [X X] X nun zid ib-ta-e₃-a
+#lem: X; X; X; nun[prince]; zid[right]; e[leave]
+#etcsl: line-id=A.2
+
+A.3. {[d]}suen# kur gal-e en nun-še₃ tud-da
+#lem: Suen[1]DN; kur[mountain(s)]; gal[big]; en[lord]; nun[prince]; utud[give birth (to)]
+#etcsl: line-id=A.3
+
+A.4. [...] X X SAR-a X AN DA DI
+#lem: X; X; X; X; X; X; X; X
+#etcsl: line-id=A.4
+
+A.5. [gaba]-ŋal₂ an ki-<a> lugal-bi na-nam
+#lem: gabaŋal[forceful]; an[sky]; ki[place]; lugal[king]; me[be]
+#etcsl: line-id=A.5
+
+A.6. en# {d}dil-im₂-babbar su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+#lem: en[lord]; Dilimbabbar[1]DN; sudaŋ[precious metal or material (possibly amber)]; mu[grow]
+#etcsl: line-id=A.6
+
+A.7. {d}suen <su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂>
+#lem: Suen[1]DN; sudaŋ[precious metal or material (possibly amber)]; mu[grow]
+#etcsl: line-id=A.7
+
+A.8. {d}X <su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂>
+#lem: X[1]DN; sudaŋ[precious metal or material (possibly amber)]; mu[grow]
+#etcsl: line-id=A.8
+
+A.9. diŋir ud-da <su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂>
+#lem: diŋir[deity]; ud[sun]; sudaŋ[precious metal or material (possibly amber)]; mu[grow]
+#etcsl: line-id=A.9
+
+A.10. gaba-ŋal₂ an ki-a lugal-bi na#-[nam]
+#lem: gabaŋal[forceful]; an[sky]; ki[place]; lugal[king]; me[be]
+#etcsl: line-id=A.10
+
+A.11. an sikil-la mu-un-X ki-še₃ pa [am₃]-e₃#
+#lem: an[sky]; sikil[pure]; X; ki[place]; pa[branch]; e[leave]
+#etcsl: line-id=A.11
+
+A.12. eš-bar an-na-kam sa₂ gal mu-un-ŋa₂-ŋa₂
+#lem: ešbar[decision]; An[1]DN; sa[advice]; gal[big]; ŋar[put]
+#etcsl: line-id=A.12
+
+A.13. temen si sa₂-a me šar₂ mi-ni-in-ed₂-e
+#lem: temen[foundation]; si[horn]; sa[equal]; me[Being]; šar[numerous]V/i; e[leave]
+#etcsl: line-id=A.13
+
+A.14. šul nun-še₃ il₂-la {d}i-bi-{d}suen-ŋu₁₀
+#lem: šul[youth]; nun[prince]; il[raise]; Ibbisuen[1]RN
+#etcsl: line-id=A.14
+
+A.15. bal su₃-ud nam-he₂-a im-ma-ni-in-pad₃-de₃
+#lem: bala[turn]; sud[distant]; namhe[abundance]; pad[find]
+#etcsl: line-id=A.15
+
+A.16. en {d}dil-im₂-babbar ki-še₃ pa am₃-e₃!(DU)
+#lem: en[lord]; Dilimbabbar[1]DN; ki[place]; pa[branch]; e[leave]
+#etcsl: line-id=A.16
+
+A.17. eš-bar an-na-kam <sa₂ gal mu-un-ŋa₂-ŋa₂>
+#lem: ešbar[decision]; An[1]DN; sa[advice]; gal[big]; ŋar[put]
+#etcsl: line-id=A.17
+
+A.18. temen si sa₂-a <me šar₂ mi-ni-in-ed₂-e>
+#lem: temen[foundation]; si[horn]; sa[equal]; me[Being]; šar[numerous]V/i; e[leave]
+#etcsl: line-id=A.18
+
+A.19. šul nun-še₃ il₂-la <{d}i-bi-{d}suen-ŋu₁₀>
+#lem: šul[youth]; nun[prince]; il[raise]; Ibbisuen[1]RN
+#etcsl: line-id=A.19
+
+A.20. bal su₃-ud nam-he₂-a im-ma-ni-in-pad₃-da
+#lem: bala[turn]; sud[distant]; namhe[abundance]; pad[find]
+#etcsl: line-id=A.20
+
+A.21. ki nim-ma kur-zag-še₃ gal-bi mu-ni-ib-e₃
+#lem: ki[place]; nim[high]; kurzag[mountain border]; gal[big]; e[leave]
+#etcsl: line-id=A.21
+
+A.22. me kug-bi šen-am₃ ŋiš-hur nam-mi-ni-in-du₇
+#lem: me[Being]; kug[pure]; šen[pure]; ŋešhur[plan]; du[perfect]
+#etcsl: line-id=A.22
+
+A.23. niŋ₂-nam še-er-ka-an-ba igi su₃-ud mi-ni-in-il₂
+#lem: niŋnam[anything]; šerkan[ornament]; igi[eye]; sud[distant]; il[raise]
+#etcsl: line-id=A.23
+
+A.24. aga du₇ me ud su₃-ra₂ dug₄-ga nu-kam₃-me-de₃
+#lem: aga[tiara]; du[perfect]; me[Being]; ud[sun]; sud[distant]; dug[speak]; kam[alter]
+#etcsl: line-id=A.24
+
+A.25. {d}i-bi-{d}suen-ŋu₁₀-ur₂ til₃ ša-mu-e-da-ab-su₃-ud-de₃
+#lem: Ibbisuen[1]RN; til[live (of a single person)]; sud[distant]
+#etcsl: line-id=A.25
+
+A.26. en {d}dil-im₂-babbar gal-bi mu-ni-ib-e₃
+#lem: en[lord]; Dilimbabbar[1]DN; gal[big]; e[leave]
+#etcsl: line-id=A.26
+
+A.27. me kug-bi šen-am₃ <ŋiš-hur nam-mi-ni-in-du₇>
+#lem: me[Being]; kug[pure]; šen[pure]; ŋešhur[plan]; du[perfect]
+#etcsl: line-id=A.27
+
+A.28. niŋ₂-nam še-er-ka-an-ba <igi su₃-ud mi-ni-in-il₂>
+#lem: niŋnam[anything]; šerkan[ornament]; igi[eye]; sud[distant]; il[raise]
+#etcsl: line-id=A.28
+
+A.29. aga du₇ me ud su₃-ra₂ dug₄-ga nu-kam₃-me-de₃
+#lem: aga[tiara]; du[perfect]; me[Being]; ud[sun]; sud[distant]; dug[speak]; kam[alter]
+#etcsl: line-id=A.29
+
+A.30. {d}i-bi-{d}suen-ŋu₁₀-<ur₂> til₃ ša-mu-e-da-ab#-[su₃-ud-de₃]
+#lem: Ibbisuen[1]RN; til[live (of a single person)]; sud[distant]
+#etcsl: line-id=A.30
+
+A.31. en ŋiš-nu₁₁ an ki X X X [...]
+#lem: en[lord]; ŋešnu[light]; an[sky]; ki[place]; X; X; X; X
+#etcsl: line-id=A.31
+
+A.32. un₃-e! ŋiš-he₂-a me-te [...]
+#lem: un[high]; ŋešhe[firmament]; mete[appropriate thing]; X
+#etcsl: line-id=A.32
+
+A.33. E HI DU daŋal DU-bi he₂-X [...]
+#lem: X; X; X; daŋal[wide]; X; X; X
+#etcsl: line-id=A.33
+
+A.34. me šar₂-bi mi-ni-ib-si aŋ₂ X [...]
+#lem: me[Being]; šar[numerous]V/i; si[fill]; aŋ[measure]; X; X
+#etcsl: line-id=A.34
+
+A.35. {d}i-bi₂-{d}suen-ŋu₁₀ AN X X [...]
+#lem: Ibbisuen[1]RN; X; X; X; X
+#etcsl: line-id=A.35
+
+A.36. en {d}dil-im₂-babbar men-bi [...]
+#lem: en[lord]; Dilimbabbar[1]DN; men[tiara]; X
+#etcsl: line-id=A.36
+
+A.37. un₃-e ŋiš-he₂-a [...]
+#lem: un[high]; ŋešhe[firmament]; X
+#etcsl: line-id=A.37
+
+A.38. E HI DU daŋal DU-bi [...]
+#lem: X; X; X; daŋal[wide]; X; X
+#etcsl: line-id=A.38
+
+A.39. me šar₂-bi [...]
+#lem: me[Being]; šar[numerous]V/i; X
+#etcsl: line-id=A.39
+
+A.40. {d}i-bi₂-30-ŋu₁₀ AN X X [...]
+#lem: Ibbisuen[1]RN; X; X; X; X
+#etcsl: line-id=A.40
+
+@div trailer 
+
+A.41. sa-gid₂-da-[am₃]
+#lem: sagida[musical notation]
+#etcsl: line-id=A.41
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+B.42. an-ne₂ ud dug₃ X DU AŠ kug mu-[...] X X
+#lem: An[1]DN; ud[sun]; dug[good]; X; X; X; kug[purify]; X; X; X
+#etcsl: line-id=B.42
+
+B.43. aga zid me ud su₃-ra₂ ŋidru nam-lugal-la
+#lem: aga[tiara]; zid[right]; me[Being]; ud[sun]; sud[distant]; ŋidru[scepter]; namlugal[kingship]
+#etcsl: line-id=B.43
+
+B.44. {d}en-lil₂-le ki aŋ₂ nam-en nam mu-un-tar
+#lem: Enlil[1]DN; ki[place]; aŋ[measure]; namen[the office of en-priest]; nam[fate]; tar[cut]
+#etcsl: line-id=B.44
+
+B.45. nam-ur-saŋ ba-tud pa e₃ am₃-mi-ni-mah
+#lem: namursaŋ[heroism]; utud[give birth (to)]; pa[branch]; e[leave]; mah[great]
+#etcsl: line-id=B.45
+
+B.46. {d}en-ki-ke₄ nam-he₂ ud giri₁₇-zal mu₂-mu₂
+#lem: Enkik[1]DN; namhe[abundance]; ud[sun]; kirizal[joy]; mu[grow]
+#etcsl: line-id=B.46
+
+B.47. {id₂}idigna {id₂}buranun-na a-u₃-ba daŋal X
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; aʾu[high water]; daŋal[wide]; X
+#etcsl: line-id=B.47
+
+B.48. {d}nin-tur₅ numun i-i saŋ# zi-ŋal₂ u₃-tud
+#lem: Nintur[1]DN; numun[seed]; e[bring out]; saŋ[head]; ziŋal[living things]; utud[give birth (to)]
+#etcsl: line-id=B.48
+
+B.49. iri a₂-dam uŋ₃ lu-a ni₂-bi-a AŠ BAR UŠ
+#lem: iri[city]; adam[habitation]; uŋ[people]; lu[abundant]; ni[self]; X; X; X
+#etcsl: line-id=B.49
+
+B.50. {d}nanna ud zu₂ keše₂ ŋiš-hur gen₆-ne₂
+#lem: Nanna[1]DN; ud[sun]; zu[tooth]; kešed[bind]; ŋešhur[plan]; gin[confirm]
+#etcsl: line-id=B.50
+
+B.51. itid zal-le mu da-ri₂ ud ki-še₃ |DU.DU|
+#lem: itud[moon]; zal[pass time]; mu[name]; dari[eternal]; ud[sun]; ki[place]; X
+#etcsl: line-id=B.51
+
+B.52. saŋ-kal nam-nun-na {d}i-bi₂-30-ŋu₁₀
+#lem: saŋkal[foremost]; namnun[magnificence]; Ibbisuen[1]RN
+#etcsl: line-id=B.52
+
+B.53. sig nim zag an ki e-ne-er ni₂ ba-[...]-e
+#lem: sig[weak]; nim[high]; zag[side]; an[sky]; ki[place]; ane[he]; ni[fear]; X
+#etcsl: line-id=B.53
+
+B.54. {d}i-bi₂-30 a₂ mah kalag-ga nam-ur-saŋ-ŋa₂
+#lem: Ibbisuen[1]RN; a[arm]; mah[great]; kalag[strong]; namursaŋ[heroism]
+#etcsl: line-id=B.54
+
+B.55. nam-šul-la zag dib kur-re ŋiri₃ saga₁₁ di
+#lem: namšul[manhood]; zag[side]; dib[pass]; kur[mountain(s)]; ŋiri[foot]; saga[press?]; di[speak]
+#etcsl: line-id=B.55
+
+B.56. eš-bar-e kiŋ₂-ŋa₂ uŋ₃-e ŋalga! šum₂-mu
+#lem: ešbar[decision]; kiŋ[seek]; uŋ[people]; ŋalga[(fore)thought]; šum[give]
+#etcsl: line-id=B.56
+
+B.57. {d}utu niŋ₂-si-sa₂ niŋ₂-du₇-e bi₂-in-DU
+#lem: Utu[1]DN; niŋsisa[justice]; niŋdu[that which is appropriate]; X
+#etcsl: line-id=B.57
+
+B.58. nin zid {d}nin-irigal# ama kul-ab{ki}-a-ke₄
+#lem: nin[lady]; zid[right]; Ninirigalak[1]DN; ama[mother]; Kulaba[1]SN
+#etcsl: line-id=B.58
+
+B.59. nam-šita a-ra-zu mah# ud ki-bi šu X E X
+#lem: namšita[prayer]; arazu[supplication]; mah[great]; ud[sun]; ki[place]; šu[hand]; X; X; X
+#etcsl: line-id=B.59
+
+B.60. [X X] X nin mu mah [X X] X X X X
+#lem: X; X; X; nin[lady]; mu[name]; mah[great]; X; X; X; X; X; X
+#etcsl: line-id=B.60
+
+B.61. [X X] zi# su₃-ud-ŋal₂
+#lem: X; X; zi[life]; sudŋal[long-lasting]
+#etcsl: line-id=B.61
+
+@div trailer 
+
+B.62. [sa-ŋar]-ra#-am₃
+#lem: saŋara[musical notation]
+#etcsl: line-id=B.62
+
+#etcsl#doc lines 61 and 62 are written as one line in source
+
+@end trailer
+
+@end sa-jara
+
+@div ŋišgiŋal C
+
+C.63. [X X] X IG X X šul {d}suen-na X
+#lem: X; X; X; X; X; X; šul[youth]; Suen[1]DN; X
+#etcsl: line-id=C.63
+
+C.64. [saŋ]-eš₂ mu-ni-in-rig₇ lugal an-na-ra
+#lem: saŋ[head]; rig[donate]; lugal[king]; an[sky]
+#etcsl: line-id=C.64
+
+@div trailer 
+
+C.65. [ŋiš]-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=C.65
+
+@end trailer
+
+@end jicgijal
+
+@div uru D
+
+D.66. [...] A un₃-na su₃-ra₂-aŋ₂-bi na-nam
+#lem: X; X; un[high]; sudaŋ[precious metal or material (possibly amber)]; me[be]
+#etcsl: line-id=D.66
+
+D.67. [X X] X ŋiš-he₂-a <su₃-ra₂-aŋ₂-bi na-nam>
+#lem: X; X; X; ŋešhe[firmament]; sudaŋ[precious metal or material (possibly amber)]; me[be]
+#etcsl: line-id=D.67
+
+D.68. {[d]}[i-bi₂]-30-ŋu₁₀ <bal> su₃-ra₂ mu nam-he₂
+#lem: Ibbisuen[1]RN; bala[turn]; sud[distant]; mu[year]; namhe[abundance]
+#etcsl: line-id=D.68
+
+D.69. [X X] til₃# ša-mu-e-da-ab-sud-de₃
+#lem: X; X; til[live (of a single person)]; sud[distant]
+#etcsl: line-id=D.69
+
+@div trailer 
+
+D.70. u₁₈!-ru₁₂-bi
+#lem: uru[literary subscript]
+#etcsl: line-id=D.70
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+D.71. a-da-ab {d}suen-<na>
+#lem: adab[drum]; Suen[1]DN
+#etcsl: line-id=D.71
+
+#etcsl#doc lines 70 and 71 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

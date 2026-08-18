@@ -1,0 +1,93 @@
+&Q000564 = Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.2.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.03&display=Crit&charenc=gcirc#
+
+1. lugal-ŋa₂ u₃-na-dug₄
+#lem: lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. {m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
+#lem: Nannakiaŋ[1]PN; rabizigatum[military official]
+#etcsl: line-id=2
+
+3. arad-zu na-ab-be₂-a
+#lem: arad[slave]; e[speak]
+#etcsl: line-id=3
+
+4. e₂-danna{da-na}{ki!#} lugal-ŋu₁₀ ba-an-da-bal
+#lem: Edanna[1]SN; lugal[king]; bala[turn]
+#etcsl: line-id=4
+
+5. šag₄ e₂-danna{da-na}-še₃ 6 me-at ugnim gu-un-gu-nu-um
+#lem: šag[heart]; Edanna[1]SN; n; n; ugnim[army]; Gungunum[1]RN
+#etcsl: line-id=5
+
+6. {m}at-ta-ma-an-nu-um ba-ni-in-kur₉
+#lem: Attamannum[1]PN; kur[enter]
+#etcsl: line-id=6
+
+7. ugnim-bi iri-saŋ-an-na libir-ra-še₃ ku₄-ku₄-de₃ la-ba-šum₂
+#lem: ugnim[army]; Irisaŋanna[1]SN; libir[old]; kur[enter]; šum[give]
+#etcsl: line-id=7
+
+8. iri#{ki}-gibil-am₃ al-dur₂-ru-ne-eš
+#lem: Irigibil[1]SN; durun[sit]
+#etcsl: line-id=8
+
+9. (1:ugnim-bi:1) gu₂ id₂-amar-{d}suen-ka-ta
+#lem: ugnim[army]; gu[neck]; Idamarsuena[1]WN
+#etcsl: line-id=9
+
+:9v.1.1: ($1 ms. has instead:$) ugnim# gu-un-gu-nu-um
+#lem: ugnim[army]; Gungunum[1]RN
+
+10. [...] du₃#-u₃-de₃ du-un-nu-um{ki} ak-de₃
+#lem: X; du[build]; Dunnum[1]SN; ak[do]
+#etcsl: line-id=10
+
+11. [...] X X-al-e-de₃ ba-ŋen
+#lem: X; X; X; ŋen[go]
+#etcsl: line-id=11
+
+12. tukum#-[bi] lugal-ŋu₁₀ NIM {ŋiš}pan# {ŋiš}gag-pan
+#lem: tukumbi[if]; lugal[king]; X; pana[bow]; kakpana[arrow]
+#etcsl: line-id=12
+
+13. {ŋiš}ma₂ tur-tur šu-KU₆ X X X
+#lem: ma[ship]; tur[small]; šukud[fisherman]; X; X; X
+#etcsl: line-id=13
+
+14. {kuš}a-ŋa₂-[la₂] keše₂-da-bi {ŋiš}tukul {ŋiš}[...] {[ŋiš]}šu#-kar₂
+#lem: aŋala[leather sack]; kešed[bind]; tukul[weapon]; X; šukara[tool]
+#etcsl: line-id=14
+
+15. a₂ me₃ [...] nu-um-ta-[...] DU
+#lem: a[arm]; me[battle]; X; X; X
+#etcsl: line-id=15
+
+16. ugnim [...] gu₂ id₂-amar-{[d]}[suen-ka]-ta
+#lem: ugnim[army]; X; gu[neck]; Idamarsuena[1]WN
+#etcsl: line-id=16
+
+17. šeg₁₂ ba-du₃-e X [...] X X-e u₃ id₂ [...] al-ba-al-e
+#lem: šeg[brick]; du[build]; X; X; X; X; u[and]; id[river]; X; bal[dig]
+#etcsl: line-id=17
+
+18. lugal-ŋu₁₀ nam-ba-e-še-ba-e-ne
+#lem: lugal[king]; šebida[disdain]
+#etcsl: line-id=18
+
+19. a-ma-ru-kam
+#lem: amaru[flood]
+#etcsl: line-id=19
+
+
+
+
+
+
+

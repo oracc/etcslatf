@@ -1,0 +1,310 @@
+&Q000684 = A hymn to Nanna (Nanna O)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.15
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.15&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ 4 lines missing
+A.5. [...] X NE#
+#lem: X; X; X
+#etcsl: line-id=A.5
+
+A.6. [X X X] LI ša-mu-e-da-ŋal₂
+#lem: X; X; X; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.6
+
+A.7. an# {[d]}en#-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; Ninhursaŋak[1]DN
+#etcsl: line-id=A.7
+
+A.8. ki-ulutim₂-zu-a mi₂ zid ša-ra-ne-ne
+#lem: kiʾulutim[place of creation]; mi[cvne]; zid[right]; e[speak]
+#etcsl: line-id=A.8
+
+A.9. {d}nanna un₃-na
+#lem: Nanna[1]DN; un[high]
+#etcsl: line-id=A.9
+
+#etcsl#doc it is likely that this line was abbreviated by the scribe and the remainder omitted
+
+A.10. an ki-a na degₓ(RI)
+#lem: an[sky]; ki[place]; na[cvne]; deg[gather up]
+#etcsl: line-id=A.10
+
+#etcsl#doc it is likely that this line was abbreviated by the scribe and the remainder omitted
+
+A.11. an {d}en-lil₂ <{d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄>
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; Ninhursaŋak[1]DN
+#etcsl: line-id=A.11
+
+A.12. ki-ulutim₂-zu-a <mi₂ zid ša-ra-ne-ne>
+#lem: kiʾulutim[place of creation]; mi[cvne]; zid[right]; e[speak]
+#etcsl: line-id=A.12
+
+A.13. šul {d}suen du-du-da-zu-ne
+#lem: šul[youth]; Suen[1]DN; du[go]
+#etcsl: line-id=A.13
+
+A.14. diŋir-diŋir a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+#lem: diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=A.14
+
+A.15. an ub-da limmu₂ uŋ₃ saŋ gig₂-ga
+#lem: an[sky]; ub[corner]; limmu[four]; uŋ[people]; saŋ[head]; giggig[black]
+#etcsl: line-id=A.15
+
+A.16. dumu-saŋ {d}en-lil₂-la₂ igi-bi ma-ra-ši-ŋal₂
+#lem: dumusaŋ[first-born]; Enlil[1]DN; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.16
+
+A.17. {d}nanna šul {d}suen <du-du-da-zu-ne>
+#lem: Nanna[1]DN; šul[youth]; Suen[1]DN; du[go]
+#etcsl: line-id=A.17
+
+A.18. diŋir-diŋir a-nun-na <ši-im-ma-sug₂-sug₂-ge-eš>
+#lem: diŋir[deity]; Anunak[1]DN; sug[stand]
+#etcsl: line-id=A.18
+
+A.19. an ub-da limmu₂ <uŋ₃ saŋ gig₂-ga>
+#lem: an[sky]; ub[corner]; limmu[four]; uŋ[people]; saŋ[head]; giggig[black]
+#etcsl: line-id=A.19
+
+A.20. dumu-saŋ {d}en-lil₂-la₂ <igi-bi ma-ra-ši-ŋal₂>
+#lem: dumusaŋ[first-born]; Enlil[1]DN; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.20
+
+A.21. an kug-ga pa e₃-a-zu-ne
+#lem: an[sky]; kug[pure]; pa[branch]; e[leave]
+#etcsl: line-id=A.21
+
+A.22. kur-kur-ra daŋal im-SAR-e-en
+#lem: kur[mountain(s)]; daŋal[wide]; X
+#etcsl: line-id=A.22
+
+A.23. iti₆-zu kug-ga-am₃ dadag-ga-am₃
+#lem: itud[moon]; kug[pure]; dadag[bright]
+#etcsl: line-id=A.23
+
+A.24. e i lugal-ra ud-de₃-eš mu-un-e₃
+#lem: e[vocative interjection]; i[(vocative exclamation)]; lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=A.24
+
+A.25. {d}nanna an kug-ga <pa e₃-a-zu-ne>
+#lem: Nanna[1]DN; an[sky]; kug[pure]; pa[branch]; e[leave]
+#etcsl: line-id=A.25
+
+A.26. kur-kur-ra <daŋal im-SAR-e-en>
+#lem: kur[mountain(s)]; daŋal[wide]; X
+#etcsl: line-id=A.26
+
+A.27. iti₆-zu <kug-ga-am₃ dadag-ga-am₃>
+#lem: itud[moon]; kug[pure]; dadag[bright]
+#etcsl: line-id=A.27
+
+A.28. e i lugal-ra <ud-de₃-eš mu-un-e₃>
+#lem: e[vocative interjection]; i[(vocative exclamation)]; lugal[king]; ud[sun]; e[leave]
+#etcsl: line-id=A.28
+
+A.29. [...] X {d}nanna en šag₄-ge pad₃-da-zu
+#lem: X; X; Nanna[1]DN; en[lord]; šag[heart]; pad[find]
+#etcsl: line-id=A.29
+
+A.30. [...] pa e₃ ši-im-mi-in-ak
+#lem: X; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=A.30
+
+A.31. [...] en# KA-KA nu-silig#-ge#
+#lem: X; en[lord]; X; silig[cease]
+#etcsl: line-id=A.31
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X X X X X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. X [...] X ud su₃-ra₂ ul-le₂-a-še₃
+#lem: X; X; X; ud[sun]; sud[distant]; ul[distant time]
+#etcsl: line-id=B.2
+
+B.3. in-ŋa₂-e-re₇-en-de₃-en in-ŋa₂-e-re₇-en-de₃-en
+#lem: ere[go (perfect plural stem of ŋen⟦to go⟧)]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=B.3
+
+B.4. e₂-e TUG₂ ME mah NE |KA×X| NE in-ŋa₂-e-re₇-en-de₃-en
+#lem: e[house]; X; X; mah[great]; X; X; X; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=B.4
+
+B.5. X X %e u₃-mu-un-na-še₃
+#lem: X; X; umun[lord]N
+#etcsl: line-id=B.5
+
+B.6. X NE nun {d}šul-gi-ra-še₃
+#lem: X; X; nun[prince]; Šulgir[1]RN
+#etcsl: line-id=B.6
+
+B.7. iri ki-bi gi₄-a-še₃
+#lem: iri[city]; ki[place]; gi[turn]
+#etcsl: line-id=B.7
+
+B.8. inim inim-ŋar sag₉-ge-še₃
+#lem: inim[word]; iŋar[oracular utterance]; sag[good]
+#etcsl: line-id=B.8
+
+B.9. %e šu-um-du-um %s šag₄ šuba₄{ba}-še₃
+#lem: šumdum[lip]N; šag[heart]; šuba[multicoloured]
+#etcsl: line-id=B.9
+
+B.10. %e me-ri %s ki-a sig₁₀-ga-še₃
+#lem: meri[foot]N; ki[place]; sig[put into]
+#etcsl: line-id=B.10
+
+B.11. eš₃ nibru{ki} dur-an-ki-še₃
+#lem: eš[shrine]; Nibru[1]SN; Durankik[1]TN
+#etcsl: line-id=B.11
+
+B.12. igi %e še-eb %s tu-tu-ba-še₃
+#lem: igi[eye]; šeb[brick]N; Tutub[1]SN
+#etcsl: line-id=B.12
+
+B.13. abzu mah %e še-eb %s %e uru₂-ze₂-ba-še₃
+#lem: Eʾabzu[1]; mah[great]; šeb[brick]N; Uruzeb[1]SN
+#etcsl: line-id=B.13
+
+B.14. e₂-šu-me-ša₄ me nam-nun-na-še₃
+#lem: Ešumeša[1]TN; me[Being]; namnun[magnificence]
+#etcsl: line-id=B.14
+
+B.15. urim₂{ki}-e e₂ {d}suen-na-še₃
+#lem: Urim[1]SN; e[house]; Suen[1]DN
+#etcsl: line-id=B.15
+
+B.16. e₂-kiš-nu-ŋal₂ {d}nanna-še₃
+#lem: Ekišnuŋal[1]TN; Nanna[1]DN
+#etcsl: line-id=B.16
+
+B.17. agrun-kug e₂ ki aŋ₂ %e ga-ša-an-na-še₃
+#lem: Agrunkug[1]TN; e[house]; ki[place]; aŋ[measure]; gašan[lady]N
+#etcsl: line-id=B.17
+
+B.18. e₂-hur-saŋ e₂ lugal-la-še₃
+#lem: Ehursaŋ[1]TN; e[house]; lugal[king]
+#etcsl: line-id=B.18
+
+B.19. e₂-nam-til₃-la nun šul-gi-še₃ in-ŋa₂-e-re₇-en-de₃-en
+#lem: Enamtilak[1]TN; nun[prince]; Šulgir[1]RN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=B.19
+
+B.20. ki-GAR-KA {d}suen-na-ka {d}utu he₂-me-en
+#lem: ki.GAR.KA[cultic location]; Suen[1]DN; Utu[1]DN; me[be]
+#etcsl: line-id=B.20
+
+B.21. abzu al-mu₂-mu₂ abzu al-sag₉-ge
+#lem: abzu[(cosmic) underground water]; mu[grow]; abzu[(cosmic) underground water]; sag[good]
+#etcsl: line-id=B.21
+
+B.22. abzu %e u₃-mu-un-bi-ra u₃-mu-un %s ŋa₂-ŋa₂-dam
+#lem: abzu[(cosmic) underground water]; umun[lord]N; umun[lord]N; ŋar[put]
+#etcsl: line-id=B.22
+
+B.23. %e u₃-mu-un %s {d}nanna %e u₃-mu-un %s {d}dil-im₂-babbar
+#lem: umun[lord]N; Nanna[1]DN; umun[lord]N; Dilimbabbar[1]DN
+#etcsl: line-id=B.23
+
+B.24. %e u₃-mu-un %s kisal-la₂ giri₁₇-zal {d}alamuš-ra
+#lem: umun[lord]N; kisal[courtyard]; kirizal[joy]; Alammuš[1]
+#etcsl: line-id=B.24
+
+B.25. X ub-a-ke₄ ub-e hu-mu-ri-in-ša₄
+#lem: X; ub[corner]; ub[corner]; ša[cvve]
+#etcsl: line-id=B.25
+
+B.26. X da-a-ke₄ da-e hu-mu-ri-in-ša₄
+#lem: X; dag[side]; dag[side]; ša[cvve]
+#etcsl: line-id=B.26
+
+B.27. X {d}inana an-na-ke₄ hi-li-a hu-mu-ri-in-ša₄
+#lem: X; Inanak[1]DN; an[sky]; hili[attractiveness]; ša[cvve]
+#etcsl: line-id=B.27
+
+B.28. %e [mu]-gi₁₇#-ib %s gal-e! %e niŋin₃-mar-e %s hu-<mu-ri-in-ša₄>
+#lem: mugib[priestess]N; gal[big]; niŋinmar[building]; ša[cvve]
+#etcsl: line-id=B.28
+
+B.29. [X X] X-e kurku₂-a hu-<mu-ri-in-ša₄>
+#lem: X; X; X; kurku[wish]; ša[cvve]
+#etcsl: line-id=B.29
+
+B.30. [...] X X-ba hu-mu-ri-in-ša₄
+#lem: X; X; X; ša[cvve]
+#etcsl: line-id=B.30
+
+B.31. [...] za-e he₂-me-en GI DU
+#lem: X; zaʾe[you]; me[be]; X; X
+#etcsl: line-id=B.31
+
+B.32. [...]  %e  ga#-ša-an-sumun₂-na#  %s  [...]
+#lem: X; Gašansumun[1]DN; X
+#etcsl: line-id=B.32
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] X X ŋe₂₆ za-ra %e de₃-ra-ab-dug₄
+#lem: X; X; X; ŋaʾe[I]; zaʾe[you]; dug[speak]
+#etcsl: line-id=C.1
+
+C.2. [ki]-GAR-KA {[d]}[suen-na-ka] {d}utu he₂-me-en
+#lem: ki.GAR.KA[cultic location]; Suen[1]DN; Utu[1]DN; me[be]
+#etcsl: line-id=C.2
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.5 = 1-12)  @gap{4 lines missing}   @gap{1 line fragmentary}  You possess ……! @wDN{An}, @wDN{Enlil}, @wDN{Enki} and @wDN{Ninḫursaŋa} treat you with deserved affection in your place of creation. Exalted @wDN{Nanna} ……, adviser in heaven and on earth ……! @wDN{An}, @wDN{Enlil}, @wDN{Enki} and @wDN{Ninḫursaŋa} treat you with deserved affection in your place of creation.
+
+@(A.13 = 13-20) Youthful @wDN{Suen}, as you move the @wDN{Anuna} gods stand in attendance. In the four quarters of the world the black-headed people raise their eyes to you, the first-born son of @wDN{Enlil}. @wDN{Nanna}, youthful @wDN{Suen}, as you move the @wDN{Anuna} gods stand in attendance. In the four quarters of the world the black-headed people raise their eyes to you, the first-born son of @wDN{Enlil}.
+
+@(A.21 = 21-28) As you become manifest in the holy heavens, you …… broadly over all the lands. Your light is holy and purifies. Oh, ah, it has come forth for the king like the sunlight! @wDN{Nanna}, as you become manifest in the holy heavens, you …… broadly over all the lands. Your light is holy and purifies. Oh, ah, it has come forth for the king like the sunlight!
+
+@(A.29 = 29-31) @wDN{Nanna}, ……, for (?) the lord you have chosen, you have made the …… manifest. …… without ceasing (?),  @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1-2)  @gap{1 line fragmentary}  …… into the distant future.
+
+@(B.3 = 3-10) We are going, we are going, …… we are going to the house, to the …… of the lord, to the …… of Prince @wRN{Šulgi}, to the city that has been restored, to where speech and opinions are good, to where lips and hearts are pure, to where feet are firm on the ground.
+
+@(B.11 = 11-20) We are going to the shrine @wSN{Nibru}, @wTN{Dur-an-ki}, to …… brick-built @wSN{Tutub}, to the majestic @wTN{Abzu}, brick-built @wSN{Eridug}, to the @wTN{E-šu-me-ša} with the princely divine powers, in @wSN{Urim} to the house of @wDN{Suen}, to the @wTN{E-kiš-nu-ŋal} of @wDN{Nanna}, to the @wTN{Agrun-kug}, the beloved house of the lady, to the @wTN{E-ḫursaŋ}, the house of the king, to the @wTN{E-namtila} of Prince @wRN{Šulgi}. In the …… place of @wDN{Suen}, may you be @wDN{Utu}.
+
+@(B.21 = 21-32) The @fsux{abzu} has flourished, the @fsux{abzu} is beautiful. The @fsux{abzu} shall establish the lord as its lord. Lord @wDN{Nanna}, Lord @wDN{Ašimbabbar}, to the lord of the courtyard, noble @wDN{Alamuš}, may ……! May ……! May …… @wDN{Inana} of heaven …… in beauty! May the mistress …… in beauty in the shrine! May …… as desired! May ……! May you ……! …… of @wDN{Ninsumun} ……!  @gap{unknown no. of lines missing} 
+
+
+@(C.1 = 1-2) I shall address you ……! In the …… place of @wDN{Suen}, may you be @wDN{Utu}.
+
+
+

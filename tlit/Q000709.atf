@@ -1,0 +1,124 @@
+&Q000709 = A šir-namšub to Ninisina (Ninisina B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.22.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22.2&display=Crit&charenc=gcirc#
+
+1. i₃ li duru₅ i₃ li duru₅ i₃ li he₂-en-na-tum₂ %e na-aŋ₂ %s i₃ li duru₅
+#lem: i[oil]; lib[high quality]; duru[wet]; i[oil]; lib[high quality]; duru[wet]; i[oil]; lib[high quality]; tum[bring]; naŋ[fate]N; i[oil]; lib[high quality]; duru[wet]
+#etcsl: line-id=1
+
+2. i₃ lum-ma he₂-en-na-tum₂
+#lem: i[oil]; lum[fruit]; tum[bring]
+#etcsl: line-id=2
+
+3. TUM-KU sag₉-ga-ŋu₁₀ ul-la
+#lem: X; sag[good]; ul[swell]
+#etcsl: line-id=3
+
+4. %e ga-ša-an-ŋu₁₀ ga-ša-an %s sir₂-sir₂-e ama-ugu-ku-ku
+#lem: gašan[lady]N; gašan[lady]N; Sirsire[1]; Amaugukuku[1]DN
+#etcsl: line-id=4
+
+5. %e ga-ša-an-ŋu₁₀ %s kurun-a tuš-a-ra
+#lem: gašan[lady]N; kurun[beer]; tuš[sit (down)]
+#etcsl: line-id=5
+
+6. ga-ša-an-i₃-si-in{ki}-na kurun-a tuš-a-ra
+#lem: Ninisinak[1]DN; kurun[beer]; tuš[sit (down)]
+#etcsl: line-id=6
+
+7. izi an-na mu₂-mu₂-de₃
+#lem: izi[fire]; an[sky]; mu[grow]
+#etcsl: line-id=7
+
+8. %e ga-ša-an-ŋu₁₀ %s sim{mušen}-gin₇ a tu₅-tu₅-a
+#lem: gašan[lady]N; sim[swallow]; a[water]; tu[cvve]
+#etcsl: line-id=8
+
+9. i₃ {ŋiš}erin-na i₃ ha-šu-ur₂-ra-ka
+#lem: i[oil]; eren[cedar]; i[oil]; hašur[tree]
+#etcsl: line-id=9
+
+10. i₃ {ŋiš}erin-na šim %e dim₃-me-er %s ki aŋ₂-ŋa₂
+#lem: i[oil]; eren[cedar]; šim[aromatic substance]; dimmer[deity]N; ki[place]; aŋ[measure]
+#etcsl: line-id=10
+
+11. i₃ šim-gig i₃ šim GA
+#lem: i[oil]; šimgig[an aromatic tree]; i[oil]; šim[aromatic substance]; X
+#etcsl: line-id=11
+
+12. i₃ ab₂ kug-ge ga ab₂-šilam-ma
+#lem: i[oil]; ab[cow]; kug[pure]; ga[milk]; abšilam[cow]
+#etcsl: line-id=12
+
+13. i₃-nun tur₃ kug %e ga-ga %s amaš-gin₇ %e ga-ga
+#lem: inun[ghee]; tur[animal stall]; kug[purify]; ga[carry]V/t; amaš[sheepfold]; ga[carry]V/t
+#etcsl: line-id=13
+
+14. i₃ šim-gin₇ an-šag₄-ge ed₃
+#lem: i[oil]; šim[aromatic substance]; anšag[the interior of heaven]; ed[go up]
+#etcsl: line-id=14
+
+15. i₃ ligidba i₃ {ŋiš}erin babbar-ra mul-ma-al he₂-em-mi-ib₂-za
+#lem: i[oil]; ligidba[medicinal plant]; i[oil]; eren[cedar]; babbar[white]; mulmal[sound (onomatopoeic)]; za[cvve]
+#etcsl: line-id=15
+
+16. zi-pa-aŋ₂-ŋa₂-na i₃ šim erin-na-ka
+#lem: zipaŋ[breath]; i[oil]; šim[aromatic substance]; eren[cedar]
+#etcsl: line-id=16
+
+17. gaba-ni i₃ {ŋiš}erin babbar-ra-ka
+#lem: gaba[breast]; i[oil]; eren[cedar]; babbar[white]
+#etcsl: line-id=17
+
+18. igi-ba i₃-a he₂-ni-ib₂-gun₅-gun₅-e i₃ li he₂-en-na-su₃
+#lem: igi[eye]; i[oil]; gunu[speckled]; i[oil]; lib[high quality]; su[sprinkle]
+#etcsl: line-id=18
+
+19. gu₂ sa-ni i₃ šim {ŋiš}erin-na-ka hu-mu-ni-ib₂-gun₅-gun₅-e
+#lem: gu[neck]; sa[sinew]; i[oil]; šim[aromatic substance]; eren[cedar]; gunu[speckled]
+#etcsl: line-id=19
+
+20. siki-ur₂ siki-pa dub-dub-ba-ni i₃ li he₂-en-na-an-su₃
+#lem: sikiʾur[pubic hair]; sikipa[head hair]; dub[heap up]; i[oil]; lib[high quality]; su[sprinkle]
+#etcsl: line-id=20
+
+21. gu₂-bar za-gin₃ gur-gur-ra-ni i₃ li he₂-em-su₃-su₃
+#lem: gubar[nape of the neck]; zagin[lapis lazuli]; gur[turn]; i[oil]; lib[high quality]; su[sprinkle]
+#etcsl: line-id=21
+
+22. šu ŋiri₃ %e aŋ₂ %s lum-ma lam-ma-ni i₃ li he₂-em-luh-e
+#lem: šu[hand]; ŋiri[foot]; aŋ[thing]N; lum[fruit]; lam[flourish]; i[oil]; lib[high quality]; luh[clean]
+#etcsl: line-id=22
+
+23. ŋiš-ge-en-gen₆-na alan šu du₇-a-ni i₃-a he₂-en-nu₂
+#lem: ŋešgen[limbs]; alan[image]; šu[hand]; du[perfect]; i[oil]; nud[lie down]
+#etcsl: line-id=23
+
+24. munus-e ab₂ a-e ŋar-ra-gin₇ i₃ li he₂-la₂-e
+#lem: munus[woman]; ab[cow]; a[water]; ŋar[put]; i[oil]; lib[high quality]; la[hang]
+#etcsl: line-id=24
+
+25. 24
+#lem: n
+#etcsl: line-id=25
+
+@div trailer 
+
+26. šir₃-nam-šub {d}nin-isin₂{si}-na-kam
+#lem: širnamšubak[subscript]; Ninisinak[1]DN
+#etcsl: line-id=26
+
+#etcsl#doc lines 25 and 26 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

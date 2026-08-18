@@ -1,0 +1,121 @@
+&Q000687 = A fragment of a hymn to Nanna
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.b
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.b&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.1
+
+A.2. [...] X kug X [...]
+#lem: X; X; kug[purify]; X; X
+#etcsl: line-id=A.2
+
+A.3. [...] da-da-bi tur₃ gal X [...]
+#lem: X; dag[side]; tur[animal stall]; gal[big]; X; X
+#etcsl: line-id=A.3
+
+A.4. [...] si mu-un-na-sa₂-sa₂-e
+#lem: X; si[horn]; sa[equal]
+#etcsl: line-id=A.4
+
+A.5. [...] ab₂ lu-a gud-ab₂-bi
+#lem: X; ab[cow]; lu[abundant]; gudabak[breed bull]
+#etcsl: line-id=A.5
+
+A.6. [...] gu₃ nun mi-ni-ib₂-be₂-ne
+#lem: X; gu[voice]; nun[prince]; e[speak]
+#etcsl: line-id=A.6
+
+A.7. [...] i₃ ga nunuz mu-un-ak-e
+#lem: X; i[oil]; ga[milk]; nunuz[egg]; ak[do]
+#etcsl: line-id=A.7
+
+A.8. [...] giri₁₇-zal-la-na šar₂-šar₂-ra-zu
+#lem: X; kirizal[joy]; šar[numerous]V/i
+#etcsl: line-id=A.8
+
+A.9. [...] DU₈-mu-un nun-a-bi
+#lem: X; X; nun[prince]
+#etcsl: line-id=A.9
+
+A.10. [...] {d#}suen-ra he₂-ŋal₂ an ki-a
+#lem: X; Suen[1]DN; heŋal[plenty]; an[sky]; ki[place]
+#etcsl: line-id=A.10
+
+A.11. [...] si# mu-un-sa₂-sa₂-e-ne
+#lem: X; si[horn]; sa[equal]
+#etcsl: line-id=A.11
+
+A.12. [...] lugal# an kug-ga-še₃ tum₂-ma
+#lem: X; lugal[king]; an[sky]; kug[pure]; tum[suitable]
+#etcsl: line-id=A.12
+
+A.13. [...] X tum₃ an-šag₄-ga#
+#lem: X; X; tum[bring]; anšag[the interior of heaven]
+#etcsl: line-id=A.13
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. X [...]
+#lem: X; X
+#etcsl: line-id=B.1
+
+B.2. ŋiš [...]
+#lem: ŋeš[tree]; X
+#etcsl: line-id=B.2
+
+B.3. bi-X [...]
+#lem: X; X
+#etcsl: line-id=B.3
+
+B.4. nam šag₄# [...]
+#lem: nam[fate]; šag[heart]; X
+#etcsl: line-id=B.4
+
+B.5. saŋ-kal [...]
+#lem: saŋkal[foremost]; X
+#etcsl: line-id=B.5
+
+B.6. an ki-a [...]
+#lem: an[sky]; ki[place]; X
+#etcsl: line-id=B.6
+
+B.7. iti₆ [...]
+#lem: itud[moon]; X
+#etcsl: line-id=B.7
+
+B.8. še-er-zid [...]
+#lem: šerzid[radiance]; X
+#etcsl: line-id=B.8
+
+B.9. en me-te AN#
+#lem: en[lord]; mete[appropriate thing]; X
+#etcsl: line-id=B.9
+
+B.10. {d}nin-[gal ...]
+#lem: Ningal[1]DN; X
+#etcsl: line-id=B.10
+
+B.11. en me-lem₄# [...]
+#lem: en[lord]; melim[frightening splendor]; X
+#etcsl: line-id=B.11
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

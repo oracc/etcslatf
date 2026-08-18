@@ -1,0 +1,558 @@
+&Q000354 = The marriage of Martu
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.7.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.1&display=Crit&charenc=gcirc#
+
+1. i₃-na-ab{ki} i₃-me-a kiri₈-tab nu-me-a#
+#lem: Inab[1]SN; me[be]; Kiritaba[1]SN; me[be]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Urim (U1), 0.2.03, line 3; OB catalogue from Nibru (N3), 0.2.06, line 29 (?)
+
+2. men kug i₃-me-a aga kug nu-me-[a]
+#lem: men[tiara]; kug[purify]; me[be]; aga[tiara]; kug[purify]; me[be]
+#etcsl: line-id=2
+
+3. šim kug i₃-me-a {ŋiš}erin kug nu-me-[a]
+#lem: šim[aromatic substance]; kug[purify]; me[be]; eren[cedar]; kug[purify]; me[be]
+#etcsl: line-id=3
+
+4. mun kug i₃-me-a naŋa# kug nu-me#-[a]
+#lem: mun[salt]; kug[purify]; me[be]; naŋa[potash]; kug[purify]; me[be]
+#etcsl: line-id=4
+
+5. ŋeš₃ dug₄-dug₄-ga# [ne su-ub-ba] i₃-me-a
+#lem: ŋeš[penis]; dug[speak]; ne[cvne]; sub[rub]; me[be]
+#etcsl: line-id=5
+
+6. šag₄-tum₂-šag₄-tum₂-ma tud#-[da] i₃-me-a
+#lem: šagtum[pasture land]; utud[give birth (to)]; me[be]
+#etcsl: line-id=6
+
+7. <ad>-da-ab-ba {ŋiš}erin kug-ga-me-en bil₂-ga {ŋiš#}meš₃-me-en#
+#lem: addaʾabba[grandfather]; eren[cedar]; kug[pure]; bilga[male ancestor]; mes[tree]
+#etcsl: line-id=7
+
+8. ama ad {ŋiš}erin babbar-ra su ha-šu-ur₂-ra-me-en
+#lem: ama[mother]; adda[father]; eren[cedar]; babbar[white]; su[flesh]; hašur[tree]
+#etcsl: line-id=8
+
+9. ud-ba iri-iri-a kur nam-nun-na-kam
+#lem: ud[sun]; iri[city]; kur[mountain(s)]; namnun[magnificence]
+#etcsl: line-id=9
+
+10. i₃-na-ab{ki} iri-iri-a kur nam-nun-na-kam
+#lem: Inab[1]SN; iri[city]; kur[mountain(s)]; namnun[magnificence]
+#etcsl: line-id=10
+
+11. ensi₂ i₃-na-ab{ki}-a tigi₂-šem₅-{kuš}a₂-la₂-a
+#lem: ensik[ruler]; Inab[1]SN; Tigišemala[1]RN
+#etcsl: line-id=11
+
+12. dam-a-ni šag₄-ge-guru₇# mu#-ni he₂-en-na-nam
+#lem: dam[spouse]; Šagegur[1]PN; mu[name]; me[be]
+#etcsl: line-id=12
+
+13. dumu#-[ni ...]-da-gur-ra-am₃
+#lem: dumu[child]; X[1]RN
+#etcsl: line-id=13
+
+14. AN# [...]-na#-ka mu-ni he₂-en-na-nam
+#lem: X; X; mu[name]; me[be]
+#etcsl: line-id=14
+
+15. iri-da-e-ne# gu na#-la₂-e-ne
+#lem: iri[city]; gu[cord]; la[hang]
+#etcsl: line-id=15
+
+16. i₃-na-ab{ki} iri-da-e#-ne gu# [na]-la₂-e-ne
+#lem: Inab[1]SN; iri[city]; gu[cord]; la[hang]
+#etcsl: line-id=16
+
+17. gu na-la₂-e-ne# maš# mu-un-sar-sar-ne
+#lem: gu[cord]; la[hang]; maš[goat]; sar[run]
+#etcsl: line-id=17
+
+18. maš-e lu₂-ulu₃-gin₇ [ŋiš mu-un]-ra-ra-ne
+#lem: maš[goat]; lulu[man]; ŋeš[tree]; rah[beat]
+#etcsl: line-id=18
+
+19. ud ne ud ten-na um#-[ma-te]-a#-ra
+#lem: ud[sun]; nen[this]; ud[sun]; ten[extinguish]; teŋ[approach]
+#etcsl: line-id=19
+
+20. ki niŋ₂-ba-ka um-ma#-[te]-a-ra
+#lem: ki[place]; niŋba[gift]; teŋ[approach]
+#etcsl: line-id=20
+
+21. igi an-še₃ sukud-ra₂ niŋ₂-ba na-ni-ŋa₂#-ŋa₂
+#lem: igi[eye]; An[1]DN; sukud[tall]; niŋba[gift]; ŋar[put]
+#etcsl: line-id=21
+
+22. niŋ₂-ba lu₂ dam tuku 2-am₃ i₃-ŋa₂-ŋa₂
+#lem: niŋba[gift]; lu[person]; dam[spouse]; tuku[acquire]; n; ŋar[put]
+#etcsl: line-id=22
+
+23. niŋ₂-ba lu₂ dumu tuku 3-am₃ i₃-ŋa₂-ŋa₂
+#lem: niŋba[gift]; lu[person]; dumu[child]; tuku[acquire]; n; ŋar[put]
+#etcsl: line-id=23
+
+24. niŋ₂-<ba> ŋuruš saŋ-dili 1-am₃ i₃-ŋa₂-ŋa₂
+#lem: niŋba[gift]; ŋuruš[young adult male]; saŋdili[lone]; n; ŋar[put]
+#etcsl: line-id=24
+
+25. {d}mar-tu dili-ni 2-am₃ i₃-ŋa₂-ŋa₂
+#lem: Martu[1 Martu]; dili[single]; n; ŋar[put]
+#etcsl: line-id=25
+
+26. {d}mar-tu ama ugu-ni-ir
+#lem: Martu[1 Martu]; ama[mother]; ugu[bear]
+#etcsl: line-id=26
+
+27. e₂-a ba-an-ši-in-kur₉ gu₃ mu-na-de₂-e
+#lem: e[house]; kur[enter]; gu[voice]; de[pour]
+#etcsl: line-id=27
+
+28. iri-ŋa₂ gu₅-li-ŋu₁₀-ne-me-en dam ba-an-tuku-tuku-me-eš
+#lem: iri[city]; guli[friend]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=28
+
+29. dub₃-sa-ŋu₁₀-ne-me-en# dam ba-an-tuku-tuku-me-eš
+#lem: dusa[friend]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=29
+
+30. iri-ŋa₂ gu₅-li-ŋu₁₀-ne-gin₇# dam nu-tuku-me-en
+#lem: iri[city]; guli[friend]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=30
+
+31. dam nu-tuku-me-en dumu nu-tuku-me-en
+#lem: dam[spouse]; tuku[acquire]; dumu[child]; tuku[acquire]
+#etcsl: line-id=31
+
+32. ŋiš-šub us₂-sa dirig gu₅-li-ŋa₂-še₃
+#lem: ŋeššub[lot]; us[accompany]; dirig[make more than]; guli[friend]
+#etcsl: line-id=32
+
+33. MAŠ dub₃-[sa] bi₂#-dab₅ dirig dub₃-sa-ŋa₂-še₃
+#lem: n; dusa[friend]; dab[seize]; dirig[make more than]; dusa[friend]
+#etcsl: line-id=33
+
+34. ud ne ud te-en-na um-ma-te-a-ra#
+#lem: ud[sun]; nen[this]; ud[sun]; ten[extinguish]; teŋ[approach]
+#etcsl: line-id=34
+
+35. ki# niŋ₂#-ba-ka um-ma-te#-[a-ra]
+#lem: ki[place]; niŋba[gift]; teŋ[approach]
+#etcsl: line-id=35
+
+36. [igi an]-še₃ sukud-ra₂ niŋ₂-ba na-ni#-[ŋa₂-ŋa₂]
+#lem: igi[eye]; An[]DN; sukud[tall]; niŋba[gift]; ŋar[put]
+#etcsl: line-id=36
+
+37. [niŋ₂-ba] lu₂ dam tuku 2-am₃ i₃-ŋa₂#-[ŋa₂]
+#lem: niŋba[gift]; lu[person]; dam[spouse]; tuku[acquire]; n; ŋar[put]
+#etcsl: line-id=37
+
+38. [niŋ₂]-ba# [lu₂ dumu tuku 3-am₃ i₃-ŋa₂-ŋa₂]
+#lem: niŋba[gift]; lu[person]; dumu[child]; tuku[acquire]; n; ŋar[put]
+#etcsl: line-id=38
+
+39. niŋ₂#-<ba> ŋuruš saŋ-dili [1-am₃ i₃-ŋa₂]-ŋa₂#
+#lem: niŋba[gift]; ŋuruš[young adult male]; saŋdili[lone]; n; ŋar[put]
+#etcsl: line-id=39
+
+40. {d}mar#-tu dili-ni 2-[am₃ i₃-ŋa₂]-ŋa₂#
+#lem: Martu[1 Martu]; dili[single]; n; ŋar[put]
+#etcsl: line-id=40
+
+41. {[d]}[mar]-tu ama ugu#-ni-ir
+#lem: Martu[1 Martu]; ama[mother]; ugu[bear]
+#etcsl: line-id=41
+
+42. e₂-a# ba-an#-ši-kur₉ gu₃ mu-na-de₂-e
+#lem: e[house]; kur[enter]; gu[voice]; de[pour]
+#etcsl: line-id=42
+
+43. ama-ŋu₁₀ dam tuku-ba-ab niŋ₂-ba-ŋu₁₀ ga-mu#-ra-de₆
+#lem: ama[mother]; dam[spouse]; tuku[acquire]; niŋba[gift]; de[carry]
+#etcsl: line-id=43
+
+44. {d}mar-tu ama ugu#-ni [mu]-na-ni-ib#-[gi₄-gi₄]
+#lem: Martu[1 Martu]; ama[mother]; ugu[bear]; gi[turn]
+#etcsl: line-id=44
+
+45. {d}su-he-nun#-[na-ŋu₁₀ na] ga#-e-degₓ(RI)# na degₓ(RI)#-[ŋu₁₀ he₂-dab₅]
+#lem: Suhenuna[1]DN; na[cvne]; deg[gather up]; na[cvne]; deg[gather up]; dab[seize]
+#etcsl: line-id=45
+
+46. inim ga-[ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu]
+#lem: inim[word]; dug[speak]; inim[word]; ŋeštug[ear]
+#etcsl: line-id=46
+
+47. igi il₂-la-zu dam [tuku-ba-ni-ib]
+#lem: igi[eye]; il[raise]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=47
+
+48. šag₄-ge guru₇-zu dam [tuku-ba-ni-ib]
+#lem: šag[heart]; guru[grain heap]; dam[spouse]; tuku[acquire]
+#etcsl: line-id=48
+
+49. šu-tab %e ze₂-ŋa₂ gi₄-in %s [...]
+#lem: tab[double]; zeŋ[give]V/t; gin[worker]N; X
+#etcsl: line-id=49
+
+50. iri-da-za e₂-bi du₃-du₃-a {ŋiš#}[kiri₆ ...]
+#lem: iri[city]; e[house]; du[build]; kiri[(fruit) plantation]; X
+#etcsl: line-id=50
+
+51. dub₃-sa-za pu₂ ba-e-ni-ba#-[al]
+#lem: dusa[friend]; pu[cistern]; bal[dig]
+#etcsl: line-id=51
+
+52. {d}mar-tu lu₂ dub₃-sa#-[...]
+#lem: Martu[1 Martu]; lu[person]; dusa[friend]
+#etcsl: line-id=52
+
+53. ud-ba iri-a iri-a ezen gu₃# [bi₂-ib-ra]
+#lem: ud[sun]; iri[city]; iri[city]; ezem[festival]; gu[voice]; rah[beat]
+#etcsl: line-id=53
+
+54. i₃-na-ab{ki} iri-a ezen gu₃# [bi₂-ib-ra]
+#lem: Inab[1]SN; iri[city]; ezem[festival]; gu[voice]; rah[beat]
+#etcsl: line-id=54
+
+55. %e ŋa₂-nam-ma %s gu₅-li ga-[re₇-en-de₃-en] ga-ba-e-re₇-en-de₃#-[en]
+#lem: men[go]V/i; guli[friend]; ere[go (perfect plural stem of ŋen⟦to go⟧)]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=55
+
+56. e₂ kaš i₃-na-ab{ki}-a ga-re₇#-[en-de₃-en] ga-ba-e-re₇-en-de₃-[en]
+#lem: e[house]; kaš[beer]; Inab[1]SN; ere[go (perfect plural stem of ŋen⟦to go⟧)]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=56
+
+57. {d}nu-muš-da-[...] ezem-ma mu-[...]
+#lem: Numušda[1]DN; ezem[festival]; X
+#etcsl: line-id=57
+
+58. dumu ki aŋ₂-ŋa₂-ni {d}ad-[ŋar-ki-dug₃] ezem-ma mu-un#-[...]
+#lem: dumu[child]; ki[place]; aŋ[measure]; Adŋarkidug[1]DN; ezem[festival]; X
+#etcsl: line-id=58
+
+59. dam-a-ni {d}nam-ra-at munus sag₉#-[ga] ezem-ma mu-un-[...]
+#lem: dam[spouse]; Namrat[1]DN; munus[woman]; sag[good]; ezem[festival]; X
+#etcsl: line-id=59
+
+60. iri-a šem₅ zabar zi-ig-za-ag [X-za]
+#lem: iri[city]; šem[drum]; zabar[bronze]; zigzag[sound (onomatopoeic)]; za[cvve]
+#etcsl: line-id=60
+
+61. {kuš}a₂-la₂ 7#-e šeg₁₁ mu-da-an-[gi₄]
+#lem: ala[wooden drum]; n; šeg[voice]; gi[turn]
+#etcsl: line-id=61
+
+62. nitah [...]-ne en ib₂-la₂-[ne]
+#lem: nita[male]; X; en[lord]; ibla[belt]
+#etcsl: line-id=62
+
+63. e₂-ŋešba₂-še₃ mu-na-da-an-ku₄-ku₄
+#lem: eŋešba[boxing house]; kur[enter]
+#etcsl: line-id=63
+
+64. e₂ i₃-na-ab{ki}-a-ka hu-mu-na-ab#-sa₂-e
+#lem: e[house]; Inab[1]SN; sa[equal]
+#etcsl: line-id=64
+
+65. i₃-na-ab{ki} iri ezen ŋal₂-la-še₃ u₆ di-de₃ ba-gub
+#lem: Inab[1]SN; iri[city]; ezem[festival]; ŋal[⟦be⟧ to be (there]; u[admiration]; di[speak]; gub[stand]
+#etcsl: line-id=65
+
+66. i₃-na-ab{ki} iri ezen ŋal₂-la-še₃ u₆ di-de₃ ba-gub
+#lem: Inab[1]SN; iri[city]; ezem[festival]; ŋal[⟦be⟧ to be (there]; u[admiration]; di[speak]; gub[stand]
+#etcsl: line-id=66
+
+67. e-ne-ra bar kug-ga i₃-me-a-ke₄-eš
+#lem: ane[he]; bar[outside]; kug[pure]; me[be]
+#etcsl: line-id=67
+
+68. kan₄# i₃-na-ab{ki}-ka ŋešba₂ lirum-e
+#lem: kan[gate]; Inab[1]SN; ŋešba[boxer]; lirum[strength]
+#etcsl: line-id=68
+
+69. {[d]}mar#-tu kisal mah-a dub₃ i-ni-in-bad#
+#lem: Martu[1 Martu]; kisal[courtyard]; mah[great]; dub[knee]; bad[open]
+#etcsl: line-id=69
+
+70. [ur-saŋ] kalag#-ga mu-na-ab-kiŋ₂-kiŋ₂-e
+#lem: ursaŋ[warrior]; kalag[strong]; kiŋ[seek]
+#etcsl: line-id=70
+
+71. [ur-saŋ] kalag#-ga mu-na-ab-zi-zi-i
+#lem: ursaŋ[warrior]; kalag[strong]; zig[rise]
+#etcsl: line-id=71
+
+72. {[d]}mar#-tu kisal mah dub₃ i-ni-bad
+#lem: Martu[1 Martu]; kisal[courtyard]; mah[great]; dub[knee]; bad[open]
+#etcsl: line-id=72
+
+73. [...] gul-gul-e 1(AŠ)-ta bi₂-ra
+#lem: X; gul[destroy]; n; rah[beat]
+#etcsl: line-id=73
+
+74. kisal# mah# me₃-e niŋ₂-la₂-e bi₂-in#-la₂
+#lem: kisal[courtyard]; mah[great]; me[battle]; niŋla[an item of clothing]; la[hang]
+#etcsl: line-id=74
+
+75. kisal i₃-na-ab{ki} ad₆ im-il₂-[il₂]-e#
+#lem: kisal[courtyard]; Inab[1]SN; adda[corpse]; il[raise]
+#etcsl: line-id=75
+
+76. {d}nu#-[muš]-da# {d}mar-tu hul₂-la-e#
+#lem: Numušda[1]DN; Martu[1 Martu]; hul[rejoice]
+#etcsl: line-id=76
+
+77. kug mu#-[un]-na-ba-e šu nu-um-ma-gid₂-i-de₃
+#lem: kug[metal]; ba[allot]; šu[hand]; gid[long]
+#etcsl: line-id=77
+
+78. za# [mu-un]-na#-ba-e šu nu-um-ma-gid₂-i-de₃
+#lem: za[bead]; ba[allot]; šu[hand]; gid[long]
+#etcsl: line-id=78
+
+79. [2-kam ur₅]-am₃# um-ak-e
+#lem: n; ur[that]; ak[do]
+#etcsl: line-id=79
+
+80. [3-kam ur₅-am₃] um-ak-e
+#lem: n; ur[that]; ak[do]
+#etcsl: line-id=80
+
+81. [kug-zu me-da tum₃] za-zu me-da tum₃
+#lem: kug[metal]; meta[where from? whence?]; tum[bring]; za[bead]; meta[where from? whence?]; tum[bring]
+#etcsl: line-id=81
+
+82. {[d]}[mar-tu-me]-en dumu-zu ga-ba-ab#-tuku
+#lem: Martu[1 Martu]; dumu[child]; tuku[acquire]
+#etcsl: line-id=82
+
+83. [... dumu-zu] ga#-ba-ab#-[tuku]
+#lem: X; dumu[child]; tuku[acquire]
+#etcsl: line-id=83
+
+$ 8 lines missing
+91. [amar niŋ₂-mussa dam mu-ni-X]
+#lem: amar[calf]; niŋmussa[betrothal gift]; dam[spouse]; X
+#etcsl: line-id=91
+
+92. [ab₂-ga amar he₂-em-mi-ib-gu₇]
+#lem: abga[milk cow]; amar[calf]; gu[eat]
+#etcsl: line-id=92
+
+93. [tur₃-ba gud-ab₂-ba]-bi# [hu-mu-un-ši-nu₂-e]
+#lem: tur[animal stall]; gudabak[breed bull]; nud[lie down]
+#etcsl: line-id=93
+
+94. [ab₂ X X]-ba#-ka he₂#-[em-mi-tuš]
+#lem: ab[cow]; X; X; tuš[sit (down)]
+#etcsl: line-id=94
+
+95. [amar-bi a₂] zid-da-bi he₂-[em-mi-tuš]
+#lem: amar[calf]; a[arm]; zid[right]; tuš[sit (down)]
+#etcsl: line-id=95
+
+96. [ur₅-re ur₅-ur₅]-re inim ha-ba-[ni-ŋar-re-en]
+#lem: ur[that]; ur[that]; inim[word]; ŋar[put]
+#etcsl: line-id=96
+
+97. {[d]}[ad-ŋar-ki]-dug₃# KA# dumu-ŋu₁₀ ga#-[mu-ra-ab-šum₂]
+#lem: Adŋarkidug[1]DN; X; dumu[child]; šum[give]
+#etcsl: line-id=97
+
+98. sila₄# [niŋ₂-mussa] dam# [mu]-ni-[...]
+#lem: sila[lamb]; niŋmussa[betrothal gift]; dam[spouse]; X
+#etcsl: line-id=98
+
+99. u₈#-[ga sila₄ he₂-em-mi-ib-gu₇]
+#lem: uga[milk ewe]; sila[lamb]; gu[eat]
+#etcsl: line-id=99
+
+100. amaš#-[ba ... hu-mu-un-ši-nu₂-e]
+#lem: amaš[sheepfold]; X; nud[lie down]
+#etcsl: line-id=100
+
+101. u₈ [... he₂-em-mi-tuš]
+#lem: u[sheep]; X; tuš[sit (down)]
+#etcsl: line-id=101
+
+102. sila₄-bi gab₂-bu-bi he₂-[em-mi-tuš]
+#lem: sila[lamb]; gab[left (hand)]; tuš[sit (down)]
+#etcsl: line-id=102
+
+103. ur₅-re ur₅-ur₅-re inim ha-ba-[ni-ŋar-re-en]
+#lem: ur[that]; ur[that]; inim[word]; ŋar[put]
+#etcsl: line-id=103
+
+104. {d}ad-ŋar-ki-dug₃ KA dumu-ŋu₁₀ ga-[mu-ra-ab-šum₂]
+#lem: Adŋarkidug[1]DN; X; dumu[child]; šum[give]
+#etcsl: line-id=104
+
+105. maš₂# niŋ₂#-mussa dam mu-ni-[...]
+#lem: maš[goat]; niŋmussa[betrothal gift]; dam[spouse]; X
+#etcsl: line-id=105
+
+106. ud₅-ga# maš₂ he₂-em#-mi-[ib-gu₇]
+#lem: uzudga[milk goat]; maš[goat]; gu[eat]
+#etcsl: line-id=106
+
+107. unu-ba maš₂-ud₅-da-bi# hu-mu-un-ši-nu₂-e
+#lem: unu[dwelling]; mašuzudak[breed-goat]; nud[lie down]
+#etcsl: line-id=107
+
+108. ud₅-de₃ maš₂#-[bi ...] he₂-em-mi-tuš
+#lem: uzud[(female) goat]; maš[goat]; X; tuš[sit (down)]
+#etcsl: line-id=108
+
+109. maš₂-bi [...] he₂-em-mi-tuš
+#lem: maš[goat]; X; tuš[sit (down)]
+#etcsl: line-id=109
+
+110. ur₅-re ur₅-[ur₅-re inim ha-ba]-ni#-ŋar-[re-en]
+#lem: ur[that]; ur[that]; inim[word]; ŋar[put]
+#etcsl: line-id=110
+
+111. {[d]}[ad]-ŋar#-ki-dug₃ dumu-ŋu₁₀ ga-mu-ra-[ab-šum₂]
+#lem: Adŋarkidug[1]DN; dumu[child]; šum[give]
+#etcsl: line-id=111
+
+112. [...] gal-gal-e ba-ni-in#-[...]
+#lem: X; gal[big]; X
+#etcsl: line-id=112
+
+113. X [...] X-e-gin₇ gu₃ bi₂-in-ra#
+#lem: X; X; X; gu[voice]; rah[beat]
+#etcsl: line-id=113
+
+114. kar i₃-na#-ab{ki}-ka mu-ni-in-[...]
+#lem: kar[harbor]; Inab[1]SN; X
+#etcsl: line-id=114
+
+115. ab-ba-ab-ba-ar i₃-na-ab{ki#}-[a]
+#lem: abba[father]; Inab[1]SN
+#etcsl: line-id=115
+
+116. ŋeš-giri₁₉ kug-sig₁₇-ka mi₂ im-ma-ni-in-[dug₄]
+#lem: ešgiri[staff]; kugsig[gold]; mi[cvne]; dug[speak]
+#etcsl: line-id=116
+
+117. um-ma#-um-ma-ar i₃-na-ab{ki}-[a]
+#lem: umma[old woman]; Inab[1]SN
+#etcsl: line-id=117
+
+118. [...] {[tug₂]}bar-sig₉ kug-sig₁₇-ga mi₂# [im-ma-ni-in-dug₄]
+#lem: X; barsig[garment]; kugsig[gold]; mi[cvne]; dug[speak]
+#etcsl: line-id=118
+
+119. [ŋuruš munus] X i₃-na-[ab]{[ki]}-ke₄#-ne
+#lem: ŋuruš[young adult male]; munus[woman]; X; Inab[1]SN
+#etcsl: line-id=119
+
+120. [...] X X X [kug]-sig₁₇#-ka mi₂ im-ma-ni#-in-dug₄
+#lem: X; X; X; X; kugsig[gold]; mi[cvne]; dug[speak]
+#etcsl: line-id=120
+
+121. [arad₂-arad₂] X i₃-na-ab{[ki]}-ke₄-ne#
+#lem: arad[slave]; X; Inab[1]SN
+#etcsl: line-id=121
+
+122. [X X] A mi₂ im-ma-[ni-in]-dug₄#
+#lem: X; X; X; mi[cvne]; dug[speak]
+#etcsl: line-id=122
+
+123. {tug₂}[...] gun₃-a mi₂ im-ma-[ni-in-dug₄]
+#lem: X; gunu[speckled]; mi[cvne]; dug[speak]
+#etcsl: line-id=123
+
+124. geme₂-geme₂# i₃-na-ab{[ki]}-[ke₄-ne]
+#lem: geme[female worker]; Inab[1]SN
+#etcsl: line-id=124
+
+125. {dug}|HI×AŠ₂|-GIŠ kug-babbar mi₂ im-ma-ni-[in-dug₄]
+#lem: KIN.GIŠ[vessel]; kugbabbar[silver]; mi[cvne]; dug[speak]
+
+#etcsl: line-id=125
+
+126. ud ba-hi-a di nu-til-le-[dam]
+#lem: ud[sun]; hi[mix (up)]; did[lawsuit]; til[complete]
+#etcsl: line-id=126
+
+127. a₂-še šu-bi ha-lam ulutim₂ {ugu#}[ugu₄-bi]
+#lem: aše[now]; šu[hand]; halam[forsake]; uludin[form]; ugubi[monkey]
+#etcsl: line-id=127
+
+128. an-zil gu₇ {d}nanna-[kam] ni₂ nu-[tuku]
+#lem: anzil[abomination]; gu[eat]; Nanna[1]DN; ni[fear]; tuku[acquire]
+#etcsl: line-id=128
+
+129. šu dag-dag-ge-bi X [...]
+#lem: šu[hand]; dag[roam around]; X; X
+#etcsl: line-id=129
+
+130. [niŋ₂]-gig# e₂ diŋir-re-e-ne-[kam]
+#lem: niŋgig[evil]; e[house]; diŋir[deity]
+#etcsl: line-id=130
+
+131. [ŋalga]-bi# mu-un-lu₃-lu₃ šu [suh₃-a dug₄-ga]
+#lem: ŋalga[(fore)thought]; lu[mix]; šu[hand]; suh[confuse]; dug[speak]
+#etcsl: line-id=131
+
+132. lu₂# {kuš#}lu-ub₂ mur₁₀-a [...]
+#lem: lu[person]; lub[bag]; mur[dress]; X
+#etcsl: line-id=132
+
+133. za-lam#-ŋar til₃ tum₉ šeŋ₁₄ [...] sizkur [nu-mu-un-dug₄-ga]
+#lem: zalamŋar[tent]; til[live (of a single person)]; tumu[wind]; šeŋ[rain]; X; siškur[prayer]; dug[speak]
+#etcsl: line-id=133
+
+134. hur-saŋ-ŋa₂ tuš-e ki [diŋir-re-ne nu-zu-a]
+#lem: hursaŋ[mountain]; tuš[sit (down)]; ki[place]; diŋir[deity]; zu[know]
+#etcsl: line-id=134
+
+135. lu₂ uzu#-dirig kur-da mu-un-ba-al-la dub₃ gam nu-zu-am₃
+#lem: lu[person]; uzudirig[mushroom]; kur[mountain(s)]; bal[dig]; dub[knee]; gurum[bow]; zu[know]
+#etcsl: line-id=135
+
+136. uzu nu-šeŋ₆-ŋa₂ al-gu₇-e
+#lem: uzu[flesh]; šeŋ[cook]; gu[eat]
+#etcsl: line-id=136
+
+137. ud til₃-la-na e₂ nu-tuku-a
+#lem: ud[sun]; til[live (of a single person)]; e[house]; tuku[acquire]
+#etcsl: line-id=137
+
+138. ud ba-ug₇-a-na ki nu-tum₂-mu-dam
+#lem: ud[sun]; uš[die]; ki[place]; tum[bring]
+#etcsl: line-id=138
+
+139. ma-la-ŋu₁₀ {d}mar-tu %e ta-am₃ %s an-tuku-tuku-un
+#lem: malag[female neighbor]; Martu[1 Martu]; ta[what?]QP; tuku[acquire]
+#etcsl: line-id=139
+
+140. ma-la-ga-ni {d}ad-ŋar-ki-dug₃ mu-na-ni-ib-gi₄-gi₄
+#lem: malag[female neighbor]; Adŋarkidug[1]DN; gi[turn]
+#etcsl: line-id=140
+
+141. {d}mar-[tu] ga#-ba-an-tuku-tuku
+#lem: Martu[1 Martu]; tuku[acquire]
+#etcsl: line-id=141
+
+142. i₃-na-ab{[ki]} u₂-lum a-lam-ma
+#lem: Inab[1]SN; ulum[an exclamation]; alam[an exclamation]
+#etcsl: line-id=142
+
+
+
+
+
+
+

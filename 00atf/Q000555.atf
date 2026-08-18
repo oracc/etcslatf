@@ -1,0 +1,238 @@
+&Q000555 = Letter from Šarrum-bàni to Šu-Suen about keeping the Martu at bay
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.15
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.15&display=Crit&charenc=gcirc#
+
+1. {d}šu-{d}suen lugal-ŋu₁₀-ra u₃-na-a-dug₄
+#lem: Šusuen[1]RN; lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. šar-ru-um-ba-ni gal-zu unken-na arad-zu na-ab-be₂-a
+#lem: Šarrumbani[1]PN; galanzu[wise]; unkin[assembly]; arad[slave]; e[speak]
+#etcsl: line-id=2
+
+3. bad₃ gal mu-ri-iq-tidnim-e dim₂-me-de₃ kiŋ₂-gi₄-a-aš bi₂-gi₄
+#lem: bad[wall]; gal[big]; Muriqtidnim[1]; dim[create]; kiŋgia[messenger]; gi[turn]
+#etcsl: line-id=3
+
+4. (1:igi-zu mu-e-ŋar-ma:1)
+#lem: igi[eye]; ŋar[put]
+#etcsl: line-id=4
+
+:4v.1.1: ($1 ms. has instead:$) igi-ni ma-an-ŋar-ma
+#lem: igi[eye]; ŋar[put]
+
+5. mar-tu ma-da-aš mu-un-šub-šub-bu-uš
+#lem: Martu[1 Amorite]; mada[land]; šub[fall]
+#etcsl: line-id=5
+
+6. bad₃ du₃-u₃-de₃ ŋiri₃-bi ku₅-ru-de₃
+#lem: bad[wall]; du[build]; ŋiri[foot]; kud[cut]
+#etcsl: line-id=6
+
+7. {id₂}idigna {id₂}buranuna-bi-da
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]
+#etcsl: line-id=7
+
+8. gu₂-ŋiri₃-bi a-šag₄-e nam-ba-e-šu₂-šu₂ (1:a₂-še₃:1) mu-e-da-aŋ₂
+#lem: guŋiri[breach]; ašag[field]; šuš[cover]; a[arm]; aŋ[measure]
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) kiŋ₂-še₃
+#lem: kiŋ[work]
+
+9. zi-zi-da-ŋu₁₀-ne
+#lem: zig[rise]
+#etcsl: line-id=9
+
+10. gu₂ {id₂}ab₂-gal-ta en-na ma-da zi-mu-dar{ki}-ra-še₃
+#lem: gu[neck]; Abgal[1]WN; enna[until]; mada[land]; Zimudar[1]GN
+#etcsl: line-id=10
+
+11. [...]-bi i₃-zig₃-NE
+#lem: X; zig[rise]
+#etcsl: line-id=11
+
+12. bad₃-bi 26 danna-am₃ dim₂-e-da-ŋu₁₀-ne
+#lem: bad[wall]; n; dana[unit of length]; dim[create]
+#etcsl: line-id=12
+
+13. dal-ba-na hur-saŋ min-a-bi-ka sa₂ di-da-ŋu₁₀-ne
+#lem: dalbana[intermediate space or area]; hursaŋ[mountain]; n; sa[equal]; di[speak]
+#etcsl: line-id=13
+
+14. dim₂-me-ŋu₁₀-še₃ mar-tu hur-saŋ-ga-ka ib₂-tuš-a ŋeštug₂ mu-ši-in-ak
+#lem: dim[create]; Martu[1 Amorite]; hursaŋ[mountain]; tuš[sit (down)]; ŋeštug[ear]; ak[do]
+#etcsl: line-id=14
+
+15. si-mu-ur₄{ki} nam-tab-ba-ni-še₃ im-ma-da-ŋen#
+#lem: Simurrum[1]SN; namtab[partnership]; ŋen[go]
+#etcsl: line-id=15
+
+16. dal-ba-na hur-saŋ ebih{ki}-ke₄ {ŋiš}tukul sag₃-ge-de₃ im-ma-ši-ŋen
+#lem: dalbana[intermediate space or area]; hursaŋ[mountain]; Ebih[1]GN; tukul[weapon]; sag[strike]; ŋen[go]
+#etcsl: line-id=16
+
+17. u₃ ŋe₂₆-e erin₂ {gi}dusu i₃-il₂-il₂-eš-am₃ igi# nu#-um-mi-du₈
+#lem: u[and]; ŋaʾe[I]; erin[people]; dupsik[basket (for carrying earth and bricks)]; il[raise]; igi[eye]; du[spread]
+#etcsl: line-id=17
+
+18. {ŋiš}tukul sag₃-ge-de₃ X-ri-ni-še₃ ba-ŋen-na#
+#lem: tukul[weapon]; sag[strike]; X; ŋen[go]
+#etcsl: line-id=18
+
+19. tukum-bi lugal-ŋa₂ an-na-kam
+#lem: tukumbi[if]; lugal[king]; anna[approval]
+#etcsl: line-id=19
+
+20. lu₂ kiŋ₂ ak-ne ha-ma-ab-tah-e a₂ ha-ma-ŋa₂-ŋa₂
+#lem: lu[person]; kiŋ[work]; ak[do]; tah[add]; a[arm]; ŋar[put]
+#etcsl: line-id=20
+
+21. gun₃-a ma-da sa₂ nu-ub-da-dug₄-ga dug₄-en-de₃-en
+#lem: gunu[speckled]; mada[land]; sa[equal]; dug[speak]; dug[speak]
+#etcsl: line-id=21
+
+22. ma-da MURUB₄{ki}-še₃ lu₂-kiŋ₂-gi₄-a mu-ni-gi₄
+#lem: mada[land]; MURUB[1]GN; kiŋgia[messenger]; gi[turn]
+#etcsl: line-id=22
+
+23. ma-da dim₂-ma-bi ba-da-kur₂
+#lem: mada[land]; dimma[thought]; kur[different]
+#etcsl: line-id=23
+
+24. bad₃ du₃-u₃-de₃ nu-šub-be₂-en i₃-du₃-en u₃ {ŋiš}tukul i₃-sag₃-ge-en
+#lem: bad[wall]; du[build]; šub[fall]; du[build]; u[and]; tukul[weapon]; sag[strike]
+#etcsl: line-id=24
+
+25. gal-zu unken-na im-ri-a gu-la-am₃ he₂-em-ma-da-ri
+#lem: galanzu[wise]; unkin[assembly]; imria[clan]; gal[big]; ri[impose]
+#etcsl: line-id=25
+
+26. dim₂-ma ma-da nu-ub-da-kur₂-ra na degₓ(RI) mu-un-e
+#lem: dimma[thought]; mada[land]; kur[different]; na[cvne]; deg[gather up]; dug[speak]
+#etcsl: line-id=26
+
+27. ud lu₂-kiŋ₂-gi₄-a-ŋu₁₀ igi-zu-še₃ mu-e-ši-gi₄-a-ŋu₁₀
+#lem: ud[sun]; kiŋgia[messenger]; igi[eye]; gi[turn]
+#etcsl: line-id=27
+
+28. egir-ra-ni-ta (1:{m}lu₂-{d}nanna:1) ensi₂ ma-da zi-mu-dar-ra{ki}-še₃
+#lem: egir[back]; Lunanna[1]PN; ensik[ruler]; mada[land]; Zimudar[1]GN
+#etcsl: line-id=28
+
+:28v.1.1: ($1 ms. has instead:$) lu₂-{d}en-ki
+#lem: Luenki[1]PN
+
+29. lu₂-kiŋ₂-gi₄-a mu-ni-gi₄
+#lem: kiŋgia[messenger]; gi[turn]
+#etcsl: line-id=29
+
+30. 7200 erin₂ mu-e-ši-in-gi₄
+#lem: n; erin[people]; gi[turn]
+#etcsl: line-id=30
+
+31. lu₂ {gi}dusu ib₂-si lu₂ {ŋiš}tukul sag₃-ge bi₂-ib-tur
+#lem: lu[person]; dupsik[basket (for carrying earth and bricks)]; si[fill]; lu[person]; tukul[weapon]; sag[strike]; tur[small]
+#etcsl: line-id=31
+
+32. tukum-bi lugal-ŋu₁₀ erin₂ kiŋ₂ ak-de₃ du₈-u₃-bi ab-be₂
+#lem: tukumbi[if]; lugal[king]; erin[people]; kiŋ[work]; ak[do]; du[spread]; e[speak]
+#etcsl: line-id=32
+
+33. u₃-šub {ŋiš}tukul ga-an-da-sag₃
+#lem: ušub[brick-mold]; tukul[weapon]; sag[strike]
+#etcsl: line-id=33
+
+34. lu₂ gal-gal ma-da-za lu₂ in-ne-ši-in-gi₄
+#lem: lu[person]; gal[big]; mada[land]; lu[person]; gi[turn]
+#etcsl: line-id=34
+
+35. igi-ne-ne ma-an-ŋar-re-eš-ma
+#lem: igi[eye]; ŋar[put]
+#etcsl: line-id=35
+
+36. me-en-de₃ iri-iri en-nu-uŋ₃ nu-mu-da-ak-en-de₃-en
+#lem: menden[we]; iri[city]; ennuŋ[watch]; ak[do]
+#etcsl: line-id=36
+
+37. a-na-gin₇-nam ugnim a-ra-ab-šum₂-mu
+#lem: anagin[how?]; ugnim[army]; šum[give]
+#etcsl: line-id=37
+
+38. lu₂-kiŋ₂-gi₄-a-ŋu₁₀ mu-na-ni-in-gi₄-eš
+#lem: kiŋgia[messenger]; gi[turn]
+#etcsl: line-id=38
+
+39. ud lugal-ŋu₁₀ a₂ mu-e-da-aŋ₂-ta
+#lem: ud[sun]; lugal[king]; a[arm]; aŋ[measure]
+#etcsl: line-id=39
+
+40. ud ten ŋi₆-ba kiŋ₂ im-mi-ib-gi₄-gi₄-in u₃ {ŋiš}tukul i₃-sag₃-ge-en
+#lem: ud[sun]; ten[extinguish]; ŋi[night]; kiŋ[work]; gi[turn]; u[and]; tukul[weapon]; sag[strike]
+#etcsl: line-id=40
+
+41. mu inim lugal-ŋa₂-ke₄ i₃-gub-be₂-en {ŋiš}tukul ib₂-lah₄-lah₄-e
+#lem: mu[name]; inim[word]; lugal[king]; gub[stand]; tukul[weapon]; lah[plural stem of tum ⟦bring⟧]
+#etcsl: line-id=41
+
+42. usu nu-um-ŋar {ŋiš}tukul-ta nu-um-me-ge-en ud kur-kur he₂-en-dul
+#lem: usu[strength]; ŋar[put]; tukul[weapon]; gin[confirm]; ud[storm]; kur[mountain(s)]; dul[cover]
+#etcsl: line-id=42
+
+43. lugal-ŋu₁₀ he₂-en-zu
+#lem: lugal[king]; zu[know]
+#etcsl: line-id=43
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Say to @wRN{Šu-@wDN{Suen}}, my lord: this is what @wPN{Šarrum-bāni}, the 'Sage of the Assembly', your servant, says:
+
+@(3 = 3-8) You sent me a message ordering me to work on the construction of the great fortification @wGN{Murīq-Tidnim}.  @varh[t3115.v1]{You presented yourself before me } @vart[t3115.v2,t3115.v1]{@varn{1 ms. has instead:} A messenger presented himself before me }, announcing: @q[messenger,Carrum-bani]{“The @wEN{Martu} have invaded the land.”}  @varh[t3115.v3]{You instructed me } @vart[t3115.v4,t3115.v3]{@varn{1 ms. has instead:} You have imposed on me as a task (?) } to build the fortification, so as to cut off their route; also, that no breaches of the @wWN{Tigris} or the @wWN{Euphrates} should cover the fields with water.
+
+#etcsl#altGrpo
+#etcsl#alt t3115.v1 t3115.v2
+#etcsl#alt t3115.v3 t3115.v4
+#etcsl#altGrpc
+
+@(9 = 9-11) When I was setting out, their …… from the bank of the @wWN{Ab-gal} watercourse to the province of @wGN{Zimudar}.
+
+@(12 = 12-16) When I was constructing this fortification to the length of 26 @fsux{danna}, and had reached the area between the two mountain ranges, I was informed of the @wEN{Martu} camping within the mountain ranges because (?) of my building work. @wSN{Simurrum} had come to their assistance. So I set off to the area between the mountain ranges of @wGN{Ebiḫ} in order to engage in military action.
+
+@(17 = 17-18) But as far as I can say, I have not seen (?) troops carrying baskets. In order to engage in military action, I went (?) to their …….
+
+@(19 = 19-21) If my lord agrees, may he provide me with additional workmen and set the wages (?) for me. …… did not succeed …… tribute of the provinces (?).
+
+@(22 = 22-26) I sent a messenger to the province of @wGN{Murub}: the attitude (?) of the province has altered. I will not neglect to build the fortification -- in fact I am building and engaging in military action at the same time. After all, as 'Sage of the Assembly' I descend (?) from a great lineage! I have been advised that the attitude (?) of the province has not altered.
+
+@(27 = 27-30) At the time I sent my messenger to you, I sent another messenger, after him, to  @varh[t3115.v5]{@wPN{Lu-@wDN{Nanna}} } @vart[t3115.v6,t3115.v5]{@varn{1 ms. has instead:} @wPN{Lu-@wDN{Enki}} }, the ruler of the province of @wGN{Zimudar}. He has sent you 7200 workers.
+
+#etcsl#altGrpo
+#etcsl#alt t3115.v5 t3115.v6
+#etcsl#altGrpc
+
+@(31 = 31-33) Basket men are available; however, men fit to engage in military action are limited. If my lord should arrange the dismissal of the workers ready to work, let me pursue military action together with them, when I have removed (?) them.
+
+@(34 = 34-38) The dignitaries of your provinces are sending a man to them. They have presented themselves before me, announcing: @q[dignitaries,Carrum-bani]{“As far as we are concerned, we are unable to guard all the cities. But how exactly will any troops be given to you?”} My messenger has been sent to them (?).
+
+@(39 = 39-43) Once my lord has given me instructions, I will repeatedly return to (?) work at nightfall and at midnight, as well as engaging in military action. I stand at the disposal of the fame and word of my lord, and so I (?) will bring weapons to bear. No strength has yet been displayed (?), nor any firmness shown (?) by means of weapons. Let the storm cover (?) all the lands! May my lord know!
+
+
+

@@ -1,0 +1,856 @@
+&Q000761 = The debate between Grain and Sheep
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.3.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.2&display=Crit&charenc=gcirc#
+
+1. hur-saŋ an ki-bi-da-ke₄
+#lem: hursaŋ[mountain]; an[sky]; ki[place]
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 17; OB catalogue in the Louvre, 0.2.02, line 11; OB catalogue from Urim (U2), 0.2.04, line 15
+
+2. ud an-ne₂ {d}a-nun-na im-tud-de₃-eš-a-ba
+#lem: ud[sun]; An[1]DN; Anunak[1]DN; utud[give birth (to)]
+#etcsl: line-id=2
+
+3. mu {d}ezina₂ nu-ub-da-tud-da-aš nu-ub-da-an-sig₇-ga
+#lem: mu[name]; Ezina[1]DN; utud[give birth (to)]; sissig[green-yellow]
+#etcsl: line-id=3
+
+4. kalam-ma gu {d}uttu nu-ub-da-an-dim₂-ma-aš
+#lem: kalam[the Land (of Sumer)]; gu[cord]; Uttu[1]DN; dim[create]
+#etcsl: line-id=4
+
+5. {d}uttu-ra temen nu-mu-un-na-sig₉-ga-aš
+#lem: Uttu[1]DN; temen[foundation]; sig[put into]
+#etcsl: line-id=5
+
+6. u₈ nu-e₃-a sila₄ nu-šar₂-ra
+#lem: u[sheep]; e[leave]; sila[lamb]; šar[numerous]V/i
+#etcsl: line-id=6
+
+7. ud₅ nu-me-a maš₂ nu-šar₂-ra
+#lem: uzud[(female) goat]; me[be]; maš[goat]; šar[numerous]V/i
+#etcsl: line-id=7
+
+8. u₈-e sila₄ 2-bi nu-ub-tu-ud
+#lem: u[sheep]; sila[lamb]; n; utud[give birth (to)]
+#etcsl: line-id=8
+
+9. ud₅-e maš₂ 3-bi nu-ub-tu-ud
+#lem: uzud[(female) goat]; maš[goat]; n; utud[give birth (to)]
+#etcsl: line-id=9
+
+10. mu {d}ezina₂-{d}ku₃-su₃ {d}u₈-bi-da-ke₄
+#lem: mu[name]; Ezinakusu[1]DN; U[1]DN
+#etcsl: line-id=10
+
+11. {d}a-nun-na diŋir gal-gal-e-ne nu-mu-un-zu-uš-am₃
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; zu[know]
+#etcsl: line-id=11
+
+12. še muš₅ ud 30-am₃ nu-ŋal₂-la-am₃
+#lem: še[barley]; šeŋuš[barley]; ud[sun]; n; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=12
+
+13. še muš₅ ud 40-am₃ nu-ŋal₂-la-am₃
+#lem: še[barley]; šeŋuš[barley]; ud[sun]; n; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=13
+
+14. še muš₅ ud 50-am₃ nu-ŋal₂-la-am₃
+#lem: še[barley]; šeŋuš[barley]; ud[sun]; n; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=14
+
+15. še di₄-di₄ še kur-ra še a₂-dam kug-ga nu-ŋal₂-la-am₃
+#lem: še[barley]; didila[small(er)]; še[barley]; kur[mountain(s)]; še[barley]; adam[habitation]; kug[pure]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=15
+
+16. tug₂ niŋ₂ mu₄-mu₄-bi nu-ŋal₂-la-am₃
+#lem: tug[textile]; niŋ[thing]; mur[dress]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=16
+
+17. {d}uttu nu-ub-tu-ud men nu-il₂
+#lem: Uttu[1]DN; utud[give birth (to)]; men[tiara]; il[raise]
+#etcsl: line-id=17
+
+18. en {d}niŋir-si en kal-kal nu-ub-tu-ud
+#lem: en[lord]; Enniŋirsi[1]; en[lord]; kal[rare]; utud[give birth (to)]
+#etcsl: line-id=18
+
+19. {d}šakkan₂ bar-rim₄-ma la-ba-ra-e₃-a
+#lem: Šakkan[1]DN; barim[dry land]; e[leave]
+#etcsl: line-id=19
+
+20. nam-lu₂-ulu₃ ud re-a-ke₄-ne
+#lem: namlulu[humanity]; ud[sun]; re[that]
+#etcsl: line-id=20
+
+21. ninda gu₇-u₃-bi nu-mu-un-zu-uš-am₃
+#lem: ninda[bread]; gu[eat]; zu[know]
+#etcsl: line-id=21
+
+22. tug₂-ga mu₄-mu₄-bi nu-mu-un-zu-uš-am₃
+#lem: tug[textile]; mur[dress]; zu[know]
+#etcsl: line-id=22
+
+23. kalam ŋiš-gen₆-na su-bi mu-un-ŋen
+#lem: kalam[the Land (of Sumer)]; ŋešgen[limbs]; sug[empty]; ŋen[go]
+#etcsl: line-id=23
+
+24. udu-gin₇ ka-ba u₂ mu-ni-ib-gu₇
+#lem: udu[sheep]; kag[mouth]; u[plant(s)]; gu[eat]
+#etcsl: line-id=24
+
+25. a mu₂-sar-ra-ka i-im-na₈-na₈-ne
+#lem: a[water]; musar[garden]; naŋ[drink]
+#etcsl: line-id=25
+
+26. ud-ba ki-ulutim₂ diŋir-re-e-ne-kam
+#lem: ud[sun]; kiʾulutim[place of creation]; diŋir[deity]
+#etcsl: line-id=26
+
+27. e₂-bi du₆ kug-ga u₈ {d}ezina₂-bi mu-un-se₁₂-eš-am₃
+#lem: e[house]; dud[(ruin) mound]; kug[pure]; u[sheep]; Ezina[1]DN; se[plural stem of lug⟦to live⟧ (of animals)]
+#etcsl: line-id=27
+
+28. eš₃ ninda gu₇ diŋir-re-e-ne-ka mi-ni-ib-degₓ(RI)-degₓ(RI)-ge-eš-a
+#lem: eš[shrine]; ninda[bread]; gu[eat]; diŋir[deity]; deg[gather up]
+#etcsl: line-id=28
+
+29. he₂-ŋal₂ u₈ {d}ezina₂-bi-da-ka
+#lem: heŋal[plenty]; u[sheep]; Ezina[1]DN
+#etcsl: line-id=29
+
+30. {d}a-nun-na du₆ kug-ga-ke₄-ne
+#lem: Anunak[1]DN; dud[(ruin) mound]; kug[pure]
+#etcsl: line-id=30
+
+31. i-im-gu₇-gu₇-ne nu-mu-un-de₃-si-si-eš
+#lem: gu[eat]; si[fill]
+#etcsl: line-id=31
+
+32. amaš kug-ga-ne-ne ga-bi niŋ₂ dug₃-ga
+#lem: amaš[sheepfold]; kug[pure]; ga[milk]; niŋ[thing]; dug[good]
+#etcsl: line-id=32
+
+33. {d}a-nun-na du₆ kug-ga-ke₄-ne
+#lem: Anunak[1]DN; dud[(ruin) mound]; kug[pure]
+#etcsl: line-id=33
+
+34. i-im-na₈-na₈-ne nu-mu-un-de₃-si-si-eš
+#lem: naŋ[drink]; si[fill]
+#etcsl: line-id=34
+
+35. amaš kug-ga niŋ₂ dug₃-ga-ne-ne-še₃
+#lem: amaš[sheepfold]; kug[pure]; niŋ[thing]; dug[good]
+#etcsl: line-id=35
+
+36. nam-lu₂-ulu₃ zi šag₄ im-ši-in-ŋal₂
+#lem: namlulu[humanity]; zi[life]; šag[heart]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=36
+
+37. ud-ba {d}en-ki-ke₄ {d}en-lil₂-ra gu₃ mu-un-na-de₂-e
+#lem: ud[sun]; Enkik[1]DN; Enlil[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=37
+
+38. a-a {d}en-lil₂ u₈ {d}ezina₂-bi-da-ke₄
+#lem: aya[father]; Enlil[1]DN; u[sheep]; Ezina[1]DN
+#etcsl: line-id=38
+
+39. du₆ kug-ga um-ma-da-an-se₁₂-eš-a
+#lem: dud[(ruin) mound]; kug[pure]; se[plural stem of lug⟦to live⟧ (of animals)]
+#etcsl: line-id=39
+
+40. du₆ kug-ta ga-am₃-ma-da-ra-ab-ed₃-de₃-en-de₃-en
+#lem: dud[(ruin) mound]; kug[pure]; ed[go up]
+#etcsl: line-id=40
+
+41. {d}en-ki {d}en-lil₂-bi inim kug-ga-ne-ne-a-am₃ dug₄-ga
+#lem: Enkik[1]DN; Enlil[1]DN; inim[word]; kug[pure]; dug[speak]
+#etcsl: line-id=41
+
+42. u₈ {d}ezina₂-bi du₆ kug-ta im-ma-da-ra-an-ed₃-de₃
+#lem: u[sheep]; Ezina[1]DN; dud[(ruin) mound]; kug[pure]; ed[go up]
+#etcsl: line-id=42
+
+43. u₈ amaš-a-na im-ma-ab-ni₁₀-ni₁₀-e
+#lem: u[sheep]; amaš[sheepfold]; niŋin[encircle]
+#etcsl: line-id=43
+
+44. u₂-šim niŋ₂-daŋal-la mu-un-na-ba-e-ne
+#lem: ušim[greenery]; niŋdaŋala[vastness]; ba[allot]
+#etcsl: line-id=44
+
+45. {d}ezina₂-ra gana₂-ni mu-un-na-ŋa₂-ŋa₂-ne
+#lem: Ezina[1]DN; gana[field]; ŋar[put]
+#etcsl: line-id=45
+
+46. {ŋiš}apin šudul erin₂-bi mu-un-na-ba-e-ne
+#lem: apin[(seed) plow]; šudul[yoke]; erin[harness]; ba[allot]
+#etcsl: line-id=46
+
+47. u₈ amaš-a-na gub-ba-ni
+#lem: u[sheep]; amaš[sheepfold]; gub[stand]
+#etcsl: line-id=47
+
+48. sipad amaš-a hi-li du₈-du₈-a
+#lem: sipad[shepherd]; amaš[sheepfold]; hili[attractiveness]; du[spread]
+#etcsl: line-id=48
+
+49. {d}ezina₂ ab-sin₂-na gub-ba-ni
+#lem: Ezina[1]DN; absin[furrow]; gub[stand]
+#etcsl: line-id=49
+
+50. ki-sikil sig₇-ga hi-li gur₃-ru-am₃
+#lem: kisikil[young woman]; sissig[green-yellow]; hili[attractiveness]; gur[lift]
+#etcsl: line-id=50
+
+51. gan₂-ne₂-ta saŋ zig₃ il₂-la-ni
+#lem: gana[field]; saŋ[head]; zig[rise]; il[raise]
+#etcsl: line-id=51
+
+52. he₂-ŋal₂ an-na-ta de₆-de₆-a-ni
+#lem: heŋal[plenty]; an[sky]; de[carry]
+#etcsl: line-id=52
+
+53. u₈ {d}ezina₂-bi pa e₃ mu-un-ak-eš
+#lem: u[sheep]; Ezina[1]DN; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=53
+
+54. unken-na he₂-ŋal₂ mu-da-an-ŋal₂-le-eš
+#lem: unkin[assembly]; heŋal[plenty]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=54
+
+55. kalam-ma zi-šag₄-ŋal₂ mu-da-an-ŋal₂-le-eš
+#lem: kalam[the Land (of Sumer)]; zišagŋal[encouragement]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=55
+
+56. me diŋir-re-e-ne si im-sa₂-sa₂-e-ne
+#lem: me[Being]; diŋir[deity]; si[horn]; sa[equal]
+#etcsl: line-id=56
+
+57. erim₃ kalam-ma-ka niŋ₂ mu-ni-ib-lu-lu-un
+#lem: erim[storeroom]; kalam[the Land (of Sumer)]; niŋ[thing]; lu[abundant]
+#etcsl: line-id=57
+
+58. ama₅ kalam-ma-ka dugud mu-un-de₃-ŋal₂
+#lem: emi[queen's household]; kalam[the Land (of Sumer)]; dugud[heavy]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=58
+
+59. e₂ ukur₃-ra sahar ki us₂-sa-a-ba
+#lem: e[house]; ukur[poor]; sahar[soil]; ki[place]; us[accompany]
+#etcsl: line-id=59
+
+60. u₃-mu-un-sun₅-ne-eš he₂-ŋal₂ mu-da-an-ŋal₂-le-eš
+#lem: sun[plural stem of kur⟦to enter⟧]; heŋal[plenty]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=60
+
+61. min₃-na-ne-ne ki ŋiri₃-ne-ne ba-an-gub-bu-uš-a
+#lem: n; ki[place]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=61
+
+62. dugud-bi e₂-a niŋ₂ tah-e-me-eš
+#lem: dugud[heavy]; e[house]; niŋ[thing]; tah[add]
+#etcsl: line-id=62
+
+63. ki gub niŋ₂-si-me-eš ki tuš me-te-ŋal₂-me-eš
+#lem: ki[place]; gub[stand]; niŋsi[provisions]; ki[place]; tuš[sit (down)]; meteŋal[seemly]
+#etcsl: line-id=63
+
+64. šag₄ an-na šag₄ {d}en-lil₂-la₂-ke₄ ba-sag₉-ge-eš
+#lem: šag[heart]; An[1]DN; šag[heart]; Enlil[1]DN; sag[good]
+#etcsl: line-id=64
+
+65. ŋeštin niŋ₂ dug₃ i-im-na₈-na₈-e-ne
+#lem: ŋeštin[vine]; niŋ[thing]; dug[good]; naŋ[drink]
+#etcsl: line-id=65
+
+66. kaš niŋ₂ dug₃ i-im-dug₃-dug₃-ge-ne
+#lem: kaš[beer]; niŋ[thing]; dug[good]; dug[good]
+#etcsl: line-id=66
+
+67. ŋeštin niŋ₂ dug₃ u₃-mu-un-naŋ-eš-a-ta
+#lem: ŋeštin[vine]; niŋ[thing]; dug[good]; naŋ[drink]
+#etcsl: line-id=67
+
+68. kaš niŋ₂ dug₃ u₃-mu-un-dug₃-ge-eš-a-ta
+#lem: kaš[beer]; niŋ[thing]; dug[good]; dug[good]
+#etcsl: line-id=68
+
+69. a-gar₃-a-gar₃-ra du₁₄ mi-ni-ib-mu₂-mu₂-ne
+#lem: agar[meadow]; dud[combat]; mu[grow]
+#etcsl: line-id=69
+
+70. ki ŋišbun-na-ka a-da-min₃ mu-un-ak-ne
+#lem: ki[place]; ŋešbun[(cultic) meal]; adamin[contest]; ak[do]
+#etcsl: line-id=70
+
+71. {d}ezina₂-e u₈-ra gu₃ mu-un-na-de₂#-[e]
+#lem: Ezina[1]DN; u[sheep]; gu[voice]; de[pour]
+#etcsl: line-id=71
+
+72. nin₉ dub-saŋ-zu-me-en igi-še₃ ma-ra-ab-gub-be₂-en
+#lem: nin[sister]; dubsaŋ[first]; igi[eye]; gub[stand]
+#etcsl: line-id=72
+
+73. su₃-ra₂-aŋ₂ kalam-ma-ka giri₁₇-zal-bi-me-en
+#lem: sudaŋ[precious metal or material (possibly amber)]; kalam[the Land (of Sumer)]; kirizal[joy]
+#etcsl: line-id=73
+
+74. saŋ-ur-saŋ-ra usu-ŋu₁₀ ba-ab-šum₂-mu
+#lem: saŋursaŋ[cultic performer]; usu[strength]; šum[give]
+#etcsl: line-id=74
+
+75. e₂-gal-la su zig₃ mu-un-da-an-ri
+#lem: egal[palace]; su[flesh]; zig[rise]; ri[impose]
+#etcsl: line-id=75
+
+76. kalam-ma mu zag-še₃ mu-da-sug₂-sug₂-ge-eš
+#lem: kalam[the Land (of Sumer)]; mu[name]; zag[side]; sug[stand]
+#etcsl: line-id=76
+
+77. kadra {d}a-nun-na-ke₄-ne-me-en
+#lem: kadra[greeting gift]; Anunak[1]DN
+#etcsl: line-id=77
+
+78. lipiš barag-barag-ge₂-ne-me-en
+#lem: lipiš[inner body]; barag[sanctum]
+#etcsl: line-id=78
+
+79. usu-ŋu₁₀ ur-saŋ-ra u₃-mu-na-te
+#lem: usu[strength]; ursaŋ[warrior]; teŋ[approach]
+#etcsl: line-id=79
+
+80. ki me₃-ka gub-ba-ni
+#lem: ki[place]; me[battle]; gub[stand]
+#etcsl: line-id=80
+
+81. su nu-mu-un-zu sa nu-mu-un-zu
+#lem: su[flesh]; zu[know]; sa[sinew]; zu[know]
+#etcsl: line-id=81
+
+82. i-gi₄-in-zu ki-a-ne-di [...]-na-du-un
+#lem: iginzu[as if]; kiʾenedi[play area]; ŋen[go]
+#etcsl: line-id=82
+
+83. nam-ušur nam-ma₃-la i-im-dug₃-dug₃-ge
+#lem: namusar[neighborliness]; nammala[friendliness]; dug[good]
+#etcsl: line-id=83
+
+84. ušur du₁₄ mu₂-a i-im-bur₂-bur₂-re
+#lem: usar[(female) neighbor]; dud[combat]; mu[grow]; bur[spread out]
+#etcsl: line-id=84
+
+85. ŋuruš# dab₅-ba-ra u₃-mu-un-na-te
+#lem: ŋuruš[young adult male]; dab[seize]; teŋ[approach]
+#etcsl: line-id=85
+
+86. nam tar-ra-ni u₃-mu-un-na-ba-e
+#lem: nam[fate]; tar[cut]; ba[allot]
+#etcsl: line-id=86
+
+87. šag₄ sag₃-ga-ni ŋeštug₂-ga-ni im-mi-ib-u₁₈-lu
+#lem: šag[heart]; sag[strike]; ŋeštug[ear]; ulu[cvve]
+#etcsl: line-id=87
+
+88. ŋiš-šu ŋiš-gu₂ i-im-du₈-du₈-e
+#lem: ŋeššu[manacles]; ŋešgu[neck stock]; du[spread]
+#etcsl: line-id=88
+
+89. {d}ezina₂-{d}ku₃-su₃-me-en dumu {d}en-lil₂-la₂-me-en
+#lem: Ezinakusu[1]DN; dumu[child]; Enlil[1]DN
+#etcsl: line-id=89
+
+90. ŋa₂ udu e₂-ubur-ra an-edin-na la₂-a
+#lem: ŋa[house]; udu[sheep]; eʾuburak[animal pen]; aneden[the high steppe]; la[hang]
+#etcsl: line-id=90
+
+91. a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-en-na-bi gi₄-ma-ni-ib
+#lem: ana[what?]; ŋal[⟦be⟧ to be (there]; ana[what?]; e[speak]; gi[turn]
+#etcsl: line-id=91
+
+92. min₃-kam-ma-še₃ u₈ {d}ezina₂-ra mu-na-ni-ib-gi₄-gi₄
+#lem: n; u[sheep]; Ezina[1]DN; gi[turn]
+#etcsl: line-id=92
+
+93. nin₉-ŋu₁₀ niŋ₂ a-na mu-e-dug₄-ga-zu
+#lem: nin[sister]; niŋ[thing]; ana[what?]; dug[speak]
+#etcsl: line-id=93
+
+94. an lugal diŋir-re-e-ne-ke₄
+#lem: An[1]DN; lugal[king]; diŋir[deity]
+#etcsl: line-id=94
+
+95. ki kug ki kal-kal-ŋu₁₀ mu-un-ed₃-de₃-NE
+#lem: ki[place]; kug[purify]; ki[place]; kal[rare]; ed[go up]
+#etcsl: line-id=95
+
+96. gu-gu {d}uttu me-lem₄ nam-lugal-la ŋa₂-a-ra mu-da-ŋal₂
+#lem: gu[cord]; Uttu[1]DN; melim[frightening splendor]; namlugal[kingship]; ŋaʾe[I]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=96
+
+97. {d}šakkan₂ lugal hur-saŋ-ŋa₂-ke₄
+#lem: Šakkan[1]DN; lugal[king]; hursaŋ[mountain]
+#etcsl: line-id=97
+
+98. me-ni u-gun₃ mu-un-na-ab-ak-e
+#lem: me[Being]; ugunu[decoration]; ak[do]
+#etcsl: line-id=98
+
+99. a₂ nam-šita₄-ke₄ si mu-na-ab-sa₂-e
+#lem: a[arm]; namšita[weaponry]; si[horn]; sa[equal]
+#etcsl: line-id=99
+
+100. zag-e₃ gal-gal ki-bal-še₃ ebih₂ ba-an-sur-re
+#lem: zage[projection]; gal[big]; kibala[rebel land]; ebih[heavy rope]; sur[press]
+#etcsl: line-id=100
+
+101. {[kuš]}da-lu-uš₂ a-ma-ru {ŋiš}pan gal-gal-e mu-na-ab-[X-X]
+#lem: daluš[sling]; emarru[quiver]; pana[bow]; gal[big]; X
+#etcsl: line-id=101
+
+102. zu₂ keše₂ igi bar-ra en-nu-uŋ₃ ŋa₂-a-kam
+#lem: zu[tooth]; kešed[bind]; igi[eye]; bar[place outside]; ennuŋ[watch]; ŋaʾe[I]
+#etcsl: line-id=102
+
+103. a-šag₄-ga zi nam-ŋuruš <ŋa₂>-a-kam#
+#lem: ašag[field]; zi[life]; namŋuruš[manliness]; ŋaʾe[I]
+#etcsl: line-id=103
+
+104. {kuš}ummud a sed₄-da {kuš}e-sir₂ ŋa₂-a-kam
+#lem: ummud[waterskin]; a[water]; sed[cold]; esir[sandal(s)]; ŋaʾe[I]
+#etcsl: line-id=104
+
+105. i₃ dug₃-ga ir-sim diŋir-ra
+#lem: i[oil]; dug[good]; irsim[fragrance]; diŋir[deity]
+#etcsl: line-id=105
+
+106. i₃ a-ra₂ i₃ dub₂ i₃ šim i₃ {ŋiš}erin sa₂-dug₄-[ga ŋa₂-a-kam]
+#lem: i[oil]; ara[designation of oil]; i[oil]; dub[tremble]; i[oil]; šim[aromatic substance]; i[oil]; eren[cedar]; sadug[regular temple offerings]; ŋaʾe[I]
+#etcsl: line-id=106
+
+107. zulumhi tug₂ siki babbar-ra-ŋu₁₀
+#lem: zulumhi[fleece]; tug[textile]; siki[hair]; babbar[white]
+#etcsl: line-id=107
+
+108. lugal barag-ga-na im-mi-in-hul₂-le
+#lem: lugal[king]; barag[sanctum]; hul[rejoice]
+#etcsl: line-id=108
+
+109. bar-ŋu₁₀ su diŋir gal-gal-e-ne-ka mul-ma-al im-mi-ib-za
+#lem: bar[outside]; su[flesh]; diŋir[deity]; gal[big]; mulmal[sound (onomatopoeic)]; za[cvve]
+#etcsl: line-id=109
+
+110. gudug pa₄-šeš lu₂ a tu₅-am₃
+#lem: gudug[priest]; pašeš[priest]; lu[person]; a[water]; tu[cvve]
+#etcsl: line-id=110
+
+111. šu-luh kug-ŋa₂ um-ma-da-an-mur₁₀-re
+#lem: šuluh[ritual cleansing]; kug[pure]; mur[dress]
+#etcsl: line-id=111
+
+112. šukur₂ kug-ŋa₂ ŋiri₃ mu-da-an-gub-be₂
+#lem: šukur[food allocation]; kug[pure]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=112
+
+113. {ŋiš}gana₂-ur₃ {ŋiš}eme-apin-na dur ab₂-saŋ
+#lem: ganur[harrow]; emeʾapinak[plowshare]; dur[binding]; absaŋ[top strap]
+#etcsl: line-id=113
+
+114. {ŋiš}šu-kar₂ sug-zag-ge₄ gu₇-a
+#lem: šukara[tool]; sugzag[marsh edge]; gu[eat]
+#etcsl: line-id=114
+
+115. a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-na-bi gi₄-ma-[ni-ib]
+#lem: ana[what?]; ŋal[⟦be⟧ to be (there]; ana[what?]; e[speak]; gi[turn]
+#etcsl: line-id=115
+
+116. min₃-kam-ma-še₃ {d}ezina₂-e u₈-ra mu-na-ni-ib-gi₄-gi₄
+#lem: n; Ezina[1]DN; u[sheep]; gi[turn]
+#etcsl: line-id=116
+
+117. bappir udun-na mi₂ u₃-ba-ni-dug₄
+#lem: bappir[an ingredient in beer-making]; udun[kiln]; mi[cvne]; dug[speak]
+#etcsl: line-id=117
+
+118. titab udun-na u₃-ba-ni-du₃
+#lem: titab[an ingredient in beer-making]; udun[kiln]; du[build]
+#etcsl: line-id=118
+
+119. {d}nin-ka-si-ke₄ ma-ab-šar₂-šar₂-re
+#lem: Ninkasik[1]DN; šar[mix]
+#etcsl: line-id=119
+
+120. maš₂ gal-gal {udu}utua₂! gal-gal-zu
+#lem: maš[goat]; gal[big]; utuwa[ram]; gal[big]
+#etcsl: line-id=120
+
+121. ki ŋišbun-ŋa₂ mu-un-til-le-eš
+#lem: ki[place]; ŋešbun[(cultic) meal]; til[complete]
+#etcsl: line-id=121
+
+122. niŋ₂-ŋu₁₀-ta a₂ gur-ra im-da-sug₂-sug₂-ge-eš
+#lem: niŋ[thing]; a[arm]; gur[thick]; sug[stand]
+#etcsl: line-id=122
+
+123. sipad-zu niŋ₂-ŋu₁₀-še₃ an-edin-na igi-bi im-ši-ŋal₂
+#lem: sipad[shepherd]; niŋ[thing]; aneden[the high steppe]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=123
+
+124. išin-na a-šag₄-ga ŋal₂-la-ŋu₁₀-še₃
+#lem: isin[culm]; ašag[field]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=124
+
+125. engar-ŋu₁₀ na-gada-zu {ŋiš}tukul-ta mu-un-sar-re
+#lem: engar[farmer]; nagada[herdsman]; tukul[weapon]; sar[run]
+#etcsl: line-id=125
+
+126. ki-ta ki sig₉-ga-aš u₃-mu-e-re-kiŋ₂
+#lem: ki[place]; ki[place]; sig[silent]; kiŋ[seek]
+#etcsl: line-id=126
+
+127. za-e-ra ni₂-zu nu-mu-un-ta-ed₃-de₃
+#lem: zaʾe[you]; ni[fear]; ed[go up]
+#etcsl: line-id=127
+
+128. muš-ŋiri₂ {lu₂}la-ga niŋ₂ eden-na-ke₄
+#lem: mušŋiri[fanged snake]; laga[thief]; niŋ[thing]; eden[back]
+#etcsl: line-id=128
+
+129. zi-zu an-edin-na ku-kur ba-ni-ib-be₂
+#lem: zi[life]; aneden[the high steppe]; kurku[wish]; e[speak]
+#etcsl: line-id=129
+
+130. ud šu₂-uš-e niŋ₂-kas₇-zu ba-ni-ak-e
+#lem: ud[sun]; šuš[cover]; niŋkas[account]; ak[do]
+
+#etcsl: line-id=130
+
+131. ŋiš-šudum-ma-zu ki i₃-tag-tag-ge
+#lem: ŋeššudumak[wooden tool used for accounting]; ki[place]; tag[touch]
+#etcsl: line-id=131
+
+132. na-gada-zu u₈ me-a sila₄ tur-tur me-a
+#lem: nagada[herdsman]; u[sheep]; mea[where?]; sila[lamb]; tur[small]; mea[where?]
+#etcsl: line-id=132
+
+133. ud₅ me-a maš₂ tur-tur me-a lu₂ mu-un-na-ab-be₂
+#lem: uzud[(female) goat]; mea[where?]; maš[goat]; tur[small]; mea[where?]; lu[person]; e[speak]
+#etcsl: line-id=133
+
+134. tum₉ tur-tur-e iri-a du-da-bi
+#lem: tumu[wind]; tur[small]; iri[city]; du[go]
+#etcsl: line-id=134
+
+135. tum₉ gal-gal-e sag₂ di-da-bi
+#lem: tumu[wind]; gal[big]; sag[scatter]; di[speak]
+#etcsl: line-id=135
+
+136. za-e e₂-ubur-ra# ma-ra-an-du₃-u₃-ne
+#lem: zaʾe[you]; eʾuburak[animal pen]; du[build]
+#etcsl: line-id=136
+
+137. tum₉ tur-tur-e iri-a du-da-bi
+#lem: tumu[wind]; tur[small]; iri[city]; du[go]
+#etcsl: line-id=137
+
+138. tum₉ gal-gal-e sag₂ di-da-bi
+#lem: tumu[wind]; gal[big]; sag[scatter]; di[speak]
+#etcsl: line-id=138
+
+139. {d}iškur-ra gaba ri-a mu-da-an-gub-be₂-en
+#lem: Iškur[1]DN; gaba[breast]; ri[impose]; gub[stand]
+#etcsl: line-id=139
+
+140. {d}ezina₂-me-en ur-saŋ-ra tud-da-me-en ŋa₂-la nu-mu-un-ta-dag-ge-en
+#lem: Ezina[1]DN; ursaŋ[warrior]; utud[give birth (to)]; ŋala[cvne]; dag[roam around]
+#etcsl: line-id=140
+
+141. {dug}šakir₃ {dug}ŋiri₃-GA gi₁₆-sa nam-sipad-da niŋ₂-gur₁₁-ra gub-ba
+#lem: šakir[churn]; ŋiri₃.GA[vessel]; gilsa[treasure]; namsipad[shepherdship]; niŋgur[property]; gub[stand]
+#etcsl: line-id=141
+
+142. a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-na-bi gi₄-ma-ni-ib
+#lem: ana[what?]; ŋal[⟦be⟧ to be (there]; ana[what?]; e[speak]; gi[turn]
+#etcsl: line-id=142
+
+143. min₃-kam-ma-še₃ u₈ {d}ezina₂-ra mu-na-ni-ib-gi₄-gi₄
+#lem: n; u[sheep]; Ezina[1]DN; gi[turn]
+#etcsl: line-id=143
+
+144. za-e [kug] {d}inana an-na-gin₇
+#lem: zaʾe[you]; kug[purify]; Inanak[1]DN; an[sky]
+#etcsl: line-id=144
+
+145. [anše]-kur-ra ki im-a-aŋ₂
+#lem: sisi[horse]; ki[place]; aŋ[measure]
+#etcsl: line-id=145
+
+146. lu₂-erim₂ bar tab-ba saŋ kur-ra
+#lem: luʾerim[evildoer]; bar[outside]; tab[double]; saŋ[head]; kur[mountain(s)]
+#etcsl: line-id=146
+
+147. ŋuruš#-e lu₂ dam tur-ra-ke₄ [lu₂] dumu tur-tur-ra-ke₄
+#lem: ŋuruš[young adult male]; lu[person]; dam[spouse]; tur[small]; lu[person]; dumu[child]; tur[small]
+#etcsl: line-id=147
+
+148. eš₂-da 1 kuš₃-na um-da-la₂
+#lem: eš[rope]; n; kuš[unit of length]; la[hang]
+#etcsl: line-id=148
+
+149. ki-du₆-še₃ um-ma-an-ed₂-de₃
+#lem: kisur[barren land]; e[leave]
+#etcsl: line-id=149
+
+150. ki-du₆-ta [...]-ed₃#-de₃
+#lem: kisur[barren land]; ed[go up]
+#etcsl: line-id=150
+
+151. {ŋiš}tukul-a-ni igi-zu um-ra-ra ka-zu um-ra-ra
+#lem: tukul[weapon]; igi[eye]; rah[beat]; kag[mouth]; rah[beat]
+#etcsl: line-id=151
+
+152. X gum-gum-gin₇ PA-zu# [...]-ma-ri-in-[...]
+#lem: X; guz[be crushed]; X; X
+#etcsl: line-id=152
+
+153. {tum₉}u₁₈-lu {tum₉}mir-re bal-še₃ [...]
+#lem: ulu[south wind]; mir[north wind]; bala[turn]; X
+#etcsl: line-id=153
+
+154. {na₄}kinkin(HAR)-e {na₄}X [...] X [...]
+#lem: kinkin[small millstone]; X; X; X; X
+#etcsl: line-id=154
+
+155. {na₄}šu-še₃ bar-za-a ar₃-ar₃ mi-ni-in-ak
+#lem: šu[pestle]; bar[place outside]; ara[grind]; ak[do]
+#etcsl: line-id=155
+
+156. za-e {ŋiš}buniŋ(SUG)-bi sig₉-ga-zu-ne
+#lem: zaʾe[you]; buniŋ[trough]; sig[put into]
+#etcsl: line-id=156
+
+157. lu₂-silaŋ-ŋa₂ ba-hi ki-a mi-ni-in-ŋar
+#lem: lusilaŋa[baker]; hi[mix (up)]; ki[place]; ŋar[put]
+#etcsl: line-id=157
+
+158. ki-sikil du₈ gu-la šu bur₂-ra-am₃
+#lem: kisikil[young woman]; du[spread]; gal[big]; šu[hand]; bur[spread out]
+#etcsl: line-id=158
+
+159. {im}šu-rin-na# mi-ni-a-ed₃-de₃
+#lem: šurin[oven]; ed[go up]
+#etcsl: line-id=159
+
+160. {im}šu-rin-na-ta im-ta-a-ed₃-de₃
+#lem: šurin[oven]; ed[go up]
+#etcsl: line-id=160
+
+161. za-e {ŋiš}banšur-ra ŋal₂-la-zu-ne
+#lem: zaʾe[you]; banšur[table]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=161
+
+162. an-ta ma-ra-ŋal₂-en ki-ta ma-ŋal₂-en
+#lem: an[sky]; ŋal[⟦be⟧ to be (there]; ki[place]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=162
+
+163. {d}ezina₂ ni₂-za ŋeštug₂ ak-i₃
+#lem: Ezina[1]DN; ni[self]; ŋeštug[ear]; ak[do]
+#etcsl: line-id=163
+
+164. u₃ za-e ŋe₂₆-e-gin₇ niŋ₂-gu₇-u₃-me-en
+#lem: u[and]; zaʾe[you]; ŋaʾe[I]; niŋgu[food]N
+#etcsl: line-id=164
+
+165. me-za igi mi-ni-ib-il₂-la-ke₄-eš
+#lem: me[Being]; igi[eye]; il[raise]
+#etcsl: line-id=165
+
+166. u₃ ŋe₂₆-e eŋer-bi im-us₂-en
+#lem: u[and]; ŋaʾe[I]; egir[back]; us[accompany]
+#etcsl: line-id=166
+
+167. lu₂-{na₄}kinkin(HAR)-e hul nu-ŋal₂
+#lem: kinkin[miller]; hulu[bad]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=167
+
+168. a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-en-na-bi gi₄-ma-ni-ib
+#lem: ana[what?]; ŋal[⟦be⟧ to be (there]; ana[what?]; e[speak]; gi[turn]
+#etcsl: line-id=168
+
+169. ud-ba {d}ezina₂-e nam-gur₄-ra-na šag₄ im-mi-in-dab₅ di-de₃ saŋ ba-an-šum₂
+#lem: ud[sun]; Ezina[1]DN; namgur[thickness]; šag[heart]; dab[seize]; did[lawsuit]; saŋ[head]; šum[give]
+#etcsl: line-id=169
+
+170. {d}ezina₂ u₈-ra mu-un-na-ni-ib-gi₄-gi₄
+#lem: Ezina[1]DN; u[sheep]; gi[turn]
+#etcsl: line-id=170
+
+171. za-e {d}iškur lugal-zu-um {d}šakkan₂ kuš₇-zu-um bar-rim₄ ki-nu₂-zu-um
+#lem: zaʾe[you]; Iškur[1]DN; lugal[king]; Šakkan[1]DN; kuš[high official]; barim[dry land]; kinud[sleeping quarter]
+#etcsl: line-id=171
+
+172. e₂-e gan₂-ne₂ izi in-ga-dub₂-ba-gin₇
+#lem: e[house]; gana[field]; izi[fire]; dub[tremble]
+#etcsl: line-id=172
+
+173. e₂-ba! ka-ba buru₅{mušen} dal ba-ab-[ra]-gin₇
+#lem: e[house]; kag[mouth]; buru[sparrow]; dal[fly]; rah[beat]
+#etcsl: line-id=173
+
+174. eh₃ si-ig kalam-ma-še₃ ba-ni-ib-kur₉-re-en
+#lem: ehehhe[disabled person]; sig[weak]; kalam[the Land (of Sumer)]; kur[enter]
+#etcsl: line-id=174
+
+175. ŋe₂₆-e gu₂-ŋu₁₀ ki-še₃ ba-e-de₃-ŋa₂-ŋa₂-ŋa₂
+#lem: ŋaʾe[I]; gu[neck]; ki[place]; ŋar[put]
+#etcsl: line-id=175
+
+176. {ŋiš}ba-an-e-{ŋiš}ba-an-e ba-e-hal-ha-[...]
+#lem: ban[unit of capacity]; hal[divide]
+#etcsl: line-id=176
+
+177. šag₄-tur₃-zu šakanka{+ka} lu₂ u₃-bi₂-in-de₆
+#lem: šagtur[womb]; šakanka[market price]; lu[person]; de[carry]
+#etcsl: line-id=177
+
+178. {tug₂}niŋ₂-dara₂ ni₂-za gu₂-zu u₃-bi₂-in-la₂
+#lem: niŋdara[rag]; ni[self]; gu[neck]; la[hang]
+#etcsl: line-id=178
+
+179. u₈-ŋu₁₀-še₃ še {ŋiš}ba-an-e si-ma-ab lu₂ lu₂-u₃ in-na-ab-e
+#lem: u[sheep]; še[barley]; ban[unit of capacity]; si[fill]; lu[person]; lu[person]; e[speak]
+#etcsl: line-id=179
+
+180. ud-ba {d}en-ki-ke₄ {d}en-lil₂-ra gu₃ mu-na-de₂-e
+#lem: ud[sun]; Enkik[1]DN; Enlil[1]DN; gu[voice]; de[pour]
+#etcsl: line-id=180
+
+181. a-a {d}en-lil₂ {d}u₈ {d}ezina₂-bi nin₉ he₂-me-eš
+#lem: aya[father]; Enlil[1]DN; U[1]DN; Ezina[1]DN; nin[sister]; me[be]
+#etcsl: line-id=181
+
+182. teš₂-bi-da he₂-en-da-sug₂-sug₂-ge#-eš
+#lem: teš[unity]; sug[stand]
+#etcsl: line-id=182
+
+183. kug 3-kam-ma!-ne-ne-a# [...] ŋa₂-la nu-um-[X-dag-ge]
+#lem: kug[metal]; n; X; ŋala[cvne]; dag[roam around]
+#etcsl: line-id=183
+
+184. min₃-na-ne-ne {d}ezina₂ [he₂-X]-gu-ul
+#lem: n; Ezina[1]DN; gal[big]
+#etcsl: line-id=184
+
+185. {d}ezina₂-ra dub₃ [ki]-a he₂-en-de₃-za-za
+#lem: Ezina[1]DN; dub[knee]; ki[place]; zaza[bow down]
+#etcsl: line-id=185
+
+186. [...]-ra ŋiri₃-ni [ne] he₂-em-su-ub-bu-de₃#
+#lem: X; ŋiri[foot]; ne[cvne]; sub[rub]
+#etcsl: line-id=186
+
+187. {d}utu e₃-[a]-ra {d}utu šu₂-[uš]-e
+#lem: Utu[1]DN; e[leave]; Utu[1]DN; šuš[cover]
+#etcsl: line-id=187
+
+188. mu {d}ezina₂-kam he₂-em-pad₃#-pad₃!-de₃
+#lem: mu[name]; Ezina[1]DN; pad[find]
+#etcsl: line-id=188
+
+189. erin₂ {d}ezina₂-ka gu₂ he₂-em-mi-ib-ŋar
+#lem: erin[harness]; Ezina[1]DN; gu[neck]; ŋar[put]
+#etcsl: line-id=189
+
+190. lu₂ kug tuku lu₂ za tuku lu₂# gud# tuku lu₂ udu tuku#
+#lem: lu[person]; kug[metal]; tuku[acquire]; lu[person]; za[bead]; tuku[acquire]; lu[person]; gud[bull]; tuku[acquire]; lu[person]; udu[sheep]; tuku[acquire]
+#etcsl: line-id=190
+
+191. kan₄ lu₂ še tuku-e dur₂ he₂-[ŋa₂-ŋa₂] ud he₂-ni-ib-zal-zal-e
+#lem: kan[gate]; lu[person]; še[barley]; tuku[acquire]; dur[buttocks]; ŋar[put]; ud[sun]; zal[pass time]
+#etcsl: line-id=191
+
+192. u₈ {d}ezina₂-bi a-da-min₃ <<mi₂>>-dug₄-ga
+#lem: u[sheep]; Ezina[1]DN; adamin[contest]; dug[speak]
+#etcsl: line-id=192
+
+193. u₈ taka₄-a {d}ezina₂ e₃-a a-a {d}en-ki za₃-mi₂
+#lem: u[sheep]; taka[set aside]; Ezina[1]DN; e[leave]; aya[father]; Enkik[1]DN; zamin[praise]
+#etcsl: line-id=193
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-11) When, upon the hill of heaven and earth, @wDN{An} spawned the @wDN{Anuna} gods, since he neither spawned nor created grain with them, and since in the Land he neither fashioned the yarn of @wDN{Uttu} @noteref{the goddess of weaving} nor pegged out the loom for @wDN{Uttu} -- with no sheep appearing, there were no numerous lambs, and with no goats, there were no numerous kids, the sheep did not give birth to her twin lambs, and the goat did not give birth to her triplet kids --, the @wDN{Anuna}, the great gods, did not even know the names @wDN{Ezina-Kusu} @noteref{Grain} or Sheep.
+
+@(12 = 12-25) There was no @fsux{muš} grain of thirty days; there was no @fsux{muš} grain of forty days; there was no @fsux{muš} grain of fifty days; there was no small grain, grain from the mountains or grain from the holy habitations. There was no cloth to wear; @wDN{Uttu} had not been born -- no royal turban was worn; Lord @wDN{Niŋir-si}, the precious lord, had not been born; @wDN{Šakkan} @noteref{the god of wild animals} had not gone out into the barren lands. The people of those days did not know about eating bread. They did not know about wearing clothes; they went about with naked limbs in the Land. Like sheep they ate grass with their mouths and drank water from the ditches.
+
+@(26 = 26-36) At that time, at the place of the gods' formation, in their own home, on the Holy Mound, they created Sheep and Grain. Having gathered them in the divine banqueting chamber, the @wDN{Anuna} gods of the Holy Mound partook of the bounty of Sheep and Grain but were not sated; the @wDN{Anuna} gods of the Holy Mound partook of the sweet milk of their holy sheepfold but were not sated. For their own well-being in the holy sheepfold, they gave them to mankind as sustenance.
+
+@(37 = 37-42) At that time @wDN{Enki} spoke to @wDN{Enlil}: @q[Enki,Enlil]{“Father Enlil, now Sheep and Grain have been created on the Holy Mound, let us send them down from the Holy Mound.”} @wDN{Enki} and @wDN{Enlil}, having spoken their holy word, sent Sheep and Grain down from the Holy Mound.
+
+@(43 = 43-53) Sheep being fenced in by her sheepfold, they gave her green plants generously. For Grain they made her field and gave her the plough, yoke and team. Sheep standing in her sheepfold was a shepherd of the sheepfolds brimming with charm. Grain standing in her furrow was a beautiful girl radiating charm; lifting her raised head up from the field she was suffused with the bounty of heaven. Sheep and Grain had a radiant appearance.
+
+@(54 = 54-64) They brought wealth to the assembly. They brought sustenance to the Land. They fulfilled the ordinances of the gods. They filled the storerooms of the Land with stock. The barns of the Land were heavy with them. When they entered the homes of the poor who crouch in the dust they brought wealth. Both of them, wherever they directed their steps, added to the riches of the household with their weight. Where they stood, they were satisfying; where they settled, they were seemly. They gladdened the heart of @wDN{An} and the heart of @wDN{Enlil}.
+
+@(65 = 65-70) They drank sweet wine, they enjoyed sweet beer. When they had drunk sweet wine and enjoyed sweet beer, they started a quarrel concerning the arable fields, they began a debate in the dining hall.
+
+@(71 = 71-82) Grain called out to Sheep: @q[Grain,Sheep]{“Sister, I am your better; I take precedence over you. I am the glory of the lights of the Land. I grant my power to the @fsux{saŋursaŋ}@noteref{a member of the cultic personnel of @wDN{Inana}} -- he fills the palace with awe and people spread his fame to the borders of the Land. I am the gift of the @wDN{Anuna} gods. I am central to all princes. After I have conferred my power on the warrior, when he goes to war he knows no fear, he knows no faltering (?) -- I make him leave …… as if to the playing field.”}
+
+@(83 = 83-91) @q{“I foster neighbourliness and friendliness. I sort out quarrels started between neighbours. When I come upon a captive youth and give him his destiny, he forgets his despondent heart and I release his fetters and shackles. I am @wDN{Ezina-Kusu}@noteref{Grain}; I am @wDN{Enlil's} daughter. In sheep shacks and milking pens scattered on the high plain, what can you put against me? Answer me what you can reply!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t532.q1 t532.q2
+#etcsl#linkGrpc
+
+@(92 = 92-101) Thereupon Sheep answered Grain: @q[Sheep,Grain]{“My sister, whatever are you saying? @wDN{An}, king of the gods, made me descend from the holy place, my most precious place. All the yarns of @wDN{Uttu}, the splendour of kingship, belong to me. @wDN{Šakkan}, king of the mountain, embosses the king's emblems and puts his implements in order. He twists a giant rope against the great peaks of the rebel land. He …… the sling, the quiver and the longbows.”}
+
+@(102 = 102-106) @q{“The watch over the élite troops is mine. Sustenance of the workers in the field is mine: the waterskin of cool water and the sandals are mine. Sweet oil, the fragrance of the gods, mixed (?) oil, pressed oil, aromatic oil, cedar oil for offerings are mine.”}
+
+@(107 = 107-115) @q{“In the gown, my cloth of white wool, the king rejoices on his throne. My body glistens on the flesh of the great gods. After the purification priests, the @fsux{pašeš} priests and the bathed priests have dressed themselves in me for my holy lustration, I walk with them to my holy meal. But your harrow, ploughshare, binding and strap are tools that can be utterly destroyed. What can you put against me? Answer me what you can reply!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t532.q3 t532.q4 t532.q5
+#etcsl#linkGrpc
+
+@(116 = 116-122) Again Grain addressed Sheep: @q[Grain,Sheep]{“When the beer dough has been carefully prepared in the oven, and the mash tended in the oven, @wDN{Ninkasi}@noteref{the goddess of beer} mixes them for me while your big billy-goats and rams are despatched for my banquets. On their thick legs they are made to stand separate from my produce.”}
+
+@(123 = 123-129) @q{“Your shepherd on the high plain eyes my produce enviously; when I am standing in stalks in the field, my farmer chases away your herdsman with his cudgel. Even when they look out for you, from the open country to the hidden places, your fears are not removed from you: fanged (?) snakes and bandits, the creatures of the desert, want your life on the high plain.”}
+
+@(130 = 130-142) @q{“Every night your count is made and your tally-stick put into the ground, so your herdsman can tell people how many ewes there are and how many young lambs, and how many goats and how many young kids. When gentle winds blow through the city and strong winds scatter, they build a milking pen for you; but when gentle winds blow through the city and strong winds scatter, I stand up as an equal to @wDN{Iškur}@noteref{the god of storms}. I am Grain, I am born for the warrior -- I do not give up. The churn, the vat on legs (?), the adornments of shepherding, make up your properties. What can you put against me? Answer me what you can reply!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t532.q6 t532.q7 t532.q8
+#etcsl#linkGrpc
+
+@(143 = 143-155) Again Sheep answered Grain: @q[Sheep,Grain]{“You, like holy @wDN{Inana} of heaven, love horses. When a banished enemy, a slave from the mountains or a labourer with a poor wife and small children comes, bound with his rope of one cubit, to the threshing-floor or is taken away from (?) the threshing-floor, when his cudgel pounds your face, pounds your mouth, like crushed …… your ears (?) ……, and you are …… around by the south wind and the north wind. The mortar ……. As if it were pumice (?) it makes your body into flour.”}
+
+@(156 = 156-168) @q{“When you fill the trough the baker's assistant mixes you and throws you on the floor, and the baker's girl flattens you out broadly. You are put into the oven and you are taken out of the oven. When you are put on the table I am before you -- you are behind me. Grain, heed yourself! You too, just like me, are meant to be eaten. At the inspection of your essence, why should it be I who come second? Is the miller not evil? What can you put against me? Answer me what you can reply!”}
+
+#etcsl#linkGrpo
+#etcsl#link type=q t532.q9 t532.q10
+#etcsl#linkGrpc
+
+@(169 = 169-179) Then Grain was hurt in her pride, and hastened for the verdict. Grain answered Sheep: @q[Grain,Sheep]{“As for you, @wDN{Iškur} is your master, @wDN{Šakkan} your herdsman, and the dry land your bed. Like fire beaten down (?) in houses and in fields, like small flying birds chased from the door of a house, you are turned into the lame and the weak of the Land. Should I really bow my neck before you? You are distributed into various measuring-containers. When your innards are taken away by the people in the market-place, and when your neck is wrapped with your very own loincloth, one man says to another: @q{“Fill the measuring-container with Grain for my ewe!.”}”}
+
+@(180 = 180-191) Then @wDN{Enki} spoke to @wDN{Enlil}: @q[Enki,Enlil]{“Father @wDN{Enlil}, Sheep and Grain should be sisters! They should stand together! Of their threefold metal …… shall not cease. But of the two, Grain shall be the greater. Let Sheep fall on her knees before Grain. Let her kiss the feet of ……. From sunrise till sunset, may the name of Grain be praised. People should submit to the yoke of Grain. Whoever has silver, whoever has jewels, whoever has cattle, whoever has sheep shall take a seat at the gate of whoever has grain, and pass his time there.”}
+
+@(192 = 192-193) Dispute spoken between Sheep and Grain: Sheep is left behind and Grain comes forward -- praise be to Father @wDN{Enki}!
+
+
+

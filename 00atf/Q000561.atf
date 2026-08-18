@@ -1,0 +1,219 @@
+&Q000561 = Letter from Aba-indasa to Šulgi about his neglect
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.21
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.21&display=Crit&charenc=gcirc#
+
+1. lugal-ŋu₁₀-ra u₃-na-dug₄
+#lem: lugal[king]; dug[speak]
+#etcsl: line-id=1
+
+2. maš₂ hur-saŋ-ŋa₂ a₂ sag₉-sag₉-ŋu₁₀
+#lem: maš[goat]; hursaŋ[mountain]; a[arm]; sag[good]
+#etcsl: line-id=2
+
+3. anše-kur hur-saŋ-ŋa₂ umbin hu-ri₂-in{mušen}-na
+#lem: sisi[horse]; hursaŋ[mountain]; umbin[finger]; hurin[eagle]
+#etcsl: line-id=3
+
+4. {ŋiš}ŋišnimbar ki sikil-e mu₂-a zu₂-lum {na₄}za-gin₃ la₂-ŋu₁₀-ur₂
+#lem: ŋešnimbar[date-palm]; ki[place]; sikil[pure]; mu[grow]; zulum[the fruit of the date-palm]; zagin[lapis lazuli]; la[hang]
+#etcsl: line-id=4
+
+5. u₃-ne-de₃-tah
+#lem: tah[add]
+#etcsl: line-id=5
+
+6. {m}a-ba-in-da-sa₂ ugula (1:erin₂:1) zu₂ keše₂
+#lem: Abaindasa[1]PN; ugula[overseer]; erin[people]; zu[tooth]; kešed[bind]
+#etcsl: line-id=6
+
+:6v.1.1: ($2 mss. have instead:$) aga-us₂
+#lem: agaʾus[professional soldier]
+
+7. šuduₓ(|KA.ŠU|){ud} lugal-la-na-ta šag₄ lugal-la-na dug₃-dug₃-ge-ra
+#lem: šud[prayer]; lugal[king]; šag[heart]; lugal[king]; dug[good]
+#etcsl: line-id=7
+
+8. arad₂-zu na-ab-be₂-a
+#lem: arad[slave]; e[speak]
+#etcsl: line-id=8
+
+9. kalag-ga-me-en (1:lugal-ŋu₁₀ ga-ab-us₂:1)
+#lem: kalag[strong]; lugal[king]; us[accompany]
+#etcsl: line-id=9
+
+:9v.1.1: ($1 ms. has instead:$) aga-us₂-zu he₂-me-en
+#lem: agaʾus[professional soldier]; me[be]
+
+10. (1:inim-ma-zu ra-gaba-zu he₂-me-en:1)
+#lem: inim[word]; ragaba[rider]; me[be]
+#etcsl: line-id=10
+
+:10v.1.1: ($1 ms. has instead:$) igi tuku igi-ni-še₃ ga-gub
+#lem: igi[eye]; tuku[acquire]; igi[eye]; gub[stand]
+
+11. {ŋiš}ma₂ gub-ba {ŋiš}ŋisal mu-un-sig₁₀-ge
+#lem: ma[ship]; gub[stand]; ŋisal[rudder]; sig[put into]
+#etcsl: line-id=11
+
+12. (1:a gub-ba:1) a mu-un-da-ak-e
+#lem: a[water]; gub[stand]; a[water]; ak[do]
+#etcsl: line-id=12
+
+:12v.1.1: ($1 ms. has instead:$) a-a gub-ba
+#lem: aya[father]; gub[stand]
+
+@variants
+
+@variants
+
+#etcsl#ms 2 mss. add 1 line:
+12A. dumu gub#-ba še mu-un-sig₁₀-ge
+#lem: dumu[child]; gub[stand]; še[barley]; sig[put into]
+#etcsl: line-id=12A
+
+@variant
+
+#etcsl#ms 1 ms. adds instead the line:
+12B. [...] X X mu-un-zalag-ge
+#lem: X; X; X; zalag[bright]
+#etcsl: line-id=12B
+
+@endvariants
+@endvariants
+13. tum₉ gub-ba (1:še mu-un-da-la₂-e:1)
+#lem: tumu[wind]; gub[stand]; še[barley]; la[hang]
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) IM mu-da-ak-e
+#lem: X; ak[do]
+
+14. dub-sar-me-en na-du₃-a ab-sar-re-en
+#lem: dubsar[scribe]; narua[stele]; sar[write]
+#etcsl: line-id=14
+
+@variants
+
+#etcsl#ms 2 mss. add 1 line:
+14A. inim ugnim-ma mu#-[...]
+#lem: inim[word]; ugnim[army]; X
+#etcsl: line-id=14A
+
+@endvariants
+15. inim pu-uh₂-ru-um-ma šub-ba ed₃-de₃!-bi mu-un-da-sig₁₀-ge
+#lem: inim[word]; puhrum[assembly]; šub[fall]; ed[go up]; sig[put into]
+#etcsl: line-id=15
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+15A. inim sag₉-ge gaba-ri X [...]
+#lem: inim[word]; sag[good]; gabari[equal]; X; X
+#etcsl: line-id=15A
+
+@endvariants
+16. ŋiš-gin₇ {ŋiš}tir-ŋa₂ mu-un-du₃-nam mu-dur₇-re im-gam-e
+#lem: ŋeš[tree]; tir[forest]; du[build]; mudur[dirt]; gurum[bend]
+#etcsl: line-id=16
+
+17. {ŋiš}gu-za-ŋa₂ lu₂ mu-un-da-la₂-a šu-ŋu₁₀ eš₂ im-ma-an-la₂
+#lem: guza[chair]; lu[person]; la[hang]; šu[hand]; eš[rope]; la[hang]
+#etcsl: line-id=17
+
+18. iri-ŋa₂ tug₂! dan₆-na-a mu-ni-mur₁₀-ra tug₂-mu-dur₇-ra ba-an-mur₁₀
+#lem: iri[city]; tug[textile]; dan[pure]; mur[dress]; tugmudura[mourning garment]; mur[dress]
+#etcsl: line-id=18
+
+19. lag-e a mi-ni-in-tu₅-a sahar igi-ŋa₂ ba-e-DU
+#lem: lag[clod (of earth)]; a[water]; tu[cvve]; sahar[soil]; igi[eye]; X
+#etcsl: line-id=19
+
+20. ur-e ad₆ ib₂-gu₇ gaba-bi ib₂-zi-zi
+#lem: ur[dog]; adda[corpse]; gu[eat]; gaba[breast]; zig[rise]
+#etcsl: line-id=20
+
+21. ušumgal-e saŋ ŋiš ib₂-ra-ra ka-ta ab-taka₄ i₃-ib₂-taka₄
+#lem: ušumgal[great dragon]; saŋ[head]; ŋeš[tree]; rah[beat]; kag[mouth]; taka[set aside]; taka[set aside]
+#etcsl: line-id=21
+
+22. ŋiš-gi izi ib₂-gu₇ id₂ i₃-tuku-tuku
+#lem: ŋešgi[thicket]; izi[fire]; gu[eat]; id[river]; tuku[acquire]
+#etcsl: line-id=22
+
+23. {d}utu i₃ un-gu₇ ga un-gu₇ {ŋiš}banšur ukur₃-ra-še₃ šu-ni ib₂-ši-tum₃
+#lem: Utu[1]DN; i[oil]; gu[eat]; ga[milk]; gu[eat]; banšur[table]; ukur[poor]; šu[hand]; tum[bring]
+#etcsl: line-id=23
+
+@variants
+
+#etcsl#ms 1 ms. adds 2 lines:
+23A. zi-ŋu₁₀ ba-e-i! šu-ŋu₁₀ ha-za-a-ab
+#lem: zi[life]; e[bring out]; šu[hand]; haza[hold]
+#etcsl: line-id=23A
+
+23B. dumu nu-mu-un-su-me-en lu₂ en₃ tar-re la-ba-an-tuku
+#lem: dumu[child]; numunkuš[widow]; lu[person]; en[cvne]; tar[cut]; tuku[acquire]
+#etcsl: line-id=23B
+
+@endvariants
+24. ŋa₂-a me-na-am₃ šag₄ {d}šul-gi lugal-ŋa₂ ki-bi ha-ma-gi₄-gi₄
+#lem: ŋaʾe[I]; mena[when?]; šag[heart]; Šulgir[1]RN; lugal[king]; ki[place]; gi[turn]
+#etcsl: line-id=24
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+24A. lugal-ŋu₁₀ en₃-ŋu₁₀ he₂-tar-re ki ama-ŋu₁₀-še₃ he₂-em-mi-ib-gi₄-gi₄
+#lem: lugal[king]; en[cvne]; tar[cut]; ki[place]; ama[mother]; gi[turn]
+#etcsl: line-id=24A
+
+@endvariants
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-8) Say to my lord, and repeat to my kid of the mountains, with beautiful horns; to my horse of the mountains, with an eagle's claws; my date-palm, growing on untouched ground and with fresh (?) dates hanging from it: this is what the captain of pledged  @varh[t3121.v1]{troops } @vart[t3121.v2,t3121.v1]{@varn{2 mss. have instead:} soldiers }, @wPN{Aba-indasa} -- who, by means of prayers for his king, greatly pleases his king's heart -- your servant, says:
+
+#etcsl#altGrpo
+#etcsl#alt t3121.v1 t3121.v2
+#etcsl#altGrpc
+
+@(9 = 9-10) You are mighty,  @varh[t3121.v3]{my lord; I will follow you } @vart[t3121.v4,t3121.v3]{@varn{1 ms. has instead:} let me be your soldier }!  @varh[t3121.v5]{Let me be the courier of your business } @vart[t3121.v6,t3121.v5]{@varn{1 ms. has instead:} I will stand (?) before him attentively }!
+
+#etcsl#altGrpo
+#etcsl#alt t3121.v3 t3121.v4
+#etcsl#alt t3121.v5 t3121.v6
+#etcsl#altGrpc
+
+@(11 = 11-13) When a boat is available, I will steer (?) with the rudder;  @varh[t3121.v7]{when water is available } @vart[t3121.v8,t3121.v7]{@varn{1 ms. has instead:} when a father is available }, I will plunge in;  @vart[t3121.v9,t3121.v9]{@varn{2 mss. add:} when a son is available, I will thresh (?); }  @vart[t3121.v10,t3121.v10]{@varn{1 ms. adds:} …… I will make …… shiny; } when wind is available,  @varh[t3121.v11]{I will winnow } @vart[t3121.v12,t3121.v11]{@varn{1 ms. has instead:} I will …… }.
+
+#etcsl#altGrpo
+#etcsl#alt t3121.v7 t3121.v8
+#etcsl#alt t3121.v11 t3121.v12
+#etcsl#altGrpc
+
+@(14 = 14-15) I am a scribe and I write on stelae. @vart[t3121.v13,t3121.v13]{@varn{2 ms. add:} …… business concerning the troops. } I will …… business which has been neglected in the assembly, when it ……. @vart[t3121.v14,t3121.v14]{@varn{1 ms. adds:} …… business which makes good …… equal. }
+
+@(16 = 16-19) But like a tree planted in riverine thickets, I am bowed down in dirt. They have bound a rope around my hands, on my chair where they have tied me. In my city, where I would wear clean clothes, I am clothed instead in mourning dress. When I wash away clods of soil, dust still gets into my eyes.
+
+@(20 = 20-23) Dogs devour corpses, lifting their chests. When dragons kill, what is left from their mouths is put aside. Fire consumes reedbeds even though they have waterways. @wDN{Utu}, who eats butter, who eats cream, nevertheless touches the table of the poor. @vart[t3121.v15,t3121.v15]{@varn{1 ms. adds:} Grant me my life and hold my hands! I am a son of a widow, and I have no one to take care of me. }
+
+@(24 = 24) As for me, when will the heart of @wRN{Šulgi}, my lord, be restored to me? @vart[t3121.v16,t3121.v16]{@varn{1 ms. adds:} May my lord attend to me and restore me to my mother. }
+
+
+

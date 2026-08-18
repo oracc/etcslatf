@@ -1,0 +1,682 @@
+&Q000806 = Proverbs: collection 13
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.13
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.13&display=Crit&charenc=gcirc#
+
+@div proverb 13.1
+
+13.1.1. [...] an# ugu nam-lul-la nam [...]
+#lem: X; an[sky]; ugu[skull]; namlul[treachery]; nam[fate]; X
+#etcsl: line-id=13.1.1
+
+@end proverb
+
+@div proverb 13.2
+
+13.2.2. [...] nam#-lul-la ba-gu₇-gu₇ [...]
+#lem: X; namlul[treachery]; gu[eat]; X
+#etcsl: line-id=13.2.2
+
+@end proverb
+
+@div proverb 13.3
+
+13.3.3. lu₂-la-ga an-ši-ed₂-de₃ lu₂-lul-lul-la# [...]
+#lem: laga[thief]; e[leave]; lulul[liar]; X
+#etcsl: line-id=13.3.3
+
+@end proverb
+
+@div proverb 13.4
+
+13.4.4. lu₂-zuh-a lu₂ lu-ub₂{sar} ba-ab-dab₅-be₂-eš
+#lem: luzuha[thief]; lu[person]; lub[turnip]; dab[seize]
+#etcsl: line-id=13.4.4
+
+13.4.5. a-na-aš-am₃# [...] lul# nu-ub-[...] X
+#lem: anaš[why?]; X; lul[false]; X; X
+#etcsl: line-id=13.4.5
+
+@end proverb
+
+@div proverb 13.5
+
+13.5.6. lu₂-zuh-a ni₂ igi piriŋ-ŋa₂-ka
+#lem: luzuha[thief]; ni[fear]; igi[eye]; piriŋ[lion]
+#etcsl: line-id=13.5.6
+
+13.5.7. lu₂ [hub₂] sar-re ni₂ igi piriŋ-tur-[ra]-ka
+#lem: lu[person]; hub[foot]; sar[run]; ni[fear]; igi[eye]; piriŋtur[lion cub]
+#etcsl: line-id=13.5.7
+
+@end proverb
+
+@div proverb 13.6
+
+13.6.8. lu₂-zuh-a en-te-na-ka zag e₂-me-eš-a-ka mu-ni-in-bur₂
+#lem: luzuha[thief]; enten[winter]; zag[side]; emeš[summer]; bur[spread out]
+#etcsl: line-id=13.6.8
+
+@end proverb
+
+@div proverb 13.7
+
+13.7.9. lu₂-zuh-a an-bar₇-a igi mu-ni-in-du₈-uš
+#lem: luzuha[thief]; anbar[mid-day]; igi[eye]; du[spread]
+#etcsl: line-id=13.7.9
+
+13.7.10. KA ba-an-NE igi nu-mu-ni-in-du₈-uš ba-an-tum₃-e-še
+#lem: X; X; igi[eye]; du[spread]; tum[bring]
+#etcsl: line-id=13.7.10
+
+@end proverb
+
+@div proverb 13.8
+
+13.8.11. lu₂-zuh-a burudₓ(U)-burudₓ(U)-da i₃-in-sal-e
+#lem: luzuha[thief]; burud[perforate]; sal[thin]
+#etcsl: line-id=13.8.11
+
+@end proverb
+
+@div proverb 13.9
+
+13.9.12. lu₂-zuh-zuh-a ab lugal [e₂]-e-ke₄ he₂-eb-kal-la-ge-e-še
+#lem: luzuhzuha[thief]; ab[window]; lugal[king]; e[house]; kalag[strong]
+#etcsl: line-id=13.9.12
+
+@end proverb
+
+@div proverb 13.10
+
+13.10.13. lu₂-zuh e₂ burudₓ(U)-burudₓ(U)-da mu-ni-in-dab₅-be₂-eš
+#lem: luzuha[thief]; e[house]; burud[perforate]; dab[seize]
+#etcsl: line-id=13.10.13
+
+13.10.14. lu₂# X ur₃-ra-ka ga-mu-ni-in-us₂-e-še
+#lem: lu[person]; X; ur[roof]; us[accompany]
+#etcsl: line-id=13.10.14
+
+@end proverb
+
+@div proverb 13.11
+
+13.11.15. lu₂ huŋ-ŋa₂ {ŋiš}zi-gan šu an-še₃ zig₃#-ga
+#lem: lu[person]; huŋ[hire]; zigan[rudder]; šu[hand]; an[sky]; zig[rise]
+#etcsl: line-id=13.11.15
+
+13.11.16. ŋiš# al-degₓ(RI)-degₓ(RI)-ge# [X X]-ke₄ an-na-ab-be₂
+#lem: ŋeš[tree]; deg[gather up]; X; X; e[speak]
+#etcsl: line-id=13.11.16
+
+13.11.17. ma₂-saŋ-ŋa₂-ta# e-ra-ab-šum₂-mu
+#lem: masaŋ[prow]; šum[give]
+#etcsl: line-id=13.11.17
+
+13.11.18. ma₂-egir-ra-ta X ga-e-ra#-ab-šum₂-mu
+#lem: maʾegir[stern]; X; šum[give]
+#etcsl: line-id=13.11.18
+
+13.11.19. a-na-am₃ e-zu-e-še
+#lem: ana[what?]; zu[know]
+#etcsl: line-id=13.11.19
+
+@end proverb
+
+@div proverb 13.12
+
+13.12.20. a₂-il₂ kalag-ga lugal še-ke₄ bi₂-ib-ra-ra-e-[še]
+#lem: aʾil[laborer]; kalag[strong]; lugal[king]; še[barley]; rah[beat]
+#etcsl: line-id=13.12.20
+
+@end proverb
+
+@div proverb 13.13
+
+13.13.21. galam-e azag#-še₃ ama-ni nu-un-gu₇#
+#lem: galam[skilful]; azag[taboo]; ama[mother]; gu[eat]
+#etcsl: line-id=13.13.21
+
+@end proverb
+
+@div proverb 13.14
+
+13.14.22. galam-e ušur kaš-de₂ ak-ak#
+#lem: galam[skilful]; usar[(female) neighbor]; kašdea[banquet]; ak[do]
+#etcsl: line-id=13.14.22
+
+@end proverb
+
+@div proverb 13.15
+
+13.15.23. galam-e dab₅-ba-an-ze₂-en uŋ₃-bi#-še₃ sar-re#-en-ze₂-[en]
+#lem: galam[skilful]; dab[seize]; uŋ[people]; sar[run]
+#etcsl: line-id=13.15.23
+
+@end proverb
+
+@div proverb 13.16
+
+13.16.24. galam-e gu₂-un-bi mu-na-ni#-dugud
+#lem: galam[skilful]; gun[load]; dugud[heavy]
+#etcsl: line-id=13.16.24
+
+13.16.25. dug₃ min₃-kam-ma-ka# IG-e im-da#-sig-ge#
+#lem: dug[good]; n; X; sig[weak]
+#etcsl: line-id=13.16.25
+
+@end proverb
+
+@div proverb 13.17
+
+13.17.26. galam-e siki tab-ba-ni ba-ni-in#-keše₂#
+#lem: galam[skilful]; siki[hair]; tab[double]; kešed[bind]
+#etcsl: line-id=13.17.26
+
+13.17.27. dug i₃ li₂-ka-ni id₂-gin₇ u₃-bi₂#-in-[...]
+#lem: dug[(clay) pot]; i[oil]; li[press (oil)]; id[river]; X
+#etcsl: line-id=13.17.27
+
+@end proverb
+
+@div proverb 13.18
+
+13.18.28. galam-e niŋ₂-nam kug nam#-bi₂-la₂-e-[še]
+#lem: galam[skilful]; niŋnam[anything]; kug[metal]; la[hang]
+#etcsl: line-id=13.18.28
+
+@end proverb
+
+@div proverb 13.19
+
+13.19.29. galam-e šu gig X KA ba-an-[...]
+#lem: galam[skilful]; šu[hand]; gig[sick]; X; X; X
+#etcsl: line-id=13.19.29
+
+@end proverb
+
+@div proverb 13.20
+
+13.20.30. na₄ galam-e MAŠ-MAŠ giŋ₄ [...]
+#lem: na[stone weight]; galam[skilful]; n; giŋ[unit of weight]; X
+#etcsl: line-id=13.20.30
+
+@end proverb
+
+@div proverb 13.21
+
+13.21.31. ugu galam-e kalam-ma KA# mu-ni-in-DU
+#lem: ugu[skull]; galam[skilful]; kalam[the Land (of Sumer)]; X; X
+#etcsl: line-id=13.21.31
+
+13.21.32. u₃ e-ne galam-e ugu-na ZA bi₂-ib#-dug₄
+#lem: u[and]; ane[he]; galam[skilful]; ugu[skull]; X; dug[speak]
+#etcsl: line-id=13.21.32
+
+@end proverb
+
+@div proverb 13.22
+
+13.22.33. kud-ku₅-ra₂ ama-ni# na-ab-be₂-a
+#lem: kudkudra[disabled person]; ama[mother]; e[speak]
+#etcsl: line-id=13.22.33
+
+13.22.34. ki gu-za lu₂ i₃-nu₂ ŋiri₃-pad-ra₂-ni na-ab-sag₉#
+#lem: ki[place]; guza[chair]; lu[person]; nud[lie down]; ŋiripadra[bone]; sag[good]
+#etcsl: line-id=13.22.34
+
+13.22.35. ama-ni# na-ab-be₂-[a]
+#lem: ama[mother]; e[speak]
+#etcsl: line-id=13.22.35
+
+13.22.36. [a]-na-am₃ ni₂ te-ni-gin₇
+#lem: ana[what?]; ni[fear]; teŋ[approach]
+#etcsl: line-id=13.22.36
+
+13.22.37. hub₂ sar-re-zu igi u₃-bi₂-in-du₈-un-de₃-en-e-še
+#lem: hub[foot]; sar[run]; igi[eye]; du[spread]
+#etcsl: line-id=13.22.37
+
+@end proverb
+
+@div proverb 13.23
+
+13.23.38. kud-ku₅-ra₂ lu₂-kaš₄-e igi u₃-bi₂-in-du₈
+#lem: kudkudra[disabled person]; kaš[runner]; igi[eye]; du[spread]
+#etcsl: line-id=13.23.38
+
+13.23.39. erin₂ u₂-gu de₂-a me-še₃-am₃ i₃-re₇-eš-am₃-e-še#
+#lem: erin[people]; ugu[cvne]; de[pour]; meše[where to? whither?]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=13.23.39
+
+@end proverb
+
+@div proverb 13.24
+
+13.24.40. kud-ku₅-ra₂ na-ab-be₂-a ŋiri₃-ŋu₁₀ ŋen-na-ab-ze₂-en-e-še
+#lem: kudkudra[disabled person]; e[speak]; ŋiri[foot]; ŋen[go]
+#etcsl: line-id=13.24.40
+
+@end proverb
+
+@div proverb 13.25
+
+13.25.41. kud-ku₅-ra₂ a₂-ki-te-a kaš₄ di bi₂-e₃ lu₂ na-ab-be₂#-[a]
+#lem: kudkudra[disabled person]; akiti[festival at new year]; kaš[run]; di[speak]; e[leave]; lu[person]; e[speak]
+#etcsl: line-id=13.25.41
+
+13.25.42. en-na nam-kud-ku₅-ra₂-zu# nu-ub-da-ak-e-[še]
+#lem: enna[until]; namkudkudra[lameness]; ak[do]
+#etcsl: line-id=13.25.42
+
+@end proverb
+
+@div proverb 13.26
+
+13.26.43. dug₃ {kuš#}e-sir₂-bi u₂-gu# i-ni-in-de₂
+#lem: dug[good]; esir[sandal(s)]; ugu[cvne]; de[pour]
+#etcsl: line-id=13.26.43
+
+13.26.44. lu₂ šu ti-a-bi# me-še₃-am₃ ab-tum₂-mu ŋe₂₆-še₃ X [...]
+#lem: lu[person]; šu[hand]; teŋ[approach]; meše[where to? whither?]; tum[bring]; ŋaʾe[I]; X; X
+#etcsl: line-id=13.26.44
+
+@end proverb
+
+@div proverb 13.27
+
+13.27.45. ziₓ(IGI@g)-a 1/3 ma-na X
+#lem: ziʾa[blinded worker]; n; mana[unit of weight]; X
+#etcsl: line-id=13.27.45
+
+#etcsl#cf cf. 6.2.1: Ni 13186 Seg. A ll. 7-8
+
+13.27.46. lu₂ šu gid₂-i-ni MAŠ ma-[na ...] X
+#lem: lu[person]; šu[hand]; gid[long]; n; mana[unit of weight]; X; X
+#etcsl: line-id=13.27.46
+
+@end proverb
+
+@div proverb 13.28
+
+13.28.47. ziₓ(IGI@g)-a %e uru₂ %s bar-ra-še₃ er₂ al-ŋa₂-ŋa₂-ne
+#lem: ziʾa[blinded worker]; uru[city]; bar[outside]; er[tears]; ŋar[put]
+#etcsl: line-id=13.28.47
+
+13.28.48. lu₂ u₃-bi₂-in-us₂ kaskal MAŠ-a-ka ud-ne-ne ba-ni-[X X]
+#lem: lu[person]; us[accompany]; kaskal[way]; n; ud[sun]; X; X
+#etcsl: line-id=13.28.48
+
+13.28.49. [...] X lu₂ šu gid₂-i-ni an-na-ab-be₂ ki mu-e-re-ŋen-na MU X [...]
+#lem: X; X; lu[person]; šu[hand]; gid[long]; e[speak]; ki[place]; ŋen[go]; X; X; X
+#etcsl: line-id=13.28.49
+
+@end proverb
+
+@div proverb 13.29
+
+@variants
+
+#etcsl#cf cf. 6.1.09.d3, 6.1.19.e3, 6.2.3: UET 6/3 464 l. 3
+13.29.50. [...] X u₃-um-ŋen šu# ša#-an-ša-ša-da šu# [...]
+#lem: X; X; ŋen[go]; šu[hand]; šanšaša[cvve]; šu[hand]; X
+#etcsl: line-id=13.29.50
+
+13.29.51. [...]-bi NUNUZ mušen X mu-u₈-gur mu-u₈-X [...]
+#lem: X; X; mušen[bird]; X; gur[turn]; X; X
+#etcsl: line-id=13.29.51
+
+13.29.A. [šu-ni] bid₃-da ba-ni-gid₂ nam#-tag#-ga# A KA A X [...]-bi
+#lem: šu[hand]; bed[anus]; gid[long]; namtaga[sin]; X; X; X; X; X
+#etcsl: line-id=13.29.52
+
+@variant
+
+#etcsl#ms instead of lines 50-52, 1 ms. has:
+A. [...] BA# RA NI [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=13.29.A
+
+@endvariants
+@end proverb
+
+@div proverb 13.30
+
+13.30.53. [...] X X NE MU
+#lem: X; X; X; X; X
+#etcsl: line-id=13.30.53
+
+@end proverb
+
+@div proverb 13.31
+
+13.31.54. [...] X-bi lib₄-lib₄-ba-ŋu₁₀-da mu-da-X [...]
+#lem: X; X; lib[daze]; X; X
+#etcsl: line-id=13.31.54
+
+13.31.55. [...] X-ni ma-da ba-ni-ib-X-X-bi a sed₄ X [...]
+#lem: X; X; mada[land]; X; a[water]; sed[cool]; X; X
+#etcsl: line-id=13.31.55
+
+@end proverb
+
+@div proverb 13.32
+
+13.32.56. [...] X X X NE MU X [...] X [...]
+#lem: X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=13.32.56
+
+@end proverb
+
+@div proverb 13.33
+
+13.33.57. [...]-a# na₄# UR₂# AB# TE-TE# mu-e-ne-mur₁₀# [...]
+#lem: X; na[stone weight]; X; X; X; mur[dress]; X
+#etcsl: line-id=13.33.57
+
+@end proverb
+
+@div proverb 13.34
+
+13.34.58. [...] bur₁₂#-ra-gin₇ a uru₂-ke₄ gu₃ al-de₂-de₂-[e]
+#lem: X; bur[tear out]; a[water]; uru[flood]; gu[voice]; de[pour]
+#etcsl: line-id=13.34.58
+
+@end proverb
+
+@div proverb 13.35
+
+13.35.59. (1:[...]-e ni₂ nu-mu-ni-te:1) a-na-am₃ iri bar-ra a₂ dur₂-zu-e-še
+#lem: X; ni[fear]; teŋ[approach]; ana[what?]; iri[city]; bar[outside]; a[arm]; dur[buttocks]
+#etcsl: line-id=13.35.59
+
+:59v.1.1: ($1 ms. has instead:$) [...] X E LAG mu-ni-ib₂-gi₄
+#lem: X; X; X; X; gi[turn]
+
+@end proverb
+
+@div proverb 13.36
+
+13.36.60. [...] X-e iri{ki} ŋa₂-ŋa₂ u₃ ŋe₂₆-e he₂-em lu₂ na-me# he₂-em-[e-še]
+#lem: X; X; iri[city]; ŋar[put]; u[and]; ŋaʾe[I]; me[be]; lu[person]; name[any]; me[be]
+#etcsl: line-id=13.36.60
+
+@end proverb
+
+@div proverb 13.37
+
+13.37.61. [X X] X bar-me-en a-ba mu-da-gu₇-en HAR-ra#-me-en a-ba ma-ni-ib-sag₉-sag₉-e-[še]
+#lem: X; X; X; bar[place outside]; aba[who?]; gu[eat]; X; aba[who?]; sag[good]
+#etcsl: line-id=13.37.61
+
+@end proverb
+
+@div proverb 13.38
+
+13.38.62. {[gi]}[kid]-ma₂#-šu₂-a-gin₇ du₆-da en₃ ab-tar-tar-re-en
+#lem: kidmašua[reed mat]; dud[(ruin) mound]; en[cvne]; tar[cut]
+#etcsl: line-id=13.38.62
+
+@end proverb
+
+@div proverb 13.39
+
+13.39.63. [...] X hub₂-bi-gin₇ igi lu₂-dun-a-za-ka ti nu-mu-ni-ib₂-bal-e-en
+#lem: X; X; hubi[acrobat]; igi[eye]; luduna[ward]; ti[rib]; bala[turn]
+#etcsl: line-id=13.39.63
+
+@end proverb
+
+@div proverb 13.40
+
+13.40.64. lu₂#-zuh-a-gin₇ ni₂-zu ŋarza₂-še₃ i₃-ŋa₂-ŋa₂-an
+#lem: luzuha[thief]; ni[self]; ŋarza[rites]; ŋar[put]
+#etcsl: line-id=13.40.64
+
+@end proverb
+
+@div proverb 13.41
+
+13.41.65. lu₂-gub-ba# e₂ lu₂-še₃ in-kur₉-ma dam-ba nitah-am₃ ib₂-tu-ud
+#lem: luguba[ecstatic]; e[house]; lu[person]; kur[enter]; dam[spouse]; nita[male]; utud[give birth (to)]
+#etcsl: line-id=13.41.65
+
+13.41.66. sun₇#-na ed₂-da-ni-ta dumu dag-gi₄-a-še₃ an-na-ab-be₂ munus-e ib₂-tu-ud
+#lem: sun[authoritative]; e[leave]; dumu[child]; daggi[city quarter]; e[speak]; munus[woman]; utud[give birth (to)]
+#etcsl: line-id=13.41.66
+
+13.41.67. ud dam-ba# nitah# ib₂-tu-ud-da dumu dag-gi₄-[a]-še₃# u₃-bi₂-dug₄
+#lem: ud[sun]; dam[spouse]; nita[male]; utud[give birth (to)]; dumu[child]; daggi[city quarter]; dug[speak]
+#etcsl: line-id=13.41.67
+
+13.41.68. mu kug-zu nu-hul-hul X X NE E e-ra-dug₄-e-še
+#lem: mu[name]; kug[pure]; hulu[bad]; X; X; X; X; dug[speak]
+#etcsl: line-id=13.41.68
+
+@end proverb
+
+@div proverb 13.42
+
+13.42.69. lu₂-gub-ba kan₄ {d}inana-ka u₃-bi₂-in-gub
+#lem: luguba[ecstatic]; kan[gate]; Inanak[1]DN; gub[stand]
+#etcsl: line-id=13.42.69
+
+13.42.70. dumu-munus-a-ni erin₂-na an-na-ab-be₂
+#lem: dumumunus[daughter]; erin[people]; e[speak]
+#etcsl: line-id=13.42.70
+
+13.42.71. inim# ama-ŋu₁₀ lul-aš gen₆-na-am₃#-e-še
+#lem: inim[word]; ama[mother]; lul[false]; gin[confirm]
+#etcsl: line-id=13.42.71
+
+@end proverb
+
+@div proverb 13.43
+
+13.43.72. lu₂-gub-ba-me-en u₃ KID-zu en₃ bi₂#-tar-re-en
+#lem: luguba[ecstatic]; u[and]; X; en[cvne]; tar[cut]
+#etcsl: line-id=13.43.72
+
+@end proverb
+
+@div proverb 13.44
+
+13.44.73. [...] tug₂ u₂-gu mu-ni-in-de₂
+#lem: X; tug[textile]; ugu[cvne]; de[pour]
+#etcsl: line-id=13.44.73
+
+13.44.74. {tug₂}niŋ₂#-dara₂# ne-en nu-ub-gu-ul
+#lem: niŋdara[rag]; nen[this]; gal[big]
+#etcsl: line-id=13.44.74
+
+13.44.75. [X X] X-ke₄ an-na-ab-be₂
+#lem: X; X; X; e[speak]
+#etcsl: line-id=13.44.75
+
+13.44.76. nam-erim₂ [...] X-ku₅-ru-de₃-en-na
+#lem: namerim[oath]; X; kud[cut]
+#etcsl: line-id=13.44.76
+
+13.44.77. [...] in-nu {tug₂}niŋ₂-dara₂ dug₄-ga-ab-e-še
+#lem: X; nu[not]; niŋdara[rag]; dug[speak]
+#etcsl: line-id=13.44.77
+
+@end proverb
+
+@div proverb 13.45
+
+13.45.78. [...] kal-la-gin₇ aŋ₂-ŋa₂ e₂-e-ke₄ i₃-ŋa₂-ŋa₂-an
+#lem: X; kal[rare]; aŋ[measure]; e[house]; ŋar[put]
+#etcsl: line-id=13.45.78
+
+@end proverb
+
+@div proverb 13.46
+
+13.46.79. [...] DUG-bi inim am₃-ŋar
+#lem: X; X; inim[word]; ŋar[put]
+#etcsl: line-id=13.46.79
+
+13.46.80. lu₂ zag tag-ke₄-ne a-na-aš-am₃ DUG-ba inim am₃-ŋar
+#lem: lu[person]; zag[side]; tag[touch]; anaš[why?]; X; inim[word]; ŋar[put]
+#etcsl: line-id=13.46.80
+
+13.46.81. [...] an-ne-eš lu₂ kalag-ga-zu-ne-ne-a ŋešba₂-še₃ he₂-en-ma-an-zi-zi-zi-e-še
+#lem: X; an[sky]; lu[person]; kalag[strong]; ŋešba[boxer]; zig[rise]
+#etcsl: line-id=13.46.81
+
+@end proverb
+
+@div proverb 13.47
+
+13.47.82. [X X] X id₂ kaskal he₂-en-na-til iri-še₃-am₃ mu-ni-ib-gid₂-i-de₃
+#lem: X; X; X; id[river]; kaskal[way]; til[complete]; iri[city]; gid[long]
+#etcsl: line-id=13.47.82
+
+@end proverb
+
+@div proverb 13.48
+
+13.48.83. dumu# {lu₂#}nu-{ŋiš}kiri₆-ke₄-ne u₃-mu-un-sar-re-eš
+#lem: dumu[child]; nukirik[gardener]; sar[run]
+#etcsl: line-id=13.48.83
+
+13.48.84. 1(DIŠ)-am₃ ki ba-an-gub 1(DIŠ)-am₃ sag₉-sag₉-da gu₇#
+#lem: n; ki[place]; gub[stand]; n; sag[good]; gu[eat]
+#etcsl: line-id=13.48.84
+
+13.48.85. lu₂ ŋiš-a ba-da-an-gub-ba huŋ-ŋa₂ nu-e₃
+#lem: lu[person]; ŋeš[tree]; gub[stand]; huŋ[hire]; e[leave]
+#etcsl: line-id=13.48.85
+
+13.48.86. ni₂-ta en-na# ŋe₂₆-e im-ši-ed₃-de₃
+#lem: ni[fear]; enna[until]; ŋaʾe[I]; ed[go up]
+#etcsl: line-id=13.48.86
+
+13.48.87. lu₂ igi-za-ke₄-ne u₃ ŋe₂₆-e ga-mu-e-ši-ed₃-de₃
+#lem: lu[person]; igi[eye]; u[and]; ŋaʾe[I]; ed[go up]
+#etcsl: line-id=13.48.87
+
+13.48.88. lu₂ gub dab₅-ba# an-na-ab-be₂
+#lem: lu[person]; gub[stand]; dab[seize]; e[speak]
+#etcsl: line-id=13.48.88
+
+13.48.89. nam-giri₁₇-šu-du₃-a# sag₉#
+#lem: namkirišudua[homage]; sag[goodness]
+#etcsl: line-id=13.48.89
+
+13.48.90. e₂ ad-da-za-ka nu-šub-be₂-en-e-še
+#lem: e[house]; adda[father]; šub[fall]
+#etcsl: line-id=13.48.90
+
+@end proverb
+
+@div proverb 13.49
+
+13.49.91. e₂ ur₅-ra e₂ šag₄-ga nu-un-zalag
+#lem: e[house]; ura[interest-bearing loan]; e[house]; šag[heart]; zalag[bright]
+#etcsl: line-id=13.49.91
+
+@end proverb
+
+@div proverb 13.50
+
+13.50.92. e₂ ur₅-ra i-bi₂ he₂-em-ed₃-de₃
+#lem: e[house]; ura[interest-bearing loan]; ibi[smoke]; ed[go up]
+#etcsl: line-id=13.50.92
+
+@end proverb
+
+@div proverb 13.51
+
+13.51.93. e₂ ur₅-ra lugal-e mu-un-sar-re-eš
+#lem: e[house]; ura[interest-bearing loan]; lugal[king]; sar[run]
+#etcsl: line-id=13.51.93
+
+@end proverb
+
+@div proverb 13.52
+
+13.52.94. lu₂-IM kug ba-an-zuh lu₂ gen₆-na giŋ₄ mu-ni-in-ak-de₃
+#lem: lutumu[criminal]; kug[metal]; zuh[steal]; lu[person]; gin[confirm]; giŋ[unit of weight]; ak[do]
+#etcsl: line-id=13.52.94
+
+@end proverb
+
+@div proverb 13.53
+
+13.53.95. lu₂-IM banšur-zu-uš kur₉#-re-eš zi ba-an-ir-eš šu bi₂-ib-ur₃-ru-ne
+#lem: lutumu[criminal]; banšur[table]; kur[enter]; zi[life]; ir[cvve]; šu[hand]; ur[drag]
+#etcsl: line-id=13.53.95
+
+@end proverb
+
+@div proverb 13.54
+
+13.54.96. [lu₂]-IM im-gig al#-DU ma-da ha-lam-e-de₃ an-na#-[ab-be₂]
+#lem: lutumu[criminal]; gig[sick]; X; mada[land]; halam[forsake]; e[speak]
+#etcsl: line-id=13.54.96
+
+@end proverb
+
+@div proverb 13.55
+
+13.55.97. lu₂# X-ra mu-šub{ub}-ba ezen [...]
+#lem: lu[person]; X; šub[fall]; ezem[festival]; X
+#etcsl: line-id=13.55.97
+
+@end proverb
+
+@div proverb 13.56
+
+13.56.98. [...] X NAM X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=13.56.98
+
+@end proverb
+
+@div proverb 13.57
+
+13.57.99. gir₅-ra in-na-an-hul-le-eš
+#lem: gir[stranger]; hulu[bad]
+#etcsl: line-id=13.57.99
+
+13.57.100. X MU kan₄-na a-ab-[...]-ke₄#
+#lem: X; X; kan[gate]; X
+#etcsl: line-id=13.57.100
+
+13.57.101. niŋ₂-gig {[d]}[nin]-urta#-am₃
+#lem: niŋgig[evil]; Ninurtak[1]DN
+#etcsl: line-id=13.57.101
+
+@end proverb
+
+@div proverb 13.58
+
+13.58.102. [...] NE A lu₂ X X-na-ka teš₂-ba [X X] X-re# dumu-ni KA [...]-na
+#lem: X; X; X; lu[person]; X; X; teš[unity]; X; X; X; dumu[child]; X; X
+#etcsl: line-id=13.58.102
+
+@end proverb
+
+@div proverb 13.59
+
+13.59.103. X [...]-ri-ri a₂-ni u₂-gu de₂# [...]
+#lem: X; ri[impose]; a[arm]; ugu[cvne]; de[pour]; X
+#etcsl: line-id=13.59.103
+
+13.59.104. [...] RI lu₂-zuh-a ba-[...]
+#lem: X; X; luzuha[thief]; X
+#etcsl: line-id=13.59.104
+
+@end proverb
+
+
+
+
+
+
+

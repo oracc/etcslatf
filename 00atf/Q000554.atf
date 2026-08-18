@@ -1,0 +1,166 @@
+&Q000554 = Letter from Šulgi to Išbi-Erra about the purchase of grain
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.13.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.13.2&display=Crit&charenc=gcirc#
+
+1. {m}iš-bi₂-{d}er₃-ra-a₂-ra mu-un-ne-du
+#lem: Išbierra[1]RN; dug[speak]
+#etcsl: line-id=1
+
+2. šul-gi lu₂-gal-zu₂ na-ap-pa-a
+#lem: Šulgir[1]RN; lugal[king]; e[speak]
+#etcsl: line-id=2
+
+3. inim me-e-ga-na %s u₂-ud-ki-im me-e-hu-lu {{%akk a-na a-wa-at ta-aš-pu-ra da-an-ni-iš ah-<du>}}
+#lem: inim[word]; niŋnam[anything]; ur[that]; hul[rejoice]; L; L; L; L; L
+#etcsl: line-id=3
+
+### niŋnam perhaps better niŋ ana
+
+4. e#-me-du di-ik-ki-nam mi-in-na na-ar-ra a-ba ma!-an-šu {{%akk IR₃ ša₃ ki-ma ka-<ta> ta-ak-lu!(KU) ia-a-ši₂ ma-an-nu i-na-an-di-na}}
+#lem: amaʾatud[house-born slave]; zaʾe[you]; me[be]; ŋaʾe[I]; aba[who?]; šum[give]; L; L; L; L; L; L; L; L
+#etcsl: line-id=4
+
+5. a-am-ga lu-ga-al-be šu zi-im ga-ra a-ba ab-tu-ku-e-še {{%akk le-e-a ša₃ a-na be-li-šu šu-ud-mu-qu₂ ma-an-nu i-šu-uš}}
+#lem: aŋal[strong]; lugal[king]; šu[hand]; zig[rise]; ŋar[put]; aba[who?]; tuku[acquire]; L; L; L; L; L; L; L
+#etcsl: line-id=5
+
+6. ne-e-še niŋ₂ a-na mu-ši-iq-qa-an-gu {{%akk i-na-an-na mi-im-ma ša ta-aš-pu-ra}}
+#lem: ineš[now]; niŋ[thing]; ana[what?]; gi[turn]; L; L; L; L
+#etcsl: line-id=6
+
+7. ŋiš-ki-im li-ig-in-ne u₂-gu-zi-eš-še me-e-ra-am-gi {{%akk u₃!-ul e-gi ŠE₃ EDIN-ka aṭ-ṭa₂-ar-da}}
+#lem: ŋeškim[sign]; gin[confirm]; ugu[skull]; gi[turn]; L; L; L; L; L
+#etcsl: line-id=7
+
+8. ba-ba-tu pi-ša₃-ad-ba-ar-ra at-ta-at-ta e-eg-la-am-gu {{%akk ŠE₃ ba-ba-ti ša₃-an-da-ba-ak-ki}}
+#lem: Babati[1]PN; bisaŋdubak[archivist]; addaʾabba[grandfather]; ŋal[⟦be⟧ to be (there]; L; L; L
+#etcsl: line-id=8
+
+9. li-be-ra ad ki-ki ad ki-ki mu-un-da-a {{%akk la-be-ra mu-un-ta-al-ka ša₃ mi-it-lu-u₂-ka i-du-u₂}}
+#lem: libir[old]; ad[voice]; gi[turn]; ad[voice]; gi[turn]; zu[know]; L; L; L; L; L
+#etcsl: line-id=9
+
+10. un ge-eš-tu kub-babbar₂ un ge-eš-tu ku-us-ke-eš še mu-ra-ad-ka {{%akk ne-er GU₂.UN MA.NA KUG.BABBAR 60 GU₂.UN MA.NA KUG.SIG₁₇ uš-te-bi-la-ak-ku}}
+#lem: gun[load]; n; kugbabbar[silver]; gun[load]; n; kugsig[gold]; sa[equal]; dug[speak]; L; L; L; L; n; L; L; L; L
+#etcsl: line-id=10
+
+11. mu mu-nu-ut-ku we-egir mi-na-an-gu šu mu-un-te-em-ga im-ma-ši-im-gi {{%akk aš-šu mu-nu-ut-ke-e ša₃ eger um-ma-ni-ia il-qa-am-ma it-ta-al-ka-ak-ku}}
+#lem: mu[name]; tuku[acquire]; egir[back]; ugnim[army]; šu[hand]; teŋ[approach]; gi[turn]; L; L; L; L; L; L; L
+#etcsl: line-id=11
+
+12. u₂-mu-uš eri-na-ak-ke u₂-gu-uz-ze-eš-še me-e-ra-am-gi {{%akk ṭe₄-mi um-ma-ni-ia ŠE₃ ṣe₂-ri-ka tu-ur₂-ku}}
+#lem: umuš[consideration]; erin[people]; ugu[skull]; gi[turn]; L; L; L; L; L
+#etcsl: line-id=12
+
+13. e-ne-er-ra šu-mu-un-na ni-ig-na-ma-an-ne ak-ka-a {{%akk a-na ša₃-šu i-di-iš-šu-um-ma ša₃ qa-be-šu DIM₂-uš}}
+#lem: ane[he]; šum[give]; niŋnam[anything]; ak[do]; L; L; L; L; L; L
+#etcsl: line-id=13
+
+14. e-ma-ru-uk-ka %e ša₃-ap-pi %s hu-un na-an-gi-ga {{%akk ap-pu-tu ŠA₃-šu la i-ma-ra-aṣ-ku}}
+#lem: amaru[flood]; šab[heart]N; hulu[bad]; gig[sick]; L; L; L; L
+#etcsl: line-id=14
+
+15. u₂ za-e ku₃-ud-ki kub-babbar₂ zu-un-ne-et-ta šu-u₂ zi-ba-ab {{%akk u₃ at-ta |KUG.BABBAR| u₃ |KUG.SIG₁₇| ša₃ ŠU-šu le-qe₂-ma}}
+#lem: u[and]; zaʾe[you]; kugsig[gold]; kugbabbar[silver]; šu[hand]; šu[hand]; teŋ[approach]; L; L; L; L; L; L; L; L
+#etcsl: line-id=15
+
+16. ganba-zu₂ e-da-da-be e ša₃-a-ša₃-a-ma-an-ne {{%akk KI.LAM-at I₃.GAL₂-šu-u₂ ŠE-am ši₂-ta-a₂-a-ma}}
+#lem: šakanka[market price]; dab[seize]; e[barley?]; sa[pay for]; L; L; L; L
+#etcsl: line-id=16
+
+17. šu du-uz-zu ni-ig-nam na-an-nu-le {{%akk TA ŠU-ka li-ib-qur-ma mi-im-ma la ta-ar-ru-ur₂}}
+#lem: šu[hand]; X; niŋnam[anything]; ur[be convulsed]; L; L; L; L; L; L
+#etcsl: line-id=17
+
+18. u₂-da-da dumu{mu} ša₃-az zu-ga-am-gu-u₂ de-mi-in {{%akk uš-tu UD-mi an-ni-i DUMU-rum mu-ṭi₃-ib li-ib-bi-ia at-ta}}
+#lem: ud[sun]; dumu[child]; šag[heart]; dug[good]; zaʾe[you]; L; L; L; L; L; L; L
+#etcsl: line-id=18
+
+19. iri du kur mar-du e₂-nam du-a-be mu-ra-ga %e me-e-ek-ki-na %s mi-du-gu-ut-ta {{%akk ŠE₃ IGI a-mur-ri-i u₃ NIM-ti ka-li-šu GAR-na-a-ti ki-ma ia-a-ti KU-ib}}
+#lem: iri[city]; mada[land]; kur[mountain(s)]; Martu[1 Amorite]; Elam[1]GN; du[all]; ŋar[put]; meʾe[I]; dugud[heavy]; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=19
+
+20. ku-uz-zi barag ku-uz-zi igi{gi}-ne-en-ne-eš-še tu-uš-ša AH BI IR {{%akk TA ku-us-si₂ BARAG |KUG.SIG₁₇| ŠE₃ IGI-šu-nu KU-ma}}
+#lem: guza[chair]; barag[sanctum]; kugsig[gold]; igi[eye]; tuš[sit (down)]; X; X; X; L; L; L; L; L; L; L
+#etcsl: line-id=20
+
+21. za-na lu-u₂-ki-im-ga-ne-en-ne he-li-ib-za-za-an-ne {{%akk ŠE₃ ka-šu DUMU.MEŠ ši-ip-ri-šu-nu li-iš-ke-nu-ni-ik-ku}}
+#lem: zaʾe[you]; kiŋgia[messenger]; zaza[bow down]; L; L; L; L; L
+#etcsl: line-id=21
+
+22. du-ru-be-šu uz-zu hu-ur-mi ni-ig na-me na-an-tu-uk-ku {{%akk e-li-šu-nu u₂-te-el-li mi-im-ma la te-ne-eʾ₂-a}}
+#lem: dur[buttocks]; X; X; niŋ[thing]; name[any]; X; L; L; L; L; L
+#etcsl: line-id=22
+
+23. im-sik zig₃-ga im-sik <<ZI-IM>>-ga-ra-a {{%akk IM.SIG ZI.GA IM.SIG GAR-un}}
+#lem: ensik[ruler]; zig[rise]; ensik[ruler]; ŋar[put]; L; L; L; L
+#etcsl: line-id=23
+
+24. saŋ-ŋen ga-ra nu-banda₃ ŋiš-ki-im ku-ra {{%akk ša₃-ak-ka-na-ak-ka GAR-un NU.BANDA₃ wu-ud-di}}
+#lem: šakkanak[general]; ŋar[put]; nubanda[overseer]; ŋeškim[sign]; kur[enter]; L; L; L; L
+#etcsl: line-id=24
+
+25. lu-u₂ na-an-ga lu-u₂ uk-ka igi{gi} lu-u₂ uk-ka hu-la-a {{%akk be-el an-ni a-šu-ur₂ uz-ni LU₂ gu-ul-li-il}}
+#lem: lu[person]; gaz[kill]; lu[person]; ug[kill]; igi[eye]; lu[person]; ug[kill]; hulu[bad]; L; L; L; L; L; L
+#etcsl: line-id=25
+
+26. u₂-ku-uš i-gi du-uq-qa im-ma-an-sag₁₀-qa {{%akk re-e-da-a ša₃ TA IGI-ka id-dam-qu₂-ma}}
+#lem: agaʾus[professional soldier]; igi[eye]; dug[good]; sag[good]; L; L; L; L; L
+#etcsl: line-id=26
+
+27. e₂ nam-šul-zu e-ne-er-ra du-mu-un-na šu-um ŋar-zu ma-ha {{%akk E₂-ti eṭ-lu-ti ŠE₃ ša₃-šu DIM₂-ma gi-mil-la!-ka li-ti-ir}}
+#lem: e[house]; namšul[manhood]; ane[he]; du[build]; šu[hand]; ŋar[put]; mah[great]; L; L; L; L; L; L; L
+#etcsl: line-id=27
+
+28. ne-e-še niŋ₂-ga-na %s mu-ši-iq-qa-an-gu {{%akk i-na-an-na mi-im-ma ša₃ ta-aš-pu-ra}}
+#lem: ineš[now]; niŋnam[anything]; gi[turn]; L; L; L; L
+#etcsl: line-id=28
+
+### niŋnam perhaps better niŋ ana
+
+29. e-ma-ru-uk ka-az-zu na-ap-pa-le-e {{%akk ap-pu-tu pi-ka la te-en-na-a}}
+#lem: amaru[flood]; kag[mouth]; bala[turn]; L; L; L; L
+#etcsl: line-id=29
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-2) Say to @wRN{Išbi-@wDN{Erra}}: this is what @wRN{Šulgi}, your lord, says:
+
+@(3 = 3-5) You have made me so happy with the news and everything. Who could give me a house-born slave such as you are? Who has such a capable man, so beneficial to his lord?
+
+@(6 = 6-7) Now, no sign can confirm (?) anything of what I have been sending to you, but I have sent it to you anyway (?).
+
+@(8 = 8-11) I had @wPN{Babati}, the archivist -- who is to me a grandfather, an advisor of longstanding, who knows how to give advice -- send you 600 talents of silver and 600 talents of gold, which I had delivered (?) to you because (?) of the taking of …… from my troops.
+
+@(12 = 12-14) I have also sent you intelligence information (?) about the troops. Pass it on to @wPN{Babati}, and do whatever he wishes, lest his heart suddenly turns to hatred!
+
+@(15 = 15-17) You are to receive the gold and silver from him, and purchase grain everywhere according to (?) whatever exchange rate they will take from you. May your …… nothing at all.
+
+@(18 = 18-19) From today (?), you are my son who makes me happy. The cities of (?) the province (?), the land of the @wEN{Martu}, @wGN{Elam} -- all of them I have placed before you: you are just as important as I am.
+
+@(20 = 20-22) So sit before them on a throne on a golden dais ……! Let their messengers prostrate themselves in front of you! May your …… at its rear; do not …… at all!
+
+@(23 = 23-27) Remove (?) a governor -- appoint a governor! Appoint a commander! Designate a captain-general! Certainly you should put a man to death, a man who has killed: blind the man who has killed! Build your house of manhood (?) for an attendant who has been favourably looked upon (?)! Make sure your recompense is great!
+
+@(28 = 28-29) Now, you should not suddenly alter your word (?) about all that I have been sending to you.
+
+
+

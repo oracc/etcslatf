@@ -1,0 +1,688 @@
+&Q000807 = Proverbs: collection 14
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.14
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.14&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div proverb 14.1
+
+A.14.1.1. [šu gi₄-gi₄]-ra# šu he₂-en-na-gi₄
+#lem: šu[hand]; gi[turn]; šu[hand]; gi[turn]
+#etcsl: line-id=A.14.1.1
+
+#etcsl#cf cf. 6.2.5: UM 29-16-519 Seg. B l. 1
+
+@end proverb
+
+@div proverb 14.2
+
+A.14.2.2. {[d]}[lum-ma] lu₂# (1:inim-ŋar sag₉-ga-ra:1) [sag₉]-ga# he₂-en-na-ŋal₂
+#lem: Luma[1]DN; lu[person]; iŋar[oracular utterance]; sag[good]; sag[good]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.14.2.2
+
+:2v.1.1: ($1 ms. has instead:$) niŋ₂ sag₉-ga-ra
+#lem: niŋ[thing]; sag[good]
+
+#etcsl#cf cf. 6.2.5: NBC 8072
+
+@end proverb
+
+@div proverb 14.3
+
+A.14.3.3. [igi engar-e] mu#-e-ši-in-il₂-la#
+#lem: igi[eye]; engar[farmer]; il[raise]
+#etcsl: line-id=A.14.3.3
+
+#etcsl#cf cf. 6.1.16.c1, 6.2.5: UM 29-16-519 Seg. A ll. 7-8
+
+A.14.3.4. {[d]}[en-lil₂]-le# iri nam ku₅-ra₂-ni# ha#-ba-ši-ib₂-il₂-la
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=A.14.3.4
+
+@end proverb
+
+@div proverb 14.4
+
+A.14.4.5. [igi sipad-tur]-e-<<ne>> mu-e-ši-in-il₂-la
+#lem: igi[eye]; sipadtur[junior shepherd]; il[raise]
+#etcsl: line-id=A.14.4.5
+
+#etcsl#cf cf. 6.1.15.b1, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10
+
+A.14.4.6. {[d]}[en-lil₂]-le iri nam ku₅-ra₂-ni [ha]-ba-ši-ib₂-il₂-la
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=A.14.4.6
+
+@end proverb
+
+@div proverb 14.5
+
+A.14.5.7. [igi bahar₂]-e mu-e-ši-in-il₂-la
+#lem: igi[eye]; bahar[potter]; il[raise]
+#etcsl: line-id=A.14.5.7
+
+#etcsl#cf cf. 6.1.15.b2, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12
+
+A.14.5.8. {[d]}[en-lil₂]-le iri nam ku₅-ra₂-ni [ha]-ba-ši-ib₂-il₂-la
+#lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
+#etcsl: line-id=A.14.5.8
+
+@end proverb
+
+@div proverb 14.6
+
+A.14.6.9. [ud al-šu₂-šu₂]-ru# im# nu-šeŋ₃-am₃
+#lem: ud[sun]; šuš[cover]; im[rain]; šeŋ[rain]
+#etcsl: line-id=A.14.6.9
+
+#etcsl#cf cf. 6.1.03.149, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1
+
+A.14.6.10. [im al-šeŋ₃] {kuš#}e-sir₂ nu-du₈-a
+#lem: im[rain]; šeŋ[rain]; esir[sandal(s)]; du[spread]
+#etcsl: line-id=A.14.6.10
+
+A.14.6.11. {[id₂]}[idigna ka-ba] mu-un-zur-re# [a-gar₃-re nu-si]-si#
+#lem: Idigna[1 Tigris]; kag[mouth]; zur[roil]; agar[meadow]; si[fill]
+#etcsl: line-id=A.14.6.11
+
+@end proverb
+
+@div proverb 14.7
+
+A.14.7.12. [...]-na#
+#lem: X
+#etcsl: line-id=A.14.7.12
+
+A.14.7.13. [...] du₃#
+#lem: X; du[build]
+#etcsl: line-id=A.14.7.13
+
+A.14.7.14. [...] X
+#lem: X; X
+#etcsl: line-id=A.14.7.14
+
+@end proverb
+
+$ (approx. 5-10 lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 14.15
+
+B.14.15.1. iri nam-uš₂ ŋal₂-la-še₃ anše-bal-a-ke₄ he₂-ni-ib₂-sar-re
+#lem: iri[city]; namuš[death]; ŋal[⟦be⟧ to be (there]; anšebala[replacement donkey]; sar[run]
+#etcsl: line-id=B.14.15.1
+
+#etcsl#cf cf. 6.1.01.68, 6.1.25.6
+
+@end proverb
+
+@div proverb 14.16
+
+B.14.16.2. e₂-babbar me-silim-e mu-un-du₃-a
+#lem: Ebabbara[1]; Mesilim[1]RN; du[build]
+#etcsl: line-id=B.14.16.2
+
+B.14.16.3. {d}na-ni lu₂ numun til-til-la šu hul mu-un-du₃-e
+#lem: Nanni[1]RN; lu[person]; numun[seed]; til[complete]; šu[hand]; hulu[bad]; du[build]
+#etcsl: line-id=B.14.16.3
+
+@end proverb
+
+@div proverb 14.17
+
+B.14.17.4. e₂-e lu₂ zu-bi mu-un-gul en₃-bi-a tar-re
+#lem: e[house]; lu[person]; zu[know]; gul[destroy]; en[cvne]; tar[cut]
+#etcsl: line-id=B.14.17.4
+
+#etcsl#cf cf. 6.1.02.143
+
+@end proverb
+
+@div proverb 14.18
+
+B.14.18.5. e₂ {d}en-lil₂-la₂ pa-har addir# X
+#lem: e[house]; Enlil[1]DN; pahar[gathering]; addir[hire]; X
+#etcsl: line-id=B.14.18.5
+
+#etcsl#cf cf. 6.1.03.92, 4.05.1: ll. 54-55
+
+B.14.18.6. šu gid₂ igi-tum₃-la₂ šu sumur niŋ₂-gig-ga-kam
+#lem: šu[hand]; gid[long]; igitumla[spy?]; šu[hand]; sumur[angry]; niŋgig[that which is bad]
+#etcsl: line-id=B.14.18.6
+
+@end proverb
+
+@div proverb 14.19
+
+B.14.19.7. e₂-gal iri₁₁-gal šag₄-bi teš₂-a ab-sig₁₀-ge₅
+#lem: egal[palace]; irigal[underworld]; šag[heart]; teš[unity]; sig[put into]
+#etcsl: line-id=B.14.19.7
+
+@end proverb
+
+@div proverb 14.20
+
+B.14.20.8. e₂-gal a-ri-a nu-da₁₃-da₁₃
+#lem: egal[palace]; eria[wasteland]; taka[set aside]
+#etcsl: line-id=B.14.20.8
+
+#etcsl#cf cf. 6.1.02.157, 6.1.25.11, 6.2.3: UET 6/2 317
+
+B.14.20.9. {ŋiš}ma₂-gur₈ in-nu-da nu-[da₁₃-da₁₃]
+#lem: magur[barge]; inu[straw]; taka[set aside]
+#etcsl: line-id=B.14.20.9
+
+B.14.20.10. dumu#-gir₁₅ du-lum-ma nu-da₁₃-da₁₃#
+#lem: dumugir[citizen]; dulum[toil]; taka[set aside]
+#etcsl: line-id=B.14.20.10
+
+@end proverb
+
+@div proverb 14.21
+
+B.14.21.11. e₂-gal gud-dam kun-bi he₂-dab₅#
+#lem: egal[palace]; gud[bull]; kun[tail]; dab[seize]
+#etcsl: line-id=B.14.21.11
+
+#etcsl#cf cf. 6.1.02.153
+
+B.14.21.12. {d}utu lugal-am₃ igi-zu he₂-en-ši-ni-ŋal₂
+#lem: Utu[1]DN; lugal[king]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.14.21.12
+
+@end proverb
+
+@div proverb 14.22
+
+B.14.22.13. e₂-gal ud 1(DIŠ) ama tud-da-am₃
+#lem: egal[palace]; ud[sun]; n; ama[mother]; utud[give birth (to)]
+#etcsl: line-id=B.14.22.13
+
+#etcsl#cf cf. 6.1.02.158, 6.1.17.b9, 6.1.25.10
+
+B.14.22.14. ud 1(DIŠ) ama a-nir-ra-am₃#
+#lem: ud[sun]; n; ama[mother]; anir[lament]
+#etcsl: line-id=B.14.22.14
+
+@end proverb
+
+@div proverb 14.23
+
+B.14.23.15. e₂#-gal ki-ma-an-[ze₂-er ...]
+#lem: egal[palace]; kimanzer[slippery place]; X
+#etcsl: line-id=B.14.23.15
+
+#etcsl#cf cf. 6.1.02.156, 6.1.25.8
+
+@end proverb
+
+@div proverb 14.24
+
+B.14.24.16. [X X] X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.14.24.16
+
+@end proverb
+
+@div proverb 14.37
+
+B.14.37.17. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.14.37.17
+
+@end proverb
+
+@div proverb 14.38
+
+B.14.38.18. id₂-da ba-an-sig₁₀-ga# [...]
+#lem: id[river]; sig[put into]; X
+#etcsl: line-id=B.14.38.18
+
+@end proverb
+
+@div proverb 14.39
+
+B.14.39.19. dam# tuku-tuku# lu₂-[ulu₃-kam]
+#lem: dam[spouse]; tuku[acquire]; lulu[man]
+#etcsl: line-id=B.14.39.19
+
+#etcsl#cf cf. 6.1.01.160
+
+B.14.39.20. dumu tuku-tuku# diŋir-ra-kam
+#lem: dumu[child]; tuku[acquire]; diŋir[deity]
+#etcsl: line-id=B.14.39.20
+
+@end proverb
+
+@div proverb 14.40
+
+B.14.40.21. dam# nu-ŋar-ra# tuku#-a-ŋu₁₀-ne
+#lem: dam[spouse]; niŋnuŋara[malice]; tuku[acquire]
+#etcsl: line-id=B.14.40.21
+
+#etcsl#cf cf. 6.1.01.151, 6.1.28.17
+
+B.14.40.22. dumu nu-ŋar-ra tud-da-ŋu₁₀-ne
+#lem: dumu[child]; niŋnuŋara[malice]; utud[give birth (to)]
+#etcsl: line-id=B.14.40.22
+
+@end proverb
+
+@div proverb 14.41
+
+B.14.41.23. dam-ŋu₁₀ ma-dub-be₂
+#lem: dam[spouse]; dub[heap up]
+#etcsl: line-id=B.14.41.23
+
+#etcsl#cf cf. 6.1.01.125, 6.1.22: l. 33, 6.1.23.2
+
+B.14.41.24. dumu-ŋu₁₀ ma-an-aŋ₂-e
+#lem: dumu[child]; aŋ[measure]
+#etcsl: line-id=B.14.41.24
+
+B.14.41.25. %e [mu]-ud-na-ŋu₁₀ %s ku₆-ta ŋiri₃-pad-ra₂ ma-ni-ib₂-degₓ(RI)-degₓ(RI)-ge
+#lem: mudna[spouse]N; kud[fish]; ŋiripadra[bone]; deg[gather up]
+#etcsl: line-id=B.14.41.25
+
+@end proverb
+
+@div proverb 14.42
+
+B.14.42.26. u₂ dam-gin₇# %e ze₂-ba# %s edin-ta nu-un-mu₂
+#lem: u[plant(s)]; dam[spouse]; zeb[good]V/i; eden[back]; mu[grow]
+#etcsl: line-id=B.14.42.26
+
+#etcsl#cf cf. 6.1.01.126, 6.1.19.c6, 6.1.22: l. 34, 6.2.3: UET 6/2 284
+
+@end proverb
+
+@div proverb 14.43
+
+B.14.43.27. u₂ dam-ŋu₁₀ na-ma-ab-il₂#-[i]-X pe-en-ze₂-er-ŋu₁₀ u-gun₃ la#-ba-ak-e
+#lem: u[plant(s)]; dam[spouse]; il[raise]; penzer[female genitals]; ugunu[decoration]; ak[do]
+#etcsl: line-id=B.14.43.27
+
+@end proverb
+
+@div proverb 14.44
+
+B.14.44.28. dam nu-ŋar-ra e₂-a til₃-la a₂-sag₃-a₂-sag₃-a dirig-ga
+#lem: dam[spouse]; niŋnuŋara[malice]; e[house]; til[live (of a single person)]; Asag[1]DN; dirig[make more than]
+#etcsl: line-id=B.14.44.28
+
+#etcsl#cf cf. 6.1.01.154
+
+@end proverb
+
+@div proverb 14.45
+
+B.14.45.29. šah₂-e niŋ₂ mu-un-la₂ me-a dam-ŋu₁₀ im-me
+#lem: šah[pig]; niŋ[thing]; la[hang]; mea[where?]; dam[spouse]; dug[speak]
+#etcsl: line-id=B.14.45.29
+
+#etcsl#cf cf. 6.1.22: ll. 35-37, 6.2.5: UM 29-15-748 ll. 6-7
+
+B.14.45.30. nam-tar u₃-mu-un-na-te u₂ šurum-ma-ŋu₁₀ im-me
+#lem: namtar[fate]; teŋ[approach]; u[plant(s)]; šurum[dung]; dug[speak]
+#etcsl: line-id=B.14.45.30
+
+@end proverb
+
+@div proverb 14.46
+
+B.14.46.31. e₂-gi₄-a %e ta# %s {gi}kid#-ma₂-šu₂-a ak
+#lem: egia[bride]; ta[what?]QP; kidmašua[reed mat]; ak[do]
+#etcsl: line-id=B.14.46.31
+
+@end proverb
+
+@div proverb 14.46a
+
+B.14.46a.32. mussa-tur %e ta mu-un-i-ra-bi
+#lem: mussatur[son-in-law]; ta[what?]QP; ir[bring]
+#etcsl: line-id=B.14.46a.32
+
+#etcsl#cf cf. 6.1.01.169
+
+B.14.46a.33. ušbar₇-e %e ta %s am₃-bur₂-ra-bi
+#lem: ušbar[father-in-law]; ta[what?]QP; bur[spread out]
+#etcsl: line-id=B.14.46a.33
+
+@end proverb
+
+@div proverb 14.47
+
+B.14.47.34. mussa(|[MI₂].US₂#.SA₂|)-tur-re ba-an-de₆
+#lem: mussatur[son-in-law]; de[carry]
+#etcsl: line-id=B.14.47.34
+
+B.14.47.35. [...] la-ba-an-e₃#
+#lem: X; e[leave]
+#etcsl: line-id=B.14.47.35
+
+@end proverb
+
+$ (approx. 7 lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 14.55
+
+C.14.55.1. [gir₅ iri kur₂-ra-am₃] saŋ-ŋa₂-am₃
+#lem: gir[stranger]; iri[city]; kur[different]; saŋ[head]
+#etcsl: line-id=C.14.55.1
+
+#etcsl#cf cf. 6.1.15.c4
+
+@end proverb
+
+@div proverb 14.56
+
+C.14.56.2. [...] nu-si-si-me-en
+#lem: X; si[fill]
+#etcsl: line-id=C.14.56.2
+
+#etcsl#cf cf. 6.1.15.c5
+
+C.14.56.3. [...] mu#-da-ŋal₂
+#lem: X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.14.56.3
+
+C.14.56.4. [...] mu-da-ŋal₂
+#lem: X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.14.56.4
+
+@end proverb
+
+@div proverb 14.57
+
+C.14.57.5. [...] he₂#-en-na-ba
+#lem: X; ba[allot]
+#etcsl: line-id=C.14.57.5
+
+C.14.57.6. [...]-ga#-am₃-e-še
+#lem: X
+#etcsl: line-id=C.14.57.6
+
+@end proverb
+
+@div proverb 14.58
+
+C.14.58.7. [...]-na# mu-un-sa₉
+#lem: X; sa[halve]
+#etcsl: line-id=C.14.58.7
+
+@end proverb
+
+@div proverb 14.59
+
+C.14.59.8. [...] X
+#lem: X; X
+#etcsl: line-id=C.14.59.8
+
+C.14.59.9. [...] X [X X]
+#lem: X; X; X; X
+#etcsl: line-id=C.14.59.9
+
+C.14.59.10. [...]-ed₃-de₃
+#lem: ed[go up]
+#etcsl: line-id=C.14.59.10
+
+C.14.59.11. [...] bi₂#-ib₂-ed₃-de₃
+#lem: X; ed[go up]
+#etcsl: line-id=C.14.59.11
+
+@end proverb
+
+@div proverb 14.60
+
+C.14.60.12. [...]-bi#-še₃ še muš₅-a-kam
+#lem: X; še[barley]; šeŋuš[barley]
+#etcsl: line-id=C.14.60.12
+
+@end proverb
+
+@div proverb 14.61
+
+C.14.61.13. [...] šir# LUL
+#lem: X; šir[testicle]; X
+#etcsl: line-id=C.14.61.13
+
+@end proverb
+
+@div proverb 14.62
+
+C.14.62.14. [ŋi₆ 50]-am₃
+#lem: ŋi[night]; n
+#etcsl: line-id=C.14.62.14
+
+#etcsl#cf cf. 6.1.26.d14
+
+C.14.62.15. [ud] 50-am₃
+#lem: ud[sun]; n
+#etcsl: line-id=C.14.62.15
+
+C.14.62.16. [...] X-bi-še₃
+#lem: X; X
+#etcsl: line-id=C.14.62.16
+
+C.14.62.17. [...] gal#-bi-še₃
+#lem: X; gal[big]
+#etcsl: line-id=C.14.62.17
+
+@end proverb
+
+@div proverb 14.63
+
+C.14.63.18. [...] i-im-DU
+#lem: X; X
+#etcsl: line-id=C.14.63.18
+
+C.14.63.19. [...] UR₄
+#lem: X; X
+#etcsl: line-id=C.14.63.19
+
+@end proverb
+
+@div proverb 14.64
+
+C.14.64.20. [...] ŋal₂#-la
+#lem: X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=C.14.64.20
+
+C.14.64.21. [...] gid₂
+#lem: X; gid[long]
+#etcsl: line-id=C.14.64.21
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+#lg 14.1	proverb
+
+@(A.14.1.1 = 1)  @note{cf. @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. B l. 1}} Let the favour be repaid to him who repays a favour.
+
+#lg 14.2	proverb
+
+@(A.14.2.2 = 2)  @note{cf. @xref[t.6.2.5,t625.h32]{6.2.5: NBC 8072}} May @wDN{Luma} grant prosperity to him  @varh[t6114.v1]{who speaks well of others } @vart[t6114.v2,]{@note{1 ms. has instead:} who has good things }.
+
+
+#etcsl#altGrpo
+#etcsl#alt t6114.v1 t6114.v2
+#etcsl#altGrpc
+#lg 14.3	proverb
+
+@(A.14.3.3 = 3-4)  @note{cf. @xref[t.6.1.16,t.6.1.16.c1]{6.1.16.c1}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 7-8}} The farmer lifts his gaze to you @note{i.e. @wDN{Enlil}}: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
+
+#lg 14.4	proverb
+
+@(A.14.4.5 = 5-6)  @note{cf. @xref[t.6.1.15,t.6.1.15.b1]{6.1.15.b1}, @xref[t.6.1.16,t.6.1.16.c2]{6.1.16.c2}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 9-10}} The herdsman lifts his gaze to you: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
+
+#lg 14.5	proverb
+
+@(A.14.5.7 = 7-8)  @note{cf. @xref[t.6.1.15,t.6.1.15.b2]{6.1.15.b2}, @xref[t.6.1.16,t.6.1.16.c3]{6.1.16.c3}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 11-12}} The potter lifts his gaze to you: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
+
+#lg 14.6	proverb
+
+@(A.14.6.9 = 9-11)  @note{cf. @xref[t.6.1.03,t.6.1.03.149]{6.1.03.149}, @xref[t.6.1.16,t.6.1.16.c5]{6.1.16.c5}, @xref[t.6.1.22,]{6.1.22: ll. 172-175}, @xref[t.6.1.25,t.6.1.25.1]{6.1.25.1}} The day became cloudy but it did not rain. It rained, but not enough for people to undo their sandals. The @wWN{Tigris} was not surging at its inlet, so water did not fill the arable lands.
+
+#lg 14.7	proverb
+
+@(A.14.7.12 = 12-14)   @gap{3 lines fragmentary}   @gap{approx. 5-10 lines missing} 
+
+
+#lg 14.15	proverb
+
+@(B.14.15.1 = 1)  @note{cf. @xref[t.6.1.01,t.6.1.01.68]{6.1.01.68}, @xref[t.6.1.25,t.6.1.25.6]{6.1.25.6}} You should drive them like pack-asses into a death-stricken city.
+
+#lg 14.16	proverb
+
+@(B.14.16.2 = 2-3)  The temple @wTN{E-babbar}, which @wRN{Me-silim} had built, was destroyed by @wDN{Nanni}, whose posterity had been cut off.
+
+#lg 14.17	proverb
+
+@(B.14.17.4 = 4)  @note{cf. @xref[t.6.1.02,t.6.1.02.143]{6.1.02.143}} If a household has harmed an acquaintance, the matter should be investigated.
+
+#lg 14.18	proverb
+
+@(B.14.18.5 = 5-6)  @note{cf. @xref[t.6.1.03,t.6.1.03.92]{6.1.03.92}, @xref[t.4.05.1,]{4.05.1: ll. 54-55}} @wDN{Enlil's} temple is a collecting (?) of wages (?); yet to reach out, to look with greedy eyes and to seize should be abominations there.
+
+#lg 14.19	proverb
+
+@(B.14.19.7 = 7)  Both the palace and the nether world require obedience from their inhabitants.
+
+#lg 14.20	proverb
+
+@(B.14.20.8 = 8-10)  @note{cf. @xref[t.6.1.02,t.6.1.02.157]{6.1.02.157}, @xref[t.6.1.25,t.6.1.25.11]{6.1.25.11}, @xref[t.6.2.3,t623.h27]{6.2.3: UET 6/2 317}} A palace cannot ignore waste land. A barge cannot ignore straw. A freeborn man cannot ignore toil.
+
+#lg 14.21	proverb
+
+@(B.14.21.11 = 11-12)  @note{cf. @xref[t.6.1.02,t.6.1.02.153]{6.1.02.153}} The palace is an ox; you should catch it by the tail. @wDN{Utu} is lord; you should fix your gaze on him.
+
+#lg 14.22	proverb
+
+@(B.14.22.13 = 13-14)  @note{cf. @xref[t.6.1.02,t.6.1.02.158]{6.1.02.158}, @xref[t.6.1.17,t.6.1.17.b9]{6.1.17.b9}, @xref[t.6.1.25,t.6.1.25.10]{6.1.25.10}} The palace: one day a mother giving birth, the next day a mother in mourning.
+
+#lg 14.23	proverb
+
+@(B.14.23.15 = 15)  @note{cf. @xref[t.6.1.02,t.6.1.02.156]{6.1.02.156}, @xref[t.6.1.25,t.6.1.25.8]{6.1.25.8}} The palace is a slippery place …….
+
+#lg 14.24	proverb
+
+@(B.14.24.16 = 16)   @gap{1 line fragmentary} 
+
+#lg 14.37	proverb
+
+@(B.14.37.17 = 17)   @gap{1 line fragmentary} 
+
+#lg 14.38	proverb
+
+@(B.14.38.18 = 18)  …… a river …….
+
+#lg 14.39	proverb
+
+@(B.14.39.19 = 19-20)  @note{cf. @xref[t.6.1.01,t.6.1.01.160]{6.1.01.160}} Having wives is human. Having children is from the gods.
+
+#lg 14.40	proverb
+
+@(B.14.40.21 = 21-22)  @note{cf. @xref[t.6.1.01,t.6.1.01.151]{6.1.01.151}, @xref[t.6.1.28,t.6.1.28.17]{6.1.28.17}} When I married a malicious husband -- when I bore a malicious son.
+
+#lg 14.41	proverb
+
+@(B.14.41.23 = 23-25)  @note{cf. @xref[t.6.1.01,t.6.1.01.125]{6.1.01.125}, @xref[t.6.1.22,]{6.1.22: l. 33}, @xref[t.6.1.23,t.6.1.23.2]{6.1.23.2}} My husband heaps up for me, my child measures out for me; my lover picks the bones from the fish for me.
+
+#lg 14.42	proverb
+
+@(B.14.42.26 = 26)  @note{cf. @xref[t.6.1.01,t.6.1.01.126]{6.1.01.126}, @xref[t.6.1.19,t.6.1.19.c6]{6.1.19.c6}, @xref[t.6.1.22,]{6.1.22: l. 34}, @xref[t.6.2.3,t623.h8]{6.2.3: UET 6/2 284}} A plant as sweet as a husband does not grow in the desert.
+
+#lg 14.43	proverb
+
+@(B.14.43.27 = 27)  My husband needn't bring me grass; it will not make a decoration for my genitals @note{idiom: sense unclear}.
+
+#lg 14.44	proverb
+
+@(B.14.44.28 = 28)  @note{cf. @xref[t.6.1.01,t.6.1.01.154]{6.1.01.154}} A malicious wife living in a house is the worst of all afflictions.
+
+#lg 14.45	proverb
+
+@(B.14.45.29 = 29-30)  @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 35-37}, @xref[t.6.2.5,]{6.2.5: UM 29-15-748 ll. 6-7}} A pig was carrying something (?): @q{“Where is my sow?”} it said. As it neared its fate, it said: @q{“It is my dung-spattered (?) food!”}
+
+#lg 14.46	proverb
+
+@(B.14.46.31 = 31)  As for a daughter-in-law -- what about making a reed mat?
+
+#lg 14.46a	proverb
+
+@(B.14.46a.32 = 32-33)  @note{cf. @xref[t.6.1.01,t.6.1.01.169]{6.1.01.169}} As for the fiancé, what has he brought? And as for the father-in-law, what has he sorted out?
+
+#lg 14.47	proverb
+
+@(B.14.47.34 = 34-35)  The fiancé brought …… did not come out.  @gap{approx. 7 lines missing} 
+
+
+#lg 14.55	proverb
+
+@(C.14.55.1 = 1)  @note{cf. @xref[t.6.1.15,t.6.1.15.c4]{6.1.15.c4}} A stranger is leader in a foreign city.
+
+#lg 14.56	proverb
+
+@(C.14.56.2 = 2-4)  @note{cf. @xref[t.6.1.15,t.6.1.15.c5]{6.1.15.c5}} I am one who does not ……. I can ……. I can …….
+
+#lg 14.57	proverb
+
+@(C.14.57.5 = 5-6)   @gap{2 lines fragmentary} 
+
+#lg 14.58	proverb
+
+@(C.14.58.7 = 7)   @gap{1 line fragmentary} 
+
+#lg 14.59	proverb
+
+@(C.14.59.8 = 8-11)   @gap{4 lines fragmentary} 
+
+#lg 14.60	proverb
+
+@(C.14.60.12 = 12)  …… barley (?) …….
+
+#lg 14.61	proverb
+
+@(C.14.61.13 = 13)   @gap{1 line fragmentary} 
+
+#lg 14.62	proverb
+
+@(C.14.62.14 = 14-17)  @note{cf. @xref[t.6.1.26,t.6.1.26.d14]{6.1.26.d14}} The nights are fifty, the days are fifty; at its ……, …… greatly.
+
+#lg 14.63	proverb
+
+@(C.14.63.18 = 18-19)   @gap{2 lines fragmentary} 
+
+#lg 14.64	proverb
+
+@(C.14.64.20 = 20-21)   @gap{2 lines fragmentary} 
+
+
+

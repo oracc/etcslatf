@@ -1,0 +1,83 @@
+&Q000536 = A fragment of a royal praise poem
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.99.b
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.99.b&display=Crit&charenc=gcirc#
+
+$ (note@c299b.ver1!c299b.n1: genre classification uncertain)
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. [...] X
+#lem: X; X
+#etcsl: line-id=A.1
+
+A.2. [...] X
+#lem: X; X
+#etcsl: line-id=A.2
+
+A.3. [...] X
+#lem: X; X
+#etcsl: line-id=A.3
+
+$ 2 lines missing
+A.6. [...] lu₂#
+#lem: X; lu[person]
+#etcsl: line-id=A.6
+
+A.7. [...] X
+#lem: X; X
+#etcsl: line-id=A.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] E#
+#lem: X; X
+#etcsl: line-id=B.1
+
+B.2. [...] X LA X DU# X [X X] X X ur₂-ra#
+#lem: X; X; X; X; X; X; X; X; X; X; ur[root]
+#etcsl: line-id=B.2
+
+B.3. [...] {d}en-lil₂ nam#-lugal sud-da# X mu#-na-an-šum₂-ma{{X X IG}}
+#lem: X; Enlil[1]DN; namlugal[kingship]; sud[distant]; X; šum[give]; X; X; X
+#etcsl: line-id=B.3
+
+B.4. [...] X DI šag₄ kuš₂-u₃-a [...]-e
+#lem: X; X; X; šag[heart]; kušu[tired]; X
+#etcsl: line-id=B.4
+
+B.5. [...] šul {d}suen-na#-ra
+#lem: X; šul[youth]; Suen[1]DN
+#etcsl: line-id=B.5
+
+B.6. [... šag₄] mu-na-an-huŋ-ŋe₂₆#-e
+#lem: X; šag[heart]; huŋ[pacify]
+#etcsl: line-id=B.6
+
+B.7. [...] X mu#-na-ni-in#-šum₂
+#lem: X; X; šum[give]
+#etcsl: line-id=B.7
+
+B.8. [...] TAG [...] X ba-gub-be₂#-en
+#lem: X; X; X; X; gub[stand]
+#etcsl: line-id=B.8
+
+B.9. [...] X X [...] X ib₂#-ŋal₂
+#lem: X; X; X; X; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.9
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+&Q000599 = Letter from Inim-Enlila to a king
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.27
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.27&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. lugal inim sag₉-sag₉-ge diŋir-re-e-ne-er gub-ba
+#lem: lugal[king]; inim[word]; sag[good]; diŋir[deity]; gub[stand]
+#etcsl: line-id=A.1
+
+A.2. ninda nidba si bi₂-sa₂ u₃-na-a-dug₄
+#lem: ninda[bread]; nindaba[(food) offering]; si[horn]; sa[equal]; dug[speak]
+#etcsl: line-id=A.2
+
+A.3. alan sukud-da dim₂-ma ad gi₄-gi₄ in-tuku
+#lem: alan[image]; sukud[height]; dimma[thought]; ad[voice]; gi[turn]; tuku[acquire]
+#etcsl: line-id=A.3
+
+A.4. šag₄-la₂ sug₄ šag₄ kalam-ma dug₃-ga
+#lem: šala[pity]; sug[full]; šag[heart]; kalam[the Land (of Sumer)]; dug[good]
+#etcsl: line-id=A.4
+
+A.5. u₃-ne-de₃-tah
+#lem: tah[add]
+#etcsl: line-id=A.5
+
+A.6. {m}inim-{d}en-lil₂-la₂ dub-sar dumu <{d}>suen-pa-lil₂
+#lem: Inimenlila[1]PN; dubsar[scribe]; dumu[child]; Suenpalil[1]PN
+#etcsl: line-id=A.6
+
+A.7. arad-zu na-ab-be₂-a
+#lem: arad[slave]; e[speak]
+#etcsl: line-id=A.7
+
+A.8. nam-tag-ŋu₁₀ nu-zu nam-tag-ŋa₂ ŋeštug₂ la-ba-ši-ŋal₂
+#lem: namtaga[sin]; zu[know]; namtaga[sin]; ŋeštug[ear]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.8
+
+A.9. nam im-ri-a hi-iš₆-ši i-si-iš-bi ib₂-gu₇-en
+#lem: nam[fate]; imria[clan]; heše[oppressed]; isiš[tears]; gu[eat]
+#etcsl: line-id=A.9
+
+A.10. ŋiri₃-pad-ra₂-ŋu₁₀ šag₄ iri kur₂-ra-še₃ a nam-ma-an-tum₃
+#lem: ŋiripadra[bone]; šag[heart]; iri[city]; kur[different]; a[water]; tum[bring]
+#etcsl: line-id=A.10
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. X X X šag₄# X
+#lem: X; X; X; šag[heart]; X
+#etcsl: line-id=B.1
+
+#etcsl#doc may not be part of this composition
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

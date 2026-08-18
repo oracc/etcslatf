@@ -1,0 +1,178 @@
+&Q000517 = A praise poem of Anam (Anam A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.7.1.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.7.1.1&display=Crit&charenc=gcirc#
+
+1. an-am₃ en TUG₂ DI IM X {{%akk gi₄-it-ma-lu}} X X
+#lem: Anam[1]RN; en[lord]; X; X; X; X; L; X; X
+#etcsl: line-id=1
+
+2. [...] X-ra ŋeštug₂ daŋal šu du₇
+#lem: X; X; ŋeštug[ear]; daŋal[wide]; šu[hand]; du[perfect]
+#etcsl: line-id=2
+
+3. X nibru{ki} til₃ iri GIRI₃ BAR nu-tuku
+#lem: X; Nibru[1]SN; til[live (of a single person)]; iri[city]; X; X; tuku[acquire]
+#etcsl: line-id=3
+
+4. tum₉# dug₃-ga iri{ki}-na ad-da ma-da unug{ki}-ga
+#lem: tumu[wind]; dug[good]; iri[city]; adda[father]; mada[land]; Unug[1]SN
+#etcsl: line-id=4
+
+5. [di]-kud# šag₄ di-da-ka BAR UD ME
+#lem: dikud[judge]; šag[heart]; did[lawsuit]; X; X; X
+#etcsl: line-id=5
+
+6. [...] ni₂#-tuku ni₂ te an {d}inana-ke₄
+#lem: X; nituku[pious]; ni[fear]; teŋ[approach]; An[1]DN; Inanak[1]DN
+#etcsl: line-id=6
+
+7. [u₂-a] e₂-an-na inim sag₉-ga-bi X ul ti
+#lem: ua[provisioner]; Eanak[1]TN; inim[word]; sag[good]; X; ul[swell]; teŋ[approach]
+#etcsl: line-id=7
+
+8. [...] kalag#-ga šag₄-ge de₆-a {d}inana-ke₄
+#lem: X; kalag[strong]; šag[heart]; de[carry]; Inanak[1]DN
+#etcsl: line-id=8
+
+9. [...] AN kalam-ma šu-kin dab₅-be₂
+#lem: X; X; kalam[the Land (of Sumer)]; šukin[prostration]; dab[seize]
+#etcsl: line-id=9
+
+10. [...] X saŋ zig₃ en {d}inana-ke₄
+#lem: X; X; saŋ[head]; zig[rise]; en[priest]; Inanak[1]DN
+#etcsl: line-id=10
+
+11. [...] gal-zu niŋ₂-nam-ma-kam
+#lem: X; galanzu[wise]; niŋnam[anything]
+#etcsl: line-id=11
+
+12. [...] ŋal₂ šag₄ dab₅-ba du₇-a
+#lem: X; ŋal[⟦be⟧ to be (there]; šag[heart]; dab[seize]; du[push]
+#etcsl: line-id=12
+
+13. [...] X ki GI DU-a LA si-si
+#lem: X; X; ki[place]; X; X; X; si[fill]
+#etcsl: line-id=13
+
+14. [...] bal#-bal-e huš-a
+#lem: X; bala[turn]; huš[reddish]
+#etcsl: line-id=14
+
+15. [...] igi il₂ hi-li du₈-du₈
+#lem: X; igi[eye]; il[raise]; hili[attractiveness]; du[spread]
+#etcsl: line-id=15
+
+16. [...] saŋ#-kal erin₂-na-me-en
+#lem: X; saŋkal[foremost]; erin[people]
+#etcsl: line-id=16
+
+17. {[d]}[na-na-a ...] X šag₄ ama niŋ₂-nam-ma
+#lem: Nanaya[1]DN; X; X; šag[heart]; ama[mother]; niŋnam[anything]
+#etcsl: line-id=17
+
+18. [...] X ŋal₂-la ul-še₃ ŋal₂
+#lem: X; X; ŋal[⟦be⟧ to be (there]; ul[distant time]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=18
+
+19. [...] nam gal AN X X DI
+#lem: X; nam[fate]; gal[big]; X; X; X; X
+#etcsl: line-id=19
+
+20. [X X] X X X X X X UN-gal-e X
+#lem: X; X; X; X; X; X; X; X; UN.gal[ruler]; X
+#etcsl: line-id=20
+
+21. [X X] X DI IM
+#lem: X; X; X; X; X
+#etcsl: line-id=21
+
+22. [e₂-me]-ur₄#-ur₄ ha-lam-ma ki-be₂-eš gi₄-a
+#lem: Emeʾurur[1]; halam[forsake]; ki[place]; gi[turn]
+#etcsl: line-id=22
+
+23. [...]-an-šub-ba du₃-du₃
+#lem: šub[fall]; du[build]
+#etcsl: line-id=23
+
+24. [X X ud] ul-ta nu-du₃-a mu-un-dim₂-ma
+#lem: X; X; ud[sun]; ul[distant time]; du[build]; dim[create]
+#etcsl: line-id=24
+
+25. [X X] X ŋiš-hur-ru gen₆-me-en
+#lem: X; X; X; ŋešhur[plan]; gin[confirm]
+#etcsl: line-id=25
+
+26. [X X] X-ba kalam-ma mah dib₂-ba
+#lem: X; X; X; kalam[the Land (of Sumer)]; mah[great]; dib[pass]
+#etcsl: line-id=26
+
+27. [X X] sag₉#-ge-ba u₃-gul zid ŋa₂-ŋa₂-me-en
+#lem: X; X; sag[good]; ugul[cvne]; zid[right]; ŋar[put]
+#etcsl: line-id=27
+
+28. [X X] šita# saŋ us₂-a nidba ku₅-ru-me-en
+#lem: X; X; šita[prayer]; saŋ[head]; us[accompany]; nindaba[(food) offering]; kud[cut]
+#etcsl: line-id=28
+
+29. [e₂]-an#-na e₂-me-ur₄-ur₄ alan gi₁₆ sug₂-ga
+#lem: Eanak[1]TN; Emeʾurur[1]; alan[image]; gilsa[treasure]; sug[stand]
+#etcsl: line-id=29
+
+30. [...] lu₂# nam-ma-ni sag₂ nu-di
+#lem: X; lu[person]; nam[fate]; sag[scatter]; di[speak]
+#etcsl: line-id=30
+
+31. [...] X nam gal su₁₃-ra₂-še₃ mu-e-tar
+#lem: X; X; nam[fate]; gal[big]; sud[distant]; tar[cut]
+#etcsl: line-id=31
+
+32. [...] X-e nin diŋir gal zag gub
+#lem: X; X; nin[lady]; diŋir[deity]; gal[big]; zag[side]; gub[stand]
+#etcsl: line-id=32
+
+33. [X X] ŋar-ra-na nam-til₃ niŋin-a
+#lem: X; X; ŋar[put]; namtil[life]; niŋin[encircle]
+#etcsl: line-id=33
+
+34. [X X] AN šag₄ hul₂ ud sud₄-sud₄
+#lem: X; X; X; šag[heart]; hul[rejoice]; ud[sun]; sud[distant]
+#etcsl: line-id=34
+
+35. [bi₂]-in-dug₄ an ki-a ig e₂-an-na-ka
+#lem: dug[speak]; an[sky]; ki[place]; ig[door]; Eanak[1]TN
+#etcsl: line-id=35
+
+36. nin emeda(|UM.ME|)-a {d}na-na-a bad₃ gal ba-gub-bu
+#lem: nin[lady]; emeda[nursemaid]; Nanaya[1]DN; bad[wall]; gal[big]; gub[stand]
+#etcsl: line-id=36
+
+37. zi numun hi-li ŋiš-šub-zu-še₃ mu-e-ŋar
+#lem: zi[life]; numun[seed]; hili[attractiveness]; ŋeššub[lot]; ŋar[put]
+#etcsl: line-id=37
+
+38. {d}en-lil₂-še₃ mah-bi-še₃ ŋal₂-me-en
+#lem: Enlil[1]DN; mah[great]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=38
+
+39. dumu nibru{ki} saŋ geme₂ arad niŋ₂ UD gu-ul-la-am₃
+#lem: dumu[child]; Nibru[1]SN; saŋ[head]; geme[female worker]; arad[slave]; niŋ[thing]; X; gal[big]
+#etcsl: line-id=39
+
+40. šag₄ unug{ki}-ga a₂-dam-bi mu nam-en tum₂-u₃-ne
+#lem: šag[heart]; Unug[1]SN; adam[habitation]; mu[name]; namen[the office of en-priest]; tum[suitable]
+#etcsl: line-id=40
+
+41. mu-e-du₈-du₈ nibru{ki}-še₃ šu bar
+#lem: du[spread]; Nibru[1]SN; šu[hand]; bar[place outside]
+#etcsl: line-id=41
+
+
+
+
+
+
+

@@ -1,0 +1,251 @@
+&Q000810 = Proverbs: collection 17
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.17
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.17&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 17.a1
+
+A.17.a1.1. [...]-za#
+#lem: X
+#etcsl: line-id=A.17.a1.1
+
+A.17.a1.2. [...] ŋal₂
+#lem: X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.17.a1.2
+
+A.17.a1.3. [...] ŋal₂
+#lem: X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.17.a1.3
+
+@end proverb
+
+@div proverb 17.a2
+
+A.17.a2.4. [...] zu A
+#lem: X; zu[know]; X
+#etcsl: line-id=A.17.a2.4
+
+A.17.a2.5. [...] X-ni
+#lem: X; X
+#etcsl: line-id=A.17.a2.5
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 17.b1
+
+B.17.b1.1. [...] X še ŠA# [...]
+#lem: X; X; še[barley]; X; X
+#etcsl: line-id=B.17.b1.1
+
+B.17.b1.2. X ki# aŋ₂-ŋa₂ X [...]
+#lem: X; ki[place]; aŋ[measure]; X; X
+#etcsl: line-id=B.17.b1.2
+
+B.17.b1.3. [...] NE-am₃ dug₃ lul# [...]
+#lem: X; X; dug[good]; lul[false]; X
+#etcsl: line-id=B.17.b1.3
+
+@end proverb
+
+@div proverb 17.b2
+
+B.17.b2.4. sukud#-de₃ an-na šu nu-um-[da-la₂]
+#lem: sukud[height]; an[sky]; šu[hand]; la[hang]
+#etcsl: line-id=B.17.b2.4
+
+#etcsl#cf cf. 6.1.22: ll. 203-206, 1.8.1.5: ll. 28-29, 1.8.1.5.1: ll. 12-13, 6.3.a: ll. 17-18
+
+B.17.b2.5. daŋal#-e ki-a <igi> nu-um-ma-an-il₂-il₂
+#lem: daŋal[wide]; ki[place]; igi[eye]; il[raise]
+#etcsl: line-id=B.17.b2.5
+
+B.17.b2.6. kalag#-ga ki-nu₂ ni₂ nu-mu-un-gid₂-de₃
+#lem: kalag[strong]; kinud[sleeping quarter]; ni[self]; gid[long]
+#etcsl: line-id=B.17.b2.6
+
+B.17.b2.7. [za]-e#-me-en ud-gin₇ dug₄-dug₄-ga
+#lem: zaʾe[you]; ud[storm]; dug[speak]
+#etcsl: line-id=B.17.b2.7
+
+B.17.b2.8. piriŋ#-gin₇ ne he₂-gub
+#lem: piriŋ[lion]; ni[self]; gub[stand]
+#etcsl: line-id=B.17.b2.8
+
+B.17.b2.9. X-zu {ŋiš}kiri₆ a he₂-eb-de₆
+#lem: X; kiri[(fruit) plantation]; a[water]; de[carry]
+#etcsl: line-id=B.17.b2.9
+
+B.17.b2.10. lu₂ nam-bi₂-ib-til-e
+#lem: lu[person]; til[complete]
+#etcsl: line-id=B.17.b2.10
+
+@end proverb
+
+@div proverb 17.b3
+
+B.17.b3.11. šul diŋir-ŋu₁₀ ŋiri₃ {d}lamma-ŋu₁₀#
+#lem: šul[youth]; diŋir[deity]; ŋiri[foot]; lammar[(female) tutelary deity]
+#etcsl: line-id=B.17.b3.11
+
+#etcsl#cf cf. 6.1.09.a8, 6.1.10.9-12, 6.1.19.a1, 5.6.7: ll. 28-31
+
+B.17.b3.12. nam-ŋuruš anše kar-ra#-[gin₇]
+#lem: namŋuruš[manliness]; anše[equid]; kar[flee]
+#etcsl: line-id=B.17.b3.12
+
+B.17.b3.13. haš₂-ŋa₂ ba-an-[taka₄]
+#lem: haš[thigh]; taka[set aside]
+#etcsl: line-id=B.17.b3.13
+
+B.17.b3.14. hur-saŋ gig₂-ŋu₁₀ im-babbar ba#-[an-mu₂]
+#lem: hursaŋ[mountain]; giggig[black]; imbabbar[gypsum]; mu[grow]
+#etcsl: line-id=B.17.b3.14
+
+B.17.b3.15. ama-ŋu₁₀ tir-ta ŋiš dab₅-ba# šu dab₅ mu-da-an-šum₂
+#lem: ama[mother]; tir[forest]; ŋeš[tree]; dab[seize]; šu[hand]; dab[seize]; šum[give]
+#etcsl: line-id=B.17.b3.15
+
+B.17.b3.16. {d}nin-kilim i₃ niŋ₂ hab₂-ba gu₇#-[gu₇-ŋu₁₀]
+#lem: ninkilim[mongoose]; i[oil]; niŋ[thing]; hab[malodorous]; gu[eat]
+#etcsl: line-id=B.17.b3.16
+
+B.17.b3.17. dug i₃-nun-na-še₃ gu₂ nu-mu-un-ši-la₂-e
+#lem: dug[(clay) pot]; inun[ghee]; gu[neck]; la[hang]
+#etcsl: line-id=B.17.b3.17
+
+@end proverb
+
+@div proverb 17.b4
+
+B.17.b4.18. ukur₃-re dumu-na tibir₂ 1(DIŠ)-am₃ šu nu-um-ma-ni-dug₄-ge#
+#lem: ukur[poor]; dumu[child]; tibir[hand]; n; šu[hand]; dug[speak]
+#etcsl: line-id=B.17.b4.18
+
+#etcsl#cf cf. 6.1.02.23
+
+B.17.b4.19. gi₁₆-sa da-ri₂-še₃ mu-un-[na]-ni-ak-[e]
+#lem: gilsa[treasure]; dari[eternal]; ak[do]
+#etcsl: line-id=B.17.b4.19
+
+@end proverb
+
+@div proverb 17.b5
+
+B.17.b5.20. ukur₃-re# al#-ŋal₂-la X X X tu₇ |DAG.KISIM₅×X|-ra bi₂-in-šu₂
+#lem: ukur[poor]; ŋal[⟦be⟧ to be (there]; X; X; X; tu[soup]; ubur[breast]; šuš[cover]
+#etcsl: line-id=B.17.b5.20
+
+#etcsl#cf cf. 6.1.02.22
+
+@end proverb
+
+@div proverb 17.b6
+
+B.17.b6.21. ukur₃ tu₇-a igi bar-ra
+#lem: ukur[poor]; tu[soup]; igi[eye]; bar[place outside]
+#etcsl: line-id=B.17.b6.21
+
+@end proverb
+
+@div proverb 17.b7
+
+B.17.b7.22. ŋiš-erin₂ sa ak-am₃ {ŋiš!}pu₂ niŋ₂-lul ak-a
+#lem: ŋešrin[scales]; sa[net]; ak[do]; pu[cistern]; niŋlul[falsehood]; ak[do]
+#etcsl: line-id=B.17.b7.22
+
+#etcsl#cf cf. 6.1.03.64
+
+B.17.b7.23. dam-gar₃-ra gu₅-li-ni!(GAN₂)-še₃# lu₂ ši-in-ga-an-tuku-tuku
+#lem: damgar[merchant]; guli[friend]; lu[person]; tuku[acquire]
+#etcsl: line-id=B.17.b7.23
+
+@end proverb
+
+@div proverb 17.b8
+
+B.17.b8.24. dam-gar₃-ra kug-babbar %e ta %s ba-an-tur-re-en
+#lem: damgar[merchant]; kugbabbar[silver]; ta[what?]QP; tur[small]
+#etcsl: line-id=B.17.b8.24
+
+#etcsl#cf cf. 6.1.01.165, 6.1.03.65, 6.1.22: ll. 194-196
+
+B.17.b8.25. [u₃] še# %e ta %s ba-an-tur-re-en
+#lem: u[and]; še[barley]; ta[what?]QP; tur[small]
+#etcsl: line-id=B.17.b8.25
+
+@end proverb
+
+@div proverb 17.b9
+
+B.17.b9.26. [e₂-gal]
+#lem: egal[palace]
+#etcsl: line-id=B.17.b9.26
+
+#etcsl#cf cf. 6.1.02.158, 6.1.14.22, 6.1.25.10
+
+B.17.b9.27. [ud] 1(DIŠ)# ama tud-da-am₃#
+#lem: ud[sun]; n; ama[mother]; utud[give birth (to)]
+#etcsl: line-id=B.17.b9.27
+
+B.17.b9.28. [ud 1(DIŠ) ama a-nir]-ra-am₃
+#lem: ud[sun]; n; ama[mother]; anir[lament]
+#etcsl: line-id=B.17.b9.28
+
+@end proverb
+
+@div proverb 17.b10
+
+B.17.b10.29. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.17.b10.29
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 17.c1
+
+C.17.c1.1. [...]-ak#-am₃
+#lem: ak[do]
+#etcsl: line-id=C.17.c1.1
+
+C.17.c1.2. [...] SU#-SU
+#lem: X; X
+#etcsl: line-id=C.17.c1.2
+
+C.17.c1.3. [...] X-an
+#lem: X; X
+#etcsl: line-id=C.17.c1.3
+
+@end proverb
+
+@div proverb 17.c2
+
+C.17.c2.4. [...] geme₂
+#lem: X; geme[female worker]
+#etcsl: line-id=C.17.c2.4
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

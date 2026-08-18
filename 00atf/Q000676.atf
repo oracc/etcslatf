@@ -1,0 +1,236 @@
+&Q000676 = A hymn to Nanna (Nanna G)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.07&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. {d}nanna# [...]
+#lem: Nanna[1]DN; X
+#etcsl: line-id=A.1
+
+A.2. en dumu {d}en-lil₂-la₂# [...]
+#lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=A.2
+
+A.3. {d}nanna en X [...]
+#lem: Nanna[1]DN; en[lord]; X; X
+#etcsl: line-id=A.3
+
+A.4. en dumu {d}en-lil₂-la₂ [...]
+#lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=A.4
+
+A.5. en u₆ di dug₃-ga# [...]
+#lem: en[lord]; u[admiration]; di[speak]; dug[good]; X
+#etcsl: line-id=A.5
+
+A.6. munus hi-li šu du₇ [...]
+#lem: munus[woman]; hili[attractiveness]; šu[hand]; du[perfect]; X
+#etcsl: line-id=A.6
+
+A.7. {d}nanna en u₆ [di dug₃-ga ...]
+#lem: Nanna[1]DN; en[lord]; u[admiration]; di[speak]; dug[good]; X
+#etcsl: line-id=A.7
+
+A.8. munus hi-li šu du₇ [...]
+#lem: munus[woman]; hili[attractiveness]; šu[hand]; du[perfect]; X
+#etcsl: line-id=A.8
+
+A.9. {d}nin-hur-saŋ-ŋa₂ [...]
+#lem: Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.9
+
+A.10. ama gal# {d}nin-hur#-[saŋ-ŋa₂ ...]
+#lem: ama[mother]; gal[big]; Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.10
+
+A.11. {d}nanna X [...]
+#lem: Nanna[1]DN; X; X
+#etcsl: line-id=A.11
+
+A.12. ama gal {d}nin#-[hur-saŋ-ŋa₂ ...]
+#lem: ama[mother]; gal[big]; Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.12
+
+A.13. mu-ni-in-X [...]
+#lem: X; X
+#etcsl: line-id=A.13
+
+A.14. za-e lu₂ nir [...]
+#lem: zaʾe[you]; lu[person]; nir[lordly]; X
+#etcsl: line-id=A.14
+
+A.15. {d}nanna mu-[...]
+#lem: Nanna[1]DN; X
+#etcsl: line-id=A.15
+
+A.16. [za]-e# lu₂ nir X [...]
+#lem: zaʾe[you]; lu[person]; nir[lordly]; X; X
+#etcsl: line-id=A.16
+
+A.17. [...] X X KI# X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X X [X X]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] la-la-zu ma-[ak-ak]
+#lem: X; lala[plenty]; ak[do]
+#etcsl: line-id=B.2
+
+B.3. [hi-li-zu] {[tug₂]}[...]-gin₇ bar-ŋa₂ he₂-em-mi#-dul
+#lem: hili[attractiveness]; X; bar[outside]; dul[cover]
+#etcsl: line-id=B.3
+
+B.4. {d}nanna šag₄-ŋu₁₀ X GIŠGAL X kug# la-la ma-ak-ak
+#lem: Nanna[1]DN; šag[heart]; X; X; X; kug[purify]; lala[plenty]; ak[do]
+#etcsl: line-id=B.4
+
+B.5. hi-li-zu {tug₂}X-gin₇! bar-ŋa₂ he₂-em-mi-dul
+#lem: hili[attractiveness]; X; bar[outside]; dul[cover]
+#etcsl: line-id=B.5
+
+B.6. en šu sikil-e {dug}šakir₃-e he₂-du₇
+#lem: en[lord]; šu[hand]; sikil[pure]; šakir[churn]; hedu[ornament]
+#etcsl: line-id=B.6
+
+B.7. niŋ₂ šu dug₄-ga-zu# an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+#lem: niŋ[thing]; šu[hand]; dug[speak]; An[1]DN; Enlil[1]DN; sag[good]
+#etcsl: line-id=B.7
+
+B.8. {d}nanna en šu sikil#-la {dug}šakir₃-e he₂-du₇
+#lem: Nanna[1]DN; en[lord]; šu[hand]; sikil[pure]; šakir[churn]; hedu[ornament]
+#etcsl: line-id=B.8
+
+B.9. niŋ₂ šu dug₄-ga-zu# an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+#lem: niŋ[thing]; šu[hand]; dug[speak]; An[1]DN; Enlil[1]DN; sag[good]
+#etcsl: line-id=B.9
+
+B.10. e₂ ud du₆ ul-la-ka su₃-ud-še₃ he₂-du₃
+#lem: e[house]; ud[sun]; X; ul[distant time]; sud[distant]; du[build]
+#etcsl: line-id=B.10
+
+B.11. e₂ {d}nanna ud du₆ ul#-la a₂-mi kisal {d}nanna su₃-ud-še₃ he₂-du₃#
+#lem: e[house]; Nanna[1]DN; ud[sun]; X; ul[distant time]; emi[queen's household]; kisal[courtyard]; Nanna[1]DN; sud[distant]; du[build]
+#etcsl: line-id=B.11
+
+B.12. e₂ ŋissu-bi ab-šag₄-ga la₂-a
+#lem: e[house]; ŋissu[shade]; abšag[center of the sea]; la[hang]
+#etcsl: line-id=B.12
+
+B.13. e₂-kiš-nu-ŋal₂# u₆ di dug₃-ga
+#lem: Ekišnuŋal[1]TN; u[admiration]; di[speak]; dug[good]
+#etcsl: line-id=B.13
+
+B.14. e₂ {d}nanna šag₄#-sig-ga du₃-a
+#lem: e[house]; Nanna[1]DN; šagsiga[waste land?]; du[build]
+#etcsl: line-id=B.14
+
+B.15. [...] {d}suen# diŋir-re-ne# X X
+#lem: X; Suen[1]DN; diŋir[deity]; X; X
+#etcsl: line-id=B.15
+
+B.16. [X X] X {d}en-lil₂# [...]
+#lem: X; X; X; Enlil[1]DN; X
+#etcsl: line-id=B.16
+
+B.17. [...] {d}nanna en dumu gal an-na [...] ki# aŋ₂ {d}en-lil₂ {d}nin-lil₂-la₂ [...]
+#lem: X; Nanna[1]DN; en[lord]; dumu[child]; gal[big]; An[1]DN; X; ki[place]; aŋ[measure]; Enlil[1]DN; Ninlil[1]DN; X
+#etcsl: line-id=B.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...]-me-en
+#lem: X
+#etcsl: line-id=C.1
+
+C.2. [...] X
+#lem: X; X
+#etcsl: line-id=C.2
+
+$ (approx. 4 lines missing)
+C.7. [...]-de₃#-en
+#lem: X
+#etcsl: line-id=C.7
+
+C.8. [...]-in-sa₄
+#lem: še[call by name]
+#etcsl: line-id=C.8
+
+C.9. [...] X-la-me-en
+#lem: X; X
+#etcsl: line-id=C.9
+
+C.10. [...]-ri#-in-sa₄
+#lem: še[call by name]
+#etcsl: line-id=C.10
+
+C.11. [...]-en#
+#lem: X
+#etcsl: line-id=C.11
+
+C.12. [...] X
+#lem: X; X
+#etcsl: line-id=C.12
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+$ (unknown no. of lines missing)
+@(A.1 = 1-4) @wDN{Nanna}, ……, lord, son of @wDN{Enlil}, ……, @wDN{Nanna}, lord, ……, lord, son of @wDN{Enlil}, ……!
+
+@(A.5 = 5-8) Lord, sweet wonder ……! The woman perfect in beauty ……. @wDN{Nanna}, lord, sweet wonder ……! The woman perfect in beauty …….
+
+@(A.9 = 9-12) @wDN{Ninḫursaŋa} ……, the great mother @wDN{Ninḫursaŋa} ……. @wDN{Nanna}, ……, the great mother @wDN{Ninḫursaŋa} …….
+
+@(A.13 = 13-16)  @gap{1 line fragmentary}  you ……. @wDN{Nanna}, ……, you …….
+
+@(A.17 = 17)  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1)  @gap{1 line fragmentary} 
+
+@(B.2 = 2-5) …… you have shown your attractiveness to me. May your beauty cover my body like a …… garment. @wDN{Nanna}, …… you have shown your attractiveness to me. May your beauty cover my body like a …… garment.
+
+@(B.6 = 6-9) Lord whose pure hands befit the milk churn, what you accomplish is pleasing to @wDN{An} and @wDN{Enlil}. @wDN{Nanna}, lord whose pure hands befit the milk churn, what you accomplish is pleasing to @wDN{An} and @wDN{Enlil}.
+
+@(B.10 = 10-17) May you build enduringly the eternal (?) house. May you build enduringly @wDN{Nanna's} eternal (?) house, the …… quarters (?) and the courtyard of @wDN{Nanna} -- the temple whose shadow extends out into the midst of the sea, the @wTN{E-kiš-nu-ŋal}, the sweet wonder, the temple of @wDN{Nanna} built on empty land! ……, @wDN{Suen} …… among the gods. …… @wDN{Enlil} (?). ……, @wDN{Nanna}, lord, great son of @wDN{An}, beloved …… of @wDN{Enlil} and @wDN{Ninlil},  @gap{unknown no. of lines missing} 
+
+
+@(C.1 = 1-12)  @gap{12 lines missing or fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

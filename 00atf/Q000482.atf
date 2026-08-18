@@ -1,0 +1,310 @@
+&Q000482 = A praise poem of Lipit-Eštar (Lipit-Eštar B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.5.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.5.2&display=Crit&charenc=gcirc#
+
+1. {d}li-pi₂-it-eš₄-tar₂ lugal saŋ il₂ nun barag-ga
+#lem: Lipiteštar[1]RN; lugal[king]; saŋ[head]; il[raise]; nun[prince]; barag[sanctum]
+#etcsl: line-id=1
+
+2. he₂-du₇ {ŋiš}isimu₂{sar} nam-lugal-la
+#lem: hedu[ornament]; isimu[stalk]; namlugal[kingship]
+#etcsl: line-id=2
+
+3. {d}utu-gin₇ du še-er-zid kalam-ma
+#lem: Utu[1]DN; ŋen[go]; šerzid[radiance]; kalam[the Land (of Sumer)]
+#etcsl: line-id=3
+
+4. nam-nun-še₃ mah me gal-la u₅
+#lem: namnun[magnificence]; mah[great]; me[Being]; gal[big]; u[ride]
+#etcsl: line-id=4
+
+5. ub-da 4 uŋ₃ ki ŋar-ra
+#lem: ub[corner]; n; uŋ[people]; ki[place]; ŋar[put]
+#etcsl: line-id=5
+
+6. še-ga {d}en-lil₂-la₂ {d}nin-lil₂-le ki aŋ₂
+#lem: šeg[agree]; Enlil[1]DN; Ninlil[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=6
+
+7. šul zid igi gun₃ barag-ga tum₂-ma
+#lem: šul[youth]; zid[right]; igi[eye]; gunu[speckled]; barag[sanctum]; tum[suitable]
+#etcsl: line-id=7
+
+8. men aga zid saŋ me-te-ŋal₂
+#lem: men[tiara]; aga[tiara]; zid[right]; saŋ[head]; meteŋal[seemly]
+#etcsl: line-id=8
+
+9. šibir šu (1:du₈:1) saŋ gig₂-ga
+#lem: šibir[shepherd's staff]; šu[hand]; du[spread]; saŋ[head]; giggig[black]
+#etcsl: line-id=9
+
+:9v.1.1: ($1 ms. has instead:$) du₇
+#lem: du[perfect]
+
+10. nun {d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂ sipad igi-ŋal₂-tuku
+#lem: nun[prince]; Lipiteštar[1]RN; dumu[child]; Enlil[1]DN; sipad[shepherd]; igiŋaltuku[wise]
+#etcsl: line-id=10
+
+11. uŋ₃ lah₅-lah₅-e ŋissu dug₃-ga ud IŠ-e ni₂ dub₂-bu
+#lem: uŋ[people]; lah[plural stem of tum ⟦bring⟧]; ŋissu[shade]; dug[good]; ud[sun]; X; ni[self]; dub[tremble]
+#etcsl: line-id=11
+
+12. en alim mah an-ne₂ ki aŋ₂
+#lem: en[lord]; alim[bison]; mah[great]; An[1]DN; ki[place]; aŋ[measure]
+#etcsl: line-id=12
+
+13. ŋiškim-til₃-zu-um ama {d}nin-lil₂-la₂
+#lem: ŋeškimtil[trust]; ama[mother]; Ninlil[1]DN
+#etcsl: line-id=13
+
+14. {d}li-pi₂-it-eš₄-tar₂ a₂ nun hu-mu-te-ŋal₂
+#lem: Lipiteštar[1]RN; a[arm]; nun[prince]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=14
+
+15. ka lal₃-gin₇ dug₃ mu ka-ge du₇
+#lem: kag[mouth]; lal[syrup]; dug[good]; mu[name]; kag[mouth]; du[perfect]
+#etcsl: line-id=15
+
+16. šag₄-ge de₆-a dam {d}inana
+#lem: šag[heart]; de[carry]; dam[spouse]; Inanak[1]DN
+#etcsl: line-id=16
+
+17. {d}en-ki-ke₄ ŋeštug₂ daŋal saŋ-e-eš rig₇-ga
+#lem: Enkik[1]DN; ŋeštug[ear]; daŋal[wide]; saŋ[head]; rig[donate]
+#etcsl: line-id=17
+
+18. {d}nisaba munus ul-la gun₃-a
+#lem: Nisabak[1]DN; munus[woman]; ul[swell]; gunu[speckled]
+#etcsl: line-id=18
+
+19. munus zid dub-sar nin niŋ₂-nam zu
+#lem: munus[woman]; zid[right]; dubsar[scribe]; nin[lady]; niŋnam[anything]; zu[know]
+#etcsl: line-id=19
+
+20. si-zu im-ma si ba-ni-in-sa₂
+#lem: si[horn]; im[clay]; si[horn]; sa[equal]
+#etcsl: line-id=20
+
+21. šag₄ dub-ba-ka gu-šum₂ mi-ni-in-sag₉-sag₉
+#lem: šag[heart]; dub[tablet]; gušum[(cuneiform) wedge]; sag[good]
+#etcsl: line-id=21
+
+22. gi-dub-ba kug-sig₁₇-ka šu mu-ni-in-gun₃
+#lem: gidubak[stylus]; kugsig[gold]; šu[hand]; gunu[speckled]
+#etcsl: line-id=22
+
+23. gi-1(diš)-nindan eš₂-gana₂ za-gin₃
+#lem: ginindan[measuring rod]; ešgana[measuring line]; zagin[lapis lazuli]
+#etcsl: line-id=23
+
+24. ŋiš-as₄-lum le-um igi-ŋal₂ šum₂-mu {d}nisaba-ke₄ šu daŋal ma-ra-an-dug₄
+#lem: aslum[measuring rod]; leʾum[writing board]; igiŋal[wise]; šum[give]; Nisabak[1]DN; šu[hand]; daŋal[wide]; dug[speak]
+#etcsl: line-id=24
+
+25. {d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-me-en
+#lem: Lipiteštar[1]RN; dumu[child]; Enlil[1]DN
+#etcsl: line-id=25
+
+26. niŋ₂-zid niŋ₂-gen₆-na pa bi₂-e-e₃
+#lem: niŋzid[righteousness]; niŋgina[truth]; pa[branch]; e[leave]
+#etcsl: line-id=26
+
+27. en sag₉-zu an-zag-še₃ na-dul
+#lem: en[lord]; sag[good]; anzag[horizon]; dul[cover]
+#etcsl: line-id=27
+
+28. {d}li-pi₂-it-eš₄-tar₂ lugal umuš gal-gal-la ad gi₄-gi₄
+#lem: Lipiteštar[1]RN; lugal[king]; umuš[consideration]; gal[big]; ad[voice]; gi[turn]
+#etcsl: line-id=28
+
+29. inim-ma nu-kuš₂-u₃ gal-zu ka-aš bar uŋ₃-e si sa₂
+#lem: inim[word]; kušu[tired]; galanzu[wise]; kaš[decision]; bar[place outside]; uŋ[people]; si[horn]; sa[equal]
+#etcsl: line-id=29
+
+30. ŋeštug₂ daŋal niŋ₂-nam gal-le-eš zu
+#lem: ŋeštug[ear]; daŋal[wide]; niŋnam[anything]; gal[big]; zu[know]
+#etcsl: line-id=30
+
+31. di kur-kur-ra-ke₄ si sa₂-sa₂-e-de₃
+#lem: did[lawsuit]; kur[mountain(s)]; si[horn]; sa[equal]
+#etcsl: line-id=31
+
+32. inim šag₄-ga ŋal₂-la lul zid-bi mu-e-zu
+#lem: inim[word]; šag[heart]; ŋal[⟦be⟧ to be (there]; lul[false]; zid[right]; zu[know]
+#etcsl: line-id=32
+
+33. {d}li-pi₂-it-eš₄-tar₂ lu₂-erim₂-ra guru₅-uš mu-e-ta-ab-ed₂-de₃-en
+#lem: Lipiteštar[1]RN; luʾerim[evildoer]; guguru[trim down]; e[leave]
+#etcsl: line-id=33
+
+34. ka šer₇-da-ka ŋiri₃ saga₁₁ dug₄ lu₂ zi-zi-i mu-e-zu
+#lem: kag[mouth]; šerda[crime]; ŋiri[foot]; saga[press?]; dug[speak]; lu[person]; zig[rise]; zu[know]
+#etcsl: line-id=34
+
+35. nam-tag dugud ka garaš₂-kam lu₂ til-le mu-ni-in-zu
+#lem: namtaga[sin]; dugud[heavy]; kag[mouth]; garaš[catastrophe]; lu[person]; til[complete]; zu[know]
+#etcsl: line-id=35
+
+36. a₂-tuku sa gaz nu-mu-un-ši-ak-e
+#lem: atuku[powerful]; sa[sinew]; gaz[kill]; ak[do]
+#etcsl: line-id=36
+
+37. kalag-ga sig₉-ga še₂₉-eš₂ nu-mu-un-ak-e
+#lem: kalag[strong]; sig[weak]; heše[oppressed]; ak[do]
+#etcsl: line-id=37
+
+38. niŋ₂-si-sa₂ ki-en-gi ki-uri-a mu-ni-ŋar
+#lem: niŋsisa[justice]; Kengir[1]; Akkad[1 Akkad]; ŋar[put]
+#etcsl: line-id=38
+
+39. su kalam-ma mu-dug₃
+#lem: su[flesh]; kalam[the Land (of Sumer)]; dug[good]
+#etcsl: line-id=39
+
+40. {d}li-pi₂-it-eš₄-tar₂ lugal i₃-si-in{ki}-na lugal ki-en-gi ki-uri-me-en
+#lem: Lipiteštar[1]RN; lugal[king]; Isin[1]SN; lugal[king]; Kengir[1]; Akkad[1 Akkad]
+#etcsl: line-id=40
+
+41. nibru{ki}-še₃ dub sar-re-me-en
+#lem: Nibru[1]SN; dub[tablet]; sar[write]
+#etcsl: line-id=41
+
+42. e₂-kur-re e₂ {d}en-lil₂-la₂-še₃ {d}li-pi₂-it-eš₄-tar₂ saŋ us₂-bi za-e-me-en
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN; Lipiteštar[1]RN; saŋ[head]; us[accompany]; zaʾe[you]
+#etcsl: line-id=42
+
+43. {d}en-lil₂ {d}nin-lil₂-ra ki aŋ₂ šag₄-ba-me-en
+#lem: Enlil[1]DN; Ninlil[1]DN; ki[place]; aŋ[measure]; šag[heart]
+#etcsl: line-id=43
+
+44. ur-saŋ {d}nin-urta maškim kalag-ga-zu-um
+#lem: ursaŋ[warrior]; Ninurtak[1]DN; maškim[an administrator]; kalag[strong]
+#etcsl: line-id=44
+
+45. {d}nuska sukkal-mah a₂-tah inim-ma-zu-um
+#lem: Nuska[1]DN; sukkalmah[an official]; atah[helper]; inim[word]
+#etcsl: line-id=45
+
+46. išib keš₃{ki}-še₃ {d}nin-tur₅-re zid-de₃-eš pad₃-da-me-en
+#lem: išib[purification priest]; Keš[1]SN; Nintur[1]DN; zid[right]; pad[find]
+#etcsl: line-id=46
+
+47. urim₂{ki}-še₃ ŋal₂-la šul ŋiš tuku {d}suen-na-me-en
+#lem: Urim[1]SN; ŋal[⟦be⟧ to be (there]; šul[youth]; ŋeš[tree]; tuku[acquire]; Suen[1]DN
+#etcsl: line-id=47
+
+48. {d}en-ki-ke₄ eridug{ki}-ta aga zid šum₂-ma-me-en
+#lem: Enkik[1]DN; Eridug[1]SN; aga[tiara]; zid[right]; šum[give]
+#etcsl: line-id=48
+
+49. ki unug{ki}-ga kug {d}inana-ra {d}li-pi₂-it-eš₄-tar₂ hi-li šag₄-ga-na-me-en
+#lem: ki[place]; Unug[1]SN; kug[purify]; Inanak[1]DN; Lipiteštar[1]RN; hili[attractiveness]; šag[heart]
+#etcsl: line-id=49
+
+50. {d}nin-i₃-si-in-na-ke₄ i₃-si-in{ki}-na barag mah-zu mi-ni-in-ri
+#lem: Ninisinak[1]DN; Isin[1]SN; barag[sanctum]; mah[great]; ri[impose]
+#etcsl: line-id=50
+
+51. i-lu šag₄-ga mu bal sag₉-ga
+#lem: ilu[lament]; šag[heart]; mu[year]; bala[turn]; sag[good]
+#etcsl: line-id=51
+
+52. nun-e nun uru₁₆ dirig gal mah-bi
+#lem: nun[prince]; nun[prince]; urun[exalted]; dirig[make more than]; gal[big]; mah[great]
+#etcsl: line-id=52
+
+53. ad-da-zu {d}iš-me-{d}da-gan lugal kalam-ma-ke₄
+#lem: adda[father]; Išmedagan[1]RN; lugal[king]; kalam[the Land (of Sumer)]
+#etcsl: line-id=53
+
+54. {ŋiš}gu-za-na suhuš-bi mu-ra-an-ge-en
+#lem: guza[chair]; suhuš[foundation]; gin[confirm]
+#etcsl: line-id=54
+
+55. inim dug₄-ga an {d}en-lil₂-la₂-ta
+#lem: inim[word]; dug[speak]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=55
+
+56. du₁₇ nim kur-kur-ra si-a (1:mu-ni-in-ŋar:1)
+#lem: dud[combat]; nim[high]; kur[mountain(s)]; sig[silent]; ŋar[put]
+#etcsl: line-id=56
+
+:56v.1.1: ($1 ms. has instead:$) mu-e-ni-ŋar
+#lem: ŋar[put]
+
+57. {d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-me-en
+#lem: Lipiteštar[1]RN; dumu[child]; Enlil[1]DN
+#etcsl: line-id=57
+
+58. niŋ₂-gen₆-na-zu ka-ga₁₄ mi-ni-in-ŋal₂
+#lem: niŋgina[truth]; kag[mouth]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=58
+
+59. za₃-mi₂-zu e₂-dub-ba-a-ka (1:im mu-e-ni-dug₄-dug₄:1)
+#lem: zamin[praise]; edubbaʾa[scribal school]; im[clay]; dug[speak]
+#etcsl: line-id=59
+
+:59v.1.1: ($1 ms. has instead:$) im-e nam-da₁₃-da₁₃
+#lem: im[clay]; taka[set aside]
+
+60. dub-sar-re a-le he₂-em-ši-ak-e gal-le-eš he₂-i-i
+#lem: dubsar[scribe]; ala[exuberance]; ak[do]; gal[big]; e[bring out]
+#etcsl: line-id=60
+
+61. ar₂-zu e₂-dub-ba-a-ka muš₃ nam-ba-an-tum₂-mu
+#lem: ar[celebrate]; edubbaʾa[scribal school]; muš[face]; tum[bring]
+#etcsl: line-id=61
+
+62. sipad gu₂-tuku šul dumu {d}en-lil₂-la₂
+#lem: sipad[shepherd]; gutuku[perfect]; šul[youth]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=62
+
+63. {d}li-pi₂-it-eš₄-tar₂ za₃-mi₂
+#lem: Lipiteštar[1]RN; zamin[praise]
+#etcsl: line-id=63
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-14) @wRN{Lipit-@wDN{Eštar}}, proud king, enthroned prince, most seemly offshoot of kingship, who walks like @wDN{Utu}, brilliant light of the Land, lofty in nobility, riding on the great divine powers; who settles the people in the four quarters; favoured by @wDN{Enlil}, beloved by @wDN{Ninlil}, trustworthy youth with shining eyes, worthy of the throne-dais, whose seemly head is adorned with the tiara, the good headdress, who  @varh[t2552.v1]{holds in his hand } @vart[t2552.v2,t2552.v1]{@varn{1 ms. has instead:} is perfect with } the sceptre over the black-headed, prince @wRN{Lipit-@wDN{Eštar}}, son of @wDN{Enlil}, wise shepherd, who leads the people to let them relax …… in pleasant shade, lord, great bison, beloved by @wDN{An}! Your trust is put in Mother @wDN{Ninlil}; @wRN{Lipit-@wDN{Eštar}}, you exert great power.
+
+#etcsl#altGrpo
+#etcsl#alt t2552.v1 t2552.v2
+#etcsl#altGrpc
+
+@(15 = 15-24) You who speak as sweet as honey, whose name suits the mouth, longed-for husband of @wDN{Inana}, to whom @wDN{Enki} gave broad wisdom as a gift! @wDN{Nisaba}, the woman radiant with joy, the true woman, the scribe, the lady who knows everything, guides your fingers on the clay: she makes them put beautiful wedges on the tablets and adorns them with a golden stylus. @wDN{Nisaba} generously bestowed upon you the measuring rod, the surveyor's gleaming line, the yardstick, and the tablets which confer wisdom.
+
+@(25 = 25-39) @wRN{Lipit-@wDN{Eštar}}, @wDN{Enlil's} son, you have realised justice and righteousness. Lord, your goodness covers everything as far as the horizon. King @wRN{Lipit-@wDN{Eštar}}, counsellor with huge intelligence, who never tires of discussion, wise one whose decisions guide the people, amply wise, knowing everything in great detail! To decide justly the lawsuits of foreign countries, you recognise true and false even in people's thoughts. @wRN{Lipit-@wDN{Eštar}}, you …… the wicked, but you also know how to save someone by commuting his death sentence; you know how to free someone from the severe punishment, from the jaws of destruction. The mighty do not commit robbery and the strong do not abuse the weak anymore: you have established justice in @wGN{Sumer} and @wGN{Akkad} and made the Land feel content.
+
+@(40 = 40-50) @wRN{Lipit-@wDN{Eštar}}, king of @wSN{Isin}, king of @wGN{Sumer} and @wGN{Akkad}, you are the tablet writer of Nibru; @wRN{Lipit-@wDN{Eštar}}, you are the constant attendant of the @wTN{E-kur}, @wDN{Enlil's} house. You are the beloved one of @wDN{Enlil's} and @wDN{Ninlil's} hearts. Hero @wDN{Ninurta} is your mighty commissioner. Chief minister @wDN{Nuska} is your aid in all matters. You have been rightly chosen by @wDN{Nintur} as the purification priest of @wSN{Keš}. When in @wSN{Urim}, you are the youth who has the attention of @wDN{Suen}. You are the one to whom @wDN{Enki} gave the good headdress in @wSN{Eridug}. In @wSN{Unug}, @wRN{Lipit-@wDN{Eštar}}, you are the delight of holy @wDN{Inana's} heart. In @wSN{Isin}, @wDN{Ninisina} set up your lofty throne-dais.
+
+@(51 = 51-56) Among joyful songs of the heart, in an auspicious regnal year, the prince, the powerful prince surpassing in greatness and majesty, your father @wRN{Išme-@wDN{Dagan}}, king of the Land, made the foundations of his throne firm for you. On the orders of @wDN{An} and @wDN{Enlil},  @varh[t2552.v3]{he } @vart[t2552.v4,t2552.v3]{@varn{1 ms. has instead:} you } silenced the loud (?) strife of the foreign countries.
+
+#etcsl#altGrpo
+#etcsl#alt t2552.v3 t2552.v4
+#etcsl#altGrpc
+
+@(57 = 57-63) @wRN{Lipit-@wDN{Eštar}}, @wDN{Enlil's} son, you have made every mouth speak of your righteousness.  @varh[t2552.v5]{The tablets will forever speak your praise } @vart[t2552.v6,t2552.v5]{@varn{1 ms. has instead:} May your praise never disappear from the tablets } in the @fsux{e-dub-ba-a}. May the scribes …… and glorify you greatly! May eulogies of you never cease in the @fsux{e-dub-ba-a}! Perfect shepherd, youthful son of @wDN{Enlil}, @wRN{Lipit-@wDN{Eštar}}, be praised!
+
+#etcsl#altGrpo
+#etcsl#alt t2552.v5 t2552.v6
+#etcsl#altGrpc
+
+

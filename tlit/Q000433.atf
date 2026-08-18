@@ -1,0 +1,461 @@
+&Q000433 = A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.5.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.5.2&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div kirugu A
+
+$ (unknown no. of lines missing)
+A.A.1. [X X] X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.A.1
+
+A.A.2. [X X] me-teš₂ ši-im-X [...]
+#lem: X; X; meteš[praise]; X; X
+#etcsl: line-id=A.A.2
+
+A.A.3. [...] zi-šag₄-ŋal₂-la-ke₄ šag₄-zu im-[...]
+#lem: X; zišagŋal[encouragement]; šag[heart]; X
+#etcsl: line-id=A.A.3
+
+A.A.4. {[d]}meš₃-lam-ta-e₃-a su₃-u₄-ra₂ X [...]
+#lem: Meslamtaea[1]; sud[distant]; X; X
+#etcsl: line-id=A.A.4
+
+@div trailer 
+
+A.A.5. ki-ru-gu₂ 4-kam-ma-am₃#
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.A.5
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal B
+
+A.B.6. a₂ mah nun {d}i-bi₂-{d}suen-[ŋu₁₀]
+#lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
+#etcsl: line-id=A.B.6
+
+@div trailer 
+
+A.B.7. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=A.B.7
+
+@end trailer
+
+@end jicgijal
+
+@div kirugu C
+
+A.C.8. ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig-ge-en ne-zu an-zag-še₃
+#lem: dirig[make more than]; lugal[king]; dirig[make more than]; ne[strength]; anzag[horizon]
+#etcsl: line-id=A.C.8
+
+A.C.9. en {d}lugal-er₉-ra ši-im-dirig-ge-en ne-zu an-zag-še₃
+#lem: en[lord]; Lugalerra[1]; dirig[make more than]; ne[strength]; anzag[horizon]
+#etcsl: line-id=A.C.9
+
+A.C.10. me-zu me galam-ma me nu-sig₁₀-ge₅-da
+#lem: me[Being]; me[Being]; galam[skilful]; me[Being]; sig[put into]
+#etcsl: line-id=A.C.10
+
+A.C.11. ab ku-kur ŋal₂-la ni₂ huš ri-a-me-en
+#lem: ab[sea]; kurku[flood]; ŋal[⟦be⟧ to be (there]; ni[fear]; huš[reddish]; ri[impose]
+#etcsl: line-id=A.C.11
+
+A.C.12. diŋir er₉ kalam-ma til₃-la-me-en
+#lem: diŋir[deity]; ir[mighty]; kalam[the Land (of Sumer)]; til[live (of a single person)]
+#etcsl: line-id=A.C.12
+
+A.C.13. ni₂ gal an ki-a dul-la-me-en
+#lem: ni[fear]; gal[big]; an[sky]; ki[place]; dul[cover]
+#etcsl: line-id=A.C.13
+
+@div trailer 
+
+A.C.14. ki-ru-gu₂ 5-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.C.14
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal D
+
+A.D.15. nam-mah-zu ga-i-i
+#lem: nammah[greatness]; e[bring out]
+#etcsl: line-id=A.D.15
+
+A.D.16. ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig#-[ge-en] ne-zu an-zag-še₃
+#lem: dirig[make more than]; lugal[king]; dirig[make more than]; ne[strength]; anzag[horizon]
+#etcsl: line-id=A.D.16
+
+@div trailer 
+
+A.D.17. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=A.D.17
+
+@end trailer
+
+@end jicgijal
+
+@div kirugu E
+
+A.E.18. ur-saŋ zid me-teš₂-e ga-i-i
+#lem: ursaŋ[warrior]; zid[right]; meteš[praise]; e[bring out]
+#etcsl: line-id=A.E.18
+
+A.E.19. en {d}lugal-er₉-ra me-teš₂ ga-i-i
+#lem: en[lord]; Lugalerra[1]; meteš[praise]; e[bring out]
+#etcsl: line-id=A.E.19
+
+A.E.20. {ŋiš}rab₃ gal mah diŋir-re-e-ne-me-en
+#lem: raba[clamp]; gal[big]; mah[great]; diŋir[deity]
+#etcsl: line-id=A.E.20
+
+A.E.21. ni₂ gal kalam-ma ša-mu-ri-a-me-[en]
+#lem: ni[fear]; gal[big]; kalam[the Land (of Sumer)]; ri[impose]
+#etcsl: line-id=A.E.21
+
+A.E.22. ku-kur dugud kur-ra du₆-ul!(LU)-la-me-en
+#lem: kurku[flood]; dugud[heavy]; kur[mountain(s)]; dul[cover]
+#etcsl: line-id=A.E.22
+
+A.E.23. id₂-zu id₂ kalag-ga-am₃ id₂ nam tar-ra-am₃
+#lem: id[river]; id[river]; kalag[strong]; id[river]; nam[fate]; tar[cut]
+#etcsl: line-id=A.E.23
+
+A.E.24. id₂ mah ki ud e₃ igi nu-bar-re-dam
+#lem: id[river]; mah[great]; ki[place]; ud[sun]; e[leave]; igi[eye]; bar[place outside]
+#etcsl: line-id=A.E.24
+
+A.E.25. ma₂-gur₈ mah a ku-kur-ra u₅-a
+#lem: magur[barge]; mah[great]; a[water]; kurku[flood]; u[ride]
+#etcsl: line-id=A.E.25
+
+A.E.26. gu₂ si-a nam-lu₂-ulu₃-ka
+#lem: gu[neck]; si[fill]; namlulu[humanity]
+#etcsl: line-id=A.E.26
+
+A.E.27. en {d}lugal-er₉-ra ŋiri₃-zu um-mi-gub
+#lem: en[lord]; Lugalerra[1]; ŋiri[foot]; gub[stand]
+#etcsl: line-id=A.E.27
+
+A.E.28. nun kur-ra-ke₄-ne ša-mu-e-ši-gam-e-de₃-eš
+#lem: nun[prince]; kur[mountain(s)]; gurum[bend]
+#etcsl: line-id=A.E.28
+
+A.E.29. bur₃-ra ud zalag ša-mu-un-ne-ri-ib-e₃
+#lem: burud[perforate]; ud[sun]; zalag[bright]; e[leave]
+#etcsl: line-id=A.E.29
+
+A.E.30. [...] U ra šu-zu-še₃ ša-mu-u₈-ŋal₂
+#lem: X; X; rah[beat]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.E.30
+
+A.E.31. en# {d}lugal-er₉-ra an-zag-še₃ mah-me-en
+#lem: en[lord]; Lugalerra[1]; anzag[horizon]; mah[great]
+#etcsl: line-id=A.E.31
+
+@div trailer 
+
+A.E.32. ki-ru-gu₂ 6-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=A.E.32
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal F
+
+A.F.33. a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
+#etcsl: line-id=A.F.33
+
+@div trailer 
+
+A.F.34. ŋiš#-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=A.F.34
+
+@end trailer
+
+@end jicgijal
+
+@div kirugu G
+
+A.G.35. lugal#-ŋu₁₀ nam-mah-za ga-am₃-dug₄
+#lem: lugal[king]; nammah[greatness]; dug[speak]
+#etcsl: line-id=A.G.35
+
+A.G.36. en# {d}lugal-er₉-ra nam-mah-za ga-am₃-dug₄
+#lem: en[lord]; Lugalerra[1]; nammah[greatness]; dug[speak]
+#etcsl: line-id=A.G.36
+
+A.G.37. za#-e mah-me-en dili-zu i₃-mah-me-en
+#lem: zaʾe[you]; mah[great]; dili[single]; mah[great]
+#etcsl: line-id=A.G.37
+
+A.G.38. diŋir# er₉-ra diŋir-re-e-ne-er rib-ba
+#lem: diŋir[deity]; ir[mighty]; diŋir[deity]; rib[surpassing]
+#etcsl: line-id=A.G.38
+
+A.G.39. lugal sukud-ra₂ an-ne₂-e us₂-sa
+#lem: lugal[king]; sukud[height]; an[sky]; us[accompany]
+#etcsl: line-id=A.G.39
+
+A.G.40. diŋir# er₉ en zid ni₂-te-na
+#lem: diŋir[deity]; ir[mighty]; en[lord]; zid[right]; ni[self]
+#etcsl: line-id=A.G.40
+
+A.G.41. {d}id₂-lu₂-ru-gu₂ šag₄ diŋir-re-e-ne
+#lem: Idlurugu[1]DN; šag[heart]; diŋir[deity]
+#etcsl: line-id=A.G.41
+
+A.G.42. en ka-aš bar niŋ₂-erim₂-e hul gig
+#lem: en[lord]; kaš[decision]; bar[place outside]; niŋerim[evil]; hulu[bad]; gig[sick]
+#etcsl: line-id=A.G.42
+
+A.G.43. {d}suen-gin₇ niŋ₂-si-sa₂-e ki aŋ₂
+#lem: Suen[1]DN; niŋsisa[justice]; ki[place]; aŋ[measure]
+#etcsl: line-id=A.G.43
+
+A.G.44. en nam tar-tar-ra an {d}en-lil₂-la₂-me-eš
+#lem: en[lord]; nam[fate]; tar[cut]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=A.G.44
+
+A.G.45. niŋ₂-nam an ki ŋal₂-ŋal₂-la-a-ba
+#lem: niŋnam[anything]; an[sky]; ki[place]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.G.45
+
+A.G.46. nam tar-re-bi gal-bi mu-un-u₂-us₂
+#lem: nam[fate]; tar[cut]; gal[big]; us[accompany]
+#etcsl: line-id=A.G.46
+
+A.G.47. [...] X {d}en-lil₂-le saŋ-e-eš mu-un-rig₇
+#lem: X; X; Enlil[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=A.G.47
+
+A.G.48. [...] X nun-e-ne {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: X; X; nun[prince]; Ibbisuen[1]RN
+#etcsl: line-id=A.G.48
+
+A.G.49. [X X] X nam-ma-ni mah bad₃ gal kur KU-KU
+#lem: X; X; X; nam[fate]; mah[great]; bad[wall]; gal[big]; kur[mountain(s)]; X
+#etcsl: line-id=A.G.49
+
+A.G.50. [me] gal#-gal šu du₇ dumu {d}en-lil₂-la₂-ka
+#lem: me[Being]; gal[big]; šu[hand]; du[perfect]; dumu[child]; Enlil[1]DN
+#etcsl: line-id=A.G.50
+
+A.G.51. {[d]}[lugal]-er₉-ra-gin₇ hul-ŋal₂ saŋ |KA×X|-|KA×X|
+#lem: Lugalerra[1]; huluŋal[evil]; saŋ[head]; X
+#etcsl: line-id=A.G.51
+
+A.G.52. {[d]}[meš₃-lam]-ta-e₃-a a₂ mah-a-na gal-bi
+#lem: Meslamtaea[1]; a[arm]; mah[great]; gal[big]
+#etcsl: line-id=A.G.52
+
+A.G.53. [a₂ mah]-a-na gal-bi ši-im-mi-DU
+#lem: a[arm]; mah[great]; gal[big]; X
+#etcsl: line-id=A.G.53
+
+A.G.54. [X X] AN ka du₈-a kur-ra šu ur₃-ur₃
+#lem: X; X; X; kag[mouth]; du[spread]; kur[mountain(s)]; šu[hand]; ur[drag]
+#etcsl: line-id=A.G.54
+
+A.G.55. [X X] tar-re erim₂ zar-re-eš i₃-sal-le
+#lem: X; X; tar[cut]; erim[enemy]; zar[sheaf (of barley)]; sal[thin]
+#etcsl: line-id=A.G.55
+
+A.G.56. [en] {[d]}lugal#-er₉-ra a₂ mah-a-na gal-bi
+#lem: en[lord]; Lugalerra[1]; a[arm]; mah[great]; gal[big]
+#etcsl: line-id=A.G.56
+
+A.G.57. [a₂ mah-a]-na gal-bi ši-im-mi-in-DU
+#lem: a[arm]; mah[great]; gal[big]; X
+#etcsl: line-id=A.G.57
+
+A.G.58. [X X] X NE ŋiškim sag₉-ga
+#lem: X; X; X; X; ŋeškim[sign]; sag[good]
+#etcsl: line-id=A.G.58
+
+A.G.59. [X X]-ga lugal-la-me-eš
+#lem: X; X; lugal[king]
+#etcsl: line-id=A.G.59
+
+A.G.60. [...] šu ŋa₂-ŋa₂-me-eš
+#lem: X; šu[hand]; ŋar[put]
+#etcsl: line-id=A.G.60
+
+A.G.61. [...] X ME X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.G.61
+
+$ (unknown no. of lines missing)
+@end kirugu
+
+@end segment
+
+@div segment B
+
+@div kirugu H
+
+B.H.1. ur-saŋ gal-me-eš nam-mah-bi a-ri-a sug₄-ga-am₃
+#lem: ursaŋ[warrior]; gal[big]; nammah[greatness]; eria[wasteland]; sug[empty]
+#etcsl: line-id=B.H.1
+
+B.H.2. 2-na-ne-ne lugal id₂-da-me-eš
+#lem: n; lugal[king]; id[river]
+#etcsl: line-id=B.H.2
+
+B.H.3. {d}id₂-lu₂-ru-gu₂ lu₂ zid dadag-ga-[am₃]
+#lem: Idlurugu[1]DN; lu[person]; zid[right]; dadag[bright]
+#etcsl: line-id=B.H.3
+
+B.H.4. lu₂-erim₂ {ŋiš}<rab₃>-gin₇ šu ri-ri-a-me-eš
+#lem: luʾerim[evildoer]; raba[clamp]; šu[hand]; ri[impose]
+#etcsl: line-id=B.H.4
+
+B.H.5. kisiga{ki} iri ul ki ŋar-ra-ba
+#lem: Kisiga[1]SN; iri[city]; ul[distant time]; ki[place]; ŋar[put]
+#etcsl: line-id=B.H.5
+
+B.H.6. zid-du nu-dab₅-be₂ erim₂-du nu-dib-be₂
+#lem: ziddu[righteous(-acting)]; dab[seize]; erimdu[hostile]; dib[pass]
+#etcsl: line-id=B.H.6
+
+B.H.7. ki šag₄ kuš₂ an {[d]}en#-[lil₂]-la₂-me-eš
+#lem: ki[place]; šag[heart]; kušu[tired]; An[1]DN; Enlil[1]DN
+#etcsl: line-id=B.H.7
+
+B.H.8. ki ni₂ dub₂ RU AN# X X X-me-eš
+#lem: ki[place]; ni[self]; dub[tremble]; X; X; X; X; X
+#etcsl: line-id=B.H.8
+
+B.H.9. ki gal an-še₃ AN X X [X X]-me-en
+#lem: ki[place]; gal[big]; an[sky]; X; X; X; X; X
+#etcsl: line-id=B.H.9
+
+B.H.10. ki nam tar-re an {[d]}en#-[lil₂]-la₂ [...]
+#lem: ki[place]; nam[fate]; tar[cut]; An[1]DN; Enlil[1]DN; X
+#etcsl: line-id=B.H.10
+
+B.H.11. me-bi kug-kug-ga-am₃ X [...]
+#lem: me[Being]; kug[pure]; X; X
+#etcsl: line-id=B.H.11
+
+B.H.12. [...] NI lu₂ nu-[...]
+#lem: X; X; lu[person]; X
+#etcsl: line-id=B.H.12
+
+B.H.13. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.H.13
+
+$ (unknown no. of lines missing)
+@end kirugu
+
+@end segment
+
+@div segment C
+
+@div kirugu I
+
+C.I.1. me-bi X X hu-ul-hu-le-eš sig₇-[ga-am₃]
+#lem: me[Being]; X; X; hul[rejoice]; sissig[green-yellow]
+#etcsl: line-id=C.I.1
+
+C.I.2. me 7-na |LAGAB×X| gal-le-eš ŋar-[ra-am₃]
+#lem: me[Being]; n; X; gal[big]; ŋar[put]
+#etcsl: line-id=C.I.2
+
+C.I.3. me še-er-ka-an nun-e abzu-ta nun [X X] še-er-ka-an dug₄-ga-[am₃]
+#lem: me[Being]; šerkan[ornament]; nun[prince]; abzu[(cosmic) underground water]; nun[prince]; X; X; šerkan[ornament]; dug[speak]
+#etcsl: line-id=C.I.3
+
+C.I.4. {d}meš₃-lam-ta-e₃-a en {d}lugal#-er₉-[ra]
+#lem: Meslamtaea[1]; en[lord]; Lugalerra[1]
+#etcsl: line-id=C.I.4
+
+C.I.5. nam-ur-saŋ-bi kur-re ba-X-a
+#lem: namursaŋ[heroism]; kur[mountain(s)]; X
+#etcsl: line-id=C.I.5
+
+C.I.6. nam-mah-bi zag an ki-še₃ zag an ki-še₃ pa e₃ ak-a
+#lem: nammah[greatness]; zag[side]; an[sky]; ki[place]; zag[side]; an[sky]; ki[place]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=C.I.6
+
+@div trailer 
+
+C.I.7. ki-ru-gu₂ 10-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#etcsl: line-id=C.I.7
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal K
+
+C.K.8. a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
+#etcsl: line-id=C.K.8
+
+@div trailer 
+
+C.K.9. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#etcsl: line-id=C.K.9
+
+@end trailer
+
+@end jicgijal
+
+@div kišu L
+
+C.L.10. kalag-bi ud kalam-ma šu ur₃-ur₃
+#lem: kalag[strong]; ud[storm]; kalam[the Land (of Sumer)]; šu[hand]; ur[drag]
+#etcsl: line-id=C.L.10
+
+C.L.11. {d}meš₃-lam-<ta>-e₃-a en {d}lugal-er₉-ra za₃-mi₂-zu dug₃-ga-am₃
+#lem: Meslamtaea[1]; en[lord]; Lugalerra[1]; zamin[praise]; dug[good]
+#etcsl: line-id=C.L.11
+
+@div trailer 
+
+C.L.12. ki-šu₂-bi-im
+#lem: kišuš[musical notation]
+#etcsl: line-id=C.L.12
+
+@end trailer
+
+@end kicu
+
+@div trailer 
+
+C.L.13. šir₃-nam-gala {d}meš₃-lam-ta-e₃-a u₃ {d}lugal-er₉-ra
+#lem: širnamgalak[subscript]; Meslamtaea[1]; u[and]; Lugalerra[1]
+#etcsl: line-id=C.L.13
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+&Q000748 = A hymn to Sadarnuna (Sadarnuna A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.33.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.33.1&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. munus zid me gal-la dur₂ ŋar-ra
+#lem: munus[woman]; zid[right]; me[Being]; gal[big]; dur[buttocks]; ŋar[put]
+#etcsl: line-id=A.1
+
+A.2. nin nam-nin-a dib-ba-am₃
+#lem: nin[lady]; namnin[ladyship]; dib[pass]
+#etcsl: line-id=A.2
+
+A.3. {d}sa#-[dar₃]-nun-na munus zid ŋalga sud zid ki aŋ₂ an-na-kam
+#lem: Sadarnuna[1]DN; munus[woman]; zid[right]; ŋalga[(fore)thought]; sud[distant]; zid[right]; ki[place]; aŋ[measure]; An[1]DN
+#etcsl: line-id=A.3
+
+A.4. nir gal kar mah {d}en-ul {d}nin-ul-e eš₃-mah-a tum₂-ma
+#lem: nir[lordly]; gal[big]; kar[harbor]; mah[great]; Enul[1]DN; Ninul[1]DN; Ešmah[1]TN; tum[suitable]
+#etcsl: line-id=A.4
+
+A.5. munus zid-de₃ kisal {d}en-lil₂-la₂-ka barag mah-a-na mu-un-ri
+#lem: munus[woman]; zid[right]; kisal[courtyard]; Enlil[1]DN; barag[sanctum]; mah[great]; ri[impose]
+#etcsl: line-id=A.5
+
+A.6. {e₂}šutum kug eš₃-mah ki X X gub-bu-na ni₂ huš gur₃-ru-am₃
+#lem: šutum[storehouse]; kug[purify]; Ešmah[1]TN; ki[place]; X; X; gub[stand]; ni[fear]; huš[reddish]; gur[lift]
+#etcsl: line-id=A.6
+
+A.7. u₃-tud-da ki aŋ₂ an lugal-la
+#lem: utud[give birth (to)]; ki[place]; aŋ[measure]; An[1]DN; lugal[king]
+#etcsl: line-id=A.7
+
+A.8.  %e  pad₃#-da#-nu#-nus#-e#  %s  he₂-du₇-na X eš₃-mah X X X
+#lem: Padanunus[1]TN; hedu[ornament]; X; Ešmah[1]TN; X; X; X
+#etcsl: line-id=A.8
+
+A.9. e₂-me-lem₄-huš ni₂ gal gur₃-ru-na su zig₃ X [...]
+#lem: Emelemhuš[1]TN; ni[fear]; gal[big]; gur[lift]; su[flesh]; zig[rise]; X; X
+#etcsl: line-id=A.9
+
+A.10. diŋir gal-gal an ki-ke₄-ne šu-kin mu-ra#-[...]
+#lem: diŋir[deity]; gal[big]; an[sky]; ki[place]; šukin[prostration]; X
+#etcsl: line-id=A.10
+
+A.11. nitalam#-a-ni kingal {d}nuska [...]
+#lem: ŋidlam[(equal ranking) spouse]; kingal[an official]; Nuska[1]DN; X
+#etcsl: line-id=A.11
+
+A.12. [X X] X-ni u₁₈-ru šu zid [...]
+#lem: X; X; X; urun[exalted]; šu[hand]; zid[right]; X
+#etcsl: line-id=A.12
+
+A.13. [X X] X iti₆ kalam X [...]
+#lem: X; X; X; itud[moon]; kalam[the Land (of Sumer)]; X; X
+#etcsl: line-id=A.13
+
+A.14. [...] a-ŋi₆ du₇-du₇# [...]
+#lem: X; aŋi[wave]; du[push]; X
+#etcsl: line-id=A.14
+
+A.15. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. nam X [...] X X [...]
+#lem: nam[fate]; X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. {d}en-lil₂ X X X [...]
+#lem: Enlil[1]DN; X; X; X; X
+#etcsl: line-id=B.2
+
+B.3. X X X X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.3
+
+B.4. šag₄ {d}nin-lil₂-la₂# X X [...]
+#lem: šag[heart]; Ninlil[1]DN; X; X; X
+#etcsl: line-id=B.4
+
+B.5. {d}sa-dar₃-nun-na X X X X za₃-mi₂-zu dug₃-ga-am₃#
+#lem: Sadarnuna[1]DN; X; X; X; X; zamin[praise]; dug[good]
+#etcsl: line-id=B.5
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-3) The just woman dwelling among the great divine powers is the lady unsurpassed in ladyship! @wDN{Sadarnuna}, the just woman of far-reaching and just counsel, is the beloved of @wDN{An}!
+
+@(A.4 = 4-8) The great authority (?), the majestic quay, made fitting for the @wTN{Eš-maḫ} by @wDN{Enul} and @wDN{Ninul}, the just woman has erected her majestic dais in the courtyard of @wDN{Enlil}. As she stands in the holy storehouse @wTN{Eš-maḫ}, the …… place, she conveys terrifying awesomeness. The beloved offspring of @wDN{An} the king, as she is worthy of the @wTN{Pada-nunus} (?), …… the @wTN{Eš-maḫ} (?).
+
+@(A.9 = 9-15) In his @wTN{E-melem-ḫuš} conveying great awesomeness, …… fear, serving the great gods of heaven and earth, her spouse, the assembly leader @wDN{Nuska}, …….  @gap{4 lines fragmentary}   @gap{unknown no. of lines missing} 
+
+
+@(B.1 = 1-4)  @gap{1 line fragmentary}  @wDN{Enlil} (?) …….  @gap{1 line fragmentary}  The heart of @wDN{Ninlil} …….
+
+@(B.5 = 5) @wDN{Sadarnuna}, …… praising you is sweet.
+
+
+

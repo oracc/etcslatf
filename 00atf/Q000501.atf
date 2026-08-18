@@ -1,0 +1,171 @@
+&Q000501 = A hymn to Nanna for Gungunum (Gungunum B)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.2.a
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.2.a&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. [...]-en
+#lem: X
+#etcsl: line-id=A.1
+
+A.2. [...] X he₂-a
+#lem: X; X; me[be]
+#etcsl: line-id=A.2
+
+A.3. [...] gub#-ba
+#lem: X; gub[stand]
+#etcsl: line-id=A.3
+
+A.4. [...]-in-e₃
+#lem: e[leave]
+#etcsl: line-id=A.4
+
+A.5. [...]-ra-sub₂-be₂-eš
+#lem: ŋen[go]
+#etcsl: line-id=A.5
+
+@end segment
+
+@div segment B
+
+$ (unknown no. of lines missing)
+B.1. [...] X GAR X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] an-šar₂-ra ki-šar₂-ra [...]
+#lem: X; anšar[the entirety of heaven]; kišar[totality]; X
+#etcsl: line-id=B.2
+
+B.3. {d}dil-im₂-babbar mi-ni-ib-gal# [...]
+#lem: Dilimbabbar[1]DN; gal[big]; X
+#etcsl: line-id=B.3
+
+B.4. nir-ŋal₂ ušum dili diŋir pa e₃ [...]
+#lem: nirŋal[authoritative]; ušum[snake]; dili[single]; diŋir[deity]; pa[branch]; e[leave]; X
+#etcsl: line-id=B.4
+
+B.5. gu₂ me-er-me-re en iti₆ X [...]
+#lem: gu[neck]; mer[cvve]; en[lord]; itud[moon]; X; X
+#etcsl: line-id=B.5
+
+B.6. {d}gu-un-gu-nu-um šul za-še₃ ŋal₂# [...]
+#lem: Gungunum[1]RN; šul[youth]; zaʾe[you]; ŋal[⟦be⟧ to be (there]; X
+#etcsl: line-id=B.6
+
+B.7. en u₃-sumun₂ zid dumu-saŋ {d}en#-[lil₂-la₂] X
+#lem: en[lord]; sumun[wild cow]; zid[right]; dumusaŋ[first-born]; Enlil[1]DN; X
+#etcsl: line-id=B.7
+
+B.8. šul {d}suen šudu₃-de₃ ŋiš tuku [...]
+#lem: šul[youth]; Suen[1]DN; šud[prayer]; ŋeš[tree]; tuku[acquire]; X
+#etcsl: line-id=B.8
+
+B.9. X X nun gu-un-gu-nu-um bal ba-sud# [...]
+#lem: X; X; nun[prince]; Gungunum[1]RN; bala[turn]; sud[distant]; X
+#etcsl: line-id=B.9
+
+B.10. lugal-ŋu₁₀ an-na gub-ba-ni hi-li# [...]
+#lem: lugal[king]; an[sky]; gub[stand]; hili[attractiveness]; X
+#etcsl: line-id=B.10
+
+B.11. šul {d}suen an-na gub-ba-ni hi-li# [...]
+#lem: šul[youth]; Suen[1]DN; an[sky]; gub[stand]; hili[attractiveness]; X
+#etcsl: line-id=B.11
+
+B.12. dumu ka silim-ma {d}nu-nam-nir-ra X [...]
+#lem: dumu[child]; kag[mouth]; silim[healthy]; Nunamnir[1]DN; X; X
+#etcsl: line-id=B.12
+
+@end segment
+
+@div segment C
+
+$ (unknown no. of lines missing)
+C.1. šu-luh kug-zu [...] ŋarza# [...]
+#lem: šuluh[ritual cleansing]; kug[pure]; X; ŋarza[rites]; X
+#etcsl: line-id=C.1
+
+C.2. ud-sakar itid gen₆-ne₂ X [...]
+#lem: udsakar[crescent moon]; itud[moon]; gin[confirm]; X; X
+#etcsl: line-id=C.2
+
+C.3. X {d}suen su₃-ra₂-aŋ₂ [...]
+#lem: X; Suen[1]DN; sudaŋ[precious metal or material (possibly amber)]; X
+#etcsl: line-id=C.3
+
+C.4. X X X X an sikil-la hi-li X [...]
+#lem: X; X; X; X; an[sky]; sikil[pure]; hili[attractiveness]; X; X
+#etcsl: line-id=C.4
+
+C.5. kalam-ma X X DU X X ma-ra-[...] X X X-ra-ši-[...]
+#lem: kalam[the Land (of Sumer)]; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=C.5
+
+C.6. [...] X X
+#lem: X; X; X
+#etcsl: line-id=C.6
+
+@end segment
+
+@div segment D
+
+$ (unknown no. of lines missing)
+D.1. [...] X
+#lem: X; X
+#etcsl: line-id=D.1
+
+D.2. [...] X
+#lem: X; X
+#etcsl: line-id=D.2
+
+D.3. [...] X
+#lem: X; X
+#etcsl: line-id=D.3
+
+$ 2 lines missing
+D.6. [...] X
+#lem: X; X
+#etcsl: line-id=D.6
+
+D.7. [...] X
+#lem: X; X
+#etcsl: line-id=D.7
+
+@end segment
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+@(A.1 = 1-5)  @gap{unknown no. of lines missing}   @gap{5 lines fragmentary} 
+
+
+@(B.1 = 1-12)  @gap{unknown no. of lines missing}   @gap{1 line fragmentary}  In the whole heaven and on the whole earth @wDN{Ašimbabbar} has made …… great (?). The respected one, the singular dragon, the god made manifest, ……, the flourishing one, the lord who …… the moonlight -- supporting you, youthful @wRN{Gungunum} ……. The lord, the good wild bull, the first-born son of @wDN{Enlil} ……, the youthful @wDN{Suen} who listens to prayers ……, has made prince @wRN{Gungunum's} reign long ……. When my king stands in the sky …… beauty. When youthful @wDN{Suen} stands in the sky …… beauty. The splendid son of @wDN{Nunamnir} …….
+
+
+@(C.1 = 1-6)  @gap{unknown no. of lines missing}  Your holy purification rites ……, the rituals (?) ……. The crescent moon fixing the months ……. @wDN{Suen}, radiance ……. …… in the pure sky, beauty ……. In the Land …… for you.  @gap{1 line fragmentary} 
+
+
+@(D.1 = 1-7)  @gap{unknown no. of lines missing}   @gap{7 lines fragmentary or missing} 
+
+
+

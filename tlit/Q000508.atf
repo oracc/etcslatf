@@ -1,0 +1,114 @@
+&Q000508 = A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.9.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.9.1&display=Crit&charenc=gcirc#
+
+1. {d}en-lil₂ lugal an ki-[a] niŋ₂-dug₄-ga-ni zid inim-ma-ni [...]
+#lem: Enlil[1]DN; lugal[king]; an[sky]; ki[place]; niŋduga[speech]; zid[right]; inim[word]; X
+#etcsl: line-id=1
+
+2. {d}ri-im-{d}suen sipad NU UŠ [X X] ud gi₄-a lugal-ŋu₁₀ X [...]
+#lem: Rimsin[1]RN; sipad[shepherd]; X; X; X; X; ud[storm]; gi[turn]; lugal[king]; X; X
+#etcsl: line-id=2
+
+3. niŋ₂-gu₇ zi til₃-la nibru{ki} du₃ [...] X in-na-an-šum₂-ma X šudu₃ he₂-en-na-ša₄
+#lem: niŋgu[food]; zi[life]; til[live (of a single person)]; Nibru[1]SN; du[build]; X; X; šum[give]; X; šud[prayer]; ša[cvve]
+#etcsl: line-id=3
+
+4. {d}ezina₂ lu₂ sag₉ nam-lu₂-ulu₃# saŋ-e-eš he₂-en-na-rig₇
+#lem: Ezina[1]DN; lu[person]; sag[goodness]; namlulu[humanity]; saŋ[head]; rig[donate]
+#etcsl: line-id=4
+
+5. mu gi-bi ma-da-na-ka šag₄ hul₂-la ud he₂-en-na-ab-zal-zal-e
+#lem: mu[name]; gi[reed]; mada[land]; šag[heart]; hul[rejoice]; ud[sun]; zal[pass time]
+#etcsl: line-id=5
+
+6. {d}ri-im-{d}suen lugal-ŋu₁₀ mu-da-an-GUD-GUD-ne
+#lem: Rimsin[1]RN; lugal[king]; X
+#etcsl: line-id=6
+
+7. {ŋiš}gu-za nam-lugal-bi he₂-en-na-gen₆ bal-bi he₂-en-na-su₃-ud
+#lem: guza[chair]; namlugal[kingship]; gin[confirm]; bala[turn]; sud[distant]
+#etcsl: line-id=7
+
+8. ŋidru-ni sig igi-nim-ma he₂-en-e-dug₄
+#lem: ŋidru[scepter]; sig[weak]; iginim[upper land]; dug[speak]
+#etcsl: line-id=8
+
+9. lugal gu₂-zal-a-bi he₂-en-na-ab-gam-e
+#lem: lugal[king]; guzal[scoundrel]; gurum[bend]
+#etcsl: line-id=9
+
+10. nidba {d}ri-im-{d}suen lugal-ŋu₁₀# tur mah-e nibru{ki} e₂-kur# [...]
+#lem: nindaba[(food) offering]; Rimsin[1]RN; lugal[king]; tur[small]; mah[great]; Nibru[1]SN; Ekur[1]TN; X
+#etcsl: line-id=10
+
+11. šu-si-bi-ta lal₃ i₃-nun-gin₇ al-biz-biz-ze₂-e ŋe₂₆-e dumu lu₂ 1(DIŠ)-gin₇-nam lal₃ i₃-nun-na
+#lem: šusi[finger]; lal[syrup]; inun[ghee]; biz[trickle]; ŋaʾe[I]; dumu[child]; lu[person]; n; lal[syrup]; inun[ghee]
+#etcsl: line-id=11
+
+12. nidba lugal-ŋu₁₀ asila#-ŋu₁₀-ta šu li-bi₂-ib-sub
+#lem: nindaba[(food) offering]; lugal[king]; asilala[joy]; šu[hand]; sub[rub]
+#etcsl: line-id=12
+
+13. dumu nu-u₈-gin₇ 2 ŋanun kug-babbar ma-an-šum₂-mu-uš
+#lem: dumu[child]; me[be]; n; ŋanun[storehouse]; kugbabbar[silver]; šum[give]
+#etcsl: line-id=13
+
+14. X X X [X X] X dili-ŋu₁₀ al-DA
+#lem: X; X; X; X; X; X; dili[single]; X
+#etcsl: line-id=14
+
+15. sukkal# dumu lu₂-u₃ ŋe₂₆-e-me-en
+#lem: sukkal[secretary]; dumu[child]; lu[person]; ŋaʾe[I]
+#etcsl: line-id=15
+
+16. da dumu lu₂-u₃-ne mu-da-la₂-e-en
+#lem: dag[side]; dumu[child]; lu[person]; la[hang]
+#etcsl: line-id=16
+
+17. igi bar mu-u₈-dug₄ he₂-ri-ib-X [...]
+#lem: igi[eye]; bar[place outside]; dug[speak]; X; X
+#etcsl: line-id=17
+
+18. dili-am₃ {d}ri-im-{d}suen lugal-[ŋu₁₀] lal₃ i₃-nun-gin₇ šu sub saŋ# [...]
+#lem: dili[single]; Rimsin[1]RN; lugal[king]; lal[syrup]; inun[ghee]; šu[hand]; sub[rub]; saŋ[head]; X
+#etcsl: line-id=18
+
+19. inim-ŋu₁₀ si bi₂-ib-<sa₂> e₂ ad#-da-ŋu₁₀ in-zu# hu-mu-ak-e
+#lem: inim[word]; si[horn]; sa[equal]; e[house]; adda[father]; zu[know]; ak[do]
+#etcsl: line-id=19
+
+20. 1(DIŠ) {d}en-lil₂ kur gal-a-ni mu-zu-gin₇ {d}ri-im-{d}suen kur gal-a-zu he₂-me
+#lem: n; Enlil[1]DN; kur[mountain(s)]; gal[big]; zu[know]; Rimsin[1]RN; kur[mountain(s)]; gal[big]; me[be]
+#etcsl: line-id=20
+
+21. nam-til₃-zu šag₄# {d}nin-urta X E X hul₂ he₂-em-dug₄ {d}nin-nibru{ki} nin %e uru₂ %s ki ŋa₂-ŋa₂ [...]
+#lem: namtil[life]; šag[heart]; Ninurtak[1]DN; X; X; X; hul[rejoice]; dug[speak]; Ninnibruk[1]DN; nin[lady]; uru[city]; ki[place]; ŋar[put]; X
+#etcsl: line-id=21
+
+22. arhuš₂ šag₄-la₂ sug₄-gin₇-nam X-ga-bi ba-niŋin₂-niŋin₂ nam-til₃-še₃ he₂-ri-ib-niŋin₂-niŋin₂
+#lem: arhuš[compassion]; šala[pity]; sug[full]; X; niŋin[encircle]; namtil[life]; niŋin[encircle]
+#etcsl: line-id=22
+
+23. {d}nin-šubur an igi {d}nanna-ke₄ ba-dug₄#-[...]
+#lem: Ninšubur[1]DN; an[sky]; igi[eye]; Nanna[1]DN; dug[speak]
+#etcsl: line-id=23
+
+24. niŋ₂ sag₉-ga saŋ-zu-še₃ he₂-em#-X-a nam-til₃-zu he₂-eb-be₂
+#lem: niŋ[thing]; sag[good]; saŋ[head]; X; namtil[life]; e[speak]
+#etcsl: line-id=24
+
+25. igi-zu ib₂-ba-a-du₈ šag₄ la-ba-an-[...]
+#lem: igi[eye]; du[spread]; šag[heart]; X
+#etcsl: line-id=25
+
+
+
+
+
+
+

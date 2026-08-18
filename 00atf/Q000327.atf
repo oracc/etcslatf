@@ -1,0 +1,167 @@
+&Q000327 = OB catalogue possibly from Zimbir (B1)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.0.2.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2.07&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [...] X X X [...] im-me %e uru₂# %s am₃#-ma!-er₂-ra-bi
+#lem: X; X; X; X; X; dug[speak]; uru[city]; er[weep]
+#etcsl: line-id=A.1
+
+A.2. [...] balaŋ# {d}nin-X
+#lem: X; balaŋ[an instrument]; Nin.X[0]DN
+#etcsl: line-id=A.2
+
+A.3. [...] DU
+#lem: X; X
+#etcsl: line-id=A.3
+
+A.4. [...] il-la-lum# X a il-la-lum
+#lem: X; illalum[an expression]; X; aya[cry]; illalum[an expression]
+#etcsl: line-id=A.4
+
+A.5. [...] balaŋ {d}suen
+#lem: X; balaŋ[an instrument]; Suen[1]DN
+#etcsl: line-id=A.5
+
+A.6. %e u₃#-mu-un#-bi# %s nu#-til₃ %e u₃-mu-un-na %s kur-ra-na
+#lem: umun[lord]N; til[live (of a single person)]; umun[lord]N; kur[mountain(s)]
+#etcsl: line-id=A.6
+
+A.7. 1 šir₃-nam-šu-ub {d}[...]
+#lem: n; širnamšubak[subscript]; X[1]DN
+#etcsl: line-id=A.7
+
+A.8. 1 {kuš}balaŋ 1 šir₃-nam#-[šu-ub] {[d]}suen#
+#lem: n; balaŋ[an instrument]; n; širnamšubak[subscript]; Suen[1]DN
+#etcsl: line-id=A.8
+
+A.9. 1 [...]
+#lem: n; X
+#etcsl: line-id=A.9
+
+A.10. [en zu sa₂] %e mar#-mar %s lu₂ %e ta-zu# %s [mu-un-zu]
+#lem: en[lord]; zu[know]; sa[advice]; mar[place]V/t; lu[person]; ta[what?]QP; zu[know]
+#etcsl: line-id=A.10
+
+A.11. [...] X X [...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=A.11
+
+A.12. [...] X KU X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.12
+
+A.13. [...] A [...]
+#lem: X; X; X
+#etcsl: line-id=A.13
+
+$ 1 line missing
+A.15. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.1
+
+B.2. [...] LU I AN# [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.2
+
+B.3. [...] X I ME A
+#lem: X; X; X; X; X
+#etcsl: line-id=B.3
+
+B.4. [...] X i#-lu# NA X [...]
+#lem: X; X; ilu[lament]; X; X; X
+#etcsl: line-id=B.4
+
+B.5. 3 er₂-šem₃ [...]
+#lem: n; eršemak[song]; X
+#etcsl: line-id=B.5
+
+B.6. X [...] A AN# X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.6
+
+B.7. [...] 1# šir₃-nam-šu-ub# [...]
+#lem: X; n; širnamšubak[subscript]; X
+#etcsl: line-id=B.7
+
+B.8. [...] X ib-zal X X X
+#lem: X; X; zal[pass time]; X; X; X
+#etcsl: line-id=B.8
+
+B.9. [...] HI# KI iri-gal
+#lem: X; X; X; irigal[underworld]
+#etcsl: line-id=B.9
+
+B.10. [...] ŋar#-ra na-an-DU
+#lem: X; ŋar[put]; X
+#etcsl: line-id=B.10
+
+B.11. [...] 3 šir₃-nam-šu-ub diŋir-mah
+#lem: X; n; širnamšubak[subscript]; Diŋirmah[1]DN
+#etcsl: line-id=B.11
+
+B.12. [...] HI# KI X
+#lem: X; X; X; X
+#etcsl: line-id=B.12
+
+B.13. [...] X AD MU %e {d}mu-ul#-[lil₂ %s ...] gul#-gul
+#lem: X; X; X; X; Mullil[]DN; X; gul[destroy]
+#etcsl: line-id=B.13
+
+B.14. [...] X %e aŋ₂-ŋa₂# %s [...] A
+#lem: X; X; aŋ[thing]N; X; X
+#etcsl: line-id=B.14
+
+B.15. [...] nam# tar-tar-re
+#lem: X; nam[fate]; tar[cut]
+#etcsl: line-id=B.15
+
+B.16. [...] X a-ma-ru na-nam
+#lem: X; X; amaru[flood]; me[be]
+#etcsl: line-id=B.16
+
+B.17. [...] lu₂ %e ta-zu %s mu-un-zu
+#lem: X; lu[person]; ta[what?]QP; zu[know]
+#etcsl: line-id=B.17
+
+B.18. [...] er₂#-šem₃ {d}nin-urta
+#lem: X; eršemak[song]; Ninurtak[1]DN
+#etcsl: line-id=B.18
+
+B.19. [...]-li-ia X NI mu-un-zu
+#lem: X; X; X; zu[know]
+#etcsl: line-id=B.19
+
+B.20. [...] SU
+#lem: X; X
+#etcsl: line-id=B.20
+
+B.21. [...] er₂-šem₃# diŋir-mah
+#lem: X; eršemak[song]; Diŋirmah[1]DN
+#etcsl: line-id=B.21
+
+B.22. [...] X mu-bar-ra
+#lem: X; X; bar[place outside]
+#etcsl: line-id=B.22
+
+@end segment
+
+
+
+
+
+

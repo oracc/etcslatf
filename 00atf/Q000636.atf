@@ -1,0 +1,92 @@
+&Q000636 = The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.05&display=Crit&charenc=gcirc#
+
+1. ba-lam ba-lam-lam hi-iz{sar}-am₃ a ba-an-dug₄
+#lem: lam[flourish]; lam[flourish]; hiz[vegetable]; a[water]; dug[speak]
+#etcsl: line-id=1
+
+2. {ŋiš}kiri₆ ŋi₆-edin-na gu₂ ŋar-ŋar-ra-na (1:sag₉-ga ama-na-ŋu₁₀:1)
+#lem: kiri[(fruit) plantation]; ŋiʾeden[deep shade]; gu[neck]; ŋar[put]; sag[good]; ama[mother]
+#etcsl: line-id=2
+
+:2v.1.1: ($1 ms. has instead:$) hi-iz{sar} a ba-an-de₂
+#lem: hiz[vegetable]; a[water]; de[pour]
+
+3. še ab-sin₂-ba hi-li-a sag₉-ŋu₁₀ hi-iz{sar}-am₃ a ba-an-dug₄
+#lem: še[barley]; absin[furrow]; hili[attractiveness]; sag[good]; hiz[vegetable]; a[water]; dug[speak]
+#etcsl: line-id=3
+
+4. {ŋiš}hašhur %e aŋ₂ %s saŋ-ŋa₂ gurun il₂-la-ŋu₁₀ hi-iz{sar}-am₃ a ba-an-dug₄
+#lem: hašhur[apple (tree)]; aŋ[thing]N; saŋ[head]; gurun[fruit]; il[raise]; hiz[vegetable]; a[water]; dug[speak]
+#etcsl: line-id=4
+
+5. lu₂-lal₃-e lu₂-lal₃-e %e me-e %s mu-ku₇-ku₇-de₃-en
+#lem: lulal[dear]; lulal[dear]; meʾe[I]IP; kud[sweet]
+#etcsl: line-id=5
+
+6. en-ŋu₁₀ lu₂-lal₃-e %e dim₃-me-er-ra %s sag₉-ga ama-na-ŋu₁₀
+#lem: en[lord]; lulal[dear]; dimmer[deity]N; sag[good]; ama[mother]
+#etcsl: line-id=6
+
+7. šu-ni lal₃-e %e me#-ri-ni %s lal₃-e ŋe₂₆-e mu-un-ku₇-ku₇-de₃-[en]
+#lem: šu[hand]; lal[syrup]; meri[foot]N; lal[syrup]; ŋaʾe[I]; kud[sweet]
+#etcsl: line-id=7
+
+8. a₂-šu-ŋiri₃-ni lal₃ ku₇-ku₇-dam ŋe₂₆-e mu-un-ku₇-ku₇-[de₃-en]
+#lem: ašuŋiri[limbs]; lal[syrup]; kud[sweet]; ŋaʾe[I]; kud[sweet]
+#etcsl: line-id=8
+
+9. en₃-dur šu-niŋin₂ tukum ku₇-ku₇-ŋu₁₀ sag₉#-[ga ama-na-ŋu₁₀]
+#lem: endur[navel]; šuniŋin[total]; tukum[if]; kud[sweet]; sag[good]; ama[mother]
+#etcsl: line-id=9
+
+10. haš₄# sag₉-sag₉ a₂ buluŋ₅ e-ru-ŋu₁₀ hi-iz{sar}-am₃ [a ba-an-dug₄]
+#lem: haš[thigh]; sag[good]; a[arm]; buluŋ[grow]; X; hiz[vegetable]; a[water]; dug[speak]
+#etcsl: line-id=10
+
+@div trailer 
+
+11. bal-bal-e {d}inana-[kam]
+#lem: balbale[literary subscript]; Inanak[1]DN
+#etcsl: line-id=11
+
+@end trailer
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+@(1 = 1-4) He has sprouted, he has burgeoned, he is well-watered lettuce, my shaded garden of the desert, richly flourishing,  @varh[t40805.v1]{his mother's favourite } @vart[t40805.v2,t40805.v1]{@varn{1 ms. has instead:} he is well-watered lettuce }; my grain lovely in beauty in its furrows, he is well-watered lettuce; my first-class fruitful apple tree, he is well-watered lettuce.
+
+#etcsl#altGrpo
+#etcsl#alt t40805.v1 t40805.v2
+#etcsl#altGrpc
+
+@(5 = 5-8) The honey man, the honey man will make me sweet; my lord, the honey man of a goddess, his mother's favourite, whose hands are honey, whose feet are honey, will make me sweet, whose limbs are honey-sweet, will make me sweet.
+
+@(9 = 9-10) Navel! My altogether immediately sweet, my favourite of his mother! Beautiful thighs, raised arms! My ……, he is well-watered lettuce.
+
+#trailer subscript	balbale
+
+
+@(11 = 11) A @fsux{balbale} of @wDN{Inana}.
+
+
+

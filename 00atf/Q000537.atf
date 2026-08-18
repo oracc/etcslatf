@@ -1,0 +1,66 @@
+&Q000537 = A fragment of a royal praise poem
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.99.c
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.99.c&display=Crit&charenc=gcirc#
+
+$ (note@c299c.ver1!c299c.n1: genre classification uncertain)
+$ (unknown no. of lines missing)
+1. [...] GAR [...]
+#lem: X; X; X
+#etcsl: line-id=1
+
+2. [...] hur#-saŋ gal-gin₇ [...]
+#lem: X; hursaŋ[mountain]; gal[big]; X
+#etcsl: line-id=2
+
+3. [...] {[d]}gilgameš₂# ŋissu-ba ni₂# [X-te-en]
+#lem: X; Gilgameš[1]DN; ŋissu[shade]; ni[self]; ten[extinguish]
+#etcsl: line-id=3
+
+4. [...] kur šuba₂ amaš giri₁₇-zal [...]
+#lem: X; kur[mountain(s)]; šuba[multicoloured]; amaš[sheepfold]; kirizal[joy]; X
+#etcsl: line-id=4
+
+5. [...] ki-tuš nu-gig X [...]
+#lem: X; kituš[dwelling place]; nugig[midwife]; X; X
+#etcsl: line-id=5
+
+6. [...] kisal ba-ra-ra [...]
+#lem: X; kisal[courtyard]; rah[beat]; X
+#etcsl: line-id=6
+
+7. [...] X keše₂ he₂-ŋal₂ ki šu BA RA# [...]
+#lem: X; X; kešed[bind]; heŋal[plenty]; ki[place]; šu[hand]; X; X; X
+#etcsl: line-id=7
+
+8. [...] X X X kur# HAR-ra# X [...]
+#lem: X; X; X; X; kur[mountain(s)]; X; X; X
+#etcsl: line-id=8
+
+$ (unknown no. of lines missing)
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+$ (genre classification uncertain)
+
+$ (unknown no. of lines missing)
+@(1 = 1-8)  @gap{1 line fragmentary}  …… like a great mountain. …… @wRN{Gilgameš} cools off (?) in its shade. …… bright mountain, the joyous sheepfold ……. …… residence of (?) the mistress ……. …… in its courtyard. …… abundance …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
+
+
+

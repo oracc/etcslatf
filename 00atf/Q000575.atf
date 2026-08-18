@@ -1,0 +1,235 @@
+&Q000575 = Letter from Lugal-nesaŋe to a king radiant as the sun
+@composite
+#project: ucsl/etcsl
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.03&display=Crit&charenc=gcirc#
+
+@div version 1 (Version A)
+
+1.1. lugal {d}utu-gin₇ šag₄ kalam-ma mu-un-zalag-ga
+#lem: lugal[king]; Utu[1]DN; šag[heart]; kalam[the Land (of Sumer)]; zalag[bright]
+#etcsl: line-id=1.1
+
+1.2. u₃-na-dug₄
+#lem: dug[speak]
+#etcsl: line-id=1.2
+
+1.3. i-{d}utu ab-sin₂-ta ib₂-ta-an-zig₃-ga
+#lem: iʾutu[complaint]; absin[furrow]; zig[rise]
+#etcsl: line-id=1.3
+
+1.4. ti-id-nu-um{ki}-e (1:šu:1) bi₂-in-ŋar šibir-bi mu-un-dab₅-be₂
+#lem: Tidnum[1 Tidnum]; šu[hand]; ŋar[put]; šibir[shepherd's staff]; dab[seize]
+#etcsl: line-id=1.4
+
+:4v.1.1: ($1 ms. has instead:$) saŋ
+#lem: saŋ[head]
+
+1.5. lugal idim-bi-še₃ ab-šid!(SIPA)-de₃-a
+#lem: lugal[king]; idim[heavy]; šid[count]
+#etcsl: line-id=1.5
+
+1.6. u₃-na-de₃-tah
+#lem: tah[add]
+#etcsl: line-id=1.6
+
+1.7. (1:{m}lugal-nesaŋ-ŋe₂₆:1) dumu nibru{ki} arad₂-zu na-ab-be₂-a
+#lem: Lugalnesaŋe[1]PN; dumu[child]; Nibru[1]SN; arad[slave]; e[speak]
+#etcsl: line-id=1.7
+
+:7v.1.1: ($2 mss. have instead:$) {m}lugal-šu₂
+#lem: Lugalšu[1]PN
+
+1.8. šul-a-lum nu-zu-ŋu₁₀ saŋ-ki ba-gid₂
+#lem: šulalum[punishment]; zu[know]; saŋki[forehead]; gid[long]
+#etcsl: line-id=1.8
+
+1.9. til₄ ak-ŋu₁₀ mu-e-pad₃
+#lem: tal[cry]; ak[do]; pad[find]
+#etcsl: line-id=1.9
+
+1.10. iri kur₂-ra tum₁₂{mušen}-gin₇ še mi-in-ša₄
+#lem: iri[city]; kur[different]; tum[wild dove]; šeg[voice]; ša[cvve]
+#etcsl: line-id=1.10
+
+1.11. šag₄-ne-ša₄ la-ba-an-tuku
+#lem: šaneša[supplication]; tuku[acquire]
+#etcsl: line-id=1.11
+
+1.12. ur-gin₇ ki gam-ma nu-zu šu dag-dag-ge ba-si
+#lem: ur[dog]; ki[place]; gurum[bend]; zu[know]; šu[hand]; dag[roam around]; si[fill]
+#etcsl: line-id=1.12
+
+1.13. mušen šu sur₂-du₃{mušen}-ta dal-a-gin₇ ur₅-da i₃-ak-en
+#lem: mušen[bird]; šu[hand]; surdu[falcon]; dal[fly]; ur[liver]; ak[do]
+#etcsl: line-id=1.13
+
+1.14. {ŋiš}kiri₆ (1:a:1) nu-dug₄-ga-gin₇ asil₃-la₂-ŋu₁₀ hab₂-ba ba-an-ug₅
+#lem: kiri[(fruit) plantation]; a[water]; dug[speak]; asilala[joy]; hab[malodorous]; ug[kill]
+#etcsl: line-id=1.14
+
+:14v.1.1: ($1 ms. has instead:$) šu#-ta
+#lem: šu[hand]
+
+1.15. igi la₂ e₂ lugal-ŋa₂-ke₄ ib₂-sig₉-ge inim-ŋar gig ma-la₂
+#lem: igi[eye]; la[hang]; e[house]; lugal[king]; sig[put into]; iŋar[oracular utterance]; gig[sick]; la[hang]
+#etcsl: line-id=1.15
+
+1.16. zarah-e X X X X [...]
+#lem: zarah[wailing]; X; X; X; X; X
+#etcsl: line-id=1.16
+
+1.17. (1:u₃#-u₈:1) LA X [...] X NA# ha-mu-[...]
+#lem: ua[oh!]; X; X; X; X; X; X
+#etcsl: line-id=1.17
+
+:17v.1.1: ($1 ms. has instead:$) u₈-a-e
+#lem: ua[oh!]
+
+1.18. gud-gin₇ mur-ŋa₂ eme ZU ŊA₂# [...] šu ša-an-ša-[...]
+#lem: gud[bull]; mur[fodder]; eme[tongue]; X; X; X; šu[hand]; šanšaša[cvve]
+#etcsl: line-id=1.18
+
+1.19. peš amar-ŋu₁₀ gud₃-bi [...] zi ba-ni-in-gi₄ ka u₂ gu₇ ba#-[...]
+#lem: peš[thick]; amar[calf]; gud[nest]; X; zi[life]; gi[turn]; kag[mouth]; u[plant(s)]; gu[eat]; X
+#etcsl: line-id=1.19
+
+1.20. edin KAL tum₉ (1:dal-a-gin₇:1) e₂ ar₃-ar₃-ra ba-[...]
+#lem: eden[back]; X; tumu[wind]; dal[fly]; e[house]; ara[grind]; X
+#etcsl: line-id=1.20
+
+:20v.1.1: ($1 ms. has instead:$) dal-a-ta AŠ ba₉-[ra₂-gin₇]
+#lem: dal[fly]; X; bad[open]
+
+1.21. ug₅-ga ki nu-tum₂-ma-me-en še-gin₇ ar₃-[ar₃ ...]
+#lem: ug[kill]; ki[place]; tum[bring]; še[barley]; ara[grind]; X
+#etcsl: line-id=1.21
+
+1.22. šeš-ŋu₁₀ lu₂ kur₂ nu-me-a igi tur mu-un#-[...]
+#lem: šeš[brother]; lu[person]; kur[alienate]; me[be]; igi[eye]; tur[small]; X
+#etcsl: line-id=1.22
+
+$ (approx. 6 lines missing)
+1.29. X [...]
+#lem: X; X
+#etcsl: line-id=1.29
+
+1.30. KA# [...]
+#lem: X; X
+#etcsl: line-id=1.30
+
+1.31. sag₉-ga X [...]
+#lem: sag[good]; X; X
+#etcsl: line-id=1.31
+
+1.32. lugal KA NE# [...]
+#lem: lugal[king]; X; X; X
+#etcsl: line-id=1.32
+
+1.33. {d}utu-gin₇ X X X GA [...]
+#lem: Utu[1]DN; X; X; X; X; X
+#etcsl: line-id=1.33
+
+@end version
+
+@div version 2 (Version B (from Kiš))
+
+$ (unknown no. of lines missing)
+2.1. mušen šu sur₂-du₃{mušen} X X X X X [...]
+#lem: mušen[bird]; šu[hand]; surdu[falcon]; X; X; X; X; X; X
+#etcsl: line-id=2.1
+
+2.2. {ŋiš}kiri₆ a dug₄-ga-gin₇ X [...]
+#lem: kiri[(fruit) plantation]; a[water]; dug[speak]; X; X
+#etcsl: line-id=2.2
+
+2.3. igi la₂ e₂ lugal-ŋa₂-ke₄ ib₂-sig₉-ge X [...]
+#lem: igi[eye]; la[hang]; e[house]; lugal[king]; sig[put into]; X; X
+#etcsl: line-id=2.3
+
+2.4. zarah(|SAG.PA.LAGAB|)-e X sipad-ba šag₄ a mi-ni-[...]
+#lem: zarah[wailing]; X; sipad[shepherd]; šag[heart]; a[water]; X
+#etcsl: line-id=2.4
+
+2.5. [u₈]-e-a TUL₂ E LA MU X RA HAR-re ha#-X-X-[...]
+#lem: ua[oh!]; X; X; X; X; X; X; X; X
+#etcsl: line-id=2.5
+
+2.6. gud-gin₇ mur-ŋu₁₀ eme!-ba šid nu-tuku-gin₇ šu-ni ša-[an-ša-X]
+#lem: gud[bull]; mur[fodder]; eme[tongue]; šid[recite]; tuku[acquire]; šu[hand]; šanšaša[cvve]
+#etcsl: line-id=2.6
+
+2.7. peš! amar-ŋu₁₀ gud₃-ba zi ir ba-ni-ib₂#-[...]
+#lem: peš[thick]; amar[calf]; gud[nest]; zi[life]; ir[cvve]; X
+#etcsl: line-id=2.7
+
+2.8. edin# KAL tum₉ dal-a-ta RI ba₉-ra₂-gin₇ e₂ ar₃#-[ar₃-ra ba-X]
+#lem: eden[back]; X; tumu[wind]; dal[fly]; X; bad[open]; e[house]; ara[grind]; X
+#etcsl: line-id=2.8
+
+2.9. ug₅#-gin₇ ki tum₂-tum₂-mu nu-zu še-gin₇ ar₃-[ar₃ ...]
+#lem: ug[kill]; ki[place]; tum[bring]; zu[know]; še[barley]; ara[grind]; X
+#etcsl: line-id=2.9
+
+$ (unknown no. of lines missing)
+@end version
+
+
+
+
+
+
+
+
+@translation labeled en project
+
+
+
+
+
+
+
+
+
+
+@h1 Version A
+
+@(1.1 = 1-7) Say this to the king who like the sun has made the heart of the Land radiant. Repeat it to the one who removed oppressive toil from the furrow, who @varh[t3303.1.v1]{defeated } @vart[t3303.1.v2,t3303.1.v1]{@varn{1 ms. has instead:} confronted }  @wEN{Tidnum} and holds its sceptre, who is counted as its honoured king. This is what @varh[t3303.1.v3]{@wPN{Lugal-nesaŋe} } @vart[t3303.1.v4,t3303.1.v3]{@varn{2 mss. have instead:} @wPN{Lugal-šu} } , a citizen of @wSN{Nibru} and your servant, says:
+
+#etcsl#altGrpo
+#etcsl#alt t3303.1.v1 t3303.1.v2
+#etcsl#alt t3303.1.v3 t3303.1.v4
+#etcsl#altGrpc
+
+@(1.8 = 8-15) A punishment which I do not understand has ravaged me and I have wailed my lamenting. In a strange city I moan like a dove and receive no mercy. I am constantly restless like a dog which does not know where to settle down. I am watchful like a bird which has flown from the claws of a falcon. My exuberance has perished in blight like a garden that has not been @varh[t3303.1.v5]{watered } @vart[t3303.1.v6,t3303.1.v5]{@varn{1 ms. has instead:} tended } . Envy within my king's palace overwhelms me and a bad reputation besets me.
+
+#etcsl#altGrpo
+#etcsl#alt t3303.1.v5 t3303.1.v6
+#etcsl#altGrpc
+
+@(1.16 = 16-31) Grief ……. Woe ……. Like an ox I am overwhelmed, …… my fodder. My descendants and offspring are on good terms …… their nest, …… the mouth for eating food. @varh[t3303.1.v7]{As happens on } @vart[t3303.1.v8,t3303.1.v7]{@varn{1 ms. has instead:} Like a distant …… from }  the …… high plains where the winds blow, …… the mill. I will not be buried on dying but …… ground like grain. My brother, although not an enemy, …… contemptuously.
+
+#etcsl#altGrpo
+#etcsl#alt t3303.1.v7 t3303.1.v8
+#etcsl#altGrpc
+
+$ (approx. 6 lines missing)
+$ (3 lines fragmentary)
+@(1.32 = 32-33) The king ……, …… like @wDN{Utu}.
+
+
+
+
+
+@h1 Version B (from Kiš)
+
+$ (unknown no. of lines missing)
+@(2.1 = 1-9) …… a bird …… the claws of a falcon. …… like a garden which has been watered. Envy within my king's palace overwhelms me and ……. Grief ……. Woe ……. Like an ox I am overwhelmed, like …… my fodder. My descendants and offspring are worried in their nests. Like a distant …… from the …… high plains where the winds blow, …… the mill. I will not experience being buried as befits the dead but …… ground like grain.
+
+$ (unknown no. of lines missing)
+
+
+
+
