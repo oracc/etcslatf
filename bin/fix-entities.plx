@@ -41,11 +41,11 @@ my %ent = (
     X=>'…',
 );
     
-my @f = <*.xml>;
+my @f = <tei/*.xml>;
 foreach my $f (@f) {
+    my $x = $f; $x =~ s/tei/xml/;
     open(F,$f);
-    my $x = "x/$f";
-    open(X,">$x");
+    open(X,"|bin/fix-q-nl.plx >$x");
     while (<F>) {
 	1 while s/\&(.*?);/&ent($1)/e;
 	s/ id=/ xml:id=/g;
