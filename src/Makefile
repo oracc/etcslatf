@@ -5,10 +5,8 @@ CPPFLAGS=-I${o2}/lib/sys -I${o2}/lib/std -I${o2}/include
 LDFLAGS=-L${o2}/lib/.libs
 LIBS=-loracc2
 
-lb: lb.o
-	$(CC) $(LDFLAGS) -o $@ lb.o $(LIBS)
-
-lb.o: lb.c
+lb: lb.o lb_choose.o lb_log.o lb_print.o
+	$(CC) $(LDFLAGS) -o $@ $? $(LIBS)
 
 clean:
-	rm -f lb.o lb
+	rm -f *.o lb

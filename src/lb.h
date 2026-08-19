@@ -1,6 +1,53 @@
 #ifndef LB_H
 #define LB_H
 
+/* A translation is a series of paras each on one row of the .tsv */
+typedef struct tra
+{
+  const char *Q;
+  struct par **pars
+} Tra;
+
+/* A para has a label and an array of segments; it also tracks which
+   method succeeded in choosing line breaks, if any */
+typedef struct par
+{
+  struct tra *t;
+  Choice c;
+  const char *label;
+  const char **labels;
+  int lbgoal;
+  int xwords;
+  int re_xwords; /* recomputed xwords based on words found in segments */
+  struct seg **segs;
+  int nsegs;
+} Par;
+
+/* Segments are spans of text between punctuation: they may include
+ * text marked with \cX...\cY.  We identify all the possible spans,
+ * then count the words in each span, ignoring the words in un-nested
+ * parentheses and in \cX...\cY. Then we calculate which spans
+ * complete a line by looking for collections of spans that have a
+ * word-count just greater than or close to the expected word count
+ * for the paragraph's line breaks.  Line break ending spans are
+ * flagged in the segment mapping structure in the .lb member.
+ */
+typedef struct seg
+{
+  struct par *p;
+  const char *o; /* opening of segment -- pointer to first character included in segment */
+  const char *c; /* closing of segment -- pointer to last character included in segment */
+  const char *label; /* heads of segment chains have non-NULL labels */
+  int w;
+  int b;
+  int lb;
+  struct seg *next; 	/* if a segment goes with subsequent segs this
+		           is set; no last is used, we just traverse
+		           the list when adding segs */
+  struct seg *with;     /* if a segment has been assigned to previous
+		           segs this is a pointer to the head */
+} Seg;
+
 /* Macros to access the columns of the lbpp output
 #   Q-number
 #   Label
@@ -34,6 +81,13 @@
 		     && ((unsigned char)x[0])==0xE2	\
 		     && ((unsigned char)x[1])==0x80	\
 		     && ((unsigned char)x[2])==0x9D)
+
+extern FILE *logfp;
+
+extern void lb_choose(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs, const char **labels);
+extern void lb_log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs);
+extern void lb_log_segs2(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs);
+extern void lb_print(FILE *fp, Seg **segs);
 
 #endif/*LB_H*/
 

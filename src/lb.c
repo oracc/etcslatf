@@ -15,38 +15,14 @@ unsigned char bounds[256] =
     [':'] = 1,
     ['-'] = 1,
   };
+
 const char *lbfn;
 char *logfn;
 FILE *logfp;
 
-/* Segments are spans of text between punctuation: they may include
- * text marked with \cX...\cY.  We identify all the possible spans,
- * then count the words in each span, ignoring the words in un-nested
- * parentheses and in \cX...\cY. Then we calculate which spans
- * complete a line by looking for collections of spans that have a
- * word-count just greater than or close to the expected word count
- * for the paragraph's line breaks.  Line break ending spans are
- * flagged in the segment mapping structure in the .lb member.
- */
-typedef struct seg
-{
-  const char *o; /* opening of segment -- pointer to first character included in segment */
-  const char *c; /* closing of segment -- pointer to last character included in segment */
-  int w;
-  int b;
-  int lb;
-  int rindex; 		/* index into the range */
-  struct seg *next; 	/* if a segment goes with subsequent segs this
-		           is set; no last is used, we just traverse
-		           the list when adding segs */
-  struct seg *with;     /* if a segment has been assigned to previous
-		           segs this is a pointer to the head */
-} Seg;
-
 int count_words(Seg **s);
 const char *find_closer(const char *p);
-void log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs);
-Seg **map_segs(const char *p);
+Seg **map_segs(const char *p, int *);
 const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_at_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
@@ -60,16 +36,30 @@ main(int argc, char *const *argv)
   logfn = strdup(lbfn);
   strcpy(&logfn[strlen(logfn)-3], "log");
   logfp = fopen(logfn, "w");
+
+  Tra *tp = calloc(1, sizeof(Tra));
+  tp->Q = r->rows[0][0];
+  tp->pars = calloc(r->nlines, sizeof(Par));
+
   int i;
   for (i = 0; i < r->nlines; ++i)
     {
+      int nsegs;
       const char **rr = (const char**)r->rows[i];
-      Seg **segs = map_segs(lb_P(rr));
+      tp->pars[i].p = tp;
+      tp->pars[i].label = lb_L(rr);
+      tp->pars[i].lbgoal = atoi(lb_G(rr));
+      tp->pars[i].xwords = atoi(lb_W(rr));
+      tp->pars[i].labels = vec_from_str(strdup(lb_R(rr)),NULL,NULL);
+      tp->segs = map_segs(&tp->pars[i]);
       int new_nW = count_words(segs);
-      int new_xW = new_nW / atoi(lb_G(rr));
-      log_segs(lb_Q(rr),lb_L(rr),lb_G(rr),lb_W(rr),new_xW, segs);
+      tp->pars[i]->re_xwords = new_nW / tp->pars[i]->lbgoal;
+      lb_log_segs(&tp->pars[i]);
+      lb_choose(&tp->pars[i]);
     }
   fclose(logfp);
+  lb_tra_report(tp);
+  lb_print(stdout, tp);
 }
 
 int
@@ -101,23 +91,8 @@ find_closer(const char *p)
   return NULL;
 }
 
-void
-log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg **segs)
-{
-  const char *bang = (atoi(W) != new_xW) ? "!" : "";
-  fprintf(logfp, "&%s\t%s\t%s\t%s\t%s%d\n", Q, L, G, W, bang, new_xW);
-  int i;
-  for (i = 0; segs[i]; ++i)
-    {
-      fprintf(logfp, ">%c\t%c\t%d\t", segs[i]->lb ? '+' : '-', segs[i]->b, segs[i]->w);
-      fwrite(segs[i]->o, sizeof(char), segs[i]->c - segs[i]->o, logfp);
-      fputc('\n', logfp);
-    }
-  fputs("======================================================\n", logfp);
-}
-
 Seg **
-map_segs(const char *p)
+map_segs(const char *p, int *nsegs)
 {
   Memo *segmem = memo_init(sizeof(Seg), 32);
   List *l = list_create(LIST_SINGLE);
@@ -152,6 +127,7 @@ map_segs(const char *p)
 	}
     }
   Seg **sp = (Seg **)list2array(l);
+  *nsegs = list_len(l);
   list_free(l, NULL);
   return sp;
 }
