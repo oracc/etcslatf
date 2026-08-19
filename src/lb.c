@@ -33,13 +33,22 @@ typedef struct seg
   const char *o; /* opening of segment -- pointer to first character included in segment */
   const char *c; /* closing of segment -- pointer to last character included in segment */
   int w;
+  int b;
   int lb;
+  int rindex; 		/* index into the range */
+  struct seg *next; 	/* if a segment goes with subsequent segs this
+		           is set; no last is used, we just traverse
+		           the list when adding segs */
+  struct seg *with;     /* if a segment has been assigned to previous
+		           segs this is a pointer to the head */
 } Seg;
 
+int count_words(Seg **s);
 const char *find_closer(const char *p);
-void log_segs(const char *Q, const char *L, const char *G, const char *W, Seg**segs);
+void log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs);
 Seg **map_segs(const char *p);
-const char *next_boundary(const char *p, int *nwords);
+const char *next_boundary(const char *p, int *nwords, int *b);
+const char *skip_at_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
 
 int
@@ -56,9 +65,20 @@ main(int argc, char *const *argv)
     {
       const char **rr = (const char**)r->rows[i];
       Seg **segs = map_segs(lb_P(rr));
-      log_segs(lb_Q(rr),lb_L(rr),lb_G(rr),lb_W(rr),segs);
+      int new_nW = count_words(segs);
+      int new_xW = new_nW / atoi(lb_G(rr));
+      log_segs(lb_Q(rr),lb_L(rr),lb_G(rr),lb_W(rr),new_xW, segs);
     }
   fclose(logfp);
+}
+
+int
+count_words(Seg **s)
+{
+  int i, nW;
+  for (i = nW = 0; s[i]; ++i)
+    nW += s[i]->w;
+  return nW;
 }
 
 /* This could be modified to handled nested (...(...)...); not clear
@@ -67,23 +87,29 @@ const char *
 find_closer(const char *p)
 {
   while (*p)
-    if ('(')
+    if ('(' == *p)
       return NULL;
     else if (')' == *p)
-      return p;
+      {
+	++p;
+	while (isspace(*p))
+	  ++p;
+	return p;
+      }
     else
       ++p;
   return NULL;
 }
 
 void
-log_segs(const char *Q, const char *L, const char *G, const char *W, Seg **segs)
+log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg **segs)
 {
-  fprintf(logfp, "&%s\t%s\t%s\t%s\n", Q, L, G, W);
+  const char *bang = (atoi(W) != new_xW) ? "!" : "";
+  fprintf(logfp, "&%s\t%s\t%s\t%s\t%s%d\n", Q, L, G, W, bang, new_xW);
   int i;
   for (i = 0; segs[i]; ++i)
     {
-      fprintf(logfp, ">%c\t%d\t", segs[i]->lb ? '+' : '-', segs[i]->w);
+      fprintf(logfp, ">%c\t%c\t%d\t", segs[i]->lb ? '+' : '-', segs[i]->b, segs[i]->w);
       fwrite(segs[i]->o, sizeof(char), segs[i]->c - segs[i]->o, logfp);
       fputc('\n', logfp);
     }
@@ -97,23 +123,30 @@ map_segs(const char *p)
   List *l = list_create(LIST_SINGLE);
   while (*p)
     {
-      Seg *s = memo_new(segmem);
-      list_add(l, s);
       if (CTRL_X == *p)
 	p = skip_XtoY(p);
+      else if ('(' == *p)
+	p = find_closer(++p);
       if (*p)
 	{
-	  s->o = p;
-	  p = next_boundary(p, &s->w);
+	  const char *start = p;
+	  Seg *s = memo_new(segmem);
+	  list_add(l, s);
+	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
 	    {
+	      s->o = start;
 	      s->c = p;
 	      if (*p)
 		++p;
 	    }
 	  else
 	    {
-	      s->c = s->o + strlen(s->o);
+	      if (s->w)
+		{
+		  s->o = start;
+		  s->c = s->o + strlen(s->o);
+		}
 	      break;
 	    }
 	}
@@ -124,9 +157,9 @@ map_segs(const char *p)
 }
 
 const char *
-next_boundary(const char *p, int *nwords)
+next_boundary(const char *p, int *nwords, int *b)
 {
-  int ellipsis = 0, nonsp = 0, sp = 1;
+  int ellipsis = 0, nonsp = 0, sp = 1, words = 0;
   while (isspace(*p))
     ++p;
   const char *start = p; /* start of word count */
@@ -134,7 +167,11 @@ next_boundary(const char *p, int *nwords)
     {
       if (isspace(*p))
 	{
-	  nonsp = 0;
+	  if (nonsp)
+	    {
+	      ++words;
+	      nonsp = 0;
+	    }
 	  ++sp;
 	  do
 	    ++p;
@@ -142,6 +179,7 @@ next_boundary(const char *p, int *nwords)
 	}
       else if (bounds[(unsigned char)*p])
 	{
+	  *b = *p;
 	  int ok = 0;
 	  if (EMDASH(p))
 	    {
@@ -179,12 +217,13 @@ next_boundary(const char *p, int *nwords)
 		*nwords = sp + ellipsis;
 	      return p;
 	    }
+	  *b = 0;
 	  if (*p)
 	    ++p;
 	}
       else if ('(' == *p)
 	{
-	  const char *closer = find_closer(p);
+	  const char *closer = find_closer(++p);
 	  if (closer)
 	    p = closer + 1;
 	  else if (*p)
@@ -196,8 +235,14 @@ next_boundary(const char *p, int *nwords)
 	  ++ellipsis;
 	  p += 3;
 	}
+      else if ('@' == *p)
+	p = skip_at_and_arg(++p);
       else if (CTRL_X == *p)
-	p = skip_XtoY(p);
+	{
+	  if (p > start && isspace(p[-1]))
+	    --sp;
+	  p = skip_XtoY(p);
+	}
       else if (*p)
 	{
 	  ++nonsp;
@@ -205,10 +250,39 @@ next_boundary(const char *p, int *nwords)
 	}
     }
   /* by definition end-of-string is a boundary */
-  if (nonsp)
-    return p;
+  if (words)
+    {
+      *b = '*';
+      if (nwords)
+	*nwords = sp + ellipsis;
+      return p;
+    }
   else
-    return NULL;
+    {
+      if (nwords)
+	*nwords = 0;
+      return NULL;
+    }
+}
+
+const char *
+skip_at_and_arg(const char *p)
+{
+  while (isalpha(*p))
+    ++p;
+  if ('[' == *p)
+    {
+      while (*p && ']' != *p)
+	++p;
+      if (*p)
+	++p;
+    }
+  if ('{' == *p)
+    ++p;
+  /* @-commands are usually followed by whitespace but they don't count as words */
+  while (isspace(*p))
+    ++p;
+  return p;
 }
 
 /* Skip from \cX..\cY

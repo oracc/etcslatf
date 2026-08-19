@@ -29,6 +29,7 @@
 		     && ((unsigned char)x[2])==0xA6)
 
 #define EMDASH(x)   ('-' == x[0] && '-' == x[1])
+
 #define QUOTE(x)    (x[0] && x[1] && x[2]		\
 		     && ((unsigned char)x[0])==0xE2	\
 		     && ((unsigned char)x[1])==0x80	\
