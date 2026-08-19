@@ -22,7 +22,7 @@ FILE *logfp;
 
 int count_words(Seg **s);
 const char *find_closer(const char *p);
-Seg **map_segs(const char *p, int *);
+Seg **map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_at_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
@@ -38,7 +38,7 @@ main(int argc, char *const *argv)
   logfp = fopen(logfn, "w");
 
   Tra *tp = calloc(1, sizeof(Tra));
-  tp->Q = r->rows[0][0];
+  tp->Q = (ccp)r->rows[0][0];
   tp->pars = calloc(r->nlines, sizeof(Par));
 
   int i;
@@ -46,19 +46,20 @@ main(int argc, char *const *argv)
     {
       int nsegs;
       const char **rr = (const char**)r->rows[i];
-      tp->pars[i].p = tp;
+      tp->pars[i].t = tp;
       tp->pars[i].label = lb_L(rr);
       tp->pars[i].lbgoal = atoi(lb_G(rr));
       tp->pars[i].xwords = atoi(lb_W(rr));
-      tp->pars[i].labels = vec_from_str(strdup(lb_R(rr)),NULL,NULL);
-      tp->segs = map_segs(&tp->pars[i]);
-      int new_nW = count_words(segs);
-      tp->pars[i]->re_xwords = new_nW / tp->pars[i]->lbgoal;
+      tp->pars[i].text = lb_P(rr);
+      tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
+      tp->pars[i].segs = map_segs(&tp->pars[i]);
+      int new_nW = count_words(tp->pars[i].segs);
+      tp->pars[i].re_xwords = new_nW / tp->pars[i].lbgoal;
       lb_log_segs(&tp->pars[i]);
       lb_choose(&tp->pars[i]);
     }
   fclose(logfp);
-  lb_tra_report(tp);
+  lb_tra_report(stderr, tp);
   lb_print(stdout, tp);
 }
 
@@ -92,10 +93,11 @@ find_closer(const char *p)
 }
 
 Seg **
-map_segs(const char *p, int *nsegs)
+map_segs(Par *par)
 {
   Memo *segmem = memo_init(sizeof(Seg), 32);
   List *l = list_create(LIST_SINGLE);
+  const char *p = par->text;
   while (*p)
     {
       if (CTRL_X == *p)
@@ -127,7 +129,7 @@ map_segs(const char *p, int *nsegs)
 	}
     }
   Seg **sp = (Seg **)list2array(l);
-  *nsegs = list_len(l);
+  par->nsegs = list_len(l);
   list_free(l, NULL);
   return sp;
 }
@@ -269,4 +271,9 @@ skip_XtoY(const char *p)
   while (*p && CTRL_Y != *p)
     ++p;
   return *p ? ++p : p;
+}
+
+void
+lb_tra_report(FILE *fp, Tra *t)
+{
 }

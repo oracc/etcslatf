@@ -2,52 +2,50 @@
 #include "lb.h"
 
 static int count_sentences(Seg**segs);
-static void lbc_identity(Seg **segs, const char **labels);
-static void lbc_multiple(Seg **segs, const char **labels);
-static void lbc_identity_sent(Seg **segs, const char **labels);
-static void lbc_multiple_sent(Seg **segs, const char **labels);
+static void lbc_identity(Par *p);
+static void lbc_multiple(Par *p);
+static void lbc_identity_sent(Par *p);
+static void lbc_multiple_sent(Par *p);
 
 void
-lb_choose(const char *Q, const char *L, const char *G, const char *W, int new_xW,
-	  Seg**segs, int nsegs, const char **labels)
+lb_choose(Par *p)
 {
-  int nG = atoi(G);
-  if (nsegs == nG)
-    lbc_identity(segs, labels);
-  else if ((nsegs % nG) == 0)
-    lbc_multiple(segs, labels);
+  if (p->nsegs == p->lbgoal)
+    lbc_identity(p);
+  else if ((p->nsegs % p->lbgoal) == 0)
+    lbc_multiple(p);
   else
     {
-      int nsent = count_sentences(segs);
-      if (nsent == nG)
-	lbc_identity_sent(segs, labels);
-      else if ((nsent % nG) == 0)
-	lbc_multiple_sent(segs, labels);
+      int nsent = count_sentences(p->segs);
+      if (nsent == p->lbgoal)
+	lbc_identity_sent(p);
+      else if ((nsent % p->lbgoal) == 0)
+	lbc_multiple_sent(p);
     }
-  lb_log_segs2(Q,L,G,W,new_xW,segs,nsegs);
+  lb_log_segs2(p);
 }
 
 static void
-lbc_identity(Seg **segs, const char **ll)
+lbc_identity(Par *p)
 {
   int i;
-  for (i = 0; segs[i]; ++i)
+  for (i = 0; p->segs[i]; ++i)
     {
-      segs[i]->label = ll[i];
-      segs[i]->lb = 1;
+      p->segs[i]->label = p->labels[i];
+      p->segs[i]->lb = 1;
     }
 }
 
 static void
-lbc_multiple(Seg **segs, const char **labels)
+lbc_multiple(Par *p)
 {
 }
 static void
-lbc_identity_sent(Seg **segs, const char **labels)
+lbc_identity_sent(Par *p)
 {
 }
 static void
-lbc_multiple_sent(Seg **segs, const char **labels)
+lbc_multiple_sent(Par *p)
 {
 }
 

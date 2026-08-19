@@ -2,6 +2,6 @@
 #include "lb.h"
 
 void
-lb_print(FILE *fp, Seg **segs)
+lb_print(FILE *fp, Tra *t)
 {
 }

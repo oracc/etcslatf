@@ -1,11 +1,15 @@
 #ifndef LB_H
 #define LB_H
 
+typedef enum choice
+  { C_NONE , C_IDENT, C_MULTI, C_IDENT_SENT, C_MULTI_SENT, C_top
+  } Choice;
+
 /* A translation is a series of paras each on one row of the .tsv */
 typedef struct tra
 {
   const char *Q;
-  struct par **pars
+  struct par *pars;
 } Tra;
 
 /* A para has a label and an array of segments; it also tracks which
@@ -18,6 +22,7 @@ typedef struct par
   const char **labels;
   int lbgoal;
   int xwords;
+  const char *text;
   int re_xwords; /* recomputed xwords based on words found in segments */
   struct seg **segs;
   int nsegs;
@@ -84,11 +89,11 @@ typedef struct seg
 
 extern FILE *logfp;
 
-extern void lb_choose(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs, const char **labels);
-extern void lb_log_segs(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs);
-extern void lb_log_segs2(const char *Q, const char *L, const char *G, const char *W, int new_xW, Seg**segs, int nsegs);
-extern void lb_print(FILE *fp, Seg **segs);
-
+extern void lb_choose(Par *p);
+extern void lb_log_segs(Par *p);
+extern void lb_log_segs2(Par *p);
+extern void lb_print(FILE *fp, Tra *t);
+extern void lb_tra_report(FILE *fp, Tra *t);
 #endif/*LB_H*/
 
 
