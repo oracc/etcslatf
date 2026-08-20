@@ -204,6 +204,16 @@ lb_best_fallback(List *ssl)
   return best;
 }
 
+static int
+want_next(Par *p, int i)
+{
+  if (i == 0 && p->segs[i]->w < (p->re_xwords/2))
+    return 2;
+  else if ((i+1) < p->nsegs && p->segs[i+1]->w < p->re_xwords)
+    return 1;
+  return 0;
+}
+
 /* If we are n segments short of goal, are there n sequences of
  * segments each of which is shorter than the expected words and whose
  * combined length is approximately the same as the goal?
@@ -218,13 +228,14 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
     {
       if (p->segs[i]->w < p->re_xwords)
 	{
-	  if ((i+1) < p->nsegs && p->segs[i+1]->w < p->re_xwords)
+	  int want = want_next(p, i);
+	  if (want)
 	    {
 	      ++nshort;
 	      int j = i+1;
 	      int w = p->segs[i]->w;
-	      ss[i] = 1;
-	      while (j < p->nsegs && p->segs[j]->w < p->re_xwords)
+	      ss[i] = 2;
+	      while (j < p->nsegs && (want==2||p->segs[j]->w < p->re_xwords))
 		{
 		  ss[j] = 1;
 		  w += p->segs[j++]->w;
@@ -241,16 +252,81 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
     }
   if (nshort)
     {
+      if (nshort+nsingle > p->lbgoal)
+	{
+	  int shortest[nshort];
+	  int sindex = 0;
+	  for (i = 0; i < p->nsegs; ++i)
+	    {
+	      if (ss[i] == 2)
+		{
+		  shortest[sindex] = p->segs[i]->w;
+		  int j = i+1;
+		  while (ss[j] == 1)
+		    {
+		      if (p->segs[j]->w < shortest[sindex])
+			shortest[sindex] = p->segs[j]->w;
+		      ++j;
+		    }
+		  i = j - 1;
+		}
+	    }
+	  while (nshort+nsingle > p->lbgoal)
+	    {
+	      int j = 0;
+	      int smax = 0, lose = 0;
+	      while (j < nshort)
+		{
+		  if (shortest[j] > smax)
+		    {
+		      smax = shortest[j];
+		      lose = j;
+		    }
+		  ++j;
+		}
+	      int nth_short = 0;
+	      for (i = 0; i < p->nsegs; ++i)
+		{
+		  if (ss[i] == 2)
+		    {
+		      if (nth_short++ == lose)
+			{
+			  ss[i++] = 0;
+			  while (ss[i] == 1)
+			    ss[i++] = 0;
+			  --nshort;
+			}
+		    }
+		}
+	    }
+	}
       if (nshort+nsingle != p->lbgoal)
 	{
 	  memset(ss, '\0', p->nsegs * sizeof(int));
 	  return -1;
 	}
       else
-	return 1;
+	{
+	  fprintf(stderr, "lbf_short_pairs: %s: ", p->label);
+	  for (i = 0; i < p->nsegs; ++i)
+	    fputc(ss[i]?(ss[i]==2?'2':'1'):'0',stderr);
+	  fputc('\n',stderr);
+	  return 1;
+	}
     }
   else
     return 0;
+}
+
+static char *
+ss_str(int *ss, int n)
+{
+  int i;
+  char s[n+1];
+  for (i = 0; i < n; ++i)
+    s[i] = ss[i]?(ss[i]==2?'2':'1'):'0';
+  s[i] = '\0';
+  return strdup(s);
 }
 
 void
@@ -259,13 +335,16 @@ lb_merge(Par *p, SSC *s)
   int i, head;
   int *ss = s->ss;
   p->choice = s->c;
+  p->ss_str = ss_str(ss, p->nsegs);
+  int nlabel = 0;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if (ss[i])
+      if (ss[i] == 2)
 	{
+	  p->segs[i]->label = p->labels[nlabel++];
 	  head = i;
 	  int j = i+1;
-	  while (j < p->nsegs && ss[j])
+	  while (j < p->nsegs && ss[j] == 1)
 	    {
 	      p->segs[j-1]->next = p->segs[j];
 	      p->segs[head]->w += p->segs[j]->w;
@@ -273,6 +352,9 @@ lb_merge(Par *p, SSC *s)
 	      ++j;
 	    }
 	  i = j-1;
+	  
 	}
+      else
+	p->segs[i]->label = p->labels[nlabel++];
     }
 }

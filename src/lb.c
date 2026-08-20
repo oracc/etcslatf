@@ -202,7 +202,7 @@ next_boundary(const char *p, int *nwords, int *b)
 	  if (ok && nonsp) /* if it counts as a boundary and we also saw non-spaces */
 	    {
 	      if (nwords)
-		*nwords = sp + ellipsis;
+		*nwords = sp + (ellipsis*2);
 	      return p;
 	    }
 	  *b = 0;
@@ -242,7 +242,7 @@ next_boundary(const char *p, int *nwords, int *b)
     {
       *b = '*';
       if (nwords)
-	*nwords = sp + ellipsis;
+	*nwords = sp + (ellipsis*2);
       return p;
     }
   else

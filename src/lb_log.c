@@ -20,25 +20,36 @@ void
 lb_log_segs2(Par *p)
 {
   const char *bang = (p->xwords != p->re_xwords) ? "!" : "";
-  fprintf(logfp, "{%s}\n", cnames[p->choice]);
+  fprintf(logfp, "{%s}", cnames[p->choice]);
+  if (p->ss_str)
+    fprintf(logfp, " ss=%s", p->ss_str);
+  fputc('\n', logfp);
   int i;
   for (i = 0; i < p->nsegs; ++i)
     {
-      fprintf(logfp, "}%c\t", p->segs[i]->lb ? '+' : '-');
-      fprintf(logfp, "%s\t", p->segs[i]->label ? p->segs[i]->label : "");
       if (!p->segs[i]->with)
 	{
-	  int j = i;
-	  fwrite(p->segs[j]->o, sizeof(char), p->segs[j]->c - p->segs[j]->o, logfp);
-	  while ((j+1) < p->nsegs && p->segs[j+1]->next)
+	  fprintf(logfp, "}%c\t", p->segs[i]->lb ? '+' : '-');
+	  fprintf(logfp, "%s\t", p->segs[i]->label ? p->segs[i]->label : "");
+	  fwrite(p->segs[i]->o, sizeof(char), p->segs[i]->c - p->segs[i]->o, logfp);
+	  if (p->segs[i]->next)
 	    {
-	      ++j;
-	      fwrite(p->segs[j]->o, sizeof(char), p->segs[j]->c - p->segs[j]->o, logfp);
+	      int j = i;
+	      int need_0 = 0;
+	      do
+		{
+		  ++j;
+		  fputc(' ', logfp);
+		  fwrite(p->segs[j]->o, sizeof(char), p->segs[j]->c - p->segs[j]->o, logfp);
+		  ++need_0;
+		}
+	      while (p->segs[j]->next);
+	      i = j-1;
+	      while (need_0-- > 0)
+		fputs("\n}0\t", logfp);
 	    }
-	  if (j > i)
-	    i = j - 1;
+	  fputc('\n', logfp);
 	}
-      fputc('\n', logfp);
     }
   fputs("======================================================\n", logfp);
 }

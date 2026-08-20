@@ -29,6 +29,7 @@ typedef struct par
   int re_xwords; /* recomputed xwords based on words found in segments */
   struct seg **segs;
   int nsegs;
+  const char *ss_str;
 } Par;
 
 /* Segments are spans of text between punctuation: they may include
