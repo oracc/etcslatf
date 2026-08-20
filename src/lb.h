@@ -2,7 +2,9 @@
 #define LB_H
 
 typedef enum choice
-  { C_NONE , C_IDENT, C_MULTI, C_IDENT_SENT, C_MULTI_SENT, C_top
+  { C_NONE , C_IDENT, C_MULTI, C_IDENT_SENT, C_MULTI_SENT,
+    C_FB_SHORT_PAIRS, 
+    C_top
   } Choice;
 
 /* A translation is a series of paras each on one row of the .tsv */
@@ -10,6 +12,7 @@ typedef struct tra
 {
   const char *Q;
   struct par *pars;
+  int npars;
 } Tra;
 
 /* A para has a label and an array of segments; it also tracks which
@@ -53,6 +56,14 @@ typedef struct seg
 		           segs this is a pointer to the head */
 } Seg;
 
+/* This is how we track the fallback methods we have tried to choose line breaks */
+typedef struct ssc
+{
+  int *ss;
+  Choice c;
+} SSC;
+extern Memo *m_ssc;
+
 /* Macros to access the columns of the lbpp output
 #   Q-number
 #   Label
@@ -72,7 +83,6 @@ typedef struct seg
 #define CTRL_X 0x18
 #define CTRL_Y 0x19
 
-
 #define CLOSER(x)   (')' == *x || '}' == *x)
 
 #define ELLIPSIS(x) (x[0] && x[1] && x[2]		\
@@ -88,6 +98,7 @@ typedef struct seg
 		     && ((unsigned char)x[2])==0x9D)
 
 extern FILE *logfp;
+extern const char *cnames[];
 
 extern void lb_choose(Par *p);
 extern void lb_log_segs(Par *p);

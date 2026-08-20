@@ -20,15 +20,24 @@ void
 lb_log_segs2(Par *p)
 {
   const char *bang = (p->xwords != p->re_xwords) ? "!" : "";
-#if 0
-  fprintf(logfp, "&%s\t%s\t%d/%d\t%d\t%s%d\n", p->t->Q, p->label, p->lbgoal, p->nsegs, p->xwords, bang, p->re_xwords);
-#endif
+  fprintf(logfp, "{%s}\n", cnames[p->choice]);
   int i;
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       fprintf(logfp, "}%c\t", p->segs[i]->lb ? '+' : '-');
       fprintf(logfp, "%s\t", p->segs[i]->label ? p->segs[i]->label : "");
-      fwrite(p->segs[i]->o, sizeof(char), p->segs[i]->c - p->segs[i]->o, logfp);
+      if (!p->segs[i]->with)
+	{
+	  int j = i;
+	  fwrite(p->segs[j]->o, sizeof(char), p->segs[j]->c - p->segs[j]->o, logfp);
+	  while ((j+1) < p->nsegs && p->segs[j+1]->next)
+	    {
+	      ++j;
+	      fwrite(p->segs[j]->o, sizeof(char), p->segs[j]->c - p->segs[j]->o, logfp);
+	    }
+	  if (j > i)
+	    i = j - 1;
+	}
       fputc('\n', logfp);
     }
   fputs("======================================================\n", logfp);

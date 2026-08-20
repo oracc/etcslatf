@@ -16,6 +16,14 @@ unsigned char bounds[256] =
     ['-'] = 1,
   };
 
+const char *cnames[] =
+  {
+    "NONE" , "IDENT", "MULTI", "IDENT_S", "MULTI_S",
+    "FB_SHORT_PAIRS" ,
+    NULL
+  };
+
+Memo *m_ssc;
 const char *lbfn;
 char *logfn;
 FILE *logfp;
@@ -33,6 +41,7 @@ main(int argc, char *const *argv)
   lbfn = argv[1];
   fprintf(stderr, "lb: processing %s\n", lbfn);
   Roco *r = roco_load1(lbfn);
+  m_ssc = memo_init(sizeof(SSC),32);
   logfn = strdup(lbfn);
   strcpy(&logfn[strlen(logfn)-3], "log");
   logfp = fopen(logfn, "w");
@@ -40,6 +49,7 @@ main(int argc, char *const *argv)
   Tra *tp = calloc(1, sizeof(Tra));
   tp->Q = (ccp)r->rows[0][0];
   tp->pars = calloc(r->nlines, sizeof(Par));
+  tp->npars = r->nlines;
 
   int i;
   for (i = 0; i < r->nlines; ++i)
@@ -276,4 +286,26 @@ skip_XtoY(const char *p)
 void
 lb_tra_report(FILE *fp, Tra *t)
 {
+  int i;
+  int bad = 0;
+  for (i = 0; i < t->npars; ++i)
+    if (t->pars[i].choice == C_NONE)
+      ++bad;
+  if (bad)
+    {
+      fprintf(fp, "%s: %d/%d para%s failed line break selection\n",
+	      t->Q, bad, t->npars, bad>1?"s":"");
+      fputc('\t', fp);
+      int printed = 0;
+      for (i = 0; i < t->npars; ++i)
+	{
+	  if (t->pars[i].choice == C_NONE)
+	    {
+	      if (printed++)
+		fputs("; ", fp);
+	      fputs(t->pars[i].label, fp);
+	    }
+	}
+      fputc('\n', fp);
+    }
 }
