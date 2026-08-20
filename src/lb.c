@@ -24,7 +24,7 @@ int count_words(Seg **s);
 const char *find_closer(const char *p);
 Seg **map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
-const char *skip_at_and_arg(const char *p);
+const char *skip_tag_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
 
 int
@@ -214,7 +214,7 @@ next_boundary(const char *p, int *nwords, int *b)
 	  p += 3;
 	}
       else if ('@' == *p)
-	p = skip_at_and_arg(++p);
+	p = skip_tag_and_arg(++p);
       else if (CTRL_X == *p)
 	{
 	  if (p > start && isspace(p[-1]))
@@ -244,7 +244,7 @@ next_boundary(const char *p, int *nwords, int *b)
 }
 
 const char *
-skip_at_and_arg(const char *p)
+skip_tag_and_arg(const char *p)
 {
   while (isalpha(*p))
     ++p;

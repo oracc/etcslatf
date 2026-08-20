@@ -17,7 +17,7 @@ typedef struct tra
 typedef struct par
 {
   struct tra *t;
-  Choice c;
+  Choice choice;
   const char *label;
   const char **labels;
   int lbgoal;

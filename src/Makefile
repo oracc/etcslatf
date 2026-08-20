@@ -6,7 +6,7 @@ LDFLAGS=-L${o2}/lib/.libs
 LIBS=-loracc2
 
 lb: lb.o lb_choose.o lb_log.o lb_print.o
-	$(CC) $(LDFLAGS) -o $@ $? $(LIBS)
+	$(CC) $(LDFLAGS) -o $@ $^ $(LIBS)
 
 clean:
 	rm -f *.o lb
