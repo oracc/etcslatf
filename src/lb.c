@@ -102,6 +102,50 @@ find_closer(const char *p)
   return NULL;
 }
 
+const char *
+map_gap(Memo *segmem, Par *par, const char *p, List *l)
+{
+  const char *s = p;
+  while (*s && !isdigit(*s) && 0x19 != *s)
+    ++s;
+  if (isdigit(*s))
+    {
+      /*fprintf(stderr, "found digit(s) in gap %s\n", p);*/
+      const char *line = strstr(s, "line");
+      if (line)
+	{
+	  while (*line && !isspace(*line))
+	    ++line;
+	  while (isspace(*line))
+	    ++line;
+	  const char *end = line;
+	  while (*end && '}' != *end)
+	    ++end;
+	  int ngap = atoi(s);
+	  int i;
+	  for (i = 0; i < ngap; ++i)
+	    {
+	      Seg *s = memo_new(segmem);
+	      list_add(l, s);
+	      s->w = 0;
+	      s->b = '0';
+	      s->o = line;
+	      s->c = end;
+	      ++par->ngaps;
+	    }
+	}
+      else
+	fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
+    }
+  else
+    fprintf(stderr, "no digit in gap %s\n", p);
+
+  while (CTRL_Y != *p)
+    ++p;
+ 
+  return p + 1;
+}
+
 Seg **
 map_segs(Par *par)
 {
@@ -110,9 +154,12 @@ map_segs(Par *par)
   const char *p = par->text;
   while (*p)
     {
+#if 0
       if (CTRL_X == *p)
 	p = skip_XtoY(p);
-      else if ('(' == *p)
+      else
+#endif
+      if ('(' == *p)
 	p = find_closer(++p);
       if (*p)
 	{
@@ -122,9 +169,17 @@ map_segs(Par *par)
 	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
 	    {
-	      s->o = start;
-	      s->c = p;
-	      if (*p)
+	      if (p - start)
+		{
+		  s->o = start;
+		  s->c = p;
+		}
+	      else
+		list_pop(l);
+
+	      if (CTRL_X == *p) /* boundary was a \cX@gap */
+		p = map_gap(segmem, par, p, l);
+	      else if (*p)
 		++p;
 	    }
 	  else
@@ -229,7 +284,26 @@ next_boundary(const char *p, int *nwords, int *b)
 	{
 	  if (p > start && isspace(p[-1]))
 	    --sp;
-	  p = skip_XtoY(p);
+	  if (!strncmp(p+1, "@gap", 4))
+	    {
+	      /* For @gap we need to guard against a lack of
+		 punctuation before the ^X; if there are already words
+		 in the line, set an EOL punct, '*' for the current
+		 segment */
+	      if (sp || ellipsis)
+		{
+		  *b = '*';
+		  *nwords = sp + (ellipsis*2);
+		}
+	      else
+		{
+		  *b = '0';
+		  *nwords = 0;
+		}
+	      return p;
+	    }
+	  else
+	    p = skip_XtoY(p);
 	}
       else if (*p)
 	{

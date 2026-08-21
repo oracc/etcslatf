@@ -29,6 +29,7 @@ typedef struct par
   int re_xwords; /* recomputed xwords based on words found in segments */
   struct seg **segs;
   int nsegs;
+  int ngaps;
   const char *ss_str;
 } Par;
 
@@ -48,7 +49,7 @@ typedef struct seg
   const char *c; /* closing of segment -- pointer to last character included in segment */
   const char *label; /* heads of segment chains have non-NULL labels */
   int w;
-  int b;
+  int b;		/* punctuation at end of this segment; '0' for segments from @gap */
   int lb;
   struct seg *next; 	/* if a segment goes with subsequent segs this
 		           is set; no last is used, we just traverse

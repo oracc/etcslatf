@@ -126,21 +126,29 @@
 }-	32	You have given a city. What avails me your giving?”}
 }0	
 ======================================================
-&Q000332	33 = 33-39	7/6	4	!5
+&Q000332	33 = 33-39	7/10	4	!5
 >-	,	8	@q{“You have given ……,
 >-	.	7	a city that has no river quay.
 >-	.	5	You have given a city.
 >-	?	6	What does your giving avail me?”}
+>-	0	0	fragmentary
 >-	,	6	 @q{“A city that has no fields,
->-	*	3	glebe or furrow”} @gap{3 lines missing}
+>-	*	3	glebe or furrow”} 
+>-	0	0	missing
+>-	0	0	missing
+>-	0	0	missing
 ------------------------------------------------------
-{NONE}
-}-		@q{“You have given ……,
-}-		a city that has no river quay.
-}-		You have given a city.
-}-		What does your giving avail me?”}
+{MULTI}
+}-	33	@q{“You have given ……,
+}+		a city that has no river quay.
+}-	34	You have given a city.
+}+		What does your giving avail me?”}
+}-	35	fragmentary
 }-		 @q{“A city that has no fields,
-}-		glebe or furrow”} @gap{3 lines missing}
+}+		glebe or furrow”} 
+}-		missing
+}-		missing
+}-		missing
 ======================================================
 &Q000332	40 = 40-43	4/4	9	9
 >-	,	6	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven,
@@ -446,7 +454,7 @@
 }-		gave birth to @wDN{Uttu},
 }-		the exalted woman.
 ======================================================
-&Q000332	127 = 127-146	20/13	3	!4
+&Q000332	127 = 127-146	20/26	3	!4
 >-	:	4	@wDN{Nintur} said to @wDN{Uttu}:
 >-	,	4	@q[Nintur,Uttu]{“Let me advise you,
 >-	.	8	and may you take heed of my advice.
@@ -458,8 +466,21 @@
 >-	,	6	is able to see up here,
 >-	.	2	he is.
 >-	.	6	He will set eyes on you.”}
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
 >-	,	6	 …… @wDN{Uttu},
->-	*	8	the exalted woman …… @gap{3 lines fragmentary}
+>-	*	8	the exalted woman …… 
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
 ------------------------------------------------------
 {NONE}
 }-		@wDN{Nintur} said to @wDN{Uttu}:
@@ -473,8 +494,21 @@
 }-		is able to see up here,
 }-		he is.
 }-		He will set eyes on you.”}
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
 }-		 …… @wDN{Uttu},
-}-		the exalted woman …… @gap{3 lines fragmentary}
+}-		the exalted woman …… 
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
 ======================================================
 &Q000332	147 = 147-151	5/6	7	!8
 >-	,	8	@q[Uttu,Enki]{“Bring cucumbers in ……,
@@ -508,8 +542,12 @@
 }-		The gardener in his joy rose from the dust and embraced him:
 }-		@q[gardener,Enki]{“Who are you who …… the garden?”}
 ======================================================
-&Q000332	159 = 159-166	8/5	3	!4
+&Q000332	159 = 159-166	8/9	3	!4
 >-	:	6	@wDN{Enki} (said to) …… the gardener:
+>-	0	0	missing
+>-	0	0	missing
+>-	0	0	missing
+>-	0	0	missing
 >-	,	10	 He brought him cucumbers in ……,
 >-	,	8	brought him apples with their stems sticking out,
 >-	,	6	brought him grapes in their clusters,
@@ -517,12 +555,16 @@
 ------------------------------------------------------
 {NONE}
 }-		@wDN{Enki} (said to) …… the gardener:
+}-		missing
+}-		missing
+}-		missing
+}-		missing
 }-		 He brought him cucumbers in ……,
 }-		brought him apples with their stems sticking out,
 }-		brought him grapes in their clusters,
 }-		filled his lap.
 ======================================================
-&Q000332	167 = 167-177	11/15	6	!7
+&Q000332	167 = 167-177	11/16	6	!7
 >-	.	12	@wDN{Enki} made his face attractive and took a staff in his hand.
 >-	,	7	@wDN{Enki} came to a halt at @wDN{Uttu's},
 >-	,	7	knocked at her house (demanding): @q[Enki,Uttu]{“Open up,
@@ -538,6 +580,7 @@
 >-	,	7	cucumbers in ……,
 >-	,	8	gave her apples with their stems sticking out,
 >-	.	6	gave her grapes in their clusters.
+>-	 	0	
 ------------------------------------------------------
 {NONE}
 }-		@wDN{Enki} made his face attractive and took a staff in his hand.
@@ -555,6 +598,7 @@
 }-		cucumbers in ……,
 }-		gave her apples with their stems sticking out,
 }-		gave her grapes in their clusters.
+}-		
 ======================================================
 &Q000332	178 = 178-185	8/14	9	9
 >-	,	1	@wDN{Uttu},
@@ -588,7 +632,7 @@
 }-		@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb,
 }-		the semen of @wDN{Enki}.
 ======================================================
-&Q000332	186 = 186-189	4/11	6	6
+&Q000332	186 = 186-189	4/13	6	6
 >-	,	1	@wDN{Uttu},
 >-	,	3	the beautiful woman,
 >-	:	2	cried out:
@@ -600,19 +644,23 @@
 >-	,	1	Woe,
 >-	.	2	my heart.”}
 >-	.	7	@wDN{Ninḫursaŋa} removed the semen from the thighs.
+>-	0	0	fragmentary
+>-	0	0	fragmentary
 ------------------------------------------------------
-{IDENT_S}
+{MULTI_S}
 }-	186	@wDN{Uttu},
 }-		the beautiful woman,
 }-		cried out:
 }-		@q[Uttu,self]{“Woe,
-}+		my thighs.”}
-}-	187	She cried out:
+}-		my thighs.”}
+}-		She cried out:
 }-		@q[Uttu,self]{“Woe,
 }+		my body.
-}-	188	Woe,
-}+		my heart.”}
-}+	189	@wDN{Ninḫursaŋa} removed the semen from the thighs.
+}-	187	Woe,
+}-		my heart.”}
+}+		@wDN{Ninḫursaŋa} removed the semen from the thighs.
+}-		fragmentary
+}-		fragmentary
 ======================================================
 &Q000332	190 = 190-197	8/8	5	5
 >-	,	5	She grew the 'tree' plant,
@@ -754,17 +802,25 @@
 }-		@q[Enlil,fox]{“If you bring @wDN{Ninḫursaŋa} to me,
 }-		I shall erect two birch trees for you in my city and you will be renowned.”}
 ======================================================
-&Q000332	228 = 228-234	7/3	2	2
+&Q000332	228 = 228-234	7/7	2	2
 >-	,	6	The fox first anointed his body,
 >-	,	5	first shook out his fur,
 >-	.	6	first put kohl on his eyes.
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
 ------------------------------------------------------
-{NONE}
-}-		The fox first anointed his body,
-}-		first shook out his fur,
-}-		first put kohl on his eyes.
+{IDENT}
+}+	228	The fox first anointed his body,
+}+	229	first shook out his fur,
+}+	230	first put kohl on his eyes.
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
 ======================================================
-&Q000332	235 = 235-246	12/9	3	!5
+&Q000332	235 = 235-246	12/16	3	!5
 >-	,	5	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
 >-	.	7	but @wDN{Enlil} …….
 >-	,	5	I have been to @wSN{Urim},
@@ -774,24 +830,39 @@
 >-	,	5	I have been to @wSN{Unug},
 >-	.	7	but @wDN{Inana} …….
 >-	.	13	I am seeking refuge with one who is …….”}
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
+>-	0	0	fragmentary
 ------------------------------------------------------
-{NONE}
-}-		@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
-}-		but @wDN{Enlil} …….
-}-		I have been to @wSN{Urim},
-}-		but @wDN{Nanna} …….
-}-		I have been to @wSN{Larsam},
-}-		but @wDN{Utu} …….
-}-		I have been to @wSN{Unug},
-}-		but @wDN{Inana} …….
-}-		I am seeking refuge with one who is …….”}
+{IDENT_S}
+}-	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
+}+		but @wDN{Enlil} …….
+}-	236	I have been to @wSN{Urim},
+}+		but @wDN{Nanna} …….
+}-	237	I have been to @wSN{Larsam},
+}+		but @wDN{Utu} …….
+}-	238	I have been to @wSN{Unug},
+}+		but @wDN{Inana} …….
+}+	239	I am seeking refuge with one who is …….”}
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
+}-		fragmentary
 ======================================================
-&Q000332	247 = 247-253	7/5	3	!4
+&Q000332	247 = 247-253	7/6	3	!4
 >-	.	5	@wDN{Ninḫursaŋa} hastened to the temple.
 >-	,	6	The @wDN{Anuna} slipped off her garment,
 >-	,	6	made ……,
 >-	.	9	determined its destiny and …….
 >-	.	7	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
+>-	 	0	
 ------------------------------------------------------
 {NONE}
 }-		@wDN{Ninḫursaŋa} hastened to the temple.
@@ -799,6 +870,7 @@
 }-		made ……,
 }-		determined its destiny and …….
 }-		@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
+}-		
 ======================================================
 &Q000332	254 = 254-263	10/16	8	8
 >-	,	2	@q[Ninhursaja,Enki]{“My brother,
@@ -818,17 +890,17 @@
 >-	.	4	@q[Enki,Ninhursaja]{“My mouth (@fsux{ka}) hurts me.”}
 >-	.	8	She gave birth to @wDN{Ninkasi} out of it.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=0000210021000000
-}-	254	@q[Ninhursaja,Enki]{“My brother,
-}-	255	what part of you hurts you?”}
-}-	256	@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”}
-}-	257	She gave birth to @wDN{Ab-u} out of it.
-}-	258	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+{FB_SHORT_PAIRS} ss=2100210000000000
+}-	254	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
 }0	
-}-	259	@q[Enki,Ninhursaja]{“The locks of my hair (@fsux{siki}) hurt me.”}
-}-	260	She gave birth to @wDN{Ninsikila} out of it.
-}-	261	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}-	255	@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”}
+}-	256	She gave birth to @wDN{Ab-u} out of it.
+}-	257	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
 }0	
+}-	258	@q[Enki,Ninhursaja]{“The locks of my hair (@fsux{siki}) hurt me.”}
+}-	259	She gave birth to @wDN{Ninsikila} out of it.
+}-	260	@q[Ninhursaja,Enki]{“My brother,
+}-	261	what part of you hurts you?”}
 }-	262	@q[Enki,Ninhursaja]{“My nose (@fsux{giri}) hurts me.”}
 }-	263	She gave birth to @wDN{Ningiriutud} out of it.
 }-		@q[Ninhursaja,Enki]{“My brother,
