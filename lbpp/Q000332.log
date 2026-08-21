@@ -526,21 +526,23 @@
 }-	150	O @wDN{Enki},
 }-	151	you will indeed have hold of my halter.”}
 ======================================================
-&Q000332	152 = 152-158	7/6	6	!7
+&Q000332	152 = 152-158	7/7	6	!7
 >-	,	9	When he was filling with water a second time,
 >-	,	6	he filled the dykes with water,
 >-	,	6	he filled the canals with water,
 >-	.	6	he filled the fallows with water.
->-	:	12	The gardener in his joy rose from the dust and embraced him:
+>-	 	9	The gardener in his joy rose from the dus
+>-	:	3	 and embraced him:
 >-	?	11	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ------------------------------------------------------
-{NONE}
-}-		When he was filling with water a second time,
-}-		he filled the dykes with water,
-}-		he filled the canals with water,
-}-		he filled the fallows with water.
-}-		The gardener in his joy rose from the dust and embraced him:
-}-		@q[gardener,Enki]{“Who are you who …… the garden?”}
+{IDENT}
+}+	152	When he was filling with water a second time,
+}+	153	he filled the dykes with water,
+}+	154	he filled the canals with water,
+}+	155	he filled the fallows with water.
+}+	156	The gardener in his joy rose from the dus
+}+	157	 and embraced him:
+}+	158	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ======================================================
 &Q000332	159 = 159-166	8/9	3	!8
 >-	:	6	@wDN{Enki} (said to) …… the gardener:
@@ -856,21 +858,23 @@
 }-		fragmentary
 }-		fragmentary
 ======================================================
-&Q000332	247 = 247-253	7/6	3	!4
+&Q000332	247 = 247-253	7/7	3	!4
 >-	.	5	@wDN{Ninḫursaŋa} hastened to the temple.
 >-	,	6	The @wDN{Anuna} slipped off her garment,
 >-	,	6	made ……,
->-	.	9	determined its destiny and …….
+>-	 	1	determined its destin
+>-	.	8	 and …….
 >-	.	7	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
 >-	 	0	
 ------------------------------------------------------
-{NONE}
-}-		@wDN{Ninḫursaŋa} hastened to the temple.
-}-		The @wDN{Anuna} slipped off her garment,
-}-		made ……,
-}-		determined its destiny and …….
-}-		@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
-}-		
+{IDENT}
+}+	247	@wDN{Ninḫursaŋa} hastened to the temple.
+}+	248	The @wDN{Anuna} slipped off her garment,
+}+	249	made ……,
+}+	250	determined its destin
+}+	251	 and …….
+}+	252	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
+}+	253	
 ======================================================
 &Q000332	254 = 254-263	10/16	8	8
 >-	,	2	@q[Ninhursaja,Enki]{“My brother,

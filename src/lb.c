@@ -30,7 +30,7 @@ FILE *logfp;
 
 int count_words(Seg **s);
 const char *find_closer(const char *p);
-Seg **map_segs(Par *p);
+void map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_tag_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
@@ -54,7 +54,6 @@ main(int argc, char *const *argv)
   int i;
   for (i = 0; i < r->nlines; ++i)
     {
-      int nsegs;
       const char **rr = (const char**)r->rows[i];
       tp->pars[i].t = tp;
       tp->pars[i].label = lb_L(rr);
@@ -62,7 +61,7 @@ main(int argc, char *const *argv)
       tp->pars[i].xwords = atoi(lb_W(rr));
       tp->pars[i].text = lb_P(rr);
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
-      tp->pars[i].segs = map_segs(&tp->pars[i]);
+      map_segs(&tp->pars[i]);
       int new_nW = count_words(tp->pars[i].segs);
       tp->pars[i].re_xwords = new_nW / (tp->pars[i].lbgoal - tp->pars[i].ngaps);
       lb_log_segs(&tp->pars[i]);
@@ -146,7 +145,7 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l)
   return p + 1;
 }
 
-Seg **
+void
 map_segs(Par *par)
 {
   Memo *segmem = memo_init(sizeof(Seg), 32);
@@ -193,10 +192,11 @@ map_segs(Par *par)
 	    }
 	}
     }
-  Seg **sp = (Seg **)list2array(l);
+  par->segs = (Seg **)list2array(l);
   par->nsegs = list_len(l);
   list_free(l, NULL);
-  return sp;
+  if (par->nsegs < par->lbgoal)
+    lb_split_segs(segmem, par);
 }
 
 const char *

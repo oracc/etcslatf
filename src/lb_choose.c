@@ -149,8 +149,6 @@ static void
 lbc_fallbacks(Par *p, int nsent)
 {
   List *ssl = list_create(LIST_SINGLE);
-  int fb[5] = { 0 , 0 , 0 , 0 , 0 };
-  int ntries = 0;
   int *ss = calloc(NSEGS(p), sizeof(int));
 
   if (lbf_short_pairs(p, nsent, ss) > 0)
@@ -213,7 +211,7 @@ lb_new_ss(List *ssl, int *ss, int nss)
 static SSC *
 lb_best_fallback(List *ssl)
 {
-  SSC *best;
+  SSC *best = NULL;
   return best;
 }
 
@@ -236,15 +234,11 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 {
   int i;
   int nshort = 0;
-  int nsingle = 0;
   int nmerge = 0;
   for (i = 0; i < NSEGS(p); ++i)
     {
       if ('0' == p->segs[i]->b)
-	{
-	  ++nsingle;
-	  continue;
-	}
+	continue;
       if (p->segs[i]->w && p->segs[i]->w < p->re_xwords)
 	{
 	  int want = want_next(p, i);
@@ -264,11 +258,7 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 		}
 	      i = j-1;
 	    }
-	  else
-	    ++nsingle;
 	}
-      else
-	++nsingle;
 #if 1
       if ((NSEGSG(p) - nmerge) == GOALG(p))
 	break;

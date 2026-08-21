@@ -106,6 +106,7 @@ extern void lb_choose(Par *p);
 extern void lb_log_segs(Par *p);
 extern void lb_log_segs2(Par *p);
 extern void lb_print(FILE *fp, Tra *t);
+extern void lb_split_segs(Memo *segmem, Par *p);
 extern void lb_tra_report(FILE *fp, Tra *t);
 #endif/*LB_H*/
 

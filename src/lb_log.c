@@ -19,7 +19,6 @@ lb_log_segs(Par *p)
 void
 lb_log_segs2(Par *p)
 {
-  const char *bang = (p->xwords != p->re_xwords) ? "!" : "";
   fprintf(logfp, "{%s}", cnames[p->choice]);
   if (p->ss_str)
     fprintf(logfp, " ss=%s", p->ss_str);
