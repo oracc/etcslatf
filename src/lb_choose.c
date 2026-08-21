@@ -197,6 +197,7 @@ lbc_multiple_sent(Par *p, int n)
  *
  */
 
+static void lbf_brute_pairs(Par *p);
 static int lbf_short_pairs(Par *p, int nset, int *ss);
 static SSC *lb_best_fallback(List *ssl);
 static void lbc_maybe_fb(Par *p, List *ssl, int *ss, Choice c);
@@ -211,12 +212,9 @@ lbc_fallbacks(Par *p, int nsent)
 
   if (lbf_short_pairs(p, nsent, ss) > 0)
     lbc_maybe_fb(p, ssl, ss, C_FB_SHORT_PAIRS);
-  
-  /* More fallbacks go here */
-  /* set c to next C_FB_N */
-  /* try fallback */
-  /* add if new */
-  /* set fb[tries] to c */
+
+  if (list_len(ssl) == 0)
+    lbf_brute_pairs(p);
 
   SSC *ssc = NULL;
 
@@ -317,64 +315,12 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 	      i = j-1;
 	    }
 	}
-#if 1
       if ((NSEGSG(p) - nmerge) == GOALG(p))
 	break;
-#endif
     }
   if (nshort)
     {
-#if 0
-      if (nshort+nsingle > GOAL(p))
-	{
-	  int shortest[nshort];
-	  int sindex = 0;
-	  for (i = 0; i < NSEGS(p); ++i)
-	    {
-	      if (ss[i] == 2)
-		{
-		  shortest[sindex] = p->segs[i]->w;
-		  int j = i+1;
-		  while (ss[j] == 1)
-		    {
-		      if (p->segs[j]->w < shortest[sindex])
-			shortest[sindex] = p->segs[j]->w;
-		      ++j;
-		    }
-		  i = j - 1;
-		}
-	    }
-	  while (nshort && nshort+nsingle > GOAL(p))
-	    {
-	      int j = 0;
-	      int smax = 0, lose = 0;
-	      while (j < nshort)
-		{
-		  if (shortest[j] > smax)
-		    {
-		      smax = shortest[j];
-		      lose = j;
-		    }
-		  ++j;
-		}
-	      int nth_short = 0;
-	      for (i = 0; i < NSEGS(p); ++i)
-		{
-		  if (ss[i] == 2)
-		    {
-		      if (nth_short++ == lose)
-			{
-			  ss[i++] = 0;
-			  while (ss[i] == 1)
-			    ss[i++] = 0;
-			  --nshort;
-			}
-		    }
-		}
-	    }
-	}
-#endif
-      if /*(nshort+nsingle != GOAL(p))*/ ((NSEGSG(p) - nmerge) != GOALG(p))
+      if ((NSEGSG(p) - nmerge) != GOALG(p))
 	{
 	  memset(ss, '\0', NSEGS(p) * sizeof(int));
 	  return -1;
@@ -392,6 +338,52 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
     }
   else
     return 0;
+}
+
+static void
+lbf_exec_merge(Par *p, int m)
+{
+  /* we are going to overwrite m with m+1 so adjust m+1's data
+   * accordingly */
+  p->segs[m+1]->o = p->segs[m]->o;
+  p->segs[m+1]->w += p->segs[m]->w;
+  memmove(&p->segs[m], &p->segs[m+1], (p->nsegs - m)*sizeof(Seg*));
+  --p->nsegs;
+}
+
+static int
+lbf_find_merge(Par *p)
+{
+  int i;
+  int wmin = 100; /* smallest seg[i]->w for merge */
+  int wsum = 1000; /* current sum seg[i]->w+seg[i+1]->w */
+  int next;
+  for (i = 0; i < p->nsegs; ++i)
+    {
+      if (p->segs[i]->w < wmin)
+	{
+	  if ((i+1) < p->nsegs && '0' != p->segs[i+1]->b)
+	    {
+	      if (p->segs[i]->w + p->segs[i+1]->w < wsum)
+		{
+		  next = i;
+		  wmin = p->segs[i]->w;
+		  wsum = p->segs[i]->w + p->segs[i+1]->w;
+		}
+	    }
+	}
+    }
+  return next;
+}
+
+static void
+lbf_brute_pairs(Par *p)
+{
+  while (NSEGSG(p) != GOALG(p))
+    {
+      int m = lbf_find_merge(p);
+      lbf_exec_merge(p, m);
+    }
 }
 
 static char *

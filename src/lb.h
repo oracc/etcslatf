@@ -3,7 +3,7 @@
 
 typedef enum choice
   { C_NONE , C_IDENT, C_MULTI, C_IDENT_SENT, C_MULTI_SENT,
-    C_FB_SHORT_PAIRS, 
+    C_FB_SHORT_PAIRS, C_FB_BRUTE,
     C_top
   } Choice;
 
