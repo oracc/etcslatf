@@ -64,6 +64,8 @@ lb_label(Par *p)
 	  p->segs[j]->label = p->labels[n++];
 	  j = -1;
 	}
+      else if ('0' == p->segs[i]->b)
+	p->segs[i]->label = p->labels[n++];
     }
 }
 
@@ -125,20 +127,11 @@ lbc_multiple(Par *p, int n)
 }
 
 static void
-lbc_identity_sent(Par *p)
+lb_label_sent(Par *p)
 {
-  p->choice = C_IDENT_SENT;
-  int i;
   int head = 0;
   int nlabel = 0;
-  for (i = 0; p->segs[i]; ++i)
-    {
-      if ('0' == p->segs[i]->b)
-	continue;
-      if ('.' == p->segs[i]->b)
-	p->segs[i]->lb = 1;
-    }
-
+  int i;
   for (i = 0; p->segs[i]; ++i)
     {
       if ('0' == p->segs[i]->b)
@@ -147,7 +140,7 @@ lbc_identity_sent(Par *p)
 	{
 	  p->segs[i]->label = p->labels[nlabel++];
 	  head = i;
-	  while (i < p->nsegs && '.' != p->segs[i]->b)
+	  while (i < p->nsegs && !p->segs[i]->lb)
 	    {
 	      p->segs[i]->next = p->segs[i+1];
 	      ++i;
@@ -156,7 +149,21 @@ lbc_identity_sent(Par *p)
 	  head = -1;
 	}
     }
+}
 
+static void
+lbc_identity_sent(Par *p)
+{
+  p->choice = C_IDENT_SENT;
+  int i;
+  for (i = 0; p->segs[i]; ++i)
+    {
+      if ('0' == p->segs[i]->b)
+	continue;
+      if ('.' == p->segs[i]->b)
+	p->segs[i]->lb = 1;
+    }
+  lb_label_sent(p);
 }
 
 static void
@@ -178,6 +185,7 @@ lbc_multiple_sent(Par *p, int n)
 	    }
 	}
     }
+  lb_label_sent(p);
 }
 
 /**********************************************************************

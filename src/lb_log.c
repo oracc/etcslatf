@@ -28,8 +28,11 @@ lb_log_segs2(Par *p)
     {
       if (!p->segs[i]->with)
 	{
+	  const char *label = p->segs[i]->label ? p->segs[i]->label : "";
+	  if (p->choice != C_NONE && !*label)
+	    fprintf(stderr, "%s:%s: no label on segment %d\n", p->t->Q, p->label, i);
 	  fprintf(logfp, "}%c\t", p->segs[i]->lb ? '+' : '-');
-	  fprintf(logfp, "%s\t", p->segs[i]->label ? p->segs[i]->label : "");
+	  fprintf(logfp, "%s\t", label);
 	  fwrite(p->segs[i]->o, sizeof(char), p->segs[i]->c - p->segs[i]->o, logfp);
 	  if (p->segs[i]->next)
 	    {
