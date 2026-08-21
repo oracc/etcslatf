@@ -892,23 +892,17 @@
 >-	.	4	@q[Enki,Ninhursaja]{“My mouth (@fsux{ka}) hurts me.”}
 >-	.	8	She gave birth to @wDN{Ninkasi} out of it.
 ------------------------------------------------------
-{NONE}
-}-		@q[Ninhursaja,Enki]{“My brother,
-}-		what part of you hurts you?”}
-}-		@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”}
-}-		She gave birth to @wDN{Ab-u} out of it.
-}-		@q[Ninhursaja,Enki]{“My brother,
-}-		what part of you hurts you?”}
-}-		@q[Enki,Ninhursaja]{“The locks of my hair (@fsux{siki}) hurt me.”}
-}-		She gave birth to @wDN{Ninsikila} out of it.
-}-		@q[Ninhursaja,Enki]{“My brother,
-}-		what part of you hurts you?”}
-}-		@q[Enki,Ninhursaja]{“My nose (@fsux{giri}) hurts me.”}
-}-		She gave birth to @wDN{Ningiriutud} out of it.
-}-		@q[Ninhursaja,Enki]{“My brother,
-}-		what part of you hurts you?”}
-}-		@q[Enki,Ninhursaja]{“My mouth (@fsux{ka}) hurts me.”}
-}-		She gave birth to @wDN{Ninkasi} out of it.
+{FB_BRUTE_PAIRS}
+}-	254	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}-	255	@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”}
+}-	256	She gave birth to @wDN{Ab-u} out of it.
+}-	257	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}-	258	@q[Enki,Ninhursaja]{“The locks of my hair (@fsux{siki}) hurt me.”}
+}-	259	She gave birth to @wDN{Ninsikila} out of it.
+}-	260	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}-	261	@q[Enki,Ninhursaja]{“My nose (@fsux{giri}) hurts me.”} She gave birth to @wDN{Ningiriutud} out of it.
+}-	262	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}-	263	@q[Enki,Ninhursaja]{“My mouth (@fsux{ka}) hurts me.”} She gave birth to @wDN{Ninkasi} out of it.
 ======================================================
 &Q000332	264 = 264-271	8/16	10	10
 >-	,	2	@q[Ninhursaja,Enki]{“My brother,

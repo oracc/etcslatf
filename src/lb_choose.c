@@ -347,7 +347,7 @@ lbf_exec_merge(Par *p, int m)
    * accordingly */
   p->segs[m+1]->o = p->segs[m]->o;
   p->segs[m+1]->w += p->segs[m]->w;
-  memmove(&p->segs[m], &p->segs[m+1], (p->nsegs - m)*sizeof(Seg*));
+  memmove(&p->segs[m], &p->segs[m+1], (p->nsegs-m-1)*sizeof(Seg*));
   --p->nsegs;
 }
 
@@ -384,6 +384,10 @@ lbf_brute_pairs(Par *p)
       int m = lbf_find_merge(p);
       lbf_exec_merge(p, m);
     }
+  p->choice = C_FB_BRUTE;
+  int i;
+  for (i = 0; i < p->nsegs; ++i)
+    p->segs[i]->label = p->labels[i];
 }
 
 static char *

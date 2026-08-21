@@ -19,7 +19,7 @@ unsigned char bounds[256] =
 const char *cnames[] =
   {
     "NONE" , "IDENT", "MULTI", "IDENT_S", "MULTI_S",
-    "FB_SHORT_PAIRS" ,
+    "FB_SHORT_PAIRS" , "FB_BRUTE_PAIRS" , 
     NULL
   };
 
