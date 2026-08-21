@@ -188,6 +188,8 @@ map_segs(Par *par)
 		  s->o = start;
 		  s->c = s->o + strlen(s->o);
 		}
+	      else
+		list_pop(l); /* NULL p and 0 s->w means empty seg */
 	      break;
 	    }
 	}
@@ -290,7 +292,7 @@ next_boundary(const char *p, int *nwords, int *b)
 		 punctuation before the ^X; if there are already words
 		 in the line, set an EOL punct, '*' for the current
 		 segment */
-	      if (sp || ellipsis)
+	      if (words || ellipsis)
 		{
 		  *b = '*';
 		  *nwords = sp + (ellipsis*2);

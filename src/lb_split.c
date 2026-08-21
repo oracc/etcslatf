@@ -114,7 +114,7 @@ lb_split_segs(Memo *segmem, Par *p)
       /* set the inserted seg's members */
       p->segs[splitme] = memo_new(segmem);
       p->segs[splitme]->o = o;
-      p->segs[splitme]->c = split-1;
+      p->segs[splitme]->c = split;
       p->segs[splitme]->w = w;
       ++p->nsegs;
     }

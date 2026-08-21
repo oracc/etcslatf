@@ -83,15 +83,44 @@ lbc_multiple(Par *p, int n)
   p->choice = C_MULTI;
   int i;
   int j = 0;
+  int head;
+  int nlabel = 0;
   for (i = 0; p->segs[i]; ++i)
     {
       if ('0' == p->segs[i]->b)
-	continue;
+	{
+	  p->segs[i]->label = p->labels[nlabel++];
+	  continue;
+	}
+      else if (j == 0)
+	{
+	  p->segs[i]->label = p->labels[nlabel++];
+	  head = i;
+	  p->segs[i]->next = p->segs[i+1];
+	  ++j;
+	}
+      else
+	{
+	  if (++j < n)
+	    {
+	      p->segs[i]->next = p->segs[i+1];
+	      p->segs[i]->with = p->segs[head];
+	    }
+	  else
+	    {
+	      p->segs[i]->with = p->segs[head];
+	      p->segs[i]->lb = 1;
+	      j = 0;
+	    }
+	}
+#if 0
       if (++j == n)
 	{
+	  p->segs[i]->with = p->segs[head];
 	  p->segs[i]->lb = 1;
 	  j = 0;
 	}
+#endif
     }
 }
 
@@ -100,6 +129,8 @@ lbc_identity_sent(Par *p)
 {
   p->choice = C_IDENT_SENT;
   int i;
+  int head = 0;
+  int nlabel = 0;
   for (i = 0; p->segs[i]; ++i)
     {
       if ('0' == p->segs[i]->b)
@@ -107,6 +138,25 @@ lbc_identity_sent(Par *p)
       if ('.' == p->segs[i]->b)
 	p->segs[i]->lb = 1;
     }
+
+  for (i = 0; p->segs[i]; ++i)
+    {
+      if ('0' == p->segs[i]->b)
+	p->segs[i]->label = p->labels[nlabel++];
+      else
+	{
+	  p->segs[i]->label = p->labels[nlabel++];
+	  head = i;
+	  while (i < p->nsegs && '.' != p->segs[i]->b)
+	    {
+	      p->segs[i]->next = p->segs[i+1];
+	      ++i;
+	      p->segs[i]->with = p->segs[head];
+	    }
+	  head = -1;
+	}
+    }
+
 }
 
 static void

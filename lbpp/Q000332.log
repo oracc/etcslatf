@@ -9,14 +9,14 @@
 >-	.	4	Pristine is @wGN{Dilmun} land.
 ------------------------------------------------------
 {MULTI}
-}-	1	Pure are the cities -- and you are the ones to whom they are allotted.
-}+		Pure is @wGN{Dilmun} land.
-}-	2	Pure is @wGN{Sumer} -- and you are the ones to whom it is allotted.
-}+		Pure is @wGN{Dilmun} land.
-}-	3	Pure is @wGN{Dilmun} land.
-}+		Virginal is @wGN{Dilmun} land.
-}-	4	Virginal is @wGN{Dilmun} land.
-}+		Pristine is @wGN{Dilmun} land.
+}-	1	Pure are the cities -- and you are the ones to whom they are allotted. Pure is @wGN{Dilmun} land.
+}0	
+}-	2	Pure is @wGN{Sumer} -- and you are the ones to whom it is allotted. Pure is @wGN{Dilmun} land.
+}0	
+}-	3	Pure is @wGN{Dilmun} land. Virginal is @wGN{Dilmun} land.
+}0	
+}-	4	Virginal is @wGN{Dilmun} land. Pristine is @wGN{Dilmun} land.
+}0	
 ======================================================
 &Q000332	5 = 5-10	6/8	9	9
 >-	,	8	He laid her down all alone in @wGN{Dilmun},
@@ -79,17 +79,17 @@
 >-	.	9	No herald made the rounds in his border district.
 ------------------------------------------------------
 {IDENT_S}
-}-	20	No eye-diseases said there:
-}+		@q[eye disease,self]{“I am the eye disease.”}
-}-	21	No headache said there:
-}+		@q[headache,self]{“I am the headache.”}
-}-	22	No old woman belonging to it said there:
-}+		@q[old woman,self]{“I am an old woman.”}
-}-	23	No old man belonging to it said there:
-}+		@q[old man,self]{“I am an old man.”}
+}-	20	No eye-diseases said there: @q[eye disease,self]{“I am the eye disease.”}
+}0	
+}-	21	No headache said there: @q[headache,self]{“I am the headache.”}
+}0	
+}-	22	No old woman belonging to it said there: @q[old woman,self]{“I am an old woman.”}
+}0	
+}-	23	No old man belonging to it said there: @q[old man,self]{“I am an old man.”}
+}0	
 }+	24	No maiden in her unwashed state …… in the city.
-}-	25	No man dredging a river said there:
-}+		@q[man,self]{“It is getting dark.”}
+}-	25	No man dredging a river said there: @q[man,self]{“It is getting dark.”}
+}0	
 }+	26	No herald made the rounds in his border district.
 ======================================================
 &Q000332	27 = 27-28	2/2	7	7
@@ -139,16 +139,16 @@
 >-	0	0	missing
 ------------------------------------------------------
 {MULTI}
-}-	33	@q{“You have given ……,
-}+		a city that has no river quay.
-}-	34	You have given a city.
-}+		What does your giving avail me?”}
+}-	33	@q{“You have given ……, a city that has no river quay.
+}0	
+}-	34	You have given a city. What does your giving avail me?”}
+}0	
 }-	35	fragmentary
-}-		 @q{“A city that has no fields,
-}+		glebe or furrow”} 
-}-		missing
-}-		missing
-}-		missing
+}-	36	 @q{“A city that has no fields, glebe or furrow”} 
+}0	
+}-	37	missing
+}-	38	missing
+}-	39	missing
 ======================================================
 &Q000332	40 = 40-43	4/4	9	9
 >-	,	6	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven,
@@ -217,14 +217,14 @@
 }+	56	Her city drank water aplenty from them.
 }+	57	@wGN{Dilmun} drank water aplenty from them.
 }+	58	Her pools of salt water indeed became pools of fresh water.
-}-	59	Her fields,
-}+		glebe and furrows indeed produced grain for her.
+}-	59	Her fields, glebe and furrows indeed produced grain for her.
+}0	
 }+	60	Her city indeed became an emporium on the quay for the Land.
 }+	61	@wGN{Dilmun} indeed became an emporium on the quay for the Land.
-}-	62	At that moment,
-}-		on that day,
-}-		and under that sun,
-}+		so it indeed happened.
+}-	62	At that moment, on that day, and under that sun, so it indeed happened.
+}0	
+}0	
+}0	
 ======================================================
 &Q000332	63 = 63-68	6/11	8	8
 >-	,	5	All alone the wise one,
@@ -531,7 +531,7 @@
 >-	,	6	he filled the dykes with water,
 >-	,	6	he filled the canals with water,
 >-	.	6	he filled the fallows with water.
->-	 	9	The gardener in his joy rose from the dus
+>-	 	9	The gardener in his joy rose from the dust
 >-	:	3	 and embraced him:
 >-	?	11	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ------------------------------------------------------
@@ -540,7 +540,7 @@
 }+	153	he filled the dykes with water,
 }+	154	he filled the canals with water,
 }+	155	he filled the fallows with water.
-}+	156	The gardener in his joy rose from the dus
+}+	156	The gardener in his joy rose from the dust
 }+	157	 and embraced him:
 }+	158	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ======================================================
@@ -566,7 +566,7 @@
 }-	165	brought him grapes in their clusters,
 }-	166	filled his lap.
 ======================================================
-&Q000332	167 = 167-177	11/16	6	!7
+&Q000332	167 = 167-177	11/15	6	!7
 >-	.	12	@wDN{Enki} made his face attractive and took a staff in his hand.
 >-	,	7	@wDN{Enki} came to a halt at @wDN{Uttu's},
 >-	,	7	knocked at her house (demanding): @q[Enki,Uttu]{“Open up,
@@ -582,9 +582,8 @@
 >-	,	7	cucumbers in ……,
 >-	,	8	gave her apples with their stems sticking out,
 >-	.	6	gave her grapes in their clusters.
->-	 	0	
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=0002112112100000
+{FB_SHORT_PAIRS} ss=000211211000000
 }-	167	@wDN{Enki} made his face attractive and took a staff in his hand.
 }-	168	@wDN{Enki} came to a halt at @wDN{Uttu's},
 }-	169	knocked at her house (demanding): @q[Enki,Uttu]{“Open up,
@@ -594,13 +593,12 @@
 }-	171	Let me give you cucumbers, apples, and grapes for your consent.”}
 }0	
 }0	
-}-	172	Joyfully @wDN{Uttu} opened the house. @wDN{Enki} gave @wDN{Uttu},
-}0	
-}-	173	the exalted woman,
-}-	174	cucumbers in ……,
-}-	175	gave her apples with their stems sticking out,
-}-	176	gave her grapes in their clusters.
-}-	177	
+}-	172	Joyfully @wDN{Uttu} opened the house.
+}-	173	@wDN{Enki} gave @wDN{Uttu},
+}-	174	the exalted woman,
+}-	175	cucumbers in ……,
+}-	176	gave her apples with their stems sticking out,
+}-	177	gave her grapes in their clusters.
 ======================================================
 &Q000332	178 = 178-185	8/14	9	9
 >-	,	1	@wDN{Uttu},
@@ -761,24 +759,24 @@
 >-	.	7	had them know it in their hearts.
 ------------------------------------------------------
 {MULTI}
-}-	211	@q[Isimud,Enki]{“My master,
-}+		the @fsux{atutu} plant,”}
-}-	212	he said to him,
-}+		cut it off for him and @wDN{Enki} ate it.
-}-	213	@q[Isimud,Enki]{“My master,
-}+		the @fsux{aštaltal} plant,”}
-}-	214	he said to him,
-}+		pulled it up for him and @wDN{Enki} ate it.
-}-	215	@q[Isimud,Enki]{“My master,
-}+		the …… plant,”}
-}-	216	he said to him,
-}+		cut it off for him and @wDN{Enki} ate it.
-}-	217	@q[Isimud,Enki]{“My master,
-}+		the @fsux{amḫaru} plant,”}
-}-	218	he said to him,
-}+		pulled it up for him and @wDN{Enki} ate it.
-}-	219	@wDN{Enki} determined the destiny of the plants,
-}+		had them know it in their hearts.
+}-	211	@q[Isimud,Enki]{“My master, the @fsux{atutu} plant,”}
+}0	
+}-	212	he said to him, cut it off for him and @wDN{Enki} ate it.
+}0	
+}-	213	@q[Isimud,Enki]{“My master, the @fsux{aštaltal} plant,”}
+}0	
+}-	214	he said to him, pulled it up for him and @wDN{Enki} ate it.
+}0	
+}-	215	@q[Isimud,Enki]{“My master, the …… plant,”}
+}0	
+}-	216	he said to him, cut it off for him and @wDN{Enki} ate it.
+}0	
+}-	217	@q[Isimud,Enki]{“My master, the @fsux{amḫaru} plant,”}
+}0	
+}-	218	he said to him, pulled it up for him and @wDN{Enki} ate it.
+}0	
+}-	219	@wDN{Enki} determined the destiny of the plants, had them know it in their hearts.
+}0	
 ======================================================
 &Q000332	220 = 220-227	8/10	8	8
 >-	:	5	@wDN{Ninḫursaŋa} cursed the name @wDN{Enki}:
@@ -841,40 +839,40 @@
 >-	0	0	fragmentary
 ------------------------------------------------------
 {IDENT_S}
-}-	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
-}+		but @wDN{Enlil} …….
-}-	236	I have been to @wSN{Urim},
-}+		but @wDN{Nanna} …….
-}-	237	I have been to @wSN{Larsam},
-}+		but @wDN{Utu} …….
-}-	238	I have been to @wSN{Unug},
-}+		but @wDN{Inana} …….
+}-	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru}, but @wDN{Enlil} …….
+}0	
+}-	236	I have been to @wSN{Urim}, but @wDN{Nanna} …….
+}0	
+}-	237	I have been to @wSN{Larsam}, but @wDN{Utu} …….
+}0	
+}-	238	I have been to @wSN{Unug}, but @wDN{Inana} …….
+}0	
 }+	239	I am seeking refuge with one who is …….”}
-}-		fragmentary
-}-		fragmentary
-}-		fragmentary
-}-		fragmentary
-}-		fragmentary
-}-		fragmentary
-}-		fragmentary
+}-	240	fragmentary
+}-	241	fragmentary
+}-	242	fragmentary
+}-	243	fragmentary
+}-	244	fragmentary
+}-	245	fragmentary
+}-	246	fragmentary
 ======================================================
 &Q000332	247 = 247-253	7/7	3	!4
 >-	.	5	@wDN{Ninḫursaŋa} hastened to the temple.
 >-	,	6	The @wDN{Anuna} slipped off her garment,
 >-	,	6	made ……,
->-	 	1	determined its destin
+>-	 	1	determined its destiny
+>-	 	0	
 >-	.	8	 and …….
 >-	.	7	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
->-	 	0	
 ------------------------------------------------------
 {IDENT}
 }+	247	@wDN{Ninḫursaŋa} hastened to the temple.
 }+	248	The @wDN{Anuna} slipped off her garment,
 }+	249	made ……,
-}+	250	determined its destin
-}+	251	 and …….
-}+	252	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
-}+	253	
+}+	250	determined its destiny
+}+	251	
+}+	252	 and …….
+}+	253	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
 ======================================================
 &Q000332	254 = 254-263	10/16	8	8
 >-	,	2	@q[Ninhursaja,Enki]{“My brother,
@@ -931,22 +929,22 @@
 >-	.	8	She gave birth to @wDN{Ensag} out of it.
 ------------------------------------------------------
 {MULTI}
-}-	264	@q[Ninhursaja,Enki]{“My brother,
-}+		what part of you hurts you?”}
-}-	265	@q[Enki,Ninhursaja]{“My throat (@fsux{zi}) hurts me.”}
-}+		She gave birth to @wDN{Nazi} out of it.
-}-	266	@q[Ninhursaja,Enki]{“My brother,
-}+		what part of you hurts you?”}
-}-	267	@q[Enki,Ninhursaja]{“My arm (@fsux{a}) hurts me.”}
-}+		She gave birth to @wDN{Azimua} out of it.
-}-	268	@q[Ninhursaja,Enki]{“My brother,
-}+		what part of you hurts you?”}
-}-	269	@q[Enki,Ninhursaja]{“My ribs (@fsux{ti}) hurt me.”}
-}+		She gave birth to @wDN{Ninti} out of it.
-}-	270	@q[Ninhursaja,Enki]{“My brother,
-}+		what part of you hurts you?”}
-}-	271	@q[Enki,Ninhursaja]{“My sides (@fsux{zag}) hurt me.”}
-}+		She gave birth to @wDN{Ensag} out of it.
+}-	264	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}0	
+}-	265	@q[Enki,Ninhursaja]{“My throat (@fsux{zi}) hurts me.”} She gave birth to @wDN{Nazi} out of it.
+}0	
+}-	266	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}0	
+}-	267	@q[Enki,Ninhursaja]{“My arm (@fsux{a}) hurts me.”} She gave birth to @wDN{Azimua} out of it.
+}0	
+}-	268	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}0	
+}-	269	@q[Enki,Ninhursaja]{“My ribs (@fsux{ti}) hurt me.”} She gave birth to @wDN{Ninti} out of it.
+}0	
+}-	270	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
+}0	
+}-	271	@q[Enki,Ninhursaja]{“My sides (@fsux{zag}) hurt me.”} She gave birth to @wDN{Ensag} out of it.
+}0	
 ======================================================
 &Q000332	272 = 272-280	9/9	6	6
 >-	.	15	@q[Ninhursaja,others]{“For the little ones to whom I have given birth may rewards not be lacking.
