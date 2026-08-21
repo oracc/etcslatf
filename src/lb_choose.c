@@ -193,7 +193,7 @@ lbc_maybe_fb(Par *p, List *ssl, int *ss, Choice c)
       ss = calloc(NSEGS(p), sizeof(int));
     }
   else
-    memset(ss, '\0', NSEGS(p) * sizeof(int));	
+    memset(ss, '\0', NSEGS(p) * sizeof(int));
 }
 
 static int
@@ -237,10 +237,14 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
   int i;
   int nshort = 0;
   int nsingle = 0;
+  int nmerge = 0;
   for (i = 0; i < NSEGS(p); ++i)
     {
       if ('0' == p->segs[i]->b)
-	continue;
+	{
+	  ++nsingle;
+	  continue;
+	}
       if (p->segs[i]->w && p->segs[i]->w < p->re_xwords)
 	{
 	  int want = want_next(p, i);
@@ -252,9 +256,10 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 	      ss[i] = 2;
 	      while (j < NSEGS(p) && (want==2||p->segs[j]->w < p->re_xwords))
 		{
+		  ++nmerge;
 		  ss[j] = 1;
 		  w += p->segs[j++]->w;
-		  if (w >= p->re_xwords)
+		  if (w >= p->re_xwords || (NSEGSG(p) - nmerge) == GOALG(p))
 		    break;
 		}
 	      i = j-1;
@@ -264,9 +269,14 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 	}
       else
 	++nsingle;
+#if 1
+      if ((NSEGSG(p) - nmerge) == GOALG(p))
+	break;
+#endif
     }
   if (nshort)
     {
+#if 0
       if (nshort+nsingle > GOAL(p))
 	{
 	  int shortest[nshort];
@@ -315,7 +325,8 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 		}
 	    }
 	}
-      if (nshort+nsingle != GOAL(p))
+#endif
+      if /*(nshort+nsingle != GOAL(p))*/ ((NSEGSG(p) - nmerge) != GOALG(p))
 	{
 	  memset(ss, '\0', NSEGS(p) * sizeof(int));
 	  return -1;

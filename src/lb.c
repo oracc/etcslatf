@@ -64,7 +64,7 @@ main(int argc, char *const *argv)
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
       tp->pars[i].segs = map_segs(&tp->pars[i]);
       int new_nW = count_words(tp->pars[i].segs);
-      tp->pars[i].re_xwords = new_nW / tp->pars[i].lbgoal;
+      tp->pars[i].re_xwords = new_nW / (tp->pars[i].lbgoal - tp->pars[i].ngaps);
       lb_log_segs(&tp->pars[i]);
       lb_choose(&tp->pars[i]);
     }
