@@ -28,7 +28,7 @@ const char *lbfn;
 char *logfn;
 FILE *logfp;
 
-int count_words(Seg **s);
+int count_words(Par *p);
 const char *find_closer(const char *p);
 void map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
@@ -62,10 +62,21 @@ main(int argc, char *const *argv)
       tp->pars[i].text = lb_P(rr);
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
       map_segs(&tp->pars[i]);
-      int new_nW = count_words(tp->pars[i].segs);
-      tp->pars[i].re_xwords = new_nW / (tp->pars[i].lbgoal - tp->pars[i].ngaps);
-      lb_log_segs(&tp->pars[i]);
-      lb_choose(&tp->pars[i]);
+      if (tp->pars[i].segs)
+	{
+	  int new_nW = count_words(&tp->pars[i]);
+	  int ngoal = tp->pars[i].lbgoal - tp->pars[i].ngaps;
+	  if (ngoal)
+	    tp->pars[i].re_xwords = new_nW / ngoal;
+	  else
+	    tp->pars[i].re_xwords = 0;
+	  lb_log_segs(&tp->pars[i]);
+	  lb_choose(&tp->pars[i]);
+	}
+      else
+	{
+	  lb_log_segs(&tp->pars[i]);
+	}
     }
   fclose(logfp);
   lb_tra_report(stderr, tp);
@@ -73,10 +84,11 @@ main(int argc, char *const *argv)
 }
 
 int
-count_words(Seg **s)
+count_words(Par *p)
 {
   int i, nW;
-  for (i = nW = 0; s[i]; ++i)
+  Seg **s = p->segs;
+  for (i = nW = 0; i < p->nsegs; ++i)
     nW += s[i]->w;
   return nW;
 }
@@ -203,11 +215,16 @@ map_segs(Par *par)
 	    }
 	}
     }
-  par->segs = (Seg **)list2array(l);
-  par->nsegs = list_len(l);
-  list_free(l, NULL);
-  if (par->nsegs < par->lbgoal)
-    lb_split_segs(segmem, par);
+  if (list_len(l))
+    {
+      par->segs = (Seg **)list2array(l);
+      par->nsegs = list_len(l);
+      list_free(l, NULL);
+      if (par->nsegs < par->lbgoal)
+	lb_split_segs(segmem, par);
+    }
+  else
+    fprintf(stderr, "%s:%s: paragraph is variant-only\n", par->t->Q, par->label);
 }
 
 const char *
@@ -374,7 +391,7 @@ lb_tra_report(FILE *fp, Tra *t)
   int i;
   int bad = 0;
   for (i = 0; i < t->npars; ++i)
-    if (t->pars[i].choice == C_NONE)
+    if (t->pars[i].segs && t->pars[i].choice == C_NONE)
       ++bad;
   if (bad)
     {

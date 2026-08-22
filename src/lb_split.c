@@ -121,6 +121,7 @@ lb_split_segs(Memo *segmem, Par *p)
 	  p->segs[splitme]->w = p->segs[splitme]->w - w;
 	  /* Move overlapping remainder of segs one to the right */
 	  int nmove = p->nsegs - splitme;
+	  p->segs = realloc(p->segs, (p->nsegs+1) * sizeof(Seg*));
 	  memmove(&p->segs[splitme+1], &p->segs[splitme], nmove * sizeof(Seg*));
 	  /* set the inserted seg's members */
 	  p->segs[splitme] = memo_new(segmem);

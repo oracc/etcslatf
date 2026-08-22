@@ -31,9 +31,9 @@ count_sentences(Seg **segs)
 void
 lb_choose(Par *p)
 {
-  if (NSEGSG(p) == GOALG(p))
+  if (NSEGSG(p) == GOALG(p) || NSEGS(p) == p->ngaps)
     lbc_identity(p);
-  else if ((NSEGSG(p) % GOALG(p)) == 0)
+  else if (GOALG(p) && (NSEGSG(p) % GOALG(p)) == 0)
     lbc_multiple(p, NSEGSG(p) / GOALG(p));
   else
     {
