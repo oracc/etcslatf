@@ -105,39 +105,48 @@ const char *
 map_gap(Memo *segmem, Par *par, const char *p, List *l)
 {
   const char *s = p;
-  while (*s && !isdigit(*s) && 0x19 != *s)
-    ++s;
-  if (isdigit(*s))
+  s = strchr(s, '{');
+  /* Ignore approx values */
+  if (strncmp(s, "{approx", strlen("{approx")))
     {
-      /*fprintf(stderr, "found digit(s) in gap %s\n", p);*/
-      const char *line = strstr(s, "line");
-      if (line)
+      while (*s && !isdigit(*s) && 0x19 != *s)
+	++s;
+      if (isdigit(*s))
 	{
-	  while (*line && !isspace(*line))
-	    ++line;
-	  while (isspace(*line))
-	    ++line;
-	  const char *end = line;
-	  while (*end && '}' != *end)
-	    ++end;
-	  int ngap = atoi(s);
-	  int i;
-	  for (i = 0; i < ngap; ++i)
+	  /*fprintf(stderr, "found digit(s) in gap %s\n", p);*/
+	  const char *line = strstr(s, "line");
+	  if (line)
 	    {
-	      Seg *s = memo_new(segmem);
-	      list_add(l, s);
-	      s->w = 0;
-	      s->b = '0';
-	      s->o = line;
-	      s->c = end;
-	      ++par->ngaps;
+	      while (*line && !isspace(*line))
+		++line;
+	      while (isspace(*line))
+		++line;
+	      const char *end = line;
+	      while (*end && '}' != *end)
+		++end;
+	      int ngap = atoi(s);
+	      int i;
+	      for (i = 0; i < ngap; ++i)
+		{
+		  Seg *s = memo_new(segmem);
+		  list_add(l, s);
+		  s->w = 0;
+		  s->b = '0';
+		  s->o = line;
+		  s->c = end;
+		  ++par->ngaps;
+		}
 	    }
+	  else
+	    fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
 	}
       else
-	fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
+	{
+	  /* "unknown number of lines" is treated as 0 lines */
+	  if (!strstr(p, "unknown"))
+	    fprintf(stderr, "no digit in gap %s\n", p);
+	}
     }
-  else
-    fprintf(stderr, "no digit in gap %s\n", p);
 
   while (CTRL_Y != *p)
     ++p;

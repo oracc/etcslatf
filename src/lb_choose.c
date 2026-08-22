@@ -1,7 +1,10 @@
 #include <oraccsys.h>
 #include "lb.h"
 
+#if 0
 static void lb_label(Par *p);
+#endif
+
 static int count_sentences(Seg**segs);
 static void lbc_identity(Par *p);
 static void lbc_multiple(Par *pp, int n);
@@ -42,11 +45,14 @@ lb_choose(Par *p)
       else
 	lbc_fallbacks(p, nsent);
     }
+#if 0
   if (p->choice != C_NONE)
     lb_label(p);
+#endif
   lb_log_segs2(p);
 }
 
+#if 0
 void
 lb_label(Par *p)
 {
@@ -54,7 +60,7 @@ lb_label(Par *p)
   int n = 0;
   int j = -1;
   /*p->segs[0]->label = p->labels[0];*/
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       if (-1 == j)
 	j = i;
@@ -68,15 +74,19 @@ lb_label(Par *p)
 	p->segs[i]->label = p->labels[n++];
     }
 }
+#endif
 
 static void
 lbc_identity(Par *p)
 {
   int i;
   p->choice = C_IDENT;
-  for (i = 0; p->segs[i]; ++i)
-    if ('0' != p->segs[i]->b)
-      p->segs[i]->lb = 1;
+  for (i = 0; i < p->nsegs; ++i)
+    {
+      p->segs[i]->label = p->labels[i];
+      if ('0' != p->segs[i]->b)
+	p->segs[i]->lb = 1;
+    }
 }
 
 static void
@@ -87,7 +97,7 @@ lbc_multiple(Par *p, int n)
   int j = 0;
   int head;
   int nlabel = 0;
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' == p->segs[i]->b)
 	{
@@ -132,7 +142,7 @@ lb_label_sent(Par *p)
   int head = 0;
   int nlabel = 0;
   int i;
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' == p->segs[i]->b)
 	p->segs[i]->label = p->labels[nlabel++];
@@ -140,7 +150,7 @@ lb_label_sent(Par *p)
 	{
 	  p->segs[i]->label = p->labels[nlabel++];
 	  head = i;
-	  while (i < p->nsegs && !p->segs[i]->lb)
+	  while ((i+1) < p->nsegs && !p->segs[i]->lb)
 	    {
 	      p->segs[i]->next = p->segs[i+1];
 	      ++i;
@@ -156,7 +166,7 @@ lbc_identity_sent(Par *p)
 {
   p->choice = C_IDENT_SENT;
   int i;
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' == p->segs[i]->b)
 	continue;
@@ -172,7 +182,7 @@ lbc_multiple_sent(Par *p, int n)
   p->choice = C_MULTI_SENT;
   int i;
   int j = 0;
-  for (i = 0; p->segs[i]; ++i)
+  for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' == p->segs[i]->b)
 	continue;
@@ -274,6 +284,8 @@ lb_best_fallback(List *ssl)
 static int
 want_next(Par *p, int i)
 {
+  if ((i+1) < NSEGS(p) && '0' == p->segs[i+1]->lb)
+    return 0;
   if (i == 0 && p->segs[i]->w && p->segs[i]->w < (p->re_xwords/2))
     return 2;
   else if ((i+1) < NSEGS(p) && p->segs[i]->w && p->segs[i+1]->w < p->re_xwords)
@@ -357,7 +369,7 @@ lbf_find_merge(Par *p)
   int i;
   int wmin = 100; /* smallest seg[i]->w for merge */
   int wsum = 1000; /* current sum seg[i]->w+seg[i+1]->w */
-  int next;
+  int next = -1;
   for (i = 0; i < p->nsegs; ++i)
     {
       if (p->segs[i]->w < wmin)
@@ -382,7 +394,13 @@ lbf_brute_pairs(Par *p)
   while (NSEGSG(p) != GOALG(p))
     {
       int m = lbf_find_merge(p);
-      lbf_exec_merge(p, m);
+      if (m >= 0)
+	lbf_exec_merge(p, m);
+      else
+	{
+	  fprintf(stderr, "%s:%s: lbf_find_merge failed\n", p->t->Q, p->label);
+	  break;
+	}
     }
   p->choice = C_FB_BRUTE;
   int i;

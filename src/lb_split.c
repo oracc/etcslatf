@@ -9,7 +9,7 @@ find_and(Par *p, const char **s, int *w)
     {
       const char *o = p->segs[i]->o;
       const char *and = strstr(o, " and ");
-      if (and < p->segs[i]->c)
+      if (and && and < p->segs[i]->c)
 	{
 	  *s = and;
 	  int nw = 0;
@@ -51,15 +51,21 @@ find_longest(Par *p, const char **s, int *w)
 	{
 	  if (++xw == nw)
 	    break;
+	  else
+	    ++sp;
 	}
       else if (ELLIPSIS(sp))
 	{
-	  if ((xw+=3) >= nw)
+	  if ((xw+=2) >= nw)
 	    {
 	      sp += 3;
 	      break;
 	    }
+	  else
+	    sp += 3;
 	}
+      else
+	++sp;
     }
   /* Did we fail to find enough words? */
   if (xw < nw)
@@ -68,6 +74,7 @@ find_longest(Par *p, const char **s, int *w)
 	{
 	  fprintf(stderr, "%s:%s: no split point found in para\n", p->t->Q, p->label);
 	  *s = NULL;
+	  imax = -1;
 	}
       else
 	{
@@ -86,6 +93,8 @@ find_longest(Par *p, const char **s, int *w)
 		  sp += 3;
 		  break;
 		}
+	      else
+		++sp;
 	    }
 	}
     }
@@ -104,18 +113,23 @@ lb_split_segs(Memo *segmem, Par *p)
       int splitme = find_and(p, &split, &w);
       if (splitme < 0)
 	splitme = find_longest(p, &split, &w);
-      /* Reset the rhs of the segment that is being split */
-      const char *o = p->segs[splitme]->o;
-      p->segs[splitme]->o = split; /* ->c stays the same */
-      p->segs[splitme]->w = p->segs[splitme]->w - w;
-      /* Move overlapping remainder of segs one to the right */
-      int nmove = p->nsegs - splitme;
-      memmove(&p->segs[splitme+1], &p->segs[splitme], nmove * sizeof(Seg*));
-      /* set the inserted seg's members */
-      p->segs[splitme] = memo_new(segmem);
-      p->segs[splitme]->o = o;
-      p->segs[splitme]->c = split;
-      p->segs[splitme]->w = w;
-      ++p->nsegs;
+      if (splitme >= 0)
+	{
+	  /* Reset the rhs of the segment that is being split */
+	  const char *o = p->segs[splitme]->o;
+	  p->segs[splitme]->o = split; /* ->c stays the same */
+	  p->segs[splitme]->w = p->segs[splitme]->w - w;
+	  /* Move overlapping remainder of segs one to the right */
+	  int nmove = p->nsegs - splitme;
+	  memmove(&p->segs[splitme+1], &p->segs[splitme], nmove * sizeof(Seg*));
+	  /* set the inserted seg's members */
+	  p->segs[splitme] = memo_new(segmem);
+	  p->segs[splitme]->o = o;
+	  p->segs[splitme]->c = split;
+	  p->segs[splitme]->w = w;
+	  ++p->nsegs;
+	}
+      else
+	break;
     }
 }
