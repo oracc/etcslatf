@@ -195,7 +195,7 @@ map_segs(Par *par)
 	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
 	    {
-	      if (p - start)
+	      if (s->w)
 		{
 		  s->o = start;
 		  s->c = p;
