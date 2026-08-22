@@ -118,8 +118,8 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l)
 {
   const char *s = p;
   s = strchr(s, '{');
-  /* Ignore approx values */
-  if (strncmp(s, "{approx", strlen("{approx")))
+  /* Ignore approx values; also any @gap[-]{ ... is to be ignored */
+  if (']' != s[-1] && strncmp(s, "{approx", strlen("{approx")))
     {
       while (*s && !isdigit(*s) && 0x19 != *s)
 	++s;
@@ -137,17 +137,23 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l)
 	      while (*end && '}' != *end)
 		++end;
 	      int ngap = atoi(s);
-	      int i;
-	      for (i = 0; i < ngap; ++i)
+	      if (ngap < par->lbgoal)
 		{
-		  Seg *s = memo_new(segmem);
-		  list_add(l, s);
-		  s->w = 0;
-		  s->b = '0';
-		  s->o = line;
-		  s->c = end;
-		  ++par->ngaps;
+		  int i;
+		  for (i = 0; i < ngap; ++i)
+		    {
+		      Seg *s = memo_new(segmem);
+		      list_add(l, s);
+		      s->w = 0;
+		      s->b = '0';
+		      s->o = line;
+		      s->c = end;
+		      ++par->ngaps;
+		    }
 		}
+	      else
+		fprintf(stderr, "%s:%s: gap of %d lines ignored because it overflows goal of %d\n",
+			par->t->Q, par->label, ngap, par->lbgoal);
 	    }
 	  else
 	    fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
