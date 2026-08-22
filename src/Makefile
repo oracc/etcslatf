@@ -1,4 +1,4 @@
-o2=/home/stinney/o2
+o2=/Users/stinney/o2
 
 CFLAGS=-g -Wall
 CPPFLAGS=-I${o2}/lib/sys -I${o2}/lib/std -I${o2}/include
