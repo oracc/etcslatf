@@ -30,7 +30,20 @@ lbv_seg(Seg *s, int i)
 			      break;
 			  if (id1[j] == ',')
 			    {
-			      fprintf(stderr, "lbv_seg:%s:%s: found @vari\n", s->p->t->Q, s->p->label);
+			      char lines[5] = { '\0' };
+			      const char *l = strchr(x, '{');
+			      while (*l && '}' != *l && !isdigit(*l))
+				++l;
+			      int ndig = 0;
+			      while (isdigit(*l))
+				lines[ndig++] = *l++;
+			      lines[ndig] = '\0';
+			      if (ndig)
+				fprintf(stderr, "lbv_seg:%s:%s: found @vari mentioning %s lines\n",
+					s->p->t->Q, s->p->label, lines);
+			      else
+				fprintf(stderr, "lbv_seg:%s:%s: found @vari with non-specific extent\n",
+					s->p->t->Q, s->p->label);
 			    }
 			}
 		    }

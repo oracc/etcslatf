@@ -35,6 +35,29 @@ const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_tag_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
 
+static void
+lb_sanity(Par *p)
+{
+  static int pass = 0;
+  ++pass;
+  int i;
+  for (i = 0; i < p->nsegs; ++i)
+    {
+      if (p->segs[i]->c > p->endp)
+	{
+	  fprintf(stderr, "lb_sanity[%d]: %s:%s: segs[%d]->c out of bounds; resetting to end of para\n",
+		  pass, p->t->Q, p->label, i);
+	  p->segs[i]->c = p->endp;
+	}
+      else if (p->segs[i]->c < p->segs[i]->o)
+	{
+	  fprintf(stderr, "lb_sanity[%d]: %s:%s: segs[%d]->c < segs[%d]->o; resetting c to o\n",
+		  pass, p->t->Q, p->label, i, i);
+	  p->segs[i]->c = p->segs[i]->o;
+	}
+    }	
+}
+
 int
 main(int argc, char *const *argv)
 {
@@ -60,8 +83,20 @@ main(int argc, char *const *argv)
       tp->pars[i].lbgoal = atoi(lb_G(rr));
       tp->pars[i].xwords = atoi(lb_W(rr));
       tp->pars[i].text = lb_P(rr);
+      tp->pars[i].endp = tp->pars[i].text + strlen(tp->pars[i].text);
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
+      if (CTRL_X == *tp->pars[i].text && CTRL_Y == tp->pars[i].endp[-1])
+	{
+	  const char *x = tp->pars[i].text+1;
+	  while (*x && CTRL_X != *x)
+	    ++x;
+	  /* If a para is only ^X ... ^Y skip the labelling and just
+	     print a group label on output */
+	  if (!*x)
+	    continue;
+	}
       map_segs(&tp->pars[i]);
+      lb_sanity(&tp->pars[i]);
       if (tp->pars[i].segs)
 	{
 	  lb_vari(&tp->pars[i]);
@@ -71,8 +106,10 @@ main(int argc, char *const *argv)
 	    tp->pars[i].re_xwords = new_nW / ngoal;
 	  else
 	    tp->pars[i].re_xwords = 0;
+	  lb_sanity(&tp->pars[i]);
 	  lb_log_segs(&tp->pars[i]);
 	  lb_choose(&tp->pars[i]);
+	  lb_sanity(&tp->pars[i]);
 	}
       else
 	{
@@ -115,12 +152,21 @@ find_closer(const char *p)
 }
 
 const char *
-map_gap(Memo *segmem, Par *par, const char *p, List *l)
+map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 {
   const char *s = p;
   s = strchr(s, '{');
+
+  *ignored = 0;
+  
   /* Ignore approx values; also any @gap[-]{ ... is to be ignored */
-  if (']' != s[-1] && strncmp(s, "{approx", strlen("{approx")))
+  if (']' == s[-1] && '-' == s[-2])
+    *ignored = 1;
+
+  if (!strncmp(s, "{approx", strlen("{approx")))
+    *ignored = 2;
+
+  if (!*ignored)
     {
       while (*s && !isdigit(*s) && 0x19 != *s)
 	++s;
@@ -197,7 +243,7 @@ map_segs(Par *par)
 	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
 	    {
-	      if (s->w)
+	      if (s->w || (CTRL_X == *start && strncmp(p+1, "@gap", 4)))
 		{
 		  s->o = start;
 		  s->c = p;
@@ -205,8 +251,16 @@ map_segs(Par *par)
 	      else
 		list_pop(l);
 
-	      if (CTRL_X == *p) /* boundary was a \cX@gap */
-		p = map_gap(segmem, par, p, l);
+	      if (CTRL_X == *p && !strncmp(p+1, "@gap", 4)) /* boundary was a \cX@gap */
+		{
+		  int ignored = 0;
+		  p = map_gap(segmem, par, p, l, &ignored);
+		  if (ignored)
+		    {
+		      /* concatenate the ignored @gap to the end of the previous segment */
+		      s->c = p;
+		    }
+		}
 	      else if (*p)
 		++p;
 	    }
@@ -360,7 +414,7 @@ next_boundary(const char *p, int *nwords, int *b)
       if (nwords)
 	*nwords = 0;
       if (CTRL_X == *start)
-	return start;
+	return p;
       else
 	return NULL;
     }

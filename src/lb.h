@@ -26,6 +26,7 @@ typedef struct par
   int lbgoal;
   int xwords;
   const char *text;
+  const char *endp;
   int re_xwords; /* recomputed xwords based on words found in segments */
   struct seg **segs;
   int nsegs;

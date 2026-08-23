@@ -8,5 +8,7 @@ LIBS=-loracc2
 lb: lb.o lb_choose.o lb_log.o lb_print.o lb_split.o lb_vari.o
 	$(CC) $(LDFLAGS) -o $@ $^ $(LIBS)
 
+*.o: lb.h
+
 clean:
 	rm -f *.o lb

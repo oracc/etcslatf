@@ -34,8 +34,9 @@ find_longest(Par *p, const char **s, int *w)
   int iw = 0;
   int wmax = 0;
   int imax = 0;
+
  retry:
-  for (;iw < p->nsegs; ++iw)
+  for (wmax = 0; iw < p->nsegs; ++iw)
     {
       if (p->segs[iw]->w > wmax)
 	{
@@ -58,7 +59,7 @@ find_longest(Par *p, const char **s, int *w)
 	}
       else if (ELLIPSIS(sp))
 	{
-	  if ((xw+=2) >= nw && xw < p->segs[imax]->w)
+	  if ((xw+=2) < nw)
 	    {
 	      sp += 3;
 	      if (!ELLIPSIS(sp))
@@ -69,7 +70,7 @@ find_longest(Par *p, const char **s, int *w)
 		}
 	    }
 	  else
-	    sp += 3;
+	    break; /* we overflowed the word goal so this one won't work */
 	}
       else
 	++sp;
@@ -111,7 +112,7 @@ find_longest(Par *p, const char **s, int *w)
 	    }
 	}
     }
-  *s = sp+1;
+  *s = (0xE2==*(ucp)sp)?sp:sp+1;
   *w = xw;
   return imax;
 }
@@ -131,7 +132,7 @@ lb_split_segs(Memo *segmem, Par *p)
 	  /* Make room for the new seg at splitme+1 by moving rest of
 	     segs one to the right */
 	  int nmove = p->nsegs - splitme;
-	  p->segs = realloc(p->segs, (p->nsegs+1) * sizeof(Seg*));
+	  p->segs = realloc(p->segs, (p->nsegs+2) * sizeof(Seg*));
 	  memmove(&p->segs[splitme+2], &p->segs[splitme+1], nmove * sizeof(Seg*));
 
 	  /* Create the new seg */

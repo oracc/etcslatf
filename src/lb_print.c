@@ -50,8 +50,19 @@ void
 lbp_par(FILE *fp, Par *p)
 {
   int i;
-  for (i = 0; i < p->nsegs; ++i)
-    lbp_seg(fp, p->segs[i]);
+  if (!p->nsegs)
+    {
+      const char *group_label = p->label;
+      const char *eq = strchr(group_label, '=');
+      if (eq)
+	group_label = eq + 2;
+      fprintf(fp, "%s.\t%s\n", group_label, p->text);
+    }
+  else
+    {
+      for (i = 0; i < p->nsegs; ++i)
+	lbp_seg(fp, p->segs[i]);
+    }
 }
 
 void
