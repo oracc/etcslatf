@@ -80,7 +80,7 @@ find_longest(Par *p, const char **s, int *w)
     {
       if ((imax+1) < p->nsegs)
 	{
-	  iw = imax+1;
+	  iw = ++imax;
 	  goto retry;
 	}
 
