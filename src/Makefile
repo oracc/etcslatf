@@ -1,4 +1,10 @@
+host=$(shell hostname)
+
+ifeq ($(host),build-oracc)
+o2=/home/stinney/o2
+else
 o2=/Users/stinney/o2
+endif
 
 CFLAGS=-g -Wall
 CPPFLAGS=-I${o2}/lib/sys -I${o2}/lib/std -I${o2}/include
