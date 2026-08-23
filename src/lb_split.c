@@ -11,14 +11,14 @@ find_and(Par *p, const char **s, int *w)
       const char *and = strstr(o, " and ");
       if (and && and < p->segs[i]->c)
 	{
-	  *s = and;
+	  *s = and+1;
 	  int nw = 0;
 	  while (and < p->segs[i]->c)
 	    {
 	      if (isspace(*and))
 		++nw;
 	      else if (ELLIPSIS(and))
-		nw += 3;
+		nw += 2;
 	      ++and;
 	    }
 	  *w = (p->segs[i]->w - nw);
@@ -31,17 +31,19 @@ find_and(Par *p, const char **s, int *w)
 int
 find_longest(Par *p, const char **s, int *w)
 {
-  int i;
+  int iw = 0;
   int wmax = 0;
   int imax = 0;
-  for (i = 0; i < p->nsegs; ++i)
+ retry:
+  for (;iw < p->nsegs; ++iw)
     {
-      if (p->segs[i]->w > wmax)
+      if (p->segs[iw]->w > wmax)
 	{
-	  wmax = p->segs[i]->w;
-	  imax = i;
+	  wmax = p->segs[iw]->w;
+	  imax = iw;
 	}
     }
+
   /* find a split point at a space after the halfway word mark */
   int nw = wmax / 2, xw = 0;
   const char *sp = p->segs[imax]->o;
@@ -56,10 +58,15 @@ find_longest(Par *p, const char **s, int *w)
 	}
       else if (ELLIPSIS(sp))
 	{
-	  if ((xw+=2) >= nw)
+	  if ((xw+=2) >= nw && xw < p->segs[imax]->w)
 	    {
 	      sp += 3;
-	      break;
+	      if (!ELLIPSIS(sp))
+		{
+		  if ('.' == *sp || ',' == *sp)
+		    ++sp;
+		  break;
+		}
 	    }
 	  else
 	    sp += 3;
@@ -68,8 +75,14 @@ find_longest(Par *p, const char **s, int *w)
 	++sp;
     }
   /* Did we fail to find enough words? */
-  if (xw < nw)
+  if (xw < nw || xw >= p->segs[imax]->w)
     {
+      if ((imax+1) < p->nsegs)
+	{
+	  iw = imax+1;
+	  goto retry;
+	}
+
       if (!xw) /* there is no split point :( */
 	{
 	  fprintf(stderr, "%s:%s: no split point found in para\n", p->t->Q, p->label);
@@ -98,7 +111,7 @@ find_longest(Par *p, const char **s, int *w)
 	    }
 	}
     }
-  *s = sp;
+  *s = sp+1;
   *w = xw;
   return imax;
 }
@@ -115,22 +128,38 @@ lb_split_segs(Memo *segmem, Par *p)
 	splitme = find_longest(p, &split, &w);
       if (splitme >= 0)
 	{
-	  /* Reset the rhs of the segment that is being split */
-	  const char *o = p->segs[splitme]->o;
-	  p->segs[splitme]->o = split; /* ->c stays the same */
-	  p->segs[splitme]->w = p->segs[splitme]->w - w;
-	  /* Move overlapping remainder of segs one to the right */
+	  /* Make room for the new seg at splitme+1 by moving rest of
+	     segs one to the right */
 	  int nmove = p->nsegs - splitme;
 	  p->segs = realloc(p->segs, (p->nsegs+1) * sizeof(Seg*));
-	  memmove(&p->segs[splitme+1], &p->segs[splitme], nmove * sizeof(Seg*));
-	  /* set the inserted seg's members */
-	  p->segs[splitme] = memo_new(segmem);
-	  p->segs[splitme]->o = o;
-	  p->segs[splitme]->c = split;
+	  memmove(&p->segs[splitme+2], &p->segs[splitme+1], nmove * sizeof(Seg*));
+
+	  /* Create the new seg */
+	  p->segs[splitme+1] = memo_new(segmem);
+
+	  /* Save members for new seg */
+	  const char *c = p->segs[splitme]->c;
+	  int b = p->segs[splitme]->b;
+	  int nw = p->segs[splitme]->w - w;
+
+	  /* Reset the LHS of the segment being split */
+	  p->segs[splitme]->c = split-1;
 	  p->segs[splitme]->w = w;
+	  p->segs[splitme]->b = ' ';
+	  
+	  /* set the new seg's members */
+	  p->segs[splitme+1]->o = split;
+	  p->segs[splitme+1]->c = c;
+	  p->segs[splitme+1]->w = nw;
+	  p->segs[splitme+1]->b = b;
+	  p->segs[splitme+1]->p = p;
+
 	  ++p->nsegs;
 	}
       else
-	break;
+	{
+	  fprintf(stderr, "%s:%s: lb_split_segs failed\n", p->t->Q, p->label);
+	  break;
+	}
     }
 }

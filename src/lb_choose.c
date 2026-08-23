@@ -42,7 +42,7 @@ lb_choose(Par *p)
 	lbc_identity_sent(p);
       else if ((nsent % GOALG(p)) == 0)
 	lbc_multiple_sent(p, nsent / GOALG(p));
-      else
+      else if (p->nsegs > GOALG(p))
 	lbc_fallbacks(p, nsent);
     }
 #if 0

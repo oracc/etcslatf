@@ -64,6 +64,7 @@ main(int argc, char *const *argv)
       map_segs(&tp->pars[i]);
       if (tp->pars[i].segs)
 	{
+	  lb_vari(&tp->pars[i]);
 	  int new_nW = count_words(&tp->pars[i]);
 	  int ngoal = tp->pars[i].lbgoal - tp->pars[i].ngaps;
 	  if (ngoal)
@@ -191,6 +192,7 @@ map_segs(Par *par)
 	{
 	  const char *start = p;
 	  Seg *s = memo_new(segmem);
+	  s->p = par;
 	  list_add(l, s);
 	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
@@ -357,7 +359,10 @@ next_boundary(const char *p, int *nwords, int *b)
     {
       if (nwords)
 	*nwords = 0;
-      return NULL;
+      if (CTRL_X == *start)
+	return start;
+      else
+	return NULL;
     }
 }
 
