@@ -1,7 +1,11 @@
 &Q000785
+
+{1 = 1-3}
 1.	There were three friends, citizens of @wSN{Adab}, 
 2.	who fell into a dispute with each other, and sought justice. 
 3.	They deliberated the matter with many words, and went before the king. 
+
+{4 = 4-13}
 4.	@q[three ox-drivers,king]{“Our king! We are ox-drivers. The ox belongs to one man, the cow belongs to one man, 
 5.	and the waggon belongs to one man. We became thirsty and had no water. We said to the owner of the ox, 
 6.	@q[two ox-drivers,owner of the ox]{“If you were to fetch some water, then we could drink!”}. And he said, @q[owner of the ox,two ox-driver]{“What if my ox is devoured by a lion? 
@@ -12,10 +16,16 @@
 11.	I will not leave my waggon!”}. @q[three ox-drivers,self]{“Come on, let's all go! 
 12.	Come on, 
 13.	and let's return together!”}”} 
+
+{14 = 14-15}
 14.	@q{“First the ox, although tied with a leash (?), mounted the cow, and then she dropped her young, and the calf started to chew up (?) the waggon's load. 
 15.	Who does this calf belong to? Who can take the calf?”} 
+
+{16 = 16-17}
 16.	The king did not give them an answer, but went to visit a cloistered lady. 
 17.	The king sought advice from the cloistered lady: 
+
+{18 = 18-28}
 18.	@q[king,cloistered lady]{“Three young men came before me and said: @q[three ox-drivers,king]{“Our king, we are ox-drivers. The ox belongs to one man, 
 19.	the cow belongs to one man, and the waggon belongs to one man. We became thirsty and had no water. 
 20.	We said to the owner of the ox, @q[two ox-drivers,owner of the ox]{“If you were to draw some water, 
@@ -27,16 +37,22 @@
 26.	@q[two ox-drivers,owner of the waggon]{“If you were to draw some water, then we could drink!”}. And he said, 
 27.	@q[owner of the waggon,two ox-drivers]{“What if the load were removed from my waggon? I will not leave my waggon!”} 
 28.	he said. @q[three ox-drivers,self]{“Come on, let's all go! Come on, and let's return together!”}”}”} 
+
+{29 = 29-30}
 29.	@q{“@q{“First the ox, although tied with a leash (?), mounted the cow, and then she dropped her young, and the calf started to chew up (?) the waggon's load. 
 30.	Who does this calf belong to? Who can take the calf?”}”} 
+
+{65 = 65-72}
 65.	@q[cloistered lady,king]{“Well now, the owner of the ox, …… his field ……. 
 66.	After his ox has been eaten by a lion ……, 
 67.	his field …….”} 
-68.	($missing$) 
+($@gap{1 line missing}$) 
 69.	@q{“The hero ……. 
 70.	Like a mountaineer ……. 
 71.	A dog …… the ox ……. 
 72.	A strong man (?) …… in his field …….”} 
+
+{73 = 73-80}
 73.	@q{“Well now, the owner of the cow …… his wife. 
 74.	After his cow has gone off into the desert ……, 
 75.	his wife will walk the streets ……. After the cow has dropped its young ……, 
@@ -45,6 +61,8 @@
 78.	…… hunger. 
 79.	His wife dwells with him in his house, 
 80.	his desired one ……”} 
+
+{81 = 81-88}
 81.	@q{“Well now, the owner of the waggon, after he has abandoned his ……, 
 82.	and the load has been removed from his waggon, and …… from his waggon, 
 83.	and after he has brought his …… into his house, …… will be made to leave his house. 
@@ -53,6 +71,8 @@
 86.	will make his …… leave his @varh[t565.v1]{waste ground } @vart[t565.v2,t565.v1]{@varn{1 ms. has instead:} location }. …… the ox, 
 87.	…… has partaken of my (?) wisdom, shall not oppose (?) it. His load, ……, 
 88.	will not return (?).”} 
+
+{89 = 89-95}
 89.	When the king came out from the cloistered lady's presence, 
 90.	each (?) man's heart was dissatisfied. The man who hated his wife left his wife. 
 91.	The man …… his …… abandoned his ……. 

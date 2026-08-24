@@ -1,53 +1,65 @@
 &Q000671
+
+{1 = 1-26}
 1.	@q[Ningal,]{“I …… for the ……. 
-2.	($missing$) 
-3.	($missing$) 
-4.	($missing$) 
-5.	($missing$) 
-6.	($missing$) 
-7.	($missing$) 
-8.	($missing$) 
-9.	($missing$) 
-10.	($missing$) 
-11.	($missing$) 
-12.	($missing$) 
-13.	($missing$) 
-14.	($missing$) 
-15.	($missing$) 
-16.	($missing$) 
-17.	($missing$) 
-18.	($missing$) 
-19.	($missing$) 
-20.	($missing$) 
-21.	The embrace of my spouse ……. 
-22.	The young man ……. 
-23.	Among his cows ……. 
-24.	My beloved who ……. 
-25.	I shall go ……! 
-26.	There with the lord …….”} 
+2.	($@gap{19 lines missing}$) 
+3.	The 
+4.	embrace 
+5.	of my 
+6.	spouse 
+7.	 
+8.	……. 
+9.	The young 
+10.	man 
+11.	 
+12.	 
+13.	……. 
+14.	Among his 
+15.	cows 
+16.	……. 
+17.	My beloved 
+18.	who 
+19.	……. 
+20.	I shall 
+21.	go 
+22.	……! 
+23.	There with 
+24.	the lord 
+25.	 
+26.	…….”} 
+
+{27 = 27-31}
 27.	@q[Nanna,Ningal]{“My spouse, ……, 
 28.	@wDN{Ningal} who ……, 
 29.	…… butter from the holy cows. 
 30.	Pure hands and …… feet ……. 
 31.	My lovely …….”} 
+
+{32 = 32-37}
 32.	@q{“……, the reedbeds, the playground ……. 
 33.	I shall …… sharp knives to the …… and reed fences. 
 34.	I shall …… to the beautiful young reeds. 
 35.	Mistress, …… the treasures (?) of the @fsux{ubi} birds. 
 36.	I will gather their eggs for you, and I shall …… the nest. 
 37.	High priestess of @wDN{Nanna}, …… the @fsux{ubi} birds.”} 
+
+{38 = 38-43}
 38.	@q{“After I have …… butter into the container, 
 39.	after I have …… for cakes in the morning (?), 
 40.	after I have …… carp in the great marsh, 
 41.	young lady, after I have …… little turtles (?), 
 42.	then I will …… your own mother @wDN{Ningikuga}. 
 43.	@wDN{Ningal}, I shall go with you to your house.”} 
+
+{44 = 44-49}
 44.	@q{“After I have led the cows into the stall ……, 
 45.	after I have …… holy milk into the holy churn for you, 
 46.	after @wDN{Šuni-du} has done the churning, young lady, 
 47.	after I have given my …… young calves milk ……, 
 48.	then I will …… pats of butter and purified milk for you. 
 49.	@wDN{Ningal}, I shall go with you to your house.”} 
+
+{50 = 50-59}
 50.	@q[Ningal,Nanna]{“……, my beloved, 
 51.	if only I could come to you without my mother to ……! 
 52.	If only I could come to you without @wDN{Ningikuga} (?) ……! 
@@ -58,4 +70,6 @@
 57.	My @wDN{Nanna}, 
 58.	your chant is sweet; 
 59.	it is the chant of my heart.”} 
+
+{60 = 60}
 60.	A @fsux{balbale} of @wDN{Nanna}. 

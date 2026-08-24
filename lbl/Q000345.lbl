@@ -1,9 +1,11 @@
 &Q000345
+
+{1 = 1-28}
 1.	@q{“…… my ……. 
 2.	…… my lacerated eyes ……. 
 3.	…… my lacerated nose ……. 
 4.	…… my beaten ……. …… my hasty ……. 
-5.	…… my ……  ($fragmentary$) …… my ……. 
+5.	…… my ……  ($@gap{1 line fragmentary}$) …… my ……. 
 6.	…… my loaded waggon ……. 
 7.	…… my ……. …… my ……. 
 8.	…… who is cheerful ……. 
@@ -11,7 +13,7 @@
 10.	…… the door of the gate @note{of the nether world} ……. 
 11.	My brother, 
 12.	…… the door of the gate ……  
-13.	($fragmentary$) 
+($@gap{1 line fragmentary}$) 
 14.	…… ladyship (?) ……. On the mighty river, 
 15.	……. …… its fields, a waterskin ……. 
 16.	…… in lamenting ……. 
@@ -27,12 +29,16 @@
 26.	…… of the lord …… …… going (?) as your slavegirl, 
 27.	…… of the lord, 
 28.	I …….”} 
+
+{29 = 29-34}
 29.	@q{“My brother -- because of him I cannot rejoice. My brother ……. 
 30.	@wDN{Dumuzid}, my brother -- because of him I cannot rejoice, ……. 
 31.	…… in front of him ……. 
 32.	…… he who bound his arms went in front of him. 
 33.	…… he who fettered his hands went behind him. 
 34.	…… they who beat him went alongside him.”} 
+
+{35 = 35-53}
 …… then the elder sister spoke to him. 
 …… she replied to him in his distress ……: 
 @q{“…… those men will seize him. 
@@ -51,7 +57,9 @@ out
  
 … 
 ”} 
-54.	($fragmentary$) 
+
+{54 = 54-68}
+($@gap{1 line fragmentary}$) 
 55.	@q{“…… you also ……. …… you also …….”} 
 56.	…… they paid (?) attention ……. 
 57.	…… went along the broad road. …… went along the broad road. 
@@ -66,7 +74,11 @@ out
 66.	he tried to control (?) her. 
 67.	…… as she spoke …… beauty …… lips, 
 68.	he tried to control (?) her: 
+
+{69 = 69-72}
 69.	@q{“…… you, maiden, who are in a similar state (?) to the lord, are you his sister? …… who are in a similar state (?) to @wDN{Dumuzid}, are you his sister? …… are you the lad's younger sister? Are you his sister? …… are you @wDN{Dumuzid's} younger sister? Are you his sister?”} 
+
+{73 = 73-80}
 73.	@q{“Cut …… with my ……; I am his sister. 
 74.	Cut with @wDN{Dumuzid}; I am his sister. 
 75.	I am the lad's younger sister, I am his sister. 
@@ -75,12 +87,18 @@ out
 78.	Let me too be in a similar state (?) …… to him; I am his sister. 
 79.	If I had a cord …… on my hands, my hands would not hurt. 
 80.	If I had a wine jar on my shoulder, my shoulder would not hurt.”} 
+
+{81 = 81-85}
 81.	She returned to the side of his …… and muddied (?) the water. 
 82.	She, @w{Ŋeštin-ana}, poured water into a crevice in the ground for him. The maiden, 
 83.	equipped with ……, agitated (?) the water. She agitated (?) the water, 
 84.	the water for the brother, ……. She agitated (?) the water, 
 85.	and returned it to the river: 
+
+{86 = 86-88}
 86.	@q{“Return to your river! Return to your river! Return to your river! O water which my brother cannot drink, return to your river! O water which @wDN{Dumuzid} cannot drink, O water, return to your river!”} 
+
+{89 = 89-108}
 89.	She heaped up the …… of the river, 
 90.	and muddied the Euphrates: @q{“…… my brother is no longer alive. 
 91.	He will cut …… from ……. 

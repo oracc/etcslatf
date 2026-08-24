@@ -1,4 +1,6 @@
 &Q000349
+
+{1 = 1-8}
 1.	The heroic @wDN{Nanna-Suen} fixed his mind 
 2.	on the city of his mother. 
 3.	@wDN{Suen} @wDN{Ašimbabbar} fixed his mind 
@@ -7,6 +9,8 @@
 6.	and his father. 
 7.	@wDN{Ašimbabbar} fixed his mind on the city of @wDN{Enlil} 
 8.	and @wDN{Ninlil}: 
+
+{9 = 9-16}
 9.	@q[Nanna-Suen,self]{“I, the hero, will set off for my city. 
 10.	I will set off for my city, I will set off to my father. 
 11.	I, @wDN{Suen}, will set off for my city. 
@@ -15,17 +19,21 @@
 14.	I will set off for my city, I will set off to my mother. 
 15.	I will set off to my mother @wDN{Ninlil}. 
 16.	I will set off to my father.”} 
+
+{17 = 17-27}
 17.	@q{“The shining city, 
-18.	the pure place ……. 
-19.	($missing$) 
-20.	($missing$) 
-21.	($missing$) 
-22.	($missing$) 
-23.	($missing$) 
-24.	missing} …… very great, 
-25.	…… very great, 
-26.	…… very great, 
+18.	the pure place 
+19.	……. 
+20.	($@gap{6 lines missing}$) 
+21.	 
+22.	…… very great, 
+23.	� 
+24.	… very great, 
+25.	� 
+26.	… very great, 
 27.	…… very great.”} 
+
+{28 = 28-36}
 28.	@q{“My @wSN{Nibru}, where black birch trees grow in a good place, 
 29.	my sanctuary @wSN{Nibru}, 
 30.	where white birch trees grow in a pure place -- my @wSN{Nibru's} shrine is built in a good place. 
@@ -35,8 +43,12 @@
 34.	palm trees grew in my city. 
 35.	Before @wSN{Dilmun} existed, 
 36.	palm trees grew in @wSN{Nibru} and the great mother @wDN{Ninlil} was clothed in fine linen.”} 
+
+{37 = 37-38}
 37.	@wDN{Suen} set about constructing (?) a barge. 
 38.	He set about constructing (?) a barge and sent for reed matting. 
+
+{39 = 39-48}
 39.	@wDN{Nanna-Suen} despatched people to 
 40.	@wSN{Tummal} for the barge's reeds. 
 41.	@wDN{Ašimbabbar} despatched people to the 
@@ -47,6 +59,8 @@
 46.	@wDN{Nanna-Suen} despatched people to the 
 47.	forests of @wSN{Kug-nuna} for its ribbing (?). 
 48.	@vart[t151.v1,t151.v1]{@varn{3 mss. add 2 lines in a parallel passage:} @wDN{Ašimbabbar} despatched people to the mountain of fragrant cedar for its beams. } 
+
+{49 = 49-58}
 49.	@wDN{Ašimbabbar} despatched people to the 
 50.	forests of @wSN{Ebla} for its planking. 
 51.	@wDN{Nanna-Suen} despatched people to the fragrant 
@@ -57,6 +71,8 @@
 56.	… for its ……. 
 57.	@wDN{Nanna-Suen} despatched people to the mound of 
 58.	…… for its ……. 
+
+{59 = 59-82}
 59.	When the barge's reeds were brought to @wDN{Nanna-Suen} from @wSN{Tummal}, 
 60.	when the barge's pitch was brought to @wDN{Ašimbabbar} from the @fsux{abzu}, 
 61.	when its rushes were brought to @wDN{Nanna-Suen} from @wSN{Du-ašaga}, 
@@ -67,7 +83,7 @@
 66.	when its …… was brought to @wDN{Ašimbabbar} from the junipers of @wSN{Langi}, 
 67.	when its …… was brought to @wDN{Ašimbabbar} from ……, 
 68.	when its …… was brought to @wDN{Nanna-Suen} from the mound of ……, 
-69.	($fragmentary$) 
+69.	($@gap{1 line fragmentary}$) 
 70.	 
 71.	@wDN{Utu} 
 72.	rejoiced 
@@ -81,10 +97,14 @@
 80.	rejoiced 
 81.	at 
 82.	him. 
+
+{147 = 147-150}
 147.	@q[Nanna-Suen,self]{“I am @wDN{Nanna-Suen}, I ……, 
 148.	I will …… to the house of @wDN{Enlil}. 
 149.	I am @wDN{Ašimbabbar}, 
 150.	and I will …… to the house of @wDN{Enlil}.”} 
+
+{157 = 157-166}
 157.	@wDN{Nanna-Suen} will gather bulls for the 
 158.	cow-pen for the house of @wDN{Enlil}. 
 159.	@wDN{Ašimbabbar} will collect (?) fattened sheep 
@@ -95,6 +115,8 @@
 164.	goats for the house of @wDN{Enlil}. 
 165.	@wDN{Nanna-Suen} will � 
 166.	… porcupines for the house of @wDN{Enlil}. 
+
+{167 = 167-175}
 167.	@wDN{Ašimbabbar} will …… long-tailed bush-rats for the house of @wDN{Enlil}. 
 168.	@wDN{Nanna-Suen} will gather (?) turtles (?) 
 169.	and small birds for 
@@ -104,6 +126,8 @@
 173.	@wDN{Nanna-Suen} will bring small @fsux{azagun} 
 174.	birds from the 
 175.	…… for the house of @wDN{Enlil}. 
+
+{176 = 176-185}
 176.	@wDN{Ašimbabbar} will …… @fsux{suḫur} carp for the house of @wDN{Enlil}. 
 177.	@wDN{Nanna-Suen} will …… @fsux{eštub} carp for the house of @wDN{Enlil}. 
 178.	@wDN{Ašimbabbar} will pour the oil of rushes 
@@ -114,6 +138,8 @@
 183.	@wDN{Ašimbabbar} will cause old reed 
 184.	and fresh reed to thrive 
 185.	for the house of @wDN{Enlil}. 
+
+{186 = 186-197}
 186.	@wDN{Nanna-Suen} will cause six hundred ewes to give 
 187.	birth to lambs for the house of @wDN{Enlil}, 
 188.	for he will cause their rams to be let loose among them, 
@@ -126,67 +152,93 @@
 195.	birth to calves for the house of @wDN{Enlil}, 
 196.	for he will cause their bulls to be let loose among them, 
 197.	and he will distribute them along the banks of the @wWN{Surungal} canal. 
+
+{198 = 198-202}
 198.	@wSN{Enegir} lay ahead of the offerings, @wSN{Urim} lay behind them. 
 199.	She brought out of the house what should not come out of the house, 
 200.	what should not come out of the house -- @wDN{Ningirida} brought out of the house what should not come out of the house: 
 201.	@q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen}, welcome, welcome, 
 202.	O boat!”} 
+
+{203 = 203-208}
 203.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
 204.	@vart[t151.v3,t151.v3]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ningirida,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, 
 205.	syrup and wine be abundant in your midst, 
 206.	may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} 
 207.	But the boat did not give her its cargo: 
 208.	@q[Nanna-Suen,Ningirida]{“I am going to @wSN{Nibru}!”} 
+
+{209 = 209-213}
 209.	@wSN{Larsam} lay ahead of the offerings, @wSN{Enegir} lay behind them. 
 210.	She brought out of the house what should not come out of the house, 
 211.	what should not come out of the house -- the lovely @wDN{Šerida} brought out of the house what should not come out of the house: 
 212.	@q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father, welcome, welcome, 
 213.	O boat!”} 
+
+{214 = 214-219}
 214.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
 215.	@vart[t151.v4,t151.v4]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Cerida,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, 
 216.	syrup and wine be abundant in your midst, 
 217.	may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} 
 218.	But the boat did not give her its cargo: 
 219.	@q[Nanna-Suen,Cerida]{“I am going to @wSN{Nibru}!”} 
+
+{220 = 220-224}
 220.	@wSN{Unug} lay ahead of the offerings, @wSN{Larsam} lay behind them. 
 221.	She brought out of the house what should not come out of the house, 
 222.	what should not come out of the house -- holy @wDN{Inana} brought out of the house what should not come out of the house: 
 223.	@q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, 
 224.	O boat! @vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”} 
+
+{225 = 225-230}
 225.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
 226.	@vart[t151.v6,t151.v6]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Inana,Nanna-Suen]{“I shall rub precious oil on your peg. May ghee, 
 227.	syrup and wine be abundant in your midst, 
 228.	may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} 
 229.	But the boat did not give her its cargo: 
 230.	@q[Nanna-Suen,Inana]{“I am going to @wSN{Nibru}!”} 
+
+{231 = 231-235}
 231.	@wSN{Šuruppag} lay ahead of the offerings, @wSN{Unug} lay behind them. 
 232.	She brought out of the house what should not come out of the house, 
 233.	what should not come out of the house -- @wDN{Ninunuga} brought out of the house what should not come out of the house: 
 234.	@q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen} welcome, welcome, 
 235.	O boat!”} 
+
+{236 = 236-241}
 236.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
 237.	@vart[t151.v7,t151.v7]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ninunuga,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, 
 238.	syrup and wine be abundant in your midst, 
 239.	may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} 
 240.	But the boat did not give her its cargo: 
 241.	@q[Nanna-Suen,Ninunuga]{“I am going to @wSN{Nibru}!”} 
+
+{242 = 242-246}
 242.	@wSN{Tummal} lay ahead of the offerings, @wSN{Šuruppag} lay behind them. 
 243.	She brought out of the house what should not come out of the house, 
 244.	what should not come out of the house -- the fair @wDN{Ninlil} brought out of the house what should not come out of the house: 
 245.	@q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of the princely son welcome, 
 246.	welcome, O boat!”} 
+
+{247 = 247-252}
 247.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
 248.	@vart[t151.v8,t151.v8]{@varn{1 ms. adds 1 line:} With her fingers she pulled out the boxwood bung (?) for him (declaring): } @q[Ninlil,Nanna-Suen]{“I shall rub precious oil on this peg. May ghee, 
 249.	syrup and wine be abundant in your midst, 
 250.	may the @fsux{suḫur} carp and the @fsux{eštub} carp rejoice at the prow of your boat!”} 
 251.	But the boat did not give her its cargo: 
 252.	@q[Nanna-Suen,Ninlil]{“I am going to @wSN{Nibru}!”} 
+
+{253 = 253-257}
 253.	@wSN{Nibru} lay ahead of the offerings, @wSN{Tummal} lay behind them. 
 254.	At the Shining Quay, the quay of @wDN{Enlil}, 
 255.	@wDN{Nanna-Suen} finally docked the boat. At the White Quay, 
 256.	the quay of @wDN{Enlil}, 
 257.	@wDN{Ašimbabbar} finally docked the boat. 
+
+{258 = 258-264}
 258.	He stood at the grand stairway of his father who begot him and called out to the porter of his father who begot him: @q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! Open the house, @wDN{Kalkal}, open the house! @wDN{Kalkal}, doorkeeper, open the house! Doorman, doorkeeper, open the house! Porter, open the house! @wDN{Kalkal}, open the house!”} 
+
+{265 = 265-274}
 265.	@q{“I, @wDN{Nanna-Suen}, have gathered bulls for the cow-pen for the house of @wDN{Enlil}; 
 266.	porter, open the house. I, @wDN{Ašimbabbar}, 
 267.	have collected (?) fattened sheep for the house of @wDN{Enlil}; 
@@ -197,6 +249,8 @@
 272.	porter, open the house. I, @wDN{Nanna-Suen}, 
 273.	have …… porcupines for the house of @wDN{Enlil}; 
 274.	porter, open the house.”} 
+
+{275 = 275-283}
 275.	@q{“I, @wDN{Ašimbabbar} -- I, @wDN{Ašimbabbar} -- have …… long-tailed bush-rats for the house of @wDN{Enlil}; 
 276.	porter, open the house. I, @wDN{Nanna-Suen}, 
 277.	have gathered (?) turtles (?) and little birds for the house of @wDN{Enlil}; 
@@ -206,6 +260,8 @@
 281.	have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; 
 282.	porter, 
 283.	open the house.”} 
+
+{284 = 284-293}
 284.	@q{“I, @wDN{Ašimbabbar}, …… @fsux{suḫur} carp for the house of @wDN{Enlil}; 
 285.	porter, open the house. I, @wDN{Nanna-Suen}, 
 286.	…… @fsux{eštub} carp for the house of @wDN{Enlil}; 
@@ -216,6 +272,8 @@
 291.	porter, open the house. I, @wDN{Ašimbabbar}, 
 292.	have caused old reed and fresh reed to thrive for the house of @wDN{Enlil}; 
 293.	porter, open the house.”} 
+
+{294 = 294-305}
 294.	@q{“I, @wDN{Nanna-Suen}, have caused six hundred ewes to give birth to lambs for the house of @wDN{Enlil}, 
 295.	for I have caused their rams to be let loose among them, 
 296.	and I have distributed them along the banks of the @wWN{Surungal} canal; 
@@ -228,9 +286,13 @@
 303.	for I have caused their bulls to be let loose among them, 
 304.	and I have distributed them along the banks of the @wWN{Surungal} canal; 
 305.	porter, open the house.”} 
+
+{306 = 306-308}
 306.	@q{“Porter, open the house! 
 307.	@wDN{Kalkal}, open the house! 
 308.	I will give you that which is in the prow of the boat as a first offering, and I will give you that which is in the stern of the boat as a last offering.”} 
+
+{309 = 309-318}
 309.	Rejoicing, the porter rejoicing, the porter rejoicing opened the house. 
 310.	@wDN{Kalkal}, the doorkeeper, rejoicing, the porter rejoicing opened the house. 
 311.	@wDN{Kalkal}, in charge of the bolt-handle, 
@@ -241,6 +303,8 @@
 316.	@wDN{Enlil}, rejoicing over the offerings, 
 317.	offered bread to @wDN{Suen}, 
 318.	his son. 
+
+{319 = 319-325}
 319.	@wDN{Enlil} rejoiced over @wDN{Suen} and spoke kindly: @q[Enlil,Kalkal]{“Give sweet cakes to my little fellow who eats sweet cakes. 
 320.	Give sweet cakes to my @wDN{Nanna} who loves eating sweet cakes. 
 321.	Bring out from the @wTN{E-kur} the bread allotment and first quality bread for him. 
@@ -248,12 +312,18 @@
 323.	May the …… of the towering @fsux{tilimda} vessels, 
 324.	standing on the ground, ……. Order pure sweet cake, 
 325.	syrup, crescent (?) cake and clear water for him.”} 
+
+{326 = 326-330}
 326.	@wDN{Suen} replied to his father who begot him: @q[Nanna-Suen,Enlil]{“Father who begot me, 
 327.	I am indeed satisfied with what you have given me to eat. O Great Mountain, 
 328.	father who begot me, I am indeed satisfied with what you have given me to drink. 
 329.	Wherever you lift your eyes, there is kingship. 
 330.	O @wDN{Enlil}, your abundance is …….”} 
+
+{331 = 331-339}
 331.	@q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! In the river give me the carp-flood -- I want to set off for @wSN{Urim}! In the fields give me speckled barley -- I want to set off for @wSN{Urim}! In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! In the palace give me long life -- I want to set off for @wSN{Urim}!”} 
+
+{340 = 340-348}
 340.	He gave to him, @wDN{Enlil} gave to him -- and he set off for @wSN{Urim}. 
 341.	In the river he gave him the carp-flood -- and he set off for @wSN{Urim}. 
 342.	In the field he gave him speckled barley -- and he set off for @wSN{Urim}. 
@@ -263,6 +333,8 @@
 346.	In the high plain he gave him the @fsux{mašgurum} tree -- and he set off for @wSN{Urim}. 
 347.	In the orchards he gave him syrup and wine -- and he set off for @wSN{Urim}. 
 348.	In the palace he gave him long life -- and he set off for @wSN{Urim}. 
+
+{349 = 349-352}
 349.	My king, on your throne, for @wDN{Enlil}, may @wDN{Nanna-Suen} make you be born for seven days. 
 350.	On your holy throne, 
 351.	for the great mother @wDN{Ninlil}, 

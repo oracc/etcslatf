@@ -1,28 +1,38 @@
 &Q000466
-1.	($fragmentary$) 
-2.	($fragmentary$) 
-3.	($fragmentary$) 
-4.	Great warrior, ……. 
-5.	Brave ……. 
-6.	His radiance ……. 
-7.	($fragmentary$) 
-8.	…… the cities and settlements. 
+
+{A.1 = 1-11}
+1.	($@gap{3 lines fragmentary}$) 
+2.	Great warrior, 
+3.	……. 
+4.	Brave ……. 
+5.	His radiance ……. 
+6.	($@gap{1 line fragmentary}$) 
+7.	…… the cities 
+8.	and settlements. 
 9.	Roaring lion …… to ……. 
 10.	@wDN{Ninurta}. 
 11.	@wDN{Uta-ulu} ……. 
+
+{A.12 = 12}
 12.	@fsux{Sa-gida}. 
+
+{B.13 = 13}
 13.	Lord ……. 
+
+{B.14 = 14}
 14.	@fsux{Ŋišgiŋal} of the @fsux{sa-gida}. 
-15.	($fragmentary$) 
-16.	($fragmentary$) 
-17.	…… in the @wTN{Ubšu-unkena}. 
-18.	…… the status of @wDN{Enlil} ……. 
-19.	…… the power of the Great Mountain @wDN{Enlil} ……. 
-20.	…… my man ……. 
-21.	Prince @wRN{Išme-@wDN{Dagan}} ……. 
-22.	…… @wDN{Ninurta} ……. 
-23.	…… fifty-headed battle-mace ……. 
-24.	…… @wRN{Išme-@wDN{Dagan}} ……. 
-25.	($fragmentary$) 
-26.	…… great copper throne ……. 
-27.	($fragmentary$) 
+
+{C.15 = 15-27}
+15.	($@gap{2 lines fragmentary}$) 
+16.	…… in the @wTN{Ubšu-unkena}. 
+17.	…… the status of @wDN{Enlil} ……. 
+18.	…… the power of the Great Mountain @wDN{Enlil} ……. 
+19.	…… my man ……. 
+20.	Prince @wRN{Išme-@wDN{Dagan}} ……. 
+21.	…… @wDN{Ninurta} ……. 
+22.	…… fifty-headed battle-mace ……. 
+23.	…… @wRN{Išme-@wDN{Dagan}} ……. 
+24.	($@gap{1 line fragmentary}$) 
+25.	…… great copper throne ……. 
+26.	@gap{1 
+27.	($line fragmentary}$) 

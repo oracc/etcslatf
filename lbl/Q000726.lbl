@@ -1,4 +1,6 @@
 &Q000726
+
+{A.1 = 1-16}
 1.	King, 
 2.	your headdress hangs 
 3.	loose upon your neck, 
@@ -15,6 +17,8 @@
 14.	exists on the earth. 
 15.	You sit with @wDN{Enki} 
 16.	upon the holy throne-dais. 
+
+{A.17 = 17-37}
 17.	The hero, devastator of the mountains, 
 18.	pillager of cities, batters at the rebel lands. 
 19.	The hero @wDN{Ninurta}, devastator of the mountains, 
@@ -36,6 +40,8 @@
 35.	Hero @wDN{Ninŋirsu}, 
 36.	you are the towering wall of your city; 
 37.	may your august name be invoked! 
+
+{A.38 = 38-57}
 38.	Since the day it was so decreed, 
 39.	your donkey-foals have …… gardens and @fsux{meš} trees. 
 40.	@wDN{Šakkan}, 
@@ -56,6 +62,8 @@
 55.	@wDN{Šakkan}, 
 56.	the lord of donkeys, 
 57.	has positioned them at your feet. 
+
+{A.58 = 58-75}
 58.	You have taken your place 
 59.	upon the throne-dais of @wSN{Nibru}, 
 60.	where you sit with Father @wDN{Enlil}. 
@@ -73,7 +81,9 @@
 72.	with the ornaments of 
 73.	@fsux{šuba} stone about her neck, 
 74.	……  
-75.	($missing$) 
+75.	($@gap{1 line missing}$) 
+
+{A.76 = 76-87}
 76.	The hero is most precious; 
 77.	his word is august. 
 78.	He is the 
@@ -86,6 +96,8 @@
 85.	his word is august. 
 86.	He is the sun of the Land; 
 87.	the discloser of great counsel in @wTN{E-ama-lamma}. 
+
+{A.88 = 88-101}
 88.	Hero, on the battlefield the cities of the foreign lands have dedicated (?) a house to you: 
 89.	@wTN{E-ama-lamma}, a house of sanctuary (?). 
 90.	@wDN{Ninurta}, a house of sanctuary (?), 
@@ -100,6 +112,8 @@
 99.	@wTN{E-ama-lamma}. 
 100.	It is a forest, 
 101.	a most distant boat moored on the mountains. 
+
+{A.102 = 102-110}
 102.	If someone diminishes its borders, 
 103.	that man cuts off the house 
 104.	of his father at its borders, 
@@ -109,7 +123,11 @@
 108.	diminishes its borders, 
 109.	that man cuts off the house of his father at its borders, 
 110.	@wTN{E-ama-lamma}. 
+
+{A.111 = 111}
 111.	Its @fsux{ŋišgiŋal}. 
+
+{B.112 = 112-133}
 112.	The hero is a powerful force; 
 113.	may his storm leave no rain behind! 
 114.	The hero @wDN{Ninurta} is a powerful force. 
@@ -132,38 +150,44 @@
 131.	Hero @wDN{Ninurta}, 
 132.	before you the land swells (?) as 
 133.	if ……. 
+
+{B.134 = 134-164}
 134.	My king, 
 135.	you covered the edge of 
-136.	the sea with rays of light. 
-137.	On that day from the 
-138.	gold (?) of @wGN{Ḫarali} you are @wDN{Ena-tum}. 
-139.	From the cornelian 
-140.	and lapis lazuli of the 
-141.	land of @wGN{Meluḫa} you are @wDN{Ena-tum}. 
-142.	From the @fsux{dušia} stone of the 
-143.	land of @wGN{Marḫaši} you are Enakam. 
-144.	From the silver of 
-145.	fifteen cities you are Enakam. 
-146.	From the copper 
-147.	and tin of @wGN{Magan} you are Enakam. 
-148.	From the bronze of 
-149.	…… you are Enakam (?). 
-150.	From the silver of @wGN{Dilmun} you are @wDN{Ena-tum}. 
-151.	From the @fsux{im-kalaga} clay of the 
-152.	mouth of the hills you are Enakam. 
-153.	From the gypsum of the 
-154.	shining hills you are Enakam. 
-155.	($missing or fragmentary$) 
-156.	($missing or fragmentary$) 
-157.	($missing or fragmentary$) 
-158.	($missing or fragmentary$) 
-159.	($missing or fragmentary$) 
-160.	($missing or fragmentary$) 
-161.	($missing or fragmentary$) 
-162.	($missing or fragmentary$) 
-163.	($missing or fragmentary$) 
-164.	($missing or fragmentary$) 
+136.	the sea with 
+137.	rays of light. 
+138.	On that day from the 
+139.	gold (?) of @wGN{Ḫarali} 
+140.	you are @wDN{Ena-tum}. 
+141.	From the cornelian 
+142.	and lapis lazuli of the 
+143.	land of @wGN{Meluḫa} 
+144.	you are @wDN{Ena-tum}. 
+145.	From the @fsux{dušia} 
+146.	stone of the 
+147.	land of @wGN{Marḫaši} 
+148.	you are Enakam. 
+149.	From the silver of 
+150.	fifteen cities you are Enakam. 
+151.	From the copper 
+152.	and tin of 
+153.	@wGN{Magan} you are Enakam. 
+154.	From the bronze 
+155.	of 
+156.	…… you are Enakam (?). 
+157.	From the silver of 
+158.	@wGN{Dilmun} you are @wDN{Ena-tum}. 
+159.	From the @fsux{im-kalaga} clay of the 
+160.	mouth of the 
+161.	hills you are Enakam. 
+162.	From the gypsum of the 
+163.	shining hills you are Enakam. 
+164.	($@gap{10 lines missing or fragmentary}$) 
+
+{B.165 = 165-171}
 165.	House of the rebel lands! Ah you! You! Ah me! Me! House of the rebel lands, when will your clay return to its @fsux{abzu}? House of the rebel lands, when will your reeds return to their reedbeds? House of the rebel lands, when will your beams return to their forests? 
+
+{B.172 = 172-183}
 172.	The enemy …… on the wall, 
 173.	and pays homage. 
 174.	My king, 
@@ -176,6 +200,10 @@
 181.	…… like a dragon! 
 182.	If only he knew your …… kid 
 183.	and lamb like a lion! 
+
+{B.184 = 184}
 184.	Its @fsux{kišu}. 
+
+{B.185 = 185-186}
 185.	A @fsux{šir-namšuba} 
 186.	of @wDN{Ninurta}. 

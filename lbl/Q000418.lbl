@@ -1,4 +1,6 @@
 &Q000418
+
+{A.1 = 1-9}
 1.	@q[Inana,Culgi]{“The …… because of you does not ……. 
 2.	My brother, the …… because of you does not ……. 
 3.	Lad (?), the …… because of you does not ……. 
@@ -8,6 +10,8 @@
 7.	Its sheaves are …… for me. 
 8.	Its …… are not sweet for me. 
 9.	Grain …… the silos (?).”} 
+
+{A.10 = 10-17}
 10.	@q[Culgi,Inana]{“My sister, I would go with you to my fields. 
 11.	My fair sister, 
 12.	I would go with you to my fields. 
@@ -16,13 +20,16 @@
 15.	For my early grain irrigated with its early water, 
 16.	for my late grain irrigated with its late water, 
 17.	…… its grain …… sheaves …….”} 
+
+{A.18 = 18-23}
 18.	@q{“My sister, I would go with you to my fields. 
 19.	My fair sister, I would go with you to my fields. 
 20.	…… the large fields. 
 21.	…… in my small fields.”} 
-22.	($fragmentary$) 
-23.	($fragmentary$) 
-1.	($fragmentary$) 
+22.	($@gap{2 lines fragmentary}$) 
+
+{B.1 = 1-9}
+1.	($@gap{1 line fragmentary}$) 
 2.	@q[Inana,farmer]{“In the …… of the ……, it has become fallow (?) ……. 
 3.	In the …… of the sheaves, the date clusters (?) ……. 
 4.	In the …… of the ……, it has become fallow (?) ……. 
@@ -31,6 +38,8 @@
 7.	…… of Lord @wRN{Šulgi}. 
 8.	For …… plough the field, set up the ……. 
 9.	He will bring offerings (?) to the …… for you.”} 
+
+{B.10 = 10-19}
 10.	@q[Culgi,Inana]{“My (?) sister, I would go with you to my garden. My fair sister, 
 11.	I would go with you to my garden. My sister, I would go with you to my garden. 
 12.	My sister, …… my garden, 
@@ -41,14 +50,16 @@
 17.	May …… the apple tree be in my hand. 
 18.	My sister, 
 19.	I would go with you to my pomegranate tree and then …… there the sweet …… covered (?) in honey.”} 
+
+{B.20 = 20-30}
 20.	@q{“My sister, I would go with you to my garden. 
 21.	Fair sister, I would go with you to my garden. 
 22.	…… like the plants of the watercourse. 
-23.	($fragmentary$) 
+23.	($@gap{1 line fragmentary}$) 
 24.	…… the sprout of a lettuce. 
 25.	I would …… plant there. 
 26.	I would …… plant there. 
 27.	In your (?) silo …… I would …… for you. 
-28.	($fragmentary$) 
+28.	($@gap{1 line fragmentary}$) 
 29.	Fair sister, luxuriant of heart ……. 
 30.	I would …… of the date-clusters for you (?).”} 

@@ -8,7 +8,7 @@
 >-	.	4	Virginal is @wGN{Dilmun} land.
 >-	.	4	Pristine is @wGN{Dilmun} land.
 ------------------------------------------------------
-{MULTI}
+{MULTI} 4
 }-	1	Pure are the cities -- and you are the ones to whom they are allotted. Pure is @wGN{Dilmun} land.
 }0	
 }-	2	Pure is @wGN{Sumer} -- and you are the ones to whom it is allotted. Pure is @wGN{Dilmun} land.
@@ -28,7 +28,7 @@
 >-	,	4	that place was virginal,
 >-	.	4	that place was pristine.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=00210021
+{FB_SHORT_PAIRS} 6 ss=00210021
 }-	5	He laid her down all alone in @wGN{Dilmun},
 }-	6	and the place where @wDN{Enki} had lain down with his spouse,
 }-	7	that place was still virginal, that place was still pristine.
@@ -46,7 +46,7 @@
 >-	,	11	the dog had not been taught to make kids curl up,
 >-	.	11	the pig had not learned that grain was to be eaten.
 ------------------------------------------------------
-{IDENT}
+{IDENT} 6
 }+	11	In @wGN{Dilmun} the raven was not yet cawing,
 }+	12	the partridge not cackling.
 }+	13	The lion did not slay,
@@ -59,7 +59,7 @@
 >-	.	10	the birds did not yet eat that malt up there.
 >-	.	11	The pigeon then did not tuck the head under its wing.
 ------------------------------------------------------
-{IDENT}
+{IDENT} 3
 }+	17	When a widow has spread malt on the roof,
 }+	18	the birds did not yet eat that malt up there.
 }+	19	The pigeon then did not tuck the head under its wing.
@@ -78,7 +78,7 @@
 >-	.	4	@q[man,self]{“It is getting dark.”}
 >-	.	9	No herald made the rounds in his border district.
 ------------------------------------------------------
-{IDENT_S}
+{IDENT_S} 7
 }-	20	No eye-diseases said there: @q[eye disease,self]{“I am the eye disease.”}
 }0	
 }-	21	No headache said there: @q[headache,self]{“I am the headache.”}
@@ -96,7 +96,7 @@
 >-	.	6	No singer sang an @fsux{elulam} there.
 >-	.	9	No wailings were wailed in the city's outskirts there.
 ------------------------------------------------------
-{IDENT}
+{IDENT} 2
 }+	27	No singer sang an @fsux{elulam} there.
 }+	28	No wailings were wailed in the city's outskirts there.
 ======================================================
@@ -113,7 +113,7 @@
 >-	.	5	You have given a city.
 >-	?	5	What avails me your giving?”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21121112121
+{FB_SHORT_PAIRS} 4 ss=21121112121
 }-	29	@wDN{Ninsikila} said to her father @wDN{Enki}: @q[Ninsikila,Enki]{“You have given a city. You have given a city.
 }0	
 }0	
@@ -126,29 +126,22 @@
 }-	32	You have given a city. What avails me your giving?”}
 }0	
 ======================================================
-&Q000332	33 = 33-39	7/10	4	!11
+&Q000332	33 = 33-39	7/8	4	!11
 >-	,	8	@q{“You have given ……,
 >-	.	7	a city that has no river quay.
 >-	.	5	You have given a city.
 >-	?	6	What does your giving avail me?”}
->-	0	0	fragmentary
+>-	0	0	@gap{1 line fragmentary}
 >-	,	6	 @q{“A city that has no fields,
 >-	*	3	glebe or furrow”} 
->-	0	0	missing
->-	0	0	missing
->-	0	0	missing
+>-	0	0	@gap{3 lines missing}
 ------------------------------------------------------
-{MULTI}
+{FB_BRUTE_PAIRS} 3
 }-	33	@q{“You have given ……, a city that has no river quay.
-}0	
 }-	34	You have given a city. What does your giving avail me?”}
-}0	
-}-	35	fragmentary
+}-		@gap{1 line fragmentary}
 }-	36	 @q{“A city that has no fields, glebe or furrow”} 
-}0	
-}-	37	missing
-}-	38	missing
-}-	39	missing
+}-		@gap{3 lines missing}
 ======================================================
 &Q000332	40 = 40-43	4/4	9	9
 >-	,	6	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven,
@@ -156,7 +149,7 @@
 >-	,	5	from @wDN{Nanna's} radiant high temple,
 >-	.	8	from the mouth of the waters running underground.”}
 ------------------------------------------------------
-{IDENT}
+{IDENT} 4
 }+	40	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven,
 }+	41	fresh waters shall run out of the ground for you from the standing vessels on @wGN{Ezen's} shore,
 }+	42	from @wDN{Nanna's} radiant high temple,
@@ -170,7 +163,7 @@
 >-	.	12	May your city become an emporium on the quay for the Land.
 >-	.	11	May @wGN{Dilmun} become an emporium on the quay for the Land.”}
 ------------------------------------------------------
-{IDENT}
+{IDENT} 6
 }+	44	@q{“May the waters rise up from it into your great basins.
 }+	45	May your city drink water aplenty from them.
 }+	46	May @wGN{Dilmun} drink water aplenty from them.
@@ -188,7 +181,7 @@
 >-	,	8	from the mouth of the waters running underground,
 >-	.	9	fresh waters ran out of the ground for her.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21121000
+{FB_SHORT_PAIRS} 5 ss=21121000
 }-	50	At that moment, on that day, and under that sun,
 }0	
 }0	
@@ -212,7 +205,7 @@
 >-	,	4	and under that sun,
 >-	.	4	so it indeed happened.
 ------------------------------------------------------
-{IDENT_S}
+{IDENT_S} 8
 }+	55	The waters rose up from it into her great basins.
 }+	56	Her city drank water aplenty from them.
 }+	57	@wGN{Dilmun} drank water aplenty from them.
@@ -239,7 +232,7 @@
 >-	:	10	The august one pulled his phallus aside and cried out:
 >-	.	7	@q[Nintur,Enki]{“No man take me in the marsh.”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21121110000
+{FB_SHORT_PAIRS} 6 ss=21121110000
 }-	63	All alone the wise one, toward @wDN{Nintur}, the country's mother,
 }0	
 }0	
@@ -262,7 +255,7 @@
 >-	,	14	He poured semen into @wDN{Ninḫursaŋa's} womb and she conceived the semen in the womb,
 >-	.	4	the semen of @wDN{Enki}.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21210000
+{FB_SHORT_PAIRS} 6 ss=21210000
 }-	69	@wDN{Enki} cried out: @q[Enki,Nintur]{“By the life's breath of heaven I adjure you.
 }0	
 }-	70	Lie down for me in the marsh, lie down for me in the marsh,
@@ -291,7 +284,7 @@
 >-	,	3	like fine oil,
 >-	.	4	gave birth to @wDN{Ninnisig}.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=00000000021212110
+{FB_SHORT_PAIRS} 13 ss=00000000021212110
 }-	75	But her one month was one day,
 }-	76	but her two months were two days,
 }-	77	but her three months were three days,
@@ -326,7 +319,7 @@
 >-	,	3	He will sail,
 >-	.	3	let me navigate.”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=00212121212100
+{FB_SHORT_PAIRS} 9 ss=00212121212100
 }-	88	In turn @wDN{Ninnisig} went out to the riverbank.
 }-	89	@wDN{Enki} was able to see up there from in the marsh,
 }-	90	he was able to see up there, he was.
@@ -362,7 +355,7 @@
 >-	,	4	like oil of abundance,
 >-	.	4	gave birth to @wDN{Ninkura}.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=021002121212112100
+{FB_SHORT_PAIRS} 11 ss=021002121212112100
 }-	97	First he put his feet in the boat,
 }-	98	next he put them on dry land. He clasped her to the bosom,
 }0	
@@ -398,7 +391,7 @@
 >-	,	3	He will sail,
 >-	.	3	let me navigate.”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=00210021212110
+{FB_SHORT_PAIRS} 9 ss=00210021212110
 }-	108	In turn @wDN{Ninkura} went out to the riverbank.
 }-	109	@wDN{Enki} was able to see up there from in the marsh,
 }-	110	he was able to see up there, he was.
@@ -434,7 +427,7 @@
 >-	,	4	gave birth to @wDN{Uttu},
 >-	.	3	the exalted woman.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=021002121211211100
+{FB_SHORT_PAIRS} 10 ss=021002121211211100
 }-	117	First he put his feet in the boat,
 }-	118	next he put them on dry land. He clasped her to the bosom,
 }0	
@@ -454,61 +447,49 @@
 }-	125	gave birth to @wDN{Uttu},
 }-	126	the exalted woman.
 ======================================================
-&Q000332	127 = 127-146	20/26	3	!12
+&Q000332	127 = 127-146	20/20	3	!12
 >-	:	4	@wDN{Nintur} said to @wDN{Uttu}:
 >-	,	4	@q[Nintur,Uttu]{“Let me advise you,
->-	.	8	and may you take heed of my advice.
->-	.	12	Let me speak words to you and may you heed my words.
->-	,	12	From in the marsh one man is able to see up here,
+>-	 	4	and may you take
+>-	.	4	heed of my advice.
+>-	 	6	Let me speak words to you
+>-	.	6	and may you heed my words.
+>-	 	6	From in the marsh one man
+>-	,	6	is able to see up here,
 >-	,	6	is able to see up here,
 >-	;	2	he is;
->-	,	11	from in the marsh @wDN{Enki} is able to see up here,
+>-	 	5	from in the marsh @wDN{Enki}
+>-	,	6	is able to see up here,
 >-	,	6	is able to see up here,
 >-	.	2	he is.
 >-	.	6	He will set eyes on you.”}
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
+>-	0	0	@gap{10 lines fragmentary}
 >-	,	6	 …… @wDN{Uttu},
->-	*	8	the exalted woman …… 
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
+>-	 	5	the exalted woman
+>-	*	3	…… 
+>-	0	0	@gap{3 lines fragmentary}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21100211211000000000000000
-}-	127	@wDN{Nintur} said to @wDN{Uttu}: @q[Nintur,Uttu]{“Let me advise you, and may you take heed of my advice.
-}0	
-}0	
-}-	128	Let me speak words to you and may you heed my words.
-}-	129	From in the marsh one man is able to see up here,
-}-	130	is able to see up here, he is; from in the marsh @wDN{Enki} is able to see up here,
-}0	
-}0	
-}-	131	is able to see up here, he is. He will set eyes on you.”}
-}0	
-}0	
-}-	132	fragmentary
-}-	133	fragmentary
-}-	134	fragmentary
-}-	135	fragmentary
-}-	136	fragmentary
-}-	137	fragmentary
-}-	138	fragmentary
-}-	139	fragmentary
-}-	140	fragmentary
-}-	141	fragmentary
-}-	142	 …… @wDN{Uttu},
-}-	143	the exalted woman …… 
-}-	144	fragmentary
-}-	145	fragmentary
-}-	146	fragmentary
+{IDENT} 7
+}+	127	@wDN{Nintur} said to @wDN{Uttu}:
+}+	128	@q[Nintur,Uttu]{“Let me advise you,
+}+	129	and may you take
+}+	130	heed of my advice.
+}+	131	Let me speak words to you
+}+	132	and may you heed my words.
+}+	133	From in the marsh one man
+}+	134	is able to see up here,
+}+	135	is able to see up here,
+}+	136	he is;
+}+	137	from in the marsh @wDN{Enki}
+}+	138	is able to see up here,
+}+	139	is able to see up here,
+}+	140	he is.
+}+	141	He will set eyes on you.”}
+}-	142	@gap{10 lines fragmentary}
+}+	143	 …… @wDN{Uttu},
+}+	144	the exalted woman
+}+	145	…… 
+}-	146	@gap{3 lines fragmentary}
 ======================================================
 &Q000332	147 = 147-151	5/6	7	!8
 >-	,	8	@q[Uttu,Enki]{“Bring cucumbers in ……,
@@ -518,7 +499,7 @@
 >-	,	2	O @wDN{Enki},
 >-	.	8	you will indeed have hold of my halter.”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=021000
+{FB_SHORT_PAIRS} 5 ss=021000
 }-	147	@q[Uttu,Enki]{“Bring cucumbers in ……,
 }-	148	bring apples with their stems sticking out, bring grapes in their clusters,
 }0	
@@ -535,7 +516,7 @@
 >-	:	3	and embraced him:
 >-	?	11	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ------------------------------------------------------
-{IDENT}
+{IDENT} 7
 }+	152	When he was filling with water a second time,
 }+	153	he filled the dykes with water,
 }+	154	he filled the canals with water,
@@ -544,27 +525,25 @@
 }+	157	and embraced him:
 }+	158	@q[gardener,Enki]{“Who are you who …… the garden?”}
 ======================================================
-&Q000332	159 = 159-166	8/9	3	!8
+&Q000332	159 = 159-166	8/8	3	!8
 >-	:	6	@wDN{Enki} (said to) …… the gardener:
->-	0	0	missing
->-	0	0	missing
->-	0	0	missing
->-	0	0	missing
->-	,	10	 He brought him cucumbers in ……,
->-	,	8	brought him apples with their stems sticking out,
+>-	0	0	@gap{4 lines missing}
+>-	 	5	 He brought him cucumbers
+>-	,	5	in ……,
+>-	 	4	brought him apples with
+>-	,	4	their stems sticking out,
 >-	,	6	brought him grapes in their clusters,
 >-	.	3	filled his lap.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=210000000
-}-	159	@wDN{Enki} (said to) …… the gardener: missing
-}0	
-}-	160	missing
-}-	161	missing
-}-	162	missing
-}-	163	 He brought him cucumbers in ……,
-}-	164	brought him apples with their stems sticking out,
-}-	165	brought him grapes in their clusters,
-}-	166	filled his lap.
+{IDENT} 4
+}+	159	@wDN{Enki} (said to) …… the gardener:
+}-	160	@gap{4 lines missing}
+}+	161	 He brought him cucumbers
+}+	162	in ……,
+}+	163	brought him apples with
+}+	164	their stems sticking out,
+}+	165	brought him grapes in their clusters,
+}+	166	filled his lap.
 ======================================================
 &Q000332	167 = 167-177	11/16	6	!7
 >-	.	12	@wDN{Enki} made his face attractive and took a staff in his hand.
@@ -584,7 +563,7 @@
 >-	.	6	gave her grapes in their clusters.
 >-	 	0	@vart[t111.v3,t111.v3]{@varn{1 line not in the ms. from Nibru:} He poured beer for her in the large @fsux{ban} measure. }
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=0002112112100000
+{FB_SHORT_PAIRS} 11 ss=0002112112100000
 }-	167	@wDN{Enki} made his face attractive and took a staff in his hand.
 }-	168	@wDN{Enki} came to a halt at @wDN{Uttu's},
 }-	169	knocked at her house (demanding): @q[Enki,Uttu]{“Open up,
@@ -618,7 +597,7 @@
 >-	,	14	@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb,
 >-	.	4	the semen of @wDN{Enki}.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=21121121100000
+{FB_SHORT_PAIRS} 8 ss=21121121100000
 }-	178	@wDN{Uttu}, the exalted woman, …… to the left for him,
 }0	
 }0	
@@ -634,7 +613,7 @@
 }-	184	@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb,
 }-	185	the semen of @wDN{Enki}.
 ======================================================
-&Q000332	186 = 186-189	4/13	6	!12
+&Q000332	186 = 186-189	4/12	6	!12
 >-	,	1	@wDN{Uttu},
 >-	,	3	the beautiful woman,
 >-	:	2	cried out:
@@ -646,23 +625,22 @@
 >-	,	1	Woe,
 >-	.	2	my heart.”}
 >-	.	7	@wDN{Ninḫursaŋa} removed the semen from the thighs.
->-	0	0	fragmentary
->-	0	0	fragmentary
+>-	0	0	@gap{2 lines fragmentary}
 ------------------------------------------------------
-{MULTI_S}
-}-	186	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} She cried out: @q[Uttu,self]{“Woe, my body.
+{MULTI} 2
+}-	186	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”}
 }0	
 }0	
 }0	
 }0	
+}-	187	She cried out: @q[Uttu,self]{“Woe, my body. Woe, my heart.”}
 }0	
 }0	
 }0	
-}-	187	Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs.
 }0	
+}-	188	@wDN{Ninḫursaŋa} removed the semen from the thighs. @gap{2 lines fragmentary}
 }0	
-}-	188	fragmentary
-}-	189	fragmentary
+}-	189	@gap{2 lines fragmentary}
 ======================================================
 &Q000332	190 = 190-197	8/8	5	5
 >-	,	5	She grew the 'tree' plant,
@@ -674,7 +652,7 @@
 >-	,	9	she grew the …… plant,
 >-	.	5	she grew the @fsux{amḫaru} plant.
 ------------------------------------------------------
-{IDENT}
+{IDENT} 8
 }+	190	She grew the 'tree' plant,
 }+	191	she grew the 'honey' plant,
 }+	192	she grew the 'vegetable' plant,
@@ -693,7 +671,7 @@
 >-	?	4	What is this one?
 >-	?	4	What is that one?”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=0211210
+{FB_SHORT_PAIRS} 4 ss=0211210
 }-	198	@wDN{Enki} was able to see up there from in the marsh,
 }-	199	he was able to see up there, he was. He said to his minister @wDN{Isimud}:
 }0	
@@ -721,7 +699,7 @@
 >-	,	4	he said to him,
 >-	.	9	pulled it up for him and @wDN{Enki} ate it.
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=02110211021102110
+{FB_SHORT_PAIRS} 9 ss=02110211021102110
 }-	202	His minister @wDN{Isimud} had the answer for him.
 }-	203	@q[Isimud,Enki]{“My master, the 'tree' plant,”} he said to him,
 }0	
@@ -760,7 +738,7 @@
 >-	,	7	@wDN{Enki} determined the destiny of the plants,
 >-	.	7	had them know it in their hearts.
 ------------------------------------------------------
-{MULTI}
+{MULTI} 9
 }-	211	@q[Isimud,Enki]{“My master, the @fsux{atutu} plant,”}
 }0	
 }-	212	he said to him, cut it off for him and @wDN{Enki} ate it.
@@ -792,7 +770,7 @@
 >-	,	6	@q[Enlil,fox]{“If you bring @wDN{Ninḫursaŋa} to me,
 >-	.	16	I shall erect two birch trees for you in my city and you will be renowned.”}
 ------------------------------------------------------
-{FB_SHORT_PAIRS} ss=2100021000
+{FB_SHORT_PAIRS} 8 ss=2100021000
 }-	220	@wDN{Ninḫursaŋa} cursed the name @wDN{Enki}: @q[Ninhursaja,Enki]{“Until his dying day,
 }0	
 }-	221	I will never look upon him with life-giving eye.”}
@@ -805,58 +783,50 @@
 }-	227	I shall erect two birch trees for you in my city and you will be renowned.”}
 ======================================================
 &Q000332	228 = 228-234	7/7	2	!5
->-	,	6	The fox first anointed his body,
->-	,	5	first shook out his fur,
->-	.	6	first put kohl on his eyes.
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
+>-	 	3	The fox first
+>-	,	3	anointed his body,
+>-	 	2	first shook
+>-	,	3	out his fur,
+>-	 	3	first put kohl
+>-	.	3	on his eyes.
+>-	0	0	@gap{4 lines fragmentary}
 ------------------------------------------------------
-{IDENT}
-}+	228	The fox first anointed his body,
-}+	229	first shook out his fur,
-}+	230	first put kohl on his eyes.
-}-	231	fragmentary
-}-	232	fragmentary
-}-	233	fragmentary
-}-	234	fragmentary
+{IDENT} 3
+}+	228	The fox first
+}+	229	anointed his body,
+}+	230	first shook
+}+	231	out his fur,
+}+	232	first put kohl
+}+	233	on his eyes.
+}-	234	@gap{4 lines fragmentary}
 ======================================================
-&Q000332	235 = 235-246	12/16	3	!12
+&Q000332	235 = 235-246	12/12	3	!12
 >-	,	5	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
->-	.	7	but @wDN{Enlil} …….
+>-	 	4	but @wDN{Enlil}
+>-	.	3	…….
 >-	,	5	I have been to @wSN{Urim},
 >-	.	7	but @wDN{Nanna} …….
 >-	,	5	I have been to @wSN{Larsam},
 >-	.	7	but @wDN{Utu} …….
 >-	,	5	I have been to @wSN{Unug},
 >-	.	7	but @wDN{Inana} …….
->-	.	13	I am seeking refuge with one who is …….”}
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
->-	0	0	fragmentary
+>-	 	6	I am seeking refuge with one
+>-	.	7	who is …….”}
+>-	0	0	@gap{7 lines fragmentary}
 ------------------------------------------------------
-{IDENT_S}
-}-	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru}, but @wDN{Enlil} …….
-}0	
-}-	236	I have been to @wSN{Urim}, but @wDN{Nanna} …….
-}0	
-}-	237	I have been to @wSN{Larsam}, but @wDN{Utu} …….
-}0	
-}-	238	I have been to @wSN{Unug}, but @wDN{Inana} …….
-}0	
-}+	239	I am seeking refuge with one who is …….”}
-}-	240	fragmentary
-}-	241	fragmentary
-}-	242	fragmentary
-}-	243	fragmentary
-}-	244	fragmentary
-}-	245	fragmentary
-}-	246	fragmentary
+{IDENT} 5
+}+	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
+}+	236	but @wDN{Enlil}
+}+	237	…….
+}+	238	I have been to @wSN{Urim},
+}+	239	but @wDN{Nanna} …….
+}+	240	I have been to @wSN{Larsam},
+}+	241	but @wDN{Utu} …….
+}+	242	I have been to @wSN{Unug},
+}+	243	but @wDN{Inana} …….
+}+	244	I am seeking refuge with one
+}+	245	who is …….”}
+}-	246	@gap{7 lines fragmentary}
 ======================================================
 &Q000332	247 = 247-253	7/7	3	!4
 >-	.	5	@wDN{Ninḫursaŋa} hastened to the temple.
@@ -867,7 +837,7 @@
 >-	.	7	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina.
 >-	 	0	@vart[t111.v4,t111.v4]{@varn{1 line not in the ms. from Nibru:} She placed her hands on ……. and ……. on its outside. }
 ------------------------------------------------------
-{IDENT}
+{IDENT} 7
 }+	247	@wDN{Ninḫursaŋa} hastened to the temple.
 }+	248	The @wDN{Anuna} slipped off her garment,
 }+	249	made ……,
@@ -894,7 +864,7 @@
 >-	.	4	@q[Enki,Ninhursaja]{“My mouth (@fsux{ka}) hurts me.”}
 >-	.	8	She gave birth to @wDN{Ninkasi} out of it.
 ------------------------------------------------------
-{FB_BRUTE_PAIRS}
+{FB_BRUTE_PAIRS} 10
 }-	254	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
 }-	255	@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”}
 }-	256	She gave birth to @wDN{Ab-u} out of it.
@@ -924,7 +894,7 @@
 >-	.	4	@q[Enki,Ninhursaja]{“My sides (@fsux{zag}) hurt me.”}
 >-	.	8	She gave birth to @wDN{Ensag} out of it.
 ------------------------------------------------------
-{MULTI}
+{MULTI} 8
 }-	264	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”}
 }0	
 }-	265	@q[Enki,Ninhursaja]{“My throat (@fsux{zi}) hurts me.”} She gave birth to @wDN{Nazi} out of it.
@@ -953,7 +923,7 @@
 >-	,	8	@wDN{Ninti} shall become the lady of the month,
 >-	.	7	and @wDN{Ensag} shall become lord of @wGN{Dilmun}.”}
 ------------------------------------------------------
-{IDENT}
+{IDENT} 9
 }+	272	@q[Ninhursaja,others]{“For the little ones to whom I have given birth may rewards not be lacking.
 }+	273	@wDN{Ab-u} shall become king of the grasses,
 }+	274	@wDN{Ninsikila} shall become lord of @wGN{Magan},
@@ -967,6 +937,6 @@
 &Q000332	281 = 281	1/1	5	5
 >-	.	5	Praise be to Father @wDN{Enki}.
 ------------------------------------------------------
-{IDENT}
+{IDENT} 1
 }+	281	Praise be to Father @wDN{Enki}.
 ======================================================

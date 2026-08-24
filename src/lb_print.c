@@ -11,11 +11,13 @@ lbp_print_seg(FILE *fp, Seg *s)
 	++o;
       if ('0' == s->b)
 	{
+	  if (CTRL_X == *s->o)
+	    ++s->o;
 	  int len = s->c - s->o;
 	  char buf[len+1];
 	  strncpy(buf, s->o, len);
 	  buf[len] = '\0';
-	  fprintf(fp, "($%s$)",buf);
+	  fprintf(fp, "$ (%s)",buf);
 	}
       else
 	{

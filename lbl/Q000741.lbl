@@ -1,4 +1,6 @@
 &Q000741
+
+{1.1 = 1-9}
 1.	Hero, who shines forth like moonlight over the upper city! 
 2.	Hero @wDN{Šul-pa-e}, who shines forth like moonlight over the upper city! 
 3.	Eminent and famous @wDN{Šul-pa-e}, who shines forth like moonlight over the upper city! 
@@ -8,6 +10,8 @@
 7.	who makes vegetation grow tall in the Land! Lord who raises his great arms, 
 8.	battle-club that smashes all enemies! Pre-eminent brother-in-law of Father @wDN{Enlil}, 
 9.	good youth! @wDN{Enlil} has named your august name. 
+
+{1.10 = 10-18}
 10.	Lordly with weapons in the thick of battle! Owner of the rebel lands, 
 11.	lordly in the rebel lands, my king, you are an august god! 
 12.	You are an august god, and your wife is an august queen. 
@@ -17,6 +21,8 @@
 16.	may your name be truly called upon in all the foreign lands! 
 17.	My king, 
 18.	may your greatness be truly called upon in all the foreign lands! 
+
+{1.19 = 19-30}
 19.	August ……, rising flood, storm which approaches mankind! 
 20.	People tremble (?) in prayer before you like frightened birds. Rising ……, 
 21.	imbued with awesomeness, no one …… you. 
@@ -29,6 +35,8 @@
 28.	who brings daylight to the mountains, ……, 
 29.	battering ……, ……, 
 30.	who flashes like lightning. 
+
+{1.31 = 31-40}
 31.	Falling upon mankind like a …… bird of grief, 
 32.	a @fsux{namtar} demon with no hands or feet, suited (?) to the night, 
 33.	prowling at night like a @fsux{namtar} demon, ……, 
@@ -39,6 +47,8 @@
 38.	has put them in your hands; he has put them in your hands, 
 39.	and you are their lord. Hero @wDN{Šul-pa-e}, 
 40.	they cannot escape your clutches. 
+
+{1.41 = 41-48}
 41.	It is his food that anyone who has food eats; it is his water that anyone who has water drinks. 
 42.	And so people no longer call upon the name of their personal gods, 
 43.	but …… in every mouth the name of him who is their only god. 
@@ -47,6 +57,8 @@
 46.	He takes away ……. 
 47.	……, 
 48.	he gives you your ……. 
+
+{1.49 = 49-61}
 49.	You are the throne-bearer of @wDN{An} and @wDN{Enlil}, the fierce constable of the gods, 
 50.	and the table-steward of @wDN{Enlil}. 
 51.	You do not …… these people what you have placed. 
@@ -60,35 +72,39 @@
 59.	After he has declared his …… of lament to you, 
 60.	he calls (?) to you like a …… of a boat in an inundation, 
 61.	and raises …… to you. 
-62.	You make him shine like gold, and polish him like bronze, 
-63.	then you restore him to the benign hands of his god. 
-64.	…… shining, and lifts his head proudly. 
-65.	…… appears gloriously in the Land. ($fragmentary$) ($fragmentary$) ($fragmentary$) 
-66.	($fragmentary$) 
-67.	($fragmentary$) 
-68.	……, 
-69.	you release …… for your beloved. 
+
+{1.62 = 62-85}
+62.	You make him shine like gold, 
+63.	and polish him like bronze, 
+64.	then you restore him to 
+65.	the benign hands of his god. 
+66.	…… shining, 
+67.	and lifts his head proudly. 
+68.	…… appears gloriously in the Land. 
+69.	($@gap{5 lines fragmentary}$) 
 70.	……, 
-71.	you place …… for your little ones. 
+71.	you release …… for your beloved. 
 72.	……, 
-73.	you release …… for your little ones. 
-74.	……, 
-75.	you release …… for your great ones. 
-76.	($fragmentary$) 
-77.	($fragmentary$) 
-78.	…… on the fifteenth day. 
-79.	($fragmentary$) 
-80.	($fragmentary$) 
-81.	($fragmentary$) 
-82.	($fragmentary$) 
-83.	You are the merciful king of the foreign lands ……, 
+73.	you place � 
+74.	… for your little ones. 
+75.	……, 
+76.	you release …… for your little ones. 
+77.	……, 
+78.	you release …… for your great ones. 
+79.	($@gap{2 lines fragmentary}$) 
+80.	…… on the fifteenth day. 
+81.	($@gap{4 lines fragmentary}$) 
+82.	You are the merciful king of 
+83.	the foreign lands ……, 
 84.	looking mercifully ……. 
-85.	($fragmentary$) 
-1.	($fragmentary$) 
-2.	($fragmentary$) 
-3.	($fragmentary$) 
-4.	($fragmentary$) 
-5.	($fragmentary$) 
-6.	($fragmentary$) 
-7.	……. like @wDN{Šul-pa-e}. 
-8.	My king …… may he call your name. 
+85.	($@gap{1 line fragmentary}$) 
+
+{2.1 = 1-8}
+1.	($@gap{6 lines fragmentary}$) 
+2.	 
+3.	……. 
+4.	like @wDN{Šul-pa-e}. 
+5.	My king 
+6.	� 
+7.	… 
+8.	may he call your name. 

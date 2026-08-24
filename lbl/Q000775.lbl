@@ -1,4 +1,6 @@
 &Q000775
+
+{1 = 1-8}
 1.	Royal courier, start the journey! I want to send you to @wSN{Nibru} -- deliver this message! 
 2.	You are going on a long journey. 
 3.	My mother @varh[t551.v1]{is worried, 
@@ -7,6 +9,8 @@
 6.	@varh[t551.v5]{as she keeps asking } @vart[t551.v6,t551.v5]{@varn{1 ms. has instead:} and then she will not keep asking } the @varh[t551.v7]{travellers } @vart[t551.v8,t551.v7]{@varn{1 ms. has instead:} wayfarers } about my well-being. 
 7.	Then my mother will be delighted, 
 8.	and will treat you most kindly (?) for it. 
+
+{9 = 9-20}
 9.	In case you should not recognise my mother, let me describe her to you. 
 10.	Her name is @varh[t551.v9]{@wPN{Šat-@wDN{Eštar}} } @vart[t551.v10,t551.v9]{@varn{1 ms. has instead:} @wPN{Šimat-@wDN{Eštar}} }, @varh[t551.v11]{…… by her words } @vart[t551.v12,t551.v11]{@varn{some mss. have instead:} …… } ……. 
 11.	Her body, face and limbs, and outer appearance are ……. 
@@ -19,6 +23,8 @@
 18.	She is energetic and causes possessions to multiply. 
 19.	She is loving, gentle, and lively. 
 20.	By nature she is a lamb, sweet butter, honey, flowing ghee. 
+
+{21 = 21-31}
 21.	Let me give you another description of my mother: 
 22.	My mother is like the bright light @varh[t551.v15]{in the sky } @vart[t551.v16,t551.v15]{@varn{1 ms. has instead:} on the horizon }, a doe on the hillsides. 
 23.	She is the morning star, @varh[t551.v17]{shining even at noon-time } @vart[t551.v18,t551.v17]{@varn{1 ms. has instead:} providing plenty of light }. She is precious cornelian, 
@@ -30,6 +36,8 @@
 29.	She is a nugget of shining gold and silver, 
 30.	@varh[t551.v23]{but which is living and draws breath …… } @vart[t551.v24,t551.v23]{@varn{1 ms. has instead:} …… and breathing } @vart[t551.v25,t551.v23]{@varn{1 ms. has instead:} …… place …… }. She is an alabaster statuette of a protective goddess standing on a pedestal of lapis lazuli. 
 31.	She is @varh[t551.v26]{a polished rod of ivory } @vart[t551.v27,t551.v26]{@varn{2 mss. have instead:} a living figurine (?) }, @varh[t551.v28]{with limbs full of beauty } @vart[t551.v29,t551.v28]{@varn{1 ms. has instead:} …… } @vart[t551.v30,t551.v28]{@varn{1 ms. has instead:} full of pleasure }. 
+
+{32 = 32-39}
 32.	Let me give you a third description of my mother: 
 33.	My mother is @varh[t551.v31]{rain from heaven } @vart[t551.v32,t551.v31]{@varn{1 ms. has instead:} timely rain }, water for the finest seeds. 
 34.	She is a bountiful harvest of @varh[t551.v33]{fully-grown fine barley } @vart[t551.v34,t551.v33]{@varn{1 ms. has instead:} ripe, exceedingly fine barley } @vart[t551.v35,t551.v33]{@varn{1 ms. has instead:} heavenly …… } @vart[t551.v36,t551.v33]{@varn{1 ms. has instead:} ripe maturity (?) …… }. She is a garden of @varh[t551.v37]{…… } @vart[t551.v38,t551.v37]{@varn{1 ms. has instead:} delights }, @varh[t551.v39]{full of laughter } @vart[t551.v40,t551.v39]{@varn{1 ms. has instead:} filled with rejoicing }. She is a well-irrigated pine tree, 
@@ -38,6 +46,8 @@
 37.	She is an irrigation ditch bringing fertilising water to the garden plots. 
 38.	She is a sweet @wGN{Dilmun} date, 
 39.	a prime date much sought after. 
+
+{40 = 40-46}
 40.	Let me give you a fourth description of my mother: My mother fills the festivals and offerings with joy. 
 41.	She is @varh[t551.v45]{an @fsux{akitum} offering } @vart[t551.v46,t551.v45]{@varn{1 ms. has instead:} the @fsux{akitum} festival }, awesome (?) to look upon. She is the offspring, 
 42.	@varh[t551.v47]{the child } @vart[t551.v48,t551.v47]{@varn{1 ms. has instead:} the daughter } of the king, a song of abundance. 
@@ -45,11 +55,15 @@
 44.	@vart[t551.v49,t551.v49]{@varn{1 ms. adds:} …… fruit …… abundance. } She is a lover, 
 45.	a loving heart who never becomes sated with pleasure. 
 46.	She is the good news that the captive will return @varh[t551.v50]{to his mother } @vart[t551.v51,t551.v50]{@varn{1 ms. has instead:} to celebrate }. 
+
+{47 = 47-52}
 47.	Let me give you a fifth description of my mother: My mother is a palm-tree, 
 48.	with the sweetest fragrance. She is a chariot of juniper wood, 
 49.	a sedan chair of boxwood. She is @varh[t551.v52]{a fine cloth } @vart[t551.v53,t551.v52]{@varn{1 ms. has instead:} a good …… } perfumed with refined oil. 
 50.	She is a bunch of grapes, 
 51.	a garland (?) @varh[t551.v54]{growing luxuriantly } @vart[t551.v55,t551.v54]{@varn{1 ms. has instead:} perfect in luxuriant growth }. @varh[t551.v56]{She } @vart[t551.v57,t551.v56]{@varn{1 ms. has instead:} My mother } is a phial made from an ostrich egg, 
 52.	@varh[t551.v58]{overflowing } @vart[t551.v59,t551.v58]{@varn{1 ms. has instead:} full } with @varh[t551.v60]{finest } @vart[t551.v61,t551.v60]{@varn{1 ms. has instead:} perfumed } oil. @vart[t551.v62,t551.v62]{@varn{1 ms. adds:} She is a fair woman, accompanied by a protective goddess ……. She is a woman who will show you compassion like (?) @wDN{Aruru}, …… born ……. } 
+
+{53 = 53-54}
 53.	@varh[t551.v63]{When, thanks to the descriptions I have given you, you stand in her (?) radiant presence, 
 54.	tell her: @q[Lu-dijira,Cat-Ectar]{“Your beloved son @wPN{Lu-diŋira} is in good health.”} } @vart[t551.v64,t551.v63]{@varn{1 ms. has instead:} The descriptions I have given you describe (?) her (?) appearance. A most fair woman accompanied by many protective goddesses, she is my mother. Pay attention, …… joyfully ……: @q[Lu-dijira,Cat-Ectar]{“Your beloved son @wPN{Lu-diŋira} is in good health ……”}, tell her ……. @gap{1 line fragmentary} } 

@@ -1,25 +1,29 @@
 &Q000415
-1.	($fragmentary$) 
-2.	($fragmentary$) 
-3.	…… does not release ……. 
-4.	($fragmentary$) 
-5.	…… does not release ……. 
-6.	…… the wise of the Land daily. 
-7.	($fragmentary$) 
-8.	…… made you pay his heavy tribute in full. 
-9.	($fragmentary$) 
-10.	…… his flour (?) ……. 
-11.	($fragmentary$) 
-12.	($fragmentary$) 
-13.	…… @wRN{Šulgi}, king of @wDN{Urim}. 
-14.	I am ……. 
-15.	My ……. 
-16.	…… for my father. 
-17.	…… @wRN{Lugalbanda} ……. 
-18.	I will rejoice ……. 
-19.	($fragmentary$) 
-20.	($fragmentary$) 
-21.	($fragmentary$) 
-22.	($fragmentary$) 
-23.	($fragmentary$) 
-24.	($fragmentary$) 
+
+{1 = 1-12}
+1.	($@gap{2 lines fragmentary}$) 
+2.	…… does not release ……. 
+3.	($@gap{1 line fragmentary}$) 
+4.	…… does not release ……. 
+5.	…… the wise of the Land daily. 
+6.	($@gap{1 line fragmentary}$) 
+7.	…… made you pay his heavy tribute in full. 
+8.	($@gap{1 line fragmentary}$) 
+9.	…… his flour (?) ……. 
+10.	@gap{2 
+11.	lines 
+12.	($fragmentary}$) 
+
+{13 = 13-24}
+13.	…… @wRN{Šulgi}, 
+14.	king of @wDN{Urim}. 
+15.	I am ……. 
+16.	My ……. 
+17.	…… for my father. 
+18.	…… @wRN{Lugalbanda} ……. 
+19.	I will 
+20.	rejoice 
+21.	 
+22.	 
+23.	……. 
+24.	($@gap{6 lines fragmentary}$) 

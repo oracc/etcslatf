@@ -9,7 +9,8 @@ each text.
 The first line gives the Q-number and the ETCSL text-id.
 
 All remaining lines that do not start with '$' give the ATF line
-number and the ETCSL line-id.
+number (i.e., the number of the line in the file, not the manuscript
+line number given at the start of the line) and the ETCSL line-id.
 
 Lines starting with '$' either give an extent in column one along with
 the '$' and a type in column two, either "blank", "fragmentary", or
