@@ -54,7 +54,7 @@ sub _lbpp {
     ($file,$Q) = @_;
     my $L = '';
     open(Q,$file);
-    my $b = $file; $b =~ s/tra/lbpp/; $b =~ s/atf$/tsv/;
+    my $b = $file; $b =~ s/tra/lbp/; $b =~ s/atf$/tsv/;
     open(B,">$b") || die "can't open $b\n";
     while (<Q>) {
 	chomp;

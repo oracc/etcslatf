@@ -33,9 +33,9 @@ count_sentences(Seg **segs)
 void
 lb_choose(Par *p)
 {
-  if (NSEGSG(p) == GOALG(p) || p->lbgoal == p->ngaps)
+  if (NSEGSL(p) == RE_GOAL(p))
     lbc_identity(p);
-  else if (GOALG(p) && (NSEGSG(p) % GOALG(p)) == 0)
+  else if (GOALG(p) && (NSEGSL(p) % RE_GOAL(p)) == 0)
     lbc_multiple(p, NSEGSG(p) / GOALG(p));
   else
     {
@@ -85,7 +85,8 @@ lbc_identity(Par *p)
   p->choice = C_IDENT;
   for (i = 0; i < p->nsegs; ++i)
     {
-      p->segs[i]->label = p->labels[i];
+      if (!p->segs[i]->unlabeled)
+	p->segs[i]->label = p->labels[i];	
       if ('0' != p->segs[i]->b)
 	p->segs[i]->lb = 1;
     }
@@ -101,9 +102,9 @@ lbc_multiple(Par *p, int n)
   int nlabel = 0;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if ('0' == p->segs[i]->b)
+      if (p->segs[i]->unlabeled)
 	{
-	  p->segs[i]->label = p->labels[nlabel++];
+	  nlabel += p->segs[i]->unlabeled;
 	  continue;
 	}
       else if (j == 0)
@@ -146,8 +147,8 @@ lb_label_sent(Par *p)
   int i;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if ('0' == p->segs[i]->b)
-	p->segs[i]->label = p->labels[nlabel++];
+      if (p->segs[i]->unlabeled)
+	p->segs[i]->label = p->labels[nlabel += p->segs[i]->unlabeled];
       else
 	{
 	  p->segs[i]->label = p->labels[nlabel++];

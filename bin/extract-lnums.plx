@@ -29,7 +29,7 @@ while (<>) {
 	$curr_line = $.;
 	# print "$1\n";
     } elsif (/^\$/) {
-	if (/(blank|fragmentary|missing)/) {
+	if (/(blank|fragmentary|missing|vacat)/) {
 	    my $type = $1;
 	    my $extent = 0;
 	    my $approx = "";

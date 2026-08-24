@@ -12,19 +12,27 @@ use Getopt::Long;
 GetOptions(
     );
 
-# Read the .eid table and add the ATF transliteration line labels to
+# Read the .lnum table and add the ATF transliteration file-line numbers to
 # the ETCSL translation line labels in the .lbl files.  Write the .lbl
 # to the lbl+/ directory.
 
 my $lbl = shift @ARGV;
 my $out = $lbl; $out =~ s/^lbl/lbl+/;
-my $eid = $lbl; $eid =~ s/^lbl/lnums/; $eid =~ s/lbl$/lnum/;
+my $lnum = $lbl; $lnum =~ s/^lbl/lnums/; $lnum =~ s/lbl$/lnum/;
 
 # initialize paragraph labelling lists using the ATF line number
 # before the equals that serves to key the paragraph-based
 # translations to the transliteration
 my @parlabels = `grep ^'{' $lbl`; chomp @parlabels;
-my %p = (); foreach (@parlabels) { /^\{(.*?)\s+=/; @{$p{$1}} = (); }; load_eid();
+my @p = ();
+my %p = (); foreach (@parlabels) { /^\{(.*?)\s+=/; my $p=$1; push @p, $p; @{$p{$p}} = (); }; load_lnums();
+
+my $plog = $lbl; $plog =~ s/lbl$/par/;
+open(P, ">$plog") || die;
+foreach my $p (@p) {
+    print P "$p\t@{$p{$p}}\n";
+}
+close(P);
 
 my $curr_e = undef;
 my @elabels = ();
@@ -41,10 +49,11 @@ while (<L>) {
 	$ewarned = 0;
     } else {
 	if (/^(.*?)\./) { # labeled translation line
+	    my $ln = $1;
 	    if ($elindex <= $#elabels) {
 		s/^/$elabels[$elindex++]=/;
 	    } else {
-		warn "$lbl:$.: more lines than labels\n"
+		warn "$lbl:$.: more lines than labels encountered at line $ln.\n"
 		    unless $ewarned++;
 	    }
 	}
@@ -59,8 +68,8 @@ close(L);
 ################################################################################
 #
 # Create a list of line numbers for each para label key
-sub load_eid {
-    open(E,$eid) || die;
+sub load_lnums {
+    open(E,$lnum) || die "load_lnums: failed to open $lnum\n";
     while (<E>) {
 	next if /^[Q\$]/;
 	chomp;
@@ -68,7 +77,7 @@ sub load_eid {
 	if ($p{$etcsl}) {
 	    $curr_e = $etcsl;
 	}
-	die "$eid: $etcsl not in parlabels\n"
+	die "$lnum: $etcsl not in parlabels\n"
 	    unless $curr_e;
 	push @{$p{$curr_e}}, $atf;
     }

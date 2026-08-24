@@ -136,12 +136,15 @@
 >-	*	3	glebe or furrow”} 
 >-	0	0	@gap{3 lines missing}
 ------------------------------------------------------
-{FB_BRUTE_PAIRS} 3
+{MULTI} 3
 }-	33	@q{“You have given ……, a city that has no river quay.
+}0	
 }-	34	You have given a city. What does your giving avail me?”}
-}-		@gap{1 line fragmentary}
+}0	
+}-	35	@gap{1 line fragmentary}
 }-	36	 @q{“A city that has no fields, glebe or furrow”} 
-}-		@gap{3 lines missing}
+}0	
+}-	37	@gap{3 lines missing}
 ======================================================
 &Q000332	40 = 40-43	4/4	9	9
 >-	,	6	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven,
@@ -469,27 +472,27 @@
 >-	*	3	…… 
 >-	0	0	@gap{3 lines fragmentary}
 ------------------------------------------------------
-{IDENT} 7
-}+	127	@wDN{Nintur} said to @wDN{Uttu}:
-}+	128	@q[Nintur,Uttu]{“Let me advise you,
-}+	129	and may you take
-}+	130	heed of my advice.
-}+	131	Let me speak words to you
-}+	132	and may you heed my words.
-}+	133	From in the marsh one man
-}+	134	is able to see up here,
-}+	135	is able to see up here,
-}+	136	he is;
-}+	137	from in the marsh @wDN{Enki}
-}+	138	is able to see up here,
-}+	139	is able to see up here,
-}+	140	he is.
-}+	141	He will set eyes on you.”}
-}-	142	@gap{10 lines fragmentary}
-}+	143	 …… @wDN{Uttu},
-}+	144	the exalted woman
-}+	145	…… 
-}-	146	@gap{3 lines fragmentary}
+{FB_SHORT_PAIRS} 7 ss=21121121211212111000
+}-	127	@wDN{Nintur} said to @wDN{Uttu}: @q[Nintur,Uttu]{“Let me advise you, and may you take
+}0	
+}0	
+}-	128	heed of my advice. Let me speak words to you and may you heed my words.
+}0	
+}0	
+}-	129	From in the marsh one man is able to see up here,
+}0	
+}-	130	is able to see up here, he is; from in the marsh @wDN{Enki}
+}0	
+}0	
+}-	131	is able to see up here, is able to see up here,
+}0	
+}-	132	he is. He will set eyes on you.”} @gap{10 lines fragmentary}  …… @wDN{Uttu},
+}0	
+}0	
+}0	
+}-	133	the exalted woman
+}-	134	…… 
+}-		@gap{3 lines fragmentary}
 ======================================================
 &Q000332	147 = 147-151	5/6	7	!8
 >-	,	8	@q[Uttu,Enki]{“Bring cucumbers in ……,
@@ -535,15 +538,15 @@
 >-	,	6	brought him grapes in their clusters,
 >-	.	3	filled his lap.
 ------------------------------------------------------
-{IDENT} 4
-}+	159	@wDN{Enki} (said to) …… the gardener:
-}-	160	@gap{4 lines missing}
-}+	161	 He brought him cucumbers
-}+	162	in ……,
-}+	163	brought him apples with
-}+	164	their stems sticking out,
-}+	165	brought him grapes in their clusters,
-}+	166	filled his lap.
+{FB_SHORT_PAIRS} 4 ss=21121000
+}-	159	@wDN{Enki} (said to) …… the gardener: @gap{4 lines missing}  He brought him cucumbers
+}0	
+}0	
+}-	160	in ……, brought him apples with
+}0	
+}-	161	their stems sticking out,
+}-	162	brought him grapes in their clusters,
+}-	163	filled his lap.
 ======================================================
 &Q000332	167 = 167-177	11/16	6	!7
 >-	.	12	@wDN{Enki} made his face attractive and took a staff in his hand.
@@ -627,20 +630,19 @@
 >-	.	7	@wDN{Ninḫursaŋa} removed the semen from the thighs.
 >-	0	0	@gap{2 lines fragmentary}
 ------------------------------------------------------
-{MULTI} 2
-}-	186	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”}
+{MULTI_S} 2
+}-	186	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} She cried out: @q[Uttu,self]{“Woe, my body.
 }0	
 }0	
 }0	
 }0	
-}-	187	She cried out: @q[Uttu,self]{“Woe, my body. Woe, my heart.”}
 }0	
 }0	
 }0	
+}-	187	Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs.
 }0	
-}-	188	@wDN{Ninḫursaŋa} removed the semen from the thighs. @gap{2 lines fragmentary}
 }0	
-}-	189	@gap{2 lines fragmentary}
+}-		@gap{2 lines fragmentary}
 ======================================================
 &Q000332	190 = 190-197	8/8	5	5
 >-	,	5	She grew the 'tree' plant,
@@ -791,14 +793,14 @@
 >-	.	3	on his eyes.
 >-	0	0	@gap{4 lines fragmentary}
 ------------------------------------------------------
-{IDENT} 3
-}+	228	The fox first
-}+	229	anointed his body,
-}+	230	first shook
-}+	231	out his fur,
-}+	232	first put kohl
-}+	233	on his eyes.
-}-	234	@gap{4 lines fragmentary}
+{MULTI} 3
+}-	228	The fox first anointed his body,
+}0	
+}-	229	first shook out his fur,
+}0	
+}-	230	first put kohl on his eyes.
+}0	
+}-	231	@gap{4 lines fragmentary}
 ======================================================
 &Q000332	235 = 235-246	12/12	3	!12
 >-	,	5	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
@@ -814,19 +816,19 @@
 >-	.	7	who is …….”}
 >-	0	0	@gap{7 lines fragmentary}
 ------------------------------------------------------
-{IDENT} 5
-}+	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru},
-}+	236	but @wDN{Enlil}
-}+	237	…….
-}+	238	I have been to @wSN{Urim},
-}+	239	but @wDN{Nanna} …….
-}+	240	I have been to @wSN{Larsam},
-}+	241	but @wDN{Utu} …….
-}+	242	I have been to @wSN{Unug},
-}+	243	but @wDN{Inana} …….
-}+	244	I am seeking refuge with one
-}+	245	who is …….”}
-}-	246	@gap{7 lines fragmentary}
+{IDENT_S} 5
+}-	235	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru}, but @wDN{Enlil} …….
+}0	
+}0	
+}-	236	I have been to @wSN{Urim}, but @wDN{Nanna} …….
+}0	
+}-	237	I have been to @wSN{Larsam}, but @wDN{Utu} …….
+}0	
+}-	238	I have been to @wSN{Unug}, but @wDN{Inana} …….
+}0	
+}-	239	I am seeking refuge with one who is …….”}
+}0	
+}-		@gap{7 lines fragmentary}
 ======================================================
 &Q000332	247 = 247-253	7/7	3	!4
 >-	.	5	@wDN{Ninḫursaŋa} hastened to the temple.

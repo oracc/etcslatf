@@ -1,7 +1,7 @@
 #!/bin/sh
-for a in lbpp/*.tsv ; do
+for a in lbp/*.tsv ; do
     e=`basename $a .tsv`.err
     l=`basename $a .tsv`.lbl
     echo $a
-    src/lb $a >lbl/$l 2>lbpp/$e
+    src/lb $a >lbl/$l 2>lbp/$e
 done

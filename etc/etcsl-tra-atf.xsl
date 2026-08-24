@@ -27,6 +27,7 @@
   <xsl:template mode="xp" match="anchor">
     <xsl:text>} </xsl:text>
   </xsl:template>
+
   <!-- in the reboot <addSpan/> ... <anchor/> has been remapped to
        <addSpan> ... </addSpan> -->
   <xsl:template mode="p" match="addSpan">
@@ -97,8 +98,10 @@
   <!-- these are templates for elements that can occur both in <p> and
        elsewhere, for use in non-p-mode -->
 
+  <!--in non-p-mode addSpan marks insertion of sequences of lines so we just process the child note and paras naturally -->
   <xsl:template match="addSpan">
-    <!--<xsl:text>{</xsl:text>-->
+    <xsl:apply-templates/><!--<xsl:text>{</xsl:text>-->
+    <xsl:text>$ (end insertion)&#xa;</xsl:text>
   </xsl:template>
   <xsl:template match="anchor">
     <!--<xsl:text>} </xsl:text>-->

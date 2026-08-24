@@ -1,3 +1,3 @@
 #!/bin/sh
-rm -fr lbpp ; mkdir -p lbpp
+rm -fr lbp ; mkdir -p lbp
 bin/lbpp.plx
