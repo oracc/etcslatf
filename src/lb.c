@@ -101,11 +101,12 @@ main(int argc, char *const *argv)
 	{
 	  lb_vari(&tp->pars[i]);
 	  int new_nW = count_words(&tp->pars[i]);
-	  int ngoal = tp->pars[i].lbgoal - tp->pars[i].ngaps;
-	  if (ngoal)
-	    tp->pars[i].re_xwords = new_nW / ngoal;
+	  tp->pars[i].re_goal = tp->pars[i].lbgoal - tp->pars[i].ngaps;
+	  if (tp->pars[i].re_goal)
+	    tp->pars[i].re_xwords = new_nW / tp->pars[i].re_goal;
 	  else
 	    tp->pars[i].re_xwords = 0;
+	  tp->pars[i].nlabs = tp->pars[i].nsegs - tp->pars[i].usegs;
 	  lb_sanity(&tp->pars[i]);
 	  lb_log_segs(&tp->pars[i]);
 	  lb_choose(&tp->pars[i]);
@@ -154,6 +155,7 @@ find_closer(const char *p)
 const char *
 map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 {
+  const char *start = p;
   const char *s = p;
   s = strchr(s, '{');
 
@@ -184,6 +186,28 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	      while (*end && '}' != *end)
 		++end;
 	      int ngap = atoi(s);
+#if 1
+	      /* revised strategy: add an unlabeled seg for the $-gap
+		 line but store ngaps as before because it's needed to
+		 balance the given ranges in translation paras */
+	      if (ngap < par->lbgoal)
+		{
+		  ++par->usegs;
+		  par->ngaps += ngap;
+		  Seg *sg = memo_new(segmem);
+		  sg->unlabeled = ngap; /* this will be used to skip labels when labeling segs */
+		  list_add(l, sg);
+		  sg->w = 0;
+		  sg->b = '0';
+		  sg->o = start;
+		  sg->c = strchr(sg->o, CTRL_Y);
+		}
+	      else
+		{
+		  /* need a diagnostic? */
+		  par->ngaps = 0;
+		}
+#else
 	      if (ngap < par->lbgoal)
 		{
 		  int i;
@@ -201,6 +225,7 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	      else
 		fprintf(stderr, "%s:%s: gap of %d lines ignored because it overflows goal of %d\n",
 			par->t->Q, par->label, ngap, par->lbgoal);
+#endif
 	    }
 	  else
 	    fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */

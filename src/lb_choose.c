@@ -24,9 +24,11 @@ count_sentences(Seg **segs)
 
 #define NSEGS(x) (x)->nsegs
 #define NSEGSG(x) ((x)->nsegs-(x)->ngaps)
+#define NSEGSL(x) ((x)->nlabs)
 
 #define GOAL(x) (x)->lbgoal
 #define GOALG(x) ((x)->lbgoal-(x)->ngaps)
+#define RE_GOAL(x) ((x)->re_goal)
 
 void
 lb_choose(Par *p)
@@ -327,12 +329,12 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 	      i = j-1;
 	    }
 	}
-      if ((NSEGSG(p) - nmerge) == GOALG(p))
+      if ((NSEGSL(p) - nmerge) == RE_GOAL(p))
 	break;
     }
   if (nshort)
     {
-      if ((NSEGSG(p) - nmerge) != GOALG(p))
+      if ((NSEGSL(p) - nmerge) != RE_GOAL(p))
 	{
 	  memset(ss, '\0', NSEGS(p) * sizeof(int));
 	  return -1;
@@ -361,6 +363,7 @@ lbf_exec_merge(Par *p, int m)
   p->segs[m+1]->w += p->segs[m]->w;
   memmove(&p->segs[m], &p->segs[m+1], (p->nsegs-m-1)*sizeof(Seg*));
   --p->nsegs;
+  --p->nlabs;
 }
 
 static int
@@ -372,6 +375,9 @@ lbf_find_merge(Par *p)
   int next = -1;
   for (i = 0; i < p->nsegs; ++i)
     {
+      if ('0' == p->segs[i]->b)
+	continue;
+      
       if (p->segs[i]->w < wmin)
 	{
 	  if ((i+1) < p->nsegs && '0' != p->segs[i+1]->b)
@@ -391,7 +397,7 @@ lbf_find_merge(Par *p)
 static void
 lbf_brute_pairs(Par *p)
 {
-  while (NSEGSG(p) != GOALG(p))
+  while (NSEGSL(p) != RE_GOAL(p))
     {
       int m = lbf_find_merge(p);
       if (m >= 0)
@@ -404,8 +410,14 @@ lbf_brute_pairs(Par *p)
     }
   p->choice = C_FB_BRUTE;
   int i;
+  int nlabel = 0;
   for (i = 0; i < p->nsegs; ++i)
-    p->segs[i]->label = p->labels[i];
+    {
+      if (p->segs[i]->unlabeled)
+	nlabel += p->segs[i]->unlabeled;
+      else
+	p->segs[i]->label = p->labels[nlabel++];
+    }
 }
 
 static char *
@@ -444,6 +456,8 @@ lb_merge(Par *p, SSC *s)
 	  i = j-1;
 	  
 	}
+      else if (p->segs[i]->unlabeled)
+	nlabel += p->segs[i]->unlabeled;
       else
 	p->segs[i]->label = p->labels[nlabel++];
     }

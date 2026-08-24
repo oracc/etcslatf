@@ -24,12 +24,15 @@ typedef struct par
   const char *label;
   const char **labels;
   int lbgoal;
+  int re_goal;
   int xwords;
   const char *text;
   const char *endp;
   int re_xwords; /* recomputed xwords based on words found in segments */
   struct seg **segs;
   int nsegs;
+  int usegs; /* number of unlabeled segs */
+  int nlabs; /* number of labeled segs; this should end up == lbgoal-ngaps */
   int ngaps;
   const char *ss_str;
 } Par;
@@ -57,6 +60,7 @@ typedef struct seg
 		           the list when adding segs */
   struct seg *with;     /* if a segment has been assigned to previous
 		           segs this is a pointer to the head */
+  int unlabeled;
 } Seg;
 
 /* This is how we track the fallback methods we have tried to choose line breaks */

@@ -19,7 +19,7 @@ lb_log_segs(Par *p)
 void
 lb_log_segs2(Par *p)
 {
-  fprintf(logfp, "{%s}", cnames[p->choice]);
+  fprintf(logfp, "{%s} %d", cnames[p->choice], p->re_goal);
   if (p->ss_str)
     fprintf(logfp, " ss=%s", p->ss_str);
   fputc('\n', logfp);
@@ -31,10 +31,13 @@ lb_log_segs2(Par *p)
 	  const char *label = p->segs[i]->label ? p->segs[i]->label : "";
 	  if (p->choice != C_NONE)
 	    {
-	      if (!*label)
-		fprintf(stderr, "%s:%s: no label on segment %d\n", p->t->Q, p->label, i);
-	      else if (p->segs[i]->c - p->segs[i]->o == 1 && isspace(*p->segs[i]->o))
-		fprintf(stderr, "%s:%s: segment is a single space\n", p->t->Q, p->label);
+	      if (!p->segs[i]->unlabeled)
+		{
+		  if (!*label)
+		    fprintf(stderr, "%s:%s: no label on segment %d\n", p->t->Q, p->label, i);
+		  else if (p->segs[i]->c - p->segs[i]->o == 1 && isspace(*p->segs[i]->o))
+		    fprintf(stderr, "%s:%s: segment is a single space\n", p->t->Q, p->label);
+		}
 	    }
 	  fprintf(logfp, "}%c\t", p->segs[i]->lb ? '+' : '-');
 	  fprintf(logfp, "%s\t", label);

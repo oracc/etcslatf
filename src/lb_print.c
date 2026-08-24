@@ -50,6 +50,7 @@ void
 lbp_par(FILE *fp, Par *p)
 {
   int i;
+  fprintf(fp, "\n{%s}\n", p->label);
   if (!p->nsegs)
     {
       const char *group_label = p->label;
