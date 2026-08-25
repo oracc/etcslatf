@@ -27,6 +27,7 @@ Memo *m_ssc;
 const char *lbfn;
 char *logfn;
 FILE *logfp;
+Memo *segmem;
 
 int count_words(Par *p);
 const char *find_closer(const char *p);
@@ -34,6 +35,7 @@ void map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_tag_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
+void lb_sentence_orphans(Par *p);
 
 static void
 lb_sanity(Par *p)
@@ -61,6 +63,7 @@ lb_sanity(Par *p)
 int
 main(int argc, char *const *argv)
 {
+  segmem = memo_init(sizeof(Seg), 32);
   lbfn = argv[1];
   fprintf(stderr, "lb: processing %s\n", lbfn);
   Roco *r = roco_load1(lbfn);
@@ -68,7 +71,7 @@ main(int argc, char *const *argv)
   logfn = strdup(lbfn);
   strcpy(&logfn[strlen(logfn)-3], "log");
   logfp = fopen(logfn, "w");
-
+  
   Tra *tp = calloc(1, sizeof(Tra));
   tp->Q = (ccp)r->rows[0][0];
   tp->pars = calloc(r->nlines, sizeof(Par));
@@ -107,6 +110,9 @@ main(int argc, char *const *argv)
 	  else
 	    tp->pars[i].re_xwords = 0;
 	  tp->pars[i].nlabs = tp->pars[i].nsegs - tp->pars[i].usegs;
+	  lb_sentence_orphans(&tp->pars[i]);
+	  if (tp->pars[i].nlabs < tp->pars[i].re_goal)
+	    lb_split_segs(segmem, &tp->pars[i]);
 	  lb_sanity(&tp->pars[i]);
 	  lb_log_segs(&tp->pars[i]);
 	  lb_choose(&tp->pars[i]);
@@ -186,7 +192,6 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	      while (*end && '}' != *end)
 		++end;
 	      int ngap = atoi(s);
-#if 1
 	      /* revised strategy: add an unlabeled seg for the $-gap
 		 line but store ngaps as before because it's needed to
 		 balance the given ranges in translation paras */
@@ -207,25 +212,6 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 		  /* need a diagnostic? */
 		  par->ngaps = 0;
 		}
-#else
-	      if (ngap < par->lbgoal)
-		{
-		  int i;
-		  for (i = 0; i < ngap; ++i)
-		    {
-		      Seg *s = memo_new(segmem);
-		      list_add(l, s);
-		      s->w = 0;
-		      s->b = '0';
-		      s->o = line;
-		      s->c = end;
-		      ++par->ngaps;
-		    }
-		}
-	      else
-		fprintf(stderr, "%s:%s: gap of %d lines ignored because it overflows goal of %d\n",
-			par->t->Q, par->label, ngap, par->lbgoal);
-#endif
 	    }
 	  else
 	    fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
@@ -247,16 +233,10 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 void
 map_segs(Par *par)
 {
-  Memo *segmem = memo_init(sizeof(Seg), 32);
   List *l = list_create(LIST_SINGLE);
   const char *p = par->text;
   while (*p)
     {
-#if 0
-      if (CTRL_X == *p)
-	p = skip_XtoY(p);
-      else
-#endif
       if ('(' == *p)
 	p = find_closer(++p);
       if (*p)
@@ -307,8 +287,6 @@ map_segs(Par *par)
       par->segs = (Seg **)list2array(l);
       par->nsegs = list_len(l);
       list_free(l, NULL);
-      if (par->nsegs < par->lbgoal)
-	lb_split_segs(segmem, par);
     }
   else
     fprintf(stderr, "%s:%s: paragraph is variant-only\n", par->t->Q, par->label);
@@ -389,6 +367,7 @@ next_boundary(const char *p, int *nwords, int *b)
 	}
       else if (ELLIPSIS(p))
 	{
+	  --sp;
 	  ++nonsp;
 	  ++ellipsis;
 	  p += 3;
@@ -499,5 +478,29 @@ lb_tra_report(FILE *fp, Tra *t)
 	    }
 	}
       fputc('\n', fp);
+    }
+}
+
+/* Look for short segments that end a sentence and merge them with the
+   preceding seg */
+void
+lb_sentence_orphans(Par *p)
+{
+  int i;
+  int few = p->re_xwords / 2;
+  if (few < 1)
+    few = 1;
+  for (i = 0; i < p->nsegs; ++i)
+    {
+      if (i && '.' == p->segs[i]->b && p->segs[i]->w <= few)
+	{
+	  if (',' == p->segs[i-1]->b || p->segs[i-1]->w <= few)
+	    {
+	      lb_merge_segs(p, i-1); /* arg is the segment to overwrite */
+	      /* take another look at the newly merged seg to catch multiple shorts in a row */
+	      if (i > 1)
+		i -= 2;
+	    }	  
+	}
     }
 }

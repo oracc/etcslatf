@@ -36,7 +36,7 @@ lb_choose(Par *p)
   if (NSEGSL(p) == RE_GOAL(p))
     lbc_identity(p);
   else if (GOALG(p) && (NSEGSL(p) % RE_GOAL(p)) == 0)
-    lbc_multiple(p, NSEGSG(p) / GOALG(p));
+    lbc_multiple(p, NSEGSL(p) / RE_GOAL(p));
   else
     {
       int nsent = count_sentences(p->segs);
@@ -319,7 +319,7 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
 	      int j = i+1;
 	      int w = p->segs[i]->w;
 	      ss[i] = 2;
-	      while (j < NSEGS(p) && (want==2||p->segs[j]->w < p->re_xwords))
+	      while (j < NSEGS(p) && '0' != p->segs[j]->b && (want==2||p->segs[j]->w < p->re_xwords))
 		{
 		  ++nmerge;
 		  ss[j] = 1;
@@ -353,18 +353,6 @@ lbf_short_pairs(Par *p, int nsent, int *ss)
     }
   else
     return 0;
-}
-
-static void
-lbf_exec_merge(Par *p, int m)
-{
-  /* we are going to overwrite m with m+1 so adjust m+1's data
-   * accordingly */
-  p->segs[m+1]->o = p->segs[m]->o;
-  p->segs[m+1]->w += p->segs[m]->w;
-  memmove(&p->segs[m], &p->segs[m+1], (p->nsegs-m-1)*sizeof(Seg*));
-  --p->nsegs;
-  --p->nlabs;
 }
 
 static int
@@ -402,7 +390,7 @@ lbf_brute_pairs(Par *p)
     {
       int m = lbf_find_merge(p);
       if (m >= 0)
-	lbf_exec_merge(p, m);
+	lb_merge_segs(p, m);
       else
 	{
 	  fprintf(stderr, "%s:%s: lbf_find_merge failed\n", p->t->Q, p->label);

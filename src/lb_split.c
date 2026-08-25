@@ -103,7 +103,7 @@ find_longest(Par *p, const char **s, int *w)
 		}
 	      else if (ELLIPSIS(sp))
 		{
-		  xw = 3;
+		  xw = 2;
 		  sp += 3;
 		  break;
 		}
