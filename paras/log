@@ -1,0 +1,191 @@
++ bin=/Users/stinney/orc/bin
++ '[' -r .odov ']'
++ '[' config = -f ']'
++ '[' config = -v ']'
++ '[' config = -V ']'
++ '[' -r .gx ']'
++ '[' -r 00lib/subconfig.xml ']'
++ sub=sub
++ set -a
++ odo_sub=sub
++ odo_verb=
++ odo_gx=
++ V=
++ verb=
++ . /Users/stinney/orc/bin/odo-func.sh
+++ set -a
++ set +a
++ '[' -x /Users/stinney/orc/bin/odo-config.sh ']'
++ '[' config = log ']'
++ odov '/Users/stinney/orc/bin/oracc: one-argument call detected with config.'
++ '[' '' = -v ']'
++ set_tmpdir
++ '[' -d /tmp ']'
++ xtmp=/tmp/74333.odo
++ mkdir -p /tmp/74333.odo
++ set /tmp/74333.odo . config
++ odov echo /Users/stinney/orc/bin/oracc adjusted arguments /tmp/74333.odo . config
++ '[' '' = -v ']'
++ tmpdir=/tmp/74333.odo
++ '[' /tmp/74333.odo = - ']'
++ '[' '!' -d /tmp/74333.odo ']'
++ shift
++ project=.
++ shift
++ command=config
++ '[' config = '' ']'
++ '[' config '!=' init ']'
++ echo non-init command I
+non-init command I
++ pwd
+/Users/stinney/orc/etcslatf/para
++ '[' . = . ']'
++ '[' -r 00lib/config.xml ']'
++ '[' -r 00lib/subconfig.xml ']'
++ set_project
+++ xmllint -xpath '/*/@n' 00lib/config.xml
+++ cut -d= -f2
+++ tr -d '"'
+warning: failed to load external entity "00lib/config.xml"
++ project=
+++ /bin/echo -n
+++ cut -d/ -f1
++ user=
++ log=/tmp/74333.odo/odo.log
++ shift
++ odov '/Users/stinney/orc/bin/oracc: log=/tmp/74333.odo/odo.log; user=; project=; command=config'
++ '[' '' = -v ']'
++ odov '/Users/stinney/orc/bin/oracc: switching output to /tmp/74333.odo/odo.log'
++ '[' '' = -v ']'
++ savedescriptors=1
++ exec
++ exec
++ exec
+[2026-08-31 18:54:03] (+0s) oracc config
+[2026-08-31 18:54:03] (+0s) odo-config.sh
+[2026-08-31 18:54:04] (+1s) build completed.
++ clear
+[3J[H[2J+ cat /tmp/74333.odo/odo.log
++ /Users/stinney/orc/bin/isogmt -s
++ odo_time oracc config
++ '[' -r .odo_ts ']'
++ local 'message=oracc config'
+++ /Users/stinney/orc/bin/isogmt -s
++ local current_ts=1788216843
+++ cat .odo_ts
++ local start_ts=1788216843
++ local elapsed=0
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:03' 0 'oracc config'
+[2026-08-31 18:54:03] (+0s) oracc config
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:03' 0 'oracc config'
++ '[' config = init ']'
++ echo non-init command II
+non-init command II
++ pwd
+/Users/stinney/orc/etcslatf/para
++ '[' config = catalogue ']'
++ cmdok config
++ command=config
++ '[' config '!=' config ']'
++ cmdtest=ok
++ '[' ok '!=' ok ']'
++ '[' config = env ']'
++ '[' -r 00lib/subconfig.xml ']'
+++ pwd
++ projdir=/Users/stinney/orc/etcslatf/para
++ '[' -d /Users/stinney/orc/etcslatf/para ']'
++ cd /Users/stinney/orc/etcslatf/para
++ /bin/echo -n /tmp/74333.odo/odo.log
++ set -a
++ . /Users/stinney/orc/bin/oraccenv.sh
+++ ORACC=/Users/stinney/orc
+++ ORACC_HOME=/Users/stinney/orc
+++ ORACC_MODE=single
+++ ORACC_USER=no
+++ ORACC_HOST=localhost
+++ ORACC_BUILDS=/Users/stinney/orc
+++ export ORACC ORACC_BUILDS ORACC_HOME ORACC_MODE ORACC_USER ORACC_HOST
+++ . /Users/stinney/orc/bin/oraccpaths.sh
++++ PATH=/opt/homebrew/opt/bison/bin:/opt/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/usr/local/texlive/2025/bin/universal-darwin:/Users/stinney/orc/bin:/Users/stinney/orc/sbin:/Users/stinney/orc/bin
++++ '[' single = single ']'
++++ PATH=/opt/homebrew/opt/bison/bin:/opt/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/usr/local/texlive/2025/bin/universal-darwin:/Users/stinney/orc/bin:/Users/stinney/orc/sbin:/Users/stinney/orc/bin:/Users/stinney/orc/sbin
++++ export PATH
++ obin=/Users/stinney/orc/bin
++ odo_log=/tmp/74333.odo/odo.log
++ odo_odo=odo
++ odo_proj=
++ odo_projdir=/Users/stinney/orc/etcslatf/para
++ odo_setx=
++ odo_tmpd=/tmp/74333.odo
++ odo_user=
++ '[' single = multi ']'
++ set +a
++ '[' config = reset ']'
++ '[' config = config ']'
++ odo_time odo-config.sh
++ '[' -r .odo_ts ']'
++ local message=odo-config.sh
+++ /Users/stinney/orc/bin/isogmt -s
++ local current_ts=1788216843
+++ cat .odo_ts
++ local start_ts=1788216843
++ local elapsed=0
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:03' 0 odo-config.sh
+[2026-08-31 18:54:03] (+0s) odo-config.sh
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:03' 0 odo-config.sh
++ /Users/stinney/orc/bin/odo-config.sh
+odo_verbose /Users/stinney/orc/bin/odo-config.sh
++ pwd
+/Users/stinney/orc/etcslatf/para
++ [ -r 00lib/subconfig.xml ]
++ echo /Users/stinney/orc/bin/odo-config.sh: found 00lib/subconfig.xml
+/Users/stinney/orc/bin/odo-config.sh: found 00lib/subconfig.xml
++ sub=sub
++ [ ! -r 00lib/subconfig.xml ]
++ odo-dir-links.sh
+/Users/stinney/orc/bin/odo-dir-links.sh: no project given. Stop.
++ [ -r 00lib/subconfig.xml ]
++ [  !=  ]
++ xsltproc -o 02xml/config.xml /Users/stinney/orc/lib/scripts/mcc-subconfig.xsl 00lib/subconfig.xml
++ set 00lib/config-*.xml
++ [ 00lib/config-*.xml != 00lib/config-*.xml ]
++ [ -r 00lib/pll.xml ]
++ cp 02xml/config.xml 02www
++ chmod -f o+r 02xml/config.xml 02www/config.xml
++ [ -r 00lib/names.xml ]
++ [ -r /Users/stinney/orc/-config.sh ]
++ /Users/stinney/orc/bin/cx-marshall.sh
++ exit 0
++ set_status done
++ '[' /tmp/74333.odo '!=' '' ']'
++ '[' -d /tmp/74333.odo ']'
++ '[' '' = -v ']'
++ printf done
++ odo_term
++ odo_log
++ odo_time build completed.
++ '[' -r .odo_ts ']'
++ local 'message=build completed.'
+++ /Users/stinney/orc/bin/isogmt -s
++ local current_ts=1788216844
+++ cat .odo_ts
++ local start_ts=1788216843
++ local elapsed=1
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:04' 1 'build completed.'
+[2026-08-31 18:54:04] (+1s) build completed.
+++ date '+%Y-%m-%d %H:%M:%S'
++ printf '[%s] (+%ds) %s\n' '2026-08-31 18:54:04' 1 'build completed.'
++ exec
++ exec
++ odo_status done
++ '[' /tmp/74333.odo '!=' '' ']'
++ '[' -d /tmp/74333.odo ']'
++ odov /Users/stinney/orc/bin/oracc writing status done to /tmp/74333.odo/status
++ '[' '' = -v ']'
++ printf done
++ exit 0

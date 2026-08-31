@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="etcslatf">
+  <name>ETCSL on Oracc</name>
+  <abbrev>ETCSL</abbrev>
+  <project-type>user</project-type>
+  <type>corpus</type>
+  <logo type="text">ETCSL</logo>
+  <blurb>The project etcslatf contains a hybrid version of the ETCSL
+data. The transliterations are the versions adapted for use with
+ePSD2; the translations were retrieved from
+https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2518
+on 2026-04-20.
+
+The original conversion of the transliterations was done by Steve
+Tinney in 2006; they have been lightly updated over time to keep the
+lemmatization aligned with the development of ePSD2. The conversion of
+translations and organization into an Oracc project was done by Steve
+Tinney in April 2026.</blurb>
+  <option name="catalog-build-policy" value="auto"/>
+  <option name="cbd-no-harvest" value="ucsl epsd2 epsd2/names"/>
+  <option name="cbd-oid" value="yes"/>
+  <option name="cbd-use-psus" value="%sux:epsd2"/>
+  <option name="cfy-key" value="cv01-150-middle-."/>
+  <option name="build-approved-policy" value="atf"/>
+  <option name="outline-default-select" value="true"/>
+  <option name="outline-default-sort-fields" value="grp1,grp2,grp3"/>
+  <option name="outline-default-sort-labels" value="Corpus,Subcorpus,Group"/>
+  <option name="outline-default-catalog-fields" value="grp2,grp3,grp4,designation"/>
+  <option name="outline-default-catalog-widths" value="20,15,15,45"/>
+  <option name="%sux" value=". ucsl epsd2 epsd2/literary epsd2/names"/>
+  <option name="%sux-x-emesal" value=". ucsl epsd2/emesal"/>
+  <option name="sum-alias" value="yes"/>
+  <option name="fuzzy-alias" value="yes"/>
+</project>

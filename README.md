@@ -1,7 +1,38 @@
-# etcslatf
+# REPO etcslatf
 
-This repo contains tools for going from the original ETCSL TEI files
-to ATF with interlinear translation that is then intended for human review.
+This repo contains Oracc projects to display ETCSL with interlinear
+and with paragraph-oriented translation, as well as tools for going
+from the original ETCSL TEI files to ATF translation both in paragraph
+and in an interlinear form that is then intended for human review.
+
+The repo is divided into three parts: build, paras, and inter: *build*
+is where ETCSL ATF is built from ETCSL sources; *paras* is a project,
+etcslatf/paras, that displays the ETCSL corpus with the Oracc version
+of ETCSL's original paragraph-oriented translations; *inter* is a
+project, etcslatf/inter, that displays the ETCSL corpus with the
+translation remapped to interlinear line-by-line format.
+
+# EDITING
+
+Before individual interlinear outputs have had an initial review, only
+the files in build/tlit (for transliterations) and build/tei (for
+translations) should be edited.
+
+After initial review, every interlinear translation will require human
+review and correction to the inevitable misalignments of
+transliteration and translation.  During this phase, only the files in
+inter/00atf should be edited.
+
+After the human review of interlinear translations has been completed,
+corrections to the transliteration should continue to be made in
+inter/00atf; corrections to the translation must be made in both
+inter/00atf (for the interlinear translation) and in build/tra (for
+the paragraph translations).
+
+The 00atf files for the project etcsl/paras are rebuilt from the
+transliterations from inter/00atf and the paragraphs in build/tra.
+
+# BUILD
 
 The work is done in three general phases which may themselves perform
 multiple tasks:

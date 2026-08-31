@@ -1,0 +1,22 @@
+colour-def-white		#fff
+colour-def-black		#000
+colour-def-dark			#008000
+colour-def-light		#d1ffbd
+colour-def-medium		#990033
+colour-def-outline		#cccccc
+colour-def-alternate		#eeeeee
+colour-def-text			#333333
+colour-def-page			#ffffff
+colour-def-blms-contrast 	#008000
+colour-def-blms-dark   		#333333
+colour-def-blms-mid   		#008000
+colour-def-blms-light   	#fff
+colour-def-blms-pale  		#d1ffbd
+colour-def-blms-ultra-light  	#50D050
+
+colour-bind-blms-mid 		href-fg banner-bg hover-fg
+colour-bind-blms-pale 		heading-fg alt-fg bborder border
+colour-bind-blms-contrast	
+colour-bind-blms-light		banner-fg hover-bg
+colour-bind-blms-dark		
+colour-bind-blms-ultra-light	heading-bg alt-bg
