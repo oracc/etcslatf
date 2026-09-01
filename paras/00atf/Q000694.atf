@@ -1,6 +1,6 @@
 &Q000694 = A hymn to Nergal (Nergal B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.15.2
@@ -234,21 +234,7 @@
 #lem: zamin[praise]; dug[good]
 #etcsl: line-id=57
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) Hero, majestic, awe-inspiring son of @wDN{Enlil}, battering like a storm and roaring against the rebel lands! Immense at his front, at his rear surging as a flood, after he ……, …… this place; Lord @wDN{Mešlamta-ea} inspiring terrifying awe, his …… not releasing the hostile land, his luxuriant horn …… in the Land, struck …… with weapons.
 
@@ -263,6 +249,3 @@
 @(36 = 36-49) Then @wDN{Erra} welcomed his king: @q[Erra,Nergal]{“They have come! You surpass @wDN{An}! Perform the stewardship for @wDN{An} the king! In accordance with destiny you determine fates with him, @wDN{Nergal}!”} @wDN{Ninšubur}, the minister of the great place, the underworld, greeted @wDN{Nergal}: @q[Nincubur,Nergal]{“You are the lord who has made the bandits come forth (?) from the mountains. As with @wDN{Enlil} ……, no part of a foreign land escapes your grasp. Hero, for @wDN{Enlil} you piled up @wDN{Enlil's} enemies (?) in a single day. Hating ……, @wDN{Nergal}, …… as fire, you rise up in the lands where the sun rises.”} The @wDN{Anuna} gods stepped forward: @q[Anuna,Nergal]{“Like …… cracks ……, ……, you are @wDN{Nergal}!”}
 
 @(50 = 50-57)  @gap{5 lines fragmentary}  …… son of @wDN{Enlil} ……, @wDN{Lugal-era}. Praising you is sweet.
-
-
-

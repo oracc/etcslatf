@@ -1,6 +1,6 @@
 &Q000784 = The farmer's instructions
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.6.3
@@ -452,21 +452,7 @@
 #lem: Ninurtak[1]DN; engar[farmer]; zid[right]; Enlil[1]DN; zamin[praise]; dug[good]
 #etcsl: line-id=111
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1) @wPN{Ud-ul-uru} (Old man cultivator) gave advice to his son:
 
@@ -503,6 +489,3 @@
 @(107 = 107-109) When the grain is clean, lay it under the measuring stick. Perform the rites in the evening and at night. Release the grain at midday.
 
 @(110 = 110-111) Instructions of the god @wDN{Ninurta}, the son of @wDN{Enlil} -- @wDN{Ninurta}, faithful farmer of @wDN{Enlil}, your praise be good!
-
-
-

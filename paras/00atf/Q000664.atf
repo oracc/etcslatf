@@ -1,6 +1,6 @@
 &Q000664 = A balbale to Inana
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.a
@@ -154,21 +154,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) Lady, you who wander among sweet-voiced cows and gentle-voiced calves in the cattle-pen; young woman, no sooner will you arrive there, @wDN{Inana}, than the churn should sound! May the churn of your spouse sound, @wDN{Inana}, may the churn of @wDN{Dumuzid} sound! May the churn sound, may the churn of @wDN{Dumuzid} sound!
 
@@ -184,6 +170,3 @@
 
 
 @(36 = 36) A @fsux{balbale} of @wDN{Inana}.
-
-
-

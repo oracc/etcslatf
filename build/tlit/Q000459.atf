@@ -1,6 +1,6 @@
 &Q000459 = Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.09
@@ -276,7 +276,7 @@ B.96. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 

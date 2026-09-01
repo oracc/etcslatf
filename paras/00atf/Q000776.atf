@@ -1,6 +1,6 @@
 &Q000776 = An elegy on the death of Nannaya
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.2
@@ -464,21 +464,7 @@
 :112v.2.1: ($1 ms. has instead:$) tu₆
 #lem: tu[incantation]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) A father sent a message to his son, to a far-off place; at that time the son, having gone to a distant place, was far away.
 
@@ -524,5 +510,3 @@
 #etcsl#linkGrpo
 #etcsl#link type=q t552.q1 t552.q2 t552.q3 t552.q4 t552.q5 t552.q6 t552.q7 t552.q8 t552.q9 t552.q10 t552.q11 t552.q12
 #etcsl#linkGrpc
-
-

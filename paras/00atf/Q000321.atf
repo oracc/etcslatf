@@ -1,6 +1,6 @@
 &Q000321 = OB catalogue from Nibru (N2)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.01
@@ -365,9 +365,3 @@
 #etcsl: line-id=62
 
 #etcsl#inc Diatribe C, 5.4.12
-
-
-
-
-
-

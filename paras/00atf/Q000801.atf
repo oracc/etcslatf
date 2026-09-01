@@ -1,6 +1,6 @@
 &Q000801 = Proverbs: collection 8
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.08
@@ -832,23 +832,7 @@ E.8.e10.18. {ŋiš}kun₄ im#-[...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 #lg 8.a1	proverb
@@ -1102,6 +1086,3 @@ $ (unknown no. of lines missing)
 #lg 8.e10	proverb
 
 @(E.8.e10.18 = 18)  @note{= Alster 1997 8 Sec. D 10} A ladder …….
-
-
-

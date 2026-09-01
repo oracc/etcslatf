@@ -1,6 +1,6 @@
 &Q000494 = An adab to An for Ur-Ninurta (Ur-Ninurta E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.6.5
@@ -102,7 +102,7 @@ B.20. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div sa-gida C
 
@@ -218,7 +218,7 @@ D.45. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div uru E
 
@@ -254,21 +254,7 @@ E.50. a-da-ab an-na-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -326,6 +312,3 @@ E.50. a-da-ab an-na-kam
 
 
 @(E.50 = 50) An @fsux{adab} of @wDN{An}. @notep{lines 49 and 50 are written as one line in source}
-
-
-

@@ -1,6 +1,6 @@
 &Q000550 = Letter from Ur-DUN to Šulgi about Apillaša
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.11.1
@@ -86,21 +86,7 @@
 #lem: niŋ[thing]; lugal[king]; e[speak]
 #etcsl: line-id=20
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to my lord: this is what the merchant @wPN{Ur-DUN}, your servant, says:
 
@@ -111,6 +97,3 @@
 @(17 = 17-18) …… of my lord ……. Being in a weak (?) position, I was not able to …… their illegal seizure.
 
 @(19 = 19-20) He has given you a report, lord. Whatever you say, my lord!
-
-
-

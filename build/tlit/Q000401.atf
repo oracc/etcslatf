@@ -1,6 +1,6 @@
 &Q000401 = An adab to Enlil for Šulgi (Šulgi G)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.07
@@ -157,7 +157,7 @@ B.34. ŋiš-gi₅-ŋal₂ sa-gid₂-da-kam
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -281,7 +281,7 @@ C.63. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -297,7 +297,7 @@ D.65. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru E
 

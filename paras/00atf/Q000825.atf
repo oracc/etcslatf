@@ -1,6 +1,6 @@
 &Q000825 = Proverbs: of unknown provenance
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.2.5
@@ -1143,21 +1143,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 IM 62823 = TIM 9 18 (Alster 1997 p. 298)
 
@@ -1584,4 +1570,3 @@ $ (unknown no. of lines missing)
 @h1 YBC 9912 (Alster 1997 p. 333)
 
 @(43.1 = 1) @note{cf. @xref[t.6.1.03,t.6.1.03.75]{6.1.03.75}, @xref[t.6.1.07,t.6.1.07.17]{6.1.07.17}} @q{“I am stretching my legs on your behalf,”} says a man delivering sesame.
-

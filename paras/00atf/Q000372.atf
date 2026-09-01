@@ -1,6 +1,6 @@
 &Q000372 = The rulers of Lagaš
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.1.2
@@ -632,21 +632,7 @@ $ 2 lines missing
 #lem: edubbaʾa[scribal school]; sar[write]; Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=200
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-16) After the flood had swept over and brought about the destruction of the countries; when mankind was made to endure, and the seed of mankind was preserved and the black-headed people all rose; when @wDN{An} and @wDN{Enlil} called the name of mankind and established rulership, but kingship and the crown of the city had not yet come out from heaven, and @wDN{Ninŋirsu} had not yet established for the multitude of well-guarded (?) people the pickaxe, the spade, the earth basket and the plough, which mean life for the Land -- in those days, the carefree youth of man lasted for 100 years and, following his upbringing, he lasted for another 100 years.
 
@@ -681,6 +667,3 @@ $ 2 lines missing
 @(192 = 192-199) @wRN{Ur-@wDN{Ninmarki}}, the scribe and scholar: ……, his personal gods were @wDN{Ḫaya} and @wDN{Nisaba}, he acted for X + 20 years. @wRN{Ur-@wDN{Ninŋirsu}}, the son of @wRN{Ur-@wDN{Ninmarki}}: he acted for X × 60 years. @wRN{Ur-@wDN{Bau}}, the scribe of @wRN{Ur-@wDN{Ninŋirsu}}, who …… in the assembly: he acted for X + 30 years. @wRN{Gudea}, the younger brother of @wRN{Ur-@wDN{Bau}}, ……, who was not the son of his mother nor the son of his father: he acted for …… years.
 
 @(200 = 200) Written in the school. @wDN{Nisaba} be praised!
-
-
-

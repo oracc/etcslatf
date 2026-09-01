@@ -1,6 +1,6 @@
 &Q000733 = A hymn to Nisaba (Nisaba A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.16.1
@@ -302,23 +302,7 @@
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 @h1 Old Babylonian version
 
@@ -363,8 +347,3 @@
 @h1 A version of the beginning, preserved on a stone tablet from Lagaš perhaps dating to the Ur III period
 
 @(2.1 = 1-9) Lady coloured as the stars, holding a lapis-lazuli tablet! @wDN{Nisaba}, born by @wDN{Uraš} in the great sheepfold (?), …… nourished on good milk among holy alkaline plants, opening the mouth on seven …… reeds! Perfectly endowed with fifty great divine powers, my lady, the most powerful in @wTN{E-kur}! @wDN{Aruru} @noteref{mother goddess} of the Land, …… from the clay!
-
-
-
-
-

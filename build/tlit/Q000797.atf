@@ -1,6 +1,6 @@
 &Q000797 = Proverbs: collection 3
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.03
@@ -410,18 +410,18 @@ A.3.28.57. X [...]-da#-an-kud-da
 #lem: X; kud[cut]
 #etcsl: line-id=A.3.28.57
 
-A.3.28.B. [...] X
+A.3.28.58. [...] X
 #lem: X; X
 #etcsl: line-id=A.3.28.58
 
 @variant
 
 #etcsl#ms instead of lines 57-58, 1 ms. has:
-A. abula ŋal₂ X [...] X
+A.3.28.A. abula ŋal₂ X [...] X
 #lem: abula[gate]; ŋal[⟦be⟧ to be (there]; X; X; X
 #etcsl: line-id=A.3.28.A
 
-B. X A ŋal₂ X X
+A.3.28.B. X A ŋal₂ X X
 #lem: X; X; ŋal[⟦be⟧ to be (there]; X; X
 #etcsl: line-id=A.3.28.B
 
@@ -1583,18 +1583,18 @@ A.3.126.226. bi₂-in-dug₄ nu-mu-un-ni-[X-X]
 #lem: dug[speak]; X
 #etcsl: line-id=A.3.126.226
 
-A.3.126.B. ka-ga₁₄-ni lul-la-am₃
+A.3.126.227. ka-ga₁₄-ni lul-la-am₃
 #lem: kag[mouth]; lul[false]
 #etcsl: line-id=A.3.126.227
 
 @variant
 
 #etcsl#ms instead of lines 226-227, 1 ms. has:
-A. [...]-ŋal₂#-e
+A.3.126.A. [...]-ŋal₂#-e
 #lem: ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=A.3.126.A
 
-B. [...] dug₄# nu-tar-ra-bi
+A.3.126.B. [...] dug₄# nu-tar-ra-bi
 #lem: X; dug[speak]; tar[cut]
 #etcsl: line-id=A.3.126.B
 

@@ -1,6 +1,6 @@
 &Q000777 = An elegy on the death of Nawirtum
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.3
@@ -270,21 +270,7 @@
 #lem: kisikil[young woman]; dug[good]; lala[plenty]; gud[bull]; nud[lie down]; re[that]; ilu[lament]; gig[sick]
 #etcsl: line-id=66
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-9) An evil day …… upon the maiden in her ……. Upon the fair woman, the well-favoured maiden, the evil eye ……. Upon the fledgling overstepping its nest, a net has ……. The fecund mother, the mother of children, is …… by a snare. The yellow cow, the loud-voiced wild cow, …… like a @fsux{gakkul} vessel. @wPN{Nawirtum}, the loud-voiced wild cow, …… like a @fsux{gakkul} vessel. She who never said @q[Nawirtum,]{“I am sick”} was not cared for. She who did not …… did not …… the divine place. Like their resting-place, their hurled …… was not …….
 
@@ -303,5 +289,3 @@
 #etcsl#linkGrpo
 #etcsl#link type=q t553.q1 t553.q2
 #etcsl#linkGrpc
-
-

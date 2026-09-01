@@ -1,6 +1,6 @@
 &Q000501 = A hymn to Nanna for Gungunum (Gungunum B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.2.a
@@ -139,22 +139,7 @@ D.7. [...] X
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-5)  @gap{unknown no. of lines missing}   @gap{5 lines fragmentary} 
 
@@ -166,6 +151,3 @@ D.7. [...] X
 
 
 @(D.1 = 1-7)  @gap{unknown no. of lines missing}   @gap{7 lines fragmentary or missing} 
-
-
-

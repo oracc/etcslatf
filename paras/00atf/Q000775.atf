@@ -1,6 +1,6 @@
 &Q000775 = The message of Lu-diŋira to his mother
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.1
@@ -364,20 +364,7 @@ F. X X NE# ga-mu-šum₂ X [...]
 
 @endvariants
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) Royal courier, start the journey! I want to send you to @wSN{Nibru} -- deliver this message! You are going on a long journey. My mother  @varh[t551.v1]{is worried, she cannot sleep } @vart[t551.v2,t551.v1]{@varn{1 ms. has instead:} is too (?) …… to sleep }. Although the way to  @varh[t551.v3]{her } @vart[t551.v4,t551.v3]{@varn{1 ms. has instead:} the closed } woman's domain is blocked, deliver my letter of greeting into her hands,  @varh[t551.v5]{as she keeps asking } @vart[t551.v6,t551.v5]{@varn{1 ms. has instead:} and then she will not keep asking } the  @varh[t551.v7]{travellers } @vart[t551.v8,t551.v7]{@varn{1 ms. has instead:} wayfarers } about my well-being. Then my mother will be delighted, and will treat you most kindly (?) for it.
 
@@ -441,6 +428,3 @@ F. X X NE# ga-mu-šum₂ X [...]
 #etcsl#altGrpo
 #etcsl#alt t551.v63 t551.v64
 #etcsl#altGrpc
-
-
-

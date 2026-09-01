@@ -1,6 +1,6 @@
 &Q000545 = Letter from Šulgi to Aradŋu about Aba-indasa's letter
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.06.1
@@ -136,21 +136,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -170,4 +156,3 @@ $ (unknown no. of lines missing)
 @(2.1 = 1-7)  @gap{1 line fragmentary}  …… @wRN{Ur-@wDN{Namma}}, my own father, …… the fortress ……. …… I have set up for their ……. From …… the fortress ……. After …… my letter, return …… to their troops!
 
 @(2.8 = 8-10) May …… not ruin their city! Its pride …… for their troops. ……, may you …… on a throne.
-

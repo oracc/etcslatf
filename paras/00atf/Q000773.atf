@@ -1,6 +1,6 @@
 &Q000773 = A diatribe against Engar-dug (Diatribe B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.4.11
@@ -150,21 +150,7 @@ B.12. [...] X NA X [...]
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-2) @wPN{Engar-dug}, ……, fool, ……, child raised in ……, disgraced man, madman …… leather, dropping …… from a wall!
 
@@ -176,6 +162,3 @@ $ (unknown no. of lines missing)
 @(B.1 = 1-5) In his ……, a thief from his brother, he provides no water whatsoever. Whether a quay is built, whether he …… the town square, whether he pierces his nostrils (?), whether the gatekeeper …… the sign -- thus he never goes anywhere, …… the guard.
 
 @(B.6 = 6-12) @wPN{Engar-dug}, your holy song is finished, your greatness ……, your insults …… the city squares, your lies are made obvious! ……, @wPN{Engar-dug}, ……, …… like a francolin ……, ……, the snake-charmer …….  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

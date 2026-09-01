@@ -1,6 +1,6 @@
 &Q000689 = A fragment of a hymn to Nanna
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.d
@@ -59,27 +59,9 @@ $ (unknown no. of lines missing)
 #lem: X; ma[ship]; dirig[make more than]; ma[ship]; dirig[make more than]; umun[lord]N; X
 #etcsl: line-id=13
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(1 = 1-2)  @gap{1 line fragmentary}  …… the …… of @wDN{Suen} (?), father (?) …….
 
 @(4 = 3-13) The boat sailed, the boat sailed, ……. …… to the lord (?), to the @wTN{E-sila} (?). …… the @wTN{E-mud-kura} in @wSN{Urim}. …… the @wTN{E-kiš-nu-ŋal}. …… the @wTN{Kar-zida}, …… the @wTN{Kar-zagina}, the place of ……. …… gazing at the @fsux{ŋipar},  @gap{1 line fragmentary}  …… the @wTN{Kar-zagina}, the place of ……. ……, going alone, …… the boat sailed, the boat sailed, the lord …….
-
-
-

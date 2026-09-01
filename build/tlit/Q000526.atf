@@ -1,6 +1,6 @@
 &Q000526 = A prayer for Samsu-iluna (Samsu-iluna C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.3.3

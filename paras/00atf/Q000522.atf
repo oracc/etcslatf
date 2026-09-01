@@ -1,6 +1,6 @@
 &Q000522 = A prayer for Ḫammu-ràbi (Ḫammu-ràbi E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.5
@@ -47,25 +47,8 @@ $ 37 lines missing
 #lem: nam[fate]; tar[cut]; mu[name]; še[call by name]; gaba[breast]; gi[turn]; tuku[acquire]
 #etcsl: line-id=47
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(x = 1-37)  @gap{37 lines missing} 
 
 @(38 = 38-47)  @gap{1 line fragmentary}  …… raised his head high. …… before him …… rejoiced at him. …… embraced him. Your …… has determined the destiny. May you be their ……, exercising lordship over them. May …… which has been bestowed on you never cease. You are well-suited for ……, and may its time be prolonged for you. A destiny has been determined for you and you have been called by name; may you have no rival!
-
-
-

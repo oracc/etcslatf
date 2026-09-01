@@ -1,6 +1,6 @@
 &Q000404 = A tigi (?) for Šulgi (Šulgi L)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.12
@@ -108,26 +108,11 @@ B.C.7. [sa-ŋar]-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -156,6 +141,3 @@ $ (unknown no. of lines missing)
 
 
 @(B.C.7 = 7) @fsux{sa-ŋara}.
-
-
-

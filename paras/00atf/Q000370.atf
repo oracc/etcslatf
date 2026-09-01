@@ -1,6 +1,6 @@
 &Q000370 = Enmerkar and En-suḫgir-ana
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.2.4
@@ -1260,21 +1260,7 @@ B₇. [...]-bi-še₃ nu-uš-[...]
 
 @end segment
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-5) Brickwork rising out  @varh[t1824.v1]{from the pristine mountain } @vart[t1824.v2,t1824.v1]{@varn{on the edge of ms. C:} of the shining plain } -- @wSN{Kulaba}, city which reaches from heaven to earth; @wSN{Unug}, whose fame like the rainbow reaches up to the sky, a multicoloured sheen, as the new moon standing in the heavens.
 
@@ -1391,6 +1377,3 @@ B₇. [...]-bi-še₃ nu-uš-[...]
 
 
 @(B.B1 = 1-7)  @gap{3 lines unclear}  The sorcerer ……. @wPN{Ur-ŋiri-nuna} ……. The sorcerer …… minister @wPN{Ansiga-ria}.  @gap{1 line unclear} 
-
-
-

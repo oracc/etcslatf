@@ -1,6 +1,6 @@
 &Q000582 = Letter from Inanaka to the goddess Nintinuga
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.10
@@ -145,21 +145,7 @@
 :25v.1.1: ($some mss. have instead:$) mu-še₃ ga-sa₄
 #lem: mu[name]; še[call by name]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-11) Say to @wPN{Nintinuga}, the reliable stewardess of the E-kur, the physician of the Land; repeat to the lady, whose incantation heals the multitude of people, whose spells make the people recover, to @varh[t3310.v1]{my}@vart[t3310.v2,t3310.v1]{@varn{1 ms. has instead:} the} relenting lady, who loves to revive the people and loves supplications, the merciful and compassionate one who listens to prayers. You are the caretaker of the living and the dead; you are the great healer of all the crippled ones. This is what @wPN{Inanaka}, the daughter of @wPN{Enlil-a-mah}, your maidservant says:
 
@@ -186,6 +172,3 @@
 
 #etcsl#alt t3310.v16 t3310.v17
 #etcsl#altGrpc
-
-
-

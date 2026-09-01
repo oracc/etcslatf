@@ -1,6 +1,6 @@
 &Q000750 = The temple hymns
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.80.1
@@ -2161,21 +2161,7 @@ $ (approx. 1 line missing)
 #lem: n; e[house]; Nisabak[1]DN; Ereš[1]SN
 #etcsl: line-id=545
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-7) O @wTN{E-unir} (House which is a ziqqurat), grown together with heaven and earth, foundation of heaven and earth, great banqueting hall of @wSN{Eridug}! @wTN{Abzu}, shrine erected for its prince, @wTN{E-du-kug} (House which is the holy mound) where pure food is eaten, watered by the prince's pure canal, mountain, pure place cleansed with the potash plant, @wTN{Abzu}, your @fsux{tigi} drums belong to the divine powers.
 
@@ -2392,6 +2378,3 @@ $ (approx. 1 line missing)
 @(543 = 543-544) The compiler of the tablets was @wPN{En-ḫedu-ana}. My king, something has been created that no one has created before.
 
 @(545 = 545) 14 lines: the house of @wDN{Nisaba} in @wSN{Ereš}.
-
-
-

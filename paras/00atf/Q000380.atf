@@ -1,6 +1,6 @@
 &Q000380 = The lament for Sumer and Urim
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.2.3
@@ -499,7 +499,7 @@ B.114. ŋiš-gi₄-ŋal₂ ki-ru-gu₂-da-kam
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -1196,7 +1196,7 @@ D.284. [ŋiš-gi₄-ŋal₂ ki-ru-gu₂-da-kam]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu E
 
@@ -1497,7 +1497,7 @@ F.359. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 
@@ -2073,7 +2073,7 @@ H.482. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu I
 
@@ -2231,21 +2231,7 @@ I.519. ki-ru-gu₂ 5(diš)-kam-ma-am₃
 
 @end kirugu
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -2449,6 +2435,3 @@ $ (7 lines missing or fragmentary)
 
 
 @(I.519 = 519) 5th @fsux{kirugu}.
-
-
-

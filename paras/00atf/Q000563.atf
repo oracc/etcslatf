@@ -1,6 +1,6 @@
 &Q000563 = Letter from Iddin-Dagan to Sîn-illat about the troops
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.2.02
@@ -85,21 +85,7 @@
 #lem: amaru[flood]
 #etcsl: line-id=19
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Speak to @wPN{@wDN{Sîn}-illat} the general: this is what @wRN{Iddin-@wDN{Dagan}}, your lord, says:
 
@@ -110,5 +96,3 @@
 #etcsl#altGrpo
 #etcsl#alt t3202.v1 t3202.v2
 #etcsl#altGrpc
-
-

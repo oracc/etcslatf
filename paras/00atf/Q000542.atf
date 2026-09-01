@@ -1,6 +1,6 @@
 &Q000542 = Letter from Aradŋu to Šulgi about the country
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.04
@@ -107,22 +107,7 @@ B.8. niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-2) Say to my lord: This is what @wPN{Aradŋu}, your servant, says:
 
@@ -132,6 +117,3 @@ B.8. niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak
 
 
 @(B.1 = 1-8)  @gap{1 line fragmentary}  …… which he obtained (?), I am …….  @gap{1 line fragmentary}  …… the citizens of the territory of @wGN{Gutium}, ……, @wSN{Mari} and @wSN{Rāpiqum}, who will listen at all times, are before me. Whatever you say, my lord, I will do.
-
-
-

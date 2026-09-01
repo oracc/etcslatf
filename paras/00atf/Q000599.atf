@@ -1,6 +1,6 @@
 &Q000599 = Letter from Inim-Enlila to a king
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.27
@@ -62,22 +62,7 @@ B.1. X X X šag₄# X
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-7) Say to the king who entreats the gods fervently and, serving the gods, prepares the food offerings; repeat to the one elevated in stature who has the ability to give advice and counsel, the merciful one who makes the Land feel content -- this is what @wPN{Inim-Enlila} the scribe, son of @wPN{Suen-palil}, your servant, says:
 
@@ -86,7 +71,3 @@ $ (unknown no. of lines missing)
 
 
 @(B.1 = 1)   @gap{1 line fragmentary}  @note{may not be part of this composition}  @gap{unknown no. of lines missing} 
-
-
-
-

@@ -1,6 +1,6 @@
 &Q000523 = A prayer to Inana for Ḫammu-ràbi (Ḫammu-ràbi F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.6

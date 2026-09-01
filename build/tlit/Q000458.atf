@@ -1,6 +1,6 @@
 &Q000458 = An adab to Enlil for Išme-Dagan (Išme-Dagan H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.08
@@ -104,7 +104,7 @@ B.21. ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -192,7 +192,7 @@ C.41. [sa-ŋar-ra]-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div uru D
 

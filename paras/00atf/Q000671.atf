@@ -1,6 +1,6 @@
 &Q000671 = A balbale to Nanna (Nanna B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.02
@@ -176,21 +176,7 @@ $ (approx. 1 line missing)
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-26) (Ningal speaks:) @q[Ningal,]{“I …… for the …….  @gap{approx. 19 lines missing}  The embrace of my spouse ……. The young man ……. Among his cows ……. My beloved who ……. I shall go ……! There with the lord …….”}
 
@@ -211,6 +197,3 @@ $ (approx. 1 line missing)
 #trailer subscript	balbale
 
 @(60 = 60) A @fsux{balbale} of @wDN{Nanna}.
-
-
-

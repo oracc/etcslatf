@@ -1,6 +1,6 @@
 &Q000383 = The lament for Eridug
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.2.6
@@ -126,7 +126,7 @@ $ 4 lines missing
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -223,7 +223,7 @@ $ 1 line missing
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu E
 
@@ -347,7 +347,7 @@ $ 1 line missing
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 
@@ -477,7 +477,7 @@ $ (continuation of 4th kirugu)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu I
 
@@ -665,7 +665,7 @@ $ (note@c226.gap1!c226.n3: incorporating end of 5th kirugu)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu L
 
@@ -785,7 +785,7 @@ $ (note@c226.gap1!c226.n3: incorporating end of 5th kirugu)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu N
 
@@ -931,7 +931,7 @@ $ (note@c226.gap2!c226.n6: continuation of 3rd kirugu)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @end segment
 

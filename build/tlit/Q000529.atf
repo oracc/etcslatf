@@ -1,6 +1,6 @@
 &Q000529 = A hymn to Enlil for Samsu-iluna (Samsu-iluna F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.3.6

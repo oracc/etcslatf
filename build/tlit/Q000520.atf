@@ -1,6 +1,6 @@
 &Q000520 = A praise poem of Ḫammu-ràbi (Ḫammu-ràbi C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.3

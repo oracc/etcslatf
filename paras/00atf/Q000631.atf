@@ -1,6 +1,6 @@
 &Q000631 = A hymn to Inana
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.07.a
@@ -316,21 +316,7 @@ $ 1 line missing
 #lem: X; Inanak[1]DN; zamin[praise]
 #etcsl: line-id=123
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-9) Lady ……! Returning heroic youth, @wDN{Inana} ……. At the shrine, in @wSN{Nibru}, in the @wTN{E-du-kug} …… by @wDN{An}, with the holy crown of @wDN{An} placed on her head, the most holy @fsux{ba} garment of @wDN{An} draped around her torso, and the holy sceptre of @wDN{An} placed in her hand -- seated on a seat in the assembly, rendering great judgments in the mountains, and reaching majestic decisions in all the lands!
 
@@ -347,6 +333,3 @@ $ 1 line missing
 @(55 = 55-121)  @gap{approx. 67 lines missing or fragmentary} 
 
 @(122 = 122-123) Holy @wDN{Inana}, your august ……! …… @wDN{Inana} be praised!
-
-
-

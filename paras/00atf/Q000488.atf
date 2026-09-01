@@ -1,6 +1,6 @@
 &Q000488 = An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.8
@@ -79,7 +79,7 @@ B.B.4. ŋiš-gi₄-ŋal₂-bi-im#
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -91,22 +91,7 @@ B.B.5. u₃-a-di {d}inana-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -132,6 +117,3 @@ B.B.5. u₃-a-di {d}inana-kam
 
 
 @(B.B.5 = 5) An @fsux{ua-di} of @wDN{Inana}.
-
-
-

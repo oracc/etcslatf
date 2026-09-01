@@ -1,6 +1,6 @@
 &Q000425 = A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.4
@@ -86,7 +86,7 @@ B.15. [šag₄]-ba-tuku!-am₃#
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -174,7 +174,7 @@ E.31. [ŋiš]-gi₅-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara F
 
@@ -307,23 +307,9 @@ F.63. [sa]-ŋar-ra-am₃ [...]
 
 @end trailer
 
-@end sa-jara
-
-
-
-
-
-
-
+@end sa-ŋara
 
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -389,6 +375,3 @@ F.63. [sa]-ŋar-ra-am₃ [...]
 
 
 @(F.63 = 63) @fsux{Sa-ŋara}.
-
-
-

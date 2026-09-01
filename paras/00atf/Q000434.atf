@@ -1,6 +1,6 @@
 &Q000434 = An adab to Suen for Ibbi-Suen (Ibbi-Suen C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.5.3
@@ -270,7 +270,7 @@ B.62. [sa-ŋar]-ra#-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -290,7 +290,7 @@ C.65. [ŋiš]-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 
@@ -330,21 +330,7 @@ D.71. a-da-ab {d}suen-<na>
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -392,6 +378,3 @@ D.71. a-da-ab {d}suen-<na>
 
 
 @(D.71 = 71) An @fsux{adab} of @wDN{Suen}. @notep{lines 70 and 71 are written as one line in source}
-
-
-

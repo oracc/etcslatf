@@ -1,6 +1,6 @@
 &Q000743 = A hymn to Utu (Utu B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.32.2
@@ -134,21 +134,7 @@
 #lem: igi[eye]; kur[mountain(s)]; la[hang]
 #etcsl: line-id=32
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) Emerging …… below and gazing upwards, @wDN{Utu}, great physician, father of the black-headed, wearing a lapis-lazuli beard in the @wTN{E-babbar}! @wDN{Utu}, great hero, focus of the assembly, king, bison running over the mountains! @wDN{Utu}, bison running over the mountains!
 
@@ -159,6 +145,3 @@
 @(22 = 22-26) @wDN{Utu} who decrees judgments for all countries, the lord, the son of @wDN{Ningal}, who renders decisions for all countries, the lord who is highly skilled at verdicts, the son of @wDN{Enlil}, highly knowledgeable and majestic @wDN{Utu}, the son of …… -- @wDN{Utu} has placed the …… on his head.
 
 @(27 = 27-32) The lord, the son of @wDN{Ningal}, holds the 50 …… in his hand and thunders over the mountains like a storm. He has lifted his head over the Land. My king @wDN{Utu}, you cross the shining mountains, the shining mountains like an eagle! He has lifted his gaze over the mountains.
-
-
-

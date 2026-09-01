@@ -1,6 +1,6 @@
 &Q000714 = A hymn to Ninkasi (Ninkasi A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.23.1
@@ -200,21 +200,7 @@
 #lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; saŋ[head]; sig[put into]
 #etcsl: line-id=48
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) Given birth by the flowing water ……, tenderly cared for by @wDN{Ninḫursaŋa}! @wDN{Ninkasi}, given birth by the flowing water ……, tenderly cared for by @wDN{Ninḫursaŋa}!
 
@@ -239,6 +225,3 @@
 @(41 = 41-44) You place the fermenting vat, which makes a pleasant sound, appropriately on top of a large collector vat. @wDN{Ninkasi}, you place the fermenting vat, which makes a pleasant sound, appropriately on top of a large collector vat.
 
 @(45 = 45-48) It is you who pour out the filtered beer of the collector vat; it is like the onrush of the @wWN{Tigris} and the @wWN{Euphrates}. @wDN{Ninkasi}, it is you who pour out the filtered beer of the collector vat; it is like the onrush of the @wWN{Tigris} and the @wWN{Euphrates}.
-
-
-

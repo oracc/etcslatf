@@ -1,6 +1,6 @@
 &Q000539 = Letter from Aradŋu to Šulgi about Apillaša
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.01
@@ -177,21 +177,7 @@
 #lem: lugal[king]; zu[know]
 #etcsl: line-id=34
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to my lord: this is what @wPN{Aradŋu}, your servant, says:
 
@@ -230,5 +216,3 @@
 #etcsl#alt t3101.v18 t3101.v19
 #etcsl#alt t3101.v20 t3101.v21 t3101.v22
 #etcsl#altGrpc
-
-

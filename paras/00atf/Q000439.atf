@@ -1,6 +1,6 @@
 &Q000439 = A tigi to Nanaya for Išbi-Erra (Išbi-Erra C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.1.3
@@ -68,7 +68,7 @@ B.12. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -128,7 +128,7 @@ D.23. ša-ba-du-ga
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div sa-gida E
 
@@ -164,7 +164,7 @@ F.28. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara G
 
@@ -228,7 +228,7 @@ G.42. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -238,21 +238,7 @@ G.43. tigi {d}na-na-a-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -328,6 +314,3 @@ G.43. tigi {d}na-na-a-kam
 
 
 @(G.43 = 43) A @fsux{tigi} of @wDN{Nanaya}.
-
-
-

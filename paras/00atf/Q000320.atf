@@ -1,6 +1,6 @@
 &Q000320 = Ur III catalogue at Yale (Y1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.1.2
@@ -191,8 +191,3 @@
 45. pad₃-da niŋ₂-u₂-rum
 #lem: pad[find]; niŋurum[property]
 #etcsl: line-id=45
-
-
-
-
-

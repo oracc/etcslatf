@@ -1,6 +1,6 @@
 &Q000388 = A praise poem of Ur-Namma (Ur-Namma C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.3
@@ -464,21 +464,7 @@ $ 1 line missing
 #lem: sipad[shepherd]; Urnamma[1]RN; zamin[praise]; dug[good]
 #etcsl: line-id=115
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-16) City of the finest divine powers, lofty royal throne-dais! Shrine @wSN{Urim}, pre-eminent in @wGN{Sumer}, built in a pure place! City, your well-founded great wall has grown out of the @fsux{abzu}! City, beautiful as the sky, endowed with beauty, colourfully decorated in a great place! Shrine @wSN{Urim}, well-founded @fsux{ŋipar}, dwelling of @wDN{An} and @wDN{Enlil}! Your lofty palace is the @wTN{E-kiš-nu-ŋal}, in which the fates are determined! Your pilasters heavy with radiance tower over all the countries! Its terrace like a white cloud is a spectacle in the midst of heaven. Its …… like flashing lightning shines (?) inside a shrine. Like a single bull under the yoke, ……. @wDN{Suen's} beloved pure table; @wTN{E-kiš-nu-ŋal}, @wDN{Suen's} beloved pure table. The king, ornament of the royal offering place, occupies the august courtyard; @wRN{Ur-@wDN{Namma}} the exalted, whom no one dare oppose, ……. @wSN{Urim}, the wide city …….  @gap{1 line unclear} 
 
@@ -501,6 +487,3 @@ $ 1 line missing
 @(101 = 101-110) …… at a banquet with me in the city. …… joyful dance ……. I have brought abundance to @wDN{Enlil's} temple on the king's canal: I have directed ships both to @wSN{Kar-ŋeština} of @wDN{Enlil} and to the lapis-lazuli quay of @wDN{Nanna}. Alcohol and syrup have been poured out before @wDN{Enlil}. To me, the shepherd @wRN{Ur-@wDN{Namma}}, let life be given as a reward! For @wDN{Nanna}, my master, I have built his temple; as if it were a verdant hillside, I have set up the @wTN{E-kiš-nu-ŋal} in a great place. I have surrounded (?) its terrace with a gold and lapis-lazuli fence.
 
 @(111 = 111-115) I am the creature of @wDN{Nanna}! I am the older brother of @wDN{Gilgameš}! I am the son borne by @wDN{Ninsumun}, a princely seed! For me, kingship came down from heaven! Sweet is the praise of me, the shepherd @wRN{Ur-@wDN{Namma}}!
-
-
-

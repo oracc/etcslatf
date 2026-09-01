@@ -1,6 +1,6 @@
 &Q000331 = OB catalogue from Nibru (N6)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.13
@@ -103,9 +103,3 @@
 22. ab₂ nun-e an-na kur un₃-na
 #lem: ab[cow]; nun[prince]; an[sky]; kur[mountain(s)]; un[high]
 #etcsl: line-id=22
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 &Q000534 = A hymn to Marduk for a king
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.5.b
@@ -125,21 +125,7 @@
 #lem: ud[sun]; duri[forever]; til[live (of a single person)]; X; X
 #etcsl: line-id=29
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-13) May @wDN{Marduk} grant life! May he make your …… full! May @wDN{Marduk} decree life for you! May he prolong your life, and may he let you keep it for everlasting days! May you live, and may you have peace! May it last forever! May life be your lot, and may a life of contentment be your share! When you lie down to sleep, may your dreams be propitious, and when you rise, may your omens be favourable! Wherever you walk, may you be established in peace!
 
@@ -148,5 +134,3 @@
 #etcsl#altGrpo
 #etcsl#alt t285b.v1 t285b.v2
 #etcsl#altGrpc
-
-

@@ -1,6 +1,6 @@
 &Q000800 = Proverbs: collection 7
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.07
@@ -1002,22 +1002,7 @@ C.7.122.96. [...] A bi₂-dul
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 7.1	proverb
 
@@ -1336,6 +1321,3 @@ C.7.122.96. [...] A bi₂-dul
 #lg 7.122	proverb
 
 @(C.7.122.91 = 91-96)  We ……; we ……; we ate ……; we drank ……; …… cover ……; …… cover …….
-
-
-

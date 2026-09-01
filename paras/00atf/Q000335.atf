@@ -1,6 +1,6 @@
 &Q000335 = Enki's journey to Nibru
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.1.4
@@ -584,21 +584,7 @@ C. {ŋiš}za₃-mi₂ {ŋiš}al-ŋar balaŋ {ŋiš}sur₉-am₃
 #lem: aya[father]; Enkik[1]DN; zamin[praise]
 #etcsl: line-id=129
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) In those remote days, when the fates were determined; in a year when @wDN{An} brought about abundance, and people broke through the earth like green plants -- then the lord of the @fsux{abzu}, King @wDN{Enki}, @wDN{Enki}, the lord who determines the fates, built up his temple entirely from silver and lapis lazuli. Its silver and lapis lazuli were the shining daylight. Into the shrine of the @fsux{abzu} he brought joy.
 
@@ -654,5 +640,3 @@ C. {ŋiš}za₃-mi₂ {ŋiš}al-ŋar balaŋ {ŋiš}sur₉-am₃
 #etcsl#altGrpo
 #etcsl#alt t114.v17 t114.v18
 #etcsl#altGrpc
-
-

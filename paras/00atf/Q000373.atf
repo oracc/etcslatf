@@ -1,6 +1,6 @@
 &Q000373 = The history of the Tummal
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.1.3
@@ -173,21 +173,7 @@
 #lem: šutum[storehouse]; Enlil[1]DN; du[build]
 #etcsl: line-id=33
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) @wRN{En-me-barage-si}, the king, built the @wTN{Iri-nanam} in @wDN{Enlil's} temple. @wRN{Aga}, son of @wRN{En-me-barage-si}, made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. Then the @wTN{Tummal} fell into ruins for the first time.
 
@@ -209,6 +195,3 @@
 @(31 = 31) Written according to the words of @wPN{Lu-Inana} the chief leatherworker of @wDN{Enlil}.
 
 @(32 = 32-33) @wRN{Išbi-@wDN{Erra}}, who looks after the @wTN{E-kur}, built the storehouse of @wDN{Enlil}.
-
-
-

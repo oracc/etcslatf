@@ -1,6 +1,6 @@
 &Q000717 = A hymn to Ninšubur (Ninšubur B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.25.2
@@ -188,21 +188,7 @@ B.41. [...] X {d}nin-šubur-ra-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -227,6 +213,3 @@ B.41. [...] X {d}nin-šubur-ra-kam
 
 
 @(B.41 = 41) …… of @wDN{Ninšubur}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000576 = Letter from Ur-Enlila to a governor and temple administrator
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.04
@@ -71,21 +71,7 @@
 #lem: amaru[flood]
 #etcsl: line-id=12
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to the governor and temple administrator what @wPN{Ur-Enlila} says:
 
@@ -103,6 +89,3 @@
 #etcsl#alt t3304.v4 t3304.v5
 #etcsl#alt t3304.v6 t3304.v7
 #etcsl#altGrpc
-
-
-

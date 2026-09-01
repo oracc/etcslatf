@@ -1,6 +1,6 @@
 &Q000348 = Inana and Bilulu: an ulila to Inana
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.4.4
@@ -577,21 +577,7 @@ $ (approx. 11 lines missing)
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-5) She can make the lament for you, my @wDN{Dumuzid}, the lament for you, the lament, the lamentation, reach the desert -- she can make it reach the house @wGN{Arali}; she can make it reach @wSN{Bad-tibira}; she can make it reach @wGN{Du-šuba}; she can make it reach the shepherding country, the sheepfold of @wDN{Dumuzid} …….
 
@@ -651,5 +637,3 @@ $ (1 line fragmentary)
 #trailer subscript	ulila
 
 @(177 = 177) An @fsux{ulila} song of @wDN{Inana}.
-
-

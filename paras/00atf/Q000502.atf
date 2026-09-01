@@ -1,6 +1,6 @@
 &Q000502 = A praise poem of Sîn-iddinam (Sîn-iddinam A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.6.1
@@ -131,22 +131,7 @@ $ (unknown no. of lines missing)
 #lem: ud[sun]; ul[distant time]; mu[name]; gal[big]; kur[mountain(s)]; šuš[cover]
 #etcsl: line-id=25
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(1 = 1-4) …… who respects ……. @wRN{@wDN{Sîn}-iddinam} …… his departing boat. He provided flour, gold and grain, befitting the great lady. …… this choice (?) grain, …… the lapis lazuli @wTN{E-kur}.
@@ -162,5 +147,3 @@ $ (unknown no. of lines missing)
 #etcsl#linkGrpo
 #etcsl#link type=q t2661.q1 t2661.q2
 #etcsl#linkGrpc
-
-

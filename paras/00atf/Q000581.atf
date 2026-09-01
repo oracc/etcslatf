@@ -1,6 +1,6 @@
 &Q000581 = Letter from Lugal-nesaŋe to Enlil-massu
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.09
@@ -156,21 +156,7 @@
 :20v.1.1: ($the 2 Urim mss. add:$) igi
 #lem: igi[eye]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-9) Say this to @wPN{Enlil-massu} who @varh[t3309.v1]{enhances } @vart[t3309.v2,t3309.v1]{@varn{1 ms. has instead:} pronounces }  advice and counsel, the mellifluous mouth which makes speech persuasive. Repeat it to the son who serves his god and respects his father and mother. @varh[t3309.v3]{Say it a third time } @vart[t3309.v4,t3309.v3]{@varn{1 ms. has instead:} Repeat it }  to my protective guardian and propitious spirit -- the precious powers -- whose form and stature are pleasing, honour to the scribal craft, @varh[t3309.v5]{hero among the administrators and ornament of the palace } @vart[t3309.v6,t3309.v5]{@varn{1 Urim ms. has instead:} hero among the administrators } @vart[t3309.v7,t3309.v5]{@varn{2 mss. have instead:} ornament of the palace and hero among the administrators }  who reinstates decrees and greatly pleases the heart of his king. This is what @wPN{Lugal-nesaŋe}, the @fsux{nueš} priest of @wDN{Enlil} and person who brings laughter to the king, son of @varh[t3309.v8]{@wPN{Enlil-alsag} } @vart[t3309.v9,t3309.v8]{@varn{1 Urim ms. has instead:} @wPN{Zuzu} } , the scholar of @wSN{Nibru} and your father, says:
 
@@ -196,6 +182,3 @@
 #etcsl#altGrpo
 #etcsl#alt t3309.v20 t3309.v21 t3309.v22
 #etcsl#altGrpc
-
-
-

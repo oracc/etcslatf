@@ -1,6 +1,6 @@
 &Q000327 = OB catalogue possibly from Zimbir (B1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.07
@@ -159,9 +159,3 @@ B.22. [...] X mu-bar-ra
 #etcsl: line-id=B.22
 
 @end segment
-
-
-
-
-
-

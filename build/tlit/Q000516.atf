@@ -1,6 +1,6 @@
 &Q000516 = An excerpt from a prayer for Rīm-Sîn
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.a

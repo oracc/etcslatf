@@ -1,6 +1,6 @@
 &Q000484 = An adab to Ninurta for Lipit-Eštar (Lipit-Eštar D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.4
@@ -70,7 +70,7 @@ B.12. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -154,7 +154,7 @@ E.27. [ŋiš-gi₄-ŋal₂ sa-gid₂-da]-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara F
 
@@ -226,7 +226,7 @@ F.43. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal G
 
@@ -242,7 +242,7 @@ G.45. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru H
 
@@ -280,21 +280,7 @@ H.51. a-da-ab {d}nin-urta-ka-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -385,6 +371,3 @@ H.51. a-da-ab {d}nin-urta-ka-kam
 
 
 @(H.51 = 51) An @fsux{adab} of @wDN{Ninurta}.
-
-
-

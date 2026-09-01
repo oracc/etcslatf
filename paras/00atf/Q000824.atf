@@ -1,6 +1,6 @@
 &Q000824 = Proverbs: from Unug
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.2.4
@@ -182,21 +182,7 @@
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 VAT 21604 (+) 21605 (AUWE 23 120-121)
 
@@ -259,4 +245,3 @@
 @(4.3 = 3)  @gap{1 line fragmentary} 
 
 @(4.4 = 4)  @gap{1 line fragmentary} 
-

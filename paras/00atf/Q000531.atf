@@ -1,6 +1,6 @@
 &Q000531 = A hymn to Enlil for Samsu-iluna (Samsu-iluna H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.3.8
@@ -58,21 +58,7 @@
 #lem: Samsuʾiluna[01]; zamin[praise]; dug[good]
 #etcsl: line-id=13
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) …… offerings ……, he brought (?) them into @wTN{E-kur}.
 
@@ -90,5 +76,3 @@
 #etcsl#alt t2838.v7 t2838.v8
 #etcsl#alt t2838.v9 t2838.v10
 #etcsl#altGrpc
-
-

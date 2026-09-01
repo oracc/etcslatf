@@ -1,6 +1,6 @@
 &Q000358 = How grain came to Sumer
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.7.6
@@ -136,21 +136,7 @@
 #lem: Utu[1]DN; banšur[table]; X; X
 #etcsl: line-id=32
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-12) Men used to eat grass with their mouths like sheep. In those times, they did not know grain, barley or flax. @wDN{An} brought these down from the interior of heaven. @wDN{Enlil} lifted his gaze around as a stag lifts its horns when climbing the terraced …… hills. He looked southwards and saw the wide sea; he looked northwards and saw the mountain of aromatic cedars. @wDN{Enlil} piled up the barley, gave it to the mountain. He piled up the bounty of the Land, gave the @fsux{innuḫa} barley to the mountain. He closed off access to the wide-open hill. He …… its lock, which heaven and earth shut fast (?), its bolt, which …….
 
@@ -165,6 +151,3 @@
 #etcsl#linkGrpc
 
 @(32 = 32) @wDN{Utu} …… table (?) …….
-
-
-

@@ -1,6 +1,6 @@
 &Q000463 = An adab to Nanna for Išme-Dagan (Išme-Dagan M)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.13
@@ -156,7 +156,7 @@
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -287,7 +287,7 @@ $ (unknown no. of lines missing)
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal E
 
@@ -303,7 +303,7 @@ $ (unknown no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru F
 
@@ -476,7 +476,7 @@ $ 9 lines missing
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -496,7 +496,7 @@ $ 9 lines missing
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 
@@ -527,21 +527,7 @@ $ 4 lines missing
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -663,4 +649,3 @@ $ (Lines 12-24 of this passage run parallel to Segment B, lines 25-31, of Versio
 
 
 @(2.B.D.24 = 24) An @fsux{adab} of @wDN{Nanna}. @notep{lines 23 and 24 are written as one line in source}
-

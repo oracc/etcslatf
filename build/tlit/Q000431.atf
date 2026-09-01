@@ -1,6 +1,6 @@
 &Q000431 = A hymn for Šu-Suen
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.a
@@ -74,7 +74,7 @@ B.13. ŋiš-gi₄-ŋal₂#-[bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -174,7 +174,7 @@ E.32. ŋiš-gi₄-[ŋal₂-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu F
 

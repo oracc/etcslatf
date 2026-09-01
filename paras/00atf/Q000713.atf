@@ -1,6 +1,6 @@
 &Q000713 = Ninisina and the gods (Ninisina F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.22.6
@@ -230,23 +230,7 @@ D.13. [...] {d}nin#-isin₂{[si]}-[na-kam]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-5) They …… stood around her. The holy and pure divine powers befit @wDN{Ninisina}, lady of the great divine powers. Her divine powers are divine powers bestowed on her by @wDN{An}. The Great Mountain @wDN{Enlil} determined a fate for her.
@@ -274,6 +258,3 @@ $ (unknown no. of lines missing)
 
 
 @(D.13 = 13) …… of @wDN{Ninisina}.
-
-
-

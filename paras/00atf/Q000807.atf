@@ -1,6 +1,6 @@
 &Q000807 = Proverbs: collection 14
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.14
@@ -505,22 +505,7 @@ C.14.64.21. [...] gid₂
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 14.1	proverb
 
@@ -683,6 +668,3 @@ C.14.64.21. [...] gid₂
 #lg 14.64	proverb
 
 @(C.14.64.20 = 20-21)   @gap{2 lines fragmentary} 
-
-
-

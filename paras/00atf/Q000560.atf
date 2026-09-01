@@ -1,6 +1,6 @@
 &Q000560 = Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.20
@@ -325,21 +325,7 @@ $ 3 lines missing
 $ (unknown no. of lines missing)
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -404,4 +390,3 @@ $ (unknown no. of lines missing)
 @(2.20 = 20-23)  @gap{1 line fragmentary}  He (?) will defect to @wRN{Išbi-@wDN{Erra}} ……. So long as …… has indeed not been handed over to (?) the enemy, will @wRN{Išbi-@wDN{Erra}} himself (?) recognise ……?
 
 @(2.24 = 24-35) You ……. …… he (?) destroyed (?) for you.  @gap{1 line fragmentary}  …… he (?) overturns (?) there. …… returning (?) ……. …… in my having ……. I (?) had in mind ……. …… was set there in prosperity. …… is supreme over ……, after I (?) have made …… there. I will seize him with my own hands …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-

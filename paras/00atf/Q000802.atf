@@ -1,6 +1,6 @@
 &Q000802 = Proverbs: collection 9
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.09
@@ -774,22 +774,7 @@ H.9.h6.15. ŋiš# [...] X-da a-ra-ši-nu₂
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 9.a1	proverb
 
@@ -1057,6 +1042,3 @@ H.9.h6.15. ŋiš# [...] X-da a-ra-ši-nu₂
 #lg 9.h6	proverb
 
 @(H.9.h6.13 = 13-15)  …… you spy on (?); …… just like a judge, …… lie down for you there …….
-
-
-

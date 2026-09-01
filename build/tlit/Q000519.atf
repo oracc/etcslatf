@@ -1,6 +1,6 @@
 &Q000519 = A prayer to Enki for Ḫammu-ràbi (Ḫammu-ràbi B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.2

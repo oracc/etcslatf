@@ -1,6 +1,6 @@
 &Q000444 = An adab to Nergal for Šu-ilīšu (Šu-ilīšu A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.2.1
@@ -68,7 +68,7 @@ B.12. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -132,7 +132,7 @@ D.24. šag₄-ba-tuku 2-kam-ma-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud E
 
@@ -212,7 +212,7 @@ G.38. ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara H
 
@@ -323,7 +323,7 @@ H.63. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div uru I
 
@@ -357,21 +357,7 @@ I.68. a-da-ab {d}nergal-ka-am₃
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -473,6 +459,3 @@ I.68. a-da-ab {d}nergal-ka-am₃
 
 
 @(I.68 = 68) An @fsux{adab} of @wDN{Nergal}.
-
-
-

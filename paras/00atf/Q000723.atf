@@ -1,6 +1,6 @@
 &Q000723 = A tigi to Ninurta (Ninurta D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.27.04
@@ -117,7 +117,7 @@ B.33. sa-ŋar-ra-am₃ šu-ta e-ne di-[dam]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -127,21 +127,7 @@ B.34. tigi# {[d]}[nin-urta-ka-kam]
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -169,6 +155,3 @@ B.34. tigi# {[d]}[nin-urta-ka-kam]
 
 
 @(B.34 = 34) A @fsux{tigi} of @wDN{Ninurta} (?).
-
-
-

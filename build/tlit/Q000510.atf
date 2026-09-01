@@ -1,6 +1,6 @@
 &Q000510 = A prayer to An for Rīm-Sîn (Rīm-Sîn C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.3

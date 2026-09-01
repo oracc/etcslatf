@@ -1,6 +1,6 @@
 &Q000820 = Proverbs: collection 28
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.28
@@ -279,22 +279,7 @@ B.28.28.38. [X X] nam-ba-DU ŋe₂₆-e [X X]-hul₂#-le-e
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 28.1	proverb
 
@@ -388,6 +373,3 @@ B.28.28.38. [X X] nam-ba-DU ŋe₂₆-e [X X]-hul₂#-le-e
 #lg 28.28	proverb
 
 @(B.28.28.36 = 36-38)  @note{cf. @xref[t.6.1.03,t.6.1.03.112]{6.1.03.112}, @xref[t.6.1.22,]{6.1.22: ll. 19-20}, @xref[t.6.2.3,]{6.2.3: UET 6/2 311 ll. 4-5}} When the fish is too hot, let him cool it down for you and pick out the bones for you. …… go ……, I …… happy …….
-
-
-

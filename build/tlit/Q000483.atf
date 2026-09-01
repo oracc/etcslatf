@@ -1,6 +1,6 @@
 &Q000483 = An adab to An for Lipit-Eštar (Lipit-Eštar C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.3
@@ -60,7 +60,7 @@ B.10. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div šagbatuku C
 
@@ -104,7 +104,7 @@ C.19. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud D
 
@@ -189,7 +189,7 @@ F.32. (1:ŋiš-gi₄-ŋal₂-bi-im:1)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara G
 
@@ -274,7 +274,7 @@ G.53. sa-[ŋar-ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal H
 
@@ -290,7 +290,7 @@ H.55. ŋiš-gi₄-ŋal₂-bi-im#
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru I
 

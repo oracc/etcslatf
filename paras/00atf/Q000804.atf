@@ -1,6 +1,6 @@
 &Q000804 = Proverbs: collection 11
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.11
@@ -859,23 +859,7 @@ K.11.162.8. [...] e₃#-a [...] X AŠ
 $ (approx. 18 lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (approx. 4 lines missing)
 #lg 11.4	proverb
@@ -1127,6 +1111,3 @@ $ (approx. 4 lines missing)
 #lg 11.162	proverb
 
 @(K.11.162.4 = 4-8)  I am a capable scribe. There will be a prominent place for me. I will bring my …… protection …… to the stewardship.  @gap{2 lines fragmentary}   @gap{approx. 18 lines missing} 
-
-
-

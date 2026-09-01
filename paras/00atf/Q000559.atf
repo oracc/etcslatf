@@ -1,6 +1,6 @@
 &Q000559 = Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.19
@@ -262,21 +262,7 @@ $ (1 ms. inserts here line 45 and writes line 35 after line 36)
 #lem: lugal[king]; zu[know]
 #etcsl: line-id=53
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-3) Say to @wRN{Ibbi-@wDN{Suen}}, my lord: this is what @wPN{Puzur-@wRN{Šulgi}}, the governor of @wSN{Kazallu}, your servant, says:
 
@@ -343,6 +329,3 @@ $ (1 ms. inserts here line 45 and writes line 35 after line 36)
 #etcsl#altGrpc
 
 @(49 = 49-53) Now @wRN{Išbi-@wDN{Erra}} is looking in my direction. I have no ally, nobody with whom I can align myself. Since he has not yet been able to get me in his grasp, let me come to you when he falls upon me. My lord should know this!
-
-
-

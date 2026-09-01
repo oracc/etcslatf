@@ -1,6 +1,6 @@
 &Q000396 = A praise poem of Šulgi (Šulgi B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.02
@@ -1549,21 +1549,7 @@
 #lem: Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=385
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-10) To make his name famous for all time until distant days, and to transmit to posterity and the days to come the praise poems of his power, the songs of his might, and the lasting fame of his exceptional intelligence, King @wRN{Šulgi}, king of @wSN{Urim}, has brought the songs' latent wisdom before the mighty son of @wDN{Ninsumun}. He praises his own power in song, and lauds his own superior native intelligence:
 
@@ -1622,6 +1608,3 @@
 @(358 = 358-373) Now, I swear by @wDN{Utu} on this very day -- and my younger brothers shall be witnesses of it in foreign lands where the sons of @wGN{Sumer} are not known, where people do not have the use of paved (?) roads, where they have no access to the written word -- that the firstborn son is a fashioner of words, a composer of songs, a composer of words, and that they will recite my songs as heavenly writings, and that they will bow down before my words as a ……  @gap{8 lines fragmentary} 
 
 @(374 = 374-385) For that house, I am the right man to step over the threshold. I am the man whose name has been chosen by @wDN{Nanna}. I am the steward of @wDN{Enlil's} temple, the domestic slave of @wDN{An}. I am @wRN{Šulgi}, and my house @wTN{E-ḫursaŋ} is the palace of palaces. My royal residence is above all praise; I made it tower up like a lapis-lazuli mountain. @wDN{Inana}, the queen of the gods, the protective deity of my power, has perfected the songs of my might -- the foremost among kings -- in respect of everything in the whole world. It is good to praise me. Praise be to @wDN{Nisaba}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000482 = A praise poem of Lipit-Eštar (Lipit-Eštar B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.2
@@ -267,21 +267,7 @@
 #lem: Lipiteštar[1]RN; zamin[praise]
 #etcsl: line-id=63
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-14) @wRN{Lipit-@wDN{Eštar}}, proud king, enthroned prince, most seemly offshoot of kingship, who walks like @wDN{Utu}, brilliant light of the Land, lofty in nobility, riding on the great divine powers; who settles the people in the four quarters; favoured by @wDN{Enlil}, beloved by @wDN{Ninlil}, trustworthy youth with shining eyes, worthy of the throne-dais, whose seemly head is adorned with the tiara, the good headdress, who  @varh[t2552.v1]{holds in his hand } @vart[t2552.v2,t2552.v1]{@varn{1 ms. has instead:} is perfect with } the sceptre over the black-headed, prince @wRN{Lipit-@wDN{Eštar}}, son of @wDN{Enlil}, wise shepherd, who leads the people to let them relax …… in pleasant shade, lord, great bison, beloved by @wDN{An}! Your trust is put in Mother @wDN{Ninlil}; @wRN{Lipit-@wDN{Eštar}}, you exert great power.
 
@@ -306,5 +292,3 @@
 #etcsl#altGrpo
 #etcsl#alt t2552.v5 t2552.v6
 #etcsl#altGrpc
-
-

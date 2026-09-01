@@ -1,6 +1,6 @@
 &Q000557 = Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.17
@@ -274,21 +274,7 @@ $ (end of shorter version)
 #lem: igi[eye]; Utu[1]DN; kag[mouth]; bala[turn]
 #etcsl: line-id=58
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wRN{Ibbi-@wDN{Suen}}, my lord: this is what @wRN{Išbi-@wDN{Erra}}, your servant, says:
 
@@ -350,6 +336,3 @@ $ (end of shorter version)
 @(52 = 52-55) Your heart should not fret over this, ……! For …… has avenged (?) ……; he has made its foundations firm for you. Let your heart be glad over …… and (?) its seed. As long as my lord is alive, he will exercise kingship over @wSN{Urim}.
 
 @(56 = 56-58) Do not suddenly reject anything that is sent as a message (?) to my lord! Before @wDN{Utu}, I will not change my word (?).
-
-
-

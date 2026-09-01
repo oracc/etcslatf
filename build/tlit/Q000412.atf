@@ -1,6 +1,6 @@
 &Q000412 = A tigi to Ninurta for Šulgi (Šulgi T)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.20
@@ -132,7 +132,7 @@ B.28. [sa-ŋar]-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -148,7 +148,7 @@ C.30. [ŋiš-gi₅]-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 

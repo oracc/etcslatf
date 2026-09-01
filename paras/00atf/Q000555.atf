@@ -1,6 +1,6 @@
 &Q000555 = Letter from Šarrum-bàni to Šu-Suen about keeping the Martu at bay
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.15
@@ -187,21 +187,7 @@
 #lem: lugal[king]; zu[know]
 #etcsl: line-id=43
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wRN{Šu-@wDN{Suen}}, my lord: this is what @wPN{Šarrum-bāni}, the 'Sage of the Assembly', your servant, says:
 
@@ -233,6 +219,3 @@
 @(34 = 34-38) The dignitaries of your provinces are sending a man to them. They have presented themselves before me, announcing: @q[dignitaries,Carrum-bani]{“As far as we are concerned, we are unable to guard all the cities. But how exactly will any troops be given to you?”} My messenger has been sent to them (?).
 
 @(39 = 39-43) Once my lord has given me instructions, I will repeatedly return to (?) work at nightfall and at midnight, as well as engaging in military action. I stand at the disposal of the fame and word of my lord, and so I (?) will bring weapons to bear. No strength has yet been displayed (?), nor any firmness shown (?) by means of weapons. Let the storm cover (?) all the lands! May my lord know!
-
-
-

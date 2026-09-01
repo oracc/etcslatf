@@ -1,6 +1,6 @@
 &Q000707 = A hymn to Ninimma (Ninimma A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.21.1
@@ -143,22 +143,7 @@ C.1. X [...] X X RU X X X X-me-en#
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-18) You are the seal-holder of the treasury of the ……. You are the caretaker of the great gods, you are ……. @wDN{Ninimma}, you are the lady of all the great rites in the @wTN{E-kur}. Lady, you are the …… of @wDN{Enlil}, you are the heavenly scribe. You …… the tablet of life.  @gap{1 line fragmentary}  You who bring the best corn are the lady of the @wTN{E-sara}. The surveyor's gleaming line and the measuring rod suit you perfectly. You can hold your head high among the great princes. You are ……. You are ……, the cherished one.  @gap{1 line fragmentary}  ……; you are exceptional in wisdom. …… joy ……. My lady, you were exalted already in the womb; you are resplendent like the sunlight. You are suited to the lapis-lazuli crown (?); you are the heavenly ……. …… adorned with loveliness …….  @gap{1 line fragmentary}   @gap{approx. 10 lines missing} 
 
@@ -167,6 +152,3 @@ C.1. X [...] X X RU X X X X-me-en#
 
 
 @(C.1 = 1) You are …….
-
-
-

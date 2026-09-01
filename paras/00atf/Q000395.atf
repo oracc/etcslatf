@@ -1,6 +1,6 @@
 &Q000395 = A praise poem of Šulgi (Šulgi A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.01
@@ -499,20 +499,7 @@ $ (at least 4 lines missing or unclear)
 101a. {d}šul-gi dumu nir-ŋal₂ an-na za₃-mi₂
 @endvariants
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) I, the king, was a hero already in the womb; I, @wRN{Šulgi}, was born to be a mighty man. I am a fierce-looking lion, begotten by a dragon. I am the king of the four regions; I am the herdsman and shepherd of the black-headed people. I am a respected one, the god of all the lands.1
 
@@ -574,5 +561,3 @@ $ (at least 4 lines missing or unclear)
 #etcsl#altGrpo
 #etcsl#alt t24201.v22 t24201.v24
 #etcsl#altGrpc
-
-

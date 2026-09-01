@@ -1,6 +1,6 @@
 &Q000691 = A balbale to Nanše (Nanše B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.14.2
@@ -119,22 +119,7 @@ B.23. bal-bal-e {d}nanše-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-2)  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
 
@@ -147,6 +132,3 @@ B.23. bal-bal-e {d}nanše-kam
 
 
 @(B.23 = 23) A @fsux{balbale} of @wDN{Nanše}.
-
-
-

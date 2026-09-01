@@ -1,6 +1,6 @@
 &Q002338 = Public announcement of the loss of a seal
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.7.a
@@ -65,18 +65,7 @@
 #lem: niŋir[herald]; lukiʾinimak[witness]
 #etcsl: line-id=12
 
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) A seal inscribed with the name of @wPN{Ur-DUN}, the merchant, was lost. In accordance with the word of the assembly, the herald has sounded the horn throughout all the streets: no one now has any claim against him.
 
@@ -85,6 +74,3 @@
 #etcsl#altGrpo
 #etcsl#alt t57a.v1 t57a.v2
 #etcsl#altGrpc
-
-
-

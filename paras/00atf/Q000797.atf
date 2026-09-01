@@ -1,6 +1,6 @@
 &Q000797 = Proverbs: collection 3
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.03
@@ -1583,7 +1583,7 @@ A.3.126.226. bi₂-in-dug₄ nu-mu-un-ni-[X-X]
 #lem: dug[speak]; X
 #etcsl: line-id=A.3.126.226
 
-A.3.126.B. ka-ga₁₄-ni lul-la-am₃
+A.3.126.227. ka-ga₁₄-ni lul-la-am₃
 #lem: kag[mouth]; lul[false]
 #etcsl: line-id=A.3.126.227
 
@@ -2439,22 +2439,7 @@ D.3.d1.4. igi-ni [...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 3.1	proverb
 
@@ -3313,6 +3298,3 @@ $ (unplaced; = Alster 1997 p. 78 N 3159 rev.)
 #lg 3.d1	proverb
 
 @(D.3.d1.1 = 1-4)   @gap{4 lines fragmentary} 
-
-
-

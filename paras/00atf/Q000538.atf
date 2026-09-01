@@ -1,6 +1,6 @@
 &Q000538 = An excerpt from a royal praise poem (?)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.99.d
@@ -28,25 +28,8 @@
 #lem: Enlil[1]DN; dug[speak]; lugal[king]; šu[hand]; X; X; X
 #etcsl: line-id=5
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 $ (genre classification uncertain)
 
 @(1 = 1-5) @wSN{Nibru}, the city where the divine powers are presented (?) to the gods ……. @wDN{Nunamnir}, the Great Mountain, the lord who embraces heaven and earth ……. My king, the shepherd of the black-headed people already in the womb ……. Adviser, who …… the divine powers of a supreme deity and the shepherd's crook ……. @wDN{Enlil}, your orders …… by the king.
-
-
-

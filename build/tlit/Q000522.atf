@@ -1,6 +1,6 @@
 &Q000522 = A prayer for Ḫammu-ràbi (Ḫammu-ràbi E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.5

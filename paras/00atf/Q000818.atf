@@ -1,6 +1,6 @@
 &Q000818 = Proverbs: collection 26
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.26
@@ -541,23 +541,7 @@ D.26.d15.22. [...] X [...]
 $ (approx. 23 lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (approx. 25 lines missing)
 #lg 26.a1	proverb
@@ -750,6 +734,3 @@ $ (approx. 25 lines missing)
 #lg 26.d15	proverb
 
 @(D.26.d15.20 = 20-22)  @note{cf. @xref[t.6.1.02,t.6.1.02.149]{6.1.02.149}, @xref[t.6.1.11,t.6.1.11.69]{6.1.11.69}} Those who live near the water look into the mountains. They don't look in their own direction.  @gap{1 line fragmentary}   @gap{approx. 23 lines missing} 
-
-
-

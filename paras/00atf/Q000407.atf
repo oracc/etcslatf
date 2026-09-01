@@ -1,6 +1,6 @@
 &Q000407 = A praise poem of Šulgi (Šulgi O)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.15
@@ -730,22 +730,7 @@ E.3. [...] X X X-bi BAD ki X [...]
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-12) City worthy of the divine powers, according to its name: shrine @wSN{Urim}, raging storm of @wGN{Sumer}, battleground -- and well established! Origin of human seed, consolidating the foundations of the Land, abundance -- and well established! Lofty dais of @wDN{An}, pure place, holy place, provider of first-fruit offerings for @wDN{An} to refresh himself, dripping with syrup and wine -- and well established! @wTN{Du-ur}, celebrated place of @wDN{Enlil}, in whose interior are the assigned divine powers, place whose destiny was decreed by Father @wDN{Enlil}, great dais -- and well established! @wSN{Eridug}, shrine expert in decreeing the fates, with princely divine powers, pure divine powers -- and well established! @wTN{E-kiš-nu-ŋal}, cattle-pen of @wDN{Suen}, where fecund cows, breed-bulls and holy calves gambol together, producing fine cream -- and well established! @fsux{Abzu}, holy residence of youthful @wDN{Suen}, tall crook lifting its head towards heaven, a marvel -- and well established!
 
@@ -796,6 +781,3 @@ $ (The sequence of Segments B, C, D and E is uncertain; Segments C and D are adj
 $ (The sequence of Segments B, C, D and E is uncertain)
 
 @(E.1 = 1-3) …… the rebel lands like a horned viper ……, @wRN{Šulgi}, son of @wDN{Ninsumun} …… @wDN{Enki} ……  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

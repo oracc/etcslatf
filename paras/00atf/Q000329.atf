@@ -1,6 +1,6 @@
 &Q000329 = OB catalogue at Andrews University (B4)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.11
@@ -169,9 +169,3 @@
 35. [...] X X X X IN AN X BI
 #lem: X; X; X; X; X; X; X; X; X
 #etcsl: line-id=35
-
-
-
-
-
-

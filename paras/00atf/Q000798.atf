@@ -1,6 +1,6 @@
 &Q000798 = Proverbs: collection 4
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.04
@@ -466,22 +466,7 @@ B.4.63.38. ama sikil#-sikil#-la ma₂-addir#-ra a nu-tuku-me-en
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 4.1	proverb
 
@@ -655,6 +640,3 @@ B.4.63.38. ama sikil#-sikil#-la ma₂-addir#-ra a nu-tuku-me-en
 #lg 4.63	proverb
 
 @(B.4.63.38 = 38)  O …… mother, I have no water in the ferry-boat.
-
-
-

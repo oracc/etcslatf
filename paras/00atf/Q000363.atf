@@ -1,6 +1,6 @@
 &Q000363 = The death of Gilgameš
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.1.3
@@ -2124,21 +2124,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 A version from Nibru
 
@@ -2298,4 +2284,3 @@ $ (The sequence of Segments B, C, D, and E is uncertain)
 @(3.K.1 = 1-2) …… to the city ……. …… smeared with dust …….
 
 @(3.K.3 = 3-12) …… Lord @wRN{Gilgameš} despaired and felt depressed. For all the people, whoever they may be, funerary statues are made for future days, and set aside in the temples of the gods. Their names, once uttered, do not sink into oblivion. @wDN{Aruru}, the older sister of @wDN{Enlil}, provides them with offspring for that purpose (?). Their statues are made for future days and they are mentioned in the Land. @wDN{Ereškigala}, mother of @wDN{Ninazu}, it is sweet to praise you!
-

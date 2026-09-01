@@ -1,6 +1,6 @@
 &Q000366 = Gilgameš and Ḫuwawa (Version B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.1.5.1
@@ -573,20 +573,7 @@ $ 4 lines missing
 
 $ (approx. 6 lines missing)
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) @q[Enkidu (?,Gilgamec]{“So come on now, you heroic bearer of a sceptre of wide-ranging power! Noble glory of the gods, angry bull standing ready for a fight! Young Lord @wRN{Gilgameš}, cherished in @wSN{Unug}!”}
 
@@ -637,6 +624,3 @@ $ (approx. 6 lines missing)
 @(163 = 163-166) @wPN{Ḫuwawa} replied to him: @q[Huwawa,Enkidu]{“The mother who bore me was a cave in the mountains. The father who engendered me was a cave in the hills. @wDN{Utu} left me to live all alone in the mountains!”}
 
 @(167 = 167-168) @wRN{Gilgameš} addressed @wPN{Ḫuwawa}: @q[Gilgamec,Huwawa]{“Come on, …….”}  @gap{unknown no. of lines missing} 
-
-
-

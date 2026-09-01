@@ -1,6 +1,6 @@
 &Q000337 = Enlil and Sud
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.2.2
@@ -824,21 +824,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -899,4 +885,3 @@ $ (1 later ms. from Susa preserves a slightly variant version of lines 142ff.)
 @(2.B.15 = 15-29) (@wDN{Enlil} speaks:) @q[Enlil,Sud]{“From now on, a woman shall be the ……; a woman shall be the mistress of the house. May my favourite wife, who was born by holy @wDN{Nisaba}, be @wDN{Ezina}, the grain, the life of the Land. When she appears in the furrows like a beautiful young girl, may …… be her provider, watering her with water from the ground, as she grows prime grain and prime flax ……  @gap{1 line unclear}  …… the harvest crop …… the great festival of @wDN{Enlil} ……. ……, the measuring rod, the marking of the boundaries, and the preparation of canals and levees are fittingly in your hands. The farmer entrusted cultivation into your hands. Proud woman, surpassing the mountains! You who always fulfil your desires -- from now on, @wDN{Sud}, @wDN{Enlil} is the king and @wDN{Ninlil} is the queen. The goddess without name has a famous name now, ……  @gap{1 line unclear}  May it be you who determine that destiny …… attends to it …….”}
 
 @(2.B.30 = 30-31) As the presents are given in the shrine @wSN{Nibru}, a holy song of praise is sung. @wDN{Enlil}, the lord of the countries, …….
-

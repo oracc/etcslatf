@@ -1,6 +1,6 @@
 &Q000498 = An adab to Enlil for Būr-Suen (Būr-Suen B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.7.2
@@ -114,7 +114,7 @@ B.B.9. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -130,7 +130,7 @@ B.C.11. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 

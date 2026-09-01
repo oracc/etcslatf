@@ -1,6 +1,6 @@
 &Q000418 = A love song of Šulgi (Šulgi Z)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.26
@@ -231,22 +231,7 @@ B.30. an-na šu-ŋa₂ LA X za-ra ga-mu-[X-X]-da-zu-[...] X
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-9) @q[Inana,Culgi]{“The …… because of you does not ……. My brother, the …… because of you does not ……. Lad (?), the …… because of you does not ……. My beloved, the …… because of you does not ……. My fairest of countenance, the …… because of you does not ……. Its date clusters because of you are not placed in my hand. Its sheaves are …… for me. Its …… are not sweet for me. Grain …… the silos (?).”}
 
@@ -267,5 +252,3 @@ B.30. an-na šu-ŋa₂ LA X za-ra ga-mu-[X-X]-da-zu-[...] X
 #etcsl#linkGrpo
 #etcsl#link type=q t24226.q3 t24226.q4
 #etcsl#linkGrpc
-
-

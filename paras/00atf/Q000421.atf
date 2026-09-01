@@ -1,6 +1,6 @@
 &Q000421 = Amar-Suena and Enki's temple (Amar-Suena A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.3.1
@@ -244,22 +244,7 @@ E.2. {d}amar-{d}suen# lugal# <nam>-tar-ra#-ni šag₄-bi X nu-mu-un-ba-ba
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 $ (The sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) is far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
 
@@ -290,6 +275,3 @@ $ (= UET 6/3 487 obverse; this fragment might belong to the same tablet as UET 8
 $ (= UET 6/3 487 reverse)
 
 @(E.1 = 1-2) He who ……. King @wRN{Amar-@wDN{Suena}} has not been assigned a fate from (?) it.
-
-
-

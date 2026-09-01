@@ -1,6 +1,6 @@
 &Q000465 = A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.15
@@ -185,7 +185,7 @@ $ (up to 8 lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown D
 
@@ -627,7 +627,7 @@ $ (up to 3 lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -724,21 +724,7 @@ $ (up to 6 lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -835,4 +821,3 @@ $ (Segments C and D might well belong to a separate composition)
 
 
 @(2.D.66 = 66-69) …… obliterates the foreign countries …….  @gap{3 lines fragmentary}   @gap{up to 6 lines missing} 
-

@@ -1,6 +1,6 @@
 &Q000481 = A praise poem of Lipit-Eštar (Lipit-Eštar A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.1

@@ -1,6 +1,6 @@
 &Q000700 = A balbale to Ninŋišzida (Ninŋišzida B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.19.2
@@ -126,21 +126,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-7) Lord with holy dignity, imbued with great savage awesomeness! My king, Lord @wDN{Ninŋišzida}, imbued with great savage awesomeness! Hero, falcon preying on the gods, my king -- dignified, with sparkling eyes, fully equipped with arrows and quiver, impetuous leopard, murderous, howling @fsux{mušḫuš},  @varh[t4192.v1]{…… } @vart[t4192.v2,t4192.v1]{@varn{1 ms. has instead:} …… }, dragon snarling (?) in the lagoon, raging storm  @varh[t4192.v3]{reaching } @vart[t4192.v4,t4192.v3]{@varn{1 ms. has instead:} covering } all people! Lofty-headed prince, resting in the midst of the mountains, …… smashing heads!
 
@@ -164,6 +150,3 @@
 
 
 @(25 = 25) A @fsux{balbale} of @wDN{Ninŋišzida}.
-
-
-

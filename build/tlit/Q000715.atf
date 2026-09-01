@@ -1,6 +1,6 @@
 &Q000715 = An adab to Ninlil (Ninlil A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.24.1
@@ -72,7 +72,7 @@ B.13. [ŋiš]-gi₄#-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -113,7 +113,7 @@ C.27. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -129,7 +129,7 @@ D.29. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru E
 

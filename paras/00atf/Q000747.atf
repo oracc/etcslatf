@@ -1,6 +1,6 @@
 &Q000747 = A šir-namšub to Utu (Utu F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.32.f
@@ -210,21 +210,7 @@ x.
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-23)  @gap{17 lines fragmentary}  Youthful @wDN{Utu} ……, calf of the wild cow, calf of the wild cow, calf of the righteous son, @wDN{Utu}, royal brother of @wDN{Inana}! He who brings thirst to streets and paths (?), @wDN{Utu}, he of the tavern, provided beer, youthful @wDN{Utu}, he of the tavern, provided beer.
 
@@ -247,6 +233,3 @@ x.
 #trailer subscript	cir-namcub
 
 @(x = x) @notetrailer{This composition is inscribed on a tablet whose colophon specifies it as a @fsux{šir-namšub} of Utu}
-
-
-

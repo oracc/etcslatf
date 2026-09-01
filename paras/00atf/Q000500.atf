@@ -1,6 +1,6 @@
 &Q000500 = An adab to Nanna for Gungunum (Gungunum A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.2.1
@@ -73,7 +73,7 @@ A.B.13. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div unknown C
 
@@ -150,7 +150,7 @@ B.D.10. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div uru E
 
@@ -188,22 +188,7 @@ B.E.15. a-da-ab {d}nanna-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -255,6 +240,3 @@ B.E.15. a-da-ab {d}nanna-kam
 
 
 @(B.E.15 = 15) An @fsux{adab} of @wDN{Nanna}. @notep{lines 14 and 15 are written as one line in source}
-
-
-

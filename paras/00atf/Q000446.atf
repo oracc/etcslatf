@@ -1,6 +1,6 @@
 &Q000446 = An adab for Šu-ilīšu (Šu-ilīšu C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.2.3
@@ -37,21 +37,7 @@ A.4. a-da-ab {d}[...]
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	uru
 
@@ -69,6 +55,3 @@ $ (unknown no. of lines missing)
 
 
 @(A.4 = 4) An @fsux{adab} of ……. @notep{lines 3 and 4 are written as one line in source}
-
-
-

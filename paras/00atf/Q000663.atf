@@ -1,6 +1,6 @@
 &Q000663 = Dumuzid and Enkimdu
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.33
@@ -370,20 +370,7 @@ $ (approx. 7 lines missing)
 
 @end trailer
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) @q[Dumuzid,Inana]{“Maiden, the cattle-pen ……; maiden @wDN{Inana}, the sheepfold ……. …… bending in the furrows. @wDN{Inana}, let me stroll with you; …… the emmer ……. Young lady, let me …….”}
 
@@ -421,6 +408,3 @@ $ (approx. 7 lines missing)
 
 
 @(90 = 90) A @fsux{balbale}.
-
-
-

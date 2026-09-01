@@ -1,6 +1,6 @@
 &Q000779 = The song of the ploughing oxen: an ululumama to Ninurta
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.5
@@ -383,21 +383,7 @@ $ (12 lines missing or fragmentary)
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) @fsux{ellu mallu}! Go, oxen, go, put your necks under the yoke! Go, …… oxen, go, put your necks under the yoke! I am …… of the country. I am …… of @wDN{Enlil}. I am …… of the Land.
 
@@ -421,6 +407,3 @@ $ (12 lines missing or fragmentary)
 
 
 @(149 = 149) An @fsux{ululumama} song of @wDN{Ninurta}.
-
-
-

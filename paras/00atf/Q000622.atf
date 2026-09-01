@@ -1,6 +1,6 @@
 &Q000622 = A balbale to Inana (Inana A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.07.1
@@ -135,21 +135,7 @@ B. {d}inana me₃-a ni₂ me-lem₄ gur₃-ru
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-11) Great fierce storm, …… radiance! @wDN{Inana}, emitting fearsomeness and radiance in battle!  @vart[t4071.v1,t4071.v1]{@varn{1 ms. adds:} @wDN{Inana}, playing (?) in battle! @wDN{Inana}, emitting fearsomeness and radiance in battle! } Where @wDN{Enlil} has commanded it, you make a lion's body and lion's muscles rise up. …… in the south and in the uplands …… like grass. Like @wDN{Iškur} ……. Like their proud mighty heroes,  @varh[t4071.v2]{you …… } @vart[t4071.v3,t4071.v2]{@varn{1 ms. has instead:} may they …… for you } their noses (?) to the ground. May the  @varh[t4071.v4]{great } @vart[t4071.v5,t4071.v4]{@varn{1 ms. has instead:} proud } warrior of kings and queens restore for you the shrine @wSN{Keš}. May he make them …… their noses (?) to the ground for you.
 
@@ -167,6 +153,3 @@ B. {d}inana me₃-a ni₂ me-lem₄ gur₃-ru
 #trailer subscript	balbale
 
 @(24 = 24) A @fsux{balbale} of @wDN{Inana}.
-
-
-

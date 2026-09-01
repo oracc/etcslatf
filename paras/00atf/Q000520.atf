@@ -1,6 +1,6 @@
 &Q000520 = A praise poem of Ḫammu-ràbi (Ḫammu-ràbi C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.3
@@ -62,25 +62,8 @@
 #lem: šul[youth]; Suen[1]DN; niŋ[thing]; al[cvne]; di[speak]; X; X; še[barley]; šeg[agree]
 #etcsl: line-id=14
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-7) @wDN{Enki} has esteemed him truly in the shrine, the august place -- the king who loves purification rites and is well-suited to the pure divine powers, the king who is skilled in the precious plans, who is reverent, eloquent and deft (?), the shepherd, favourite of Lord @wDN{Nunamnir} and beloved of Mother @wDN{Ninlil}, who …… great food offerings in @wTN{E-kur}, who delights (?) the great prince @wDN{Enki}, ……, who is cherished by holy @wDN{Damgalnuna}: the good shepherd @wRN{Ḫammu-rābi}.
 
 @(8 = 8-14) The king has …… everything in the shrine @wTN{E-kiš-nu-ŋal}. @wRN{Ḫammu-rābi}, whose ……. Daily he …… @wDN{Nanna} and @wDN{Ningal}. The king whose joy is …… has restored the purification rites, plans and divine powers ……. He will stand there before you ……, O youth @wDN{Suen}, fulfilling …… all your requirements.
-
-
-

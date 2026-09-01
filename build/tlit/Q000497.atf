@@ -1,6 +1,6 @@
 &Q000497 = An adab to Ninurta for Būr-Suen (Būr-Suen A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.7.1
@@ -101,7 +101,7 @@ B.27. [ŋiš]-gi₅-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -174,7 +174,7 @@ C.47. [sa-ŋar-ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -190,7 +190,7 @@ D.49. [ŋiš]-gi₅-ŋal₂-[bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru E
 

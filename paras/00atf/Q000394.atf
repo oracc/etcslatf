@@ -1,6 +1,6 @@
 &Q000394 = A praise poem of Ur-Namma (Ur-Namma I)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.a
@@ -97,23 +97,7 @@ C.1. ama# tud-da#-zu {d}nin-sumun₂ e₂-kiš-nu-ŋal₂-la gaba-na he₂-em-ta
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-6) He is the …… of his god; all the foreign countries are full (?) of his fame. He carries out his plans, and @wGN{Sumer} is …… by his greatness. @wDN{Utu} marches before the king.  @gap{1 line unclear}   @gap{unknown no. of lines missing} 
@@ -127,6 +111,3 @@ $ (unknown no. of lines missing)
 
 
 @(C.1 = 1) May @wDN{Ninsumun}, the mother who gave you birth, hold you against her chest in the @wTN{E-kiš-nu-ŋal}.
-
-
-

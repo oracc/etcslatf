@@ -1,6 +1,6 @@
 &Q000819 = Proverbs: collection 27
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.27
@@ -287,23 +287,7 @@ C.27.c2.4. [...] X
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 #lg 27.a1	proverb
@@ -407,5 +391,3 @@ $ (unknown no. of lines missing)
 #lg 27.c2	proverb
 
 @(C.27.c2.3 = 3-4)  @note{= Alster 1997 p. 284 C i' 7'}  @gap{2 lines fragmentary} 
-
-

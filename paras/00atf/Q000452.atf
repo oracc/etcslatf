@@ -1,6 +1,6 @@
 &Q000452 = An adab to Bau for Išme-Dagan (Išme-Dagan B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.02
@@ -152,7 +152,7 @@ B.33. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -275,7 +275,7 @@ C.61. sa-ŋar-[ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div uru D
 
@@ -311,21 +311,7 @@ D.66. [a-da]-ab {d}ba-u₂-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -382,6 +368,3 @@ D.66. [a-da]-ab {d}ba-u₂-kam
 
 
 @(D.66 = 66) An @fsux{adab} of @wDN{Bau}. @notep{lines 65 and 66 are written as one line in source}
-
-
-

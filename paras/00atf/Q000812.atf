@@ -1,6 +1,6 @@
 &Q000812 = Proverbs: collection 19
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.19
@@ -670,23 +670,7 @@ H.19.h1.6. [...]-bi
 $ (some small unplaced fragments have not been included; see Alster 1997 pp. 249-250)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 #lg 19.a1	proverb
@@ -887,6 +871,3 @@ $ (unknown no. of lines missing)
 #lg 19.h1	proverb
 
 @(H.19.h1.1 = 1-6)   @gap{6 lines fragmentary} 
-
-
-

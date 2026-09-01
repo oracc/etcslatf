@@ -1,6 +1,6 @@
 &Q000810 = Proverbs: collection 17
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.17
@@ -243,23 +243,7 @@ C.17.c2.4. [...] geme₂
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 #lg 17.a1	proverb
@@ -319,6 +303,3 @@ $ (unknown no. of lines missing)
 #lg 17.c2	proverb
 
 @(C.17.c2.4 = 4)  …… slave girl …….
-
-
-

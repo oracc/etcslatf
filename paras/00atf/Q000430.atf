@@ -1,6 +1,6 @@
 &Q000430 = A praise poem of Šu-Suen (Šu-Suen I)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.9
@@ -14,22 +14,6 @@
 
 $ (unknown no. of lines missing)
 
-
-
-
-
-
-
 @translation labeled en project
 
-
-
-
-
-
-
-
 @(1 = 1) King @wRN{Šu-@wDN{Suen}}, forceful lord,  @gap{unknown no. of lines missing} 
-
-
-

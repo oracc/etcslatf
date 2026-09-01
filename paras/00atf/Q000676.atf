@@ -1,6 +1,6 @@
 &Q000676 = A hymn to Nanna (Nanna G)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.07
@@ -191,23 +191,7 @@ C.12. [...] X
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-4) @wDN{Nanna}, ……, lord, son of @wDN{Enlil}, ……, @wDN{Nanna}, lord, ……, lord, son of @wDN{Enlil}, ……!
@@ -231,6 +215,3 @@ $ (unknown no. of lines missing)
 
 
 @(C.1 = 1-12)  @gap{12 lines missing or fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

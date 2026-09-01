@@ -1,6 +1,6 @@
 &Q000371 = The Sumerian king list
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.1.1
@@ -2295,21 +2295,7 @@ $ 16 lines missing
 #lem: n
 #etcsl: line-id=431
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 $ (in the following translation, mss. are referred to by the sigla used by Vincente 1995; from those listed there, mss. Fi, Go, P6, and WB 62 were not used; if not specified by a note, numerical data come from ms. WB)
 
@@ -2538,6 +2524,3 @@ $ (mss. P2+L2, L1+N1 and P4+Ha conclude with a summary of the post-diluvian dyna
 #etcsl#alt t211.v266 t211.v267
 #etcsl#alt t211.v268 t211.v269
 #etcsl#altGrpc
-
-
-

@@ -1,6 +1,6 @@
 &Q000436 = A hymn to Suen for Ibbi-Suen (Ibbi-Suen E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.5.5

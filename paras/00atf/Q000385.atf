@@ -1,6 +1,6 @@
 &Q000385 = A tigi to Bau for Gudea (Gudea A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.3.2
@@ -204,7 +204,7 @@ B.46. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -214,21 +214,7 @@ B.47. tigi {d}ba-u₂-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -260,6 +246,3 @@ B.47. tigi {d}ba-u₂-kam
 #trailer subscript	tigi
 
 @(B.47 = 47) A @fsux{tigi} of @wDN{Bau}.
-
-
-

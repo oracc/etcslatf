@@ -1,6 +1,6 @@
 &Q000463 = An adab to Nanna for Išme-Dagan (Išme-Dagan M)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.13
@@ -156,7 +156,7 @@
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -287,7 +287,7 @@ $ (unknown no. of lines missing)
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal E
 
@@ -303,7 +303,7 @@ $ (unknown no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru F
 
@@ -476,7 +476,7 @@ $ 9 lines missing
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -496,7 +496,7 @@ $ 9 lines missing
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 

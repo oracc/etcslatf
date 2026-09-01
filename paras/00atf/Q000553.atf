@@ -1,6 +1,6 @@
 &Q000553 = Letter from Šulgi (?) to Aradŋu about troops
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.13.1
@@ -38,25 +38,8 @@
 #lem: erin[people]; X; X; X
 #etcsl: line-id=8
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) To @wPN{Aradŋu} ……: …… @wRN{Šulgi} (?) ……:
 
 @(3 = 3-8)  @gap{2 lines fragmentary}  As regards your concern ……. May ……. For their troops …… not …….  @gap{1 line fragmentary}  Their troops …….
-
-
-

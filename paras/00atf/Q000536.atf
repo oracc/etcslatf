@@ -1,6 +1,6 @@
 &Q000536 = A fragment of a royal praise poem
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.99.b
@@ -75,21 +75,7 @@ B.9. [...] X X [...] X ib₂#-ŋal₂
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 $ (genre classification uncertain)
 
@@ -100,6 +86,3 @@ $ (unknown no. of lines missing)
 
 
 @(B.1 = 1-9)   @gap{2 lines fragmentary}  …… who was given a long-lasting kingship by (?) @wDN{Enlil}. …… who takes counsel ……. For the …… of the youth @wDN{Suen} …… soothes the heart. He gave …… to him.  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="etcslatf/para">
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="etcslatf/paras">
   <name>ETCSL on Oracc</name>
   <abbrev>ETCSL</abbrev>
   <project-type>user</project-type>
@@ -16,7 +16,7 @@ Tinney in 2006; they have been lightly updated over time to keep the
 lemmatization aligned with the development of ePSD2. The conversion of
 translations and organization into an Oracc project was done by Steve
 Tinney in April 2026.</blurb>
- <inherit project="etcslatf"/>
+ <inherit project="etcslatf/inter"/>
  <public>yes</public>
  <option name="catalog-master-q" value="etcslatf"/>
 </project>

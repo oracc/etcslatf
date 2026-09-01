@@ -1,6 +1,6 @@
 &Q000509 = A hymn to Ḫaia for Rīm-Sîn (Rīm-Sîn B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.2
@@ -260,23 +260,9 @@ B.60. ŋiš-gi-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
-
-
-
-
-
-
-
+@end ŋišgiŋal
 
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	uru
 
@@ -309,6 +295,3 @@ B.60. ŋiš-gi-ŋal₂-bi-im
 
 
 @(B.60 = 60) Its @fsux{ŋišgiŋal}.
-
-
-

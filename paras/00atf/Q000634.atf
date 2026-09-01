@@ -1,6 +1,6 @@
 &Q000634 = A balbale to Inana (Dumuzid-Inana C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.03
@@ -234,23 +234,9 @@ B.52. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
-
-
-
-
-
-
-
+@end ŋišgiŋal
 
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -296,6 +282,3 @@ B.52. ŋiš-gi₄-ŋal₂-bi-im
 
 
 @(B.52 = 52) Its @fsux{ŋišgiŋal}.
-
-
-

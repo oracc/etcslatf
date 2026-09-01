@@ -1,6 +1,6 @@
 &Q000389 = Ur-Namma the canal-digger (Ur-Namma D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.4
@@ -411,21 +411,7 @@ $ 1 line missing
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 A version from Nibru
 
@@ -466,4 +452,3 @@ $ 1 line missing
 @(3.37 = 37-39) King of the four quarters, favourite of @wDN{Enlil}, shepherd @wRN{Ur-@wDN{Namma}}, the provider of @wGN{Sumer} and @wGN{Akkad}, beloved of @wDN{Enlil}, it is you (?) who makes …… of @wSN{Urim} pass the time joyously …….
 
 @(3.40 = 40) @wRN{Ur-@wDN{Namma}}, king of eternal fame, sweet is your praise!
-

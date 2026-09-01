@@ -1,6 +1,6 @@
 &Q000719 = A tigi to Nintur (Nintur A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.26.1
@@ -196,7 +196,7 @@ B.44. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -206,21 +206,7 @@ B.45. tigi {[d]}nin-tur₅-ra-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -250,6 +236,3 @@ B.45. tigi {[d]}nin-tur₅-ra-kam
 
 
 @(B.45 = 45) A @fsux{tigi} of @wDN{Nintur}.
-
-
-

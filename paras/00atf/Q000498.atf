@@ -1,6 +1,6 @@
 &Q000498 = An adab to Enlil for Būr-Suen (Būr-Suen B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.7.2
@@ -114,7 +114,7 @@ B.B.9. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -130,7 +130,7 @@ B.C.11. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 
@@ -168,22 +168,7 @@ B.D.16. [a]-da#-ab {d}en-lil₂-la₂-kam#
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -228,6 +213,3 @@ B.D.16. [a]-da#-ab {d}en-lil₂-la₂-kam#
 
 
 @(B.D.16 = 16) An @fsux{adab} of @wDN{Enlil}. @notep{lines 15 and 16 are written as one line in source}
-
-
-

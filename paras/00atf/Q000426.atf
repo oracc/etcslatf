@@ -1,6 +1,6 @@
 &Q000426 = An adab to An for Šu-Suen (Šu-Suen E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.5
@@ -23,7 +23,7 @@ A.A.2. šag₄#-[ba-tuku ...]
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud B
 
@@ -112,7 +112,7 @@ B.E.5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru F
 
@@ -150,22 +150,7 @@ B.F.10. a-da-ab an#-[na-kam]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	cagbatuku
 
@@ -229,6 +214,3 @@ $ (unknown no. of lines missing)
 
 
 @(B.F.10 = 10) An @fsux{adab} of @wDN{An}. @notep{lines 9 and 10 are written as one line in source}
-
-
-

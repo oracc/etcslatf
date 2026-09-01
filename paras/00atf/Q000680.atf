@@ -1,6 +1,6 @@
 &Q000680 = A šir-namšub to Suen (Nanna K)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.11
@@ -227,22 +227,7 @@ B.B.28. šir₃-nam-šub {d}suen-na-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -275,6 +260,3 @@ B.B.28. šir₃-nam-šub {d}suen-na-kam
 
 
 @(B.B.28 = 28) A @fsux{šir-namšub} of @wDN{Suen}.
-
-
-

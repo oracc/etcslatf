@@ -1,6 +1,6 @@
 &Q000387 = A tigi to Enlil for Ur-Namma (Ur-Namma B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.2
@@ -314,7 +314,7 @@ B.72. [sa]-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 

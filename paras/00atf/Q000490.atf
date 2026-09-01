@@ -1,6 +1,6 @@
 &Q000490 = A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.6.1
@@ -144,7 +144,7 @@ C.29. ŋiš-gi-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu D
 
@@ -216,7 +216,7 @@ E.43. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu F
 
@@ -444,7 +444,7 @@ J.90. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown K
 
@@ -478,21 +478,7 @@ K.95. [...] {d}inana-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -608,6 +594,3 @@ K.95. [...] {d}inana-kam
 
 
 @(K.95 = 95) A …… of @wDN{Inana}.
-
-
-

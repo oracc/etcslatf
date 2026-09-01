@@ -1,6 +1,6 @@
 &Q000716 = A šir-gida (?) to Ninšubur (Ninšubur A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.25.1
@@ -95,22 +95,7 @@ B.9. šir₃#-gid₂#-da# {d#}nin#-[šubur]-ra#-kam#
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-5) Lady, good seed of the Land, minister of @wDN{An}! Minister of @wDN{An}, Mother @wDN{Ninšubur}! From the interior of heaven, @wDN{An} bestowed upon you (?), and @wDN{Enlil} destined as your (?) fate, that you should take a lapis-lazuli sceptre in your hand and proceed in front of @wDN{An}.
 
@@ -123,6 +108,3 @@ B.9. šir₃#-gid₂#-da# {d#}nin#-[šubur]-ra#-kam#
 
 
 @(B.9 = 9) A @fsux{šir-gida} (?) of @wDN{Ninšubur}.
-
-
-

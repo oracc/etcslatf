@@ -1,6 +1,6 @@
 &Q000349 = Nanna-Suen's journey to Nibru
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.5.1
@@ -1359,21 +1359,7 @@ $ 6 lines missing
 #lem: en[lord]; Dilimbabbar[1]DN; ud[sun]; n; utud[give birth (to)]
 #etcsl: line-id=352
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) The heroic @wDN{Nanna-Suen} fixed his mind on the city of his mother. @wDN{Suen} @wDN{Ašimbabbar} fixed his mind on the city of his mother. @wDN{Nanna-Suen} fixed his mind on the city of his mother and his father. @wDN{Ašimbabbar} fixed his mind on the city of @wDN{Enlil} and @wDN{Ninlil}:
 
@@ -1458,6 +1444,3 @@ $ 6 lines missing
 @(340 = 340-348) He gave to him, @wDN{Enlil} gave to him -- and he set off for @wSN{Urim}. In the river he gave him the carp-flood -- and he set off for @wSN{Urim}. In the field he gave him speckled barley -- and he set off for @wSN{Urim}. In the pond he gave him @fsux{kuda} carp and @fsux{suḫur} carp -- and he set off for @wSN{Urim}. In the reedbeds he gave him old reed and fresh reed -- and he set off for @wSN{Urim}. In the forests he gave him the ibex and wild ram -- and he set off for @wSN{Urim}. In the high plain he gave him the @fsux{mašgurum} tree -- and he set off for @wSN{Urim}. In the orchards he gave him syrup and wine -- and he set off for @wSN{Urim}. In the palace he gave him long life -- and he set off for @wSN{Urim}.
 
 @(349 = 349-352) My king, on your throne, for @wDN{Enlil}, may @wDN{Nanna-Suen} make you be born for seven days. On your holy throne, for the great mother @wDN{Ninlil}, may Lord @wDN{Ašimbabbar} make you be born for seven days.
-
-
-

@@ -1,6 +1,6 @@
 &Q000701 = A hymn to Ninŋišzida (Ninŋišzida C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.19.3
@@ -236,21 +236,7 @@ F.45. [...] X barag X [...]
 $ (unknown no. of lines missing)
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -308,6 +294,3 @@ $ (at least 15 lines missing)
 
 
 @(F.41 = 41-45)  @gap{1 line fragmentary}  …… in your elevated (?) house, …… life. @wDN{Ninŋišzida}, in your elevated (?) house, …… life. …… from the great place ……. …… throne-dais ……  @gap{unknown no. of lines missing} 
-
-
-

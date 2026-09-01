@@ -1,6 +1,6 @@
 &Q000821 = Proverbs: from Nibru
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.2.1
@@ -1566,21 +1566,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Ni 4166 (Alster 1997 pp. 293-294)
 
@@ -2088,5 +2074,3 @@ $ (unknown no. of lines missing)
 @h1 3N-T 772 = TIM 10/1 132 (Alster 1997 p. 305)
 
 @(44.1 = 1) Your ox with its large horns will always return to you.
-
-

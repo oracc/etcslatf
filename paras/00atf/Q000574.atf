@@ -1,6 +1,6 @@
 &Q000574 = Letter from Lugal-nesaŋe to a king radiant as the moon
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.02
@@ -186,23 +186,7 @@ $ (4 lines fragmentary)
 $ (unknown no. of lines missing)
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 @h1 Version A (from Nibru)
 
@@ -236,7 +220,3 @@ $ (4 lines fragmentary)
 
 $ (1 line fragmentary)
 $ (unknown no. of lines missing)
-
-
-
-

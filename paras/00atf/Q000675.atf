@@ -1,6 +1,6 @@
 &Q000675 = The herds of Nanna (Nanna F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.06
@@ -201,21 +201,7 @@
 #lem: aya[father]; Nanna[1]DN; zamin[praise]
 #etcsl: line-id=45
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) The lord has burnished (?) the heavens; he has embellished  @varh[t41306.v1]{the night } @vart[t41306.v2,t41306.v1]{@varn{1 ms. has instead:} the earth }. @wDN{Nanna} has burnished the heavens; he has embellished  @varh[t41306.v3]{the night } @vart[t41306.v4,t41306.v3]{@varn{1 ms. has instead:} the earth }. When he comes forth from the turbulent mountains, he stands as @wDN{Utu} stands at noon. When @wDN{Ašimbabbar} comes forth from the turbulent mountains, he stands as @wDN{Utu} stands at noon.
 
@@ -246,6 +232,3 @@
 @(37 = 37-41) He is ever able to increase the butter of abundance in the holy animal pens of …… and goats. He is able to provide abundantly the great liquor of the mountains, and syrup, and alcoholic drink for the king on his lofty pure platform.
 
 @(42 = 42-45) Mighty one, trusted one of @wDN{Enlil}, youth, god of living creatures, leader of the Land, and @wDN{Ningal}, lady of the @fsux{ŋipar} shrines -- O Father @wDN{Nanna}, be praised!
-
-
-

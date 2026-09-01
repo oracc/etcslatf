@@ -1,6 +1,6 @@
 &Q000822 = Proverbs: from Susa
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.2.2
@@ -348,21 +348,7 @@
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 MDP 27 206
 
@@ -541,4 +527,3 @@
 @h1 MDP 27 213
 
 @(29.1 = 1) The beloved true commander distributes the leadership (?).
-

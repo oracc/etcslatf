@@ -1,6 +1,6 @@
 &Q000578 = Letter from Aba-taḫ-lugalŋa to his brothers
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.06
@@ -62,25 +62,8 @@
 #lem: amaru[flood]
 #etcsl: line-id=12
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to my brothers what @wPN{Aba-taḫ-lugalŋa} says:
 
 @(3 = 3-12) We are to go on journeys that are long and now the just king, our king, draws near (?). Journey is to be added to journey after journey. I shall not be able to look after our mother. Take great care that the sun does not set over our neighbourhood before you have …… one litre of salt, one litre of mustard (?) @vart[t3306.v1,t3306.v1]{@varn{1 ms. adds on the lower edge:}, …… from the hand, }  and one …… garment for travellers. Our journeys will be long. It is urgent.
-
-
-

@@ -1,6 +1,6 @@
 &Q000749 = A hymn to Kusu (Kusu A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.33.2
@@ -170,21 +170,7 @@
 #lem: Eridug[1]SN; en[lord]; Kusug[1]DN; zamin[praise]
 #etcsl: line-id=41
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) O angry great butting bull! O torch! O great bull of @wDN{Enki}, standing aggressively, coming forth from the @fsux{abzu}, the pure place! O @wDN{Gibil} @noteref{the god of fire}, …… the palace and hall, as he radiates great awesomeness, his countenance ……! O @wDN{Nun-bar-ana}, angry avenger (?) ……, bringing forth the great torch from the @fsux{abzu}, lifting his head with the noble divine powers!
 
@@ -197,6 +183,3 @@
 @(34 = 34-39) This water consecrates the heavens, it purifies the earth. It purifies the cattle in their pen. It purifies the sheep in their fold. It purifies @wDN{Utu} at the horizon. It purifies @wDN{Nanna} at the zenith of heaven. Thus may it cleanse, may it cleanse the …… of the house.
 
 @(40 = 40-41) From @wSN{Eridug} (?) praise to lady @wDN{Kusu}, the princess of the holy @fsux{abzu}, …….
-
-
-

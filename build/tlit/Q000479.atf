@@ -1,6 +1,6 @@
 &Q000479 = A hymn to Inana for Išme-Dagan
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.a
@@ -128,7 +128,7 @@ B.C.9. ŋiš-gi₄#-[ŋal₂-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown D
 

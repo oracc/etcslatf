@@ -1,6 +1,6 @@
 &Q000324 = OB catalogue from Urim (U2)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.04
@@ -311,9 +311,3 @@
 56. šu-niŋin 67
 #lem: šuniŋin[total]; n
 #etcsl: line-id=56
-
-
-
-
-
-

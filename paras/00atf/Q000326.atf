@@ -1,6 +1,6 @@
 &Q000326 = OB catalogue from Nibru (N3)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.06
@@ -167,9 +167,3 @@
 #etcsl: line-id=33
 
 #etcsl#inc Šu-Suen D, 2.4.4.4 (?)
-
-
-
-
-
-

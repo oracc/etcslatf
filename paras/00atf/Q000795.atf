@@ -1,6 +1,6 @@
 &Q000795 = Proverbs: collection 1
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.01
@@ -2386,22 +2386,7 @@ G.1.g4.8. [...] MUNUS
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 1.1	proverb
 
@@ -3221,6 +3206,3 @@ $ (unplaced)
 #lg 1.g4	proverb
 
 @(G.1.g4.7 = 7-8)  @note{= Alster 1997 p. 6 N 5138 3-4} Let there be ……  @gap{1 line fragmentary} 
-
-
-

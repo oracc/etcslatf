@@ -1,6 +1,6 @@
 &Q000817 = Proverbs: collection 25
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.25
@@ -228,21 +228,7 @@
 
 @end proverb
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg 25.1	proverb
 
@@ -295,6 +281,3 @@
 #lg 25.13	proverb
 
 @(25.13.35 = 35-36)  @note{cf. @xref[t.6.1.03,t.6.1.03.170]{6.1.03.170}, @xref[t.6.1.26,t.6.1.26.a10]{6.1.26.a10}, @xref[t.6.2.5,]{6.2.5: BM 57994 Seg. A ll. 1-3}} When a man sailing downstream encounters a man whose boat is travelling upstream, an inspection is an abomination to @wDN{Suen}.
-
-
-

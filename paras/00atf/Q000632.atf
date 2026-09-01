@@ -1,6 +1,6 @@
 &Q000632 = A balbale to Inana (Dumuzid-Inana A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.01
@@ -256,21 +256,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-11) The brother speaks gently to his sister, @wDN{Utu} speaks gently to his sister, he speaks tenderly to holy @wDN{Inana}: @q[Utu,Inana]{“Young lady, the flax in the garden beds is full of loveliness, @wDN{Inana}, the flax in the garden beds is full of loveliness, like the barley in the furrows, overflowing with loveliness and delight.  @varh[t40801.v1]{Sister }@vart[t40801.v2,t40801.v1]{@varn{1 ms. has instead:} Young lady }, you took a fancy to a grand length of linen; @wDN{Inana}, you took a fancy to a grand length of linen. I will dig up the plants for you and give them to you.  @varh[t40801.v3]{Young lady }@vart[t40801.v4,t40801.v3]{@varn{1 ms. has instead:} My sister }, I will bring you flax from the garden beds. @wDN{Inana}, I will bring you flax from the garden beds.”}
 
@@ -328,6 +314,3 @@
 
 
 @(57 = 57) A @fsux{balbale} of @wDN{Inana}.
-
-
-

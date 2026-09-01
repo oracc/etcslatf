@@ -1,6 +1,6 @@
 &Q000756 = The advice of a supervisor to a younger scribe (E-dub-ba-a C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.1.3
@@ -325,20 +325,7 @@
 #lem: nin[lady]; me[Being]; me[Being]; sa[equal]; Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=74
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) (The supervisor speaks:) @q[supervisor,younger scribe]{“One-time member of the school, come here to me, and let me explain to you what my teacher revealed.”}
 
@@ -382,6 +369,3 @@
 #etcsl#altGrpc
 
 @(73 = 73-74) Praise @wDN{Nisaba} who has brought order to …… and fixed districts in their boundaries, the lady whose divine powers are divine powers that have no rival!
-
-
-

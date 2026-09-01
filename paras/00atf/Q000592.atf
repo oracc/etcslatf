@@ -1,6 +1,6 @@
 &Q000592 = Letter from Gudea to his personal deity
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.20
@@ -46,21 +46,7 @@
 #lem: diŋir[deity]; lu[person]; kur[alienate]; di[speak]; me[be]; šag[heart]; ki[place]; gi[turn]
 #etcsl: line-id=10
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Speak to my god: this is what @wPN{Gudea}, your servant, says:
 
@@ -71,6 +57,3 @@
 @(7 = 7-9) I am noble (?) but do not utter a word, being vigilantly (?) ……. Seven times …… has not …… my accomplishments. Seven times my god (?) has not been able to find out about their extent.
 
 @(10 = 10) My god, I am not one to be hostile. May you show sympathy towards me once again.
-
-
-

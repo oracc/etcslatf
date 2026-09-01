@@ -1,6 +1,6 @@
 &Q000471 = An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.21
@@ -65,7 +65,7 @@ A.13. [sa]-ŋar-[ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal B
 
@@ -81,7 +81,7 @@ B.15. [ŋiš-gi₄]-ŋal₂ sa-ŋar#-[ra-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru C
 
@@ -117,21 +117,7 @@ C.20. a-da-ab {[d]}[da-gan-kam]
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-jara
 
@@ -169,6 +155,3 @@ $ (unknown no. of lines missing)
 
 
 @(C.20 = 20) An @fsux{adab} of @wDN{Dagan} (?). @notep{lines 19 and 20 are written as one line in source}
-
-
-

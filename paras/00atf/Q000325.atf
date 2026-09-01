@@ -1,6 +1,6 @@
 &Q000325 = OB catalogue from Urim (U3)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.05
@@ -108,9 +108,3 @@ B.8. dub %akk šum-ma
 #etcsl: line-id=B.8
 
 @end segment
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 &Q000678 = A tigi to Suen (Nanna I)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.09
@@ -222,7 +222,7 @@ B.41. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -232,21 +232,7 @@ B.42. tigi {d}suen-na-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -266,6 +252,14 @@ B.42. tigi {d}suen-na-kam
 @(B.17 = 17-21) @q[,Suen]{“O @wDN{Nanna}, @wDN{Nanna}, where have you tended your cows, Lord @wDN{Ašimbabbar}?”} @q[Suen,]{“In the chosen city, the shrine of my heart which I have founded in joy like @wSN{Aratta} ……. In my shrine @wSN{Urim} I have tended my cows.”} @q[,Suen]{“First-born son of @wDN{Enlil}, where have you tended the people, Lord @wDN{Ašimbabbar}?”}
 
 
+@(B.22 = 22-40) @q[Suen,]{“In the chosen city, the shrine of my heart which I have founded in joy, like @wSN{Aratta} ……; in my @wTN{E-mud-kura} I have tended my cows.”} @q[,Suen]{“First-born son of @wDN{Enlil}, where have you tended the people, Lord @wDN{Ašimbabbar}?”} @q[Suen,]{“In a place founded on a good day and given a good name, in the place chosen in my heart, my @wTN{E-mud-kura}, I, @wDN{Ašimbabbar}, have tended my cows.”} @q[,Suen]{“First-born son of Enlil, where have you tended the people, Lord @wDN{Ašimbabbar}?”} @q[Suen,]{“In a place founded on a good day and given a good name, in the place chosen in my heart, my @wTN{E-mud-kura}, I, @wDN{Ašimbabbar}, have tended my cows.”} @q[,Suen]{“King of the holy cattle-pen, where have you tended your cows, youthful, noble shepherd?”} @q[Suen,]{“In the meadow where I have built a dais for my shrine @wSN{Urim} and have let date palms grow as in the land of @wGN{Dilmun} -- there in its holy reedbeds I have tended my cows.”} @q[,Suen]{“First-born son of Enlil, where have you tended the people, youthful, noble shepherd?”} @q[Suen,]{“In the meadow where I have built a dais for my shrine @wSN{Urim} and have let date palms grow as in the land of @wGN{Dilmun} -- there in its holy reedbeds I have tended my cows.”}
+
+$ (end insertion)
+
+
+@(B.A = A-H) @varn{instead of lines 22-40, 1 ms. has:} @q[,Suen]{“…… where have you tended your cows, youthful, noble shepherd?”} @q[Suen,]{“…… for my shrine @wDN{Urim} …… as in the land of @wGN{Dilmun} -- there in the house's cattle-pen I have tended my cows.”} @q[,Suen]{“King of the holy cattle-pen (?), where have you tended your cows, youthful, noble shepherd, Lord @wDN{Ašimbabbar}?”} @q[Suen,]{“In a place founded on a good day and given a good name, in the place chosen in my heart, @wTN{E-kiš-nu-ŋal}, the …… house, I, @wDN{Ašimbabbar}, have tended my cows (?).”}
+
+$ (end insertion)
 #etcsl#altGrpo
 #etcsl#alt t41309.v1 t41309.v2
 #etcsl#altGrpc
@@ -278,6 +272,3 @@ B.42. tigi {d}suen-na-kam
 
 
 @(B.42 = 42) A @fsux{tigi} of @wDN{Suen}.
-
-
-

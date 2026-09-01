@@ -1,6 +1,6 @@
 &Q000472 = A hymn to Nibru and Išme-Dagan (Išme-Dagan W)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.23
@@ -625,22 +625,7 @@ C.18. {[d]}iš#-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-19) City whose terrifying splendour extends over heaven and earth, whose towers are exceptionally grand, shrine @wSN{Nibru}! Your power reaches to the edges of the uttermost extent of heaven and earth. Of all the brick buildings erected in the Land, your brickwork is the most excellent. You have allowed all the foreign lands and as many cities as are built to receive excellent divine powers. Your name is as excellent as your excellent divine powers. Your soil is soil as good as your name. City,  @varh[t25423.v1]{your name towers } @vart[t25423.v2,t25423.v1]{@varn{1 ms. has instead:} your divine powers tower } over heaven and earth.
 
@@ -661,6 +646,3 @@ C.18. {[d]}iš#-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar
 
 
 @(C.1 = 1-18)  @gap{3 lines fragmentary}  @wDN{Enlil} and @wDN{Ninlil} ……  @gap{5 lines fragmentary}  @wDN{Enlil} and @wDN{Ninlil} have bestowed this on @wDN{Nuska}, the lord who stands ……. @wSN{Nibru}, no god excels like your lord and lady; they are powerful princes, brilliantly revealed deities. No god excels like @wDN{Enlil} and @wDN{Ninlil}; they are powerful princes, lords who can decide destinies. In your midst they have given divine powers to @wDN{Nuska} as minister. @wSN{Nibru}, your holy songs are exceptionally precious, surpassing all praise. I, @wRN{Išme-@wDN{Dagan}}, have put them in everyone's mouth for all time.
-
-
-

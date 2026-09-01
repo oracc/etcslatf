@@ -1,6 +1,6 @@
 &Q000507 = A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.7.1
@@ -64,7 +64,7 @@ A.12. šag₄-ba-[tuku-am₃]
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div šagbatuku B
 
@@ -126,7 +126,7 @@ B.24. šag₄-ba-tuku 2#-bi
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div ŋišgiŋal C
 
@@ -174,7 +174,7 @@ C.33. sa-gid₂!-da ŋiš-gi₄-ŋal₂
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown D
 

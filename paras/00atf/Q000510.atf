@@ -1,6 +1,6 @@
 &Q000510 = A prayer to An for Rīm-Sîn (Rīm-Sîn C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.3
@@ -126,21 +126,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-10) Shepherd, called by name, for whom holy @wDN{An} has determined in heaven a great destiny! @wRN{Rīm-@wDN{Sîn}}, called by name, for whom holy @wDN{An} has determined in heaven a great destiny! Prince who achieved kingship when still in the true womb, you grandly exercise lordship over the numerous people. In @wSN{Larsam}, the …… mountain befitting the princely divine powers, you are truly called to be shepherd of @wGN{Sumer} and @wGN{Akkad}. Great @wDN{An}, august in heaven and earth, lord who is wise in everything, father of the gods, has determined to fix the destinies for that place, never interrupting the uttering of weighty commands, …… in the pure interior of heaven.
 
@@ -149,6 +135,3 @@
 #trailer subscript	cud
 
 @(29 = 29) 28 lines. A prayer to @wDN{An}.
-
-
-

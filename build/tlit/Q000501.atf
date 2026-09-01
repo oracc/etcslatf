@@ -1,6 +1,6 @@
 &Q000501 = A hymn to Nanna for Gungunum (Gungunum B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.2.a

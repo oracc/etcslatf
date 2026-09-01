@@ -1,6 +1,6 @@
 &Q000781 = A drinking song
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.a
@@ -138,21 +138,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-9) The @fsux{gakkul} vat, the @fsux{gakkul} vat! The @fsux{gakkul} vat, the @fsux{lamsare} vat! The @fsux{gakkul} vat, which puts us in a happy mood! The @fsux{lamsare} vat, which makes the heart rejoice! The @fsux{ugurbal} jar, glory of the house! The @fsux{šaggub} jar, filled with beer! The @fsux{amam} jar, which carries the beer from the @fsux{lamsare} vat! The troughs made with @fsux{bur} grass and the pails for kneading the dough! All the beautiful vessels are ready on their pot stands!
 
@@ -164,6 +150,3 @@
 
 
 @(32 = 32) A …… to @wDN{Ninkasi}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000573 = Letter from Ur-saga to a king fearing the loss of his father's household
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.01
@@ -87,21 +87,7 @@
 #lem: lugal[king]; zu[know]
 #etcsl: line-id=14
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Speak to my lord, the  @varh[t3301.v1]{bull } @vart[t3301.v2,t3301.v1]{@varn{1 ms. has instead:} wild bull } @vart[t3301.v3,t3301.v1]{@varn{1 other ms. has instead:} bison (?) } with sparkling eyes, who wears a lapis-lazuli beard:
 
@@ -129,5 +115,3 @@
 #etcsl#alt t3301.v13 t3301.v14
 #etcsl#alt t3301.v15 t3301.v16
 #etcsl#altGrpc
-
-

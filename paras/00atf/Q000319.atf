@@ -1,6 +1,6 @@
 &Q000319 = Ur III catalogue from Nibru (N1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.1.1
@@ -89,9 +89,3 @@
 21. iri-bal-a aš₂ di-da-kam
 #lem: iribala[rebel town]; aš[curse]; di[speak]
 #etcsl: line-id=21
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 &Q000375 = The cursing of Agade
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.1.5
@@ -1459,21 +1459,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Old Babylonian version
 
@@ -1616,4 +1602,3 @@ $ (unknown no. of lines missing)
 @(2.F.1 = 1-4) Noses were punched, heads were smashed (?), noses (?) were piled up, heads were sown like seeds. Heroes lay (?) dead on top of heroes, the blood of traitors ran (?) upon honest men.
 
 @(2.F.5 = 5-7) @wDN{Enlil} rebuilt his great sanctuaries into small reed (?) sanctuaries and from the south to the uplands …….
-

@@ -1,6 +1,6 @@
 &Q000803 = Proverbs: collection 10
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.10
@@ -167,21 +167,7 @@
 
 @end proverb
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg 10.1	proverb
 
@@ -246,6 +232,3 @@
 #lg 10.16	proverb
 
 @(10.16.19 = 19)  Her girl friend answered her as follows.
-
-
-

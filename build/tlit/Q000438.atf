@@ -1,6 +1,6 @@
 &Q000438 = Išbi-Erra and Kindattu (Išbi-Erra B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.1.2
@@ -329,7 +329,7 @@ E.F.13. [ŋiš-gi₄]-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 

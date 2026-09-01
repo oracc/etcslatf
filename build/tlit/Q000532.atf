@@ -1,6 +1,6 @@
 &Q000532 = A hymn to Marduk for Abī-Ešuḫ (Abī-Ešuḫ A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.5.1
@@ -72,7 +72,7 @@ B.13. ŋiš-gi-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 

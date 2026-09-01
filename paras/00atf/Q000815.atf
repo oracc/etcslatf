@@ -1,6 +1,6 @@
 &Q000815 = Proverbs: collection 23
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.23
@@ -322,23 +322,7 @@ C.23.19.20. [...] X NE
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 #lg 23.1	proverb
@@ -405,6 +389,3 @@ $ (unknown no. of lines missing)
 #lg 23.19	proverb
 
 @(C.23.19.19 = 19-20)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

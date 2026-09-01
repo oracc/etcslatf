@@ -1,6 +1,6 @@
 &Q000566 = Letter from Sîn-iddinam to the god Utu
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.2.05
@@ -222,21 +222,7 @@
 #lem: zi[life]; sudŋal[long-lasting]; niŋba[gift]; ba[allot]
 #etcsl: line-id=46
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-5) Say to @wDN{Utu} my lord, the exalted judge of heaven and earth, who cares for the Land, who renders verdicts; just god, who loves to keep man alive, who heeds entreaty, who extends mercy, who knows …… compassion, who loves justice, who selects honesty, ……:
 
@@ -276,6 +262,3 @@
 #etcsl#altGrpc
 
 @(45 = 45-46) And as for me, for my reverence give me life! Bestow on me long life as a gift!
-
-
-

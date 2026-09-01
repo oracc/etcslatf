@@ -1,6 +1,6 @@
 &Q000449 = An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.3.3
@@ -94,7 +94,7 @@ A.B.18. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -275,7 +275,7 @@ B.E.25. <sa-ŋar-ra-am₃>
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal F
 
@@ -291,7 +291,7 @@ B.F.27. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru G
 

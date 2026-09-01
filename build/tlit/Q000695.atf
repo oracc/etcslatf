@@ -1,6 +1,6 @@
 &Q000695 = A tigi to Nergal (Nergal C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.15.3
@@ -261,7 +261,7 @@ B.62. sa-[ŋar]-ra#
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 

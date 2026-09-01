@@ -1,6 +1,6 @@
 &Q000419 = A song of Šulgi
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.a
@@ -152,21 +152,7 @@
 #lem: X; Inanak[1]DN; hul[rejoice]
 #etcsl: line-id=36
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) …… pure from birth ……. …… in the Land …….  @gap{2 lines fragmentary} 
 
@@ -185,6 +171,3 @@
 @(29 = 29-32) My king went to @wSN{Kulaba}. @wDN{Ninirigal}, rejoice! @wRN{Šulgi} went to @wSN{Kulaba}. @wDN{Ninirigal}, rejoice!
 
 @(33 = 33-36) My king went to @wSN{Zabalam}. …… @wDN{Inana}, rejoice! @wRN{Šulgi} went to @wSN{Zabalam}. …… @wDN{Inana}, rejoice!
-
-
-

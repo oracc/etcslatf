@@ -1,6 +1,6 @@
 &Q000809 = Proverbs: collection 16
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.16
@@ -581,22 +581,7 @@ F.16.f2.2. [...] X A ŠE# [...] X-i gid₂-i X-ŋa₂-ŋa₂ {{%akk iš-hi-[...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 16.a1	proverb
 
@@ -755,6 +740,3 @@ F.16.f2.2. [...] X A ŠE# [...] X-i gid₂-i X-ŋa₂-ŋa₂ {{%akk iš-hi-[...]
 #lg 16.f2	proverb
 
 @(F.16.f2.2 = 2)  @note{= Veldhuis 2000 p. 393 N 1009 (+) N 5187 rev. 2'-3'}  @gap{1 line fragmentary} 
-
-
-

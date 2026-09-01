@@ -1,6 +1,6 @@
 &Q000823 = Proverbs: from Urim
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.2.3
@@ -2923,21 +2923,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 UET 6/2 291
 
@@ -3968,4 +3954,3 @@ $ (unknown no. of lines missing)
 @h1 UET 6/2 312
 
 @(151.1 = 1) When …… answers ……, it is a good omen from heaven.
-

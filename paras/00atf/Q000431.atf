@@ -1,6 +1,6 @@
 &Q000431 = A hymn for Šu-Suen
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.a
@@ -74,7 +74,7 @@ B.13. ŋiš-gi₄-ŋal₂#-[bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -174,7 +174,7 @@ E.32. ŋiš-gi₄-[ŋal₂-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu F
 
@@ -252,21 +252,7 @@ G.48. [...]-ra-ra
 
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -332,6 +318,3 @@ G.48. [...]-ra-ra
 
 
 @(G.44 = 44-48) I shall praise ……. …… of @wDN{Ninlil} is indeed the …… mistress! Like @wDN{Utu}, …… has filled the broad Land ……. ……, @wRN{Šu-@wDN{Suen}}, your provider (?) is distant.  @gap{1 line fragmentary} 
-
-
-

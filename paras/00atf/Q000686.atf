@@ -1,6 +1,6 @@
 &Q000686 = A hymn to Nanna
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.a
@@ -124,27 +124,10 @@
 #lem: dumu[child]N; nun[prince]; X
 #etcsl: line-id=29
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-13) Princely lord, foremost in the @wTN{E-kur}, …… fearsomeness! @wDN{Suen}, beneficent one of @wDN{Enlil}, …… the living! Cornelian calf, adorned with beauty, …… brilliance! …… prince whose forehead flourishes and whose countenance ……! @wDN{Suen}, warrior possessing great strength whose solidity ……, ……, radiance in (?) the pure heavens, …… fear over the broad earth, making …… manifest among the gods, ……, …… greatly ……, …… in heaven and on earth ……,  @gap{4 lines fragmentary} 
 
 @(14 = 14-20) (Suen speaks:) @q[Suen,Ninlil]{“ @gap{2 lines fragmentary}  I am the …… of @wDN{Enlil}, ……. In fear (?) of my lordship and greatness ……. O my mother, speak to my father ……, speak to the Great Mountain @wDN{Enlil} ……. Like the god, my brother, …….”}
 
 @(21 = 21-29) His mother @wDN{Ninlil} spoke (?) to her spouse, she addressed her words to the Great Mountain @wDN{Enlil}: @q[Ninlil,Enlil]{“O my spouse, your son @wDN{Suen} ……. The beneficent son, the song of the heart, ……. You …… born of mother and father, ……. Prince, glory of the @wTN{E-kur}, fruitful one of the @wTN{Ki-ur} ……, the cowherd …… cows, @wDN{Suen} ……, the princely son …….”}
-
-
-

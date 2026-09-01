@@ -1,6 +1,6 @@
 &Q000646 = A balbale to Inana (Dumuzid-Inana O)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.15
@@ -154,21 +154,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-7)  @gap{1 line fragmentary}  Your name ……. As I walk, as I walk, as I pass along the banks of the august river, as I roam along the banks of the @wWN{Euphrates}, as I stand …… the lord, as I pass along the gaudy streets:
 
@@ -191,6 +177,3 @@
 
 
 @(34 = 34) A @fsux{balbale} of @wDN{Inana}.
-
-
-

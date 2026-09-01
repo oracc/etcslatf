@@ -1,6 +1,6 @@
 &Q000392 = A balbale to Enlil for Ur-Namma (Ur-Namma G)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.7
@@ -92,21 +92,7 @@ $ 2 lines missing
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(7 = 1-8)  @gap{6 lines missing}  @wDN{Enlil} …… to @wRN{Ur-@wDN{Namma}}. He bestowed on him (?) early floods, grain and speckled barley.
 
@@ -118,6 +104,3 @@ $ 2 lines missing
 
 
 @(28 = 28) A @fsux{balbale} of @wDN{Enlil}.
-
-
-

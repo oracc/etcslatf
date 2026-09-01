@@ -1,6 +1,6 @@
 &Q000577 = Letter from a governor and temple administrator to a king
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.05
@@ -140,23 +140,7 @@ $ (scribal error for erin2 tah-hu-um)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 @h1 Version A (from Nibru)
 
@@ -177,8 +161,3 @@ $ (scribal error for erin2 tah-hu-um)
 @h1 Version B (from Urim)
 
 @(2.1 = 1-14) The three @fsux{šar} (i.e. 3,240 @fsux{iku}) of the field @wON{Meam} (Where-is-it?) are assigned for the benefit of @wDN{Enlil} and @wDN{Ninurta}. Of this, three @fsux{BURgunû} (i.e. 540 @fsux{iku}) are the portion of the men in charge of the requisitions. Two @fsux{iku} which are at its …… have been hoed and ……. Ploughmen are not available for work on a plot in the field. @wPN{Iqbisum} and @wPN{Abī-qātī} have made a claim against you. If my king consents, he should send a courier. They …… the instructions for doing the work and for the boundary stakes of the field.
-
-
-
-
-

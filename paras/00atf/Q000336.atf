@@ -1,6 +1,6 @@
 &Q000336 = Enlil and Ninlil
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.2.1
@@ -645,21 +645,7 @@
 :154v.1.1: ($1 ms. adds:$) kur gal
 #lem: kur[mountain(s)]; gal[big]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-12) There was a city, there was a city -- the one we live in. @wSN{Nibru} was the city, the one we live in. @wSN{Dur-ŋišnimbar} was the city, the one we live in. @wWN{Id-sala} is its holy river, @wSN{Kar-ŋeština} is its quay. @wSN{Kar-asar} is its quay where boats make fast. Pu-lal is its freshwater well. @wWN{Id-nunbir-tum} is its branching canal, and if one measures from there, its cultivated land is 50 @fsux{sar} each way. @wDN{Enlil} was one of its young men, and @wDN{Ninlil} was one its young women. @wDN{Nun-bar-še-gunu} was one of its wise old women.
 
@@ -686,5 +672,3 @@
 #etcsl#altGrpo
 #etcsl#alt t121.v3 t121.v4
 #etcsl#altGrpc
-
-

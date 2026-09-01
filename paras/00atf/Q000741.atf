@@ -1,6 +1,6 @@
 &Q000741 = A hymn to Šul-pa-e (Šul-pa-e A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.31.1
@@ -389,21 +389,7 @@ $ (uknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -427,4 +413,3 @@ $ (uknown no. of lines missing)
 
 $ (uknown no. of lines missing)
 @(2.1 = 1-8)  @gap{6 lines fragmentary}  ……. like @wDN{Šul-pa-e}. My king …… may he call your name.
-

@@ -1,6 +1,6 @@
 &Q000681 = A šir-namgala to Nanna (Nanna L)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.12
@@ -40,7 +40,7 @@ A.7. ŋiš-[gi₄]-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div ŋišgiŋal B
 
@@ -88,7 +88,7 @@ B.17. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -254,21 +254,7 @@ D.53. šir₃-nam-gala {d}nanna#-[kam]
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	jicgijal
 
@@ -318,6 +304,3 @@ D.53. šir₃-nam-gala {d}nanna#-[kam]
 
 
 @(D.53 = 53) A @fsux{šir-namgala} of @wDN{Nanna}.
-
-
-

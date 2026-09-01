@@ -1,6 +1,6 @@
 &Q000690 = A hymn to Nanše (Nanše A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.14.1
@@ -1035,21 +1035,7 @@
 #lem: Nanše[1]DN; dumu[child]; Eridug[1]SN; utud[give birth (to)]; zamin[praise]; dug[good]
 #etcsl: line-id=256
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-9) There is a city, there is a city whose powers are apparent. @wSN{Niŋin} is the city whose powers are apparent. The holy city is the city whose powers are apparent. The mountain rising from the water is the city whose powers are apparent. Its light rises over the secure temple; its fate is determined. There is perfection in the city; the rites of Mother @wDN{Nanše} are performed accordingly. Its lady, the child born in @wSN{Eridug}, @wDN{Nanše}, the lady of the precious divine powers, is now to return.
 
@@ -1102,6 +1088,3 @@
 @(241 = 241-250) To weigh silver with standard weights, to standardise the size of reed baskets, they establish an agreed @fsux{ban} measure throughout the countries. …… of (?) all the great rites.  @gap{1 line unclear}  After …… in (?) the established storerooms, the lady of the storerooms …… her lofty …… with (?) vessels with ever-flowing water and with (?) …… of (?) reed containers which never become empty, she ordered her herald, Lord @wDN{Ḫendursaŋa} to make them profitable (?).
 
 @(251 = 251-255) My lady, your divine powers are mighty powers, surpassing all other divine powers; @wDN{Nanše}, there are no divine powers matching your powers. @wDN{An}, the king, looks joyfully at you, as you sit with @wDN{Enlil} on the throne-dais where the fates are to be determined. Father @wDN{Enki} determined a fate for you. @wDN{Nanše}, child born in @wSN{Eridug}, sweet is your praise.
-
-
-

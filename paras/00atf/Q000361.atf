@@ -1,6 +1,6 @@
 &Q000361 = Gilgameš and Aga
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.1.1
@@ -530,21 +530,7 @@
 #lem: zamin[praise]; dug[good]
 #etcsl: line-id=115
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) Envoys of @wRN{Aga}, the son of @wRN{En-me-barage-si}, came from @wSN{Kiš} to @wDN{Gilgameš} in @wSN{Unug}. @wDN{Gilgameš} presented the issue before the elders of his city, carefully choosing his words: @q[Gilgamec,]{“There are wells to be finished, many wells of the Land yet to be finished; there are shallow wells of the Land yet to be finished, there are wells to deepen and hoisting gear to be completed. We should not submit to the house of @wSN{Kiš}!  @varh[t1811.v1]{Should we not smite it with weapons? }@vart[t1811.v2,t1811.v1]{@varn{2 mss. have instead:} Let us smite it with weapons! }”}
 
@@ -611,6 +597,3 @@
 #etcsl#altGrpc
 
 @(114 = 114-115) O @wDN{Gilgameš}, lord of @wSN{Kulaba}, praising you is sweet.
-
-
-

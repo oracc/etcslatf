@@ -1,6 +1,6 @@
 &Q000720 = A šir-gida to Ninurta (Ninurta A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.27.01
@@ -185,22 +185,7 @@ B.23. šir₃-gid₂-du {d}nin-urta-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-8) The warrior, the lordly son of @wDN{Enlil}, @wDN{Ninurta}, the fierce bull, fit to be a prince, the hero manifest in @wTN{E-šu-me-ša}, the glory of @wTN{E-kur}, the rigorous judge, king, …… of the gods, the butting bull, placing his foot on the rebel lands, @wDN{Ninurta}, the lord of @wTN{E-šu-me-ša}, has taken his seat on the throne-dais of @wDN{An}.
 
@@ -221,6 +206,3 @@ B.23. šir₃-gid₂-du {d}nin-urta-kam
 
 
 @(B.23 = 23) A @fsux{šir-gida} of @wDN{Ninurta}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000423 = A balbale to Inana for Šu-Suen (Šu-Suen B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.2
@@ -130,21 +130,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) Man of my heart, my beloved man, your allure is a sweet thing, as sweet as honey. Lad of my heart, my beloved man, your allure is a sweet thing, as sweet as honey.
 
@@ -164,6 +150,3 @@
 
 
 @(30 = 30) It is a @fsux{balbale} of @wDN{Inana}.
-
-
-

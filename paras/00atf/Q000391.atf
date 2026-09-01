@@ -1,6 +1,6 @@
 &Q000391 = A šir-namšub to Nanna for Ur-Namma (Ur-Namma F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.6
@@ -220,21 +220,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) Imbued with allure from the shining rooftops, @wSN{Urim}, your foundation rests on abundance. City, your lord rides high in joy, @wRN{Ur-@wDN{Namma}} rides high indeed; the one adorned with a lapis-lazuli beard rides high indeed! He is the tallest among all the lords, appearing as the noblest among them.
 
@@ -254,6 +240,3 @@
 
 
 @(52 = 52) A @fsux{šir-namšub} of @wDN{Nanna}.
-
-
-

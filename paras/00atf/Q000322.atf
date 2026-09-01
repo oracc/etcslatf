@@ -1,6 +1,6 @@
 &Q000322 = OB catalogue in the Louvre (L)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.02
@@ -352,9 +352,3 @@ $ 4 lines missing
 68. 14 na-du₃-a
 #lem: n; narua[stele]
 #etcsl: line-id=68
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 &Q000409 = An adab (?) to Utu for Šulgi (Šulgi Q)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.17
@@ -121,7 +121,7 @@ B.25. [ŋiš-gi₅-ŋal₂ sa]-gid₂-da-kam
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -205,7 +205,7 @@ C.44. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -233,7 +233,7 @@ D.49. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown E
 
@@ -252,21 +252,7 @@ E.52. [...] X pad₃#
 $ (unknown no. of lines missing)
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -318,6 +304,3 @@ $ (unknown no. of lines missing)
 
 
 @(E.50 = 50-52) Lord of all the great divine powers, borne by @wDN{Ningal}! Youthful @wDN{Utu}, lord of all the great divine powers, borne by @wDN{Ningal},  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

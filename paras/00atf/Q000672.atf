@@ -1,6 +1,6 @@
 &Q000672 = A balbale to Nanna (Nanna C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.03
@@ -261,7 +261,7 @@ B.B.18. [ŋiš]-gi₄#-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -273,22 +273,7 @@ B.B.19. [bal]-bal#-e {d}nanna-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -316,6 +301,3 @@ B.B.19. [bal]-bal#-e {d}nanna-kam
 
 
 @(B.B.19 = 19) A @fsux{balbale} of @wDN{Nanna}.
-
-
-

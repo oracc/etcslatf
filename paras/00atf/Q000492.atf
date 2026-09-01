@@ -1,6 +1,6 @@
 &Q000492 = An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.6.3
@@ -68,7 +68,7 @@ B.12. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -148,7 +148,7 @@ E.26. ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara F
 
@@ -240,7 +240,7 @@ F.47. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal G
 
@@ -256,7 +256,7 @@ G.49. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru H
 
@@ -296,21 +296,7 @@ H.55. a-da-ab {d}nin-urta-ka-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -398,6 +384,3 @@ H.55. a-da-ab {d}nin-urta-ka-kam
 
 
 @(H.55 = 55) An @fsux{adab} for @wDN{Ninurta}. @notep{lines 54 and 55 are written as one line in source}
-
-
-

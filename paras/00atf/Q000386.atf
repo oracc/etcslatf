@@ -1,6 +1,6 @@
 &Q000386 = The death of Ur-Namma (Ur-Namma A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.1
@@ -1652,21 +1652,7 @@ $ (approx. 7 lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 A version from Nibru
 
@@ -1791,4 +1777,3 @@ $ (approx. 10 lines missing)
 #etcsl#linkGrpc
 
 @(2.D.12 = 12-20) When she had turned her gaze away from there, the trustworthy shepherd had left the @wTN{E-ana}, and she (?) could not see him any more. She …… at @wDN{Enlil's} fierce brow. Antagonistically (?) she insulted @wDN{An}, the king of the gods: @q[Inana,]{“When @wDN{An}, the king speaks, his words cannot be changed! …… @wRN{Ur-@wDN{Namma}} ……. There will be no …… at the gods' place of sunrise. …… holy @fsux{ŋipar}, shrine @wTN{E-ana} ……. …… not enter …….”}
-

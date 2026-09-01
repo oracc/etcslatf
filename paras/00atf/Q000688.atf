@@ -1,6 +1,6 @@
 &Q000688 = An excerpt from a hymn to Nanna
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.c
@@ -50,27 +50,10 @@
 #lem: e[house]; an[sky]; ni[fear]; su[flesh]; zig[rise]; ri[impose]; melim[frightening splendor]; gur[lift]
 #etcsl: line-id=11
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-5) God who …… among the gods, coming forth on high, perfecting the divine powers of heaven! Outstanding crown, radiance, ……, prince, …… of heaven, justly cherished by @wDN{An} and @wDN{Uraš}! Born in @wTN{Dur-an-ki}! Light, radiance and crown of @wSN{Urim}!
 
 @(6 = 6-8) Now in addition he desired something good, something good. The lord wearied @wDN{Enlil} to determine the fate of his city: @q[Nanna,Enlil]{“My father, may you restore my city for me!”}
 
 @(9 = 9-11) No one should escape the grasp of Father @wDN{Nanna}, him of most just words! Princely lord, princely lord, great princeliness among the gods! In the temple that, like the heavens, inspires terror and fear, you are awesome.
-
-
-

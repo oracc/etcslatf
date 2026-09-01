@@ -1,6 +1,6 @@
 &Q000521 = A prayer to Asarluḫi for Ḫammu-ràbi (Ḫammu-ràbi D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.4

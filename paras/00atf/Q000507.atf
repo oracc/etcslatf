@@ -1,6 +1,6 @@
 &Q000507 = A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.7.1
@@ -64,7 +64,7 @@ A.12. šag₄-ba-[tuku-am₃]
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div šagbatuku B
 
@@ -126,7 +126,7 @@ B.24. šag₄-ba-tuku 2#-bi
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div ŋišgiŋal C
 
@@ -174,7 +174,7 @@ C.33. sa-gid₂!-da ŋiš-gi₄-ŋal₂
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown D
 
@@ -294,21 +294,7 @@ D.60. {d}nu-muš-da
 
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	cagbatuku
 
@@ -348,6 +334,3 @@ D.60. {d}nu-muš-da
 @(D.42 = 42-56) @wDN{Nunamnir}, the lord who determines the destinies, has made your name august throughout the wide extent of foreign lands. He has assigned as a cult place for you the city of abundance, founded in a favourable place: @wSN{Kazallu}, the mountain of plenty. By his unchangeable command he has ordered the fashioning of @wTN{Kun-satu}, your lordly dais. Father @wDN{Enlil}, the good shepherd who loves your plans, has desired to make its forgotten lay-out visible again, and to restore its abandoned cities; he has ordered prince @wRN{@wDN{Sîn}-iqīšam} to accomplish it, and he has made (?) your cities and settlements peaceful dwelling places. He has dredged your canals, and cleared up the levees and irrigation ditches, so that abundant water will never be lacking there. He has put in your …… and made manifest all that is proper.
 
 @(D.57 = 57-60) Regard with favour his commendable prayers! Regard Prince @wRN{@wDN{Sîn}-iqīšam} with favour! May the king's joyous days be prolonged, O @wDN{Numušda}!
-
-
-

@@ -1,6 +1,6 @@
 &Q000806 = Proverbs: collection 13
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.13
@@ -674,21 +674,7 @@ A. [...] BA# RA NI [...]
 
 @end proverb
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg 13.1	proverb
 
@@ -934,6 +920,3 @@ A. [...] BA# RA NI [...]
 #lg 13.59	proverb
 
 @(13.59.103 = 103-104)  …… lost his strength …… a thief …….
-
-
-

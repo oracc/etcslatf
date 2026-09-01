@@ -1,6 +1,6 @@
 &Q000638 = A balbale to Inana (Dumuzid-Inana G)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.07
@@ -78,21 +78,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) The burgeoning one, he …… with his own mother; the one with kindly eyes takes counsel with his father.
 
@@ -104,6 +90,3 @@
 
 
 @(17 = 17) A @fsux{balbale} of @wDN{Inana}.
-
-
-

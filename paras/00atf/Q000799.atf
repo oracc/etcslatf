@@ -1,6 +1,6 @@
 &Q000799 = Proverbs: collection 5
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.05
@@ -1604,22 +1604,7 @@ E.5.e2.3. [...]-RI#-e-ne
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 5.1	proverb
 
@@ -1655,6 +1640,24 @@ E.5.e2.3. [...]-RI#-e-ne
 
 @(A.5.7.11 = 11)  The wild bull …… I abandon the claim.
 
+$ (1 ms. adds 4 proverbs:)
+
+#lg 5.8	proverb
+
+@(A.5.8.11A = 11A-11B)  The wild bull …… enveloped …… above …….
+
+#lg 5.9	proverb
+
+@(A.5.9.11C = 11C)  Wild bull, you …… your strong limbs.
+
+#lg 5.10	proverb
+
+@(A.5.10.11D = 11D)  The wild bull …… aggressively.
+
+#lg 5.11	proverb
+
+@(A.5.11.11E = 11E)  The wild bull ……. 
+$ (end insertion)
 
 #lg 5.12	proverb
 
@@ -2129,6 +2132,3 @@ $ (unplaced)
 #lg 5.e2	proverb
 
 @(E.5.e2.2 = 2-3)  @note{= Alster 1997 p. 121 D i 2 = Gordon 1958 5.20}  @gap{2 lines fragmentary} 
-
-
-

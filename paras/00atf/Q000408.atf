@@ -1,6 +1,6 @@
 &Q000408 =  A praise poem of Šulgi (Šulgi P)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.16
@@ -376,22 +376,7 @@ C.66. [...] X X [...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-6)  @gap{1 line fragmentary}  …… shining ……. He @noteref{probably @wDN{Lugalbanda}} spoke to her @noteref{probably @wDN{Ninsumun}} tenderly ……: @q[Lugalbanda,Ninsumun]{“He will accomplish precisely the fate determined for him. Your father holy @wDN{An} will make his branches spread as if he were a sappy cedar planted among @fsux{hašur} trees.”}
 
@@ -428,5 +413,3 @@ C.66. [...] X X [...]
 #etcsl#linkGrpo
 #etcsl#link type=q t24216.q3 t24216.q4 t24216.q5 t24216.q6 t24216.q7 t24216.q8 t24216.q9
 #etcsl#linkGrpc
-
-

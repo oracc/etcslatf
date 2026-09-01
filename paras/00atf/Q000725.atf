@@ -1,6 +1,6 @@
 &Q000725 = A balbale to Ninurta (Ninurta F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.27.06
@@ -138,21 +138,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-21) Good semen, good seed, king chosen by @wDN{Enlil}! Very good semen, very good seed, @wDN{Ninurta}, chosen by @wDN{Enlil}! My king, I shall call upon your name. @wDN{Ninurta}, I am your man, your man; I shall call upon your name. My king, ewes give birth to lambs, ewes give birth to lambs, ewes and rams are born; I shall call upon your name. My king, goats give birth to kids, goats give birth to kids, buck-goats are born; I shall call upon your name. My king, cows give birth to calves, cows give birth to calves, cows and breed-bulls are born; I shall call upon your name. My king, she-asses give birth to foals, she-asses give birth to foals, donkeys …… are born; I shall call upon your name. My king, humans give birth to children, humans give birth to children. @wDN{Ninurta}, king …….
 
@@ -161,6 +147,3 @@
 #trailer subscript	balbale
 
 @(32 = 32) A @fsux{balbale} of @wDN{Ninurta}.
-
-
-

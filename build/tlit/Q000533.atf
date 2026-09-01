@@ -1,6 +1,6 @@
 &Q000533 = A praise poem of Abī-Ešuḫ (Abī-Ešuḫ B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.5.a

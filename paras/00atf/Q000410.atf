@@ -1,6 +1,6 @@
 &Q000410 = Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.18
@@ -386,23 +386,9 @@ B.91. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
-
-
-
-
-
-
-
+@end sa-ŋara
 
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -437,6 +423,3 @@ B.91. sa-ŋar-ra-am₃
 
 
 @(B.91 = 91) @fsux{Sa-ŋara}.
-
-
-

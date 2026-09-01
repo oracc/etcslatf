@@ -1,6 +1,6 @@
 &Q000721 = Ninurta's journey to Eridug: a šir-gida to Ninurta (Ninurta B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.27.02
@@ -413,22 +413,7 @@ D.21. [šir₃]-gid₂-da {d}nin-urta-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-7) The hero …… coming forth from the @wTN{E-kur}; @wDN{Ninurta} …… coming forth from the @wTN{E-kur},  @gap{1 line fragmentary}  …… @wDN{Ninurta}, the son of @wDN{Enlil},  @gap{1 line fragmentary}  in order to instruct ……, @wDN{Ninurta} went from the place of @wDN{Enlil} to @wSN{Eridug}.
 
@@ -463,6 +448,3 @@ D.21. [šir₃]-gid₂-da {d}nin-urta-kam
 
 
 @(D.21 = 21) It is a @fsux{šir-gida} of @wDN{Ninurta}.
-
-
-

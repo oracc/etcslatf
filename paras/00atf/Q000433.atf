@@ -1,6 +1,6 @@
 &Q000433 = A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.5.2
@@ -51,7 +51,7 @@ A.B.7. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -107,7 +107,7 @@ A.D.17. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu E
 
@@ -191,7 +191,7 @@ A.F.34. ŋiš#-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 
@@ -421,7 +421,7 @@ C.K.9. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kišu L
 
@@ -441,7 +441,7 @@ C.L.12. ki-šu₂-bi-im
 
 @end trailer
 
-@end kicu
+@end kišu
 
 @div trailer 
 
@@ -453,22 +453,7 @@ C.L.13. šir₃-nam-gala {d}meš₃-lam-ta-e₃-a u₃ {d}lugal-er₉-ra
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -580,6 +565,3 @@ $ (unknown no. of lines missing)
 
 
 @(C.L.13 = 13) A @fsux{šir-namgala} of @wDN{Mešlamta-ea} and @wDN{Lugal-era}.
-
-
-

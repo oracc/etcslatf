@@ -1,6 +1,6 @@
 &Q000669 = A hymn to Martu (Martu B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.12.2
@@ -123,22 +123,7 @@ B.15. [...] A DI {d}mar-[tu]-ka#-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-11) …… watching over ……, gathering together …… the divine powers, …… peerless dragon, …… named in heaven and earth with an august name, ……, engendered by great @wDN{An} and brought up on his holy knees, ……, born by @wDN{Uraš},  @gap{1 line unclear}  cherished and granted a favourable destiny by the Great Mountain @wDN{Enlil}, ……, not wearying of …… its beauty. Proud one among the great gods, …… hearts, …… pure ……, shining purification rites, his conduct ……. His words …… cannot be unravelled, his intelligence and counsel ……, …… distant ……, …… leader ……  @gap{at least 26 lines missing} 
 
@@ -151,6 +136,3 @@ B.15. [...] A DI {d}mar-[tu]-ka#-kam
 
 
 @(B.15 = 15) A …… of @wDN{Martu}.
-
-
-

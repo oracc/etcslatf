@@ -1,6 +1,6 @@
 &Q000461 = A hymn to Inana for Išme-Dagan (Išme-Dagan K)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.11
@@ -191,21 +191,7 @@
 #lem: Išmedagan[1]RN; duri[forever]; kag[mouth]; ŋar[put]
 #etcsl: line-id=45
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) Young woman @wDN{Inana}, @wDN{Suen's} daughter, who makes the divine powers of the Land supreme, who achieves everything, who seizes the divine powers in heaven and gathers them up on earth, who proceeds proudly with her head reaching the heavens, whose radiance makes the nighttime secure like a fire which lights up into the distance -- no god can stand up as her opposition, …….
 
@@ -222,6 +208,3 @@
 @(36 = 36-42) @wDN{Enlil} and @wDN{Ninlil} gave her @wRN{Išme-@wDN{Dagan}}, the constant attendant, …… as her husband ……. The duty to build temples for the gods, to furnish their daily portions, to purify their raised temples and to sanctify their daises, to secure their daily liquor, syrup and choice beer in their dining halls -- all this was bestowed on @wDN{Inana} and @wRN{Išme-@wDN{Dagan}} by @wDN{Enlil} and @wDN{Ninlil}.
 
 @(43 = 43-45) August @wSN{Nibru}, no god excels like your lord and lady! In your midst they have bestowed the divine powers on the young woman @wDN{Inana}. I, @wRN{Išme-@wDN{Dagan}}, have put this @noteref{i.e. this composition} in everyone's mouth for all time.
-
-
-

@@ -1,6 +1,6 @@
 &Q000532 = A hymn to Marduk for Abī-Ešuḫ (Abī-Ešuḫ A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.5.1
@@ -72,7 +72,7 @@ B.13. ŋiš-gi-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -82,21 +82,7 @@ C.14. ur-saŋ nam-kalag-ga du₈ mah# sug₄#-ga nam-en-bi an ki-bi-da ši-ib₂
 
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -124,6 +110,3 @@ C.14. ur-saŋ nam-kalag-ga du₈ mah# sug₄#-ga nam-en-bi an ki-bi-da ši-ib₂
 
 
 @(C.14 = 14) The lordship of the hero standing in all his strength upon this august pedestal is indeed eminent in heaven and earth. The lordship of @wDN{Marduk} standing in all his strength upon this august pedestal, is indeed eminent in heaven and earth.
-
-
-

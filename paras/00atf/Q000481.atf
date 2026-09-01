@@ -1,6 +1,6 @@
 &Q000481 = A praise poem of Lipit-Eštar (Lipit-Eštar A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.1
@@ -452,21 +452,7 @@
 #lem: zamin[praise]; dug[good]
 #etcsl: line-id=108
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) I am a king treated with respect, good offspring from the womb. I am @wRN{Lipit-Eštar}, the son of @wDN{Enlil}. From the moment I lifted my head like a cedar sapling, I have been a man who possesses strength in athletic pursuits. As a young man I grew very muscular (?). I am a lion  @varh[t2551.v1]{in all respects } @vart[t2551.v2,t2551.v1]{@varn{3 mss. have instead:} to the extremes (?) }, having no equal.
 
@@ -507,5 +493,3 @@
 #etcsl#altGrpo
 #etcsl#alt t2551.v7 t2551.v8
 #etcsl#altGrpc
-
-

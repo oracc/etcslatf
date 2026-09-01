@@ -1,6 +1,6 @@
 &Q000677 = An adab to Nanna (Nanna H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.08
@@ -95,7 +95,7 @@ B.B.6. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -119,7 +119,7 @@ B.C.10. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 

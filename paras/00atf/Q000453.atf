@@ -1,6 +1,6 @@
 &Q000453 = A hymn to Nibru and Išme-Dagan (Išme-Dagan C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.03
@@ -82,21 +82,7 @@ A.17. sa-gid₂-da-[am₃]
 
 @end sa-gida
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -109,6 +95,3 @@ A.17. sa-gid₂-da-[am₃]
 
 
 @(A.17 = 17) @fsux{Sa-gida}.
-
-
-

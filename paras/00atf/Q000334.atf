@@ -1,6 +1,6 @@
 &Q000334 = Enki and the world order
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.1.3
@@ -1874,21 +1874,7 @@ $ 2 lines missing
 #lem: aya[father]; Enkik[1]DN; zamin[praise]
 #etcsl: line-id=472
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-16) Grandiloquent lord of heaven and earth, self-reliant, Father @wDN{Enki}, engendered by a bull, begotten by a wild bull, cherished by @wDN{Enlil}, the Great Mountain, beloved by holy @wDN{An}, king, @fsux{meš} tree planted in the Abzu, rising over all lands; great dragon who stands in @wSN{Eridug}, whose shadow covers heaven and earth, a grove of vines extending over the Land, @wDN{Enki}, lord of plenty of the @wDN{Anuna} gods, @wDN{Nudimmud}, mighty one of the @wTN{E-kur}, strong one of heaven and earth! Your great house is founded in the Abzu, the great mooring-post of heaven and earth. @wDN{Enki}, from whom a single glance is enough to unsettle the heart of the mountains; wherever bison are born, where stags are born, where ibex are born, where wild goats are born, in meadows ……, in hollows in the heart of the hills, in green …… unvisited by man, you have fixed your gaze on the heart of the Land as on split reeds.
 
@@ -2011,6 +1997,3 @@ $ 2 lines missing
 #etcsl#linkGrpc
 
 @(472 = 472) Praise be to Father @wDN{Enki}.
-
-
-

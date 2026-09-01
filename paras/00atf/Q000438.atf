@@ -1,6 +1,6 @@
 &Q000438 = Išbi-Erra and Kindattu (Išbi-Erra B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.1.2
@@ -329,7 +329,7 @@ E.F.13. [ŋiš-gi₄]-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 
@@ -395,22 +395,7 @@ $ (unknown no. of lines missing)
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -498,6 +483,3 @@ $ (unknown no. of lines missing)
 
 
 @(F.H.1 = 1-10)  @gap{10 lines fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

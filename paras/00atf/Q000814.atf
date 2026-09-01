@@ -1,6 +1,6 @@
 &Q000814 = Proverbs: collection 22
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.22
@@ -1113,21 +1113,7 @@ $ (approx. 6 lines missing)
 
 $ (approx. 3-4 lines missing)
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 $ (approx. 18 lines missing)
 #lg 22.ll.19-20	proverb
@@ -1374,6 +1360,3 @@ $ (approx. 18 lines missing)
 #lg 22.l.287	proverb
 
 @(22.l.287.287 = 287)   @gap{1 line fragmentary}   @gap{approx. 3-4 lines missing} 
-
-
-

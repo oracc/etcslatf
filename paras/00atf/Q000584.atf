@@ -1,6 +1,6 @@
 &Q000584 = Letter from Inim-Inana to Lugal-ibila
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.12
@@ -65,21 +65,7 @@
 :12v.1.1: ($the ms. which adds l. 4A has instead:$) lu₂#-tur silim-ma-ni ad-da-[...] KA-za in-tuku
 #lem: lutur[child]; silim[healthy]; adda[father]; X; tuku[acquire]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wPN{Lugal-ibila} what @wPN{Inim-Inana} says:
 
@@ -88,6 +74,3 @@
 #etcsl#altGrpo
 #etcsl#alt t3312.v2 t3312.v3
 #etcsl#altGrpc
-
-
-

@@ -1,6 +1,6 @@
 &Q000660 = A song of Inana and Dumuzid (Dumuzid-Inana D1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.30
@@ -289,20 +289,7 @@
 $ (note@c40830.70!c40830.n2: the ends of a number of further lines are preserved)
 $ (unknown no. of lines missing)
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-7) The …… of @wTN{E-temen-ni-guru}, the organisation of the house of @wSN{Eridug}, the radiance of the house of @wDN{Suen}, and the erected banners of the @wTN{E-ana} were all given as gifts to the house. My good house floats like a cloud; its name too is a favourable omen.
 
@@ -327,6 +314,3 @@ $ (unknown no. of lines missing)
 #etcsl#linkGrpc
 
 @(65 = 65-70) With head high, the king goes now ……, with head high he goes to the holy embrace of @wDN{Inana}. The king going now with head high ……, going now to my lady with head high,  @gap{1 line fragmentary}  he embraces the mistress. @notep{the ends of a number of further lines are preserved} @gap{unknown no. of lines missing} 
-
-
-

@@ -1,6 +1,6 @@
 &Q000659 = A song of Inana and Dumuzid (Dumuzid-Inana C1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.29
@@ -450,22 +450,7 @@ D.27. [...] X X [...]
 $ (up to 5 lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-10)  @gap{2 lines fragmentary}  @wDN{Ninegala}, your wedding ushers are lords! …… like someone cracking eggs ……. @wDN{Inana}, your ushers are lords! …… is first, …… is second,  @gap{1 line fragmentary}  the fowler ……, and the fisherman from the depths of the reedbeds.
 
@@ -495,6 +480,3 @@ $ (up to 5 lines missing)
 #etcsl#linkGrpc
 
 @(D.14 = 14-27) @q{“My bride, you should not weave cloth for me! ……, you should not spin yarn for me! ……, you should not comb out goat's wool for me! ……, you should not warp threads for me!”}  @gap{3 lines fragmentary}  @q[Dumuzid,Inana]{“You should not (?) …… bread for me!”} @wDN{Ninegala}, ……. The wild bull @wDN{Dumuzid} ……. …… holy radiance on the horizon ……, …… radiance in heaven ……,  @gap{2 lines fragmentary}   @gap{up to 5 lines missing} 
-
-
-

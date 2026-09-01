@@ -1,6 +1,6 @@
 &Q000420 = A praise poem of Šulgi
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.b
@@ -116,23 +116,7 @@ B.11. kaskal da-na 30 ŋen-na-ŋa₂ ŋa₂-ra mi₂ zid-bi-im hu-mu-dug₄#
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-4) Let praise be sung for me that ……. Through weapons an enduring …… has been established for me like a tower, as I ……, as I rise in opposition …….
@@ -151,6 +135,3 @@ $ (unknown no. of lines missing)
 @(B.6 = 6-7) Let praise be sung, that I have gone across the …… of the Land. Let deserved praise be sung for me, that in every mouth I have put prudence (?), an attractive quality like …….
 
 @(B.8 = 8-11) Let praise be sung, that I have shown strength in grappling and wrestling. Let deserved praise be sung for me, that I have …… in the Land, that I have made a return visit to the shrine @wSN{Nibru} and back along the road to @wSN{Urim}, and have marched a distance of 30 @fsux{dana}.
-
-
-

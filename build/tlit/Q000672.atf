@@ -1,6 +1,6 @@
 &Q000672 = A balbale to Nanna (Nanna C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.03
@@ -261,7 +261,7 @@ B.B.18. [ŋiš]-gi₄#-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 

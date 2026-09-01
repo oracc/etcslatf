@@ -1,6 +1,6 @@
 &Q000432 = A tigi to Suen for Ibbi-Suen (Ibbi-Suen A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.5.1
@@ -172,7 +172,7 @@ B.37. sa-[ŋar]-ra-[am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -182,21 +182,7 @@ B.38. tigi# {[d]}suen#-na-[kam]
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -224,6 +210,3 @@ B.38. tigi# {[d]}suen#-na-[kam]
 
 
 @(B.38 = 38) A @fsux{tigi} of @wDN{Suen}.
-
-
-

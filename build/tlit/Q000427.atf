@@ -1,6 +1,6 @@
 &Q000427 = An adab (?) to Suen for Šu-Suen (Šu-Suen F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.6
@@ -72,7 +72,7 @@ B.13. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud C
 
@@ -136,7 +136,7 @@ D.25. šag₄-ba-tuku 2-kam-ma-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div sa-barsuda E
 
@@ -209,7 +209,7 @@ F.40. ŋiš-gi₄-ŋal₂-bi#-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara G
 
@@ -309,7 +309,7 @@ G.63. sa-[ŋar-ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal H
 
@@ -325,7 +325,7 @@ H.65. <ŋiš-gi₄-ŋal₂-bi-im>
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru I
 

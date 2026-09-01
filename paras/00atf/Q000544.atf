@@ -1,6 +1,6 @@
 &Q000544 = Letter from Aradŋu to Šulgi about the fortress Igi-ḫursaŋa
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.06
@@ -75,22 +75,7 @@ B.3. lugal-ŋu₁₀ [...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 @(A.1 = 1-2) Say to my lord: This is what @wPN{Aradŋu}, your servant, says:
 
@@ -109,6 +94,3 @@ B.3. lugal-ŋu₁₀ [...]
 #etcsl#altGrpc
 
 @(B.1 = 1-3)  @varh[t3106.v5]{…… } @vart[t3106.v6,t3106.v5]{@varn{an Akkadian gloss has instead:} The letter of } my lord ……. Whatever ……, my lord, ……. My lord should ……!
-
-
-

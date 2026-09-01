@@ -1,6 +1,6 @@
 &Q000682 = A hymn to Nanna (Nanna M)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.13
@@ -165,21 +165,7 @@
 :26v.1.1: ($the other ms. has:$) dumu-saŋ {d}en-lil₂-la₂ [igi]-bi
 #lem: dumusaŋ[first-born]; Enlil[1]DN; igi[eye]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) Princely lord ……, great lord of heaven ……! In the city which like the sea inspires awe! Far-seeing @wDN{Suen}, ruler of @wSN{Urim}! O @wDN{Suen}, princely lord ……, great lord of heaven ……! In the city which like the sea inspires awe! Far-seeing @wDN{Suen}, ruler of @wSN{Urim}!
 
@@ -192,5 +178,3 @@
 #etcsl#altGrpo
 #etcsl#alt t41313.v1 t41313.v2
 #etcsl#altGrpc
-
-

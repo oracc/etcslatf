@@ -1,6 +1,6 @@
 &Q000674 = A hymn to Nanna (Nanna E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.13.05
@@ -284,21 +284,7 @@
 
 #etcsl#doc This line is written on the left edge of the tablet and may represent an accidentally omitted line, or else the catchline to another composition, possibly an incantation.
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) Princely son, you are radiant as you come forth from the sacred bathing chamber (?), ……. …… the mountain of pure divine powers, the @fsux{abzu} shrine, ……. …… the majestic foundation platform, ……. Bringing terrifying radiance from the marshes, you …… a fearsome …….
 
@@ -323,6 +309,3 @@
 @(66 = 66-68) @wDN{Suen}, the sage lord, majestic throughout heaven and earth, who perfects the pure dais, @wDN{Ašimbabbar} who wears (?) the diadem and just crown with majestic, shining horns, lifts his head.
 
 @(69 = 69) Sacred oil, pure oil, cleansing oil! @notep{This line is written on the left edge of the tablet and may represent an accidentally omitted line, or else the catchline to another composition, possibly an incantation.}
-
-
-

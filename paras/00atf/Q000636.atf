@@ -1,6 +1,6 @@
 &Q000636 = The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.05
@@ -57,21 +57,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) He has sprouted, he has burgeoned, he is well-watered lettuce, my shaded garden of the desert, richly flourishing,  @varh[t40805.v1]{his mother's favourite } @vart[t40805.v2,t40805.v1]{@varn{1 ms. has instead:} he is well-watered lettuce }; my grain lovely in beauty in its furrows, he is well-watered lettuce; my first-class fruitful apple tree, he is well-watered lettuce.
 
@@ -87,6 +73,3 @@
 
 
 @(11 = 11) A @fsux{balbale} of @wDN{Inana}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000381 = The lament for Nibru
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.2.4
@@ -235,7 +235,7 @@ B.52. ŋiš#-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -355,7 +355,7 @@ D.78. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu E
 
@@ -523,7 +523,7 @@ F.116. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu G
 
@@ -627,7 +627,7 @@ H.138. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu I
 
@@ -715,7 +715,7 @@ J.156. ŋiš-gi₄-ŋal₂-bi-[im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu K
 
@@ -827,7 +827,7 @@ L.180. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu M
 
@@ -975,7 +975,7 @@ N.213. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu O
 
@@ -1123,7 +1123,7 @@ P.246. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu Q
 

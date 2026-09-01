@@ -1,6 +1,6 @@
 &Q000548 = Letter from Šulgi to Puzur-Šulgi about waterways
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.10
@@ -121,21 +121,7 @@ $ 1 line missing
 #lem: amaru[flood]
 #etcsl: line-id=28
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wPN{Puzur-@wRN{Šulgi}}, commander of the fortress @wGN{Igi-ḫursaŋa}: this is what @wRN{Šulgi}, your lord, says:
 
@@ -155,6 +141,3 @@ $ 1 line missing
 @(17 = 17-22) …… is sending to me ……. I will ask you (?) ……. …… of @wGN{Zimudar} shall indeed come to you …….  @gap{1 line fragmentary}  …… was taken (?).
 
 @(23 = 23-28) …… be sent. I (?) know very well ……. …… abandon you (?). Should …… take ……, you both ……. It is urgent!
-
-
-

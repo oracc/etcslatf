@@ -1,6 +1,6 @@
 &Q000726 = A šir-namšub to Ninurta (Ninurta G)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.27.07
@@ -455,7 +455,7 @@ A.111. [ŋiš]-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kišu B
 
@@ -741,7 +741,7 @@ B.184. ki-šu₂-bi#-[im]
 
 @end trailer
 
-@end kicu
+@end kišu
 
 @div trailer 
 

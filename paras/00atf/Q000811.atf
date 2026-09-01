@@ -1,6 +1,6 @@
 &Q000811 = Proverbs: collection 18
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.18
@@ -202,23 +202,7 @@ B.18.b1.1. BA# X [...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (approx. 13 lines missing)
 #lg 18.1	proverb
@@ -287,6 +271,3 @@ $ (unplaced)
 #lg 18.b1	proverb
 
 @(B.18.b1.1 = 1)  @note{= Alster 1997 p. 242 B rev. 1}  @gap{1 line fragmentary} 
-
-
-

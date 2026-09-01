@@ -1,6 +1,6 @@
 &Q000330 = OB catalogue at Yale (Y2)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.12
@@ -129,9 +129,3 @@ B.11. X X
 
 $ (unknown no. of lines missing)
 @end segment
-
-
-
-
-
-

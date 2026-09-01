@@ -1,6 +1,6 @@
 &Q000712 = An adab to Ninisina (Ninisina E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.22.5
@@ -165,7 +165,7 @@ B.B.7. [sa-ŋar-ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal C
 
@@ -181,7 +181,7 @@ B.C.9. ŋiš#-[gi₄-ŋal₂ sa-ŋar-ra-bi]-im#
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru D
 

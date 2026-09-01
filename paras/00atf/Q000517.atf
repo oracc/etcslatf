@@ -1,6 +1,6 @@
 &Q000517 = A praise poem of Anam (Anam A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.7.1.1
@@ -170,21 +170,7 @@
 #lem: du[spread]; Nibru[1]SN; šu[hand]; bar[place outside]
 #etcsl: line-id=41
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-11) @wRN{Anam}, lord, ……, ……, perfect in your broad wisdom, ……, who preserves @wSN{Nibru}, who prevents the city from having ……! Sweet breeze (?) of his city, father of the region of @wSN{Unug}, judge who …… in his verdicts, reverent ……, who fears @wDN{An} and @wDN{Inana}! Who cherishes @wTN{E-ana}, who is happy there …… in friendly words! Mighty ……, heart's desire of @wDN{Inana}, who reveres the …… of the Land, …… with head high, @fsux{en} priest of @wDN{Inana}, ……, all-knowing!
 
@@ -193,6 +179,3 @@
 @(26 = 26-37) ……, excelling in the Land, you pray justly …… in its fine ……. Standing steadfastly in prayer ……, you determine food offerings. And you, ……, lady, great goddess who goes by one's side, have determined a great destiny until distant times for him who has set up permanent statues in @wTN{E-ana} and @wTN{E-me-urur}, …… for the man whose destiny will not be spoiled,  @gap{1 line unclear}  The lady, the nurse @wDN{Nanaya}, who stands there like a great wall at the door of @wTN{E-ana}, has decreed throughout heaven and earth that …… and should spend long days in heartfelt joy; and she has fixed life, progeny and luxury as your lot.
 
 @(38 = 38-41) You are grandly there for @wDN{Enlil}! As befits your calling as lord, you have freed from @wSN{Unug} and its settlements, and released to @wSN{Nibru}, the citizens of @wSN{Nibru}, slaves and slavegirls, who have much …….
-
-
-

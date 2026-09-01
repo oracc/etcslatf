@@ -1,6 +1,6 @@
 &Q000637 = A balbale to Inana (Dumuzid-Inana F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.06
@@ -179,16 +179,7 @@ $ (approx. 3 lines missing)
 
 @end trailer
 
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) I, the queen, will look with wonder at the foliage. I, @wDN{Inana}, will gaze at the open foliage. May my bridegroom speak to me …… kindly words such as a farmer or a shepherd would speak.
 
@@ -206,6 +197,3 @@ $ (approx. 3 lines missing)
 
 
 @(45 = 45) A @fsux{balbale} of @wDN{Inana}.
-
-
-

@@ -1,6 +1,6 @@
 &Q000558 = Letter from Ibbi-Suen to Išbi-Erra about his bad conduct
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.18
@@ -78,21 +78,7 @@
 #lem: agin[thus]; Martu[1 Amorite]; an[sky]; gi[turn]
 #etcsl: line-id=18
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wRN{Išbi-@wDN{Erra}}: this is what your lord (?), @wRN{Ibbi-@wDN{Suen}}, says:
 
@@ -101,6 +87,3 @@
 @(11 = 11-13) You have received 20 talents of silver to purchase grain. You purchase it at the price of one shekel of silver per 2 @fsux{gur} of grain, but in dealing with me, you fix the price at one shekel of silver per 1 @fsux{gur} of grain!
 
 @(14 = 14-18) How could you allow @wPN{Puzur-@wDN{Numušda}}, the commander of the fortress @wGN{Igi-ḫursaŋa}, to let the hostile @wEN{Martu} penetrate into my Land? Until now (?) he has not (?) sent to you word (?) about engaging in battle. There are puny men in the Land! Why has he not (?) faced the @wEN{Martu}?
-
-
-

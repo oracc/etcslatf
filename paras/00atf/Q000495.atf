@@ -1,6 +1,6 @@
 &Q000495 = An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.6.6
@@ -113,7 +113,7 @@ B.C.11. sa-ŋar-ra-am₃#
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -129,7 +129,7 @@ B.D.13. ŋiš-gi-ŋal₂-bi-im#
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru E
 
@@ -157,22 +157,7 @@ B.E.17. u₁₈-ru₁₂-[bi-im]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -219,6 +204,3 @@ B.E.17. u₁₈-ru₁₂-[bi-im]
 
 
 @(B.E.17 = 17) Its @fsux{uru}.
-
-
-

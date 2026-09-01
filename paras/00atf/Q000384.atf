@@ -1,6 +1,6 @@
 &Q000384 = An adab to Bau for Luma (Luma A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.3.1
@@ -158,7 +158,7 @@ B.34. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -264,21 +264,7 @@ C.58. a-da-ab {d}ba-u₂-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -315,7 +301,3 @@ C.58. a-da-ab {d}ba-u₂-kam
 
 
 @(C.58 = 58) An @fsux{adab} of @wDN{Bau}.
-
-
-
-

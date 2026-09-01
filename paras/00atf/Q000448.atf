@@ -1,6 +1,6 @@
 &Q000448 = A praise poem of Iddin-Dagan (Iddin-Dagan B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.3.2
@@ -322,21 +322,7 @@
 #lem: Iddindagan[1]RN; namnun[magnificence]; gu[neck]; an[sky]; zig[rise]
 #etcsl: line-id=79
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-4) @wRN{Iddin-@wDN{Dagan}}, in his majestic location @wDN{An} has decided a great fate for you, has made the just crown shine for you, has raised you to shepherdship over the Land, has placed the foreign lands at your feet.
 
@@ -361,6 +347,3 @@
 @(64 = 64-70) May your exceeding wisdom, given by the tablets of @wDN{Nisaba}, never cease on the clay in the tablet house. In this tablet house, like a shrine fashioning everything, may it never come to an end. May @wDN{Nisaba}, the shining …… lady, give wisdom to the junior scribe who puts his hand to the clay and writes this on it. May she show generosity. In the place of writing may she come forth like the sun for him.
 
 @(71 = 71-79) @wRN{Iddin-@wDN{Dagan}}, your father @wRN{Šu-ilīšu}, the king of the Land, made the foundation of @wGN{Sumer} and @wGN{Akkad} firm for you. By the commands of @wDN{An} and @wDN{Enlil} you excel and overwhelm the enemy territories. @wRN{Iddin-@wDN{Dagan}}, mighty king, king of @wSN{Isin}, king of @wGN{Sumer} and @wGN{Akkad}, everything to the end of wisdom has come forward for you. You are the mighty heir, you have authority, @wRN{Iddin-@wDN{Dagan}}, you have raised the neck to heaven in princeship.
-
-
-

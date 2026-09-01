@@ -1,6 +1,6 @@
 &Q000466 = An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.16
@@ -77,7 +77,7 @@ B.14. ŋiš-gi₄-ŋal₂# [sa-gid₂-da-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 

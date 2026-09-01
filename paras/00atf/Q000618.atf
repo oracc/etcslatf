@@ -1,6 +1,6 @@
 &Q000618 = A šir-šag-ḫula to Damgalnuna (Damgalnuna A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.03.1
@@ -134,23 +134,7 @@ D.6. šir₃-šag₄-hul₂-la {d}dam-gal-nun#-[na-kam]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-9) The great prince @wDN{Enki}, …… heaven and earth, …… cherishes you. Bride of @wDN{Enki} who determines fates favourably, great wild cow, exceptional in appearance, pre-eminent forever! Your husband, the great lord @wDN{Nudimmud} who makes perfect the borders of the Land, the lord on whom @wDN{An} the king has bestowed perceptiveness; the wise adviser, the sage lord whose command is foremost, who is skilful in everything, the majestic leader who pleases (?) @wDN{Enlil's} heart; whose divine powers cannot be withstood, he of deep understanding, called by an auspicious name, reaching decisions …… who is knowledgeable about giving birth, ……,  @gap{unknown no. of lines missing} 
@@ -168,6 +152,3 @@ $ (unknown no. of lines missing)
 
 
 @(D.6 = 6) A @fsux{šir-šagḫula} of @wDN{Damgalnuna}.
-
-
-

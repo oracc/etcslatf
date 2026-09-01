@@ -1,6 +1,6 @@
 &Q000413 = An adab (?) to Nergal for Šulgi (?) (Šulgi U)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.21
@@ -33,7 +33,7 @@ A.5. šag₄-ba-tuku 2-[kam-ma-am₃]
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div barsud B
 
@@ -157,7 +157,7 @@ E.x. ŋiš#-[gi₄-ŋal₂-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown E
 
@@ -169,21 +169,7 @@ x.
 $ (unknown no. of lines missing)
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	cagbatuku
 
@@ -237,6 +223,3 @@ $ (unknown no. of lines missing)
 
 
 @(x = x)  @gap{unknown no. of lines missing} 
-
-
-

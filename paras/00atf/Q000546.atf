@@ -1,6 +1,6 @@
 &Q000546 = Letter from Puzur-Šulgi to Šulgi about the advance of the enemy
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.07
@@ -227,21 +227,7 @@
 :34v.1.1: ($1 ms. adds:$) a-ma-ru-[kam]
 #lem: amaru[flood]
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-3) Say to my lord: this is what  @varh[t3107.v1]{@wPN{Puzur-@wRN{Šulgi}} } @vart[t3107.v2,t3107.v1]{@varn{1 ms. has instead:} @wPN{Puzur-@wDN{Marduk}} } @vart[t3107.v3,t3107.v1]{@varn{1 other ms. has instead:} @wPN{Puzur-@wDN{Numušda}} }, the commander of the fortress @wGN{Igi-ḫursaŋa}, your servant, says:
 
@@ -300,6 +286,3 @@
 #etcsl#altGrpc
 
 @(32 = 32-34) I am the loyal servant of my lord @wRN{Šulgi}.  @vart[t3107.v43,t3107.v43]{@varn{1 ms. adds:} …… which is not negligent. } Let this not be the death of me! May my lord know!  @vart[t3107.v44,t3107.v44]{@varn{1 ms. adds:} It is urgent! }
-
-
-

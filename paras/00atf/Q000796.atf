@@ -1,6 +1,6 @@
 &Q000796 = Proverbs: collection 2 + 6
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.02
@@ -2332,22 +2332,7 @@ D.2.d18.27. [...] X [...]
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 2.1	proverb
 
@@ -3188,6 +3173,3 @@ $ (unknown no. of lines missing)
 #lg 2.d18	proverb
 
 @(D.2.d18.27 = 27)  @note{= Alster 1997 6.53}  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

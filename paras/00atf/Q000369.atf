@@ -1,6 +1,6 @@
 &Q000369 = Enmerkar and the lord of Aratta
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.2.3
@@ -2627,20 +2627,7 @@ $ 3 lines missing
 
 $ (approx. 6 lines missing)
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-24) City, majestic bull bearing vigour and great awesome splendour, @wSN{Kulaba}, ……, breast of the storm, where destiny is determined; @wSN{Unug}, great mountain, in the midst of ……. There the evening meal of the great abode of @wDN{An} was set. In those days of yore, when the destinies were determined, the great princes allowed @wSN{Unug} @wSN{Kulaba's} @wTN{E-ana} to lift its head high. Plenty, and carp floods, and the rain which brings forth dappled barley were then increased in @wSN{Unug} @wSN{Kulaba}. Before the land of @wGN{Dilmun} yet existed, the @wTN{E-ana} of @wSN{Unug} @wSN{Kulaba} was well founded, and the holy @fsux{ŋipar} of @wDN{Inana} in brick-built @wSN{Kulaba} shone forth like the silver in the lode. Before …… carried ……, before ……, before …… carried ……, before the commerce was practised; before gold, silver, copper, tin, blocks of lapis lazuli, and mountain stones were brought down together from their mountains, before …… bathed for the festival, ……, …… time passed.  @gap{2 lines missing} 
 
@@ -2763,5 +2750,3 @@ $ (approx. 6 lines missing)
 #etcsl#linkGrpo
 #etcsl#link type=q t1823.q12 t1823.q13
 #etcsl#linkGrpc
-
-

@@ -1,6 +1,6 @@
 &Q000788 = A man and his god
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.2.4
@@ -571,7 +571,7 @@ A.144. ŋiš#-gi₄-ŋal₂
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -587,21 +587,7 @@ A.146. diŋir lu₂-ulu₃-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	jicgijal
 
@@ -651,6 +637,3 @@ A.146. diŋir lu₂-ulu₃-kam
 
 
 @(A.145 = 145-146) An @fsux{eršagneša} for a man's god. @notep{lines 144 and 145 are written as one line in source}
-
-
-

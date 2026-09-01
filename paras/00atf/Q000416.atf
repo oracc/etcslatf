@@ -1,6 +1,6 @@
 &Q000416 = A praise poem of Šulgi (Šulgi X)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.24
@@ -627,21 +627,7 @@ $ 5 lines missing
 #lem: Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=160
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) The king sailed to @wSN{Unug} towards the princely divine powers. @wGN{Sumer} and @wGN{Akkad} marvelled at him as he moored the boat at the quay of @wSN{Kulaba}. With a large wild bull of the mountains with uplifted horns, and with a sheep led by the hand of an @fsux{en} priest at his right side, with a dappled kid and a bearded kid clasped to his breast, he entered before @wDN{Inana} in the shrine of @wTN{E-ana}.
 
@@ -680,6 +666,3 @@ $ 5 lines missing
 @(151 = 151-159) Because the king exulted in his triumph and let his might radiate, because he implemented (?) his heroism perfectly, made the rebellious land bow and made our city, @wSN{Urim}, rise in prosperity; because the king is adorned with a lapis-lazuli crown (?); because the son of @wDN{Enlil} lifts his head high, wearing a wide crown; because he takes counsel with @wDN{An} in his lofty place and is enthroned with @wDN{Uraš} on a great dais; because he makes the Land of @wGN{Sumer} and all the foreign lands dance with joy day and night, may Lord @wDN{Ašimbabbar} be praised.
 
 @(160 = 160) @wDN{Nisaba} be praised!
-
-
-

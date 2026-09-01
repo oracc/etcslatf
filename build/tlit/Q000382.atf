@@ -1,6 +1,6 @@
 &Q000382 = The lament for Unug
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.2.5
@@ -416,7 +416,7 @@ $ (small no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu D
 
@@ -564,7 +564,7 @@ $ (small no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu F
 
@@ -716,7 +716,7 @@ $ (small no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu H
 
@@ -881,7 +881,7 @@ $ (small no. of lines missing)
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu J
 

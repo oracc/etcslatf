@@ -1,6 +1,6 @@
 &Q000323 = OB catalogue from Urim (U1)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.03
@@ -131,9 +131,3 @@
 25. šag₄ {gi}pisaŋ murub₄ %akk e-lu-um
 #lem: šag[heart]; bisaŋ[basket]; murub[middle]; L
 #etcsl: line-id=25
-
-
-
-
-
-

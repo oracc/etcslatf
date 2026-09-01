@@ -1,6 +1,6 @@
 &Q000454 = An adab (?) to Enki for Išme-Dagan (Išme-Dagan D)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.04
@@ -90,7 +90,7 @@ B.C.11. ŋiš-gi₄-ŋal₂ sa-gid₂-[da-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara D
 
@@ -166,7 +166,7 @@ B.D.28. sa-ŋar-ra-[am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal E
 
@@ -182,26 +182,11 @@ B.E.30. ŋiš-gi₄-ŋal₂# sa-[ŋar-ra-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -248,6 +233,3 @@ B.E.30. ŋiš-gi₄-ŋal₂# sa-[ŋar-ra-bi-im]
 
 
 @(B.E.30 = 30) @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
-
-
-

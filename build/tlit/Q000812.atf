@@ -1,6 +1,6 @@
 &Q000812 = Proverbs: collection 19
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.19

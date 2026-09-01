@@ -1,6 +1,6 @@
 &Q000388 = A praise poem of Ur-Namma (Ur-Namma C)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.3

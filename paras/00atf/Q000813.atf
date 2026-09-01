@@ -1,6 +1,6 @@
 &Q000813 = Proverbs: collection 21
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.21
@@ -472,22 +472,7 @@ F.21.f1.4. [...] X [...]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 $ (= Alster 1997 p. 260 Ni 3206)
 
@@ -632,6 +617,3 @@ $ (= Alster 1997 p. 260 N 7918; unplaced; may not belong in collection 21)
 #lg 21.f1	proverb
 
 @(F.21.f1.1 = 1-4)   @gap{4 lines fragmentary} 
-
-
-

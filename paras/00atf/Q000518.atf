@@ -1,6 +1,6 @@
 &Q000518 = A praise poem of Ḫammu-ràbi (Ḫammu-ràbi A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.2.1
@@ -397,23 +397,7 @@ F.22. [X X] X X GAR [...]
 $ (unknown no. of lines missing)
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
-
 
 $ (unknown no. of lines missing)
 @(A.1 = 1-17)   @gap{1 line fragmentary}  …… acting as its lord ……  @gap{7 lines fragmentary}  …… the black-headed ……. …… the @wWN{Euphrates} ……. …… the @wWN{Tigris} ……. …… on the banks of the @wWN{Irnina} watercourse ……. King @wRN{Ḫammu-rābi} …… @wDN{Gibil} @noteref{the god of fire}. @wDN{Enlil} ……. @wDN{Enki} …… heroism. @wDN{Suen} …….
@@ -434,6 +418,3 @@ $ (unknown no. of lines missing)
 
 
 @(F.1 = 1-22)  @gap{1 line fragmentary}  …… its prince (?) @wDN{Marduk} who ……. …… curse ……. …… great wrath …… @wDN{Marduk} ……. …… midst of the great gods ……  @gap{1 line fragmentary}  …… weapon …….  @gap{1 line fragmentary}  …… brickwork (?) …….  @gap{9 lines fragmentary}  …… portion …….  @gap{1 line fragmentary}  …… the black-headed …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

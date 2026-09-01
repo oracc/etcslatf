@@ -1,6 +1,6 @@
 &Q000639 = A tigi to Inana (Dumuzid-Inana H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.08
@@ -123,7 +123,7 @@ A.B.26. [...] X X X [...]
 #etcsl: line-id=A.B.26
 
 $ (approx. 11 lines missing)
-@end sa-jara
+@end sa-ŋara
 
 @end segment
 
@@ -219,7 +219,7 @@ B.B.21. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 

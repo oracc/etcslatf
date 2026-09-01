@@ -1,6 +1,6 @@
 &Q000328 = OB catalogue from Nibru (N4)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.08
@@ -313,9 +313,3 @@ G.6. X [...]
 
 $ (unknown no. of lines missing)
 @end segment
-
-
-
-
-
-

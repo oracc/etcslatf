@@ -1,6 +1,6 @@
 &Q000491 = A tigi to Enki for Ur-Ninurta (Ur-Ninurta B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.6.2
@@ -118,7 +118,7 @@ B.24. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div sa-ŋara C
 
@@ -170,7 +170,7 @@ C.35. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div unknown D
 

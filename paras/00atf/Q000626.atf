@@ -1,6 +1,6 @@
 &Q000626 = A tigi to Inana (Inana E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.07.5
@@ -236,7 +236,7 @@ B.54. sa-ŋar-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div trailer 
 
@@ -248,21 +248,7 @@ B.55. tigi₂ {d}inana-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -310,6 +296,3 @@ B.55. tigi₂ {d}inana-kam
 
 
 @(B.55 = 55) A @fsux{tigi} of @wDN{Inana}. @notep{lines 54 and 55 are written as one line in source}
-
-
-

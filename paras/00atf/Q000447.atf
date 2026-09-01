@@ -1,6 +1,6 @@
 &Q000447 = A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.3.1
@@ -98,7 +98,7 @@ B.19. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu C
 
@@ -675,7 +675,7 @@ J.132. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div šagbatuku K
 
@@ -691,7 +691,7 @@ K.134. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div kirugu L
 
@@ -1148,7 +1148,7 @@ N.229. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -1158,21 +1158,7 @@ N.230. šir₃-nam-ur-saŋ-ŋa₂ {d}[nin]-si-an-na-ka
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	kirugu
 
@@ -1389,6 +1375,3 @@ N.230. šir₃-nam-ur-saŋ-ŋa₂ {d}[nin]-si-an-na-ka
 
 
 @(N.230 = 230) A @fsux{šir-namursaŋa} of @wDN{Ninsiana}.
-
-
-

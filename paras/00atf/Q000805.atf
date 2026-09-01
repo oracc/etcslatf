@@ -1,6 +1,6 @@
 &Q000805 = Proverbs: collection 12
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.12
@@ -696,22 +696,7 @@ F.12.f4.5. ŋiš₃-a-ni sila₃ GI ab-kiŋ₂-kiŋ₂-e
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg 12.a1	proverb
 
@@ -919,6 +904,3 @@ $ (unplaced)
 #lg 12.f4	proverb
 
 @(F.12.f4.4 = 4-5)  @note{= Alster 1997 p. 205 CBS 7800 rev. 4} …… bound to his wife …… his penis seeks a litre …….
-
-
-

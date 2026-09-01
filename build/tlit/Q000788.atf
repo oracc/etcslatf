@@ -1,6 +1,6 @@
 &Q000788 = A man and his god
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.2.4
@@ -571,7 +571,7 @@ A.144. ŋiš#-gi₄-ŋal₂
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 

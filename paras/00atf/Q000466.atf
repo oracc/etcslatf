@@ -1,6 +1,6 @@
 &Q000466 = An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.16
@@ -77,7 +77,7 @@ B.14. ŋiš-gi₄-ŋal₂# [sa-gid₂-da-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown C
 
@@ -136,21 +136,7 @@ C.27. X X [...]
 $ (unknown no. of lines missing)
 @end unknown
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -178,6 +164,3 @@ $ (unknown no. of lines missing)
 
 
 @(C.15 = 15-27)  @gap{2 lines fragmentary}  …… in the @wTN{Ubšu-unkena}. …… the status of @wDN{Enlil} ……. …… the power of the Great Mountain @wDN{Enlil} ……. …… my man ……. Prince @wRN{Išme-@wDN{Dagan}} ……. …… @wDN{Ninurta} ……. …… fifty-headed battle-mace ……. …… @wRN{Išme-@wDN{Dagan}} …….  @gap{1 line fragmentary}  …… great copper throne …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
-
-
-

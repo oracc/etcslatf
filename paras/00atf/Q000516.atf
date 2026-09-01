@@ -1,6 +1,6 @@
 &Q000516 = An excerpt from a prayer for Rīm-Sîn
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.a
@@ -45,23 +45,6 @@
 #lem: sipad[shepherd]; uŋ[people]; šar[numerous]V/i; An[1]DN; gal[big]; ŋar[put]
 #etcsl: line-id=9
 
-
-
-
-
-
-
-
 @translation labeled en project
 
-
-
-
-
-
-
-
 @(1 = 1-9) O @wDN{An}, strengthen the foundations of the throne of life. @wRN{Rīm-@wDN{Sîn}}, may your name be called by a name of life; may he look upon you with favourable eyes, and pay attention to you.  @gap{1 line unclear}  May he determine a destiny of life as a fate for you. @wRN{Rīm-@wDN{Sîn}}, may you be beloved of @wDN{An}, and may your kingship endure forever. Great @wDN{An}, make him shepherd of the numerous people.
-
-
-

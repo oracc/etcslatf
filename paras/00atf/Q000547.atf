@@ -1,6 +1,6 @@
 &Q000547 = Letter from Šulgi to Puzur-Šulgi about the fortress Igi-ḫursaŋa
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.08
@@ -284,21 +284,7 @@ $ (1 line fragmentary)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A
 
@@ -347,4 +333,3 @@ $ (1 line fragmentary)
 @(2.31 = 31) When the fortress is completed, a letter from the two of you should reach me (?).
 
 @(2.32 = 32-36) When you have seen for yourselves, let @wPN{Lu-@wDN{Nanna}}, the ruler of the province of @wGN{Zimudar}, proceed to his troops. You and @wPN{Aradŋu} should not delay them! Let the building work proceed both by night and by the noonday heat. Your (?) orders are rigorous, and you should not give up this work load. It is urgent!
-

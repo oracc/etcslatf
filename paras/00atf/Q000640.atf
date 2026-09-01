@@ -1,6 +1,6 @@
 &Q000640 = A kunŋar to Inana (Dumuzid-Inana I)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.09
@@ -196,21 +196,7 @@
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) @q[Inana,Dumuzid]{“If it were not for our mother, he would be chasing me along the dark (?) paths of the desert! If it were not for our mother, this young man would be chasing me along the dark (?) paths of the desert! If it were not for my mother @wDN{Ningal}, he would be chasing me along the dark (?) paths of the desert! If it were not for @wDN{Ningikuga}, he would be chasing me along the dark (?) paths of the desert! If it were not for Father @wDN{Suen}, he would be chasing me along the dark (?) paths of the desert! If it were not for my brother @wDN{Utu}, he would be chasing me along the dark (?) paths of the desert!”}
 
@@ -229,6 +215,3 @@
 
 
 @(46 = 46) A @fsux{kunŋar} of @wDN{Inana}.
-
-
-

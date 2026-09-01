@@ -1,6 +1,6 @@
 &Q000471 = An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.21
@@ -65,7 +65,7 @@ A.13. [sa]-ŋar-[ra-am₃]
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal B
 
@@ -81,7 +81,7 @@ B.15. [ŋiš-gi₄]-ŋal₂ sa-ŋar#-[ra-bi-im]
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div uru C
 

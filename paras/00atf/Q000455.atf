@@ -1,6 +1,6 @@
 &Q000455 = A balbale to Enki for Išme-Dagan (Išme-Dagan E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.05
@@ -222,7 +222,7 @@ D.E.8. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -236,22 +236,7 @@ D.E.9. bal-bal-e {d}en-ki-ka-[kam]
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	unknown
 
@@ -294,6 +279,3 @@ $ (The sequence of Segments B and C is uncertain, and they may well belong to a 
 
 
 @(D.E.9 = 9) A @fsux{balbale} of @wDN{Enki}. @notep{lines 8 and 9 are written as one line in source}
-
-
-

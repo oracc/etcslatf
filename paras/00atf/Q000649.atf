@@ -1,6 +1,6 @@
 &Q000649 = A song of Inana and Dumuzid (Dumuzid-Inana R)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.18
@@ -285,21 +285,7 @@ $ (unknown no. of lines missing)
 
 @end version
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @h1 Version A (of three closely related compositions)
 
@@ -345,4 +331,3 @@ $ (unknown no. of lines missing)
 #trailer subscript	missing
 
 @(3.19 = 19) A …… song.
-

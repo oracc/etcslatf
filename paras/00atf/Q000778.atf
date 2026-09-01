@@ -1,6 +1,6 @@
 &Q000778 = The song of the hoe
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.5.4
@@ -503,21 +503,7 @@
 #lem: Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=109
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 $ (In this composition, the word @fsux{al} 'hoe' is used as often as possible, as well as many nouns or verb forms beginning with -- or merely containing -- the syllable @fsux{al} (occasionally also @fsux{ar}).)
 
@@ -591,6 +577,3 @@ $ (In this composition, the word @fsux{al} 'hoe' is used as often as possible, a
 #etcsl#altGrpc
 
 @(107 = 107-109) The hoe (@fsux{al}), the implement whose destiny was fixed by Father @wDN{Enlil} -- the renowned hoe (@fsux{al})! @wDN{Nisaba} be praised!
-
-
-

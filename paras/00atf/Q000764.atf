@@ -1,6 +1,6 @@
 &Q000764 = The debate between Bird and Fish
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.3.5
@@ -803,20 +803,7 @@ $ 1 line missing
 #lem: aya[father]; Enkik[1]DN; zamin[praise]
 #etcsl: line-id=190
 
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-12) In those ancient days, when the good destinies had been decreed, and after @wDN{An} and @wDN{Enlil} had set up the divine rules of heaven and earth, then the third of them, ……, the lord of broad wisdom, @wDN{Enki}, the master of destinies, gathered together …… and founded dwelling places; he took in his hand waters to encourage and create good seed; he laid out side by side the @wWN{Tigris} and the @wWN{Euphrates}, and caused them to bring water from the mountains; he scoured out the smaller streams, and positioned the other watercourses. …… @wDN{Enki} made spacious sheepfolds and cattle-pens, and provided shepherds and herdsmen; he founded cities and settlements throughout the earth, and made the black-headed multiply. He provided them with a king as shepherd, elevating him to sovereignty over them; the king rose as the daylight over the foreign countries.
 
@@ -900,6 +887,3 @@ $ 1 line missing
 #etcsl#altGrpc
 
 @(178 = 178-190) Thereupon Fish …… Bird.  @gap{6 lines missing or fragmentary}  …… @wDN{Enki} …… bestowed.  @gap{1 line fragmentary}  In the @fsux{abzu} of @wSN{Eridug} …… Bird ……. Because Bird was victorious over Fish in the dispute between Fish and Bird, Father @wDN{Enki} be praised!
-
-
-

@@ -1,6 +1,6 @@
 &Q000580 = Letter from Šamaš-ṭàb to Ilak-ni'id
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.08
@@ -104,21 +104,7 @@
 #lem: amaru[flood]
 #etcsl: line-id=19
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wPN{Ilak-niʾid} what @wPN{Šamaš-ṭāb} says:
 
@@ -133,6 +119,3 @@
 #etcsl#altGrpo
 #etcsl#alt t3308.v3 t3308.v4
 #etcsl#altGrpc
-
-
-

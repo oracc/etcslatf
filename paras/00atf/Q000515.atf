@@ -1,6 +1,6 @@
 &Q000515 = An adab to Inana for Rīm-Sîn (Rīm-Sîn H)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.8
@@ -107,7 +107,7 @@ B.C.7. sa-<ŋar>-ra-am₃
 
 @end trailer
 
-@end sa-jara
+@end sa-ŋara
 
 @div ŋišgiŋal D
 
@@ -139,7 +139,7 @@ B.D.13. [ŋiš-gi]-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 
@@ -151,22 +151,7 @@ B.D.14. [a-da]-ab# {d}inana-kam
 
 @end segment
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
-
 
 #lg A	barsud
 
@@ -208,6 +193,3 @@ B.D.14. [a-da]-ab# {d}inana-kam
 #trailer subscript	adab
 
 @(B.D.14 = 14) An @fsux{adab} of @wDN{Inana}.
-
-
-

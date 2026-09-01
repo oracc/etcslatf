@@ -1,6 +1,6 @@
 &Q000738 = A šir-gida to Nuska (Nuska B)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.29.2
@@ -207,21 +207,7 @@ $ (approx. 30 lines missing)
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-6) ……, @wDN{Enlil} decreed your birth in the @wTN{E-kur}! @wDN{Nuska}, @wDN{Enlil} decreed your birth in the @wTN{E-kur}! Lord @wDN{Nudimmud}, the king of prosperity, honoured you in the @fsux{abzu}. Good minister, I shall praise you! @wDN{Nuska}, majestic minister of @wDN{Enlil}, your praise is good and most sweet. My king, I shall praise you in song!
 
@@ -241,6 +227,3 @@ $ (approx. 30 lines missing)
 
 
 @(79 = 79) A @fsux{šir-gida} of @wDN{Nuska}.
-
-
-

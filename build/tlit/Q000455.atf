@@ -1,6 +1,6 @@
 &Q000455 = A balbale to Enki for Išme-Dagan (Išme-Dagan E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.05
@@ -222,7 +222,7 @@ D.E.8. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div trailer 
 

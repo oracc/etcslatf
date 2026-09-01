@@ -1,6 +1,6 @@
 &Q000485 = A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.5.5
@@ -24,7 +24,7 @@ A.3. šag₄-ba-tuku-am₃
 
 @end trailer
 
-@end cagbatuku
+@end šagbatuku
 
 @div kirugu B
 
@@ -92,7 +92,7 @@ C.16. [ŋiš]-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div kirugu D
 
@@ -156,7 +156,7 @@ E.28. ŋiš-gi₄-ŋal₂-bi-im
 
 @end trailer
 
-@end jicgijal
+@end ŋišgiŋal
 
 @div unknown F
 
@@ -178,21 +178,7 @@ F.31. šir₃-nam-gala {d}nin-i₃-si-na-ke₄
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	cagbatuku
 
@@ -256,6 +242,3 @@ F.31. šir₃-nam-gala {d}nin-i₃-si-na-ke₄
 
 
 @(F.31 = 31) A @fsux{šir-namgala} of @wDN{Ninisina}.
-
-
-

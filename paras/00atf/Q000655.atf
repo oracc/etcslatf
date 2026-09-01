@@ -1,6 +1,6 @@
 &Q000655 = A song of Inana and Dumuzid (Dumuzid-Inana Y)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.25
@@ -228,21 +228,7 @@ $ 1 line missing
 #lem: il[raise]; dul[lower]; sa[equal]
 #etcsl: line-id=65
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(6 = 1-8)  @gap{5 lines missing}   @gap{1 line fragmentary}  …… his father like a messenger.  @gap{1 line fragmentary} 
 
@@ -263,5 +249,3 @@ $ 1 line missing
 #etcsl#altGrpo
 #etcsl#alt t40825.v1 t40825.v2
 #etcsl#altGrpc
-
-

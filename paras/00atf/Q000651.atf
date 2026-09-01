@@ -1,6 +1,6 @@
 &Q000651 = A kunŋar to Inana (Dumuzid-Inana T)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.20
@@ -220,21 +220,7 @@ B.48. kun-ŋar# {d}inana#-kam
 
 @end trailer
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 #lg A	sa-gida
 
@@ -264,6 +250,3 @@ B.48. kun-ŋar# {d}inana#-kam
 
 
 @(B.48 = 48) @fsux{Kunŋar} of @wDN{Inana}.
-
-
-

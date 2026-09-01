@@ -1,6 +1,6 @@
 &Q000556 = Letter from Šu-Suen to Šarrum-bàni about digging a trench
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.16
@@ -198,21 +198,7 @@
 #lem: amaru[flood]
 #etcsl: line-id=45
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-2) Say to @wPN{Šarrum-bāni}: this is what @wRN{Šu-@wDN{Suen}}, your lord, says:
 
@@ -247,6 +233,3 @@
 @(39 = 39-42) So as not to change the attitude of the province, you people are not to release the workers while the land has not yet been secured.
 
 @(43 = 43-45) Let messengers bring me news about those eastern provinces. This is urgent!
-
-
-

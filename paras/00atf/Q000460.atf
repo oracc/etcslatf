@@ -1,6 +1,6 @@
 &Q000460 = A love song of Išme-Dagan (Išme-Dagan J)
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/paras
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.5.4.10
@@ -110,21 +110,7 @@
 #lem: ŋidlam[(equal ranking) spouse]; u[admiration]; dug[good]; e[bring out]
 #etcsl: line-id=26
 
-
-
-
-
-
-
-
 @translation labeled en project
-
-
-
-
-
-
-
 
 @(1 = 1-8) Lady, going to the sweet-voiced cows and gentle-voiced calves in the cattle-pen, young woman, when you arrive there, @wDN{Inana}, may the churn sound! May the churn of your spouse sound, @wDN{Inana}, may the churn sound! May the churn of @wDN{Dumuzid} sound, @wDN{Inana}, may the churn sound!
 
@@ -135,6 +121,3 @@
 @(21 = 21-24) May the holy sheepfold abundantly provide (?) you with butter, may the cattle-pen produce butter and cream for you! May abundance endure in the sheepfold, may the days of @wRN{Išme-@wDN{Dagan}} be numerous!
 
 @(25 = 25-26) May my spouse, a ewe cherishing its lamb, be praised with sweet admiration!
-
-
-
