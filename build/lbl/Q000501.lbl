@@ -1,7 +1,7 @@
 &Q000501
 
 {A.1 = 1-5}
-1-5.	@gap{unknown no. of lines missing} @gap{5 lines fragmentary}
+$ (@gap{5 lines fragmentary}) 
 
 {B.1 = 1-12}
 $ (@gap{1 line fragmentary}) 
@@ -26,4 +26,4 @@ $ (@gap{1 line fragmentary})
 $ (@gap{1 line fragmentary}) 
 
 {D.1 = 1-7}
-1-7.	@gap{unknown no. of lines missing} @gap{7 lines fragmentary or missing}
+$ (@gap{7 lines fragmentary or missing}) 

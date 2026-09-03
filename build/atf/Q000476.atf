@@ -1,0 +1,138 @@
+&Q000476 = A praise poem of Išme-Dagan (Išme-Dagan AA)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.27
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.27&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+1. [...]-ta# AN X [...]
+#lem: X; X; X; X
+#tr.en: From …… he brought …… for you. 
+#etcsl: line-id=1
+
+2. [...] ma#-ra-an-e₃# [...]
+#lem: X; e[leave]; X
+#tr.en: …… the fates are decided ……. 
+#etcsl: line-id=2
+
+3. [...] nam# tar-re A [...]
+#lem: X; nam[fate]; tar[cut]; X; X
+#tr.en: He set up grandly (?) for you …… that befits the majestic dais and throne of gold. 
+#etcsl: line-id=3
+
+4. [...] MU BI# X barag# gu-za mah kug-sig₁₇ tum₂-ma-am₃# X gal#-bi ma-ra-ni-in-gub X [...]
+#lem: X; X; X; X; barag[sanctum]; guza[chair]; mah[great]; kugsig[gold]; tum[suitable]; X; gal[big]; gub[stand]; X; X
+#tr.en: They lined up before it for you …… favourable words for @wGN{Sumer} and @wGN{Akkad}. 
+#etcsl: line-id=4
+
+5. [...]-ge-bi inim sag₉-ge ki-en-gi ki-uri{ki}-še₃ X gaba-ba ma-ra-ni-in-sug₂-[...]
+#lem: X; inim[word]; sag[good]; Kengir[1]; Akkad[1 Akkad]; X; gaba[breast]; gub[stand]
+#tr.en: …… in the @wTN{E-kur} ……. 
+#etcsl: line-id=5
+
+6. [...]-ge-bi a naŋ erim₂# e₂-kur-ra KA-KA nidba₂-ra-am₃# X ki#-ba ma-ra-ni-in-sa₄-[...]
+#lem: X; a[water]; naŋ[drink]; erim[enemy]; Ekur[1]TN; X; nindaba[(food) offering]; X; ki[place]; še[call by name]
+#tr.en: food offerings. 
+#etcsl: line-id=6
+
+7. [...] im#-mi-ib₂-X X X e₂-kur-ra til-e [...] X-ge-gin₇ ak X [...]
+#lem: X; X; X; X; Ekur[1]TN; til[complete]; X; X; ak[do]; X; X
+#tr.en: …… in the @wTN{E-kur} ……. 
+#etcsl: line-id=7
+
+8. [...] X ma-ra-[...]-X-da a₂# zid-za bi₂-in-gub# [...]
+#lem: X; X; X; a[arm]; zid[right]; gub[stand]; X
+#tr.en: …… with your right arm ……. 
+#etcsl: line-id=8
+
+9. [...] X {d}iškur X IN NU še e₂-kur-ra šu X la₂-bi# [...]
+#lem: X; X; Iškur[1]DN; X; X; X; še[barley]; Ekur[1]TN; šu[hand]; X; la[hang]; X
+#tr.en: …… @wDN{Iškur} …… in the @wTN{E-kur}. 
+#etcsl: line-id=9
+
+10. [...] gu#-za mah-ba dur-ba ma-ra-an-gen₆ X [...]
+#lem: X; guza[chair]; mah[great]; dur[binding]; gin[confirm]; X; X
+#tr.en: …… on its august throne. 
+#etcsl: line-id=10
+
+11. [...] URUD# X X mah# ni₂ gal-le-eš ri-am₃# X
+#lem: X; X; X; X; mah[great]; ni[fear]; gal[big]; ri[impose]; X
+#tr.en: He …… a huge copper …… inspiring great awe, on your holy dais. 
+#etcsl: line-id=11
+
+12. barag kug-za bi₂-in-[...] uŋ₃-e u₆ di-de₃# X
+#lem: barag[sanctum]; kug[pure]; X; uŋ[people]; u[admiration]; di[speak]; X
+#tr.en: It is to be marvelled at by the people. 
+#etcsl: line-id=12
+
+13. kiŋ₂ gal unu₂ gal-za# ud ul-le₂-a-še₃ sa₂-dug₄-še₃ ma-ra-ni-[...] X
+#lem: kiŋ[work]; gal[big]; unu[dwelling]; gal[big]; ud[sun]; ul[distant time]; sadug[regular temple offerings]; X; X
+#tr.en: He …… the main task for you in your great dining hall as a regular offering forever after. 
+#etcsl: line-id=13
+
+14. {ŋiš#}[mi]-tum# saŋ 50 ki-bal gul-gul-lu a₂ mah-zu-še₃ pad₃-da#
+#lem: mitum[divine weapon]; saŋ[head]; n; kibala[rebel land]; gul[destroy]; a[arm]; mah[great]; pad[find]
+#tr.en: In @wSN{Isin}, the royal city, @wRN{Išme-@wDN{Dagan}}, …… for you in masterly fashion a fifty-headed battle-mace to destroy the rebel lands, 
+#etcsl: line-id=14
+
+15. [i₃]-si#-in{ki} iri nam-lugal-la-ka#
+#lem: Isin[1]SN; iri[city]; namlugal[kingship]
+#tr.en: chosen for your great power. For you he gave it fifty names. 
+#etcsl: line-id=15
+
+16. {[d]}iš#-me-{d}da-gan-e kiŋ₂ gal-eš₂ ma-ra-an#-[...]
+#lem: Išmedagan[1]RN; kiŋ[work]; gal[big]; X
+#tr.en: From @wSN{Isin} he …… it for you into @wSN{Nibru}, 
+#etcsl: line-id=16
+
+17. mu 50 ma-ra-an-sa₄# X
+#lem: mu[name]; n; še[call by name]; X
+#tr.en: the primeval, 
+#etcsl: line-id=17
+
+18. nibru{ki} iri ul ki ŋar#-ra-ba i₃-si-in{ki}-ta ma-ra-an#-X X
+#lem: Nibru[1]SN; iri[city]; ul[distant time]; ki[place]; ŋar[put]; Isin[1]SN; X; X
+#tr.en: well-established city and …… to be marvelled at in the @wTN{E-šu-me-ša}, 
+#etcsl: line-id=18
+
+19. e₂-šu-me-ša₄ ki-tuš mah ni₂ X [...] X
+#lem: Ešumeša[1]TN; kituš[dwelling place]; mah[great]; ni[fear]; X; X; X
+#tr.en: the majestic residence that …… fearsomeness, 
+#etcsl: line-id=19
+
+20. kan₄ igi-šu-galam ki nam tar-re-[dam]
+#lem: kan[gate]; Igišugalam[1]TN; ki[place]; nam[fate]; tar[cut]
+#tr.en: at the gate of Igi-šu-galam, 
+#etcsl: line-id=20
+
+21. u₆ di-de₃ ma-ra-an-[...]
+#lem: u[admiration]; di[speak]; X
+#tr.en: the place where fates are decided. 
+#etcsl: line-id=21
+
+22. {d}iš-me-{d}da-gan u₂-a nibru#{[ki]}-[a]
+#lem: Išmedagan[1]RN; ua[provisioner]; Nibru[1]SN
+#tr.en: @wRN{Išme-@wDN{Dagan}}, provider of @wSN{Nibru}, constant attendant of @wSN{Urim}, he who is daily in the service of @wSN{Eridug}; @fsux{en} priest of @wSN{Unug}, king of @wSN{Isin}  
+#etcsl: line-id=22
+
+23. saŋ# us₂ urim₂{ki}-ma#
+#lem: saŋ[head]; us[accompany]; Urim[1]SN
+#etcsl: line-id=23
+
+24. [ud-da] gub# eridug{[ki]}-[ga]
+#lem: ud[sun]; gub[stand]; Eridug[1]SN
+#etcsl: line-id=24
+
+25. [en unug]{[ki]}-ga# lugal i₃-[si-in]{[ki]}-[na]
+#lem: en[priest]; Unug[1]SN; lugal[king]; Isin[1]SN
+#etcsl: line-id=25
+
+$ (unknown no. of lines missing)
+
+
+
+
+
+

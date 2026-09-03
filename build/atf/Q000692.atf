@@ -1,0 +1,653 @@
+&Q000692 = Nanše and the birds (Nanše C)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.14.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.3&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. u₅{mušen} ŋiš-gi kug-ta nam-ta#-[e₃]
+#lem: u[wild goose]; ŋešgi[thicket]; kug[pure]; e[leave]
+#tr.en: The pelican (?) came forth from the holy reedbeds. 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 31; OB catalogue in the Louvre, 0.2.02, line 49
+
+A.2. ŋiš-gi kug-ga-ta nam-ta#-[e₃]
+#lem: ŋešgi[thicket]; kug[pure]; e[leave]
+#tr.en: It came forth from the holy reedbeds. 
+#etcsl: line-id=A.2
+
+A.3. u₅{mušen} kug-zu ud an-šag₄-ge mu-un-zal
+#lem: u[wild goose]; kugzu[wise]; ud[sun]; anšag[the interior of heaven]; zal[pass time]
+#tr.en: The wise pelican (?) spent the day high in the skies. 
+#etcsl: line-id=A.3
+
+A.4. u₅{mušen}-e an-na |KA×X| mu-ni-ib₂-gi₄#
+#lem: u[wild goose]; an[sky]; X; gi[turn]
+#tr.en: The pelican (?) cried out in the sky: 
+#etcsl: line-id=A.4
+
+A.5. |KA×X|-|KA×X|-bi dug₃-ga-am₃ gu₃-bi ab-sag₉#-[...]
+#lem: X; dug[good]; gu[voice]; sag[good]
+#tr.en: its singing was sweet and its voice was pleasing. 
+#etcsl: line-id=A.5
+
+A.6. nin-ŋu₁₀ u₅{mušen}-a-ni hi-li [na-an-X]
+#lem: nin[lady]; u[wild goose]; hili[attractiveness]; X
+#tr.en: My lady …… her pelican (?) with beauty. 
+#etcsl: line-id=A.6
+
+A.7. in-nin₉ ama {d}nanše u₅{mušen}-a-ni hi-li na-an-[X X]
+#lem: innin[lady]; ama[mother]; Nanše[1]DN; u[wild goose]; hili[attractiveness]; X; X
+#tr.en: The mistress, Mother @wDN{Nanše}, …… her pelican (?) with beauty. 
+#etcsl: line-id=A.7
+
+A.8. in-nin₉-me-en u₅{mušen}-ŋu₁₀ a-gin₇ X [...] ŋe₂₆-e a-gin₇ sag₉ [...]
+#lem: innin[lady]; u[wild goose]; agin[thus]; X; X; ŋaʾe[I]; agin[thus]; sag[goodness]; X
+#tr.en: @q[Nance,]{“I am the mistress! How can my pelican (?) ……? How can I ……? 
+#etcsl: line-id=A.8
+
+A.9. {d}nanše-me-en u₅{mušen}-ŋu₁₀ a-gin₇ GIR₂ kug-e a-gin₇ sag₉ [...]
+#lem: Nanše[1]DN; u[wild goose]; agin[thus]; X; kug[pure]; agin[thus]; sag[goodness]; X
+#tr.en: I am @wDN{Nanše}! How can my pelican (?) …… holy? How can ……?”} 
+#etcsl: line-id=A.9
+
+A.10. ni₂-te-a-ni u₅{mušen} gal-gin₇ a-a nam-mi-[X X]
+#lem: ni[self]; u[wild goose]; gal[big]; aya[father]; X; X
+#tr.en: She herself …… upon the water like a large pelican (?). 
+#etcsl: line-id=A.10
+
+A.11. e-ne an-ta ki-a gub-ba-[am₃]
+#lem: ane[he]; an[sky]; ki[place]; gub[stand]
+#tr.en: Stepping onto earth from heaven, 
+#etcsl: line-id=A.11
+
+A.12. šilam kug-gin₇ a-a mu-un-[...]
+#lem: šilam[cow]; kug[pure]; aya[father]; X
+#tr.en: she …… in the water like a holy cow. 
+#etcsl: line-id=A.12
+
+A.13. u₅{mušen} kug šilam babbar a bar-ra a bi₂-in#-[naŋ]
+#lem: u[wild goose]; kug[purify]; šilam[cow]; babbar[white]; a[water]; bar[outside]; a[water]; naŋ[drink]
+#tr.en: A holy pelican (?), a white cow, she drank by the water's side. 
+#etcsl: line-id=A.13
+
+A.14. a-ŋi₆ uru₁₆-da zag am₃-da-X [...]
+#lem: aŋi[wave]; urun[exalted]; zag[side]; X; X
+#tr.en: With the towering flood ……. 
+#etcsl: line-id=A.14
+
+A.15. {d}nanše su₃-ra₂-aŋ₂-ŋe₂₆-e A [...]
+#lem: Nanše[1]DN; sudaŋ[precious metal or material (possibly amber)]; X; X
+#tr.en: @wDN{Nanše}, 
+#etcsl: line-id=A.15
+
+A.16. {d}a-nun-na diŋir gal-[gal-e-ne-ke₄]
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]
+#tr.en: shining …… of the @wDN{Anuna}, 
+#etcsl: line-id=A.16
+
+A.17. in-nin₉ ama {d}nanše munus zid# [...]
+#lem: innin[lady]; ama[mother]; Nanše[1]DN; munus[woman]; zid[right]; X
+#tr.en: the great gods! Mistress, Mother @wDN{Nanše}, good woman, 
+#etcsl: line-id=A.17
+
+A.18. {d}nanše nin₉ za₃-mi₂ [dug₄-ga] {d}a-nun-na-[ke₄-ne]
+#lem: Nanše[1]DN; nin[sister]; zamin[praise]; dug[speak]; Anunak[1]DN
+#tr.en: ……! @wDN{Nanše}, sister praised by the @wDN{Anuna}! 
+#etcsl: line-id=A.18
+
+A.19. ama um-ma sag₉-ga {d}en-lil₂-la₂
+#lem: ama[mother]; umma[old woman]; sag[good]; Enlil[1]DN
+#tr.en: Mother, beautiful matriarch of @wDN{Enlil}! 
+#etcsl: line-id=A.19
+
+A.20. (1:{d}nanše:1) u₅{mušen}-a-ni hul₂-la-e
+#lem: Nanše[1]DN; u[wild goose]; hul[rejoice]
+#tr.en: @varh[t4143.v1]{@wDN{Nanše} } @vart[t4143.v2,t4143.v1]{@varn{1 ms. has instead:} My lady }, delighting in her pelican (?), 
+#etcsl: line-id=A.20
+
+:20v.1.1: ($1 ms. has instead:$) nin-ŋu₁₀
+#lem: nin[lady]
+
+A.21. eš₃ za-gin₃-na ba-an-ŋar
+#lem: eš[shrine]; zagin[lapis lazuli]; ŋar[put]
+#tr.en: erected a lapis lazuli shrine, 
+#etcsl: line-id=A.21
+
+A.22. u₅{mušen} kug-ga ŋiri₃-ni ba-an-dur₂-ru
+#lem: u[wild goose]; kug[pure]; ŋiri[foot]; dur[sit]
+#tr.en: and set the holy pelican (?) by her feet. 
+#etcsl: line-id=A.22
+
+A.23. in-nin₉-me-en mušen-ŋu₁₀ zar ab-du₈-še₃ gu₂ ha-ma-ab-si-si
+#lem: innin[lady]; mušen[bird]; zar[sheaf (of barley)]; du[spread]; gu[neck]; si[fill]
+#tr.en: @q[Nance,]{“I am the mistress, so let my birds assemble for me where the sheaves are gathered! I am @wDN{Nanše}, so let my birds assemble for me where the sheaves are gathered! Let the birds of heaven and earth stand at my service! Let every bird without a name bring offerings! Let every bird not caught in nets ……!”} 
+#etcsl: line-id=A.23
+
+A.24. {d}nanše-me-en mušen-ŋu₁₀ zar ab-du₈-še₃ gu₂ ha-ma-ab-si-si
+#lem: Nanše[1]DN; mušen[bird]; zar[sheaf (of barley)]; du[spread]; gu[neck]; si[fill]
+#etcsl: line-id=A.24
+
+A.25. mušen an [ki]-a he₂-em-gub
+#lem: mušen[bird]; an[sky]; ki[place]; gub[stand]
+#etcsl: line-id=A.25
+
+A.26. mušen mu nu-zu sizkur# he₂-em-tum₂
+#lem: mušen[bird]; mu[name]; zu[know]; siškur[prayer]; tum[bring]
+#etcsl: line-id=A.26
+
+A.27. mušen sa nu-zu X he₂-em-DU
+#lem: mušen[bird]; sa[net]; zu[know]; X; X
+#etcsl: line-id=A.27
+
+A.28. mušen su-din gu₃ nu#-e šu# keše₂-ra₂-[...]
+#lem: mušen[bird]; sudin[bat]; gu[voice]; dug[speak]; šu[hand]; kešed[bind]
+#tr.en: The voiceless bat ……, 
+#etcsl: line-id=A.28
+
+A.29. mušen-e an-na dub₃ mu-un-bad-bad-de₃#
+#lem: mušen[bird]; an[sky]; dub[knee]; bad[open]
+#tr.en: a bird that darts by in the heavens. 
+#etcsl: line-id=A.29
+
+A.30. anzud{mušen}-de₃ {d}a-nun-na-ke₄-ne-bi# nam mu-un-di-ni-ib₂-tar-re
+#lem: Anzud[1]DN; Anunak[1]DN; nam[fate]; tar[cut]
+#tr.en: The Anzud bird decides the fates with (?) the @wDN{Anuna} gods. 
+#etcsl: line-id=A.30
+
+A.31. zu₂-sis{mušen}-e a ŋeštug-ga# X X im-ta-ra-e₃
+#lem: zuses[bird]; a[water]; ŋeštug[ear]; X; X; e[leave]
+#tr.en: The sharp-toothed bird in (?) the water sends forth …… wisdom: 
+#etcsl: line-id=A.31
+
+A.32. in-nin-ŋu₁₀ ur₂ [...] X
+#lem: innin[lady]; ur[loin]; X; X
+#tr.en: @q[,Nance]{“My mistress, ……. I am the bird, 
+#etcsl: line-id=A.32
+
+A.33. mušen zu₂-sis{mušen}-me-en ni₂-ŋa₂ X [...] DU
+#lem: mušen[bird]; zuses[bird]; ni[self]; X; X; X
+#tr.en: the sharp-toothed bird! All by myself ……. 
+#etcsl: line-id=A.33
+
+A.34. {d}nanše-ŋu₁₀ ur₂# [...]
+#lem: Nanše[1]DN; ur[loin]; X
+#tr.en: My @wDN{Nanše}, ……! 
+#etcsl: line-id=A.34
+
+A.35. mušen zu₂-sis{mušen}-me-en [ni₂]-ŋa₂ [...]
+#lem: mušen[bird]; zuses[bird]; ni[self]; X
+#tr.en: I am the bird, the sharp-toothed bird! All by myself …….”} 
+#etcsl: line-id=A.35
+
+A.36. [...] an-ta gi₄ [...] MU [...]
+#lem: X; an[sky]; gi[turn]; X; X; X
+#tr.en: The lammergeier ……. 
+#etcsl: line-id=A.36
+
+A.37. BA# X DI# [...] X [...]
+#lem: X; X; X; X; X; X
+#tr.en: …… the lammergeier ……. 
+#etcsl: line-id=A.37
+
+A.38. na-[...]
+#lem: X
+#tr.en: It kills wild bulls in the foothills, 
+#etcsl: line-id=A.38
+
+A.39. hu-ri₂-in#{[mušen]} [...]
+#lem: hurin[eagle]; X
+#tr.en: and it kills the stags in the high mountains. 
+#etcsl: line-id=A.39
+
+A.40. [...] hu-ri₂-[in]{[mušen]}
+#lem: X; hurin[eagle]
+#etcsl: line-id=A.40
+
+A.41. am-e# kur-ur₂-ra ŋiš ba-ni-ib-ra-[am₃]
+#lem: am[wild bull]; kurur[base of the mountains]; ŋeš[tree]; rah[beat]
+#etcsl: line-id=A.41
+
+A.42. tarah-e kur-bad₃-da ŋiš ba-ni-ib-ra-[am₃]
+#lem: durah[wild goat]; kurbad[mountain top]; ŋeš[tree]; rah[beat]
+#etcsl: line-id=A.42
+
+A.43. a₁₂-ra₂-bu{mušen} a₁₂-ra₂-bu{mušen} nunuz-zu dadag-ga-am₃
+#lem: arabu[bird]; arabu[bird]; nunuz[egg]; dadag[bright]
+#tr.en: Raven, raven, your eggs are shining bright! Raven bird, your eggs are shining bright! Where do people carry off your holy eggs, your …… eggs to? 
+#etcsl: line-id=A.43
+
+A.44. mušen a₁₂-ra₂-bu{mušen} nunuz-zu dadag-ga-am₃
+#lem: mušen[bird]; arabu[bird]; nunuz[egg]; dadag[bright]
+#etcsl: line-id=A.44
+
+A.45. nunuz-zu kug-ga-am₃ nunuz-zu [...] X-ra-am₃ lu₂ me-a ba-an-tum₃
+#lem: nunuz[egg]; kug[pure]; nunuz[egg]; X; X; lu[person]; mea[where?]; tum[bring]
+#etcsl: line-id=A.45
+
+A.46. ga-nu₁₁{mušen} hur-saŋ-ŋa₂ nunuz nam-ma-ab-X X
+#lem: ganu[bird]; hursaŋ[mountain]; nunuz[egg]; X; X
+#tr.en: The ostrich …… her eggs on the hillside. 
+#etcsl: line-id=A.46
+
+A.47. nunuz-bi niŋ₂ il₂-la šu nam-ma-an-ti
+#lem: nunuz[egg]; niŋ[thing]; il[raise]; šu[hand]; teŋ[approach]
+#tr.en: She receives those eggs as something to carry: 
+#etcsl: line-id=A.47
+
+A.48. mušen-e ŋi₆-a en-nu-uŋ₃ im-mi-in-zu
+#lem: mušen[bird]; ŋi[night]; ennuŋ[watch]; zu[know]
+#tr.en: the bird knows how to keep watch at night. 
+#etcsl: line-id=A.48
+
+A.49. {d}ha-ia₃{mušen} en-nu-uŋ₃-ŋa₂ ud mi-ni-ib₂-zal-zal-e
+#lem: haya[peacock]; ennuŋ[watch]; ud[sun]; zal[pass time]
+#tr.en: The peacock spends the day keeping watch. The holy bird, 
+#etcsl: line-id=A.49
+
+A.50. mušen kug {d}ha-ia₃{mušen} {d}ha-ia₃{mušen} ud mi-ni-ib₂-zal-zal-e
+#lem: mušen[bird]; kug[purify]; haya[peacock]; haya[the cry of the peacock]; ud[sun]; zal[pass time]
+#tr.en: the peacock, spends the day calling '@fsux{ḫaya}'. A bird red from cornelian, 
+#etcsl: line-id=A.50
+
+A.51. mušen {na₄}gug-ta gug {na₄}za-gin₃-ta za-gin₃
+#lem: mušen[bird]; gug[carnelian]; gug[carnelian]; zagin[lapis lazuli]; zagin[lapis lazuli]
+#tr.en: blue from lapis lazuli, white (?) from chalcedony (?), 
+#etcsl: line-id=A.51
+
+A.52. {na₄}nir₂-ta nir₂ kug-sig₁₇ na-me-a kuš kug-sig₁₇ ŋar-ra
+#lem: nir[valuable stone]; nir[valuable stone]; kugsig[gold]; name[any]; kuš[skin]; kugsig[gold]; ŋar[put]
+#tr.en: with all kinds of gold, 
+#etcsl: line-id=A.52
+
+A.53. {d}ha-ia₃{mušen} tibira-e hu#-mu-ri-ib-sig₁₀-ge
+#lem: haya[peacock]; tibira[sculptor]; sig[put into]
+#tr.en: and leather inlaid with gold -- may the coppersmith fashion the peacock for you thus. 
+#etcsl: line-id=A.53
+
+A.54. mušen#-e an-na te₈{mušen} uš-bar te₈{mušen} uš-bar
+#lem: mušen[bird]; an[sky]; ti[bird of prey]; ušbar[weaver]; ti[bird of prey]; ušbar[weaver]
+#tr.en: O bird in the sky! O vulture, weaver, vulture, weaver! 
+#etcsl: line-id=A.54
+
+A.55. te₈#-uz{mušen}-e an-na te₈{mušen} uš-bar te₈{mušen} uš-bar
+#lem: tiʾuz[bird]; an[sky]; ti[bird of prey]; ušbar[weaver]; ti[bird of prey]; ušbar[weaver]
+#tr.en: O @fsux{uz} vulture in the sky! O vulture, weaver, vulture, weaver! Its wings together, 
+#etcsl: line-id=A.55
+
+A.56. [a₂]-bi teš₂-am₃ ŋiri₃-bi teš₂-am₃
+#lem: a[arm]; teš[unity]; ŋiri[foot]; teš[unity]
+#tr.en: its feet together, 
+#etcsl: line-id=A.56
+
+A.57. X X-ŋa₂ šu gal [X X]
+#lem: X; X; šu[hand]; gal[big]; X; X
+#tr.en: Its call …… to the ear (?) ……. 
+#etcsl: line-id=A.57
+
+A.58. akkil-bi ŋeštug-e KA [...]
+#lem: akkil[noise]; ŋeštug[ear]; X; X
+#tr.en: …… its call ……. 
+#etcsl: line-id=A.58
+
+A.59. gambiₓ(|MUNUS.US₂.SA₂.KID|){mušen} akkil!-bi pa X [...]
+#lem: gambi[crane]; akkil[noise]; pa[branch]; X; X
+#etcsl: line-id=A.59
+
+A.60. [...] luh šu gu₂-sur{mušen} A X [...]
+#lem: X; luh[clean]; šu[hand]; gusura[bird]; X; X; X
+#etcsl: line-id=A.60
+
+A.61. [...] dumu nun-na HAR [...]
+#lem: X; dumu[child]; nun[prince]; X; X
+#etcsl: line-id=A.61
+
+A.62. [...] id₂#-da ŋiš-gi [...]
+#lem: X; id[river]; ŋešgi[thicket]; X
+#etcsl: line-id=A.62
+
+A.63. [...] A HA [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.63
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+$ (2 lines fragmentary)
+B.3. [...] na₄ GIR X X [...] šu# im-ta-du₇-du₇
+#lem: X; na[stone weight]; X; X; X; X; šu[hand]; du[perfect]
+#tr.en: The @fsux{misaz} bird …… cries out ……. 
+#etcsl: line-id=B.3
+
+B.4. mi#-[sa]-az{mušen} KA [...] X-am₃ mur ša₄
+#lem: misaz[bird]; X; X; X; mur[noise]; ša[cvve]
+#tr.en: The snake-eater bird is green ……. 
+#etcsl: line-id=B.4
+
+B.5. mušen BAD gig X X X A
+#lem: mušen[bird]; X; gig[sick]; X; X; X; X
+#tr.en: Its wings …… a barge ……. 
+#etcsl: line-id=B.5
+
+B.6. muš-gu₇{mušen} sig₇-ga-am₃ X im-X-an-sig₉-ga#
+#lem: mušgu[bird]; sissig[green-yellow]; X; sig[put into]
+#tr.en: The …… bird ……. 
+#etcsl: line-id=B.6
+
+B.7. a₂-bi ma₂-gur₈ [...]
+#lem: a[arm]; magur[barge]; X
+#tr.en: The @fsux{gubi} bird ……. 
+#etcsl: line-id=B.7
+
+B.8. um{mušen}-e KU en zid KA kug# X ib₂#-ŋal₂
+#lem: um[water bird]; X; en[lord]; zid[right]; X; kug[purify]; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.8
+
+B.9. [gu₂]-bi₂{mušen} {{%akk [ku]-pu-u₂}} KIŊ₂ X tal₂-tal₂-le
+#lem: gubi[bird]; L; X; X; tal[broad]
+#etcsl: line-id=B.9
+
+B.10. [...] te₈{mušen} [...] X-na ib-ši-ku₄-ku₄
+#lem: X; ti[bird of prey]; X; X; kur[enter]
+#etcsl: line-id=B.10
+
+B.11. [...] mušen LU KA im-X
+#lem: X; mušen[bird]; X; X; X
+#etcsl: line-id=B.11
+
+B.12. [...] X-na X-si-iš mu-na-ŋa₂-ŋa₂
+#lem: X; X; X; ŋar[put]
+#etcsl: line-id=B.12
+
+B.13. [...] na-ŋa₂-ŋa₂# [...]
+#lem: X; ŋar[put]; X
+#etcsl: line-id=B.13
+
+B.14. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.14
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] gi₄-X{mušen} [...]
+#lem: X; gi₄.X[type of bird]; X
+#tr.en: …… of @wDN{Ninḫursaŋa} (?) he brings as his property to the mountains. 
+#etcsl: line-id=C.1
+
+C.2. [...] {[d]}nin#-hur-saŋ-ka niŋ₂-gur₁₁-ra-ni-še₃ kur-re ba-ab-de₆#
+#lem: X; Ninhursaŋak[1]DN; niŋgur[property]; kur[mountain(s)]; de[carry]
+#tr.en: Since it was searching for its property, 
+#etcsl: line-id=C.2
+
+C.3. [niŋ₂]-gur₁₁-ra-ni-še₃ ki kiŋ₂-kiŋ₂-da-ni-še₃
+#lem: niŋgur[property]; ki[place]; kiŋ[seek]
+#tr.en: the bird is called  
+#etcsl: line-id=C.3
+
+C.4. mušen-e niŋ₂-gur₁₁-mu-du-um{mušen} mu-še₃ ba-an-sa₄-X
+#lem: mušen[bird]; niŋ₂.GA.mu.du.um[bird]; mu[name]; še[call by name]
+#tr.en: @fsux{niŋgurmudum} ('He brings his property').  
+#etcsl: line-id=C.4
+
+C.5. niŋ₂-gur₁₁-mu-du-um{mušen} gu₃ im-[de₂]
+#lem: niŋ₂.GA.mu.du.um[bird]; gu[voice]; de[pour]
+#tr.en: The @fsux{niŋgurmudum} bird calls out and laments in the desert of @wSN{Keš}. 
+#etcsl: line-id=C.5
+
+C.6. edin keš₃{ki}-a-ka i-si-iš mu-un-ŋa₂-ŋa₂-ŋa₂
+#lem: eden[back]; Keš[1]SN; isiš[tears]; ŋar[put]
+#etcsl: line-id=C.6
+
+C.7. mušen KA bal-bal e₂-gal-la lug-lug#-[ga]
+#lem: mušen[bird]; X; bala[turn]; egal[palace]; lug[live]
+#tr.en: The twittering birds flocking in the palace ……. 
+#etcsl: line-id=C.7
+
+C.8. MUNUS-MUNUS{mušen}-e ni₂-bi-še₃ er₂ im-ši-še₈-še₈
+#lem: SAL.SAL[bird]; ni[self]; er[tears]; šeš[weep]
+#tr.en: The @fsux{salsal} bird cries in lament over itself. 
+#etcsl: line-id=C.8
+
+C.9. kiši₆-bar{mušen} gada ha-ad-e du₇-a kar-ra ŋal₂-la-am₃
+#lem: kišibar[bird]; gada[flax]; had[bright]; du[perfect]; kar[harbor]; ŋal[⟦be⟧ to be (there]
+#tr.en: The egret (?), seemly in a …… linen garment, is present at the quayside. 
+#etcsl: line-id=C.9
+
+C.10. kiši₆-bar{mušen}-gu-ru-ug{mušen} su₄-a tug₂-gun₄-na ŋiš-gi-a la₂-a
+#lem: kišibargurug[bird]; su[red]; tuggun[garment]; ŋešgi[thicket]; la[hang]
+#tr.en: The heron (?) is brown, and clad in …… in the reedbeds. 
+#etcsl: line-id=C.10
+
+C.11. UD-ša₄{mušen}-e a-zag-gur₁₁{ku₆} [mi]-ni-ib-dab₅-dab₅-be₂
+#lem: UD.ša[bird]; azaggur[fish]; dab[seize]
+#tr.en: The …… bird catches @fsux{azagur} fish. 
+#etcsl: line-id=C.11
+
+C.12. giri₁₆-i-lu{mušen} ni₂ uŋ₃-ŋa₂ giri₁₆-i-lu-bi X X
+#lem: girgilum[bird]; ni[fear]; uŋ[people]; giriʾilu[the cry of the girigilu bird]; X; X
+#tr.en: The @fsux{giri-ilu} bird, dread of the people, …… its '@fsux{giri-ilu}'. 
+#etcsl: line-id=C.12
+
+C.13. li-li-bi-sig{mušen}-e bar DA# [...] u₂-gin₇ im-degₓ(RI)-degₓ(RI)#
+#lem: lilibisig[stork]; bar[outside]; X; X; u[plant(s)]; deg[gather up]
+#tr.en: The stork …… picks up (?) …… like grass. 
+#etcsl: line-id=C.13
+
+C.14. sa₄{mušen} gud₃ amar-bi [...] bar-ba nam-mi-ib₂-sa₄#
+#lem: šed[bird]; gud[nest]; amar[calf]; X; bar[outside]; še[call by name]
+#tr.en: The @fsux{sa} bird names …… its young ……. 
+#etcsl: line-id=C.14
+
+C.15. dub₂-dub₂-bu{mušen}-e IŠ IM# [...] ni₂-bi nam-ma-ab-[...]
+#lem: dubdubu[bird]; X; X; X; ni[self]; X
+#tr.en: The @fsux{dubdubu} bird ……. 
+#etcsl: line-id=C.15
+
+C.16. šeg₅-šeg₅{mušen}-e lu₂-tur er₂ pad₃#-[da-gin₇] šeₓ(SIG₇)!-IG na-ŋa₂-ŋa₂ [...]
+#lem: šegšeg[bird]; lutur[child]; er[tears]; pad[find]; še[tear]; ŋar[put]; X
+#tr.en: The @fsux{šegšeg} bird sheds tears like a crying baby. 
+#etcsl: line-id=C.16
+
+C.17. gu₂-bi-gu₂-zag-ga{mušen} [...] lu₂ šag₄ dab₅-ba-[gin₇]
+#lem: gubiguzaga[bird]; X; lu[person]; šag[heart]; dab[seize]
+#tr.en: The @fsux{gubiguzaga} bird …… like an angry man. 
+#etcsl: line-id=C.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+D.1. [...] X [...]
+#lem: X; X; X
+#tr.en: …… green ……. …… birds, 
+#etcsl: line-id=D.1
+
+#etcsl#doc it is possible that Segment D belongs to a different version
+
+D.2. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: like ants in crevices ……. 
+#etcsl: line-id=D.2
+
+D.3. [...] sig₇#-ga ba-tur [...]
+#lem: X; sissig[green-yellow]; tur[small]; X
+#tr.en: …… @wDN{Bau} takes a bath ……. 
+#etcsl: line-id=D.3
+
+D.4. [...]{mušen}-e {{%akk u₂#-si₂-gum}} kiši₆ ki-in-dar-ra#-[gin₇ ...]
+#lem: X; L; kiši[ant]; kindar[hole]; X
+#tr.en: The @fsux{tigilu} bird …… the split roots ……. 
+#etcsl: line-id=D.4
+
+D.5. [...]-ta# {d}ba-u₂ a nam-tu₅-tu₅# [...] me šu mu-un-na-keše₂#
+#lem: X; Bau[1]DN; a[water]; tu[cvve]; X; me[Being]; šu[hand]; kešed[bind]
+#tr.en: The dove …… gently in the broad fields. 
+#etcsl: line-id=D.5
+
+D.6. ti#-gi₄-lu{mušen} suhuš dar-ra zu₂ keše₂ [...]
+#lem: tigidlu[bird]; suhuš[foundation]; dar[split]; zu[tooth]; kešed[bind]; X
+#tr.en: The pigeon …… bitterly in the vacant lot of the king. 
+#etcsl: line-id=D.6
+
+D.7. tum₁₂#{mušen}-e gana₂ daŋal-la mi₂ bi₂-ib₂-[...]
+#lem: tum[wild dove]; gana[field]; daŋal[wide]; mi[cvne]; X
+#tr.en: The @fsux{ubi} bird and the @fsux{udar} bird …… ants ……. 
+#etcsl: line-id=D.7
+
+D.8. tum₁₂-gur₄{mušen}-e kislah lugal-la# gig-bi bi₂-ib₂-[...]
+#lem: tumgur[domesticated dove]; kislah[uncultivated]; lugal[king]; gig[sick]; X
+#tr.en: The bird ……. …… in the gutter like beasts. 
+#etcsl: line-id=D.8
+
+D.9. u₅-bi{mušen} u₅-dar{mušen}-e kiši₆ [...]
+#lem: ubi[bird]; ugun[bird]; kiši[ant]; X
+#tr.en: …… humbly like an orphaned child ……. 
+#etcsl: line-id=D.9
+
+D.10. mušen-e ki X-ma ki bi₂-ib₂-[...]
+#lem: mušen[bird]; X; X; ki[place]; X
+#tr.en: The @fsux{ḫamun} bird …… in harmony …… is dressed in linen. 
+#etcsl: line-id=D.10
+
+D.11. X šita₃-na maš₂-anše-gin₇ e-ne nam X [...]
+#lem: X; šitan[water-channel]; mašanše[animals]; ane[he]; nam[fate]; X; X
+#tr.en: …… wine, 
+#etcsl: line-id=D.11
+
+D.12. KA# kug KA-zu sikil KA# |KA×X| nam X [...]
+#lem: X; kug[purify]; X; sikil[purify]; X; X; nam[fate]; X; X
+#tr.en: like wine ……  
+#etcsl: line-id=D.12
+
+D.13. [...] A sun₅-bi dumu nu-siki-gin₇ ki a-ba-[...]
+#lem: X; X; sun[humble]; dumu[child]; nusiki[orphan]; ki[place]; X
+#etcsl: line-id=D.13
+
+D.14. ha#-mun{mušen}-e ha-mun-e [...] šag₄ gada mu-ni-ib#-[la₂]
+#lem: hamun[bird]; hamun[harmony]; X; šag[heart]; gada[flax]; la[hang]
+#etcsl: line-id=D.14
+
+D.15. [...] ŋeštin-na ŋeštin-na-gin₇ X [...]
+#lem: X; ŋeštin[vine]; ŋeštin[vine]; X; X
+#etcsl: line-id=D.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+E.1. igira₂(|KI.SAG.MUNUS|){[mušen]} [...]
+#lem: igira[heron]; X
+#tr.en: The heron (?) ……. 
+#etcsl: line-id=E.1
+
+E.2. gir-gid₂{mušen} [...]
+#lem: girgid[bird]; X
+#tr.en: The @fsux{girgid} bird ……. 
+#etcsl: line-id=E.2
+
+E.3. dur{mušen} dur# [...]
+#lem: dur[bird]; dur[binding]; X
+#tr.en: The @fsux{dur} bird ……. 
+#etcsl: line-id=E.3
+
+E.4. igi ŋeštin!(GU₂)-na gu₂ A [...]
+#lem: igi[eye]; ŋeštin[vine]; gu[neck]; X; X
+#tr.en: $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=E.4
+
+E.5. dar{mušen}-e# en-nu-uŋ₃# [...]
+#lem: dar[bird]; ennuŋ[watch]; X
+#tr.en: The @fsux{dar} bird …… guard ……. 
+#etcsl: line-id=E.5
+
+E.6. dar{mušen} ti-ku-ti-ku-ma#-e# HU# [...]
+#lem: dar[bird]; tikutikumae[bird-cry]; X; X
+#tr.en: The @fsux{dar} bird …… '@fsux{tikutikumae}'. 
+#etcsl: line-id=E.6
+
+E.7. du₇-uš₂{mušen}-e ambar-re [...]
+#lem: heʾuš[type of bird]; ambar[reed-bed]; X
+#tr.en: The …… bird …… in the marshes. 
+#etcsl: line-id=E.7
+
+E.8. a-dar-dar-ra{mušen}-ke₄ tug₂ sim{mušen#} [...]
+#lem: adardarak[bird]; tug[textile]; sim[swallow]; X
+#tr.en: The @fsux{adardara} bird …… the swallow ……. 
+#etcsl: line-id=E.8
+
+E.9. TUM-keše₂{mušen}-de₃ gu la₂-a-ta X [...] ni₂-bi
+#lem: TUM.keše₂[bird]; gu[cord]; la[hang]; X; X; ni[self]
+#tr.en: The …… bird, when the net is suspended ……. 
+#etcsl: line-id=E.9
+
+E.10. zu₂-keše₂{mušen}-de₃ ambar zu₂ keše₂-de₃ [...]
+#lem: zukeš[bird]; ambar[reed-bed]; zu[tooth]; kešed[bind]; X
+#tr.en: The …… bird …… marshes ……. 
+#etcsl: line-id=E.10
+
+E.11. šu-ur₃{mušen}-e a₂ tal₂-bi saŋ-bi [...] ba-ni-ib₂#-[...]
+#lem: šuʾura[clipped goose]; a[arm]; tal[broad]; saŋ[head]; X; X
+#tr.en: The @fsux{šu-ur} bird …… its extended wings and its head. 
+#etcsl: line-id=E.11
+
+E.12. u₃-ku-ku{mušen}-e di-li-bi-pi-la ud mi-ni-ib₂-zal-zal-e
+#lem: ukuku[bird]; dilibipila[bird call]; ud[sun]; zal[pass time]
+#tr.en: The sleep bird spends its time crying '@fsux{dilibipila}'. 
+#etcsl: line-id=E.12
+
+E.13. sipad{mušen} ulu₃-di-ig ulu₃-di-ig gu₃ i₃-de₂-de₂-e
+#lem: sipad[bird]; uludig[bird-cry]; uludig[bird-cry]; gu[voice]; de[pour]
+#tr.en: The shepherd bird cries '@fsux{uludig} @fsux{uludig}'. 
+#etcsl: line-id=E.13
+
+E.14. sipad{mušen} dur-dar{mušen}-gin₇ gun₃-a suh₁₀ saŋ-ŋa₂ mi-ni-ib₂-ŋal₂
+#lem: sipad[bird]; durdar[bird]; gunu[speckled]; suh[crown]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#tr.en: The shepherd bird is brightly coloured like the @fsux{durdar} bird, and has a crest on its head. 
+#etcsl: line-id=E.14
+
+E.15. nu-erim₂-la₂{mušen} {{%akk šu-ur}} ab-ta gi-du₃-a ba-ra-am₃-da-lug-ga-am₃
+#lem: nuʾerimla[bird]; L; ab[window]; gidu[reed fence]; lug[live]
+#tr.en: The @fsux{nu-erimla} bird does not live in windows or reed huts. 
+#etcsl: line-id=E.15
+
+E.16. ti-ri₂-da{mušen} ŋiš-gi-a ti-ri₂-da ba-e-sa₄
+#lem: tirida[bird]; ŋešgi[thicket]; tirida[bird-cry]; še[call by name]
+#tr.en: The @fsux{tirida} bird calls the name '@fsux{tirida}' in the reedbeds. 
+#etcsl: line-id=E.16
+
+E.17. [X X] ku₆ mušen-e ki aŋ₂-me-en
+#lem: X; X; kud[fish]; mušen[bird]; ki[place]; aŋ[measure]
+#tr.en: ……, you are she who loves the fish and birds! You are she who does not scatter my ……! You are she who does not belittle ……! Mistress, Mother @wDN{Nanše}, it is sweet to praise you! 
+#etcsl: line-id=E.17
+
+E.18. [...]-ba-ŋa₂ sag₂ nu-di-me-en
+#lem: X; sag[scatter]; di[speak]
+#etcsl: line-id=E.18
+
+E.19. [...] X-ga-a nu-tur-re-me-en
+#lem: X; X; tur[small]
+#etcsl: line-id=E.19
+
+E.20. [in-nin₉] ama {d}nanše [za₃]-mi₂-<zu> dug₃-ga-am₃
+#lem: innin[lady]; ama[mother]; Nanše[1]DN; zamin[praise]; dug[good]
+#etcsl: line-id=E.20
+
+@end segment
+
+
+
+
+
+
+

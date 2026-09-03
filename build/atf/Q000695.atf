@@ -1,0 +1,338 @@
+&Q000695 = A tigi to Nergal (Nergal C)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.15.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.15.3&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. en ni₂ guru₆ an# [ki kalam-ma pa e₃-a]
+#lem: en[lord]; ni[fear]; gur[lift]; an[sky]; ki[place]; kalam[the Land (of Sumer)]; pa[branch]; e[leave]
+#tr.en: Lord who inspires awe in heaven and on earth, 
+#etcsl: line-id=A.1
+
+A.2. nam-lugal-še₃ [a]-a-zu# [tud-da]
+#lem: namlugal[kingship]; aya[father]; utud[give birth (to)]
+#tr.en: who is resplendent in the Land, engendered for kingship by your father, 
+#etcsl: line-id=A.2
+
+A.3. saŋ gig₂-ga ni₂-zu mi-ni-[ri]
+#lem: saŋ[head]; giggig[black]; ni[fear]; ri[impose]
+#tr.en: your awesomeness weighs upon the black-headed. The @wDN{Anuna}, the great gods, 
+#etcsl: line-id=A.3
+
+A.4. {d}a-nun-na diŋir gal-gal-[e-ne]
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]
+#tr.en: cower together before your awesomeness and radiance. 
+#etcsl: line-id=A.4
+
+A.5. ni₂# me#-lem₄-zu-de₃ teš₂ ši-im-da-šar₂#-[re-ne]
+#lem: ni[fear]; melim[frightening splendor]; teš[unity]; šar[mix]
+#tr.en: @wDN{Nergal}, lord who inspires awe in heaven and on earth, 
+#etcsl: line-id=A.5
+
+A.6. {d}nergal en ni₂ guru₆ an ki kalam-ma pa e₃-a
+#lem: Nergal[1]DN; en[lord]; ni[fear]; gur[lift]; an[sky]; ki[place]; kalam[the Land (of Sumer)]; pa[branch]; e[leave]
+#tr.en: who is resplendent in the Land, 
+#etcsl: line-id=A.6
+
+A.7. nam-lugal#-še₃ a-a-zu tud-da
+#lem: namlugal[kingship]; aya[father]; utud[give birth (to)]
+#tr.en: engendered for kingship by your father, 
+#etcsl: line-id=A.7
+
+A.8. saŋ# [gig₂]-ga# ni₂-zu mi-ni-ri
+#lem: saŋ[head]; giggig[black]; ni[fear]; ri[impose]
+#tr.en: your awesomeness weighs upon the black-headed. 
+#etcsl: line-id=A.8
+
+A.9. {d}[a]-nun#-na diŋir gal-gal-e-ne
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]
+#tr.en: The @wDN{Anuna}, the great gods, 
+#etcsl: line-id=A.9
+
+A.10. [ni₂ me]-lem₄-zu-ta teš₂ ši-im-da-šar₂-re-ne
+#lem: ni[fear]; melim[frightening splendor]; teš[unity]; šar[mix]
+#tr.en: cower together before your awesomeness and radiance. 
+#etcsl: line-id=A.10
+
+A.11. [ur-saŋ] ud a-a-zu in-tud-de₃-en-na-ta
+#lem: ursaŋ[warrior]; ud[sun]; aya[father]; utud[give birth (to)]
+#tr.en: Hero, after your father begot you, your father @wDN{Enlil} bestowed on you the mountain of the earth and all of the people. 
+#etcsl: line-id=A.11
+
+A.12. hur-saŋ# ki-a uŋ₃ gu₂ si-a
+#lem: hursaŋ[mountain]; ki[place]; uŋ[people]; gu[neck]; si[fill]
+#tr.en: He definitively handed the deciding of destinies to you. 
+#etcsl: line-id=A.12
+
+A.13. [a-a-zu] {d}en-lil₂-le saŋ-e-eš mu-ri-in-rig₇
+#lem: aya[father]; Enlil[1]DN; saŋ[head]; rig[donate]
+#tr.en: Hero, @wDN{Nergal}, you are their king! @wDN{Nergal}, 
+#etcsl: line-id=A.13
+
+A.14. nam tar-re-de₃ šu-za ma-ra-ni-in-ge-en
+#lem: nam[fate]; tar[cut]; šu[hand]; gin[confirm]
+#tr.en: hero, 
+#etcsl: line-id=A.14
+
+A.15. [ur]-saŋ {d}nergal lugal-bi za-[e-me-en]
+#lem: ursaŋ[warrior]; Nergal[1]DN; lugal[king]; zaʾe[you]
+#tr.en: after your father begot you, 
+#etcsl: line-id=A.15
+
+A.16. {d}nergal ur-saŋ ud a-a-zu in-tu-ud-[de₃-en]-na#-ta
+#lem: Nergal[1]DN; ursaŋ[warrior]; ud[sun]; aya[father]; utud[give birth (to)]
+#tr.en: your father @wDN{Enlil} bestowed on you the mountain of the earth and all of the people. 
+#etcsl: line-id=A.16
+
+A.17. hur-saŋ# ki-a uŋ₃ gu₂ si-a
+#lem: hursaŋ[mountain]; ki[place]; uŋ[people]; gu[neck]; si[fill]
+#tr.en: He definitively handed the deciding of destinies to you. 
+#etcsl: line-id=A.17
+
+A.18. a-[a]-zu {d}en-lil₂-le saŋ-e-eš mu-ri-in-rig₇#
+#lem: aya[father]; Enlil[1]DN; saŋ[head]; rig[donate]
+#tr.en: Hero, 
+#etcsl: line-id=A.18
+
+A.19. nam tar-re-de₃ šu-za ma-ra-ni-[in-ge]-en
+#lem: nam[fate]; tar[cut]; šu[hand]; gin[confirm]
+#tr.en: @wDN{Nergal}, 
+#etcsl: line-id=A.19
+
+A.20. [ur-saŋ] {d}nergal lugal-bi [za-e-me]-en#
+#lem: ursaŋ[warrior]; Nergal[1]DN; lugal[king]; zaʾe[you]
+#tr.en: you are their king! 
+#etcsl: line-id=A.20
+
+A.21. [en niŋ₂-me]-ŋar# dumu {d}en-lil₂-[la₂]
+#lem: en[lord]; niŋmeŋar[silence]; dumu[child]; Enlil[1]DN
+#tr.en: Lord who imposes silence, son of @wDN{Enlil}, 
+#etcsl: line-id=A.21
+
+A.22. [nam]-ur#-saŋ-ŋa₂-na uru₂-gin₇ šudu₃ dug₄-[dug₄]
+#lem: namursaŋ[heroism]; uru[flood]; šud[prayer]; dug[speak]
+#tr.en: who in his heroism like a flood demands respect (?)! 
+#etcsl: line-id=A.22
+
+A.23. [niŋ₂]-nam-zu {ŋiš#}[banšur sikil-la-za]
+#lem: niŋnam[anything]; banšur[table]; sikil[pure]
+#tr.en: May the people of @wSN{Lagaš} spread on your pure table everything you need. 
+#etcsl: line-id=A.23
+
+A.24. uŋ₃# lagaš{ki}-ke₄ šu he₂#-[em-ma-an]-peš-e
+#lem: uŋ[people]; Lagaš[1]SN; šu[hand]; peš[thick]
+#tr.en: @wDN{Nergal}, 
+#etcsl: line-id=A.24
+
+A.25. {[d]}nergal# ki lagaš{ki} a₂ [bad hu-mu-un]-tum₂
+#lem: Nergal[1]DN; ki[place]; Lagaš[1]SN; a[arm]; bad[open]; tum[bring]
+#tr.en: may you stretch forth your arm over the place @wSN{Lagaš}. 
+#etcsl: line-id=A.25
+
+A.26. {[d]}nergal# en niŋ₂-me-ŋar dumu {d}en-lil₂-la₂
+#lem: Nergal[1]DN; en[lord]; niŋmeŋar[silence]; dumu[child]; Enlil[1]DN
+#tr.en: @wDN{Nergal}, lord who imposes silence, son of @wDN{Enlil}, 
+#etcsl: line-id=A.26
+
+A.27. [nam-ur]-saŋ#-ŋa₂-na uru₂-gin₇ šudu₃ dug₄#-dug₄
+#lem: namursaŋ[heroism]; uru[flood]; šud[prayer]; dug[speak]
+#tr.en: who in his heroism like a flood demands respect (?)! 
+#etcsl: line-id=A.27
+
+A.28. [niŋ₂]-nam#-zu {ŋiš}banšur sikil-la-za
+#lem: niŋnam[anything]; banšur[table]; sikil[pure]
+#tr.en: May the people of @wSN{Lagaš} spread on your pure table everything you need. 
+#etcsl: line-id=A.28
+
+A.29. [uŋ₃] lagaš{ki}-[ke₄] šu# he₂-em-ma-an-peš-[e]
+#lem: uŋ[people]; Lagaš[1]SN; šu[hand]; peš[thick]
+#tr.en: @wDN{Nergal}, 
+#etcsl: line-id=A.29
+
+A.30. {[d]}nergal# ki lagaš#{ki} a₂ bad hu-mu-un-[tum₂]
+#lem: Nergal[1]DN; ki[place]; Lagaš[1]SN; a[arm]; bad[open]; tum[bring]
+#tr.en: may you stretch forth your arm over the place @wSN{Lagaš}. 
+#etcsl: line-id=A.30
+
+@div trailer 
+
+A.31. [sa]-gid₂-da#-[am₃]
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.31
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+B.32. [...] X X X [...]
+#lem: X; X; X; X; X
+#tr.en: …… heroism, …… @wSN{Uzarpara} (?), 
+#etcsl: line-id=B.32
+
+$ 2 lines missing
+B.35. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: the shrine ……, you are @wDN{Mešlamta-ea}, 
+#etcsl: line-id=B.35
+
+B.36. [...] X nam-ur-saŋ mi#-[ni-X]
+#lem: X; X; namursaŋ[heroism]; X
+#tr.en: ……. @wDN{Nergal}, 
+#etcsl: line-id=B.36
+
+B.37. X [u₂-zar]-para₃{ki} eš₃ X [...]
+#lem: X; Uzarpara[1]SN; eš[shrine]; X; X
+#tr.en: lord, you are the @wDN{Enlil} of his Land. 
+#etcsl: line-id=B.37
+
+B.38. {d}meš₃-lam-ta-e₃-a-me-en# [...]
+#lem: Meslamtaea[1]; X
+#tr.en: Like @wDN{Alla} (?), you have no rival. 
+#etcsl: line-id=B.38
+
+B.39. {d}nergal# en {d}en-lil₂ kalam-ma#-[na-me-en]
+#lem: Nergal[1]DN; en[lord]; Enlil[1]DN; kalam[the Land (of Sumer)]
+#tr.en: Like @wDN{Ištaran}, it has been given to you to reach correct judgments. 
+#etcsl: line-id=B.39
+
+B.40. {d}al#-la#-gin₇# gaba-ri nu#-[tuku-me-en]
+#lem: Alla[1]DN; gabari[equal]; tuku[acquire]
+#etcsl: line-id=B.40
+
+B.41. {d}ištaran-gin₇# di si# [sa₂ kud]-kud# mu#-[e-da-ŋal₂]
+#lem: Ištaran[1]DN; did[lawsuit]; si[horn]; sa[equal]; kud[cut]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.41
+
+B.42. en gu₂ du₃#-[a] {[d]}[en]-lil₂-la₂ lah₆#-[lah₆ šu ŋar] gi₄ [a-a-na]
+#lem: en[lord]; gu[neck]; du[build]; Enlil[1]DN; de[carry]; šu[hand]; ŋar[put]; gi[turn]; aya[father]
+#tr.en: @wDN{Enlil}, shepherd of the black-headed, has given you as your name "Lord who leads away the enemies of @wDN{Enlil}, 
+#etcsl: line-id=B.42
+
+B.43. ur-saŋ [kalag-ga mu]-zu-še₃
+#lem: ursaŋ[warrior]; kalag[strong]; mu[name]
+#tr.en: avenger of his father, strong hero". The gods have determined your fate. 
+#etcsl: line-id=B.43
+
+B.44. {d}en-lil₂ [sipad] saŋ gig₂-[ga-ke₄ mu]-ra#-ni-in-sa₄
+#lem: Enlil[1]DN; sipad[shepherd]; saŋ[head]; giggig[black]; še[call by name]
+#tr.en: They have given …… to you. 
+#etcsl: line-id=B.44
+
+B.45. diŋir-re-e-ne [nam-zu in-tar-re-eš]
+#lem: diŋir[deity]; nam[fate]; tar[cut]
+#tr.en: On earth you are ……, 
+#etcsl: line-id=B.45
+
+B.46. [... mu-ra]-an#-šum₂-mu-uš
+#lem: X; šum[give]
+#tr.en: in heaven you are ……. 
+#etcsl: line-id=B.46
+
+B.47. ki#-a [...]-me#-en
+#lem: ki[place]; X
+#tr.en: Because of your noise no god opposes you. 
+#etcsl: line-id=B.47
+
+B.48. an-na [...]-bi-me-en
+#lem: an[sky]; X
+#tr.en: Just young man who …… the plague, 
+#etcsl: line-id=B.48
+
+B.49. za-pa-aŋ₂-zu diŋir# [na-me] saŋ# [nu]-mu-un-de₃-ŋa₂-ŋa₂
+#lem: zipaŋ[voice]; diŋir[deity]; name[any]; saŋ[head]; ŋar[put]
+#tr.en: provider for the place @wSN{Lagaš}, 
+#etcsl: line-id=B.49
+
+B.50. šul zid nam-uš₂ [...]-e u₂-[a ki] lagaš#{ki}-ke₄
+#lem: šul[youth]; zid[right]; namuš[death]; X; ua[provisioner]; ki[place]; Lagaš[1]SN
+#tr.en: @wDN{Mešlamta-ea}, 
+#etcsl: line-id=B.50
+
+B.51. {d}meš₃-lam-[ta-e₃-a] šir₃-re-eš₂# he₂-i-i
+#lem: Meslamtaea[1]; šir[song]; e[bring out]
+#tr.en: may people praise you in song! 
+#etcsl: line-id=B.51
+
+B.52. en dug₄-ga# [zid-da en] he₂-ŋal₂-la
+#lem: en[lord]; dug[speak]; zid[right]; en[lord]; heŋal[plenty]
+#tr.en: Lord of the just word, lord of abundance, 
+#etcsl: line-id=B.52
+
+B.53. ur-saŋ mu-[zu-še₃ šu-kin mu-ra]-an#-dab-dab-be₂
+#lem: ursaŋ[warrior]; mu[name]; šukin[prostration]; dab[seize]
+#tr.en: hero! At your name, people obey. 
+#etcsl: line-id=B.53
+
+B.54. ab hu-luh-[ha ...] zig₃#-ga-gin₇
+#lem: ab[sea]; huluh[frightened]; X; zig[rise]
+#tr.en: Frightening sea like a rising ……, 
+#etcsl: line-id=B.54
+
+B.55. nam-lugal-[zu-da ni₂ huš im]-da-ri
+#lem: namlugal[kingship]; ni[fear]; huš[reddish]; ri[impose]
+#tr.en: with your kingship you inspire terrifying fear. Hero, 
+#etcsl: line-id=B.55
+
+B.56. ur-saŋ a₂ mah# [X X] ki-bal#-X [zar]-re-eš mu-e-dub
+#lem: ursaŋ[warrior]; a[arm]; mah[great]; X; X; kibala[rebel land]; zar[sheaf (of barley)]; dub[heap up]
+#tr.en: with your magnificent strength …… you pile up the rebel lands in heaps. 
+#etcsl: line-id=B.56
+
+B.57. {d}nergal mu-zu# šir₃-re# mu#-ra-an-ŋal₂
+#lem: Nergal[1]DN; mu[name]; šir[song]; ŋal[⟦be⟧ to be (there]
+#tr.en: @wDN{Nergal}, your name is praised in song. May the lady, 
+#etcsl: line-id=B.57
+
+B.58. nin dumu an-na nin# iri#-ni ki aŋ₂
+#lem: nin[lady]; dumu[child]; An[1]DN; nin[lady]; iri[city]; ki[place]; aŋ[measure]
+#tr.en: @wDN{An's} daughter, the lady who loves her city, 
+#etcsl: line-id=B.58
+
+B.59. {d}ba-u₂ mu-un-da-kuš₂-u₃-de₃
+#lem: Bau[1]DN; kušu[tired]
+#tr.en: @wDN{Bau} who concerns herself with you, in @wSN{Iri-kug}, 
+#etcsl: line-id=B.59
+
+B.60. iri-kug{ki}-e iri nam-nin-a-ka-na
+#lem: Irikug[1]SN; iri[city]; namnin[ladyship]
+#tr.en: her city of ladyship, 
+#etcsl: line-id=B.60
+
+B.61. bal ud su₃-ra₂ [...] gub-bu-zu pa# he₂-em-ma-ni-in-e₃
+#lem: bala[turn]; ud[sun]; sud[distant]; X; gub[stand]; pa[branch]; e[leave]
+#tr.en: make your appointed …… famous for a reign of distant days. 
+#etcsl: line-id=B.61
+
+@div trailer 
+
+B.62. sa-[ŋar]-ra#
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=B.62
+
+@end trailer
+
+@end sa-ŋara
+
+@div trailer 
+
+B.63. tigi {d}nergal-kam
+#lem: tigi[drum or other musical instrument]; Nergal[1]DN
+#tr.en: A @fsux{tigi} of @wDN{Nergal}. 
+#etcsl: line-id=B.63
+
+@end trailer
+
+
+
+
+
+
+

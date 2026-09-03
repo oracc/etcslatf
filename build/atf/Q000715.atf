@@ -1,0 +1,201 @@
+&Q000715 = An adab to Ninlil (Ninlil A)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.24.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.24.1&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. {[d]}nin-lil₂ me šar₂-ra daŋal si-a kur gal-da zag [ša₄]
+#lem: Ninlil[1]DN; me[Being]; šar[numerous]V/i; daŋal[wide]; si[fill]; kur[mountain(s)]; gal[big]; zag[side]; sa[equal]
+#tr.en: @wDN{Ninlil}, comprehensively replete with numerous divine powers! Equal to the Great Mountain; 
+#etcsl: line-id=A.1
+
+A.2. en# {d}nu-nam-nir-da nam tar-ra piriŋ gal-e he₂-du₇
+#lem: en[lord]; Nunamnir[1]DN; nam[fate]; tar[cut]; piriŋ[lion]; gal[big]; hedu[ornament]
+#tr.en: deciding destinies with Lord @wDN{Nunamnir}; suited to the Great Lion; pre-eminent over heaven and earth! 
+#etcsl: line-id=A.2
+
+A.3. an# ki-še₃ mah-di egir₂ giri₁₇-zal nin me nam-nun-na-[ka]
+#lem: an[sky]; ki[place]; mahdi[exalted]; egir[princess]; kirizal[joy]; nin[lady]; me[Being]; namnun[magnificence]
+#tr.en: Joyous princess (?), lady with the princely divine powers; conveying terror; wise with advice! 
+#etcsl: line-id=A.3
+
+A.4. [su] zig₃ gur₃-ru sa₂ zu ama {d}nin-lil₂ dug₄-ga-ni u₁₈#-lu#
+#lem: su[flesh]; zig[rise]; gur[lift]; sa[advice]; zu[know]; ama[mother]; Ninlil[1]DN; dug[speak]; ulu[south wind]
+#tr.en: Mother @wDN{Ninlil}, whose speech is a storm (?), 
+#etcsl: line-id=A.4
+
+A.5. {[d]}[en]-lil₂#-la₂ hi-li šag₄-ga-na-me-en gu₂-da ša-mu-ri-in-la₂
+#lem: Enlil[1]DN; hili[attractiveness]; šag[heart]; gu[neck]; la[hang]
+#tr.en: you are a pleasure to @wDN{Enlil's} heart -- he has embraced you! 
+#etcsl: line-id=A.5
+
+A.6. ki-šar₂ u₆ ki-še₃ ša-mu-ra-an-aŋ₂ en {d}nu-nam-nir-e
+#lem: kišar[totality]; u[stare]; ki[place]; aŋ[measure]; en[lord]; Nunamnir[1]DN
+#tr.en: Overseeing everything, Lord @wDN{Nunamnir} loves (?) you. You occupy a holy dais, 
+#etcsl: line-id=A.6
+
+A.7. barag kug-e mi-ni-ib-si-in ama {d}nin-[lil₂] X X nam#-he₂-a ru-a
+#lem: barag[sanctum]; kug[pure]; si[fill]; ama[mother]; Ninlil[1]DN; X; X; namhe[abundance]; ri[impose]
+#tr.en: Mother @wDN{Ninlil}; you provide the …… of prosperity. 
+#etcsl: line-id=A.7
+
+A.8. en-en gal-gal barag-barag-ge₂-ne giri₁₇ šu ma-ra-ŋal₂-le-eš
+#lem: en[lord]; gal[big]; barag[sanctum]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: All the great lords and sovereigns have paid homage to you. 
+#etcsl: line-id=A.8
+
+A.9. ud sed₄ an-dul₃ daŋal-la nam-nun-e u₅-a
+#lem: ud[sun]; sed[cool]; andul[shade]; daŋal[wide]; namnun[magnificence]; u[ride]
+#tr.en: Riding in princely style under a broad shelter in coolness, Mother @wDN{Ninlil}, 
+#etcsl: line-id=A.9
+
+A.10. ama {d}nin-lil₂ diŋir me giri₁₇-zal nam-he₂-a ru-a-me-en
+#lem: ama[mother]; Ninlil[1]DN; diŋir[deity]; me[Being]; kirizal[joy]; namhe[abundance]; ri[impose]
+#tr.en: you are the goddess who provides the divine powers of joy and prosperity. 
+#etcsl: line-id=A.10
+
+@div trailer 
+
+A.11. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.11
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.12. {d}nin-lil₂ ša-mu-ne-mah diŋir gal-gal-e-ne me huš gal-la gu₂ mu-ni-u₂-us₂
+#lem: Ninlil[1]DN; mah[great]; diŋir[deity]; gal[big]; me[Being]; huš[reddish]; gal[big]; gu[neck]; us[accompany]
+#tr.en: @wDN{Ninlil}, you are more majestic than the other great gods, you are elevated with great and terrifying divine powers. 
+#etcsl: line-id=B.12
+
+@div trailer 
+
+B.13. [ŋiš]-gi₄#-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=B.13
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div sa-ŋara C
+
+C.14. [...] diŋir# gal-gal-da zag ša₄
+#lem: X; diŋir[deity]; gal[big]; zag[side]; sa[equal]
+#tr.en: …… equal to the great gods, 
+#etcsl: line-id=C.14
+
+C.15. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: 83=$ (@gap{1 line fragmentary} @gap{approx. 6 lines missing} @gap{1 line fragmentary}) 
+#etcsl: line-id=C.15
+
+$ (approx. 6 lines missing)
+C.22. [...] X NU mah# mu# kur#-kur-ra# IM# KU# TUR# ša-mu-[...] X X
+#lem: X; X; X; mah[great]; mu[name]; kur[mountain(s)]; X; X; X; X; X; X
+#tr.en: Mother @wDN{Ninlil}, 
+#etcsl: line-id=C.22
+
+C.23. [ki]-ur₃#-ra ša-mu-un-til₃ {d}en-lil₂-la₂ munus zid ama {d}nin-lil₂
+#lem: Kiʾur[1]; til[live (of a single person)]; Enlil[1]DN; munus[woman]; zid[right]; ama[mother]; Ninlil[1]DN
+#tr.en: righteous woman of @wDN{Enlil}, 
+#etcsl: line-id=C.23
+
+C.24. me# giri₁₇#-zal šag₄ hi-li si-a-na gu₂-da ma-ra-ni-in-la₂
+#lem: me[Being]; kirizal[joy]; šag[heart]; hili[attractiveness]; si[fill]; gu[neck]; la[hang]
+#tr.en: you dwell in the @wTN{Ki-ur}. 
+#etcsl: line-id=C.24
+
+C.25. {d}en-ki {d}nin-ki me kur-kur-ra-ba šu mu-ra-ni-in-du₇-uš
+#lem: Enkik[1]DN; Ninki[1 Ninki-goddess]; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: In his heart filled with  
+#etcsl: line-id=C.25
+
+C.26. nin-ŋu₁₀ dug₄-ga-zu niŋ₂ mah-am₃ e₂-kur-za hul₂-ni-ib
+#lem: nin[lady]; dug[speak]; niŋ[thing]; mah[great]; Ekur[1]TN; hul[rejoice]
+#tr.en: pleasure at your joyous divine powers, 
+#etcsl: line-id=C.26
+
+@div trailer 
+
+C.27. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=C.27
+
+@end trailer
+
+@end sa-ŋara
+
+@div ŋišgiŋal D
+
+D.28. munus zid ama {d}nin-lil₂ an ki-a i-lim u₅
+#lem: munus[woman]; zid[right]; ama[mother]; Ninlil[1]DN; an[sky]; ki[place]; ilim[radiance]; u[ride]
+#tr.en: Good woman, Mother @wDN{Ninlil}, you ride across heaven and earth. 
+#etcsl: line-id=D.28
+
+@div trailer 
+
+D.29. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=D.29
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div uru E
+
+E.30. nin-ŋu₁₀ an ki-še₃ diŋir ušum zag dib
+#lem: nin[lady]; an[sky]; ki[place]; diŋir[deity]; ušum[snake]; zag[side]; dib[pass]
+#tr.en: My lady, unique and outstanding goddess throughout heaven and earth! Mother @wDN{Ninlil}, majestic lady, unique and outstanding goddess throughout heaven and earth! 
+#etcsl: line-id=E.30
+
+E.31. [ama] {[d]}nin-lil₂ nin mah an ki-še₃ diŋir ušum zag dib
+#lem: ama[mother]; Ninlil[1]DN; nin[lady]; mah[great]; an[sky]; ki[place]; diŋir[deity]; ušum[snake]; zag[side]; dib[pass]
+#tr.en: In his heart filled with pleasure at your joyous divine powers you are his beloved, 
+#etcsl: line-id=E.31
+
+E.32. [me] giri₁₇#-zal# šag₄ hi-li si-a-na ki aŋ₂-ni za-e-me-en ul-še₃ me zalag X UL lil₂ KA UL im-ma-ni-dab₅-be₂#
+#lem: me[Being]; kirizal[joy]; šag[heart]; hili[attractiveness]; si[fill]; ki[place]; aŋ[measure]; zaʾe[you]; ul[distant time]; me[Being]; zalag[bright]; X; X; lil[ghost]; X; X; dab[seize]
+#tr.en: …… into the future. 
+#etcsl: line-id=E.32
+
+@div trailer 
+
+E.33. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#tr.en: Its @fsux{uru}. 
+#etcsl: line-id=E.33
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+E.34. a-da-ab {d}nin-lil₂-la₂-[kam]
+#lem: adab[drum]; Ninlil[1]DN
+#tr.en: An @fsux{adab} of @wDN{Ninlil}. @notep{lines 33 and 34 are written as one line in source} 
+#etcsl: line-id=E.34
+
+#etcsl#doc lines 33 and 34 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

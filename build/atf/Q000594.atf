@@ -1,0 +1,88 @@
+&Q000594 = Letter from X to the god Nanna
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.22
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.22&display=Crit&charenc=gcirc#
+
+1. {d}nanna dumu-saŋ {d}en-lil₂-la₂ šudu₃-de₃ ki aŋ₂-ra
+#lem: Nanna[1]DN; dumusaŋ[first-born]; Enlil[1]DN; šud[prayer]; ki[place]; aŋ[measure]
+#tr.en: Say to @wDN{Nanna}, the firstborn son of @wDN{Enlil}, who loves prayers; repeat to the lord whose light spreads widely, the crown of heaven and earth, the great lord who loves to revive man; the father of the black-headed; the merciful king, who can untie and release; the merciful, compassionate god who listens to appeals: 
+#etcsl: line-id=1
+
+2. u₃-na-a-dug₄
+#lem: dug[speak]
+#etcsl: line-id=2
+
+3. en iti₆ daŋal bur₂ men an uraš-a {{%akk a-na %akk be-lim %akk ša %akk ṣi₂-it %akk wa-ar-hi-šu %akk ra-bi-iš %akk šu-pa-ru-ru %akk a-ge-e %akk ša-me-e %akk u₃ %akk er-ṣe-tim}}
+#lem: en[lord]; itud[moon]; daŋal[wide]; bur[spread out]; men[tiara]; an[sky]; uraš[earth]; L; L; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=3
+
+4. en gal lu₂ til₃-til₃ ki aŋ₂-me-en a-a saŋ gig₂-ga {{%akk be-lum %akk ra-bu-u₂ %akk ša %akk a-we-lam %akk bu-lu-ṭu₂ %akk i-ra-mu %akk a-bi %akk ṣa-al#-ma-<at> %akk qa₂-<qa₂>-di-im}}
+#lem: en[lord]; gal[big]; lu[person]; til[live (of a single person)]; ki[place]; aŋ[measure]; aya[father]; saŋ[head]; giggig[black]; L; L; L; L; L; L; L; L; L
+#etcsl: line-id=4
+
+5. lugal šag₄-la₂ sug₄!(BU) si-il!(GI₄) u₃ du₈ mu-un-zu-a! {{%akk a-na %akk šar-ri-im %akk re-me-ni-im %akk ša!# %akk ru#-ma#-am %akk u₃ %akk pa-ṭa#-ra#-am# %akk mu-du!-u₂}}
+#lem: lugal[king]; šala[pity]; sug[full]; sil[split]; u[and]; du[spread]; zu[know]; L; L; L; L; L; L; L; L
+#etcsl: line-id=5
+
+6. diŋir arhuš sud šag₄ gur-ru a-ra-zu-e# ŋiš tuku {{%akk a-na %akk i-lim %akk re-me-ni-im %akk ta-a-a-ri-im %akk še-mi %akk te-es₃-li-tim}}
+#lem: diŋir[deity]; arhuš[compassion]; sud[distant]; šag[heart]; gur[turn]; arazu[supplication]; ŋeš[tree]; tuku[acquire]; L; L; L; L; L; L
+#etcsl: line-id=6
+
+7. u₃-ne-de₃-tah
+#lem: tah[add]
+#etcsl: line-id=7
+
+8. nam-en-na šu du₇ aga zid gur₃-ru#-me-en {{%akk be-lu-tam %akk šu-uk-lu-lu %akk a-ga-am %akk ki-nam %akk na-šu-u₂}}
+#lem: namen[the office of en-priest]; šu[hand]; du[perfect]; aga[tiara]; zid[right]; gur[lift]; L; L; L; L; L
+#tr.en: You who are perfect in lordship and wear the legitimate headdress, 
+#etcsl: line-id=8
+
+9. muš₃-me huš ulutim₂-ta nir-ra alan kug hi-li du₈-du₈ {{%akk zi-mu %akk ru-šu-tum# %akk bu-na-nu %akk tu-ru-ṣu₂-tum %akk la-nu-um %akk el-lum# %akk ša# %akk [...]-du-u₂!}}
+#lem: mušme[face]; huš[reddish]; uludin[form]; nir[lordly]; alan[image]; kug[purify]; hili[attractiveness]; du[spread]; L; L; L; L; L; L; L; L
+#tr.en: the one with gleaming appearance and noble countenance, holy form endowed lavishly with beauty: 
+#etcsl: line-id=9
+
+10. nam-mah-zu kur-kur-ra dul-la
+#lem: nammah[greatness]; kur[mountain(s)]; dul[cover]
+#tr.en: your greatness covers all countries. Your fearsome radiance overwhelms the holy sky. 
+#etcsl: line-id=10
+
+11. me-lem₄-zu an kug-ga šu₂-a {{%akk ša-me-e %akk el-lu-tim %akk sa₃-ah#-pu}}
+#lem: melim[frightening splendor]; an[sky]; kug[pure]; šuš[cover]; L; L; L
+#tr.en: Your great awesomeness is imbued with terror. …… is pre-eminent in the Land. 
+#etcsl: line-id=11
+
+12. ni₂# gal#-zu su zig₃ im-du₈-du₈ {{%akk [...] %akk X %akk X %akk ša-lu-ma-tam %akk ma-lu}}
+#lem: ni[fear]; gal[big]; su[flesh]; zig[rise]; du[spread]; L; L; L; L; L
+#tr.en: You are indeed glorious from east to west. 
+#etcsl: line-id=12
+
+13. [...] kalam#-e zag dib {{%akk [...] %akk i-na %akk ma-tim %akk šu-tu-uq}}
+#lem: X; kalam[the Land (of Sumer)]; zag[side]; dib[pass]; L; L; L; L
+#tr.en: From the interior of heaven …… has given you ……, 
+#etcsl: line-id=13
+
+14. [ud e₃-ta ud šu₂]-uš#-e za-e# mah-me-en {{%akk [i-na] %akk [ṣi₂-it] %akk [ša-am]-ši# %akk u₃ %akk e-re-eb %akk [ša-am]-ši %akk at-ta-ma %akk ṣi-ra-a-ti}}
+#lem: ud[sun]; e[leave]; ud[sun]; šuš[cover]; zaʾe[you]; mah[great]; L; L; L; L; L; L; L; L
+#tr.en: and entrusted you with the heavens. 
+#etcsl: line-id=14
+
+15. [...] an-šag₄#-ta!# ma-ra#-an-šum₂ an šu-zu-uš# mu-un-ŋar {{%akk [...] %akk [id]-di-kum %akk ša-me-e %akk i-na %akk qa₂-ti#-[ka] %akk X}}
+#lem: X; anšag[the interior of heaven]; šum[give]; an[sky]; šu[hand]; ŋar[put]; L; L; L; L; L; L
+#tr.en: You are the king of heaven and earth; 
+#etcsl: line-id=15
+
+16. [an ki]-bi-ta lugal-bi za-e-me-en nam-bi i₃-tar-re# {{%akk ša-me-e %akk u₃ %akk er-ṣe-tam %akk be-el-šu-nu %akk at-ta-ma %akk ši-ma-ti-šu-nu %akk ta-ši-a-am}}
+#lem: an[sky]; ki[place]; lugal[king]; zaʾe[you]; nam[fate]; tar[cut]; L; L; L; L; L; L; L
+#tr.en: it is you who decide their fate. 
+#etcsl: line-id=16
+
+
+
+
+
+
+

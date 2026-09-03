@@ -1,0 +1,127 @@
+&Q000662 = A song of Inana and Dumuzid (Dumuzid-Inana F1)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.32
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.32&display=Crit&charenc=gcirc#
+
+1. da-ŋu₁₀# X [...]
+#lem: dag[side]; X; X
+#tr.en: …… my side. 
+#etcsl: line-id=1
+
+2. %e mu-nu₂ %s lal₃ hab₂-ba [...]
+#lem: munud[bed]N; lal[syrup]; tahab[soak]; X
+#tr.en: …… on a bed dripping with honey. 
+#etcsl: line-id=2
+
+3. šu-ni šu-ŋa₂ im#-[ma-X]
+#lem: šu[hand]; šu[hand]; X
+#tr.en: …… his hand in my hand. 
+#etcsl: line-id=3
+
+4. %e me-ri-ni me-ri-ŋa₂ %s im-ma-[...]
+#lem: meri[foot]N; meri[foot]N; X
+#tr.en: …… his foot by my foot. 
+#etcsl: line-id=4
+
+5. %e šu-um-du-um-ŋu₁₀ %s ka-na ba-[...]
+#lem: šumdum[lip]N; kag[mouth]; X
+#tr.en: …… my lips on his mouth. 
+#etcsl: line-id=5
+
+6. murub₄ X mah TA HA RA [...]
+#lem: murub[middle]; X; mah[great]; X; X; X; X
+#tr.en: …… like a bracelet on my hand. 
+#etcsl: line-id=6
+
+7. šag₄ ki X X aŋ₂-ŋa₂-ni eš₂-gin₇ mu-[...]
+#lem: šag[heart]; ki[place]; X; X; aŋ[measure]; eš[rope]; X
+#tr.en: …… lapis lazuli on my neck. 
+#etcsl: line-id=7
+
+8. har-gin₇ šu#-ŋa₂ im-mi-in-[...]
+#lem: har[ring]; šu[hand]; X
+#tr.en: …… like silver …… of my bridegroom. 
+#etcsl: line-id=8
+
+9. za-gin₇ gu₂-ŋa₂ teš₂ ba-ni-in#-[...]
+#lem: zagin[lapis lazuli]; gu[neck]; teš[unity]; X
+#etcsl: line-id=9
+
+10. kug-gin₇ %e mu-ud-na-ŋa₂ %s ba-ni-[...]
+#lem: kug[metal]; mudna[spouse]N; X
+#etcsl: line-id=10
+
+11. šeš-e {ŋiš}kiri₆-ni-a im-ma#-[...]
+#lem: šeš[brother]; kiri[(fruit) plantation]; X
+#tr.en: The brother …… in his garden. 
+#etcsl: line-id=11
+
+12. %e mu %s gub-ba-ni he₂-X-ni-gub#
+#lem: mu[tree]N; gub[stand]; gub[stand]
+#tr.en: …… stand …… his standing tree. 
+#etcsl: line-id=12
+
+13. %e mu %s nu₂-a-ni he₂#-X-nu₂-e-de₃#
+#lem: mu[tree]N; nud[lie down]; nud[lie down]
+#tr.en: …… lie down …… his recumbent tree. 
+#etcsl: line-id=13
+
+14. X X X X X X bi₂#-in-nu₂ X
+#lem: X; X; X; X; X; X; nud[lie down]; X
+#tr.en: He laid me down ……. 
+#etcsl: line-id=14
+
+15. zu₂-lum in-ze₂#-ze₂# X-ŋa₂ bi₂-in-PA [...]
+#lem: zulum[the fruit of the date-palm]; zir[tear out]; X; X; X
+#tr.en: …… dates. 
+#etcsl: line-id=15
+
+16. %e aŋ₂-e %s {ŋiš}hašhur-a ma-da-ab-be₂
+#lem: aŋ[thing]N; hašhur[apple (tree)]; dug[speak]
+#tr.en: The …… spoke to me among the apple trees. 
+#etcsl: line-id=16
+
+17. %e ze₂-ba %s kal-la-ŋu₁₀ saŋ#-ŋa₂ ba-an-X X
+#lem: zeb[good]V/i; kal[rare]; saŋ[head]; X; X
+#tr.en: My precious sweet …… my head. 
+#etcsl: line-id=17
+
+18. %e aŋ₂-e {mu}PEŠ₃-a %s ma-da-ab-be₂
+#lem: aŋ[thing]N; peš[fig]N; dug[speak]
+#tr.en: The …… spoke to me among the fig trees. 
+#etcsl: line-id=18
+
+19. %e ze₂-ba %s kal-la-ŋu₁₀ NA# X# X# AB# ŊA₂ X
+#lem: zeb[good]V/i; kal[rare]; X; X; X; X; X; X
+#tr.en: My precious sweet …… my ……. 
+#etcsl: line-id=19
+
+20. %e aŋ₂-e {mu}KIM₃-e %s ma#-[da-ab-be₂]
+#lem: aŋ[thing]N; kim[willow]N; dug[speak]
+#tr.en: The …… spoke to me among the willow (?) trees. 
+#etcsl: line-id=20
+
+21. %e ze₂-ba %s kal-la#-ŋu₁₀ X [...]
+#lem: zeb[good]V/i; kal[rare]; X; X
+#tr.en: My precious sweet ……. 
+#etcsl: line-id=21
+
+22. %e aŋ₂-e %s ka# X saŋ-e [ma-da-ab-be₂]
+#lem: aŋ[thing]N; kag[mouth]; X; saŋ[head]; dug[speak]
+#tr.en: The …… spoke to me ……. 
+#etcsl: line-id=22
+
+23. %e ze₂-ba %s kal-la#-ŋu₁₀ X ŊA₂ X [...]
+#lem: zeb[good]V/i; kal[rare]; X; X; X; X
+#tr.en: My precious sweet …… my ……. 
+#etcsl: line-id=23
+
+
+
+
+
+
+

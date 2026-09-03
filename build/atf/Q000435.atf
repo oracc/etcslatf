@@ -1,0 +1,260 @@
+&Q000435 = An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.5.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.5.4&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. en gal ud ŋiš-he₂-ta saŋ il₂ še-er-zid X-a
+#lem: en[lord]; gal[big]; ud[sun]; ŋešhe[firmament]; saŋ[head]; il[raise]; šerzid[radiance]; X
+#tr.en: Great lord, light holding his head high in the vault of the sky, …… brilliance, @wDN{Suen}, powerful dragon from the high mountains shedding light on the people, light of the remote heavens, crown ……, joy of the father who begot him! Impressive son born of @wDN{Ninlil}, respected in the @wTN{E-kur}, visible even at noontime, youthful @wDN{Suen}, …… light of heaven, whose majestic radiance is visible even at noontime, light who illuminates the black-headed people, Father @wDN{Nanna}, emerging from the remote (?) ……, understanding well how to make the night pleasant! Respected prince who, when he appears, is the glorious radiance of the heavens! 
+#etcsl: line-id=A.1
+
+A.2. {d}suen ušum saŋ-kal kur un₃-ta uŋ₃ ud ŋa₂-ŋa₂
+#lem: Suen[1]DN; ušum[snake]; saŋkal[foremost]; kur[mountain(s)]; un[high]; uŋ[people]; ud[sun]; ŋar[put]
+#etcsl: line-id=A.2
+
+A.3. su₃-ra₂-aŋ₂ an bad-da men DU BU giri₁₇-zal a-a ugu-na
+#lem: sudaŋ[precious metal or material (possibly amber)]; an[sky]; bad[open]; men[tiara]; X; X; kirizal[joy]; aya[father]; ugu[bear]
+#etcsl: line-id=A.3
+
+A.4. dumu gal-di {d}nin-lil₂-le tud-da nir-ŋal₂ e₂-kur-ra
+#lem: dumu[child]; galdi[exalted]; Ninlil[1]DN; utud[give birth (to)]; nirŋal[authoritative]; Ekur[1]TN
+#etcsl: line-id=A.4
+
+A.5. an-bar₇-a dalla e₃ šul {d}suen ud zu₂ keše₂ an-na
+#lem: anbar[mid-day]; dalla[(to be) bright]; e[leave]; šul[youth]; Suen[1]DN; ud[sun]; zu[tooth]; kešed[bind]; an[sky]
+#etcsl: line-id=A.5
+
+A.6. su-lim-ma-ni an-bar₇-gana₂ ud ŋiš-nu₁₁ uŋ₃ saŋ gig₂-ga
+#lem: sulim[awesome radiance]; anbarkar[mid-day]; ud[sun]; ŋešnu[light]; uŋ[people]; saŋ[head]; giggig[black]
+#etcsl: line-id=A.6
+
+A.7. a-a {d}nanna |U.GA.HI| bad-ta ŋi₆ dug₃-dug₃ gal-zu
+#lem: aya[father]; Nanna[1]DN; X; bad[open]; ŋi[night]; dug[good]; galanzu[wise]
+#etcsl: line-id=A.7
+
+A.8. nir-ŋal₂ nun pa e₃ ak-a še-er-zid an-na-kam
+#lem: nirŋal[authoritative]; nun[prince]; pa[branch]; e[leave]; ak[do]; šerzid[radiance]; an[sky]
+#etcsl: line-id=A.8
+
+A.9. urim₂{ki} iri ud₅-saŋ ki-en-gi-ra me-bi nu-kur₂-ru-dam
+#lem: Urim[1]SN; iri[city]; udsaŋ[band]; Kengir[1]; me[Being]; kur[different]
+#tr.en: At the foundations of heaven and earth, Father @wDN{Nanna} appears in the night time over @wSN{Urim}, 
+#etcsl: line-id=A.9
+
+A.10. temen an ki-bi a-a {d}nanna ŋi₆ u₃-na pa e₃
+#lem: temen[foundation]; an[sky]; ki[place]; aya[father]; Nanna[1]DN; ŋi[night]; ŋiʾunak[night]; pa[branch]; e[leave]
+#tr.en: the city that is the cosmic bond for @wGN{Sumer}, whose divine powers can never be altered. 
+#etcsl: line-id=A.10
+
+A.11. mu mu-un-pad₃ hi-li šag₄-ge bi₂-in-si {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: mu[name]; pad[find]; hili[attractiveness]; šag[heart]; si[fill]; Ibbisuen[1]RN
+#tr.en: He has called the name, he has filled the heart with joy, 
+#etcsl: line-id=A.11
+
+A.12. eš₃ nibru{ki} šag₄-bi kur he₂-ŋal₂-la ki-tuš ki-ur₃-ra-ke₄
+#lem: eš[shrine]; Nibru[1]SN; šag[heart]; kur[mountain(s)]; heŋal[plenty]; kituš[dwelling place]; Kiʾur[1]
+#tr.en: my @wRN{Ibbi-@wDN{Suen}}! At the shrine @wSN{Nibru}, 
+#etcsl: line-id=A.12
+
+A.13. nam-nun-na an-ta su-lim-ma-ni kalam-ma mu-un-barag₂-ge
+#lem: namnun[magnificence]; an[sky]; sulim[awesome radiance]; kalam[the Land (of Sumer)]; barag[spread out]
+#tr.en: whose interior is a mountain of abundance, the dwelling-place of the @wTN{Ki-ur}, 
+#etcsl: line-id=A.13
+
+A.14. kisal mah-e su-lim-ma X-bi nu-til-e nam gal tar-re-de₃
+#lem: kisal[courtyard]; mah[great]; sulim[awesome radiance]; X; til[complete]; nam[fate]; gal[big]; tar[cut]
+#tr.en: he spreads his majestic light from above over the land in princely style, in the august courtyard, 
+#etcsl: line-id=A.14
+
+A.15. a-a ugu-na u₁₈-ru gal an ki en {d}nu-nam-nir-e
+#lem: aya[father]; ugu[bear]; urun[exalted]; gal[big]; an[sky]; ki[place]; en[lord]; Nunamnir[1]DN
+#tr.en: the unceasing …… of its majestic light determining great destinies. @wDN{Suen} offers a prayer in the @wTN{Ubšu-unkena} to the father who begot him, 
+#etcsl: line-id=A.15
+
+A.16. {d}suen-e ub-šu-unken-na-ka u₃-gul mu-na-ŋa₂-ŋa₂
+#lem: Suen[1]DN; Ubšuʾunkenak[1]TN; ugul[cvne]; ŋar[put]
+#tr.en: the great …… of heaven and earth, Lord @wDN{Nunamnir}: 
+#etcsl: line-id=A.16
+
+A.17. ku₆-ŋal₂ nun barag-ga nun me til₃-la šag₄-ge pad₃-da-zu
+#lem: guŋal[inspector]; nun[prince]; barag[sanctum]; nun[prince]; me[Being]; til[live (of a single person)]; šag[heart]; pad[find]
+#tr.en: @q[Suen,Enlil]{“Canal inspector, prince on the dais, prince with life-giving divine powers! 
+#etcsl: line-id=A.17
+
+A.18. eš₃ urim₂{ki} ki-tuš mah lugal-la zi-šag₄-ŋal₂ kalam-ma
+#lem: eš[shrine]; Urim[1]SN; kituš[dwelling place]; mah[great]; lugal[king]; zišagŋal[encouragement]; kalam[the Land (of Sumer)]
+#tr.en: There shall be no end to the butter and the milk of the cow in the cattle-pen -- the shrine @wSN{Urim}, which you have chosen in your heart, the august royal dwelling-place, 
+#etcsl: line-id=A.18
+
+A.19. šilam {e₂}tur₃-ra dur₂ ŋar-ra i₃ ga-bi nu-til-e
+#lem: šilam[cow]; tur[animal stall]; dur[buttocks]; ŋar[put]; i[oil]; ga[milk]; til[complete]
+#tr.en: the encouragement of the Land! It shall have an abundance of butter, fish, 
+#etcsl: line-id=A.19
+
+A.20. i₃ šar₂-šar₂-re ku₆ mušen u₃-tud urud kug-sig₁₇ ib₂-ŋal₂-le
+#lem: i[oil]; šar[numerous]V/i; kud[fish]; mušen[bird]; utud[give birth (to)]; urud[copper]; kugsig[gold]; ŋal[⟦be⟧ to be (there]
+#tr.en: birds, births, copper and gold!”} 
+#etcsl: line-id=A.20
+
+A.21. iri{ki} numun i-i me-bi nu-kur₂-ru <MU> {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: iri[city]; numun[seed]; e[bring out]; me[Being]; kur[different]; X; Ibbisuen[1]RN
+#tr.en: The divine powers of the city which was responsible for the emergence of human seed cannot be altered, 
+#etcsl: line-id=A.21
+
+A.22. nam-lugal-ba pa ha-ma-ni-in-e₃ nam-til₃ he₂-ni-ib₂-su₃-ud-de₃
+#lem: namlugal[kingship]; pa[branch]; e[leave]; namtil[life]; sud[distant]
+#tr.en: my @wRN{Ibbi-@wDN{Suen}}! He has made its kingship shine forth; he prolongs life! He has strengthened for you the foundations of its great dais, 
+#etcsl: line-id=A.22
+
+A.23. barag gal-ba suhuš-bi mu-ra-an-ge-en dur₂ an-še₃ bi₂-in-ŋar
+#lem: barag[sanctum]; gal[big]; suhuš[foundation]; gin[confirm]; dur[buttocks]; an[sky]; ŋar[put]
+#tr.en: and has made you take your seat proudly upon it. He has made the divine powers of its kingship come forth; 
+#etcsl: line-id=A.23
+
+A.24. dalla he₂-ni-in-e₃ me nam-lugal-la-ba a₂ nun he₂-em-ta-e-ŋal₂
+#lem: dalla[(to be) bright]; e[leave]; me[Being]; namlugal[kingship]; a[arm]; nun[prince]; ŋal[⟦be⟧ to be (there]
+#tr.en: great power emerges from there. Those august commands cannot ever be changed, my @wRN{Ibbi-@wDN{Suen}}! 
+#etcsl: line-id=A.24
+
+A.25. inim mah ul-le₂-a-še₃ nu-kur₂-ru-da {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: inim[word]; mah[great]; ul[distant time]; kur[different]; Ibbisuen[1]RN
+#tr.en: You, @wDN{Ašimbabbar}, 
+#etcsl: line-id=A.25
+
+A.26. {d}dil-im₂-babbar-me-en an ki niŋin₂-na-ba
+#lem: Dilimbabbar[1]DN; an[sky]; ki[place]; niŋin[encircle]
+#tr.en: have caused respect for the king to shine forth throughout the whole of heaven and earth. 
+#etcsl: line-id=A.26
+
+A.27. nam-nir-ŋal₂ pa ba-ni-in-e₃#
+#lem: namnirŋal[authority]; pa[branch]; e[leave]
+#tr.en: For @wDN{Nanna} …… the just man chosen in the holy heart, 
+#etcsl: line-id=A.27
+
+A.28. si sa₂ šag₄ kug-ta mu pad₃-da {d}i-bi₂-{[d]}[suen-ŋu₁₀]
+#lem: si[horn]; sa[equal]; šag[heart]; kug[pure]; mu[name]; pad[find]; Ibbisuen[1]RN
+#tr.en: my @wRN{Ibbi-@wDN{Suen}}, …… august …… shine forth like a god. 
+#etcsl: line-id=A.28
+
+A.29. {d}nanna-ar KA GUD X mah AN-gin₇ pa e₃# X
+#lem: Nanna[1]DN; X; X; X; mah[great]; X; pa[branch]; e[leave]; X
+#tr.en: @wDN{Suen} …… his command …… the @wTN{E-kur}; @wDN{An} and @wDN{Enlil}, 
+#etcsl: line-id=A.29
+
+A.30. {d}suen-e ka-ta e₃-a-ni e₂-kur X X X X [...]
+#lem: Suen[1]DN; kag[mouth]; e[leave]; Ekur[1]TN; X; X; X; X; X
+#tr.en: who determine the destiny of the land, 
+#etcsl: line-id=A.30
+
+A.31. an {d}en-lil₂ nam# kalam-ma tar-re kur gal {d}en#-[lil₂ ...]
+#lem: An[1]DN; Enlil[1]DN; nam[fate]; kalam[the Land (of Sumer)]; tar[cut]; kur[mountain(s)]; gal[big]; Enlil[1]DN; X
+#tr.en: the Great Mountain @wDN{Enlil} ……  
+#etcsl: line-id=A.31
+
+A.32. X [...] X NI X [...]
+#lem: X; X; X; X; X; X
+#tr.en: 135=$ (@gap{1 line unclear} @gap{approx. 7 lines missing}) 
+#etcsl: line-id=A.32
+
+$ (approx. 7 lines missing)
+@end segment
+
+@div segment B
+
+B.1. nam tar-ra [...]
+#lem: nam[fate]; tar[cut]; X
+#tr.en: The destiny which has been determined ……. @wDN{Ašimbabbar} ……. 
+#etcsl: line-id=B.1
+
+B.2. {d}dil-im₂-babbar [...]
+#lem: Dilimbabbar[1]DN; X
+#tr.en: He has made the divine powers of kingship …… shine forth …… with head high ……, 
+#etcsl: line-id=B.2
+
+B.3. me nam-lugal-la# [...]
+#lem: me[Being]; namlugal[kingship]; X
+#tr.en: @wDN{Nanna-Suen} ……, 
+#etcsl: line-id=B.3
+
+B.4. dalla mu-e-e₃# [...] saŋ il₂ X [...]
+#lem: dalla[(to be) bright]; e[leave]; X; saŋ[head]; il[raise]; X; X
+#tr.en: the noble manifest lord …… in heaven and earth, 
+#etcsl: line-id=B.4
+
+B.5. {d}nanna-{d}suen-e [...]
+#lem: Nannasuen[1]DN; X
+#tr.en: source of trust, son of @wDN{Ninlil}, ornament of ……, 
+#etcsl: line-id=B.5
+
+B.6. giri₁₇-zal en pa e₃ an uraš-a X [...] X
+#lem: kirizal[joy]; en[lord]; pa[branch]; e[leave]; an[sky]; uraš[earth]; X; X; X
+#tr.en: @wDN{Nanna}, lord with a holy mouth (?) and with an august name, 
+#etcsl: line-id=B.6
+
+B.7. ŋiškim-til₃ dumu {d}nin-lil₂-la₂ he₂-du₇ X X X
+#lem: ŋeškimtil[trust]; dumu[child]; Ninlil[1]DN; hedu[ornament]; X; X; X
+#tr.en: encouragement of the Land! Prince endowed with charm, chosen in my holy heart, 
+#etcsl: line-id=B.7
+
+B.8. {d}nanna en KA kug mu mah-am₃ zi-šag₄-ŋal₂ kalam-ma
+#lem: Nanna[1]DN; en[lord]; X; kug[purify]; mu[name]; mah[great]; zišagŋal[encouragement]; kalam[the Land (of Sumer)]
+#tr.en: my @wRN{Ibbi-@wDN{Suen}}! Among the numerous people his name reaches far abroad, 
+#etcsl: line-id=B.8
+
+B.9. nun hi-li sud šag₄ kug-ŋa₂ pad₃-da {d}i-bi₂-{d}suen-ŋu₁₀
+#lem: nun[prince]; hili[attractiveness]; sud[distant]; šag[heart]; kug[pure]; pad[find]; Ibbisuen[1]RN
+#tr.en: …… the decision of the Land. 
+#etcsl: line-id=B.9
+
+B.10. uŋ₃ šar₂-ra-ba mu-ni su₃-ra₂-še₃ ka-aš bar kalam-ma X X
+#lem: uŋ[people]; šar[numerous]V/i; mu[name]; sud[distant]; kaš[decision]; bar[place outside]; kalam[the Land (of Sumer)]; X; X
+#tr.en: You know well how to benefit the reign and to increase abundance; 
+#etcsl: line-id=B.10
+
+B.11. bal dug nam-he₂ šar₂ kug-zu-me-en ŋanun mah-<še₃> ŋeštug₂-zu
+#lem: bala[turn]; dug[good]; namhe[abundance]; šar[numerous]V/i; kugzu[wise]; ŋanun[storehouse]; mah[great]; ŋeštug[ear]
+#tr.en: direct your attention to the great storehouses! Father @wDN{Nanna}, 
+#etcsl: line-id=B.11
+
+B.12. a-a {d}nanna šag₄-ge pad₃-da-zu X-ŋal₂# šum₂-ma
+#lem: aya[father]; Nanna[1]DN; šag[heart]; pad[find]; ŋal[⟦be⟧ to be (there]; šum[give]
+#tr.en: …… is given to the one you have chosen in your heart, 
+#etcsl: line-id=B.12
+
+B.13. en giri₁₇-zal numun zid-de₃ X X
+#lem: en[lord]; kirizal[joy]; numun[seed]; zid[right]; X; X
+#tr.en: you noble lord who …… the good seed, impressive with your divine powers, 
+#etcsl: line-id=B.13
+
+B.14. me gal-gal-la mah-di {d}en-lil₂-da eš-bar X [...] ŋal₂
+#lem: me[Being]; gal[big]; mahdi[exalted]; Enlil[1]DN; ešbar[decision]; X; X; ŋal[⟦be⟧ to be (there]
+#tr.en: making …… decisions together with @wDN{Enlil}, unique bull, manifest lord! 
+#etcsl: line-id=B.14
+
+B.15. gud dili du-de₃ en pa ed₂-dam {d}suen za₃#-mi₂
+#lem: gud[bull]; dili[single]; du[go]; en[lord]; pa[branch]; e[leave]; Suen[1]DN; zamin[praise]
+#tr.en: Praise be to @wDN{Suen}! 
+#etcsl: line-id=B.15
+
+@div trailer 
+
+B.16. u₃-lu-lu-ma-ma {d}suen-na-kam
+#lem: ululumama[lament]; Suen[1]DN
+#tr.en: An @fsux{ululumama} of @wDN{Suen}. 
+#etcsl: line-id=B.16
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

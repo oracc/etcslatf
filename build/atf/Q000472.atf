@@ -1,0 +1,770 @@
+&Q000472 = A hymn to Nibru and Išme-Dagan (Išme-Dagan W)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.23
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.23&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [iri]{ki#} me-lem₄-zu
+#lem: iri[city]; melim[frightening splendor]
+#tr.en: City whose terrifying splendour  
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue in the Louvre, 0.2.02, line 59
+
+A.2. an# ki#-a dul₄
+#lem: an[sky]; ki[place]; dul[cover]
+#tr.en: extends over heaven and earth, 
+#etcsl: line-id=A.2
+
+A.3. u₁₈-ru#-zu mah dib₂
+#lem: urun[exalted]; mah[great]; dib[pass]
+#tr.en: whose towers are exceptionally grand, 
+#etcsl: line-id=A.3
+
+A.4. [eš₃] nibru{ki}
+#lem: eš[shrine]; Nibru[1]SN
+#tr.en: shrine @wSN{Nibru}! 
+#etcsl: line-id=A.4
+
+A.5. ki an# a-na-šu₂-a-aš
+#lem: ki[place]; an[sky]; šuš[cover]
+#tr.en: Your power reaches to the edges of  
+#etcsl: line-id=A.5
+
+A.6. ne₃-zu
+#lem: ne[strength]
+#tr.en: the uttermost extent of heaven and earth. 
+#etcsl: line-id=A.6
+
+A.7. zag-bi-še₃ ŋal₂
+#lem: zag[side]; ŋal[⟦be⟧ to be (there]
+#tr.en: Of all the brick  
+#etcsl: line-id=A.7
+
+A.8. šeg₁₂ kilib₃-ba
+#lem: šeg[brick]; kilib[total]
+#tr.en: buildings erected in the Land, 
+#etcsl: line-id=A.8
+
+A.9. kalam-ma ki ŋar-ra
+#lem: kalam[the Land (of Sumer)]; ki[place]; ŋar[put]
+#tr.en: your brickwork is the most excellent. 
+#etcsl: line-id=A.9
+
+A.10. šeg₁₂!#-zu šeg₁₂ saŋ-bi-im
+#lem: šeg[brick]; šeg[brick]; saŋ[head]
+#tr.en: You have allowed all  
+#etcsl: line-id=A.10
+
+A.11. kur-kur-re
+#lem: kur[mountain(s)]
+#tr.en: the foreign lands and as  
+#etcsl: line-id=A.11
+
+A.12. iri{ki} <a>-na-du₃-a-ba
+#lem: iri[city]; du[build]
+#tr.en: many cities as are built  
+#etcsl: line-id=A.12
+
+A.13. me mah šu mi-ni-ti
+#lem: me[Being]; mah[great]; šu[hand]; teŋ[approach]
+#tr.en: to receive excellent divine powers. 
+#etcsl: line-id=A.13
+
+A.14. me mah#-zu-gin₇
+#lem: me[Being]; mah[great]
+#tr.en: Your name is as excellent  
+#etcsl: line-id=A.14
+
+A.15. mu-zu mah-am₃
+#lem: mu[name]; mah[great]
+#tr.en: as your excellent divine powers. 
+#etcsl: line-id=A.15
+
+A.16. mu-zu-gin₇
+#lem: zu[know]
+#tr.en: Your soil is soil  
+#etcsl: line-id=A.16
+
+A.17. sahar-zu sahar dug₃-ga-am₃
+#lem: sahar[soil]; sahar[soil]; dug[good]
+#tr.en: as good as your name. 
+#etcsl: line-id=A.17
+
+A.18. iri{ki} an ki-a
+#lem: iri[city]; an[sky]; ki[place]
+#tr.en: City, 
+#etcsl: line-id=A.18
+
+A.19. (1:mu-zu:1) dirig-ga-am₃
+#lem: mu[name]; dirig[make more than]
+#tr.en: @varh[t25423.v1]{your name towers } @vart[t25423.v2,t25423.v1]{@varn{1 ms. has instead:} your divine powers tower } over heaven and earth. 
+#etcsl: line-id=A.19
+
+:19v.1.1: ($1 ms. has instead:$) me-zu
+#lem: me[Being]
+
+A.20. us₂-saŋ
+#lem: udsaŋ[stake]
+#tr.en: You are the pillar (?) in  
+#etcsl: line-id=A.20
+
+A.21. sig igi-nim-ma
+#lem: sig[weak]; iginim[upper land]
+#tr.en: the south and the uplands, 
+#etcsl: line-id=A.21
+
+A.22. dim gal uŋ₃ šar₂-ra-me-en
+#lem: dim[post]; gal[big]; uŋ[people]; šar[numerous]V/i
+#tr.en: the mooring post of all people. 
+#etcsl: line-id=A.22
+
+A.23. me-zu me galam-ma
+#lem: me[Being]; me[Being]; galam[skilful]
+#tr.en: Your divine powers  
+#etcsl: line-id=A.23
+
+A.24. me nu-sag₂-dam
+#lem: me[Being]; sag[scatter]
+#tr.en: are supreme divine powers  
+#etcsl: line-id=A.24
+
+A.25. ŋiš-hur-zu-u₈!
+#lem: ŋešhur[plan]
+#tr.en: with which no divine powers can compare. 
+#etcsl: line-id=A.25
+
+A.26. abzu sig₉-ga-gin₇
+#lem: abzu[(cosmic) underground water]; sig[put into]
+#tr.en: Your plans are as  
+#etcsl: line-id=A.26
+
+A.27. ni₂ gal ši-im-du₈-du₈
+#lem: ni[fear]; gal[big]; du[spread]
+#tr.en: if rooted in the @fsux{abzu}, 
+#etcsl: line-id=A.27
+
+A.28. nam-mah-zu
+#lem: nammah[greatness]
+#tr.en: endowed with great terrifying splendour. 
+#etcsl: line-id=A.28
+
+A.29. {d}uraš sig₇-ga-gin₇
+#lem: Uraš[1]DN; sissig[green-yellow]
+#tr.en: As if it were  
+#etcsl: line-id=A.29
+
+A.30. na-me nu-zu-zu-dam
+#lem: name[any]; zu[know]
+#tr.en: the lovely earth itself, 
+#etcsl: line-id=A.30
+
+A.31. nam-tar-ra
+#lem: namtar[fate]
+#tr.en: no one can comprehend your eminence. 
+#etcsl: line-id=A.31
+
+A.32. saŋ-bi-še₃ e₃-a-zu
+#lem: saŋ[head]; e[leave]
+#tr.en: Your pre-eminent destiny surpasses all praise. 
+#etcsl: line-id=A.32
+
+A.33. niŋ₂ ar₂-re-eš dib-ba
+#lem: niŋ[thing]; ar[celebrate]; dib[pass]
+#tr.en: You are a lofty hill  
+#etcsl: line-id=A.33
+
+A.34. hur-saŋ sukud-ra₂
+#lem: hursaŋ[mountain]; sukud[height]
+#tr.en: that no one can reach. 
+#etcsl: line-id=A.34
+
+A.35. šu nu-teŋ₃-ŋe₂₆-me-en
+#lem: šu[hand]; teŋ[approach]
+#tr.en: Outstanding, 
+#etcsl: line-id=A.35
+
+A.36. saŋ il₂ zag dib-ba
+#lem: saŋ[head]; il[raise]; zag[side]; dib[pass]
+#tr.en: with head high, 
+#etcsl: line-id=A.36
+
+A.37. an-ne₂ us₂-sa-me-en
+#lem: an[sky]; us[accompany]
+#tr.en: you reach to the heavens. 
+#etcsl: line-id=A.37
+
+A.38. šag₄-zu u₁₈-ru-me-en
+#lem: šag[heart]; urun[exalted]
+#tr.en: Your interior towers up, 
+#etcsl: line-id=A.38
+
+A.39. bar-zu
+#lem: bar[outside]
+#tr.en: and your  
+#etcsl: line-id=A.39
+
+A.40. ni₂ gur₃-ru-me-en
+#lem: ni[fear]; gur[lift]
+#tr.en: exterior is awesome. 
+#etcsl: line-id=A.40
+
+A.41. {d}a-nun-na-ke₄-ne-er
+#lem: Anunak[1]DN
+#tr.en: You were built as life-giving  
+#etcsl: line-id=A.41
+
+A.42. u₂ nam-til₃-la-bi-še₃
+#lem: u[plant(s)]; namtil[life]
+#tr.en: food for the @wDN{Anuna} gods; 
+#etcsl: line-id=A.42
+
+A.43. za-e
+#lem: zaʾe[you]
+#tr.en: you were beautified for  
+#etcsl: line-id=A.43
+
+A.44. ši-im-ma-ab-du₃-en
+#lem: du[build]
+#tr.en: their eating and drinking. 
+#etcsl: line-id=A.44
+
+A.45. gu₇ naŋ-bi-še₃
+#lem: gu[eat]; naŋ[drink]
+#tr.en: You are the sheepfold which  
+#etcsl: line-id=A.45
+
+A.46. ši-im-ma-sig₇-ge-en
+#lem: sissig[green-yellow]
+#tr.en: is there for their life. 
+#etcsl: line-id=A.46
+
+A.47. amaš zi-bi-še₃ ŋal₂-me-en
+#lem: amaš[sheepfold]; zi[life]; ŋal[⟦be⟧ to be (there]
+#tr.en: Nothing escapes your grasp, 
+#etcsl: line-id=A.47
+
+A.48. a₂-zu-ta
+#lem: a[arm]
+#tr.en: as if caught in the  
+#etcsl: line-id=A.48
+
+A.49. gu sa-par₄ gid₂-gin₇
+#lem: gu[cord]; sabar[net]; gid[long]
+#tr.en: threads of an outspread net. 
+#etcsl: line-id=A.49
+
+A.50. niŋ₂-nam la-ba-ra-e₃
+#lem: niŋnam[anything]; e[leave]
+#tr.en: Shrine @wSN{Nibru}, 
+#etcsl: line-id=A.50
+
+A.51. eš₃ nibru{ki}
+#lem: eš[shrine]; Nibru[1]SN
+#tr.en: your activities are quite excellent, 
+#etcsl: line-id=A.51
+
+A.52. a-ra₂-zu niŋ₂ mah-am₃
+#lem: ara[way]; niŋ[thing]; mah[great]
+#tr.en: quite surpassing all description. 
+#etcsl: line-id=A.52
+
+A.53. niŋ₂ ka-ge dib-ba
+#lem: niŋ[thing]; kag[mouth]; dib[pass]
+#tr.en: The divine powers  
+#etcsl: line-id=A.53
+
+A.54. me hal-ha-zu
+#lem: me[Being]; hal[divide]
+#tr.en: that you allocate are  
+#etcsl: line-id=A.54
+
+A.55. ŋiš-šub zid-da
+#lem: ŋeššub[lot]; zid[right]
+#tr.en: a good fortune  
+#etcsl: line-id=A.55
+
+A.56. niŋ₂ sag₂ nu-di-dam
+#lem: niŋ[thing]; sag[scatter]; di[speak]
+#tr.en: which cannot be overturned. 
+#etcsl: line-id=A.56
+
+A.57. iri{ki} šag₄-zu
+#lem: iri[city]; šag[heart]
+#tr.en: City, 
+#etcsl: line-id=A.57
+
+A.58. kug-ga-am₃
+#lem: kug[pure]
+#tr.en: your interior is holy, 
+#etcsl: line-id=A.58
+
+A.59. bar-zu šen-šen-am₃
+#lem: bar[outside]; šen[pure]
+#tr.en: your exterior is radiant. 
+#etcsl: line-id=A.59
+
+A.60. su-bar-ra-zu
+#lem: subar[body]
+#tr.en: Your body exudes terrifying splendour. 
+#etcsl: line-id=A.60
+
+A.61. me-lem₄ gur₃-ru-am₃
+#lem: melim[frightening splendor]; gur[lift]
+#tr.en: Your location is a well-chosen location. 
+#etcsl: line-id=A.61
+
+A.62. ki-zu ki suh-ha-am₃
+#lem: ki[place]; ki[place]; suh[choose]
+#tr.en: The lord of wisdom, 
+#etcsl: line-id=A.62
+
+A.63. en ŋeštug₂-ga
+#lem: en[lord]; ŋeštug[ear]
+#tr.en: @wDN{Enlil}, 
+#etcsl: line-id=A.63
+
+A.64. kur gal {d}en-lil₂-le
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN
+#tr.en: the Great Mountain, 
+#etcsl: line-id=A.64
+
+A.65. šag₄-zu-a eš₃ bi₂-in-du₃
+#lem: šag[heart]; eš[shrine]; du[build]
+#tr.en: has built a  
+#etcsl: line-id=A.65
+
+A.66. eš₃-bi
+#lem: eš[shrine]
+#tr.en: sanctuary in your midst; 
+#etcsl: line-id=A.66
+
+A.67. eš₃ za-gin₃
+#lem: eš[shrine]; zagin[lapis lazuli]
+#tr.en: that sanctuary is a lapis-lazuli sanctuary, 
+#etcsl: line-id=A.67
+
+A.68. eš₃ nam tar-re-dam
+#lem: eš[shrine]; nam[fate]; tar[cut]
+#tr.en: a sanctuary that can decide destinies. 
+#etcsl: line-id=A.68
+
+A.69. e₂-kur
+#lem: Ekur[1]TN
+#tr.en: It is the @wTN{E-kur}, 
+#etcsl: line-id=A.69
+
+A.70. e₂ za-gin₃
+#lem: e[house]; zagin[lapis lazuli]
+#tr.en: the lapis-lazuli temple, 
+#etcsl: line-id=A.70
+
+A.71. e₂ nam tar-re-dam
+#lem: e[house]; nam[fate]; tar[cut]
+#tr.en: the temple that can decide the destinies. 
+#etcsl: line-id=A.71
+
+A.72. nun-zu
+#lem: nun[prince]
+#tr.en: Your prince, @wDN{Nunamnir}, 
+#etcsl: line-id=A.72
+
+A.73. {d}nu-nam-nir
+#lem: Nunamnir[1]DN
+#tr.en: the steer who has  
+#etcsl: line-id=A.73
+
+A.74. ninda₂ me ru-a
+#lem: ninda[breeding bull]; me[Being]; ri[impose]
+#tr.en: engendered (?) the divine powers, 
+#etcsl: line-id=A.74
+
+A.75. ama {d}ninₓ(EGI₂)-lil₂
+#lem: ama[mother]; Ninlil[1]DN
+#tr.en: and Mother @wDN{Ninlil}, 
+#etcsl: line-id=A.75
+
+A.76. ninₓ(EGI₂) gal ki-ur₃-ra-za
+#lem: nin[lady]; gal[big]; Kiʾur[1]
+#tr.en: the great lady  
+#etcsl: line-id=A.76
+
+A.77. ninₓ(EGI₂) me u₃-tud-da
+#lem: nin[lady]; me[Being]; utud[give birth (to)]
+#tr.en: of your @wTN{Ki-ur}, 
+#etcsl: line-id=A.77
+
+A.78. e-ne-e-ne-gin₇
+#lem: ane[he]
+#tr.en: the lady who has  
+#etcsl: line-id=A.78
+
+A.79. kalam-ma
+#lem: kalam[the Land (of Sumer)]
+#tr.en: borne the  
+#etcsl: line-id=A.79
+
+A.80. diŋir a-ba
+#lem: diŋir[deity]; aba[who?]
+#tr.en: divine powers --  
+#etcsl: line-id=A.80
+
+A.81. mu-un-til₃
+#lem: til[live (of a single person)]
+#tr.en: what god  
+#etcsl: line-id=A.81
+
+A.82. a-ne-ne
+#lem: anene[they]
+#tr.en: is there living  
+#etcsl: line-id=A.82
+
+A.83. TUG₂ X kislah temen
+#lem: X; X; kislah[uncultivated]; temen[foundation]
+#tr.en: in the  
+#etcsl: line-id=A.83
+
+A.84. šu bi₂-in-gur-ru-uš
+#lem: šu[hand]; gur[turn]
+#tr.en: Land like these two? 
+#etcsl: line-id=A.84
+
+A.85. GIRI₃-bi
+#lem: X
+#tr.en: They have cultically  
+#etcsl: line-id=A.85
+
+A.86. bi₂-in-dur₂-ru-ne-eš
+#lem: durun[sit]
+#tr.en: purified (?) ……. 
+#etcsl: line-id=A.86
+
+A.87. me zid me gal
+#lem: me[Being]; zid[right]; me[Being]; gal[big]
+#tr.en: They have settled  
+#etcsl: line-id=A.87
+
+A.88. me ar₂-re-ka
+#lem: me[Being]; ar[celebrate]
+#tr.en: ……, 
+#etcsl: line-id=A.88
+
+A.89. dur₂ im-mi-in-ŋar-re-eš
+#lem: dur[buttocks]; ŋar[put]
+#tr.en: and taken their  
+#etcsl: line-id=A.89
+
+A.90. {d}a-nun-na-ke₄-ne
+#lem: Anunak[1]DN
+#tr.en: seats upon the good, 
+#etcsl: line-id=A.90
+
+A.91. ama a-a ugu-bi-gin₇
+#lem: ama[mother]; aya[father]; ugu[bear]
+#tr.en: great and praiseworthy divine powers. 
+#etcsl: line-id=A.91
+
+A.92. igi-bi im-ši-ŋal₂
+#lem: igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: The @wDN{Anuna} gaze  
+#etcsl: line-id=A.92
+
+A.93. inim kug kal-kal
+#lem: inim[word]; kug[purify]; kal[rare]
+#tr.en: at them as  
+#etcsl: line-id=A.93
+
+A.94. zid-de₃-eš di-bi
+#lem: zid[right]; di[speak]
+#tr.en: if at their  
+#etcsl: line-id=A.94
+
+A.95. ŋizzal
+#lem: ŋizzal[hearing]
+#tr.en: own father and mother, 
+#etcsl: line-id=A.95
+
+A.96. ši-ma-an-ke₄-eš
+#lem: ak[do]
+#tr.en: listening attentively when  
+#etcsl: line-id=A.96
+
+A.97. {d}en-lil₂
+#lem: Enlil[1]DN
+#tr.en: they speak holy and  
+#etcsl: line-id=A.97
+
+A.98. {d}ninₓ(EGI₂)-lil₂-bi
+#lem: Ninlil[1]DN
+#tr.en: most precious words  
+#etcsl: line-id=A.98
+
+A.99. an-na
+#lem: an[sky]
+#tr.en: in the correct manner. 
+#etcsl: line-id=A.99
+
+A.100. igi im-mi-in-ŋal₂-eš
+#lem: igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: @wDN{Enlil} and @wDN{Ninlil}  
+#etcsl: line-id=A.100
+
+A.101. ki-a
+#lem: ki[place]
+#tr.en: looked at the heavens, 
+#etcsl: line-id=A.101
+
+A.102. zag mi-ni-in-ŋar-re-eš
+#lem: zag[side]; ŋar[put]
+#tr.en: while on earth  
+#etcsl: line-id=A.102
+
+A.103. ud-bi-a
+#lem: ud[sun]
+#tr.en: they set bounds (?); 
+#etcsl: line-id=A.103
+
+A.104. an gal
+#lem: an[sky]; gal[big]
+#tr.en: and then, 
+#etcsl: line-id=A.104
+
+A.105. ki daŋal-ba
+#lem: ki[place]; daŋal[wide]
+#tr.en: once their intention  
+#etcsl: line-id=A.105
+
+A.106. šag₄-bi mu-un-e₃-a
+#lem: šag[heart]; e[leave]
+#tr.en: became clear in the  
+#etcsl: line-id=A.106
+
+A.107. diŋir {d}a-nun-na
+#lem: diŋir[deity]; Anunak[1]DN
+#tr.en: great heavens and  
+#etcsl: line-id=A.107
+
+A.108. an ki-ke₄-ne
+#lem: an[sky]; ki[place]
+#tr.en: on the broad earth, 
+#etcsl: line-id=A.108
+
+A.109. kiŋ₂ ib₂-gi₄-gi₄-ne
+#lem: kiŋ[work]; gi[turn]
+#tr.en: the @wDN{Anuna} gods of heaven  
+#etcsl: line-id=A.109
+
+A.110. {ŋiš}al
+#lem: al[hoe]
+#tr.en: and earth set to work. 
+#etcsl: line-id=A.110
+
+A.111. {ŋiš}dusu
+#lem: dupsik[basket (for carrying earth and bricks)]
+#tr.en: The mattock and the earth-basket, 
+#etcsl: line-id=A.111
+
+A.112. niŋ₂ iri ki ŋa₂-ŋa₂
+#lem: niŋ[thing]; iri[city]; ki[place]; ŋar[put]
+#tr.en: tools for founding cities, 
+#etcsl: line-id=A.112
+
+A.113. šu BA# NA#
+#lem: šu[hand]; X; X
+#etcsl: line-id=A.113
+
+A.114. mu-un-ŋal₂
+#lem: ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.114
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: The command for the whole of heaven and earth ……; 
+#etcsl: line-id=B.1
+
+B.2. saŋ X X A BA MU X [...]
+#lem: saŋ[head]; X; X; X; X; X; X; X
+#tr.en: …… of the king, with wide understanding, 
+#etcsl: line-id=B.2
+
+B.3. an ki kilib-ba a₂ aŋ₂-ŋa₂-bi [...]
+#lem: an[sky]; ki[place]; kilib[total]; a[arm]; aŋ[measure]; X
+#tr.en: who knows all ……. They heed the holy words uttered, 
+#etcsl: line-id=B.3
+
+B.4. lugal#-la ŋeštug₂# bad niŋ₂-nam zu [...]
+#lem: lugal[king]; ŋeštug[ear]; bad[open]; niŋnam[anything]; zu[know]; X
+#tr.en: as if they were those of their own father and mother. 
+#etcsl: line-id=B.4
+
+B.5. inim kug dug₄-ga ama a-a ugu-bi#-[gin₇ igi-bi im-ši-ŋal₂]
+#lem: inim[word]; kug[purify]; dug[speak]; ama[mother]; aya[father]; ugu[bear]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: The @wDN{Anuna} in the @wTN{Ubšu-unkena} ……, 
+#etcsl: line-id=B.5
+
+B.6. {d}a-nun-na ub-šu-unken-na [...]
+#lem: Anunak[1]DN; Ubšuʾunkenak[1]TN; X
+#tr.en: …… going to @wDN{Enlil} and @wDN{Ninlil}. 
+#etcsl: line-id=B.6
+
+B.7. {d}en-lil₂ {d}nin-lil₂-ra sub₂-su₈-ub# [...]
+#lem: Enlil[1]DN; Ninlil[1]DN; sub[imperfect plural stem of ŋen⟦to go⟧]; X
+#tr.en: They direct (?) their gaze to the @wTN{E-kur}, the solemn shrine. 
+#etcsl: line-id=B.7
+
+B.8. e₂-kur eš₃ mah-še₃! igi-bi X [...]
+#lem: Ekur[1]TN; eš[shrine]; mah[great]; igi[eye]; X; X
+#tr.en: The important commands of @wDN{Enlil} and @wDN{Ninlil} ……. 
+#etcsl: line-id=B.8
+
+B.9. a₂ aŋ₂-ŋa₂ dugud {d}en-lil₂ {d}nin-[lil₂ ...]
+#lem: a[arm]; aŋ[measure]; dugud[heavy]; Enlil[1]DN; Ninlil[1]DN; X
+#tr.en: They have placed in the hands of the great hero @wDN{Ninurta} the power to make heaven and earth tremble at his solemn utterances. 
+#etcsl: line-id=B.9
+
+B.10. mah dug₄-ga-ni-še₃ an ki tuku₄-tuku₄ X [...]
+#lem: mah[great]; dug[speak]; an[sky]; ki[place]; tuku[rock]; X; X
+#tr.en: They have covered (?) his mouth with …… like finest oil. 
+#etcsl: line-id=B.10
+
+B.11. ur-saŋ gal en {d}nin-urta-ra šu-ni im-mi#-[in-sig₉-ge-eš]
+#lem: ursaŋ[warrior]; gal[big]; en[lord]; Ninurtak[1]DN; šu[hand]; sig[put into]
+#tr.en: They have placed the divine powers of heaven and the divine powers of earth in his hands. 
+#etcsl: line-id=B.11
+
+B.12. ka-ga-ni i₃ li ku₇-ku₇-da-gin₇ X [...]
+#lem: kag[mouth]; i[oil]; lib[high quality]; kud[sweet]; X; X
+#tr.en: @wDN{Ninurta}, the great hero, the strong ……, 
+#etcsl: line-id=B.12
+
+B.13. mu-un-dul-le-eš me an-na me ki šu-ni [im-mi-in-sig₉-ge-eš]
+#lem: dul[cover]; me[Being]; an[sky]; me[Being]; ki[place]; šu[hand]; sig[put into]
+#tr.en: the youth who subdues the foreign lands, 
+#etcsl: line-id=B.13
+
+B.14. {d}nin-urta ur-saŋ gal a₂-tuku MU X [...]
+#lem: Ninurtak[1]DN; ursaŋ[warrior]; gal[big]; atuku[powerful]; X; X; X
+#tr.en: the lord who plunders the cities ……. 
+#etcsl: line-id=B.14
+
+B.15. šul kur gam en iri lah₄ X ŠE₃ AN [...]
+#lem: šul[youth]; kur[mountain(s)]; gurum[bow]; en[lord]; iri[city]; lah[plural stem of tum ⟦bring⟧]; X; X; X; X
+#tr.en: Father @wDN{Enlil} and the great mother @wDN{Ninlil} …… have …… him into the @wTN{E-kur}. 
+#etcsl: line-id=B.15
+
+B.16. [a-a] {[d]}[en-lil₂] ama gal {d}nin-[lil₂ ...]
+#lem: aya[father]; Enlil[1]DN; ama[mother]; gal[big]; Ninlil[1]DN; X
+#etcsl: line-id=B.16
+
+B.17. [... e₂]-kur-ra-ka mi-ni-in-[...]
+#lem: X; Ekur[1]TN; X
+#etcsl: line-id=B.17
+
+B.18. [...] X X KI [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.18
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] EN# [...]
+#lem: X; X; X
+#tr.en: @wDN{Enlil} and @wDN{Ninlil} ……  
+#etcsl: line-id=C.1
+
+C.2. [...] BA# EN SA# [...]
+#lem: X; X; X; X; X
+#tr.en: @wDN{Enlil} and @wDN{Ninlil} have bestowed this on @wDN{Nuska}, 
+#etcsl: line-id=C.2
+
+C.3. [...] BA# teš₂-ba [...]
+#lem: X; X; teš[unity]; X
+#tr.en: the lord who stands ……. @wSN{Nibru}, 
+#etcsl: line-id=C.3
+
+C.4. {[d]}[en-lil₂] {[d]}nin#-lil₂-bi UGU KUR₉
+#lem: Enlil[1]DN; Ninlil[1]DN; X; X
+#tr.en: no god excels like your lord and lady; 
+#etcsl: line-id=C.4
+
+C.5. [...] ki-bi [...]
+#lem: X; ki[place]; X
+#tr.en: they are powerful princes, brilliantly revealed deities. No god excels like @wDN{Enlil} and @wDN{Ninlil}; 
+#etcsl: line-id=C.5
+
+C.6. [...] TA [...]
+#lem: X; X; X
+#tr.en: they are powerful princes, lords who can decide destinies. 
+#etcsl: line-id=C.6
+
+C.7. [...] X-bi dur₂ ŋar X [...]
+#lem: X; X; dur[buttocks]; ŋar[put]; X; X
+#tr.en: In your midst they have given divine powers to @wDN{Nuska} as minister. 
+#etcsl: line-id=C.7
+
+C.8. [...]-bi sud-su₃-ud [...]
+#lem: X; sud[distant]; X
+#tr.en: @wSN{Nibru}, your holy songs are exceptionally precious, surpassing all praise. 
+#etcsl: line-id=C.8
+
+C.9. X [...] X abzu-še₃! [...]
+#lem: X; X; X; abzu[(cosmic) underground water]; X
+#tr.en: I, @wRN{Išme-@wDN{Dagan}}, 
+#etcsl: line-id=C.9
+
+C.10. {[d]}nuska# en [...] gub# [...]
+#lem: Nuska[1]DN; en[lord]; X; gub[stand]; X
+#tr.en: have put them in everyone's mouth for all time. 
+#etcsl: line-id=C.10
+
+C.11. {[d]}en#-lil₂ {d}nin-lil₂-bi saŋ-e-eš mu-ni-in-rig₇-eš
+#lem: Enlil[1]DN; Ninlil[1]DN; saŋ[head]; rig[donate]
+#etcsl: line-id=C.11
+
+C.12. nibru#{ki} en nin-zu-gin₇ diŋir na-me nu-dib₂
+#lem: Nibru[1]SN; en[lord]; nin[lady]; diŋir[deity]; name[any]; dib[pass]
+#etcsl: line-id=C.12
+
+C.13. e-ne-ne nun er₉-me-eš diŋir pa e₃-me-eš
+#lem: anene[they]; nun[prince]; ir[mighty]; diŋir[deity]; pa[branch]; e[leave]
+#etcsl: line-id=C.13
+
+C.14. {d}en-lil₂ {d}nin-lil₂!-gin₇ diŋir na-me nu-dib₂
+#lem: Enlil[1]DN; Ninlil[1]DN; diŋir[deity]; name[any]; dib[pass]
+#etcsl: line-id=C.14
+
+C.15. e-ne-ne nun er₉-me-eš en nam tar-re-me-eš
+#lem: anene[they]; nun[prince]; ir[mighty]; en[lord]; nam[fate]; tar[cut]
+#etcsl: line-id=C.15
+
+C.16. šag₄-zu-a sukkal {d}nuska-ra me mu-na-ni-in-šum₂-mu-uš
+#lem: šag[heart]; sukkal[secretary]; Nuska[1]DN; me[Being]; šum[give]
+#etcsl: line-id=C.16
+
+C.17. nibru{ki} šir₃ kug-zu niŋ₂ kal-kal a-re-eš-še₃ dib₂-am₃
+#lem: Nibru[1]SN; šir[sing]; kug[pure]; niŋ[thing]; kal[rare]; ar[celebrate]; dib[pass]
+#etcsl: line-id=C.17
+
+C.18. {[d]}iš#-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar
+#lem: Išmedagan[1]RN; duri[forever]; kag[mouth]; ŋar[put]
+#etcsl: line-id=C.18
+
+@end segment
+
+
+
+
+
+
+

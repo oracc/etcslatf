@@ -1,0 +1,400 @@
+&Q000401 = An adab to Enlil for Šulgi (Šulgi G)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.07&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. {d}en-lil₂ gal-di en me-te-na niŋ₂-dug₄-ga-ni zid
+#lem: Enlil[1]DN; galdi[exalted]; en[lord]; mete[appropriate thing]; niŋduga[speech]; zid[right]
+#tr.en: @wDN{Enlil}, the eminent one, the sovereign lord, whose utterance is trustworthy; @wDN{Nunamnir}, the eternal shepherd of the Land, who hails from the great mountain; the great counsellor, the first and foremost in heaven and on earth, who is in control of all the divine powers; lord, who is imbued with great fearsomeness in accordance with his nobility, a perfected heavenly star, who takes good care of the primeval and choice divine powers, who alone is the lofty god; lord, life-giving light, who leads the people all over the world along one track; huge net spread over heaven and earth, rope stretched over all the lands! Who ever instructed @wDN{Enlil}, who ever rivalled him? 
+#etcsl: line-id=A.1
+
+A.2. {d}nu-nam-nir sipad da-ri₂ kalam-ma kur gal-ta e₃-a
+#lem: Nunamnir[1]DN; sipad[shepherd]; dari[eternal]; kalam[the Land (of Sumer)]; kur[mountain(s)]; gal[big]; e[leave]
+#etcsl: line-id=A.2
+
+A.3. sa₂ gal pad₃-de₃ gu₂-gal an ki me ša-ra u₅-a
+#lem: sa[advice]; gal[big]; pad[find]; gugal[foremost]; an[sky]; ki[place]; me[Being]; šar[numerous]V/i; u[ride]
+#etcsl: line-id=A.3
+
+A.4. en nam-nun-na-ni-še₃ ni₂ gal im-guru₃ mul-an šu du₇-a
+#lem: en[lord]; namnun[magnificence]; ni[fear]; gal[big]; gur[lift]; mulan[heavenly star]; šu[hand]; du[perfect]
+#etcsl: line-id=A.4
+
+A.5. me ul me saŋ₅-e gal kiŋ₂-ŋa₂ dili-ni diŋir mah
+#lem: me[Being]; ul[distant time]; me[Being]; saŋ[choose]; gal[big]; kiŋ[seek]; dili[single]; diŋir[deity]; mah[great]
+#etcsl: line-id=A.5
+
+A.6. en ud til₃ kur-zag til-la-še₃ uŋ₃ dub₃-us₂ dili-a tum₂
+#lem: en[lord]; ud[sun]; til[live (of a single person)]; kurzag[mountain border]; til[complete]; uŋ[people]; dus[path]; dili[single]; tum[carry]
+#etcsl: line-id=A.6
+
+A.7. sa-par₃ mah an ki šu₂-a eš₂ kur-kur-ra la₂-a
+#lem: sabar[net]; mah[great]; an[sky]; ki[place]; šuš[cover]; eš[rope]; kur[mountain(s)]; la[hang]
+#etcsl: line-id=A.7
+
+A.8. {d}en-lil₂-da a-ba a₂ mu-da-an-aŋ₂ a-ba-ga-an-da-sa₂
+#lem: Enlil[1]DN; aba[who?]; a[arm]; aŋ[measure]; sa[equal]
+#etcsl: line-id=A.8
+
+A.9. gal bi₂-dug₄ šag₄-ga-ni id₂ mah a-na-am₃ de₆-a-bi
+#lem: gal[big]; dug[speak]; šag[heart]; id[river]; mah[great]; ana[what?]; de[carry]
+#tr.en: He thought up something of great importance and he made public what his heart, a mighty river, 
+#etcsl: line-id=A.9
+
+A.10. inim kug-ga-na LIL₂ lal₃-ŋar-ra-bi e₂-ta nam-ta-e₃
+#lem: inim[word]; kug[pure]; X; lal₃.HI×AŠ₂[subterranean waters]; e[house]; e[leave]
+#tr.en: carried: the hidden secrets (?) of his holy thought. 
+
+#etcsl: line-id=A.10
+
+A.11. niŋ₂-bi niŋ₂ kug-ga-am₃ niŋ₂ šen-nam me e₂-kur-ra-kam
+#lem: niŋ[thing]; niŋ[thing]; kug[pure]; niŋ[thing]; šen[pure]; me[Being]; Ekur[1]TN
+#tr.en: The matter is a holy and pure one, it concerns the divine powers of the @wTN{E-kur}, 
+#etcsl: line-id=A.11
+
+A.12. šeg₁₂ zid nam tar-ra abzu sa-dur₂-ra niŋ₂ kal-kal-la-am₃
+#lem: šeg[brick]; zid[right]; nam[fate]; tar[cut]; abzu[(cosmic) underground water]; sadur[bottom]; niŋ[thing]; kal[rare]
+#tr.en: the fated good brick embedded (?) in the bottom of the @fsux{abzu}, it is something most important: 
+#etcsl: line-id=A.12
+
+A.13. e₂-kur lu₂ zid-de₃ i₃-du₃-e mu da-ri₂-kam
+#lem: Ekur[1]TN; lu[person]; zid[right]; du[build]; mu[name]; dari[eternal]
+#tr.en: a trustworthy man will rebuild the @wTN{E-kur}, thereby acquiring a lasting name. 
+#etcsl: line-id=A.13
+
+A.14. dumu lu₂ zid-da-ke₄ ŋidru mi-<ni>-ib₂-su₃-ra₂ {ŋiš}gu-za-bi nu-kur₂
+#lem: dumu[child]; lu[person]; zid[right]; ŋidru[scepter]; sud[distant]; guza[chair]; kur[different]
+#tr.en: The son of this trustworthy man will long hold the sceptre, and their throne will never be overthrown. 
+#etcsl: line-id=A.14
+
+A.15. nam-bi-še₃ e₂-kur-ra sig₇ mi-ni-ŋar {d}aš!-im₂-babbar-re
+#lem: nam[fate]; Ekur[1]TN; sissig[green-yellow]; ŋar[put]; Dilimbabbar[1]DN
+#tr.en: To that end, @wDN{Ašimbabbar} appeared shining in the @wTN{E-kur}, pleaded to his father @wDN{Enlil} and made him bring a childbearing mother (?); 
+#etcsl: line-id=A.15
+
+A.16. a-a-ni {d}en-lil₂ inim-ma bi₂-sig₁₀ ama di-da mi-ni-in-de₆
+#lem: aya[father]; Enlil[1]DN; inim[word]; sig[put into]; ama[mother]; utud[give birth (to)]; de[carry]
+#tr.en: in the @wTN{E-duga}, @wDN{Nanna}, the princely son, asked for the thing to happen. 
+#etcsl: line-id=A.16
+
+A.17. e₂-dug₃-ga {d}nanna dumu nun-ne₂ niŋ₂ al ba-ni-dug₄
+#lem: Eduga[1]TN; Nanna[1]DN; dumu[child]; nun[prince]; niŋ[thing]; al[cvne]; dug[speak]
+#tr.en: The @fsux{en} priestess gave birth to the trustworthy man from his semen placed in the womb. 
+#etcsl: line-id=A.17
+
+A.18. en-ne₂ <a> šag₄-tur-še₃ ŋal₂-la-na lu₂ zid mi-ni-u₃-tud
+#lem: en[priest]; a[water]; šagtur[womb]; ŋal[⟦be⟧ to be (there]; lu[person]; zid[right]; utud[give birth (to)]
+#tr.en: @wDN{Enlil}, the powerful shepherd, caused a young man to emerge: a royal child, 
+#etcsl: line-id=A.18
+
+A.19. {d}en-lil₂ sipad a₂ kalag-ga-ke₄ meš₃-e pa bi₂-e₃
+#lem: Enlil[1]DN; sipad[shepherd]; a[arm]; kalag[strong]; mes[hero]; pa[branch]; e[leave]
+#tr.en: one who is perfectly fitted for the throne-dais, 
+#etcsl: line-id=A.19
+
+A.20. dumu nam-lugal barag-ge₄ he₂-du₇ šul-gi lugal-am₃
+#lem: dumu[child]; namlugal[kingship]; barag[sanctum]; hedu[ornament]; Šulgir[1]RN; lugal[king]
+#tr.en: @wRN{Šulgi} the king. 
+#etcsl: line-id=A.20
+
+A.21. a piriŋ-ŋa₂ <e₂>-kur šu daŋal-la dug₄-dug₄ ki aŋ₂ {[d]}[nin]-lil₂-la₂
+#lem: a[water]; piriŋ[lion]; Ekur[1]TN; šu[hand]; daŋal[wide]; dug[speak]; ki[place]; aŋ[measure]; Ninlil[1]DN
+#tr.en: @wDN{Enlil} gave him a good name: 'A lion's seed, who provides the @wTN{E-kur} generously, 
+#etcsl: line-id=A.21
+
+A.22. e₂-kur-ta nam-nir-ŋal₂ šum₂-ma lugal urim₅#{[ki]}-ma
+#lem: Ekur[1]TN; namnirŋal[authority]; šum[give]; lugal[king]; Urim[1]SN
+#tr.en: the beloved one of @wDN{Ninlil}; the one granted authority in the @wTN{E-kur}; the king of @wSN{Urim}, 
+#etcsl: line-id=A.22
+
+A.23. šag₄ zalag-zalag sipad {d}lamma kalam-ma mu-ni bi₂#-in#-dug₃
+#lem: šag[heart]; zalag[bright]; sipad[shepherd]; lammar[(female) tutelary deity]; kalam[the Land (of Sumer)]; mu[name]; dug[good]
+#tr.en: the one with shining heart, the shepherd, the protective genius of the Land'. 
+#etcsl: line-id=A.23
+
+A.24. šul-gi {d}en-lil₂-le šag₄ kug-ge bi₂-pad₃ kalam šu-ni bi₂-si
+#lem: Šulgir[1]RN; Enlil[1]DN; šag[heart]; kug[pure]; pad[find]; kalam[the Land (of Sumer)]; šu[hand]; si[fill]
+#tr.en: @wDN{Enlil} chose @wRN{Šulgi} in his pure heart and entrusted the Land to him. 
+#etcsl: line-id=A.24
+
+A.25. šibir ešgiri₂ a₂-na mu-ni-la₂ sipad kur-kur-ra-kam
+#lem: šibir[shepherd's staff]; ešgiri[staff]; a[arm]; la[hang]; sipad[shepherd]; kur[mountain(s)]
+#tr.en: As the shepherd of all the countries, @wDN{Enlil} leant the crook and the staff against his arm, 
+#etcsl: line-id=A.25
+
+A.26. ŋidru {d}nanna šu nu-bal-e šu-ni-še₃ mu-ŋar
+#lem: ŋidru[scepter]; Nanna[1]DN; šu[hand]; bala[turn]; šu[hand]; ŋar[put]
+#tr.en: and placed the immutable sceptre of @wDN{Nanna} in his hand; he made him raise his head high, 
+#etcsl: line-id=A.26
+
+A.27. dur₂ nam-lugal sag₂ nu-di-da gu₂ an-še₃ mi-ni-zig₃
+#lem: dur[buttocks]; namlugal[kingship]; sag[scatter]; di[speak]; gu[neck]; an[sky]; zig[rise]
+#tr.en: sitting on an unshakeable royal seat. 
+#etcsl: line-id=A.27
+
+A.28. ud šudu₃-dam ŋi₆ nam-šita-am₃ kalam u₂-sal-la-am₃
+#lem: ud[sun]; šud[prayer]; ŋi[night]; namšita[prayer]; kalam[the Land (of Sumer)]; usal[meadow]
+#tr.en: The day was for prayers, the night was for supplications; the Land rested in peace. 
+#etcsl: line-id=A.28
+
+A.29. sipad he₂-ŋal₂-la šul-gi mu gi₁₆-sa lugal asilₓ(EZEN)-le₂
+#lem: sipad[shepherd]; heŋal[plenty]; Šulgir[1]RN; mu[name]; gilsa[treasure]; lugal[king]; asilala[joy]
+#tr.en: The shepherd of prosperity, @wRN{Šulgi}, he with a lasting name, the king of jubilation, 
+#etcsl: line-id=A.29
+
+A.30. kalag-ga a lu₂ zid-de₃ ri-a {d}en-lil₂ mu-i-i
+#lem: kalag[strong]; a[water]; lu[person]; zid[right]; ri[impose]; Enlil[1]DN; e[bring out]
+#tr.en: the mighty one, the semen engendered by the faithful man, praised @wDN{Enlil}. 
+#etcsl: line-id=A.30
+
+@div trailer 
+
+A.31. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: This is the @fsux{sa-gida}. 
+#etcsl: line-id=A.31
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.32. šul#-[gi] lugal uru₁₆ [...] ku-kur silim-e-eš₂ dug₄-ga
+#lem: Šulgir[1]RN; lugal[king]; urun[exalted]; X; kurku[wish]; silim[healthy]; dug[speak]
+#tr.en: @wRN{Šulgi}, the mighty king, ……, who exults in his triumph, 
+#etcsl: line-id=B.32
+
+B.33. lugal# X aga₃-kar₂ {d}inana ki-bal-a bi₂-sig₁₀
+#lem: lugal[king]; X; agakar[conquest]; Inanak[1]DN; kibala[rebel land]; sig[put into]
+#tr.en: the …… king vanquished the rebellious land with the @fsux{agakar} weapon of @wDN{Inana}. 
+#etcsl: line-id=B.33
+
+@div trailer 
+
+B.34. ŋiš-gi₅-ŋal₂ sa-gid₂-da-kam
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#tr.en: It is the @fsux{ŋišgiŋal} of the @fsux{sa-gida}. 
+#etcsl: line-id=B.34
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div sa-ŋara C
+
+C.35. {d}en-lil₂ zid-da-am₃ inim-ma-ni mah-am₃
+#lem: Enlil[1]DN; zid[right]; inim[word]; mah[great]
+#tr.en: May @wDN{Enlil} the trustworthy, 
+#etcsl: line-id=C.35
+
+C.36. nam dug₃ tar-ra-ni saŋ-bi-še₃ e₃-a-am₃
+#lem: nam[fate]; dug[good]; tar[cut]; saŋ[head]; e[leave]
+#tr.en: whose words are lofty -- good fate determined by him takes precedence -- who makes sturdy flax and barley grow -- may he prolong the life of @wRN{Šulgi}, 
+#etcsl: line-id=C.36
+
+C.37. gu niŋ₂ kalag mu₂-mu₂ še niŋ₂ kalag mu₂-mu₂
+#lem: gu[cord]; niŋ[thing]; kalag[strong]; mu[grow]; še[barley]; niŋ[thing]; kalag[strong]; mu[grow]
+#tr.en: the provider of the @wTN{E-kur} -- hence its flax is indeed fine flax, 
+#etcsl: line-id=C.37
+
+C.38. šul-gi e₂-kur-ra u₂-a-bi na-nam
+#lem: Šulgir[1]RN; Ekur[1]TN; ua[provisioner]; me[be]
+#tr.en: its barley is indeed fine barley -- the property of @wDN{Nanna}, 
+#etcsl: line-id=C.38
+
+C.39. gu-bi gu na-nam še-bi še na-nam
+#lem: gu[cord]; gu[cord]; me[be]; še[barley]; še[barley]; me[be]
+#tr.en: the houseborn-slave of the @wTN{E-kur}, 
+#etcsl: line-id=C.39
+
+C.40. niŋ₂-u₂-rum {d}nanna ama-tud e₂-kur-ra
+#lem: niŋurum[property]; Nanna[1]DN; amaʾatud[house-born slave]; Ekur[1]TN
+#tr.en: him whom @wDN{Ninlil} named at his birth @wRN{Šulgi}, 
+#etcsl: line-id=C.40
+
+C.41. šag₄-ta mu pad₃#-da {d}nin-lil₂-la₂ na-nam
+#lem: šag[heart]; mu[name]; pad[find]; Ninlil[1]DN; me[be]
+#tr.en: the shepherd of the Land, 
+#etcsl: line-id=C.41
+
+C.42. šul-gi sipad kalam-ma saŋ {d}en-lil₂-le zu
+#lem: Šulgir[1]RN; sipad[shepherd]; kalam[the Land (of Sumer)]; saŋ[head]; Enlil[1]DN; zu[know]
+#tr.en: the man whom @wDN{Enlil} knows, 
+#etcsl: line-id=C.42
+
+C.43. e₂-a lu₂-bi na-nam ud he₂-em-ma-ab-su₃-re₆
+#lem: e[house]; lu[person]; me[be]; ud[sun]; sud[distant]
+#tr.en: the steward of the temple. 
+#etcsl: line-id=C.43
+
+C.44. urim₅{ki} iri{ki} dug₃ nun-ne₂ ki ŋar-ra
+#lem: Urim[1]SN; iri[city]; dug[good]; nun[prince]; ki[place]; ŋar[put]
+#tr.en: So that its voluminous offering meals would bring joy to the @wTN{E-kur}, 
+#etcsl: line-id=C.44
+
+C.45. šag₄-bi dub-šen kug abzu igi nu-bar
+#lem: šag[heart]; dubšen[treasure chest]; kug[purify]; abzu[(cosmic) underground water]; igi[eye]; bar[place outside]
+#tr.en: @wDN{Enlil} called upon @wSN{Urim}, the good city founded by the princely one, 
+#etcsl: line-id=C.45
+
+C.46. nam#-išib dug₃-ga-kam šu-luh dadag-ga-kam
+#lem: namišib[office of išib-priest]; dug[good]; šuluh[ritual cleansing]; dadag[bright]
+#tr.en: the inside of which is a holy treasure chest which, like the @fsux{abzu}, 
+#etcsl: line-id=C.46
+
+C.47. nidba gal-gal-bi e₂-kur hul₂-le-de₃
+#lem: nindaba[(food) offering]; gal[big]; Ekur[1]TN; hul[rejoice]
+#tr.en: no eye can see -- the city of good purification rites and pure hand-washing rites; 
+#etcsl: line-id=C.47
+
+C.48. {d}en#-lil₂-le gu₃ ba-an-de₂ dug₄#-ga!(BI) zid-zid-dam
+#lem: Enlil[1]DN; gu[voice]; de[pour]; dug[speak]; zid[right]
+#tr.en: and what he says is trustworthy. 
+#etcsl: line-id=C.48
+
+C.49. sipad nam-lugal-la barag mah-ha tum₂-ma
+#lem: sipad[shepherd]; namlugal[kingship]; barag[sanctum]; mah[great]; tum[suitable]
+#tr.en: For his setting up the abundant sacrificial tin cups, 
+#etcsl: line-id=C.49
+
+C.50. šul-gi nam-en-na tug₂-ba₁₃ sud-sud-am₃
+#lem: Šulgir[1]RN; namen[the office of en-priest]; ba[garment]; sud[distant]
+#tr.en: for his having served evening meals in the dining-hall of the @wTN{E-kur}, 
+#etcsl: line-id=C.50
+
+C.51. bur!# an-naₓ(AN) he-nun-na sug₂-sug₂-ga-ni-še₃
+#lem: bur[(stone) bowl]; anna[metal]; henun[plenty]; sug[stand]
+#tr.en: @wDN{Enlil} determined a princely fate for the shepherd, 
+#etcsl: line-id=C.51
+
+C.52. unu₂ e₂-kur#-ra-ka kiŋ₂-sig gub#-ba#-ni-še₃#
+#lem: unu[dwelling]; Ekur[1]TN; kiŋsig[afternoon meal]; gub[stand]
+#tr.en: him who is worthy of the kingship and the lofty throne-dais, 
+#etcsl: line-id=C.52
+
+C.53. {d}en-lil₂ nam-nun-na [mu]-ni#-in-tar-e#
+#lem: Enlil[1]DN; namnun[magnificence]; tar[cut]
+#tr.en: @wRN{Šulgi}, who is adorned with the @fsux{ba} garment of the @fsux{en} priests. 
+#etcsl: line-id=C.53
+
+C.54. an-gin₇ sig₇-ga-ni X [...]-e#
+#lem: an[sky]; sissig[green-yellow]; X; X
+#tr.en: The one beautiful like heaven, ……, 
+#etcsl: line-id=C.54
+
+C.55. {d}nanna lugal-am₃ [...]-am₃#
+#lem: Nanna[1]DN; lugal[king]; X
+#tr.en: @wDN{Nanna}, the king, 
+#etcsl: line-id=C.55
+
+C.56. ki-ur₃ ki gal-la# [...] dug₃# mu-na#-šum₂
+#lem: Kiʾur[1]; ki[place]; gal[big]; X; dug[good]; šum[give]
+#tr.en: the ……, gave him good …… in the @wTN{Ki-ur}, 
+#etcsl: line-id=C.56
+
+C.57. {d}en-lil₂-la₂ KA# [...] mu#-ši-daŋal-e
+#lem: Enlil[1]DN; X; X; daŋal[wide]
+#tr.en: the great place. At the command (?) of @wDN{Enlil}, 
+#etcsl: line-id=C.57
+
+C.58. kur a nun gi₄-a gu₂-un-gu₂-un# mu-na-ab-za
+#lem: kur[mountain(s)]; a[arm]; nun[prince]; gi[turn]; gungugu[an animal noise]; za[cvve]
+#tr.en: he ……, he roars for him (?) against the foreign land that no one dare oppose. 
+#etcsl: line-id=C.58
+
+C.59. ma-da mu-gen₆-ge-en₆# uŋ₃ ŋiri₃-ni-še₃ mu-nu₂
+#lem: mada[land]; gin[confirm]; uŋ[people]; ŋiri[foot]; nud[lie down]
+#tr.en: He stabilizes the countryside, and the people lie at his feet. 
+#etcsl: line-id=C.59
+
+C.60. šul-gi sipad lu₂-lal₃! nibru{ki} ki aŋ₂-am₃
+#lem: Šulgir[1]RN; sipad[shepherd]; lulal[dear]; Nibru[1]SN; ki[place]; aŋ[measure]
+#tr.en: @wRN{Šulgi}, the shepherd is the honey man beloved by @wSN{Nibru}; may the true shepherd, @wDN{Šulgi}, refresh himself in the pleasant shade of @wDN{Enlil's} brickwork! 
+#etcsl: line-id=C.60
+
+C.61. šeg₁₂ {d}en-lil₂-la₂ ŋissu-bi dug₃-ga-am₃
+#lem: šeg[brick]; Enlil[1]DN; ŋissu[shade]; dug[good]
+#etcsl: line-id=C.61
+
+C.62. sipad zid šul-gi-re ni₂ he₂-em-ši-ib₂-ten-ten
+#lem: sipad[shepherd]; zid[right]; Šulgir[1]RN; ni[self]; ten[extinguish]
+#etcsl: line-id=C.62
+
+@div trailer 
+
+C.63. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: It is the @fsux{sa-ŋara}. 
+#etcsl: line-id=C.63
+
+@end trailer
+
+@end sa-ŋara
+
+@div ŋišgiŋal D
+
+D.64. šul-gi bal-za {d}en-lil₂-le ud dug₃ ma-ra-ni-in-e₃
+#lem: Šulgir[1]RN; bala[turn]; Enlil[1]DN; ud[sun]; dug[good]; e[leave]
+#tr.en: O @wRN{Šulgi}, @wDN{Enlil} has brought forth happy days for you in your reign! 
+#etcsl: line-id=D.64
+
+@div trailer 
+
+D.65. ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#tr.en: It is the @fsux{ŋišgiŋal} of the @fsux{sa-ŋara}. 
+#etcsl: line-id=D.65
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div uru E
+
+E.66. an-na lugal-be₂-e ki-a kur gal-be₂-e
+#lem: an[sky]; lugal[king]; ki[place]; kur[mountain(s)]; gal[big]
+#tr.en: Heaven's king, earth's great mountain, Father @wDN{Enlil}, heaven's king, earth's great mountain, thought up something great: he chose @wDN{Šulgi} in his heart for a good reign! 
+#etcsl: line-id=E.66
+
+E.67. a-a {d}en-lil₂ an-na lugal-be₂-e ki-a kur gal-be₂-e
+#lem: aya[father]; Enlil[1]DN; an[sky]; lugal[king]; ki[place]; kur[mountain(s)]; gal[big]
+#etcsl: line-id=E.67
+
+E.68. gal bi₂-dug₄ šul-gi bal zid-da šag₄-ge-eš i-pad₃
+#lem: gal[big]; dug[speak]; Šulgir[1]RN; bala[turn]; zid[right]; šag[heart]; pad[find]
+#etcsl: line-id=E.68
+
+@div trailer 
+
+E.69. u₁₈-ru₁₂-NI-bi-im
+#lem: uru[literary subscript]
+#tr.en: It is its @fsux{uru}. 
+#etcsl: line-id=E.69
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+E.70. a-da-ab {d}en-lil₂-la₂-kam
+#lem: adab[drum]; Enlil[1]DN
+#tr.en: An @fsux{adab} of @wDN{Enlil}. @notep{lines 69 and 70 are written as one line in source} 
+#etcsl: line-id=E.70
+
+#etcsl#doc lines 69 and 70 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

@@ -1,0 +1,168 @@
+&Q000618 = A šir-šag-ḫula to Damgalnuna (Damgalnuna A)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.03.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.03.1&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. nun# gal {d}en-ki [...] an ki NE [...] mi₂ mu-ri₂-in-[dug₄]
+#lem: nun[prince]; gal[big]; Enkik[1]DN; X; an[sky]; ki[place]; X; X; mi[cvne]; dug[speak]
+#tr.en: The great prince @wDN{Enki}, …… heaven and earth, …… cherishes you. Bride of @wDN{Enki} who determines fates favourably, 
+#etcsl: line-id=A.1
+
+A.2. e₂-gi₄-a %e {d}am-an-ki %s nam zid-de₃-eš tar-re
+#lem: egia[bride]; Amanki[]DN; nam[fate]; zid[right]; tar[cut]
+#tr.en: great wild cow, exceptional in appearance, pre-eminent forever! Your husband, 
+#etcsl: line-id=A.2
+
+A.3. sumun₂ gal ulutim₂-bi dirig-ga niŋ₂-ul!-e-eš rib-ba
+#lem: sumun[wild cow]; gal[big]; uludin[form]; dirig[make more than]; niŋul[an everlasting thing]; rib[surpassing]
+#tr.en: the great lord @wDN{Nudimmud} who makes perfect the borders of the Land, 
+#etcsl: line-id=A.3
+
+A.4. nitalam-zu en gal {d}nu-dim₂-mud zag kalam-ma šu du₇
+#lem: ŋidlam[(equal ranking) spouse]; en[lord]; gal[big]; Nudimmud[1]DN; zag[side]; kalam[the Land (of Sumer)]; šu[hand]; du[perfect]
+#tr.en: the lord on whom @wDN{An} the king has bestowed perceptiveness; 
+#etcsl: line-id=A.4
+
+A.5. en igi-ŋal₂-la an lugal šum₂-mu ad gi₄-gi₄ gal-zu
+#lem: en[lord]; igiŋal[wise]; An[1]DN; lugal[king]; šum[give]; ad[voice]; gi[turn]; galanzu[wise]
+#tr.en: the wise adviser, the sage lord whose command is foremost, 
+#etcsl: line-id=A.5
+
+A.6. en gal-an-zu dug₄-ga-ni saŋ-ba du kug-zu niŋ₂-nam-ma-kam
+#lem: en[lord]; galanzu[wise]; dug[speak]; saŋ[head]; ŋen[go]; kugzu[wise]; niŋnam[anything]
+#tr.en: who is skilful in everything, the majestic leader who pleases (?) @wDN{Enlil's} heart; 
+#etcsl: line-id=A.6
+
+A.7. mas-su mah šag₄ {d}en-lil₂-la₂-ka sig₁₀-ge₅ me-bi sag₂ [nu]-di
+#lem: massu[leader]; mah[great]; šag[heart]; Enlil[1]DN; sig[put into]; me[Being]; sag[scatter]; di[speak]
+#tr.en: whose divine powers cannot be withstood, he of deep understanding, called by an auspicious name, 
+#etcsl: line-id=A.7
+
+A.8. ŋeštug₂# daŋal mu dug₃-ga sa₄#-a eš-bar-e šum₂-[...]
+#lem: ŋeštug[ear]; daŋal[wide]; mu[name]; dug[good]; še[call by name]; ešbar[decision]; šum[give]
+#tr.en: reaching decisions …… who is knowledgeable about giving birth, 
+#etcsl: line-id=A.8
+
+A.9. [u₃]-tud-da zu X [...] šag₄ X [...]
+#lem: utud[give birth (to)]; zu[know]; X; X; šag[heart]; X; X
+#tr.en: ……, 
+#etcsl: line-id=A.9
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. an lugal# [...]
+#lem: an[sky]; lugal[king]; X
+#tr.en: @wDN{An} the king ……. 
+#etcsl: line-id=B.1
+
+B.2. u₃-sumun₂ zid# [...]
+#lem: sumun[wild cow]; zid[right]; X
+#tr.en: Vigorous wild cow, ……. 
+#etcsl: line-id=B.2
+
+B.3. zi nam-til₃# [...]
+#lem: zi[life]; namtil[life]; X
+#tr.en: Life and living ……. 
+#etcsl: line-id=B.3
+
+B.4. lu₂-ulu₃-bi [...]
+#lem: lulu[man]; X
+#tr.en: Mankind ……. 
+#etcsl: line-id=B.4
+
+B.5. ne-saŋ ŋar-ra [...]
+#lem: nesaŋ[first-fruit offering]; ŋar[put]; X
+#tr.en: The established first-fruit offerings ……. 
+#etcsl: line-id=B.5
+
+B.6. ur₅ sag₉-ge šag₄ [...]
+#lem: ur[liver]; sag[good]; šag[heart]; X
+#tr.en: Pleasing the spirit and …… the heart, ……. 
+#etcsl: line-id=B.6
+
+B.7. nam-til₃ zi sud# [...]
+#lem: namtil[life]; zi[life]; sud[distant]; X
+#tr.en: Living and a long life ……. 
+#etcsl: line-id=B.7
+
+B.8. e₂ kaš de₂-a A [...] i₃ {ŋiš}erin-na# [...]
+#lem: e[house]; kaš[beer]; de[pour]; X; X; i[oil]; eren[cedar]; X
+#tr.en: In the house where beer is poured out, …… the oil of cedars ……. 
+#etcsl: line-id=B.8
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. {dug}šakir₃ [...]
+#lem: šakir[churn]; X
+#tr.en: The churn (?) ……. 
+#etcsl: line-id=C.1
+
+C.2. nun gal {d}en-[ki ...] X [...]
+#lem: nun[prince]; gal[big]; Enkik[1]DN; X; X; X
+#tr.en: The great prince @wDN{Enki} ……. 
+#etcsl: line-id=C.2
+
+C.3. e₂# [...]
+#lem: e[house]; X
+#tr.en: The house (?) ……. 
+#etcsl: line-id=C.3
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+D.1. abzu# me-bi X [...]
+#lem: abzu[(cosmic) underground water]; me[Being]; X; X
+#tr.en: The divine powers of the @fsux{abzu} ……. 
+#etcsl: line-id=D.1
+
+D.2. X sag₉-ga lu₂# [...]
+#lem: X; sag[good]; lu[person]; X
+#tr.en: The good ……. 
+#etcsl: line-id=D.2
+
+D.3. saŋ il₂ nam-nin-a za₃-mi₂-zu X
+#lem: saŋ[head]; il[raise]; namnin[ladyship]; zamin[praise]; X
+#tr.en: Outstanding among ladies, your praise ……. 
+#etcsl: line-id=D.3
+
+D.4. eridug{ki} kur he₂-ŋal₂-la-zu dam-bi nu-til-e
+#lem: Eridug[1]SN; kur[mountain(s)]; heŋal[plenty]; dam[spouse]; til[complete]
+#tr.en: You never cease being the wife of your @wSN{Eridug}, the mountain of abundance. 
+#etcsl: line-id=D.4
+
+D.5. diŋir gal#-gal-e-ne u₃-tud-bi he₂-a diŋir-bi he₂-em
+#lem: diŋir[deity]; gal[big]; utud[give birth (to)]; me[be]; diŋir[deity]; me[be]
+#tr.en: She is the birth-giver of the great gods, she is their goddess. 
+#etcsl: line-id=D.5
+
+@div trailer 
+
+D.6. šir₃-šag₄-hul₂-la {d}dam-gal-nun#-[na-kam]
+#lem: širšaghulak[subscript]; Damgalnunak[1]DN
+#tr.en: A @fsux{šir-šagḫula} of @wDN{Damgalnuna}. 
+#etcsl: line-id=D.6
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

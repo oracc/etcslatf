@@ -1,0 +1,72 @@
+&Q000562 = Letter from Sîn-illat to Iddin-Dagan about confronting the Martu
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.2.01
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.01&display=Crit&charenc=gcirc#
+
+1. lugal-ŋa₂ u₃-na-dug₄
+#lem: lugal[king]; dug[speak]
+#tr.en: Speak to my lord: this is what @wPN{@wDN{Sîn}-illat} the general, your servant, says: 
+#etcsl: line-id=1
+
+2. {m}{d}suen-illat ra-bi-si₂-ka₃-tum-ma
+#lem: Sinillat[1]PN; rabizigatum[military official]
+#etcsl: line-id=2
+
+3. arad-zu na-ab-be₂-a
+#lem: arad[slave]; e[speak]
+#etcsl: line-id=3
+
+4. ka-ku-la-tum{ki#} gaba-ri gid₂-da-ŋu₁₀-ne
+#lem: Kakkulatum[1]SN; gabari[equal]; gid[long]
+#tr.en: When I moved opposite @wSN{Kakkulātum}, 
+#etcsl: line-id=4
+
+5. mar-tu {ŋiš}tukul#-ta šubtum₆-ta im-zig₃
+#lem: Martu[1 Amorite]; tukul[weapon]; šubtum[dwelling]; zig[rise]
+#tr.en: the @wEN{Martu} rose up from their ambush with their weapons (?). 
+#etcsl: line-id=5
+
+6. ŋe₂₆-e X [...]-ga-ŋu₁₀-ne [...] X 70 i₃-dab₅
+#lem: ŋaʾe[I]; X; X; X; X; n; dab[seize]
+#tr.en: When I ……, 
+#etcsl: line-id=6
+
+7. ka-ku-la-tum{ki#}-še₃ ba-ni-in-kur₉
+#lem: Kakkulatum[1]SN; kur[enter]
+#tr.en: I captured 70 (?) …… and brought them into @wSN{Kakkulātum}. 
+#etcsl: line-id=7
+
+8. tukum-bi lugal-ŋu₁₀ ugnim-ma tuš-u₃-bi ab-be₂
+#lem: tukumbi[if]; lugal[king]; ugnim[army]; tuš[sit (down)]; e[speak]
+#tr.en: If my lord arranges for the troops to encamp, 
+#etcsl: line-id=8
+
+9. {kuš}a-ŋa₂-la₂ keše₂-da-bi šu he₂-mi-ib-da₁₃-da₁₃
+#lem: aŋala[leather sack]; kešed[bind]; šu[hand]; taka[set aside]
+#tr.en: let him have them take their tied-up leather sacks. 
+#etcsl: line-id=9
+
+10. tukum-bi lugal-ŋu₁₀ ugnim-ma nu-tuš-u₃-bi ab-be₂
+#lem: tukumbi[if]; lugal[king]; ugnim[army]; tuš[sit (down)]; e[speak]
+#tr.en: If my lord arranges for the troops not to encamp, 
+#etcsl: line-id=10
+
+11. (1:he₂-em-ma-sug₂-ge-eš:1) (2:lugal-ŋu₁₀ he₂-en-zu:2)
+#lem: gub[stand]; lugal[king]; zu[know]
+#tr.en: @varh[t3201.v1]{then let them stay put } @vart[t3201.v2,t3201.v1]{@varn{2 mss. have instead:} then let them go }. @varh[t3201.v3]{May my lord know } @vart[t3201.v4,t3201.v3]{@varn{1 ms. has instead:} This is urgent }! 
+#etcsl: line-id=11
+
+:11v.1.1: ($2 mss. have instead:$) he₂-em-ma-sub₂-be₂-eš
+#lem: ŋen[go]
+:11v.2.1: ($1 ms. has instead:$) a-ma-[ru]-kam
+#lem: amaru[flood]
+
+
+
+
+
+
+

@@ -1,0 +1,311 @@
+&Q000626 = A tigi to Inana (Inana E)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.07.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.5&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. nin {d}nin-gal-e ul-e hi-li-še₃ sig₇-ga
+#lem: nin[lady]; Ningal[1]DN; ul[swell]; hili[attractiveness]; sissig[green-yellow]
+#tr.en: Lady whom @wDN{Ningal} has joyously made attractive with beauty, 
+#etcsl: line-id=A.1
+
+A.2. ušumgal-am₃ hu-hub₂ ša-mu-ra-an-ŋal₂
+#lem: ušumgal[great dragon]; hub[foot]; ŋal[⟦be⟧ to be (there]
+#tr.en: speed has been given to you as to a dragon. 
+#etcsl: line-id=A.2
+
+A.3. {d}inana {d}nin-gal-e ul-e hi-li-še₃ sig₇-ga
+#lem: Inanak[1]DN; Ningal[1]DN; ul[swell]; hili[attractiveness]; sissig[green-yellow]
+#tr.en: @wDN{Inana} whom @wDN{Ningal} has joyously made attractive with beauty, 
+#etcsl: line-id=A.3
+
+A.4. ušumgal-am₃ hub₂-hub₂ ša-mu-ra-an-ŋal₂
+#lem: ušumgal[great dragon]; hub[foot]; ŋal[⟦be⟧ to be (there]
+#tr.en: speed has been given to you as to a dragon. 
+#etcsl: line-id=A.4
+
+A.5. ulu₃-a u₅-a abzu-ta me šu ti-a-me-en
+#lem: ulu[south wind]; u[ride]; abzu[(cosmic) underground water]; me[Being]; šu[hand]; teŋ[approach]
+#tr.en: Riding on the south wind, you are she who has received the divine powers from the @fsux{abzu}. 
+#etcsl: line-id=A.5
+
+A.6. lugal {d}ama-ušumgal-an-na barag kug#-za ši-im-mi-tuš
+#lem: lugal[king]; Amaʾušumgalanak[1]DN; barag[sanctum]; kug[pure]; tuš[sit (down)]
+#tr.en: You have seated King @wDN{Ama-ušumgal-ana} upon your holy dais. 
+#etcsl: line-id=A.6
+
+A.7. {d}inana ulu₃-a u₅-a abzu-ta me šu ti-a-me-en
+#lem: Inanak[1]DN; ulu[south wind]; u[ride]; abzu[(cosmic) underground water]; me[Being]; šu[hand]; teŋ[approach]
+#tr.en: @wDN{Inana}, riding on the south wind, you are she who has received the divine powers from the @fsux{abzu}. 
+#etcsl: line-id=A.7
+
+A.8. lugal {d}ama-ušumgal#-an-na barag kug-za ši-im-mi-tuš
+#lem: lugal[king]; Amaʾušumgalanak[1]DN; barag[sanctum]; kug[pure]; tuš[sit (down)]
+#tr.en: You have seated King @wDN{Ama-ušumgal-ana} upon your holy dais. 
+#etcsl: line-id=A.8
+
+A.9. diŋir ur-saŋ-ŋa₂ X bi₂-in-ŋar me-zu an-na mu-un-dirig-dam
+#lem: diŋir[deity]; ursaŋ[warrior]; X; ŋar[put]; me[Being]; an[sky]; dirig[make more than]
+#tr.en: Goddess, you have provided …… to the hero and made your divine powers excel in heaven. 
+#etcsl: line-id=A.9
+
+A.10. šag₄ ama-za-ta šita₂ mi-tum-ma zag ša-mu-ni-in-keše₂
+#lem: šag[heart]; ama[mother]; šita[weapon]; mitum[divine weapon]; zag[side]; kešed[bind]
+#tr.en: Since your mother's womb, you have wielded the @fsux{šita} mace and the @fsux{mitum} mace. 
+#etcsl: line-id=A.10
+
+A.11. {d}inana ur-saŋ-ŋa₂ X bi₂-in-ŋar me-zu an-na mu-un-dirig-dam#
+#lem: Inanak[1]DN; ursaŋ[warrior]; X; ŋar[put]; me[Being]; an[sky]; dirig[make more than]
+#tr.en: @wDN{Inana}, you have provided …… to the hero and made your divine powers excel in heaven. 
+#etcsl: line-id=A.11
+
+A.12. šag₄ {d}nin-gal#-ta šita₂ mi-tum-ma zag ša-mu-ni-in-keše₂
+#lem: šag[heart]; Ningal[1]DN; šita[weapon]; mitum[divine weapon]; zag[side]; kešed[bind]
+#tr.en: Since @wDN{Ningal's} womb, you have wielded the @fsux{šita} mace and the @fsux{mitum} mace. 
+#etcsl: line-id=A.12
+
+A.13. lugal# kalam-ma ŋi₆ zal-a-ra {d}utu te ša-mu-na!-sag₉-ge-eš
+#lem: lugal[king]; kalam[the Land (of Sumer)]; ŋi[night]; zal[pass time]; Utu[1]DN; teŋ[approach]; sag[good]
+#tr.en: Towards the king who spends the night in the Land, as towards @wDN{Utu} as he approaches (?), everyone is well-disposed. 
+#etcsl: line-id=A.13
+
+A.14. kur#-[re] ba#-e-il₂ kur ša-mu-u₈-da-hul₂#-la-am₃
+#lem: kur[mountain(s)]; il[raise]; kur[mountain(s)]; hul[rejoice]
+#tr.en: When he rises at the mountains, the mountains rejoice with you. 
+#etcsl: line-id=A.14
+
+A.15. {d}ama#-ušumgal-an-na kalam-ma ŋi₆ zal-a-ra {d}utu te ša-mu-<na>-sag₉-ge-<eš>
+#lem: Amaʾušumgalanak[1]DN; kalam[the Land (of Sumer)]; ŋi[night]; zal[pass time]; Utu[1]DN; teŋ[approach]; sag[good]
+#tr.en: Towards @wDN{Ama-ušumgal-ana} who spends the night in the Land, as towards @wDN{Utu} as he approaches (?), everyone is well-disposed. 
+#etcsl: line-id=A.15
+
+A.16. kur-re ba-il₂ kur ša-mu-u₈-da-hul₂-la-am₃
+#lem: kur[mountain(s)]; il[raise]; kur[mountain(s)]; hul[rejoice]
+#tr.en: When he rises at the mountains, the mountains rejoice with you. 
+#etcsl: line-id=A.16
+
+A.17. nin-ŋu₁₀ dam ni₂-za im-mi-šum₂ hul₂-hul₂#-la-mu-un-da
+#lem: nin[lady]; dam[spouse]; ni[self]; šum[give]; hul[rejoice]
+#tr.en: My lady, he has been given as your husband -- rejoice with him! 
+#etcsl: line-id=A.17
+
+A.18. {d}en-lil₂-le ma-ra-an-šum₂ kur niŋ₂ gal-la šu-zu-uš
+#lem: Enlil[1]DN; šum[give]; kur[mountain(s)]; niŋ[thing]; gal[big]; šu[hand]
+#tr.en: @wDN{Enlil} has given a mountain of greatness into your hands. 
+#etcsl: line-id=A.18
+
+A.19. {d}inana dam ni₂-za! im-mi-šum₂ hul₂-hul₂-la-mu-un-da
+#lem: Inanak[1]DN; dam[spouse]; ni[self]; šum[give]; hul[rejoice]
+#tr.en: @wDN{Inana}, he has been given as your husband -- rejoice with him! 
+#etcsl: line-id=A.19
+
+A.20. {d}en-lil₂-le ma-ra-an-šum₂ kur niŋ₂ gal-la šu-zu-uš
+#lem: Enlil[1]DN; šum[give]; kur[mountain(s)]; niŋ[thing]; gal[big]; šu[hand]
+#tr.en: @wDN{Enlil} has given a mountain of greatness into your hands. 
+#etcsl: line-id=A.20
+
+A.21. in-nin er₉-a-zu mu-un-na-šum₂ lugal-am₃
+#lem: innin[lady]; ir[mighty]; šum[give]; lugal[king]
+#tr.en: Mistress, you have given your strength to him who is king. 
+#etcsl: line-id=A.21
+
+A.22. {d}<ama>-ušumgal-an-na še-er-zid ša-ra-ab-ed₂-de₃
+#lem: Amaʾušumgalanak[1]DN; šerzid[radiance]; e[leave]
+#tr.en: @wDN{Ama-ušumgal-ana} brings forth radiance for you. 
+#etcsl: line-id=A.22
+
+A.23. {d}inana er₉-a-zu mu-un-na-šum₂ lugal-am₃
+#lem: Inanak[1]DN; ir[mighty]; šum[give]; lugal[king]
+#tr.en: @wDN{Inana}, you have given your strength to him who is king. 
+#etcsl: line-id=A.23
+
+A.24. {d}ama-ušumgal-an-na še-er-zid ša-ra-ab-ed₂-de₃
+#lem: Amaʾušumgalanak[1]DN; šerzid[radiance]; e[leave]
+#tr.en: @wDN{Ama-ušumgal-ana} brings forth radiance for you. 
+#etcsl: line-id=A.24
+
+A.25. ki-bal kur ba₉-ra₂# e₃#-a-ni suh₃-suh₃-a ud mi-ni-ib-zal-zal-e
+#lem: kibala[rebel land]; kur[mountain(s)]; bad[open]; e[leave]; suh[confuse]; ud[sun]; zal[pass time]
+#tr.en: When he goes out to the rebel lands, to the distant mountains, he spends his time in the mêlée of battle. 
+#etcsl: line-id=A.25
+
+A.26. {d}ama-ušumgal-an-na-ke₄ kur ba₉-ra₂ e₃-a-ni suh₃-suh₃-a ud mi-ni-ib-zal-zal-e
+#lem: Amaʾušumgalanak[1]DN; kur[mountain(s)]; bad[open]; e[leave]; suh[confuse]; ud[sun]; zal[pass time]
+#tr.en: When @wDN{Ama-ušumgal-ana} goes out to the distant mountains, he spends his time in the mêlée of battle. 
+#etcsl: line-id=A.26
+
+A.27. {d}utu kur šim {ŋiš}erin-na-ta e₃-a-ni i₃ dug₃-ga ša-mu-u₈-ši-peš-peš-e
+#lem: Utu[1]DN; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]; e[leave]; i[oil]; dug[good]; peš[thick]
+#tr.en: He thickens good butter for you, as @wDN{Utu} rises from the fragrant cedar mountains! @wDN{Ama-ušumgal-ana} thickens good butter for you, 
+#etcsl: line-id=A.27
+
+A.28. {d}ama-ušumgal-an-na {d}utu kur šim {ŋiš}erin-na-ta e₃-a-gin₇ i₃!(E₂) dug₃-ga ša-mu-un-ši-peš-peš-e
+#lem: Amaʾušumgalanak[1]DN; Utu[1]DN; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]; e[leave]; i[oil]; dug[good]; peš[thick]
+#tr.en: as @wDN{Utu} rises from the fragrant cedar mountains! 
+#etcsl: line-id=A.28
+
+@div trailer 
+
+A.29. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.29
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+B.30. nin me₃-na nu-gub-bu dumu gal {d}suen-na an-na e₃-a su-lim ŋa₂-ŋa₂
+#lem: nin[lady]; me[battle]; gub[stand]; dumu[child]; gal[big]; Suen[1]DN; an[sky]; e[leave]; sulim[awesome radiance]; ŋar[put]
+#tr.en: Lady whom no one can withstand in battle, great daughter of @wDN{Suen} who rises in heaven and inspires terror, 
+#etcsl: line-id=B.30
+
+B.31. nam-ŋuruš teš₂-bi-še₃ gub-gub-bu me₃ ezen-gin₇ ša-mu-ra-de₃-ul
+#lem: namŋuruš[manliness]; teš[unity]; gub[stand]; me[battle]; ezem[festival]; ul[swell]
+#tr.en: he who for you stands complete in his manhood rejoices in battle as at a festival, 
+#etcsl: line-id=B.31
+
+B.32. ki-bal e₂ ni₂-bi ša-ra-gul-e
+#lem: kibala[rebel land]; e[house]; ni[self]; gul[destroy]
+#tr.en: and for you he destroys the rebel lands and houses ……. For you @wDN{Ama-ušumgal-ana}, 
+#etcsl: line-id=B.32
+
+B.33. {d}ama-ušumgal-an-na ur-saŋ kalag-ga šita₂ za-gin₃ šar₂ ša-ra-ni-in-uš₂
+#lem: Amaʾušumgalanak[1]DN; ursaŋ[warrior]; kalag[strong]; šita[weapon]; zagin[lapis lazuli]; šar[numerous]V/i; uš[die]
+#tr.en: the mighty hero, kills everyone with his shining @fsux{šita} mace. 
+#etcsl: line-id=B.33
+
+B.34. {d}inana nin me₃-ni <nu-gub-bu dumu gal {d}suen-na an-na e₃-a su-lim ŋa₂-ŋa₂>
+#lem: Inanak[1]DN; nin[lady]; me[battle]; gub[stand]; dumu[child]; gal[big]; Suen[1]DN; an[sky]; e[leave]; sulim[awesome radiance]; ŋar[put]
+#tr.en: @wDN{Inana}, lady whom no one can withstand in battle, 
+#etcsl: line-id=B.34
+
+B.35. nam-ŋuruš <teš₂-bi-še₃ gub-gub-bu me₃ ezen-gin₇ ša-mu-ra-de₃-ul>
+#lem: namŋuruš[manliness]; teš[unity]; gub[stand]; me[battle]; ezem[festival]; ul[swell]
+#tr.en: great daughter of @wDN{Suen} who rises in heaven and inspires terror, he who for you stands complete in his manhood rejoices in battle as at a festival, 
+#etcsl: line-id=B.35
+
+B.36. ki-bal <e₂ ni₂-bi ša-ra-gul-e>
+#lem: kibala[rebel land]; e[house]; ni[self]; gul[destroy]
+#tr.en: and for you he destroys the rebel lands and houses ……. For you @wDN{Ama-ušumgal-ana}, 
+#etcsl: line-id=B.36
+
+B.37. {d}ama-ušumgal-an-na <ur-saŋ kalag-ga šita₂ za-gin₃ šar₂ ša-ra-ni-in-uš₂>
+#lem: Amaʾušumgalanak[1]DN; ursaŋ[warrior]; kalag[strong]; šita[weapon]; zagin[lapis lazuli]; šar[numerous]V/i; uš[die]
+#tr.en: the mighty hero, kills everyone with his shining @fsux{šita} mace. 
+#etcsl: line-id=B.37
+
+B.38. nin an-an-še₃ ki-ki-še₃ niŋ₂ šag₄-zu niŋ₂ gal a-ba-a mu-e-da-an-zu
+#lem: nin[lady]; an[sky]; ki[place]; niŋ[thing]; šag[heart]; niŋ[thing]; gal[big]; aba[who?]; zu[know]
+#tr.en: Lady, throughout heaven and earth who knows from you the intentions of your heart, 
+#etcsl: line-id=B.38
+
+B.39. inim-zu gu tab-ba nu-kur₂-ru-da an teš₂-ba ši-im-da-gu₇-gu₇
+#lem: inim[word]; gu[cord]; tab[double]; kur[different]; an[sky]; teš[unity]; gu[eat]
+#tr.en: those great matters? All heaven trembles (?) at your word, 
+#etcsl: line-id=B.39
+
+B.40. a-a-zu {d}en-lil₂-le mu-ra-an-šum₂
+#lem: aya[father]; Enlil[1]DN; šum[give]
+#tr.en: a double-twined thread which cannot be separated. Your father @wDN{Enlil} has given this to you. 
+#etcsl: line-id=B.40
+
+B.41. {d}ama-ušumgal-an-na-ke₄ me₃ zar-re-eš ak ušumgal-gin₇ nir-ŋal₂ ša-ra-ni-in-sa₂{za}
+#lem: Amaʾušumgalanak[1]DN; me[battle]; zar[sheaf (of barley)]; ak[do]; ušumgal[great dragon]; nirŋal[authoritative]; sa[equal]
+#tr.en: @wDN{Ama-ušumgal-ana} competes majestically for you in battle, cutting a swathe like a dragon. 
+#etcsl: line-id=B.41
+
+B.42. {d}inana nin an-an-še₃ <ki-ki-še₃ niŋ₂ šag₄-zu niŋ₂ gal a-ba-a mu-e-da-an-zu>
+#lem: Inanak[1]DN; nin[lady]; an[sky]; ki[place]; niŋ[thing]; šag[heart]; niŋ[thing]; gal[big]; aba[who?]; zu[know]
+#tr.en: @wDN{Inana}, lady, throughout heaven and earth who knows from you the intentions of your heart, 
+#etcsl: line-id=B.42
+
+B.43. inim-zu <gu tab-ba nu-kur₂-ru-da an teš₂-ba ši-im-da-gu₇-gu₇>
+#lem: inim[word]; gu[cord]; tab[double]; kur[different]; an[sky]; teš[unity]; gu[eat]
+#tr.en: those great matters? All heaven trembles (?) at your word, a double-twined thread which cannot be separated. 
+#etcsl: line-id=B.43
+
+B.44. a-a-zu <{d}en-lil₂-le mu-ra-an-šum₂>
+#lem: aya[father]; Enlil[1]DN; šum[give]
+#tr.en: Your father @wDN{Enlil} has given this to you. @wDN{Ama-ušumgal-ana} competes majestically for you in battle, 
+#etcsl: line-id=B.44
+
+B.45. {d}ama-ušumgal-an-na-<ke₄ me₃ zar-re-eš ak ušumgal-gin₇ nir-ŋal₂ ša-ra-ni-in-sa₂>
+#lem: Amaʾušumgalanak[1]DN; me[battle]; zar[sheaf (of barley)]; ak[do]; ušumgal[great dragon]; nirŋal[authoritative]; sa[equal]
+#tr.en: cutting a swathe like a dragon. 
+#etcsl: line-id=B.45
+
+B.46. nin-ŋu₁₀ {d}ama-ušumgal-an-na-ke₄ nir ša-mu-u₈-da-ŋal₂
+#lem: nin[lady]; Amaʾušumgalanak[1]DN; nir[lordly]; ŋal[⟦be⟧ to be (there]
+#tr.en: My lady, @wDN{Ama-ušumgal-ana} trusts in you. 
+#etcsl: line-id=B.46
+
+B.47. tug₂-ba₁₃-zu-gin₇ bar-ra ši-bi₂-dul
+#lem: ba[garment]; bar[outside]; dul[cover]
+#tr.en: He cloaks his body as if in your royal robe of office. 
+#etcsl: line-id=B.47
+
+B.48. itid-da ud-sakar-ra {d}suen-gin₇ an-ne₂ za!-ra ša-mu-ra-an-u₃-tud
+#lem: itud[moon]; udsakar[crescent moon]; Suen[1]DN; An[1]DN; zaʾe[you]; utud[give birth (to)]
+#tr.en: Monthly at the crescent moon @wDN{An} recreates him for you like @wDN{Suen}. 
+#etcsl: line-id=B.48
+
+B.49. lugal {d}ama-ušumgal-an-na šag₄-za ki aŋ₂-bi-im {d}utu e₃-a-gin₇ ša-mu-na-an-i-i-ne
+#lem: lugal[king]; Amaʾušumgalanak[1]DN; šag[heart]; ki[place]; aŋ[measure]; Utu[1]DN; e[leave]; e[bring out]
+#tr.en: People praise King @wDN{Ama-ušumgal-ana}, the beloved of your heart, like @wDN{Utu} as he rises. 
+#etcsl: line-id=B.49
+
+B.50. {d}inana nin-ŋu₁₀ {d}ama-ušumgal-an-na-ke₄ <nir ša-mu-u₈-da-ŋal₂>
+#lem: Inanak[1]DN; nin[lady]; Amaʾušumgalanak[1]DN; nir[lordly]; ŋal[⟦be⟧ to be (there]
+#tr.en: @wDN{Inana}, my lady, @wDN{Ama-ušumgal-ana} trusts in you. 
+#etcsl: line-id=B.50
+
+B.51. tug₂-ba₁₃-zu-gin₇ <bar-ra ši-bi₂-dul>
+#lem: ba[garment]; bar[outside]; dul[cover]
+#tr.en: He cloaks his body as if in your royal robe of office. 
+#etcsl: line-id=B.51
+
+B.52. itid-da ud-sakar-ra <{d}suen-gin₇ an-ne₂ za-ra ša-mu-ra-an-u₃-tud>
+#lem: itud[moon]; udsakar[crescent moon]; Suen[1]DN; An[1]DN; zaʾe[you]; utud[give birth (to)]
+#tr.en: Monthly at the crescent moon @wDN{An} recreates him for you like @wDN{Suen}. 
+#etcsl: line-id=B.52
+
+B.53. lugal {d}<ama>-ušumgal-an-na {d}utu-gin₇ e₃-a ša-mu-u₈-da-i-i-ne
+#lem: lugal[king]; Amaʾušumgalanak[1]DN; Utu[1]DN; e[leave]; e[bring out]
+#tr.en: With you, people praise King @wDN{Ama-ušumgal-ana} like @wDN{Utu} as he rises. 
+#etcsl: line-id=B.53
+
+@div trailer 
+
+B.54. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=B.54
+
+@end trailer
+
+@end sa-ŋara
+
+@div trailer 
+
+B.55. tigi₂ {d}inana-kam
+#lem: tigi[drum or other musical instrument]; Inanak[1]DN
+#tr.en: A @fsux{tigi} of @wDN{Inana}. @notep{lines 54 and 55 are written as one line in source} 
+#etcsl: line-id=B.55
+
+#etcsl#doc lines 54 and 55 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

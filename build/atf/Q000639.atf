@@ -1,0 +1,285 @@
+&Q000639 = A tigi to Inana (Dumuzid-Inana H)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.08
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.08&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div sa-gida A
+
+A.A.1. %e ga-ša-an-ŋen %s ša-ga-ba-ta ud zal-la-ŋu₁₀-ne {{%akk iš-tu %akk am-ša-li %akk i-na %akk šum-ṣu₂-li-ya}}
+#lem: gašan[lady]N; šaduga[yesterday?]; ud[sun]; zal[pass time]; L; L; L; L
+#tr.en: While I, the lady, 
+#etcsl: line-id=A.A.1
+
+A.A.2. %e ga-ša-an-an-na-ŋen %s ša-ga-ba-ta ud zal-la-ŋu₁₀-ne
+#lem: Gašanana[]DN; šaduga[yesterday?]; ud[sun]; zal[pass time]
+#tr.en: was passing the day yesterday, while I, 
+#etcsl: line-id=A.A.2
+
+A.A.3. ud zal-la-ŋu₁₀-ne e-ne %e di-da-ŋu₁₀-ne
+#lem: ud[sun]; zal[pass time]; ene[pleasure?]; de[go]
+#tr.en: @wDN{Inana}, was passing the day yesterday, 
+#etcsl: line-id=A.A.3
+
+A.A.4. ud zal ŋi₆ sa₂-a-še₃ en₃-du dug₄-ga-ŋu₁₀-ne {{%akk i-na %akk šum-ṣu₂-lim %akk u₃ %akk šum-ši#-im#}}
+#lem: ud[sun]; zal[pass time]; ŋi[night]; sa[equal]; endu[song]; dug[speak]; L; L; L; L
+#tr.en: while I was passing the day, while I was dancing, 
+#etcsl: line-id=A.A.4
+
+A.A.5. gaba mu-un-ri gaba mu-un-ri {{%akk im-hur-an-ni}}
+#lem: gaba[breast]; ri[impose]; gaba[breast]; ri[impose]; L
+#tr.en: while I was singing songs all day until evening, he met me, 
+#etcsl: line-id=A.A.5
+
+A.A.6. %e u₃-mu-un %s gu₅-li an-na gaba mu-un-ri
+#lem: umun[lord]N; guli[friend]; An[1]DN; gaba[breast]; ri[impose]
+#tr.en: he met me. The lord, 
+#etcsl: line-id=A.A.6
+
+A.A.7. %e u₃-mu-un-e %s šu-ni-a šu im-ma-an-du₃ {{%akk ih-ṣi₂-in-an-ni}}
+#lem: umun[lord]N; šu[hand]; šu[hand]; du[build]; L
+#tr.en: the friend of @wDN{An}, met me; 
+#etcsl: line-id=A.A.7
+
+A.A.8. {d}ušumgal-an-na gu₂-ŋa₂-a gu₂-da ba-an-la₂ {{%akk ki-ša-di %akk i-di-ir}}
+#lem: Ušumgalana[1]DN; gu[neck]; gu[neck]; la[hang]; L; L
+#tr.en: the lord took me in his hands, @wDN{Ušumgal-ana} embraced me about my neck. 
+#etcsl: line-id=A.A.8
+
+A.A.9. me-a-am šu ba-mu-u₈ e₂-me-še₃  %e  da-ŋen  %s 
+#lem: meʾam[term of endearment]; šu[hand]; ba[allot]; e[house]; ŋen[go]
+#tr.en: @q[Inana,Dumuzid]{“……, let me go, 
+#etcsl: line-id=A.A.9
+
+A.A.10. gu₅-li  %e  {d}mu-ul-lil₂-la₂  %s  šu ba-mu-u₈ e₂-me#-še₃  %e  da-ŋen  %s 
+#lem: guli[friend]; Mullil[1]DN; šu[hand]; ba[allot]; e[house]; ŋen[go]
+#tr.en: so that I can go to our house! Friend of @wDN{Enlil}, 
+#etcsl: line-id=A.A.10
+
+A.A.11. ama-ŋu₁₀# lul-la-še₃ %e ta %s mu-na-ab-gub-be₂-en {{%akk mi-nam %akk az-za-as-si₂}}
+#lem: ama[mother]; lul[false]; ta[what?]QP; gub[stand]; L; L
+#tr.en: let me go, so that I can go to our house! 
+#etcsl: line-id=A.A.11
+
+A.A.12. ama-ŋu₁₀#  %e  {d}ga-ša-an-gal-e  %s  lul-la-še₃ %e ta %s mu-na-ab-gub-be₂-en
+#lem: ama[mother]; Gašangal[1]DN; lul[false]; ta[what?]QP; gub[stand]
+#tr.en: What lie can I offer to my mother? What lie can I offer to my mother @wDN{Ningal}?”} 
+#etcsl: line-id=A.A.12
+
+A.A.13. ŋe₂₆-e ga-ri-ib-zu-zu ŋe₂₆-e ga-ri-ib-zu-zu {{%akk lu-uq-bi-ki}}
+#lem: ŋaʾe[I]; zu[know]; ŋaʾe[I]; zu[know]; L
+#tr.en: @q[Dumuzid,Inana]{“Let me teach you, let me teach you! @wDN{Inana}, 
+#etcsl: line-id=A.A.13
+
+A.A.14. {d}inana lul-la munus-e-ne ŋe₂₆-e ga-ri-ib-zu-zu
+#lem: Inanak[1]DN; lul[false]; munus[woman]; ŋaʾe[I]; zu[know]
+#tr.en: let me teach you the lies of women: 
+#etcsl: line-id=A.A.14
+
+A.A.15. ma-la-ŋu₁₀ sila daŋal-la e-ne %e mu-di-ni-ib-ma-ma %s {{%akk i-na %akk re-bi-tim %akk im-me-li-il}}
+#lem: malag[female neighbor]; sila[street]; daŋal[wide]; ene[pleasure?]; mar[place]V/t; L; L; L
+#tr.en: @q{“My girlfriend was dancing with me in the square. 
+#etcsl: line-id=A.A.15
+
+A.A.16. ub₃ sag₃!-sag₃ e-ne di-da hub₂ mu-di-ni-in-gub {{%akk i-na %akk up-pi %akk lu-pu-tim %akk i-na %akk me-lu-ul-tim %akk i-ra-[ap]-pu-ud}}
+#lem: ub[drum]; sag[strike]; ene[pleasure?]; di[speak]; hub[foot]; gub[stand]; L; L; L; L; L; L
+#tr.en: She ran around playfully with me, banging the drum. 
+#etcsl: line-id=A.A.16
+
+A.A.17. i-lu-ni %e ze₂-ba-am₃ %s ad mu-ši-ib-ša₄ {{%akk qu₂-be₂-e-ša# %akk ṭa-bu-tim %akk i-na-as-sa₃-as}}
+#lem: ilu[lament]; zeb[good]V/i; ad[voice]; ša[cvve]; L; L; L
+#tr.en: She sang her sweet songs for me. 
+#etcsl: line-id=A.A.17
+
+A.A.18. hul₂-hul₂-e %e ze₂-ba-am₃ %s ud mu-di-ni-ib-zal-e {{%akk it-ti-ša %akk uš-te-be₂-er-re}}
+#lem: hul[rejoice]; zeb[good]V/i; ud[sun]; zal[pass time]; L; L
+#tr.en: I passed the day there with her in pleasure and delight.”} 
+#etcsl: line-id=A.A.18
+
+A.A.19. ama ugu-zu-ur₂ lul-la-še₃ za-e gub-bu-na-da
+#lem: ama[mother]; ugu[bear]; lul[false]; zaʾe[you]; gub[stand]
+#tr.en: Offer this as a lie to your own mother. 
+#etcsl: line-id=A.A.19
+
+A.A.20. me-en-de₃ iti₆-še₃ e-ne su₃-ud ga!-da-e {{%akk i-na %akk ri-ša-tim %akk i %akk nim-me-li-il#}}
+#lem: menden[we]; itud[moon]; ene[pleasure?]; sud[distant]; dug[speak]; L; L; L; L
+#tr.en: As for us -- let me make love with you by moonlight! 
+#etcsl: line-id=A.A.20
+
+A.A.21. ki-nu₂ kug he-nun-na suh ga-mu-ra-du₈# {{%akk mu-uš-ṭa-ti-ki %akk lu-pa-ṭi-ir}}
+#lem: kinud[sleeping quarter]; kug[purify]; henun[plenty]; suh[crown]; du[spread]; L; L
+#tr.en: Let me loosen your hairgrip on the holy and luxuriant couch. 
+#etcsl: line-id=A.A.21
+
+A.A.22. ud dug₃ nam-he₂-a hul₂-la hu-mu-u₃-di-ni-ib#-[zal-e] {{%akk li-ip-pu-uh₂}}
+#lem: ud[sun]; dug[good]; namhe[abundance]; hul[rejoice]; zal[pass time]; L
+#tr.en: May you pass a sweet day there with me in voluptuous pleasure.”} 
+#etcsl: line-id=A.A.22
+
+@div trailer 
+
+A.A.23. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.A.23
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+A.B.24. [X X] ki#-sikil-ŋen sila sir₂-ra X [...] {{%akk TA %akk su-qe₂-tim}}
+#lem: X; X; kisikil[young woman]; sila[street]; esir[street]; X; X; L; L
+#tr.en: @q[Inana,Dumuzid]{“I the maiden, in the streets and alleys, 
+#etcsl: line-id=A.B.24
+
+A.B.25. [X X] X-da ud-da mu-e-da-X [...] {{%akk X %akk IM %akk X %akk X %akk X}}
+#lem: X; X; X; ud[sun]; X; X; L; L; L; L; L
+#tr.en: ……, by day I …… with you,”} 
+#etcsl: line-id=A.B.25
+
+A.B.26. [...] X X X [...]
+#lem: X; X; X; X; X
+#tr.en: 121=$ (@gap{1 line fragmentary} @gap{approx. 11 lines missing}) 
+#etcsl: line-id=A.B.26
+
+$ (approx. 11 lines missing)
+@end sa-ŋara
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara B
+
+B.B.1. [X X] MU X X [...]
+#lem: X; X; X; X; X; X
+#tr.en: There he is, standing at our mother's gate, 
+#etcsl: line-id=B.B.1
+
+B.B.2. [X X] X RA su₃-ud# mu#-un-ŋa₂-[ŋa₂]
+#lem: X; X; X; X; sud[distant]; ŋar[put]
+#tr.en: while I am rushing around in excitement. 
+#etcsl: line-id=B.B.2
+
+B.B.3. kan₄# ama#-me-da nam-mi-gub
+#lem: kan[gate]; ama[mother]; gub[stand]
+#tr.en: There he is standing at @wDN{Ningal's} gate, 
+#etcsl: line-id=B.B.3
+
+B.B.4. %e me-e %s hul₂-la-ta %e i₃-di-di-de₃-en
+#lem: meʾe[I]IP; hul[rejoice]; de[go]
+#tr.en: while I am rushing around in excitement. 
+#etcsl: line-id=B.B.4
+
+B.B.5. kan₄  %e  ga-ša-an-gal-la-da  %s  nam-mi-gub
+#lem: kan[gate]; Gašangal[1]DN; gub[stand]
+#tr.en: Oh that someone would tell my mother! 
+#etcsl: line-id=B.B.5
+
+B.B.6. %e me-e %s hul₂-la-da %e i₃-di-di-de₃-en
+#lem: meʾe[I]IP; hul[rejoice]; de[go]
+#tr.en: May our neighbour come to sprinkle water on the floor! 
+#etcsl: line-id=B.B.6
+
+B.B.7. ama-ŋu₁₀-ra %e mu-lu %s %e e-ne-eŋ₃ %s hu-mu-na-ab-be₂
+#lem: ama[mother]; mulu[person]N; eneŋ[word]N; e[speak]
+#tr.en: Oh that someone would tell my mother @wDN{Ningal}! 
+#etcsl: line-id=B.B.7
+
+B.B.8. u₅-šu-ur₂-me a ki %e de₃-sud-e {{%akk li-sa₃-al-li-ih}}
+#lem: usar[(female) neighbor]; a[water]; ki[place]; sud[distant]; L
+#tr.en: May our neighbour come to sprinkle water on the floor: 
+#etcsl: line-id=B.B.8
+
+B.B.9. ama-ŋu₁₀  %e  ga-ša-an-gal-ra  %s  %e mu-lu %s %e e-ne-eŋ₃ %s hu-mu-na-ab-be₂
+#lem: ama[mother]; Gašangal[1]DN; mulu[person]N; eneŋ[word]N; e[speak]
+#tr.en: the fragrance of her dwelling is pleasant, 
+#etcsl: line-id=B.B.9
+
+B.B.10. u₅-šu-ur₂-me a ki %e de₃-sud-e
+#lem: usar[(female) neighbor]; a[water]; ki[place]; sud[distant]
+#tr.en: and her words are delightful. 
+#etcsl: line-id=B.B.10
+
+B.B.11. ki-tuš-a-ni ir-bi %e ze₂-ba-am₃
+#lem: kituš[dwelling place]; ir[smell]; zeb[good]V/i
+#etcsl: line-id=B.B.11
+
+B.B.12. e-ne-eŋ₃-ŋa₂-ni %e aŋ₂ %s hul₂-hul₂-la#-am₃ {{%akk ša %akk hi-di-a-tim#-ma}}
+#lem: inim[word]; aŋ[thing]N; hul[rejoice]; L; L
+#etcsl: line-id=B.B.12
+
+B.B.13. %e u₃-mu-un-ŋu₁₀ %s ur₂ kug-ge he₂-du₇
+#lem: umun[lord]N; ur[loin]; kug[pure]; hedu[ornament]
+#tr.en: My lord is perfect for the holy embrace. 
+#etcsl: line-id=B.B.13
+
+B.B.14. {d}ama-ušumgal-an-na mussa {d}suen-na
+#lem: Amaʾušumgalanak[1]DN; mussa[son-in-law]; Suen[1]DN
+#tr.en: @wDN{Ama-ušumgal-ana}, the son-in-law of @wDN{Suen}, Lord @wDN{Dumuzid}, 
+#etcsl: line-id=B.B.14
+
+B.B.15. en {d}dumu-zid ur₂ kug-ge he₂-du₇
+#lem: en[lord]; Dumuzid[1]DN; ur[loin]; kug[pure]; hedu[ornament]
+#tr.en: is perfect for the holy embrace. @wDN{Ama-ušumgal-ana}, 
+#etcsl: line-id=B.B.15
+
+B.B.16. {d}ama-ušumgal-an-na mussa {d}suen-na
+#lem: Amaʾušumgalanak[1]DN; mussa[son-in-law]; Suen[1]DN
+#tr.en: son-in-law of @wDN{Suen}, my lord: how pleasing is your lavishness, 
+#etcsl: line-id=B.B.16
+
+B.B.17. %e u₃-mu-un-ŋu₁₀ he₂-ma-al-zu ze₂-ba-am₃
+#lem: umun[lord]N; hemal[plenty]N; zeb[good]V/i
+#tr.en: and how sweet-tasting are your green plants from the plain! 
+#etcsl: line-id=B.B.17
+
+B.B.18. edin-na u₂-šim-zu ku₇-ku₇-dam
+#lem: eden[back]; ušim[greenery]; kud[sweet]
+#tr.en: @wDN{Ama-ušumgal-ana}, 
+#etcsl: line-id=B.B.18
+
+B.B.19. {d}ama-ušumgal-an-na %e he₂-ma-al-zu ze₂-ba-am₃
+#lem: Amaʾušumgalanak[1]DN; hemal[plenty]N; zeb[good]V/i
+#tr.en: how pleasing is your lavishness, 
+#etcsl: line-id=B.B.19
+
+B.B.20. edin-na u₂-šim-zu ku₇-ku₇-dam
+#lem: eden[back]; ušim[greenery]; kud[sweet]
+#tr.en: and how sweet-tasting are your green plants from the plain! 
+#etcsl: line-id=B.B.20
+
+@div trailer 
+
+B.B.21. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=B.B.21
+
+@end trailer
+
+@end sa-ŋara
+
+@div trailer 
+
+B.B.22. tigi {d}inana-kam
+#lem: tigi[drum or other musical instrument]; Inanak[1]DN
+#tr.en: A @fsux{tigi} of @wDN{Inana}. 
+#etcsl: line-id=B.B.22
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+&Q000584 = Letter from Inim-Inana to Lugal-ibila
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.12
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.12&display=Crit&charenc=gcirc#
+
+1. {m}lugal-ibila u₃-na-dug₄
+#lem: Lugalibila[1]PN; dug[speak]
+#tr.en: Say to @wPN{Lugal-ibila}  
+#etcsl: line-id=1
+
+2. {m}inim-{d}inana-ke₄ na-ab-be₂-a
+#lem: Iniminana[1]PN; e[speak]
+#tr.en: what @wPN{Inim-Inana} says: 
+#etcsl: line-id=2
+
+3. eme-gir₁₅-še₃ gu₂-zu na-ab-šub-be₂-en
+#lem: emegir[the Sumerian language]; gu[neck]; šub[fall]
+#tr.en: Don't neglect the Sumerian language. 
+#etcsl: line-id=3
+
+4. min₃-kam-ma-še₃ eme si sa₂-bi-še₃ lu₂ mu-e-ši-in-gi₄-gi₄
+#lem: minakamak[second]; eme[tongue]; si[horn]; sa[equal]; lu[person]; gi[turn]
+#tr.en: For the second time, 
+#etcsl: line-id=4
+
+@variants
+
+#etcsl#ms 1 ms. adds the line:
+4A. [...] he₂-ŋal₂
+#lem: X; ŋal[⟦be⟧ to be (there]
+#tr.en: I am sending you a message in correct language. 
+#etcsl: line-id=4A
+
+@endvariants
+5. lu₂-tur igi-zu-še₃ al-durun{un}-na
+#lem: lutur[child]; igi[eye]; durun[sit]
+#tr.en: @vart[t3312.v1,t3312.v1]{@varn{1 ms. adds:} …… is ……. } Don't let the children who sit  
+#etcsl: line-id=5
+
+6. e₂-dub-ba-a-ta na-ab-ta-ed₂-en
+#lem: edubbaʾa[scribal school]; e[leave]
+#tr.en: before you go out from the school. 
+#etcsl: line-id=6
+
+7. na-an-ga-ma lu₂ na-me lul i-ri-ib-sig₁₀-ge₅
+#lem: nangama[be that as it may]; lu[person]; name[any]; lul[false]; sig[put into]
+#tr.en: However much anyone misleads you and says @q{“I  
+#etcsl: line-id=7
+
+8. ugu ad-da-na-še₃ ga-am₃-ŋen a-ra-ab-be₂
+#lem: ugu[skull]; adda[father]; ŋen[go]; e[speak]
+#tr.en: want to go”} on account of his father, 
+#etcsl: line-id=8
+
+9. en-na ŋiškim ŋe₂₆-e u₃ za-e inim i₃-bal-en-da-na
+#lem: enna[until]; ŋeškim[sign]; ŋaʾe[I]; u[and]; zaʾe[you]; inim[word]; bala[turn]
+#tr.en: until you and I agree on a sign and a messenger comes to you, 
+#etcsl: line-id=9
+
+10. lu₂-u₃ mu-e-ši-in-gi₄-gi₄-a
+#lem: lu[person]; gi[turn]
+#tr.en: don't let the children out. 
+#etcsl: line-id=10
+
+11. lu₂-tur šu nam-bi₂-bar-re-en
+#lem: lutur[child]; šu[hand]; bar[place outside]
+#tr.en: @varh[t3312.v2]{ …… } @vart[t3312.v3,t3312.v2]{@varn{the ms. which adds l. 4A has instead:} A father entrusts his child's well-being to your …… } . It is urgent. 
+#etcsl: line-id=11
+
+12. (1:[...] MA# bi₂-tuku:1) a-ma-ru-kam
+#lem: X; X; tuku[acquire]; amaru[flood]
+#etcsl: line-id=12
+
+:12v.1.1: ($the ms. which adds l. 4A has instead:$) lu₂#-tur silim-ma-ni ad-da-[...] KA-za in-tuku
+#lem: lutur[child]; silim[healthy]; adda[father]; X; tuku[acquire]
+
+
+
+
+
+
+

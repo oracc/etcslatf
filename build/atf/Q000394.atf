@@ -1,0 +1,117 @@
+&Q000394 = A praise poem of Ur-Namma (Ur-Namma I)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.1.a
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1.a&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. [...] diŋir-ra-na-kam
+#lem: X; diŋir[deity]
+#tr.en: He is the …… of his god; 
+#etcsl: line-id=A.1
+
+A.2. inim-ma-an-ni kur₂-kur₂-re bi₂-in-dirig
+#lem: inim[word]; kur[different]; dirig[make more than]
+#tr.en: all the foreign countries are full (?) of his fame. 
+#etcsl: line-id=A.2
+
+A.3. inim šag₄-ga-na-ke₄ sa bi₂-in-dug₄
+#lem: inim[word]; šag[heart]; sa[equal]; dug[speak]
+#tr.en: He carries out his plans, 
+#etcsl: line-id=A.3
+
+A.4. nam-mah-a-ni ki-en-gi-re bi₂-in-[...]
+#lem: nammah[greatness]; Kengir[1]; X
+#tr.en: and @wGN{Sumer} is …… by his greatness. 
+#etcsl: line-id=A.4
+
+A.5. {d}utu lugal igi-ni-še₃ ba-ŋen
+#lem: Utu[1]DN; lugal[king]; igi[eye]; ŋen[go]
+#tr.en: @wDN{Utu} marches before the king. 
+#etcsl: line-id=A.5
+
+A.6. e₂# IN nun-na-ke₄# ki# MI# X X
+#lem: e[house]; X; nun[prince]; ki[place]; X; X; X
+#etcsl: line-id=A.6
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X [...]
+#lem: X; X; X
+#tr.en: …… gate …… spectacle. 
+#etcsl: line-id=B.1
+
+B.2. abula X [...] X u₆ ba#-ni#-[...]
+#lem: abula[gate]; X; X; X; u[admiration]; X
+#etcsl: line-id=B.2
+
+B.3. lugal mes babbar₂ urim₅{ki}-ma ki dug₃-ge mu₂-a
+#lem: lugal[king]; mes[tree]; babbar[white]; Urim[1]SN; ki[place]; dug[good]; mu[grow]
+#tr.en: King, white @fsux{meš} tree growing in a pleasant spot in @wSN{Urim}, a shady canopy of numerous large branches facing the sky, 
+#etcsl: line-id=B.3
+
+B.4. ŋiš-an-dul₃ pa gal-gal-la igi# an-na gub-ba
+#lem: ŋešandul[tree shade]; pa[branch]; gal[big]; igi[eye]; an[sky]; gub[stand]
+#tr.en: years of abundance extending over all foreign countries for those who keep close (?) to your shade. 
+#etcsl: line-id=B.4
+
+B.5. ŋissu-zu-uš mu-ri mu he₂-ŋal₂-la kur₂-kur₂-ra dul₄-la
+#lem: ŋissu[shade]N; ri[impose]; mu[year]; heŋal[plenty]; kur[mountain(s)]; dul[cover]
+#tr.en: @wDN{An} looks with favour at ……, 
+#etcsl: line-id=B.5
+
+B.6. an-ne₂ igi sag₉ X bar KA# hul₂-la# MA X [...]
+#lem: An[1]DN; igi[eye]; sag[goodness]; X; bar[outside]; X; hul[rejoice]; X; X; X
+#tr.en: …… with joy ……. 
+#etcsl: line-id=B.6
+
+B.7. ur-{d}namma dumu {d}nin-sumun₂-ke₄
+#lem: Urnamma[1]RN; dumu[child]; Ninsumunak[1]DN
+#tr.en: @wRN{Ur-@wDN{Namma}}, son of @wDN{Ninsumun}, king given strength by @wDN{Enlil}, tenderly cared for by @wDN{Ninlil}, enthroned by the will of @wDN{Ninḫursaŋa}, provided with superior intelligence by @wDN{Enki}, $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=B.7
+
+B.8. lugal {d}en-lil₂-le a₂ šum₂-ma
+#lem: lugal[king]; Enlil[1]DN; a[arm]; šum[give]
+#etcsl: line-id=B.8
+
+B.9. {d}nin-lil₂-le mi₂ zid-de₃-eš dug₄-ga#
+#lem: Ninlil[1]DN; mi[cvne]; zid[right]; dug[speak]
+#etcsl: line-id=B.9
+
+B.10. {d}nin-hur-saŋ inim-ma <šag₄>-ga-na huŋ-ŋa₂
+#lem: Ninhursaŋak[1]DN; inim[word]; šag[heart]; huŋ[pacify]
+#etcsl: line-id=B.10
+
+B.11. {d}en-ki-ke₄ ŋeštug₂ mah šum₂-ma
+#lem: Enkik[1]DN; ŋeštug[ear]; mah[great]; šum[give]
+#etcsl: line-id=B.11
+
+B.12. {d}nin#-X X [...]
+#lem: Nin.X[0]DN; X; X
+#etcsl: line-id=B.12
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. ama# tud-da#-zu {d}nin-sumun₂ e₂-kiš-nu-ŋal₂-la gaba-na he₂-em-tab
+#lem: ama[mother]; utud[give birth (to)]; Ninsumunak[1]DN; Ekišnuŋal[1]TN; gaba[breast]; tab[double]
+#tr.en: May @wDN{Ninsumun}, the mother who gave you birth, hold you against her chest in the @wTN{E-kiš-nu-ŋal}. 
+#etcsl: line-id=C.1
+
+@end segment
+
+
+
+
+
+
+

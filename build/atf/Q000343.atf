@@ -1,0 +1,2257 @@
+&Q000343 = Inana's descent to the nether world
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.4.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1&display=Crit&charenc=gcirc#
+
+1. an gal-ta ki gal-še₃ ŋeštug₂-ga-ni na-an-gub#
+#lem: an[sky]; gal[big]; ki[place]; gal[big]; ŋeštug[ear]; gub[stand]
+#tr.en: From the great heaven she set her mind on the great below. 
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 41; OB catalogue in the Louvre, 0.2.02, line 33; OB catalogue from Urim (U2), 0.2.04, line 27
+
+2. diŋir an gal-ta ki gal-še₃ ŋeštug₂-ga-ni na-an-[gub]
+#lem: diŋir[deity]; an[sky]; gal[big]; ki[place]; gal[big]; ŋeštug[ear]; gub[stand]
+#tr.en: From the great heaven the goddess set her mind on the great below. 
+#etcsl: line-id=2
+
+3. {d}inana an gal-[ta ki gal-še₃] ŋeštug₂-ga-ni na-an-[gub]
+#lem: Inanak[1]DN; an[sky]; gal[big]; ki[place]; gal[big]; ŋeštug[ear]; gub[stand]
+#tr.en: From the great heaven @wDN{Inana} set her mind on the great below. 
+#etcsl: line-id=3
+
+4. nin-ŋu₁₀ an mu-un-šub ki mu-un-šub kur-ra ba-e-a-ed₃
+#lem: nin[lady]; an[sky]; šub[fall]; ki[place]; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: My mistress abandoned heaven, abandoned earth, and descended to the underworld. 
+#etcsl: line-id=4
+
+5. {d}inana an mu-un-šub ki mu-un-šub kur-ra ba-e-a-ed₃
+#lem: Inanak[1]DN; an[sky]; šub[fall]; ki[place]; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: @wDN{Inana} abandoned heaven, abandoned earth, and descended to the underworld. 
+#etcsl: line-id=5
+
+6. nam-en mu-un-šub nam-lagar mu-un-šub kur-ra ba-e-a-ed₃
+#lem: namen[the office of en-priest]; šub[fall]; namlagar[office of lagar-Priest]; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the office of @fsux{en}, abandoned the office of @fsux{lagar}, and descended to the underworld. 
+#etcsl: line-id=6
+
+7. unug{ki}-ga e₂-an-na mu-un-šub kur-ra ba-e-a-ed₃
+#lem: Unug[1]SN; Eanak[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{E-ana} in @wSN{Unug}, and descended to the underworld. 
+#etcsl: line-id=7
+
+8. bad₃-tibira#{ki}-a e₂-muš₃-kalam-ma mu-un-šub kur-ra ba-[e-a]-ed₃
+#lem: Badtibira[1]SN; Emuškalamak[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{E-muš-kalama} in @wSN{Bad-tibira}, and descended to the underworld. 
+#etcsl: line-id=8
+
+9. zabalam{ki}-a gi-gun₄{ki}-na mu-un-šub kur-ra ba-e-a-ed₃
+#lem: Zabalam[1]SN; Giguna[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{Giguna} in @wSN{Zabalam}, and descended to the underworld. 
+#etcsl: line-id=9
+
+10. adab{ki}-a e₂-šar-ra mu-un-šub kur-ra ba-e-a-ed₃
+#lem: Adab[1]SN; Ešara[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{E-šara} in @wSN{Adab}, and descended to the underworld. 
+#etcsl: line-id=10
+
+11. nibru{ki}-a barag-dur₂-ŋar-ra mu-un-šub [kur-ra ba-e-a-ed₃]
+#lem: Nibru[1]SN; Baragdurŋara[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{Barag-dur-ŋara} in @wSN{Nibru}, and descended to the underworld. 
+#etcsl: line-id=11
+
+12. kiš{ki}-a hur-saŋ-kalam-ma mu-un-šub kur-ra ba-e-[a-ed₃]
+#lem: Kiš[1]SN; Hursaŋkalamak[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{Ḫursaŋ-kalama} in @wSN{Kiš}, and descended to the underworld. 
+#etcsl: line-id=12
+
+13. a-ga-de₃{ki}-a e₂-ul-maš{ki} mu-un-šub kur-a ba-e-a-ed₃
+#lem: Agade[1]SN; Eʾulmaš[1]; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She abandoned the @wTN{E-@wSN{Ulmaš}} in @wSN{Agade}, and descended to the underworld. 
+#etcsl: line-id=13
+
+@variants
+
+#etcsl#ms 1 ms. adds 8 other lines:
+13A. umma{ki}-a ib-gal mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Umma[1]SN; Ibgal[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: 66=@vart[t141.v1,t141.v1]{@varn{1 ms. adds 8 other lines:} She abandoned the @wTN{Ibgal} in @wSN{Umma}, and descended to the underworld. She abandoned the @wTN{E-@wSN{Dilmuna}} in @wSN{Urim}, and descended to the underworld. She abandoned the @wTN{Amaš-e-kug} in @wSN{Kisiga}, and descended to the underworld. She abandoned the @wTN{E-ešdam-kug} in @wSN{Ŋirsu}, and descended to the underworld. She abandoned the @wTN{E-šeg-meše-du} in @wSN{Isin}, and descended to the underworld. She abandoned the @wTN{Anzagar} in @wSN{Akšak}, and descended to the underworld. She abandoned the @wTN{Niŋin-ŋar-kug} in @wSN{Šuruppag}, and descended to the underworld. She abandoned the @wTN{E-šag-ḫula} in @wSN{Kazallu}, and descended to the underworld. } 
+#etcsl: line-id=13A
+
+13B. urim₂{ki}-ma e₂-dilmun-na mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Urim[1]SN; Edilmuna[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13B
+
+13C. kisiga{ki}-a amaš-e₂-kug mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Kisiga[1]SN; Amašekug[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13C
+
+13D. ŋir₂-su{ki}-a e₂-eš₂-dam-kug mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Ŋirsu[1]SN; Eʾešdamkug[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13D
+
+13E. i₃-si-in-na{ki} e₂-šeg₁₂-me-še₃-du₇ mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Isin[1]SN; Ešegmešedu[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13E
+
+13F. akšak{ki}-a an-za-gar₃ mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Akšak[1]SN; Anzagar[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13F
+
+13G. šuruppag{ki}-e niŋin₃-ŋar-kug mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Šuruppag[1]SN; Niŋinŋarkug[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13G
+
+13H. ka-zal-lu{ki} e₂-šag₄-hul₂-la mu-un-šub <kur-ra ba-e-a-ed₃>
+#lem: Kazallu[1]SN; Ešaghula[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#etcsl: line-id=13H
+
+@endvariants
+14. me 7-bi zag mu-ni-in-keše₂
+#lem: me[Being]; n; zag[side]; kešed[bind]
+#tr.en: She took the seven divine powers. 
+#etcsl: line-id=14
+
+15. me mu-un-ur₄-ur₄ šu-ni-še₃ mu-un-la₂
+#lem: me[Being]; ur[gather]; šu[hand]; la[hang]
+#tr.en: She collected the divine powers and grasped them in her hand. 
+#etcsl: line-id=15
+
+16. me dug₃ ŋiri₃ gub-ba i-im-ŋen
+#lem: me[Being]; dug[good]; ŋiri[foot]; gub[stand]; ŋen[go]
+#tr.en: With the good divine powers, she went on her way. 
+#etcsl: line-id=16
+
+17. tug₂-šu-gur-ra men edin-na saŋ-ŋa₂-na mu-un-ŋal₂
+#lem: šugura[turban]; men[tiara]; eden[back]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#tr.en: She put a turban, headgear for the open country, on her head. 
+#etcsl: line-id=17
+
+18. hi-li saŋ-ki-na šu ba-ni-in-ti
+#lem: hili[attractiveness]; saŋki[forehead]; šu[hand]; teŋ[approach]
+#tr.en: She took a wig for her forehead. 
+#etcsl: line-id=18
+
+19. {na₄}za-gin₃ di₄-di₄-la₂ gu₂-na ba-an-la₂
+#lem: zagin[lapis lazuli]; didila[small(er)]; gu[neck]; la[hang]
+#tr.en: She hung small lapis-lazuli beads around her neck. 
+#etcsl: line-id=19
+
+20. na₄-nunuz tab-ba gaba-na ba-ni-in-si
+#lem: nunuz[ovoid bead]; tab[double]; gaba[breast]; si[fill]
+#tr.en: She placed twin egg-shaped beads on her breast. 
+#etcsl: line-id=20
+
+21. {tug₂}pala₃ tug₂ nam-nin-a bar-ra-na ba-an-dul
+#lem: pala[garment]; tug[textile]; namnin[ladyship]; bar[outside]; dul[cover]
+#tr.en: She covered her body with a @fsux{pala} dress, the garment of ladyship. 
+#etcsl: line-id=21
+
+22. šembizid lu₂ he₂-em-du he₂-em-du igi-na ba-ni-in-ŋar
+#lem: šembizida[kohl]; lu[person]; du[go]; du[go]; igi[eye]; ŋar[put]
+#tr.en: She placed mascara which is called "Let a man come, let him come" on her eyes. 
+#etcsl: line-id=22
+
+23. tu-di-da lu₂ ŋa₂-nu ŋa₂-nu gaba-na ba-an-gid₂
+#lem: tuditum[toggle pin]; lu[person]; ŋen[go]; ŋen[go]; gaba[breast]; gid[long]
+#tr.en: She pulled the pectoral which is called "Come, man, come" over her breast. 
+#etcsl: line-id=23
+
+24. har kug-sig₁₇ šu-na ba-an-du₈
+#lem: har[ring]; kugsig[gold]; šu[hand]; du[spread]
+#tr.en: She placed a golden ring on her hand. 
+#etcsl: line-id=24
+
+25. gi-diš-nindan eš₂-gana₂ za-gin₃ šu ba-ni-in-du₈
+#lem: ginindan[measuring rod]; ešgana[measuring line]; zagin[lapis lazuli]; šu[hand]; du[spread]
+#tr.en: She held the lapis-lazuli measuring rod and measuring line in her hand. 
+#etcsl: line-id=25
+
+26. {d}inana kur-še₃ i-im-ŋen
+#lem: Inanak[1]DN; kur[mountain(s)]; ŋen[go]
+#tr.en: @wDN{Inana} travelled towards the underworld. 
+#etcsl: line-id=26
+
+27. sukkal-a-ni  %e  {d}ga-ša-an-šubur-ra  %s  egir-a-na i-im-ŋen
+#lem: sukkal[secretary]; Gašanšubur[1]DN; egir[back]; ŋen[go]
+#tr.en: Her minister @wDN{Ninšubur} travelled behind her. 
+#etcsl: line-id=27
+
+28. kug {d}inana-ke₄ {d}nin-šubur-ra gu₃ mu-na-de₂-e
+#lem: kug[purify]; Inanak[1]DN; Ninšubur[1]DN; gu[voice]; de[pour]
+#tr.en: Holy @wDN{Inana} said to @wDN{Ninšubur}: 
+#etcsl: line-id=28
+
+29. ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+#lem: ŋen[go]; sukkal[secretary]; zid[right]; Eanak[1]TN
+#tr.en: @q[Inana,Nincubur]{“Come my faithful minister of @wTN{E-ana}, 
+#etcsl: line-id=29
+
+@variants
+
+30. sukkal %e e-ne-eŋ₃ %s sag₉-sag₉-ga-ŋu₁₀
+#lem: sukkal[secretary]; eneŋ[word]N; sag[good]
+#tr.en: @varh[t141.v2]{my minister who speaks fair words, 
+#etcsl: line-id=30
+
+31. ra-gaba %e e-ne-eŋ₃ %s ge-en-gen₆-na-ŋu₁₀
+#lem: ragaba[rider]; eneŋ[word]N; gin[confirm]
+#tr.en: my escort who speaks trustworthy words } @vart[t141.v3,t141.v2]{@varn{1 ms. has instead:} I am going to give you instructions: my instructions must be followed; I am going to say something to you: it must be observed }.”} 
+#etcsl: line-id=31
+
+@variant
+
+#etcsl#ms 1 ms. has instead:
+30A. [na] ga-e-degₓ(RI) na degₓ(RI)-ŋu₁₀ he₂#-[dab₅]
+#lem: na[cvne]; deg[gather up]; na[cvne]; deg[gather up]; dab[seize]
+#etcsl: line-id=30A
+
+31A. [inim] ga-ra-ab-dug₄ ŋizzal [he₂-em-ši-ak]
+#lem: inim[word]; dug[speak]; ŋizzal[hearing]; ak[do]
+#etcsl: line-id=31A
+
+@endvariants
+32. ud-da kur-še₃ ed₃-de₃-en
+#lem: ud[sun]; kur[mountain(s)]; ed[go up]
+#tr.en: @q{“On this day I will descend to the underworld. 
+#etcsl: line-id=32
+
+33. ud-da kur-še₃ ŋen-na-ŋu₁₀-ne
+#lem: ud[sun]; kur[mountain(s)]; ŋen[go]
+#tr.en: When I have arrived in the underworld, 
+#etcsl: line-id=33
+
+34. er₂ du₆-du₆-dam %e mar-mar-ma-ni-ib
+#lem: er[tears]; dud[(ruin) mound]; mar[place]V/t
+#tr.en: make a lament for me on the ruin mounds. 
+#etcsl: line-id=34
+
+35. šem₃ gu₂-en-na du₁₂-du₁₂-a-ma-ni-ib
+#lem: šem[drum]; guʾen[assembly room]; du[play (a musical instrument)]
+#tr.en: Beat the drum for me in the sanctuary. 
+#etcsl: line-id=35
+
+36. [e₂] diŋir-re-e-ne niŋin₂-niŋin₂-na-ma-ni-ib
+#lem: e[house]; diŋir[deity]; niŋin[encircle]
+#tr.en: Make the rounds of the houses of the gods for me.”} 
+#etcsl: line-id=36
+
+37. %e [i-bi₂-zu] %s hur-ma-ab giri₁₇-zu hur-ma-ab
+#lem: ibi[eye]N; hur[scratch]; kiri[nose]; !hur[scratch]
+#tr.en: @q{“Lacerate your eyes for me, lacerate your nose for me. 
+#etcsl: line-id=37
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+37A. [ŋeštug₂ ki] u₆ di-zu [hur-ma-ab]
+#lem: ŋeštug[ear]; ki[place]; u[admiration]; di[speak]; !hur[scratch]
+#tr.en: @vart[t141.v4,t141.v4]{@varn{1 ms. adds 1 line:} Lacerate your ears for me, in public. } In private, lacerate your buttocks for me. Like a pauper, 
+#etcsl: line-id=37A
+
+@endvariants
+38. ki %e mu-lu-da %s nu-di haš₄-gal-zu hur-ma-ab
+#lem: ki[place]; mulu[person]N; di[speak]; hašgal[thigh]; !hur[scratch]
+#tr.en: clothe yourself in a single garment and all alone set your foot in the @wTN{E-kur}, 
+#etcsl: line-id=38
+
+39. %e mu-lu %s nu-tuku-gin₇ tug₂ dili-a mur₁₀-ma-ab
+#lem: mulu[person]N; tuku[acquire]; tug[textile]; dili[single]; mur[dress]
+#tr.en: the house of @wDN{Enlil}.”} 
+#etcsl: line-id=39
+
+40. e₂-kur-re e₂  %e  {d}mu-ul-lil₂-la₂-še₃  %s  %e me-ri-zu %s dili [gub-mu-un]
+#lem: Ekur[1]TN; e[house]; Mullil[1]DN; meri[foot]N; dili[single]; gub[stand]
+#etcsl: line-id=40
+
+41. [e₂]-kur-re e₂  %e  {d}mu-ul-lil₂-la₂-še₃  %s  ku₄-ku₄-da-zu-ne
+#lem: Ekur[1]TN; e[house]; Mullil[1]DN; kur[enter]
+#tr.en: @q{“When you have entered the @wTN{E-kur}, the house of @wDN{Enlil}, 
+#etcsl: line-id=41
+
+42. %e i-bi₂ %s  %e  {d}mu-ul-lil₂-la₂-še₃  %s  er₂ šeš₂-a
+#lem: ibi[eye]N; Mullil[1]DN; er[tears]; šeš[weep]
+#tr.en: lament before @wDN{Enlil}: @q[Nincubur,Enlil]{“Father @wDN{Enlil}, 
+#etcsl: line-id=42
+
+43. [a-a] %e {d}mu-ul-lil₂ %e du₅-mu-zu %e mu-lu %s kur-ra nam-ba-da-an-gam-e
+#lem: aya[father]; Mullil[]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let anyone kill your daughter in the underworld. 
+#etcsl: line-id=43
+
+44. kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=44
+
+45. za-gin₃ sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-si-il-si-il
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=45
+
+46. {ŋiš}taškarin-zu ŋiš nagar-ra-ka nam-ba-an-dar-dar-e
+#lem: taškarin[box tree]; ŋeš[tree]; nagar[carpenter]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=46
+
+47. ki-sikil %e {d}ga-ša-an-na %s kur-ra nam-ba-da-an-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”}”} 
+#etcsl: line-id=47
+
+48. ud-da %e {d}mu-ul-lil₂ %e e-ne-eŋ₃-ba %s nu-ri-gub urim₂{ki}-še₃ ŋen-na
+#lem: ud[sun]; Mullil[]DN; eneŋ[word]N; gub[stand]; Urim[1]SN; ŋen[go]
+#tr.en: @q{“If @wDN{Enlil} does not help you in this matter, go to @wSN{Urim}. 
+#etcsl: line-id=48
+
+49. urim₂{ki} e₂-mud-kur-ra-ka
+#lem: Urim[1]SN; Emudkurak[1]TN
+#tr.en: In the @wTN{E-mud-kura} at @wSN{Urim}, when you have entered the @wTN{E-kiš-nu-ŋal}, 
+#etcsl: line-id=49
+
+50. [e₂]-kiš-[nu]-ŋal₂ {d}nanna-še₃ ku₄-ku₄-da-[zu]-ne
+#lem: Ekišnuŋal[1]TN; Nanna[1]DN; kur[enter]
+#tr.en: the house of @wDN{Nanna}, lament before @wDN{Nanna}: 
+#etcsl: line-id=50
+
+51. %e [i]-bi₂ %s {d}nanna-še₃ er₂ šeš₂-a
+#lem: ibi[eye]N; Nanna[1]DN; er[tears]; šeš[weep]
+#tr.en: @q[Nincubur,Nanna]{“Father @wDN{Nanna}, 
+#etcsl: line-id=51
+
+52. [a]-a {d}nanna %e du₅-mu-zu mu-lu %s kur-ra [nam-ba-da]-an-gam-e
+#lem: aya[father]; Nanna[1]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let anyone kill your daughter in the underworld. 
+#etcsl: line-id=52
+
+53. [kug sag₉-ga]-zu sahar kur-ra-ka nam-ba-da-ab-[šar₂]-re
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=53
+
+54. [za-gin₃] sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-si-il-si-il
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=54
+
+55. {[ŋiš]}[taškarin-zu] ŋiš nam-nagar-[ra-ka] nam-ba-da-an-dar-dar-[re]
+#lem: taškarin[box tree]; ŋeš[tree]; namnagar[carpentry]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=55
+
+56. ki-sikil# %e {d#}ga-[ša-an-na %s kur-ra nam-ba]-da-an-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”}”} 
+#etcsl: line-id=56
+
+57. ud-da# {d#}nanna %e e-ne-eŋ₃-[ba %s nu-ri-gub] %e uru₂-ze₂-eb{ki}-še₃ %s ŋen-na
+#lem: ud[sun]; Nanna[1]DN; eneŋ[word]N; gub[stand]; Uruzeb[1]SN; ŋen[go]
+#tr.en: @q{“And if @wDN{Nanna} does not help you in this matter, 
+#etcsl: line-id=57
+
+58. %e uru₂-ze₂-eb{ki} %s e₂ %e {d}am-[an-ki-ka₃-še₃ %s ku₄-ku₄-da-zu]-ne
+#lem: Uruzeb[1]SN; e[house]; Amanki[1]DN; kur[enter]
+#tr.en: go to @wSN{Eridug}. In @wSN{Eridug}, when you have entered the house of @wDN{Enki}, 
+#etcsl: line-id=58
+
+59. %e [i-bi₂] {d}am-an-ki-ka₃-še₃ %eg er₂ šeš₂-am₃
+#lem: ibi[eye]N; Amanki[]DN; er[tears]; šeš[weep]
+#tr.en: lament before @wDN{Enki}: @q[Nincubur,Enki]{“Father @wDN{Enki}, 
+#etcsl: line-id=59
+
+60. a-a %e {d}am-an-ki %e du₅-mu-zu mu-lu %s kur-ra nam-ba-da-an-gam-e
+#lem: aya[father]; Amanki[]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let anyone kill your daughter in the underworld. 
+#etcsl: line-id=60
+
+61. kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-[šar₂-re]
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=61
+
+62. za-gin₃ sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-[si-il-si]-il
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=62
+
+63. {ŋiš}taškarin-zu ŋiš nagar-ra-ka nam-ba-da-an-dar-[dar-re]
+#lem: taškarin[box tree]; ŋeš[tree]; nagar[carpenter]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=63
+
+64. ki-sikil %e {d}ga-ša-an-na %s kur-ra nam-ba-da-an-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”}”} 
+#etcsl: line-id=64
+
+65. a-a %e {d}am-an-ki %e u₃-mu-un mu-uš-<<ŋiš>>-tug₂ <da>-ma-al-la-ke₄
+#lem: aya[father]; Amanki[1]DN; umun[lord]N; muštug[ear]N; damal[wide]V/i
+#tr.en: @q{“Father @wDN{Enki}, the lord of great wisdom, 
+#etcsl: line-id=65
+
+66. u₂ nam-til₃-la mu-un-zu a nam-til₃-la mu-un-zu
+#lem: u[plant(s)]; namtil[life]; zu[know]; a[water]; namtil[life]; zu[know]
+#tr.en: knows about the life-giving plant and the life-giving water. 
+#etcsl: line-id=66
+
+67. e-ne %e ma-ra %s hu-mu-un-til₃-le-en
+#lem: ane[he]; meʾe[I]IP; til[live (of a single person)]
+#tr.en: He is the one who will restore me to life.”} 
+#etcsl: line-id=67
+
+68. {d}inana kur-še₃ ŋen-na#-[ni-ta]
+#lem: Inanak[1]DN; kur[mountain(s)]; ŋen[go]
+#tr.en: When @wDN{Inana} travelled on towards the underworld, 
+#etcsl: line-id=68
+
+69. sukkal-a-ni {d}nin-šubur-ra-ke₄ egir-a-ni i₃-[im-ŋen]
+#lem: sukkal[secretary]; Ninšubur[1]DN; egir[back]; ŋen[go]
+#tr.en: her minister @wDN{Ninšubur} travelled on behind her. 
+#etcsl: line-id=69
+
+70. sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-[de₂-e]
+#lem: sukkal[secretary]; Ninšubur[1]DN; gu[voice]; de[pour]
+#tr.en: She said to her minister @wDN{Ninšubur}: 
+#etcsl: line-id=70
+
+71. ŋen-na  %e  {d}ga-ša-an-šubur-ŋu₁₀  %s  saŋ [keše₂ he₂-ak]
+#lem: ŋen[go]; Gašanšubur[1]DN; saŋ[head]; kešed[bind]; ak[do]
+#tr.en: @q[Inana,Nincubur]{“Go now, my @wDN{Ninšubur}, and pay attention. 
+#etcsl: line-id=71
+
+72. %e e-ne-<eŋ₃> %s a-ra-dug₄-ga-ŋu₁₀ gu₂-zu la-ba-ši-šub
+#lem: eneŋ[word]N; dug[speak]; gu[neck]; šub[fall]
+#tr.en: Don't neglect the instructions I gave you.”} 
+#etcsl: line-id=72
+
+73. {d}inana e₂-gal ganzer-še₃ um-ma-te
+#lem: Inanak[1]DN; egal[palace]; Ganzer[1]GN; teŋ[approach]
+#tr.en: When @wDN{Inana} arrived at the palace Ganzer, she pushed aggressively on the door of the underworld. 
+#etcsl: line-id=73
+
+74. {ŋiš}ig kur-ra-ka šu hul ba-an-us₂
+#lem: ig[door]; kur[mountain(s)]; šu[hand]; hulu[bad]; us[accompany]
+#tr.en: She shouted aggressively at the gate of the underworld: @q[Inana,Neti]{“Open up, 
+#etcsl: line-id=74
+
+75. abula kur-ra-ka gu₃ hul ba-an-de₂
+#lem: abula[gate]; kur[mountain(s)]; gu[voice]; hulu[bad]; de[pour]
+#tr.en: doorman, open up. 
+#etcsl: line-id=75
+
+76. e₂ ŋal₂-u₃ i₃-du₈ e₂ ŋal₂-u₃
+#lem: e[house]; ŋal[open]; idu[doorkeeper]; e[house]; ŋal[open]
+#tr.en: Open up, @wDN{Neti}, 
+#etcsl: line-id=76
+
+77. e₂ ŋal₂-u₃ {d}bi₂-ti e₂ ŋal₂-u₃ dili-ŋu₁₀-še₃ ga-kur₉
+#lem: e[house]; ŋal[open]; Biti[1]DN; e[house]; ŋal[open]; dili[single]; kur[enter]
+#tr.en: open up. I am all alone and I want to come in.”} 
+#etcsl: line-id=77
+
+78. {d}bi₂-ti i₃-du₈ gal kur-ra-ke₄
+#lem: Biti[1]DN; idu[doorkeeper]; gal[big]; kur[mountain(s)]
+#tr.en: @wDN{Neti}, the chief doorman of the underworld, 
+#etcsl: line-id=78
+
+79. kug {d}inana inim mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; inim[word]; gi[turn]
+#tr.en: answered holy @wDN{Inana}: 
+#etcsl: line-id=79
+
+80. a-ba-me-en za-e
+#lem: aba[who?]; zaʾe[you]
+#tr.en: @q[Neti,Inana]{“Who are you?”} 
+#etcsl: line-id=80
+
+81. %e me-e {d}ga-ša-an!(NA)-na %s ki {d}utu e₃-a-aš
+#lem: meʾe[I]IP; Gašanana[1]DN; ki[place]; Utu[1]DN; e[leave]
+#tr.en: @q[Inana,Neti]{“I am @wDN{Inana} going to the east.”} 
+#etcsl: line-id=81
+
+82. tukum-bi za-e {d}inana ki {d}utu e₃-a-aš
+#lem: tukumbi[if]; zaʾe[you]; Inanak[1]DN; ki[place]; Utu[1]DN; e[leave]
+#tr.en: @q[Neti,Inana]{“If you are @wDN{Inana} going to the east, 
+#etcsl: line-id=82
+
+83. a-na-am₃ ba-du-un kur nu-gi₄-še₃
+#lem: ana[what?]; du[go]; kur[mountain(s)]; gi[turn]
+#tr.en: why have you travelled to the land of no return? 
+#etcsl: line-id=83
+
+84. har-ra-an lu₂ du-bi nu-gi₄-gi₄-de₃ šag₄-zu a-gin₇ tum₂-mu-un
+#lem: harran[route]; lu[person]; du[go]; gi[turn]; šag[heart]; agin[thus]; tum[bring]
+#tr.en: How did you set your heart on the road whose traveller never returns?”} 
+#etcsl: line-id=84
+
+85. kug {d}inana-ke₄ mu-na-ni-ib₂-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; gi[turn]
+#tr.en: Holy @wDN{Inana} answered him: @q[Inana,Neti]{“Because Lord @wDN{Gud-gal-ana}, 
+#etcsl: line-id=85
+
+86. nin₉ gal-ŋu₁₀ kug  %e  {d}ga-ša-an-ki-gal-la-ke₄  %s 
+#lem: nin[sister]; gal[big]; kug[purify]; Gašankigal[1]DN
+#tr.en: the husband of my elder sister holy @wDN{Ereškigala}, 
+#etcsl: line-id=86
+
+87. mu dam-a-ni %e u₃-mu-un %s gud-gal-an-na ba-an-ug₅-ga
+#lem: mu[name]; dam[spouse]; umun[lord]N; Gudgalanak[1]DN; ug[kill]
+#tr.en: has died; 
+#etcsl: line-id=87
+
+88. ki-sig₁₀-ga-na %e i-bi₂ %s du₈-u₃-de₃
+#lem: kisiga[funerary offerings]; ibi[eye]N; du[spread]
+#tr.en: in order to have his funeral rites observed, 
+#etcsl: line-id=88
+
+89. kaš ki-sig₁₀-ga-na gu-ul ba-ni-in-de₂ ur₅ he₂-na-nam-ma
+#lem: kaš[beer]; kisiga[funerary offerings]; gal[big]; de[pour]; ur[that]; me[be]
+#tr.en: she offers generous libations at his wake -- that is the reason.”} 
+#etcsl: line-id=89
+
+90. {d}bi₂-ti i₃-du₈ gal kur-ra-ke₄
+#lem: Biti[1]DN; idu[doorkeeper]; gal[big]; kur[mountain(s)]
+#tr.en: @wDN{Neti}, the chief doorman of the underworld, answered holy @wDN{Inana}: 
+#etcsl: line-id=90
+
+91. kug {d}inana-ra mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; gi[turn]
+#tr.en: @q[Neti,Inana]{“Stay here, @wDN{Inana}. 
+#etcsl: line-id=91
+
+92. gub-ba-a {d}inana nin-ŋa₂ ga-an-na-ab-dug₄
+#lem: gub[stand]; Inanak[1]DN; nin[lady]; dug[speak]
+#tr.en: I will speak to my mistress. 
+#etcsl: line-id=92
+
+93. nin-ŋu₁₀ {d}ereš-ki-gal-la-ra ga-an-na-dug₄ [inim-zu] ga-an-na-ab-dug₄
+#lem: nin[lady]; Ereškigalak[1]DN; dug[speak]; inim[word]; dug[speak]
+#tr.en: I will speak to my mistress @wDN{Ereškigala} and tell her what you have said.”} 
+#etcsl: line-id=93
+
+94. {d}bi₂-ti i₃-du₈ gal kur-ra-ke₄
+#lem: Biti[1]DN; idu[doorkeeper]; gal[big]; kur[mountain(s)]
+#tr.en: @wDN{Neti}, the chief doorman of the underworld, entered the house of his mistress @wDN{Ereškigala} and said: 
+#etcsl: line-id=94
+
+95. nin-a-ni {d}ereš-ki-gal-la-ra
+#lem: nin[lady]; Ereškigalak[1]DN
+#tr.en: @q[Neti,Ereckigala]{“My mistress, there is a lone girl outside. 
+#etcsl: line-id=95
+
+96. e₂-[a-ni-še₃ ba]-ši-in-kur₉ gu₃ mu-na-de₂
+#lem: e[house]; kur[enter]; gu[voice]; de[pour]
+#tr.en: It is @wDN{Inana}, 
+#etcsl: line-id=96
+
+97. nin-ŋu₁₀ ki-sikil 1(DIŠ)-am₃
+#lem: nin[lady]; kisikil[young woman]; n
+#tr.en: your sister, 
+#etcsl: line-id=97
+
+98. {d}inana# [nin₉-zu e₂-gal ganzer-še₃ um-ma-te]
+#lem: Inanak[1]DN; nin[sister]; egal[palace]; Ganzer[1]GN; teŋ[approach]
+#tr.en: and she has arrived at the palace Ganzer. 
+#etcsl: line-id=98
+
+99. {ŋiš}ig [kur-ra-ka šu hul ba-an-us₂]
+#lem: ig[door]; kur[mountain(s)]; šu[hand]; hulu[bad]; us[accompany]
+#tr.en: She pushed aggressively on the door of the underworld. 
+#etcsl: line-id=99
+
+100. [abula kur-ra-ka gu₃ hul ba-an-de₂]
+#lem: abula[gate]; kur[mountain(s)]; gu[voice]; hulu[bad]; de[pour]
+#tr.en: She shouted aggressively at the gate of the underworld. 
+#etcsl: line-id=100
+
+101. e₂-an-na [mu-un-šub kur-ra ba-e-a-ed₃]
+#lem: Eanak[1]TN; šub[fall]; kur[mountain(s)]; ed[go up]
+#tr.en: She has abandoned @wTN{E-ana} and has descended to the underworld.”} 
+#etcsl: line-id=101
+
+102. me 7-bi zag [mu-ni-in-keše₂]
+#lem: me[Being]; n; zag[side]; kešed[bind]
+#tr.en: @q{“She has taken the seven divine powers. 
+#etcsl: line-id=102
+
+103. me mu-[un-ur₄-ur₄ šu-ni-še₃ mu-un-la₂]
+#lem: me[Being]; ur[gather]; šu[hand]; la[hang]
+#tr.en: She has collected the divine powers and grasped them in her hand. 
+#etcsl: line-id=103
+
+104. me [dug₃ ŋiri₃ gub-ba i-im-ŋen]
+#lem: me[Being]; dug[good]; ŋiri[foot]; gub[stand]; ŋen[go]
+#tr.en: She has come on her way with all the good divine powers. 
+#etcsl: line-id=104
+
+105. tug₂-šu-gur-ra [men edin-na saŋ-ŋa₂-na mu-un-ŋal₂]
+#lem: šugura[turban]; men[tiara]; eden[back]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#tr.en: She has put a turban, headgear for the open country, on her head. 
+#etcsl: line-id=105
+
+106. hi-li saŋ-ki-na [šu ba-ni-in-ti]
+#lem: hili[attractiveness]; saŋki[forehead]; šu[hand]; teŋ[approach]
+#tr.en: She has taken a wig for her forehead. 
+#etcsl: line-id=106
+
+107. {[na₄]}[za]-gin₃ di₄#-[di₄-la₂ gu₂-na i-im-la₂]
+#lem: zagin[lapis lazuli]; didila[small(er)]; gu[neck]; la[hang]
+#tr.en: She has hung small lapis-lazuli beads around her neck.”} 
+#etcsl: line-id=107
+
+108. na₄-nunuz tab-ba [gaba-na i-im-si]
+#lem: nunuz[ovoid bead]; tab[double]; gaba[breast]; si[fill]
+#tr.en: @q{“She has placed twin egg-shaped beads on her breast. 
+#etcsl: line-id=108
+
+109. {tug₂}pala₃ nam-nin-a [bar-ra-na i-im-dul]
+#lem: pala[garment]; namnin[ladyship]; bar[outside]; dul[cover]
+#tr.en: She has covered her body with the @fsux{pala} dress of ladyship. 
+#etcsl: line-id=109
+
+110. šembizid lu₂ he₂-em-du igi-ni [i-im-ŋar]
+#lem: šembizida[kohl]; lu[person]; du[go]; igi[eye]; ŋar[put]
+#tr.en: She has placed mascara which is called "Let a man come" on her eyes. 
+#etcsl: line-id=110
+
+111. tu-di-da lu₂ ŋa₂-nu ŋa₂-nu [gaba-na i-im-gid₂]
+#lem: tuditum[toggle pin]; lu[person]; ŋen[go]; ŋen[go]; gaba[breast]; gid[long]
+#tr.en: She has pulled the pectoral which is called "Come, man, come" over her breast. 
+#etcsl: line-id=111
+
+112. har kug-sig₁₇ šu-na i-im#-[la₂]
+#lem: har[ring]; kugsig[gold]; šu[hand]; la[hang]
+#tr.en: She has placed a golden ring on her hand. 
+#etcsl: line-id=112
+
+113. gi-diš-nindan eš₂-gana₂ za-gin₃ šu-na i-im#-[du₈]
+#lem: ginindan[measuring rod]; ešgana[measuring line]; zagin[lapis lazuli]; šu[hand]; du[spread]
+#tr.en: She is holding the lapis-lazuli measuring rod and measuring line in her hand.”} 
+#etcsl: line-id=113
+
+114. ud-ba {d}ereš-ki-gal-la-ke₄ haš₂ bar-bi bi₂-in-ra
+#lem: ud[sun]; Ereškigalak[1]DN; haš[thigh]; bar[outside]; rah[beat]
+#tr.en: When she heard this, @wDN{Ereškigala} slapped the side of her thigh. 
+#etcsl: line-id=114
+
+115. nundum zu₂ bi₂-in-gub inim šag₄-še₃ ba-ti
+#lem: nundum[lip]; zu[tooth]; gub[stand]; inim[word]; šag[heart]; teŋ[approach]
+#tr.en: She bit her lip and took the words to heart. 
+#etcsl: line-id=115
+
+116. {d}bi₂-ti i₃-du₈ gal-ni-ir gu₃ mu-na-de₂-e
+#lem: Biti[1]DN; idu[doorkeeper]; gal[big]; gu[voice]; de[pour]
+#tr.en: She said to @wDN{Neti}, her chief doorman: @q[Ereckigala,Neti]{“Come @wDN{Neti}, 
+#etcsl: line-id=116
+
+117. ŋa₂-nu {d}bi₂-ti i₃-du₈ gal kur-ra-ŋu₁₀
+#lem: ŋen[go]; Biti[1]DN; idu[doorkeeper]; gal[big]; kur[mountain(s)]
+#tr.en: my chief doorman of the underworld, don't neglect the instructions I will give you. 
+#etcsl: line-id=117
+
+118. inim a-ra-dug₄-ga-ŋu₁₀ gu₂-zu la-ba-an-šub-be₂-en#
+#lem: inim[word]; dug[speak]; gu[neck]; šub[fall]
+#tr.en: Let the seven gates of the underworld be bolted. 
+#etcsl: line-id=118
+
+119. abula kur-ra 7-bi {ŋiš}si-ŋar-bi he₂-eb-us₂
+#lem: abula[gate]; kur[mountain(s)]; n; siŋar[bolt]; us[accompany]
+#tr.en: Then let each door of the palace Ganzer be opened separately. 
+#etcsl: line-id=119
+
+120. e₂-gal ganzer dili-bi {ŋiš}ig-bi šu ha-ba-an-us₂
+#lem: egal[palace]; Ganzer[1]GN; dili[single]; ig[door]; šu[hand]; us[accompany]
+#tr.en: As for her, after she has entered, 
+#etcsl: line-id=120
+
+121. e-ne ku₄-ku₄-da-ni-ta
+#lem: ane[he]; kur[enter]
+#tr.en: and crouched down and had her clothes removed, 
+#etcsl: line-id=121
+
+122. gam-gam-ma-ni tug₂ zil-zil-la-ni-ta lu₂ ba-an#-[de₆]
+#lem: gurum[bend]; tug[textile]; sil[split]; lu[person]; de[carry]
+#tr.en: they will be carried away.”} 
+#etcsl: line-id=122
+
+123. {d}bi₂-ti i₃-du₈ gal kur-ra-[ke₄]
+#lem: Biti[1]DN; idu[doorkeeper]; gal[big]; kur[mountain(s)]
+#tr.en: @wDN{Neti}, the chief doorman of the underworld, 
+#etcsl: line-id=123
+
+124. inim nin-a-na-še₃ saŋ keše₂ ba-ši-[in-ak]
+#lem: inim[word]; nin[lady]; saŋ[head]; kešed[bind]; ak[do]
+#tr.en: paid attention to the instructions of his mistress. 
+#etcsl: line-id=124
+
+125. abula kur-ra 7-bi {ŋiš}si-ŋar-bi [bi₂-ib₂-us₂]
+#lem: abula[gate]; kur[mountain(s)]; n; siŋar[bolt]; us[accompany]
+#tr.en: He bolted the seven gates of the underworld. 
+#etcsl: line-id=125
+
+126. e₂-gal ganzer dili-bi {[ŋiš]}[ig-bi šu ba-an-us₂]
+#lem: egal[palace]; Ganzer[1]GN; dili[single]; ig[door]; šu[hand]; us[accompany]
+#tr.en: Then he opened each of the doors of the palace Ganzer separately. 
+#etcsl: line-id=126
+
+127. kug {d}inana-ra gu₃ mu-na-de₂-[e]
+#lem: kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: He said to holy @wDN{Inana}: @q[Neti,Inana]{“Come on, 
+#etcsl: line-id=127
+
+128. ŋa₂-nu {d}inana kur₉-um-[ma-ni]
+#lem: ŋen[go]; Inanak[1]DN; kur[enter]
+#tr.en: @wDN{Inana}, and enter.”} 
+#etcsl: line-id=128
+
+129. {d}inana ku₄-ku₄-da-[ni-ta]
+#lem: Inanak[1]DN; kur[enter]
+#tr.en: And when @wDN{Inana} entered, @vart[t141.v5,t141.v5]{@varn{1 ms. adds 2 lines:} the lapis-lazuli measuring rod and measuring line were removed from her hand, when she entered the first gate, } the turban, 
+#etcsl: line-id=129
+
+@variants
+
+#etcsl#ms 1 ms. adds 2 lines:
+129A. gi-diš-nindan eš₂-gana₂ za-gin₃ [šu-na lu₂ ba-da-an-ze₂-er]
+#lem: ginindan[measuring rod]; ešgana[measuring line]; zagin[lapis lazuli]; šu[hand]; lu[person]; zir[tear out]
+#tr.en: headgear for the open country, was removed from her head. 
+#etcsl: line-id=129A
+
+129B. abula 1-kam-ma ku₄-[ku₄-da-ni-ta]
+#lem: abula[gate]; n; kur[enter]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, 
+#etcsl: line-id=129B
+
+@endvariants
+130. tug₂-šu-gur-ra men edin-na saŋ-ŋa₂-na lu₂ ba-da-an-ze₂-er
+#lem: šugura[turban]; men[tiara]; eden[back]; saŋ[head]; lu[person]; zir[tear out]
+#tr.en: @wDN{Inana}, a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=130
+
+131. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=131
+
+132. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#etcsl: line-id=132
+
+133. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#etcsl: line-id=133
+
+134. abula 2-kam-ma ku₄-ku₄-da-[ni-ta]
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the second gate, 
+#etcsl: line-id=134
+
+135. {na₄}za-gin₃ di₄-di₄-la₂ gu₂-na lu₂ ba-da-an-ze₂-er
+#lem: zagin[lapis lazuli]; didila[small(er)]; gu[neck]; lu[person]; zir[tear out]
+#tr.en: the small lapis-lazuli beads were removed from her neck. 
+#etcsl: line-id=135
+
+136. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, @wDN{Inana}, 
+#etcsl: line-id=136
+
+137. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=137
+
+138. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=138
+
+139. abula 3-kam-ma ku₄-ku₄-da-ni-ta
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the third gate, 
+#etcsl: line-id=139
+
+140. na₄-nunuz tab-ba gaba-na lu₂ ba-da-an-ze₂-er
+#lem: nunuz[ovoid bead]; tab[double]; gaba[breast]; lu[person]; zir[tear out]
+#tr.en: the twin egg-shaped beads were removed from her breast. 
+#etcsl: line-id=140
+
+141. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, @wDN{Inana}, 
+#etcsl: line-id=141
+
+142. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=142
+
+143. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=143
+
+144. abula 4-kam-ma ku₄-ku₄-da-ni-ta
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the fourth gate, the "Come, 
+#etcsl: line-id=144
+
+145. tu-di-da lu₂ ŋa₂-nu ŋa₂-nu gaba-na lu₂ ba-da-an-ze₂-er
+#lem: tuditum[toggle pin]; lu[person]; ŋen[go]; ŋen[go]; gaba[breast]; lu[person]; zir[tear out]
+#tr.en: man, come" pectoral was removed from her breast. 
+#etcsl: line-id=145
+
+146. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, 
+#etcsl: line-id=146
+
+147. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: @wDN{Inana}, a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=147
+
+148. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=148
+
+149. abula 5-kam-ma ku₄-ku₄-da-ni-ta
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the fifth gate, 
+#etcsl: line-id=149
+
+150. har kug-sig₁₇ šu-na lu₂ ba-da-an-ze₂-er
+#lem: har[ring]; kugsig[gold]; šu[hand]; lu[person]; zir[tear out]
+#tr.en: the golden ring was removed from her hand. 
+#etcsl: line-id=150
+
+151. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, @wDN{Inana}, 
+#etcsl: line-id=151
+
+152. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=152
+
+153. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=153
+
+154. abula 6-kam-ma ku₄-ku₄-da-ni-ta
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the sixth gate, 
+#etcsl: line-id=154
+
+155. gi-diš-nindan eš₂-gana₂ za-gin₃ šu-[na] lu₂ ba-da-an-ze₂-er
+#lem: ginindan[measuring rod]; ešgana[measuring line]; zagin[lapis lazuli]; šu[hand]; lu[person]; zir[tear out]
+#tr.en: the lapis-lazuli measuring rod and measuring line were removed from her hand. 
+#etcsl: line-id=155
+
+156. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, @wDN{Inana}, 
+#etcsl: line-id=156
+
+157. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=157
+
+158. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=158
+
+159. abula 7-kam-ma ku₄-ku₄-da-ni-ta
+#lem: abula[gate]; n; kur[enter]
+#tr.en: When she entered the seventh gate, the @fsux{pala} dress, 
+#etcsl: line-id=159
+
+160. {[tug₂]}[pala₃] tug₂ nam-nin-a bar-ra-na lu₂ ba-da-an-ze₂-er
+#lem: pala[garment]; tug[textile]; namnin[ladyship]; bar[outside]; lu[person]; zir[tear out]
+#tr.en: the garment of ladyship, was removed from her body. 
+#etcsl: line-id=160
+
+161. %e ta-am₃ %s ne-e
+#lem: ta[what?]QP; nen[this]
+#tr.en: @q[Inana,Neti]{“What is this?”} @q[Neti,Inana]{“Be silent, 
+#etcsl: line-id=161
+
+162. si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+#lem: sig[silent]; Inanak[1]DN; me[Being]; kur[mountain(s)]; šu[hand]; du[perfect]
+#tr.en: @wDN{Inana}, a divine power of the underworld has been fulfilled. 
+#etcsl: line-id=162
+
+163. {d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+#lem: Inanak[1]DN; ŋarza[rites]; kur[mountain(s)]; kag[mouth]; ba[allot]
+#tr.en: @wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
+#etcsl: line-id=163
+
+164. gam-gam-ma-ni tug₂ zil-zil-la-ni-ta lu₂ ma-an-de₆
+#lem: gurum[bend]; tug[textile]; sil[split]; lu[person]; de[carry]
+#tr.en: After she had crouched down and had her clothes removed, 
+#etcsl: line-id=164
+
+165. nin₉-a-ni {ŋiš}gu-za-ni-ta im-ma-da-an-zig₃
+#lem: nin[sister]; guza[chair]; zig[rise]
+#tr.en: they were carried away. 
+#etcsl: line-id=165
+
+166. e-ne {ŋiš}gu-za-ni-ta dur₂ im-mi-in-ŋar
+#lem: ane[he]; guza[chair]; dur[buttocks]; ŋar[put]
+#tr.en: Then she made her sister @wDN{Ereškigala} rise from her throne, 
+#etcsl: line-id=166
+
+167. {d}a-nun-na di-kud 7-bi igi-ni-še₃ di mu-un-da-ku₅-ru-ne
+#lem: Anunak[1]DN; dikud[judge]; n; igi[eye]; did[lawsuit]; kud[cut]
+#tr.en: and instead she sat on her throne. The @wDN{Anuna}, 
+#etcsl: line-id=167
+
+168. igi mu-ši-in-bar %e i-bi₂ %s uš₂-a-kam
+#lem: igi[eye]; bar[place outside]; ibi[eye]N; uš[die]
+#tr.en: the seven judges, rendered their decision against her. 
+#etcsl: line-id=168
+
+169. inim i-ne-ne inim lipiš gig-ga-am₃
+#lem: inim[word]; e[speak]; inim[word]; lipiš[inner body]; gig[sick]
+#tr.en: They looked at her -- it was the look of death. 
+#etcsl: line-id=169
+
+170. gu₃ i-ne-de₂ gu₃ nam-tag-tag-ga-am₃
+#lem: gu[voice]; de[pour]; gu[voice]; namtaga[sin]
+#tr.en: They spoke to her -- it was the speech of anger. 
+#etcsl: line-id=170
+
+171. munus tur₅-ra uzu niŋ₂ sag₃-ga-še₃ ba-an-kur₉
+#lem: munus[woman]; tur[ill]; uzu[flesh]; niŋ[thing]; sag[strike]; kur[enter]
+#tr.en: They shouted at her -- it was the shout of heavy guilt. 
+#etcsl: line-id=171
+
+172. uzu niŋ₂ sag₃-ga {ŋiš}gag-ta lu₂ ba-da-an-la₂
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gag[nail]; lu[person]; la[hang]
+#tr.en: The afflicted woman was turned into a corpse. And the corpse was hung on a hook. 
+#etcsl: line-id=172
+
+173. [ud 3] ŋi₆ 3-am₃ um-ta-zal-la-ta
+#lem: ud[sun]; n; ŋi[night]; n; zal[pass time]
+#tr.en: After three days and three nights had passed, 
+#etcsl: line-id=173
+
+174. sukkal-a-ni {d}nin-šubur-ra-ke₄
+#lem: sukkal[secretary]; Ninšubur[1]DN
+#tr.en: her minister @wDN{Ninšubur} @vart[t141.v6,t141.v6]{@varn{2 mss. add 2 lines:}, her minister who speaks fair words, her escort who speaks trustworthy words, } @varh[t141.v7]{carried  
+#etcsl: line-id=174
+
+@variants
+
+#etcsl#ms 2 mss. add 2 lines:
+174A. sukkal inim sag₉-sag₉-ga-ni
+#lem: sukkal[secretary]; inim[word]; sag[good]
+#tr.en: out the instructions of her mistress } @vart[t141.v8,t141.v7]{@varn{1 ms. has instead 2 lines:} did not forget her orders, she did not neglect her instructions }. 
+#etcsl: line-id=174A
+
+174B. ra-gaba inim ge-en-ge-en-na-ni
+#lem: ragaba[rider]; inim[word]; gin[confirm]
+#etcsl: line-id=174B
+
+@endvariants
+@variants
+
+175. inim nin-a-na-še₃ ŋeštug₂ ba-ši-in-gub
+#lem: inim[word]; nin[lady]; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=175
+
+@variant
+
+#etcsl#ms 1 ms. has instead 2 lines:
+175A. [na] degₓ(RI)-[ga]-ni šu nu-bar-re
+#lem: na[cvne]; deg[gather up]; šu[hand]; bar[place outside]
+#etcsl: line-id=175A
+
+175B. [inim] dug₄-ga-ni gu₂-ni la-ba-ši-šub
+#lem: inim[word]; dug[speak]; gu[neck]; šub[fall]
+#etcsl: line-id=175B
+
+@endvariants
+176. er₂ du₆-du₆-dam mu-un-na-ŋa₂-ŋa₂
+#lem: er[tears]; dud[(ruin) mound]; ŋar[put]
+#tr.en: She made a lament for her in her ruined (houses). She beat the drum for her in the sanctuaries. 
+#etcsl: line-id=176
+
+177. [šem₃] gu₂-en-na mu-un-du₁₂-a
+#lem: šem[drum]; guʾen[assembly room]; du[play (a musical instrument)]
+#tr.en: She made the rounds of the houses of the gods for her. 
+#etcsl: line-id=177
+
+178. e₂ diŋir-re-e-ne-ke₄ mu-un-na-niŋin₂-niŋin₂
+#lem: e[house]; diŋir[deity]; niŋin[encircle]
+#tr.en: She lacerated her eyes for her, she lacerated her nose. 
+#etcsl: line-id=178
+
+179. igi-ni mu-un-[na]-hur giri₁₇-ni mu-un-hur
+#lem: igi[eye]; hur[scratch]; kiri[nose]; !hur[scratch]
+#tr.en: In private she lacerated her buttocks for her. Like a pauper, 
+#etcsl: line-id=179
+
+180. ki lu₂-da nu-<<u₆>>-di haš₄-gal-a-ni mu-un-na-hur
+#lem: ki[place]; lu[person]; di[speak]; hašgal[thigh]; !hur[scratch]
+#tr.en: she clothed herself in a single garment, 
+#etcsl: line-id=180
+
+181. %e mu-lu %s nu-tuku-gin₇ tug₂ dili-a im#-[ma]-an-mur₁₀
+#lem: mulu[person]N; tuku[acquire]; tug[textile]; dili[single]; mur[dress]
+#tr.en: and all alone she set her foot in the @wTN{E-kur}, 
+#etcsl: line-id=181
+
+182. [e₂-kur] e₂ {d}en-lil₂-la₂-še₃ ŋiri₃-ni dili mu-un-gub
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN; ŋiri[foot]; dili[single]; gub[stand]
+#tr.en: the house of @wDN{Enlil}. 
+#etcsl: line-id=182
+
+183. [e₂-kur] e₂ {d}en-lil₂-la₂-še₃ ku₄-ku₄-da-ni-ta
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN; kur[enter]
+#tr.en: When she had entered the @wTN{E-kur}, the house of @wDN{Enlil}, 
+#etcsl: line-id=183
+
+184. [igi] {[d]}[en-lil₂-la₂]-še₃ er₂ im-ma-še₈-še₈
+#lem: igi[eye]; Enlil[1]DN; er[tears]; šeš[weep]
+#tr.en: she lamented before @wDN{Enlil}: @q[Nincubur,Enlil]{“Father @wDN{Enlil}, 
+#etcsl: line-id=184
+
+185. [a-a] %e {[d]}[mu-ul-lil₂] %e du₅-mu-zu mu-lu %s kur-ra nam-ba-da-an-gam-e
+#lem: aya[father]; Mullil[]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let anyone kill your daughter in the underworld. 
+#etcsl: line-id=185
+
+186. [kug] sag₉-ga-zu [sahar kur]-ra#-ka nam-ba-[da-ab-šar₂]-e
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=186
+
+187. {[na₄]}[za-gin₃] sag₉-ga-zu za zadim-ka nam-[ba-da-an]-si-il-si-il
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=187
+
+188. {[ŋiš]}[taškarin-zu] ŋiš nagar-ra-ka nam-ba-[dar]-dar#-re
+#lem: taškarin[box tree]; ŋeš[tree]; nagar[carpenter]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=188
+
+189. [ki-sikil] %e {d#}ga-ša-an-na %s kur-ra nam-ba-da-[an]-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”} 
+#etcsl: line-id=189
+
+190. [a-a] {[d]}en-lil₂ lipiš bal-a-ni {d}nin-šubur-ra-ke₄ mu-na-ni-ib-gi₄-gi₄
+#lem: aya[father]; Enlil[1]DN; lipiš[inner body]; bala[turn]; Ninšubur[1]DN; gi[turn]
+#tr.en: In his rage Father @wDN{Enlil} answered @wDN{Ninšubur}: @q[Enlil,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
+#etcsl: line-id=190
+
+191. [dumu-ŋu₁₀] an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+#lem: dumu[child]; an[sky]; gal[big]; al[cvne]; dug[speak]; ki[place]; gal[big]; al[cvne]; dug[speak]
+#tr.en: @wDN{Inana} craved the great heaven and she craved the great below as well. 
+#etcsl: line-id=191
+
+192. {[d]}[inana] an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+#lem: Inanak[1]DN; an[sky]; gal[big]; al[cvne]; dug[speak]; ki[place]; gal[big]; al[cvne]; dug[speak]
+#tr.en: The divine powers of the underworld are divine powers which should not be craved, 
+#etcsl: line-id=192
+
+193. me kur-ra me al nu-di-da sa₂ bi₂-in-dug₄-[ga-bi kur]-re# he₂-eb-us₂
+#lem: me[Being]; kur[mountain(s)]; me[Being]; al[cvne]; di[speak]; sa[equal]; dug[speak]; kur[mountain(s)]; us[accompany]
+#tr.en: for whoever gets them must remain in the underworld. 
+#etcsl: line-id=193
+
+194. a-ba-am₃ ki-bi sa₂ in-na-an-dug₄ [ed₃-de₃] al mu-ni-in-dug₄
+#lem: aba[who?]; ki[place]; sa[equal]; dug[speak]; ed[go up]; al[cvne]; dug[speak]
+#tr.en: Who, having got to that place, could then expect to come up again?”} 
+#etcsl: line-id=194
+
+195. a-a {d}en-lil₂ inim-bi nu-mu-na-gub urim₂{ki}-[še₃] ba-ŋen
+#lem: aya[father]; Enlil[1]DN; inim[word]; gub[stand]; Urim[1]SN; ŋen[go]
+#tr.en: Thus Father @wDN{Enlil} did not help in this matter, so she went to @wSN{Urim}. 
+#etcsl: line-id=195
+
+196. urim₂{ki} [e₂-mud]-kur-ra-ka
+#lem: Urim[1]SN; Emudkurak[1]TN
+#tr.en: In the @wTN{E-mud-kura} at @wSN{Urim}, when she had entered the @wTN{E-kiš-nu-ŋal}, 
+#etcsl: line-id=196
+
+197. e₂-kiš-nu-ŋal₂ [e₂] {[d]}[nanna-še₃ ku₄-ku₄-da-ni]-ta
+#lem: Ekišnuŋal[1]TN; e[house]; Nanna[1]DN; kur[enter]
+#tr.en: the house of @wDN{Nanna}, she lamented before @wDN{Nanna}: 
+#etcsl: line-id=197
+
+198. igi {d}nanna-še₃ er₂ [im-ma]-še₈-še₈
+#lem: igi[eye]; Nanna[1]DN; er[tears]; šeš[weep]
+#tr.en: @q[Nincubur,Nanna]{“Father @wDN{Nanna}, 
+#etcsl: line-id=198
+
+199. a-a {d}nanna %e du₅-mu-zu mu-lu %s kur-ra nam-[ba]-da-an-gam-e
+#lem: aya[father]; Nanna[1]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let your daughter be killed in the underworld. 
+#etcsl: line-id=199
+
+200. kug sag₉-ga-zu sahar kur-ra-ka nam-ba-[da-ab]-šar₂-re
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=200
+
+201. {na₄}za-gin₃ sag₉-ga-zu za zadim-ka nam-ba-[da-an]-si-il-si-il-i
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=201
+
+202. {ŋiš}taškarin-zu ŋiš nagar-ra-ka [nam-ba]-da-[an-dar-dar]-re
+#lem: taškarin[box tree]; ŋeš[tree]; nagar[carpenter]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=202
+
+203. ki-sikil %e {d}ga-ša-an-na %s kur-ra nam-ba-da-[an]-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”} 
+#etcsl: line-id=203
+
+204. a-a {d}nanna lipiš bal-a-ni {[d]}[nin-šubur-ra-ke₄ mu-na-ni]-ib-gi₄-gi₄
+#lem: aya[father]; Nanna[1]DN; lipiš[inner body]; bala[turn]; Ninšubur[1]DN; gi[turn]
+#tr.en: In his rage Father @wDN{Nanna} answered @wDN{Ninšubur}: @q[Nanna,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
+#etcsl: line-id=204
+
+205. dumu-ŋu₁₀ an gal al bi₂-in-dug₄ [ki gal] al bi₂-in-dug₄
+#lem: dumu[child]; an[sky]; gal[big]; al[cvne]; dug[speak]; ki[place]; gal[big]; al[cvne]; dug[speak]
+#tr.en: @wDN{Inana} craved the great heaven and she craved the great below as well. 
+#etcsl: line-id=205
+
+206. {d}inana an gal al bi₂-in-dug₄ [ki gal] al [bi₂]-in-dug₄
+#lem: Inanak[1]DN; an[sky]; gal[big]; al[cvne]; dug[speak]; ki[place]; gal[big]; al[cvne]; dug[speak]
+#tr.en: The divine powers of the underworld are divine powers which should not be craved, 
+#etcsl: line-id=206
+
+207. me kur-ra me al nu-di-da sa₂# [bi₂-in-dug₄-ga-bi kur]-re# he₂-eb-us₂
+#lem: me[Being]; kur[mountain(s)]; me[Being]; al[cvne]; di[speak]; sa[equal]; dug[speak]; kur[mountain(s)]; us[accompany]
+#tr.en: for whoever gets them must remain in the underworld. 
+#etcsl: line-id=207
+
+208. a-ba-am₃ ki-bi [sa₂ in-na-an-dug₄ ed₃-de₃ al mu-ni-ib-dug₄]
+#lem: aba[who?]; ki[place]; sa[equal]; dug[speak]; ed[go up]; al[cvne]; dug[speak]
+#tr.en: Who, having got to that place, could then expect to come up again?”} 
+#etcsl: line-id=208
+
+209. a-a {d}nanna inim-bi nu-mu#-[na-gub %e uru₂-ze₂-eb]{[ki]}-[še₃] %s ba#-ŋen
+#lem: aya[father]; Nanna[1]DN; inim[word]; gub[stand]; Uruzeb[1]SN; ŋen[go]
+#tr.en: Thus Father @wDN{Nanna} did not help her in this matter, so she went to @wSN{Eridug}. 
+#etcsl: line-id=209
+
+210. %e uru₂-ze₂-eb{ki} %s e₂ {d}en-ki-ka₃-še₃ [ku₄-ku₄]-da-ni-ta
+#lem: Uruzeb[1]SN; e[house]; Enkik[1]DN; kur[enter]
+#tr.en: In @wSN{Eridug}, when she had entered the house of @wDN{Enki}, she lamented before @wDN{Enki}: 
+#etcsl: line-id=210
+
+211. igi {d}en-ki-ka₃-še₃ [er₂ im]-ma#-še₈-še₈
+#lem: igi[eye]; Enkik[1]DN; er[tears]; šeš[weep]
+#tr.en: @q[Nincubur,Enki]{“Father @wDN{Enki}, 
+#etcsl: line-id=211
+
+212. a-a {d}en-ki %e du₅-mu-zu mu-lu %s [kur-ra nam-ba]-da#-an-gam-e
+#lem: aya[father]; Enkik[1]DN; dumu[child]N; mulu[person]N; kur[mountain(s)]; gurum[bend]
+#tr.en: don't let anyone kill your daughter in the underworld. 
+#etcsl: line-id=212
+
+213. kug sag₉-ga-zu sahar kur-ra-ka nam-[ba-da-ab-šar₂]-re
+#lem: kug[metal]; sag[good]; sahar[soil]; kur[mountain(s)]; šar[mix]
+#tr.en: Don't let your precious metal be alloyed there with the dirt of the underworld. 
+#etcsl: line-id=213
+
+214. {na₄}za-gin₃ sag₉-ga-zu za zadim-ka nam-ba-da-an-[si-il-si]-il-i
+#lem: zagin[lapis lazuli]; sag[good]; za[bead]; zadim[stone-cutter]; sil[split]
+#tr.en: Don't let your precious lapis lazuli be split there with the mason's stone. 
+#etcsl: line-id=214
+
+215. {ŋiš}taškarin-zu ŋiš nagar-ra-ka nam-ba-an-dar-dar-re
+#lem: taškarin[box tree]; ŋeš[tree]; nagar[carpenter]; dar[split]
+#tr.en: Don't let your boxwood be chopped up there with the carpenter's wood. 
+#etcsl: line-id=215
+
+216. ki-sikil %e {d}ga-ša-an-na %s kur-ra nam-ba-da-an-gam-e
+#lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; gurum[bend]
+#tr.en: Don't let young lady @wDN{Inana} be killed in the underworld.”} 
+#etcsl: line-id=216
+
+217. a-a {d}en-ki {d}nin-šubur-ra-ke₄ mu-un-na-ni-ib-gi₄-gi₄
+#lem: aya[father]; Enkik[1]DN; Ninšubur[1]DN; gi[turn]
+#tr.en: Father @wDN{Enki} answered @wDN{Ninšubur}: @q[Enki,Nincubur]{“What has my daughter done? She has me worried. 
+#etcsl: line-id=217
+
+218. dumu-ŋu₁₀ a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+#lem: dumu[child]; ana[what?]; ak[do]; ŋaʾe[I]; kušu[tired]
+#tr.en: What has @wDN{Inana} done? She has me worried. What has the mistress of all the lands done? 
+#etcsl: line-id=218
+
+219. {d}inana [a-na] bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+#lem: Inanak[1]DN; ana[what?]; ak[do]; ŋaʾe[I]; kušu[tired]
+#tr.en: She has me worried. 
+#etcsl: line-id=219
+
+220. nin kur-kur-ra#-[ke₄] a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+#lem: nin[lady]; kur[mountain(s)]; ana[what?]; ak[do]; ŋaʾe[I]; kušu[tired]
+#tr.en: What has the mistress of heaven done? 
+#etcsl: line-id=220
+
+221. nu-u₈-gig# an#-na-ke₄ a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+#lem: nugig[priestess]; an[sky]; ana[what?]; ak[do]; ŋaʾe[I]; kušu[tired]
+#tr.en: She has me worried.”} 
+#etcsl: line-id=221
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+221A. a-a {d}en-ki inim-bi ba-e-de₃-gub
+#lem: aya[father]; Enkik[1]DN; inim[word]; gub[stand]
+#tr.en: @vart[t141.v9,t141.v9]{@varn{1 ms. adds 1 line:} Thus Father @wDN{Enki} helped her in this matter. } He removed some dirt from the tip of his fingernail and created the @fsux{kur-ŋara}. 
+#etcsl: line-id=221A
+
+@endvariants
+222. umbin-si-ni mu-dur₇ ba-ra-an-de₆ kur-ŋar-ra-aš ba-an-dim₂
+#lem: umbinsi[finger nail]; mudur[dirt]; de[carry]; kurŋara[performer]N; dim[create]
+#tr.en: He removed some dirt from the tip of his other fingernail and created the @fsux{gala-tura}. 
+#etcsl: line-id=222
+
+223. umbin-si 2-kam-ma mu-dur₇ ba-ra-an-de₆ gala-tur-ra-aš ba-an-dim₂
+#lem: umbinsi[finger nail]; n; mudur[dirt]; de[carry]; galatura[cultic performer]; dim[create]
+#tr.en: To the @fsux{kur-ŋara} he gave the life-giving plant. 
+#etcsl: line-id=223
+
+224. kur-ŋar-ra u₂ nam-til₃-la ba-an-šum₂
+#lem: kurŋara[cultic performer]; u[plant(s)]; namtil[life]; šum[give]
+#tr.en: To the @fsux{gala-tura} he gave the life-giving water. 
+#etcsl: line-id=224
+
+225. gala-tur-ra a nam-til₃-la ba-an-šum₂
+#lem: galatura[cultic performer]; a[water]; namtil[life]; šum[give]
+#etcsl: line-id=225
+
+@variants
+
+226. [a-a] {d}en-ki gala-tur-ra kur-ŋar-ra gu₃ mu-na-[de₂-e]
+#lem: aya[father]; Enkik[1]DN; galatura[cultic performer]; kurŋara[cultic performer]; gu[voice]; de[pour]
+#tr.en: @varh[t141.v10]{Then Father @wDN{Enki} spoke out to the @fsux{gala-tura} and the @fsux{kur-ŋara}: 
+#etcsl: line-id=226
+
+@variant
+
+#etcsl#ms 1 ms. has instead the line:
+226A. 1-am₃ u₂ nam-til₃-la 1-am₃ a nam-til₃-la ugu-ni-a šub-ba-ab-ze₂-en
+#lem: n; u[plant(s)]; namtil[life]; n; a[water]; namtil[life]; ugu[skull]; šub[fall]
+#tr.en: } @q[Enki,]{“ @vart[t141.v11,t141.v10]{@varn{1 ms. has instead the line:} One of you sprinkle the life-giving plant over her, and the other the life-giving water. } Go and direct your steps to the underworld. 
+#etcsl: line-id=226A
+
+@endvariants
+227. ŋen-na-an-ze₂-en ŋiri₃ kur-še₃ nu₂-ba-an-ze₂-en
+#lem: ŋen[go]; ŋiri[foot]; kur[mountain(s)]; nud[lie down]
+#tr.en: Flit past the door like flies. Slip through the door pivots like phantoms. 
+#etcsl: line-id=227
+
+228. {ŋiš}ig nim-gin₇ dal-dal-e-de₃-en-ze₂-en
+#lem: ig[door]; nim[fly]; dal[fly]
+#tr.en: The mother who gave birth, @wDN{Ereškigala}, 
+#etcsl: line-id=228
+
+229. za-ra lil₂-gin₇ gur-gur-re-de₃-en-ze₂-en
+#lem: zara[(door) pivot]; lil[ghost]; gur[turn]
+#tr.en: on account of her children, 
+#etcsl: line-id=229
+
+230. ama gan-e nam dumu-ne-ne-še₃
+#lem: ama[mother]; gan[child-bearing]; nam[fate]; dumu[child]
+#tr.en: is lying there. 
+#etcsl: line-id=230
+
+231. {d}ereš-ki-gal-la-ke₄ i-nu₂-nu₂-ra-am₃
+#lem: Ereškigalak[1]DN; nud[lie down]
+#tr.en: Her holy shoulders are not covered by a linen cloth. 
+#etcsl: line-id=231
+
+232. mur kug-ga-na gada nu-um-bur₂
+#lem: murgu[shoulder]; kug[pure]; gada[flax]; bur[spread out]
+#tr.en: Her breasts are not full like a @fsux{šagan} vessel. 
+#etcsl: line-id=232
+
+233. gaba-ni bur šaŋan-gin₇ nu-um-gid₂
+#lem: gaba[breast]; bur[(stone) bowl]; šaŋan[flask]; gid[long]
+#tr.en: Her nails are like a pickaxe (?) upon her. 
+#etcsl: line-id=233
+
+234. šu#-si-ni {urud}lub-bi-gin₇ am₃-da-ŋal₂
+#lem: šusi[finger]; lubi[an ax]; ŋal[⟦be⟧ to be (there]
+#tr.en: The hair on her head is bunched up as if it were leeks.”} 
+#etcsl: line-id=234
+
+235. siki-ni ga-raš{sar}-gin₇ saŋ-ŋa₂-na mu-un-ur₄-ur₄-re
+#lem: siki[hair]; garaš[leek]; saŋ[head]; ur[gather]
+#etcsl: line-id=235
+
+236. u-u₈-a šag₄-ŋu₁₀ dug₄-ga-ni
+#lem: ua[oh!]; šag[heart]; dug[speak]
+#tr.en: @q{“When she says @q[Ereckigala,]{“Oh my heart”}, you are to say @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, 
+#etcsl: line-id=236
+
+237. kuš₂-u₃-me-en nin-me a šag₄-zu [dug₄]-ga-<zu>-ne-[ne]
+#lem: kušu[tired]; nin[lady]; aya[cry]; šag[heart]; dug[speak]
+#tr.en: our mistress, oh your heart”}. When she says @q[Ereckigala,]{“Oh my body”}, 
+#etcsl: line-id=237
+
+238. [u-u₈]-a bar-ŋu₁₀ dug₄-ga-ni
+#lem: ua[oh!]; bar[outside]; dug[speak]
+#tr.en: you are to say @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, 
+#etcsl: line-id=238
+
+239. kuš₂-u₃-me-en nin-me a bar-zu [dug₄]-ga-<zu>-ne-[ne]
+#lem: kušu[tired]; nin[lady]; aya[cry]; bar[outside]; dug[speak]
+#tr.en: oh your body”}. @q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
+#etcsl: line-id=239
+
+240. a-ba-am₃ za-e-me-en-ze₂-en
+#lem: aba[who?]; menzen[you (plural)]
+#tr.en: Speaking to you from my heart to your heart, 
+#etcsl: line-id=240
+
+241. šag₄-ŋu₁₀-[ta] šag₄-zu-še₃ bar-ŋu₁₀-ta bar-<zu>-še₃ dug₄-ga-na-ab-ze₂-en
+#lem: šag[heart]; šag[heart]; bar[outside]; bar[outside]; dug[speak]
+#tr.en: from my body to your body -- if you are gods, 
+#etcsl: line-id=241
+
+242. diŋir he₂-me-en-ze₂-en inim ga-mu-ra-an-dug₄
+#lem: diŋir[deity]; me[be]; inim[word]; dug[speak]
+#tr.en: let me talk with you; if you are mortals, 
+#etcsl: line-id=242
+
+243. lu₂-ulu₃ he₂-me-en-ze₂-en nam-zu-ne he₂-eb-tar-re
+#lem: lulu[man]; me[be]; nam[fate]; tar[cut]
+#tr.en: may a destiny be decreed for you.”} 
+#etcsl: line-id=243
+
+244. zi an-na zi ki-a pad₃-de₃-ne-ze₂-na-am₃
+#lem: zi[life]; an[sky]; zi[life]; ki[place]; pad[find]
+#tr.en: Make her swear this by heaven and earth. 
+#etcsl: line-id=244
+
+245. ed₃-[...]-ab-ze₂-en
+#lem: ed[go up]
+#etcsl: line-id=245
+
+246. a id₂-bi ma-ra-ba-e-ne šu nam-[ba]-gid₂-i-en-ze₂-en
+#lem: a[water]; id[river]; ba[allot]; šu[hand]; gid[long]
+#tr.en: @q{“They will offer you a riverful of water -- don't accept it. 
+#etcsl: line-id=246
+
+247. a-šag₄ še-ba ma-ra-ba-e-ne šu nam-ba-gid₂-i-en-ze₂-en
+#lem: ašag[field]; še[barley]; ba[allot]; šu[hand]; gid[long]
+#tr.en: They will offer you a field with its grain -- don't accept it. 
+#etcsl: line-id=247
+
+248. uzu niŋ₂ sag₃-ga {ŋiš}gag-ta la₂ šum₂-me-ab (1:dug₄-ga-na-ab-ze₂-en:1)
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gag[nail]; la[hang]; šum[give]; dug[speak]
+#tr.en: But say to her: @q[kur-jara, gala-tura,Ereckigala]{“Give us the corpse hanging on the hook.”} 
+#etcsl: line-id=248
+
+:248v.1.1: ($1 ms. has instead:$) dug₄-ga-ma-ab-ŋen-ze₂-en
+#lem: dug[speak]
+
+249. uzu niŋ₂ sag₃-ga %e ga-ša-an-<zu>-ne-ne
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gašan[lady]N
+#tr.en: @q[Ereckigala,kur-jara, gala-tura]{“That is the corpse of your queen.”} 
+#etcsl: line-id=249
+
+250. niŋ₂ lugal-me <<en>>-he₂-a niŋ₂ nin-me!(BI) he₂-a šum₂-ma-ze₂-en dug₄-ga-na!(MA)-ab-<<ŋen>>-ze₂-en
+#lem: niŋ[thing]; lugal[king]; me[be]; niŋ[thing]; nin[lady]; me[be]; šum[give]; dug[speak]
+#tr.en: Say to her: @q[kur-jara, gala-tura,Ereckigala]{“Whether it is that of our king, whether it is that of our queen, give it to us.”} 
+#etcsl: line-id=250
+
+251. uzu niŋ₂ sag₃-ga {ŋiš}gag-ta la₂-a im-ma-da-ab-šum₂-mu-ze₂-en
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gag[nail]; la[hang]; šum[give]
+#tr.en: She will give you the corpse hanging on the hook. 
+#etcsl: line-id=251
+
+252. 1-am₃ u₂ nam-til₃-la 1-am₃ a nam-til₃-la ugu-na šub-bu-de₃-en-ze₂-en
+#lem: n; u[plant(s)]; namtil[life]; n; a[water]; namtil[life]; ugu[skull]; šub[fall]
+#tr.en: One of you sprinkle on it the life-giving plant and the other the life-giving water. 
+#etcsl: line-id=252
+
+253. {d}inana ha-ba-gub
+#lem: Inanak[1]DN; gub[stand]
+#tr.en: Thus let @wDN{Inana} arise.”} 
+#etcsl: line-id=253
+
+254. gala-tur kur-ŋar-ra inim {d}en-ki-ka₃-še₃ saŋ keše₂ ba-[ši-in]-ak-eš
+#lem: galatura[cultic performer]; kurŋara[cultic performer]; inim[word]; Enkik[1]DN; saŋ[head]; kešed[bind]; ak[do]
+#tr.en: The @fsux{gala-tura} and the @fsux{kur-ŋara} paid attention to the instructions of @wDN{Enki}. 
+#etcsl: line-id=254
+
+255. {ŋiš}ig nim-gin₇ mu-un-dal-dal
+#lem: ig[door]; nim[fly]; dal[fly]
+#tr.en: They flitted through the door like flies. 
+#etcsl: line-id=255
+
+256. za-ra lil₂-gin₇ mu-un-gur-gur
+#lem: zara[(door) pivot]; lil[ghost]; gur[turn]
+#tr.en: They slipped through the door pivots like phantoms. 
+#etcsl: line-id=256
+
+257. [ama gan-e] nam dumu-ne-ne-še₃
+#lem: ama[mother]; gan[child-bearing]; nam[fate]; dumu[child]
+#tr.en: The mother who gave birth, @wDN{Ereškigala}, because of her children, 
+#etcsl: line-id=257
+
+258. {[d]}[ereš-ki]-gal-la-ke₄ i-nu₂-nu₂-ra-am₃
+#lem: Ereškigalak[1]DN; nud[lie down]
+#tr.en: was lying there. 
+#etcsl: line-id=258
+
+259. [mur] kug-[ga]-na gada nu-un-bur₂
+#lem: murgu[shoulder]; kug[pure]; gada[flax]; bur[spread out]
+#tr.en: Her holy shoulders were not covered by a linen cloth. 
+#etcsl: line-id=259
+
+260. [gaba-ni] bur šaŋan-na nu-un-gid₂
+#lem: gaba[breast]; bur[(stone) bowl]; šaŋan[flask]; gid[long]
+#tr.en: Her breasts were not full like a @fsux{šagan} vessel. 
+#etcsl: line-id=260
+
+261. [šu-si]-ni {urud}lub-bi-gin₇ an#-[da-ŋal₂]
+#lem: šusi[finger]; lubi[an ax]; ŋal[⟦be⟧ to be (there]
+#tr.en: Her nails were like a pickaxe (?) upon her. 
+#etcsl: line-id=261
+
+262. [siki]-ni ga-raš{sar}-gin₇ saŋ-[ŋa₂-na mu-un-ur₄-ur₄]
+#lem: siki[hair]; garaš[leek]; saŋ[head]; ur[gather]
+#tr.en: The hair on her head was bunched up as if it were leeks. 
+#etcsl: line-id=262
+
+263. [u₃-u₈-a] šag₄#-ŋu₁₀ dug₄-ga-ni
+#lem: ua[oh!]; šag[heart]; dug[speak]
+#tr.en: When she said @q[Ereckigala,]{“Oh my heart”}, they said to her @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, 
+#etcsl: line-id=263
+
+264. [kuš₂-u₃-me]-en nin-me a šag₄-zu in-na-[ne]-eš
+#lem: kušu[tired]; nin[lady]; aya[cry]; šag[heart]; e[speak]
+#tr.en: our mistress, oh your heart”}. When she said @q[Ereckigala,]{“Oh my body”}, 
+#etcsl: line-id=264
+
+265. [u₃-u₈-a] bar-ŋu₁₀ dug₄-ga-ni
+#lem: ua[oh!]; bar[outside]; dug[speak]
+#tr.en: they said to her @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, 
+#etcsl: line-id=265
+
+266. [kuš₂-u₃-me]-en nin-me a bar-zu in-na-ne-eš
+#lem: kušu[tired]; nin[lady]; aya[cry]; bar[outside]; e[speak]
+#tr.en: oh your body”}. @q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
+#etcsl: line-id=266
+
+267. [a-ba-am₃] za-e-me-en-ze₂-en
+#lem: aba[who?]; menzen[you (plural)]
+#tr.en: I tell you from my heart to your heart, 
+#etcsl: line-id=267
+
+268. [šag₄-ŋu₁₀-ta] šag₄-zu-še₃ bar-ŋu₁₀-ta bar-zu-še₃ ba-e-de₃-en-ze₂-en
+#lem: šag[heart]; šag[heart]; bar[outside]; bar[outside]; e[speak]
+#tr.en: from my body to your body -- if you are gods, 
+#etcsl: line-id=268
+
+269. [diŋir he₂-me-en]-ze₂-en inim ga-mu-ra-an-dug₄
+#lem: diŋir[deity]; me[be]; inim[word]; dug[speak]
+#tr.en: I will talk with you; if you are mortals, 
+#etcsl: line-id=269
+
+270. [lu₂-ulu₃ he₂-me]-en#-ze₂-en nam-zu-ne ga-mu-ri-ib-tar
+#lem: lulu[man]; me[be]; nam[fate]; tar[cut]
+#tr.en: may a destiny be decreed for you.”} 
+#etcsl: line-id=270
+
+271. [zi an-na zi ki-a] mu-ni-in-pad₃-de₃-eš
+#lem: zi[life]; an[sky]; zi[life]; ki[place]; pad[find]
+#tr.en: They made her swear this by heaven and earth. 
+#etcsl: line-id=271
+
+272. [...]-ed₃#-de₃-de₃-eš
+#lem: ed[go up]
+#tr.en: They ……. 
+#etcsl: line-id=272
+
+273. id₂ a-ba mu-ne-ba-e šu nu-um-ma-gid₂-de₃
+#lem: id[river]; a[water]; ba[allot]; šu[hand]; gid[long]
+#tr.en: They were offered a river with its water -- they did not accept it. 
+#etcsl: line-id=273
+
+274. a-šag₄ še-ba mu-ne-ba-e šu nu-um-ma-gid₂-de₃
+#lem: ašag[field]; še[barley]; ba[allot]; šu[hand]; gid[long]
+#tr.en: They were offered a field with its grain -- they did not accept it. 
+#etcsl: line-id=274
+
+275. uzu niŋ₂ sag₃-ga {ŋiš}gag-ta la₂ šum₂-me-eb in-na-an-ne-eš
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gag[nail]; la[hang]; šum[give]; e[speak]
+#tr.en: They said to her: @q[kur-jara, gala-tura,Ereckigala]{“Give us the corpse hanging on the hook.”} 
+#etcsl: line-id=275
+
+276. kug {d}ereš-ki-gal-la-ke₄ gala#-[tur kur-ŋar-ra] mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Ereškigalak[1]DN; galatura[cultic performer]; kurŋara[cultic performer]; gi[turn]
+#tr.en: Holy @wDN{Ereškigala} answered the @fsux{gala-tura} and the @fsux{kur-ŋara}: @q[Ereckigala,kur-jara, gala-tura]{“The corpse is that of your queen.”} 
+#etcsl: line-id=276
+
+277. uzu (1:niŋ₂:1) sag₃-ga (2:niŋ₂:2) %e ga-ša-an-zu-ne-ne-kam
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; niŋ[thing]; gašan[lady]N
+#tr.en: They said to her: 
+#etcsl: line-id=277
+
+:277v.1.1: ($1 ms. has instead:$) %e aŋ₂
+#lem: aŋ[thing]
+:277v.2.1: ($1 ms. has instead:$) %e aŋ₂
+#lem: aŋ[thing]
+
+278. [niŋ₂] lugal#-me (1:niŋ₂:1) nin-me he₂-a šum₂-me-eb in-na-an-ne-eš
+#lem: niŋ[thing]; lugal[king]; niŋ[thing]; nin[lady]; me[be]; šum[give]; e[speak]
+#tr.en: @q[kur-jara, gala-tura,Ereckigala]{“Whether it is that of our king or that of our queen, 
+#etcsl: line-id=278
+
+:278v.1.1: ($1 ms. has instead:$) %e aŋ₂
+#lem: aŋ[thing]
+
+279. uzu niŋ₂ sag₃-ga {ŋiš}gag-ta la₂ im-me-ne-šum₂-uš
+#lem: uzu[flesh]; niŋ[thing]; sag[strike]; gag[nail]; la[hang]; šum[give]
+#tr.en: give it to us.”} They were given the corpse hanging on the hook. 
+#etcsl: line-id=279
+
+280. 1-am₃ u₂ nam-til₃-la 1-am₃ a nam-til₃-la ugu-a bi₂-in-šub-bu-uš
+#lem: n; u[plant(s)]; namtil[life]; n; a[water]; namtil[life]; ugu[skull]; šub[fall]
+#tr.en: One of them sprinkled on it the life-giving plant and the other the life-giving water. 
+#etcsl: line-id=280
+
+281. {d}inana ba-gub
+#lem: Inanak[1]DN; gub[stand]
+#tr.en: And thus @wDN{Inana} arose. 
+#etcsl: line-id=281
+
+282. {d}ereš-ki-gal-la gala-<tur> kur-ŋar-ra gu₃ [mu-na-de₂]-e
+#lem: Ereškigalak[1]DN; galatura[cultic performer]; kurŋara[cultic performer]; gu[voice]; de[pour]
+#tr.en: @wDN{Ereškigala} said to the @fsux{gala-tura} and the @fsux{kur-ŋara}: @q[Ereckigala,kur-jara, gala-tura]{“Bring your queen ……, 
+#etcsl: line-id=282
+
+283. tum₂-mu-un-ze₂-en %e ga-ša-an-<zu>-ne-[ne %s ...]-zu-ne-ne ba-dab₅
+#lem: tum[bring]; gašan[lady]N; X; dab[seize]
+#tr.en: your …… has been seized.”} @wDN{Inana}, because of @wDN{Enki's} instructions, 
+#etcsl: line-id=283
+
+284. {d}inana inim {d}en-ki-[ka₃-ta] kur#-ta ed₃
+#lem: Inanak[1]DN; inim[word]; Enkik[1]DN; kur[mountain(s)]; ed[go up]
+#tr.en: was about to ascend from the underworld. 
+#etcsl: line-id=284
+
+285. {d}inana kur-ta ed₃-da-ni
+#lem: Inanak[1]DN; kur[mountain(s)]; ed[go up]
+#tr.en: But as @wDN{Inana} was about to ascend from the underworld, 
+#etcsl: line-id=285
+
+286. {d}a-nun-na-ke₄-e-ne ba-ab-ha-za-aš
+#lem: Anunak[1]DN; haza[hold]
+#tr.en: the @wDN{Anuna} seized her: @q[Anuna,]{“Who has ever ascended from the underworld, 
+#etcsl: line-id=286
+
+287. a-ba-am₃ lu₂ kur-ta im-[ta]-ed₃-de₃ kur-ta silim-ma-ni bi₂-in-ed₃-de₃
+#lem: aba[who?]; lu[person]; kur[mountain(s)]; ed[go up]; kur[mountain(s)]; silim[healthy]; ed[go up]
+#tr.en: has ascended unscathed from the underworld? 
+#etcsl: line-id=287
+
+288. ud-da {d}inana kur-ta ba-ed₃-de₃
+#lem: ud[sun]; Inanak[1]DN; kur[mountain(s)]; ed[go up]
+#tr.en: If @wDN{Inana} is to ascend from the underworld, 
+#etcsl: line-id=288
+
+289. saŋ-dili saŋ-ŋa₂-na ha-ba-ab-šum₂-mu
+#lem: saŋdili[lone]; saŋ[head]; šum[give]
+#tr.en: let her provide a substitute for herself.”} 
+#etcsl: line-id=289
+
+290. {d}inana kur-ta ba-ed₃-de₃
+#lem: Inanak[1]DN; kur[mountain(s)]; ed[go up]
+#tr.en: So when @wDN{Inana} left the underworld, the one in front of her, 
+#etcsl: line-id=290
+
+291. lu₂ igi-na sukkal nu-me-a {ŋiš}ŋidru šu bi₂-in-du₈
+#lem: lu[person]; igi[eye]; sukkal[secretary]; me[be]; ŋidru[scepter]; šu[hand]; du[spread]
+#tr.en: though not a minister, held a sceptre in his hand; the one behind her, 
+#etcsl: line-id=291
+
+292. bar-ra-na ra-gaba nu-me-a {ŋiš}tukul ur₂-ra bi₂-in-la₂
+#lem: bar[outside]; ragaba[rider]; me[be]; tukul[weapon]; ur[root]; la[hang]
+#tr.en: though not an escort, carried a mace at his hip, while the small demons, 
+#etcsl: line-id=292
+
+293. gal₅-la₂ tur-tur gi-šukur-gin₇
+#lem: galla[policeman]; tur[small]; gišukur[an enclosure]
+#tr.en: like a reed enclosure, and the big demons, like the reeds of a fence, 
+#etcsl: line-id=293
+
+294. gal₅-la₂ gal-gal gi dub-ba-an-na-gin₇ zag-ga-na ba-an-dab₅-be-eš
+#lem: galla[policeman]; gal[big]; gi[reed]; dubban[fence]; zag[side]; dab[seize]
+#tr.en: restrained her on all sides. 
+#etcsl: line-id=294
+
+295. lu₂ e-ne-ra in-ši-re₇-eš-am₃
+#lem: lu[person]; ane[he]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: Those who accompanied her, 
+#etcsl: line-id=295
+
+296. lu₂ {d}inana-ra in-ši-re₇-eš-am₃
+#lem: lu[person]; Inanak[1]DN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: those who accompanied @wDN{Inana}, 
+#etcsl: line-id=296
+
+297. u₂ nu-zu-me-eš a nu-zu-me-eš
+#lem: u[plant(s)]; zu[know]; a[water]; zu[know]
+#tr.en: know no food, 
+#etcsl: line-id=297
+
+298. zid₂ dub-dub-ba nu-gu₇-me-eš
+#lem: zid[flour]; dub[heap up]; gu[eat]
+#tr.en: know no drink, 
+#etcsl: line-id=298
+
+299. a bal-bal-a nu-na₈-na₈-me-eš
+#lem: a[water]; bala[turn]; naŋ[drink]
+#tr.en: eat no flour offering and drink no libation. 
+#etcsl: line-id=299
+
+@variants
+
+300. kadra niŋ₂ dug₃-ge šu nu-gid₂-me-eš
+#lem: kadra[greeting gift]; niŋ[thing]; dug[good]; šu[hand]; gid[long]
+#tr.en: @varh[t141.v12]{They accept no pleasant gifts. 
+#etcsl: line-id=300
+
+301. ur₂ dam niŋ₂ dug₃-ge-eš nu-sig₉-ge-me-eš
+#lem: ur[loin]; dam[spouse]; niŋ[thing]; dug[good]; sig[put into]
+#tr.en: They never enjoy the pleasures of the marital embrace, 
+#etcsl: line-id=301
+
+302. dumu niŋ₂ ku₇-ku₇-da ne nu-su-ub-ba-me-eš
+#lem: dumu[child]; niŋ[thing]; kud[sweet]; ne[cvne]; sub[rub]
+#tr.en: never have any sweet children to kiss. 
+#etcsl: line-id=302
+
+303. dam ur₂ lu₂-ka ba-ra-an-si-il-si-il-le-eš
+#lem: dam[spouse]; ur[loin]; lu[person]; sil[split]
+#tr.en: They tear away the wife from a man's embrace. 
+#etcsl: line-id=303
+
+304. dumu lu₂ du₁₀-ub-ta ba-ra-an-zig₃-ge-eš
+#lem: dumu[child]; lu[person]; dub[knee]; zig[rise]
+#tr.en: They snatch the son from a man's knee. 
+#etcsl: line-id=304
+
+305. e₂-gi₄-a e₂ ušbar-ra-ka im-ta-an-e₃-eš-am₃
+#lem: egia[bride]; e[house]; ušbar[father-in-law]; e[leave]
+#tr.en: They make the bride leave the house of her father-in-law } @vart[t141.v13,t141.v12]{@varn{instead of lines 300-305, 1 ms. has 2 lines:} They take the wife away from a man's embrace. They take away the child hanging on a wet-nurse's breasts }. @vart[t141.v14,t141.v14]{@varn{1 ms. adds 3 lines:} They crush no bitter garlic. They eat no fish, they eat no leeks. They, it was, who accompanied @wDN{Inana}. } 
+#etcsl: line-id=305
+
+@variant
+
+#etcsl#ms instead of lines 300-305, 1 ms. has 2 lines:
+300A. ur₂# lu₂-ka dam šu ti-a-me-eš
+#lem: ur[loin]; lu[person]; dam[spouse]; šu[hand]; teŋ[approach]
+#etcsl: line-id=300A
+
+301A. ubur# emeda(|UM.ME|){da} la₂-ka dumu šu ti-a-me-eš
+#lem: ubur[breast]; emeda[nursemaid]; la[hang]; dumu[child]; šu[hand]; teŋ[approach]
+#etcsl: line-id=301A
+
+@endvariants
+@variants
+
+#etcsl#ms 1 ms. adds 3 lines:
+305A. šum₂{sar} niŋ₂ sis-a nu-gum-e-me-eš
+#lem: šum[garlic]; niŋ[thing]; ses[bitter]; guz[be crushed]
+#etcsl: line-id=305A
+
+305B. lu₂ ku₆ nu-gu₇-me-eš lu₂ ga-raš{sar} nu-gu₇-[me-eš]
+#lem: lu[person]; kud[fish]; gu[eat]; lu[person]; garaš[leek]; gu[eat]
+#etcsl: line-id=305B
+
+305C. lu₂ {d}inana mu-un-ši-re₇-[eš-am₃]
+#lem: lu[person]; Inanak[1]DN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=305C
+
+@endvariants
+306. {d}inana kur-ta ed₃-da-ni
+#lem: Inanak[1]DN; kur[mountain(s)]; ed[go up]
+#tr.en: After @wDN{Inana} had ascended from the underworld, 
+#etcsl: line-id=306
+
+307. {d}nin-šubur-ra-ke₄ kan₄ ganzer-[ra-ka] ŋiri₃-ni-še₃ ba-an-šub
+#lem: Ninšubur[1]DN; kan[gate]; Ganzer[1]GN; ŋiri[foot]; šub[fall]
+#tr.en: @wDN{Ninšubur} threw herself at her feet at the door of the Ganzer. 
+#etcsl: line-id=307
+
+308. sahar-ra ba-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+#lem: sahar[soil]; tuš[sit (down)]; tugmudura[mourning garment]; mur[dress]
+#tr.en: She had sat in the dust and clothed herself in a filthy garment. 
+#etcsl: line-id=308
+
+309. gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-un-na-de₂-e
+#lem: galla[policeman]; kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: The demons said to holy @wDN{Inana}: @q[demons,Inana]{“@wDN{Inana}, proceed to your city, 
+#etcsl: line-id=309
+
+310. {d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-de₃-en
+#lem: Inanak[1]DN; iri[city]; ŋen[go]; ane[he]; tum[bring]
+#tr.en: we will take her back.”} 
+#etcsl: line-id=310
+
+311. kug {d}inana-ke₄ gal₅-la₂-e-ne mu-un-ne-ni-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; galla[policeman]; gi[turn]
+#tr.en: Holy @wDN{Inana} answered the demons: @q[Inana,demons]{“This is my minister of fair words, 
+#etcsl: line-id=311
+
+312. sukkal %e e-ne-eŋ₃ %s sag₉-sag₉-ga-ŋu₁₀
+#lem: sukkal[secretary]; eneŋ[word]N; sag[good]
+#tr.en: my escort of trustworthy words. She did not forget my instructions. 
+#etcsl: line-id=312
+
+313. ra-gaba %e e-ne-eŋ₃ %s ge-en-gen₆-na-ŋu₁₀
+#lem: ragaba[rider]; eneŋ[word]N; gin[confirm]
+#tr.en: She did not neglect the orders I gave her. 
+#etcsl: line-id=313
+
+314. [na] degₓ(RI)-ga-ŋu₁₀ šu nu-un-bar-re
+#lem: na[cvne]; deg[gather up]; šu[hand]; bar[place outside]
+#tr.en: She made a lament for me on the ruin mounds. 
+#etcsl: line-id=314
+
+315. %e [e-ne]-eŋ₃ %s ma-ra-[ab-dug₄]-ga-ŋu₁₀-uš gu₂-ni [la]-ba-da-[an-ši-šub]
+#lem: eneŋ[word]N; dug[speak]; gu[neck]; šub[fall]
+#tr.en: She beat the drum for me in the sanctuaries. 
+#etcsl: line-id=315
+
+316. er₂ du₆-du₆-dam ma-an-ŋa₂-ŋa₂
+#lem: er[tears]; dud[(ruin) mound]; ŋar[put]
+#tr.en: She made the rounds of the gods' houses for me. 
+#etcsl: line-id=316
+
+317. šem₃ gu₂-en-na ma-an-du₁₂-am₃
+#lem: šem[drum]; guʾen[assembly room]; du[play (a musical instrument)]
+#tr.en: She lacerated her eyes for me, lacerated her nose for me. 
+#etcsl: line-id=317
+
+318. e₂ diŋir-re-e-ne ma-an-niŋin₂-niŋin₂
+#lem: e[house]; diŋir[deity]; niŋin[encircle]
+#tr.en: @vart[t141.v15,t141.v15]{@varn{1 ms. adds 1 line:} She lacerated her ears for me in public. } In private, 
+#etcsl: line-id=318
+
+319. %e i-bi₂-ni %s ma-an-hur giri₁₇-ni ma-an-hur
+#lem: ibi[eye]N; hur[scratch]; kiri[nose]; !hur[scratch]
+#tr.en: she lacerated her buttocks for me. 
+#etcsl: line-id=319
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+319A. ŋeštug₂#-[ga]-ni ki u₆ di ma-hur
+#lem: ŋeštug[ear]; ki[place]; u[admiration]; di[speak]; hur[scratch]
+#tr.en: Like a pauper, 
+#etcsl: line-id=319A
+
+@endvariants
+320. ki %e mu-lu-da %s nu-di haš₄-gal-a-ni ma-an-hur
+#lem: ki[place]; mulu[person]N; di[speak]; hašgal[thigh]; hur[scratch]
+#tr.en: she clothed herself in a single garment.”} 
+#etcsl: line-id=320
+
+321. %e mu-lu %s nu-tuku-gin₇ tug₂ dili-a im-ma-an-mur₁₀
+#lem: mulu[person]N; tuku[acquire]; tug[textile]; dili[single]; mur[dress]
+#etcsl: line-id=321
+
+322. e₂-kur-re e₂  %e  {d}mu-ul-lil₂-la₂-še₃  %s 
+#lem: Ekur[1]TN; e[house]; Mullil[1]DN
+#tr.en: @q{“All alone she directed her steps to the @wTN{E-kur}, 
+#etcsl: line-id=322
+
+323. urim₂{ki}-ma e₂ {d}nanna-še₃
+#lem: Urim[1]SN; e[house]; Nanna[1]DN
+#tr.en: to the house of @wDN{Enlil}, and to @wSN{Urim}, 
+#etcsl: line-id=323
+
+324. %e uru₂-ze₂-eb{ki} %s e₂ %e {d}am-an-ki-ka₃-še₃
+#lem: Uruzeb[1]SN; e[house]; Amanki[1]DN
+#tr.en: to the house of @wDN{Nanna}, and to @wSN{Eridug}, 
+#etcsl: line-id=324
+
+325. ŋiri₃-ni dili mu-un-gub
+#lem: ŋiri[foot]; dili[single]; gub[stand]
+#tr.en: to the house of @wDN{Enki}. @vart[t141.v16,t141.v16]{@varn{1 ms. adds 1 line:} She wept before @wDN{Enki}. } She brought me back to life. 
+#etcsl: line-id=325
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+325A. igi {d}am-an-ki-ka₃ er₂ bi₂-še₈-še₈
+#lem: igi[eye]; Enkik[1]DN; er[tears]; šeš[weep]
+#tr.en: How could I turn her over to you? 
+#etcsl: line-id=325A
+
+@endvariants
+326. e-ne %e ma-a-ra %s mu-un-til₃-le-en
+#lem: ane[he]; meʾe[I]IP; til[live (of a single person)]
+#tr.en: Let us go on. 
+#etcsl: line-id=326
+
+327. e-ne %e ta-gin₇ nam-ma-ra-ab-ze₂-eŋ₃-en#-[ze₂-en]
+#lem: ane[he]; anagin[how?]; zeŋ[give]V/t
+#tr.en: Let us go on to the @wTN{Šeg-kuršaga} in @wSN{Umma}.”} 
+#etcsl: line-id=327
+
+328. ga-an-ši-re₇-de₃-en umma{ki}-a šeg₁₂-kur-šag₄-ga-še₃ ga-am₃-ši-re₇-de₃-en
+#lem: ere[go (perfect plural stem of ŋen⟦to go⟧)]; Umma[1]SN; Šegkuršagak[1]TN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=328
+
+329. umma#{[ki]}-[a] šeg₁₂-kur-šag₄-ga-ta
+#lem: Umma[1]SN; Šegkuršagak[1]TN
+#tr.en: At the @wTN{Šeg-kuršaga} in @wSN{Umma}, @wDN{Šara}, in his own city, 
+#etcsl: line-id=329
+
+330. {d}šara iri-ni-a ŋiri₃-ni-še₃ ba-an-šub
+#lem: Šara[1]DN; iri[city]; ŋiri[foot]; šub[fall]
+#tr.en: threw himself at her feet. 
+#etcsl: line-id=330
+
+331. sahar-ra ba-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+#lem: sahar[soil]; tuš[sit (down)]; tugmudura[mourning garment]; mur[dress]
+#tr.en: He had sat in the dust and dressed himself in a filthy garment. 
+#etcsl: line-id=331
+
+332. gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-na-de₂-e
+#lem: galla[policeman]; kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: The demons said to holy @wDN{Inana}: @q[demons,Inana]{“@wDN{Inana}, proceed to your city, 
+#etcsl: line-id=332
+
+333. {d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-de₃
+#lem: Inanak[1]DN; iri[city]; ŋen[go]; ane[he]; tum[bring]
+#tr.en: we will take him back.”} 
+#etcsl: line-id=333
+
+334. kug {d}inana-ke₄ gal₅-la₂-e-ne mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; galla[policeman]; gi[turn]
+#tr.en: Holy @wDN{Inana} answered the demons: @q[Inana,demons]{“@wDN{Šara} is my singer, 
+#etcsl: line-id=334
+
+335. en₃-du du# {d}šara-ŋu₁₀
+#lem: endu[song]; ŋen[go]; Šara[1]DN
+#tr.en: my manicurist and my hairdresser. 
+#etcsl: line-id=335
+
+336. umbin kud-ku₅-ra-ŋu₁₀ gu₂-tar la₂-ŋu₁₀
+#lem: umbin[finger]; kud[cut]; guhaš[nape of the neck]; la[hang]
+#tr.en: How could I turn him over to you? 
+#etcsl: line-id=336
+
+337. en₃ %e ta-gin₇ nam-ma-ra-ni-ib-ze₂-eŋ₃-ŋen
+#lem: ane[he]; anagin[how?]; zeŋ[give]V/t
+#tr.en: Let us go on. 
+#etcsl: line-id=337
+
+338. ga-e-re₇-en-de₃-en bad₃-tibira{ki}-a e₂-muš₃-kalam-ma-še₃ ga-an-ši-re₇-en-de₃-en
+#lem: ere[go (perfect plural stem of ŋen⟦to go⟧)]; Badtibira[1]SN; Emuškalamak[1]TN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: Let us go on to the @wTN{E-muš-kalama} in @wSN{Bad-tibira}.”} 
+#etcsl: line-id=338
+
+339. bad₃-tibira{ki}-a e₂-muš₃-kalam-ma-ta
+#lem: Badtibira[1]SN; Emuškalamak[1]TN
+#tr.en: At the @wTN{E-muš-kalama} in @wSN{Bad-tibira}, @wDN{Lulal}, in his own city, 
+#etcsl: line-id=339
+
+340. {d}lu₂-lal₃-e iri-ni-a ŋiri₃-ni-še₃ ba-an-šub
+#lem: Lulal[1]DN; iri[city]; ŋiri[foot]; šub[fall]
+#tr.en: threw himself at her feet. 
+#etcsl: line-id=340
+
+341. sahar-a im-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+#lem: sahar[soil]; tuš[sit (down)]; tugmudura[mourning garment]; mur[dress]
+#tr.en: He had sat in the dust and clothed himself in a filthy garment. 
+#etcsl: line-id=341
+
+342. gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-na-de₂-e
+#lem: galla[policeman]; kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: The demons said to holy @wDN{Inana}: @q[demons,Inana]{“@wDN{Inana}, proceed to your city, 
+#etcsl: line-id=342
+
+343. {d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-un-de₃-en
+#lem: Inanak[1]DN; iri[city]; ŋen[go]; ane[he]; tum[bring]
+#tr.en: we will take him back.”} 
+#etcsl: line-id=343
+
+344. kug {d}inana-ke₄ gal₅-la₂-e-ne mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; galla[policeman]; gi[turn]
+#tr.en: Holy @wDN{Inana} answered the demons: 
+#etcsl: line-id=344
+
+345. {d}lu₂-lal₃ zag e₃-a a₂ zid-da gab₂-bu-ŋu₁₀ us₂-sa
+#lem: Lulal[1]DN; zag[side]; e[leave]; a[arm]; zid[right]; gab[left (hand)]; us[accompany]
+#tr.en: @q[Inana,demons]{“Outstanding @wDN{Lulal} follows me at my right and my left. 
+#etcsl: line-id=345
+
+346. e-ne %e ta-gin₇ nam-ma-ra-ab-ze₂-eŋ₃-en-ze₂-en
+#lem: ane[he]; anagin[how?]; zeŋ[give]V/t
+#tr.en: How could I turn him over to you? Let us go on. 
+#etcsl: line-id=346
+
+347. ga-e-re₇-de₃-en {ŋiš}hašhur gul-la edin kul-aba₄{ki}-še₃ [ga-an-ši-re₇-en-de₃-en]
+#lem: ere[go (perfect plural stem of ŋen⟦to go⟧)]; hašhur[apple (tree)]; gul[destroy]; eden[back]; Kulaba[1]SN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: Let us go on to the great apple tree in the plain of @wSN{Kulaba}.”} 
+#etcsl: line-id=347
+
+348. {ŋiš}hašhur gul-la edin kul-aba₄{ki}-še₃ ŋiri₃-ni-še₃ ba-e-re₇{re}-eš
+#lem: hašhur[apple (tree)]; gul[destroy]; eden[back]; Kulaba[1]SN; ŋiri[foot]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: They followed her to the great apple tree in the plain of @wSN{Kulaba}. 
+#etcsl: line-id=348
+
+349. {d}dumu-zid tug₂ mah-a i-im-mur₁₀ mah-a dur₂-a dur₂ im-ma-ŋar
+#lem: Dumuzid[1]DN; tug[textile]; mah[great]; mur[dress]; mah[great]; dur[buttocks]; dur[buttocks]; ŋar[put]
+#tr.en: There was @wDN{Dumuzid} clothed in a magnificent garment and seated magnificently on a throne. 
+#etcsl: line-id=349
+
+350. gal₅-la₂-e-ne haš₄-a-na i-im-dab₅-be₂-eš
+#lem: galla[policeman]; haš[thigh]; dab[seize]
+#tr.en: The demons seized him there by his thighs. 
+#etcsl: line-id=350
+
+351. {dug}šakir 7-e ga mu-un-de₂-eš-am₃
+#lem: šakir[churn]; n; ga[milk]; de[pour]
+#tr.en: The seven of them poured the milk from his churns. 
+#etcsl: line-id=351
+
+352. 7-am₃ X-TU-ra-gin₇ saŋ mu-un-da-sag₃-ge-ne
+#lem: n; X; saŋ[head]; sag[strike]
+#tr.en: The seven of them shook their heads like ……. 
+#etcsl: line-id=352
+
+353. sipad-de₃ gi-gid₂ gi-di-da igi-ni šu nu#-mu-un-tag-ge-ne
+#lem: sipad[shepherd]; gigid[reed or tree]; gidid[musical instrument]; igi[eye]; šu[hand]; tag[touch]
+#tr.en: They would not let the shepherd play the pipe and flute before her (?). 
+#etcsl: line-id=353
+
+354. igi mu-un-ši-in-bar igi uš₂-a-ka
+#lem: igi[eye]; bar[place outside]; igi[eye]; uš[die]
+#tr.en: She looked at him, it was the look of death. 
+#etcsl: line-id=354
+
+355. inim i-ne-ne inim lipiš gig-ga
+#lem: inim[word]; e[speak]; inim[word]; lipiš[inner body]; gig[sick]
+#tr.en: She spoke to him (?), it was the speech of anger. 
+#etcsl: line-id=355
+
+356. gu₃ i-ne-de₂ gu₃ nam-tag-tag-ga
+#lem: gu[voice]; de[pour]; gu[voice]; namtaga[sin]
+#tr.en: She shouted at him (?), it was the shout of heavy guilt: 
+#etcsl: line-id=356
+
+357. en₃-še₃ tum₃-mu-an-ze₂-en
+#lem: enše[how long]; tum[bring]
+#tr.en: @q[Inana,demons]{“How much longer? Take him away.”} 
+#etcsl: line-id=357
+
+358. kug {d}inana-ke₄ %e su₈-ba %s {d}dumu-zid-da šu-ne-ne-a in-na-šum₂
+#lem: kug[purify]; Inanak[1]DN; subad[shepherd]N; Dumuzid[1]DN; šu[hand]; šum[give]
+#tr.en: Holy @wDN{Inana} gave @wDN{Dumuzid} the shepherd into their hands. 
+#etcsl: line-id=358
+
+359. lu₂ e-ne lu₂ mu-un-ne-re₇-eš-am₃
+#lem: lu[person]; ane[he]; lu[person]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: Those who had accompanied her, who had come for @wDN{Dumuzid}, 
+#etcsl: line-id=359
+
+360. lu₂ {d}dumu-zid mu-un-ši-re₇-eš-am₃
+#lem: lu[person]; Dumuzid[1]DN; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: know no food, 
+#etcsl: line-id=360
+
+361. u₂ nu-zu-me-eš a nu-zu-me-eš
+#lem: u[plant(s)]; zu[know]; a[water]; zu[know]
+#tr.en: know no drink, 
+#etcsl: line-id=361
+
+362. zid₂ dub-dub-ba nu-gu₇-me-eš
+#lem: zid[flour]; dub[heap up]; gu[eat]
+#tr.en: eat no flour offering, 
+#etcsl: line-id=362
+
+363. a bal-bal-a nu-na₈-na₈-me-eš
+#lem: a[water]; bala[turn]; naŋ[drink]
+#tr.en: drink no libation. 
+#etcsl: line-id=363
+
+364. ur₂ dam niŋ₂ dug₃-ge-eš₂ nu-sig₉-ge-eš
+#lem: ur[loin]; dam[spouse]; niŋ[thing]; dug[good]; sig[put into]
+#tr.en: They never enjoy the pleasures of the marital embrace, 
+#etcsl: line-id=364
+
+365. dumu niŋ₂ ku₇-ku₇-da ne nu-su-ub-me-eš
+#lem: dumu[child]; niŋ[thing]; kud[sweet]; ne[cvne]; sub[rub]
+#tr.en: never have any sweet children to kiss. 
+#etcsl: line-id=365
+
+366. dumu lu₂ du₁₀-ub-ta ba-ra-an-zig₃-ge-eš
+#lem: dumu[child]; lu[person]; dub[knee]; zig[rise]
+#tr.en: They snatch the son from a man's knee. 
+#etcsl: line-id=366
+
+367. e₂-gi₄-a e₂ ušbar-ra-ka um-ta-an-e₃-eš
+#lem: egia[bride]; e[house]; ušbar[father-in-law]; e[leave]
+#tr.en: They make the bride leave the house of her father-in-law. 
+#etcsl: line-id=367
+
+368. {d}dumu-zid-de₃ er₂ im-da-pad₃ šeₓ(SIG₇)-šeₓ(SIG₇) i₃-ŋa₂-ŋa₂
+#lem: Dumuzid[1]DN; er[tears]; pad[find]; še[tear]; ŋar[put]
+#tr.en: @wDN{Dumuzid} let out a wail and wept. The lad raised his hands to heaven, 
+#etcsl: line-id=368
+
+369. ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-an-na-zig₃
+#lem: ŋuruš[young adult male]; Utu[1]DN; an[sky]; šu[hand]; zig[rise]
+#tr.en: to @wDN{Utu}: @q[Dumuzid,Utu]{“@wDN{Utu}, you are my brother-in-law. 
+#etcsl: line-id=369
+
+370. {d}utu murum₅-ŋu₁₀-me-en ŋe₂₆-e mussa-zu-me-en
+#lem: Utu[1]DN; murum[member of the wife's family]; ŋaʾe[I]; mussa[son-in-law]
+#tr.en: I am your relation by marriage. 
+#etcsl: line-id=370
+
+371. e₂ ama-zu-še₃ i₃ gur₃-ru-me-en
+#lem: e[house]; ama[mother]; i[oil]; gur[lift]
+#tr.en: I brought butter to your mother's house. 
+#etcsl: line-id=371
+
+372. e₂ {d}nin-gal-še₃ ga gur₃-ru-me-en
+#lem: e[house]; Ningal[1]DN; ga[milk]; gur[lift]
+#tr.en: I brought milk to @wDN{Ningal's} house. 
+#etcsl: line-id=372
+
+373. šu-ŋu₁₀ šu muš-a u₃-mu-ni-in-šum₂
+#lem: šu[hand]; šu[hand]; muš[snake]; šum[give]
+#tr.en: Turn my hands into snake's hands and turn my feet into snake's feet, 
+#etcsl: line-id=373
+
+374. ŋiri₃-ŋu₁₀ ŋiri₃ muš-a u₃-mu-ni-in-šum₂
+#lem: ŋiri[foot]; ŋiri[foot]; muš[snake]; šum[give]
+#tr.en: so I can escape my demons, 
+#etcsl: line-id=374
+
+375. gal₅-la₂-ŋu₁₀ ga-ba-da-kar nam-mu-un-ha-za-ne
+#lem: galla[policeman]; kar[flee]; haza[hold]
+#tr.en: let them not keep hold of me.”} 
+#etcsl: line-id=375
+
+376. {[d]}[utu er₂-na] šu ba-an-ši-in-ti
+#lem: Utu[1]DN; er[tears]; šu[hand]; teŋ[approach]
+#tr.en: @wDN{Utu} accepted his tears. 
+#etcsl: line-id=376
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+376A. [gal₅-la₂-e-ne] nu-ha-[ha-ne]
+#lem: galla[policeman]; haza[hold]
+#tr.en: @vart[t141.v17,t141.v17]{@varn{1 ms. adds 1 line:} @wDN{Dumuzid's} demons could not keep hold of him. } @wDN{Utu} turned @wDN{Dumuzid's} hands into snake's hands. 
+#etcsl: line-id=376A
+
+@endvariants
+377. [šu-ni šu] muš-a mu-e-ni-šum₂
+#lem: šu[hand]; šu[hand]; muš[snake]; šum[give]
+#tr.en: He turned his feet into snake's feet. 
+#etcsl: line-id=377
+
+378. [ŋiri₃-ni] ŋiri₃ muš-a mu-e-ni-šum₂
+#lem: ŋiri[foot]; ŋiri[foot]; muš[snake]; šum[give]
+#tr.en: @wDN{Dumuzid} escaped his demons. 
+#etcsl: line-id=378
+
+379. [gal₅-la₂]-e-ne ba-ni-kar
+#lem: galla[policeman]; kar[flee]
+#tr.en: @vart[t141.v18,t141.v18]{@varn{1 ms. adds 1 line:} Like a @fsux{saŋkal} snake he ……. } They seized ……. 
+#etcsl: line-id=379
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+379A. [... muš]-saŋ-kal 1-gin₇
+#lem: X; mušsaŋkal[snake]; n
+#tr.en: Holy @wDN{Inana} …… her heart. 
+#etcsl: line-id=379A
+
+@endvariants
+380. [... ba-ni]-in-dab₅-be₂-eš-a
+#lem: X; dab[seize]
+#etcsl: line-id=380
+
+381. [...]-be₂#
+#lem: X
+#etcsl: line-id=381
+
+382. [...]-eš#
+#lem: X
+#etcsl: line-id=382
+
+383. kug {d}inana-ke₄# [...]-ni šag₄-ga-ni nam-DU
+#lem: kug[purify]; Inanak[1]DN; X; šag[heart]; X
+#etcsl: line-id=383
+
+384. kug {d}inana-ke₄ %e mu-ud-na-ni %s er₂ gig i₃-še₈-še₈
+#lem: kug[purify]; Inanak[1]DN; mudna[spouse]N; er[tears]; gig[sick]; šeš[weep]
+#tr.en: Holy @wDN{Inana} wept bitterly for her husband. 
+#etcsl: line-id=384
+
+385. [kug] {[d]}[inana-ke₄ ...] {[d]}dumu-zid-de₃# X šag₄-ga-ni nam-[DU] X
+#lem: kug[purify]; Inanak[1]DN; X; Dumuzid[1]DN; X; šag[heart]; X; X
+#tr.en: She tore at her hair like esparto grass, she ripped it out like esparto grass. 
+#etcsl: line-id=385
+
+386. [...] dam-ni X X a₂-na [...]
+#lem: X; dam[spouse]; X; X; a[arm]; X
+#tr.en: @q[Inana,]{“You wives who lie in your men's embrace, where is my precious husband? 
+#etcsl: line-id=386
+
+387. [...] NI X X X [...]
+#lem: X; X; X; X; X; X
+#tr.en: You children who lie in your men's embrace, where is my precious child? 
+#etcsl: line-id=387
+
+388. [...]-gin₇ im-mi-[...] im#-mi-X-[...]
+#lem: X; X; X
+#tr.en: Where is my man? Where ……? Where is my man? 
+#etcsl: line-id=388
+
+389. {u₂}numun₂ i₃-bur₁₂-re {u₂}numun₂ i₃-ze₂-e
+#lem: numun[alfalfa grass]; bur[tear out]; numun[alfalfa grass]; zir[tear out]
+#tr.en: Where ……?”} 
+#etcsl: line-id=389
+
+390. dam lu₂ ur₂-zu-ne-ne [nu₂]-a me dam kal-la-ŋu₁₀
+#lem: dam[spouse]; lu[person]; ur[root]; nud[lie down]; me[Being]; dam[spouse]; kal[rare]
+#etcsl: line-id=390
+
+391. dumu lu₂ ur₂-zu-ne-ne nu₂-a me dumu kal-la-ŋu₁₀
+#lem: dumu[child]; lu[person]; ur[root]; nud[lie down]; me[Being]; dumu[child]; kal[rare]
+#etcsl: line-id=391
+
+392. [me-am₃ %e mu-lu]-ŋu₁₀# %s me-am₃ mu-un-|KA×X|-e
+#lem: mea[where?]; mulu[person]N; mea[where?]; X
+#etcsl: line-id=392
+
+393. [me-am₃ %e mu-lu]-ŋu₁₀# %s me-am₃ mu-un-TAG-TAG X-e
+#lem: mea[where?]; mulu[person]N; mea[where?]; X; X
+#etcsl: line-id=393
+
+394. [nim-e kug] {d}inana-ra gu₃ mu-na#-de₂-e
+#lem: nim[fly]; kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: A fly spoke to holy @wDN{Inana}: 
+#etcsl: line-id=394
+
+395. [ŋe₂₆-e ki] lu₂#-zu ga-mu-re-[pad₃] a-na-am₃ niŋ₂-ba-ŋu₁₀-um
+#lem: ŋaʾe[I]; ki[place]; lu[person]; pad[find]; ana[what?]; niŋba[gift]
+#tr.en: @q[fly,Inana]{“If I show you where your man is, 
+#etcsl: line-id=395
+
+396. [kug] {[d]}[inana]-ke₄ nim-e mu-na-ni-ib-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; nim[fly]; gi[turn]
+#tr.en: what will be my reward?”} Holy @wDN{Inana} answered the fly: 
+#etcsl: line-id=396
+
+397. [za-e ki %e mu-lu-ŋu₁₀] %s ba-ab-pad₃-de₃-en niŋ₂-ba a-ra-ba-e
+#lem: zaʾe[you]; ki[place]; mulu[person]N; pad[find]; niŋba[gift]; ba[allot]
+#tr.en: @q[Inana,fly]{“If you show me where my man is, 
+#etcsl: line-id=397
+
+398. [...] ga#-mu-un-dul-dul
+#lem: X; dul[cover]
+#tr.en: I will give you this gift: I will cover …….”} 
+#etcsl: line-id=398
+
+399. nim-e kug# {d}inana-ke₄ im-ma-an-[...]
+#lem: nim[fly]; kug[purify]; Inanak[1]DN; X
+#tr.en: The fly helped (?) holy @wDN{Inana}. Young lady @wDN{Inana} decreed the destiny of the fly: 
+#etcsl: line-id=399
+
+400. ki-sikil {d}inana-ke₄ nim-e nam mu-ni-ib₂#-tar-re
+#lem: kisikil[young woman]; Inanak[1]DN; nim[fly]; nam[fate]; tar[cut]
+#tr.en: @q[Inana,fly]{“In the beer-house, 
+#etcsl: line-id=400
+
+401. e₂ kaš-a-ka# zabar ŊIRI₃ naŋ-a-ke₄ hu-mu-ra-[X X]-a-ze₂-X
+#lem: e[house]; kaš[beer]; zabar[bronze]; X; naŋ[drink]; X; zir[tear out]
+#tr.en: may …… bronze vessels …… for you. 
+#etcsl: line-id=401
+
+402. %e du₅-mu %s lu₂# kug-zu-ke₄-ne-gin₇ nam X [...]
+#lem: dumu[child]N; lu[person]; kugzu[wise]; nam[fate]; X; X
+#tr.en: You will live (?) like the sons of the wise.”} 
+#etcsl: line-id=402
+
+403. [i₃-ne-eš₂ nam]-tar-ra {d}inana-ke₄ ur₅ he₂-en#-na-[nam-ma-am₃]
+#lem: ineš[now]; namtar[fate]; Inanak[1]DN; ur[that]; me[be]
+#tr.en: Now @wDN{Inana} decreed this fate and thus it came to be. 
+#etcsl: line-id=403
+
+404. [...] er₂ im-še₈#-še₈
+#lem: X; er[tears]; šeš[weep]
+#tr.en: …… was weeping. 
+#etcsl: line-id=404
+
+405. nin₉ im-ma-ŋen šu-še₃ mu-da-ab-si
+#lem: nin[sister]; ŋen[go]; šu[hand]; si[fill]
+#tr.en: She came up to the sister (?) and …… by the hand: 
+#etcsl: line-id=405
+
+406. i₃-ne-eš₂ me-le-e-a X X-ŋu₁₀#
+#lem: ineš[now]; meliʾeʾa[an exclamation]; X; X
+#tr.en: @q[Inana,]{“Now, alas, my ……. 
+#etcsl: line-id=406
+
+407. za-e# mu MAŠ-am₃ nin₉-zu mu MAŠ-am₃
+#lem: zaʾe[you]; mu[year]; n; nin[sister]; mu[year]; n
+#tr.en: You for half the year and your sister for half the year: 
+#etcsl: line-id=407
+
+408. ud za-e al di-di-e ud-bi he₂-tuš-[e]
+#lem: ud[sun]; zaʾe[you]; al[cvne]; di[speak]; ud[sun]; tuš[sit (down)]
+#tr.en: when you are demanded, on that day you will stay, 
+#etcsl: line-id=408
+
+409. ud nin₉-zu al di-di-e ud-bi he₂-bur₂-[e]
+#lem: ud[sun]; nin[sister]; al[cvne]; di[speak]; ud[sun]; bur[spread out]
+#tr.en: when your sister is demanded, on that day you will be released.”} 
+#etcsl: line-id=409
+
+410. kug {d}inana-ke₄ {d}dumu-zid saŋ-bi-še₃ X X bi₂-in-šum₂-šum₂#-[mu]
+#lem: kug[purify]; Inanak[1]DN; Dumuzid[1]DN; saŋ[head]; X; X; šum[give]
+#tr.en: Thus holy @wDN{Inana} gave @wDN{Dumuzid} as a substitute ……. 
+#etcsl: line-id=410
+
+411. kug {d}ereš-ki-gal-la-ke₄
+#lem: kug[purify]; Ereškigalak[1]DN
+#tr.en: @wDN{Holy Ereškigala} --  
+#etcsl: line-id=411
+
+412. za₃-mi₂-zu dug₃-ga-am₃
+#lem: zamin[praise]; dug[good]
+#tr.en: sweet is your praise. 
+#etcsl: line-id=412
+
+
+
+
+
+
+

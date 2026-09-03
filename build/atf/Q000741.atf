@@ -1,0 +1,472 @@
+&Q000741 = A hymn to Šul-pa-e (Šul-pa-e A)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.31.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.31.1&display=Crit&charenc=gcirc#
+
+@div version 1 (Version A)
+
+1.1. ur-saŋ %e uru₂-bad₃-da %s iti₇-gin₇! e₃-a
+#lem: ursaŋ[warrior]; urubad[city]; itud[moon]; e[leave]
+#tr.en: Hero, who shines forth like moonlight over the upper city! 
+#etcsl: line-id=1.1
+
+1.2. ur-saŋ {d}šul-pa-e₃ iri-bad₃-da <iti₇-gin₇ e₃-a>
+#lem: ursaŋ[warrior]; Šulpae[1]DN; iribad[the upper part of a city]; itud[moon]; e[leave]
+#tr.en: Hero @wDN{Šul-pa-e}, who shines forth like moonlight over the upper city! 
+#etcsl: line-id=1.2
+
+1.3. alim-ma mu tuku {d}šul-pa-e₃ %e uru₂-bad₃-da %s <iti₇-gin₇ e₃-a>
+#lem: alim[bison]; mu[name]; tuku[acquire]; Šulpae[1]DN; urubad[city]; itud[moon]; e[leave]
+#tr.en: Eminent and famous @wDN{Šul-pa-e}, who shines forth like moonlight over the upper city! 
+#etcsl: line-id=1.3
+
+1.4. lugal me gal-gal diŋir pa e₃-a
+#lem: lugal[king]; me[Being]; gal[big]; diŋir[deity]; pa[branch]; e[leave]
+#tr.en: Lord of great divine powers, god who appears in glory, 
+#etcsl: line-id=1.4
+
+1.5. {d}šul-pa-e₃ me gal-gal diŋir pa e₃-a
+#lem: Šulpae[1]DN; me[Being]; gal[big]; diŋir[deity]; pa[branch]; e[leave]
+#tr.en: @wDN{Šul-pa-e}, of great divine powers, 
+#etcsl: line-id=1.5
+
+1.6. nir-ŋal₂ me₃-a u₂-šim kalam-ma sud-sud
+#lem: nirŋal[authoritative]; me[battle]; ušim[greenery]; kalam[the Land (of Sumer)]; sud[distant]
+#tr.en: god who appears in glory, lordly in battle, 
+#etcsl: line-id=1.6
+
+1.7. en a₂ mah il₂-il₂-i ŋiš gaz gu₂-erim₂ ra
+#lem: en[lord]; a[arm]; mah[great]; il[raise]; ŋeš[wood]; gaz[kill]; guʾerim[hostile]; rah[beat]
+#tr.en: who makes vegetation grow tall in the Land! Lord who raises his great arms, 
+#etcsl: line-id=1.7
+
+1.8. mu-us₂-a gu₂-tuku a-a {d}en-lil₂-la₂
+#lem: us[accompany]; gutuku[perfect]; aya[father]; Enlil[1]DN
+#tr.en: battle-club that smashes all enemies! Pre-eminent brother-in-law of Father @wDN{Enlil}, 
+#etcsl: line-id=1.8
+
+1.9. šul zid {d}en-lil₂-la₂ mu mah-zu mu-un-pad₃
+#lem: šul[youth]; zid[right]; Enlil[1]DN; mu[name]; mah[great]; pad[find]
+#tr.en: good youth! @wDN{Enlil} has named your august name. 
+#etcsl: line-id=1.9
+
+1.10. nir-ŋal₂ {ŋiš}tukul-a lipiš me₃-a
+#lem: nirŋal[authoritative]; tukul[weapon]; lipiš[inner body]; me[battle]
+#tr.en: Lordly with weapons in the thick of battle! Owner of the rebel lands, 
+#etcsl: line-id=1.10
+
+1.11. lu₂ ki-bal-a-ke₄ nir-ŋal₂ ki-bal-a
+#lem: lu[person]; kibala[rebel land]; nirŋal[authoritative]; kibala[rebel land]
+#tr.en: lordly in the rebel lands, my king, you are an august god! 
+#etcsl: line-id=1.11
+
+1.12. lugal-ŋu₁₀ za-e %e dim₃-me-er %s mah-me-en
+#lem: lugal[king]; zaʾe[you]; dimmer[deity]N; mah[great]
+#tr.en: You are an august god, and your wife is an august queen. 
+#etcsl: line-id=1.12
+
+1.13. za-e %e dim₃-me-er %s mah-me-en dam-zu %e ga!-ša!-an! %s mah-me-en
+#lem: zaʾe[you]; dimmer[deity]N; mah[great]; dam[spouse]; gašan[lady]N; mah[great]
+#tr.en: You are beloved by @wDN{Ninḫursaŋa}. 
+#etcsl: line-id=1.13
+
+#etcsl#text Text U₃-MU-UN for ga-ša-an
+
+1.14. {d}nin-hur#-saŋ-ŋa₂-ke₄ ki aŋ₂-ŋa₂-ni za-e-me-en
+#lem: Ninhursaŋak[1]DN; ki[place]; aŋ[measure]; zaʾe[you]
+#tr.en: You are a hero before whom the gods are very fearful. 
+#etcsl: line-id=1.14
+
+1.15. ur-saŋ# ni₂ gal diŋir-re-e-ne-me-en
+#lem: ursaŋ[warrior]; ni[fear]; gal[big]; diŋir[deity]
+#tr.en: Hero @wDN{Šul-pa-e}, lordly in heaven and on earth, my ……, 
+#etcsl: line-id=1.15
+
+1.16. ur-saŋ# {d}šul-pa-e₃-a an ki-a nir-ŋal₂
+#lem: ursaŋ[warrior]; Šulpae[1]DN; an[sky]; ki[place]; nirŋal[authoritative]
+#tr.en: may your name be truly called upon in all the foreign lands! 
+#etcsl: line-id=1.16
+
+1.17. [...] X-ŋu₁₀ mu-zu kur-kur-ra zid-de₃-eš he₂-pad₃-de₃
+#lem: X; X; mu[name]; kur[mountain(s)]; zid[right]; pad[find]
+#tr.en: My king, 
+#etcsl: line-id=1.17
+
+1.18. lugal#-ŋu₁₀ nam-mah-zu kur-kur-ra zid-de₃-eš he₂-pad₃-de₃
+#lem: lugal[king]; nammah[greatness]; kur[mountain(s)]; zid[right]; pad[find]
+#tr.en: may your greatness be truly called upon in all the foreign lands! 
+#etcsl: line-id=1.18
+
+1.19. [...] X mah-a a-ŋi₆ zig₃-ga u₁₈-lu lu₂-ra te-a
+#lem: X; X; mah[great]; aŋi[wave]; zig[rise]; ulu[south wind]; lu[person]; teŋ[approach]
+#tr.en: August ……, rising flood, storm which approaches mankind! 
+#etcsl: line-id=1.19
+
+1.20. [nam]-lu₂#-ulu₃ mušen ni₂ te-a-gin₇ šudu₃-da mu-ši-ib-ra-an
+#lem: namlulu[humanity]; mušen[bird]; ni[fear]; teŋ[approach]; šud[prayer]; rah[beat]
+#tr.en: People tremble (?) in prayer before you like frightened birds. 
+#etcsl: line-id=1.20
+
+1.21. [...] X zig₃-ga ni₂ ri-a šu# nu#-ra-ab-la₂-e
+#lem: X; X; zig[rise]; ni[fear]; ri[impose]; šu[hand]; la[hang]
+#tr.en: Rising ……, imbued with awesomeness, no one …… you. 
+#etcsl: line-id=1.21
+
+1.22. ni₂# gur₃-ru su zig₃ gur₃-ru ni₂ gal mu-da-ri
+#lem: ni[fear]; gur[lift]; su[flesh]; zig[rise]; gur[lift]; ni[fear]; gal[big]; ri[impose]
+#tr.en: Of terrifying appearance, endowed with fearsome splendour, you are imbued with great awesomeness. 
+#etcsl: line-id=1.22
+
+1.23. [u₄]-ta#-u₁₈-lu lu₂-ra te-a-me-en
+#lem: Utaʾulu[1]; lu[person]; teŋ[approach]
+#tr.en: You are a hurricane that approaches mankind, 
+#etcsl: line-id=1.23
+
+1.24. [...] mah# lu₂-še₃ ur₃-ur₃-ra-me-en
+#lem: X; mah[great]; lu[person]; ur[drag]
+#tr.en: a great …… that sweeps men down, 
+#etcsl: line-id=1.24
+
+1.25. [X X] X lu₂-še₃ bar-bar-ra-me-en
+#lem: X; X; X; lu[person]; bar[place outside]
+#tr.en: …… that …… mankind! 
+#etcsl: line-id=1.25
+
+1.26. [...]-gin₇ kur-ra gana₂ gid₂-gid₂
+#lem: X; kur[mountain(s)]; gana[field]; gid[long]
+#tr.en: In the mountains you measure the fields like a ……. 
+#etcsl: line-id=1.26
+
+1.27. [... an]-ta# šu bar-ra gaba-šu-ŋar nu-tuku
+#lem: X; an[sky]; šu[hand]; bar[place outside]; gabašuŋar[rival]; tuku[acquire]
+#tr.en: …… emitted from heaven, without compare, ……, 
+#etcsl: line-id=1.27
+
+1.28. [...] X ud kur-ra e₃-a
+#lem: X; X; ud[sun]; kur[mountain(s)]; e[leave]
+#tr.en: who brings daylight to the mountains, ……, 
+#etcsl: line-id=1.28
+
+1.29. [...] X ud dug₄-ga du₇-du₇
+#lem: X; X; ud[sun]; dug[speak]; du[push]
+#tr.en: battering ……, ……, 
+#etcsl: line-id=1.29
+
+1.30. [X X] UN MAŠ-a-gin₇ nim ŋir₂-ŋir₂-re
+#lem: X; X; X; X; nim[lightning]; ŋir[flash]
+#tr.en: who flashes like lightning. 
+#etcsl: line-id=1.30
+
+1.31. MI-E₂-A{mušen}-a zi ir lu₂-ra šub-bu
+#lem: MI.E₂.A[bird]; zi[life]; ir[cvve]; lu[person]; šub[fall]
+#tr.en: Falling upon mankind like a …… bird of grief, 
+#etcsl: line-id=1.31
+
+1.32. nam-tar šu nu-tuku ŋiri₃ nu-tuku lu₂ ŋi₆-a tum₂-mu
+#lem: Namtar[1]DN; šu[hand]; tuku[acquire]; ŋiri[foot]; tuku[acquire]; lu[person]; ŋi[night]; tum[suitable]
+#tr.en: a @fsux{namtar} demon with no hands or feet, suited (?) to the night, 
+#etcsl: line-id=1.32
+
+1.33. nam-tar-e-gin₇ ŋi₆-a du-du ZI-LAL₃-gin₇ dim₂-e
+#lem: Namtar[1]DN; ŋi[night]; ŋen[go]; X; dim[create]
+#tr.en: prowling at night like a @fsux{namtar} demon, ……, 
+#etcsl: line-id=1.33
+
+1.34. pu₂-kiri₆ mu₂-sar ŋiš-gi sig₇-ga
+#lem: pukiri[irrigated orchard]; musar[garden]; ŋešgi[thicket]; sissig[green-yellow]
+#tr.en: shaped like a …… -- you, hero @wDN{Šul-pa-e}, are the lord of orchards and gardens, 
+#etcsl: line-id=1.34
+
+1.35. niŋ₂-ur₂-limmu₂ an-edin daŋal-la
+#lem: niŋurlimmu[four legged creature]; aneden[the high steppe]; daŋal[wide]
+#tr.en: plantations and green reedbeds, of the quadrupeds of the wide high desert, 
+#etcsl: line-id=1.35
+
+1.36. maš₂-anše niŋ₂-zi-ŋal₂ edin-na
+#lem: mašanše[animals]; niŋziŋal[living creature]; eden[back]
+#tr.en: of the animals, the living creatures of the plains. @wDN{An}, 
+#etcsl: line-id=1.36
+
+1.37. ur-saŋ {d}šul-pa-e₃ za-e lugal-bi-me-en
+#lem: ursaŋ[warrior]; Šulpae[1]DN; zaʾe[you]; lugal[king]
+#tr.en: king of the gods, has put them in your hands; 
+#etcsl: line-id=1.37
+
+1.38. an lugal diŋir-re-e-ne-ke₄ šu-za im-ma-an-šum₂
+#lem: An[1]DN; lugal[king]; diŋir[deity]; šu[hand]; šum[give]
+#tr.en: he has put them in your hands, and you are their lord. 
+#etcsl: line-id=1.38
+
+1.39. [šu-za] im-ma-an-šum₂ za-e lugal-bi-me-en
+#lem: šu[hand]; šum[give]; zaʾe[you]; lugal[king]
+#tr.en: Hero @wDN{Šul-pa-e}, 
+#etcsl: line-id=1.39
+
+1.40. ur-saŋ {d}šul-pa-e₃-a šu-zu la-ba-ra-e₃
+#lem: ursaŋ[warrior]; Šulpae[1]DN; šu[hand]; e[leave]
+#tr.en: they cannot escape your clutches. 
+#etcsl: line-id=1.40
+
+1.41. u₂ tuku u₂-na ba-ni-in-gu₇!
+#lem: u[plant(s)]; tuku[acquire]; u[plant(s)]; gu[eat]
+#tr.en: It is his food that anyone who has food eats; it is his water that anyone who has water drinks. 
+#etcsl: line-id=1.41
+
+1.42. a tuku a-na ba-ni-in-naŋ
+#lem: a[water]; tuku[acquire]; a[water]; naŋ[drink]
+#tr.en: And so people no longer call upon the name of their personal gods, 
+#etcsl: line-id=1.42
+
+1.43. mu diŋir-ra-na li-bi-in-pad₃-[de₃]
+#lem: mu[name]; diŋir[deity]; pad[find]
+#tr.en: but …… in every mouth the name of him who is their only god. 
+#etcsl: line-id=1.43
+
+1.44. mu diŋir-ra-ni dili-a-bi ka-ga₁₄ mi-ni-X
+#lem: mu[name]; diŋir[deity]; dili[single]; kag[mouth]; X
+#tr.en: The hand …… of his god ……. 
+#etcsl: line-id=1.44
+
+1.45. šu X X [...] diŋir-ra# [...]
+#lem: šu[hand]; X; X; X; diŋir[deity]; u
+#tr.en: He does not …… the hand, he does not …… the mouth. 
+#etcsl: line-id=1.45
+
+1.46. šu la-ba-an-X X X X-a KA la-ba-ab-X X [...]
+#lem: šu[hand]; X; X; X; X; X; X; X; X
+#tr.en: He takes away ……. 
+#etcsl: line-id=1.46
+
+1.47. [...] NA [...] X ba-an-tum₂-mu
+#lem: X; X; X; X; tum[bring]
+#tr.en: ……, 
+#etcsl: line-id=1.47
+
+1.48. [...]-na [...]-zu ma-ra-an-šum₂-mu
+#lem: X; X; šum[give]
+#tr.en: he gives you your ……. 
+#etcsl: line-id=1.48
+
+1.49. gu-za-la₂ an {d}en-lil₂-la₂-me-en
+#lem: guzala[an official]; An[1]DN; Enlil[1]DN
+#tr.en: You are the throne-bearer of @wDN{An} and @wDN{Enlil}, the fierce constable of the gods, 
+#etcsl: line-id=1.49
+
+1.50. maškim sumur diŋir-re-e-ne-me-en
+#lem: maškim[an administrator]; sumur[angry]; diŋir[deity]
+#tr.en: and the table-steward of @wDN{Enlil}. 
+#etcsl: line-id=1.50
+
+1.51. en {ŋiš}banšur-ra {d}en-lil₂-la₂-me-en
+#lem: en[lord]; banšur[table]; Enlil[1]DN
+#tr.en: You do not …… these people what you have placed. 
+#etcsl: line-id=1.51
+
+1.52. lu₂-bi niŋ₂ ŋar-ra-zu la-ba-an-gid₂-de₃-en
+#lem: lu[person]; niŋ[thing]; ŋar[put]; gid[long]
+#tr.en: He brings (?) to you ……. …… that he has handed you. 
+#etcsl: line-id=1.52
+
+1.53. [...] MI-a mu-ra-an-DU
+#lem: X; X; X
+#tr.en: ……, after you have …… from above; 
+#etcsl: line-id=1.53
+
+1.54. [...] X nim-ma! mu-ra-ab-si-a
+#lem: X; X; nim[high]; si[fill]
+#tr.en: the heavy …… cover …… like a garment. 
+#etcsl: line-id=1.54
+
+1.55. [...] X an-ta u₃-mu-X-ŋal₂
+#lem: X; X; an[sky]; ŋal[⟦be⟧ to be (there]
+#tr.en: ……, 
+#etcsl: line-id=1.55
+
+1.56. [...] dugud-da tug₂-gin₇ ši-mi-dul
+#lem: X; dugud[heavy]; tug[textile]; dul[cover]
+#tr.en: after …… has said ……, 
+#etcsl: line-id=1.56
+
+1.57. [...] X-zu mi-ni-ib-dug₄-ga-ta
+#lem: X; X; dug[speak]
+#tr.en: ……, 
+#etcsl: line-id=1.57
+
+1.58. [...] X saŋ ŋa₂-ŋa₂ a-ra-zu ma-ra-ab-be₂
+#lem: X; X; saŋ[head]; ŋar[put]; arazu[supplication]; e[speak]
+#tr.en: he addresses a prayer to you. 
+#etcsl: line-id=1.58
+
+1.59. [...] šag₄-ne-ša₄ KA-ni um-ma-ra-an-pad₃
+#lem: X; šaneša[supplication]; X; pad[find]
+#tr.en: After he has declared his …… of lament to you, 
+#etcsl: line-id=1.59
+
+1.60. [...] X ma₂-gin₇ a-ŋi₆-a-ta im-ma-ra-an-ad-DU
+#lem: X; X; ma[ship]; aŋi[wave]; X
+#tr.en: he calls (?) to you like a …… of a boat in an inundation, 
+#etcsl: line-id=1.60
+
+1.61. [...] X-ma im-ma-ra-an-zi-zi
+#lem: X; X; zig[rise]
+#tr.en: and raises …… to you. 
+#etcsl: line-id=1.61
+
+1.62. [kug]-sig₁₇#-gin₇ ba-an-dadag-ge-en
+#lem: kugsig[gold]; dadag[bright]
+#tr.en: You make him shine like gold, and polish him like bronze, 
+#etcsl: line-id=1.62
+
+1.63. [zabar]-gin₇ niŋ₂-su-ub im-ma-ak-en
+#lem: zabar[bronze]; niŋsub[polishing]; ak[do]
+#tr.en: then you restore him to the benign hands of his god. 
+#etcsl: line-id=1.63
+
+1.64. [šu sag₉]-ga# diŋir-ra-na-še₃ im-ši-in-gi₄-gi₄
+#lem: šu[hand]; sag[good]; diŋir[deity]; gi[turn]
+#tr.en: …… shining, and lifts his head proudly. 
+#etcsl: line-id=1.64
+
+1.65. [...] X mu-un-zalag gu₂ mu-un-zig₃
+#lem: X; X; zalag[bright]; gu[neck]; zig[rise]
+#tr.en: …… appears gloriously in the Land. 
+#etcsl: line-id=1.65
+
+1.66. [...] kalam#-ma dalla mu-ni-in-e₃
+#lem: X; kalam[the Land (of Sumer)]; dalla[(to be) bright]; e[leave]
+#tr.en: ……, you release …… for your beloved. 
+#etcsl: line-id=1.66
+
+1.67. [...] X-ba mu-un-zu-a-e
+#lem: X; X; zu[know]
+#tr.en: ……, you place …… for your little ones. 
+#etcsl: line-id=1.67
+
+1.68. [...] X RA mu-un-e-du₃
+#lem: X; X; X; du[build]
+#tr.en: ……, you release …… for your little ones. 
+#etcsl: line-id=1.68
+
+1.69. [...] inim#-ma-bi ma-ra-an-ŋa₂-ŋa₂
+#lem: X; inim[word]; ŋar[put]
+#tr.en: ……, 
+#etcsl: line-id=1.69
+
+1.70. [...] dug₄-ga ma-ra-an-de₂-e
+#lem: X; dug[speak]; de[pour]
+#tr.en: you release …… for your great ones. 
+#etcsl: line-id=1.70
+
+1.71. [...] X-la ma-ra-an-ŋa₂-ŋa₂
+#lem: X; X; ŋar[put]
+#tr.en: …… on the fifteenth day. 
+#etcsl: line-id=1.71
+
+1.72. [...] ki aŋ₂-zu za-e ma-ra-an-du₈-e
+#lem: X; ki[place]; aŋ[measure]; zaʾe[you]; du[spread]
+#tr.en: You are the merciful king of the foreign lands ……, 
+#etcsl: line-id=1.72
+
+1.73. [...] X di₄-di₄-la₂-zu-ne za-e ma-ra-an-ŋa₂-ŋa₂
+#lem: X; X; didila[small(er)]; zaʾe[you]; ŋar[put]
+#tr.en: looking mercifully ……. 
+#etcsl: line-id=1.73
+
+1.74. [...] X di₄-di₄-la₂-zu-ne za-e ma-ra-an-du₈-e
+#lem: X; X; didila[small(er)]; zaʾe[you]; du[spread]
+#etcsl: line-id=1.74
+
+1.75. [...] X X X za gal-gal-la-zu-ne za-e ma-ra-an-du₈-e
+#lem: X; X; X; X; zaʾe[you]; gal[big]; zaʾe[you]; du[spread]
+#etcsl: line-id=1.75
+
+1.76. [...] X X-am₃ sur-ra-zu
+#lem: X; X; X; sur[press]
+#etcsl: line-id=1.76
+
+1.77. [...] X X X X X X za-e ma-ra-an-de₂-e
+#lem: X; X; X; X; X; X; X; zaʾe[you]; de[pour]
+#etcsl: line-id=1.77
+
+1.78. [...] X X X RA ud 15-kam
+#lem: X; X; X; X; X; ud[sun]; n
+#etcsl: line-id=1.78
+
+1.79. [...] X X-ra-zu saŋ im-X X [...]
+#lem: X; X; X; saŋ[head]; X; X; X
+#etcsl: line-id=1.79
+
+1.80. [...] X X šir₃#-ra-a mu-X [...]
+#lem: X; X; X; šir[song]; X; X
+#etcsl: line-id=1.80
+
+1.81. [...] X X en₃-du-a mu#-[...]
+#lem: X; X; X; endu[song]; X
+#etcsl: line-id=1.81
+
+1.82. [...] me %e ze₂-eb-a-bi %s LA X [...]
+#lem: X; me[Being]; zeb[good]V/i; X; X; X
+#etcsl: line-id=1.82
+
+1.83. lugal# šag₄-la₂ sug₄ kur-kur-ra-me-en [...]
+#lem: lugal[king]; šala[pity]; sug[full]; kur[mountain(s)]; X
+#etcsl: line-id=1.83
+
+1.84. [šag₄]-la₂ sug₄ igi du₈-a ŋal₂ A [...]
+#lem: šala[pity]; sug[full]; igi[eye]; du[spread]; ŋal[⟦be⟧ to be (there]; X; X
+#etcsl: line-id=1.84
+
+1.85. [...] KI tur₃-ra# X [...]
+#lem: X; X; tur[animal stall]; X; X
+#etcsl: line-id=1.85
+
+@end version
+
+@div version 2 (Version B (fragment of a divergent version))
+
+$ (uknown no. of lines missing)
+2.1. [...] A
+#lem: X; X
+#tr.en: ……. like @wDN{Šul-pa-e}. 
+#etcsl: line-id=2.1
+
+2.2. [...] X
+#lem: X; X
+#tr.en: My king …… may he call your name. 
+#etcsl: line-id=2.2
+
+2.3. [...] X šag₄-ne-za-ra
+#lem: X; X; šaneša[supplication]
+#etcsl: line-id=2.3
+
+2.4. [...] AN DI
+#lem: X; X; X
+#etcsl: line-id=2.4
+
+2.5. [X X] X X X X X X kug-ra ma-ra-keše₂
+#lem: X; X; X; X; X; X; X; X; kug[pure]; kešed[bind]
+#etcsl: line-id=2.5
+
+2.6. [X X] IGI u₃-sa₂ tud-da a-su-ra-ba
+#lem: X; X; X; usag[sleep]; utud[give birth (to)]; asura[water from the depths]
+#etcsl: line-id=2.6
+
+2.7. [X X] su-ul!-pa₃-e-a-gin₇ SI-en-da-hu-la
+#lem: X; X; Šulpae[1]DN; hul[rejoice]
+#etcsl: line-id=2.7
+
+2.8. [X X] tud-de₃ lu₂-gal-ŋu₁₀ mu-zu he-pad₃-de
+#lem: X; X; utud[give birth (to)]; lugal[king]; mu[name]; pad[find]
+#etcsl: line-id=2.8
+
+@end version
+
+
+
+
+
+
+

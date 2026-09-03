@@ -1,0 +1,72 @@
+&Q000634
+
+{A.1 = 1-2}
+11=1.	@q[Dumuzid,Inana]{“My sister, what have you been doing in the house? 
+15=2.	Little one, what have you been doing in the house?”} 
+
+{A.3 = 3-8}
+19=3.	@q[Inana,Dumuzid]{“I was bathing, I was rubbing myself with soap. 
+23=4.	I was washing myself with water from the holy kettle, 
+27=5.	I was rubbing myself with the soap from the white stone bowl. 
+31=6.	I was anointing myself with good oil from the stone bowl, 
+35=7.	and dressing myself in the formal dress proper to @wDN{Inana}. 
+39=8.	That is how I was busying myself in the house.”} 
+
+{A.9 = 9-18}
+43=9.	@q{“I have put lots of kohl on my eyes, 
+47=10.	I have arranged …… the nape of my neck. 
+51=11.	I have washed my dangling hair, 
+55=12.	I have tested my weapons that make his reign propitious. 
+59=13.	I have straightened my tousled head of hair, 
+63=14.	I have tightened my loosened hairgrips, 
+67=15.	and let my hair fall down the back of my neck. 
+71=16.	I have put a golden bracelet on my wrist. 
+75=17.	I have put little lapis-lazuli beads round my neck, 
+79=18.	and arranged their buttons over my neck muscles.”} 
+
+{A.19 = 19-26}
+83=19.	@q[Dumuzid,Inana]{“Sister! I will bring you whatever you desire. 
+87=20.	I will bring the loving heart of your heart. 
+91=21.	Your goddess has given you good looks. Sister, shining bright, 
+95=22.	you are the honey of your own mother. 
+99=23.	My sister, to whom I shall bring five things, 
+103=24.	my sister, to whom I shall bring 10 things, 
+107=25.	she has perfected your appearance for you; sister, shining bright, 
+111=26.	she has really made it a delight.”} 
+
+{A.27 = 27-31}
+115=27.	@q[Inana,Dumuzid]{“When my brother enters from the palace, 
+119=28.	the singers shall ……, 
+123=29.	and I shall pour wine into his mouth. 
+127=30.	That should gladden his heart, 
+131=31.	should please his heart.”} 
+
+{A.32 = 32-41}
+135=32.	@q[Inana,Dumuzid]{“Let him bring, let him bring, now let him bring pats of butter and cream!”} 
+139=33.	@q[Dumuzid,Inana]{“My sister, I will bring them with me to the house.”} 
+143=34.	@q[Inana,Dumuzid]{“Let him bring, let him bring me lambs like ewes.”} 
+147=35.	@q[Dumuzid,Inana]{“My sister, I will bring them with me to the house.”} 
+151=36.	@q[Inana,Dumuzid]{“Let him bring, let him bring me kids like goats.”} 
+155=37.	@q[Dumuzid,Inana]{“My sister, I will bring them with me to the house!”} 
+159=38.	@q[Inana,Dumuzid]{“Let the lambs be as comely as ewes!”} @q[Dumuzid,Inana]{“My sister, 
+163=39.	I will bring them with me to the house!”} @q[Inana,Dumuzid]{“Let the kids be as fine as goats!”} 
+167=40.	@q[Dumuzid,Inana]{“My sister, 
+171=41.	I will bring them with me to the house!”} 
+
+{A.42 = 42-48}
+175=42.	@q[Inana,Dumuzid]{“See now, @varh[t40803.v1]{our } @vart[t40803.v2,t40803.v1]{@varn{1 ms. has instead:} my } breasts stand out; 
+182=43.	see now, hair has grown on @varh[t40803.v3]{our } @vart[t40803.v4,t40803.v3]{@varn{1 ms. has instead:} my } genitals, 
+189=44.	signifying (?) my progress to the embrace of a man. Let us be very glad! 
+193=45.	Dance, dance! 
+197=46.	O @wDN{Bau}, let us be very glad about my genitals! 
+201=47.	Dance, dance! 
+205=48.	Later on it will delight him, it will delight him!”} 
+
+{A.49 = 49}
+211=49.	A @fsux{balbale} of @wDN{Inana}. 
+
+{B.50 = 50-51}
+221=50.	@q[Inana,Dumuzid]{“Let him bring, let him bring, come let him bring pats of butter and cream!”} 
+
+{B.52 = 52}
+231=52.	Its @fsux{ŋišgiŋal}. 

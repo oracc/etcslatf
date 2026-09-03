@@ -1,0 +1,22 @@
+&Q000430 = A praise poem of Šu-Suen (Šu-Suen I)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.4.9
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.4.9&display=Crit&charenc=gcirc#
+
+1. {d}šu-{d}suen lugal en gaba-ŋal₂
+#lem: Šusuen[1]RN; lugal[king]; en[lord]; gabaŋal[forceful]
+#tr.en: King @wRN{Šu-@wDN{Suen}}, forceful lord, 
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue in the Louvre, 0.2.02, line 54
+
+$ (unknown no. of lines missing)
+
+
+
+
+
+

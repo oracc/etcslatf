@@ -1,0 +1,135 @@
+&Q000542 = Letter from Aradŋu to Šulgi about the country
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.1.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.04&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. lugal-ŋu₁₀-ra u₃-na-a-dug₄
+#lem: lugal[king]; dug[speak]
+#tr.en: Say to my lord: This is what @wPN{Aradŋu}, 
+#etcsl: line-id=A.1
+
+A.2. {[m]}[arad]-ŋu₁₀# arad₂-zu na-ab-be₂-a
+#lem: Aradŋu[1]PN; arad[slave]; e[speak]
+#tr.en: your servant, says: 
+#etcsl: line-id=A.2
+
+A.3. [lugal]-ŋu₁₀ ma-da daŋal-la niŋ₂ nam-ra#-aš mu-ra-an-šum₂-ma-a
+#lem: lugal[king]; mada[land]; daŋal[wide]; niŋ[thing]; namra[booty]; šum[give]
+#tr.en: My lord, the vast territory which has been given to you as booty has been made obedient: 
+#etcsl: line-id=A.3
+
+A.4. gu₃# teš₂-a sig₁₀-ge₅ dim₂-ma-bi 1(AŠ)-am₃
+#lem: gu[voice]; teš[unity]; sig[put into]; dimma[thought]; n
+#tr.en: it is of one mind. The people, 
+#etcsl: line-id=A.4
+
+A.5. uŋ₃# u₂-gin₇ lu-lu {d}šul-gi-ra sipad inim# gen₆#-na-bi
+#lem: uŋ[people]; u[plant(s)]; lu[abundant]; Šulgir[1]RN; sipad[shepherd]; inim[word]; gin[confirm]
+#tr.en: abundant as vegetation, belong to @wRN{Šulgi}, 
+#etcsl: line-id=A.5
+
+A.6. nam#-lu₂-ulu₃ sig igi-nim-ma diŋir-bi za-e-me-en#
+#lem: namlulu[humanity]; sig[weak]; iginim[upper land]; diŋir[deity]; zaʾe[you]
+#tr.en: shepherd of the reliable word. You are the god of mankind, 
+#etcsl: line-id=A.6
+
+A.7. igi#-bi ma-ra-ši-ŋal₂
+#lem: igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: in the south and the highlands. They keep their gaze fixed on you. 
+#etcsl: line-id=A.7
+
+A.8. uŋ₃# daŋal-la u₂-gin₇ lu-lu a mah {id₂}idigna {id₂}buranun-na-ta
+#lem: uŋ[people]; daŋal[wide]; u[plant(s)]; lu[abundant]; a[water]; mah[great]; Idigna[1 Tigris]; Buranun[1 Euphrates]
+#tr.en: The widespread people, abundant as vegetation, say: 
+#etcsl: line-id=A.8
+
+A.9. [...] X {id₂}idigna-še₃# lugal-ŋu₁₀ silim-ma ab-dug₄-ga
+#lem: X; X; Idigna[1 Tigris]; lugal[king]; silim[healthy]; dug[speak]
+#tr.en: @q[,Culgi]{“Hail, 
+#etcsl: line-id=A.9
+
+A.10. [...] X ib₂-zi-zi
+#lem: X; X; zig[rise]
+#tr.en: my lord!”}, from the flooding @wWN{Tigris} and @wWN{Euphrates} to the @wWN{Tigris} ……. 
+#etcsl: line-id=A.10
+
+A.11. [...] ba-da-an-ŋar
+#lem: X; ŋar[put]
+#tr.en: …… will rise. …… put aside. 
+#etcsl: line-id=A.11
+
+A.12. [...] X-ak-en
+#lem: X; ak[do]
+#tr.en: …… I (?) will make. 
+#etcsl: line-id=A.12
+
+A.13. [...]-kal-la-bi
+#lem: kal[rare]
+#tr.en: …… which is esteemed (?). 
+#etcsl: line-id=A.13
+
+A.14. [...] X u₃-bi₂-si
+#lem: X; X; si[fill]
+#tr.en: When I have filled (?) ……, 
+#etcsl: line-id=A.14
+
+A.15. [...] X
+#lem: X; X
+#etcsl: line-id=A.15
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X
+#lem: X; X
+#tr.en: …… which he obtained (?), I am ……. 
+#etcsl: line-id=B.1
+
+B.2. [...]-an#-tuku-a
+#lem: tuku[acquire]
+#tr.en: …… the citizens of the territory of @wGN{Gutium}, 
+#etcsl: line-id=B.2
+
+B.3. [...] X-me-en
+#lem: X; X
+#tr.en: ……, @wSN{Mari} and @wSN{Rāpiqum}, who will listen at all times, 
+#etcsl: line-id=B.3
+
+B.4. [...] X X X
+#lem: X; X; X; X
+#tr.en: are before me. Whatever you say, 
+#etcsl: line-id=B.4
+
+B.5. [...] dumu# ma-da gu-tu#-u₂-um{ki}
+#lem: X; dumu[child]; mada[land]; Gutium[1]GN
+#tr.en: my lord, 
+#etcsl: line-id=B.5
+
+B.6. [...]{ki#} ma#-ri₂{ki} u₃ ra-pi₂-qum{ki}
+#lem: X[1]SN; Mari[1]SN; u[and]; Rapiqum[1]SN
+#tr.en: I will do. 
+#etcsl: line-id=B.6
+
+B.7. [lu₂] ŋiš# tuku-tuku-ne igi-ŋa₂ i₃-ŋal₂
+#lem: lu[person]; ŋeš[tree]; tuku[acquire]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=B.7
+
+B.8. niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak
+#lem: niŋ[thing]; lugal[king]; e[speak]; ak[do]
+#etcsl: line-id=B.8
+
+@end segment
+
+
+
+
+
+
+

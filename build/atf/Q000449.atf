@@ -1,0 +1,381 @@
+&Q000449 = An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.3.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.3.3&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div barsud A
+
+A.A.1. en# ud sumur! huš erim₂-ma# X X X [...]
+#lem: en[lord]; ud[storm]; sumur[angry]; huš[reddish]; erim[enemy]; X; X; X; X
+#tr.en: The lord, a furious angry storm against the enemy, ……, strong ……, my lord who brings life to the people, whose own father ……, a great storm, a mighty raring ……, has …… -- the lord whose manliness is impressively strong, ……! 
+#etcsl: line-id=A.A.1
+
+A.A.2. AN# X X kalag-ga en-ŋu₁₀# uŋ₃ til₃ a-a ugu# [...] ri
+#lem: X; X; X; kalag[strong]; en[lord]; uŋ[people]; til[live (of a single person)]; aya[father]; ugu[bear]; X; ri[impose]
+#etcsl: line-id=A.A.2
+
+A.A.3. ud gal X er₉-ra gu₃# [ra]-ra im-mi-in#-X [...] X X
+#lem: ud[storm]; gal[big]; X; ir[mighty]; gu[voice]; rah[beat]; X; X; X; X
+#etcsl: line-id=A.A.3
+
+A.A.4. en nam-šul-la-ni a₂-nun-ŋal₂ A X X [...] ŋal₂
+#lem: en[lord]; namšul[manhood]; anunŋal[strong]; X; X; X; X; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.A.4
+
+@div trailer 
+
+A.A.5. bar-sud-am₃
+#lem: barsud[musical notation]
+#tr.en: @fsux{Barsud}. 
+#etcsl: line-id=A.A.5
+
+@end trailer
+
+@end barsud
+
+@div šagbatuku B
+
+A.B.6. ur-saŋ ki-bal-a gu₃ ra#-ra saŋ huš-bi bi₂-tu₁₀#
+#lem: ursaŋ[warrior]; kibala[rebel land]; gu[voice]; rah[beat]; saŋ[head]; huš[reddish]; tub[strike]
+#tr.en: Hero, roaring in the rebel-lands, you have angrily piled up skulls. 
+#etcsl: line-id=A.B.6
+
+A.B.7. šeg₁₂-bi ni₂ bi₂-te in#-dal-bi an-na ba-e-ed₃#
+#lem: šeg[brick]; ni[fear]; teŋ[approach]; indal[chaff]; an[sky]; ed[go up]
+#tr.en: You have terrified their brick buildings and scattered their chaff heavenward. 
+#etcsl: line-id=A.B.7
+
+A.B.8. sumun₂ zid ki-bal-a gu₃ [ra]-ra saŋ huš-bi bi₂-tu₁₀#
+#lem: sumun[wild cow]; zid[right]; kibala[rebel land]; gu[voice]; rah[beat]; saŋ[head]; huš[reddish]; tub[strike]
+#tr.en: Vigorous wild bull, roaring in the rebel-lands you have angrily piled up skulls. 
+#etcsl: line-id=A.B.8
+
+A.B.9. šeg₁₂-bi ni₂ bi₂-te in#-dal-bi an-na ba-e-ed₃#
+#lem: šeg[brick]; ni[fear]; teŋ[approach]; indal[chaff]; an[sky]; ed[go up]
+#tr.en: You have terrified their brick buildings and scattered their chaff heavenward. 
+#etcsl: line-id=A.B.9
+
+A.B.10. diŋir a nun-na iri-tuš um-te-ri {d}lamma-bi mu-u₈-ta-gub#
+#lem: diŋir[deity]; a[water]; nun[prince]; irituš[city dwelling]; ri[impose]; lammar[(female) tutelary deity]; gub[stand]
+#tr.en: Divine offspring of a prince, by your casting down their city dwellings, 
+#etcsl: line-id=A.B.10
+
+A.B.11. [uzug] sag₉#-ga-bi saŋ šu ba-e-dug₄ ŋiri₃ kur₂ im-mi-dab₅#
+#lem: uzga[goods]; sag[good]; saŋ[head]; šu[hand]; dug[speak]; ŋiri[foot]; kur[alienate]; dab[seize]
+#tr.en: their protective gods have been alienated because of you. You have made them abandon their beautiful shrines (?) and follow another path. 
+#etcsl: line-id=A.B.11
+
+A.B.12. sumun₂ zid iri-tuš# um-te-ri {d}lamma-bi mu-u₈-ta-gub#
+#lem: sumun[wild cow]; zid[right]; irituš[city dwelling]; ri[impose]; lammar[(female) tutelary deity]; gub[stand]
+#tr.en: Vigorous wild bull, by your casting down their city dwellings, 
+#etcsl: line-id=A.B.12
+
+A.B.13. uzug# sag₉-ga-bi saŋ [šu] ba-e-dug₄ ŋiri₃ kur₂ im-mi-dab₅#
+#lem: uzga[goods]; sag[good]; saŋ[head]; šu[hand]; dug[speak]; ŋiri[foot]; kur[alienate]; dab[seize]
+#tr.en: their protective gods have been alienated because of you. You have made them abandon their beautiful shrines (?) and follow another path. 
+#etcsl: line-id=A.B.13
+
+A.B.14. kur-bi za-e ša-mu-u₈#-[tab]-en tum₉ lil₂-e bi₂-tum₃
+#lem: kur[mountain(s)]; zaʾe[you]; tab[double]; tumu[wind]; lil[ghost]; tum[bring]
+#tr.en: You flatten those mountains and turn them over to ghostly winds. 
+#etcsl: line-id=A.B.14
+
+A.B.15. šul ur-saŋ-bi# gu₂# [im]-mi#-ni-ŋal₂ me₃ la-ba-gub-bu-de₃
+#lem: šul[youth]; ursaŋ[warrior]; gu[neck]; ŋal[⟦be⟧ to be (there]; me[battle]; gub[stand]
+#tr.en: You make their young warriors submit, no longer able to enter into battle. 
+#etcsl: line-id=A.B.15
+
+A.B.16. sumun₂ zid kur-bi za-e ša-mu-u₈-tab-en tum₉ lil₂-e bi₂-tum₃
+#lem: sumun[wild cow]; zid[right]; kur[mountain(s)]; zaʾe[you]; tab[double]; tumu[wind]; lil[ghost]; tum[bring]
+#tr.en: Vigorous wild bull, you flatten those mountains and turn them over to ghostly winds. 
+#etcsl: line-id=A.B.16
+
+A.B.17. šul ur-saŋ-bi gu₂ im-mi-ni-ŋal₂ me₃ la-ba-gub-bu-de₃
+#lem: šul[youth]; ursaŋ[warrior]; gu[neck]; ŋal[⟦be⟧ to be (there]; me[battle]; gub[stand]
+#tr.en: You make their young warriors submit, no longer able to enter into battle. 
+#etcsl: line-id=A.B.17
+
+@div trailer 
+
+A.B.18. šag₄-ba-tuku-am₃
+#lem: šagbatuku[liturgical rubric]
+#tr.en: @fsux{Šagbatuku}. 
+#etcsl: line-id=A.B.18
+
+@end trailer
+
+@end šagbatuku
+
+@div barsud C
+
+A.C.19. [...] X KA niŋir gal# BA# ra BI X X X X-e#-en#
+#lem: X; X; X; niŋir[herald]; gal[big]; X; rah[beat]; X; X; X; X; X
+#tr.en: @gap{4 lines fragmentary}
+#etcsl: line-id=A.C.19
+
+A.C.20. [...] X X [...] X X X X X X
+#lem: X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=A.C.20
+
+A.C.21. [...] X A X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.C.21
+
+A.C.22. [... gal]-an-zu ar₂-re-zu X X
+#lem: X; galanzu[wise]; ar[celebrate]; X; X
+#etcsl: line-id=A.C.22
+
+@div trailer 
+
+A.C.23. bar#-sud 2!-kam-ma
+#lem: barsud[musical notation]; n
+#tr.en: 2nd @fsux{barsud}. 
+#etcsl: line-id=A.C.23
+
+@end trailer
+
+@end barsud
+
+@div unknown D
+
+A.D.24. [X X sumur] huš erim₂-ma lu₂# hul-ŋal₂ ud# [im]-X-e
+#lem: X; X; sumur[angry]; huš[reddish]; erim[enemy]; lu[person]; huluŋal[evil]; ud[storm]; X
+#tr.en: ……, a furious angry …… against the enemy, 
+#etcsl: line-id=A.D.24
+
+A.D.25. [...] e₂# {d}suen-na-ka gud si# im#-ma#-ni-sa₂-sa₂
+#lem: X; e[house]; Suen[1]DN; gud[bull]; si[horn]; sa[equal]
+#tr.en: …… evil men. The …… arranges the cattle for @wDN{Suen's} house. 
+#etcsl: line-id=A.D.25
+
+A.D.26. [X X] sumur# huš erim₂-ma lu₂# hul-ŋal₂ ud# im#-X-e
+#lem: X; X; sumur[angry]; huš[reddish]; erim[enemy]; lu[person]; huluŋal[evil]; ud[storm]; X
+#tr.en: ……, a furious angry …… against the enemy, 
+#etcsl: line-id=A.D.26
+
+A.D.27. [... e₂] {d}suen-na#-ka gud si# im#-<ma>-ni-sa₂-sa₂
+#lem: X; e[house]; Suen[1]DN; gud[bull]; si[horn]; sa[equal]
+#tr.en: …… evil men. The …… arranges the cattle for @wDN{Suen's} house. 
+#etcsl: line-id=A.D.27
+
+A.D.28. [X X] X {d}dil-im₂-babbar a-ra₂-ni ki aŋ₂#
+#lem: X; X; X; Dilimbabbar[1]DN; ara[way]; ki[place]; aŋ[measure]
+#tr.en: He has spoken to @wDN{Nanna} on behalf of …… whose ways are beloved of @wDN{Ašimbabbar}, 
+#etcsl: line-id=A.D.28
+
+A.D.29. [...] zid {d}i-din-{d}da-gan {d}nanna-ar# X-dug₄#
+#lem: X; zid[right]; Iddindagan[1]RN; Nanna[1]DN; dug[speak]
+#tr.en: on behalf of the just …… @wRN{Iddin-@wDN{Dagan}}. 
+#etcsl: line-id=A.D.29
+
+A.D.30. [...] {[d]}[dil-im₂-babbar]-re a-ra₂-ni ki aŋ₂#
+#lem: X; Dilimbabbar[1]DN; ara[way]; ki[place]; aŋ[measure]
+#tr.en: He has spoken to @wDN{Nanna} on behalf of …… whose ways are beloved of @wDN{Ašimbabbar}, 
+#etcsl: line-id=A.D.30
+
+A.D.31. [... zid] {[d]}[i]-din#-{d}da-gan {d}nanna#-[ar] X-an#-dug₄#
+#lem: X; zid[right]; Iddindagan[1]RN; Nanna[1]DN; dug[speak]
+#tr.en: on behalf of the just …… @wRN{Iddin-@wDN{Dagan}}. 
+#etcsl: line-id=A.D.31
+
+A.D.32. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.D.32
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara E
+
+B.E.1. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: @gap{4 lines fragmentary}
+#etcsl: line-id=B.E.1
+
+B.E.2. [... DI] X KA zid-de₃-eš [mu₂]
+#lem: X; X; X; X; zid[right]; mu[grow]
+#etcsl: line-id=B.E.2
+
+B.E.3. [sumun₂ zid ... gal-an]-zu# a-a-na ki he₂#-X [...]
+#lem: sumun[wild cow]; zid[right]; X; galanzu[wise]; aya[father]; ki[place]; X; X
+#etcsl: line-id=B.E.3
+
+B.E.4. [...] DI X KA zid-de₃-eš mu₂#
+#lem: X; X; X; X; zid[right]; mu[grow]
+#etcsl: line-id=B.E.4
+
+B.E.5. [...] inim {d}suen-na nam-lugal-še₃ šum₂-ma
+#lem: X; inim[word]; Suen[1]DN; namlugal[kingship]; šum[give]
+#tr.en: …… given over to kingship by the word of @wDN{Suen}, 
+#etcsl: line-id=B.E.5
+
+B.E.6. [...] {d}dil-im₂-babbar-re tug₂ tug₂-ba₁₃ mu₄-mu₄#
+#lem: X; Dilimbabbar[1]DN; tug[textile]; ba[garment]; mur[dress]
+#tr.en: …… whom @wDN{Ašimbabbar} has clothed in the royal robe of office! 
+#etcsl: line-id=B.E.6
+
+B.E.7. [sumun₂ zid inim] šul {d}suen-na nam-lugal-še₃ šum₂-ma
+#lem: sumun[wild cow]; zid[right]; inim[word]; šul[youth]; Suen[1]DN; namlugal[kingship]; šum[give]
+#tr.en: Vigorous wild bull given over to kingship by the word of the hero @wDN{Suen}, 
+#etcsl: line-id=B.E.7
+
+B.E.8. [...] {d}dil-im₂-babbar-re tug₂ tug₂-ba₁₃ mu₄-mu₄#
+#lem: X; Dilimbabbar[1]DN; tug[textile]; ba[garment]; mur[dress]
+#tr.en: …… whom @wDN{Ašimbabbar} has clothed in the royal robe of office! 
+#etcsl: line-id=B.E.8
+
+B.E.9. [X X] X ur-mah a-a-na dumu giri₁₇ šu ŋal₂-la-ni-im
+#lem: X; X; X; urmah[lion]; aya[father]; dumu[child]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: ……, a lion, 
+#etcsl: line-id=B.E.9
+
+B.E.10. [...] X {[d]}[i]-din#-{d}da-gan-na AB RI mu-dub-dub
+#lem: X; X; Iddindagan[1]RN; X; X; dub[heap up]
+#tr.en: his father's respectful son, …… who …… for @wRN{Iddin-@wDN{Dagan}}! 
+#etcsl: line-id=B.E.10
+
+B.E.11. [sumun₂ zid ur]-mah a-a-na dumu giri₁₇ šu ŋal₂-la-ni-im
+#lem: sumun[wild cow]; zid[right]; urmah[lion]; aya[father]; dumu[child]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: Vigorous wild bull, a lion, 
+#etcsl: line-id=B.E.11
+
+B.E.12. [...] X {[d]}[i-din]-{d}da-gan-na AB RI mu-dub-dub
+#lem: X; X; Iddindagan[1]RN; X; X; dub[heap up]
+#tr.en: his father's respectful son, …… who …… for @wRN{Iddin-@wDN{Dagan}}! 
+#etcsl: line-id=B.E.12
+
+B.E.13. [...]-bi# ud-gin₇! zid-de₃-eš ak
+#lem: X; ud[sun]; zid[right]; ak[do]
+#tr.en: …… justly like sunlight, 
+#etcsl: line-id=B.E.13
+
+B.E.14. [X X] {[d]}[dil-im₂-babbar]-gin₇# di si sa₂ kud#-[kud]
+#lem: X; X; Dilimbabbar[1]DN; did[lawsuit]; si[horn]; sa[equal]; kud[cut]
+#tr.en: …… who like @wDN{Ašimbabbar} gives correct verdicts! 
+#etcsl: line-id=B.E.14
+
+B.E.15. [sumun₂ zid X X]-bi# ud-gin₇ zid-de₃-eš ak
+#lem: sumun[wild cow]; zid[right]; X; X; ud[sun]; zid[right]; ak[do]
+#tr.en: Vigorous wild bull …… justly like sunlight, 
+#etcsl: line-id=B.E.15
+
+B.E.16. [X X] {[d]}dil-im₂-babbar-gin₇ di si sa₂ kud-kud
+#lem: X; X; Dilimbabbar[1]DN; did[lawsuit]; si[horn]; sa[equal]; kud[cut]
+#tr.en: …… who like @wDN{Ašimbabbar} gives correct verdicts! 
+#etcsl: line-id=B.E.16
+
+B.E.17. sumun₂# zid# [ud] šu₂-uš {d}i-din-{d}da-gan-na šag₄ {d}nanna huŋ#-ŋe₂₆#-e
+#lem: sumun[wild cow]; zid[right]; ud[sun]; šuš[cover]; Iddindagan[1]RN; šag[heart]; Nanna[1]DN; huŋ[pacify]
+#tr.en: Vigorous wild bull soothing @wDN{Nanna's} heart for @wRN{Iddin-@wDN{Dagan}} each day, whose just word is pleasing to @wDN{Suen}, who ……! Vigorous wild bull soothing @wDN{Nanna's} heart for @wRN{Iddin-@wDN{Dagan}} each day, whose just word is pleasing to @wDN{Suen}, who ……! 
+#etcsl: line-id=B.E.17
+
+B.E.18. inim zid-da#-ni {d}suen-ra sag₉ su zal-le-eš₂ ak
+#lem: inim[word]; zid[right]; Suen[1]DN; sag[goodness]; su[flesh]; zal[pass time]; ak[do]
+#etcsl: line-id=B.E.18
+
+B.E.19. sumun₂ zid ud šu₂-uš {d}i-din-{d}da-gan-na šag₄ {d}nanna huŋ#-ŋe₂₆#-e
+#lem: sumun[wild cow]; zid[right]; ud[sun]; šuš[cover]; Iddindagan[1]RN; šag[heart]; Nanna[1]DN; huŋ[pacify]
+#etcsl: line-id=B.E.19
+
+B.E.20. inim zid-da-ni {d}suen-ra# sag₉# su zal-le-eš₂ ak
+#lem: inim[word]; zid[right]; Suen[1]DN; sag[goodness]; su[flesh]; zal[pass time]; ak[do]
+#etcsl: line-id=B.E.20
+
+B.E.21. ur-saŋ# [...] {[d]}dil-im₂-babbar-re a₂ gal mah šum₂-ma#
+#lem: ursaŋ[warrior]; X; Dilimbabbar[1]DN; a[arm]; gal[big]; mah[great]; šum[give]
+#tr.en: …… hero given great and majestic strength by @wDN{Ašimbabbar}, supporter of @wRN{Iddin-@wDN{Dagan}}, may you destroy the insubordinate lands! Vigorous wild bull given great and majestic strength by @wDN{Ašimbabbar}, supporter of @wRN{Iddin-@wDN{Dagan}}, may you destroy the insubordinate land! 
+#etcsl: line-id=B.E.21
+
+B.E.22. ŋiškim#-[til₃] {[d]}[i]-din-{d}da-gan-na kur nu-še-ga he₂-gul-lu#-e#
+#lem: ŋeškimtil[trust]; Iddindagan[1]RN; kur[mountain(s)]; šeg[agree]; gul[destroy]
+#etcsl: line-id=B.E.22
+
+B.E.23. sumun₂ zid# {[d]}[aš]-im₂-babbar-re a₂ gal mah šum₂-ma
+#lem: sumun[wild cow]; zid[right]; Dilimbabbar[1]DN; a[arm]; gal[big]; mah[great]; šum[give]
+#etcsl: line-id=B.E.23
+
+B.E.24. ŋiškim-til₃ {d}i-din-{d}da-gan-na kur nu-še-ga he₂-gul-lu#
+#lem: ŋeškimtil[trust]; Iddindagan[1]RN; kur[mountain(s)]; šeg[agree]; gul[destroy]
+#etcsl: line-id=B.E.24
+
+@div trailer 
+
+B.E.25. <sa-ŋar-ra-am₃>
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=B.E.25
+
+@end trailer
+
+@end sa-ŋara
+
+@div ŋišgiŋal F
+
+B.F.26. sumun₂ zid {d}i-din-{d}da-gan-na ud [...] X-še₃# še-ga-ni he₂-me-en
+#lem: sumun[wild cow]; zid[right]; Iddindagan[1]RN; ud[sun]; X; X; šeg[agree]; me[be]
+#tr.en: Vigorous wild bull, may you respond to @wRN{Iddin-@wDN{Dagan}} for …… days. 
+#etcsl: line-id=B.F.26
+
+@div trailer 
+
+B.F.27. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}. 
+#etcsl: line-id=B.F.27
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div uru G
+
+B.G.28. ur-saŋ ku-kur dugud gaba-ri-bi-še₃ nu-e₃
+#lem: ursaŋ[warrior]; kurku[flood]; dugud[heavy]; gabari[equal]; e[leave]
+#tr.en: Hero, formidable flood that no man comes forward to oppose! Lord @wDN{Ningublaga}, formidable flood that no man comes forward to oppose! @wDN{Sumun-zid} @noteref{Vigorous wild bull}, may you be the crusher of @wRN{Iddin-@wDN{Dagan's}} enemies! 
+#etcsl: line-id=B.G.28
+
+B.G.29. en {d}nin-gublaga ku-kur dugud gaba-ri-bi-še₃ nu-e₃
+#lem: en[lord]; Ningublagak[1]DN; kurku[flood]; dugud[heavy]; gabari[equal]; e[leave]
+#etcsl: line-id=B.G.29
+
+B.G.30. {d}sumun₂-zid {d}i-din-{d}da-gan-na hul-du-ni ŋiš gaz-bi he₂-me-en
+#lem: Sumunzid[1]DN; Iddindagan[1]RN; huludu[wicked]; ŋeš[wood]; gaz[kill]; me[be]
+#etcsl: line-id=B.G.30
+
+@div trailer 
+
+B.G.31. u₁₈#-ru₁₂#-bi!
+#lem: uru[literary subscript]
+#tr.en: Its @fsux{uru}. 
+#etcsl: line-id=B.G.31
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+B.G.32. a-da-ab {d}nin-gublaga-kam#
+#lem: adab[drum]; Ningublagak[1]DN
+#tr.en: An @fsux{adab} of @wDN{Ningublaga}. 
+#etcsl: line-id=B.G.32
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

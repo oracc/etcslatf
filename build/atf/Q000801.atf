@@ -1,0 +1,956 @@
+&Q000801 = Proverbs: collection 8
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.08
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.08&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 8.a1
+
+A.8.a1.1. šah₂ e₂-a ba-al-ba-al
+#lem: šah[pig]; e[house]; bal[dig]
+#tr.en: A pig digging in the house. 
+#etcsl: line-id=A.8.a1.1
+
+@end proverb
+
+@div proverb 8.a2
+
+A.8.a2.2. šah₂ lu₂-šah₂-šum-ma mi-ni-ib-šum-e
+#lem: šah[pig]; lušahšum[pig-butcher]; šum[slaughter]
+#tr.en: A pig which was about to be slaughtered by the pig-butcher squealed. 
+#etcsl: line-id=A.8.a2.2
+
+A.8.a2.3. gu₃ i₃-ra-ra# kaskal ninda₂-zu
+#lem: gu[voice]; rah[beat]; kaskal[way]; ninda[seed-funnel]
+#tr.en: @q{“Your ancestors and forebears walked this road, 
+#etcsl: line-id=A.8.a2.3
+
+A.8.a2.4. u₃ pa-bil-ga-zu# i₃-re₇-eš-am₃
+#lem: ua[oh!]; pabilga[kinship term]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: and now you too are walking it, 
+#etcsl: line-id=A.8.a2.4
+
+A.8.a2.5. u₃ za-e al-du-un-na#-ni gu₃ i₃-ra-ra-e-še
+#lem: ua[oh!]; zaʾe[you]; du[go]; gu[voice]; rah[beat]
+#tr.en: so why (?) are you squealing?”} 
+#etcsl: line-id=A.8.a2.5
+
+@end proverb
+
+@div proverb 8.a3
+
+A.8.a3.6. šah₂-gin₇ ŋiri₂-zu X HA X ba-ab-X
+#lem: šah[pig]; ŋiri[dagger]; X; X; X; X
+#tr.en: Like a pig …… your dagger ……. 
+#etcsl: line-id=A.8.a3.6
+
+@end proverb
+
+@div proverb 8.a4
+
+A.8.a4.7. šah₂-gin₇ šu ab-kar#-kar-re!
+#lem: šah[pig]; šu[hand]; kar[flee]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h54]{6.2.3: UET 6/2 275}} He snatches things like a pig, as if for himself, 
+#etcsl: line-id=A.8.a4.7
+
+#etcsl#cf cf. 6.2.3: UET 6/2 275
+
+A.8.a4.8. i-gi₄-in-zu# ni₂-te-a-ni lugal-a-ni-še₃!-am₃#-e-še
+#lem: iginzu[as if]; ni[self]; lugal[king]
+#tr.en: but also for his owner. 
+#etcsl: line-id=A.8.a4.8
+
+@end proverb
+
+@div proverb 8.a5
+
+A.8.a5.9. šah₂ lu-hu-um-ma su₃-am₃!
+#lem: šah[pig]; luhum[mud]; su[sprinkle]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 300 l. 1}} Like a pig spattered with mud. 
+#etcsl: line-id=A.8.a5.9
+
+#etcsl#cf cf. 6.2.3: UET 6/2 300 l. 1
+
+@end proverb
+
+@div proverb 8.a6
+
+A.8.a6.10. šah₂ ninda# pad-ra₂# mu-un-il₂
+#lem: šah[pig]; ninda[bread]; pad[break (into bits)]; il[raise]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 300 l. 2}} The pig picks up morsels of bread. 
+#etcsl: line-id=A.8.a6.10
+
+#etcsl#cf cf. 6.2.3: UET 6/2 300 l. 2
+
+@end proverb
+
+@div proverb 8.a7
+
+A.8.a7.11. [...] X [...] X [...]
+#lem: X; X; X; X; X
+#tr.en: 84=$ (@gap{1 line fragmentary} @gap{approx. 10 lines missing}) 
+#etcsl: line-id=A.8.a7.11
+
+@end proverb
+
+$ (approx. 10 lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 8.b1
+
+B.8.b1.1. X gun₂-ni [...] X X [X X]
+#lem: X; gun[load]; X; X; X; X; X
+#tr.en: …… his burden …… it has not depressed you, 
+#etcsl: line-id=B.8.b1.1
+
+B.8.b1.2. nu-ub-dirig šag₄ bi₂-zalag-e-še#
+#lem: dirig[make more than]; šag[heart]; zalag[bright]
+#tr.en: it will cheer you up! 
+#etcsl: line-id=B.8.b1.2
+
+@end proverb
+
+@div proverb 8.b2
+
+B.8.b2.3. megida₂! u₂-gu de₂-a-ta i₃-dur₂-ru-ne
+#lem: megida[sow]; ugu[cvne]; de[pour]; durun[sit]
+#tr.en: Having lost the sow, 
+#etcsl: line-id=B.8.b2.3
+
+B.8.b2.4. e₂-ir-da# mu!-un-kal-la-ge-ne
+#lem: eʾirda[pigsty]; kalag[strong]
+#tr.en: they sit around and strengthen the pigsty. 
+#etcsl: line-id=B.8.b2.4
+
+@end proverb
+
+@div proverb 8.b3
+
+B.8.b3.5. megida₂!-gin₇ hi-li nu-mu-ni-in-ak
+#lem: megida[sow]; hili[attractiveness]; ak[do]
+#tr.en: Like a sow was she not treated to luxury? 
+#etcsl: line-id=B.8.b3.5
+
+B.8.b3.6. ŋi₆ MAŠ-a-ka še al nu-mu-ni-in-dug₄-e-še
+#lem: ŋi[night]; n; še[barley]; al[cvne]; dug[speak]
+#tr.en: Was she not accustomed to demanding barley in the middle of the night? 
+#etcsl: line-id=B.8.b3.6
+
+@end proverb
+
+@div proverb 8.b4
+
+B.8.b4.7. maš₂!-gin₇ sun₄ la₂-a
+#lem: maš[goat]; sum[beard]; la[hang]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 240 l. 2}} Wearing a long beard like a goat. 
+#etcsl: line-id=B.8.b4.7
+
+#etcsl#cf cf. 6.2.3: UET 6/2 240 l. 2
+
+@end proverb
+
+@div proverb 8.b5
+
+B.8.b5.8. ud₅-de₃ saŋ rig₇ maš₂ gal-la-ka
+#lem: uzud[(female) goat]; saŋ[head]; rig[donate]; maš[goat]; gal[big]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 240 l. 1}} A goat is the gift of a large kid. 
+#etcsl: line-id=B.8.b5.8
+
+#etcsl#cf cf. 6.2.3: UET 6/2 240 l. 1
+
+@end proverb
+
+@div proverb 8.b6
+
+B.8.b6.9. ud₅-de₃ ud₅#-X na-ab-be₂-a
+#lem: uzud[(female) goat]; uzud[(female) goat]; e[speak]
+#tr.en: A goat says to another goat: 
+#etcsl: line-id=B.8.b6.9
+
+B.8.b6.10. u₃ ŋe₂₆-e saŋ mu-ni-ib-ra-ra
+#lem: u[and]; ŋaʾe[I]; saŋ[head]; rah[beat]
+#tr.en: @q{“I too butt my head.”} 
+#etcsl: line-id=B.8.b6.10
+
+@end proverb
+
+@div proverb 8.b7
+
+B.8.b7.11. ud₅-de₃ nu-ŋen-na e₂-ri-a an-zu
+#lem: uzud[(female) goat]; ŋen[go]; eria[wasteland]; an[sky]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.111]{6.1.03.111}} Although it has never been there, the goat knows the waste land. 
+#etcsl: line-id=B.8.b7.11
+
+#etcsl#cf cf. 6.1.03.111
+
+@end proverb
+
+@div proverb 8.b8
+
+B.8.b8.12. ud₅-de₃ ur-bar-ra-be₂-ne bi₂-in-us₂-us₂
+#lem: uzud[(female) goat]; urbara[wolf]; us[accompany]
+#tr.en: Some wolves were chasing a goat. 
+#etcsl: line-id=B.8.b8.12
+
+B.8.b8.13. i₃-bal ŋiri₃-bi ŋiri₃ bi₂-in-ra
+#lem: bala[turn]; ŋiri[foot]; ŋiri[foot]; rah[beat]
+#tr.en: It turned around and its feet clattered into each other. 
+#etcsl: line-id=B.8.b8.13
+
+@end proverb
+
+@div proverb 8.b9
+
+B.8.b9.14. dim₃-šah₂-gin₇ bid₃-da ka-ga₁₄-na al-sag₃
+#lem: damšah[hippopotamus]; bed[anus]; kag[mouth]; sag[strike]
+#tr.en: He gets his behind in his mouth, like a hippopotamus (?). 
+#etcsl: line-id=B.8.b9.14
+
+@end proverb
+
+@div proverb 8.b10
+
+B.8.b10.15. lu-lim bar dag-ga
+#lem: lulim[stag]; bar[outside]; dag[roam around]
+#tr.en: A stag wandering in the outlying areas. 
+#etcsl: line-id=B.8.b10.15
+
+@end proverb
+
+@div proverb 8.b11
+
+B.8.b11.16. maš-da₃ igi nu-la₂ ur igi nu-ŋal₂-la (1::1)
+#lem: mašda[gazelle]; igi[eye]; la[hang]; ur[dog]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: A gazelle not alert, a dog not on the watch. @vart[t6108.v1,]{@note{1 ms. adds:} A man raising his hand in anger does not see clearly. } 
+#etcsl: line-id=B.8.b11.16
+
+:16v.1.1: ($1 ms. adds:$) lu₂ šu zig₃-zig₃-ga igi nu-du₈
+#lem: lu[person]; šu[hand]; zig[rise]; igi[eye]; du[spread]
+
+@end proverb
+
+@div proverb 8.b12
+
+B.8.b12.17. maš-da₃-gin₇ a ud 15-kam i₃-naŋ-naŋ
+#lem: mašda[gazelle]; a[water]; ud[sun]; n; naŋ[drink]
+#tr.en: Like a gazelle he is drinking 15 days' worth of water. 
+#etcsl: line-id=B.8.b12.17
+
+@end proverb
+
+@div proverb 8.b13
+
+B.8.b13.18. az-e daŋal tag-ga-ab hur-saŋ-ŋa₂ mu-un-ŋen
+#lem: az[bear]; daŋal[wide]; tag[touch]; hursaŋ[mountain]; ŋen[go]
+#tr.en: @q{“Get that bear away from us!”} -- so he has gone to the mountains. 
+#etcsl: line-id=B.8.b13.18
+
+@end proverb
+
+@div proverb 8.b14
+
+B.8.b14.19. az-e itid 6-kam-ma ti-ba u₃-un-bal
+#lem: az[bear]; itud[moon]; n; ti[rib]; bala[turn]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h57]{6.2.3: UET 6/2 241}} A bear in the sixth month turned onto its side and said: 
+#etcsl: line-id=B.8.b14.19
+
+#etcsl#cf cf. 6.2.3: UET 6/2 241
+
+B.8.b14.20. an u₃-sa₂ na-an-šum₂-mu-un
+#lem: An[1]DN; usag[sleep]; šum[give]
+#tr.en: @q{“Were @wDN{An} not to give you, oh sleep, to a person, 
+#etcsl: line-id=B.8.b14.20
+
+B.8.b14.21. ŋa₂-a-gin₇-nam he₂-ug₇-e-še
+#lem: ŋaʾe[I]; uš[die]
+#tr.en: as he does to me -- they would die.”} 
+#etcsl: line-id=B.8.b14.21
+
+@end proverb
+
+@div proverb 8.b15
+
+B.8.b15.22. kir₄-gin₇ en-na mi-ni-hab₂-ba nu-gu₇-e-en
+#lem: kir[hyena]; enna[until]; hab[malodorous]; gu[eat]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h58]{6.2.3: UET 6/2 294}} Like a hyena, you will not eat it unless it stinks. 
+#etcsl: line-id=B.8.b15.22
+
+#etcsl#cf cf. 6.2.3: UET 6/2 294
+
+@end proverb
+
+@div proverb 8.b16
+
+B.8.b16.23. umbin su-a i₃-udu-še₃ ba-an-kur₉
+#lem: umbin[finger]; sua[wild cat]; lib[sheep fat]; kur[enter]
+#tr.en: The claws of a cat can walk even in sheep fat. 
+#etcsl: line-id=B.8.b16.23
+
+@end proverb
+
+@div proverb 8.b17
+
+B.8.b17.24. su-a-gin₇ kuš du₃-u₃-bi eme-am₃
+#lem: sua[wild cat]; kuš[skin]; du[build]; eme[tongue]
+#tr.en: As with a cat, it is its tongue that treats its skin. 
+#etcsl: line-id=B.8.b17.24
+
+@end proverb
+
+@div proverb 8.b18
+
+B.8.b18.25. su-a ki-in-dar-ra mi-ni-pad₃-de₃
+#lem: sua[wild cat]; kindar[hole]; pad[find]
+#tr.en: A cat can find a hole in the ground. 
+#etcsl: line-id=B.8.b18.25
+
+@end proverb
+
+@div proverb 8.b19
+
+B.8.b19.26. ka₅-a ur₂# am-si-ka ŋiri₃-bi mu-un-gub
+#lem: kaʾa[fox]; ur[loin]; amsi[elephant]; ŋiri[foot]; gub[stand]
+#tr.en: A fox stamped on the crotch of an elephant: @q{“It's enough, it's too much!”} 
+#etcsl: line-id=B.8.b19.26
+
+B.8.b19.27. ab-si ab-dirig-e-še#
+#lem: si[fill]; dirig[make more than]
+#etcsl: line-id=B.8.b19.27
+
+@end proverb
+
+@div proverb 8.b20
+
+B.8.b20.28. ka₅-a {d}en-lil₂-le si-am-e al u₃-bi₂-in-dug₄
+#lem: kaʾa[fox]; Enlil[1]DN; siʾam[wild bull's horns]; al[cvne]; dug[speak]
+#tr.en: A fox demanded of @wDN{Enlil} the horns of a wild bull. 
+#etcsl: line-id=B.8.b20.28
+
+B.8.b20.29. si-am-e ba-ni-in-la₂ im šeŋ₁₄ mu-na-an-zi-zi
+#lem: siʾam[wild bull's horns]; la[hang]; im[rain]; šeŋ[rain]; zig[rise]
+#tr.en: While it was wearing the wild bull's horns, it started to rain. 
+#etcsl: line-id=B.8.b20.29
+
+B.8.b20.30. habrud-da-ni nu-mu-da-an-ku₄-ku₄
+#lem: habruda[hole]; kur[enter]
+#tr.en: But the horns rose high above him, so he could not enter his burrow. 
+#etcsl: line-id=B.8.b20.30
+
+B.8.b20.31. ŋi₆ MAŠ-bi-še₃ {tum₉}mir mir
+#lem: ŋi[night]; n; mir[north wind]; mir[angry]
+#tr.en: Until midnight the wind kept blowing, and the clouds brought rain. 
+#etcsl: line-id=B.8.b20.31
+
+B.8.b20.32. muru₉ im-šeŋ₃-ŋe₂₆
+#lem: muru[rainstorm]; šeŋ[rain]
+#tr.en: Afterwards, when it had stopped raining on him, and he had dried off, 
+#etcsl: line-id=B.8.b20.32
+
+B.8.b20.33. ugu-ba in-til-la-ta he₂-em-ta-had₂
+#lem: ugu[skull]; til[complete]; ah[dry]
+#tr.en: he said: 
+#etcsl: line-id=B.8.b20.33
+
+B.8.b20.34. ŋarza₂ lugal-a-<ni>-ir ga-ba-ni-ib-gur-e-še
+#lem: ŋarza[rites]; lugal[king]; gur[turn]
+#tr.en: @q{“I shall return this feature to its rightful owner!”} 
+#etcsl: line-id=B.8.b20.34
+
+@end proverb
+
+@div proverb 8.b21
+
+B.8.b21.35. ka₅-a šir am-e al-us₂-us₂
+#lem: kaʾa[fox]; šir[testicle]; am[wild bull]; us[accompany]
+#tr.en: A fox was pursuing the testicles of a wild bull, 
+#etcsl: line-id=B.8.b21.35
+
+B.8.b21.36. i-gi₄-in-zu!(ŠUB) en-na šag₄-ŋar-ra-na ug₅-ga-<<DIŠ>>-a
+#lem: iginzu[as if]; enna[until]; šaŋar[starvation]; ug[kill]
+#tr.en: as though about to die of hunger. 
+#etcsl: line-id=B.8.b21.36
+
+@end proverb
+
+@div proverb 8.b22
+
+B.8.b22.37. ka₅-a eg₂ al-DU gu-du gam-ma-ŋu₁₀
+#lem: kaʾa[fox]; eg[levee]; X; gudu[buttocks]; gurum[bend]
+#tr.en: A fox was scrabbling in a dyke: 
+#etcsl: line-id=B.8.b22.37
+
+B.8.b22.38. lu₂ na-me igi nu-mu-ni-in-<<GID₂>>-du₈
+#lem: lu[person]; name[any]; igi[eye]; du[spread]
+#tr.en: @q{“Nobody has ever seen my bent-over behind.”} 
+#etcsl: line-id=B.8.b22.38
+
+@end proverb
+
+@div proverb 8.b23
+
+B.8.b23.39. ka₅-a sur₁₂ al-du₈-e sur₁₂-a nu-tur-tur
+#lem: kaʾa[fox]; sur[threshing floor]; du[spread]; sur[threshing floor]; tur[small]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h59]{6.2.3: UET 6/2 215}} A fox was preparing a threshing floor. 
+#etcsl: line-id=B.8.b23.39
+
+#etcsl#cf cf. 6.2.3: UET 6/2 215
+
+B.8.b23.40. u₃ ka₅-a nu-mu-un-kuš₂-u₃
+#lem: u[and]; kaʾa[fox]; kušu[tired]
+#tr.en: It did not …… on the threshing floor, but he did not become exhausted. 
+#etcsl: line-id=B.8.b23.40
+
+@end proverb
+
+@div proverb 8.b24
+
+B.8.b24.41. ka₅-a gu₂ gid₂ ama-na-še₃ ŋeštug₂-ga-ni in-gub-ma
+#lem: kaʾa[fox]; gu[neck]; gid[long]; ama[mother]; ŋeštug[ear]; gub[stand]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h60]{6.2.3: UET 6/2 218}} The fox thought about his mother's interference and said: 
+#etcsl: line-id=B.8.b24.41
+
+#etcsl#cf cf. 6.2.3: UET 6/2 218
+
+B.8.b24.42. E# X-ŋu₁₀ al-guz-guz-e-še
+#lem: X; X; guz[be crushed]
+#tr.en: @q{“My …… is collapsing.”} 
+#etcsl: line-id=B.8.b24.42
+
+@end proverb
+
+@div proverb 8.b25
+
+B.8.b25.43. ka₅#-a maš₂-bi mu-<šub>
+#lem: kaʾa[fox]; maš[goat]; šub[fall]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h61]{6.2.3: UET 6/2 213}} The fox dropped her young. 
+#etcsl: line-id=B.8.b25.43
+
+#etcsl#cf cf. 6.2.3: UET 6/2 213
+
+B.8.b25.44. maš₂-tab-ba-ni mu-ni-in-i-i
+#lem: maštab[twin]; e[bring out]
+#tr.en: They came out as twins. 
+#etcsl: line-id=B.8.b25.44
+
+@end proverb
+
+@div proverb 8.b26
+
+B.8.b26.45. [ka₅-a kun-bi] dugud-dam X X ur₃ la₂-a
+#lem: kaʾa[fox]; kun[tail]; dugud[heavy]; X; X; ur[roof]; la[hang]
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.61A]{6.1.02.61A}} The fox's tail is heavy: it carries a ……. 
+#etcsl: line-id=B.8.b26.45
+
+#etcsl#cf cf. 6.1.02.61A
+
+@end proverb
+
+@div proverb 8.b27
+
+B.8.b27.46. ka₅-a si-ŋar-bi ŋiš-DA-am₃
+#lem: kaʾa[fox]; siŋar[bolt]; X
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.61B]{6.1.02.61B}} The fox's door-bolt is a ……. 
+#etcsl: line-id=B.8.b27.46
+
+#etcsl#cf cf. 6.1.02.61B
+
+@end proverb
+
+@div proverb 8.b28
+
+B.8.b28.47. ka₅-a ud₅-de₃-eš₂ an-na-ab-be₂
+#lem: kaʾa[fox]; uzud[(female) goat]; e[speak]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h62]{6.2.3: UET 6/2 219}} A fox spoke to a goat: 
+#etcsl: line-id=B.8.b28.47
+
+#etcsl#cf cf. 6.2.3: UET 6/2 219
+
+B.8.b28.48. {kuš}e-sir₂!(TUM)-ŋu₁₀ e₂-zu-a ga-mu-ni-ib₂-ŋar
+#lem: esir[sandal(s)]; e[house]; ŋar[put]
+#tr.en: @q{“Let me put my shoes in your house!”} 
+#etcsl: line-id=B.8.b28.48
+
+B.8.b28.49. du-u₃-da ur-gir₁₅-ra-ka {ŋiš}gag-ta ga-mu-ni-ib₂-la₂
+#lem: du[go]; urgir[(domestic) dog]; gag[nail]; la[hang]
+#tr.en: It replied: @q{“When the dog arrives, 
+#etcsl: line-id=B.8.b28.49
+
+B.8.b28.50. tukum-bi ur-gir₁₅-re e₂-zu-a ur₅-ra-še₃ an-til₃
+#lem: tukumbi[if]; urgir[(domestic) dog]; e[house]; ur[that]; til[live (of a single person)]
+#tr.en: I will hang them up on a peg!”} 
+#etcsl: line-id=B.8.b28.50
+
+B.8.b28.51. {kuš}e-sir₂-ŋu₁₀ DU-u₃
+#lem: esir[sandal(s)]; X
+#tr.en: The fox: @q{“If there's a dog staying like that in your house, 
+#etcsl: line-id=B.8.b28.51
+
+B.8.b28.52. ŋi₆ na-an-sa₂-e-en-e-še
+#lem: ŋi[night]; sa[equal]
+#tr.en: bring me my shoes. Don't expect me to stay the night!”} 
+#etcsl: line-id=B.8.b28.52
+
+@end proverb
+
+@div proverb 8.b29
+
+B.8.b29.53. ka₅-a dur₂ {ŋiš}kiši₁₇-še₃ in-kur₉-ma
+#lem: kaʾa[fox]; dur[buttocks]; kišig[acacia]; kur[enter]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h63]{6.2.3: UET 6/2 220}} A fox went into a den in a thorny bush, 
+#etcsl: line-id=B.8.b29.53
+
+#etcsl#cf cf. 6.2.3: UET 6/2 220
+
+B.8.b29.54. ŋa₂-nu e₃-im-ta ed₂-de₃ nu-ub-zu
+#lem: ŋen[go]; e[leave]; e[leave]; zu[know]
+#tr.en: and (the dog said:) @q{“Hey, come out!”} But it would not come out. 
+#etcsl: line-id=B.8.b29.54
+
+B.8.b29.55. gu₂-e-ta a-na-gin₇-nam i₃-kur₉-re-en
+#lem: guʾe[this side]; anagin[how?]; kur[enter]
+#tr.en: @q{“How am I supposed to get in from out here?”} 
+#etcsl: line-id=B.8.b29.55
+
+B.8.b29.56. en-na-me-še₃-am₃ na-an-sar-sar
+#lem: ennamešeam[as long as]; sar[run]
+#tr.en: . @q{“So long as you don't chase me away, I will stay sitting here!”} 
+#etcsl: line-id=B.8.b29.56
+
+B.8.b29.57. al-tuš-en-e-še
+#lem: tuš[sit (down)]
+#tr.en: said the fox. 
+#etcsl: line-id=B.8.b29.57
+
+@end proverb
+
+@div proverb 8.b30
+
+B.8.b30.58. ka₅-a# [...]
+#lem: kaʾa[fox]; X
+#tr.en: The fox ……. 
+#etcsl: line-id=B.8.b30.58
+
+B.8.b30.59. e-ne dirig ne-e lul ab-dirig-e-še
+#lem: ane[he]; dirig[make more than]; nen[this]; lul[false]; dirig[make more than]
+#tr.en: He is more full of lies than anyone. 
+#etcsl: line-id=B.8.b30.59
+
+@end proverb
+
+@div proverb 8.b31
+
+B.8.b31.60. ka₅-a zig₃-ga-gin₇ za-pa-aŋ₂-zu a-gar₃-re ab-gur-e-še
+#lem: kaʾa[fox]; zig[rise]; zipaŋ[voice]; agar[meadow]; gur[turn]
+#tr.en: Like an aroused (?) fox, your cry echoes (?) over the fields. 
+#etcsl: line-id=B.8.b31.60
+
+@end proverb
+
+@div proverb 8.b32
+
+B.8.b32.61. ka₅-a a-na-am₃ al-ak-a
+#lem: kaʾa[fox]; ana[what?]; ak[do]
+#tr.en: What will the dog do  
+#etcsl: line-id=B.8.b32.61
+
+B.8.b32.62. ur-gir₁₅-re a-na-am₃ mu-un-ši-ib-ak-de₃
+#lem: urgir[(domestic) dog]; ana[what?]; ak[do]
+#tr.en: about what the fox is doing? 
+#etcsl: line-id=B.8.b32.62
+
+@end proverb
+
+@div proverb 8.b33
+
+B.8.b33.63. ka₅-a nam-lul-la ŋeštug₂-ga-ni in-gub-ma
+#lem: kaʾa[fox]; namlul[treachery]; ŋeštug[ear]; gub[stand]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h64]{6.2.3: UET 6/2 217}} The fox set his mind on some treachery: @q{“I am throwing it out. 
+#etcsl: line-id=B.8.b33.63
+
+#etcsl#cf cf. 6.2.3: UET 6/2 217
+
+B.8.b33.64. ba-šub-bu-de₃-en id₂-da mi-ni-ib-tum₂-en-e-še
+#lem: šub[fall]; id[river]; tum[bring]
+#tr.en: I am carrying it to the river.”} 
+#etcsl: line-id=B.8.b33.64
+
+@end proverb
+
+@div proverb 8.b34
+
+B.8.b34.65. ka₅-a {ŋiš}ilar-e mu-un-ni₁₀-ni₁₀
+#lem: kaʾa[fox]; illar[weapon: bow? throwstick? javelin?]; niŋin[encircle]
+#tr.en: A fox walked around a throw-stick: 
+#etcsl: line-id=B.8.b34.65
+
+B.8.b34.66. kaš-de₂-a ne-en dug₃-ga a-ba-a ba-ab-šum₂-mu-e-še
+#lem: kašdea[banquet]; nen[this]; dug[good]; aba[who?]; šum[give]
+#tr.en: @q{“Who is going to give a party as good as that?”} 
+#etcsl: line-id=B.8.b34.66
+
+@end proverb
+
+@div proverb 8.b35
+
+B.8.b35.67. ka₅-a lu₂-igi-ze₂-ze₂ u₃-bi₂-in-dab₅
+#lem: kaʾa[fox]; luʾigizeze[partially-sighted person]; dab[seize]
+#tr.en: A fox had been caught by a partially-sighted (?) man: @q{“Is this why you are crying?”} 
+#etcsl: line-id=B.8.b35.67
+
+B.8.b35.68. ne-eš₂ er₂ mu-e-še₈-še₈ šu ba-mu-u₈-e-še
+#lem: ineš[now]; er[tears]; šeš[weep]; šu[hand]; ba[allot]
+#tr.en: The fox replied: @q{“Set me free!”} 
+#etcsl: line-id=B.8.b35.68
+
+@end proverb
+
+@div proverb 8.b36
+
+B.8.b36.69. ur₂ ka₅-a-ka uzu al-du₈-e
+#lem: ur[loin]; kaʾa[fox]; uzu[flesh]; du[spread]
+#tr.en: Someone cooking (?) meat at the den (?) of a fox said: 
+#etcsl: line-id=B.8.b36.69
+
+B.8.b36.70. ugu {d}nin-kilim-ma!(DA) nu-um-me ba-ab-dug₄
+#lem: ugu[skull]; ninkilim[mongoose]; e[speak]; dug[speak]
+#tr.en: @q{“One doesn't mention this in front of the mongoose.”} 
+#etcsl: line-id=B.8.b36.70
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 8.c1
+
+C.8.c1.1. lu₂# še tuku-tuku X u₃ mu-un#-[ku-ku]
+#lem: lu[person]; še[barley]; tuku[acquire]; X; u[sleep]; ku[place]
+#tr.en: @note{= Veldhuis 2000 p. 392} The man who owns much barley may sleep (?). 
+#etcsl: line-id=C.8.c1.1
+
+#etcsl#eq = Veldhuis 2000c p. 392
+
+C.8.c1.2. X MU gud NE-ba-an
+#lem: X; X; gud[bull]; X
+#etcsl: line-id=C.8.c1.2
+
+@end proverb
+
+@div proverb 8.c2
+
+C.8.c2.3. dar#{mušen}-re im-du₃-a gu₃ u₃-bi₂#-[in-de₂]
+#lem: dar[bird]; imdua[mud wall]; gu[voice]; de[pour]
+#tr.en: @note{= Veldhuis 2000 p. 392} While the francolin calls out on the wall, the …… bird, 
+#etcsl: line-id=C.8.c2.3
+
+#etcsl#eq = Veldhuis 2000c p. 392
+
+C.8.c2.4. [he₂]-uš₂{mušen} 2 šu-si nu-la₂-e [...]
+#lem: heʾuš[type of bird]; n; šusi[finger]; la[hang]; X
+#tr.en: not measuring two fingers, ……. 
+#etcsl: line-id=C.8.c2.4
+
+@end proverb
+
+@div proverb 8.c3
+
+C.8.c3.5. [bi₂]-za#-[za]{mušen}-gu₃-balaŋ-ŋa₂-kar#-[gir₅-za-na]{[mušen]}
+#lem: bizazagubalaŋdikargirzana[bird]
+#tr.en: @note{= Veldhuis 2000 p. 392} When the @fsux{bizaza-gu-balaŋa-kar-girzana} bird @note{a nickname for the sparrow} twitters (?), 
+#etcsl: line-id=C.8.c3.5
+
+#etcsl#eq = Veldhuis 2000c p. 392
+
+C.8.c3.6. [...] ad u₃-mu-ni-in#-[ŋar]
+#lem: X; ad[voice]; ŋar[put]
+#tr.en: … 
+#etcsl: line-id=C.8.c3.6
+
+C.8.c3.7. [...] X UN eme en-nu-[...]
+#lem: X; X; X; eme[tongue]; X
+#tr.en: … tongue ……. 
+#etcsl: line-id=C.8.c3.7
+
+@end proverb
+
+@div proverb 8.c4
+
+C.8.c4.8. [...] X X X X X
+#lem: X; X; X; X; X; X
+#tr.en: $ (@note{= Veldhuis 2000 p. 392} ) $ (@gap{1 line fragmentary} @gap{approx. 10 lines missing}) 
+#etcsl: line-id=C.8.c4.8
+
+#etcsl#eq = Veldhuis 2000c p. 392
+
+@end proverb
+
+$ (approx. 10 lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 8.d1
+
+D.8.d1.1. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: $ (@note{= Alster 1997 8 Sec. C 1} ) 
+#etcsl: line-id=D.8.d1.1
+
+#etcsl#eq = Alster 1997 8 Sec. C 1
+
+D.8.d1.2. [X X] X al#-dug₄-e# [...]
+#lem: X; X; X; dug[speak]; X
+#tr.en: …… speaking ……; …… said ……. 
+#etcsl: line-id=D.8.d1.2
+
+D.8.d1.3. [...] gaz# ma-an-dug₄-e-[še]
+#lem: X; gaz[kill]; dug[speak]
+#etcsl: line-id=D.8.d1.3
+
+@end proverb
+
+@div proverb 8.d2
+
+D.8.d2.4. uga{mušen} {dug}sahar an-da#-[...]
+#lem: uga[raven]; sahar[vessel]; X
+#tr.en: @note{= Alster 1997 8 Sec. C 2} A raven had (?) a porous jar. 
+#etcsl: line-id=D.8.d2.4
+
+#etcsl#eq = Alster 1997 8 Sec. C 2
+
+D.8.d2.5. ka₅-a en₃ i-ni-in-tar X
+#lem: kaʾa[fox]; en[cvne]; tar[cut]; X
+#tr.en: A fox asked: 
+#etcsl: line-id=D.8.d2.5
+
+D.8.d2.6. me-am₃ i-ib₂-su₃-e
+#lem: mea[where?]; su[sprinkle]
+#tr.en: @q{“Where do you sprinkle the water?”} 
+#etcsl: line-id=D.8.d2.6
+
+D.8.d2.7. {id₂}idigna {id₂}buranun-na-še₃# i-ni-in-su₃-e
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; su[sprinkle]
+#tr.en: @q{“I sprinkle in the @wWN{Tigris} and the @wWN{Euphrates},”} 
+#etcsl: line-id=D.8.d2.7
+
+D.8.d2.8. a-na-aš-am₃ en₃ mu-e-tar-tar-re
+#lem: anaš[why?]; en[cvne]; tar[cut]
+#tr.en: it replied, @q{“Why do you ask?”} 
+#etcsl: line-id=D.8.d2.8
+
+@end proverb
+
+@div proverb 8.d3
+
+D.8.d3.9. a-zag-gun₃{mušen}-gin₇ igi-a aga X
+#lem: azagun[bird]; igi[eye]; aga[tiara]; X
+#tr.en: @note{= Alster 1997 8 Sec. C 3} Like an @fsux{azag-gun} bird you  
+#etcsl: line-id=D.8.d3.9
+
+#etcsl#eq = Alster 1997 8 Sec. C 3
+
+D.8.d3.10. [...] |DU.DU| [...]
+#lem: X; X; X
+#tr.en: wear a tiara over your eyes. 
+#etcsl: line-id=D.8.d3.10
+
+@end proverb
+
+@div proverb 8.d4
+
+D.8.d4.11. X mu#-e-de₃-KU [X X] X
+#lem: X; X; X; X; X
+#tr.en: $ (@note{= Alster 1997 8 Sec. C 4} ) $ (@gap{2 lines fragmentary}) 
+#etcsl: line-id=D.8.d4.11
+
+#etcsl#eq = Alster 1997 8 Sec. C 4
+
+D.8.d4.12. [...]-le-en-de₃#-[en]
+#lem: X
+#etcsl: line-id=D.8.d4.12
+
+@end proverb
+
+@div proverb 8.d5
+
+D.8.d5.13. [...] igi# dar# [X X] X
+#lem: X; igi[eye]; dar[split]; X; X; X
+#tr.en: $ (@note{= Alster 1997 8 Sec. C 5} ) $ (@gap{1 line fragmentary} @gap{approx. 20 lines missing}) 
+#etcsl: line-id=D.8.d5.13
+
+#etcsl#eq = Alster 1997 8 Sec. C 5
+
+@end proverb
+
+$ (approx. 20 lines missing)
+@end segment
+
+@div segment E
+
+@div proverb 8.e1
+
+E.8.e1.1. {ŋiš}ŋišnimbar lugal-e# [...]
+#lem: ŋešnimbar[date-palm]; lugal[king]; X
+#tr.en: @note{= Alster 1997 8 Sec. D 1} A date-palm …… to its owner: 
+#etcsl: line-id=E.8.e1.1
+
+#etcsl#eq = Alster 1997 8 Sec. D 1
+
+E.8.e1.2. TAR NE-NE-me šu-gi# [...]
+#lem: X; X; šugi[senior]; X
+#tr.en: @q{“Our …… are old (?) ……. 
+#etcsl: line-id=E.8.e1.2
+
+E.8.e1.3. ŋiš-gin₇ su-zu-še₃ a-ra-[X X]
+#lem: ŋeš[tree]; su[flesh]; X; X
+#tr.en: Like a tree, they are …… to your relatives.”} 
+#etcsl: line-id=E.8.e1.3
+
+@end proverb
+
+@div proverb 8.e2
+
+E.8.e2.4. ŋiš#-e GA uš-bar-bi i-ni-in-X
+#lem: ŋeš[tree]; X; ušbar[father-in-law]; X
+#tr.en: @note{= Alster 1997 8 Sec. D 2} A tree …… to its relative: 
+#etcsl: line-id=E.8.e2.4
+
+#etcsl#eq = Alster 1997 8 Sec. D 2
+
+E.8.e2.5. [ŋe₂₆]-e# u₃ za-e šeš-me-en-de₃-en
+#lem: ŋaʾe[I]; u[and]; zaʾe[you]; šeš[brother]
+#tr.en: @q{“You and I are brothers. Why are you afraid?”} 
+#etcsl: line-id=E.8.e2.5
+
+E.8.e2.6. a-na#-aš-am₃ šag₄ ba-ni-dar-re
+#lem: anaš[why?]; šag[heart]; dar[split]
+#tr.en: @q{“Look, what am I to do? 
+#etcsl: line-id=E.8.e2.6
+
+E.8.e2.7. DU# ŋe₂₆-e a-na-a! ga-ba-ak
+#lem: X; ŋaʾe[I]; ana[what?]; ak[do]
+#tr.en: A stone stronger than me is being hurled at me,”} 
+#etcsl: line-id=E.8.e2.7
+
+E.8.e2.8. na₄ dirig ŋe₂₆-e al-kal-la-ge ugu-ŋa₂ i₃-ra-ra-e-še
+#lem: na[stone weight]; dirig[make more than]; ŋaʾe[I]; kalag[strong]; ugu[skull]; rah[beat]
+#tr.en: it said. 
+#etcsl: line-id=E.8.e2.8
+
+@end proverb
+
+@div proverb 8.e3
+
+E.8.e3.9. ŋiš-e {ŋiš!}uš-bar-bi he₂-eb-dar-re
+#lem: ŋeš[tree]; ušbar[father-in-law]; dar[split]
+#tr.en: @note{= Alster 1997 8 Sec. D 3} Let the tree split its relative. 
+#etcsl: line-id=E.8.e3.9
+
+#etcsl#eq = Alster 1997 8 Sec. D 3
+
+@end proverb
+
+@div proverb 8.e4
+
+E.8.e4.10. {ŋiš}gu-za igi-du₈-a kan₄-na gub-gub
+#lem: guza[chair]; igidu[audience gift]; kan[gate]; gub[stand]
+#tr.en: @note{= Alster 1997 8 Sec. D 4} A chair always stands at the doorway as an audience gift. 
+#etcsl: line-id=E.8.e4.10
+
+#etcsl#eq = Alster 1997 8 Sec. D 4
+
+@end proverb
+
+@div proverb 8.e5
+
+E.8.e5.11. {ŋiš}banšur in-hul₂ id₂-da i₃ mu-sur
+#lem: banšur[table]; hul[rejoice]; id[river]; i[oil]; sur[press]
+#tr.en: @note{= Alster 1997 8 Sec. D 5} The table rejoiced. It pressed oil into the river: 
+#etcsl: line-id=E.8.e5.11
+
+#etcsl#eq = Alster 1997 8 Sec. D 5
+
+E.8.e5.12. {ŋiš#}banšur igi-zu-še₃ al-ŋa₂-ŋa₂
+#lem: banšur[table]; igi[eye]; ŋar[put]
+#tr.en: @q{“The table is set before you!”} Whether it ate it or not, 
+#etcsl: line-id=E.8.e5.12
+
+E.8.e5.13. i₃#-gu₇ nu-gu₇# X X-e# mu#-zu-e-še
+#lem: gu[eat]; gu[eat]; X; X; zu[know]
+#tr.en: ……. 
+#etcsl: line-id=E.8.e5.13
+
+@end proverb
+
+@div proverb 8.e6
+
+E.8.e6.14. {ŋiš}ig erin#-na-ke₄ tug₂ ki-sikil ŋar-ra LI-ta la₂ [...]
+#lem: ig[door]; eren[cedar]; tug[textile]; kisikil[young woman]; ŋar[put]; X; la[hang]; X
+#tr.en: @note{= Alster 1997 8 Sec. D 6} The cedar door …… the garment ……. 
+#etcsl: line-id=E.8.e6.14
+
+#etcsl#eq = Alster 1997 8 Sec. D 6
+
+@end proverb
+
+@div proverb 8.e7
+
+E.8.e7.15. {ŋiš}buniŋ(SUG)-me ŋeštin si-si-še₃ ŋeštug bar-ta-am₃
+#lem: buniŋ[trough]; ŋeštin[vine]; si[fill]; ŋeštug[ear]; bar[outside]
+#tr.en: @note{= Alster 1997 8 Sec. D 7} On our trough full of grapes the ears are hanging outside. 
+#etcsl: line-id=E.8.e7.15
+
+#etcsl#eq = Alster 1997 8 Sec. D 7
+
+@end proverb
+
+@div proverb 8.e8
+
+E.8.e8.16. {ŋiš}ilar {lu₂}ni₂-zuh ugu udu keše₂-da am₃-šub
+#lem: illar[weapon: bow? throwstick? javelin?]; nizuh[thief]; ugu[skull]; udu[sheep]; kešed[bind]; šub[fall]
+#tr.en: @note{= Alster 1997 8 Sec. D 8} The thief hurls a throw-stick toward a bound sheep. 
+#etcsl: line-id=E.8.e8.16
+
+#etcsl#eq = Alster 1997 8 Sec. D 8
+
+@end proverb
+
+@div proverb 8.e9
+
+E.8.e9.17. {ŋiš}ilar-e [...]
+#lem: illar[weapon: bow? throwstick? javelin?]; X
+#tr.en: @note{= Alster 1997 8 Sec. D 9} A throw-stick ……. 
+#etcsl: line-id=E.8.e9.17
+
+#etcsl#eq = Alster 1997 8 Sec. D 9
+
+@end proverb
+
+@div proverb 8.e10
+
+E.8.e10.18. {ŋiš}kun₄ im#-[...]
+#lem: kuŋ[stair(case)]; X
+#tr.en: @note{= Alster 1997 8 Sec. D 10} A ladder ……. 
+#etcsl: line-id=E.8.e10.18
+
+#etcsl#eq = Alster 1997 8 Sec. D 10
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

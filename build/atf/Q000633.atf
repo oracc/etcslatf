@@ -1,0 +1,183 @@
+&Q000633 = A balbale to Inana (Dumuzid-Inana B)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.02
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.02&display=Crit&charenc=gcirc#
+
+1. lu-bi-ŋu₁₀ lu#-bi-ŋu₁₀ lu-bi-ŋu₁₀
+#lem: lubi[term of endearment]; lubi[term of endearment]; lubi[term of endearment]
+#tr.en: @q[Dumuzid,Inana]{“My dearest, my dearest, my dearest, 
+#etcsl: line-id=1
+
+2. la-bi-ŋu₁₀ la-bi-ŋu₁₀# lal₃ ama ugu-na-ŋu₁₀
+#lem: labi[term of endearment]; labi[term of endearment]; lal[syrup]; ama[mother]; ugu[bear]
+#tr.en: my darling, my darling, my honey of her own mother, 
+#etcsl: line-id=2
+
+3. ŋeštin duru₅-ŋu₁₀ lal₃ ku₇-ku₇#-ŋu₁₀ ka lal₃ ama-na-ŋu₁₀
+#lem: ŋeštin[vine]; duru[wet]; lal[syrup]; kud[sweet]; kag[mouth]; lal[syrup]; ama[mother]
+#tr.en: my sappy vine, my honey-sweet, my honey-mouthed of her mother!”} 
+#etcsl: line-id=3
+
+4. igi-za igi du₈-ru-na-bi ma-dug₃ ŋen nin₉ ki aŋ₂-ŋu₁₀
+#lem: igi[eye]; igi[eye]; du[spread]; dug[good]; ŋen[go]; nin[sister]; ki[place]; aŋ[measure]
+#tr.en: @q{“The gazing of your eyes is pleasant to me; come my beloved sister. 
+#etcsl: line-id=4
+
+5. ka-za gu₃ di-di-bi ma-dug₃ ka lal₃ ama-na-ŋu₁₀
+#lem: kag[mouth]; gu[voice]; di[speak]; dug[good]; kag[mouth]; lal[syrup]; ama[mother]
+#tr.en: The speaking of your mouth is pleasant to me, my honey-mouthed of her mother. 
+#etcsl: line-id=5
+
+6. nundum-za ne su-ub-bi ma-dug₃ ŋen nin₉ ki aŋ₂-ŋu₁₀
+#lem: nundum[lip]; ne[cvne]; sub[rub]; dug[good]; ŋen[go]; nin[sister]; ki[place]; aŋ[measure]
+#tr.en: The kissing of your lips is pleasant to me; come my beloved sister.”} 
+#etcsl: line-id=6
+
+7. nin₉-ŋu₁₀ še-za kaš-bi in-dug₃ ka lal₃ ama-na-ŋu₁₀
+#lem: nin[sister]; še[barley]; kaš[beer]; dug[good]; kag[mouth]; lal[syrup]; ama[mother]
+#tr.en: @q{“My sister, the beer of your barley is good, my honey-mouthed of her mother. 
+#etcsl: line-id=7
+
+8. bappir-za gu₂-me-ze₂-bi# in-dug₃ ŋen nin₉ ki aŋ₂-ŋu₁₀
+#lem: bappir[an ingredient in beer-making]; gumeze[beer]; dug[good]; ŋen[go]; nin[sister]; ki[place]; aŋ[measure]
+#tr.en: The ale of your beer-bread is good; come my beloved sister. 
+#etcsl: line-id=8
+
+9. e₂-a la-la-zu X X X X ka lal₃# ama-na-ŋu₁₀
+#lem: e[house]; lala[plenty]; X; X; X; X; kag[mouth]; lal[syrup]; ama[mother]
+#tr.en: In the house, your luxuriance ……, my honey-mouthed of her mother. 
+#etcsl: line-id=9
+
+10. nin₉-ŋu₁₀ la-la-zu X X [...] X ki aŋ₂-ŋu₁₀
+#lem: nin[sister]; lala[plenty]; X; X; X; X; ki[place]; aŋ[measure]
+#tr.en: My sister, your luxuriance ……, my beloved ……. 
+#etcsl: line-id=10
+
+11. e₂-zu {e₂}šutum# X ak ka [lal₃ ama-na]-ŋu₁₀#
+#lem: e[house]; šutum[storehouse]; X; ak[do]; kag[mouth]; lal[syrup]; ama[mother]
+#tr.en: Your house …… a storehouse, my honey-mouthed of her mother. 
+#etcsl: line-id=11
+
+12. za-e dumu lugal-la LA X X X X X X-ŋu₁₀
+#lem: zaʾe[you]; dumu[child]; lugal[king]; X; X; X; X; X; X; X
+#tr.en: You princess, my …….”} 
+#etcsl: line-id=12
+
+13. mu-un-til₃-le-na mu-un-til₃-le-na %es na-aŋ₂-erim₂ %s ma-kud-de₃-en
+#lem: til[live (of a single person)]; til[live (of a single person)]; naŋerim[oath]N/na-aŋ₂-erim₂#~; kud[cut]
+#tr.en: @q[Inana,Dumuzid]{“For as long as you live, as long as you live, you shall take an oath for me, 
+#etcsl: line-id=13
+
+14. šeš %e uru₂ %s bar-ra mu-un-til₃-le-nam %es na-aŋ₂-erim₂ %s ma-kud-de₃-en
+#lem: šeš[brother]; uru[city]; bar[outside]; til[live (of a single person)]; naŋerim[oath]; kud[cut]
+#tr.en: brother of the countryside, for as long as you live you shall take an oath for me. 
+#etcsl: line-id=14
+
+15. lu₂-kur₂-ra šu nu-mu-ni-in-dug₄-ga %e na-aŋ₂-erim₂ %s ma-kud-de₃-en
+#lem: lukur[stranger]; šu[hand]; dug[speak]; naŋerim[oath]; kud[cut]
+#tr.en: You shall take an oath for me that you will not touch another. 
+#etcsl: line-id=15
+
+16. lu₂-kur₂-ra saŋ NU X [...]-ba-a %es na-aŋ₂-erim₂ %s ma-kud-de₃-en
+#lem: lukur[stranger]; saŋ[head]; X; X; X; naŋerim[oath]; kud[cut]
+#tr.en: You shall take an oath for me that you will not …… your head on anyone else.”} 
+#etcsl: line-id=16
+
+17. %e {tug₂}aŋ₂-lam₂ %s sal-la ma-il₂#-la-a-ŋu₁₀
+#lem: aŋlam[garment]; sal[thin]; il[raise]
+#tr.en: @q{“My one who wears the …… @fsux{niŋlam} garment, my beloved, 
+#etcsl: line-id=17
+
+18. ki-ig-ga aŋ₂-ŋu₁₀ %e mu-lu %s %e [ša₃-ab]-ŋa₂#
+#lem: ki[place]; aŋ[measure]; mulu[person]N; šab[heart]N
+#tr.en: man of my heart! I shall impose an oath …… on you, 
+#etcsl: line-id=18
+
+19. X %e na-aŋ₂-erim₂-ma [du₅-mu-ra-an]-mar#-mar %s šeš %e i-bi₂# %s [sag₉-sag₉]-ŋu₁₀#
+#lem: X; naŋerim[oath]N/na-aŋ₂-erim₂+-ma=m.a#~,ak; mar[place]V/t; šeš[brother]; ibi[eye]N; sag[good]
+#tr.en: my brother of the beautiful eyes. My brother, 
+#etcsl: line-id=19
+
+20. šeš-ŋu₁₀ %e na-aŋ₂-erim₂-ma du₅-mu-ra-an-mar-mar %s šeš %e i-bi₂ %s sag₉-sag₉-ŋu₁₀
+#lem: šeš[brother]; naŋerim[oath]; mar[place]V/t; šeš[brother]; ibi[eye]N; sag[good]
+#tr.en: I shall impose an oath on you, my brother of the beautiful eyes.”} 
+#etcsl: line-id=20
+
+21. šu zid-da-zu gal₄-la-ŋa₂ %e de₃-em-mar
+#lem: šu[hand]; zid[right]; gala[female genitals]; mar[place]V/t
+#tr.en: @q{“You are to place your right hand on my genitals while your left hand rests on my head, 
+#etcsl: line-id=21
+
+22. gab₂-bu-zu saŋ-ŋu₁₀-uš im-ši-ri
+#lem: gab[left (hand)]; saŋ[head]; ri[impose]
+#tr.en: bringing your mouth close to my mouth, 
+#etcsl: line-id=22
+
+23. ka-zu ka-ŋa₂ um-me-te
+#lem: kag[mouth]; kag[mouth]; teŋ[approach]
+#tr.en: and taking my lips in your mouth: 
+#etcsl: line-id=23
+
+24. %e šu-um-du-um-ŋu₁₀ %s ka-za u₃-ba-e-ni-dab₅
+#lem: šumdum[lip]N; kag[mouth]; dab[seize]
+#tr.en: thus you shall take an oath for me. 
+#etcsl: line-id=24
+
+25. za-e ur₅-ta %e na-aŋ₂-erim₂ %s ma-kud-de₃-en
+#lem: zaʾe[you]; ur[that]; naŋerim[oath]; kud[cut]
+#tr.en: This is the oath of women, 
+#etcsl: line-id=25
+
+26. ur₅-ra-am₃ mu munus-e-ne-kam šeš %e i-bi₂ %s sag₉-sag₉-ŋu₁₀
+#lem: ur[that]; mu[name]; munus[woman]; šeš[brother]; ibi[eye]N; sag[good]
+#tr.en: my brother of the beautiful eyes.”} 
+#etcsl: line-id=26
+
+27. ul gur₃-ru-ŋu₁₀ ul gur₃-ru-ŋu₁₀ hi-li-zu %e ze₂-ba-am₃
+#lem: ul[swell]; gur[lift]; ul[swell]; gur[lift]; hili[attractiveness]; zeb[good]V/i
+#tr.en: @q{“My desirable one, my desirable one, your charms are lovely, 
+#etcsl: line-id=27
+
+28. {ŋiš}kiri₆ {ŋiš}hašhur-a ul gur₃-ru-ŋu₁₀ hi-li-zu %e ze₂-ba-am₃
+#lem: kiri[(fruit) plantation]; hašhur[apple (tree)]; ul[swell]; gur[lift]; hili[attractiveness]; zeb[good]V/i
+#tr.en: my desirable apple garden, your charms are lovely. My fruitful garden of @fsux{meš} trees, 
+#etcsl: line-id=28
+
+29. {ŋiš}kiri₆ {ŋiš}meš₃-a gurun il₂-la-ŋu₁₀ hi-li-zu %e ze₂-ba-am₃
+#lem: kiri[(fruit) plantation]; mes[tree]; gurun[fruit]; il[raise]; hili[attractiveness]; zeb[good]V/i
+#tr.en: your charms are lovely, my one who is in himself @wDN{Dumuzid-abzu}, 
+#etcsl: line-id=29
+
+30. %e du₅-mu-zid-abzu %s ni₂-te-na-ŋu₁₀!(NI) hi-li-zu %e ze₂-ba-am₃
+#lem: Dumuzidabzuk[1]DN; ni[self]; hili[attractiveness]; zeb[good]V/i
+#tr.en: your charms are lovely. My holy statuette, my holy statuette, 
+#etcsl: line-id=30
+
+31. dim₃ kug-ga-ŋu₁₀ dim₃ kug-ga-ŋu₁₀ hi-li-zu %e ze₂-ba-am₃
+#lem: dima[small object]; kug[pure]; dima[small object]; kug[pure]; hili[attractiveness]; zeb[good]V/i
+#tr.en: your charms are lovely. My alabaster statuette adorned with a lapis-lazuli jewel, 
+#etcsl: line-id=31
+
+32. dim₃ ŋiš-nu₁₁-gal suh za-gin₃ keše₂ hi-li-zu %e ze₂-ba-am₃
+#lem: dima[small object]; ŋešnugal[alabaster]; suh[crown]; zagin[lapis lazuli]; kešed[bind]; hili[attractiveness]; zeb[good]V/i
+#tr.en: your charms are lovely.”} 
+#etcsl: line-id=32
+
+@div trailer 
+
+33. bal-bal-e {d}inana-kam
+#lem: balbale[literary subscript]; Inanak[1]DN
+#tr.en: A @fsux{balbale} song of @wDN{Inana}. 
+#etcsl: line-id=33
+
+@end trailer
+
+
+
+
+
+
+

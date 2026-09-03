@@ -1,0 +1,214 @@
+&Q000373 = The history of the Tummal
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.1.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.3&display=Crit&charenc=gcirc#
+
+1. en-me-barag-ge₄-e-si lugal-e
+#lem: Enmebaragesi[2]RN; lugal[king]
+#tr.en: @wRN{En-me-barage-si}, the king, 
+#etcsl: line-id=1
+
+2. iri-na-nam e₂ {d}en-lil₂-la₂ in-du₃
+#lem: Irinanam[1]TN; e[house]; Enlil[1]DN; du[build]
+#tr.en: built the @wTN{Iri-nanam} in @wDN{Enlil's} temple. 
+#etcsl: line-id=2
+
+3. ag-ga dumu en-me-barag-ge₄-e-si-ke₄
+#lem: Aga[1]RN; dumu[child]; Enmebaragesi[2]RN
+#tr.en: @wRN{Aga}, 
+#etcsl: line-id=3
+
+4. tum-ma-al{ki}-e pa bi₂-i-e₃
+#lem: Tummal[1]TN; pa[branch]; e[leave]
+#tr.en: son of @wRN{En-me-barage-si}, 
+#etcsl: line-id=4
+
+5. {d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+#lem: Ninlil[1]DN; Tummal[1]TN; tum[bring]
+#tr.en: made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. 
+#etcsl: line-id=5
+
+6. a-ra₂ 1-a-kam tum-ma-al{ki} ba-šub
+#lem: ara[times (with numbers)]; n; Tummal[1]TN; šub[fall]
+#tr.en: Then the @wTN{Tummal} fell into ruins for the first time. 
+#etcsl: line-id=6
+
+7. (1:{m}meš₃-an-ne₂-pad₃-da:1) bur-šu₂-šu₂-a e₂ {d}en-lil₂-la₂ in-du₃
+#lem: Mešanepada[1]RN; Buršušua[1]TN; e[house]; Enlil[1]DN; du[build]
+#tr.en: @wRN{Meš-Ane-pada} built the @wTN{Bur-šušua} in @wDN{Enlil's} temple. 
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) {d}meš₃-an-ne₂-pad₃-da
+#lem: Mešanepada[1]RN
+
+8. (1:{m}meš₃-ki-aŋ₂-nun-na:1) dumu meš₃-an-ne₂-pad₃-da-ke₄
+#lem: Meškiaŋnuna[1]RN; dumu[child]; Mešanepada[1]RN
+#tr.en: @wRN{Meš-ki-aŋ-nuna}, 
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) {d}meš₃-ki-aŋ₂-nun-na
+#lem: Meškiaŋnuna[1]RN
+
+9. tum-ma-al{ki}-e pa bi₂-i-e₃
+#lem: Tummal[1]TN; pa[branch]; e[leave]
+#tr.en: son of @wRN{Meš-Ane-pada}, 
+#etcsl: line-id=9
+
+10. {d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+#lem: Ninlil[1]DN; Tummal[1]TN; tum[bring]
+#tr.en: made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. 
+#etcsl: line-id=10
+
+11. a-ra₂ 2-a-kam tum-ma-al{ki} ba-šub
+#lem: ara[times (with numbers)]; n; Tummal[1]TN; šub[fall]
+#tr.en: Then the @wTN{Tummal} fell into ruins for a second time. 
+#etcsl: line-id=11
+
+12. {d}gilgameš₃-e numun₂-bur-ra barag {d}en-lil₂-la₂ in-du₃
+#lem: Gilgameš[1]DN; Numunbura[1]TN; barag[sanctum]; Enlil[1]DN; du[build]
+#tr.en: @wRN{Gilgameš} built the @wTN{Numunbura} in @wDN{Enlil's} shrine. 
+#etcsl: line-id=12
+
+#etcsl#ms in 1 ms. lines 12-16 precede lines 7-11
+
+13. {m}ur-lugal dumu {d}gilgameš₃-ke₄
+#lem: Urlugal[1]RN; dumu[child]; Gilgameš[1]DN
+#tr.en: @wRN{Ur-lugal}, 
+#etcsl: line-id=13
+
+14. tum-ma-al{ki}-e pa bi₂-i-e₃
+#lem: Tummal[1]TN; pa[branch]; e[leave]
+#tr.en: son of @wRN{Gilgameš}, 
+#etcsl: line-id=14
+
+15. {d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+#lem: Ninlil[1]DN; Tummal[1]TN; tum[bring]
+#tr.en: made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. 
+#etcsl: line-id=15
+
+16. a-ra₂ 3-a-kam tum-ma-al{ki} ba-šub
+#lem: ara[times (with numbers)]; n; Tummal[1]TN; šub[fall]
+#tr.en: Then the @wTN{Tummal} fell into ruins for a third time. 
+#etcsl: line-id=16
+
+17. (1:na-an-ni:1) {ŋiš}kiri₆ mah e₂ {d}en-lil₂-la₂ in-du₃
+#lem: Nanni[1]RN; kiri[(fruit) plantation]; mah[great]; e[house]; Enlil[1]DN; du[build]
+#tr.en: @wRN{Nanni} built the Lofty Garden in @wDN{Enlil's} temple. 
+#etcsl: line-id=17
+
+:17v.1.1: ($1 ms. has instead:$) {d}na-an-ni
+#lem: Nanni[1]RN
+
+18. (1:{m}meš₃-ki-aŋ₂-{d}nanna:1) dumu (2:na-an-ni-ke₄:2)
+#lem: Meškiaŋnanna[1]RN; dumu[child]; Nanni[1]RN
+#tr.en: @wRN{Meš-ki-aŋ-@wDN{Nanna}}, 
+#etcsl: line-id=18
+
+:18v.1.1: ($Urim mss. have:$) {d}meš₃-ki-aŋ₂-{d}nanna
+#lem: Meškiaŋnanna[1]RN
+:18v.2.1: ($Urim mss. have:$) {m}na-an-ni-ke₄
+#lem: Nanni[1]RN
+
+19. tum-ma-al{ki}-e pa bi₂-i-e₃
+#lem: Tummal[1]TN; pa[branch]; e[leave]
+#tr.en: son of @wRN{Nanni}, 
+#etcsl: line-id=19
+
+20. {d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+#lem: Ninlil[1]DN; Tummal[1]TN; tum[bring]
+#tr.en: made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. 
+#etcsl: line-id=20
+
+21. a-ra₂ 4-a-kam tum-ma-al{ki} ba-šub
+#lem: ara[times (with numbers)]; n; Tummal[1]TN; šub[fall]
+#tr.en: Then the @wTN{Tummal} fell into ruins for a fourth time. 
+#etcsl: line-id=21
+
+22. (1:{d}ur-{d}namma-ke₄:1) e₂-kur in-du₃
+#lem: Urnamma[1]RN; Ekur[1]TN; du[build]
+#tr.en: @wRN{Ur-@wDN{Namma}}, built the @wTN{E-kur}. 
+#etcsl: line-id=22
+
+:22v.1.1: ($1 ms. has instead:$) {m}ur-{d}namma-ke₄
+#lem: Urnamma[1]RN
+
+23. (1:šul-gi:1) dumu {d}ur-{d}namma-ke₄
+#lem: Šulgir[1]RN; dumu[child]; Urnamma[1]RN
+#tr.en: @wRN{Šulgi}, 
+#etcsl: line-id=23
+
+:23v.1.1: ($Urim mss. have:$) {d}šul-gi
+#lem: Šulgir[1]RN
+
+24. tum-ma-al{ki}-e pa bi₂-i-e₃
+#lem: Tummal[1]TN; pa[branch]; e[leave]
+#tr.en: son of @wRN{Ur-@wDN{Namma}}, 
+#etcsl: line-id=24
+
+25. {d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+#lem: Ninlil[1]DN; Tummal[1]TN; tum[bring]
+#tr.en: made the @wTN{Tummal} flourish and brought @wDN{Ninlil} into the @wTN{Tummal}. 
+#etcsl: line-id=25
+
+26. a-ra₂ 5-a-kam tum-ma-al{ki} ba-šub
+#lem: ara[times (with numbers)]; n; Tummal[1]TN; šub[fall]
+#tr.en: Then the @wTN{Tummal} fell into ruins for a fifth time. 
+#etcsl: line-id=26
+
+@variants
+
+27. mu {d}amar-{d}suen-ka-ta
+#lem: mu[year]; Amarsuenak[1]RN
+#tr.en: From the years of @varh[t213.v1]{@wRN{Amar-@wDN{Suena}}  
+#etcsl: line-id=27
+
+@variant
+
+#etcsl#ms 1 ms. has instead:
+27a. {d}šu-{d}suen-ta
+#lem: Šusuen[1]RN
+#tr.en: } @vart[t213.v2,t213.v1]{@varn{1 ms. has instead:} @wRN{Šu-@wDN{Suen}} } until King @wRN{Ibbi-@wDN{Suen}} chose  
+#etcsl: line-id=27a
+
+@endvariants
+28. en-na mu {d}i-bi₂-{d}suen lugal-e
+#lem: enna[until]; mu[year]; Ibbisuen[1]RN; lugal[king]
+#tr.en: @varh[t213.v3]{@wPN{En-am-gal-ana} } @vart[t213.v4,t213.v3]{@varn{1. ms. has instead:} @wPN{En-me-gal-ana} } by extispicy as the high priest of @wDN{Inana} of @wSN{Unug}, 
+#etcsl: line-id=28
+
+29. (1:en-am-gal-an-na:1) en {d}inana unug{ki}-ga maš₂-e in-pad₃-de₃
+#lem: Enamgalanak[1]PN; en[priest]; Inanak[1]DN; Unug[1]SN; maš[goat]; pad[find]
+#tr.en: @wDN{Ninlil} came regularly to the @wTN{Tummal}. 
+#etcsl: line-id=29
+
+:29v.1.1: ($1. ms. has instead:$) en-me-gal-an-na
+#lem: Enmegalanak[1]PN
+
+30. {d}nin-lil₂ tum-ma-al{ki}-še₃ i-ŋen-ŋen
+#lem: Ninlil[1]DN; Tummal[1]TN; ŋen[go]
+#etcsl: line-id=30
+
+31. inim lu₂-{d}inana ašgab gal {d}en-lil₂-la₂-še₃ sar-re
+#lem: inim[word]; Luinana[1]PN; ašgab[leatherworker]; gal[big]; Enlil[1]DN; sar[write]
+#tr.en: Written according to the words of @wPN{Lu-Inana} the chief leatherworker of @wDN{Enlil}. 
+#etcsl: line-id=31
+
+32. {d}iš-bi-er₃-ra e₂-kur igi ŋal₂-la₂
+#lem: Išbierra[1]RN; Ekur[1]TN; igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: @wRN{Išbi-@wDN{Erra}}, who looks after the @wTN{E-kur}, 
+#etcsl: line-id=32
+
+33. {e₂}šutum {d}en-lil₂-la₂ in-du₃
+#lem: šutum[storehouse]; Enlil[1]DN; du[build]
+#tr.en: built the storehouse of @wDN{Enlil}. 
+#etcsl: line-id=33
+
+
+
+
+
+
+

@@ -1,0 +1,857 @@
+&Q000407 = A praise poem of Šulgi (Šulgi O)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.15
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.15&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. iri mu-bi-gin₇ me-a tum₂-ma
+#lem: iri[city]; mu[name]; me[Being]; tum[suitable]
+#tr.en: City worthy of the divine powers, according to its name: shrine @wSN{Urim}, raging storm of @wGN{Sumer}, battleground -- and well established! Origin of human seed, consolidating the foundations of the Land, abundance -- and well established! Lofty dais of @wDN{An}, pure place, holy place, provider of first-fruit offerings for @wDN{An} to refresh himself, dripping with syrup and wine -- and well established! @wTN{Du-ur}, celebrated place of @wDN{Enlil}, in whose interior are the assigned divine powers, place whose destiny was decreed by Father @wDN{Enlil}, great dais -- and well established! @wSN{Eridug}, shrine expert in decreeing the fates, with princely divine powers, pure divine powers -- and well established! @wTN{E-kiš-nu-ŋal}, cattle-pen of @wDN{Suen}, where fecund cows, breed-bulls and holy calves gambol together, producing fine cream -- and well established! @fsux{Abzu}, holy residence of youthful @wDN{Suen}, tall crook lifting its head towards heaven, a marvel -- and well established! 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue in the Louvre, 0.2.02, line 62
+
+A.2. eš₃ urim₂{ki} ud huš ki-en-gi-ra me₃ ki us₂-sa
+#lem: eš[shrine]; Urim[1]SN; ud[storm]; huš[reddish]; Kengir[1]; me[battle]; ki[place]; us[accompany]
+#etcsl: line-id=A.2
+
+A.3. numun i-i suhuš kalam-ma gen₆-ne₂ he₂-ŋal₂ ki us₂-sa
+#lem: numun[seed]; e[bring out]; suhuš[foundation]; kalam[the Land (of Sumer)]; gin[confirm]; heŋal[plenty]; ki[place]; us[accompany]
+#etcsl: line-id=A.3
+
+A.4. barag mah an-na ki kug ki sikil
+#lem: barag[sanctum]; mah[great]; An[1]DN; ki[place]; kug[purify]; ki[place]; sikil[purify]
+#etcsl: line-id=A.4
+
+A.5. niŋ₂-saŋ gu₇ an-ne₂ ni₂ te-en-ten lal₃ ŋeštin biz-biz-ze₂-da ki us₂-sa
+#lem: nesaŋ[first-fruit offering]; gu[eat]; An[1]DN; ni[self]; ten[extinguish]; lal[syrup]; ŋeštin[vine]; biz[trickle]; ki[place]; us[accompany]
+#etcsl: line-id=A.5
+
+A.6. du₆-ur₂ ki mu tuku {d}en-lil₂-la₂ šag₄-bi me hal-ha
+#lem: Duʾur[1]TN; ki[place]; mu[name]; tuku[acquire]; Enlil[1]DN; šag[heart]; me[Being]; hal[divide]
+#etcsl: line-id=A.6
+
+A.7. ki nam tar-ra a-a {d}en-lil₂-la₂ barag gal ki us₂-sa
+#lem: ki[place]; nam[fate]; tar[cut]; aya[father]; Enlil[1]DN; barag[sanctum]; gal[big]; ki[place]; us[accompany]
+#etcsl: line-id=A.7
+
+A.8. eridug{ki} eš₃ kug-zu nam tar-ra me nun me sikil-la ki us₂-sa
+#lem: Eridug[1]SN; eš[shrine]; kugzu[wise]; nam[fate]; tar[cut]; me[Being]; nun[prince]; me[Being]; sikil[pure]; ki[place]; us[accompany]
+#etcsl: line-id=A.8
+
+A.9. e₂-kiš-nu-ŋal₂-la tur₃ {d}suen-na
+#lem: Ekišnuŋal[1]TN; tur[animal stall]; Suen[1]DN
+#etcsl: line-id=A.9
+
+A.10. ab₂ zid {gud}ninda₂ amar kug-ge a-ne di i₃ dug₃-ga ki us₂-sa
+#lem: ab[cow]; zid[right]; ninda[breeding bull]; amar[calf]; kug[pure]; ene[pleasure?]; di[speak]; i[oil]; dug[good]; ki[place]; us[accompany]
+#etcsl: line-id=A.10
+
+A.11. abzu ki-tuš kug šul {d}suen-na
+#lem: abzu[(cosmic) underground water]; kituš[dwelling place]; kug[purify]; šul[youth]; Suen[1]DN
+#etcsl: line-id=A.11
+
+A.12. {ŋiš}ešgiri₂ mah an-na saŋ il₂-la u₆ di ki us₂-sa
+#lem: ešgiri[staff]; mah[great]; an[sky]; saŋ[head]; il[raise]; u[admiration]; di[speak]; ki[place]; us[accompany]
+#etcsl: line-id=A.12
+
+A.13. ŋi₆-par₄ eš₃ nam-hi-li du₃-a me zid nam-en-na ki us₂-sa
+#lem: ŋipar[cloister]; eš[shrine]; namhili[charm]; du[build]; me[Being]; zid[right]; namen[the office of en-priest]; ki[place]; us[accompany]
+#tr.en: @fsux{Ŋipar}, shrine built in exuberance, 
+#etcsl: line-id=A.13
+
+A.14. en nun-na mu gal-zu sikil-la-am₃
+#lem: en[priest]; nun[prince]; mu[name]; gal[big]; sikil[pure]
+#tr.en: with the true divine powers of the rank of @fsux{en} priestess -- and well established! Princely (?) @fsux{en} priestess, 
+#etcsl: line-id=A.14
+
+A.15. suh bur₂-bur₂ {d}nanna ki-tuš dug₃-ge inim dug₃ niŋ₂-si-sa₂-e ki us₂-sa
+#lem: suh[crown]; bur[spread out]; Nanna[1]DN; kituš[dwelling place]; dug[good]; inim[word]; dug[good]; niŋsisa[justice]; ki[place]; us[accompany]
+#tr.en: your great name is pure; loosener of the headdress of @wDN{Nanna} who makes the dwelling pleasant, 
+#etcsl: line-id=A.15
+
+A.16. id₂-nun-kug a zal-le gal-gal-la kun-zu-še₃ ku₆ mušen ki us₂-sa
+#lem: Idnunkug[1]WN; a[water]; zal[pass time]; gal[big]; kun[tail]; kud[fish]; mušen[bird]; ki[place]; us[accompany]
+#tr.en: with good words and justice -- and well established! @wWN{Id-nun-kug} @noteref{Holy princely river} with ample flowing waters, 
+#etcsl: line-id=A.16
+
+A.17. bad₃ niŋin₂-na iri ki ŋa₂-ra-bi šita₂ {ŋiš}tukul ki us₂-sa
+#lem: bad[wall]; niŋin[encircle]; iri[city]; ki[place]; ŋar[put]; šita[weapon]; tukul[weapon]; ki[place]; us[accompany]
+#tr.en: your reservoir abounds with fish and birds -- and well established! Its city, 
+#etcsl: line-id=A.17
+
+A.18. unken ŋar-ra uŋ₃ ša-ra-ba {kuš}gur₂₁!(TUM){ur₃} ki us₂-sa
+#lem: unkin[assembly]; ŋar[put]; uŋ[people]; ba[allot]; guru[shield]; ki[place]; us[accompany]
+#tr.en: established within the encircling walls, is a battle-mace, 
+#etcsl: line-id=A.18
+
+A.19. ki-en-gi-ir-a ki-tuš ŋa₂-ra-bi ni₂ gal ki us₂-sa
+#lem: Kengir[1]; kituš[dwelling place]; ŋar[put]; ni[fear]; gal[big]; ki[place]; us[accompany]
+#tr.en: a weapon -- and well established! The convened assembly of its numerous people is a shield -- and well established! 
+#etcsl: line-id=A.19
+
+A.20. kur-kur ab₂ zid-gin₇ lu-lu-a-bi
+#lem: kur[mountain(s)]; ab[cow]; zid[right]; lu[abundant]
+#tr.en: Great awe of the occupied settlements of @wGN{Sumer} -- and well established! Its foreign lands, 
+#etcsl: line-id=A.20
+
+A.21. ab₂ dugud-da u₈ sila₄-da šar₂-ra amaš-a ki us₂-sa
+#lem: ab[cow]; dugud[heavy]; u[sheep]; sila[lamb]; šar[numerous]V/i; amaš[sheepfold]; ki[place]; us[accompany]
+#tr.en: teeming like herds of fecund cows, fat cows, 
+#etcsl: line-id=A.21
+
+A.22. erin₂-bi me₃-še₃ zig₃-ga-bi
+#lem: erin[people]; me[battle]; zig[rise]
+#tr.en: numerous ewes with their lambs in the sheepfold -- and well established! Its army, 
+#etcsl: line-id=A.22
+
+A.23. a e₃-a gaba-ri nu-tuku
+#lem: a[water]; e[leave]; gabari[equal]; tuku[acquire]
+#tr.en: rising to battle, is an irresistible onrush of water, 
+#etcsl: line-id=A.23
+
+A.24. ab hu-luh-ha NI-SUM sumur ki us₂-sa
+#lem: ab[sea]; huluh[frightened]; X; sumur[angry]; ki[place]; us[accompany]
+#tr.en: a fearsome sea, a raging …… -- and well established! 
+#etcsl: line-id=A.24
+
+A.25. [nun]-bi ur-saŋ {d}en-lil₂-la₂ piriŋ ne-na zig₃-ga
+#lem: nun[prince]; ursaŋ[warrior]; Enlil[1]DN; piriŋ[lion]; ne[strength]; zig[rise]
+#tr.en: Its prince, the hero of @wDN{Enlil}, a lion rising up in its strength, 
+#etcsl: line-id=A.25
+
+A.26. [piriŋ ban₃]-da! kur-ra guru₅-uš bur₂-bur₂
+#lem: piriŋ[lion]; banda[junior]; kur[mountain(s)]; guruš[cvne]; bur[spread out]
+#tr.en: a furious lion (?) baring its teeth at the foreign lands, 
+#etcsl: line-id=A.26
+
+A.27. [X X] am! gal šu! im-gid₂-gid₂-i
+#lem: X; X; am[wild bull]; gal[big]; šu[hand]; gid[long]
+#tr.en: …… inspects great wild bulls, eating ……, 
+#etcsl: line-id=A.27
+
+A.28. [...] X gu₇-a SIKI-LAM-bi sud-sud
+#lem: X; X; gu[eat]; X; sud[distant]
+#tr.en: extending ……. Shepherd @wRN{Šulgi}, 
+#etcsl: line-id=A.28
+
+A.29. [sipad šul]-gi dumu {d}nin-sumun₂-ka
+#lem: sipad[shepherd]; Šulgir[1]RN; dumu[child]; Ninsumunak[1]DN
+#tr.en: son of @wDN{Ninsumun}, 
+#etcsl: line-id=A.29
+
+A.30. [...] UR₃#-ra he₂-du₇-bi
+#lem: X; X; hedu[ornament]
+#tr.en: ornament of ……, 
+#etcsl: line-id=A.30
+
+A.31. [...] X-ra#-na inim hul-ne-ne-a
+#lem: X; X; inim[word]; hulu[bad]
+#tr.en: …… in their evil words, 
+#etcsl: line-id=A.31
+
+A.32. [ur-saŋ] {[d]}gilgameš₂# AN en kul-ab{ki}-a-ke₄
+#lem: ursaŋ[warrior]; Gilgameš[1]DN; X; en[lord]; Kulaba[1]SN
+#tr.en: brought the hero @wDN{Gilgameš}, 
+#etcsl: line-id=A.32
+
+A.33. [X X] X NA# im-ma-ni-in-kur₉
+#lem: X; X; X; X; kur[enter]
+#tr.en: the lord of @wSN{Kulaba} into ……. 
+#etcsl: line-id=A.33
+
+A.34. [X X] kur#-kur-ra-ta inim mu-na-ta-an-e₃
+#lem: X; X; kur[mountain(s)]; inim[word]; e[leave]
+#tr.en: He produced an utterance for him …… from the foreign lands, 
+#etcsl: line-id=A.34
+
+A.35. [...] X e₂-gal-la-na-kam
+#lem: X; X; egal[palace]
+#tr.en: …… of his palace. 
+#etcsl: line-id=A.35
+
+A.36. X [...] dug₄-ga kur-kur-ra-kam
+#lem: X; X; dug[speak]; kur[mountain(s)]
+#tr.en: …… of the foreign lands. 
+#etcsl: line-id=A.36
+
+A.37. KI X GI URU X gi hal-hal-la-gin₇ igi-ni mu-na-an-ŋal₂
+#lem: X; X; X; X; X; gi[reed]; hal[divide]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: …… he looked at him as if on split reeds. 
+#etcsl: line-id=A.37
+
+A.38. ud-bi nam kalam-ma ba-tar-ra-ta
+#lem: ud[sun]; nam[fate]; kalam[the Land (of Sumer)]; tar[cut]
+#tr.en: On the day when the destiny of the Land was determined, 
+#etcsl: line-id=A.38
+
+A.39. numun niŋ₂-zi-ŋal₂-la ba-i-a-ta
+#lem: numun[seed]; niŋziŋal[living creature]; e[bring out]
+#tr.en: when the seed of all living beings was originally brought forth, 
+#etcsl: line-id=A.39
+
+A.40. lugal-e {lu₂}tab-ba-ni-ir dalla mu-na-an-e₃-a
+#lem: lugal[king]; taba[companion]; dalla[(to be) bright]; e[leave]
+#tr.en: when the king appeared radiantly to his comrade -- on that day, 
+#etcsl: line-id=A.40
+
+A.41. ud-ba {d}gilgameš₂ en kul-ab{ki}-a-ke₄
+#lem: ud[sun]; Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#tr.en: @wDN{Gilgameš}, the lord of @wSN{Kulaba}, 
+#etcsl: line-id=A.41
+
+A.42. šul-gi sipad zid ki-en-gi-ra-ke₄
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]
+#tr.en: conversed with @wRN{Šulgi}, 
+#etcsl: line-id=A.42
+
+A.43. ŋiri₃-babbar-ra-na inim mu-ti-ni-ib-e₃
+#lem: ŋiribabbara[dawn]; inim[word]; e[leave]
+#tr.en: the good shepherd of @wGN{Sumer}, 
+#etcsl: line-id=A.43
+
+A.44. ud ul-le₂-aš a-ar-bi ak-de₃
+#lem: ud[sun]; ul[distant time]; ar[celebrate]; ak[do]
+#tr.en: at his shining feet. 
+#etcsl: line-id=A.44
+
+A.45. ud su₃-ra₂-aš šu-a bal-e-de₃
+#lem: ud[sun]; sud[distant]; šu[hand]; bala[turn]
+#tr.en: So that their praise would be sung forever, 
+#etcsl: line-id=A.45
+
+A.46. mu su₃-ra₂-aš nu-ha-lam-e-de₃
+#lem: mu[year]; sud[distant]; halam[forsake]
+#tr.en: so that it be would handed down to distant days, 
+#etcsl: line-id=A.46
+
+A.47. a-ne-ne nam-ur-saŋ kalag-ga-ba
+#lem: anene[they]; namursaŋ[heroism]; kalag[strong]
+#tr.en: so that it should be not forgotten in remote years, 
+#etcsl: line-id=A.47
+
+A.48. teš₂-bi igi zid-de₃-eš im-e-ne
+#lem: teš[unity]; igi[eye]; zid[right]; e[speak]
+#tr.en: they looked (?) at each other favourably in their mighty heroism. 
+#etcsl: line-id=A.48
+
+A.49. šul-gi sipad zid ki-en-gi-ra-ke₄
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]
+#tr.en: @wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
+#etcsl: line-id=A.49
+
+A.50. šeš gu₅-li-ni en {d}gilgameš₂
+#lem: šeš[brother]; guli[friend]; en[lord]; Gilgameš[1]DN
+#etcsl: line-id=A.50
+
+A.51. nam-kalag-ga-na mu-ni-in-i-i
+#lem: namkalag[strength]; e[bring out]
+#etcsl: line-id=A.51
+
+A.52. nam-ur-saŋ-ŋa₂-na mu-ni-in-pad₃-pad₃-de₃
+#lem: namursaŋ[heroism]; pad[find]
+#etcsl: line-id=A.52
+
+A.53. kalag-ga me₃-a %e uru₂ %s gul-gul
+#lem: kalag[strong]; me[battle]; uru[city]; gul[destroy]
+#tr.en: @q[Culgi,Gilgamec]{“Mighty in battle, destroyer of cities, 
+#etcsl: line-id=A.53
+
+A.54. šen-šen-na saŋ ŋiš ra-ra-bi
+#lem: šen[battle]; saŋ[head]; ŋeš[tree]; rah[beat]
+#tr.en: smiting them in combat! 
+#etcsl: line-id=A.54
+
+A.55. ze₂-na bad₃ kug-bi a₂-sag₃-ge kiŋ₂-ŋa₂
+#lem: zena[siege weapon]; bad[wall]; kug[pure]; asig[slingstone]; kiŋ[work]
+#tr.en: Siege-weapon skilled with the slingstone against the holy wall! 
+#etcsl: line-id=A.55
+
+A.56. e₂ kiš#{ki!}-še₃ {ŋiš}tukul-zu ba-ta-a-e₃
+#lem: e[house]; Kiš[1]SN; tukul[weapon]; e[leave]
+#tr.en: You brought forth your weapons against the house of @wSN{Kiš}. 
+#etcsl: line-id=A.56
+
+A.57. ur-saŋ# 7-bi ad₆-a mi-ni-dab₅
+#lem: ursaŋ[warrior]; n; adda[corpse]; dab[seize]
+#tr.en: You captured dead its seven heroes. 
+#etcsl: line-id=A.57
+
+A.58. [lugal] kiš#{ki} en-me-barag-ge₄-e-si
+#lem: lugal[king]; Kiš[1]SN; Enmebaragesi[2]RN
+#tr.en: You trampled underfoot the head of the king of @wSN{Kiš}, 
+#etcsl: line-id=A.58
+
+A.59. [...] saŋ#-ŋa₂-na ŋiri₃ mu-na-ni-us₂
+#lem: X; saŋ[head]; ŋiri[foot]; us[accompany]
+#tr.en: @wRN{En-me-barage-si} ……. 
+#etcsl: line-id=A.59
+
+A.60. nam-lugal kiš{ki}-ta unug{ki}-še₃ am₃-mi-de₆
+#lem: namlugal[kingship]; Kiš[1]SN; Unug[1]SN; de[carry]
+#tr.en: You brought the kingship from @wSN{Kiš} to @wSN{Unug}.”} 
+#etcsl: line-id=A.60
+
+A.61. kul-aba{ki} X X X u₃-tud-da pa im-ma-ni-e₃
+#lem: Kulaba[1]SN; X; X; X; utud[give birth (to)]; pa[branch]; e[leave]
+#tr.en: Thus he  
+#etcsl: line-id=A.61
+
+A.62. MI X GI UL inim-ma MUŠ₃-bi
+#lem: X; X; X; X; inim[word]; X
+#tr.en: eulogised him  
+#etcsl: line-id=A.62
+
+A.63. {d}gilgameš₂ en [kul-ab]{[ki]}-[a-ke₄]
+#lem: Gilgameš[1]DN; en[lord]; Kulaba[1]SN
+#tr.en: who was  
+#etcsl: line-id=A.63
+
+A.64. a nam-en-na meš₃ zid [...]
+#lem: a[water]; namen[the office of en-priest]; mes[hero]; zid[right]; X
+#tr.en: born  
+#etcsl: line-id=A.64
+
+A.65. X X X ki kug an [...]
+#lem: X; X; X; ki[place]; kug[purify]; an[sky]; X
+#tr.en:  
+#etcsl: line-id=A.65
+
+A.66. X X gal-gal DI [...] a₂ bad-bad X [...]
+#lem: X; X; gal[big]; X; X; a[arm]; bad[open]; X; X
+#tr.en: …… in @wSN{Kulaba}. 
+#etcsl: line-id=A.66
+
+A.67. ŋišnimbar X A₂ X X [...]
+#lem: ŋešnimbar[date-palm]; X; X; X; X; X
+#tr.en: @wDN{Gilgameš}, 
+#etcsl: line-id=A.67
+
+A.68. ki-bal KIŊ₂ X X [...]
+#lem: kibala[rebel land]; X; X; X; X
+#tr.en: lord  
+#etcsl: line-id=A.68
+
+A.69. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: of  
+#etcsl: line-id=A.69
+
+$ (approx. 4 lines missing)
+A.74. [...] X X-gin₇ lul-e-[eš ...]
+#lem: X; X; X; lul[false]; X
+#tr.en: @wSN{Kulaba}, 
+#etcsl: line-id=A.74
+
+A.75. [...] ŋiri₃# saga₁₁ ba-ni-dug₄#
+#lem: X; ŋiri[foot]; saga[press?]; dug[speak]
+#tr.en: seed  
+#etcsl: line-id=A.75
+
+A.76. [...] X DUL ki ŋar {ŋiš}rab₃ mah-gin₇ MU# [...]
+#lem: X; X; X; ki[place]; ŋar[put]; raba[clamp]; mah[great]; X; X
+#tr.en: of  
+#etcsl: line-id=A.76
+
+A.77. [...]-bi sim zig₃-ga-gin₇ mu-un-ur₄#-[ur₄]
+#lem: X; sim[swallow]; zig[rise]; ur[gather]
+#tr.en: lordship, 
+#etcsl: line-id=A.77
+
+A.78. {[d]}[en]-lil₂#-ra eš₃-e nibru{ki}-a mu!-na-da-an#-[ku₄-ku₄]
+#lem: Enlil[1]DN; eš[shrine]; Nibru[1]SN; kur[enter]
+#tr.en: righteous  
+#etcsl: line-id=A.78
+
+A.79. [...] X X TE ba-ra-šub-bu-uš-a-bi
+#lem: X; X; X; X; šub[fall]
+#tr.en: hero  
+#etcsl: line-id=A.79
+
+A.80. [X X] a gig-še₃ in-ga-e-ne
+#lem: X; X; aya[cry]; gig[sick]; e[speak]
+#tr.en:  
+#etcsl: line-id=A.80
+
+A.81. [...] {urud#}alan urim₂{ki}-ma til-la
+#lem: X; alan[image]; Urim[1]SN; til[complete]
+#tr.en: ……  
+#etcsl: line-id=A.81
+
+A.82. [...] X diŋir 7-na zag gub-gub-bu {ŋiš}silig-ga sud-sud
+#lem: X; X; diŋir[deity]; n; zag[side]; gub[stand]; silig[an ax]; sud[distant]
+#tr.en: $ (@gap{approx. 4 lines missing} (@wDN{Gilgameš} continues speaking:) @q[Gilgamec,Culgi]{“Like ……, falsely ……, you trampled underfoot ……, …… as if in a mighty clamp. You gathered its …… like swallows rising into the air. You entered with them into the presence of @wDN{Enlil} in the shrine of @wSN{Nibru}. Even those …… who escaped from the ……, wail bitterly ……. …… a copper statue fashioned in @wSN{Urim}, …… the seven gods, stationed beside, wielding battle-axes. Fearsome hero ……, king of @wGN{Sumer}, you stand firm in your strength.”) 
+#etcsl: line-id=A.82
+
+A.83. ur#-saŋ zi₂ ŋa₂-ra in-gu₂-mu-šum₂-mu#-[e]
+#lem: ursaŋ[warrior]; sissig[green-yellow]; ŋar[put]; šum[give]
+#etcsl: line-id=A.83
+
+A.84. lugal# ki-en-gi-ra ne₃ mu-un-gub-[me-en₃]
+#lem: lugal[king]; Kengir[1]; ne[strength]; gub[stand]
+#etcsl: line-id=A.84
+
+A.85. [šul]-gi sipad ki-en-gi-ra-ke₄!
+#lem: Šulgir[1]RN; sipad[shepherd]; Kengir[1]
+#tr.en: @wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
+#etcsl: line-id=A.85
+
+A.86. [šeš] gu₅-li-ni en {d}gilgameš
+#lem: šeš[brother]; guli[friend]; en[lord]; Gilgameš[1]DN
+#etcsl: line-id=A.86
+
+A.87. [nam-kalag-ga-na mu]-ni-in-i-i
+#lem: namkalag[strength]; e[bring out]
+#etcsl: line-id=A.87
+
+A.88. [nam-ur-saŋ-ŋa₂-na mu-ni]-in#-pad₃-pad₃-[de₃]
+#lem: namursaŋ[heroism]; pad[find]
+#etcsl: line-id=A.88
+
+A.89. X X [...]
+#lem: X; X; X
+#tr.en: @q[Culgi,Gilgamec]{“  
+#etcsl: line-id=A.89
+
+A.90. di ku₅-ra₂-a-za [...]
+#lem: did[lawsuit]; kud[cut]; X
+#tr.en: In the judgments that you pronounce ……. 
+#etcsl: line-id=A.90
+
+A.91. a-ba za-gin₇ kaskal kur#-[ra-ke₄ si im-sa₂] har-ra-an X [... DU]
+#lem: aba[who?]; zaʾe[you]; kaskal[way]; kur[mountain(s)]; si[horn]; sa[equal]; harran[route]; X; X; X
+#tr.en: Who else like you has gone directly on the road to the mountains and has travelled the way to ……? 
+#etcsl: line-id=A.91
+
+A.92. kalag-ga erin kur#-[ra ...]
+#lem: kalag[strong]; eren[cedar]; kur[mountain(s)]; X
+#tr.en: Valiant one, …… the mountain cedars, …… the tall forests, 
+#etcsl: line-id=A.92
+
+A.93. tir mah-[a ...]
+#lem: tir[forest]; mah[great]; X
+#tr.en: …… the boats. …… @wPN{Huwawa}. 
+#etcsl: line-id=A.93
+
+A.94. {ŋiš}ma₂ X [...]
+#lem: ma[ship]; X; X
+#tr.en: …… his seven terrors. …… the small ……. 
+#etcsl: line-id=A.94
+
+A.95. hu-wa-wa# [...]
+#lem: Huwawa[1]DN; X
+#tr.en: …… from his well-established dwelling. …… to @wDN{Enlil}, 
+#etcsl: line-id=A.95
+
+A.96. ni₂ 7-[na-ni ...]
+#lem: ni[fear]; n; X
+#tr.en: in the shrine of @wSN{Nibru} ……. …… your captured hero. 
+#etcsl: line-id=A.96
+
+A.97. KA TUR-TUR X X X X [...]
+#lem: X; X; X; X; X; X; X
+#tr.en: You allowed the mother of the sick man to fetch her son to her embrace. 
+#etcsl: line-id=A.97
+
+A.98. ki-tuš ki ŋar-ra-ni-ta im#-[...]
+#lem: kituš[dwelling place]; ki[place]; ŋar[put]; X
+#tr.en: Your battle-mace, its mouth gaping wide, attacks the foreign lands for you. 
+#etcsl: line-id=A.98
+
+A.99. {d}en-lil₂-ra eš₃-e nibru#{[ki]}-[a ...] ZI₂ mu-na-ni-[...]
+#lem: Enlil[1]DN; eš[shrine]; Nibru[1]SN; X; X; X
+#tr.en: @wDN{Gilgameš}, noble one of @wSN{Unug}, 
+#etcsl: line-id=A.99
+
+A.100. ur-saŋ dab₅-ba-zu U₃ X X X X
+#lem: ursaŋ[warrior]; dab[seize]; X; X; X; X; X
+#tr.en: violent storm, 
+#etcsl: line-id=A.100
+
+A.101. ama lu₂ tur₅-ra dumu ur₂-ra mu-na-ni-de₆
+#lem: ama[mother]; lu[person]; tur[ill]; dumu[child]; ur[root]; de[carry]
+#tr.en: at whose oppression ……. 
+#etcsl: line-id=A.101
+
+A.102. u₂-dug₄ ka ba-ba-zu kur-kur-ra ma-ra-an-ti
+#lem: udug[demon]; kag[mouth]; ba[allot]; kur[mountain(s)]; teŋ[approach]
+#tr.en: The inimical rebel land, 
+#etcsl: line-id=A.102
+
+A.103. {d}gilgameš₂ nir-ŋal₂ unug#{ki}-ga
+#lem: Gilgameš[1]DN; nirŋal[authoritative]; Unug[1]SN
+#tr.en: like ……. 
+#etcsl: line-id=A.103
+
+A.104. ud nam-tag₂-ga nam-gu₂-bi-e X RU
+#lem: ud[storm]; namtaga[sin]; namgu[oppression]; X; X
+#tr.en: You have revealed your immense majesty! 
+#etcsl: line-id=A.104
+
+A.105. ki-bal hul gig-ga saŋ X GIM X X
+#lem: kibala[rebel land]; hulu[bad]; gig[sick]; saŋ[head]; X; X; X; X
+#tr.en: May you extend your protective arms over me!”} 
+#etcsl: line-id=A.105
+
+A.106. nam-mah gal-gal-zu pa bi₂-e₃ a₂ bad ha-mu-[... tum₂]
+#lem: nammah[greatness]; gal[big]; pa[branch]; e[leave]; a[arm]; bad[open]; X; tum[carry]
+#etcsl: line-id=A.106
+
+A.107. en {d}gilgameš₃ X [...]
+#lem: en[lord]; Gilgameš[1]DN; X; X
+#tr.en: Lord @wDN{Gilgameš} …… @wRN{Šulgi}, 
+#etcsl: line-id=A.107
+
+A.108. [šul]-gi# sipad zid ki-en-[gi-ra-ke₄ ...]
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]; X
+#tr.en: the good shepherd of @wGN{Sumer}: 
+#etcsl: line-id=A.108
+
+A.109. [...] šag₄-ga [X X] ŠU [...]
+#lem: X; šag[heart]; X; X; X; X
+#tr.en: @q[Gilgamec,Culgi]{“  
+#etcsl: line-id=A.109
+
+A.110. [...] ki nun [...]
+#lem: X; ki[place]; nun[prince]; X
+#tr.en: 434=$ (@gap{12 lines fragmentary} @gap{approx. 5 lines missing} @gap{8 lines fragmentary}) 
+#etcsl: line-id=A.110
+
+A.111. X šag₄ A [...] lu₂ MU# [...]
+#lem: X; šag[heart]; X; X; lu[person]; X; X
+#tr.en: The youthful  
+#etcsl: line-id=A.111
+
+A.112. [saŋ] gig₂#-ga [...] MU# U₃ [...]
+#lem: saŋ[head]; giggig[black]; X; X; X; X
+#tr.en:  
+#etcsl: line-id=A.112
+
+A.113. X gal-gal-la KA NUN [...]
+#lem: X; gal[big]; X; X; X
+#tr.en: ……, a  
+#etcsl: line-id=A.113
+
+A.114. [...] MA# DA ki niŋ₂ ŋa₂-ra-bi šag₄ [...]
+#lem: X; X; X; ki[place]; niŋ[thing]; ŋar[put]; šag[heart]; X
+#tr.en: god among  
+#etcsl: line-id=A.114
+
+A.115. [zar] du₈#-a še [...]
+#lem: zar[sheaf (of barley)]; du[spread]; še[barley]; X
+#tr.en: the @wDN{Anuna}  
+#etcsl: line-id=A.115
+
+A.116. [...] HA# dugud-gin₇ bi₂-[...]
+#lem: X; X; dugud[heavy]; X
+#tr.en: gods,  
+#etcsl: line-id=A.116
+
+A.117. [...] KA# an-gin₇ MI# [...]
+#lem: X; X; an[sky]; X; X
+#tr.en: … 
+#etcsl: line-id=A.117
+
+A.118. [...]-bi#-e X mah!-gin₇ šu [...]
+#lem: X; X; mah[great]; šu[hand]; X
+#tr.en:  
+#etcsl: line-id=A.118
+
+A.119. [...] X mah-bi e₂-še₃ mu-na-X [...]
+#lem: X; X; mah[great]; e[house]; X; X
+#tr.en: … venerates ……. Fearsome (?)  
+#etcsl: line-id=A.119
+
+A.120. [...] X [...] X [...]
+#lem: X; X; X; X; X
+#tr.en: hero  
+#etcsl: line-id=A.120
+
+$ (approx. 5 lines missing)
+A.126. [...] X [...] X
+#lem: X; X; X; X
+#tr.en: ……, king  
+#etcsl: line-id=A.126
+
+A.127. [...] X ki-tuš nam# [...] X
+#lem: X; X; kituš[dwelling place]; nam[fate]; X; X
+#tr.en: of @wGN{Sumer}, 
+#etcsl: line-id=A.127
+
+A.128. [...] mu-un-KA-e
+#lem: X; X
+#tr.en: you stand  
+#etcsl: line-id=A.128
+
+A.129. [...] mu-un-šudu₃-šudu₃
+#lem: X; šud[pray]
+#tr.en: firm in  
+#etcsl: line-id=A.129
+
+A.130. [...] X nam-ul-la-me
+#lem: X; X; ul[swell]
+#tr.en: your  
+#etcsl: line-id=A.130
+
+A.131. [...] X gal-gal-la-kam
+#lem: X; X; gal[big]
+#tr.en: strength (?).”} 
+#etcsl: line-id=A.131
+
+A.132. [...] ba-ta-a-e₃
+#lem: X; e[leave]
+#etcsl: line-id=A.132
+
+A.133. [...]-eš# im-e-ne
+#lem: X; e[speak]
+#etcsl: line-id=A.133
+
+A.134. šul# [...] diŋir a-nun-ke₄-ne
+#lem: šul[youth]; X; diŋir[deity]; Anunak[1]DN
+#etcsl: line-id=A.134
+
+A.135. u₂-[a ...]-na giri₁₇ šu ŋal₂-la-ni
+#lem: ua[provisioner]; X; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.135
+
+A.136. ur-saŋ# [zi₂] ŋa₂#-ra in-ga-mu-šum₂-mu-e
+#lem: ursaŋ[warrior]; sissig[green-yellow]; ŋar[put]; šum[give]
+#etcsl: line-id=A.136
+
+A.137. [lugal ki-en]-gi#-ra ne₃ mu-un-gub-me-en₃
+#lem: lugal[king]; Kengir[1]; ne[strength]; gub[stand]
+#etcsl: line-id=A.137
+
+A.138. {d}šul-[gi] sipad# zid ki-en-gi-ra-ke₄
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]
+#tr.en: @wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
+#etcsl: line-id=A.138
+
+A.139. šeš gu₅-li#-ni en {d}gilgameš₂
+#lem: šeš[brother]; guli[friend]; en[lord]; Gilgameš[1]DN
+#etcsl: line-id=A.139
+
+A.140. nam-kalag-ga-na mu-ni-in-i-i
+#lem: namkalag[strength]; e[bring out]
+#etcsl: line-id=A.140
+
+A.141. nam-ur-saŋ-ŋa₂-na mu-ni-in-pad₃-pad₃
+#lem: namursaŋ[heroism]; pad[find]
+#etcsl: line-id=A.141
+
+A.142. {d}ištaran di-kud kalam-ma til-la
+#lem: Ištaran[1]DN; dikud[judge]; kalam[the Land (of Sumer)]; til[complete]
+#tr.en: @q[Culgi,Gilgamec]{“@wDN{Ištaran}, the judge who dwells in the Land  
+#etcsl: line-id=A.142
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. X [...] X [...] DI# MA# KA X [...]
+#lem: X; X; X; X; X; X; X; X; X
+#tr.en: Mighty heir of kingship ……, 
+#etcsl: line-id=B.1
+
+#etcsl#doc The sequence of Segments B, C, D and E is uncertain
+
+B.2. ibila kalag-ga nam-[lugal-la] ($illegible gloss$)
+#lem: ibila[heir]; kalag[strong]; namlugal[kingship]
+#tr.en: powerful ……, 
+#etcsl: line-id=B.2
+
+B.3. u₃-su-tuku %e uru₂ %s a₂ X [...]
+#lem: usutuku[strong]; uru[city]; a[arm]; X; X
+#tr.en: stallion of @wDN{Suen} ……, 
+#etcsl: line-id=B.3
+
+B.4. dur₃ {d}suen-[na ...]
+#lem: dur[young male donkey]; Suen[1]DN; X
+#tr.en: wearing a lapis-lazuli beard ……. 
+#etcsl: line-id=B.4
+
+B.5. sun₄ za-gin₃ la₂ gaba# [...] nam-gu₂ [...]
+#lem: sum[beard]; zagin[lapis lazuli]; la[hang]; gaba[breast]; X; namgu[oppression]; X
+#tr.en: their praise ……, their songs (?) ……, 
+#etcsl: line-id=B.5
+
+B.6. za₃-mi₂-bi dug₃ [...] šir₃-bi# [...]
+#lem: zamin[praise]; dug[good]; X; šir[song]; X
+#tr.en: their renown ……; 
+#etcsl: line-id=B.6
+
+B.7. mu-bi X [...] ŠE [...]
+#lem: mu[name]; X; X; X; X
+#tr.en: son ……  
+#etcsl: line-id=B.7
+
+B.8. dumu [...]
+#lem: dumu[child]; X
+#etcsl: line-id=B.8
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+C.1. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: @gap{fragmentary ends of 14 lines}
+#etcsl: line-id=C.1
+
+#etcsl#doc The sequence of Segments B, C, D and E is uncertain; Segments C and D are adjacent
+
+C.2. [... a₂] sud-sud-de₃ {{%akk i-ša₂-di-hu}}
+#lem: X; a[arm]; sud[distant]; L
+#etcsl: line-id=C.2
+
+C.3. [...] DU-mu-un
+#lem: X; X
+#etcsl: line-id=C.3
+
+C.4. [...]-DU-en₃
+#lem: X
+#etcsl: line-id=C.4
+
+C.5. [...] he₂#-eb₂-dug₄{du}
+#lem: X; dug[speak]
+#etcsl: line-id=C.5
+
+C.6. [...] he₂#-eb₂-du₇{du}
+#lem: X; du[perfect]
+#etcsl: line-id=C.6
+
+C.7. [...]-ga-me-eš₂
+#lem: X
+#etcsl: line-id=C.7
+
+C.8. [...] kalam-ma-me-eš₂ {{%akk šu-nu}}
+#lem: X; kalam[the Land (of Sumer)]; L
+#etcsl: line-id=C.8
+
+C.9. [...] peš-a-me-eš₂ {{%akk kab-ru₃}}
+#lem: X; peš[thick]; L
+#etcsl: line-id=C.9
+
+C.10. [...] X X X-me-eš₂ ($illegible gloss$)
+#lem: X; X; X; X
+#etcsl: line-id=C.10
+
+C.11. [...] BAD X-[me]-eš₂
+#lem: X; X; X
+#etcsl: line-id=C.11
+
+C.12. [...] hul-[la-me]-eš₂#
+#lem: X; hulu[bad]
+#etcsl: line-id=C.12
+
+C.13. [...] X lil₂-la₂-me-eš₂
+#lem: X; X; lil[ghost]
+#etcsl: line-id=C.13
+
+C.14. [...] X X-me-eš₂
+#lem: X; X; X
+#etcsl: line-id=C.14
+
+@end segment
+
+@div segment D
+
+D.1. DI# [...]
+#lem: X; X
+#tr.en: (@wDN{Gilgameš} continues speaking:) @q[Gilgamec,Culgi]{“Fearsome (?) hero ……, king of @wGN{Sumer}, 
+#etcsl: line-id=D.1
+
+#etcsl#doc The sequence of Segments B, C, D and E is uncertain; Segments C and D are adjacent
+
+D.2. PIRIG X [...]
+#lem: X; X; X
+#tr.en: you stand firm in your strength (?).”} 
+#etcsl: line-id=D.2
+
+D.3. ur-saŋ# [zi₂ ŋa₂-ra in-ga-mu-šum₂-mu-e] ($illegible gloss$)
+#lem: ursaŋ[warrior]; sissig[green-yellow]; ŋar[put]; šum[give]
+#etcsl: line-id=D.3
+
+D.4. lugal ki-en-gi#-[ra ne₃ mu-un-gub-me-en₃]
+#lem: lugal[king]; Kengir[1]; ne[strength]; gub[stand]
+#etcsl: line-id=D.4
+
+D.5. šul-gi sipad [zid ki-en-gi-ra-ke₄]
+#lem: Šulgir[1]RN; sipad[shepherd]; zid[right]; Kengir[1]
+#tr.en: @wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
+#etcsl: line-id=D.5
+
+D.6. šeš gu₅-li-ni [en] {[d]}[gilgameš₃]
+#lem: šeš[brother]; guli[friend]; en[lord]; Gilgameš[1]DN
+#etcsl: line-id=D.6
+
+D.7. nam-kalag-ga-na [mu-ni-in-i-i]
+#lem: namkalag[strength]; e[bring out]
+#etcsl: line-id=D.7
+
+D.8. nam-ur-saŋ-ŋa₂-na [mu-ni-in-pad₃-pad₃-de₃]
+#lem: namursaŋ[heroism]; pad[find]
+#etcsl: line-id=D.8
+
+D.9. {d}gilgameš₃ {anše}ni-is-ku [...]
+#lem: Gilgameš[1]DN; nisku[description of equids]; X
+#tr.en: @q[Culgi,Gilgamec]{“@wDN{Gilgameš}, the thoroughbred donkey ……, 
+#etcsl: line-id=D.9
+
+D.10. diŋir di-kud X [...] {{%akk X %akk [...] %akk X %akk šu-na}}
+#lem: diŋir[deity]; dikud[judge]; X; X; L; L; L; L
+#tr.en: divine judge, ……  
+#etcsl: line-id=D.10
+
+D.11. X X ZU A X [...]
+#lem: X; X; X; X; X; X
+#tr.en: like a butting wild bull ……  $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=D.11
+
+D.12. dub-la₂-zu-u₃ X [...]
+#lem: dubla[gate tower]; X; X
+#etcsl: line-id=D.12
+
+D.13. am du₇-du₇-gin₇ [...]
+#lem: am[wild bull]; du[push]; X
+#etcsl: line-id=D.13
+
+D.14. X [...]
+#lem: X; X
+#etcsl: line-id=D.14
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment E
+
+E.1. [muš]-šag₄#-tur₃-gin₇ ki-bal-še₃ kur₉ [...] {{%akk [a-na] %akk ma-at %akk nu-ku-ur-tim %akk a-na %akk [...]}}
+#lem: muššagtur[(mythical) snake]; kibala[rebel land]; kur[enter]; X; L; L; L; L; L
+#tr.en: …… the rebel lands like a horned viper ……, @wRN{Šulgi}, son of @wDN{Ninsumun} …… @wDN{Enki} ……  $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=E.1
+
+#etcsl#doc The sequence of Segments B, C, D and E is uncertain
+
+E.2. [šul]-gi dumu {d}nin-sumun₂-ka {d}en-ki# an [...] {{%akk X %akk [...] %akk DUMU %akk za %akk an %akk [...]}}
+#lem: Šulgir[1]RN; dumu[child]; Ninsumunak[1]DN; Enkik[1]DN; an[sky]; X; L; L; L; L; L; L
+#etcsl: line-id=E.2
+
+E.3. [...] X X X-bi BAD ki X [...]
+#lem: X; X; X; X; X; ki[place]; X; X
+#etcsl: line-id=E.3
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
+

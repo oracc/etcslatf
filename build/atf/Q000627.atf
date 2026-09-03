@@ -1,0 +1,186 @@
+&Q000627 = A balbale (?) to  Inana (Inana F)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.07.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.6&display=Crit&charenc=gcirc#
+
+1. a-ŋu₁₀ an %e ma-an-ze₂-eŋ₃ %s ki %e ma-an-ze₂-eŋ₃
+#lem: aya[father]; an[sky]; zeŋ[give]V/t; ki[place]; zeŋ[give]V/t
+#tr.en: My father gave me the heavens and he gave me the earth. 
+#etcsl: line-id=1
+
+2. %e me-e %s %e {d}ga-ša-an-an-na-men₃
+#lem: meʾe[I]IP; Gašanana[1]DN
+#tr.en: I am @wDN{Inana}! 
+#etcsl: line-id=2
+
+3. %e ma-ra dim₃-me-er %s teš₂ mu-da-sa₂-a
+#lem: meʾe[I]IP; dimmer[deity]N; teš[unity]; sa[equal]
+#tr.en: Which god compares with me? 
+#etcsl: line-id=3
+
+4.  %e  {d}mu-ul-lil₂-le  %s  an %e ma-an-ze₂-eŋ₃ %s ki %e <ma-an-ze₂-eŋ₃>
+#lem: Mullil[1]DN; an[sky]; zeŋ[give]V/t; ki[place]; zeŋ[give]V/t
+#tr.en: @wDN{Enlil} gave me the heavens and he gave me the earth. 
+#etcsl: line-id=4
+
+5. %e me-e %e {d}<ga-ša-an-an-na-men₃>
+#lem: meʾe[I]IP; Gašanana[1]DN
+#tr.en: I am @wDN{Inana}! 
+#etcsl: line-id=5
+
+6. na-aŋ₂-u₃-mu-un %e ma-an-ze₂-eŋ₃
+#lem: namen[the office of en-priest]; zeŋ[give]V/t
+#tr.en: He gave me lordship, 
+#etcsl: line-id=6
+
+7. %e na-aŋ₂-ga-ša-an ma-an#-ze₂-eŋ₃
+#lem: naŋgašan[ladyship]N; zeŋ[give]V/t
+#tr.en: and he gave me queenship. 
+#etcsl: line-id=7
+
+8. me₃ %e ma-an-ze₂-eŋ₃ %s [šen]-šen# %e ma-<an-ze₂-eŋ₃>
+#lem: me[battle]; zeŋ[give]V/t; šen[battle]; zeŋ[give]V/t
+#tr.en: He gave me battles and he gave me fighting. 
+#etcsl: line-id=8
+
+9. mar-uru₅ %e ma-an-ze₂-eŋ₃# %s dal#-ha-mun %e ma-<an-ze₂-eŋ₃>
+#lem: marru[stormwind]; zeŋ[give]V/t; dalhamun[dust storm]; zeŋ[give]V/t
+#tr.en: He gave me the stormwind and he gave me the dust cloud. 
+#etcsl: line-id=9
+
+10. an men saŋ-ŋa₂ %e mu-ni-in-ma-al
+#lem: an[sky]; men[tiara]; saŋ[head]; mal[be]V/i
+#tr.en: He placed the heavens on my head as a crown. 
+#etcsl: line-id=10
+
+11. ki {kuš}e-sir₂ %e me-ri-ŋa₂ %s mu-ni-in-sig₉
+#lem: ki[place]; esir[sandal(s)]; meri[foot]N; sig[put into]
+#tr.en: He put the earth at my feet as sandals. 
+#etcsl: line-id=11
+
+12. tug₂-ba₁₃ kug su-ŋa₂ mu-ni-in-la₂
+#lem: ba[garment]; kug[purify]; su[flesh]; la[hang]
+#tr.en: He wrapped the holy @fsux{ba} garment around my body. 
+#etcsl: line-id=12
+
+13. %e {mu}mudru %s kug šu-ŋa₂ %e mu-ni-in-ma-al
+#lem: mudurun[scepter]N; kug[purify]; šu[hand]; mal[be]V/i
+#tr.en: He put the holy sceptre in my hand. 
+#etcsl: line-id=13
+
+14. diŋir buru₅-me-eš %e me-e %s mu-tin-ŋen
+#lem: diŋir[deity]; buru[sparrow]; meʾe[I]IP; surdu[falcon]
+#tr.en: The gods are small birds, but I am the falcon. 
+#etcsl: line-id=14
+
+15. {d}a-nun-na %e di-da-me-eš %e me-e %s sumun₂ zid-ŋen
+#lem: Anunak[1]DN; de[go]; meʾe[I]IP; sumun[wild cow]; zid[right]
+#tr.en: The @wDN{Anuna} mill about, but I am the good wild cow, 
+#etcsl: line-id=15
+
+16. sumun₂ zid a-a {d}en-lil₂-la₂-ŋen
+#lem: sumun[wild cow]; zid[right]; aya[father]; Enlil[1]DN
+#tr.en: I am the good wild cow of Father @wDN{Enlil}, 
+#etcsl: line-id=16
+
+17. u₃-sumun₂ zid saŋ-ŋa₂ %e di-a-ni
+#lem: sumun[wild cow]; zid[right]; saŋ[head]; de[go]
+#tr.en: his good wild cow which walks in front. 
+#etcsl: line-id=17
+
+18. e₂-kur-ra e₂  %e  {d}mu-ul-lil₂-la₂-še₃  %s  ku₄-ku₄-da-ŋu₁₀-ne
+#lem: Ekur[1]TN; e[house]; Mullil[1]DN; kur[enter]
+#tr.en: When I enter the @wTN{E-kur}, the house of @wDN{Enlil}, the gate-keeper does not lift his hand against my breast; the minister does not tell me, 
+#etcsl: line-id=18
+
+19. i₃-du₈-e gaba-ŋu₁₀ šu %e li-bi₂-ma-ma
+#lem: idu[doorkeeper]; gaba[breast]; šu[hand]; mar[place]V/t
+#etcsl: line-id=19
+
+20. sukkal-e il₂-la₂ na-ma-ab-be₂
+#lem: sukkal[secretary]; il[raise]; e[speak]
+#etcsl: line-id=20
+
+21. an ŋa₂-a-kam ki ŋa₂-a-kam %e me-e %s ur-saŋ-ŋen
+#lem: an[sky]; ŋaʾe[I]; ki[place]; ŋaʾe[I]; meʾe[I]IP; ursaŋ[warrior]
+#tr.en: The heavens are mine and the earth is mine: 
+#etcsl: line-id=21
+
+22. unug{ki}-ga e₂-an-na ŋa₂-a-kam
+#lem: Unug[1]SN; Eanak[1]TN; ŋaʾe[I]
+#tr.en: I am heroic! In @wSN{Unug} the @wTN{E-ana} is mine, 
+#etcsl: line-id=22
+
+23. zabalam{ki} gi-gun₄-na! %e ma-a-kam
+#lem: Zabalam[1]SN; Giguna[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Zabalam} the @wTN{Giguna} is mine, 
+#etcsl: line-id=23
+
+24. nibru{ki}-a dur-an-ki %e <ma-a-kam>
+#lem: Nibru[1]SN; Durankik[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Nibru} the @wTN{Dur-an-ki} is mine, 
+#etcsl: line-id=24
+
+25. urim₂{ki}-ma e₂-dilmun-na %e <ma-a-kam>
+#lem: Urim[1]SN; Edilmuna[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Urim} the @wTN{E-@wSN{Dilmuna}} is mine, 
+#etcsl: line-id=25
+
+26. ŋir₂-su{ki}-a eš₂-dam-kug %e <ma-a-kam>
+#lem: Ŋirsu[1]SN; Ešdamkug[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Ŋirsu} the @wTN{Ešdam-kug} is mine, 
+#etcsl: line-id=26
+
+27. adab{ki}-a e₂-šar-ra %e <ma-a-kam>
+#lem: Adab[1]SN; Ešara[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Adab} the @wTN{E-šara} is mine, 
+#etcsl: line-id=27
+
+28. kiš{ki}-a hur-saŋ-kalam-ma %e <ma-a-kam>
+#lem: Kiš[1]SN; Hursaŋkalamak[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Kiš} the @wTN{Ḫursaŋ-kalama} is mine, 
+#etcsl: line-id=28
+
+29. kisiga!{ki} amaš-kug-ga %e <ma-a-kam>
+#lem: Kisiga[1]SN; Amaškuga[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Kisiga} the @wTN{Amaš-kuga} is mine, 
+#etcsl: line-id=29
+
+30. akšak{ki}-a an-za-gar₃ %e <ma-a-kam>
+#lem: Akšak[1]SN; Anzagar[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Akšak} the @wTN{Anzagar} is mine, 
+#etcsl: line-id=30
+
+31. umma{ki}-a ib-gal %e <ma-a-kam>
+#lem: Umma[1]SN; Ibgal[1]TN; meʾe[I]IP
+#tr.en: in @wSN{Umma} the @wTN{Ibgal} is mine, 
+#etcsl: line-id=31
+
+32. a-ga-de₃{ki}-a ul!-maš %e ma-a-kam
+#lem: Agade[1]SN; Ulmaš[1]SN; meʾe[I]IP
+#tr.en: in @wSN{Agade} the @wTN{Ulmaš} is mine. 
+#etcsl: line-id=32
+
+33. %e ma-ra dim₃#-me-er %s teš₂ mu-da-sa₂-a
+#lem: meʾe[I]IP; dimmer[deity]N; teš[unity]; sa[equal]
+#tr.en: Which god compares with me? 
+#etcsl: line-id=33
+
+@div trailer 
+
+34. [X X X] {d}inana-kam
+#lem: X; X; X; Inanak[1]DN
+#tr.en: A …… of @wDN{Inana}. 
+#etcsl: line-id=34
+
+@end trailer
+
+
+
+
+
+
+

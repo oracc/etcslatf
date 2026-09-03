@@ -1,0 +1,149 @@
+&Q000790 = Enlil and Nam-zid-tara
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.7.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.7.1&display=Crit&charenc=gcirc#
+
+1. nam-zid-tar-ra {d}en-lil₂ mu-zal-le
+#lem: Namzidtara[1]PN; Enlil[1]DN; zal[pass time]
+#tr.en: @wPN{Nam-zid-tara} walked by @wDN{Enlil}, who said to him: 
+#etcsl: line-id=1
+
+2. inim in-na-an-dug₄
+#lem: inim[word]; dug[speak]
+#tr.en: @q[Enlil,Nam-zid-tara]{“Where have you come from, 
+#etcsl: line-id=2
+
+3. me-ta-am₃ nam-zid-tar-ra
+#lem: meta[where from? whence?]; Namzidtara[1]PN
+#tr.en: @wPN{Nam-zid-tara}?”} @q[Nam-zid-tara,Enlil]{“From @wDN{Enlil's} temple. 
+#etcsl: line-id=3
+
+4. e₂ {d}en-lil₂-la₂-ta
+#lem: e[house]; Enlil[1]DN
+#tr.en: My turn of duty is finished. 
+#etcsl: line-id=4
+
+5. bal gub-ba-ŋu₁₀ bi₂-silim-ma-am₃
+#lem: bala[turn]; gub[stand]; silim[healthy]
+#tr.en: I serve at the place of the @fsux{gudug} priests, 
+#etcsl: line-id=5
+
+6. ki gudug-e-ne-ka udu-bi-da i₃-gub-bu-nam
+#lem: ki[place]; gudug[priest]; udu[sheep]; gub[stand]
+#tr.en: with their sheep. 
+#etcsl: line-id=6
+
+7. e₂-ŋu₁₀-še₃ al-du-un
+#lem: e[house]; du[go]
+#tr.en: I am on my way home. 
+#etcsl: line-id=7
+
+8. nam-mu-un-gub-be₂-en
+#lem: gub[stand]
+#tr.en: Don't stop me; 
+#etcsl: line-id=8
+
+9. ŋiri₃-ŋu₁₀ ud tab₂-tab₂
+#lem: ŋiri[foot]; ud[sun]; tab[burn]
+#tr.en: I am in a hurry. 
+#etcsl: line-id=9
+
+10. a-ba-am₃ za-e-me-en lu₂ en₃ mu-e-ši-tar-re-en
+#lem: aba[who?]; zaʾe[you]; lu[person]; en[cvne]; tar[cut]
+#tr.en: Who are you who asks me questions?”} 
+#etcsl: line-id=10
+
+11. ŋe₂₆-e {d}en-lil₂-me-en
+#lem: ŋaʾe[I]; Enlil[1]DN
+#tr.en: @q[Enlil,Nam-zid-tara]{“I am @wDN{Enlil}.”} But @wDN{Enlil} had changed his appearance: 
+#etcsl: line-id=11
+
+12. {d}en-lil₂-le igi-ni mu-ni-in-gi₄
+#lem: Enlil[1]DN; igi[eye]; gi[turn]
+#tr.en: he had turned into a raven and was croaking. 
+#etcsl: line-id=12
+
+13. uga{mušen}-aš u₃-mu-ni-in-kur₉
+#lem: uga[raven]; kur[enter]
+#tr.en: @q[Nam-zid-tara,Enlil]{“But you are not a raven, 
+#etcsl: line-id=13
+
+14. gu₃ al-de₂-de₂-e
+#lem: gu[voice]; de[pour]
+#tr.en: you really are @wDN{Enlil}!”} 
+#etcsl: line-id=14
+
+15. uga{mušen} nu-me-en {d}en-lil₂-me-en
+#lem: uga[raven]; me[be]; Enlil[1]DN
+#tr.en: @q[Enlil,Nam-zid-tara]{“How did you recognise that I am @wDN{Enlil}, 
+#etcsl: line-id=15
+
+16. nam mu-tar-ra ŋe₂₆-e {d}en-lil₂-me-en a-gin₇ bi₂-zu
+#lem: nam[fate]; tar[cut]; ŋaʾe[I]; Enlil[1]DN; agin[thus]; zu[know]
+#tr.en: who decrees the destinies?”} 
+#etcsl: line-id=16
+
+17. ud en-me-šar₂-ra šeš ad-da-zu |LU₂×KAR₂|-da-a
+#lem: ud[sun]; Enmešara[1]DN; šeš[brother]; adda[father]; X
+#tr.en: @q[Nam-zid-tara,Enlil]{“When your uncle @wDN{En-me-šara} was a captive, after taking for himself the rank of @wDN{Enlil}, 
+#etcsl: line-id=17
+
+18. nam-{d}en-lil₂ ba-e-de₆-a ud-de₃ en-gin₇ nam ga#-zu-e-še
+#lem: namenlil[Enlil-ship]; de[carry]; ud[sun]; en[lord]; nam[fate]; zu[know]
+#tr.en: he said: @q[En-me-cara,]{“Now I shall know the fates, like a lord.”}”} 
+#etcsl: line-id=18
+
+19. kug he₂-tuku za he₂-tuku gud he₂-tuku udu he₂-tuku
+#lem: kug[metal]; tuku[acquire]; za[bead]; tuku[acquire]; gud[bull]; tuku[acquire]; udu[sheep]; tuku[acquire]
+#tr.en: @q[Enlil,Nam-zid-tara]{“You may acquire precious metals, you may acquire precious stones, 
+#etcsl: line-id=19
+
+20. ud nam-lu₂-u₁₈-lu al-ku-nu
+#lem: ud[sun]; namlulu[humanity]; kunu[approach]
+#tr.en: you may acquire cattle or you may acquire sheep; 
+#etcsl: line-id=20
+
+21. niŋ₂-tuku-zu me-še₃ e-tum₃-ma
+#lem: niŋtuku[rich]; meše[where to? whither?]; tum[bring]
+#tr.en: but the day of a human being is always getting closer, 
+#etcsl: line-id=21
+
+22. {d}en-lil₂-me-en nam mu-tar-ra
+#lem: Enlil[1]DN; nam[fate]; tar[cut]
+#tr.en: so where does your wealth lead? Now, I am indeed @wDN{Enlil}, 
+#etcsl: line-id=22
+
+23. a-ba-am₃ mu-zu
+#lem: aba[who?]; mu[name]
+#tr.en: who decrees the fates. What is your name?”} 
+#etcsl: line-id=23
+
+24. nam-zid-tar-ra mu-ŋu₁₀-um
+#lem: Namzidtara[1]PN; mu[name]
+#tr.en: @q[Nam-zid-tara,Enlil]{“My name is @wPN{Nam-zid-tara} (Well-blessed).”} @q[Enlil,Nam-zid-tara]{“Your fate  
+#etcsl: line-id=24
+
+25. mu-zu-gin₇ nam-zu he₂-tar-re
+#lem: zu[know]; nam[fate]; tar[cut]
+#tr.en: shall be assigned according to your name: 
+#etcsl: line-id=25
+
+26. e₂ lugal-za-ka e₃-a
+#lem: e[house]; lugal[king]; e[leave]
+#tr.en: leave the house of your master, 
+#etcsl: line-id=26
+
+27. ibila-zu e₂-ŋa₂ si sa₂-e he₂-en-dib-dib-be₂-ne
+#lem: ibila[heir]; e[house]; si[horn]; sa[equal]; dib[pass]
+#tr.en: and your heirs shall come and go regularly in my temple.”} 
+#etcsl: line-id=27
+
+
+
+
+
+
+

@@ -1,0 +1,821 @@
+&Q000623 = The exaltation of Inana (Inana B)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.07.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.2&display=Crit&charenc=gcirc#
+
+1. nin me šar₂-ra ud dalla e₃-a
+#lem: nin[lady]; me[Being]; šar[numerous]V/i; ud[sun]; dalla[(to be) bright]; e[leave]
+#tr.en: Lady of all the divine powers, resplendent light, righteous woman clothed in radiance, 
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 4; OB catalogue from Urim (U2), 0.2.04, line 8; OB catalogue at Andrews University, 0.2.11, line 3; OB catalogue at Yale, 0.2.12, Seg. A, line 4
+
+2. munus zid me-lem₄ gur₃-ru ki aŋ₂ an uraš-a
+#lem: munus[woman]; zid[right]; melim[frightening splendor]; gur[lift]; ki[place]; aŋ[measure]; An[1]DN; Uraš[1]DN
+#tr.en: beloved of @wDN{An} and @wDN{Uraš}! Mistress of heaven, with the great diadem, 
+#etcsl: line-id=2
+
+3. nu-gig an-na suh-gir₁₁ gal-gal-la
+#lem: nugig[midwife]; an[sky]; suhgir[diadem]; gal[big]
+#tr.en: who loves the good headdress befitting the office of @fsux{en} priestess, 
+#etcsl: line-id=3
+
+4. aga zid-de₃ ki aŋ₂ nam-en-na tum₂-ma
+#lem: aga[tiara]; zid[right]; ki[place]; aŋ[measure]; namen[the office of en-priest]; tum[suitable]
+#tr.en: who has seized all seven of its divine powers! My lady, 
+#etcsl: line-id=4
+
+5. me 7-bi šu sa₂ dug₄-ga
+#lem: me[Being]; n; šu[hand]; sa[equal]; dug[speak]
+#tr.en: you are the guardian of the great divine powers! You have taken up the divine powers, 
+#etcsl: line-id=5
+
+6. nin-ŋu₁₀ me gal-gal-la saŋ keše₂-bi za-e-me-en
+#lem: nin[lady]; me[Being]; gal[big]; saŋ[head]; kešed[bind]; zaʾe[you]
+#tr.en: you have hung the divine powers from your hand. You have gathered up the divine powers, 
+#etcsl: line-id=6
+
+7. me mu-e-il₂ me šu-zu-še₃ mu-e-la₂
+#lem: me[Being]; il[raise]; me[Being]; šu[hand]; la[hang]
+#tr.en: you have clasped the divine powers to your breast. 
+#etcsl: line-id=7
+
+8. me mu-e-ur₄ me gaba-za bi₂-tab
+#lem: me[Being]; ur[gather]; me[Being]; gaba[breast]; tab[double]
+#tr.en: Like a dragon you have deposited venom on the foreign lands. 
+#etcsl: line-id=8
+
+9. ušumgal-gin₇ kur-re uš₁₁ ba-e-šum₂
+#lem: ušumgal[great dragon]; kur[mountain(s)]; uš[poison]; šum[give]
+#tr.en: When like @wDN{Iškur} you roar at the earth, no vegetation can stand up to you. 
+#etcsl: line-id=9
+
+10. {d}iškur-gin₇ ki šegₓ(|KA×LI|) gi₄-a-za {d}ezina₂ la-ba-e-ši-ŋal₂
+#lem: Iškur[1]DN; ki[place]; šeg[voice]; gi[turn]; Ezina[1]DN; ŋal[⟦be⟧ to be (there]
+#tr.en: As a flood descending upon (?) those foreign lands, 
+#etcsl: line-id=10
+
+11. a-ma-ru kur-bi-ta ed₃-de₃
+#lem: amaru[flood]; kur[mountain(s)]; ed[go up]
+#tr.en: powerful one of heaven and earth, 
+#etcsl: line-id=11
+
+12. saŋ-kal an ki-a {d}inana-bi-me-en
+#lem: saŋkal[foremost]; an[sky]; ki[place]; Inanak[1]DN
+#tr.en: you are their @wDN{Inana}. 
+#etcsl: line-id=12
+
+13. izi bar₇-bar₇-ra kalam-e šeŋ₃-ŋa₂
+#lem: izi[fire]; bar[burn]; kalam[the Land (of Sumer)]; šeŋ[rain]
+#tr.en: Raining blazing fire down upon the Land, 
+#etcsl: line-id=13
+
+14. an-ne₂ me šum₂-ma nin ur-ra u₅-a
+#lem: An[1]DN; me[Being]; šum[give]; nin[lady]; ur[dog]; u[ride]
+#tr.en: endowed with divine powers by @wDN{An}, lady who rides upon a beast, 
+#etcsl: line-id=14
+
+15. inim kug an-na-ta inim dug₄-dug₄
+#lem: inim[word]; kug[purify]; An[1]DN; inim[word]; dug[speak]
+#tr.en: whose words are spoken at the holy command of @wDN{An}! 
+#etcsl: line-id=15
+
+16. biluda{da} gal-gal-la niŋ₂-zu a-ba mu-un-zu
+#lem: biluda[rituals]; gal[big]; niŋ[thing]; aba[who?]; zu[know]
+#tr.en: The great rites are yours: who can fathom them? 
+#etcsl: line-id=16
+
+17. kur gul-gul ud-de₃ a₂ ba-e-šum₂
+#lem: kur[mountain(s)]; gul[destroy]; ud[storm]; a[arm]; šum[give]
+#tr.en: Destroyer of the foreign lands, you confer strength on the storm. 
+#etcsl: line-id=17
+
+18. ki aŋ₂ {d}en-lil₂-la₂ kalam-ma ni₂ mi-ni-ri
+#lem: ki[place]; aŋ[measure]; Enlil[1]DN; kalam[the Land (of Sumer)]; ni[fear]; ri[impose]
+#tr.en: Beloved of @wDN{Enlil}, you have made awesome terror weigh upon the Land. 
+#etcsl: line-id=18
+
+19. a₂ aŋ₂-ŋa₂ an-na-ke₄ ba-gub-be₂-en
+#lem: a[arm]; aŋ[measure]; An[1]DN; gub[stand]
+#tr.en: You stand at the service of @wDN{An's} commands. 
+#etcsl: line-id=19
+
+20. nin-ŋu₁₀ za-pa-aŋ₂-zu-še₃ kur i₃-gam-gam-e
+#lem: nin[lady]; zipaŋ[voice]; kur[mountain(s)]; gurum[bend]
+#tr.en: At your battle-cry, my lady, the foreign lands bow low. 
+#etcsl: line-id=20
+
+21. ni₂ me-lem₄ u₁₈-lu-da nam-lu₂-ulu₃
+#lem: ni[fear]; melim[frightening splendor]; ulu[south wind]; namlulu[humanity]
+#tr.en: When humanity comes before you in awed silence at the terrifying radiance and tempest, 
+#etcsl: line-id=21
+
+22. niŋ₂-me-ŋar ŋiri₃-bi u₃-mu-ri-gub
+#lem: niŋmeŋar[silence]; ŋiri[foot]; gub[stand]
+#tr.en: you grasp the most terrible of all the divine powers. 
+#etcsl: line-id=22
+
+23. me-ta me huš-bi šu ba-e-re-ti
+#lem: me[Being]; me[Being]; huš[reddish]; šu[hand]; teŋ[approach]
+#tr.en: Because of you, the threshold of tears is opened, 
+#etcsl: line-id=23
+
+24. i-dub er₂-ra-ke₄ ŋal₂ ma-ra-ab-taka₄
+#lem: idib[threshold]; er[tears]; ŋal[open]; taka[set aside]
+#tr.en: and people walk along the path of the house of great lamentations. 
+#etcsl: line-id=24
+
+25. e₂ a-nir gal-gal-la sila-ba mu-ri-du
+#lem: e[house]; anir[lament]; gal[big]; sila[street]; du[go]
+#tr.en: In the van of battle, all is struck down before you. 
+#etcsl: line-id=25
+
+26. igi me₃-ta niŋ₂ ma-ra-ta-si-ig
+#lem: igi[eye]; me[battle]; niŋ[thing]; sig[put into]
+#tr.en: With your strength, my lady, 
+#etcsl: line-id=26
+
+27. nin-ŋu₁₀ a₂ ni₂-za {na₄}zu₂ zu₂ i₃-gu₇-e
+#lem: nin[lady]; a[arm]; ni[self]; zu[hard stone]; zu[tooth]; gu[eat]
+#tr.en: teeth can crush flint. 
+#etcsl: line-id=27
+
+28. ud du₇-du₇-gin₇ i₃-du₇-du₇-de₃-en
+#lem: ud[storm]; du[push]; du[push]
+#tr.en: You charge forward like a charging storm. 
+#etcsl: line-id=28
+
+29. ud gu₃ ra-ra-da gu₃ im-da-ab-ra-ra-an
+#lem: ud[storm]; gu[voice]; rah[beat]; gu[voice]; rah[beat]
+#tr.en: You roar with the roaring storm, 
+#etcsl: line-id=29
+
+30. {d}iškur-da šegₓ(|KA×LI|) mu-da-an-gi₄-gi₄-in
+#lem: Iškur[1]DN; šeg[voice]; gi[turn]
+#tr.en: you continually thunder with @wDN{Iškur}. 
+#etcsl: line-id=30
+
+31. im-hul-im-hul-da im-da-kuš₂-u₃-de₃-en
+#lem: imhul[destructive wind]; kušu[tired]
+#tr.en: You spread exhaustion with the stormwinds, 
+#etcsl: line-id=31
+
+32. ŋiri₃-za nu-kuš₂-u₃ i₃-im-si
+#lem: ŋiri[foot]; kušu[tired]; si[fill]
+#tr.en: while your own feet remain tireless. 
+#etcsl: line-id=32
+
+33. balaŋ a-nir-ra-ta i-lu im-da-ab-be₂
+#lem: balaŋ[an instrument]; anir[lament]; ilu[lament]; dug[speak]
+#tr.en: With the lamenting @fsux{balaŋ} drum a lament is struck up. 
+#etcsl: line-id=33
+
+34. nin-ŋu₁₀ {d}a-nun-na diŋir gal-gal-e-ne
+#lem: nin[lady]; Anunak[1]DN; diŋir[deity]; gal[big]
+#tr.en: My lady, the great @wDN{Anuna} gods fly from you to the ruin mounds like scudding bats. 
+#etcsl: line-id=34
+
+35. su-din{mušen} dal-la-gin₇ du₆-de₃ mu-e-ši-ib-ra-aš
+#lem: sudin[bat]; dal[fly]; dud[(ruin) mound]; rah[beat]
+#tr.en: They dare not stand before your terrible gaze. 
+#etcsl: line-id=35
+
+36. igi huš-a-za (1:la-ba-sug₂-ge-de₃-eš:1)
+#lem: igi[eye]; huš[reddish]; gub[stand]
+#tr.en: They dare not confront your terrible countenance. Who can cool your raging heart? 
+#etcsl: line-id=36
+
+:36v.1.1: ($some mss. have instead:$) la-ba-sug₂-ge-eš-am₃
+#lem: gub[stand]
+
+37. saŋ-ki huš-a-za saŋ nu-mu-un-de₃-ŋa₂-ŋa₂
+#lem: saŋki[forehead]; huš[reddish]; saŋ[head]; ŋar[put]
+#tr.en: Your malevolent anger is too great to cool. 
+#etcsl: line-id=37
+
+38. šag₄ ib₂-ba-za a-ba ib₂-te-en-te-en
+#lem: šag[heart]; ib[angry]; aba[who?]; ten[extinguish]
+#tr.en: Lady, can your mood be soothed? Lady, 
+#etcsl: line-id=38
+
+39. šag₄ hul-ŋal₂-la-za te-en-ten-bi mah-am₃
+#lem: šag[heart]; huluŋal[evil]; ten[extinguish]; mah[great]
+#tr.en: can your heart be gladdened? 
+#etcsl: line-id=39
+
+40. nin ur₅ i₃-sag₉ nin šag₄ i₃-hul₂
+#lem: nin[lady]; ur[liver]; sag[good]; nin[lady]; šag[heart]; hul[rejoice]
+#tr.en: Eldest daughter of @wDN{Suen}, 
+#etcsl: line-id=40
+
+41. ib₂-ba nu-te-en-te-en dumu gal {d}suen-na
+#lem: ib[angry]; ten[extinguish]; dumu[child]; gal[big]; Suen[1]DN
+#tr.en: your rage cannot be cooled! 
+#etcsl: line-id=41
+
+42. nin kur-ra dirig-ga a-ba ki-za ba-an-tum₃
+#lem: nin[lady]; kur[mountain(s)]; dirig[make more than]; aba[who?]; ki[place]; tum[bring]
+#tr.en: Lady supreme over the foreign lands, who can take anything from your province? 
+#etcsl: line-id=42
+
+43. (1:hur-saŋ ki-za:1) ba-e-de₃-gid₂-de₃-en {d}ezina₂ niŋ₂-gig-bi
+#lem: hursaŋ[mountain]; ki[place]; gid[long]; Ezina[1]DN; niŋgig[that which is bad]
+#tr.en: @varh[t4072.v1]{Once you have extended your province over the hills } @vart[t4072.v2,t4072.v1]{@varn{2 mss. have instead:} If you frown at the mountains }, vegetation there is ruined. 
+#etcsl: line-id=43
+
+:43v.1.1: ($2 mss. have instead:$) kur saŋ-ki-za
+#lem: kur[mountain(s)]; saŋki[forehead]
+
+44. (1:abul-la-ba:1) izi mu-ni-in-ri-ri
+#lem: abula[gate]; izi[fire]; ri[impose]
+#tr.en: Their @varh[t4072.v3]{great gateways } @vart[t4072.v4,t4072.v3]{@varn{1 ms. has instead:} palaces } are set afire. Blood is poured into their rivers because of you, 
+#etcsl: line-id=44
+
+:44v.1.1: ($1 ms. has instead:$) e₂-gal-la-ba
+#lem: egal[palace]
+
+45. id₂-ba uš₂ ma-ra-an-de₂ uŋ₃-bi (1:ma-ra-na₈-na₈:1)
+#lem: id[river]; uš[blood]; de[pour]; uŋ[people]; naŋ[drink]
+#tr.en: and their people @varh[t4072.v5]{must drink it } @vart[t4072.v6,t4072.v5]{@varn{2 mss. have instead:} could not drink }. They must lead their troops captive before you, 
+#etcsl: line-id=45
+
+:45v.1.1: ($2 mss. have instead:$) ba-ra-na₈-na₈
+#lem: naŋ[drink]
+
+46. ugnim-bi ni₂-bi-a ma-ra-ab-lah₅-e
+#lem: ugnim[army]; ni[self]; lah[plural stem of tum ⟦bring⟧]
+#tr.en: all together. They must scatter their élite regiments for you, 
+#etcsl: line-id=46
+
+47. zu₂ keše₂-bi ni₂-bi-a ma-ra-ab-si-il-le
+#lem: zu[tooth]; kešed[bind]; ni[self]; sil[split]
+#tr.en: all together. 
+#etcsl: line-id=47
+
+48. ŋuruš a₂-tuku-bi ni₂-bi-a ma-ra-ab-sug₂-ge-eš
+#lem: ŋuruš[young adult male]; atuku[powerful]; ni[self]; sug[stand]
+#tr.en: They must stand their able-bodied young men at your service, 
+#etcsl: line-id=48
+
+49. iri-ba ki-e-ne-di-ba mir i-ib₂-si
+#lem: iri[city]; kiʾenedi[play area]; mir[north wind]; si[fill]
+#tr.en: all together. Tempests have filled the dancing-places of their cities. 
+#etcsl: line-id=49
+
+50. ŋuruš šag₄-gan-bi LU₂-eš₂ ma-ra-ab-sar-re-eš
+#lem: ŋuruš[young adult male]; šaggan[perfect]; heše[oppressed]; sar[run]
+#tr.en: They drive their young men before you as prisoners. 
+#etcsl: line-id=50
+
+51. iri kur za-ra li-bi₂-in-dug₄-ga-am₃
+#lem: iri[city]; kur[mountain(s)]; zaʾe[you]; dug[speak]
+#tr.en: Your holy command has been spoken over the city which has not declared @q[city,Inana]{“The foreign lands are yours!”}, wherever they have not declared @q[,Inana]{“It is your own father's!”}; and it is brought back under your feet. 
+#etcsl: line-id=51
+
+52. a-a ugu-zu li-bi₂-in-eš-am₃
+#lem: aya[father]; ugu[bear]; e[speak]
+#tr.en: Responsible care is removed from its sheepfolds. 
+#etcsl: line-id=52
+
+53. inim kug-zu bi₂-in-dug₄ ki ŋiri₃-za he₂-eb-gi₄
+#lem: inim[word]; kug[pure]; dug[speak]; ki[place]; ŋiri[foot]; gi[turn]
+#tr.en: Its woman no longer speaks affectionately with her husband; 
+#etcsl: line-id=53
+
+54. šag₄ tur₃-bi-ta ŋiri₃ he₂-eb₂-ta-an-ze₂-er
+#lem: šag[heart]; tur[animal stall]; ŋiri[foot]; zir[tear out]
+#tr.en: at dead of night she no longer takes counsel with him, 
+#etcsl: line-id=54
+
+55. munus-bi dam-a-ni-ta sag₉-ga na-an-da-ab-be₂
+#lem: munus[woman]; dam[spouse]; sag[good]; dug[speak]
+#tr.en: and she no longer reveals to him the pure thoughts of her heart. 
+#etcsl: line-id=55
+
+56. ŋi₆ u₃-na ad na-an-di-ni-ib-gi₄-gi₄
+#lem: ŋi[night]; ŋiʾunak[night]; ad[voice]; gi[turn]
+#tr.en: Impetuous wild cow, 
+#etcsl: line-id=56
+
+57. niŋ₂ kug šag₄-ga-na nam-mu-da-an-bur₂-re
+#lem: niŋ[thing]; kug[purify]; šag[heart]; bur[spread out]
+#tr.en: great daughter of @wDN{Suen}, 
+#etcsl: line-id=57
+
+58. u₃-sumun₂ zid-zid dumu gal {d}suen-na
+#lem: sumun[wild cow]; zid[right]; dumu[child]; gal[big]; Suen[1]DN
+#tr.en: lady greater than @wDN{An}, 
+#etcsl: line-id=58
+
+59. nin an-ra dirig-ga a-ba ki-za ba-an-tum₃
+#lem: nin[lady]; An[1]DN; dirig[make more than]; aba[who?]; ki[place]; tum[bring]
+#tr.en: who can take anything from your province? 
+#etcsl: line-id=59
+
+60. me zid-de₃ nin gal nin-e-ne
+#lem: me[Being]; zid[right]; nin[lady]; gal[big]; nin[lady]
+#tr.en: Great queen of queens, issue of a holy womb for righteous divine powers, 
+#etcsl: line-id=60
+
+61. šag₄ kug-ta e₃-a ama ugu-ni-ir dirig-ga
+#lem: šag[heart]; kug[pure]; e[leave]; ama[mother]; ugu[bear]; dirig[make more than]
+#tr.en: greater than your own mother, wise and sage, 
+#etcsl: line-id=61
+
+62. gal-zu igi-ŋal₂ nin kur-kur-ra
+#lem: galanzu[wise]; igiŋal[wise]; nin[lady]; kur[mountain(s)]
+#tr.en: lady of all the foreign lands, life-force of the teeming people: 
+#etcsl: line-id=62
+
+63. zi-ŋal₂ uŋ₃ lu-a šir₃ kug-zu ga-am₃-dug₄
+#lem: ziŋal[living things]; uŋ[people]; lu[abundant]; šir[sing]; kug[pure]; dug[speak]
+#tr.en: I will recite your holy song! True goddess fit for divine powers, 
+#etcsl: line-id=63
+
+64. diŋir zid me-a tum₂-ma gal-bi dug₄-ga-zu mah-am₃
+#lem: diŋir[deity]; zid[right]; me[Being]; tum[suitable]; gal[big]; dug[speak]; mah[great]
+#tr.en: your splendid utterances are magnificent. Deep-hearted, 
+#etcsl: line-id=64
+
+65. šag₄ su₃-ra₂ munus zid šag₄ zalag-zalag-ga (1:me-zu:1) ga-mu-ra-ab-dug₄
+#lem: šag[heart]; sud[distant]; munus[woman]; zid[right]; šag[heart]; zalag[bright]; me[Being]; dug[speak]
+#tr.en: good woman with a radiant heart, I will enumerate @varh[t4072.v7]{your divine powers } @vart[t4072.v8,t4072.v7]{@varn{2 mss. have instead:} good divine powers } @vart[t4072.v9,t4072.v7]{@varn{1 ms. has instead:} holy divine powers } for you! 
+#etcsl: line-id=65
+
+:65v.1.1: ($2 mss. have instead:$) me zid
+#lem: me[Being]; zid[right]
+:65v.1.2: ($1 ms. has instead:$) me kug
+#lem: me[Being]; kug[purify]
+
+66. ŋi₆-par₃ kug-ŋa₂ hu-mu-ši-in-kur₉-re-en
+#lem: ŋipar[cloister]; kug[pure]; kur[enter]
+#tr.en: I, @wPN{En-ḫedu-ana} the @fsux{en} priestess, entered my holy @fsux{ŋipar} in your service. 
+#etcsl: line-id=66
+
+67. en-me-en en-he₂-du₇-an-na-me-en
+#lem: en[priest]; Enheduana[1]PN
+#tr.en: I carried the ritual basket, and intoned the song of joy. 
+#etcsl: line-id=67
+
+68. {gi}ma-sa₂-ab i₃-gur₃-ru asil-la₂ i₃-dug₄
+#lem: masab[basket]; gur[lift]; asilala[joy]; dug[speak]
+#tr.en: But @varh[t4072.v10]{funeral offerings were } @vart[t4072.v11,t4072.v10]{@varn{1 ms. has instead:} my ritual meal was } brought, as if I had never lived there. 
+#etcsl: line-id=68
+
+69. (1:ki-sig₁₀-ga:1) bi₂-ib-ŋar ŋe₂₆-e nu-mu-un-til₃-le-en
+#lem: kisiga[funerary offerings]; ŋar[put]; ŋaʾe[I]; til[live (of a single person)]
+#tr.en: I approached the light, 
+#etcsl: line-id=69
+
+:69v.1.1: ($1 ms. has instead:$) kiŋ₂-sig-ga-ŋu₁₀
+#lem: kiŋsig[afternoon meal]
+
+70. ud-de₃ ba-te ud mu-da-bil₂
+#lem: ud[sun]; teŋ[approach]; ud[sun]; bil[burn]
+#tr.en: but the light was scorching hot to me. 
+#etcsl: line-id=70
+
+71. ŋissu ne ba-te u₁₈-lu-da im-mi-dul
+#lem: ŋissu[shade]; nen[this]; teŋ[approach]; ulu[south wind]; dul[cover]
+#tr.en: I approached that shade, but I was covered with a storm. 
+#etcsl: line-id=71
+
+72. ka lal₃-ŋu₁₀ šu uh₃-a ba-ab-dug₄
+#lem: kag[mouth]; lal[syrup]; šu[hand]; ah[saliva]; dug[speak]
+#tr.en: My honeyed mouth became scum. 
+#etcsl: line-id=72
+
+73. niŋ₂ ur₅ sag₉-sag₉-ŋu₁₀ sahar-ta ba-da-gi₄
+#lem: niŋ[thing]; ur[liver]; sag[good]; sahar[soil]; gi[turn]
+#tr.en: My ability to soothe moods vanished. 
+#etcsl: line-id=73
+
+74. nam-ŋu₁₀ {d}suen lugal-an-ne₂
+#lem: nam[fate]; Suen[1]DN; Lugalane[1]RN
+#tr.en: @wDN{Suen}, tell @wDN{An} about @wRN{Lugal-Ane} and my fate! May @wDN{An} undo it for me! 
+#etcsl: line-id=74
+
+75. an-ra dug₄-mu-na-ab an-ne₂ ha-ma-du₈-e
+#lem: An[1]DN; dug[speak]; An[1]DN; du[spread]
+#tr.en: As soon as you tell @wDN{An} about it, @wDN{An} will release me. 
+#etcsl: line-id=75
+
+76. a-da-lam an-ra ba-an-na-ab-be₂-en an-ne₂ mu-e-du₈-e
+#lem: adal[an exclamation]; An[1]DN; e[speak]; An[1]DN; du[spread]
+#tr.en: The woman will take the destiny away from @wRN{Lugal-Ane}; 
+#etcsl: line-id=76
+
+77. nam lugal-an-ne₂ munus-e ba-ab-kar-re
+#lem: nam[fate]; Lugalane[1]RN; munus[woman]; kar[flee]
+#tr.en: foreign lands and flood lie at her feet. The woman too is exalted, 
+#etcsl: line-id=77
+
+78. kur a-ma-ru ŋiri₃-ni-še₃ i₃-nu₂
+#lem: kur[mountain(s)]; amaru[flood]; ŋiri[foot]; nud[lie down]
+#tr.en: and can make cities tremble. 
+#etcsl: line-id=78
+
+79. munus-bi in-ga-mah iri mu-un-da-ab-tuku₄-e
+#lem: munus[woman]; mah[great]; iri[city]; tuku[rock]
+#tr.en: Step forward, 
+#etcsl: line-id=79
+
+80. gub-ba šag₄-ga-na ha-ma-sed-de₃
+#lem: gub[stand]; šag[heart]; sed[cold]
+#tr.en: so that she will cool her heart for me. 
+#etcsl: line-id=80
+
+81. en-he₂-du₇-an-na-me-en a-ra-zu ga-mu-ra-ab-dug₄
+#lem: Enheduana[1]PN; arazu[supplication]; dug[speak]
+#tr.en: I, @wPN{En-ḫedu-ana}, will recite a prayer to you. To you, holy @wDN{Inana}, 
+#etcsl: line-id=81
+
+82. er₂-ŋa₂ kaš dug₃-ga-gin₇
+#lem: er[tears]; kaš[beer]; dug[good]
+#tr.en: I shall give free vent to my tears like sweet beer! 
+#etcsl: line-id=82
+
+83. kug {d}inana-ra šu ga-mu-ni-ri-bar (1:di-zu:1) ga-mu-ra-ab-dug₄
+#lem: kug[purify]; Inanak[1]DN; šu[hand]; bar[place outside]; did[lawsuit]; dug[speak]
+#tr.en: I shall say to her @varh[t4072.v12]{@q[En-hedu-ana,Inana]{“Your decision!”} } @vart[t4072.v13,t4072.v12]{@varn{some mss. have instead:} @q[En-hedu-ana,Inana]{“Greetings!”} } Do not be anxious about @wDN{Ašimbabbar}. 
+#etcsl: line-id=83
+
+:83v.1.1: ($some mss. have instead:$) silim-ma
+#lem: silim[healthy]
+
+84. {d}dil-im₂-babbar na-an-kuš₂-u₃-de₃-en
+#lem: Dilimbabbar[1]DN; kušu[tired]
+#tr.en: In connection with the purification rites of holy @wDN{An}, 
+#etcsl: line-id=84
+
+85. šu-luh an kug-ga-ke₄ niŋ₂-nam-ma-ni in-kur₂
+#lem: šuluh[ritual cleansing]; An[1]DN; kug[pure]; niŋnam[anything]; kur[different]
+#tr.en: @wRN{Lugal-Ane} has altered everything of his, and has stripped @wDN{An} of the @wTN{E-ana}. 
+#etcsl: line-id=85
+
+86. an-da e₂-an-na ha-ba-da-an-kar
+#lem: An[1]DN; Eanak[1]TN; kar[flee]
+#tr.en: He has not stood in awe of the greatest deity. 
+#etcsl: line-id=86
+
+87. diŋir lu₂ gu-la-ta ni₂ ba-ra-ba-da-te
+#lem: diŋir[deity]; lu[person]; gal[big]; ni[fear]; teŋ[approach]
+#tr.en: He has turned that temple, whose attractions were inexhaustible, whose beauty was endless, 
+#etcsl: line-id=87
+
+88. e₂-bi la-la-bi ba-ra-mu-un-gi₄ hi-li-bi ba-ra-mu-un-til
+#lem: e[house]; lala[plenty]; gi[turn]; hili[attractiveness]; til[complete]
+#tr.en: into a destroyed temple. 
+#etcsl: line-id=88
+
+89. e₂-bi e₂ hul-a hu-mu-un-di-ni-in-kur₉
+#lem: e[house]; e[house]; hulu[bad]; kur[enter]
+#tr.en: While he entered before me as if he was a partner, 
+#etcsl: line-id=89
+
+90. tab mu-ši-in-kur₉-ra-ni ninim-ma-ni hu-mu-un-te
+#lem: taba[companion]; kur[enter]; ninim[envy]; teŋ[approach]
+#tr.en: really he approached out of envy. 
+#etcsl: line-id=90
+
+91. {d}sumun₂-zid-ŋu₁₀ lu₂ hu-mu-sar-re-en lu₂ he₂-em-mi-dab₅-be₂-en
+#lem: Sumunzid[1]DN; lu[person]; sar[run]; lu[person]; dab[seize]
+#tr.en: My good divine wild cow, drive out the man, capture the man! 
+#etcsl: line-id=91
+
+92. ki zi-šag₄-ŋal₂-la-ka ŋe₂₆-e a-na-me-en
+#lem: ki[place]; zišagŋal[encouragement]; ŋaʾe[I]; ana[what?]
+#tr.en: In the place of divine encouragement, what is my standing now? 
+#etcsl: line-id=92
+
+93. ki-bal hul gig {d}nanna-za-ke₄-eš an-ne₂ ha-ba-ab-šum₂-mu
+#lem: kibala[rebel land]; hulu[bad]; gig[sick]; Nanna[1]DN; An[1]DN; šum[give]
+#tr.en: May @wDN{An} extradite the land which is a malevolent rebel against your @wDN{Nanna}! 
+#etcsl: line-id=93
+
+94. iri-bi an-ne₂ ha-ba-ra-an-si-il-le
+#lem: iri[city]; An[1]DN; sil[split]
+#tr.en: May @wDN{An} smash that city! May @wDN{Enlil} curse it! 
+#etcsl: line-id=94
+
+95. {d}en-lil₂-le nam ha-ba-da-an-kud-de₃
+#lem: Enlil[1]DN; nam[fate]; kud[cut]
+#tr.en: May its plaintive child not be placated by his mother! 
+#etcsl: line-id=95
+
+96. dumu er₂ pad₃-da-bi ama-ni na-an-sed₄-e
+#lem: dumu[child]; er[tears]; pad[find]; ama[mother]; sed[cold]
+#tr.en: Lady, with the laments begun, 
+#etcsl: line-id=96
+
+97. nin a-nir ki ŋar-ra
+#lem: nin[lady]; anir[lament]; ki[place]; ŋar[put]
+#tr.en: may your ship of lamentation be abandoned in hostile territory. 
+#etcsl: line-id=97
+
+98. {ŋiš}ma₂ a-nir-ra-zu ki kur₂-ra he₂-bi₂-ib-taka₄
+#lem: ma[ship]; anir[lament]; ki[place]; kur[different]; taka[set aside]
+#tr.en: Must I die because of my holy songs? 
+#etcsl: line-id=98
+
+99. šir₃ kug-ŋa₂-ke₄-eš i₃-ug₅-ge-de₃-en
+#lem: šir[sing]; kug[pure]; ug[kill]
+#tr.en: My @wDN{Nanna} has @varh[t4072.v14]{paid no heed to me } @vart[t4072.v15,t4072.v14]{@varn{1 ms. has instead:} has not decided my case }. He has destroyed me utterly in renegade territory. 
+#etcsl: line-id=99
+
+100. ŋe₂₆-e {d}nanna-ŋu₁₀ (1:en₃-ŋu₁₀ ba-ra-an-tar:1)
+#lem: ŋaʾe[I]; Nanna[1]DN; en[cvne]; tar[cut]
+#tr.en: @wDN{Ašimbabbar} has certainly not pronounced a verdict on me. 
+#etcsl: line-id=100
+
+:100v.1.1: ($1 ms. has instead:$) di#-[ŋu₁₀ ba]-ra-bi₂-in-kud
+#lem: did[lawsuit]; kud[cut]
+
+101. ki-lul-la he₂-eb-gul-gul-en
+#lem: kilulak[murder]; gul[destroy]
+#tr.en: What is it to me if he has pronounced it? 
+#etcsl: line-id=101
+
+102. {d}dil-im₂-babbar-e di-ŋu₁₀ ba-ra-bi₂-in-dug₄
+#lem: Dilimbabbar[1]DN; did[lawsuit]; dug[speak]
+#tr.en: What is it to me if he has not pronounced it? 
+#etcsl: line-id=102
+
+103. bi-in-dug₄ nam-ŋu₁₀ li-bi₂-in-dug₄ nam-ŋu₁₀
+#lem: dug[speak]; nam[fate]; dug[speak]; nam[fate]
+#tr.en: He stood there in triumph and drove me out of the temple. 
+#etcsl: line-id=103
+
+104. u₃-ma gub-gub-ba e₂-ta ba-ra-an-e₃-en
+#lem: uma[triumph]; gub[stand]; e[house]; e[leave]
+#tr.en: He made me fly like a swallow from the window; 
+#etcsl: line-id=104
+
+105. sim{mušen}-gin₇ ab-ta ba-ra-an-dal-en zi-ŋu₁₀ im-mi-gu₇
+#lem: sim[swallow]; ab[window]; dal[fly]; zi[life]; gu[eat]
+#tr.en: I have exhausted my life-strength. 
+#etcsl: line-id=105
+
+106. {ŋiš}kiši₁₆ kur-ra-ke₄ bi₂-in-du-e-en
+#lem: kišig[acacia]; kur[mountain(s)]; du[go]
+#tr.en: He made me walk through the thorn bushes of the mountains. 
+#etcsl: line-id=106
+
+107. (1:aga:1) zid nam-en-na mu-da-an-kar
+#lem: aga[tiara]; zid[right]; namen[the office of en-priest]; kar[flee]
+#tr.en: He stripped me of the rightful @varh[t4072.v16]{crown } @vart[t4072.v17,t4072.v16]{@varn{1 ms. has instead:} garment } of the @fsux{en} priestess. 
+#etcsl: line-id=107
+
+:107v.1.1: ($1 ms. has instead:$) tug₂
+#lem: tug[textile]
+
+108. ŋiri₂ ba-da-ra ma-an-šum₂ a-ra-ab-du₇ ma-an-dug₄
+#lem: ŋiri[dagger]; badara[dagger]; šum[give]; du[perfect]; dug[speak]
+#tr.en: He gave me a knife and dagger, saying to me @q[Nanna,En-hedu-ana]{“These are appropriate ornaments for you.”} 
+#etcsl: line-id=108
+
+109. nin kal-kal-la an-ne₂ ki aŋ₂
+#lem: nin[lady]; kal[rare]; An[1]DN; ki[place]; aŋ[measure]
+#tr.en: Most precious lady, beloved by @wDN{An}, your holy heart is great; 
+#etcsl: line-id=109
+
+110. šag₄ kug-zu mah-a ki-bi ha-ma-gi₄-gi₄
+#lem: šag[heart]; kug[pure]; mah[great]; ki[place]; gi[turn]
+#tr.en: may it be assuaged on my behalf! Beloved spouse of @wDN{Ušumgal-ana}, 
+#etcsl: line-id=110
+
+111. nitalam ki aŋ₂ {d}ušumgal-an-na-ka
+#lem: ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; Ušumgalana[1]DN
+#tr.en: you are the great lady of the horizon and zenith of the heavens. 
+#etcsl: line-id=111
+
+112. an-ur₂ an-pa nin gal-bi-me-en
+#lem: anur[horizon]; anpa[zenith]; nin[lady]; gal[big]
+#tr.en: The @wDN{Anuna} have submitted to you. From birth you were the junior queen: 
+#etcsl: line-id=112
+
+113. {d}a-nun-na-ke₄-ne gu₂ ŋiš %e ma-ra-an-ŋar-re-eš
+#lem: Anunak[1]DN; gu[neck]; ŋeš[tree]; mar[place]V/t
+#tr.en: how supreme you are now over the @wDN{Anuna}, the great gods! 
+#etcsl: line-id=113
+
+114. u₃-tud-da-ta nin ban₃-da-me-en
+#lem: utud[give birth (to)]; nin[lady]; banda[junior]
+#tr.en: The @wDN{Anuna} kiss the ground with their lips before you. 
+#etcsl: line-id=114
+
+115. {d}a-nun-na diŋir gal-gal-e-ne a-gin₇ ba-e-ne-dirig-ga
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; agin[thus]; dirig[make more than]
+#tr.en: But my own trial is not yet concluded, 
+#etcsl: line-id=115
+
+116. {d}a-nun-na-ke₄-ne nundum-nundum-bi-ta ki su-ub ma-ra-ak-ke₄-ne
+#lem: Anunak[1]DN; nundum[lip]; ki[place]; sub[rub]; ak[do]
+#tr.en: although a hostile verdict encloses me as if it were my own verdict. 
+#etcsl: line-id=116
+
+117. di ni₂-ŋa₂ nu-mu-un-til di kur₂ di-ŋu₁₀-gin₇ igi-ŋa₂ mu-un-niŋin₂
+#lem: did[lawsuit]; ni[self]; til[complete]; did[lawsuit]; kur[alienate]; did[lawsuit]; igi[eye]; niŋin[encircle]
+#tr.en: I did not reach out my hands to @varh[t4072.v18]{the } @vart[t4072.v19,t4072.v18]{@varn{1 ms. has instead:} my } flowered bed. 
+#etcsl: line-id=117
+
+118. ŋiš-nu₂ (1:gi-rin-na:1) šu nu-um-mi-la₂
+#lem: ŋešnud[bed]; girim[flower]; šu[hand]; la[hang]
+#tr.en: I did not reveal the pronouncements of @wDN{Ningal} to anybody. 
+#etcsl: line-id=118
+
+:118v.1.1: ($1 ms. has instead:$) gi-rin-ŋa₂
+#lem: girim[flower]
+
+119. inim dug₄-ga {d}nin-gal lu₂-ra nu-mu-na-bur₂
+#lem: inim[word]; dug[speak]; Ningal[1]DN; lu[person]; bur[spread out]
+#tr.en: My lady beloved of @wDN{An}, 
+#etcsl: line-id=119
+
+120. en dadag-ga {d}nanna-me-en
+#lem: en[priest]; dadag[bright]; Nanna[1]DN
+#tr.en: may your heart be calmed towards me, 
+#etcsl: line-id=120
+
+121. nin ki aŋ₂ an-na-ŋu₁₀ šag₄-zu ha-ma-sed-de₃
+#lem: nin[lady]; ki[place]; aŋ[measure]; An[1]DN; šag[heart]; sed[cold]
+#tr.en: the brilliant @fsux{en} priestess of @wDN{Nanna}! 
+#etcsl: line-id=121
+
+122. he₂-zu he₂-zu-am₃ {d}nanna li-bi₂-in-dug₄-ga za-a-kam bi₂-in-dug₄-ga
+#lem: zu[know]; zu[know]; Nanna[1]DN; dug[speak]; zaʾe[you]; dug[speak]
+#tr.en: It must be known! It must be known! @wDN{Nanna} has not yet spoken out! 
+#etcsl: line-id=122
+
+123. an-gin₇ mah-a-za he₂-zu-am₃
+#lem: an[sky]; mah[great]; zu[know]
+#tr.en: He has said, @q[Nanna,Inana]{“He is yours!”} 
+#etcsl: line-id=123
+
+124. ki-gin₇ daŋal-la-za he₂-zu-am₃
+#lem: ki[place]; daŋal[wide]; zu[know]
+#tr.en: Be it known that you are lofty as the heavens! 
+#etcsl: line-id=124
+
+125. ki-bal gul-gul-lu-za he₂-zu-am₃
+#lem: kibala[rebel land]; gul[destroy]; zu[know]
+#tr.en: Be it known that you are broad as the earth! 
+#etcsl: line-id=125
+
+126. kur-ra gu₃ de₂-e-za he₂-zu-am₃
+#lem: kur[mountain(s)]; gu[voice]; de[pour]; zu[know]
+#tr.en: Be it known that you destroy the rebel lands! 
+#etcsl: line-id=126
+
+127. saŋ ŋiš ra-ra-za he₂-zu-am₃
+#lem: saŋ[head]; ŋeš[tree]; rah[beat]; zu[know]
+#tr.en: Be it known that you roar at the foreign lands! 
+#etcsl: line-id=127
+
+128. ur-gin₇ ad₆ gu₇-u₃-za he₂-zu-am₃
+#lem: ur[dog]; adda[corpse]; gu[eat]; zu[know]
+#tr.en: Be it known that you crush heads! 
+#etcsl: line-id=128
+
+129. igi huš-a-za he₂-zu-am₃
+#lem: igi[eye]; huš[reddish]; zu[know]
+#tr.en: Be it known that you devour corpses like a dog! 
+#etcsl: line-id=129
+
+130. igi huš-bi il₂-il₂-i-za he₂-zu-am₃
+#lem: igi[eye]; huš[reddish]; il[raise]; zu[know]
+#tr.en: Be it known that your gaze is terrible! Be it known that you lift your terrible gaze! 
+#etcsl: line-id=130
+
+131. igi gun₃-gun₃-na-za he₂-zu-am₃
+#lem: igi[eye]; gunu[speckled]; zu[know]
+#tr.en: Be it known that you have flashing eyes! Be it known that you are unshakeable and unyielding! 
+#etcsl: line-id=131
+
+132. uru₁₆-na nu-še-ga-za he₂-zu-am₃
+#lem: urun[exalted]; šeg[agree]; zu[know]
+#tr.en: Be it known that you always stand triumphant! That @wDN{Nanna} has not yet spoken out, 
+#etcsl: line-id=132
+
+133. u₃-ma gub-gub-bu-za he₂-zu-am₃
+#lem: uma[triumph]; gub[stand]; zu[know]
+#tr.en: and that he has said @q[Nanna,Inana]{“He is yours!”} has made you greater, 
+#etcsl: line-id=133
+
+134. {d}nanna li-bi₂-in-dug₄-ga za-a-kam bi₂-in-dug₄-ga
+#lem: Nanna[1]DN; dug[speak]; zaʾe[you]; dug[speak]
+#tr.en: my lady; you have become the greatest! My lady beloved by @wDN{An}, 
+#etcsl: line-id=134
+
+135. nin-ŋu₁₀ ib₂-gu-ul-en i₃-mah-en
+#lem: nin[lady]; gal[big]; mah[great]
+#tr.en: I shall tell of all your @varh[t4072.v20]{rages } @vart[t4072.v21,t4072.v20]{@varn{1 ms. has instead:} daises }! I have heaped up the coals in the censer, 
+#etcsl: line-id=135
+
+136. nin ki aŋ₂ an-na-ŋu₁₀ (1:mir-mir-za:1) ga-am₃-dug₄
+#lem: nin[lady]; ki[place]; aŋ[measure]; An[1]DN; mir[angry]; dug[speak]
+#tr.en: and prepared the purification rites. 
+#etcsl: line-id=136
+
+:136v.1.1: ($1 ms. has instead:$) barag-barag-za#
+#lem: barag[sanctum]
+
+137. ne-mur mu-dub šu-luh si bi₂-sa₂
+#lem: nemur[ashes]; dub[heap up]; šuluh[ritual cleansing]; si[horn]; sa[equal]
+#tr.en: The @wTN{E-ešdam-kug} shrine awaits you. 
+#etcsl: line-id=137
+
+138. e₂-eš₂-dam-kug ma-ra-ŋal₂ šag₄-zu na-ma-sed-de₃
+#lem: Eʾešdamkug[1]TN; ŋal[⟦be⟧ to be (there]; šag[heart]; sed[cold]
+#tr.en: Might your heart not be appeased towards me? 
+#etcsl: line-id=138
+
+139. im-ma-si im-ma-dirig-ga-ta nin UN-gal ma-ra-dug₄
+#lem: si[fill]; dirig[make more than]; nin[lady]; UN.gal[ruler]; dug[speak]
+#tr.en: Since it was full, too full for me, great exalted lady, 
+#etcsl: line-id=139
+
+140. niŋ₂ ŋi₆ u₃-na ma-ra-an-dug₄-ga-am₃
+#lem: niŋ[thing]; ŋi[night]; ŋiʾunak[night]; dug[speak]
+#tr.en: I have recited this song for you. 
+#etcsl: line-id=140
+
+141. gala-e an-bar₇-ka šu hu-mu-ra-ab-gi₄-gi₄
+#lem: gala[lamentation singer]; anbar[mid-day]; šu[hand]; gi[turn]
+#tr.en: May a singer repeat to you at noon that which was recited to you at dead of night: 
+#etcsl: line-id=141
+
+142. dam dab₅-ba-za-ke₄-eš dumu dab₅-ba-za-ke₄-eš
+#lem: dam[spouse]; dab[seize]; dumu[child]; dab[seize]
+#tr.en: @q[En-hedu-ana,Inana]{“Because of your captive spouse, because of your captive child, 
+#etcsl: line-id=142
+
+143. ib₂-ba-zu ib₂-gu-ul šag₄-zu nu-te-en-te-en
+#lem: ib[angry]; gal[big]; šag[heart]; ten[extinguish]
+#tr.en: your rage is increased, your heart unassuaged.”} 
+#etcsl: line-id=143
+
+144. nin gu₂-tuku nir-ŋal₂ gu₂-en-na-ke₄
+#lem: nin[lady]; gutuku[perfect]; nirŋal[authoritative]; guʾen[assembly room]
+#tr.en: The powerful lady, respected in the gathering of rulers, 
+#etcsl: line-id=144
+
+145. sizkur₂-ra-na šu ba-an-ši-in-ti
+#lem: siškur[prayer]; šu[hand]; teŋ[approach]
+#tr.en: has accepted her offerings from her. @wDN{Inana's} holy heart has been assuaged. 
+#etcsl: line-id=145
+
+146. šag₄ kug {d}inana ki-bi ba-an-na-ab-gi₄
+#lem: šag[heart]; kug[purify]; Inanak[1]DN; ki[place]; gi[turn]
+#tr.en: The light was sweet for her, delight extended over her, 
+#etcsl: line-id=146
+
+147. ud ba-an-na-dug₃ la-la ba-an-sud-sud hi-li ma-az ba-an-du₈-du₈
+#lem: ud[sun]; dug[good]; lala[plenty]; sud[distant]; hili[attractiveness]; maz[swell]; du[spread]
+#tr.en: she was full of fairest beauty. Like the light of the rising moon, 
+#etcsl: line-id=147
+
+148. iti₆ e₃-a-gin₇ la-la ba-an-guru₃
+#lem: itud[moon]; e[leave]; lala[plenty]; gur[lift]
+#tr.en: she exuded delight. 
+#etcsl: line-id=148
+
+149. {d}nanna u₆ zid-de₃-eš mu-un-e₃
+#lem: Nanna[1]DN; u[admiration]; zid[right]; e[leave]
+#tr.en: @wDN{Nanna} came out to gaze at her properly, 
+#etcsl: line-id=149
+
+150. ama-ni {d}nin-gal-am₃ šudu₃ mu-na-an-ša₄
+#lem: ama[mother]; Ningal[1]DN; šud[prayer]; ša[cvve]
+#tr.en: and her mother @wDN{Ningal} blessed her. The door posts greeted her. 
+#etcsl: line-id=150
+
+151. ŋiš-kan₄-na-ke₄ silim-ma mu-na-ab-be₂
+#lem: ŋeškanak[part of a door frame]; silim[healthy]; e[speak]
+#tr.en: Everyone's speech to the mistress is exalted. 
+#etcsl: line-id=151
+
+152. nu-gig-ra dug₄-ga-ni mah-am₃
+#lem: nugig[priestess]; dug[speak]; mah[great]
+#tr.en: Praise be to the destroyer of foreign lands, 
+#etcsl: line-id=152
+
+153. kur gul-gul an-da me ba-a
+#lem: kur[mountain(s)]; gul[destroy]; An[1]DN; me[Being]; ba[allot]
+#tr.en: endowed with divine powers by @wDN{An}, to my lady enveloped in beauty, 
+#etcsl: line-id=153
+
+154. nin-ŋu₁₀ hi-li gu₂ e₃ {d}inana za₃-mi₂
+#lem: nin[lady]; hili[attractiveness]; gu[neck]; e[leave]; Inanak[1]DN; zamin[praise]
+#tr.en: to @wDN{Inana}! 
+#etcsl: line-id=154
+
+
+
+
+
+
+

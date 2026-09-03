@@ -1,0 +1,236 @@
+&Q000811 = Proverbs: collection 18
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.18
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.18&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (approx. 13 lines missing)
+@div proverb 18.1
+
+A.18.1.14. [...]-ib#-ze₂-e#
+#lem: zir[tear out]
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=A.18.1.14
+
+@end proverb
+
+@div proverb 18.2
+
+A.18.2.15. [...] lum-lum#-e
+#lem: X; lum[fruit]
+#tr.en: … 
+#etcsl: line-id=A.18.2.15
+
+A.18.2.16. [X X X]-ta# lugal#-zu ba-an-gu₇
+#lem: X; X; X; lugal[king]; gu[eat]
+#tr.en: … flourish …… your lord ate. 
+#etcsl: line-id=A.18.2.16
+
+@end proverb
+
+@div proverb 18.3
+
+A.18.3.17. [...] MU# RI# a-šag₄ dur₂-ru-na še gu₇-gu₇-a
+#lem: X; X; X; ašag[field]; durun[sit]; še[barley]; gu[eat]
+#tr.en: …… grain all been eaten in the …… field ……. 
+#etcsl: line-id=A.18.3.17
+
+A.18.3.18. lum-lum a-na ba-e-kal#
+#lem: lum[fruit]; ana[what?]; kal[rare]
+#tr.en: How did you value the flourishing? 
+#etcsl: line-id=A.18.3.18
+
+@end proverb
+
+@div proverb 18.4
+
+A.18.4.19.  %e  da-ra-an-šub  %s  a-hur-rum i-bi₂-za
+#lem: šub[fall]; hurum[junior]; ibiza[financial loss]
+#tr.en: The idleness of a low-life causes losses; 
+#etcsl: line-id=A.18.4.19
+
+A.18.4.20. gur#-da# niŋ₂ ud da-ri₂-kam
+#lem: gur[turn]; niŋ[thing]; ud[sun]; dari[eternal]
+#tr.en: his shying away (?) from work is perpetual. 
+#etcsl: line-id=A.18.4.20
+
+@end proverb
+
+@div proverb 18.5
+
+A.18.5.21. [a]-hur#-rum keše₂-ra-ab
+#lem: hurum[junior]; kešed[bind]
+#tr.en: Employ a low-life --  
+#etcsl: line-id=A.18.5.21
+
+A.18.5.22. ud MAŠ-a du₈-du₈-a-ab
+#lem: ud[sun]; n; du[spread]
+#tr.en: fire him after half a day! 
+#etcsl: line-id=A.18.5.22
+
+@end proverb
+
+@div proverb 18.6
+
+A.18.6.23. kug kalag-ga la₂ ka kalag-ga sam₂
+#lem: kug[metal]; kalag[strong]; la[hang]; kag[mouth]; kalag[strong]; sa[pay for]
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.c2]{6.1.26.c2}} He who pays with high-valued silver negotiates a favourable position. 
+#etcsl: line-id=A.18.6.23
+
+#etcsl#cf cf. 6.1.26.c2
+
+@end proverb
+
+@div proverb 18.7
+
+A.18.7.24. za#-e ŋiš-šub-e ni₂ bi₂-ib-kal
+#lem: zaʾe[you]; ŋeššub[lot]; ni[self]; kal[rare]
+#tr.en: Your worthiness is the result of chance. 
+#etcsl: line-id=A.18.7.24
+
+@end proverb
+
+@div proverb 18.8
+
+A.18.8.25. [dub₃-tuku bar] in-dab₅
+#lem: dubtuku[runner]; bar[outside]; dab[seize]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h70]{6.2.3: UET 6/2 281}} The quick one hid, 
+#etcsl: line-id=A.18.8.25
+
+#etcsl#cf cf. 6.2.3: UET 6/2 281
+
+A.18.8.26. usu-tuku ba-da-an!-kar
+#lem: usutuku[strong]; kar[flee]
+#tr.en: the strong one fled; 
+#etcsl: line-id=A.18.8.26
+
+A.18.8.27. [ka tuku] e₂-gal-la ba-ni-in-kur₉
+#lem: kag[mouth]; tuku[acquire]; egal[palace]; kur[enter]
+#tr.en: the talker got into the palace. 
+#etcsl: line-id=A.18.8.27
+
+@end proverb
+
+@div proverb 18.9
+
+A.18.9.28. [...]-a-kam
+#lem: X
+#tr.en: @gap{2 lines fragmentary}
+#etcsl: line-id=A.18.9.28
+
+A.18.9.29. [...]-na-kam
+#lem: X
+#etcsl: line-id=A.18.9.29
+
+@end proverb
+
+@div proverb 18.10
+
+A.18.10.30. [...] igi-ni# a zal-bi
+#lem: X; igi[eye]; a[water]; zal[pass time]
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=A.18.10.30
+
+@end proverb
+
+@div proverb 18.11
+
+A.18.11.31. he₂#-em-dirig {urud}ha-zi-in al-su-su
+#lem: dirig[make more than]; hazin[ax]; sug[replace]
+#tr.en: Whenever there is excess, an axe remedies it! 
+#etcsl: line-id=A.18.11.31
+
+@end proverb
+
+@div proverb 18.12
+
+A.18.12.32. du₆-la₂ dul₂-bi bi₂-ib-sig₉-sig₉
+#lem: dud[(ruin) mound]; dul[lower]; sig[put into]
+#tr.en: The hills and the depths will be levelled. 
+#etcsl: line-id=A.18.12.32
+
+@end proverb
+
+@div proverb 18.13
+
+A.18.13.33. saŋ# ki-tum₃ a₂ aŋ₂-ŋa₂ še-ba-e-da-e-še#
+#lem: saŋ[head]; kitum[burial]; a[arm]; aŋ[measure]; šebida[disdain]
+#tr.en: A slave entrusted with a burial will be negligent. 
+#etcsl: line-id=A.18.13.33
+
+@end proverb
+
+@div proverb 18.14
+
+A.18.14.34. saŋ bul-e id₂-da bal-e#
+#lem: saŋ[head]; bul[shake]; id[river]; bala[turn]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.88]{6.1.03.88}, @xref[t.6.1.24,t.6.1.24.7]{6.1.24.7}} He who tosses his head will cross the river. 
+#etcsl: line-id=A.18.14.34
+
+#etcsl#cf cf. 6.1.03.88, 6.1.24.7
+
+@end proverb
+
+@div proverb 18.15
+
+A.18.15.35. si-si-ig a-ga-de₃{ki}-še₃ i₃-gi₄-[in]
+#lem: sisig[breeze]; Agade[1]SN; gi[turn]
+#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.57]{6.1.11.57}} Oh whirlwind (?), 
+#etcsl: line-id=A.18.15.35
+
+#etcsl#cf cf. 6.1.11.57
+
+A.18.15.36. a-ga-de₃{ki}-a a-na-am₃ mu-e-ni!-ak
+#lem: Agade[1]SN; ana[what?]; ak[do]
+#tr.en: I despatched you toward @wSN{Agade}. 
+#etcsl: line-id=A.18.15.36
+
+A.18.15.37. maš₂-ŋi₆ lul-la im-ma-an-na-ŋar
+#lem: mašŋik[(nocturnal) vision]; lul[false]; ŋar[put]
+#tr.en: What did you accomplish in @wSN{Agade}? 
+#etcsl: line-id=A.18.15.37
+
+A.18.15.38. lu₂ bur₂-ru-bi bi₂-in-tuku
+#lem: lu[person]; bur[spread out]; tuku[acquire]
+#tr.en: -- A misleading omen was given to him @note{i.e. @wRN{Narām-@wDN{Suen}}}. He was provided with an interpreter. 
+#etcsl: line-id=A.18.15.38
+
+A.18.15.39. a-ga-de₃{ki}-a# a-ga-de₃#{[ki]} [X X]-a-gin₇
+#lem: Agade[1]SN; Agade[1]SN; X; X
+#tr.en: @wSN{Agade} …… like …… @wSN{Agade} ……  
+#etcsl: line-id=A.18.15.39
+
+A.18.15.40. [...] BI X [...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=A.18.15.40
+
+@end proverb
+
+@end segment
+
+@div segment B
+
+$ (unplaced)
+@div proverb 18.b1
+
+B.18.b1.1. BA# X [...]
+#lem: X; X; X
+#tr.en: $ (@note{= Alster 1997 p. 242 B rev. 1} ) $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=B.18.b1.1
+
+#etcsl#eq = Alster 1997 p. 242 B rev. 1
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

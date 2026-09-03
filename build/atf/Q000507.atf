@@ -1,0 +1,360 @@
+&Q000507 = A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.7.1
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.7.1&display=Crit&charenc=gcirc#
+
+@div šagbatuku A
+
+A.1. en gal šag₄ zid-ta# [nam dug₃]-ge-eš tar-ra
+#lem: en[lord]; gal[big]; šag[heart]; zid[right]; nam[fate]; dug[good]; tar[cut]
+#tr.en: Exalted lord, for whom a favourable destiny was determined while he was still in the good womb! 
+#etcsl: line-id=A.1
+
+A.2. {d}nu-muš-da [en gal šag₄ zid-ta nam] dug₃-ge-eš# [tar]-ra#
+#lem: Numušda[1]DN; en[lord]; gal[big]; šag[heart]; zid[right]; nam[fate]; dug[good]; tar[cut]
+#tr.en: @wDN{Numušda}, exalted lord, 
+#etcsl: line-id=A.2
+
+#etcsl#doc line erased
+
+A.3. numun kug [... a] {[d]}suen#-e bi₂-in!-ru-a
+#lem: numun[seed]; kug[purify]; X; a[water]; Suen[1]DN; ri[impose]
+#tr.en: for whom a favourable destiny was determined while he was still in the good womb! 
+#etcsl: line-id=A.3
+
+A.4. {d}nin-[gal]-le# [...] mi-ni-in-dim₂-dim₂
+#lem: Ningal[1]DN; X; dim[create]
+#tr.en: @wDN{Ningal} formed …… the holy seed …… engendered by @wDN{Suen}. 
+#etcsl: line-id=A.4
+
+A.5. kur sikil-la [he₂]-ŋal₂#-e u₃-tud-da
+#lem: kur[mountain(s)]; sikil[pure]; heŋal[plenty]; utud[give birth (to)]
+#tr.en: Born amid plenty in the holy mountains, eating fruits from a green garden, 
+#etcsl: line-id=A.5
+
+A.6. gurun kiri₆# sig₇-ga# gu₇-a
+#lem: gurun[fruit]; kiri[(fruit) plantation]; sissig[green-yellow]; gu[eat]
+#tr.en: named with a good name by @wDN{An} and @wDN{Enlil}, 
+#etcsl: line-id=A.6
+
+A.7. an {d}en-lil₂-bi# mu dug₃ sa₄-a
+#lem: An[1]DN; Enlil[1]DN; mu[name]; dug[good]; še[call by name]
+#tr.en: carefully cherished by the great lady @wDN{Ninlil}! @wDN{Numušda}, 
+#etcsl: line-id=A.7
+
+A.8. nin gal {d}nin-lil₂-le mi₂ zid-de₃-eš dug₄-ga
+#lem: nin[lady]; gal[big]; Ninlil[1]DN; mi[cvne]; zid[right]; dug[speak]
+#tr.en: son of the prince, 
+#etcsl: line-id=A.8
+
+A.9. {d}nu-muš-da dumu nun-na muš₃ me-lem₄ du₈-du₈ {{%akk ma-lu-u₂}}
+#lem: Numušda[1]DN; dumu[child]; nun[prince]; muš[face]; melim[frightening splendor]; du[spread]; L
+#tr.en: whose appearance is full of awe-inspiring radiance! 
+#etcsl: line-id=A.9
+
+A.10. sumun₂ gal ki-bal# si mul di
+#lem: sumun[wild cow]; gal[big]; kibala[rebel land]; si[horn]; mul[shine]; di[speak]
+#tr.en: Great wild bull battering the enemy country, 
+#etcsl: line-id=A.10
+
+A.11. {d}nu-muš#-[da] en gal
+#lem: Numušda[1]DN; en[lord]; gal[big]
+#tr.en: great lord @wDN{Numušda}! 
+#etcsl: line-id=A.11
+
+@div trailer 
+
+A.12. šag₄-ba-[tuku-am₃]
+#lem: šagbatuku[liturgical rubric]
+#tr.en: @fsux{šagbatuku}. @notep{lines 11 and 12 are written as one line in source and indented} 
+#etcsl: line-id=A.12
+
+#etcsl#doc lines 11 and 12 are written as one line in source and indented
+
+@end trailer
+
+@end šagbatuku
+
+@div šagbatuku B
+
+B.13. piriŋ guru₅-uš bur₂ me₃-še₃ u₃-na gub-bu
+#lem: piriŋ[lion]; guruš[cvne]; bur[spread out]; me[battle]; una[wild]; gub[stand]
+#tr.en: Snarling lion fiercely poised for the fight, 
+#etcsl: line-id=B.13
+
+B.14. muš-šag₄-tur₃ gu₂-erim₂-ra šeg₁₁ i-ni-in-gi₄!
+#lem: muššagtur[(mythical) snake]; guʾerim[hostile]; šeg[voice]; gi[turn]
+#tr.en: …… snake spitting roaring at the enemy, 
+#etcsl: line-id=B.14
+
+B.15. ušumgal mah# tu₆ kug-ga al-gi₄-a
+#lem: ušumgal[great dragon]; mah[great]; tu[incantation]; kug[pure]; gi[turn]
+#tr.en: great dragon …… holy incantations, 
+#etcsl: line-id=B.15
+
+B.16. im₂-ma dub₃ nu-silig-ga
+#lem: im[run]; dub[knee]; silig[cease]
+#tr.en: whose knees never cease from running! 
+#etcsl: line-id=B.16
+
+#etcsl#doc line indented
+
+B.17. i-zi hu-luh-ha na-me gaba nu-ru-gu₂
+#lem: izi[wave]; huluh[frightened]; name[any]; gaba[breast]; rugu[withstand]
+#tr.en: Fearsome flood which no one can withstand, 
+#etcsl: line-id=B.17
+
+B.18. a e₃-e mah peš₁₀ ur₄-ur₄-re
+#lem: a[water]; e[leave]; mah[great]; piš[bank]; ur[gather]
+#tr.en: overflowing high water engulfing the banks! 
+#etcsl: line-id=B.18
+
+B.19. ud iri mu-un-til X X nu-mu-gi₄
+#lem: ud[storm]; iri[city]; til[complete]; X; X; gi[turn]
+#tr.en: God, creative (?) personage who has no rival, 
+#etcsl: line-id=B.19
+
+#etcsl#doc line indented
+
+B.20. diŋir saŋ-mud-ŋal₂ gaba-šu-ŋar nu-tuku
+#lem: diŋir[deity]; saŋmudŋal[advocate?]; gabašuŋar[rival]; tuku[acquire]
+#tr.en: foremost in heroism, who can rival you? 
+#etcsl: line-id=B.20
+
+B.21. saŋ-kal nam-ur-saŋ-ŋa₂ a-ba e-da-sa₂-am₃
+#lem: saŋkal[foremost]; namursaŋ[heroism]; aba[who?]; sa[equal]
+#tr.en: @wDN{Numušda}, your face is that of a lion, 
+#etcsl: line-id=B.21
+
+B.22. igi-zu piriŋ-am₃ {{%akk la-bu}} giri₁₇ {{%akk ap-pu#}} muš-huš ni₂ ri
+#lem: igi[eye]; piriŋ[lion]; L; kiri[nose]; L; mušhuš[monster]; ni[fear]; ri[impose]
+#tr.en: and you have a muzzle like that of a fearsome @fsux{mušḫuš}. 
+#etcsl: line-id=B.22
+
+B.23. {d}nu-muš-da
+#lem: Numušda[1]DN
+#etcsl: line-id=B.23
+
+@div trailer 
+
+B.24. šag₄-ba-tuku 2#-bi
+#lem: šagbatuku[liturgical rubric]; n
+#tr.en: 2nd (?) @fsux{šagbatuku}. @notep{lines 23 and 24 are written as one line in source and indented} 
+#etcsl: line-id=B.24
+
+#etcsl#doc lines 23 and 24 are written as one line in source and indented
+
+@end trailer
+
+@end šagbatuku
+
+@div ŋišgiŋal C
+
+C.25. a₂-zu sa-par₃-am₃ kur še nu-zu#-ba
+#lem: a[arm]; sabar[net]; kur[mountain(s)]; še[barley]; zu[know]
+#tr.en: Your arm is a battle net in (?) the land of those who do not practise agriculture; 
+#etcsl: line-id=C.25
+
+C.26. umbin-zu umbin hu-ri₂-in-na lu₂ hul-ŋal₂ ha-ha-X {{%akk i-ta-ma-ah#}}
+#lem: umbin[finger]; umbin[finger]; hurin[eagle]; lu[person]; huluŋal[evil]; haza[hold]; L
+#tr.en: your claws are the claws of an eagle, grasping the wicked. 
+#etcsl: line-id=C.26
+
+C.27. nam-nir-ŋal₂-zu-še₃ saŋ na-me nu-šum₂-mu
+#lem: namnirŋal[authority]; saŋ[head]; name[any]; šum[give]
+#tr.en: No one dare oppose your authority. Your greatness and magnitude, 
+#etcsl: line-id=C.27
+
+C.28. nam-mah nam-gur₄-zu ar₂-re-eš ka-ge dib
+#lem: nammah[greatness]; namgur[thickness]; ar[celebrate]; kag[mouth]; dib[pass]
+#tr.en: surpassing all praise, and your utterances which cannot be dismissed  
+#etcsl: line-id=C.28
+
+C.29. [inim dug₄]-ga#-zu sag₂ di nu-zu
+#lem: inim[word]; dug[speak]; sag[scatter]; di[speak]; zu[know]
+#tr.en: My god, hand over to the king the disobedient lands! 
+#etcsl: line-id=C.29
+
+C.30. [...]-zu# A saŋ#-ba du X
+#lem: X; X; saŋ[head]; ŋen[go]; X
+#tr.en: @wDN{Numušda}, 
+#etcsl: line-id=C.30
+
+C.31. diŋir-ŋu₁₀# lugal-ra# kur# nu-še-ga-na# šu-ni-še₃# si-bi₂-ib#
+#lem: diŋir[deity]; lugal[king]; kur[mountain(s)]; šeg[agree]; šu[hand]; si[fill]
+#tr.en: hand over to prince @wRN{@wDN{Sîn}-iqīšam} the disobedient lands! 
+#etcsl: line-id=C.31
+
+#etcsl#doc line erased
+
+C.32. {d}nu-muš-da nun {d}suen-i-qi₂-ša-am kur nu-še-ga-na šu-ni-še₃ si-bi₂-ib
+#lem: Numušda[1]DN; nun[prince]; Siniqišam[1]RN; kur[mountain(s)]; šeg[agree]; šu[hand]; si[fill]
+#etcsl: line-id=C.32
+
+@div trailer 
+
+C.33. sa-gid₂!-da ŋiš-gi₄-ŋal₂
+#lem: sagida[musical notation]; ŋešgiŋal[musical refrain]
+#tr.en: @fsux{Sa-gida} of the @fsux{ŋišgiŋal}. 
+#etcsl: line-id=C.33
+
+#etcsl#text Text SU₃-UD.
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div unknown D
+
+D.34. ur-saŋ usu er₉-ra me galam-ma šu du₇
+#lem: ursaŋ[warrior]; usu[strength]; ir[mighty]; me[Being]; galam[skilful]; šu[hand]; du[perfect]
+#tr.en: Warrior, powerful in strength, who perfectly controls the complex divine powers! 
+#etcsl: line-id=D.34
+
+D.35. {d}nu-muš-da# [ur-saŋ] usu# er₉-ra# [me] galam#-[ma] šu# du₇
+#lem: Numušda[1]DN; ursaŋ[warrior]; usu[strength]; ir[mighty]; me[Being]; galam[skilful]; šu[hand]; du[perfect]
+#tr.en: Warrior @wDN{Numušda}, powerful in strength, who perfectly controls the complex divine powers! 
+#etcsl: line-id=D.35
+
+#etcsl#doc line erased
+
+D.36. diŋir me-dim₂ gud-alim igi bar-bar-re-de₃ du₇
+#lem: diŋir[deity]; medim[limbs]; alim[bison]; igi[eye]; bar[place outside]; du[perfect]
+#tr.en: God with the limbs of a bison, decorous to behold, 
+#etcsl: line-id=D.36
+
+D.37. a-a-zu {d}suen-gin₇ zi til₃-le ki ba-e-a-aŋ₂
+#lem: aya[father]; Suen[1]DN; zi[life]; til[live (of a single person)]; ki[place]; aŋ[measure]
+#tr.en: like your father @wDN{Suen} you love to bestow life. Choosing truth and annihilating wickedness, 
+#etcsl: line-id=D.37
+
+D.38. niŋ₂-zid-de₃ bar tam-me {{%akk ši-te-a-[...]}} niŋ₂-erim₂ ud za-ha-al ak {{%akk tu-ha-la-aq}}
+#lem: niŋzid[righteousness]; bar[outside]; tam[clean]; L; niŋerim[evil]; ud[sun]; uzahal[disappearance]; ak[do]; L
+#tr.en: in @wTN{E-kiš-nu-ŋal}, the holy and princely dwelling, your divine powers are most precious divine powers, 
+#etcsl: line-id=D.38
+
+D.39. e₂-kiš-nu-ŋal₂ ki-tuš kug nam-nun-na
+#lem: Ekišnuŋal[1]TN; kituš[dwelling place]; kug[purify]; namnun[magnificence]
+#tr.en: and your purification rites are resplendent. @wDN{Numušda}, hero, 
+#etcsl: line-id=D.39
+
+D.40. me-zu me kal#-kal šu-luh-zu dadag-ga-am₃ {{%akk X %akk X}}
+#lem: me[Being]; me[Being]; kal[rare]; šuluh[ritual cleansing]; dadag[bright]; L; L
+#tr.en: powerful in strength, 
+#etcsl: line-id=D.40
+
+D.41. {d}nu-muš-da ur-saŋ usu er₉-<ra me galam-ma šu du₇>
+#lem: Numušda[1]DN; ursaŋ[warrior]; usu[strength]; ir[mighty]; me[Being]; galam[skilful]; šu[hand]; du[perfect]
+#tr.en: who perfectly controls the complex divine powers! 
+#etcsl: line-id=D.41
+
+#etcsl#doc line indented
+
+D.42. {d}nu-nam-nir en nam tar-tar-re
+#lem: Nunamnir[1]DN; en[lord]; nam[fate]; tar[cut]
+#tr.en: @wDN{Nunamnir}, the lord who determines the destinies, has made your name august throughout the wide extent of foreign lands. 
+#etcsl: line-id=D.42
+
+D.43. kur niŋ₂-daŋal-la-ba mu-zu im-mi-in-mah
+#lem: kur[mountain(s)]; niŋdaŋala[vastness]; mu[name]; mah[great]
+#tr.en: He has assigned as a cult place for you the city of abundance, 
+#etcsl: line-id=D.43
+
+D.44. iri nam-he₂ ki dug₃-ga ŋar-ra
+#lem: iri[city]; namhe[abundance]; ki[place]; dug[good]; ŋar[put]
+#tr.en: founded in a favourable place: @wSN{Kazallu}, the mountain of plenty. 
+#etcsl: line-id=D.44
+
+D.45. ka-zal-lu{ki} kur he₂-ŋal₂-la ki-šu-peš! mi-ri-in-zu# {{%akk ma-ha-az-ka %akk u₂-we-di-ka#}}
+#lem: Kazallu[1]SN; kur[mountain(s)]; heŋal[plenty]; kišupeš[cultic place]; zu[know]; L; L
+#tr.en: By his unchangeable command he has ordered the fashioning of @wTN{Kun-satu}, 
+#etcsl: line-id=D.45
+
+D.46. kun₄-sa-tu barag nam-en-na-zu
+#lem: Kunsatu[1]TN; barag[sanctum]; namen[the office of en-priest]
+#tr.en: your lordly dais. 
+#etcsl: line-id=D.46
+
+D.47. inim nu-kur₂-ru-da-na u₃-tud-ba bi₂-in-dug₄
+#lem: inim[word]; kur[different]; utud[give birth (to)]; dug[speak]
+#tr.en: Father @wDN{Enlil}, 
+#etcsl: line-id=D.47
+
+D.48. ŋiš-hur ha-lam-ma-a!-bi pa e₃-a ak-de₃
+#lem: ŋešhur[plan]; halam[forsake]; pa[branch]; e[leave]; ak[do]
+#tr.en: the good shepherd who loves your plans, 
+#etcsl: line-id=D.48
+
+D.49. iri šub-šub-bu-da-bi ki-bi gi₄-gi₄-de₃
+#lem: iri[city]; šub[fall]; ki[place]; gi[turn]
+#tr.en: has desired to make its forgotten lay-out visible again, 
+#etcsl: line-id=D.49
+
+D.50. a-a {d}en-lil₂ šag₄-ga-ni nam-de₆
+#lem: aya[father]; Enlil[1]DN; šag[heart]; de[carry]
+#tr.en: and to restore its abandoned cities; 
+#etcsl: line-id=D.50
+
+D.51. sipad zid lu₂ ŋiš-hur-zu ki aŋ₂-ŋa₂
+#lem: sipad[shepherd]; zid[right]; lu[person]; ŋešhur[plan]; ki[place]; aŋ[measure]
+#tr.en: he has ordered prince @wRN{@wDN{Sîn}-iqīšam} to accomplish it, 
+#etcsl: line-id=D.51
+
+D.52. nun {d}suen-i-qi₂-ša-am a₂-bi mu-da-an-aŋ₂
+#lem: nun[prince]; Siniqišam[1]RN; a[arm]; aŋ[measure]
+#tr.en: and he has made (?) your cities and settlements peaceful dwelling places. 
+#etcsl: line-id=D.52
+
+D.53. iri a₂-dam-zu ki-tuš ne-ha bi₂-in-tuš
+#lem: iri[city]; adam[habitation]; kituš[dwelling place]; neha[calm]; tuš[sit (down)]
+#tr.en: He has dredged your canals, 
+#etcsl: line-id=D.53
+
+D.54. id₂-zu mu-ba-al-ba-al eg₂ pa₅! si mi-in-sa₂
+#lem: id[river]; bal[dig]; eg[levee]; par[(small) canal]; si[horn]; sa[equal]
+#tr.en: and cleared up the levees and irrigation ditches, 
+#etcsl: line-id=D.54
+
+D.55. a he₂-ŋal₂ du-ri₂#-še₃ nu-til-le-da
+#lem: a[water]; heŋal[plenty]; duri[forever]; til[complete]
+#tr.en: so that abundant water will never be lacking there. 
+#etcsl: line-id=D.55
+
+D.56. kalam-za mi-in-ŋar niŋ₂-du₇ pa bi₂-in-[e₃]
+#lem: kalam[the Land (of Sumer)]; ŋar[put]; niŋdu[that which is appropriate]; pa[branch]; e[leave]
+#tr.en: He has put in your …… and made manifest all that is proper. 
+#etcsl: line-id=D.56
+
+D.57. inim# sag₉-sag₉-ge-da-ni-še₃ igi zid bar-mu-ši-ib
+#lem: inim[word]; sag[good]; igi[eye]; zid[right]; bar[place outside]
+#tr.en: Regard with favour his commendable prayers! 
+#etcsl: line-id=D.57
+
+D.58. nun {d}suen-i-qi₂-ša-am-ra igi zid bar-mu-ši-ib
+#lem: nun[prince]; Siniqišam[1]RN; igi[eye]; zid[right]; bar[place outside]
+#tr.en: Regard Prince @wRN{@wDN{Sîn}-iqīšam} with favour! 
+#etcsl: line-id=D.58
+
+#etcsl#doc line erased, then rewritten
+
+D.59. lugal šag₄ hul₂-la ud-da-ni he₂-su₃-ud!
+#lem: lugal[king]; šag[heart]; hul[rejoice]; ud[sun]; sud[distant]
+#tr.en: May the king's joyous days be prolonged, 
+#etcsl: line-id=D.59
+
+D.60. {d}nu-muš-da
+#lem: Numušda[1]DN
+#tr.en: O @wDN{Numušda}! 
+#etcsl: line-id=D.60
+
+@end unknown
+
+
+
+
+
+
+

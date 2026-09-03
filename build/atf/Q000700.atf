@@ -1,0 +1,150 @@
+&Q000700 = A balbale to Ninŋišzida (Ninŋišzida B)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.19.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.19.2&display=Crit&charenc=gcirc#
+
+1. en me-te kug-ga ni₂ huš gal gur₃-ru
+#lem: en[lord]; mete[appropriate thing]; kug[pure]; ni[fear]; huš[reddish]; gal[big]; gur[lift]
+#tr.en: Lord with holy dignity, imbued with great savage awesomeness! My king, Lord @wDN{Ninŋišzida}, imbued with great savage awesomeness! Hero, falcon preying on the gods, my king -- dignified, with sparkling eyes, fully equipped with arrows and quiver, impetuous leopard, murderous, howling @fsux{mušḫuš}, @varh[t4192.v1]{…… } @vart[t4192.v2,t4192.v1]{@varn{1 ms. has instead:} …… }, dragon snarling (?) in the lagoon, raging storm @varh[t4192.v3]{reaching } @vart[t4192.v4,t4192.v3]{@varn{1 ms. has instead:} covering } all people! Lofty-headed prince, resting in the midst of the mountains, …… smashing heads! 
+#etcsl: line-id=1
+
+2. lugal-ŋu₁₀ en {d}nin-ŋiš-zid-da ni₂ huš gal gur₃-ru
+#lem: lugal[king]; en[lord]; Ninŋešzidak[1]; ni[fear]; huš[reddish]; gal[big]; gur[lift]
+#etcsl: line-id=2
+
+3. ur-saŋ sur₂-du₃{mušen} diŋir-re-e-ne
+#lem: ursaŋ[warrior]; surdu[falcon]; diŋir[deity]
+#etcsl: line-id=3
+
+4. lugal-ŋu₁₀ giri₁₇-zal igi gun₃ ti mar-uru₅ šu du₇
+#lem: lugal[king]; kirizal[joy]; igi[eye]; gunu[speckled]; ti[arrow]; emarru[quiver]; šu[hand]; du[perfect]
+#etcsl: line-id=4
+
+5. nemur₂(|PIRIG.TUR|) ban₃-da saŋ ŋiš ra-ra muš-huš šeg₁₁! gi₄-gi₄
+#lem: nemur[leopard]; banda[junior]; saŋ[head]; ŋeš[tree]; rah[beat]; mušhuš[monster]; šeg[voice]; gi[turn]
+#etcsl: line-id=5
+
+6. (1:|DU.DU|-ma bi-HI:1) ušumgal ambar-ra guruš₃ bur₂-ra u₁₈-lu lu₂-ra (2:te-a:2)
+#lem: X; X; ušumgal[great dragon]; ambar[reed-bed]; guruš[cvne]; bur[spread out]; ulu[south wind]; lu[person]; teŋ[approach]
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) keše₂-ra₂-gin₇ bi-DU
+#lem: kešed[bind]; X
+:6v.2.1: ($1 ms. has instead:$) dul-la
+#lem: dul[cover]
+
+7. nun saŋ mah kur-šag₄-ga lug-ga edin DIB saŋ dub₂-dub₂ X
+#lem: nun[prince]; saŋ[head]; mah[great]; kuršag[center of the mountains]; lug[live]; eden[back]; X; saŋ[head]; dub[tremble]; X
+#etcsl: line-id=7
+
+8. lugal ka-zu (1:maš-maš maš:1) en {d}nin-ŋiš-zid-da ki ra# [ki ra-ra]
+#lem: lugal[king]; kag[mouth]; mašmaš[sorcerer]; maš[be pure]; en[lord]; Ninŋešzidak[1]; ki[place]; rah[beat]; ki[place]; rah[beat]
+#tr.en: Lord, your mouth is that of @varh[t4192.v5]{a pure magician } @vart[t4192.v6,t4192.v5]{@varn{1 ms. has instead:} a snake with a great tongue, a magician } @vart[t4192.v7,t4192.v5]{@varn{1 ms. has instead:} a poisonous snake }, Lord @wDN{Ninŋišzida}, ……! 
+#etcsl: line-id=8
+
+:8v.1.1: ($1 ms. has instead:$) muš eme# mah maš-maš mah
+#lem: muš[snake]; eme[tongue]; mah[great]; mašmaš[sorcerer]; mah[great]
+:8v.1.2: ($1 ms. has instead:$) muš uš₁₁
+#lem: muš[snake]; uš[poison]
+
+9. {d}nin-ŋiš-zid-da ka-zu maš-maš maš en {d}nin-ŋiš-zid-da ki [ra ki ra-ra]
+#lem: Ninŋešzidak[1]; kag[mouth]; mašmaš[sorcerer]; maš[be pure]; en[lord]; Ninŋešzidak[1]; ki[place]; rah[beat]; ki[place]; rah[beat]
+#tr.en: @wDN{Ninŋišzida}, your mouth is that of a pure magician, Lord @wDN{Ninŋišzida}, ……! 
+#etcsl: line-id=9
+
+10. gada la₂-a-ŋu₁₀ a-gin₇ ŋar-ra-zu šag₄-zu a-ba mu-un-zu
+#lem: gada[flax]; la[hang]; agin[thus]; ŋar[put]; šag[heart]; aba[who?]; zu[know]
+#tr.en: My linen-clad one, when you ……, who can find out your intentions? 
+#etcsl: line-id=10
+
+11. {d}nin-ŋiš-zid-da a-gin₇ ŋar-ra-zu šag₄-zu a-ba mu-un-zu
+#lem: Ninŋešzidak[1]; agin[thus]; ŋar[put]; šag[heart]; aba[who?]; zu[know]
+#tr.en: @wDN{Ninŋišzida}, when you ……, who can find out your intentions? Your holy word is known to them that know it, 
+#etcsl: line-id=11
+
+12. inim kug-zu mu-un-zu-ra mu-un-zu nu-mu-un-zu-ra nu-mu-un-zu
+#lem: inim[word]; kug[pure]; zu[know]; zu[know]; zu[know]; zu[know]
+#tr.en: but is unknown to them that do not know it. To them that do not know it, 
+#etcsl: line-id=12
+
+13. nu-mu-un-zu-ra nu-mu-un-zu-ra me-dim₂ mu-un-na-X
+#lem: zu[know]; zu[know]; medim[limbs]; X
+#tr.en: to them that do not know it, ……. @wDN{Ninŋišzida}, to them that do not know it, 
+#etcsl: line-id=13
+
+14. {d}nin-ŋiš-zid-da nu-mu-un-zu-ra me-dim₂ mu-un-na-X
+#lem: Ninŋešzidak[1]; zu[know]; medim[limbs]; X
+#tr.en: …… When your great word comes to the earth, 
+#etcsl: line-id=14
+
+15. inim mah-zu ki-še₃ du-a-ba muš-huš (1::1) na-nam KA X X
+#lem: inim[word]; mah[great]; ki[place]; du[go]; mušhuš[monster]; me[be]; X; X; X
+#tr.en: you are indeed a @vart[t4192.v8,t4192.v8]{@varn{1 ms. adds:} great } @fsux{mušḫuš} ……. 
+#etcsl: line-id=15
+
+:15v.1.1: ($1 ms. adds:$) gal
+#lem: gal[big]
+
+16. id₂-da a-ŋi₆-am₃ na-šub-šub
+#lem: id[river]; aŋi[wave]; šub[fall]
+#tr.en: You fall upon the river as a flood-wave, 
+#etcsl: line-id=16
+
+17. a-šag₄-ga mar-uru₅-am₃ na-zi-zi
+#lem: ašag[field]; marru[stormwind]; zig[rise]
+#tr.en: you rise in the fields as a devastating flood. 
+#etcsl: line-id=17
+
+18. ma₂-gi-lum a-u₃ me (1:kud-ku₅-ru im-[me]:1)
+#lem: magilum[boat]; aʾu[high water]; me[battle]; kud[cut]; dug[speak]
+#tr.en: @fsux{Magilum} boat, 
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. has instead:$) gu₂-guru₅ am₃-me
+#lem: guguru[trim down]; dug[speak]
+
+19. [X X] X šag₄ ni₂-te-na-ka mu-un-[...]
+#lem: X; X; X; šag[heart]; ni[self]; X
+#tr.en: high flood of battle @varh[t4192.v9]{which cuts down } @vart[t4192.v10,t4192.v9]{@varn{1 ms. has instead:} which chops down }. …… in his own heart ……, 
+#etcsl: line-id=19
+
+20. [...] X ki RA X me-a zag ŋar E [...]
+#lem: X; X; ki[place]; X; X; mea[where?]; zag[side]; ŋar[put]; X; X
+#tr.en: …… as a dead man ……  
+#etcsl: line-id=20
+
+21. [X X] X lu₂ ug₅-ga-gin₇ X [...]
+#lem: X; X; X; lu[person]; ug[kill]; X; X
+#tr.en: Lord @wDN{Ninŋišzida}, your praise is sweet. 
+#etcsl: line-id=21
+
+22. [...] X [...] X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=22
+
+23. AN AL# X AN X X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=23
+
+24. en# {d}nin-ŋiš-zid#-da [za₃-mi₂]-zu dug₃-[ga-am₃]
+#lem: en[lord]; Ninŋešzidak[1]; zamin[praise]; dug[good]
+#etcsl: line-id=24
+
+@div trailer 
+
+25. bal-bal-e {[d]}[nin-ŋiš-zid]-da#-ka
+#lem: balbale[literary subscript]; Ninŋešzidak[1]
+#tr.en: A @fsux{balbale} of @wDN{Ninŋišzida}. 
+#etcsl: line-id=25
+
+@end trailer
+
+
+
+
+
+
+

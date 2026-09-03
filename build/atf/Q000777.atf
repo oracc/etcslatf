@@ -1,0 +1,333 @@
+&Q000777 = An elegy on the death of Nawirtum
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.5.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.3&display=Crit&charenc=gcirc#
+
+1. ud hul dab₅-be₂-da-na ki-sikil-ra ba-[...]
+#lem: ud[sun]; hulu[bad]; dab[seize]; kisikil[young woman]; X
+#tr.en: An evil day …… upon the maiden in her ……. 
+#etcsl: line-id=1
+
+2. munus sag₉-ga ki-sikil he₂-du₇-ra igi hul ba-[...]
+#lem: munus[woman]; sag[good]; kisikil[young woman]; hedu[ornament]; igi[eye]; hulu[bad]; X
+#tr.en: Upon the fair woman, the well-favoured maiden, the evil eye ……. 
+#etcsl: line-id=2
+
+3. mušen amar-bi gud₃-bi dirig-še₃ sa im-[...]
+#lem: mušen[bird]; amar[calf]; gud[nest]; dirig[make more than]; sa[net]; X
+#tr.en: Upon the fledgling overstepping its nest, a net has ……. 
+#etcsl: line-id=3
+
+4. ama gan ama dumu tur ŋiš-bur-re ba-an-[...]
+#lem: ama[mother]; gan[child-bearing]; ama[mother]; dumu[child]; tur[small]; ŋešpar[trap]; X
+#tr.en: The fecund mother, the mother of children, is …… by a snare. 
+#etcsl: line-id=4
+
+5. ab₂ sig₇-ga šilam bar-šu-ŋal₂ gakkul-gin₇ bi₂-in-[...]
+#lem: ab[cow]; sissig[green-yellow]; šilam[cow]; baršuŋal[designation of cows]; gakkul[mash-tub]; X
+#tr.en: The yellow cow, the loud-voiced wild cow, …… like a @fsux{gakkul} vessel. 
+#etcsl: line-id=5
+
+6. {m}na-wi-ir-tum šilam bar-šu-ŋal₂ gakkul-gin₇ bi₂-in-[...]
+#lem: Nawirtum[1]PN; šilam[cow]; baršuŋal[designation of cows]; gakkul[mash-tub]; X
+#tr.en: @wPN{Nawirtum}, the loud-voiced wild cow, …… like a @fsux{gakkul} vessel. 
+#etcsl: line-id=6
+
+7. a-gig li-bi₂-in-dug₄-ga en₃-bi la-ba-ši-in-[tar]
+#lem: gig[sick]; dug[speak]; en[cvne]; tar[cut]
+#tr.en: She who never said @q[Nawirtum,]{“I am sick”} was not cared for. 
+#etcsl: line-id=7
+
+8. LIL₂ nu-um-ga-am₃ ki diŋir nu-mu-[...]
+#lem: X; me[be]; ki[place]; diŋir[deity]; X
+#tr.en: She who did not …… did not …… the divine place. 
+#etcsl: line-id=8
+
+9. ki-nu₂-bi-gin₇ IM gurud-da-bi la-ba-ab-[...]
+#lem: kinud[sleeping quarter]; X; gurud[throw]; X
+#tr.en: Like their resting-place, their hurled …… was not ……. 
+#etcsl: line-id=9
+
+10. nibru{ki} {d}muru₉ ba-da-an-ŋar iri-a [...]
+#lem: Nibru[1]SN; muru[rainstorm]; ŋar[put]; iri[city]; X
+#tr.en: @wSN{Nibru} is covered in fog (?); in the city ……. 
+#etcsl: line-id=10
+
+11. uŋ₃ daŋal-še₃ %s u₁₁-u₈ im-ma-an-šub nam mu-un-[X X]
+#lem: uŋ[people]; daŋal[wide]; ua[oh!]; šub[fall]; nam[fate]; X; X
+#tr.en: Over the multitudes a cry of woe (?) has fallen, ……. 
+#etcsl: line-id=11
+
+12. {a}akkil KI gu₃-<<{ŋiš}>>kiri₆ šen-šen-gin₇ ba-an-KU
+#lem: akkil[noise]; X; gukiri[battle cry]; šen[battle]; X
+#tr.en: Lamenting …… like a war-cry in battle ……. 
+#etcsl: line-id=12
+
+13. X tuku-tuku KA lum-lum-ma-[...] ugu-bi dab₅-dab₅-ba šu du₇ [...]
+#lem: X; tuku[acquire]; X; lum[fruit]; ugu[skull]; dab[seize]; šu[hand]; du[perfect]; X
+#tr.en: They are overcome by pity for her whose life has ended. 
+#etcsl: line-id=13
+
+14. arhuš zi til-le-a-ni zag#-ga i₃-šub-be₂
+#lem: arhuš[compassion]; zi[life]; til[complete]; zag[side]; šub[fall]
+#tr.en: They are anguished (?) at her being laid out like a golden statue. 
+#etcsl: line-id=14
+
+15. alan kug-sig₁₇-gin₇ niŋ₂ ŋar-ra-ni-še₃ lipiš mu-un-na-ta-an-zig₃-X
+#lem: alan[image]; kugsig[gold]; niŋ[thing]; ŋar[put]; lipiš[inner body]; zig[rise]
+#tr.en: Whoever looks upon her, 
+#etcsl: line-id=15
+
+16. lu₂ igi-ni im-ši-bar-ra-a šeₓ(SIG₇)-šeₓ(SIG₇) nu-ŋa₂-ŋa₂
+#lem: lu[person]; igi[eye]; bar[place outside]; še[tear]; ŋar[put]
+#tr.en: will they not weep? 
+#etcsl: line-id=16
+
+17. ama er₂-ra KA X sag₃-sag₃-ge NI NU GABA sig₇-ga AN šu [...]
+#lem: ama[mother]; er[tears]; X; X; sag[strike]; X; X; X; sissig[green-yellow]; X; šu[hand]; X
+#tr.en: The weeping women ……. 
+#etcsl: line-id=17
+
+18. šir₃ saŋ X DI inim dug₃-ga-ke₄-e-ne
+#lem: šir[sing]; saŋ[head]; X; X; inim[word]; dug[good]
+#tr.en: The best songs …… of the bards of sweet words are altered everywhere into laments and moans. 
+#etcsl: line-id=18
+
+19. i-lu šag₄-ne-ša₄# ki-šar₂-ra ib₂-ši-kur₂-ru-a
+#lem: ilu[lament]; šaneša[supplication]; kišar[totality]; kur[different]
+#etcsl: line-id=19
+
+20. in-sag₉ IM X bi₂-ib₂-gi₄-a re šir₃-eš₂ mu-un-na-ab-[be₂]
+#lem: sag[good]; X; X; gi[turn]; re[that]; šir[song]; e[speak]
+#tr.en: Because …… had been returned, they utter it as a song for her. 
+#etcsl: line-id=20
+
+21. AL X ban₃-da-a-ni-ta saŋ šu ak-a re
+#lem: X; X; banda[junior]; saŋ[head]; šu[hand]; ak[do]; re[that]
+#tr.en: Because from her small ……, 
+#etcsl: line-id=21
+
+22. na₄ [X X] gu₂-a kud-da sa₂ nu-mu-un-pad₃ u₂-gu-e mu-un-degₓ(RI)
+#lem: na[stone weight]; X; X; gu[neck]; kud[cut]; sa[advice]; pad[find]; ugu[cvne]; de[pour]
+#tr.en: she did not dispense advice the …… stone ……; 
+#etcsl: line-id=22
+
+23. ur₂ dam-ma#-na-ka ud nu-sud-su₃-ra₂ i-si-iš nu-til-la re
+#lem: ur[loin]; dam[spouse]; ud[sun]; sud[distant]; isiš[tears]; til[complete]; re[that]
+#tr.en: it was lost (?). 
+#etcsl: line-id=23
+
+24. %e aŋ₂ %s X-ga-a-ni-ta {d}nin-urta a-la nu-gi₄-a re
+#lem: aŋ[thing]N; X; Ninurtak[1]DN; ala[exuberance]; gi[turn]; re[that]
+#tr.en: Because her days were not prolonged in the embrace of her husband and weeping never ceased, 
+#etcsl: line-id=24
+
+25. nin-diŋir ki aŋ₂-ŋa₂-a-ni ŋi₆-par₃-še₃ la-ba-ni-in-kur₉-ra re
+#lem: erešdiŋir[priestess]; ki[place]; aŋ[measure]; ŋipar[cloister]; kur[enter]; re[that]
+#tr.en: because @wDN{Ninurta} did not enjoy happiness from his ……, and because his beloved @fsux{nin-diŋir} priestess did not enter the @fsux{ŋipar}, 
+#etcsl: line-id=25
+
+26. eme₅ dam-še₃ mu-ni-pad₃-da niŋ₂-de₂-a-še₃ šu nu-mu-un-gid₂-de₂
+#lem: eme[female donkey]; dam[spouse]; pad[find]; niŋdea[marriage gift]; šu[hand]; gid[long]
+#tr.en: the she-ass which had been chosen as a mate is not accepted as an offering. 
+#etcsl: line-id=26
+
+27. buru₁₄ NE la₂ zag-ga-na til-til-la re
+#lem: buru[harvest]; X; la[hang]; zag[side]; til[complete]; re[that]
+#tr.en: Because …… was brought to an end at his side, 
+#etcsl: line-id=27
+
+28. nam-gu-la sag₉-ga im-ma-an-ed₃-de₃ i-lu mu-un-na-ab-be₂ e-ne
+#lem: namgula[greatness]; sag[good]; ed[go up]; ilu[lament]; e[speak]; ane[he]
+#tr.en: he rises in greatness and favour, uttering a lament for her. 
+#etcsl: line-id=28
+
+29. ama ugu-ni-ir ud zalag ba-da-he₂-ši a₂-kar₂ mu-un-na-si
+#lem: ama[mother]; ugu[bear]; ud[sun]; zalag[bright]; heši[become dark]; akar[implement]; si[fill]
+#tr.en: For her mother who bore her, the bright light turned to darkness, 
+#etcsl: line-id=29
+
+30. hal-hal-bi si pad ak-a-bi zag-la mu-un-na-ak-e
+#lem: hala[inheritance share]; si[horn]; pad[break (into bits)]; ak[do]; X; ak[do]
+#tr.en: …… for her. He makes their shares (?), their ……, 
+#etcsl: line-id=30
+
+31. zi-bi igi-ni ab-ta-e₃ su hul-bi zil-zil-le
+#lem: zi[life]; igi[eye]; e[leave]; su[flesh]; hulu[bad]; sil[split]
+#tr.en: into a …… for her. Their souls have come forth before her, 
+#etcsl: line-id=31
+
+32. [...] erin₂ im-ri-a-bi ba-da-X [...] BI [X X]
+#lem: X; erin[people]; imria[clan]; X; X; X; X; X
+#tr.en: their evil bodies are torn apart. Their ……, workers and kin are ……, 
+#etcsl: line-id=32
+
+33. [X X] dug₃-ta NI [...] ŋal₂-la re
+#lem: X; X; dug[good]; X; X; ŋal[⟦be⟧ to be (there]; re[that]
+#tr.en: their …… are ……. 
+#etcsl: line-id=33
+
+34. ba#-ra-gub!-bu-uš [...]-e
+#lem: gub[stand]; X
+#tr.en: they did not stand ……. Their nursemaids were ……. 
+#etcsl: line-id=34
+
+35. emeda(|UM.ME|){da}-emeda(|UM.ME|){da}-bi zag [...]-de₃-eš
+#lem: emeda[nursemaid]; zag[side]; X
+#tr.en: The …… fled (?). Like angry men, 
+#etcsl: line-id=35
+
+36. AB NE-NE KA [...]-kar-ra-aš
+#lem: X; X; X; kar[flee]
+#tr.en: stones …… sick (?), 
+#etcsl: line-id=36
+
+37. lu₂ šag₄ dab₅-ba-gin₇ na₄ [...] gig-ga
+#lem: lu[person]; šag[heart]; dab[seize]; na[stone weight]; X; gig[sick]
+#tr.en: the light from above …… did not increase from her city. 
+#etcsl: line-id=37
+
+38. iri{ki}-ni-ta ud an-ta NE [...] nu-dirig
+#lem: iri[city]; ud[sun]; an[sky]; X; X; dirig[make more than]
+#etcsl: line-id=38
+
+39. ud-bi-a nitalam ki aŋ₂#-[ŋa₂-a-ni ...] dili-a-ni
+#lem: ud[sun]; ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; X; dili[single]
+#tr.en: Then her beloved husband all alone ……, in his city, 
+#etcsl: line-id=39
+
+40. iri{ki}-na nibru{ki}-a iri [X X] NI KU
+#lem: iri[city]; Nibru[1]SN; iri[city]; X; X; X; X
+#tr.en: in @wSN{Nibru}, the city ……, @wPN{Lu-diŋira}, her beloved husband, 
+#etcsl: line-id=40
+
+41. {m}lu₂-diŋir-ra nitalam [ki aŋ₂]-ŋa₂-a-ni [... dili-a]-ni
+#lem: Ludiŋira[1]PN; ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; X; dili[single]
+#tr.en: all alone ……, in his city, in @wSN{Nibru}, 
+#etcsl: line-id=41
+
+42. iri{ki}-na nibru{ki}-a iri [X X] NI KU
+#lem: iri[city]; Nibru[1]SN; iri[city]; X; X; X; X
+#tr.en: the city ……, approached her with suffering heart in ……, 
+#etcsl: line-id=42
+
+43. ki-tuš gal [...] šag₄ hul ba-an-na-te
+#lem: kituš[dwelling place]; gal[big]; X; šag[heart]; hulu[bad]; teŋ[approach]
+#tr.en: the great dwelling-place. They took his hand, their hearts were overwhelmed (?). 
+#etcsl: line-id=43
+
+44. šu-ni ba#-an-dab₅-be₂-eš šag₄-bi [...] mu-un-ra
+#lem: šu[hand]; dab[seize]; šag[heart]; X; rah[beat]
+#tr.en: His …… was excluded from nourishment, his breath was stifled (?). 
+#etcsl: line-id=44
+
+45. [...]-a-ni u₂-a ab-ta-an-kud zi-ni [...] ab-da-ra-ra
+#lem: X; u[plant(s)]; kud[cut]; zi[life]; X; rah[beat]
+#tr.en: He uttered moans (?) like a cow, 
+#etcsl: line-id=45
+
+46. [X X] ab₂-gin₇ ib₂-e₃ lu₂ TUG₂ dam nu-tuku-tuku
+#lem: X; X; ab[cow]; e[leave]; lu[person]; X; dam[spouse]; tuku[acquire]
+#tr.en: he who had no …… garments. 
+#etcsl: line-id=46
+
+47. [X X]-bi bi₂-ib₂-mur₁₀-e er₂ am₃-ši-še₈-še₈
+#lem: X; X; mur[dress]; er[tears]; šeš[weep]
+#tr.en: He wears their ……, he weeps for her: @q[Lu-dijira,]{“O where is ……? I would call upon you! Where are @wDN{Meme} and the alluring protective spirits? I would call upon you! Where is the ……, the ……, the gracious words? I would call upon you! Where are my …… weapon and gloriously fashioned quiver? I would call upon you! Where is that which brightens the …… face, my noble counsel? I would call upon you! Where is my ……, my precious brilliance? I would call upon you! Where are my sweet songs which make the heart rejoice? I would call upon you! Where are my …… weapon and golden quiver which brightens the spirit? I would call upon you! Where are my dancing, hand-waving, and frolicking (?)? I would call upon you!”} 
+#etcsl: line-id=47
+
+48. [X X] MU X TUG₂ GA DU me-am₃ ga-mu-ri-in-pad₃
+#lem: X; X; X; X; X; X; X; mea[where?]; pad[find]
+#etcsl: line-id=48
+
+49. {d}me-me {d}lamma hi-li-hi-li me-am₃ ga-mu-ri-in-pad₃
+#lem: Meme[1]DN; lammar[(female) tutelary deity]; hili[attractiveness]; mea[where?]; pad[find]
+#etcsl: line-id=49
+
+50. KA X LA KA DIM₃ inim sag₉ me-am₃ ga-mu-ri-in-pad₃
+#lem: X; X; X; X; X; inim[word]; sag[goodness]; mea[where?]; pad[find]
+#etcsl: line-id=50
+
+51. ŋiš-dim₃ mar-uru₅ ar₂-re-eš dim₂-ma-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: dim[staff]; emarru[quiver]; ar[celebrate]; dim[create]; mea[where?]; pad[find]
+#etcsl: line-id=51
+
+52. igi X X X zalag-zalag sa₂-ŋar nun-na-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: igi[eye]; X; X; X; zalag[bright]; saŋar[counselor]; nun[prince]; mea[where?]; pad[find]
+#etcsl: line-id=52
+
+53. UL X A IGI-ŋu₁₀ sud-aŋ₂ kal-la-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: X; X; X; X; sud[distant]; kal[rare]; mea[where?]; pad[find]
+#etcsl: line-id=53
+
+54. šir₃ dug₃ niŋ₂ šag₄ hul₂-hul₂-la-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: šir[sing]; dug[good]; niŋ[thing]; šag[heart]; hul[rejoice]; mea[where?]; pad[find]
+#etcsl: line-id=54
+
+55. ŋiš-dim₃ mar-uru₅ kug-sig₁₇ ur₅ zalag-zalag-ga-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: dim[staff]; emarru[quiver]; kugsig[gold]; ur[liver]; zalag[bright]; mea[where?]; pad[find]
+#etcsl: line-id=55
+
+56. gu₄-ud-gu₄-ud šu il₂-il₂-i ma!-li-li-bi-ŋu₁₀ me-am₃ ga-mu-ri-in-pad₃
+#lem: gud[jump (on)]; šu[hand]; il[raise]; malilibi[frolicking?]; mea[where?]; pad[find]
+#etcsl: line-id=56
+
+57. a-ra₂-zu na-an-ha-lam-e mu-zu ha-ma-pad₃-de₃
+#lem: ara[way]; halam[forsake]; mu[name]; pad[find]
+#tr.en: @q{“May your way of life not be forgotten, may your name be called on. 
+#etcsl: line-id=57
+
+58. nam-tag-ga e₂-e-zu ha-ba-an-ze₂-er šul-a-lum-zu ha-ba-an-du₈
+#lem: namtaga[sin]; e[house]; zir[tear out]; šulalum[punishment]; du[spread]
+#tr.en: May the guilt of your house be erased, may your sin be released. 
+#etcsl: line-id=58
+
+59. dam-zu he₂-til₃ nam-šul nam-ab-ba he₂-ak-e
+#lem: dam[spouse]; til[live (of a single person)]; namšul[manhood]; namabba[old age]; ak[do]
+#tr.en: May your husband stay well, may he achieve valour and seniority. 
+#etcsl: line-id=59
+
+60. nam-tar dumu-zu he₂-zil₂-zil₂-le silim-ma hu-mu-ne-ŋar
+#lem: namtar[fate]; dumu[child]; zil[good]; silim[healthy]; ŋar[put]
+#tr.en: May the fate of your children be propitious, may well-being be in store for them. 
+#etcsl: line-id=60
+
+61. e₂-zu igi-bi-še₃ he₂-en-du a-ga-bi-še₃ he₂-daŋal
+#lem: e[house]; igi[eye]; du[go]; aga[rear]; daŋal[wide]
+#tr.en: May your household progress, may its future be ample. 
+#etcsl: line-id=61
+
+62. {d}utu kur-ta ud zalag ha-ra-ta-e₃ a sig₉-ga KA-e
+#lem: Utu[1]DN; kur[mountain(s)]; ud[sun]; zalag[bright]; e[leave]; a[water]; sig[clear]; X
+#tr.en: May @wDN{Utu} bring forth for you bright light from the nether world, …… clear water. 
+#etcsl: line-id=62
+
+63. {d}nin-kur-ra-ke₄ he₂-da-ši-DU gu₂-zu he₂-eb₂-il₂-e
+#lem: Ninkurak[1]DN; X; gu[neck]; il[raise]
+#tr.en: May @wDN{Ninkura} stand by you, may she raise you high. 
+#etcsl: line-id=63
+
+64. ud gig za-ra ma-ra-ni-ib-gi₄-a re an-ur₂ he₂-eb₂-gi₄
+#lem: ud[storm]; gig[sick]; zaʾe[you]; gi[turn]; re[that]; anur[horizon]; gi[turn]
+#tr.en: Concerning the bitter storm that has been turned against you, may it return to the horizon. 
+#etcsl: line-id=64
+
+65. gal₅-la₂ šu-ni ma-ra-an-de₆-a aš₂ hul-bi he₂-en-dug₄
+#lem: galla[policeman]; šu[hand]; de[carry]; aš[curse]; hulu[bad]; dug[speak]
+#tr.en: May a cruel curse be uttered against the @fsux{galla} demon who has brought his hand against you. 
+#etcsl: line-id=65
+
+66. ki-sikil dug₃ la-la-na gud-gin₇ nu₂-a re i-lu-zu gig#-ga-am₃
+#lem: kisikil[young woman]; dug[good]; lala[plenty]; gud[bull]; nud[lie down]; re[that]; ilu[lament]; gig[sick]
+#tr.en: Concerning the kindly maiden who lies in her splendour like a bull, bitter is the lament for you.”} 
+#etcsl: line-id=66
+
+
+
+
+
+
+

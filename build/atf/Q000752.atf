@@ -1,0 +1,425 @@
+&Q000752 = A hymn to the E-kur
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.80.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.4&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. e₂ gal kur-ra-am₃ gal
+#lem: e[house]; gal[big]; kur[mountain(s)]; gal[big]
+#tr.en: The great house is as great as a mountain. 
+#etcsl: line-id=A.1
+
+A.2. e₂ {d}en-lil₂-la₂ kur-ra-am₃ gal
+#lem: e[house]; Enlil[1]DN; kur[mountain(s)]; gal[big]
+#tr.en: The house of @wDN{Enlil} is as great as a mountain. 
+#etcsl: line-id=A.2
+
+A.3. e₂ {d}nin-lil₂-la₂ kur-ra-am₃ gal
+#lem: e[house]; Ninlil[1]DN; kur[mountain(s)]; gal[big]
+#tr.en: The house of @wDN{Ninlil} is as great as a mountain. 
+#etcsl: line-id=A.3
+
+A.4. e₂ itima{ma} kur-ra-am₃ gal
+#lem: e[house]; itima[sleeping chamber]; kur[mountain(s)]; gal[big]
+#tr.en: The bedchamber is as great as a mountain. 
+#etcsl: line-id=A.4
+
+A.5. e₂ ud nu-zu kur-ra-am₃ gal
+#lem: e[house]; ud[sun]; zu[know]; kur[mountain(s)]; gal[big]
+#tr.en: The house which knows no daylight is as great as a mountain. 
+#etcsl: line-id=A.5
+
+A.6. e₂ kan₄ mah kur-ra-am₃ gal
+#lem: e[house]; kan[gate]; mah[great]; kur[mountain(s)]; gal[big]
+#tr.en: The house at the Lofty Gate is as great as a mountain. 
+#etcsl: line-id=A.6
+
+A.7. e₂ kan₄ silim-ma kur-ra-am₃ gal
+#lem: e[house]; kan[gate]; silim[healthy]; kur[mountain(s)]; gal[big]
+#tr.en: The house at the Gate of Well-being is as great as a mountain. 
+#etcsl: line-id=A.7
+
+A.8. kisal {d}en-lil₂-la₂ kur-ra-am₃ gal
+#lem: kisal[courtyard]; Enlil[1]DN; kur[mountain(s)]; gal[big]
+#tr.en: The courtyard of @wDN{Enlil} is as great as a mountain. 
+#etcsl: line-id=A.8
+
+A.9. hur-saŋ-galam-ma kur-ra-am₃ gal
+#lem: Hursaŋgalama[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Ḫursaŋ-galama} is as great as a mountain. 
+#etcsl: line-id=A.9
+
+A.10. kan₄ gal-di kug kur-ra-am₃ gal
+#lem: kan[gate]; galdi[exalted]; kug[purify]; kur[mountain(s)]; gal[big]
+#tr.en: The holy Renowned Gate is as great as a mountain. 
+#etcsl: line-id=A.10
+
+A.11. kan₄ še nu-kud kur-ra-am₃ gal
+#lem: kan[gate]; še[barley]; kud[cut]; kur[mountain(s)]; gal[big]
+#tr.en: The Gate from which Grain is never Diverted is as great as a mountain. 
+#etcsl: line-id=A.11
+
+A.12. ub-šu-unken-na kur-ra-am₃ gal
+#lem: Ubšuʾunkenak[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Ubšu-unkena} is as great as a mountain. 
+#etcsl: line-id=A.12
+
+A.13. ŋa₂-ŋiš-šu₂-a kur-ra-am₃ gal
+#lem: Ŋaŋiššua[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Ŋa-ŋiš-šua} is as great as a mountain. 
+#etcsl: line-id=A.13
+
+A.14. e₂ {d}nin-lil₂-la₂ kur-ra-am₃ gal
+#lem: e[house]; Ninlil[1]DN; kur[mountain(s)]; gal[big]
+#tr.en: The house of @wDN{Ninlil} is as great as a mountain. 
+#etcsl: line-id=A.14
+
+A.15. kan₄-in-nam-ra kur-ra-am₃ gal
+#lem: Kaninnamra[1]ON; kur[mountain(s)]; gal[big]
+#tr.en: The gate Kan-innamra is as great as a mountain. 
+#etcsl: line-id=A.15
+
+A.16. e₂-itid-da-buru₁₄ kur-ra-am₃ gal
+#lem: Eitidaburu[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{E-itida-buru} is as great as a mountain. 
+#etcsl: line-id=A.16
+
+A.17. kisal e₂-gal-mah kur-ra-am₃ gal
+#lem: kisal[courtyard]; Egalmah[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The courtyard of the @wTN{Egal-maḫ} is as great as a mountain. 
+#etcsl: line-id=A.17
+
+A.18. e₂-itid-da-buru₁₄ <<kur-ra-am₃-gal>>-mah kur-ra-am₃ gal
+#lem: Eitidaburu[1]TN; mah[great]; kur[mountain(s)]; gal[big]
+#tr.en: The lofty @wTN{E-itida-buru} is as great as a mountain. 
+#etcsl: line-id=A.18
+
+A.19. en-tum₂-gal-zu kur-ra-am₃ gal
+#lem: Entumgalzu[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Entum-galzu} is as great as a mountain. 
+#etcsl: line-id=A.19
+
+A.20. in-nam-gid₂-da-zu kur-ra-am₃ gal
+#lem: Innamgidazu[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Innam-gidazu} is as great as a mountain. 
+#etcsl: line-id=A.20
+
+A.21. kan₄ {d}suen kur-ra-am₃ gal
+#lem: kan[gate]; Suen[1]DN; kur[mountain(s)]; gal[big]
+#tr.en: The @wDN{Suen} Gate is as great as a mountain. 
+#etcsl: line-id=A.21
+
+A.22. du₆!(ITI)-kug ki kug kur-ra-am₃ gal
+#lem: Dukug[1]TN; ki[place]; kug[purify]; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Du-kug}, the holy place, is as great as a mountain. 
+#etcsl: line-id=A.22
+
+A.23. a-šag₄ e₂-dim₃-ma kur-ra-am₃ gal
+#lem: ašag[field]; Edima[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The field of @wTN{E-dima} is as great as a mountain. 
+#etcsl: line-id=A.23
+
+A.24. an-ne₂-ŋar-ra kur-ra-am₃ gal
+#lem: Aneŋara[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{@wDN{Ane}-ŋara} is as great as a mountain. 
+#etcsl: line-id=A.24
+
+A.25. aš-te ki sikil kur-ra-am₃ gal
+#lem: Ašte[1]TN; ki[place]; sikil[purify]; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Ašte}, the pure place, is as great as a mountain. 
+#etcsl: line-id=A.25
+
+A.26. e₂-tilla₂-mah kur-ra-am₃ gal
+#lem: Etillamah[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{E-tilla-maḫ} is as great as a mountain. 
+#etcsl: line-id=A.26
+
+A.27. ŋa₂-{ŋiš}apin-na kur-ra-am₃ gal
+#lem: Ŋaʾapina[1]TN; kur[mountain(s)]; gal[big]
+#tr.en: The @wTN{Ŋa-apina} is as great as a mountain. 
+#etcsl: line-id=A.27
+
+@div trailer 
+
+A.28. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.28
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal B
+
+B.29. bi₂-in-dug₄ an-še₃
+#lem: dug[speak]; an[sky]
+#tr.en: He declares: @q{“Heavenward (?)!”} 
+#etcsl: line-id=B.29
+
+@div trailer 
+
+B.30. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=B.30
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu C
+
+C.31. bi₂-in-dug₄-ga-ra bi₂-in-dug₄-ga-ra
+#lem: dug[speak]; dug[speak]
+#tr.en: For him who declares it, for him who declares it, 
+#etcsl: line-id=C.31
+
+C.32. e₂ ud-dam ša-mu-na-e₃
+#lem: e[house]; ud[sun]; e[leave]
+#tr.en: the house comes forth like the daylight. 
+#etcsl: line-id=C.32
+
+C.33. lu₂ kur-ra bi₂-in-dug₄-ga-ra
+#lem: lu[person]; kur[mountain(s)]; dug[speak]
+#tr.en: For him who declares that he is of the mountain, 
+#etcsl: line-id=C.33
+
+C.34. e₂ ud-dam ša-mu-na-e₃
+#lem: e[house]; ud[sun]; e[leave]
+#tr.en: the house comes forth like the daylight. 
+#etcsl: line-id=C.34
+
+C.35. e₂ {d}en-lil₂-ka bi₂-in-dug₄-ga-ra
+#lem: e[house]; Enlil[1]DN; dug[speak]
+#tr.en: For him who declares that he is of the house of @wDN{Enlil}, 
+#etcsl: line-id=C.35
+
+C.36. e₂ ud-dam ša-mu-na-e₃
+#lem: e[house]; ud[sun]; e[leave]
+#tr.en: the house comes forth like the daylight. 
+#etcsl: line-id=C.36
+
+C.37. e₂ {d}nin-lil₂-ka bi₂-in-dug₄-ga-ra
+#lem: e[house]; Ninlil[1]DN; dug[speak]
+#tr.en: For him who declares that he is of the house of @wDN{Ninlil}, 
+#etcsl: line-id=C.37
+
+C.38. e₂ ud-dam ša-mu-na-e₃
+#lem: e[house]; ud[sun]; e[leave]
+#tr.en: the house comes forth like the daylight. 
+#etcsl: line-id=C.38
+
+C.39. <e₂> {d}nin-urta-ka bi₂-in-dug₄-ga-ra
+#lem: e[house]; Ninurtak[1]DN; dug[speak]
+#tr.en: For him who declares that he is of the house of @wDN{Ninurta}, 
+#etcsl: line-id=C.39
+
+C.40. e₂ ud-dam ša-mu-na-e₃
+#lem: e[house]; ud[sun]; e[leave]
+#tr.en: the house comes forth like the daylight, 
+#etcsl: line-id=C.40
+
+C.41. <e₂> dumu nun-na-ka bi₂-in-dug₄-ga-ra
+#lem: e[house]; dumu[child]; nun[prince]; dug[speak]
+#tr.en: for him who declares that he is of the house of the princely son. 
+#etcsl: line-id=C.41
+
+@div trailer 
+
+C.42. ki-<<ud>>-ru-gu₂-dam
+#lem: kirugu[division notation in certain literary compositions]
+#tr.en: @fsux{Kirugu}. 
+#etcsl: line-id=C.42
+
+@end trailer
+
+@end kirugu
+
+@div sa-ŋara D
+
+D.43. e₂-e me gal-la saŋ mi-ni-ib₂-il₂
+#lem: e[house]; me[Being]; gal[big]; saŋ[head]; il[raise]
+#tr.en: The house towers high in full grandeur; 
+#etcsl: line-id=D.43
+
+D.44. šag₄-bi-ta kur šim {ŋiš}erin-na-kam
+#lem: šag[heart]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#tr.en: in its midst is a mountain of aromatic cedars. 
+#etcsl: line-id=D.44
+
+D.45. e₂ {d}en-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+#lem: e[house]; Enlil[1]DN; me[Being]; gal[big]; saŋ[head]; il[raise]
+#tr.en: The house of @wDN{Enlil} towers high in full grandeur; 
+#etcsl: line-id=D.45
+
+D.46. šag₄-bi-ta kur šim {ŋiš}erin-na-kam
+#lem: šag[heart]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#tr.en: in its midst is a mountain of aromatic cedars. 
+#etcsl: line-id=D.46
+
+D.47. e₂ {d}nin-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+#lem: e[house]; Ninlil[1]DN; me[Being]; gal[big]; saŋ[head]; il[raise]
+#tr.en: The house of @wDN{Ninlil} towers high in full grandeur; 
+#etcsl: line-id=D.47
+
+D.48. šag₄-bi-ta kur šim {ŋiš}erin-na-kam
+#lem: šag[heart]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#tr.en: in its midst is a mountain of aromatic cedars. 
+#etcsl: line-id=D.48
+
+D.49. kisal {d}en-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+#lem: kisal[courtyard]; Enlil[1]DN; me[Being]; gal[big]; saŋ[head]; il[raise]
+#tr.en: The courtyard of @wDN{Enlil} towers high in full grandeur; 
+#etcsl: line-id=D.49
+
+D.50. šag₄-bi-ta kur šim {ŋiš}erin-na-kam
+#lem: šag[heart]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#tr.en: in its midst is a mountain of aromatic cedars. 
+#etcsl: line-id=D.50
+
+D.51. kisal {d}nin!(EN)-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+#lem: kisal[courtyard]; Ninlil[1]DN; me[Being]; gal[big]; saŋ[head]; il[raise]
+#tr.en: The courtyard of @wDN{Ninlil} towers high in full grandeur; 
+#etcsl: line-id=D.51
+
+D.52. šag₄#-[bi-ta kur šim] {ŋiš#}erin-na-kam
+#lem: šag[heart]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
+#tr.en: in its midst is a mountain of aromatic cedars. 
+#etcsl: line-id=D.52
+
+@div trailer 
+
+D.53. [sa-ŋar]-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=D.53
+
+@end trailer
+
+@end sa-ŋara
+
+@div ŋišgiŋal E
+
+E.54. [...] am₃-da-hul₂-la
+#lem: X; hul[rejoice]
+#tr.en: …… rejoice ……. 
+#etcsl: line-id=E.54
+
+@div trailer 
+
+E.55. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=E.55
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div unknown F
+
+F.56. lugal-bi e₂ nam-dumu zid-da lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; e[house]; namdumu[status as son]; zid[right]; lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: Its king is worthy of @wDN{Enlil} the king in the true house of youth. 
+#etcsl: line-id=F.56
+
+F.57. ur-saŋ {d}nin-urta e₂ nam-dumu zid-da
+#lem: ursaŋ[warrior]; Ninurtak[1]DN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: The hero @wDN{Ninurta} is worthy of @wDN{Enlil}  
+#etcsl: line-id=F.57
+
+F.58. lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: the king in the true house of youth. 
+#etcsl: line-id=F.58
+
+F.59. dumu-KA {d}nin-lil₂-la₂ e₂ nam-dumu zid-da
+#lem: dumu.KA[kinship term]; Ninlil[1]DN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: The offspring (?) of @wDN{Ninlil} is worthy of @wDN{Enlil}  
+#etcsl: line-id=F.59
+
+F.60. lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: the king in the true house of youth. 
+#etcsl: line-id=F.60
+
+F.61. en ur-<saŋ> e₂-kur-ra e₂ nam-dumu [zid-da]
+#lem: en[lord]; ursaŋ[warrior]; Ekur[1]TN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: The lord, 
+#etcsl: line-id=F.61
+
+F.62. lugal {d}en-lil₂-ra# tum₂#-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: the hero (?) of the @wTN{E-kur}, 
+#etcsl: line-id=F.62
+
+F.63. dumu-KA {d}en-lil₂-la₂ e₂ nam-dumu zid-da
+#lem: dumu.KA[kinship term]; Enlil[1]DN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: is worthy of @wDN{Enlil} the king in the true house of youth. 
+#etcsl: line-id=F.63
+
+F.64. lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: The offspring (?) of @wDN{Enlil} is worthy of @wDN{Enlil}  
+#etcsl: line-id=F.64
+
+F.65. en {d}dil-im₂-babbar e₂ nam-[dumu] zid-da
+#lem: en[lord]; Dilimbabbar[1]DN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: the king in the true house of youth. 
+#etcsl: line-id=F.65
+
+F.66. lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: Lord @wDN{Ašimbabbar} is worthy of @wDN{Enlil} the king in the true house of youth. 
+#etcsl: line-id=F.66
+
+F.67. dumu nun e₂-kur-ra e₂ nam-dumu zid-da
+#lem: dumu[child]; nun[prince]; Ekur[1]TN; e[house]; namdumu[status as son]; zid[right]
+#tr.en: The princely son of the @wTN{E-kur} is worthy of  
+#etcsl: line-id=F.67
+
+F.68. lugal {d}en-lil₂-ra tum₂-ma-am₃
+#lem: lugal[king]; Enlil[1]DN; tum[suitable]
+#tr.en: @wDN{Enlil} the king in the true house of youth. 
+#etcsl: line-id=F.68
+
+@div trailer 
+
+F.69. <X>
+#lem: X
+#tr.en: …… @notep{This rubric was probably omitted accidentally} 
+#etcsl: line-id=F.69
+
+@end trailer
+
+@end unknown
+
+@div ŋišgiŋal G
+
+G.70. {d}en-lil₂-la₂ lu₂ šag₄-ga-na
+#lem: Enlil[1]DN; lu[person]; šag[heart]
+#tr.en: He is the favourite of @wDN{Enlil}. 
+#etcsl: line-id=G.70
+
+@div trailer 
+
+G.71. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=G.71
+
+@end trailer
+
+@end ŋišgiŋal
+
+
+
+
+
+
+

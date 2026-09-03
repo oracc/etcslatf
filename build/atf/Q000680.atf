@@ -1,0 +1,272 @@
+&Q000680 = A šir-namšub to Suen (Nanna K)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.11
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.11&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. an-gin₇ su₃-ra₂-e ki#-[gin₇ ...]
+#lem: an[sky]; sud[distant]; ki[place]; X
+#tr.en: As remote as heaven, …… as the earth! Lord @wDN{Nanna}, as remote as heaven, …… as the earth! Lord @wDN{Ašimbabbar}, as remote as heaven, …… as the earth! 
+#etcsl: line-id=A.A.1
+
+A.A.2. %e u₃-mu-un %s {d}nanna an-gin₇ su₃-ra₂-e ki-[gin₇ ...]
+#lem: umun[lord]N; Nanna[1]DN; an[sky]; sud[distant]; ki[place]; X
+#etcsl: line-id=A.A.2
+
+A.A.3. %e u₃-mu-un %s {d}dil-im₂-babbar an-gin₇ su₃-ra₂-e ki-gin₇# [...]
+#lem: umun[lord]N; Dilimbabbar[1]DN; an[sky]; sud[distant]; ki[place]; X
+#etcsl: line-id=A.A.3
+
+A.A.4. %e mu-nu₁₀-de₃ %s ki ab₂ lu-a-na#
+#lem: munud[herdsman]; ki[place]; ab[cow]; lu[abundant]
+#tr.en: A cowherd with his numerous cows, 
+#etcsl: line-id=A.A.4
+
+A.A.5. {d}suen-e tur₃-ta %e mu-lu %s mu-un-gi₄#
+#lem: Suen[1]DN; tur[animal stall]; mulu[person]N; gi[turn]
+#tr.en: @wDN{Suen} …… the men in (?) the pens. 
+#etcsl: line-id=A.A.5
+
+A.A.6. X [...] amar lu-a-na
+#lem: X; X; amar[calf]; lu[abundant]
+#tr.en: A …… with his numerous calves, 
+#etcsl: line-id=A.A.6
+
+A.A.7. {d}suen-e [tur₃-ta] %e mu-lu %s mu-un-gi₄#
+#lem: Suen[1]DN; tur[animal stall]; mulu[person]N; gi[turn]
+#tr.en: @wDN{Suen} …… the men in (?) the pens. 
+#etcsl: line-id=A.A.7
+
+A.A.8. {d}suen X [...] X MI ZI₂ X X X
+#lem: Suen[1]DN; X; X; X; X; X; X; X; X
+#tr.en: @wDN{Suen} ……. @wDN{Nanna} ……. 
+#etcsl: line-id=A.A.8
+
+A.A.9. {d}nanna [...] X X X X X
+#lem: Nanna[1]DN; X; X; X; X; X; X
+#tr.en: @wDN{Suen} ……. 
+#etcsl: line-id=A.A.9
+
+A.A.10. %e aŋ₂ %s [...]
+#lem: aŋ[thing]N; X
+#tr.en: The spouse ……. 
+#etcsl: line-id=A.A.10
+
+A.A.11. {d}suen X [...] X
+#lem: Suen[1]DN; X; X; X
+#tr.en: @wDN{Ningal} ……. 
+#etcsl: line-id=A.A.11
+
+A.A.12. lu₂ nitalam!(|UŠ.MUNUS.UŠ.DI|) [...]
+#lem: lu[person]; ŋidlam[(equal ranking) spouse]; X
+#tr.en: He has butter, 
+#etcsl: line-id=A.A.12
+
+A.A.13. lu₂ X {d}nin-gal-e [...]
+#lem: lu[person]; X; Ningal[1]DN; X
+#tr.en: ……. 
+#etcsl: line-id=A.A.13
+
+A.A.14. i₃ mu-da-ŋal₂ [...]
+#lem: i[oil]; ŋal[⟦be⟧ to be (there]; X
+#tr.en: @fsux{Iterda} milk ……. 
+#etcsl: line-id=A.A.14
+
+A.A.15. i₃-te-er-da [...]
+#lem: itirda[dairy product]; X
+#tr.en: Cheese …… like milk. 
+#etcsl: line-id=A.A.15
+
+A.A.16. ga-ar₃ IM ga-gin₇ [...]
+#lem: gaʾar[cheese]; X; ga[milk]; X
+#etcsl: line-id=A.A.16
+
+A.A.17. ama {d}nin-gal [...]
+#lem: ama[mother]; Ningal[1]DN; X
+#tr.en: Mother @wDN{Ningal} addresses him: @q[Ningal,Suen]{“My …… man, my lover, …….! My …… man, my @wDN{Suen}, ……! My man who has ritually bathed, ……! My ……! 
+#etcsl: line-id=A.A.17
+
+A.A.18. lu₂ DI %e mu-ud-na-ŋu₁₀ %s [...]
+#lem: lu[person]; X; mudna[spouse]N; X
+#etcsl: line-id=A.A.18
+
+A.A.19. lu₂ DI {d}suen-ŋu₁₀ [...]
+#lem: lu[person]; X; Suen[1]DN; X
+#etcsl: line-id=A.A.19
+
+A.A.20. lu₂ [a] tu₅-a-ŋu₁₀ [...]
+#lem: lu[person]; a[water]; tu[cvve]; X
+#etcsl: line-id=A.A.20
+
+A.A.21. [X X] X X X-ŋu₁₀ [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.A.21
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div kirugu B
+
+B.B.1. %e u₃-mu-un-e %s dug₄-ga# [zid-da ...]
+#lem: umun[lord]N; dug[speak]; zid[right]; X
+#tr.en: @q[Ningal,Nanna]{“The lord of the just word ……. 
+#etcsl: line-id=B.B.1
+
+B.B.2. %e u₃-mu-un-e %s <e₂>-kiš{ki}-[nu-ŋal₂ ...]
+#lem: umun[lord]N; Ekišnuŋal[1]TN; X
+#tr.en: The lord of the @wTN{E-kiš-nu-ŋal} ……. 
+#etcsl: line-id=B.B.2
+
+B.B.3. id₂-da a-eštub si-a-na [...]
+#lem: id[river]; aʾeštub[early flooding]; si[fill]; X
+#tr.en: When he fills the rivers with the spring floods, 
+#etcsl: line-id=B.B.3
+
+B.B.4. a-šag₄-ga še gu-nu ŋal₂-la X [...]
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; ŋal[⟦be⟧ to be (there]; X; X
+#tr.en: ……, establishing fine grain in the fields, 
+#etcsl: line-id=B.B.4
+
+B.B.5. ambar!-ra |HI.SUHUR| suhur{ku₆} [...]
+#lem: ambar[reed-bed]; HI.SUHUR[fish]; suhur[carp]; X
+#tr.en: ……, …… the marshes with various carp, 
+#etcsl: line-id=B.B.5
+
+B.B.6. %e mu-gi-e %s gi sumun gi [henbur ...]
+#lem: mugi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; X
+#tr.en: ……, …… the reedbeds with mature and fresh reeds, 
+#etcsl: line-id=B.B.6
+
+B.B.7. tir-tir-e šeg₉ [šeg₉-bar ...]
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; X
+#tr.en: ……, …… the woods with fallow deer and wild sheep, 
+#etcsl: line-id=B.B.7
+
+B.B.8. an-edin-na %e {mu}maš-gurum!# [...]
+#lem: aneden[the high steppe]; mašgurum[plant]; X
+#tr.en: ……, …… the high desert with @fsux{mašgurum} bushes, 
+#etcsl: line-id=B.B.8
+
+B.B.9. pu₂-kiri₆ lal₃ ŋeštin# [...]
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; X
+#tr.en: ……, …… the irrigated orchards with syrup and wine, 
+#etcsl: line-id=B.B.9
+
+B.B.10. mu-sar-re hi-iz{sar} [za₃-hi-li]{[sar]} [...]
+#lem: musar[garden]; hiz[vegetable]; zahili[plant]; X
+#tr.en: ……, …… the garden plots with lettuce and cress, 
+#etcsl: line-id=B.B.10
+
+B.B.11. e₂-gal!-e zi su₃-ud-[ŋal₂ ...]
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; X
+#tr.en: ……, …… the palace with long life, 
+#etcsl: line-id=B.B.11
+
+B.B.12. [...] ŋe₂₆-e mu-un-til₃-le#
+#lem: X; ŋaʾe[I]; til[live (of a single person)]
+#tr.en: ……, I will live there, ……, 
+#etcsl: line-id=B.B.12
+
+B.B.13. [...] ki X-za-am₃ ŋe₂₆-e mu-un-[til₃-le]
+#lem: X; ki[place]; X; ŋaʾe[I]; til[live (of a single person)]
+#tr.en: I will live there in the …… place.”} 
+#etcsl: line-id=B.B.13
+
+B.B.14. [...] %e še-eb %s urim₂{ki}-ma-za
+#lem: X; šeb[brick]N; Urim[1]SN
+#tr.en: @q{“…… in your brick-built @wSN{Urim}, in your …… of @wDN{Nanna}, in your @wTN{Dubla-maḫ}, the place where judgments are given, in your storehouse of wine and syrup, at your @wTN{Kar-zida}, the quay of the barges, in your house of heaven, in your beloved house, I will live!”} 
+#etcsl: line-id=B.B.14
+
+B.B.15. [X X] X {d}nanna-za
+#lem: X; X; X; Nanna[1]DN
+#etcsl: line-id=B.B.15
+
+B.B.16. dub-la₂-mah ki di# ku₅#-re-za
+#lem: Dublamah[1]TN; ki[place]; did[lawsuit]; kud[cut]
+#etcsl: line-id=B.B.16
+
+B.B.17. arahₓ(|UŠ.GID₂.DA|) ŋeštin! lal₃-za
+#lem: arah[storehouse]; ŋeštin[vine]; lal[syrup]
+#etcsl: line-id=B.B.17
+
+B.B.18. kar-zid-da kar ma₂-gur₈-ra-[za]
+#lem: Karzida[1]TN; kar[harbor]; magur[barge]
+#etcsl: line-id=B.B.18
+
+B.B.19. e₂ an-na-za e₂ ki aŋ₂-za ŋe₂₆-e mu-un-til₃#-[le]
+#lem: e[house]; an[sky]; e[house]; ki[place]; aŋ[measure]; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=B.B.19
+
+B.B.20. {d}nanna igi-nim-ta kur šim {ŋiš}erin-na-za ŋe₂₆-[e mu-un-til₃-le]
+#lem: Nanna[1]DN; iginim[upper land]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]; ŋaʾe[I]; til[live (of a single person)]
+#tr.en: @q{“@wDN{Nanna}, in the upper lands I will live on your mountain of fragrant cedars. 
+#etcsl: line-id=B.B.20
+
+B.B.21. %e u₃-mu-un %s {d}nanna %e uru₂-za-a %s mu-un-[til₃-le]
+#lem: umun[lord]N; Nanna[1]DN; uru[city]; til[live (of a single person)]
+#tr.en: Lord @wDN{Nanna}, I will live in your city. I will live where your cows are numerous, 
+#etcsl: line-id=B.B.21
+
+B.B.22. ab₂ i₃-lu amar i₃-lu mu-un#-[til₃-le]
+#lem: ab[cow]; lu[abundant]; amar[calf]; lu[abundant]; til[live (of a single person)]
+#tr.en: where your calves are numerous. @wDN{Nanna}, I will live in your @wSN{Urim}. 
+#etcsl: line-id=B.B.22
+
+B.B.23. {d}nanna urim₂{ki}-ma-za mu#-[un-til₃-le]
+#lem: Nanna[1]DN; Urim[1]SN; til[live (of a single person)]
+#tr.en: Lord, the bed is already …… there. 
+#etcsl: line-id=B.B.23
+
+B.B.24. %e u₃-mu-un mu-nu₂ %s ba-ši-in-ga-an-[... %s ...]
+#lem: umun[lord]N; munud[bed]N; X; X
+#tr.en: Lord, ……, lord, king, 
+#etcsl: line-id=B.B.24
+
+B.B.25. %e u₃-mu-un %s lil₂ zid an-edin RA U₃ [...]
+#lem: umun[lord]N; lil[ghost]; zid[right]; aneden[the high steppe]; X; X; X
+#tr.en: son of @wDN{An}, 
+#etcsl: line-id=B.B.25
+
+B.B.26. %e u₃-mu-un %s lugal dumu an-na meš₃ ki gal X [...]
+#lem: umun[lord]N; lugal[king]; dumu[child]; An[1]DN; mes[hero]; ki[place]; gal[big]; X; X
+#tr.en: hero who …… the great earth!”} 
+#etcsl: line-id=B.B.26
+
+@div trailer 
+
+B.B.27. ki-ru-gu₂ 3-kam-ma
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 3rd @fsux{kirugu}. 
+#etcsl: line-id=B.B.27
+
+@end trailer
+
+@end kirugu
+
+@div trailer 
+
+B.B.28. šir₃-nam-šub {d}suen-na-kam
+#lem: širnamšubak[subscript]; Suen[1]DN
+#tr.en: A @fsux{šir-namšub} of @wDN{Suen}. 
+#etcsl: line-id=B.B.28
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

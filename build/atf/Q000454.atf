@@ -1,0 +1,223 @@
+&Q000454 = An adab (?) to Enki for Išme-Dagan (Išme-Dagan D)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.4.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.4.04&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. en gal mah X diŋir-re-e-ne di-zu galam u₁₈-ru
+#lem: en[lord]; gal[big]; mah[great]; X; diŋir[deity]; di[speak]; galam[skilful]; urun[exalted]
+#tr.en: Great lord, prominent (?) among the gods, your judgments are clever and powerful! Father @wDN{Enki}, respected one, supreme dragon, who determines the fates firmly, who has taken his seat upon the numerous divine powers in colourful brilliance (?), great prince, the guardian of the gods, …… of holy @wDN{An}! 
+#etcsl: line-id=A.A.1
+
+A.A.2. a-a {d}en-ki nir-ŋal₂ ušum zag dib nam ki-bi-še₃ tar-re
+#lem: aya[father]; Enkik[1]DN; nirŋal[authoritative]; ušum[snake]; zag[side]; dib[pass]; nam[fate]; ki[place]; tar[cut]
+#etcsl: line-id=A.A.2
+
+A.A.3. me lu-lu-a-ba dur₂ ŋar-ra še#-er-zid-de₃-eš gun₃-a
+#lem: me[Being]; lu[abundant]; dur[buttocks]; ŋar[put]; šerzid[radiance]; gunu[speckled]
+#etcsl: line-id=A.A.3
+
+A.A.4. nun# gal saŋ keše₂ [diŋir]-re-e-ne [...] X an kug-ga
+#lem: nun[prince]; gal[big]; saŋ[head]; kešed[bind]; diŋir[deity]; X; X; An[1]DN; kug[pure]
+#etcsl: line-id=A.A.4
+
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-gida B
+
+B.B.1. X X IM [...]
+#lem: X; X; X; X
+#tr.en: The fates you determine are firm; you are the junior @wDN{Enlil}. You (?) distribute the divine powers for the @wDN{Anuna}, 
+#etcsl: line-id=B.B.1
+
+B.B.2. KA ki-zu [...]
+#lem: X; ki[place]; X
+#tr.en: the great gods. You establish for them a habitation, a holy dwelling place; 
+#etcsl: line-id=B.B.2
+
+B.B.3. nam tar-ra-zu ki-bi-še₃ ši-ŋar {d}en-lil₂ ban₃-da-me-en#
+#lem: nam[fate]; tar[cut]; ki[place]; ŋar[put]; Enlil[1]DN; banda[junior]
+#tr.en: you are their proud lord. Your greatness is unapproachable ……. 
+#etcsl: line-id=B.B.3
+
+B.B.4. {d}a-nun-na diŋir gal-gal-e-ne me šu mu-ni-ib₂-hal-ha-X
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; me[Being]; šu[hand]; hal[divide]
+#tr.en: You (?) …… in a pure place the @fsux{abzu}, the mountain built with princely divine powers; 
+#etcsl: line-id=B.B.4
+
+B.B.5. ki-ur₃ ki-tuš kug mu-ne-ŋa₂-ŋa₂ nir saŋ# il₂#-bi-me-en
+#lem: kiʾur[foundation]; kituš[dwelling place]; kug[purify]; ŋar[put]; nir[lordly]; saŋ[head]; il[raise]
+#tr.en: …… @wSN{Eridug}, the shrine, 
+#etcsl: line-id=B.B.5
+
+B.B.6. nam-mah-zu niŋ₂ šu nu-teŋ₃-ŋe₂₆-dam A DU X [...]
+#lem: nammah[greatness]; niŋ[thing]; šu[hand]; teŋ[approach]; X; X; X; X
+#tr.en: which extends over huge marshes, marshes of snakes. 
+#etcsl: line-id=B.B.6
+
+B.B.7. abzu kur me nun-na du₃-a ki sikil-la [...]
+#lem: abzu[(cosmic) underground water]; kur[mountain(s)]; me[Being]; nun[prince]; du[build]; ki[place]; sikil[pure]; X
+#etcsl: line-id=B.B.7
+
+B.B.8. sug gal sug muš-a la₂-a eridug{ki} eš₃ [...]
+#lem: sug[reed-bed]; gal[big]; sug[reed-bed]; muš[snake]; la[hang]; Eridug[1]SN; eš[shrine]; X
+#etcsl: line-id=B.B.8
+
+@div trailer 
+
+B.B.9. sa-gid₂-da-[am₃]
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=B.B.9
+
+@end trailer
+
+@end sa-gida
+
+@div ŋišgiŋal C
+
+B.C.10. a-a {d}en-ki {d}iš-me-{d}da-gan [...] ki tur gal he₂-X [...]
+#lem: aya[father]; Enkik[1]DN; Išmedagan[1]RN; X; ki[place]; tur[small]; gal[big]; X; X
+#tr.en: Father @wDN{Enki}, may …… for @wRN{Išme-@wDN{Dagan}}. 
+#etcsl: line-id=B.C.10
+
+@div trailer 
+
+B.C.11. ŋiš-gi₄-ŋal₂ sa-gid₂-[da-bi-im]
+#lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-gida}. 
+#etcsl: line-id=B.C.11
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div sa-ŋara D
+
+B.D.12. {d}en-ki en dumu-saŋ an-na [...]
+#lem: Enkik[1]DN; en[lord]; dumusaŋ[first-born]; An[1]DN; X
+#tr.en: @wDN{Enki}, lord, firstborn son of @wDN{An} ……, @wDN{Nudimmud}, great bull of the @fsux{abzu} ……, 
+#etcsl: line-id=B.D.12
+
+B.D.13. {d}nu-dim₂-mud gud gal abzu-a X [...]
+#lem: Nudimmud[1]DN; gud[bull]; gal[big]; abzu[(cosmic) underground water]; X; X
+#tr.en: may you …… with your consort, holy @wDN{Damgalnuna}. Father @wDN{Enki}, 
+#etcsl: line-id=B.D.13
+
+B.D.14. nitalam-zu kug {d}dam-gal-nun-na [...] he₂-me-da-an-[...]
+#lem: ŋidlam[(equal ranking) spouse]; kug[purify]; Damgalnunak[1]DN; X; X
+#tr.en: may you embrace her and soothe your heart with her. …… friendly words on behalf of @wRN{Išme-@wDN{Dagan}}. 
+#etcsl: line-id=B.D.14
+
+B.D.15. a-a {d}en-ki gu₂-da hu-mu-e-X-[la₂] X šag₄ hu-mu-da-ab-kuš₂#-[u₃]
+#lem: aya[father]; Enkik[1]DN; gu[neck]; la[hang]; X; šag[heart]; kušu[tired]
+#tr.en: …… the prayer of the king until distant days. 
+#etcsl: line-id=B.D.15
+
+B.D.16. inim sag₉-ga {d}iš-me-{d}da-[gan-na ...]
+#lem: inim[word]; sag[good]; Išmedagan[1]RN; X
+#tr.en: The one blessed by @wDN{Enlil} ……, @wRN{Išme-@wDN{Dagan}}, the shepherd, 
+#etcsl: line-id=B.D.16
+
+B.D.17. nam-šita₂ lugal-la₂ su₃-ra₂# [...]
+#lem: namšita[prayer]; lugal[king]; sud[distant]; X
+#tr.en: …… the son of @wDN{Enlil}. 
+#etcsl: line-id=B.D.17
+
+B.D.18. gu₃ zid de₂-a {d}en-lil₂-la₂ X [...]
+#lem: gu[voice]; zid[right]; de[pour]; Enlil[1]DN; X; X
+#tr.en: May his radiance …… for you to the outer limits of heaven and earth. 
+#etcsl: line-id=B.D.18
+
+B.D.19. {d}iš-me-{d}da-gan sipad inim-ma [...] dumu {d}en-lil₂-la₂# [...]
+#lem: Išmedagan[1]RN; sipad[shepherd]; inim[word]; X; dumu[child]; Enlil[1]DN; X
+#tr.en: May he have authority, may he be peerless in all the numerous countries. 
+#etcsl: line-id=B.D.19
+
+B.D.20. me-lem₄-a-ni kalam-ma šu mu-ra-an-[...] an ki zag X [...]
+#lem: melim[frightening splendor]; kalam[the Land (of Sumer)]; šu[hand]; X; an[sky]; ki[place]; zag[side]; X; X
+#tr.en: May @wRN{Išme-@wDN{Dagan}} …… from the south as far as the uplands. 
+#etcsl: line-id=B.D.20
+
+B.D.21. nir he₂-ŋal₂ kur-kur lu-a-ba gaba gi₄ na-[X-tuku]
+#lem: nir[lordly]; heŋal[plenty]; kur[mountain(s)]; lu[abundant]; gaba[breast]; gi[turn]; tuku[acquire]
+#tr.en: …… the god of the Land ……. 
+#etcsl: line-id=B.D.21
+
+B.D.22. {d}iš-me-{d}da-gan sig-da igi-nim-še₃ [...]
+#lem: Išmedagan[1]RN; sig[weak]; iginim[upper land]; X
+#tr.en: May the @wWN{Tigris} and @wWN{Euphrates} ……, may they bring abundance for him. 
+#etcsl: line-id=B.D.22
+
+B.D.23. mu-na-ab-du₇ diŋir kalam-ma-ke₄ šir₃-re [...]
+#lem: du[perfect]; diŋir[deity]; kalam[the Land (of Sumer)]; šir[song]; X
+#tr.en: May the udders of heaven open for him; may the harvest …… for him. 
+#etcsl: line-id=B.D.23
+
+B.D.24. {id₂}idigna {id₂}buranuna-e si hu-mu-X [X-sa₂] X he₂-ŋal₂ hu-mu-na-ab-[tum₂-mu]
+#lem: Idigna[1 Tigris]; Buranun[1 Euphrates]; si[fill]; X; sa[equal]; X; heŋal[plenty]; tum[bring]
+#tr.en: May barley, emmer, wheat, 
+#etcsl: line-id=B.D.24
+
+B.D.25. ubur an-na-ke₄ ŋal₂ hu-mu-na-ab-da₁₃-[da₁₃] buru₁₄-bi he₂-na-[...]
+#lem: ubur[breast]; an[sky]; ŋal[open]; taka[set aside]; buru[harvest]; X
+#tr.en: @fsux{gu-nida} grain …… on vast fields for him. 
+#etcsl: line-id=B.D.25
+
+B.D.26. gana₂ gal-gal-la še ziz₂ gig gu₂-nida# [...] he₂-[na-X]
+#lem: gana[field]; gal[big]; še[barley]; ziz[emmer wheat]; kib[wheat]; gunida[designation of grain]; X; X
+#tr.en: May grain heaps be heaped up for him; 
+#etcsl: line-id=B.D.26
+
+B.D.27. guru₇(|X.MAŠ.U|) PU₂-e gu₂ ha-mu-na-[ab-gur] {d}ezina₂ hu-mu-X-[...]
+#lem: guru[grain store]; X; gu[neck]; gur[turn]; Ezina[1]DN; X
+#tr.en: may @wDN{Ezina} ……. 
+#etcsl: line-id=B.D.27
+
+@div trailer 
+
+B.D.28. sa-ŋar-ra-[am₃]
+#lem: saŋara[musical notation]
+#tr.en: @fsux{Sa-ŋara}. 
+#etcsl: line-id=B.D.28
+
+@end trailer
+
+@end sa-ŋara
+
+@div ŋišgiŋal E
+
+B.E.29. a-<a> {d}en-ki {d}iš-me-{d}da-gan nam-lugal [...] bal he₂-ŋal₂-la saŋ-eš₂ [X-rig₇]
+#lem: aya[father]; Enkik[1]DN; Išmedagan[1]RN; namlugal[kingship]; X; bala[turn]; heŋal[plenty]; saŋ[head]; rig[donate]
+#tr.en: Father @wDN{Enki}, bestow …… kingship and a reign of abundance upon @wRN{Išme-@wDN{Dagan}}. 
+#etcsl: line-id=B.E.29
+
+@div trailer 
+
+B.E.30. ŋiš-gi₄-ŋal₂# sa-[ŋar-ra-bi-im]
+#lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}. 
+#etcsl: line-id=B.E.30
+
+@end trailer
+
+@end ŋišgiŋal
+
+@end segment
+
+
+
+
+
+
+

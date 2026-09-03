@@ -1,0 +1,178 @@
+&Q000582 = Letter from Inanaka to the goddess Nintinuga
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.10
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.10&display=Crit&charenc=gcirc#
+
+1. {d}nin-tin-ug₅-ga aŋrig zid e₂-kur-ra#
+#lem: Nintinuga[1]DN; agrig[steward]; zid[right]; Ekur[1]TN
+#tr.en: Say to @wPN{Nintinuga}, the reliable stewardess of the E-kur, 
+#etcsl: line-id=1
+
+2. a-zu kalam-ma-ra u₃-na-a-dug₄
+#lem: azu[doctor]; kalam[the Land (of Sumer)]; dug[speak]
+#tr.en: the physician of the Land; repeat to the lady, 
+#etcsl: line-id=2
+
+3. nin tu₆ dug₄-ga-ni uŋ₃ šar₂ til₃-le
+#lem: nin[lady]; tu[incantation]; dug[speak]; uŋ[people]; šar[numerous]V/i; til[live (of a single person)]
+#tr.en: whose incantation heals the multitude of people, 
+#etcsl: line-id=3
+
+4. mu₇-mu₇-ma-ni uŋ₃ sag₉-ga
+#lem: mu[incantation]; uŋ[people]; sag[good]
+#tr.en: whose spells make the people recover, to @varh[t3310.v1]{my} @vart[t3310.v2,t3310.v1]{@varn{1 ms. has instead:} the} relenting lady, 
+#etcsl: line-id=4
+
+5. nin šag₄-ne-ša₄ lu₂ til₃-til₃ šudu₃-de₃ ki aŋ₂-ra
+#lem: nin[lady]; šaneša[supplication]; lu[person]; til[live (of a single person)]; šud[prayer]; ki[place]; aŋ[measure]
+#tr.en: who loves to revive the people and loves supplications, 
+#etcsl: line-id=5
+
+6. šag₄ gur-ru šag₄-la₂ sug₄ a-ra-zu ŋiš (1:tuku-ŋu₁₀-ur₂:1)
+#lem: šag[heart]; gur[turn]; šala[pity]; sug[full]; arazu[supplication]; ŋeš[tree]; tuku[acquire]
+#tr.en: the merciful and compassionate one who listens to prayers. 
+#etcsl: line-id=6
+
+:6v.1.1: ($1 ms. has instead:$) tuku
+#lem: tuku[acquire]
+
+7. u₃-na-de₃-tah
+#lem: tah[add]
+#tr.en: You are the caretaker of the living and the dead; 
+#etcsl: line-id=7
+
+8. til₃-la ug₅-ga en₃ tar-bi za-e-me-en
+#lem: til[live (of a single person)]; ug[kill]; en[cvne]; tar[cut]; zaʾe[you]
+#tr.en: you are the great healer of all the crippled ones. 
+#etcsl: line-id=8
+
+9. lu₂-kud-lu₂-kud-ba du₇-du₇ gal-bi-me-en
+#lem: lukud[disabled person]; du[perfect]; gal[big]
+#tr.en: This is what @wPN{Inanaka}, 
+#etcsl: line-id=9
+
+10. {m}{d}inana-ka dumu-munus {d}en-lil₂-a₂-mah
+#lem: Inanaka[1]PN; dumumunus[daughter]; Enlilamah[1]PN
+#tr.en: the daughter of @wPN{Enlil-a-mah}, 
+#etcsl: line-id=10
+
+11. geme₂-zu na-ab-be₂-a
+#lem: geme[female worker]; e[speak]
+#tr.en: your maidservant says: 
+#etcsl: line-id=11
+
+12. ki-nu₂ šub-ba-ŋu₁₀-da (1:2-kam-ma-bi:1)
+#lem: kinud[sleeping quarter]; šub[fall]; n
+#tr.en: I have fallen ill @varh[t3310.v3]{for a second time} @vart[t3310.v4,t3310.v3]{@varn{1 ms. has instead:} twice (?)}, but I do not yet know the divine oracle concerning @varh[t3310.v5]{my being in agonies} @vart[t3310.v6,t3310.v5]{@varn{1 ms. has instead:} these agonies}. @vart[t3310.v7,t3310.v7]{@varn{1 ms. adds:} …….} My lady, 
+#etcsl: line-id=12
+
+:12v.1.1: ($1 ms. has instead:$) 2-ta-am₃
+#lem: n
+
+13. (1:u₂-u₈-a-u₈-a al-ŋen-na-ŋu₁₀ a-ra₂-bi:1) nu-zu
+#lem: ua[oh!]; ŋen[go]; ara[way]; zu[know]
+#tr.en: a house has been built for me, 
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) u₈-e-a-e a-ra₂-bi
+#lem: ua[oh!]; ara[way]
+
+@variants
+
+#etcsl#ms 1 ms. adds:
+13A. [...] mu-da-an-TAR [...] RA X [...] X
+#lem: X; X; X; X; X; X; X
+#tr.en: but I have to sit there with longing eyes. 
+#etcsl: line-id=13A
+
+@endvariants
+14. nin-ŋu₁₀ e₂ ma-an-du₃-ma igi la₂-bi ba-tuš-en
+#lem: nin[lady]; e[house]; du[build]; igi[eye]; la[hang]; tuš[sit (down)]
+#tr.en: My valued acquaintances @varh[t3310.v8]{keep} @vart[t3310.v9,t3310.v8]{@varn{1 ms. has instead:} stay} away from me. 
+#etcsl: line-id=14
+
+15. zu-a kal-la-ŋu₁₀ ŋiri₃ kur₂ (1:ba-an-dab₅-be₂-eš:1)
+#lem: zu[know]; kal[rare]; ŋiri[foot]; kur[alienate]; dab[seize]
+#tr.en: I have no one who would take care of me. 
+#etcsl: line-id=15
+
+:15v.1.1: ($1 ms. has instead:$) mu-da-an-gub
+#lem: gub[stand]
+
+16. lu₂ en₃ tar-re la-ba-an-tuku
+#lem: lu[person]; en[cvne]; tar[cut]; tuku[acquire]
+#tr.en: Since this is full, too full for me, 
+#etcsl: line-id=16
+
+17. im-ma-si im-ma-dirig-ga-ta
+#lem: si[fill]; dirig[make more than]
+#tr.en: I am distressed. 
+#etcsl: line-id=17
+
+18. zi al-ir-ir-re-en
+#lem: zi[life]; ir[cvve]
+#etcsl: line-id=18
+
+19. tukum-bi nin-ŋa₂ an-na-kam
+#lem: tukumbi[if]; nin[lady]; anna[approval]
+#tr.en: If it pleases my lady, 
+#etcsl: line-id=19
+
+20. a₂-sag₃ su-ŋa₂ ŋal₂-la su-ŋa₂ (1:ib₂-ta-an-zig₃:1)
+#lem: Asag[1]DN; su[flesh]; ŋal[⟦be⟧ to be (there]; su[flesh]; zig[rise]
+#tr.en: @varh[t3310.v10]{and the asag demon which is in my body leaves my body, 
+#etcsl: line-id=20
+
+:20v.1.1: ($some mss. have instead:$) he₂-eb-ta-an-zig₃
+#lem: zig[rise]
+
+21. (1:ki-in-du:1) nam-til₃-la-ka ŋiri₃-ŋu₁₀ (2:he₂-bi₂-ib-gub-be₂:2)
+#lem: kindu[earth]; namtil[life]; ŋiri[foot]; gub[stand]
+#tr.en: and thus} @vart[t3310.v11,t3310.v10]{@varn{some mss. have instead:} may the asag demon which is in my body leave my body, so that} @varh[t3310.v12]{it (the asag demon) allows me} @vart[t3310.v13,t3310.v12]{@varn{1 ms. has instead:} I can} step again on the @varh[t3310.v14]{path} @vart[t3310.v15,t3310.v14]{@varn{1 ms. has instead:} ground} of life with my feet. 
+#etcsl: line-id=21
+
+:21v.1.1: ($1 ms. has instead:$) ki
+#lem: ki[place]
+:21v.2.1: ($1 ms. has instead:$) he₂-bi₂-ib-gub-be₂-en
+#lem: gub[stand]
+
+22. u₃ ŋe₂₆-e (1:geme₂-zu:1) he₂-me-en
+#lem: u[and]; ŋaʾe[I]; geme[female worker]; me[be]
+#tr.en: @varh[t3310.v16]{I will then be your maidservant, the courtyard sweeper of your temple, 
+#etcsl: line-id=22
+
+:22v.1.1: ($some mss. have instead:$) geme₂-ni
+#lem: geme[female worker]
+
+23. (1:e₂-za-a:1) kisal-luh-bi he₂-me-en (2:igi-zu-še₃ he₂-gub:2)
+#lem: e[house]; kisalluh[courtyard sweeper]; me[be]; igi[eye]; gub[stand]
+#tr.en: and will serve you. Furthermore after I have recovered, 
+#etcsl: line-id=23
+
+:23v.1.1: ($some mss. have instead:$) e₂-a-ni
+#lem: e[house]
+:23v.2.1: ($some mss. have instead:$) igi-ni-še₃ ga-gub
+#lem: igi[eye]; gub[stand]
+
+24. u₃-ba-sag₉-ge nin-ŋu₁₀ lu₂-kud-da du₇-du₇
+#lem: sag[good]; nin[lady]; lukud[disabled person]; du[perfect]
+#tr.en: I will name you, my lady, 
+#etcsl: line-id=24
+
+25. (1:mu-zu ga-am₃-mi-ib₂-sa₄:1)
+#lem: mu[name]; še[call by name]
+#tr.en: as "the healer of the crippled"} @vart[t3310.v17,t3310.v16]{@varn{some mss. have instead:} I will then be her maidservant, the courtyard sweeper of her temple, and will serve her. Furthermore after I have recovered, I will name her, my lady, as "the healer of the crippled"}. 
+#etcsl: line-id=25
+
+:25v.1.1: ($some mss. have instead:$) mu-še₃ ga-sa₄
+#lem: mu[name]; še[call by name]
+
+
+
+
+
+
+

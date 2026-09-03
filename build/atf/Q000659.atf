@@ -1,0 +1,534 @@
+&Q000659 = A song of Inana and Dumuzid (Dumuzid-Inana C1)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.08.29
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.29&display=Crit&charenc=gcirc#
+
+@div segment A
+
+A.1. [X X] NE-gin₇# [...]
+#lem: X; X; X; X
+#tr.en: @wDN{Ninegala}, your wedding ushers are lords! 
+#etcsl: line-id=A.1
+
+A.2. [X X] X-gin₇ ab₂ X ZU [...] X [...]
+#lem: X; X; X; ab[cow]; X; X; X; X; X
+#tr.en: …… like someone cracking eggs ……. 
+#etcsl: line-id=A.2
+
+A.3. {[d]}[nin]-e₂-gal-la %e li-bi-ir-si-zu %s en#-[me-eš]
+#lem: Ninegalak[1]DN; libirsi[friend]N; en[lord]
+#tr.en: @wDN{Inana}, your ushers are lords! 
+#etcsl: line-id=A.3
+
+A.4. [X X] nunuz dub₂-dub₂-gin₇ [X X]
+#lem: X; X; nunuz[egg]; dub[tremble]; X; X
+#tr.en: …… is first, 
+#etcsl: line-id=A.4
+
+A.5. {[d]}[inana] %e li-bi-ir-si-zu %s en-me-eš
+#lem: Inanak[1]DN; libirsi[friend]N; en[lord]
+#tr.en: …… is second, 
+#etcsl: line-id=A.5
+
+A.6. [...]-ŋu₁₀ di-di-ta-am₃ {{%akk iš-te-na-a %akk a %akk X}}
+#lem: X; n; L; L; L
+#tr.en: the fowler ……, 
+#etcsl: line-id=A.6
+
+A.7. [X X] ŋar AM₃(|A.AN|) min-am₃
+#lem: X; X; ŋar[put]; X; min[two]
+#tr.en: and the fisherman from the depths of the reedbeds. 
+#etcsl: line-id=A.7
+
+A.8. [X X] X [...] MU X [...]
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=A.8
+
+A.9. [mušen]-du₃#-am₃ X BU X [...]
+#lem: mušendu[bird-catcher]; X; X; X; X
+#etcsl: line-id=A.9
+
+A.10. [šu]-KU₆#-de₃ %e mu#-lu mu-gi-a %s šag₄-ga-bi {{%akk ša qe₂-er-bi ša a-pi₂-im}}
+#lem: šukud[fisherman]; mulu[person]N; mugi[thicket]; šag[heart]; L; L; L; L
+#etcsl: line-id=A.10
+
+A.11. %e {lu₂#}su₈-ba-še₃ %s %e mu-lu %s  %e  da-an-gi₄-gi₄  %s  {{%akk X %akk X}}
+#lem: subad[shepherd]N; mulu[person]N; gi[turn]; L; L
+#tr.en: @q[Inana,self]{“I will send a messenger to the shepherd: let him treat me to the best butter and the best milk! I will send a messenger to my farmer: let him treat me to …… and wine! I, the lady, will send a messenger to the fowler, whose bird-nets are spread out: let him treat me to fine birds! I, @wDN{Inana}, will send a messenger to the fisherman too whose nets are set up in the reedbeds: let him treat me to fat carp!”} 
+#etcsl: line-id=A.11
+
+A.12. [i₃] saŋ ga# saŋ mi₂ %e de₃-ŋa₂-ab#-be₂ {{%akk [li-ka]-an-ni-a-am}}
+#lem: i[oil]; saŋ[head]; ga[milk]; saŋ[head]; mi[cvne]; e[speak]; L
+#etcsl: line-id=A.12
+
+A.13. engar#-ŋu₁₀-u₈-še₃ %e mu-lu %s  %e  <da-an-gi₄-gi₄>  %s 
+#lem: engar[farmer]; mulu[person]N; gi[turn]
+#etcsl: line-id=A.13
+
+A.14. [...] ŋeštin#-e mi₂ %e de₃-<ŋa₂-ab-be₂>
+#lem: X; ŋeštin[vine]; mi[cvne]; e[speak]
+#etcsl: line-id=A.14
+
+A.15. [mušen]-du₃# X sa-du₃ nu₂-a-še₃ {{%akk ša# %akk še-e-tum %akk šu-nu-la-at-sum₂}}
+#lem: mušendu[bird-catcher]; X; sadu[net]; nud[lie down]; L; L; L
+#etcsl: line-id=A.15
+
+A.16. [nin]-ŋen %e mu-lu %s  %e  <da-an-gi₄-gi₄>  %s 
+#lem: nin[lady]; mulu[person]N; gi[turn]
+#etcsl: line-id=A.16
+
+A.17. [mušen] sag₁₀#-ga mi₂ %e de₃-<ŋa₂-ab-be₂>
+#lem: mušen[bird]; sag[good]; mi[cvne]; e[speak]
+#etcsl: line-id=A.17
+
+A.18. šu#-KU₆-dam ŋiš-gi sa#-du₃-a-ni-še₃ {{%akk ša# %akk a-pi-im#}}
+#lem: šukud[fisherman]; ŋešgi[thicket]; sadu[net]; L; L
+#etcsl: line-id=A.18
+
+A.19. %e ga-ša-an-an#-na-ŋen %e mu-lu %s  %e  <da-an-gi₄-gi₄>  %s 
+#lem: Gašanana[]DN; mulu[person]N; gi[turn]
+#etcsl: line-id=A.19
+
+A.20. suhur{ku₆} gur-gur-ra mi₂ %e de₃-<ŋa₂-ab-be₂>
+#lem: suhur[carp]; gur[thick]; mi[cvne]; e[speak]
+#etcsl: line-id=A.20
+
+A.21. %e li-bi-ir-si-ni %s niŋ₂-de₆:a im-de₆
+#lem: libirsi[friend]N; niŋdea[marriage gift]; de[carry]
+#tr.en: One of her ushers brought the gifts. 
+#etcsl: line-id=A.21
+
+A.22. mušen zag-ga mušen-du₃ mu-un-de₆ {{%akk ub-lam}}
+#lem: mušen[bird]; zag[side]; mušendu[bird-catcher]; de[carry]; L
+#tr.en: The fowler brought choice birds, 
+#etcsl: line-id=A.22
+
+A.23. suhur{ku₆} gur-gur#-ra šu-KU₆-de₃ mu-un-de₆
+#lem: suhur[carp]; gur[thick]; šukud[fisherman]; de[carry]
+#tr.en: and the fisherman brought fat carp and put them …… my lady. 
+#etcsl: line-id=A.23
+
+A.24. nin-ŋu₁₀# [...] X X ba-an-da-ab-dug₄ {{%akk iš-ta-ka-an}}
+#lem: nin[lady]; X; X; X; dug[speak]; L
+#tr.en: The shepherd carried butter in his hands, 
+#etcsl: line-id=A.24
+
+A.25. {lu₂}sipad-de₃ i₃ šu-še₃ mu-un-la₂ {{%akk it-ta-na-ši}}
+#lem: sipad[shepherd]; i[oil]; šu[hand]; la[hang]; L
+#tr.en: @wDN{Dumuzid} carried milk on his shoulders. 
+#etcsl: line-id=A.25
+
+A.26. {d}dumu-zid-de₃ ga zag-še₃ mu-un-la₂ {{%akk i-na %akk [bu]-di#-šu}}
+#lem: Dumuzid[1]DN; ga[milk]; zag[side]; la[hang]; L; L
+#tr.en: He carried butter and milk in containers on his shoulders, 
+#etcsl: line-id=A.26
+
+A.27. i₃ ga GAR-ban₃-da zag-še₃ mu-un-la₂ {{%akk qal-qal}}
+#lem: i[oil]; ga[milk]; GAR.banda₃[container]; zag[side]; la[hang]; L
+#tr.en: he carried milk in the churn on his shoulders. 
+#etcsl: line-id=A.27
+
+A.28. ga {dug}šakir-ra zag-še₃ mu-un-la₂
+#lem: ga[milk]; šakir[churn]; zag[side]; la[hang]
+#tr.en: …… called out to the house; 
+#etcsl: line-id=A.28
+
+A.29. [...]-ŋu₁₀# e₂-e gu₃ ba-an-de₂
+#lem: X; e[house]; gu[voice]; de[pour]
+#tr.en: @wDN{Dumuzid} ……: @q[Dumuzid,Inana]{“Open the house, 
+#etcsl: line-id=A.29
+
+A.30. {[d]}dumu#-zid-de₃ X X X
+#lem: Dumuzid[1]DN; X; X; X
+#tr.en: my lady! 
+#etcsl: line-id=A.30
+
+A.31. [e₂] ŋal₂-lu nin-ŋu₁₀ e₂ [ŋal₂-lu]
+#lem: e[house]; ŋal[open]; nin[lady]; e[house]; ŋal[open]
+#tr.en: Open the house!”} 
+#etcsl: line-id=A.31
+
+A.32. [...] X mu-un#-[...]
+#lem: X; X; X
+#tr.en: 135=$ (@gap{1 line fragmentary} @gap{approx. 4 lines missing}) 
+#etcsl: line-id=A.32
+
+$ (approx. 4 lines missing)
+@end segment
+
+@div segment B
+
+B.1. nu-u₈-gig-ge X [...] {{%akk X %akk X %akk X}}
+#lem: nugig[priestess]; X; X; L; L; L
+#tr.en: The mistress ……. She stepped forward to her own mother, 
+#etcsl: line-id=B.1
+
+B.2. ama ugu#-ni ŋiri₃ mu-un-gub-[gub] {{%akk i-na %akk MUNUS-mi-ša %akk i-X-X}}
+#lem: ama[mother]; ugu[bear]; ŋiri[foot]; gub[stand]; L; L; L
+#tr.en: and stood …… expert in song: 
+#etcsl: line-id=B.2
+
+B.3. [...] i-lu-zu mu-un-gub-X {{%akk X %akk X-nu %akk u₂-za-az}}
+#lem: X; ilu[lament]; gub[stand]; L; L; L
+#tr.en: @q[Ningal,Inana]{“He will be just like ……. 
+#etcsl: line-id=B.3
+
+B.4. i-gi₄#-[in]-zu₇ NI-MUŠ₂-dam X [...] {{%akk X %akk X %akk X}}
+#lem: iginzu[as if]; X; X; X; L; L; L
+#tr.en: He will be just like ……. 
+#etcsl: line-id=B.4
+
+B.5. i-gi₄-in-zu₇# A ME X X [na-nam]
+#lem: iginzu[as if]; X; X; X; X; me[be]
+#tr.en: He will be just like …… for you. 
+#etcsl: line-id=B.5
+
+B.6. i-gi₄-in-zu₇# e-ne za-ra [... na-nam]
+#lem: iginzu[as if]; ane[he]; zaʾe[you]; X; me[be]
+#tr.en: He will be just like your father. He will be just like your mother. 
+#etcsl: line-id=B.6
+
+B.7. i-gi₄#-in-zu₇ a-a-zu na-nam#
+#lem: iginzu[as if]; aya[father]; me[be]
+#tr.en: His mother too will …… just like your mother! 
+#etcsl: line-id=B.7
+
+B.8. i-gi₄-in-zu₇ ama-zu na-nam
+#lem: iginzu[as if]; ama[mother]; me[be]
+#tr.en: His father too will …… just like your father!”} 
+#etcsl: line-id=B.8
+
+B.9. ama-ni ama-zu-gin₇ in-ga-X X X {{%akk X %akk X %akk a %akk a %akk [...] %akk X}}
+#lem: ama[mother]; ama[mother]; X; X; X; L; L; L; L; L; L
+#tr.en: @q[Dumuzid,Inana]{“Open the house, 
+#etcsl: line-id=B.9
+
+B.10. a-a-ni a-a-zu-gin₇ in-ga-NE-en
+#lem: aya[father]; aya[father]; X
+#tr.en: my lady! 
+#etcsl: line-id=B.10
+
+B.11. e₂ ŋal₂-lu nin-ŋu₁₀ e₂ ŋal₂-lu
+#lem: e[house]; ŋal[open]; nin[lady]; e[house]; ŋal[open]
+#tr.en: Open the house!”} 
+#etcsl: line-id=B.11
+
+B.12. {d}inana dug₄-ga ama-na-še₃
+#lem: Inanak[1]DN; dug[speak]; ama[mother]
+#tr.en: At her mother's bidding, 
+#etcsl: line-id=B.12
+
+B.13. a mu-un-tu₅ i₃ dug₃-ga mu-un#-šeš₂
+#lem: a[water]; tu[cvve]; i[oil]; dug[good]; šeš[anoint]
+#tr.en: @wDN{Inana} bathed in water and anointed herself with sweet oil. 
+#etcsl: line-id=B.13
+
+B.14. {tug₂}pala₃ mah bar-ra nam-mi-in-dul
+#lem: pala[garment]; mah[great]; bar[outside]; dul[cover]
+#tr.en: She covered her body with a grand robe; 
+#etcsl: line-id=B.14
+
+B.15. u₃ mu-lu-ug-ga-ni šu ba-an-ti
+#lem: u[and]; bulug[needle]; šu[hand]; teŋ[approach]
+#tr.en: she also took her pin. 
+#etcsl: line-id=B.15
+
+B.16. {na₄}za-gin₃ gu₂-a si bi₂-ib₂-sa₂-sa₂-e
+#lem: zagin[lapis lazuli]; gu[neck]; si[horn]; sa[equal]
+#tr.en: She straightened the lapis lazuli stones on her neck, 
+#etcsl: line-id=B.16
+
+B.17. {na₄}kišib šu-ni-a ba-ni-in-du₈ {{%akk i-na %akk X %akk iš %akk ta %akk [...] %akk X}}
+#lem: kišib[cylinder seal]; šu[hand]; du[spread]; L; L; L; L; L; L
+#tr.en: and grasped her cylinder seal in her hand. 
+#etcsl: line-id=B.17
+
+B.18. in-nin₉-e ŋiri₃-ni mu-un-gub-gub {{%akk iš %akk X %akk X %akk ma}}
+#lem: innin[lady]; ŋiri[foot]; gub[stand]; L; L; L; L
+#tr.en: The young lady stepped forward as @wDN{Dumuzid} pushed open the door, 
+#etcsl: line-id=B.18
+
+B.19. {d}dumu-zid-de₃ {ŋiš}ig im-ma-ni-in-us₂ {{%akk ip %akk te %akk X %akk [...]}}
+#lem: Dumuzid[1]DN; ig[door]; us[accompany]; L; L; L; L
+#tr.en: and like a moonbeam she came  
+#etcsl: line-id=B.19
+
+B.20. e₂-e iti₆-gin₇ im-ma-na-ra-e₃ {{%akk iš %akk X %akk X %akk X}}
+#lem: e[house]; itud[moon]; e[leave]; L; L; L; L
+#tr.en: forth to him from the house. 
+#etcsl: line-id=B.20
+
+B.21. igi mu-un-ši-bar mu-un-na-hul₂-la {{%akk ih %akk X %akk X %akk X}}
+#lem: igi[eye]; bar[place outside]; hul[rejoice]; L; L; L; L
+#tr.en: He looked at her and rejoiced in her; 
+#etcsl: line-id=B.21
+
+B.22. gu₂-da mu-ni-in-la₂# ne# [mu]-un#-su#-su#-ub#
+#lem: gu[neck]; la[hang]; ne[cvne]; sub[rub]
+#tr.en: he embraced her and kissed her. 
+#etcsl: line-id=B.22
+
+B.23. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: 232=$ (@gap{1 line fragmentary} @gap{approx. 9 lines missing}) 
+#etcsl: line-id=B.23
+
+$ (approx. 9 lines missing)
+@end segment
+
+@div segment C
+
+C.1. X [...]
+#lem: X; X
+#tr.en: @wDN{Dumuzid} ……. 
+#etcsl: line-id=C.1
+
+C.2. {d}dumu-zid-de₃ X [...]
+#lem: Dumuzid[1]DN; X; X
+#tr.en: Lord @wDN{Dumuzid} ……. 
+#etcsl: line-id=C.2
+
+C.3. en {d}dumu-zid IM# [...] {{%akk X %akk X}}
+#lem: en[lord]; Dumuzid[1]DN; X; X; L; L
+#tr.en: @q[Inana,Dumuzid]{“My master, …… home. 
+#etcsl: line-id=C.3
+
+C.4. lugal-ŋu₁₀ e₂-e [...]
+#lem: lugal[king]; e[house]; X
+#tr.en: My master, my spouse ……. 
+#etcsl: line-id=C.4
+
+C.5. lugal-ŋu₁₀ nitalam#-[ŋu₁₀ ...]
+#lem: lugal[king]; ŋidlam[(equal ranking) spouse]; X
+#tr.en: @wDN{Dumuzid} ……. 
+#etcsl: line-id=C.5
+
+C.6. {d}dumu-zid-de₃ lu₂ X A# NU X X
+#lem: Dumuzid[1]DN; lu[person]; X; X; X; X; X
+#tr.en: My master, take me (?) into the house.”} 
+#etcsl: line-id=C.6
+
+C.7. lugal-ŋu₁₀ e₂-a# kur₉#-ra-ma!(NA)-ni
+#lem: lugal[king]; e[house]; kur[enter]
+#tr.en: The shepherd @wDN{Dumuzid} said to his bride: 
+#etcsl: line-id=C.7
+
+C.8. %e su₈-ba %s {d}dumu-zid-de₃ nitalam-a-ni-ir gu₃ mu-na-de₂-e
+#lem: subad[shepherd]N; Dumuzid[1]DN; ŋidlam[(equal ranking) spouse]; gu[voice]; de[pour]
+#etcsl: line-id=C.8
+
+C.9. nitalam-ŋu₁₀ X-ta e₃-i₃
+#lem: ŋidlam[(equal ranking) spouse]; X; e[leave]
+#tr.en: @q[Dumuzid,Inana]{“My bride, come forth from the ……. @wDN{Inana}, 
+#etcsl: line-id=C.9
+
+C.10. {d}inana X X X e₂ diŋir!-ŋa₂
+#lem: Inanak[1]DN; X; X; X; e[house]; diŋir[deity]
+#tr.en: …… the house of my personal god. 
+#etcsl: line-id=C.10
+
+C.11. e₂ diŋir-ŋa₂-še₃ mu-e-tum₃-en
+#lem: e[house]; diŋir[deity]; tum[bring]
+#tr.en: I shall bring you to the house of my god. 
+#etcsl: line-id=C.11
+
+C.12. igi diŋir-ŋa₂-še₃ i₃-e-nu₂-en
+#lem: igi[eye]; diŋir[deity]; nud[lie down]
+#tr.en: I shall get you to lie down before my god and, 
+#etcsl: line-id=C.12
+
+C.13. zag gu-la diŋir-ŋa₂-ka {d}inana# mu-da-tuš-u₃-de₃-en {{%akk X %akk X %akk X %akk [...] %akk X %akk X}}
+#lem: zag[side]; gal[big]; diŋir[deity]; Inanak[1]DN; tuš[sit (down)]; L; L; L; L; L; L
+#tr.en: @wDN{Inana}, you shall sit with me in my god's seat of honour!”} 
+#etcsl: line-id=C.13
+
+C.14. ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+#lem: ur[that]; e[speak]
+#tr.en: When he had spoken thus to her, 
+#etcsl: line-id=C.14
+
+C.15. X X X-ka im-ma#-an-tuš {{%akk X %akk [...] %akk ab}}
+#lem: X; X; X; tuš[sit (down)]; L; L; L
+#tr.en: she sat down ……  
+#etcsl: line-id=C.15
+
+C.16. [X X X] X ŠU X [...] X X X {{%akk a-na %akk A %akk IGI %akk RI %akk AB %akk NU %akk X %akk X %akk X}}
+#lem: X; X; X; X; X; X; X; X; X; X; L; L; L; L; L; L; L; L; L
+#tr.en: …… stepped forward ……. 
+#etcsl: line-id=C.16
+
+C.17. [...]-ra ŋiri₃ im-ma-an-gub#-[gub] {{%akk it-ta-X %akk X}}
+#lem: X; ŋiri[foot]; gub[stand]; L; L
+#tr.en: …… uttered a prayer ……  
+#etcsl: line-id=C.17
+
+C.18. [...] X [a]-ra-zu mu-na-ab-be₂ {{%akk [...] %akk X %akk X}}
+#lem: X; X; arazu[supplication]; e[speak]; L; L; L
+#tr.en: …… your usher …… @gap{approx. 4 lines missing} 
+#etcsl: line-id=C.18
+
+C.19. [...] X [...] RU X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.19
+
+C.20. [...] X X X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=C.20
+
+C.21. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=C.21
+
+C.22. [...] HA [...]
+#lem: X; X; X
+#etcsl: line-id=C.22
+
+C.23. [...] NE [...]
+#lem: X; X; X
+#etcsl: line-id=C.23
+
+C.24. [...] %e li#-bi-ir-si-zu
+#lem: X; libirsi[friend]N
+#etcsl: line-id=C.24
+
+$ (approx. 4 lines missing)
+@end segment
+
+@div segment D
+
+D.1. [...] X [...]
+#lem: X; X; X
+#tr.en: …… before you ……. 
+#etcsl: line-id=D.1
+
+D.2. [X X] igi-za# [...]
+#lem: X; X; igi[eye]; X
+#tr.en: My @wDN{Ama-ušumgal}, …… boat. 
+#etcsl: line-id=D.2
+
+D.3. {[d]}[ama]-ušumgal-ŋu₁₀ {ŋiš}ma₂ [...] {{%akk X %akk X %akk X}}
+#lem: Amaʾušumgalanak[1]DN; ma[ship]; X; L; L; L
+#tr.en: …… the young lady: 
+#etcsl: line-id=D.3
+
+D.4. [...] in#-nin₉-ra gu₂ ab-[...]
+#lem: X; innin[lady]; gu[neck]; X
+#etcsl: line-id=D.4
+
+D.5. [nam]-geme₂-ŋu₁₀-še₃ la-ba-e-de₃-ri
+#lem: namgeme[status as female worker or slave]; ri[impose]
+#tr.en: @q[Dumuzid,Inana]{“I have not carried you off to be my slave girl! 
+#etcsl: line-id=D.5
+
+D.6. [...]-na-am₃ banšur-zu banšur šen-na-am₃ {{%akk X %akk X %akk lu-ub-bi-<ib>}}
+#lem: X; banšur[table]; banšur[table]; šen[pure]; L; L; L
+#tr.en: ……, 
+#etcsl: line-id=D.6
+
+D.7. banšur šen-e im-ma-ni-ib-gu₇!-e-en {{%akk i-ik-kal %akk X %akk X %akk X}}
+#lem: banšur[table]; šen[pure]; gu[eat]; L; L; L; L
+#tr.en: your table will be a splendid table. 
+#etcsl: line-id=D.7
+
+D.8. banšur-zu banšur šen#-na# banšur šen-am₃ {{%akk ma %akk X %akk [...]}}
+#lem: banšur[table]; banšur[table]; šen[pure]; banšur[table]; šen[pure]; L; L; L
+#tr.en: You will eat at a splendid table. 
+#etcsl: line-id=D.8
+
+D.9. za-e HUB# [X X] ba-ni-ib-gu₇!-e-en {{%akk i %akk [...] %akk X %akk X %akk X}}
+#lem: zaʾe[you]; X; X; X; gu[eat]; L; L; L; L; L
+#tr.en: Your table will be a splendid table, 
+#etcsl: line-id=D.9
+
+D.10. ama-ŋu₁₀# HUB# [X X] la-ba-ni-ib-gu₇!
+#lem: ama[mother]; X; X; X; gu[eat]
+#tr.en: a splendid table. You will eat ……. 
+#etcsl: line-id=D.10
+
+D.11. šeš# tu#-ur-tu-ra la-ba-ni-ib₂-gu₇! {{%akk X %akk X %akk X}}
+#lem: šeš[brother]; Durtur[1]DN; gu[eat]; L; L; L
+#tr.en: My mother does not eat there, @wDN{Durtur's} brother does not eat there, 
+#etcsl: line-id=D.11
+
+D.12. nin₉-ŋu₁₀ {d}ŋeštin-an-na la-ba-ni-ib₂-gu₇!
+#lem: nin[sister]; Ŋeštinanak[1]DN; gu[eat]
+#tr.en: my sister @wDN{Ŋeštin-ana} does not eat there; 
+#etcsl: line-id=D.12
+
+D.13. za-e [...] E šu ba-ni-ib-gu₇!-e {{%akk [...] %akk na}}
+#lem: zaʾe[you]; X; X; šu[hand]; gu[eat]; L; L
+#tr.en: but you will eat …….”} 
+#etcsl: line-id=D.13
+
+D.14. nitalam-ŋu₁₀ tug₂ na-ma-TUKU₅-TUKU₅-an
+#lem: ŋidlam[(equal ranking) spouse]; tug[textile]; tuku[weave]
+#tr.en: @q{“My bride, you should not weave cloth for me! ……, you should not spin yarn for me! 
+#etcsl: line-id=D.14
+
+D.15. [...]-e gu na-ma#-NU-NU-un
+#lem: X; gu[cord]; NU[spin (thread)]
+#tr.en: ……, you should not comb out goat's wool for me! ……, you should not warp threads for me!”} 
+#etcsl: line-id=D.15
+
+D.16. [...] siki# ud₅ na-ma-ni-ib₂-du₃-un {{%akk [...] %akk ab %akk [...] %akk X %akk [...] %akk X}}
+#lem: X; siki[hair]; uzud[(female) goat]; du[build]; L; L; L; L; L; L
+#tr.en: @q[Dumuzid,Inana]{“You should not (?) …… bread for me!”} @wDN{Ninegala}, ……. The wild bull @wDN{Dumuzid} ……. 
+#etcsl: line-id=D.16
+
+D.17. [...] na#-ma#-DUN-DUN-an
+#lem: X; dun[lay (the warp)]
+#tr.en: …… holy radiance on the horizon ……, …… radiance in heaven ……, 
+#etcsl: line-id=D.17
+
+D.18. [...] X X [...] X nun-na {{%akk [...]-šum}}
+#lem: X; X; X; X; X; nun[prince]; L
+#etcsl: line-id=D.18
+
+D.19. X X X [...] X-an
+#lem: X; X; X; X; X
+#etcsl: line-id=D.19
+
+D.20. [...] IM [...] X [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=D.20
+
+D.21. ninda nam X [...] X X [...]
+#lem: ninda[bread]; nam[fate]; X; X; X; X; X
+#etcsl: line-id=D.21
+
+D.22. {d}nin-e₂-gal-la PA [...]
+#lem: Ninegalak[1]DN; X; X
+#etcsl: line-id=D.22
+
+D.23. am {d}dumu-zid X X [...] X [...]
+#lem: am[wild bull]; Dumuzid[1]DN; X; X; X; X; X
+#etcsl: line-id=D.23
+
+D.24. X-e še-er-zid kug an-ur₂-[ra] X X
+#lem: X; šerzid[radiance]; kug[purify]; anur[horizon]; X; X
+#etcsl: line-id=D.24
+
+D.25. [X X]-na-ŋu₁₀ an-ne₂ še-er-zid [...]
+#lem: X; X; an[sky]; šerzid[radiance]; X
+#etcsl: line-id=D.25
+
+D.26. [X X X] BA an#-ur₂ X [...]
+#lem: X; X; X; X; anur[horizon]; X; X
+#etcsl: line-id=D.26
+
+D.27. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=D.27
+
+$ (up to 5 lines missing)
+@end segment
+
+
+
+
+
+
+

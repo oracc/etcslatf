@@ -1,0 +1,1120 @@
+&Q000383 = The lament for Eridug
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.2.6
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.6&display=Crit&charenc=gcirc#
+
+@div version 1 (A composite version from Nibru)
+
+@div segment A
+
+@div kirugu A
+
+$ (note@c226.sec1!c226.n1: beginning of 1st kirugu)
+$ 4 lines missing
+1.A.A.5. ud# te-eš# dug₄#-[ga tug₂-gin₇ ba-e-dul gada-gin₇ ba-e-bur₂]
+#lem: ud[storm]; teš[voice]; dug[speak]; tug[textile]; dul[cover]; gada[flax]; bur[spread out]
+#tr.en: The roaring storm covered it like a cloak, was spread over it like a sheet. 
+#etcsl: line-id=1.A.A.5
+
+1.A.A.6. eridug{ki}-ga tug₂-gin₇ ba-e-[dul gada-gin₇ ba-e-bur₂]
+#lem: Eridug[1]SN; tug[textile]; dul[cover]; gada[flax]; bur[spread out]
+#tr.en: It covered @wSN{Eridug} like a cloak, was spread over it like a sheet. 
+#etcsl: line-id=1.A.A.6
+
+1.A.A.7. iri-a ud huš-e šeg₁₁ mi-ni#-[ib-gi₄-gi₄ ...]
+#lem: iri[city]; ud[storm]; huš[reddish]; šeg[voice]; gi[turn]; X
+#tr.en: In the city, the furious storm resounded ……. 
+#etcsl: line-id=1.A.A.7
+
+1.A.A.8. eridug{ki}-ga ud huš-e šeg₁₁ mi-ni-ib-gi₄-gi₄# [...]
+#lem: Eridug[1]SN; ud[storm]; huš[reddish]; šeg[voice]; gi[turn]; X
+#tr.en: In @wSN{Eridug}, the furious storm resounded ……. 
+#etcsl: line-id=1.A.A.8
+
+1.A.A.9. za-pa-aŋ₂-bi niŋ₂-me-ŋar u₁₈-lu-gin₇ ba-e-dul# [uŋ₃-bi ...]
+#lem: zipaŋ[voice]; niŋmeŋar[silence]; ulu[south wind]; dul[cover]; uŋ[people]; X
+#tr.en: Its voice was smothered with silence as by a gale. Its people ……. 
+#etcsl: line-id=1.A.A.9
+
+1.A.A.10. eridug{ki} niŋ₂-me-ŋar u₁₈-lu-gin₇ ba-e-dul uŋ₃-bi# [...]
+#lem: Eridug[1]SN; niŋmeŋar[silence]; ulu[south wind]; dul[cover]; uŋ[people]; X
+#tr.en: @wSN{Eridug} was smothered with silence as by a gale. Its people ……. 
+#etcsl: line-id=1.A.A.10
+
+1.A.A.11. lugal-bi iri-ni iri kur₂-gin₇ bar-ta ba-ra-gub er₂# [gig mu-un-še₈-še₈]
+#lem: lugal[king]; iri[city]; iri[city]; kur[different]; bar[outside]; gub[stand]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: Its king stayed outside his city as if it were an alien city. He wept bitter tears. 
+#etcsl: line-id=1.A.A.11
+
+1.A.A.12. a-a {d}en-ki iri-ni iri kur₂-gin₇ bar-ta ba-ra-gub er₂# [gig mu-un-še₈]-še₈#
+#lem: aya[father]; Enkik[1]DN; iri[city]; iri[city]; kur[different]; bar[outside]; gub[stand]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: Father @wDN{Enki} stayed outside his city as if it were an alien city. He wept bitter tears. 
+#etcsl: line-id=1.A.A.12
+
+1.A.A.13. nam iri hul-a-na er₂ gig mu-un-še₈-še₈
+#lem: nam[fate]; iri[city]; hulu[bad]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: For the sake of his harmed city, he wept bitter tears. 
+#etcsl: line-id=1.A.A.13
+
+1.A.A.14. nin-bi mušen dal-a-gin₇ iri-ni ba-ra-e₃
+#lem: nin[lady]; mušen[bird]; dal[fly]; iri[city]; e[leave]
+#tr.en: Its lady, like a flying bird, 
+#etcsl: line-id=1.A.A.14
+
+1.A.A.15. ama e₂-mah-a kug {d}dam-gal-nun-na iri-ni ba-ra-e₃
+#lem: ama[mother]; Emah[1]TN; kug[purify]; Damgalnunak[1]DN; iri[city]; e[leave]
+#tr.en: left her city. The mother of @wTN{E-maḫ}, 
+#etcsl: line-id=1.A.A.15
+
+1.A.A.16. iri me kug-kug-ga me-bi šu ba-ab-bal
+#lem: iri[city]; me[Being]; kug[pure]; me[Being]; šu[hand]; bala[turn]
+#tr.en: holy @wDN{Damgalnuna}, left her city. 
+#etcsl: line-id=1.A.A.16
+
+1.A.A.17. ŋarza me gal-gal-la-kam me-bi ba-da-kur₂
+#lem: ŋarza[rites]; me[Being]; gal[big]; me[Being]; kur[different]
+#tr.en: The divine powers of the city of holiest divine powers were overturned. The divine powers of the rites of the greatest divine powers were altered. 
+#etcsl: line-id=1.A.A.17
+
+1.A.A.18. eridug{ki}-ga igi ni₁₀-ni₁₀-bi ba-kur₂ šu suh₃-a ba-ab-dug₄
+#lem: Eridug[1]SN; igi[eye]; niŋin[encircle]; kur[different]; šu[hand]; suh[confuse]; dug[speak]
+#tr.en: In @wSN{Eridug} everything was reduced to ruin, was wrought with confusion. 
+#etcsl: line-id=1.A.A.18
+
+1.A.A.19. ud hul du₃-a iri-ta ba-ra-ŋen kalam i₃-ur₄-ur₄-re
+#lem: ud[storm]; hulu[bad]; du[build]; iri[city]; ŋen[go]; kalam[the Land (of Sumer)]; ur[gather]
+#tr.en: The evil-bearing storm went out from the city. 
+#etcsl: line-id=1.A.A.19
+
+1.A.A.20. ud sag₁₀ hul nu-ŋal₂-la sag₉-ga nu-zu hul nu-zu-e
+#lem: ud[storm]; sag[good]; hulu[bad]; ŋal[⟦be⟧ to be (there]; sag[good]; zu[know]; hulu[bad]; zu[know]
+#tr.en: It swept across the Land -- a storm which possessses neither kindness nor malice, 
+#etcsl: line-id=1.A.A.20
+
+1.A.A.21. su-bir₄{ki}-e a-gin₇ im-mi-ib₂-ŋar šu im-ma-da-an-šub
+#lem: Subir[1]GN; a[water]; ŋar[put]; šu[hand]; šub[fall]
+#tr.en: does not distinguish between good and evil. @wGN{Subir} came down like rain. 
+#etcsl: line-id=1.A.A.21
+
+1.A.A.22. iri-a ud zalag-ga e₃-a ud ba-da-ku₁₀-ku₁₀
+#lem: iri[city]; ud[sun]; zalag[bright]; e[leave]; ud[sun]; kukkug[dark]
+#tr.en: It struck hard. In the city where bright daylight used to shine forth, 
+#etcsl: line-id=1.A.A.22
+
+1.A.A.23. eridug{ki}-ga ud zalag-ga e₃-a ud ba-da-ku₁₀-ku₁₀
+#lem: Eridug[1]SN; ud[sun]; zalag[bright]; e[leave]; ud[sun]; kukkug[dark]
+#tr.en: the day darkened. In @wSN{Eridug} where bright daylight used to shine forth, 
+#etcsl: line-id=1.A.A.23
+
+1.A.A.24. {d}utu an-ur₂-ra šu₂-a-gin₇ an-usan-še₃ ba-du₃
+#lem: Utu[1]DN; anur[horizon]; šuš[cover]; usan[evening]; du[build]
+#tr.en: the day darkened. As if the sun had set below the horizon, 
+#etcsl: line-id=1.A.A.24
+
+1.A.A.25. iri an-ne₂ nam ba-an-ku₅-ra₂-gin₇ ni₂-bi-a ba-an-gul
+#lem: iri[city]; An[1]DN; nam[fate]; kud[cut]; ni[self]; gul[destroy]
+#tr.en: it turned into twilight. As if @wDN{An} had cursed the city, alone he destroyed it. 
+#etcsl: line-id=1.A.A.25
+
+1.A.A.26. {d}en-lil₂-le saŋ-ki gid₂-da-gin₇ eridug{ki} eš₃ abzu gu₂ ki-še₃ ba-ni-ib-ŋar
+#lem: Enlil[1]DN; saŋki[forehead]; gid[long]; Eridug[1]SN; eš[shrine]; Eʾabzu[1]; gu[neck]; ki[place]; ŋar[put]
+#tr.en: As if @wDN{Enlil} had frowned upon it, @wSN{Eridug}, the shrine @wTN{Abzu}, bowed low. 
+#etcsl: line-id=1.A.A.26
+
+@div trailer 
+
+1.A.A.27. ki-ru-gu₂ 1-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 1st @fsux{kirugu}. 
+#etcsl: line-id=1.A.A.27
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal B
+
+1.A.B.28. a %e uru₂ %s gul-la e₂ gul-la-ri gig-ga-bi im-me
+#lem: aya[cry]; uru[city]; gul[destroy]; e[house]; gul[destroy]; gig[sick]; dug[speak]
+#tr.en: It cried out bitterly: @q[Eridug,]{“O the destruction of the city! The destruction of the house!”} 
+#etcsl: line-id=1.A.B.28
+
+@div trailer 
+
+1.A.B.29. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.A.B.29
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu C
+
+1.A.C.30. 2-kam-ma-še₃ ud-de₃ iri mu-un-gul-gul ad-bi gig-ga-am₃
+#lem: n; ud[storm]; iri[city]; gul[destroy]; ad[voice]; gig[sick]
+#tr.en: A second time the storm destroyed the city -- its song was plaintive. 
+#etcsl: line-id=1.A.C.30
+
+1.A.C.31. [...] X giri₁₆ im-ma-ni-ib₂-ŋar
+#lem: X; X; ŋiri[foot]; ŋar[put]
+#tr.en: …… was trampled (?). …… intensified the lament. 
+#etcsl: line-id=1.A.C.31
+
+1.A.C.32. [...] X a-nir ba-da-an-tab
+#lem: X; X; anir[lament]; tab[double]
+#tr.en: It cut the lock from its main gate. The storm dislodged its door. 
+#etcsl: line-id=1.A.C.32
+
+1.A.C.33. [abul-la-bi] {[ŋiš]}si#-ŋar bi₂-in-kud {ŋiš}ig-bi ud-de₃ im-ma-gub
+#lem: abula[gate]; siŋar[bolt]; kud[cut]; ig[door]; ud[storm]; gub[stand]
+#tr.en: …… It stacked the people up in heaps. 
+#etcsl: line-id=1.A.C.33
+
+1.A.C.34. [...] gub-ba uŋ₃ zar-re-eš ba-an-sal
+#lem: X; gub[stand]; uŋ[people]; zar[sheaf (of barley)]; sal[thin]
+#tr.en: …… on its own destroyed it. 
+#etcsl: line-id=1.A.C.34
+
+1.A.C.35. [...] mu#-un-du₈ ni₂-bi-a ba-an-gul
+#lem: X; du[spread]; ni[self]; gul[destroy]
+#tr.en: It turned …… into tears. 
+#etcsl: line-id=1.A.C.35
+
+1.A.C.36. [...] X er₂-ra mu-un-kur₉
+#lem: X; X; er[tears]; kur[enter]
+#tr.en: …… defiled ……  
+#etcsl: line-id=1.A.C.36
+
+1.A.C.37. [...] X X pe-el [...]
+#lem: X; X; X; pel[defile]; X
+#etcsl: line-id=1.A.C.37
+
+$ 1 line missing
+1.A.C.39. [... ulutim₂]-bi# mu-un-kur₂
+#lem: X; uludin[form]; kur[different]
+#tr.en: …… It distorted its appearance. …… It distorted its appearance. 
+#etcsl: line-id=1.A.C.39
+
+1.A.C.40. [...] ulutim₂#-bi mu-un-kur₂
+#lem: X; uludin[form]; kur[different]
+#tr.en: It circled its …… wall. It overturned its foundations. 
+#etcsl: line-id=1.A.C.40
+
+1.A.C.41. [... bad₃]-bi# mu-un-ni₁₀-ni₁₀ ur₂-ba ba-ni-ib₂-bal
+#lem: X; bad[wall]; niŋin[encircle]; ur[root]; bala[turn]
+#tr.en: Throughout his city, the pure, radiant (?) place, the foundations were filled with dust. 
+#etcsl: line-id=1.A.C.41
+
+1.A.C.42. iri# ki sikil-la zal-a-ni sahar-ra ur₂ mi-ni-ib₂-si
+#lem: iri[city]; ki[place]; sikil[pure]; zal[pass time]; sahar[soil]; ur[loin]; si[fill]
+#tr.en: It cast down its ziggurat, the shrine which reaches up to heaven, 
+#etcsl: line-id=1.A.C.42
+
+1.A.C.43. u₆-nir eš₃ an-ne₂ us₂-sa-bi sahar-tu₁₁-e ba-an-ŋar
+#lem: unir[ziggurat]; eš[shrine]; an[sky]; us[accompany]; sahar.HUB₂[dust-heap]; ŋar[put]
+#tr.en: into a heap of debris. The loftiness of its elevated door-ornament, 
+#etcsl: line-id=1.A.C.43
+
+1.A.C.44. ŋiš-bur₂-ba me-te e₂-a-ke₄ ni₂ il₂-il₂-a il₂-bi ba-e-suh!
+#lem: ŋešbur[an architectural ornament]; mete[appropriate thing]; e[house]; ni[self]; il[raise]; il[raise]; suh[extract]
+#tr.en: befitting a house, was stripped down (?). It cut down the gate, 
+#etcsl: line-id=1.A.C.44
+
+1.A.C.45. kan₄ u₆-nir-gal-an-ki-ni₂-huš-ri-a-bi
+#lem: kan[gate]; Unirgalankinihušria[1]ON
+#tr.en: its Great-Ziggurat-of-Heaven-and-Earth-Covered-with-Terrible-Awesomeness, its shining door, and it broke through its bolt. 
+#etcsl: line-id=1.A.C.45
+
+1.A.C.46. {ŋiš}ig za-gin₃-bi gu₂-guru₅ bi₂-in-dug₄ {ŋiš}saŋ-kul!(MU)-bi ba-du₃
+#lem: ig[door]; zagin[lapis lazuli]; guguru[trim down]; dug[speak]; saŋkul[bolt]; du[build]
+#tr.en: It ripped out its doorframe. 
+#etcsl: line-id=1.A.C.46
+
+1.A.C.47. ŋiš-kan₄-na-bi ba-ra-an-bur₁₂ e₂ igi ba-ab-kur₂
+#lem: ŋeškanak[part of a door frame]; bur[tear out]; e[house]; igi[eye]; kur[different]
+#tr.en: The house was defaced. 
+#etcsl: line-id=1.A.C.47
+
+@div trailer 
+
+1.A.C.48. ki-ru-gu₂ 2-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 2nd @fsux{kirugu}. 
+#etcsl: line-id=1.A.C.48
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal D
+
+1.A.D.49. eridug{ki} gul-la-ri gul-la-bi gig-ga-am₃
+#lem: Eridug[1]SN; gul[destroy]; gul[destroy]; gig[sick]
+#tr.en: The destruction of @wSN{Eridug}! Its destruction was grievous. 
+#etcsl: line-id=1.A.D.49
+
+@div trailer 
+
+1.A.D.50. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.A.D.50
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu E
+
+1.A.E.51. kan₄ igi piriŋ-ŋa₂ ki nam tar-re-ba
+#lem: kan[gate]; igi[eye]; piriŋ[lion]; ki[place]; nam[fate]; tar[cut]
+#tr.en: At its lion-faced gate, the place where fates are determined, it mutilated the copse (?) forming the ornament of the house ……. 
+#etcsl: line-id=1.A.E.51
+
+1.A.E.52. {ŋiš}tir!(|TE+GAR|) e₂-a he₂-du₇-bi ba-ra-an-guz [...]
+#lem: tir[forest]; e[house]; hedu[ornament]; guz[be crushed]; X
+#tr.en: @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. Prematurely they destroyed it utterly. 
+#etcsl: line-id=1.A.E.52
+
+1.A.E.53. {d}ka-he₂-ŋal₂ {d}igi-he₂-ŋal₂ i₃-du₈ [e₂-a ...]
+#lem: Kaheŋala[1]DN; Igiheŋala[1]DN; idu[doorkeeper]; e[house]; X
+#tr.en: They completely altered ……. At the gate of the @fsux{uzga} precinct, 
+#etcsl: line-id=1.A.E.53
+
+1.A.E.54. ud nu-dug₄-ga-ba mu-un-gul-gul-lu-uš# X X [mu-un]-kur₂#-kur₂-ru-uš
+#lem: ud[sun]; dug[speak]; gul[destroy]; X; X; kur[different]
+#tr.en: the animal-fattener …… the great offerings. Its birds and fish were neglected there. 
+#etcsl: line-id=1.A.E.54
+
+1.A.E.55. kan₄ uz-ga gurušta!(UŠ) nidba gal-gal gul#-[la ...]
+#lem: kan[gate]; uzga[priest]; kurušda[animal fattener]; nindaba[(food) offering]; gal[big]; gul[destroy]; X
+#tr.en: Destruction ……. Throughout his house, 
+#etcsl: line-id=1.A.E.55
+
+1.A.E.56. ku₆ mušen-bi muš₃ ba-ni-ib₂-tum₂ gul-la# [...]
+#lem: kud[fish]; mušen[bird]; muš[face]; tum[bring]; gul[destroy]; X
+#tr.en: radiant (?) in silver and lapis lazuli, 
+#etcsl: line-id=1.A.E.56
+
+1.A.E.57. e₂ kug {na₄}za-gin₃-na zal-a-ni er₂ X [...]
+#lem: e[house]; kug[metal]; zagin[lapis lazuli]; zal[pass time]; er[tears]; X; X
+#tr.en: tears ……. 
+#etcsl: line-id=1.A.E.57
+
+1.A.E.58. huŋ-ŋa₂ šagina [...] X [...]
+#lem: huŋ[hire]; šakkanak[general]; X; X; X
+#tr.en: The hired man and the governor ……. 
+#etcsl: line-id=1.A.E.58
+
+1.A.E.59. ezem-ma gal-e X X [...]
+#lem: ezem[festival]; gal[big]; X; X; X
+#tr.en: The festivals …… grandly ……. 
+#etcsl: line-id=1.A.E.59
+
+1.A.E.60. šir₃ kug šir₃ ha-mun# [...]
+#lem: šir[sing]; kug[purify]; šir[sing]; hamun[harmony]; X
+#tr.en: Holy songs, songs of all kinds ……. 
+#etcsl: line-id=1.A.E.60
+
+1.A.E.61. šem₃ {kuš}a₂-la₂ [...]
+#lem: šem[drum]; ala[wooden drum]; X
+#tr.en: The @fsux{šem} drum and @fsux{ala} drum ……. 
+#etcsl: line-id=1.A.E.61
+
+1.A.E.62. me gal me šar₂-ra# [...]
+#lem: me[Being]; gal[big]; me[Being]; šar[numerous]V/i; X
+#tr.en: The great divine powers, all the divine powers ……. 
+#etcsl: line-id=1.A.E.62
+
+1.A.E.63. ki diŋir an ki-a [...]
+#lem: ki[place]; diŋir[deity]; an[sky]; ki[place]; X
+#tr.en: The place of the gods of heaven and earth ……. 
+#etcsl: line-id=1.A.E.63
+
+1.A.E.64. di lugal-e ŋidru kug a₂ zid-[da ...]
+#lem: did[lawsuit]; lugal[king]; ŋidru[scepter]; kug[purify]; a[arm]; zid[right]; X
+#tr.en: The judgment by the king, the holy sceptre at his right side, ……. 
+#etcsl: line-id=1.A.E.64
+
+1.A.E.65. en lu₂-mah nin-diŋir [...]
+#lem: en[priest]; lumah[priest]; erešdiŋir[priestess]; X
+#tr.en: The @fsux{en} priestess, @fsux{lumaḫ} priest and @fsux{nindiŋir} priestess ……. 
+#etcsl: line-id=1.A.E.65
+
+1.A.E.66. sukkal {d}isimud-de₃ a₂ [...]
+#lem: sukkal[secretary]; Isimud[1]DN; a[arm]; X
+#tr.en: The minister @wDN{Isimud} ……. 
+#etcsl: line-id=1.A.E.66
+
+1.A.E.67. e₂ lu₂ nu-zu-ba da-bi X [...]
+#lem: e[house]; lu[person]; zu[know]; dag[side]; X; X
+#tr.en: Strangers to the house …… its side. 
+#etcsl: line-id=1.A.E.67
+
+1.A.E.68. eridug{ki} eš₃ abzu sig₉-ga-bi [...]
+#lem: Eridug[1]SN; eš[shrine]; Eʾabzu[1]; sig[silent]; X
+#tr.en: @wSN{Eridug}, the shrine @wTN{Abzu}, …… silently. 
+#etcsl: line-id=1.A.E.68
+
+1.A.E.69. tug₂ mah-he su-ub-ba lu₂-erim₂-e he₂#-[...]
+#lem: tug[textile]; mah[great]; sub[rub]; luʾerim[evildoer]; X
+#tr.en: The enemy …… cleansed in a magnificent robe. 
+#etcsl: line-id=1.A.E.69
+
+1.A.E.70. X lu₂ X uŋ₃ X X he₂-mi-in#-[...]
+#lem: X; lu[person]; X; uŋ[people]; X; X; X
+#tr.en: …… a man …… the people ……. 
+#etcsl: line-id=1.A.E.70
+
+1.A.E.71. [u₃]-mun-bi a bal-bal-e-da uš₂-ni im-bal
+#lem: umun[blood]; a[water]; bala[turn]; uš[blood]; bala[turn]
+#tr.en: Along with the fluids spilled from his guts, his blood spilled forth. 
+#etcsl: line-id=1.A.E.71
+
+1.A.E.72. [...] X an sig₇-ga-gin₇ ul-še₃ tag-ga-am₃#
+#lem: X; X; an[sky]; sissig[green-yellow]; ul[distant time]; tag[touch]
+#tr.en: The ……, which like the azure sky was embellished forever, 
+#etcsl: line-id=1.A.E.72
+
+1.A.E.73. [...] gu₂#-da ba-an-la₂
+#lem: X; gu[neck]; la[hang]
+#tr.en: …… grasped ……. 
+#etcsl: line-id=1.A.E.73
+
+@div trailer 
+
+1.A.E.74. [ki-ru-gu₂ 3-kam]-ma#-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 3rd @fsux{kirugu}. 
+#etcsl: line-id=1.A.E.74
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal F
+
+1.A.F.75. X [...]
+#lem: X; X
+#tr.en: @gap{2 lines fragmentary}
+#etcsl: line-id=1.A.F.75
+
+1.A.F.76. A# [...]
+#lem: X; X
+#etcsl: line-id=1.A.F.76
+
+@div trailer 
+
+1.A.F.77. ŋiš-gi₄-ŋal₂-[bi-im]
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.A.F.77
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu G
+
+1.A.G.78. X [...] X ur₅ uš₂-a šag₄ sag₃-[ga ...]
+#lem: X; X; X; ur[liver]; uš[die]; šag[heart]; sag[strike]; X
+#tr.en: …… distressed and anxious …… like a pigeon ……. 
+#etcsl: line-id=1.A.G.78
+
+1.A.G.79. [...] X kug tum₁₂{mušen}-ma-gin₇# [...]
+#lem: X; X; kug[purify]; tum[wild dove]; X
+#tr.en: The birds of the destroyed city …… a nest. 
+#etcsl: line-id=1.A.G.79
+
+1.A.G.80. AN X [...]
+#lem: X; X; X
+#tr.en: The @fsux{ukuku} bird, bird of heart's sorrow, …… the place. 
+#etcsl: line-id=1.A.G.80
+
+1.A.G.81. mušen %e uru₂ %s gul-la-ke₄ gud₃ [...]
+#lem: mušen[bird]; uru[city]; gul[destroy]; gud[nest]; X
+#tr.en: Pain ……. The area became entangled in wild thornbushes. 
+#etcsl: line-id=1.A.G.81
+
+1.A.G.82. u₃-ku-ku{mušen} mušen šag₄ sag₃-ga-ke₄ ki [...]
+#lem: ukuku[bird]; mušen[bird]; šag[heart]; sag[strike]; ki[place]; X
+#tr.en: It …… wild thornbushes. The @wEN{Šimaškians} and @wEN{Elamites}, 
+#etcsl: line-id=1.A.G.82
+
+1.A.G.83. šag₄ dab₅ X [...]
+#lem: šag[heart]; dab[seize]; X; X
+#tr.en: the destroyers, 
+#etcsl: line-id=1.A.G.83
+
+1.A.G.84. {ŋiš}kiši₁₆ kur-ra-ke₄ zu₂ ba-ni-ib₂-[keše₂]
+#lem: kišig[acacia]; kur[mountain(s)]; zu[tooth]; kešed[bind]
+#tr.en: looked at the holy kettles which no one may look at. 
+#etcsl: line-id=1.A.G.84
+
+1.A.G.85. {ŋiš}kiši₁₆ kur-ra-ke₄ gar₃ ba-ni-ib₂-X X X
+#lem: kišig[acacia]; kur[mountain(s)]; gar[knob]; X; X; X
+#tr.en: In the House of @wDN{Nisaba's} Wisdom, the house of understanding, 
+#etcsl: line-id=1.A.G.85
+
+1.A.G.86. {urud}šen kug lu₂ igi nu-bar#-[re]-da
+#lem: šen[cauldron]; kug[purify]; lu[person]; igi[eye]; bar[place outside]
+#tr.en: …… covered over ……. 
+#etcsl: line-id=1.A.G.86
+
+1.A.G.87. šimaški#{ki} elam{ki} lu₂ ha-lam#-[ma igi i-ni]-in-bar
+#lem: Šimaški[1]GN; Elam[1]GN; lu[person]; halam[forsake]; igi[eye]; bar[place outside]
+#tr.en: The divine powers which embellish the @wTN{Abzu} ……. 
+#etcsl: line-id=1.A.G.87
+
+1.A.G.88. e₂-GEŠTUG₂-{d}NISABA e₂ ŋeštug₂# [...] KA# [...] ba-šu₂
+#lem: E₂.GEŠTUG₂.NISABA.k[1]TN; e[house]; ŋeštug[ear]; X; X; X; šuš[cover]
+#tr.en: When the holy treasures stored in the treasury were put ……, 
+#etcsl: line-id=1.A.G.88
+
+1.A.G.89. me abzu še-er-ka-an dug₄-ga [...] X ba-ab-DU
+#lem: me[Being]; Eʾabzu[1]; šerkan[ornament]; dug[speak]; X; X; X
+#tr.en: when, like a mist lying heavily on the earth, 
+#etcsl: line-id=1.A.G.89
+
+1.A.G.90. gi₁₆-sa# kug erim₃ ŋar-ŋar-a ki X [...] ŋar-ra-ba
+#lem: gilsa[treasure]; kug[purify]; erim[storeroom]; ŋar[put]; ki[place]; X; X; ŋar[put]
+#tr.en: ……, 
+#etcsl: line-id=1.A.G.90
+
+1.A.G.91. muru₉-gin₇ ki [us₂-sa ...]-a-ba
+#lem: muru[rainstorm]; ki[place]; us[accompany]; X
+#tr.en: they went like small birds shooed from their hiding places. 
+#etcsl: line-id=1.A.G.91
+
+1.A.G.92. buru₅{mušen}-gin₇ a₂-[bur₂-bi sar-sar]-ra# ba-e-re₇-eš
+#lem: buru[sparrow]; abbur[nook]; sar[run]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#etcsl: line-id=1.A.G.92
+
+1.A.G.93. kug {na₄}za-gin₃ [...] ba#-ab-DU
+#lem: kug[metal]; zagin[lapis lazuli]; X; X
+#etcsl: line-id=1.A.G.93
+
+1.A.G.94. eridug{ki} niŋ₂ [...] X ba-ab-dug₄
+#lem: Eridug[1]SN; niŋ[thing]; X; X; dug[speak]
+#etcsl: line-id=1.A.G.94
+
+1.A.G.95. eš₃ bar X [...]-bi-a
+#lem: eš[shrine]; bar[outside]; X; X
+#etcsl: line-id=1.A.G.95
+
+1.A.G.96. an-šeŋ₆-ŋa₂# [...]-in-du₃
+#lem: šeŋ[cook]; du[build]
+#etcsl: line-id=1.A.G.96
+
+1.A.G.97. tir hur-saŋ#-[ŋa₂ ...] mu-ni-in-[...]
+#lem: tir[forest]; hursaŋ[mountain]; X; X
+#etcsl: line-id=1.A.G.97
+
+1.A.G.98. X NE X [...] X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=1.A.G.98
+
+1.A.G.99. IM# [...]
+#lem: X; X
+#etcsl: line-id=1.A.G.99
+
+$ (unknown no. of lines missing)
+@end kirugu
+
+@end segment
+
+@div segment B
+
+@div kirugu G
+
+1.B.G.1. a-a {d}en-ki [i-lu] ni₂#-te-na# [...]
+#lem: aya[father]; Enkik[1]DN; ilu[lament]; ni[self]; X
+#tr.en: Father @wDN{Enki} uttered a lament for himself ……. 
+#etcsl: line-id=1.B.G.1
+
+@div trailer 
+
+1.B.G.2. ki-ru-gu₂ 4-[kam-ma-am₃]
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 4th @fsux{kirugu}. 
+#etcsl: line-id=1.B.G.2
+
+@end trailer
+
+$ (continuation of 4th kirugu)
+@end kirugu
+
+@div ŋišgiŋal H
+
+1.B.H.3. a-a {d}en-ki i-lu ni₂-te-na gu₃ gig im-me
+#lem: aya[father]; Enkik[1]DN; ilu[lament]; ni[self]; gu[voice]; gig[sick]; dug[speak]
+#tr.en: Bitterly Father @wDN{Enki} uttered a lament for himself. 
+#etcsl: line-id=1.B.H.3
+
+@div trailer 
+
+1.B.H.4. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.B.H.4
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu I
+
+1.B.I.5. nam-bi-še₃ {d}en-ki lugal abzu-ke₄
+#lem: nam[fate]; Enkik[1]DN; lugal[king]; abzu[(cosmic) underground water]
+#tr.en: Because of this, @wDN{Enki}, king of the @fsux{abzu}, stayed outside his city as if it were an alien city. 
+#etcsl: line-id=1.B.I.5
+
+1.B.I.6. iri-ni iri kur₂-gin₇ bar-ta ba-da-gub gu₂ ki-še₃ ba-an-la₂
+#lem: iri[city]; iri[city]; kur[different]; bar[outside]; gub[stand]; gu[neck]; ki[place]; la[hang]
+#tr.en: It bowed its neck down to the ground. 
+#etcsl: line-id=1.B.I.6
+
+1.B.I.7. nin-bi ab₂ zid arhuš-a kug {d}dam-gal-nun-na
+#lem: nin[lady]; ab[cow]; zid[right]; arhuš[compassion]; kug[purify]; Damgalnunak[1]DN
+#tr.en: @wSN{Eridu's} lady, holy @wDN{Damgalnuna}, the faithful cow, the compassionate one, clawed at her breast, clawed at her eyes. 
+#etcsl: line-id=1.B.I.7
+
+1.B.I.8. gaba-ni i₃-hur-[re] igi-ni i₃-hur-re gu₃ nir-ra im-me
+#lem: gaba[breast]; hur[scratch]; igi[eye]; hur[scratch]; gu[voice]; nir[lordly]; dug[speak]
+#tr.en: She uttered a frenzied cry. 
+#etcsl: line-id=1.B.I.8
+
+1.B.I.9. šu 2-a-na ŋiri₂ ba-da-ra šu bi₂-in-du₈ teš₂-bi i₃-gu₇-e
+#lem: šu[hand]; n; ŋiri[dagger]; badara[dagger]; šu[hand]; du[spread]; teš[unity]; gu[eat]
+#tr.en: She held a dagger and a sword in her two hands -- they clashed together. 
+#etcsl: line-id=1.B.I.9
+
+1.B.I.10. siki-ni {u₂}numun₂-bur-gin₇ i₃-ze₂-e i-lu gig ŋa₂-[ŋa₂]
+#lem: siki[hair]; numunbur[rushes]; zir[tear out]; ilu[lament]; gig[sick]; ŋar[put]
+#tr.en: She tore out her hair like rushes, uttering a bitter lament: 
+#etcsl: line-id=1.B.I.10
+
+1.B.I.11. %e uru₂ %s munus-zu nu-til#-[la a]-la#-zu nu-gi₄-a-ŋu₁₀ me-a er₂-zu ba-gig
+#lem: uru[city]; munus[woman]; til[live (of a single person)]; ala[exuberance]; gi[turn]; mea[where?]; er[tears]; gig[sick]
+#tr.en: @q[Damgalnuna,Eridug]{“You, my city whose woman does not dwell there, 
+#etcsl: line-id=1.B.I.11
+
+1.B.I.12. %e uru₂-ze₂-eb{ki} %e uru₂# %s munus-zu nu-til-la a-la-zu nu-gi₄-a-ŋu₁₀ me-a er₂-zu ba-šeš₂
+#lem: Uruzeb[1]SN; uru[city]; munus[woman]; til[live (of a single person)]; ala[exuberance]; gi[turn]; mea[where?]; er[tears]; šeš[weep]
+#tr.en: whose charms do not satisfy her -- where is a lament uttered bitterly for you? @wSN{Eridug}! 
+#etcsl: line-id=1.B.I.12
+
+1.B.I.13. gud-gin₇# [...] mah-za ba-e-šub-be₂-en hul# [...] mu-šub-be₂
+#lem: gud[bull]; X; mah[great]; šub[fall]; hulu[bad]; X; šub[fall]
+#tr.en: You, my city whose woman does not dwell there, 
+#etcsl: line-id=1.B.I.13
+
+1.B.I.14. X [...] X dim₂-ma-me-en šag₄-ŋu₁₀# [...]
+#lem: X; X; X; dim[create]; šag[heart]; X
+#tr.en: whose charms do not satisfy her -- where are tears wept for you? I fall like a bull in your lofty …… falls ……. 
+#etcsl: line-id=1.B.I.14
+
+1.B.I.15. [...] AN %e ga-ša-an-e %s [...]
+#lem: X; X; gašan[lady]N; X
+#tr.en: I am ……. My heart …… queen …….”} 
+#etcsl: line-id=1.B.I.15
+
+$ (unknown no. of lines missing)
+$ (note@c226.gap1!c226.n3: incorporating end of 5th kirugu)
+@end kirugu
+
+@end segment
+
+@div segment C
+
+@div kirugu J
+
+1.C.J.1. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: …… far away …… the great gods. 
+#etcsl: line-id=1.C.J.1
+
+#etcsl#doc continuation of 6th kirugu
+
+1.C.J.2. [...] su₃-ud-da-aš diŋir gal-[gal]-e-[ne]
+#lem: X; sud[distant]; diŋir[deity]; gal[big]
+#tr.en: Lord @wDN{Enlil}, king of the lands, looked maliciously at @wGN{Sumer}. 
+#etcsl: line-id=1.C.J.2
+
+1.C.J.3. %e u₃-[mu-un] %e {d}mu-ul-lil₂ %s lugal kur-kur-ra-ke₄
+#lem: umun[lord]N; Mullil[]DN; lugal[king]; kur[mountain(s)]
+#tr.en: He demolished it. He destroyed the @wTN{Ki-ur}, the great place. 
+#etcsl: line-id=1.C.J.3
+
+1.C.J.4. ki-en#-[gi]-ra# %e i-bi₂ %s hul he₂-en-ši-bar ŋiri₃-bal-a he₂-em-gul
+#lem: Kengir[1]; ibi[eye]N; hulu[bad]; bar[place outside]; ŋiribal[flooding]; gul[destroy]
+#tr.en: He razed with the pickaxe all of the shining @wTN{E-kur}. 
+#etcsl: line-id=1.C.J.4
+
+1.C.J.5. ki-ur₃ ki gal zag he₂-bi₂-in-tag
+#lem: Kiʾur[1]; ki[place]; gal[big]; zag[side]; tag[touch]
+#tr.en: He destroyed it but did not abandon it -- at the lunches, 
+#etcsl: line-id=1.C.J.5
+
+1.C.J.6. e₂-kur za-gin₃-na du₃-a-ba {ŋiš}al-e he₂-em-mi-in-ra
+#lem: Ekur[1]TN; zagin[lapis lazuli]; du[build]; al[hoe]; rah[beat]
+#tr.en: in his great dining hall, 
+#etcsl: line-id=1.C.J.6
+
+1.C.J.7. zag he₂-bi#-in-tag šu li-bi₂-in-dag
+#lem: zag[side]; tag[touch]; šu[hand]; dag[roam around]
+#tr.en: they call his name. 
+#etcsl: line-id=1.C.J.7
+
+1.C.J.8. kiŋ₂-sig# unu₂ gal-ni mu-ni he₂-pad₃-de₃
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; mu[name]; pad[find]
+#etcsl: line-id=1.C.J.8
+
+1.C.J.9. {d}a#-[ru]-ru nin₉  %e  {d}mu-ul-lil₂-la₂-ke₄  %s 
+#lem: Aruru[1]DN; nin[sister]; Mullil[1]DN
+#tr.en: @wDN{Aruru}, the sister of @wDN{Enlil}, destroyed her city @wSN{Iri-saŋ-rig}. 
+#etcsl: line-id=1.C.J.9
+
+1.C.J.10. iri-ni iri-saŋ-rig₇ zag he₂-bi₂-in-tag
+#lem: iri[city]; Irisaŋrig[1]SN; zag[side]; tag[touch]
+#tr.en: In @wSN{Keš}, the creation place of the Land, 
+#etcsl: line-id=1.C.J.10
+
+1.C.J.11. keš₃{[ki]} ki-ulutim₂ kalam-ma-ke₄
+#lem: Keš[1]SN; kiʾulutim[place of creation]; kalam[the Land (of Sumer)]
+#tr.en: the people saw inside its holy sanctuary where daylight had been unknown. 
+#etcsl: line-id=1.C.J.11
+
+1.C.J.12. itima kug ud nu-zu-ba uŋ₃-e igi he₂-ni-in-bar
+#lem: itima[sleeping chamber]; kug[purify]; ud[sun]; zu[know]; uŋ[people]; igi[eye]; bar[place outside]
+#tr.en: She destroyed it but did not abandon it -- at the lunches, 
+#etcsl: line-id=1.C.J.12
+
+1.C.J.13. zag he₂-bi₂-in-tag šu li-bi₂-in-tag
+#lem: zag[side]; tag[touch]; šu[hand]; tag[touch]
+#tr.en: in her great dining hall, they call her name. 
+#etcsl: line-id=1.C.J.13
+
+1.C.J.14. kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; mu[name]; pad[find]
+#tr.en: Lord @wDN{Nanna}, Lord @wDN{Ašimbabbar}, destroyed his city @wSN{Urim}. 
+#etcsl: line-id=1.C.J.14
+
+1.C.J.15. %e u₃-mu-un %s {d}nanna %e u₃-mu-un %s {d}dil-im₂-babbar
+#lem: umun[lord]N; Nanna[1]DN; umun[lord]N; Dilimbabbar[1]DN
+#tr.en: He decimated the Land with famine. 
+#etcsl: line-id=1.C.J.15
+
+1.C.J.16. iri-ni# urim₂{ki}-ma zag he₂-bi₂-in-tag
+#lem: iri[city]; Urim[1]SN; zag[side]; tag[touch]
+#tr.en: He committed a sacrilege against the @wTN{E-kiš-nu-ŋal}. 
+#etcsl: line-id=1.C.J.16
+
+1.C.J.17. [šag₄]-mar-ra-ka %e ka-na-aŋ₂-bi %s he₂-en-til
+#lem: šaŋar[starvation]; kanaŋ[land]N; til[complete]
+#tr.en: He struck at its heart. 
+#etcsl: line-id=1.C.J.17
+
+1.C.J.18. [e₂]-kiš-nu-ŋal₂ %e aŋ₂-gig-ga %s he₂-bi₂-ak šag₄-bi# he₂-bi₂-ra
+#lem: Ekišnuŋal[1]TN; aŋgig[bad thing]N; ak[do]; šag[heart]; rah[beat]
+#tr.en: He destroyed it but did not abandon it -- at the lunches, 
+#etcsl: line-id=1.C.J.18
+
+1.C.J.19. [zag] he₂-bi₂-in-tag šu li-bi₂-in-dag
+#lem: zag[side]; tag[touch]; šu[hand]; dag[roam around]
+#tr.en: in his great dining hall, 
+#etcsl: line-id=1.C.J.19
+
+1.C.J.20. [kiŋ₂]-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; mu[name]; pad[find]
+#tr.en: they call his name. 
+#etcsl: line-id=1.C.J.20
+
+1.C.J.21. %e {d}ga-ša-an-an-na %e ga-ša-an %s an ki-ke₄
+#lem: Gašanana[1]DN; gašan[lady]N; an[sky]; ki[place]
+#tr.en: @wDN{Inana}, the queen of heaven and earth, destroyed her city @wSN{Unug}. 
+#etcsl: line-id=1.C.J.21
+
+1.C.J.22. iri-ni unug{ki}-ga zag he₂-bi₂-in-tag
+#lem: iri[city]; Unug[1]SN; zag[side]; tag[touch]
+#tr.en: Fleeing from the @wTN{E-ana}, 
+#etcsl: line-id=1.C.J.22
+
+1.C.J.23. e₂-an-na e₂ ub 7 izi 7 kar-kar-re-de₃ an X TI#
+#lem: Eanak[1]TN; e[house]; ub[corner]; n; izi[fire]; n; kar[flee]; an[sky]; X; X
+#tr.en: the house of seven corners and seven fires ……, 
+#etcsl: line-id=1.C.J.23
+
+1.C.J.24. zag he₂-bi₂-in-tag šu li-bi₂-in-dag
+#lem: zag[side]; tag[touch]; šu[hand]; dag[roam around]
+#tr.en: she destroyed it but did not abandon it -- at the lunches, 
+#etcsl: line-id=1.C.J.24
+
+1.C.J.25. kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; mu[name]; pad[find]
+#tr.en: in her great dining hall, they call her name. 
+#etcsl: line-id=1.C.J.25
+
+1.C.J.26. %e [mu]-ud-na-ŋu₁₀ %e uru₂-zu %e uru₂-ze₂-eb{ki}-gin₇ %s gul-la a-ba-[a igi mu-ni-in]-du₈#
+#lem: mudna[spouse]N; uru[city]; Uruzeb[1]SN; gul[destroy]; aba[who?]; igi[eye]; du[spread]
+#tr.en: @q[Damgalnuna,Enki]{“My beloved, who has ever seen such a destruction as that of your city @wSN{Eridug}!”} 
+#etcsl: line-id=1.C.J.26
+
+@div trailer 
+
+1.C.J.27. ki-ru-gu₂ 6-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 6th @fsux{kirugu}. 
+#etcsl: line-id=1.C.J.27
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal K
+
+1.C.K.28. %e [mu-ud]-na#-ŋu₁₀ %s me-na ba-du₃-e me-na ba-gul-e me-teš₂ abzu [...] X
+#lem: mudna[spouse]N; mena[when?]; du[build]; mena[when?]; gul[destroy]; mete[appropriate thing]; Eʾabzu[1]; X; X
+#tr.en: @q{“My beloved, for how long was it built? For how long is it destroyed? …… adornment of the @wTN{Abzu}.”} 
+#etcsl: line-id=1.C.K.28
+
+@div trailer 
+
+1.C.K.29. [ŋiš]-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.C.K.29
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu L
+
+1.C.L.30. %e [u₃]-mu-un {d}am-an-ki uru₂-zu uru₂-ze₂-eb %s gul-la a-ba-a mu-[ni-in]-du₈
+#lem: umun[lord]N; Amanki[]DN; uru[city]; Uruzeb[1]SN; gul[destroy]; aba[who?]; du[spread]
+#tr.en: @q[Damgalnuna,Enki]{“Lord @wDN{Enki}, who has ever seen such a destruction as that of your city @wSN{Eridug}? 
+#etcsl: line-id=1.C.L.30
+
+1.C.L.31. [eš₃] abzu e₂-zu-gin₇ hul-a a-ba-a igi mu-ni-in-du₈
+#lem: eš[shrine]; Eʾabzu[1]; e[house]; hulu[bad]; aba[who?]; igi[eye]; du[spread]
+#tr.en: Who has ever seen such a misfortune as that of the shrine @wTN{Abzu}, 
+#etcsl: line-id=1.C.L.31
+
+1.C.L.32. ki-šu-tag-ga-ni lu₂ nu-ed₃-de₃
+#lem: kišutag[cultic place]; lu[person]; ed[go up]
+#tr.en: your house?”} No one goes up to his offering terrace. At the lunches, 
+#etcsl: line-id=1.C.L.32
+
+1.C.L.33. kiŋ₂-sig unu₂ gal-ni mu-ni li-bi₂-in-pad₃-de₃
+#lem: kiŋsig[afternoon meal]; unu[dwelling]; gal[big]; mu[name]; pad[find]
+#tr.en: in his great dining hall, they do not call his name. 
+#etcsl: line-id=1.C.L.33
+
+1.C.L.34. {d}en-ki lugal abzu-ke₄
+#lem: Enkik[1]DN; lugal[king]; abzu[(cosmic) underground water]
+#tr.en: @wDN{Enki}, king of the @fsux{abzu}, felt distressed, felt anxious. At the words of his spouse, 
+#etcsl: line-id=1.C.L.34
+
+1.C.L.35. šag₄ ba-an-sag₃ ur₅-ra-ni# ba-uš₂ inim nitalam-na-še₃
+#lem: šag[heart]; sag[strike]; ur[liver]; uš[die]; inim[word]; ŋidlam[(equal ranking) spouse]
+#tr.en: he himself began to wail. 
+#etcsl: line-id=1.C.L.35
+
+1.C.L.36. ni₂-te-a-ni i-si-iš mi-ni-ib-la₂ šag₄-ka-tab-ba ba-an-nu₂
+#lem: ni[self]; isiš[tears]; la[hang]; šakatab[fasting]; nud[lie down]
+#tr.en: He lay down and fasted. 
+#etcsl: line-id=1.C.L.36
+
+1.C.L.37. lugal-ŋu₁₀ ur₅ nam-ba-ug₇-e šag₄ nam-ba-sag₃-ge
+#lem: lugal[king]; ur[liver]; uš[die]; šag[heart]; sag[strike]
+#tr.en: My king, you must not be distressed, 
+#etcsl: line-id=1.C.L.37
+
+1.C.L.38. a-a {d}en-ki ur₅ nam-ba-ug₇-e šag₄ nam-ba-sag₃-ge
+#lem: aya[father]; Enkik[1]DN; ur[liver]; uš[die]; šag[heart]; sag[strike]
+#tr.en: you must not be anxious. Father @wDN{Enki}, 
+#etcsl: line-id=1.C.L.38
+
+1.C.L.39. dumu an-na šag₄-zu ki-ur₃-zu-še₃ iri-zu-še₃ %e muštug₂-zu#-še₃
+#lem: dumu[child]; An[1]DN; šag[heart]; Kiʾur[1]; iri[city]; muštug[ear]N
+#tr.en: you must not be distressed, you must not be anxious. 
+#etcsl: line-id=1.C.L.39
+
+1.C.L.40. iri kur₂-ra tuš-a gig-ga-am₃ iri-zu-še₃ %e muštug₂-zu-še₃
+#lem: iri[city]; kur[different]; tuš[sit (down)]; gig[sick]; iri[city]; muštug[ear]N
+#tr.en: Son of @wDN{An}, return your heart to your @wTN{Ki-ur} and your attention to your city. 
+#etcsl: line-id=1.C.L.40
+
+1.C.L.41. e₂ kur₂-ra tuš-a gig-ga-am₃ e₂-zu-še₃ %e muštug₂#-zu-še₃
+#lem: e[house]; kur[different]; tuš[sit (down)]; gig[sick]; e[house]; muštug[ear]N
+#tr.en: Living in an alien city is miserable -- return your attention to your city. Living in an alien house is miserable -- return your attention to your house. 
+#etcsl: line-id=1.C.L.41
+
+1.C.L.42. iri lu₂ %e ta %s nu-ub-da-sa₂-a iri-zu-še₃ %e muštug₂-zu
+#lem: iri[city]; lu[person]; ta[what?]QP; sa[equal]; iri[city]; muštug[ear]N
+#tr.en: What can anyone compare with this city? -- Return your attention to your city. 
+#etcsl: line-id=1.C.L.42
+
+1.C.L.43. e₂ lu₂ %e ta %s nu-ub-da-sa₂-a e₂-zu %e muštug₂-zu
+#lem: e[house]; lu[person]; ta[what?]QP; sa[equal]; e[house]; muštug[ear]N
+#tr.en: What can anyone compare with this house? -- Return your attention to your house. 
+#etcsl: line-id=1.C.L.43
+
+1.C.L.44. eridug{ki}-ga ud-bi ba-sud-sud ŋi₆-bi ba-til-til
+#lem: Eridug[1]SN; ud[sun]; sud[distant]; ŋi[night]; til[complete]
+#tr.en: @wSN{Eridug's} day is long. Its night is over. 
+#etcsl: line-id=1.C.L.44
+
+1.C.L.45. aš-te-zu tuš-a hu-mu-ra-ab-be₂
+#lem: guza[chair]; tuš[sit (down)]; e[speak]
+#tr.en: May your throne say to you @q[throne,Enki]{“Sit down”}. 
+#etcsl: line-id=1.C.L.45
+
+1.C.L.46. %e mu-nud-zu %s nu₂-a hu-mu-ra-ab-be₂
+#lem: munud[bed]N; nud[lie down]; e[speak]
+#tr.en: May your bed say to you @q[bed,Enki]{“Lie down”}. 
+#etcsl: line-id=1.C.L.46
+
+1.C.L.47. e₂-zu [ni₂] ten-na-ab hu-mu-ra-ab-be₂
+#lem: e[house]; ni[self]; ten[extinguish]; e[speak]
+#tr.en: May your house say to you @q[house,Enki]{“Be rested”}. 
+#etcsl: line-id=1.C.L.47
+
+1.C.L.48. barag kug-zu hul₂-la-bi# dirig-bi tuš-a hu-mu-ra-ab-be₂
+#lem: barag[sanctum]; kug[pure]; hul[rejoice]; dirig[make more than]; tuš[sit (down)]; e[speak]
+#tr.en: May your holy dais also say joyfully to you @q[dais,Enki]{“Sit down”}. 
+#etcsl: line-id=1.C.L.48
+
+1.C.L.49. a-a-zu an lugal diŋir-re-e-ne-ke₄ šag₄-zu he₂-eb-dug₃-ge
+#lem: aya[father]; An[1]DN; lugal[king]; diŋir[deity]; šag[heart]; dug[good]
+#tr.en: May your father @wDN{An}, the king of the gods, satisfy your heart. 
+#etcsl: line-id=1.C.L.49
+
+1.C.L.50. lu₂-ulu₃ lu₂ sun₅-na er₂ e₂ zid dam-za mu-ra-an-de₆ igi-zu-še₃ du₁₂-a-bi
+#lem: lulu[man]; lu[person]; sun[humble]; er[tears]; e[house]; zid[right]; dam[spouse]; de[carry]; igi[eye]; du[play (a musical instrument)]
+#tr.en: A person, a humble man, brings you a lament over your wife's faithful house. 
+#etcsl: line-id=1.C.L.50
+
+1.C.L.51. lu₂-ulu₃-bi šag₄-zu ha-ba-na-huŋ-ŋe₂₆
+#lem: lulu[man]; šag[heart]; huŋ[pacify]
+#tr.en: When he sings it before you, may that person soothe your heart. 
+#etcsl: line-id=1.C.L.51
+
+1.C.L.52. sizkur₂-ra dug₄-<ga>-na igi zid bar-mu-še-eb
+#lem: siškur[prayer]; dug[speak]; igi[eye]; zid[right]; bar[place outside]
+#tr.en: When he recites a prayer, look kindly upon him. 
+#etcsl: line-id=1.C.L.52
+
+@div trailer 
+
+1.C.L.53. ki-ru-gu₂ 7-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 7th @fsux{kirugu}. 
+#etcsl: line-id=1.C.L.53
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal M
+
+1.C.M.54. X X X X zag-zu he₂-[bi₂]-in-tag e₂-zu ba-e-de₃-šub
+#lem: X; X; X; X; zag[side]; tag[touch]; e[house]; šub[fall]
+#tr.en: It destroyed your …… and struck against your house. 
+#etcsl: line-id=1.C.M.54
+
+@div trailer 
+
+1.C.M.55. [ŋiš-gi₄-ŋal₂]-bi#-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=1.C.M.55
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu N
+
+1.C.N.56. [... ki]-bi ha-ra-ab-gi₄-gi₄
+#lem: X; ki[place]; gi[turn]
+#tr.en: …… and may he restore it for you. 
+#etcsl: line-id=1.C.N.56
+
+1.C.N.57. [...] X-za
+#lem: X; X
+#tr.en: Do not hide like a criminal ……. 
+#etcsl: line-id=1.C.N.57
+
+1.C.N.58. [...] X
+#lem: X; X
+#etcsl: line-id=1.C.N.58
+
+1.C.N.59. [lu₂] ha-lam ak-a-gin₇ saŋ nu-mu-un#-[...]
+#lem: lu[person]; halam[forsake]; ak[do]; saŋ[head]; X
+#etcsl: line-id=1.C.N.59
+
+@end kirugu
+
+@end segment
+
+@end version
+
+@div version 2 (A version from Urim (UET 6 142))
+
+@div segment A
+
+@div kirugu A
+
+2.A.A.1. iri me nun-na a gal-la dirig-ga a-e ba-da-ri sag₉# [...]
+#lem: iri[city]; me[Being]; nun[prince]; a[water]; gal[big]; dirig[make more than]; a[water]; ri[impose]; sag[goodness]; X
+#tr.en: House of princely powers, standing in mighty water -- the waters have receded from it ……. 
+#etcsl: line-id=2.A.A.1
+
+2.A.A.2. sug daŋal-bi ŋiri₃ ba-an-ŋa₂-ŋa₂ šag₄-ba {ŋiš}kiši₁₇ kur-ra ib₂#-[mu₂-mu₂]
+#lem: sug[reed-bed]; daŋal[wide]; ŋiri[foot]; ŋar[put]; šag[heart]; kišig[acacia]; kur[mountain(s)]; mu[grow]
+#tr.en: One can walk on its wide swamp. Within it grow wild thornbushes. The delightful boat Wild goat of the @fsux{abzu} -- the waters have receded from it; 
+#etcsl: line-id=2.A.A.2
+
+2.A.A.3. ma₂ giri₁₇-zal-la ma₂ tarah abzu a-e ba-da-ri! sag₉# [...] amaš-bi kar bi₂-ib₂-kar# [...]
+#lem: ma[ship]; kirizal[joy]; ma[ship]; durah[wild goat]; abzu[(cosmic) underground water]; a[water]; ri[impose]; sag[goodness]; X; amaš[sheepfold]; kar[harbor]; kar[flee]; X
+#tr.en: …… its sheepfold …… the wharf. They were @wDN{Sirsir}, the tutelary deity, and the man who rides the boat. 
+#etcsl: line-id=2.A.A.3
+
+2.A.A.4. {d}sir₂-sir₂ an-gub-ba u₂ lu₂ ma₂ u₅ na-nam ma₂-saŋ-ŋa₂ [...] igi-bi-da ba-e-šu₂ BU X [...]
+#lem: Sirsire[1]; anguba[tutelary deity]; u[and]; lu[person]; ma[ship]; u[ride]; me[be]; masaŋ[prow]; X; igi[eye]; šuš[cover]; X; X; X
+#tr.en: At the prow …… was hurled down in front of them. Evildoers destroyed the house, 
+#etcsl: line-id=2.A.A.4
+
+2.A.A.5. e₂-a lu₂-erim₂-e mu-un-hul-uš me-bi šu suh₃-a ba#-[ab-dug₄]
+#lem: e[house]; luʾerim[evildoer]; hulu[bad]; me[Being]; šu[hand]; suh[confuse]; dug[speak]
+#tr.en: and its rites were disturbed. 
+#etcsl: line-id=2.A.A.5
+
+2.A.A.6. gi-gu₃-na-ke₄ e₂ kug lu₂-erim₂-e abzu [...]
+#lem: giguna[high sacred terrace]; e[house]; kug[purify]; luʾerim[evildoer]; Eʾabzu[1]; X
+#tr.en: At the @fsux{giguna} shrine, the sacred house, evildoers ……. The @wTN{E-unir} -- the shrine raises its head as high as heaven. 
+#etcsl: line-id=2.A.A.6
+
+2.A.A.7. e₂-u₆-nir eš₃ an-gin₇ saŋ-bi mu-un-il₂ ŋissu-[bi ...]
+#lem: Eunir[1]TN; eš[shrine]; an[sky]; saŋ[head]; il[raise]; ŋissu[shade]; X
+#tr.en: Its shadow ……. 
+#etcsl: line-id=2.A.A.7
+
+2.A.A.8. kan₄ gu-la kan₄ igi piriŋ-ŋa₂ ki nam-tar-ra lu₂-erim₂-[e] {ŋiš}ig-bi izi ba-ab-[šum₂]
+#lem: kan[gate]; gal[big]; kan[gate]; igi[eye]; piriŋ[lion]; ki[place]; namtar[fate]; luʾerim[evildoer]; ig[door]; izi[fire]; šum[give]
+#tr.en: At the great gate, the lion-faced gate, the place where fates are determined, evildoers ……. 
+#etcsl: line-id=2.A.A.8
+
+2.A.A.9. {d}ka-he₂-ŋal₂ {d}igi-he₂-ŋal₂-e i₃-du₈ e₂-a X [...]
+#lem: Kaheŋala[1]DN; Igiheŋala[1]DN; idu[doorkeeper]; e[house]; X; X
+#tr.en: They set fire to its door. @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. 
+#etcsl: line-id=2.A.A.9
+
+2.A.A.10. [...] X {d}en-ki-ke₄ ki X X X A ŋeštug₂ uŋ₃-bi [...]
+#lem: X; X; Enkik[1]DN; ki[place]; X; X; X; X; ŋeštug[ear]; uŋ[people]; X
+#tr.en: …… @wDN{Enki}, at the …… place, 
+#etcsl: line-id=2.A.A.10
+
+2.A.A.11. [...] du ki ha-[lam] abzu me {d}a-nun-[na ...]
+#lem: X; ŋen[go]; ki[place]; halam[forsake]; abzu[(cosmic) underground water]; me[Being]; Anunak[1]DN; X
+#tr.en: …… its people. …… the destroyed place, the @wTN{Abzu} …… the powers of the @wDN{Anuna} gods. 
+#etcsl: line-id=2.A.A.11
+
+2.A.A.12. [...]-bi# bi₂-ib₂-de₂-a kalam-ma [...]
+#lem: X; de[pour]; kalam[the Land (of Sumer)]; X
+#etcsl: line-id=2.A.A.12
+
+2.A.A.13. [...] X-gin₇ ŋiš GA BA [...]
+#lem: X; X; ŋeš[tree]; X; X; X
+#etcsl: line-id=2.A.A.13
+
+2.A.A.14. [...] X šag₄ iri X [...]
+#lem: X; X; šag[heart]; iri[city]; X; X
+#etcsl: line-id=2.A.A.14
+
+$ (unknown no. of lines missing)
+$ (note@c226.gap2!c226.n6: continuation of 3rd kirugu)
+@end kirugu
+
+@end segment
+
+@div segment B
+
+@div kirugu A
+
+2.B.A.1. eridug{ki}-ga# [...]
+#lem: Eridug[1]SN; X
+#tr.en: @wSN{Eridug} ……. 
+#etcsl: line-id=2.B.A.1
+
+2.B.A.2. iri ŋiš-gi NE [...]
+#lem: iri[city]; ŋešgi[thicket]; X; X
+#tr.en: City in the reedbeds ……. 
+#etcsl: line-id=2.B.A.2
+
+2.B.A.3. eridug{ki}-ga gud-ab₂ [...]
+#lem: Eridug[1]SN; gudabak[breed bull]; X
+#tr.en: In @wSN{Eridug}, young bulls ……. 
+#etcsl: line-id=2.B.A.3
+
+2.B.A.4. šah₂ ŋiš-gi nu-me-[a ...]
+#lem: šah[pig]; ŋešgi[thicket]; me[be]; X
+#tr.en: Without being a marsh boar ……. 
+#etcsl: line-id=2.B.A.4
+
+2.B.A.5. eridug{ki}-ga gud-gin₇ X [...]
+#lem: Eridug[1]SN; gud[bull]; X; X
+#tr.en: @wSN{Eridug}, like a bull ……. 
+#etcsl: line-id=2.B.A.5
+
+2.B.A.6. nin iri-ke₄ e₂-ŋu₁₀ IM X [...] X X [...]
+#lem: nin[lady]; iri[city]; e[house]; X; X; X; X; X; X
+#tr.en: The lady of the city cried, @q[Damgalnuna,]{“My city ……!”} 
+#etcsl: line-id=2.B.A.6
+
+@div trailer 
+
+2.B.A.7. ki-ru-gu₂ 3-[kam]-ma-[am₃]
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 3rd @fsux{kirugu}. 
+#etcsl: line-id=2.B.A.7
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal B
+
+2.B.B.8. a-a {d}en-ki a e₂-zu a iri-zu a nam-lu₂-ulu₃-zu kur-ra [...]
+#lem: aya[father]; Enkik[1]DN; aya[cry]; e[house]; aya[cry]; iri[city]; aya[cry]; namlulu[humanity]; kur[mountain(s)]; X
+#tr.en: Father @wDN{Enki}! O your house, O your city, O your people …… the mountains. 
+#etcsl: line-id=2.B.B.8
+
+@div trailer 
+
+2.B.B.9. ŋiš-gi₄-ŋal₂-bi-[im]
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=2.B.B.9
+
+@end trailer
+
+@end ŋišgiŋal
+
+@end segment
+
+@end version
+
+
+
+
+
+
+

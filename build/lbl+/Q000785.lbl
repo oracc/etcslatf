@@ -1,0 +1,82 @@
+&Q000785
+
+{1 = 1-3}
+9=1.	There were three friends, citizens of @wSN{Adab}, 
+13=2.	who fell into a dispute with each other, and sought justice. 
+17=3.	They deliberated the matter with many words, and went before the king. 
+
+{4 = 4-13}
+21=4.	@q[three ox-drivers,king]{“Our king! We are ox-drivers. The ox belongs to one man, the cow belongs to one man, 
+25=5.	and the waggon belongs to one man. We became thirsty and had no water. We said to the owner of the ox, 
+29=6.	@q[two ox-drivers,owner of the ox]{“If you were to fetch some water, then we could drink!”}. And he said, @q[owner of the ox,two ox-driver]{“What if my ox is devoured by a lion? 
+33=7.	I will not leave my ox!”}. We said to the owner of the cow, @q[two ox-drivers,owner of the cow]{“If you were to fetch some water, 
+37=8.	then we could drink!”}. And he said, @q[owner of the cow,two ox-drivers]{“What if my cow went off into the desert? 
+41=9.	I will not leave my cow!”}. We said to the owner of the waggon, @q[two ox-drivers,owner of the waggon]{“If you were to fetch some water, 
+45=10.	then we could drink!”}. And he said, @q[owner of the waggon,two ox-drivers]{“What if the load were removed from my waggon? 
+49=11.	I will not leave my waggon!”}. @q[three ox-drivers,self]{“Come on, let's all go! 
+53=12.	Come on, 
+57=13.	and let's return together!”}”} 
+
+{14 = 14-15}
+61=14.	@q{“First the ox, although tied with a leash (?), mounted the cow, and then she dropped her young, and the calf started to chew up (?) the waggon's load. 
+65=15.	Who does this calf belong to? Who can take the calf?”} 
+
+{16 = 16-17}
+69=16.	The king did not give them an answer, but went to visit a cloistered lady. 
+73=17.	The king sought advice from the cloistered lady: 
+
+{18 = 18-28}
+77=18.	@q[king,cloistered lady]{“Three young men came before me and said: @q[three ox-drivers,king]{“Our king, we are ox-drivers. The ox belongs to one man, 
+81=19.	the cow belongs to one man, and the waggon belongs to one man. We became thirsty and had no water. 
+85=20.	We said to the owner of the ox, @q[two ox-drivers,owner of the ox]{“If you were to draw some water, 
+89=21.	then we could drink!”}. And he said, @q[owner of the ox,two ox-drivers]{“What if my ox is devoured by a lion? 
+93=22.	I will not leave my ox!”}. We said to the owner of the cow, 
+97=23.	@q[two ox-drivers,owner of the cow]{“If you were to draw some water, then we could drink!”}. And he said, 
+101=24.	@q[owner of the cow,two ox-drivers]{“What if my cow went off into the desert? 
+105=25.	I will not leave my cow!”}. We said to the owner of the waggon, 
+109=26.	@q[two ox-drivers,owner of the waggon]{“If you were to draw some water, then we could drink!”}. And he said, 
+113=27.	@q[owner of the waggon,two ox-drivers]{“What if the load were removed from my waggon? I will not leave my waggon!”} 
+117=28.	he said. @q[three ox-drivers,self]{“Come on, let's all go! Come on, and let's return together!”}”}”} 
+
+{29 = 29-30}
+121=29.	@q{“@q{“First the ox, although tied with a leash (?), mounted the cow, and then she dropped her young, and the calf started to chew up (?) the waggon's load. 
+125=30.	Who does this calf belong to? Who can take the calf?”}”} 
+
+{65 = 65-72}
+130=65.	@q[cloistered lady,king]{“Well now, the owner of the ox, …… his field ……. 
+134=66.	After his ox has been eaten by a lion ……, 
+138=67.	his field …….”} 
+$ (@gap{1 line missing}) 
+143=69.	@q{“The hero ……. 
+147=70.	Like a mountaineer ……. 
+151=71.	A dog …… the ox ……. 
+155=72.	A strong man (?) …… in his field …….”} 
+
+{73 = 73-80}
+159=73.	@q{“Well now, the owner of the cow …… his wife. 
+163=74.	After his cow has gone off into the desert ……, 
+167=75.	his wife will walk the streets ……. After the cow has dropped its young ……, 
+171=76.	the hero, walking in the rain (?)……. His wife …… herself. 
+175=77.	The ox's food ration which he has turned to his ……, 
+179=78.	…… hunger. 
+183=79.	His wife dwells with him in his house, 
+187=80.	his desired one ……”} 
+
+{81 = 81-88}
+191=81.	@q{“Well now, the owner of the waggon, after he has abandoned his ……, 
+195=82.	and the load has been removed from his waggon, and …… from his waggon, 
+199=83.	and after he has brought his …… into his house, …… will be made to leave his house. 
+203=84.	His calf that began to chew up (?) the waggon's load will be …… in his house. 
+207=85.	When he has approached (?) …… the open-armed (?) hero, the king, having learnt about his case, 
+214=86.	will make his …… leave his @varh[t565.v1]{waste ground } @vart[t565.v2,t565.v1]{@varn{1 ms. has instead:} location }. …… the ox, 
+221=87.	…… has partaken of my (?) wisdom, shall not oppose (?) it. His load, ……, 
+225=88.	will not return (?).”} 
+
+{89 = 89-95}
+229=89.	When the king came out from the cloistered lady's presence, 
+233=90.	each (?) man's heart was dissatisfied. The man who hated his wife left his wife. 
+237=91.	The man …… his …… abandoned his ……. 
+241=92.	With elaborate words, with elaborate words, 
+245=93.	the case of the citizens of @wSN{Adab} was settled. 
+249=94.	@wDN{Pa-niŋin-ŋara}, their sage, the scholar, 
+253=95.	the god of @wSN{Adab}, was the scribe. 

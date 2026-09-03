@@ -1,6 +1,7 @@
 #include <oraccsys.h>
 #include "lb.h"
 
+#if 0
 static int
 find_and(Par *p, const char **s, int *w)
 {
@@ -8,6 +9,9 @@ find_and(Par *p, const char **s, int *w)
   for (i = 0; i < p->nsegs; ++i)
     {
       const char *o = p->segs[i]->o;
+      /* prevent matching at start of segment */
+      while (isspace(*o))
+	++o;
       const char *and = strstr(o, " and ");
       if (and && and < p->segs[i]->c)
 	{
@@ -27,6 +31,7 @@ find_and(Par *p, const char **s, int *w)
     }
   return -1;
 }
+#endif
 
 int
 find_longest(Par *p, const char **s, int *w)
@@ -132,9 +137,13 @@ lb_split_segs(Memo *segmem, Par *p)
     {
       const char *split = NULL;
       int w;
-      int splitme = find_and(p, &split, &w);
+
+      int splitme = 0;
+#if 0
+      splitme = find_and(p, &split, &w);
       if (splitme < 0)
-	splitme = find_longest(p, &split, &w);
+#endif
+      splitme = find_longest(p, &split, &w);
       if (splitme >= 0)
 	{
 	  /* Make room for the new seg at splitme+1 by moving rest of
@@ -164,6 +173,7 @@ lb_split_segs(Memo *segmem, Par *p)
 	  p->segs[splitme+1]->p = p;
 
 	  ++p->nsegs;
+	  ++p->nlabs;
 	}
       else
 	{

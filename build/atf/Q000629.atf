@@ -1,0 +1,330 @@
+&Q000629 = A balbale to Inana as Nanaya (Inana H)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.07.8
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.8&display=Crit&charenc=gcirc#
+
+@div version 1 (Version A)
+
+1.1. an-na tum₂-ma X [...]
+#lem: An[1]DN; tum[suitable]; X; X
+#tr.en: @q[Farmer,Nanaya]{“Worthy of @wDN{An}, ……, 
+#etcsl: line-id=1.1
+
+1.2. X AN X X nam-nin-e dib# [X X]
+#lem: X; X; X; X; namnin[ladyship]; dib[pass]; X; X
+#tr.en: …… unsurpassed in ladyship, 
+#etcsl: line-id=1.2
+
+1.3. {ŋiš}gu-za nitah e₂-a X [...]
+#lem: guza[chair]; nita[male]; e[house]; X; X
+#tr.en: a throne …… a man in the house, 
+#etcsl: line-id=1.3
+
+1.4. {ŋiš}gu-za munus pa-pah X [...]
+#lem: guza[chair]; munus[woman]; papah[cella]; X; X
+#tr.en: a throne …… a woman in the shrine, 
+#etcsl: line-id=1.4
+
+1.5. ŋiš-SAL-BUR₂ kug-sig₁₇ tug₂-ga DU# [...]
+#lem: ŋeš.SAL.BUR₂[dress ornament]; kugsig[gold]; tug[textile]; X; X
+#tr.en: a gold ornament …… on the dress, 
+#etcsl: line-id=1.5
+
+1.6. {ŋiš}dala₂ HA-i-zi {tug₂}niŋ₂-lam₂ X [...]
+#lem: dala[thorn]; X; niŋlam[garment]; X; X
+#tr.en: a …… pin …… the @fsux{niŋlam} garment.”} 
+#etcsl: line-id=1.6
+
+1.7. X [...] X ZA X GA aŋ₂ ga-[...]
+#lem: X; X; X; X; X; X; aŋ[measure]; X
+#tr.en: @q{“Let me …… on your …… -- @wDN{Nanaya}, 
+#etcsl: line-id=1.7
+
+1.8. {d}na-[na-a ...] X-bi dug₃-ga-am₃#
+#lem: Nanaya[1]DN; X; X; dug[good]
+#tr.en: its …… is good. 
+#etcsl: line-id=1.8
+
+1.9. gaba-za X X X X X X X
+#lem: gaba[breast]; X; X; X; X; X; X; X
+#tr.en: Let me (?) …… on your breast -- @wDN{Nanaya}, 
+#etcsl: line-id=1.9
+
+1.10. {[d]}na-na-a zid₂-kukkuš-bi ku₇-ku₇-da
+#lem: Nanaya[1]DN; zidkukkuš[flour]; kud[sweet]
+#tr.en: its …… flour is sweet. 
+#etcsl: line-id=1.10
+
+1.11. en₃-dur-za HA-izi ga-ba-ni-ib-sig₁₀
+#lem: endur[navel]; X; sig[put into]
+#tr.en: Let me put …… on your navel -- @wDN{Nanaya}, 
+#etcsl: line-id=1.11
+
+1.12. {d}na-na-a a a GA GUL-am₃
+#lem: Nanaya[1]DN; a[water]; a[water]; X; X
+#tr.en: ……. Come with me, 
+#etcsl: line-id=1.12
+
+1.13. ŋen-ma-da nin-ŋu₁₀ ŋen-ma-da
+#lem: ŋen[go]; nin[lady]; ŋen[go]
+#tr.en: my lady, come with me, 
+#etcsl: line-id=1.13
+
+1.14. ka pa-pah-a-ta ŋen-ma-da
+#lem: kag[mouth]; papah[cella]; ŋen[go]
+#tr.en: come with me from the entrance to the shrine. 
+#etcsl: line-id=1.14
+
+1.15. [...] X [...] X du₃ ha-ba-ra-ab-TU-X X^1^^2^
+#lem: X; X; X; X; du[build]; X; X
+#tr.en: May …… for you. 
+#etcsl: line-id=1.15
+
+#etcsl#ms ^1^ ms. a omits l. 15
+
+@variants
+
+#etcsl#ms ^2^ ms. c adds 1 line:
+1.15A. ŋen nin₉ ki aŋ₂-ŋu₁₀ šag₄-ŋu₁₀ he₂-em-hul₂-le
+#lem: ŋen[go]; nin[sister]; ki[place]; aŋ[measure]; šag[heart]; hul[rejoice]
+#tr.en: @vart[t4078.v1,t4078.v1]{@varn{ms. c adds 1 line:} Come my beloved sister, let my heart rejoice. }”} 
+#etcsl: line-id=1.15A
+
+@endvariants
+1.16. šu-zu munus-am₃ ŋiri₃-zu munus-am₃
+#lem: šu[hand]; munus[woman]; ŋiri[foot]; munus[woman]
+#tr.en: @q{“Your hand is womanly, your foot is womanly. 
+#etcsl: line-id=1.16
+
+#etcsl#ms ms. a omits l. 16
+
+1.17. inim lu₂-da bal-e-zu munus-am₃
+#lem: inim[word]; lu[person]; bala[turn]; munus[woman]
+#tr.en: Your conversing with a man is womanly. 
+#etcsl: line-id=1.17
+
+1.18. igi lu₂-ra bar-re-zu munus-am₃
+#lem: igi[eye]; lu[person]; bar[place outside]; munus[woman]
+#tr.en: Your looking at a man is womanly. 
+#etcsl: line-id=1.18
+
+@variants
+
+#etcsl#ms ms. c adds 4 lines:
+1.18A. šu lu₂-ra [...] X-zu munus-am₃
+#lem: šu[hand]; lu[person]; X; X; munus[woman]
+#tr.en: @vart[t4078.v2,t4078.v2]{@varn{ms. c adds 4 lines:} Your …… a hand towards a man is womanly. Your …… a foot is womanly. Your …… forearm makes my heart rejoice. Your …… a foot brings me pleasure. } As you rest against the wall, your patient heart pleases. 
+#etcsl: line-id=1.18A
+
+1.18B. ŋiri₃ X [...] munus-am₃
+#lem: ŋiri[foot]; X; X; munus[woman]
+#tr.en: As you bend over, your hips are particularly pleasing.”} 
+#etcsl: line-id=1.18B
+
+1.18C. a₂-diš-kuš₃# [...]-zu šag₄ im-hul₂-le
+#lem: akuš[forearm]; X; šag[heart]; hul[rejoice]
+#etcsl: line-id=1.18C
+
+1.18D. ŋiri₃ GAG X [...]-zu ur₅ im-mi-in-sag₉
+#lem: ŋiri[foot]; X; X; X; ur[liver]; sag[good]
+#etcsl: line-id=1.18D
+
+@endvariants
+1.19. zag e₂-ŋar₈-da gub-bu šag₄ sud-zu i₃-sag₉
+#lem: zag[side]; egar[wall]; gub[stand]; šag[heart]; sud[distant]; sag[good]
+#etcsl: line-id=1.19
+
+#etcsl#ms ms. c transposes lines 19 and 20
+
+1.20. gam-e-de₃ ib₂-ib₂ i₃-sag₉-sag₉
+#lem: gurum[bend]; ib[hips]; sag[good]
+#etcsl: line-id=1.20
+
+@variants
+
+#etcsl#ms mss. a and c add 2 lines:
+1.20A. e₂-ŋar₈-da gub-bu-ŋu₁₀ 1(DIŠ) sila₄-am₃
+#lem: egar[wall]; gub[stand]; n; sila[lamb]
+#tr.en: @q[Nanaya,Farmer]{“ @vart[t4078.v3,t4078.v3]{@varn{mss. a and c add 2 lines:} My resting against the wall is one lamb. My bending over is one and a half @fsux{giŋ}. } Do not dig a canal, let me be your canal. 
+#etcsl: line-id=1.20A
+
+1.20B. gam-e-ŋu₁₀ 1 1/2 giŋ₄-am₃
+#lem: gurum[bend]; n; n; giŋ[unit of weight]
+#tr.en: Do not plough a field, let me be your field. 
+#etcsl: line-id=1.20B
+
+@endvariants
+1.21. id₂ na-an-ba-al-le id₂-zu he₂-me-en
+#lem: id[river]; bal[dig]; id[river]; me[be]
+#tr.en: Farmer, 
+#etcsl: line-id=1.21
+
+1.22. a-šag₄ na-an-ur₁₁-ru a-šag₄-zu he₂-me-en
+#lem: ašag[field]; uru[sow]; ašag[field]; me[be]
+#tr.en: do not search for a wet place, 
+#etcsl: line-id=1.22
+
+1.23. %e mu-un-gar₃ %s ki duru₅ na-an-kiŋ₂-kiŋ₂-e
+#lem: mungar[farmer]N; ki[place]; duru[wet]; kiŋ[seek]
+#tr.en: my precious sweet, let this be your wet place. 
+#etcsl: line-id=1.23
+
+1.24. %e [ze₂]-ba# %s kal-la-ŋu₁₀ ki duru₅-zu he₂-am₃
+#lem: zeb[good]V/i; kal[rare]; ki[place]; duru[wet]; me[be]
+#tr.en: ……, let this be your furrow. 
+#etcsl: line-id=1.24
+
+1.25. [...] X-e ab-sin₂-zu he₂-am₃
+#lem: X; X; absin[furrow]; me[be]
+#tr.en: ……, let this be your desire! 
+#etcsl: line-id=1.25
+
+1.26. X tur-tur-me aš₂-zu he₂-am₃
+#lem: X; tur[small]; aʾaš[requirement]; me[be]
+#tr.en: Caring for ……, 
+#etcsl: line-id=1.26
+
+1.27. a-na UN X zur-zur-re
+#lem: ana[what?]; X; X; zur[take care of]
+#tr.en: I come ……. 
+#etcsl: line-id=1.27
+
+1.28. a-na KA ki-gub ba-du-un
+#lem: ana[what?]; X; kigub[station]; du[go]
+#tr.en: I come …… with bread and wine.”} 
+#etcsl: line-id=1.28
+
+1.29. a-na UN ninda ŋeštin-da ba-da-du-du-un
+#lem: ana[what?]; X; ninda[bread]; ŋeštin[vine]; du[go]
+#etcsl: line-id=1.29
+
+1.30. ninda ŋeštin-da ma-da-du-du-nam
+#lem: ninda[bread]; ŋeštin[vine]; ŋen[go]
+#tr.en: @q[Farmer,Nanaya]{“You come to me with bread and wine. Come, 
+#etcsl: line-id=1.30
+
+1.31. ŋen nin₉ ki aŋ₂-ŋu₁₀ šag₄-bi ga-am₃-mi-ib-X
+#lem: ŋen[go]; nin[sister]; ki[place]; aŋ[measure]; šag[heart]; X
+#tr.en: my beloved sister, let me …… this heart. 
+#etcsl: line-id=1.31
+
+1.32. {d}na-na-a ne ge₄-su-ub
+#lem: Nanaya[1]DN; ne[cvne]; sub[rub]
+#tr.en: @wDN{Nanaya}, let me kiss you.”} 
+#etcsl: line-id=1.32
+
+@div trailer 
+
+1.33. bal-bal-e (1:{d}na-na-a-kam:1)
+#lem: balbale[literary subscript]; Nanaya[1]DN
+#tr.en: A @fsux{balbale} of @varh[t4078.v4]{@wDN{Nanaya} } @vart[t4078.v5,t4078.v4]{@varn{ms. a has instead:} @wDN{Inana} }. 
+#etcsl: line-id=1.33
+
+:33v.1.1: ($ms. a has instead:$) {d}inana-X-[...]
+#lem: Inanak[1]DN
+
+@end trailer
+
+@end version
+
+@div version 2 (Version B)
+
+@div segment A
+
+$ (unknown no. of lines missing)
+2.A.1. [en₃]-dur#-za HA-[izi ...]
+#lem: endur[navel]; X; X
+#tr.en: @q[,Nanaya]{“…… on your navel. 
+#etcsl: line-id=2.A.1
+
+2.A.2. nin₉# e %e ze₂-ba-ŋu₁₀ %s [...]
+#lem: nin[sister]; e[princely?]; zeb[good]V/i; X
+#tr.en: My sweet illustrious sister, ……. 
+#etcsl: line-id=2.A.2
+
+2.A.3. murgu-za X MU [...]
+#lem: murgu[shoulder]; X; X; X
+#tr.en: On your back ……. 
+#etcsl: line-id=2.A.3
+
+2.A.4. nin₉ e-ŋu₁₀ šu [...]
+#lem: nin[sister]; e[princely?]; šu[hand]; X
+#tr.en: My illustrious sister, …… hand. 
+#etcsl: line-id=2.A.4
+
+2.A.5. gal₄-la-za sar-ra [...]
+#lem: gala[female genitals]; sar[garden]; X
+#tr.en: In your vagina …… the gardens. 
+#etcsl: line-id=2.A.5
+
+2.A.6. {d}na-na-a LI# [...]
+#lem: Nanaya[1]DN; X; X
+#tr.en: @wDN{Nanaya}, ……. 
+#etcsl: line-id=2.A.6
+
+2.A.7. gu-du-za a-šag₄ [...]
+#lem: gudu[buttocks]; ašag[field]; X
+#tr.en: In your anus …… the fields. 
+#etcsl: line-id=2.A.7
+
+2.A.8. nin₉ e-ŋu₁₀ bur₃ gana₂# [...]
+#lem: nin[sister]; e[princely?]; bur[unit of area]; gana[field]; X
+#tr.en: My illustrious sister, …… the acres. 
+#etcsl: line-id=2.A.8
+
+2.A.9. ŋen-ma#-da nin₉-ŋu₁₀ [...]
+#lem: ŋen[go]; nin[sister]; X
+#tr.en: Come to me, my sister, …….”} 
+#etcsl: line-id=2.A.9
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+2.B.1. X X [...]
+#lem: X; X; X
+#tr.en: $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=2.B.1
+
+2.B.2. ŋen nin₉ ki aŋ₂#-[ŋu₁₀ ...]
+#lem: ŋen[go]; nin[sister]; ki[place]; aŋ[measure]; X
+#tr.en: @q[,Nanaya]{“Come, my beloved sister, …….”} 
+#etcsl: line-id=2.B.2
+
+2.B.3. a-na KA nam [...]
+#lem: ana[what?]; X; nam[fate]; X
+#tr.en: $ (@gap{4 lines fragmentary}) 
+#etcsl: line-id=2.B.3
+
+2.B.4. a-na KA nam# [...]
+#lem: ana[what?]; X; nam[fate]; X
+#tr.en: @q[,Nanaya]{“Sister, …….”} 
+#etcsl: line-id=2.B.4
+
+2.B.5. a-na KA nam# [...]
+#lem: ana[what?]; X; nam[fate]; X
+#etcsl: line-id=2.B.5
+
+2.B.6. a-na KA nam# [...]
+#lem: ana[what?]; X; nam[fate]; X
+#etcsl: line-id=2.B.6
+
+2.B.7. nin₉ X X [...]
+#lem: nin[sister]; X; X; X
+#etcsl: line-id=2.B.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@end version
+
+
+
+
+
+
+

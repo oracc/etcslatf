@@ -1,0 +1,147 @@
+&Q000686 = A hymn to Nanna
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.a
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.a&display=Crit&charenc=gcirc#
+
+1. nam₂ nun-e saŋ-kal e₂-kur-ra ni₂# X [...]
+#lem: nam[lord]; nun[prince]; saŋkal[foremost]; Ekur[1]TN; ni[fear]; X; X
+#tr.en: Princely lord, foremost in the @wTN{E-kur}, …… fearsomeness! @wDN{Suen}, beneficent one of @wDN{Enlil}, …… the living! Cornelian calf, adorned with beauty, …… brilliance! …… prince whose forehead flourishes and whose countenance ……! @wDN{Suen}, warrior possessing great strength whose solidity ……, ……, radiance in (?) the pure heavens, …… fear over the broad earth, making …… manifest among the gods, ……, …… greatly ……, …… in heaven and on earth ……, $ (@gap{4 lines fragmentary}) 
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 6, line 47; OB catalogue in the Louvre, 0.2.02, line 6; OB catalogue from Urim (U2), 0.2.04, line 23
+
+2. {d}suen-e zi-le {d}en-lil₂-la₂ zi-ŋal₂ [...]
+#lem: Suen[1]DN; zil[good]; Enlil[1]DN; ziŋal[living things]; X
+#etcsl: line-id=2
+
+3. amar gug hi-li šu tag-ga su₃-ra₂-aŋ₂# [...]
+#lem: amar[calf]; gug[carnelian]; hili[attractiveness]; šu[hand]; tag[touch]; sudaŋ[precious metal or material (possibly amber)]; X
+#etcsl: line-id=3
+
+4. nun X-aš {{%akk i-na}} saŋ-ki-bi lum-lum muš₃-bi X [...]
+#lem: nun[prince]; X; L; saŋki[forehead]; lum[fruit]; muš[face]; X; X
+#etcsl: line-id=4
+
+5. {[d]}suen#-e ur-saŋ ne₃ gal tuku nam-gur₄-bi [...]
+#lem: Suen[1]DN; ursaŋ[warrior]; ne[strength]; gal[big]; tuku[acquire]; namgur[thickness]; X
+#etcsl: line-id=5
+
+6. [...] utah#-he sikil i-lim ki daŋal-la ni₂ te A [...]
+#lem: X; utah[heaven]; sikil[purify]; ilim[radiance]; ki[place]; daŋal[wide]; ni[fear]; teŋ[approach]; X; X
+#etcsl: line-id=6
+
+7. [...] diŋir-re-e-ne pa e₃ [...]
+#lem: X; diŋir[deity]; pa[branch]; e[leave]; X
+#etcsl: line-id=7
+
+8. [...] gal-le-eš IGI X X ($illegible gloss$) [...]
+#lem: X; gal[big]; X; X; X; X
+#etcsl: line-id=8
+
+9. [...] X te-bi an ki-a kur₂ [...]
+#lem: X; X; teŋ[approach]; an[sky]; ki[place]; kur[alienate]; X
+#etcsl: line-id=9
+
+10. [...] til₃-la-bi saŋ X [...]
+#lem: X; til[live (of a single person)]; saŋ[head]; X; X
+#etcsl: line-id=10
+
+11. [...]-da mi-ni#-[...]
+#lem: X; X
+#etcsl: line-id=11
+
+12. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=12
+
+13. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=13
+
+14. [...] nam#-te X [...]
+#lem: X; namte[fear]; X; X
+#tr.en: @q[Suen,Ninlil]{“  $ (@gap{2 lines fragmentary}) 
+#etcsl: line-id=14
+
+15. [...] X nam-ŋu₁₀ nu-mu-un-[...]
+#lem: X; X; nam[fate]; X
+#tr.en: ……. In fear (?) of my lordship and greatness ……. 
+#etcsl: line-id=15
+
+16. X {d}en-lil₂#-la₂-me-en mu mu-un-gen₆ i₃-pad₃-de₃ [...]
+#lem: X; Enlil[1]DN; mu[name]; gin[confirm]; pad[find]; X
+#tr.en: O my mother, speak to my father ……, 
+#etcsl: line-id=16
+
+17. ni₂ nam-en-nam nam-gal-la-ka mu dug₃ nu-pad₃-de₃ nam-gal [...]
+#lem: ni[fear]; namen[the office of en-priest]; namgal[greatness]; mu[name]; dug[good]; pad[find]; namgal[greatness]; X
+#tr.en: speak to the Great Mountain @wDN{Enlil} ……. Like the god, 
+#etcsl: line-id=17
+
+18. ama-ŋu₁₀ a-a-ŋu₁₀-ur₂ dug₄-ga-na-ab nam-X [...]
+#lem: ama[mother]; aya[father]; dug[speak]; X; X
+#tr.en: my brother, …….”} 
+#etcsl: line-id=18
+
+19. kur gal {d}en-lil₂-ra dug₄-ga-na-ab# [...]
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; dug[speak]; X
+#etcsl: line-id=19
+
+20. diŋir šeš-ŋu₁₀-gin₇ nam-GIŠGAL nam#-[...]
+#lem: diŋir[deity]; šeš[brother]; X; X
+#etcsl: line-id=20
+
+21. ama-a-ni {d}nin-lil₂-le nitalam X [...]
+#lem: ama[mother]; Ninlil[1]DN; ŋidlam[(equal ranking) spouse]; X; X
+#tr.en: His mother @wDN{Ninlil} spoke (?) to her spouse, 
+#etcsl: line-id=21
+
+22. kur gal {d}en-lil₂-ra inim-ma mi-ni#-[...]
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; inim[word]; X
+#tr.en: she addressed her words to the Great Mountain @wDN{Enlil}: 
+#etcsl: line-id=22
+
+23. %e mu-ud-na-ŋu₁₀ %s dumu-zu {d}suen-e [...]
+#lem: mudna[spouse]N; dumu[child]; Suen[1]DN; X
+#tr.en: @q[Ninlil,Enlil]{“O my spouse, your son @wDN{Suen} ……. 
+#etcsl: line-id=23
+
+24. %e du₅-mu %s zi-le i-lu %e ša₃-ba %s nam# [...]
+#lem: dumu[child]N; zil[good]; ilu[lament]; šab[heart]; nam[fate]; X
+#tr.en: The beneficent son, the song of the heart, 
+#etcsl: line-id=24
+
+25. u₃-tud ama ab-a za-e mu-un-X X [...]
+#lem: utud[give birth (to)]; ama[mother]; abba[father]; zaʾe[you]; X; X; X
+#tr.en: ……. You …… born of mother and father, 
+#etcsl: line-id=25
+
+26. nun ka silim e₂-kur-ra lum-lum ki-ur₃-ra# [...]
+#lem: nun[prince]; kag[mouth]; silim[healthy]; Ekur[1]TN; lum[fruit]; Kiʾur[1]; X
+#tr.en: ……. Prince, glory of the @wTN{E-kur}, 
+#etcsl: line-id=26
+
+27. %e mu-nu₁₂ %s ab₂ X [...]
+#lem: munud[herdsman]; ab[cow]; X; X
+#tr.en: fruitful one of the @wTN{Ki-ur} ……, 
+#etcsl: line-id=27
+
+28. {d}suen-e X [...]
+#lem: Suen[1]DN; X; X
+#tr.en: the cowherd …… cows, @wDN{Suen} ……, 
+#etcsl: line-id=28
+
+29. %e du₅-mu %s nun [...]
+#lem: dumu[child]N; nun[prince]; X
+#tr.en: the princely son …….”} 
+#etcsl: line-id=29
+
+
+
+
+
+
+

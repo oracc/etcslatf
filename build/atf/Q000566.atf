@@ -1,0 +1,266 @@
+&Q000566 = Letter from Sîn-iddinam to the god Utu
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.2.05
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.05&display=Crit&charenc=gcirc#
+
+1. {d}utu lugal-ŋu₁₀-ur₂ di-kud mah# an ki
+#lem: Utu[1]DN; lugal[king]; dikud[judge]; mah[great]; an[sky]; ki[place]
+#tr.en: Say to @wDN{Utu} my lord, the exalted judge of heaven and earth, who cares for the Land, who renders verdicts; just god, who loves to keep man alive, who heeds entreaty, who extends mercy, who knows …… compassion, who loves justice, who selects honesty, ……: 
+#etcsl: line-id=1
+
+2. saŋ en₃# tar kalam-ma ka-aš mu-un#-bar-bar-re
+#lem: saŋ[head]; en[cvne]; tar[cut]; kalam[the Land (of Sumer)]; kaš[decision]; bar[place outside]
+#etcsl: line-id=2
+
+3. diŋir zid lu₂ til₃-le-de₃ ki aŋ₂ a-ra-zu ŋiš tuku
+#lem: diŋir[deity]; zid[right]; lu[person]; til[live (of a single person)]; ki[place]; aŋ[measure]; arazu[supplication]; ŋeš[tree]; tuku[acquire]
+#etcsl: line-id=3
+
+4. arhuš sud šag₄# gur#-ru# mu-un-[...]-zu-[...]
+#lem: arhuš[compassion]; sud[distant]; šag[heart]; gur[turn]; zu[know]
+#etcsl: line-id=4
+
+5. niŋ₂-si-sa₂ ki aŋ₂ niŋ₂-zid [bar] tam#-me NE [...] U₃# [...] dug₄
+#lem: niŋsisa[justice]; ki[place]; aŋ[measure]; niŋzid[righteousness]; bar[outside]; tam[clean]; X; X; X; X; dug[speak]
+#etcsl: line-id=5
+
+6. sun₄ mu₂ dumu# {d}nin-gal sun₄ {na₄}za-gin₃ X X X [...]
+#lem: sum[beard]; mu[grow]; dumu[child]; Ningal[1]DN; sum[beard]; zagin[lapis lazuli]; X; X; X; X
+#tr.en: Repeat to the bearded one, the son of @wDN{Ningal}, …… a lapis-lazuli beard, @varh[t3205.v1]{who opens the bolts of heaven and earth } @vart[t3205.v2,t3205.v1]{@varn{1 ms. has instead:} who opens the bolts }, who creates brightness in darkness; foremost lord who alone is resplendent, whose greatness is unequalled; warrior, son given birth by @wDN{Ningal}, who guards and gathers together the divine powers; just god, prince who determines all the fates, my lord, father of the black-headed: this is what @wRN{@wDN{Sîn}-iddinam}, king of @wSN{Larsam}, your servant, says: 
+#etcsl: line-id=6
+
+7. (1:taka₄ la₂ {ŋiš!}si-ŋar an ki:1) ku₁₀-ku₁₀ zalag ŋa₂-ŋa₂#
+#lem: taka[set aside]; la[hang]; siŋar[bolt]; an[sky]; ki[place]; kukkug[dark]; zalag[bright]; ŋar[put]
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) taka₄ si-ŋar
+#lem: taka[set aside]; siŋar[bolt]
+
+8. en saŋ-kal dili-a-ni pa e₃-a nam-mah-a-ni zag nu-sa₂
+#lem: en[lord]; saŋkal[foremost]; dili[single]; pa[branch]; e[leave]; nammah[greatness]; zag[side]; sa[equal]
+#etcsl: line-id=8
+
+9. ur-saŋ dumu {d}nin-gal-e tud-da me saŋ keše₂ ur₄-ur₄
+#lem: ursaŋ[warrior]; dumu[child]; Ningal[1]DN; utud[give birth (to)]; me[Being]; saŋ[head]; kešed[bind]; ur[gather]
+#etcsl: line-id=9
+
+10. diŋir zid nun! nam tar-tar-re a-a saŋ gig₂-ga lugal-ŋu₁₀-ur₂ u₂-na-de₃-tah
+#lem: diŋir[deity]; zid[right]; nun[prince]; nam[fate]; tar[cut]; aya[father]; saŋ[head]; giggig[black]; lugal[king]; tah[add]
+#etcsl: line-id=10
+
+11. {m}{d}suen-i-din-nam lugal larsam{ki}-ma arad-zu na-ab-be₂-a
+#lem: Siniddinam[1]RN; lugal[king]; Larsam[1]SN; arad[slave]; e[speak]
+#etcsl: line-id=11
+
+12. iri-zu larsam{ki}-ma šag₄-ge pad₃-da-zu niŋ₂-gig-ga im-ma-an-ak
+#lem: iri[city]; Larsam[1]SN; šag[heart]; pad[find]; niŋgig[that which is bad]; ak[do]
+#tr.en: Distress has been caused in your city @wSN{Larsam}, which you have chosen in your heart. 
+#etcsl: line-id=12
+
+13. sila daŋal ešemen ud zal-zal-la sig₉-ga (1:im-ma-an-sig₉:1)
+#lem: sila[street]; daŋal[wide]; ešemen[skipping rope]; ud[sun]; zal[pass time]; sig[silent]; sig[put into]
+#tr.en: The broad squares where days have been passed in merriment @varh[t3205.v3]{have been reduced to } @vart[t3205.v4,t3205.v3]{@varn{1 ms. has instead:} are left (?) in } silence. 
+#etcsl: line-id=13
+
+:13v.1.1: ($1 ms. has instead:$) [...]-ŋar
+#lem: ŋar[put]
+
+14. erin₂! sag₉-ga-zu gu₂ ŋar-ŋar-ra gi gi-sig-ga-gin₇ si-il-si-le-de₃ ba#-an-til#-le-eš
+#lem: erin[people]; sag[good]; gu[neck]; ŋar[put]; gi[reed]; gisig[reed fence]; sil[split]; til[complete]
+#tr.en: Your commendable troops who were assembled have been annihilated (?) like reeds from a reed fence splitting apart. 
+#etcsl: line-id=14
+
+15. ŋuruš!-zu še ud a₂-ba-gin₇ ab-gur₁₀ ba-an-šab-eš gurun gibil-gin₇ mu-X-dub₂#-uš
+#lem: ŋuruš[young adult male]; še[barley]; ud[sun]; a[time]; gur[reap]; šab[trim]; gurun[fruit]; gibil[new]; dub[tremble]
+#tr.en: Your young men have been harvested like barley at the due time; they have been picked and have been plucked like ripened fruit (?). 
+#etcsl: line-id=15
+
+16. uŋ₃-ŋa₂ alan im-gin₇ im-ma-an-gul-lu-uš ni₂-bi-a ba-an-til#-[...]
+#lem: uŋ[people]; alan[image]; im[clay]; gul[destroy]; ni[self]; til[complete]
+#tr.en: The people have been smashed like terracotta figurines; they (?) have perished all together. 
+#etcsl: line-id=16
+
+17. di₄-di₄-la₂ ur₂ ama-be₂-ne-ta ud hul ba-an-da-kar#-X X
+#lem: didila[small(er)]; ur[loin]; ama[mother]; ud[storm]; hulu[bad]; kar[flee]; X
+#tr.en: An evil storm took away the little ones from the laps (?) of their mothers. 
+#etcsl: line-id=17
+
+18. uŋ₃-ŋa₂ ŋeštug! HAR-re muš₃-bi ba-an-kur₂ X [...]
+#lem: uŋ[people]; ŋeštug[ear]; X; muš[face]; kur[different]; X; X
+#tr.en: The people ……; their appearance has been (?) changed. 
+#etcsl: line-id=18
+
+19. erin₂ ka₃ an-ša-ša šu# bar-ra-am₃ kalam zid₂-gin₇ |KA×ŠU| e₃# [...]
+#lem: erin[people]; kag[mouth]; šanšaša[cvve]; šu[hand]; bar[place outside]; kalam[the Land (of Sumer)]; zid[flour]; X; e[leave]; X
+#tr.en: Overwhelming troops have been set loose, …… the Land …… like flour. 
+#etcsl: line-id=19
+
+20. šul {d}utu iri-za# larsam{ki}-ma lu₂-kur₂-gin₇ bar-ta ba-da-gub
+#lem: šul[youth]; Utu[1]DN; iri[city]; Larsam[1]SN; lukur[stranger]; bar[outside]; gub[stand]
+#tr.en: O youthful @wDN{Utu}, like an enemy you stand aside from your city @wSN{Larsam}. 
+#etcsl: line-id=20
+
+21. kur elam{ki}-ma X{mušen}-gin₇ mah-bi# lu₂ uš₂-a nu-ŋal₂-la
+#lem: kur[mountain(s)]; Elam[1]GN; X; mah[great]; lu[person]; uš[die]; ŋal[⟦be⟧ to be (there]
+#tr.en: The mountain land of @wGN{Elam} where there are no dead in great numbers (?) like ……, 
+#etcsl: line-id=21
+
+22. su-bir₄{ki} muru₉ dugud-da diŋir-re-e-ne ni₂ teŋ₃-ŋe₂₆ nu-zu#-a
+#lem: Subir[1]GN; muru[rainstorm]; dugud[heavy]; diŋir[deity]; ni[fear]; teŋ[approach]; zu[know]
+#tr.en: and @wGN{Subir}, a heavy cloud, 
+#etcsl: line-id=22
+
+23. ma-da-bi nu-ub-ta-be₄ ud-bi# nu-ŋal₂-la
+#lem: mada[land]; be[diminish]; ud[sun]; ŋal[⟦be⟧ to be (there]
+#tr.en: which knows no reverence even towards the gods -- these districts have not been weakened; 
+#etcsl: line-id=23
+
+24. (1:šimaški-e ki diŋir-re-e-ne-ke₄ nu-gig lukur nu-mu-da-il₂#-e:1)
+#lem: Šimaški[1]GN; ki[place]; diŋir[deity]; nugig[midwife]; lukur[priestess]; il[raise]
+#tr.en: their time has not yet come. 
+#etcsl: line-id=24
+
+:24v.1.1: ($1 ms. has instead:$) šimaški diŋir-ra-ni nu-gig lukur-bi il₂-la nu-mu-un-zu-a
+#lem: Šimaški[1]GN; diŋir[deity]; nugig[midwife]; lukur[priestess]; il[raise]; zu[know]
+:24v.1.2: ($1 other ms. has instead:$) šimaški ki diŋir-re-e-[ne] nu-gig nu-bar!-e nu-[...]
+#lem: Šimaški[1]GN; ki[place]; diŋir[deity]; nugig[midwife]; nubar[female profession]; X
+
+25. erin₂-a-ni u₂-gin₇ lu-lu-a numun-a-ni (1:daŋal-la:1)
+#lem: erin[people]; u[plant(s)]; lu[abundant]; numun[seed]; daŋal[wide]
+#tr.en: @varh[t3205.v5]{The @wEN{Šimaškian} does not elect @fsux{nugig} or @fsux{lukur} priestesses for the places of the gods } @vart[t3205.v6,t3205.v5]{@varn{1 ms. has instead:} The @wEN{Šimaškian} knows neither his god nor those elected @fsux{nugig} and @fsux{lukur} priestesses } @vart[t3205.v7,t3205.v5]{@varn{1 other ms. has instead:} The @wEN{Šimaškian} …… neither the @fsux{nugig} nor the @fsux{nubar} priestesses for the places of the gods }. His soldiers are numerous like grass; 
+#etcsl: line-id=25
+
+:25v.1.1: ($1 ms. has instead:$) he₂-mah
+#lem: mah[great]
+
+26. za-lam-ŋar til₃-la ki diŋir-re-e-ne-ke₄ nu-mu-un-zu-a
+#lem: zalamŋar[tent]; til[live (of a single person)]; ki[place]; diŋir[deity]; zu[know]
+#tr.en: his seed @varh[t3205.v8]{is widespread } @vart[t3205.v9,t3205.v8]{@varn{1 ms. has instead:} is indeed exalted }. He who lives in tents, who does not know of the places of the gods: 
+#etcsl: line-id=26
+
+27. u₂-ma-am-gin₇-nam# u₅-a# (1:zid₂-eša# sizkur₂:1) nu-mu-un-zu-a
+#lem: umamu[beasts]; u[ride]; zideša[flour]; siškur[prayer]; zu[know]
+#tr.en: like a wild beast which mounts, 
+#etcsl: line-id=27
+
+:27v.1.1: ($1 ms. has instead:$) zid₂ sizkur₂ il₂-la
+#lem: zid[flour]; siškur[prayer]; il[raise]
+
+28. nam-tar hul-ŋal₂ a₂-sag₃ niŋ₂-gig-ga (1:nu-mu-un#-na-tum₃:1)
+#lem: Namtar[1]DN; huluŋal[evil]; Asag[1]DN; niŋgig[that which is bad]; tum[bring]
+#tr.en: he knows nothing of @varh[t3205.v10]{@fsux{eša} flour nor prayers } @vart[t3205.v11,t3205.v10]{@varn{1 ms. has instead:} flour and the offering of prayers }. The evil @fsux{namtar} demon and the distressing @fsux{asag} demon @varh[t3205.v12]{have not carried him off (?) } @vart[t3205.v13,t3205.v12]{@varn{1 ms. has instead:} do not approach him }. Who …… a divine oath is committing sacrilege, 
+#etcsl: line-id=28
+
+:28v.1.1: ($1 ms. has instead:$) nu-mu-na-te
+#lem: teŋ[approach]
+
+29. lu₂ mu diŋir sal-la-bi niŋ₂-gig-ga i₃-gu₇#-e ugnim-bi silim-ma
+#lem: lu[person]; mu[name]; diŋir[deity]; sal[thin]; niŋgig[that which is bad]; gu[eat]; ugnim[army]; silim[healthy]
+#tr.en: yet his troops are in good health. 
+#etcsl: line-id=29
+
+30. (1:mu 7-kam-ma-ta# iri-ŋa₂ me₃ šen-šen# la#-ba-an-tuku uš₂ da-bi# nu-ŋa₂-ŋa₂:1)
+#lem: mu[year]; n; iri[city]; me[battle]; šen[battle]; tuku[acquire]; uš[die]; dag[side]; ŋar[put]
+#tr.en: @varh[t3205.v14]{For seven years, in my city there has been no battle and combat, and death (?) has not been imminent (?) } @vart[t3205.v15,t3205.v14]{@varn{1 ms. has instead:} For five years, in my city we have not been extinguished (?) by battle, not oppressed by death }. In the open country the lion @varh[t3205.v16]{does not diminish } @vart[t3205.v17,t3205.v16]{@varn{1 ms. has instead:} …… } devouring men. 
+#etcsl: line-id=30
+
+:30v.1.1: ($1 ms. has instead:$) mu 5-kam#-ma-ta iri{ki#}-ŋa₂! šen-šen-na la-ba-du₈ nam-uš₂-a a₂-bi nu-ŋa₂-ŋa₂
+#lem: mu[year]; n; iri[city]; šen[battle]; du[spread]; namuš[death]; a[arm]; ŋar[put]
+
+31. edin-na ur-mah-e lu₂ gu₇-e (1:nu-mu-ni-ib-la₂-X:1)
+#lem: eden[back]; urmah[lion]; lu[person]; gu[eat]; la[hang]
+#tr.en: I am @varh[t3205.v18]{treated } @vart[t3205.v19,t3205.v18]{@varn{1 ms. has instead:} I have been bound (?) } like one who does not know how to entreat a god fervently. 
+#etcsl: line-id=31
+
+:31v.1.1: ($1 ms. has instead:$) nu-mu-ni-il₂-la₂
+#lem: il[raise]
+
+32. diŋir inim sag₉-sag₉-ge#-de₃ nu-zu-a ŋe₂₆-e (1:im-ma-an-ak-X:1)
+#lem: diŋir[deity]; inim[word]; sag[good]; zu[know]; ŋaʾe[I]; ak[do]
+#tr.en: I serve the great gods daily with prayers, 
+#etcsl: line-id=32
+
+:32v.1.1: ($1 ms. has instead:$) im!-ma-da-keše₂#
+#lem: kešed[bind]
+
+33. diŋir gal-gal-e-ne sizkur₂ ud šu₂-uš-e al-gub-be₂-en inim sag₉-sag₉-ge-ŋu₁₀ mah-am₃#
+#lem: diŋir[deity]; gal[big]; siškur[prayer]; ud[sun]; šuš[cover]; gub[stand]; inim[word]; sag[good]; mah[great]
+#tr.en: and my fervent entreaties are sublime. 
+#etcsl: line-id=33
+
+34. šul {d}utu nam-bi-še₃ iri-zu larsam{ki}-ma igi zid bar-mu-un-ši-ib
+#lem: šul[youth]; Utu[1]DN; nam[fate]; iri[city]; Larsam[1]SN; igi[eye]; zid[right]; bar[place outside]
+#tr.en: O youthful @wDN{Utu}, for that reason look favourably upon your city @wSN{Larsam}! 
+#etcsl: line-id=34
+
+35. a# iri-zu dug₄-ga-ba-ab
+#lem: aya[cry]; iri[city]; dug[speak]
+#tr.en: Say @q{“Alas!”} for your city! 
+#etcsl: line-id=35
+
+36. a eš₃ X X dug₄-ga-ab#
+#lem: aya[cry]; eš[shrine]; X; X; dug[speak]
+#tr.en: Say @q{“Alas for the sanctuary!”} 
+#etcsl: line-id=36
+
+37. arhuš sud# larsam{ki#}-ma šu te-ba-ab
+#lem: arhuš[compassion]; sud[distant]; Larsam[1]SN; šu[hand]; teŋ[approach]
+#tr.en: ……! 
+#etcsl: line-id=37
+
+38. niŋ₂-gig-ga ak-bi en₃ tar-bi-ma
+#lem: niŋgig[that which is bad]; ak[do]; en[cvne]; tar[cut]
+#tr.en: Extend sympathetic compassion to @wSN{Larsam}! 
+#etcsl: line-id=38
+
+39. [...] X X larsam{ki} e₃-ni-ib
+#lem: X; X; X; Larsam[1]SN; e[leave]
+#tr.en: Take heed of the causes of distress, 
+#etcsl: line-id=39
+
+40. [...] X niŋ₂-gig-ga (1:šag₄-bi zig₃-ab-ta:1)
+#lem: X; X; niŋgig[that which is bad]; šag[heart]; zig[rise]
+#tr.en: and make …… leave …… @wSN{Larsam}! 
+#etcsl: line-id=40
+
+:40v.1.1: ($1 ms. has instead:$) šag₄# larsam#{[ki]}-[ma ...]
+#lem: šag[heart]; Larsam[1]SN; X
+
+41. [...] huš#-a šag₄# larsam#{ki}-ma-ka šu# X [...]
+#lem: X; huš[reddish]; šag[heart]; Larsam[1]SN; šu[hand]; X; X
+#tr.en: Remove …… and distress from @varh[t3205.v20]{its midst (?) } @vart[t3205.v21,t3205.v20]{@varn{1 ms. has instead:} within @wSN{Larsam} }! …… the frightful (?) …… in @wSN{Larsam}, 
+#etcsl: line-id=41
+
+42. X taka₄-a šu nam-uš₂-ta ba-e-šub-bu-de₃
+#lem: X; taka[set aside]; šu[hand]; namuš[death]; šub[fall]
+#tr.en: so that …… may escape the clutches of death. 
+#etcsl: line-id=42
+
+43. X-til-le-eš numun-bi he₂-mah
+#lem: til[complete]; numun[seed]; mah[great]
+#tr.en: …… may its seed be great! 
+#etcsl: line-id=43
+
+44. a₂# taka₄-a ka tar-zu# he₂-si-il-le
+#lem: a[arm]; taka[set aside]; kag[mouth]; tar[cut]; sil[split]
+#tr.en: May …… sing your praise! 
+#etcsl: line-id=44
+
+45. u₃ ŋe₂₆-e ni₂# teŋ₃#-ŋe₂₆-ŋu₁₀-uš nam-til₃ šum₂-mu-na-ab
+#lem: u[and]; ŋaʾe[I]; ni[fear]; teŋ[approach]; namtil[life]; šum[give]
+#tr.en: And as for me, for my reverence give me life! Bestow on me long life as a gift! 
+#etcsl: line-id=45
+
+46. zi su₃-ud-ŋal₂ niŋ₂-ba-e-eš₂ ba-mu-na-ab
+#lem: zi[life]; sudŋal[long-lasting]; niŋba[gift]; ba[allot]
+#etcsl: line-id=46
+
+
+
+
+
+
+

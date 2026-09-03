@@ -1,0 +1,231 @@
+&Q000574 = Letter from Lugal-nesaŋe to a king radiant as the moon
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.3.3.02
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.02&display=Crit&charenc=gcirc#
+
+@div version 1 (Version A (from Nibru))
+
+1.1. lugal zalag-ga-ni iti₆-gin₇ kur-kur-ra pa e₃-a
+#lem: lugal[king]; zalag[bright]; itud[moon]; kur[mountain(s)]; pa[branch]; e[leave]
+#tr.en: Say this to the king who has made his radiance resplendent over all the lands like the moonlight. 
+#etcsl: line-id=1.1
+
+1.2. u₃-na-dug₄
+#lem: dug[speak]
+#tr.en: Repeat it to the king who renders just verdicts like @wDN{Utu} and regulates decisions like @wDN{Ištaran}, 
+#etcsl: line-id=1.2
+
+1.3. lugal {d}utu-gin₇ di si sa₂ kud-kud-de₃# eš-bar {d}ištaran-gin₇ si sa₂-sa₂-e-ra
+#lem: lugal[king]; Utu[1]DN; did[lawsuit]; si[horn]; sa[equal]; kud[cut]; ešbar[decision]; Ištaran[1]DN; si[horn]; sa[equal]
+#tr.en: to my king who heeds prayers. 
+#etcsl: line-id=1.3
+
+1.4. lugal šudu₃-de₃ ŋiš tuku-ŋu₁₀-ur₂ u₃-na-de₃-tah
+#lem: lugal[king]; šud[prayer]; ŋeš[tree]; tuku[acquire]; tah[add]
+#tr.en: This is what @varh[t3302.1.v1]{@wPN{Lugal-nesaŋe} } @vart[t3302.1.v2,t3302.1.v1]{@varn{3 mss. have instead:} @wPN{Lugal-šu} } , a citizen of @wSN{Nibru} and your servant, 
+#etcsl: line-id=1.4
+
+1.5. (1:{m}lugal-nesaŋ-e:1) dumu nibru{ki} arad₂-zu na-ab-be₂-a
+#lem: Lugalnesaŋe[1]PN; dumu[child]; Nibru[1]SN; arad[slave]; e[speak]
+#tr.en: says: 
+#etcsl: line-id=1.5
+
+:5v.1.1: ($3 mss. have instead:$) {m}lugal-šu₂
+#lem: Lugalšu[1]PN
+
+1.6. udu-gin₇ ka u₂ gu₇-ŋu₁₀ mu-e-pad₃ naŋa dub₂-ba i-ni-bad
+#lem: udu[sheep]; kag[mouth]; u[plant(s)]; gu[eat]; pad[find]; naŋa[potash]; dub[tremble]; bad[open]
+#tr.en: Like a sheep I use my mouth for eating grass and I am unfamiliar with washing with soap. Like an ox bearing a yoke which it cannot support, 
+#etcsl: line-id=1.6
+
+1.7. gud {ŋiš}šudul₄-a nu-ub-ha-za la₂-gin₇ edin-na ba-ab-ŋen-ne-en
+#lem: gud[bull]; šudul[yoke]; haza[hold]; la[hang]; eden[back]; ŋen[go]
+#tr.en: I have been driven out into the high plains. Like a cow whose calf is not close by, 
+#etcsl: line-id=1.7
+
+1.8. ab₂ amar-bi nu-ub-da-la₂-a-gin₇ gu₃ arhuš-a im-me
+#lem: ab[cow]; amar[calf]; la[hang]; gu[voice]; arhuš[compassion]; dug[speak]
+#tr.en: I utter pitiful cries. As happens to a ewe whose lamb is restrained in the milking pen, 
+#etcsl: line-id=1.8
+
+1.9. u₈ sila₄-bi e₂-ubur-ra dab₅-ba-gin₇ šu-ni ba-ab-dab₅-be₂
+#lem: u[sheep]; sila[lamb]; eʾuburak[animal pen]; dab[seize]; šu[hand]; dab[seize]
+#tr.en: hands seize me. As happens to a bird, 
+#etcsl: line-id=1.9
+
+1.10. mušen-gin₇ gud₃-ŋa₂ lu₂ šu ba-ni-in-ti
+#lem: mušen[bird]; gud[nest]; lu[person]; šu[hand]; teŋ[approach]
+#tr.en: men take my nest away. As happens to a boat which is not anchored to a firm quay, 
+#etcsl: line-id=1.10
+
+#etcsl#ms 1 ms. omits lines 10-12
+
+1.11. {ŋiš}ma₂ kar gen₆-na-a li-bi₂-ib-taka₄-a-gin₇ tum₉-e ba-ab-dirig-ge
+#lem: ma[ship]; kar[harbor]; gin[confirm]; taka[set aside]; tumu[wind]; dirig[make more than]
+#tr.en: I drift in the wind. @notep{1 ms. omits lines 10-12} 
+#etcsl: line-id=1.11
+
+1.12. i-si-iš sila nibru{ki}-ka mu-gu₇-e-en
+#lem: isiš[tears]; sila[street]; Nibru[1]SN; gu[eat]
+#tr.en: In the streets of @wSN{Nibru} grief consumes me. 
+#etcsl: line-id=1.12
+
+1.13. iri kur₂ iri-ŋa₂ mu-da-an-kur₉ lu₂ en₃ tar-re la-ba-tuku
+#lem: iri[city]; kur[alienate]; iri[city]; kur[enter]; lu[person]; en[cvne]; tar[cut]; tuku[acquire]
+#tr.en: A hostile city has taken over my city and I have no protector. 
+#etcsl: line-id=1.13
+
+1.14. e₂ kur₂ e₂-ŋa₂ mu-da-an-kur₉ ugu-ŋa₂-aš (1:ba-ab-DUN:1)
+#lem: e[house]; kur[alienate]; e[house]; kur[enter]; ugu[skull]; X
+#tr.en: A hostile house has taken over my house and …… against me. 
+#etcsl: line-id=1.14
+
+:14v.1.1: ($1 ms. has instead:$) ba-X-X
+#lem: X
+
+1.15. iri-ŋa₂ saŋ-gin₇ (1:KUG:1) la-ba-ni-DU (2:siki SAŊ:2) mu-dur₇-re# ba-la₂
+#lem: iri[city]; saŋ[head]; X; X; siki[hair]; X; mudur[dirt]; la[hang]
+#tr.en: In my city, like a slave, no …… and I wear a filthy …… fleece. 
+#etcsl: line-id=1.15
+
+:15v.1.1: ($2 mss. have instead:$) UD
+#lem: X
+:15v.2.1: ($1 ms. has instead:$) SAŊ siki
+#lem: X; siki[hair]
+
+1.16. gu₅-li dub₃-sa zu-a kal-la-ŋu₁₀
+#lem: guli[friend]; dusa[friend]; zu[know]; kal[rare]
+#tr.en: My friends, 
+#etcsl: line-id=1.16
+
+1.17. lu₂ dili gu₇-u₃-gin₇ igi tur mu-un-gid₂-i-eš
+#lem: lu[person]; dili[single]; gu[eat]; igi[eye]; tur[small]; gid[long]
+#tr.en: companions, 
+#etcsl: line-id=1.17
+
+1.18. ama ugu-ŋu₁₀ ud-sakar (1:ubur-ra-bi:1)
+#lem: ama[mother]; ugu[skull]; udsakar[crescent moon]; ubur[breast]
+#tr.en: acquaintances and esteemed colleagues look on with scorn as at a man who eats alone. 
+#etcsl: line-id=1.18
+
+:18v.1.1: ($1 ms. has instead:$) ubur-a-gin₇
+#lem: ubur[breast]
+
+1.19. dug₃-ge-eš ga-ŋu₁₀ gu₇-ŋu₁₀ ka-ŋu₁₀-ta ba-an-kar
+#lem: dug[good]; ga[milk]; gu[eat]; kag[mouth]; kar[flee]
+#tr.en: My mother who begot me and whose breasts are crescent-shaped (?) has snatched from my mouth my contented consumption of milk. 
+#etcsl: line-id=1.19
+
+1.20. a-a-ŋu₁₀ šag₄ ur₂-bi-ta guru₃-gur₃-ru-a ki-ta ba-an-ŋar-re-en
+#lem: aya[father]; šag[heart]; ur[root]; gur[lift]; ki[place]; ŋar[put]
+#tr.en: My father who raised me in his lap has cast me aside. 
+#etcsl: line-id=1.20
+
+1.21. nin arhuš-a-ŋu₁₀ e₂-bi ba-kal igi nu-mu-un-ši-bar-re
+#lem: nin[lady]; arhuš[compassion]; e[house]; kal[rare]; igi[eye]; bar[place outside]
+#tr.en: My merciful lady whose house is treasured no longer notices me. 
+#etcsl: line-id=1.21
+
+1.22. ŋiš hul gurun nu-il₂-la-gin₇ lu₂ na-ma-ši-hul₂-le
+#lem: ŋeš[tree]; hulu[bad]; gurun[fruit]; il[raise]; lu[person]; hul[rejoice]
+#tr.en: As happens to a sickly tree that has borne no fruit, no one rejoices over me. 
+#etcsl: line-id=1.22
+
+1.23. |GIŠ.BIL₂|-|GIŠ.BIL₂|-me-en {ŋiš}isimu₂{sar} nu-tuku-me-en HAR-re nam-ba-tum₂-un
+#lem: GIŠ.NE@s[fresh fruit]; isimu[stalk]; tuku[acquire]; X; tum[bring]
+#tr.en: I am fresh fruit but I have no buds and I do not ……. 
+
+#etcsl: line-id=1.23
+
+1.24. lugal-ŋu₁₀ en₃-ŋu₁₀ he₂-tar-re ki-ur₃-ŋu₁₀-še₃ he₂-em-mi-ib-gi₄-gi₄-in
+#lem: lugal[king]; en[cvne]; tar[cut]; kiʾur[foundation]; gi[turn]
+#tr.en: May my king care for me and may I return to my former status. 
+#etcsl: line-id=1.24
+
+@end version
+
+@div version 2 (Version B (from Urim))
+
+$ (unknown no. of lines missing)
+$ (4 lines fragmentary)
+2.5. [lugal šudu₃-de₃ ŋiš] tuku-ŋu₁₀-ur₂
+#lem: lugal[king]; šud[prayer]; ŋeš[tree]; tuku[acquire]
+#tr.en: …… to my king who heeds prayers. 
+#etcsl: line-id=2.5
+
+2.6. [...] X [...] X
+#lem: X; X; X; X
+#tr.en: …… @wSN{Nibru} ……. 
+#etcsl: line-id=2.6
+
+2.7. [...] nibru{ki#} [X X] X
+#lem: X; Nibru[1]SN; X; X; X
+#etcsl: line-id=2.7
+
+2.8. [udu-gin₇ ka] u₂# gu₇ mu-ni-in-šub
+#lem: udu[sheep]; kag[mouth]; u[plant(s)]; gu[eat]; šub[fall]
+#tr.en: Like a sheep I set my mouth to eating  
+#etcsl: line-id=2.8
+
+2.9. [naŋa] dub₂#-ba i-ni-bad
+#lem: naŋa[potash]; dub[tremble]; bad[open]
+#tr.en: grass and I am unfamiliar with washing with soap. 
+#etcsl: line-id=2.9
+
+2.10. [gud] {[ŋiš]}[šudul₄-a] nu-ub-ha-za-gin₇
+#lem: gud[bull]; šudul[yoke]; haza[hold]
+#tr.en: Like an ox under a yoke which it cannot support, 
+#etcsl: line-id=2.10
+
+2.11. [edin-na] ba-ab-ŋen-ne-en
+#lem: eden[back]; ŋen[go]
+#tr.en: I have been driven out into the high plains. 
+#etcsl: line-id=2.11
+
+2.12. [ab₂ amar-bi nu]-ub!-la₂-a-gin₇
+#lem: ab[cow]; amar[calf]; la[hang]
+#tr.en: Like a cow whose calf is not close by, 
+#etcsl: line-id=2.12
+
+2.13. [gu₃ arhuš]-a i-im-me
+#lem: gu[voice]; arhuš[compassion]; e[speak]
+#tr.en: I utter pitiful cries. 
+#etcsl: line-id=2.13
+
+2.14. [...] BAD ZU AB-gin₇
+#lem: X; X; X; X
+#tr.en: As happens to a ……, 
+#etcsl: line-id=2.14
+
+2.15. [šu] ba#-ab-dab₅-be₂
+#lem: šu[hand]; dab[seize]
+#tr.en: hands seize me. 
+#etcsl: line-id=2.15
+
+2.16. {[ŋiš]}[ma₂ kar gen₆-na] li#-bi₂-ib-taka₄-a-gin₇
+#lem: ma[ship]; kar[harbor]; gin[confirm]; taka[set aside]
+#tr.en: As happens to a boat which  
+#etcsl: line-id=2.16
+
+2.17. [tum₉-e ba]-ab#-dirig-ge
+#lem: tumu[wind]; dirig[make more than]
+#tr.en: is not anchored to a firm quay, 
+#etcsl: line-id=2.17
+
+2.18. [...] X [X X] X
+#lem: X; X; X; X; X
+#tr.en: I drift in the wind. 
+#etcsl: line-id=2.18
+
+$ (unknown no. of lines missing)
+@end version
+
+
+
+
+
+
+

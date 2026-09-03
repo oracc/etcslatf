@@ -1,0 +1,2409 @@
+&Q000379 = The lament for Urim
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.2.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.2&display=Crit&charenc=gcirc#
+
+@div kirugu A
+
+A.1. tur₃-ra-na muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: tur[animal stall]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: He has abandoned his cow-pen and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 32; OB catalogue in the Louvre, 0.2.02, line 26; OB catalogue from Urim (U2), 0.2.04, line 44
+
+A.2. am-e tur₃-ra-na muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: am[wild bull]; tur[animal stall]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The wild bull has abandoned his cow-pen and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.2
+
+A.3. %e u₃-mu-un %s kur-kur-ra-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: umun[lord]N; kur[mountain(s)]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The lord of all the lands has abandoned it and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.3
+
+A.4.  %e  {d}mu-ul-lil₂-le  %s  eš₃-e nibru{ki}-a muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Mullil[1]DN; eš[shrine]; Nibru[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Enlil} has abandoned the shrine @wSN{Nibru} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.4
+
+A.5. dam-a-ni {d}nin-lil₂-le muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: dam[spouse]; Ninlil[1]DN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: His wife @wDN{Ninlil} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.5
+
+A.6. {d}nin-lil₂-le e₂-bi ki-ur₃-ra muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Ninlil[1]DN; e[house]; Kiʾur[1]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ninlil} has abandoned that house, the @wTN{Ki-ur}, and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.6
+
+A.7. nin keš₃{ki}-a-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: nin[lady]; Keš[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The queen of @wSN{Keš} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.7
+
+A.8.  %e  ga-ša-an-mah-e  %s  e₂-bi keš₃{ki}-a muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Gašanmah[1]DN; e[house]; Keš[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ninmaḫ} has abandoned that house @wSN{Keš} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.8
+
+A.9. %e mu-lu %s i₃-si-in{ki}-na-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: mulu[person]N; Isin[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: She of @wSN{Isin} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.9
+
+A.10.  %e  ga-ša-an-i₃-si-in{ki}-na-ke₄  %s  eš₃ e₂-gal-mah-a muš₃ %e mi-ni-in-ga %s amaš#-a-na lil₂-e
+#lem: Gašanisina[1]DN; eš[shrine]; Egalmah[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ninisina} has abandoned the shrine @wTN{Egal-maḫ} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.10
+
+A.11. nin ki unug{ki}-ga-ke₄ muš₃ %e mi-ni-in-ga %s [amaš]-a-na lil₂-e
+#lem: nin[lady]; ki[place]; Unug[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The queen of @wSN{Unug} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.11
+
+A.12. %e ga-ša-an-an-na-ke₄ %s e₂-bi ki unug{ki}-ga muš₃ %e mi-ni-in-ga %s amaš-a-na [lil₂]-e
+#lem: Gašanana[1]DN; e[house]; ki[place]; Unug[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Inana} has abandoned that house @wSN{Unug} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.12
+
+A.13. {d}nanna urim₂{ki}-ma muš₃ %e mi-ni-in-ga %s amaš-a-na [lil₂]-e
+#lem: Nanna[1]DN; Urim[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Nanna} has abandoned @wSN{Urim} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.13
+
+A.14. {d}suen-e e₂-kiš-nu-ŋal₂-la muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Suen[1]DN; Ekišnuŋal[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Suen} has abandoned @wTN{E-kiš-nu-ŋal} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.14
+
+A.15. dam-a-ni  %e  ga-ša-an-gal-e  %s  muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: dam[spouse]; Gašangal[1]DN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: His wife @wDN{Ningal} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.15
+
+A.16.  %e  ga-ša-an-gal-e  %s  agrun-kug-ga-na muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Gašangal[1]DN; Agrunkug[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ningal} has abandoned her @wTN{Agrun-kug} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.16
+
+A.17. am %e uru₂-ze₂-ba{ki}-ke₄ %s muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: am[wild bull]; Uruzeb[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The wild bull of @wSN{Eridug} has abandoned it and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.17
+
+A.18. %e {d}am-an-ki-ke₄ %s e₂-bi %e uru₂-ze₂-ba{ki}-ke₄ %s muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Amanki[1]DN; e[house]; Uruzeb[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Enki} has abandoned that house @wSN{Eridug} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.18
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+A.18A. %e ga-ša-an-X-[...] %s e₂-ba la-ra-ag{ki}-a muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Gašan.X[1]DN; e[house]; Larag[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @vart[t222.v1,t222.v1]{@varn{1 ms. adds 1 line:} …… @noteref{partially preserved name of a goddess} has abandoned that house @wSN{Larag} and has let the breezes haunt her sheepfold. } @wDN{Šara} has abandoned @wTN{E-maḫ} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.18A
+
+@endvariants
+A.19. {d}šara e₂-mah-a muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Šara[1]DN; Emah[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ud-saḫara} has abandoned that house @wSN{Umma} and  
+#etcsl: line-id=A.19
+
+A.20. {d}ud-sahar-ra e₂-bi umma{ki}-a muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Udsahara[1]DN; e[house]; Umma[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.20
+
+A.21. {d}ba-u₂ %e uru₂-kug-ga %s muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Bau[1]DN; Urukug[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Bau} has abandoned @wSN{Iri-kug} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.21
+
+A.22. a dug₄-ga ama₅-na muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: a[water]; dug[speak]; emi[queen's household]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: She has abandoned her flooded chamber and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.22
+
+A.23. dumu-a-ni {d}ab-ba-u₂ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: dumu[child]; Abbau[1]DN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: Her son @wDN{Ab-Bau} has abandoned it and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.23
+
+A.24. {d}ab-ba-u₂ %e ma-gu₂-en-na-ke₄ %s muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Abbau[1]DN; Maguena[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ab-Bau} has abandoned @wTN{Ma-gu-ena} and has let the breezes haunt his sheepfold. 
+#etcsl: line-id=A.24
+
+A.25. {d}lamma e₂ kug-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: lammar[(female) tutelary deity]; e[house]; kug[pure]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The protective goddess of the holy house has abandoned  
+#etcsl: line-id=A.25
+
+A.26. {d}lamma-e e₂-tar-sir₂-sir₂-ra muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: lammar[(female) tutelary deity]; Etarsirsir[1]TN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The protective goddess has abandoned @wTN{E-tar-sirsir} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.26
+
+A.27. um-ma lagaš{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: umma[old woman]; Lagaš[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The mother of @wSN{Lagaš} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.27
+
+A.28. {d}ma-ze₂-ze₂-be₂ e₂-bi lagaš{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Ŋatumdug[1]DN; e[house]; Lagaš[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ŋatumdug} has abandoned that house @wSN{Lagaš} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.28
+
+A.29. %e mu-lu %s niŋin₆{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: mulu[person]N; Niŋin[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: She of @wSN{Niŋin} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.29
+
+A.30. %e ga-ša-an %s gu-la e₂-bi sirara₃{ki} muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: gašan[lady]N; gal[big]; e[house]; Sirara[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: The great queen has abandoned that house @wSN{Sirara} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.30
+
+A.31. %e mu-lu %s ki-nir-ša-ba{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: mulu[person]N; Kinirša[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: She of @wSN{Kinirša} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.31
+
+A.32. {d}dumu-zid-abzu e₂-bi ki-nir-ša-ba{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Dumuzidabzuk[1]DN; e[house]; Kinirša[1]SN; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Dumuzid-abzu} has abandoned that house @wSN{Kinirša} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.32
+
+A.33. %e mu-lu %s gu₂-ab-ba{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: mulu[person]N; Guʾabak[1]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: She of @wSN{Gu-aba} has abandoned it and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.33
+
+A.34.  %e  ga-ša-an-mar-ki-ke₄  %s  eš₃ gu₂-ab-ba{ki}-ke₄ muš₃ %e mi-ni-in-ga %s amaš-a-na lil₂-e
+#lem: Gašanmarkik[1]DN; eš[shrine]; Guʾabak[1]; muš[face]; ga[carry]; amaš[sheepfold]; lil[ghost]
+#tr.en: @wDN{Ninmarki} has abandoned the shrine @wSN{Gu-aba} and has let the breezes haunt her sheepfold. 
+#etcsl: line-id=A.34
+
+@div trailer 
+
+A.35. ki-ru-gu₂ 1-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 1st @fsux{kirugu}. 
+#etcsl: line-id=A.35
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal B
+
+B.36. amaš-a-na lil₂-e ba-ni-in-ŋar i-si-iš-bi mu-un-kuš₂-u₃
+#lem: amaš[sheepfold]; lil[ghost]; ŋar[put]; isiš[tears]; kušu[tired]
+#tr.en: She has let the breeze haunt her sheepfold, she groans grievously over it. 
+#etcsl: line-id=B.36
+
+B.37. ab₂ gu₃-zu {e₂}tur₃-ra nu-mu-un-ŋal₂ tur₃ nun nu-ul
+#lem: ab[cow]; gu[voice]; tur[animal stall]; ŋal[⟦be⟧ to be (there]; tur[animal stall]; nun[prince]; ul[swell]
+#tr.en: O cow, your lowing no longer fills the byre, the cow-pen no longer brings joy (?) to the prince. 
+#etcsl: line-id=B.37
+
+@div trailer 
+
+B.38. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=B.38
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu C
+
+C.39. %e uru₂ %e a-še-er %s gig-ga %e a-še-er-zu %s ŋar-ra
+#lem: uru[city]; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O city, the lament is bitter, 
+#etcsl: line-id=C.39
+
+C.40. %e a-še-er-zu %s gig-ga-am₃ %e uru₂ %e a-še-er-zu %s ŋar-ra
+#lem: ašer[lament]N; gig[sick]; uru[city]; ašer[lament]N; ŋar[put]
+#tr.en: the lament made for you. Your lament is bitter, 
+#etcsl: line-id=C.40
+
+C.41. %e uru₂ %s zid gul-la-na %e a-še-er-bi %s gig-ga-am₃
+#lem: uru[city]; zid[right]; gul[destroy]; ašer[lament]N; gig[sick]
+#tr.en: O city, the lament made for you. 
+#etcsl: line-id=C.41
+
+C.42. urim₂ zid gul-la-na %e a-še-er %s gig-ga %e a-še-er-zu %s ŋar-ra
+#lem: Urim[1]SN; zid[right]; gul[destroy]; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: In his righteous destroyed city its lament is bitter. In his righteous destroyed @wSN{Urim}, 
+#etcsl: line-id=C.42
+
+C.43. %e a-še-er-zu %s gig-ga-am₃ %e uru₂ %e a-še-er-zu %s ŋar-ra
+#lem: ašer[lament]N; gig[sick]; uru[city]; ašer[lament]N; ŋar[put]
+#tr.en: the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.43
+
+C.44. urim₂{ki} gul-la-na %e a-še-er-bi %s gig-ga
+#lem: Urim[1]SN; gul[destroy]; ašer[lament]N; gig[sick]
+#tr.en: Your lament is bitter, O city, 
+#etcsl: line-id=C.44
+
+C.45. %e a-še-er-zu %s gig-ga %e ga-ša-an-zu %s %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; gašan[lady]N; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: the lament made for you. In his destroyed @wSN{Urim} its lament is bitter. 
+#etcsl: line-id=C.45
+
+C.46. %e a-še-er-zu %s gig-ga {d}nanna %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; Nanna[1]DN; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: How long will your bitter lament grieve your lord who weeps? How long will your bitter lament grieve @wDN{Nanna} who weeps? 
+#etcsl: line-id=C.46
+
+C.47. %e še-eb %s urim₂{ki}-ma %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; Urim[1]SN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wSN{Urim}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.47
+
+C.48. e₂-kiš-nu-ŋal₂ %e a-še-er-zu %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Ekišnuŋal[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O @wTN{E-kiš-nu-ŋal}, your lament is bitter, the lament made for you. 
+#etcsl: line-id=C.48
+
+C.49. eš₃ agrun-kug %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: eš[shrine]; Agrunkug[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O shrine @wTN{Agrun-kug}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.49
+
+C.50. ki-ur₃ ki gal %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Kiʾur[1]; ki[place]; gal[big]; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O great place @wTN{Ki-ur}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.50
+
+C.51. eš₃ nibru{ki} %e uru₂ %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: eš[shrine]; Nibru[1]SN; uru[city]; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O shrine @wSN{Nibru}, city, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.51
+
+C.52. %e še-eb %s e₂-kur-ra %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; Ekur[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wTN{E-kur}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.52
+
+C.53. ŋa₂-ŋiš-šu₂-a %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Ŋaŋiššua[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O @wTN{Ŋa-ŋiš-šua}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.53
+
+C.54. ub-šu-unken-na %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Ubšuʾunkenak[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O @wTN{Ubšu-unkena}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.54
+
+C.55. %e še-eb %s %e uru₂-kug-ga %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; Urukug[1]SN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wSN{Iri-kug}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.55
+
+C.56. e₂-tar-sir₂-sir₂ %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Etarsirsir[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O @wTN{E-tar-sirsir}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.56
+
+C.57. %e ma-gu₂-en-na %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: Maguena[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O @wTN{Ma-gu-ena}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.57
+
+C.58. %e še-eb %s i₃-si-in{ki}-na %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; Isin[1]SN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wSN{Isin}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.58
+
+C.59. eš₃ e₂-gal-mah %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: eš[shrine]; Egalmah[1]TN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O shrine @wTN{Egal-maḫ}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.59
+
+C.60. %e še-eb %s ki unug{ki}-ga %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; ki[place]; Unug[1]SN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wSN{Unug}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.60
+
+C.61. %e še-eb %s %e uru₂-ze₂-ba{ki}-ke₄ %e a-še-er %s gig-ga-am₃ %e a-še-er-zu %s ŋar-ra
+#lem: šeb[brick]N; Uruzeb[1]SN; ašer[lament]N; gig[sick]; ašer[lament]N; ŋar[put]
+#tr.en: O brick-built @wDN{Eridug}, the lament is bitter, the lament made for you. 
+#etcsl: line-id=C.61
+
+C.62. %e a-še-er-zu %s gig-ga-am₃ %e ga-ša-an-zu %s %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; gašan[lady]N; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: How long will your bitter lament grieve your lord who weeps? 
+#etcsl: line-id=C.62
+
+C.63. %e a-še-er-zu %s gig-ga-am₃ {d}nanna %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; Nanna[1]DN; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: How long will your bitter lament grieve @wDN{Nanna} who weeps? 
+#etcsl: line-id=C.63
+
+C.64. %e uru₂ %s mu-zu i₃-ŋal₂ za-e ba-e-da-gul-e
+#lem: uru[city]; mu[name]; ŋal[⟦be⟧ to be (there]; zaʾe[you]; gul[destroy]
+#tr.en: O city, your name exists but you have been destroyed. 
+#etcsl: line-id=C.64
+
+C.65. %e uru₂ %s bad₃-zu i₃-il₂ kalam-zu ba-e-da-til
+#lem: uru[city]; bad[wall]; il[raise]; kalam[the Land (of Sumer)]; til[complete]
+#tr.en: O city, your wall rises high but your Land has perished. 
+#etcsl: line-id=C.65
+
+C.66. %e uru₂-ŋu₁₀ %s u₈ zid-gin₇ sila₄-zu ba-e-da-tar
+#lem: uru[city]; u[sheep]; zid[right]; sila[lamb]; tar[cut]
+#tr.en: O my city, 
+#etcsl: line-id=C.66
+
+C.67. urim₂{ki} ud₅ zid-gin₇ maš₂-zu ba-e-da-til
+#lem: Urim[1]SN; uzud[(female) goat]; zid[right]; maš[goat]; til[complete]
+#tr.en: like an innocent ewe your lamb has been torn from you. 
+#etcsl: line-id=C.67
+
+C.68. %e uru₂ %s ŋarza-zu im-me-de₃-kur₂-ra
+#lem: uru[city]; ŋarza[rites]; kur[different]
+#tr.en: O @wSN{Urim}, like an innocent goat your kid has perished. 
+#etcsl: line-id=C.68
+
+C.69. me-zu me kur₂-ra šu bal ba-ni-ib-ak
+#lem: me[Being]; me[Being]; kur[different]; šu[hand]; bala[turn]; ak[do]
+#tr.en: O city, your rites have been alienated from you, your powers have been changed into alien powers. 
+#etcsl: line-id=C.69
+
+C.70. %e a-še-er-zu %s gig-ga-am₃ %e ga-ša-an-zu %s %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; gašan[lady]N; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: How long will your bitter lament grieve your lord who weeps? 
+#etcsl: line-id=C.70
+
+C.71. %e a-še-er-zu %s gig-ga-am₃ {d}nanna %e mu-lu %s er₂-re en₃-še₃ mu-un-kuš₂-u₃
+#lem: ašer[lament]N; gig[sick]; Nanna[1]DN; mulu[person]N; er[tears]; enše[how long]; kušu[tired]
+#tr.en: How long will your bitter lament grieve @wDN{Nanna} who weeps? 
+#etcsl: line-id=C.71
+
+@div trailer 
+
+C.72. ki-ru-gu₂ 2-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 2nd @fsux{kirugu}. 
+#etcsl: line-id=C.72
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal D
+
+D.73. %e uru₂ %s zid gul-la-na %e a-še-er-bi %s gig-ga-am₃
+#lem: uru[city]; zid[right]; gul[destroy]; ašer[lament]N; gig[sick]
+#tr.en: In his righteous destroyed city its lament is bitter. 
+#etcsl: line-id=D.73
+
+D.74. urim₂{ki} gul-la-na %e a-še-er-bi %s gig-ga-am₃
+#lem: Urim[1]SN; gul[destroy]; ašer[lament]N; gig[sick]
+#tr.en: In his destroyed @wSN{Urim} its lament is bitter. 
+#etcsl: line-id=D.74
+
+@div trailer 
+
+D.75. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=D.75
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu E
+
+E.76. nin lu₂ e₂ hul-a-ta %e uru₂-ni %s er₂-re ba-an-di-ni-ib-ŋar
+#lem: nin[lady]; lu[person]; e[house]; hulu[bad]; uru[city]; er[tears]; ŋar[put]
+#tr.en: Together with the lord whose house had been devastated, his city was given over to tears. 
+#etcsl: line-id=E.76
+
+E.77. {d}nanna lu₂ kalam ba-an-da-til-la
+#lem: Nanna[1]DN; lu[person]; kalam[the Land (of Sumer)]; til[complete]
+#tr.en: Together with @wDN{Nanna} whose Land had perished, @wSN{Urim} joined the lament. 
+#etcsl: line-id=E.77
+
+E.78. urim₂{ki}-e a-nir-ra bar ba-da-an-tab
+#lem: Urim[1]SN; anir[lament]; bar[outside]; tab[double]
+#tr.en: The good woman, to disquiet the lord concerning his city, 
+#etcsl: line-id=E.78
+
+E.79. munus zid nin %e uru₂{ki}-ni-še₃ %s kuš₂-u₃-de₃
+#lem: munus[woman]; zid[right]; nin[lady]; uru[city]; kušu[tired]
+#tr.en: @wDN{Ningal}, 
+#etcsl: line-id=E.79
+
+E.80. {d}nin-gal kalam-ma-ni-še₃ u₃ nu-ku-ku-de₃
+#lem: Ningal[1]DN; kalam[the Land (of Sumer)]; u[sleep]; ku[place]
+#tr.en: to give him no rest concerning his Land, 
+#etcsl: line-id=E.80
+
+E.81. e-ne-ra nam %e uru₂-na %s mu-na-te er₂ gig i₃-še₈-še₈
+#lem: ane[he]; nam[fate]; uru[city]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: approached him for the sake of his city -- bitterly she weeps. 
+#etcsl: line-id=E.81
+
+E.82. nin-ra nam e₂-a-na mu-na-te er₂ gig i₃-še₈-še₈
+#lem: nin[lady]; nam[fate]; e[house]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: She approached the lord for the sake of his house -- bitterly she weeps. 
+#etcsl: line-id=E.82
+
+E.83. nam %e uru₂ %s hul-a-na mu-na-te er₂ gig i₃-še₈-še₈
+#lem: nam[fate]; uru[city]; hulu[bad]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: She approached him for the sake of his devastated city -- bitterly she weeps. 
+#etcsl: line-id=E.83
+
+E.84. nam e₂ hul-a-na mu-na-te a-nir gig-ga-bi im-da-ra-da-ŋa₂-ŋa₂
+#lem: nam[fate]; e[house]; hulu[bad]; teŋ[approach]; anir[lament]; gig[sick]; ŋar[put]
+#tr.en: She approached him for the sake of his devastated house -- before him she makes its bitter lament. 
+#etcsl: line-id=E.84
+
+E.85. munus-e ad-a-ni balaŋ er₂-ra ki al-ŋar-ra-ba
+#lem: munus[woman]; ad[voice]; balaŋ[an instrument]; er[tears]; ki[place]; alŋar[musical instrument]
+#tr.en: The woman, after she had composed her song (?) for the tearful @fsux{balaŋ} instrument, 
+#etcsl: line-id=E.85
+
+E.86. i-lu %e ma %s sig₉-ga tur-tur-bi ni₂-te-na mi-ni-ib-be₂
+#lem: ilu[lament]; ma[house]N; sig[silent]; tur[small]; ni[self]; e[speak]
+#tr.en: herself utters softly a lamentation for the silent house: 
+#etcsl: line-id=E.86
+
+E.87. ud-da %e ma-al-ma-al-la %s i-si-iš-bi ma-la₂-la₂
+#lem: ud[storm]; mal[be]V/i; isiš[tears]; la[hang]
+#tr.en: @q[Ningal,]{“The storm that came to be -- its lamentation hangs heavy on me. 
+#etcsl: line-id=E.87
+
+E.88. ud-da %e na-aŋ₂-bi-še₃ %s sumur-sumur-a-ŋu₁₀-ne
+#lem: ud[storm]; naŋ[fate]N; sumur[angry]
+#tr.en: Raging about because of the storm, 
+#etcsl: line-id=E.88
+
+E.89. lu₂ %e nu-nus-ŋen %s ud-da %e ma-al-ma-al-la
+#lem: lu[person]; nunus[woman]N; ud[storm]; mal[be]V/i
+#tr.en: I am the woman for whom the storm came to be. 
+#etcsl: line-id=E.89
+
+E.90. ud-da %e ma-al-ma-al-la %s i-si-iš-bi ma-la₂-la₂
+#lem: ud[storm]; mal[be]V/i; isiš[tears]; la[hang]
+#tr.en: The storm that came to be -- its lamentation hangs heavy on me. 
+#etcsl: line-id=E.90
+
+E.91. ud-da ud gig-ga %e ma-ra-ma-al-ma-al-la
+#lem: ud[sun]; ud[storm]; gig[sick]; mal[be]V/i
+#tr.en: The bitter storm having come to be for me during the day, 
+#etcsl: line-id=E.91
+
+E.92. %e me-e %s ud-bi-še₃ zarah he₂-em-ši-ak
+#lem: meʾe[I]IP; ud[sun]; zarah[wailing]; ak[do]
+#tr.en: I trembled on account of that day but I did not flee before the day's violence. 
+#etcsl: line-id=E.92
+
+E.93. ud-da a₂-bi-še₃ ba-ra-ba-ra-e₃-en
+#lem: ud[sun]; a[arm]; e[leave]
+#tr.en: Because of this debilitating storm I could not see a good day for my rule, 
+#etcsl: line-id=E.93
+
+E.94. ud tur-bi-še₃ bal-ŋu₁₀ ud sag₉-ga bal-ŋu₁₀ ud sag₉-ga %e i-bi₂ %s ba-ra-bi₂-in-du₈-a
+#lem: ud[storm]; tur[small]; bala[turn]; ud[sun]; sag[good]; bala[turn]; ud[sun]; sag[good]; ibi[eye]N; du[spread]
+#tr.en: not one good day for my rule.”} 
+#etcsl: line-id=E.94
+
+E.95. ŋi₆-še₃ %e a-še-er %s gig %e ma-ra-ma-al-ma-al-la
+#lem: ŋi[night]; ašer[lament]N; gig[sick]; mal[be]V/i
+#tr.en: @q{“The bitter lament having come to be for me during the night, I trembled on account of that night but I did not flee before the night's violence. 
+#etcsl: line-id=E.95
+
+E.96. %e me-e %s ŋi₆-bi-še₃ zarah he₂-em-ši-ak
+#lem: meʾe[I]IP; ŋi[night]; zarah[wailing]; ak[do]
+#tr.en: The awesomeness of this storm, destructive as the flood, 
+#etcsl: line-id=E.96
+
+E.97. ŋi₆ a₂-bi ba-ra-ba-ra-e₃-en
+#lem: ŋi[night]; a[arm]; e[leave]
+#tr.en: truly hangs heavy on me. Because of its existence, 
+#etcsl: line-id=E.97
+
+E.98. ud uru₂-gin₇ gul-lu-ba ni₂-bi ha-ma-la₂-la₂
+#lem: ud[storm]; uru[flood]; gul[destroy]; ni[fear]; la[hang]
+#tr.en: in my nightly sleeping place, even in my nightly sleeping place truly there was no peace for me. 
+#etcsl: line-id=E.98
+
+E.99. %e na-aŋ₂-bi-še₃ %s ki-nu₂ ŋi₆ u₃-na-ŋa₂ ki-nu₂ ŋi₆ u₃-na-ŋa₂ lib %e ba-ra-an-mar
+#lem: naŋ[fate]N; kinud[sleeping quarter]; ŋi[night]; ŋiʾunak[night]; kinud[sleeping quarter]; ŋi[night]; ŋiʾunak[night]; lib[daze]; mar[place]V/t
+#tr.en: Nor, because of this debilitating storm, 
+#etcsl: line-id=E.99
+
+E.100. ud tur-bi-še₃ ki-nu₂-ŋa₂ %e mu-uš-la₂-a-bi %s ki-nu₂-ŋa₂ ŋiš-la₂-a-bi nu-ši-in-ga-mu-ni-ib-DU
+#lem: ud[sun]; tur[small]; kinud[sleeping quarter]; mušlabi[silence]; kinud[sleeping quarter]; ŋešlabi[silence]; X
+#tr.en: was the quiet of my sleeping place, not even the quiet of my sleeping place, 
+#etcsl: line-id=E.100
+
+@variants
+
+#etcsl#ms 2 mss. add 1 line:
+E.100A. %e ka-na-aŋ₂-ŋu₁₀-ta %s ni₂ šub %e me-e %s ba-ra-ba-da-ak
+#lem: kanaŋ[land]N; ni[self]; šub[fall]; meʾe[I]IP; ak[do]
+#tr.en: allowed to me. @vart[t222.v2,t222.v2]{@varn{2 mss. add 1 line:} Truly I did not forsake my Land. }”} 
+#etcsl: line-id=E.100A
+
+@endvariants
+E.101. %e ka-na-aŋ₂-ŋu₁₀ aŋ₂-gig-ga %s ba-ŋal₂-la-ke₄-eš
+#lem: kanaŋ[land]N; aŋgig[bad thing]N; ŋal[⟦be⟧ to be (there]
+#tr.en: @q{“Because there was bitterness in my Land, 
+#etcsl: line-id=E.101
+
+E.102. ab₂ amar-ra-gin₇-nam ki šu he₂-em-mi-ib-ak
+#lem: ab[cow]; amar[calf]; ki[place]; šu[hand]; ak[do]
+#tr.en: I trudged the earth like a cow for its calf. 
+#etcsl: line-id=E.102
+
+E.103. %e ka-na-aŋ₂-ŋu₁₀ %s ni₂ šu-a ba-ra-mu-da-ab-gi₄
+#lem: kanaŋ[land]N; ni[self]; šu[hand]; gi[turn]
+#tr.en: My Land was not granted succcess. 
+#etcsl: line-id=E.103
+
+E.104. %e uru₂-ŋu₁₀ %s du-lum gig ba-ŋal₂-la-ke₄-eš
+#lem: uru[city]; dulum[toil]; gig[sick]; ŋal[⟦be⟧ to be (there]
+#tr.en: Because there was bitter distress in my city, 
+#etcsl: line-id=E.104
+
+E.105. mušen an-na-gin₇ a₂ dub₂ he₂-em-ši-ak
+#lem: mušen[bird]; an[sky]; a[arm]; dub[tremble]; ak[do]
+#tr.en: I beat my wings like a bird of heaven and flew to my city; 
+#etcsl: line-id=E.105
+
+E.106. %e me-e %s %e uru₂-ŋu₁₀-še₃ %s he₂-em-ši-dal-dal-en
+#lem: meʾe[I]IP; uru[city]; dal[fly]
+#tr.en: and my city was destroyed in its foundations; 
+#etcsl: line-id=E.106
+
+E.107. %e uru₂-ŋu₁₀ %s ki-ŋal₂-ba he₂-en-ga-mu-de₃-gul
+#lem: uru[city]; kiŋal[uncultivated land]; gul[destroy]
+#tr.en: and @wSN{Urim} perished where it lay. 
+#etcsl: line-id=E.107
+
+E.108. urim₂{ki} ki-nu₂-bi-a he₂-en-ga-mu-de₃-til
+#lem: Urim[1]SN; kinud[sleeping quarter]; til[complete]
+#tr.en: Because the hand of the storm appeared above, 
+#etcsl: line-id=E.108
+
+E.109. šu ud-da an-ta ba-ŋal₂-la-ke₄-eš
+#lem: šu[hand]; ud[storm]; an[sky]; ŋal[⟦be⟧ to be (there]
+#tr.en: I screamed and cried to it @q[Ningal,]{“Return, 
+#etcsl: line-id=E.109
+
+E.110. gu₃ hu-mu-dub₂ edin-na ud gi₄-a %e me-e %s he₂-em-ma-dug₄
+#lem: gu[voice]; dub[tremble]; eden[back]; ud[storm]; gi[turn]; meʾe[I]IP; dug[speak]
+#tr.en: O storm, to the plain”}. 
+#etcsl: line-id=E.110
+
+E.111. ud-da gaba-bi ba-ra-mu-da-zig₃
+#lem: ud[storm]; gaba[breast]; zig[rise]
+#tr.en: The storm's breast did not rise.”} 
+#etcsl: line-id=E.111
+
+E.112. %e nu-nus-ŋen %s agrun-kug e₂ %e na-aŋ₂-{d}ga-ša-an-na-ŋu₁₀
+#lem: nunus[woman]N; Agrunkug[1]TN; e[house]; naŋgašan[ladyship]N
+#tr.en: @q{“To me, the woman, in the @wTN{Agrun-kug}, my house of queenship, 
+#etcsl: line-id=E.112
+
+E.113. bal-ba ud su₃-ra₂ na-ma-ni-in-ŋar-re-eš-am₃
+#lem: bala[turn]; ud[sun]; sud[distant]; ŋar[put]
+#tr.en: they did not grant a reign of distant days. 
+#etcsl: line-id=E.113
+
+E.114. er₂ %e a-še-er-ra %s ki ha-ma-ab-us₂-am₃
+#lem: er[tears]; ašer[lament]N; ki[place]; us[accompany]
+#tr.en: Indeed they established weeping and lamentation for me. 
+#etcsl: line-id=E.114
+
+E.115. e₂ ki ur₅ sag₉-ge saŋ gig₂-ga i₃-me-a-ke₄-eš
+#lem: e[house]; ki[place]; ur[liver]; sag[good]; saŋ[head]; giggig[black]; me[be]
+#tr.en: As for the house which used to be where the spirit of the black-headed people was soothed, 
+#etcsl: line-id=E.115
+
+E.116. ezen-bi-ta ib₂-ba su-mu-ug-ga he₂-en-ga-mu-da-tab-tab-be₂-eš
+#lem: ezem[festival]; ib[angry]; sumug[calamity]; tab[double]
+#tr.en: instead of its festivals wrath and terror indeed multiply. 
+#etcsl: line-id=E.116
+
+E.117. ud tur-bi-še₃ e₂-ŋu₁₀ ki sag₉-ga
+#lem: ud[storm]; tur[small]; e[house]; ki[place]; sag[good]
+#tr.en: Because of this debilitating storm, depression, 
+#etcsl: line-id=E.117
+
+E.118. e₂ zid hul-a-ŋu₁₀ %e i-bi₂ %s ba-ra-bi₂-in-du₈-am₃
+#lem: e[house]; zid[right]; hulu[bad]; ibi[eye]N; du[spread]
+#tr.en: and lament and bitterness, 
+#etcsl: line-id=E.118
+
+E.119. ur₅ uš₂-a %e a-še-er aŋ₂-gig-ga
+#lem: ur[liver]; uš[die]; ašer[lament]N; aŋgig[bad thing]N
+#tr.en: lament and bitterness have been brought into my house, 
+#etcsl: line-id=E.119
+
+E.120. %e a-še-er aŋ₂-gig-ga %s hu-mu-ni-tum₂-tum₂-mu-uš
+#lem: ašer[lament]N; aŋgig[bad thing]N; tum[bring]
+#tr.en: the favourable place, 
+#etcsl: line-id=E.120
+
+E.121. e₂ lu₂ zid-de₃ ba-ab-ŋar-ra-ŋu₁₀
+#lem: e[house]; lu[person]; zid[right]; ŋar[put]
+#tr.en: my devastated righteous house upon which no eye had been cast. 
+#etcsl: line-id=E.121
+
+E.122. gi-sig kiri₆-gin₇ bar-ba he₂-bi₂-in-dub₂
+#lem: gisig[reed fence]; kiri[(fruit) plantation]; bar[outside]; dub[tremble]
+#tr.en: My house founded by the righteous was pushed over on its side like a garden fence.”} 
+#etcsl: line-id=E.122
+
+E.123. e₂-kiš-nu-ŋal₂ e₂ nam-lugal-la-ŋu₁₀
+#lem: Ekišnuŋal[1]TN; e[house]; namlugal[kingship]
+#tr.en: @q{“For @wTN{E-kiš-nu-ŋal}, my house of royalty, the good house, 
+#etcsl: line-id=E.123
+
+E.124. e₂ zid e₂ er₂-ra ba-an-di-ni-ib-ŋar-ra-ŋu₁₀
+#lem: e[house]; zid[right]; e[house]; er[tears]; ŋar[put]
+#tr.en: my house which has been given over to tears, 
+#etcsl: line-id=E.124
+
+E.125. lul-e-eš du₃-u₃-ba zid-de₃-eš gul-lu-ba
+#lem: lul[false]; du[build]; zid[right]; gul[destroy]
+#tr.en: they granted to me as its lot and share: 
+#etcsl: line-id=E.125
+
+E.126. ha-la ba-bi-a ha-ma-ni-in-ŋar-re-eš-am₃
+#lem: hala[inheritance share]; ba[allot]; ŋar[put]
+#tr.en: its building, falsely, and its perishing, truly. 
+#etcsl: line-id=E.126
+
+E.127. za-lam-ŋar e₂ ki-buru₁₄ bur₁₂-ra-gin₇
+#lem: zalamŋar[tent]; e[house]; kiburu[harvest area]; bur[tear out]
+#tr.en: Wind and rain have been made to fall on it, 
+#etcsl: line-id=E.127
+
+E.128. e₂ ki-buru₁₄ bur₁₂-ra-gin₇ tum₉ šeŋ₃-ŋa₂ ha-ba-an-ŋar
+#lem: e[house]; kiburu[harvest area]; bur[tear out]; tumu[wind]; šeŋ[rain]; ŋar[put]
+#tr.en: as onto a tent, a shelter on the denuded harvest ground, 
+#etcsl: line-id=E.128
+
+E.129. urim₂{ki} ama₅ niŋ₂ dirig-ŋu₁₀
+#lem: Urim[1]SN; emi[queen's household]; niŋ[thing]; dirig[make more than]
+#tr.en: as onto a shelter on the denuded harvest ground. 
+#etcsl: line-id=E.129
+
+E.130. e₂ %e uru₂ %s sig₉-ga mu-un-bur₁₂-bur₁₂-bur₁₂
+#lem: e[house]; uru[city]; sig[put into]; bur[tear out]
+#tr.en: @wSN{Urim}, my all-surpassing chamber, the house and the smitten city, 
+#etcsl: line-id=E.130
+
+E.131. amaš {lu₂}sipad-da-gin₇ ha-ba-bur₁₂-bur₁₂
+#lem: amaš[sheepfold]; sipad[shepherd]; bur[tear out]
+#tr.en: all have been uprooted. Like a shepherd's sheepfold it has been uprooted. 
+#etcsl: line-id=E.131
+
+E.132. niŋ₂-gur₁₁ %e uru₂ %s ŋal₂-ŋal₂-la-ŋu₁₀ sug-ge hu-mu-da-ab-gu₇
+#lem: niŋgur[property]; uru[city]; ŋal[⟦be⟧ to be (there]; sug[reed-bed]; gu[eat]
+#tr.en: The swamp has swallowed my possessions accumulated in the city.”} 
+#etcsl: line-id=E.132
+
+@div trailer 
+
+E.133. ki-ru-gu₂ 3-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 3rd @fsux{kirugu}. 
+#etcsl: line-id=E.133
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal F
+
+F.134. urim₂{ki} er₂-re ba-an-di-ni-ib-ŋar
+#lem: Urim[1]SN; er[tears]; ŋar[put]
+#tr.en: @wSN{Urim} has been given over to tears. 
+#etcsl: line-id=F.134
+
+@div trailer 
+
+F.135. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=F.135
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu G
+
+G.136. ud-ba ud ne-en ba-sag₃-sag₃-ga-ba
+#lem: ud[sun]; ud[storm]; nen[this]; sag[strike]
+#tr.en: @q[Ningal,]{“On that day, when such a storm had pounded, 
+#etcsl: line-id=G.136
+
+G.137. nin-da %e uru₂-ni %s ba-an-da-gul-la-ba
+#lem: nin[lady]; uru[city]; gul[destroy]
+#tr.en: when in the presence of the queen her city had been destroyed, 
+#etcsl: line-id=G.137
+
+G.138. ud-ba ud ne-en ba-dim₂-dim₂-ma-ba
+#lem: ud[sun]; ud[storm]; nen[this]; dim[create]
+#tr.en: on that day, when such a storm had been created, 
+#etcsl: line-id=G.138
+
+G.139. %e uru₂-ŋu₁₀ %s gul-gul-da im-me-ne-eš-a-ba
+#lem: uru[city]; gul[destroy]; e[speak]
+#tr.en: when they had pronounced the utter destruction of my city, 
+#etcsl: line-id=G.139
+
+G.140. urim₂{ki} gul-gul-da im-me-ne-eš-a-ba
+#lem: Urim[1]SN; gul[destroy]; e[speak]
+#tr.en: when they had pronounced the utter destruction of @wSN{Urim}, 
+#etcsl: line-id=G.140
+
+G.141. uŋ₃-bi ug₅-ge-de₃ a₂ mu-un-aŋ₂-eš-a-ba
+#lem: uŋ[people]; ug[kill]; a[arm]; aŋ[measure]
+#tr.en: when they had directed that its people be killed, 
+#etcsl: line-id=G.141
+
+G.142. ud-ba %e me-e uru₂-ŋu₁₀-še₃ %s ŋa₂-la ba-ra-ba-ra-dag
+#lem: ud[sun]; meʾe[I]IP; uru[city]; ŋala[cvne]; dag[roam around]
+#tr.en: on that day I did not abandon my city, 
+#etcsl: line-id=G.142
+
+G.143. %e ka-na-aŋ₂-ŋu₁₀-ta %s ni₂ šub %e me %s ba-ra-ba-da-ak
+#lem: kanaŋ[land]N; ni[self]; šub[fall]; meʾe[I]IP; ak[do]
+#tr.en: I did not forsake my land.”} 
+#etcsl: line-id=G.143
+
+G.144. an-ra a %e i-bi₂-ŋa₂ me-e %s he₂-em-ma-na-de₂
+#lem: An[1]DN; a[water]; ibi[eye]N; meʾe[I]IP; de[pour]
+#tr.en: @q{“Truly I shed my tears before @wDN{An}. 
+#etcsl: line-id=G.144
+
+G.145.  %e  {d}mu-ul-lil₂-ra  %s  ni₂-ŋu₁₀ šag₄-ne-ša₄ he₂-em-ma-na-ak
+#lem: Mullil[1]DN; ni[self]; šaneša[supplication]; ak[do]
+#tr.en: Truly I myself made supplication to @wDN{Enlil}. 
+#etcsl: line-id=G.145
+
+G.146. %e uru₂-ŋu₁₀ %s nam-ba-gul-lu he₂-em-me-ne-dug₄
+#lem: uru[city]; gul[destroy]; dug[speak]
+#tr.en: @q[Ningal,An Enlil]{“Let not my city be destroyed,”} I implored them. 
+#etcsl: line-id=G.146
+
+G.147. urim₂{ki} nam-ba-gul-lu he₂-em-me-ne-dug₄
+#lem: Urim[1]SN; gul[destroy]; dug[speak]
+#tr.en: @q[Ningal,An Enlil]{“Let not @wSN{Urim} be destroyed,”} I implored them. 
+#etcsl: line-id=G.147
+
+G.148. uŋ₃-bi nam-ba-til-le he₂-em-me-ne-dug₄
+#lem: uŋ[people]; til[complete]; dug[speak]
+#tr.en: @q[Ningal,An Enlil]{“Let not its people perish,”} I implored them. 
+#etcsl: line-id=G.148
+
+G.149. an-ne₂ %e e-ne-eŋ₃-bi %s ba-ra-mu-un-gur
+#lem: An[1]DN; eneŋ[word]N; gur[turn]
+#tr.en: But @wDN{An} did not change that word. 
+#etcsl: line-id=G.149
+
+G.150.  %e  {d}mu-ul-lil₂-le  %s  i₃-sag₉ he₂-am₃-bi šag₄-ŋu₁₀ ba-ra-bi₂-in-sed₄
+#lem: Mullil[1]DN; sag[good]; heʾam[so be it!]; šag[heart]; sed[cold]
+#tr.en: @wDN{Enlil} did not soothe my heart with an @q[Enlil,]{“It is good -- so be it”}.”} 
+#etcsl: line-id=G.150
+
+G.151. 2-kam-ma-še₃ pu-uh₂-rum ki saŋ-ki ba-da-ab-ŋal₂-la
+#lem: n; puhrum[assembly]; ki[place]; saŋki[forehead]; ŋal[⟦be⟧ to be (there]
+#tr.en: @q{“A second time, when the council had settled itself in the pre-eminent place, 
+#etcsl: line-id=G.151
+
+G.152. {d}a-nun-na %e e-ne-eŋ₃ %s zu₂ keše₂-da-bi ba-da-an-dur₂-ru-ne-eš-a
+#lem: Anunak[1]DN; eneŋ[word]N; zu[tooth]; kešed[bind]; durun[sit]
+#tr.en: and the @wDN{Anuna} had seated themselves to ratify decisions, 
+#etcsl: line-id=G.152
+
+G.153. ur₂ he₂-em-ma-sud-sud a₂ he₂-em-ma-la₂-la₂
+#lem: ur[loin]; sud[distant]; a[arm]; la[hang]
+#tr.en: I prostrated (?) myself and stretched out my arms. Truly I shed my tears before @wDN{An}. 
+#etcsl: line-id=G.153
+
+G.154. an-ra a %e i-bi₂-ŋa₂ me-e %s he₂-em-ma-na-dug₄
+#lem: An[1]DN; a[water]; ibi[eye]N; meʾe[I]IP; dug[speak]
+#tr.en: Truly I myself made supplication to @wDN{Enlil}. @q[Ningal,An Enlil]{“Let not my city be destroyed,”} 
+#etcsl: line-id=G.154
+
+G.155.  %e  {d}mu-ul-lil₂-ra  %s  ni₂-ŋu₁₀ šag₄-ne-ša₄ he₂-em-ma-ak
+#lem: Mullil[1]DN; ni[self]; šaneša[supplication]; ak[do]
+#tr.en: I implored them. @q[Ningal,An Enlil]{“Let not @wSN{Urim} be destroyed,”} 
+#etcsl: line-id=G.155
+
+G.156. %e uru₂-ŋu₁₀ %s nam-ba-gul-lu he₂-em-me-ne-dug₄
+#lem: uru[city]; gul[destroy]; dug[speak]
+#tr.en: I implored them. 
+#etcsl: line-id=G.156
+
+G.157. urim₂{ki} nam-ba-gul-lu he₂-em-me-ne-dug₄
+#lem: Urim[1]SN; gul[destroy]; dug[speak]
+#tr.en: @q[Ningal,An Enlil]{“Let not its people perish,”} 
+#etcsl: line-id=G.157
+
+G.158. uŋ₃-bi nam-ba-til-le he₂-em-me-ne-dug₄
+#lem: uŋ[people]; til[complete]; dug[speak]
+#tr.en: I implored them. 
+#etcsl: line-id=G.158
+
+G.159. an-ne₂ %e e-ne-eŋ₃-bi %s ba-ra-mu-un-gur
+#lem: an[sky]; eneŋ[word]N; gur[turn]
+#tr.en: But @wDN{An} did not change that word. 
+#etcsl: line-id=G.159
+
+G.160.  %e  {d}mu-ul-lil₂-le  %s  i₃-sag₉ he₂-am₃-bi šag₄-ŋu₁₀ ba-ra-bi₂-in-sed₄
+#lem: Mullil[1]DN; sag[good]; heʾam[so be it!]; šag[heart]; sed[cold]
+#tr.en: @wDN{Enlil} did not soothe my heart with an @q[Enlil,]{“It is good -- so be it”}.”} 
+#etcsl: line-id=G.160
+
+G.161. %e uru₂-ŋu₁₀ %s gul-gul-lu-ba a₂-bi he₂-em-ma-an-aŋ₂-eš
+#lem: uru[city]; gul[destroy]; a[arm]; aŋ[measure]
+#tr.en: @q{“They gave instructions that my city should be utterly destroyed. 
+#etcsl: line-id=G.161
+
+G.162. urim₂{ki} gul-gul-lu-ba a₂-bi he₂-em-ma-an-aŋ₂-eš
+#lem: Urim[1]SN; gul[destroy]; a[arm]; aŋ[measure]
+#tr.en: They gave instructions that @wSN{Urim} should be utterly destroyed. 
+#etcsl: line-id=G.162
+
+G.163. uŋ₃-bi ug₅-ge-de₃ %e na-aŋ₂-bi %s ha-ba-an-tar-re-eš
+#lem: uŋ[people]; ug[kill]; naŋ[fate]N; tar[cut]
+#tr.en: They decreed its destiny that its people should be killed. 
+#etcsl: line-id=G.163
+
+G.164. %e me-e %s niŋ₂-dug₄-ŋu₁₀ mu-ne-šum₂-ma-gin₇
+#lem: meʾe[I]IP; niŋduga[speech]; šum[give]
+#tr.en: In return for the speech (?) which I had given them, 
+#etcsl: line-id=G.164
+
+G.165. %e me-e %s %e uru₂-ŋu₁₀-da %s he₂-en-ga-mu-un-da-la₂-eš
+#lem: meʾe[I]IP; uru[city]; la[hang]
+#tr.en: they both bound me together with my city  
+#etcsl: line-id=G.165
+
+G.166. urim₂{ki}-ŋu₁₀ %e ma-da %s he₂-en-ga-mu-da-la₂-e-eš
+#lem: Urim[1]SN; meʾe[I]IP; la[hang]
+#tr.en: and also bound my @wSN{Urim} together with me. 
+#etcsl: line-id=G.166
+
+G.167. an-ne₂ dug₄-ga-ni hur nu-kur₂-ru-dam
+#lem: An[1]DN; dug[speak]; hur[ever (again)]; kur[different]
+#tr.en: @wDN{An} is not one to change his command, 
+#etcsl: line-id=G.167
+
+G.168.  %e  {d}mu-ul-lil₂-le  %s  ka-ta e₃-a-ni šu nu-bal-e-de₃
+#lem: Mullil[1]DN; kag[mouth]; e[leave]; šu[hand]; bala[turn]
+#tr.en: and @wDN{Enlil} does not alter what he has uttered.”} 
+#etcsl: line-id=G.168
+
+@div trailer 
+
+G.169. ki-ru-gu₂ 4-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 4th @fsux{kirugu}. 
+#etcsl: line-id=G.169
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal H
+
+H.170. %e uru₂-ni %s ba-an-da-gul-la me-ni ba-an-da-kur₂-ra
+#lem: uru[city]; gul[destroy]; me[Being]; kur[different]
+#tr.en: Her city has been destroyed in her presence, her powers have been alienated from her. 
+#etcsl: line-id=H.170
+
+@div trailer 
+
+H.171. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=H.171
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu I
+
+I.172. {d}en-lil₂-le ud-de₃ gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+#lem: Enlil[1]DN; ud[storm]; gu[voice]; de[pour]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: @wDN{Enlil} called the storm -- the people groan. 
+#etcsl: line-id=I.172
+
+I.173. ud he₂-ŋal₂-la kalam-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; heŋal[plenty]; kalam[the Land (of Sumer)]; kar[flee]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He brought the storm of abundance away from the Land -- the people groan. 
+#etcsl: line-id=I.173
+
+I.174. ud dug₃ ki-en-gi-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+#lem: ud[sun]; dug[good]; Kengir[1]; kar[flee]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He brought the good storm away from @wGN{Sumer} -- the people groan. 
+#etcsl: line-id=I.174
+
+I.175. ud hul-ŋal₂-e a₂ ba-da-an-aŋ₂ uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; huluŋal[evil]; a[arm]; aŋ[measure]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He issued directions to the evil storm -- the people groan. 
+#etcsl: line-id=I.175
+
+I.176. kin-gal-ud-da ud-da gub-ba šu-na im-ma-an-šum₂
+#lem: Kiŋgaluda[1]DN; ud[storm]; gub[stand]; šu[hand]; šum[give]
+#tr.en: He entrusted it to @wPN{Kin-gal-uda}, the keeper of the storm. 
+#etcsl: line-id=I.176
+
+I.177. ud kalam til-til-e gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; kalam[the Land (of Sumer)]; til[complete]; gu[voice]; de[pour]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He called upon the storm that annihilates the Land -- the people groan. 
+#etcsl: line-id=I.177
+
+I.178. im-hul-im-hul-e gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+#lem: imhul[destructive wind]; gu[voice]; de[pour]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He called upon the evil gales -- the people groan. 
+#etcsl: line-id=I.178
+
+I.179. {d}en-lil₂-le {d}gibil a₂-tah-a-ni mu-na-ni-in-kur₉-re
+#lem: Enlil[1]DN; Gibil[1]DN; atah[helper]; kur[enter]
+#tr.en: @wDN{Enlil} brought @wDN{Gibil} as his aid. 
+#etcsl: line-id=I.179
+
+I.180. ud gal an-na-ke₄ gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; gal[big]; an[sky]; gu[voice]; de[pour]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He called the great storm of heaven -- the people groan. 
+#etcsl: line-id=I.180
+
+I.181. ud gal-e an-ta gu₃ im-me uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; gal[big]; an[sky]; gu[voice]; dug[speak]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The great storm howls above -- the people groan. 
+#etcsl: line-id=I.181
+
+I.182. ud kalam til-til-e ki-a mur im-ša₄ uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; kalam[the Land (of Sumer)]; til[complete]; ki[place]; mur[noise]; ša[cvve]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The storm that annihilates the Land roars below -- the people groan. 
+#etcsl: line-id=I.182
+
+I.183. im-hul-e a mah e₃-a-gin₇ gu₂-bi nu-ŋa₂-ŋa₂
+#lem: imhul[destructive wind]; a[water]; mah[great]; e[leave]; gu[neck]; ŋar[put]
+#tr.en: The evil wind, like a rushing torrent, cannot be restrained. 
+#etcsl: line-id=I.183
+
+I.184. {ŋiš}tukul %e uru₂-ke₄ %s saŋ gaz i₃-ak-e teš₂-bi i₃-gu₇-e
+#lem: tukul[weapon]; uru[city]; saŋ[head]; gaz[kill]; ak[do]; teš[unity]; gu[eat]
+#tr.en: The weapons in the city smash heads and consume indiscriminately. 
+#etcsl: line-id=I.184
+
+I.185. an-na ur₂-ba kana₆ mu-un-ni₁₀-ni₁₀ uŋ₃-e še am₃-ša₄
+#lem: an[sky]; ur[root]; kana[dark]; niŋin[encircle]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The storm whirled gloom around the base of the horizon -- the people groan. 
+#etcsl: line-id=I.185
+
+I.186. ud-da igi-ba izi mu-un-bar₇-bar₇-e uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; igi[eye]; izi[fire]; bar[burn]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: In front of the storm, heat blazes -- the people groan. 
+#etcsl: line-id=I.186
+
+I.187. ud mir-mir-da izi-ŋi₆-edin-na bar ba-da-an-tab
+#lem: ud[storm]; mir[angry]; iziŋiʾedena[an atmospheric phenomenon]; bar[outside]; tab[burn]
+#tr.en: A fiery glow burns with the raging storm. 
+#etcsl: line-id=I.187
+
+I.188. an-bar₇ bar-šeŋ₃ il₂-il₂-la-gin₇ izi im-ma-an-bar₇-bar₇
+#lem: anbar[mid-day]; baršeŋ[fog]; il[raise]; izi[fire]; bar[burn]
+#tr.en: After the haze had lifted at noon, he made fires blaze. 
+#etcsl: line-id=I.188
+
+I.189. an-bar₇-gana₂ ud zalag e₃-a ud dug₃-da ba-da-an-tab
+#lem: anbarkar[mid-day]; ud[sun]; zalag[bright]; e[leave]; ud[storm]; dug[good]; tab[double]
+#tr.en: He locked up the day and the rising of the bright sun together with the good storm. In the Land he did not let the bright sun rise; 
+#etcsl: line-id=I.189
+
+I.190. kalam-ma ud zalag-ga la-ba-an-e₃ mul an-usan₆(|GU₂×KAK|)-gin₇ ba-zal
+#lem: kalam[the Land (of Sumer)]; ud[sun]; zalag[bright]; e[leave]; mul[star]; usan[evening]; zal[pass time]
+#tr.en: it shone like the evening star. In the delightful night, 
+#etcsl: line-id=I.190
+
+I.191. ŋi₆ giri₁₇-zal a₂ sed ŋar-ra-ba {tum₉}u₁₈-lu ba-da-an-tab
+#lem: ŋi[night]; kirizal[joy]; a[time]; sed[cool]; ŋar[put]; ulu[south wind]; tab[double]
+#tr.en: the time when coolness sets in, he redoubled the south wind. 
+#etcsl: line-id=I.191
+
+I.192. šika bar₇-bar₇-re-da sahar im-da-tab-tab uŋ₃-e še am₃-ša₄
+#lem: šika[sherd]; bar[burn]; sahar[soil]; tab[burn]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The scorching potsherds made the dust glow (?) -- the people groan. 
+#etcsl: line-id=I.192
+
+I.193. saŋ gig₂-ga tum₉-tum₉ ba-an-dal uŋ₃-e še am₃-ša₄
+#lem: saŋ[head]; giggig[black]; tumu[wind]; dal[fly]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He swept the winds over the black-headed people -- the people groan. 
+#etcsl: line-id=I.193
+
+I.194. ki-en-gi ŋiš-bur₂-ra i₃-bal-e uŋ₃-e še am₃-ša₄
+#lem: Kengir[1]; ŋešpar[trap]; bala[turn]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: @wGN{Sumer} was overturned by a snare -- the people groan. 
+#etcsl: line-id=I.194
+
+I.195. kalam-e saŋ e₂-ŋar₈ du₃ i₃-ak-e teš₂-bi i₃-gu₇-e
+#lem: kalam[the Land (of Sumer)]; saŋ[head]; egar[wall]; du[build]; ak[do]; teš[unity]; gu[eat]
+#tr.en: It attacked (?) the Land and devoured it completely. 
+#etcsl: line-id=I.195
+
+I.196. ud gig er₂-re nam nu-tar-re uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; gig[sick]; er[tears]; nam[fate]; tar[cut]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: Tears cannot influence the bitter storm -- the people groan. 
+#etcsl: line-id=I.196
+
+I.197. ud šu ur₄-ur₄-re kalam i₃-ur₃-ur₃-re
+#lem: ud[storm]; šu[hand]; ur[gather]; kalam[the Land (of Sumer)]; ur[drag]
+#tr.en: The reaping storm dragged across the Land. Like a flood storm it completely destroyed the city. 
+#etcsl: line-id=I.197
+
+I.198. ud a-ma-ru-gin₇ %e uru₂ %s i₃-gul-gul-e
+#lem: ud[storm]; amaru[flood]; uru[city]; gul[destroy]
+#tr.en: The storm that annihilates the Land silenced the city. 
+#etcsl: line-id=I.198
+
+I.199. ud kalam til-til-e %e uru₂-a %s me bi₂-ib-ŋar
+#lem: ud[storm]; kalam[the Land (of Sumer)]; til[complete]; uru[city]; me[Being]; ŋar[put]
+#tr.en: The storm that will make anything vanish came doing evil. 
+#etcsl: line-id=I.199
+
+I.200. ud niŋ₂ u₂-gu de₂-de₂ hul-ŋal₂-eš ba-e-DU
+#lem: ud[storm]; niŋ[thing]; ugu[cvne]; de[pour]; huluŋal[evil]; X
+#tr.en: The storm blazing like fire performed its task upon the people. 
+#etcsl: line-id=I.200
+
+I.201. ud izi-gin₇ bar₇-a uŋ₃-e šu bi₂-ib-ŋar
+#lem: ud[storm]; izi[fire]; bar[burn]; uŋ[people]; šu[hand]; ŋar[put]
+#tr.en: The storm ordered by @wDN{Enlil} in hate, the storm which wears away the Land, 
+#etcsl: line-id=I.201
+
+I.202. ud hul gig dug₄-ga {d}en-lil₂-la₂ ud kalam-ta be₄-be₄
+#lem: ud[storm]; hulu[bad]; gig[sick]; dug[speak]; Enlil[1]DN; ud[storm]; kalam[the Land (of Sumer)]; be[diminish]
+#tr.en: covered @wSN{Urim} like a garment, 
+#etcsl: line-id=I.202
+
+I.203. urim₂{ki}-ma tug₂-gin₇ ba-e-dul gada-gin₇ ba-e-bur₂
+#lem: Urim[1]SN; tug[textile]; dul[cover]; gada[flax]; bur[spread out]
+#tr.en: was spread out over it like linen. 
+#etcsl: line-id=I.203
+
+@div trailer 
+
+I.204. ki-ru-gu₂ 5-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 5th @fsux{kirugu}. 
+#etcsl: line-id=I.204
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal J
+
+J.205. ud ug-am₃ al-du₇-du₇ uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; ug[lion]; du[push]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The storm, like a lion, has attacked unceasingly -- the people groan. 
+#etcsl: line-id=J.205
+
+@div trailer 
+
+J.206. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=J.206
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu K
+
+K.207. ud-ba ud %e uru₂-da %s ba-da-an-ŋar %e uru₂-bi %s du₆-du₆-da
+#lem: ud[sun]; ud[storm]; uru[city]; ŋar[put]; uru[city]; dud[(ruin) mound]
+#tr.en: Then the storm was removed from the city, that city reduced to ruin mounds. 
+#etcsl: line-id=K.207
+
+K.208. a-a {d}nanna %e uru₂-ni %s du₆-du₆-da ba-da-an-ŋar uŋ₃-e še am₃-ša₄
+#lem: aya[father]; Nanna[1]DN; uru[city]; dud[(ruin) mound]; ŋar[put]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: It was removed from Father @wDN{Nanna's} city reduced to ruin mounds -- the people groan. 
+#etcsl: line-id=K.208
+
+K.209. ud-ba ud kalam-ta ba-da-an-kar uŋ₃-e še am₃-ša₄
+#lem: ud[sun]; ud[storm]; kalam[the Land (of Sumer)]; kar[flee]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: Then, the storm was taken from the Land -- the people groan. 
+#etcsl: line-id=K.209
+
+@variants
+
+#etcsl#ms 2 mss. add 1 line:
+K.209A. ud dug₃ ki-en-gi-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+#lem: ud[storm]; dug[good]; Kengir[1]; kar[flee]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: @vart[t222.v3,t222.v3]{@varn{2 mss. add 1 line:} The good storm was taken from @wGN{Sumer} -- the people groan. } Its people littered its outskirts just as if they might have been broken potsherds. 
+#etcsl: line-id=K.209A
+
+@endvariants
+K.210. uŋ₃-bi šika kud-da nu-me-a bar-ba ba-e-si
+#lem: uŋ[people]; šika[sherd]; kud[cut]; me[be]; bar[outside]; si[fill]
+#tr.en: Breaches had been made in its walls -- the people groan. 
+#etcsl: line-id=K.210
+
+K.211. bad₃-bi gu₂-ŋiri₃ im-ma-an-ŋar-ŋar uŋ₃-e še am₃-ša₄
+#lem: bad[wall]; guŋiri[breach]; ŋar[put]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: On its lofty city-gates where walks had been taken, corpses were piled. 
+#etcsl: line-id=K.211
+
+K.212. abula mah ŋiri₃ ŋal₂-la-ba ad₆ im-ma-an-ŋar-ŋar
+#lem: abula[gate]; mah[great]; ŋiri[foot]; ŋal[⟦be⟧ to be (there]; adda[corpse]; ŋar[put]
+#tr.en: On its boulevards where festivals had been held, heads lay scattered (?). 
+#etcsl: line-id=K.212
+
+K.213. sila daŋal ezem-ma du₃-a-ba saŋ bal-e-eš ba-ab-ŋar
+#lem: sila[street]; daŋal[wide]; ezem[festival]; du[build]; saŋ[head]; bala[turn]; ŋar[put]
+#tr.en: In all its streets where walks had been taken, corpses were piled. 
+#etcsl: line-id=K.213
+
+K.214. e-sir₂-e-sir₂ ŋiri₃ ŋal₂-la-ba ad₆ im-ma-an-ŋar-ŋar
+#lem: esir[street]; ŋiri[foot]; ŋal[⟦be⟧ to be (there]; adda[corpse]; ŋar[put]
+#tr.en: In its places where the dances of the Land had taken place, people were stacked in heaps. 
+#etcsl: line-id=K.214
+
+K.215. ešemen kalam-ma ŋal₂-la-ba uŋ₃ zar-re-eš ba-an-du₈
+#lem: ešemen[skipping rope]; kalam[the Land (of Sumer)]; ŋal[⟦be⟧ to be (there]; uŋ[people]; zar[sheaf (of barley)]; du[spread]
+#tr.en: They made the blood of the Land flow down the wadis like copper or tin. 
+#etcsl: line-id=K.215
+
+K.216. u₃-mun kalam-ma-ke₄ urud an-na-gin₇ sur₃-sur₃ ba-ni-in-de₆-eš
+#lem: umun[blood]; kalam[the Land (of Sumer)]; urud[copper]; anna[metal]; sur[canal]; de[carry]
+#tr.en: Its corpses, like fat left in the sun, melted away of themselves. 
+#etcsl: line-id=K.216
+
+K.217. ad₆-bi {uzu}i₃-udu ud-de₃ ŋal₂-la-gin₇ ni₂-bi-a mu-un-zal-eš
+#lem: adda[corpse]; lib[sheep fat]; ud[sun]; ŋal[⟦be⟧ to be (there]; ni[self]; zal[pass time]
+#etcsl: line-id=K.217
+
+K.218. lu₂ {urud}ha-zi-in-e im-til-la-gin₇ saŋ tug₂ la-ba-ab-dul-eš
+#lem: lu[person]; hazin[ax]; til[complete]; saŋ[head]; tug[textile]; dul[cover]
+#tr.en: The heads of its men slain by the axe were not covered with a cloth. 
+#etcsl: line-id=K.218
+
+K.219. maš-da₃ ŋiš-bur₂-ra dab₅-ba-gin₇ ka sahar-ra bi₂-in-us₂
+#lem: mašda[gazelle]; ŋešpar[trap]; dab[seize]; kag[mouth]; sahar[soil]; us[accompany]
+#tr.en: Like a gazelle caught in a trap, their mouths bit the dust. 
+#etcsl: line-id=K.219
+
+K.220. lu₂ ŋiš-gid₂-da mu-un-ra-bi niŋ₂-la₂ ba-ra-bi₂-in-la₂-eš
+#lem: lu[person]; gida[lance]; rah[beat]; niŋla[an item of clothing]; la[hang]
+#tr.en: Men struck down by the spear were not bound with bandages. 
+#etcsl: line-id=K.220
+
+K.221. i-gi₄-in-zu ki ha-ri-iš-ta ama-ba-ka uš₂-bi-a mu-un-nu₂!(SA₄)-eš
+#lem: iginzu[as if]; ki[place]; harištum[woman in childbirth]; ama[mother]; uš[blood]; nud[lie down]
+#tr.en: As if in the place where their mothers had laboured, they lay in their own blood. 
+#etcsl: line-id=K.221
+
+K.222. lu₂ {ŋiš}mitum-e im-til-la-gin₇ tug₂ gibil ba-ra-bi₂-in-la₂-eš
+#lem: lu[person]; mitum[divine weapon]; til[complete]; tug[textile]; gibil[new]; la[hang]
+#tr.en: Its men who were finished off by the battle-mace were not bandaged with new (?) cloth. 
+#etcsl: line-id=K.222
+
+K.223. lu₂ kurun naŋ-a nu-me-eš-a gu₃ zag-ga bi₂-in-ŋal₂-eš
+#lem: lu[person]; kurun[beer]; naŋ[drink]; e[speak]; gu[voice]; zag[side]; ŋal[⟦be⟧ to be (there]
+#tr.en: Although they were not drunk with strong drink, their necks drooped on their shoulders. 
+#etcsl: line-id=K.223
+
+K.224. {ŋiš}tukul-e gub-ba {ŋiš}tukul-e in-gaz uŋ₃-e še am₃-ša₄
+#lem: tukul[weapon]; gub[stand]; tukul[weapon]; gaz[kill]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He who stood up to the weapon was crushed by the weapon -- the people groan. 
+#etcsl: line-id=K.224
+
+K.225. lu₂-kar-ra-bi ud im-ma-du-bu-ul uŋ₃-e še am₃-ša₄
+#lem: lukara[fugitive]; ud[storm]; dubul[paralyze?]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: He who ran away from it was overwhelmed (?) by the storm -- the people groan. 
+#etcsl: line-id=K.225
+
+K.226. urim₂{ki}-ma sig₉-ga kalag-ga-bi šag₄-ŋar-ra im-til
+#lem: Urim[1]SN; sig[weak]; kalag[strong]; šaŋar[starvation]; til[complete]
+#tr.en: The weak and the strong of @wSN{Urim} perished from hunger. 
+#etcsl: line-id=K.226
+
+K.227. um-ma ab-ba e₂-ta nu-e₃ izi mu-ni-in-sig₁₀-sig₁₀-ge₅-eš
+#lem: umma[old woman]; abba[father]; e[house]; e[leave]; izi[fire]; sig[put into]
+#tr.en: Mothers and fathers who did not leave their houses were consumed by fire. 
+#etcsl: line-id=K.227
+
+K.228. di₄-di₄-la₂ ur₂ ama-ba-ka nu₂-a ku₆-gin₇ a ba-an-de₆
+#lem: didila[small(er)]; ur[loin]; ama[mother]; nud[lie down]; kud[fish]; a[water]; de[carry]
+#tr.en: The little ones lying in their mothers' arms were carried off like fish by the waters. 
+#etcsl: line-id=K.228
+
+K.229. emeda(|UM.ME|){da} lirum kalag-ga-bi lirum ba-an-da-du₈
+#lem: emeda[nursemaid]; lirum[strength]; kalag[strong]; lirum[strength]; du[spread]
+#tr.en: Among the nursemaids with their strong embrace, the embrace was pried open. 
+#etcsl: line-id=K.229
+
+K.230. dim₂-ma kalam-ma u₂-gu im-ta-an-de₂ uŋ₃-e še am₃-ša₄
+#lem: dimma[thought]; kalam[the Land (of Sumer)]; ugu[cvne]; de[pour]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The Land's judgment disappeared -- the people groan. 
+#etcsl: line-id=K.230
+
+K.231. ŋalga kalam-ma sug-ge₄ ba-ab-gu₇ uŋ₃-e še am₃-ša₄
+#lem: ŋalga[(fore)thought]; kalam[the Land (of Sumer)]; sug[reed-bed]; gu[eat]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The Land's counsel was swallowed by a swamp -- the people groan. 
+#etcsl: line-id=K.231
+
+K.232. ama dumu-ni igi-ni ba-ra-e₃ uŋ₃-e še am₃-ša₄
+#lem: ama[mother]; dumu[child]; igi[eye]; e[leave]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The mother absconded before her child's eyes -- the people groan. 
+#etcsl: line-id=K.232
+
+K.233. ad-da dumu-ni-ta ba-da-an-kur₂ uŋ₃-e še am₃-ša₄
+#lem: adda[father]; dumu[child]; kur[different]; uŋ[people]; šeg[voice]; ša[cvve]
+#tr.en: The father turned away from his child -- the people groan. 
+#etcsl: line-id=K.233
+
+K.234. %e uru₂-a %s dam ba-šub dumu ba-šub niŋ₂-gur₁₁ ba-bir-bir-re
+#lem: uru[city]; dam[spouse]; šub[fall]; dumu[child]; šub[fall]; niŋgur[property]; bir[scatter]
+#tr.en: In the city the wife was abandoned, the child was abandoned, possessions were scattered about. 
+#etcsl: line-id=K.234
+
+K.235. saŋ gig₂ ki-saŋ-ŋal₂-la-ba im-me-de₃-re₇-eš
+#lem: saŋ[head]; giggig[black]; kisaŋŋala[stronghold]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
+#tr.en: The black-headed people were carried off from their strongholds. 
+#etcsl: line-id=K.235
+
+K.236. nin-bi mušen ni₂ te-a-gin₇ %e uru₂-ni %s ba-ra-e₃
+#lem: nin[lady]; mušen[bird]; ni[fear]; teŋ[approach]; uru[city]; e[leave]
+#tr.en: Its queen like a bird in fright departed from her city. 
+#etcsl: line-id=K.236
+
+K.237. nin-gal-e mušen ni₂ te-a-gin₇ %e uru₂-ni %s ba-ra-e₃
+#lem: Ningal[1]DN; mušen[bird]; ni[fear]; teŋ[approach]; uru[city]; e[leave]
+#tr.en: @wDN{Ningal} like a bird in fright departed from her city. 
+#etcsl: line-id=K.237
+
+K.238. niŋ₂-gur₁₁ kalam-ma ŋar-ŋar-ra-ba šu pe-el-la₂ ba-ab-dug₄
+#lem: niŋgur[property]; kalam[the Land (of Sumer)]; ŋar[put]; šu[hand]; pel[defile]; dug[speak]
+#tr.en: All the treasures accumulated in the Land were defiled. 
+#etcsl: line-id=K.238
+
+K.239. ama₅ kalam-ma šar₂-šar₂-ra-ba izi im-ma-an-bar₇-bar₇
+#lem: emi[queen's household]; kalam[the Land (of Sumer)]; šar[numerous]V/i; izi[fire]; bar[burn]
+#tr.en: In all the storehouses abounding in the Land fires were kindled. 
+#etcsl: line-id=K.239
+
+K.240. a-niŋin₂-ba {d}gibil lu₂ sikil-la kiŋ₂ mu-un-tuku-tuku
+#lem: aniŋin[reservoir]; Gibil[1]DN; lu[person]; sikil[pure]; kiŋ[work]; tuku[acquire]
+#tr.en: In its ponds @wDN{Gibil}, the purifier, relentlessly did his work. 
+#etcsl: line-id=K.240
+
+K.241. hur-saŋ sukud-ra₂ šu nu-teŋ₃-ŋe₂₆ e₂-kiš-nu-ŋal₂-la
+#lem: hursaŋ[mountain]; sukud[height]; šu[hand]; teŋ[approach]; Ekišnuŋal[1]TN
+#tr.en: The good house of the lofty untouchable mountain, @wTN{E-kiš-nu-ŋal}, was entirely devoured by large axes. 
+#etcsl: line-id=K.241
+
+K.242. e₂ zid-ba {urud}ha-zi-in gal-gal-e teš₂-bi i₃-gu₇-e
+#lem: e[house]; zid[right]; hazin[ax]; gal[big]; teš[unity]; gu[eat]
+#tr.en: The people of @wGN{Šimaški} and @wGN{Elam}, the destroyers, counted its worth as only thirty shekels. 
+#etcsl: line-id=K.242
+
+K.243. šimaški{ki} elam{ki} lu₂ ha-lam-ma 30 giŋ₄ ba-an-ak-e-eš
+#lem: Šimaški[1]GN; Elam[1]GN; lu[person]; halam[forsake]; n; giŋ[unit of weight]; ak[do]
+#tr.en: They broke up the good house with pickaxes. They reduced the city to ruin mounds. 
+#etcsl: line-id=K.243
+
+K.244. e₂ zid {ŋiš}al-a mi-ni-ib-bal-e-ne
+#lem: e[house]; zid[right]; al[hoe]; bala[turn]
+#tr.en: Its queen cried, @q[Ningal,]{“Alas, my city”}, cried, @q[Ningal,]{“Alas, my house”}. 
+#etcsl: line-id=K.244
+
+K.245. %e uru₂ %s du₆-du₆-dam mu-un-ŋa₂-ŋa₂-ne
+#lem: uru[city]; dud[(ruin) mound]; ŋar[put]
+#tr.en: @wDN{Ningal} cried, @q[Ningal,]{“Alas, my city,”} cried, @q[Ningal,]{“Alas, my house. As for me, 
+#etcsl: line-id=K.245
+
+K.246. nin-bi a %e uru₂-ŋu₁₀ %s im-me a e₂-ŋu₁₀ im-me
+#lem: nin[lady]; aya[cry]; uru[city]; dug[speak]; aya[cry]; e[house]; dug[speak]
+#tr.en: the woman, 
+#etcsl: line-id=K.246
+
+K.247. {d}nin-gal-e a %e uru₂-ŋu₁₀ %s im-me a e₂-ŋu₁₀ im-me
+#lem: Ningal[1]DN; aya[cry]; uru[city]; dug[speak]; aya[cry]; e[house]; dug[speak]
+#tr.en: both my city has been destroyed and my house has been destroyed. 
+#etcsl: line-id=K.247
+
+K.248. lu₂ %e nu-nus-e %s u₃ %e uru₂-ŋu₁₀ %s mu-da-gul u₃ e₂-ŋu₁₀ mu-da-gul
+#lem: lu[person]; nunus[woman]N; ua[oh!]; uru[city]; gul[destroy]; ua[oh!]; e[house]; gul[destroy]
+#tr.en: O @wDN{Nanna}, 
+#etcsl: line-id=K.248
+
+K.249. {d}nanna eš₃ urim₂{ki} mu-da-gul %e mu-lu-bi %s ba-ug₅-ga-eš
+#lem: Nanna[1]DN; eš[shrine]; Urim[1]SN; gul[destroy]; mulu[person]N; ug[kill]
+#tr.en: the shrine @wSN{Urim} has been destroyed and its people have been killed.”} 
+#etcsl: line-id=K.249
+
+@div trailer 
+
+K.250. ki-ru-gu₂ 6-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 6th @fsux{kirugu}. 
+#etcsl: line-id=K.250
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal L
+
+L.251. tur₃-ra-na amaš-a-na %e nu-nus-e %s inim gig mu-ni-ib-be₂
+#lem: tur[animal stall]; amaš[sheepfold]; nunus[woman]N; inim[word]; gig[sick]; e[speak]
+#tr.en: In her cow-pen, in her sheepfold the woman utters bitter words: 
+#etcsl: line-id=L.251
+
+L.252. %e uru₂ %s ud-de₃ am₃-gul-e
+#lem: uru[city]; ud[storm]; gul[destroy]
+#tr.en: @q[Ningal,]{“The city has been destroyed by the storm.”} 
+#etcsl: line-id=L.252
+
+@div trailer 
+
+L.253. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=L.253
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu M
+
+M.254. ama {d}nin-gal %e uru₂-ni %s lu₂-erim₂-gin₇ bar-ta ba-da-gub
+#lem: ama[mother]; Ningal[1]DN; uru[city]; luʾerim[evildoer]; bar[outside]; gub[stand]
+#tr.en: Mother @wDN{Ningal}, like an enemy, stands outside her city. 
+#etcsl: line-id=M.254
+
+M.255. lu₂ %e nu-nus-e %s er₂ e₂ hul-a-na gig-ga-bi im-me
+#lem: lu[person]; nunus[woman]N; er[tears]; e[house]; hulu[bad]; gig[sick]; dug[speak]
+#tr.en: The woman laments bitterly over her devastated house. 
+#etcsl: line-id=M.255
+
+M.256. egir₃-re eš₃ urim₂{ki} hul-a-na gig-ga-bi im-me
+#lem: egir[princess]; eš[shrine]; Urim[1]SN; hulu[bad]; gig[sick]; dug[speak]
+#tr.en: Over her devastated shrine @wSN{Urim}, the princess bitterly declares: @q[Ningal,]{“@wDN{An} has indeed cursed my city, my city has been destroyed before me. 
+#etcsl: line-id=M.256
+
+M.257. an-ne₂ %e uru₂-ŋu₁₀ %e na-aŋ₂ %s ha-ba-da-an-kud %e uru₂-ŋu₁₀ %s hu-mu-da-gul
+#lem: An[1]DN; uru[city]; naŋ[fate]N; kud[cut]; uru[city]; gul[destroy]
+#tr.en: @wDN{Enlil} has indeed transformed my house, it has been smitten by pickaxes. 
+#etcsl: line-id=M.257
+
+M.258.  %e  {d}mu-ul-lil₂-le  %s  e₂-ŋu₁₀ šu he₂-bi₂-in-bal {ŋiš}al-e ha-ba-ra
+#lem: Mullil[1]DN; e[house]; šu[hand]; bala[turn]; al[hoe]; rah[beat]
+#tr.en: On my ones coming from the south he hurled fire. 
+#etcsl: line-id=M.258
+
+M.259. sig-ta di-ŋa₂ izi ha-ba-ni-in-šub a %e uru₂-ŋu₁₀ %s hu-mu-da-gul
+#lem: sig[weak]; ŋen[go]; izi[fire]; šub[fall]; aya[cry]; uru[city]; gul[destroy]
+#tr.en: Alas, my city has indeed been destroyed before me. 
+#etcsl: line-id=M.259
+
+M.260.  %e  {d}mu-ul-lil₂-e  %s  %e i-bi₂ %s nim-ta di-ŋa₂ u₃-bu-bu-ul ha-ba-ni-in-šub
+#lem: Mullil[1]DN; ibi[eye]N; nim[high]; ŋen[go]; ububul[lightning flash]; šub[fall]
+#tr.en: On my ones coming from the highlands @wDN{Enlil} hurled flames. 
+#etcsl: line-id=M.260
+
+M.261. %e uru₂ %s bar-ra %e uru₂ %s bar hu-mu-da-an-gul a %e uru₂-ŋu₁₀ %s ga-am₃-dug₄
+#lem: uru[city]; bar[outside]; uru[city]; bar[outside]; gul[destroy]; aya[cry]; uru[city]; dug[speak]
+#tr.en: Outside the city, the outer city was destroyed before me -- I shall cry @q[Ningal,]{“Alas, my city”}. 
+#etcsl: line-id=M.261
+
+M.262. %e uru₂ %s šag₄-ba %e uru₂ %e ša₃-ab %s hu-mu-da-an-gul a %e uru₂-ŋu₁₀ %s ga-am₃-dug₄
+#lem: uru[city]; šag[heart]; uru[city]; šab[heart]N; gul[destroy]; aya[cry]; uru[city]; dug[speak]
+#tr.en: Inside the city, the inner city was destroyed before me -- I shall cry @q[Ningal,]{“Alas, my city”}. 
+#etcsl: line-id=M.262
+
+M.263. e₂ %e uru₂ %s bar-ra-ŋu₁₀ ha-ba-gul-gul a e₂-ŋu₁₀ ga-am₃-dug₄
+#lem: e[house]; uru[city]; bar[outside]; gul[destroy]; aya[cry]; e[house]; dug[speak]
+#tr.en: My houses of the outer city were destroyed -- I shall cry @q[Ningal,]{“Alas, my houses”}. 
+#etcsl: line-id=M.263
+
+M.264. e₂ %e uru₂ %e ša₃-ba-ŋu₁₀ %s ha-ba-gul-gul a e₂-ŋu₁₀ ga-am₃-dug₄
+#lem: e[house]; uru[city]; šab[heart]N; gul[destroy]; aya[cry]; e[house]; dug[speak]
+#tr.en: My houses of the inner city were destroyed -- I shall cry @q[Ningal,]{“Alas, my houses”}.”} 
+#etcsl: line-id=M.264
+
+M.265. %e uru₂-ŋu₁₀ %s u₈ zid-gin₇ ba-ra-ma-lu sipad zid-bi ba-ra-ŋen
+#lem: uru[city]; u[sheep]; zid[right]; lu[abundant]; sipad[shepherd]; zid[right]; ŋen[go]
+#tr.en: @q{“My city no longer multiplies for me like good ewes, its good shepherd is gone. 
+#etcsl: line-id=M.265
+
+M.266. urim₂{ki} u₈ zid-gin₇ ba-ra-ma-lu kab-bar-bi ba-ra-ŋen
+#lem: Urim[1]SN; u[sheep]; zid[right]; lu[abundant]; gabar[herder]; ŋen[go]
+#tr.en: @wSN{Urim} no longer multiplies for me like good ewes, its shepherd boy is gone. 
+#etcsl: line-id=M.266
+
+M.267. gud-ŋu₁₀ tur₃-bi-a ba-ra-mu-un-šub %e mu-lu-bi %s ba-ra-ŋen
+#lem: gud[bull]; tur[animal stall]; šub[fall]; mulu[person]N; ŋen[go]
+#tr.en: My bull no longer crouches in its cow-pen, its herdsman is gone. 
+#etcsl: line-id=M.267
+
+M.268. %e e-ze₂-ŋu₁₀ %s amaš-bi-a ba-ra-mu-un-šub na-gada-bi ba-ra-ŋen
+#lem: eze[sheep]N; amaš[sheepfold]; šub[fall]; nagada[herdsman]; ŋen[go]
+#tr.en: My sheep no longer crouch in their fold, their herdsman is gone. 
+#etcsl: line-id=M.268
+
+M.269. id₂ %e uru₂-ŋa₂-ke₄ %s sahar ha-ba-niŋin₂ e₂ ka₅-a ha-ba-an-du₃
+#lem: id[river]; uru[city]; sahar[soil]; niŋin[encircle]; e[house]; kaʾa[fox]; du[build]
+#tr.en: In the river of my city dust has gathered, and the holes of foxes have been dug there. 
+#etcsl: line-id=M.269
+
+M.270. šag₄-ba a zal-le ba-ra-mu-un-de₆ %e mu-un-kud-bi %s ba-ra-ŋen
+#lem: šag[heart]; a[water]; zal[pass time]; de[carry]; munkud[tax-collector]N; ŋen[go]
+#tr.en: In its midst no flowing water is carried, its tax-collector is gone. 
+#etcsl: line-id=M.270
+
+M.271. gana₂ %e uru₂-ŋa₂-ke₄ %s še %e ba-ra-ma-al mu-un-gar₃-bi %s ba-ra-ŋen
+#lem: gana[field]; uru[city]; še[barley]; mal[be]V/i; mungar[farmer]N; ŋen[go]
+#tr.en: In the fields of my city there is no grain, their farmer is gone. 
+#etcsl: line-id=M.271
+
+M.272. gana₂-ŋu₁₀ gana₂ {ŋiš}al-e ri-a-gin₇ mul-gana₂ bil₂ ha-ba-mu₂
+#lem: gana[field]; gana[field]; al[hoe]; ri[impose]; mulgana[plant]; bil[burn]; mu[grow]
+#tr.en: My fields, like fields from which the hoe has been kept away (?), have grown tangled (?) weeds. 
+#etcsl: line-id=M.272
+
+M.273. pu₂-kiri₆ lal₃ gurun dirig-ŋu₁₀ {ŋiš}kiši₁₆ kur-ra ha-ba-mu₂
+#lem: pukiri[irrigated orchard]; lal[syrup]; gurun[fruit]; dirig[make more than]; kišig[acacia]; kur[mountain(s)]; mu[grow]
+#tr.en: My orchards and gardens that produced abundant syrup and wine have grown mountain thornbushes. 
+#etcsl: line-id=M.273
+
+M.274. edin giri₁₇-zal-bi du₃-du₃-a-ŋu₁₀ gir₄-gin₇ ha-ba-hur-hur
+#lem: eden[back]; kirizal[joy]; du[build]; gir[oven]; hur[scratch]
+#tr.en: My plain that used to be covered in its luxurious verdure has become cracked (?) like a kiln.”} 
+#etcsl: line-id=M.274
+
+M.275. %e mu-un-gur₁₁-ŋu₁₀ %s buru₄{mušen}-dugud zig₃-ga-gin₇ dal-dal-bi ha-ba-ab-in-zig₃ %e mu-un-gur₁₁-ŋu₁₀ %s ga-am₃-dug₄
+#lem: mungur[property]N; burudugud[flock of crows]; zig[rise]; dal[fly]; zig[rise]; mungur[property]N; dug[speak]
+#tr.en: @q{“My possessions, like a flock of rooks rising up, have risen in flight -- I shall cry @q[Ningal,]{“O my possessions”}. 
+#etcsl: line-id=M.275
+
+M.276. %e mu-un-gur₁₁-ŋu₁₀ %s sig-ta di-ŋa₂ sig-še₃ %e ha-ba-ab-ir mu-un-gur₁₁-ŋu₁₀ %s ga-am₃-dug₄
+#lem: mungur[property]N; sig[weak]; ŋen[go]; sig[weak]; ir[bring]; mungur[property]N; dug[speak]
+#tr.en: He who came from the south has carried my possessions off to the south -- I shall cry @q[Ningal,]{“O my possessions”}. 
+#etcsl: line-id=M.276
+
+M.277. %e mu-un-gur₁₁-ŋu₁₀ i-bi₂ %s nim-ta di-ŋa₂ %e i-bi₂ %s nim-še₃ %e ha-ba-ab-ir %e mu-un-gur₁₁-ŋu₁₀ %s ga-am₃-dug₄
+#lem: mungur[property]N; ibi[eye]N; nim[high]; ŋen[go]; ibi[eye]N; nim[high]; ir[bring]; mungur[property]N; dug[speak]
+#tr.en: He who came from the highlands has carried my possessions off to the highlands -- I shall cry @q[Ningal,]{“O my possessions”}. 
+#etcsl: line-id=M.277
+
+M.278. kug za {na₄}za-gin₃-ŋu₁₀ hu-mu-da-an-bir-bir-re %e mu-un-gur₁₁-ŋu₁₀ %s ga-am₃-dug₄
+#lem: kug[metal]; za[bead]; zagin[lapis lazuli]; bir[scatter]; mungur[property]N; dug[speak]
+#tr.en: My silver, gems and lapis lazuli have been scattered about -- I shall cry @q[Ningal,]{“O my possessions”}. 
+#etcsl: line-id=M.278
+
+M.279. gi₁₆-sa-ŋu₁₀ sug-ge₄ hu-mu-da-ab-gu₇ %e mu-un-gur₁₁-ŋu₁₀ %s ga-am₃-dug₄
+#lem: gilsa[treasure]; sug[reed-bed]; gu[eat]; mungur[property]N; dug[speak]
+#tr.en: The swamp has swallowed my treasures -- I shall cry @q[Ningal,]{“O my possessions”}. 
+#etcsl: line-id=M.279
+
+M.280. kug-ŋu₁₀ lu₂ kug nu-zu-u₃-ne šu-bi ha-ba-da-ab-si
+#lem: kug[metal]; lu[person]; kug[metal]; zu[know]; šu[hand]; si[fill]
+#tr.en: Men ignorant of silver have filled their hands with my silver. 
+#etcsl: line-id=M.280
+
+M.281. za-ŋu₁₀ lu₂ za nu-zu-u₃-ne gu₂-bi ha-ba-da-ab-si
+#lem: za[bead]; lu[person]; za[bead]; zu[know]; gu[neck]; si[fill]
+#tr.en: Men ignorant of gems have fastened my gems around their necks. 
+#etcsl: line-id=M.281
+
+M.282. buru₅{mušen} mušen-ŋu₁₀ hu-mu-dal-dal a %e uru₂-ŋu₁₀ %s ga-am₃-dug₄
+#lem: buru[sparrow]; mušen[bird]; dal[fly]; aya[cry]; uru[city]; dug[speak]
+#tr.en: My small birds and fowl have flown away -- I shall say @q[Ningal,]{“Alas, my city”}. 
+#etcsl: line-id=M.282
+
+M.283. %e gi₄-in %s %e du₅-mu-ŋu₁₀ %s ma₂-e ha-ba-ab-lah₄-e-eš a %e uru₂-ŋu₁₀ %s ga-am₃-dug₄
+#lem: gin[worker]N; dumu[child]N; ma[ship]; lah[plural stem of tum ⟦bring⟧]; aya[cry]; uru[city]; dug[speak]
+#tr.en: My slave-girls and children have been carried off by boat -- I shall say @q[Ningal,]{“Alas, my city”}. 
+#etcsl: line-id=M.283
+
+M.284. me-li-e-a %e gi₄-in-ŋu₁₀ %s %e uru₂ %s kur₂-ra %e šu-še-er %s kur₂ ha-ba-an-dab₅
+#lem: meliʾeʾa[an exclamation]; gin[worker]N; uru[city]; kur[different]; šušer[emblem]; kur[alienate]; dab[seize]
+#tr.en: Woe is me, my slave-girls bear strange emblems in a strange city. 
+#etcsl: line-id=M.284
+
+M.285. šul-ŋu₁₀ edin ki nu-zu-na tug₂-mu-un-dur₇ ha-ba-an-ak
+#lem: šul[youth]; eden[back]; ki[place]; zu[know]; tugmudura[mourning garment]; ak[do]
+#tr.en: My young men mourn in a desert they do not know.”} 
+#etcsl: line-id=M.285
+
+M.286. [me-li-e-a %e uru₂-ŋu₁₀] %s nu-me-a %e me-e ga-ša-an-bi %s nu-ŋen
+#lem: meliʾeʾa[an exclamation]; uru[city]; me[be]; meʾe[I]IP; gašan[lady]N; me[be]
+#tr.en: @q{“Woe is me, my city which no longer exists -- I am not its queen. 
+#etcsl: line-id=M.286
+
+M.287. {[d]}[nanna] urim₂{ki} nu-me-a %e me-e %s lu₂-bi nu-ŋen
+#lem: Nanna[1]DN; Urim[1]SN; me[be]; meʾe[I]IP; lu[person]; me[be]
+#tr.en: @wDN{Nanna}, @wSN{Urim} which no longer exists -- I am not its owner. I am the good woman whose house has been made into ruins, 
+#etcsl: line-id=M.287
+
+M.288. ar₂-mur-ra e₂-ŋu₁₀ ha-ba-du₃-a %e uru₂-ŋu₁₀ %s ha-ba-gul-la
+#lem: armura[ruins]; e[house]; du[build]; uru[city]; gul[destroy]
+#tr.en: whose city has been destroyed, in place of whose city a strange city has been built. 
+#etcsl: line-id=M.288
+
+M.289. %e nu-nus %s zid-ŋen %e uru₂-ŋu₁₀-ta %e uru₂ %s kur₂ ha-ba-ra-du₃-du₃-a
+#lem: nunus[woman]N; zid[right]; uru[city]; uru[city]; kur[alienate]; du[build]
+#tr.en: I am @wDN{Ningal} whose city has been made into ruins, 
+#etcsl: line-id=M.289
+
+M.290. ar₂-mur-ra %e uru₂-ŋu₁₀ %s ha-ba-du₃-a e₂-ŋu₁₀ ha-ba-gul-la
+#lem: armura[ruins]; uru[city]; du[build]; e[house]; gul[destroy]
+#tr.en: whose house has been destroyed, 
+#etcsl: line-id=M.290
+
+M.291.  %e  ga-ša-an-gal-ŋen  %s  %e uru₂-ŋu₁₀-ta %s e₂ kur₂ ha-ba-ra-du₃-du₃-a
+#lem: Gašangal[1]DN; uru[city]; e[house]; kur[alienate]; du[build]
+#tr.en: in place of whose house a strange house has been built.”} 
+#etcsl: line-id=M.291
+
+M.292. me-li-e-a %e uru₂ %s mu-da-gul u₃ e₂-ŋu₁₀ mu-da-gul
+#lem: meliʾeʾa[an exclamation]; uru[city]; gul[destroy]; u[and]; e[house]; gul[destroy]
+#tr.en: @q{“Woe is me, the city has been destroyed, my house too has been destroyed. 
+#etcsl: line-id=M.292
+
+M.293. {d}nanna eš₃ urim₂{ki} mu-da-gul %e mu-lu-bi %s ba-ug₅-ga-eš
+#lem: Nanna[1]DN; eš[shrine]; Urim[1]SN; gul[destroy]; mulu[person]N; ug[kill]
+#tr.en: @wDN{Nanna}, the shrine @wSN{Urim} has been destroyed, its people killed. Woe is me, 
+#etcsl: line-id=M.293
+
+M.294. me-li-e-a me-a tuš-u₃-de₃ me-a gub-bu-de₃
+#lem: meliʾeʾa[an exclamation]; mea[where?]; tuš[sit (down)]; mea[where?]; gub[stand]
+#tr.en: where can I sit, where can I stand? Woe is me, in place of my city a strange house is being erected. 
+#etcsl: line-id=M.294
+
+M.295. me-li-e-a %e uru₂-ŋu₁₀-ta %s e₂ kur₂ ma-ra-an-du₃-u₃-de₃
+#lem: meliʾeʾa[an exclamation]; uru[city]; e[house]; kur[alienate]; du[build]
+#tr.en: I am the good woman in place of whose house a strange city is being built. 
+#etcsl: line-id=M.295
+
+M.296. %e nu-nus %s zid-ŋen e₂-ŋu₁₀-ta %e uru₂ %s kur₂ ma-ra-an-ŋa₂-ŋa₂-de₃
+#lem: nunus[woman]N; zid[right]; e[house]; uru[city]; kur[alienate]; ŋar[put]
+#tr.en: Upon its removal from its place, from the plain, I shall say @q[Ningal,]{“Alas, 
+#etcsl: line-id=M.296
+
+M.297. ki-bi-ta edin-ta ba₉-ra₂-a-bi a %e mu-lu-ŋu₁₀ %s ga-am₃-dug₄
+#lem: ki[place]; eden[back]; bad[open]; aya[cry]; mulu[person]N; dug[speak]
+#tr.en: my people”}. Upon my city's removal from @wSN{Urim}, I shall say @q[Ningal,]{“Alas, 
+#etcsl: line-id=M.297
+
+M.298. %e uru₂-ŋu₁₀ %s urim₂{ki}-ta ba₉-ra₂-a-bi a %e uru₂-ŋu₁₀ %s ga-am₃-dug₄
+#lem: uru[city]; Urim[1]SN; bad[open]; aya[cry]; uru[city]; dug[speak]
+#tr.en: my house”}.”} 
+#etcsl: line-id=M.298
+
+M.299. lu₂ siki-ni numun₂-bur-gin₇ šu mu-ni-in-dub₂-dub₂
+#lem: lu[person]; siki[hair]; numunbur[rushes]; šu[hand]; dub[tremble]
+#tr.en: The woman tears at her hair as if it were rushes. She beats the holy @fsux{ub} drum at her chest, 
+#etcsl: line-id=M.299
+
+M.300. gaba-ni ub₃ kug-ga-am₃ i₃-sag₃-ge a %e uru₂-ŋu₁₀ %s im-me
+#lem: gaba[breast]; ub[drum]; kug[pure]; sag[strike]; aya[cry]; uru[city]; dug[speak]
+#tr.en: she cries @q[Ningal,]{“Alas, my city”}. Her eyes well with tears, she weeps bitterly: 
+#etcsl: line-id=M.300
+
+M.301. igi-ni er₂-ra mi-ni-ib-zi-zi-i-zi er₂ gig i₃-še₈-še₈
+#lem: igi[eye]; er[tears]; zig[rise]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: @q[Ningal,]{“Woe is me, my city which no longer exists -- I am not its queen. 
+#etcsl: line-id=M.301
+
+M.302. me-li-e-a %e uru₂-ŋu₁₀ %s nu-me-a %e me-e ga-ša-an-bi %s nu-ŋen
+#lem: meliʾeʾa[an exclamation]; uru[city]; me[be]; meʾe[I]IP; gašan[lady]N; me[be]
+#tr.en: @wDN{Nanna}, the shrine @wSN{Urim} which no longer exists -- I am not its owner. 
+#etcsl: line-id=M.302
+
+M.303. {d}nanna eš₃ urim₂{ki} nu-me-a %e me-e mu-lu-bi %s nu-ŋen
+#lem: Nanna[1]DN; eš[shrine]; Urim[1]SN; me[be]; meʾe[I]IP; mulu[person]N; me[be]
+#tr.en: Woe is me, I am one whose cow-pen has been torn down, I am one whose cows have been scattered. 
+#etcsl: line-id=M.303
+
+M.304. me-li-e-a {e₂}tur₃ bur₁₂-ra-ŋen ab₂ sag₂ dug₄-ga-ŋen
+#lem: meliʾeʾa[an exclamation]; tur[animal stall]; bur[tear out]; ab[cow]; sag[scatter]; dug[speak]
+#tr.en: I am @wDN{Ningal} on whose ewes the weapon has fallen, as in the case of an unworthy herdsman. 
+#etcsl: line-id=M.304
+
+M.305.  %e  {d}ga-ša-an-gal-ŋen  %s  na-gada pe-el-la₂-gin₇ {ŋiš}tukul ganam₄-ma bi₂-in-šub
+#lem: Gašangal[1]DN; nagada[herdsman]; pel[defile]; tukul[weapon]; ganam[ewe]; šub[fall]
+#tr.en: Woe is me, I have been exiled from the city, I can find no rest. 
+#etcsl: line-id=M.305
+
+M.306. me-li-e-a %e uru₂-ta %s e₃-a-ŋen ni₂ nu-dub₂-bu-ŋen
+#lem: meliʾeʾa[an exclamation]; uru[city]; e[leave]; ni[self]; dub[tremble]
+#tr.en: I am @wDN{Ningal}, I have been exiled from the house, 
+#etcsl: line-id=M.306
+
+M.307.  %e  {d}ga-ša-an-gal-ŋen  %s  e₂-ta e₃-a-ŋen ki-tuš nu-pad₃-de₃-ŋen
+#lem: Gašangal[1]DN; e[house]; e[leave]; kituš[dwelling place]; pad[find]
+#tr.en: I can find no dwelling place. 
+#etcsl: line-id=M.307
+
+M.308. i-gi₄-in-zu gir₅ %e uru₂ %s kur₂-ra saŋ il₂ tuš-a-ŋen
+#lem: iginzu[as if]; gir[stranger]; uru[city]; kur[different]; saŋ[head]; il[raise]; tuš[sit (down)]
+#tr.en: I am sitting as if a stranger with head high in a strange city. 
+#etcsl: line-id=M.308
+
+M.309. e₂ ur₅-ur₅-ra %e aŋ₂-gig-ga-am₃ %s saŋ-a tuš ma-ab-us₂-e
+#lem: e[house]; ura[interest-bearing loan]; aŋgig[bad thing]N; saŋ[head]; tuš[sit (down)]; us[accompany]
+#tr.en: Debt-slaves …… bitterness …….”} 
+#etcsl: line-id=M.309
+
+M.310. e₂ ur₅-ra %e mu-lu %s tuš-bi tuš-tuš-a gu₃ %e e-ne-eŋ₃ %s nu-dirig-ŋen
+#lem: e[house]; ura[interest-bearing loan]; mulu[person]N; tuš[sit (down)]; tuš[sit (down)]; gu[voice]; eneŋ[word]N; dirig[make more than]
+#tr.en: @q{“I am one who, sitting in a debtors prison among its inmates, can make no extravagant claims. 
+#etcsl: line-id=M.310
+
+M.311. ki-ba nam %e uru₂-na %s mu-un-na-te er₂ gig i₃-še₈-še₈
+#lem: ki[place]; nam[fate]; uru[city]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: In that place I approached him for the sake of his city -- I weep bitterly. 
+#etcsl: line-id=M.311
+
+M.312. nin-ra nam e₂-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+#lem: nin[lady]; nam[fate]; e[house]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: I approached the lord for the sake of his house -- I weep bitterly. I approached him for the sake of his destroyed house -- I weep bitterly. 
+#etcsl: line-id=M.312
+
+M.313. nam e₂ hul-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+#lem: nam[fate]; e[house]; hulu[bad]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: I approached him for the sake of his destroyed city -- I weep bitterly. Woe is me, 
+#etcsl: line-id=M.313
+
+M.314. nam %e uru₂ %s hul-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+#lem: nam[fate]; uru[city]; hulu[bad]; teŋ[approach]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: I shall say @q[Ningal,]{“Fate of my city, bitter is the fate of my city”}. 
+#etcsl: line-id=M.314
+
+M.315. me-li-e-a %e na-aŋ₂ %s %e uru₂-ŋu₁₀ %s ga-am₃-dug₄ %e na-aŋ₂ %s %e uru₂-ŋu₁₀ %s gig-ga-am₃
+#lem: meliʾeʾa[an exclamation]; naŋ[fate]N; uru[city]; dug[speak]; naŋ[fate]N; uru[city]; gig[sick]
+#tr.en: I the queen shall say @q[Ningal,]{“O my destroyed house, bitter is the fate of my house”}. 
+#etcsl: line-id=M.315
+
+M.316. nin-ŋen e₂ gul-la-ŋu₁₀ ga-am₃-dug₄ %e na-aŋ₂ %s e₂-ŋu₁₀ gig-ga-am₃
+#lem: nin[lady]; e[house]; gul[destroy]; dug[speak]; naŋ[fate]N; e[house]; gig[sick]
+#tr.en: O my brick-built @wSN{Urim} which has been flooded, which has been washed away, O my good house, 
+#etcsl: line-id=M.316
+
+M.317. %e še-eb %s urim₂{ki}-ma a dug₄-ga-am₃ a bi₂-gi₄-a-ŋu₁₀
+#lem: šeb[brick]N; Urim[1]SN; a[water]; dug[speak]; a[water]; gi[turn]
+#tr.en: my city which has been reduced to ruin mounds, in the debris of your destroyed righteous house, 
+#etcsl: line-id=M.317
+
+M.318. e₂ zid-ŋu₁₀ %e uru₂-ŋu₁₀ %s du₆-du₆-da %e ba-mar-re-en-na-ŋu₁₀
+#lem: e[house]; zid[right]; uru[city]; dud[(ruin) mound]; mar[place]V/t
+#tr.en: I shall lie down alongside you. 
+#etcsl: line-id=M.318
+
+M.319. bur₂-ra e₂ zid gul-la-za-ka ba-e₃-de₃-nu₂-u₃-nam
+#lem: bur[spread out]; e[house]; zid[right]; gul[destroy]; nud[lie down]
+#tr.en: Like a fallen bull, 
+#etcsl: line-id=M.319
+
+M.320. gud šub-ba-gin₇ in-ŋar-zu-ta ba-ra-mu-e-da-zig₃-ga
+#lem: gud[bull]; šub[fall]; ŋar[put]; zig[rise]
+#tr.en: I will never rise up from your wall (?).”} 
+#etcsl: line-id=M.320
+
+M.321. me-li-e-a du₃-a-zu lul-la-am₃ gul-la-zu gig-ga-am₃
+#lem: meliʾeʾa[an exclamation]; du[build]; lul[false]; gul[destroy]; gig[sick]
+#tr.en: @q{“Woe is me, untrustworthy was your building, and bitter your destruction. I am the woman at whose shrine @wSN{Urim} the food offerings have been terminated. 
+#etcsl: line-id=M.321
+
+M.322. %e nu-nus-ŋen %s eš₃ urim₂{ki} nidba-bi i₃-ba-kur₂-ra-am₃
+#lem: nunus[woman]N; eš[shrine]; Urim[1]SN; nindaba[(food) offering]; kur[different]
+#tr.en: O my @wTN{Agrun-kug}, the all-new house whose charms never sated me, 
+#etcsl: line-id=M.322
+
+M.323. agrun-kug e₂ gibil-gibil-la-ŋu₁₀ la-la-bi nu-gi₄-a-ŋu₁₀
+#lem: Agrunkug[1]TN; e[house]; gibil[new]; lala[plenty]; gi[turn]
+#tr.en: O my city no longer regarded as having been built -- devastated for what reason? 
+#etcsl: line-id=M.323
+
+M.324. %e uru₂-ŋu₁₀ %s du₃-a %e la-ba-mar-ra-ŋu₁₀ ta-a-aš %s hul-a-ŋu₁₀
+#lem: uru[city]; du[build]; mar[place]V/t; taš[why?]; hulu[bad]
+#tr.en: O my house both destroyed and devastated -- devastated for what reason? 
+#etcsl: line-id=M.324
+
+M.325. ba-gul in-ga-ba-hul-a-ŋu₁₀ %e ta-a-aš %s hul-a-ŋu₁₀
+#lem: gul[destroy]; hulu[bad]; taš[why?]; hulu[bad]
+#tr.en: Nobody at all escaped the force of the storm ordered in hate. 
+#etcsl: line-id=M.325
+
+M.326. a-da-al ud hul gig dug₄-ga a₂-bi la-ba-ra-e₃
+#lem: adal[an exclamation]; ud[storm]; hulu[bad]; gig[sick]; dug[speak]; a[arm]; e[leave]
+#tr.en: O my house of @wDN{Suen} in @wSN{Urim}, 
+#etcsl: line-id=M.326
+
+M.327. urim₂{ki}-ma e₂ {d}suen-na-ŋu₁₀ gul-la-bi gig-ga-am₃
+#lem: Urim[1]SN; e[house]; Suen[1]DN; gul[destroy]; gig[sick]
+#tr.en: bitter was its destruction.”} 
+#etcsl: line-id=M.327
+
+@div trailer 
+
+M.328. ki-ru-gu₂ 7-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 7th @fsux{kirugu}. 
+#etcsl: line-id=M.328
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal N
+
+N.329. a %e uru₂-ŋu₁₀ %s a e₂-ŋu₁₀
+#lem: aya[cry]; uru[city]; aya[cry]; e[house]
+#tr.en: @q[Ningal,]{“Alas, my city, alas, my house.”} 
+#etcsl: line-id=N.329
+
+@div trailer 
+
+N.330. ŋiš-gi-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=N.330
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu O
+
+O.331. nin šag₄-zu a-gin₇ du₃-mu-un za-e a-gin₇ i₃-til₃-le-en
+#lem: nin[lady]; šag[heart]; agin[thus]; du[build]; zaʾe[you]; agin[thus]; til[live (of a single person)]
+#tr.en: O queen, how is your heart ……! How you have become! 
+#etcsl: line-id=O.331
+
+O.332. {d}nin-gal šag₄-zu a-gin₇ du₃-mu-un za-e a-gin₇ i₃-til₃-le-en
+#lem: Ningal[1]DN; šag[heart]; agin[thus]; du[build]; zaʾe[you]; agin[thus]; til[live (of a single person)]
+#tr.en: O @wDN{Ningal}, how is your heart ……! How you have become! 
+#etcsl: line-id=O.332
+
+O.333. munus zid lu₂ %e uru₂ %s ba-e-da-gul-la i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: munus[woman]; zid[right]; lu[person]; uru[city]; gul[destroy]; inešgin[how]; mu[grow]
+#tr.en: O good woman whose city has been destroyed, now how do you exist? 
+#etcsl: line-id=O.333
+
+O.334. {d}nin-gal lu₂ kalam ba-e-da-til-la šag₄-zu a-gin₇ du₃-mu-un
+#lem: Ningal[1]DN; lu[person]; kalam[the Land (of Sumer)]; til[complete]; šag[heart]; agin[thus]; du[build]
+#tr.en: O @wDN{Ningal} whose Land has perished, how is your heart ……! 
+#etcsl: line-id=O.334
+
+O.335. ud %e uru₂-zu %s im-ma-gul-la-ba i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: ud[storm]; uru[city]; gul[destroy]; inešgin[how]; mu[grow]
+#tr.en: After your city has been destroyed, now how do you exist? After your house has been destroyed, 
+#etcsl: line-id=O.335
+
+O.336. ud e₂-zu im-ma-gul-la-ba šag₄-zu a-gin₇ du₃-mu-un
+#lem: ud[sun]; e[house]; gul[destroy]; šag[heart]; agin[thus]; du[build]
+#tr.en: how is your heart ……! Your city has become a strange city, 
+#etcsl: line-id=O.336
+
+O.337. %e uru₂-zu %e uru₂ %s kur₂-ra ba-ab-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: uru[city]; uru[city]; kur[different]; ŋar[put]; inešgin[how]; mu[grow]
+#tr.en: now how do you exist? Your house has turned to tears, 
+#etcsl: line-id=O.337
+
+O.338. e₂-zu er₂-re ba-an-di-ni-ib-ŋar šag₄-zu a-gin₇ du₃-mu-un
+#lem: e[house]; er[tears]; ŋar[put]; šag[heart]; agin[thus]; du[build]
+#tr.en: how is your heart ……! 
+#etcsl: line-id=O.338
+
+O.339. %e uru₂ %s du₆-du₆-da ba-ŋar-ra-zu mušen-bi nu-ŋen
+#lem: uru[city]; dud[(ruin) mound]; ŋar[put]; mušen[bird]; me[be]
+#tr.en: You are not a bird of your city which has been reduced to ruin mounds. 
+#etcsl: line-id=O.339
+
+O.340. e₂ zid {ŋiš}al-e ba-ŋar-ra-za tuš-bi-še₃ la-ba-tuš-en
+#lem: e[house]; zid[right]; al[hoe]; ŋar[put]; tuš[sit (down)]; tuš[sit (down)]
+#tr.en: You cannot live there as a resident in your good house given over to the pickaxe. 
+#etcsl: line-id=O.340
+
+O.341. uŋ₃ ki-lul-la ba-ab-re₇-a-za nin-bi-še₃ la-ba-kur₉-re-en
+#lem: uŋ[people]; kilulak[murder]; ere[go (perfect plural stem of ŋen⟦to go⟧)]; nin[lady]; kur[enter]
+#tr.en: You cannot act as queen of a people led off to slaughter. 
+#etcsl: line-id=O.341
+
+O.342. er₂-zu er₂ kur₂-ra ba-ab-ŋar %e ka-na-aŋ₂-zu %s nu-še₈-še₈
+#lem: er[tears]; er[tears]; kur[different]; ŋar[put]; kanaŋ[land]N; šeš[weep]
+#tr.en: Your tears have become strange tears, your Land no longer weeps. 
+#etcsl: line-id=O.342
+
+O.343. er₂-šag₄-ne-ša₄ nu-tuku-am₃ kur-kur im-ma-an-tuš
+#lem: eršaneša[song]; tuku[acquire]; kur[mountain(s)]; tuš[sit (down)]
+#tr.en: With no lamentation prayers, it dwells in foreign lands. Your Land like ……. 
+#etcsl: line-id=O.343
+
+O.344. kalam-zu niŋ₂ KA dirig-gin₇ gu₃ šu ba-ni-ib-dab₅
+#lem: kalam[the Land (of Sumer)]; niŋ[thing]; X; dirig[make more than]; gu[voice]; šu[hand]; dab[seize]
+#tr.en: Your city has been made into ruins; now how do you exist? 
+#etcsl: line-id=O.344
+
+O.345. %e uru₂-zu %s du₆-du₆-da im-ma-an-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: uru[city]; dud[(ruin) mound]; ŋar[put]; inešgin[how]; mu[grow]
+#tr.en: Your house has been laid bare, how is your heart ……! 
+#etcsl: line-id=O.345
+
+O.346. e₂-zu šag₄-sug₄-ga ba-an-du₃ šag₄-zu a-gin₇ du₃-mu-un
+#lem: e[house]; šagsug[empty]; du[build]; šag[heart]; agin[thus]; du[build]
+#tr.en: @wSN{Urim}, the shrine, is haunted by the breezes, 
+#etcsl: line-id=O.346
+
+O.347. urim₂{ki} eš₃ lil₂-e im-ma-an-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: Urim[1]SN; eš[shrine]; lil[ghost]; ŋar[put]; inešgin[how]; mu[grow]
+#tr.en: now how do you exist? 
+#etcsl: line-id=O.347
+
+O.348. gudug-bi hi-li-a ba-ra-mu-un-ŋen šag₄-zu a-gin₇ du₃-mu-un
+#lem: gudug[priest]; hili[attractiveness]; ŋen[go]; šag[heart]; agin[thus]; du[build]
+#tr.en: Its @fsux{gudug} priest no longer walks in his wig, how is your heart ……! 
+#etcsl: line-id=O.348
+
+O.349. en-bi ŋi₆-par₃-ra ba-ra-mu-un-til i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+#lem: en[priest]; ŋipar[cloister]; til[complete]; inešgin[how]; mu[grow]
+#tr.en: Its @fsux{en} priestess no longer lives in the @fsux{ŋipar}, now how do you exist? 
+#etcsl: line-id=O.349
+
+O.350. uz-ga lu₂ šu-luh-e ki aŋ₂-e šu-luh nu-mu-ra-an-ŋa₂-ŋa₂
+#lem: uzga[priest]; lu[person]; šuluh[ritual cleansing]; ki[place]; aŋ[measure]; šuluh[ritual cleansing]; ŋar[put]
+#tr.en: In the @fsux{uzga} shrine the priest who cherishes purification rites makes no purification rites for you. 
+#etcsl: line-id=O.350
+
+O.351. a-a {d}nanna išib-zu šita kug-ga šu nu-mu-ra-ni-in-du₇
+#lem: aya[father]; Nanna[1]DN; išib[purification priest]; šita[prayer]; kug[pure]; šu[hand]; du[perfect]
+#tr.en: Father @wDN{Nanna}, your @fsux{išib} priest does not make perfect holy supplications to you. 
+#etcsl: line-id=O.351
+
+O.352. lu₂-mah-zu gi-gun₄-na kug-zu šag₄ gada la-ba-an-la₂
+#lem: lumah[priest]; giguna[high sacred terrace]; kug[pure]; šag[heart]; gada[flax]; la[hang]
+#tr.en: Your @fsux{lumaḫ} priest does not dress in linen in your holy @fsux{giguna} shrine. 
+#etcsl: line-id=O.352
+
+O.353. en zid šag₄ hi-li-a pad₃-da-zu e₂-kiš-nu-ŋal₂-la-am₃
+#lem: en[lord]; zid[right]; šag[heart]; hili[attractiveness]; pad[find]; Ekišnuŋal[1]TN
+#tr.en: Your righteous @fsux{en} priestess chosen in your ardent heart, she of the @wTN{E-kiš-nu-ŋal}, 
+#etcsl: line-id=O.353
+
+O.354. eš₃#-da ŋi₆-par₃-še₃ hul₂-la-na nu-mu-ni-in-dib-dib-be₂
+#lem: eš[shrine]; ŋipar[cloister]; hul[rejoice]; dib[pass]
+#tr.en: does not proceed joyously from the shrine to the @fsux{ŋipar}. 
+#etcsl: line-id=O.354
+
+O.355. a-u₃-a e₂ ezem-ma-za ezen nu-mu-ni-in-dug₃-ge-eš
+#lem: aʾua[cultic musician]; e[house]; ezem[festival]; ezem[festival]; dug[good]
+#tr.en: The @fsux{aua} priests do not celebrate the festivals in your house of festivals. 
+#etcsl: line-id=O.355
+
+O.356. šem₃ {kuš}a₂-la₂-e niŋ₂ šag₄ hul₂-le-da tigi-a nu-mu-ra-an-du₁₂-uš
+#lem: šem[drum]; ala[wooden drum]; niŋ[thing]; šag[heart]; hul[rejoice]; tigi[drum or other musical instrument]; du[play (a musical instrument)]
+#tr.en: They do not play for you the @fsux{šem} and @fsux{ala} instruments which gladden the heart, 
+#etcsl: line-id=O.356
+
+O.357. uŋ₃ saŋ gig₂-ga ezen-zu-še₃ a la-ba-an-tu₅-tu₅-ne
+#lem: uŋ[people]; saŋ[head]; giggig[black]; ezem[festival]; a[water]; tu[cvve]
+#tr.en: nor the @fsux{tigi}. The black-headed people do not bathe during your festivals. Like …… mourning has been decreed for them; 
+#etcsl: line-id=O.357
+
+O.358. gu-gin₇ mu-dur₇-ra nam ha-ba-ni-in-tar ulutim₂-bi ha-ba-an-kur₂
+#lem: gu[cord]; mudur[dirt]; nam[fate]; tar[cut]; uludin[form]; kur[different]
+#tr.en: their appearance has indeed changed. 
+#etcsl: line-id=O.358
+
+O.359. en₃-du-zu er₂-ra ba-e-da-an-kur₉ en₃-tukum-še₃ mu₂
+#lem: endu[song]; er[tears]; kur[enter]; entukumše[how long]; mu[grow]
+#tr.en: Your song has been turned into weeping before you -- how long will this last? 
+#etcsl: line-id=O.359
+
+O.360. tigi-zu a-nir-ra ba-e-da-an-kur₉ en₃-tukum-še₃ mu₂
+#lem: tigi[drum or other musical instrument]; anir[lament]; kur[enter]; entukumše[how long]; mu[grow]
+#tr.en: Your @fsux{tigi} music has been turned into lamentation before you -- how long will this last? 
+#etcsl: line-id=O.360
+
+O.361. gud-zu tur₃-bi-a ba-ra-mu-un-de₆ i₃-bi nu-mu-ra-ak-e
+#lem: gud[bull]; tur[animal stall]; de[carry]; i[oil]; ak[do]
+#tr.en: Your bull is not brought into its pen, its fat is not prepared for you. 
+#etcsl: line-id=O.361
+
+O.362. udu-zu amaš-bi-a ba-ra-mu-un-dur₂-ru ga-bi nu-mu-ra-dulu-e
+#lem: udu[sheep]; amaš[sheepfold]; dur[sit]; ga[milk]; dubul[plentiful]
+#tr.en: Your sheep does not live in its fold, its milk is not made abundant for you. 
+#etcsl: line-id=O.362
+
+O.363. i₃ gur₃-ru-zu tur₃-ta nu-mu-ra-de₆ en₃-tukum-še₃ mu₂
+#lem: i[oil]; gur[lift]; tur[animal stall]; de[carry]; entukumše[how long]; mu[grow]
+#tr.en: Your fat carrier does not come to you from the cow-pen -- how long will this last? 
+#etcsl: line-id=O.363
+
+O.364. ga gur₃-ru-zu amaš-ta nu-mu-ra-de₆ en₃-tukum-še₃ mu₂
+#lem: ga[milk]; gur[lift]; amaš[sheepfold]; de[carry]; entukumše[how long]; mu[grow]
+#tr.en: Your milk carrier does not come to you from the sheepfold -- how long will this last? 
+#etcsl: line-id=O.364
+
+O.365. šu-peš ku₆ gur₃-ru-zu hul-ŋal₂-e ba-an-dab₅ en₃-tukum-še₃ mu₂
+#lem: šukud[fisherman]; kud[fish]; gur[lift]; huluŋal[evil]; dab[seize]; entukumše[how long]; mu[grow]
+#tr.en: An evildoer has seized your fisherman who was carrying fish -- how long will this last? 
+#etcsl: line-id=O.365
+
+O.366. mušen-du₃ mušen gur₃-ru-zu ŋir₂-ŋir₂-re im-DU
+#lem: mušendu[bird-catcher]; mušen[bird]; gur[lift]; ŋir[flash]; X
+#tr.en: Lightning carried off your fowler who was carrying birds -- how long will this last? 
+#etcsl: line-id=O.366
+
+O.367. id₂ ma₂-gur₈-ra ba-ab-du₇-a-zu šag₄-ba teme{sar} ba-mu₂
+#lem: id[river]; magur[barge]; du[perfect]; šag[heart]; teme[plant]; mu[grow]
+#tr.en: The @fsux{teme} plants grow in the middle of your watercourses which were once suitable for barges, 
+#etcsl: line-id=O.367
+
+O.368. har-ra-an {ŋiš}gigir-ra ba-ab-ŋar-ra-za {ŋiš}kiši₁₆!(|U₂.GIŠ.ŊIR₂|) kur-ra ba-mu₂
+#lem: harran[route]; gigir[chariot]; ŋar[put]; kišig[acacia]; kur[mountain(s)]; mu[grow]
+#tr.en: and mountain thornbushes grow on your roads which had been constructed for waggons. 
+#etcsl: line-id=O.368
+
+O.369. nin-ŋu₁₀ %e uru₂-zu %s ama-bi-gin₇-nam er₂ mu-e-ši-še₈-še₈
+#lem: nin[lady]; uru[city]; ama[mother]; er[tears]; šeš[weep]
+#tr.en: My queen, your city weeps before you as its mother. @wSN{Urim}, like a child lost in a street, 
+#etcsl: line-id=O.369
+
+O.370. urim₂{ki}-ma dumu sila ha-lam-ma-gin₇ ki mu-e-ši-kiŋ₂-kiŋ₂
+#lem: Urim[1]SN; dumu[child]; sila[street]; halam[forsake]; ki[place]; kiŋ[seek]
+#tr.en: seeks a place before you. Your house, like a man who has lost everything, 
+#etcsl: line-id=O.370
+
+O.371. e₂-zu lu₂ niŋ₂ u₂-gu de₂-a-gin₇ šu mu-e-ši-ša-an-ša
+#lem: e[house]; lu[person]; niŋ[thing]; ugu[cvne]; de[pour]; šu[hand]; šanšaša[cvve]
+#tr.en: stretches out (?) its hands to you. Your brick-built righteous house, like a human being, 
+#etcsl: line-id=O.371
+
+O.372. šeg₁₂ e₂ zid-da-zu lu₂-ulu₃-gin₇ me-a-zu im-me
+#lem: šeg[brick]; e[house]; zid[right]; lulu[man]; mea[where?]; dug[speak]
+#tr.en: cries @q[Agrun-kug,]{“Where are you?”}. My queen, you have indeed left the house, 
+#etcsl: line-id=O.372
+
+O.373. nin-ŋu₁₀ e₂-ta e₃-a he₂-me-en %e uru₂-ta %s ba-ra-e₃-me-en
+#lem: nin[lady]; e[house]; e[leave]; me[be]; uru[city]; e[leave]
+#tr.en: you have left the city. 
+#etcsl: line-id=O.373
+
+O.374. en₃-še₃-am₃ %e uru₂-za %s lu₂-erim₂-gin₇ bar-ta ba-e-da-gub
+#lem: enše[how long]; uru[city]; luʾerim[evildoer]; bar[outside]; gub[stand]
+#tr.en: How long will you stand aside from your city like an enemy? 
+#etcsl: line-id=O.374
+
+O.375. ama {d}nin-gal %e uru₂-zu %s lu₂-erim₂-gin₇ gaba-za ba-e-de₃-sa₂
+#lem: ama[mother]; Ningal[1]DN; uru[city]; luʾerim[evildoer]; gaba[breast]; sa[equal]
+#tr.en: Mother @wDN{Ningal}, you confronted your city like an enemy. Although you are a queen who loves her city, 
+#etcsl: line-id=O.375
+
+O.376. nin %e uru₂-ni %s ki aŋ₂ he₂-me-en-na amaš-zu-ta ba-e-ni-tag
+#lem: nin[lady]; uru[city]; ki[place]; aŋ[measure]; me[be]; amaš[sheepfold]; tag[touch]
+#tr.en: you abandoned your sheepfold. Although you are one who cares for her Land, 
+#etcsl: line-id=O.376
+
+O.377. kalam-ma-ni-še₃ kuš₂-u₃ he₂-me-en-na za-e izi-ba mu-un-tag
+#lem: kalam[the Land (of Sumer)]; kušu[tired]; me[be]; zaʾe[you]; izi[fire]; tag[touch]
+#tr.en: you set it on fire. 
+#etcsl: line-id=O.377
+
+O.378. ama {d}nin-gal gud-gin₇ tur₃-zu-še₃ udu-gin₇ amaš-zu-še₃
+#lem: ama[mother]; Ningal[1]DN; gud[bull]; tur[animal stall]; udu[sheep]; amaš[sheepfold]
+#tr.en: Mother @wDN{Ningal}, return like a bull to your cattle-pen, like a sheep to your fold, 
+#etcsl: line-id=O.378
+
+O.379. gud-gin₇ tur₃ ud-bi-ta-še₃ udu-gin₇ amaš-zu-še₃
+#lem: gud[bull]; tur[animal stall]; udbita[former]; udu[sheep]; amaš[sheepfold]
+#tr.en: like a bull to your cattle-pen of former days, like a sheep to your fold. 
+#etcsl: line-id=O.379
+
+O.380. dumu ban₃-da-gin₇ ama₅-zu-še₃ nin-ŋu₁₀ e₂-zu-še₃
+#lem: dumu[child]; banda[junior]; emi[queen's household]; nin[lady]; e[house]
+#tr.en: My queen, like a young child to your room, return to your house. 
+#etcsl: line-id=O.380
+
+O.381. an lugal diŋir-re-e-ne-ke₄ muš₃-am₃-zu he₂-em-me
+#lem: An[1]DN; lugal[king]; diŋir[deity]; mušam[(exclamation of) compassion]; e[speak]
+#tr.en: May @wDN{An}, king of the gods, declare @q[An,]{“Enough!”} to you. May @wDN{Enlil}, 
+#etcsl: line-id=O.381
+
+O.382. {d}en-lil₂ lugal kur-kur-ra-ke₄ nam-zu he₂-eb-tar-re
+#lem: Enlil[1]DN; lugal[king]; kur[mountain(s)]; nam[fate]; tar[cut]
+#tr.en: king of all the lands, decree your fate. 
+#etcsl: line-id=O.382
+
+O.383. %e uru₂-zu %s ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+#lem: uru[city]; ki[place]; gi[turn]; namnin[ladyship]; ak[do]
+#tr.en: May he restore your city for you -- exercise its queenship! 
+#etcsl: line-id=O.383
+
+O.384. nibru{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+#lem: Nibru[1]SN; ki[place]; gi[turn]; namnin[ladyship]; ak[do]
+#tr.en: May he restore @wSN{Nibru} for you -- exercise its queenship! 
+#etcsl: line-id=O.384
+
+O.385. urim₂{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+#lem: Urim[1]SN; ki[place]; gi[turn]; namnin[ladyship]; ak[do]
+#tr.en: May he restore @wSN{Urim} for you -- exercise its queenship! 
+#etcsl: line-id=O.385
+
+O.386. i₃-si-in{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+#lem: Isin[1]SN; ki[place]; gi[turn]; namnin[ladyship]; ak[do]
+#tr.en: May he restore @wSN{Isin} for you -- exercise its queenship! 
+#etcsl: line-id=O.386
+
+@div trailer 
+
+O.387. ki-ru-gu₂ 8-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 8th @fsux{kirugu}. 
+#etcsl: line-id=O.387
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal P
+
+P.388. me-ŋu₁₀ mu-da-kur₂-ra-am₃
+#lem: me[Being]; kur[different]
+#tr.en: @q[Ningal,]{“My powers have been alienated from me.”} 
+#etcsl: line-id=P.388
+
+@div trailer 
+
+P.389. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=P.389
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu Q
+
+Q.390. e ud-de₃ ud-de₃ kalam teš₂-a mi-ni-ib-ra
+#lem: e[vocative interjection]; ud[storm]; ud[storm]; kalam[the Land (of Sumer)]; teš[unity]; rah[beat]
+#tr.en: Alas, storm after storm swept the Land together: 
+#etcsl: line-id=Q.390
+
+Q.391. ud gal an-na-ke₄ ud gu₃ dub₂-dub₂-be₂
+#lem: ud[storm]; gal[big]; an[sky]; ud[storm]; gu[voice]; dub[tremble]
+#tr.en: the great storm of heaven, the ever-roaring storm, 
+#etcsl: line-id=Q.391
+
+Q.392. ud gig-ga kalam-ma ba-e-zal-la re
+#lem: ud[storm]; gig[sick]; kalam[the Land (of Sumer)]; zal[pass time]; re[that]
+#tr.en: the malicious storm which swept over the Land, 
+#etcsl: line-id=Q.392
+
+Q.393. ud %e uru₂ %s gul-gul-e ud e₂ gul-gul-e
+#lem: ud[storm]; uru[city]; gul[destroy]; ud[storm]; e[house]; gul[destroy]
+#tr.en: the storm which destroyed cities, the storm which destroyed houses, 
+#etcsl: line-id=Q.393
+
+Q.394. ud tur₃ gul-gul-e ud amaš tab-tab-be₂
+#lem: ud[storm]; tur[animal stall]; gul[destroy]; ud[storm]; amaš[sheepfold]; tab[double]
+#tr.en: the storm which destroyed cow-pens, the storm which burned sheepfolds, 
+#etcsl: line-id=Q.394
+
+Q.395. ŋarza kug-ga šu bi₂-ib₂-la₂-a re
+#lem: ŋarza[rites]; kug[pure]; šu[hand]; la[hang]; re[that]
+#tr.en: which laid hands on the holy rites, 
+#etcsl: line-id=Q.395
+
+Q.396. ŋalga niŋ₂ aratta{ki}-ka šu pe-el-la₂ im-mi-ib-dug₄-ga re
+#lem: ŋalga[(fore)thought]; niŋ[thing]; Aratta[1]GN; šu[hand]; pel[defile]; dug[speak]; re[that]
+#tr.en: which defiled the weighty counsel, 
+#etcsl: line-id=Q.396
+
+Q.397. ud kalam-ma niŋ₂ dug₃ im-mi-ib-kud-da re
+#lem: ud[storm]; kalam[the Land (of Sumer)]; niŋ[thing]; dug[good]; kud[cut]; re[that]
+#tr.en: the storm which cut off all that is good from the Land, 
+#etcsl: line-id=Q.397
+
+Q.398. ud saŋ gig₂-ga a₂ bi₂-ib-la₂-a re
+#lem: ud[storm]; saŋ[head]; giggig[black]; a[arm]; la[hang]; re[that]
+#tr.en: the storm which pinioned the arms of the black-headed people. 
+#etcsl: line-id=Q.398
+
+@div trailer 
+
+Q.399. ki-ru-gu₂ 9-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 9th @fsux{kirugu}. 
+#etcsl: line-id=Q.399
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal R
+
+R.400. ud re ud igi-ba teš₂ nu-ŋal₂-la re
+#lem: ud[storm]; re[that]; ud[storm]; igi[eye]; teš[(sense of) shame]; ŋal[⟦be⟧ to be (there]; re[that]
+#tr.en: The storm which does not respect ……. 
+#etcsl: line-id=R.400
+
+@div trailer 
+
+R.401. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=R.401
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu S
+
+S.402. ud ama nu-zu re ud a-a nu-zu re
+#lem: ud[storm]; ama[mother]; zu[know]; re[that]; ud[storm]; aya[father]; zu[know]; re[that]
+#tr.en: The storm which knows no mother, the storm which knows no father, 
+#etcsl: line-id=S.402
+
+S.403. ud dam nu-zu re ud dumu nu-zu re
+#lem: ud[storm]; dam[spouse]; zu[know]; re[that]; ud[storm]; dumu[child]; zu[know]; re[that]
+#tr.en: the storm which knows no wife, the storm which knows no child, 
+#etcsl: line-id=S.403
+
+S.404. ud nin₉ nu-zu re ud šeš nu-zu re
+#lem: ud[storm]; nin[sister]; zu[know]; re[that]; ud[storm]; šeš[brother]; zu[know]; re[that]
+#tr.en: the storm which knows no sister, the storm which knows no brother, 
+#etcsl: line-id=S.404
+
+S.405. ud ušur nu-zu re ud ma-la nu-zu re
+#lem: ud[storm]; usar[(female) neighbor]; zu[know]; re[that]; ud[storm]; malag[female neighbor]; zu[know]; re[that]
+#tr.en: the storm which knows no neighbour, the storm which knows no female companion, 
+#etcsl: line-id=S.405
+
+S.406. ud dam im-šub-ba ud dumu im-šub-ba re
+#lem: ud[storm]; dam[spouse]; šub[fall]; ud[storm]; dumu[child]; šub[fall]; re[that]
+#tr.en: the storm which caused the wife to be abandoned, which caused the child to be abandoned, 
+#etcsl: line-id=S.406
+
+S.407. ud-de₃ ud kalam-ma u₂-gu bi₂-ib-de₂-a re
+#lem: ud[storm]; ud[sun]; kalam[the Land (of Sumer)]; ugu[cvne]; de[pour]; re[that]
+#tr.en: the storm which caused the light in the Land to disappear, 
+#etcsl: line-id=S.407
+
+S.408. ud hul gig dug₄-ga {d}en-lil₂-la₂-ta im-mi-in-zal-la re
+#lem: ud[storm]; hulu[bad]; gig[sick]; dug[speak]; Enlil[1]DN; zal[pass time]; re[that]
+#tr.en: the storm which swept through, ordered in hate by @wDN{Enlil} -- Father @wDN{Nanna}, 
+#etcsl: line-id=S.408
+
+S.409. a-a {d}nanna ud-bi %e uru₂-zu-ta %s ki nam-ba-ŋa₂-ŋa₂
+#lem: aya[father]; Nanna[1]DN; ud[storm]; uru[city]; ki[place]; ŋar[put]
+#tr.en: may that storm swoop down no more on your city. 
+#etcsl: line-id=S.409
+
+S.410. uŋ₃ saŋ gig₂-zu igi-<<zu>> nam-bi₂-ib-du₈
+#lem: uŋ[people]; saŋ[head]; giggig[black]; igi[eye]; du[spread]
+#tr.en: May your black-headed people see it no more. 
+#etcsl: line-id=S.410
+
+S.411. ud-bi im an-ta šeŋ₃-ŋe₂₆-gin₇ ki-tuš-bi nam-ba-gur-ru
+#lem: ud[storm]; im[rain]; an[sky]; šeŋ[rain]; kituš[dwelling place]; gur[turn]
+#tr.en: May that storm, like rain pouring down from heaven, never recur. 
+#etcsl: line-id=S.411
+
+S.412. niŋ₂-zi-ŋal₂ an ki saŋ gig₂ im-ma-an-dub₂-ba re
+#lem: niŋziŋal[living creature]; an[sky]; ki[place]; saŋ[head]; giggig[black]; dub[tremble]; re[that]
+#tr.en: May that storm, 
+#etcsl: line-id=S.412
+
+S.413. ud-ba du₃-a-bi he₂-em-ma-gul-lu
+#lem: ud[storm]; du[all]; gul[destroy]
+#tr.en: which struck down all the black-headed living beings of heaven and earth, 
+#etcsl: line-id=S.413
+
+S.414. abula ŋi₆ u₃-na-gin₇ {ŋiš}ig he₂-bi₂-in-keše₂-da
+#lem: abula[gate]; ŋi[night]; ŋiʾunak[night]; ig[door]; kešed[bind]
+#tr.en: be entirely destroyed. May the door be closed on it, like the great city-gate at night-time. 
+#etcsl: line-id=S.414
+
+S.415. ud-ba šudum-ma na-an-ni-ŋa₂-ŋa₂
+#lem: ud[storm]; šudum[reckoning]; ŋar[put]
+#tr.en: May that storm not be given a place in the reckoning, 
+#etcsl: line-id=S.415
+
+S.416. niŋ₂-kas₇-bi e₂ {d}en-lil₂-la₂-ta {ŋiš}gag-ta he₂-em-ta-si-ig
+#lem: niŋkas[account]; e[house]; Enlil[1]DN; gag[nail]; sig[put into]
+#tr.en: may its record be hung from a nail outside the house of @wDN{Enlil}. 
+
+#etcsl: line-id=S.416
+
+@div trailer 
+
+S.417. ki-ru-gu₂ 10-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 10th @fsux{kirugu}. 
+#etcsl: line-id=S.417
+
+@end trailer
+
+@end kirugu
+
+@div ŋišgiŋal T
+
+T.418. ud ul ud kur₂-ra ud-da eŋer-bi-še₃
+#lem: ud[sun]; ul[distant time]; ud[sun]; kur[different]; ud[sun]; egir[back]
+#tr.en: Until distant days, other days, future days. 
+#etcsl: line-id=T.418
+
+@div trailer 
+
+T.419. ŋiš-gi₄-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=T.419
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div kirugu U
+
+U.420. ud ul kalam ki ŋar-ra-še₃
+#lem: ud[sun]; ul[distant time]; kalam[the Land (of Sumer)]; ki[place]; ŋar[put]
+#tr.en: From distant days when the Land was founded, O @wDN{Nanna}, 
+#etcsl: line-id=U.420
+
+U.421. {d}nanna lu₂ sun₅!-na ŋiri₃-zu mu-un-dab₅-be₂
+#lem: Nanna[1]DN; lu[person]; sun[humble]; ŋiri[foot]; dab[seize]
+#tr.en: the humble people who lay hold of your feet have brought to you their tears for the silent house, 
+#etcsl: line-id=U.421
+
+U.422. er₂ e₂ sig₉-ga-bi mu-ra-an-de₆ igi-zu-še₃ du₁₂-a-bi
+#lem: er[tears]; e[house]; sig[silent]; de[carry]; igi[eye]; du[play (a musical instrument)]
+#tr.en: playing music before you. May the black-headed people, cast away from you, 
+#etcsl: line-id=U.422
+
+U.423. saŋ gig₂ ba-ra-šub-bu-uš-a-bi giri₁₇ šu ha-ra-ab-tag-ge-ne
+#lem: saŋ[head]; giggig[black]; šub[fall]; kiri[nose]; šu[hand]; tag[touch]
+#tr.en: make obeisance to you. 
+#etcsl: line-id=U.423
+
+U.424. %e uru₂ %s du₆-du₆-da ba-an-ŋar-ra-za i-si-iš hu-mu-ra-an-ŋa₂-ŋa₂
+#lem: uru[city]; dud[(ruin) mound]; ŋar[put]; isiš[tears]; ŋar[put]
+#tr.en: In your city reduced to ruin mounds may a lament be made to you. 
+#etcsl: line-id=U.424
+
+U.425. {d}nanna %e uru₂{ki} %s ki-bi gi₄-a-za pa e₃ ha-ra-ab-ak-e
+#lem: Nanna[1]DN; uru[city]; ki[place]; gi[turn]; pa[branch]; e[leave]; ak[do]
+#tr.en: O @wDN{Nanna}, may your restored city be resplendent before you. Like a bright heavenly star may it not be destroyed, 
+#etcsl: line-id=U.425
+
+U.426. mul-an kug-gin₇ nam-mu-un-ha-lam-e igi-zu he₂-bi₂-ib-dib₂-be₂
+#lem: mulan[heavenly star]; kug[pure]; halam[forsake]; igi[eye]; dib[pass]
+#tr.en: may it pass before you. 
+#etcsl: line-id=U.426
+
+U.427. diŋir lu₂-u₁₈-lu-ke₄ kadra mu-ra-an-de₆
+#lem: diŋir[deity]; lulu[man]; kadra[greeting gift]; de[carry]
+#tr.en: The personal deity of a man brings you a greeting gift; 
+#etcsl: line-id=U.427
+
+U.428. lu₂ sizkur₂-ra-ke₄ a-ra-zu mu-ra-ab-be₂
+#lem: lu[person]; siškur[prayer]; arazu[supplication]; e[speak]
+#tr.en: a supplicant utters prayers to you. @wDN{Nanna}, you who have mercy on the Land, 
+#etcsl: line-id=U.428
+
+U.429. {d}nanna arhuš kalam-ma-me-en
+#lem: Nanna[1]DN; arhuš[compassion]; kalam[the Land (of Sumer)]
+#tr.en: Lord @wDN{Ašimbabbar} -- as concerns him who speaks your heart's desire, 
+#etcsl: line-id=U.429
+
+U.430. en {d}dil-im₂-babbar šag₄-zu im-mi-ib-dug₄-ga re
+#lem: en[lord]; Dilimbabbar[1]DN; šag[heart]; dug[speak]; re[that]
+#tr.en: @wDN{Nanna}, after you have absolved that man's sin, 
+#etcsl: line-id=U.430
+
+U.431. {d}nanna lu₂-ulu₃-bi nam-tag-ga-ni u₃-mu-e-du₈
+#lem: Nanna[1]DN; lulu[man]; namtaga[sin]; du[spread]
+#tr.en: may your heart relent towards him who utters prayers to you. 
+#etcsl: line-id=U.431
+
+U.432. lu₂ a-ra-zu im-me-a-bi šag₄ ha-ba-na-huŋ-e
+#lem: lu[person]; arazu[supplication]; e[speak]; šag[heart]; huŋ[pacify]
+#tr.en: @vart[t222.v4,t222.v4]{@varn{3 mss. add 1 line:} The personal deity of this man brings you a present. } He looks favourably on the man who stands there with his offering. 
+#etcsl: line-id=U.432
+
+@variants
+
+#etcsl#ms 3 mss. add 1 line:
+U.432A. diŋir lu₂-ba-ke₄ kadra!(|GAR.ŠAG₄.GAR|) mu-ra-an-de₆
+#lem: diŋir[deity]; lu[person]; kadra[greeting gift]; de[carry]
+#tr.en: @wDN{Nanna}, you whose penetrating gaze searches hearts, 
+#etcsl: line-id=U.432A
+
+@endvariants
+U.433. lu₂ sizkur₂-ra mu-un-gub-ba-bi-ir igi zid mu-un-ši-in-bar
+#lem: lu[person]; siškur[prayer]; gub[stand]; igi[eye]; zid[right]; bar[place outside]
+#tr.en: may its people who suffered that evil storm be pure before you. 
+#etcsl: line-id=U.433
+
+U.434. {d}nanna igi du₈-a bar-ra-zu šag₄ šu niŋin sug₄-ga-am₃
+#lem: Nanna[1]DN; igi[eye]; du[spread]; bar[place outside]; šag[heart]; šu[hand]; niŋin[encircle]; sug[full]
+#tr.en: May the hearts of your people who dwell in the Land be pure before you. 
+#etcsl: line-id=U.434
+
+U.435. lu₂-ulu₃-bi ud hul du₃-a-ba he₂-em-ma-an-ši-kug-ge
+#lem: lulu[man]; ud[storm]; hulu[bad]; du[build]; kug[metal]
+#tr.en: @wDN{Nanna}, 
+#etcsl: line-id=U.435
+
+U.436. šag₄ kalam-ma ŋal₂-la-zu he₂-em-ma-an-ši-kug-ge
+#lem: šag[heart]; kalam[the Land (of Sumer)]; ŋal[⟦be⟧ to be (there]; kug[metal]
+#tr.en: in your restored city may you be fittingly praised. 
+#etcsl: line-id=U.436
+
+U.437. {d}nanna %e uru₂ %s ki-bi gi₄-a-za me-teš₂ he₂-i-i
+#lem: Nanna[1]DN; uru[city]; ki[place]; gi[turn]; meteš[praise]; e[bring out]
+#etcsl: line-id=U.437
+
+@div trailer 
+
+U.438. ki-ru-gu₂ 11-kam-ma-am₃
+#lem: kirugu[division notation in certain literary compositions]; n
+#tr.en: 11th @fsux{kirugu}. 
+#etcsl: line-id=U.438
+
+@end trailer
+
+@end kirugu
+
+
+
+
+
+
+

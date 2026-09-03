@@ -1,0 +1,312 @@
+&Q000494 = An adab to An for Ur-Ninurta (Ur-Ninurta E)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.5.6.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.6.5&display=Crit&charenc=gcirc#
+
+@div barsud A
+
+A.1. an u₁₈-ru gal diŋir-re-e-ne
+#lem: An[1]DN; urun[exalted]; gal[big]; diŋir[deity]
+#tr.en: @wDN{An} the powerful, great among the gods, 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 11
+
+A.2. an nir-ŋal₂ diŋir pa e₃-a
+#lem: An[1]DN; nirŋal[authoritative]; diŋir[deity]; pa[branch]; e[leave]
+#tr.en: @wDN{An} the respected, brilliantly manifest god! 
+#etcsl: line-id=A.2
+
+A.3. an lugal-la nam gal tar-ra-ni
+#lem: An[1]DN; lugal[king]; nam[fate]; gal[big]; tar[cut]
+#tr.en: In fixing a great fate for the king, 
+#etcsl: line-id=A.3
+
+A.4. {d}ur-<{d}nin-urta>-ra šu zid hu-mu-na-ab-ŋar
+#lem: Urninurta[1]RN; šu[hand]; zid[right]; ŋar[put]
+#tr.en: @wDN{An} has laid his hand truly upon @wRN{Ur-@wDN{Ninurta}}. 
+#etcsl: line-id=A.4
+
+@div trailer 
+
+A.5. bar-sud-am₃
+#lem: barsud[musical notation]
+#tr.en: @fsux{barsud}. 
+#etcsl: line-id=A.5
+
+@end trailer
+
+@end barsud
+
+@div šagbatuku B
+
+B.6. zag kur-kur-ra-še₃ dili-ni dib
+#lem: zag[side]; kur[mountain(s)]; dili[single]; dib[pass]
+#tr.en: As he passes, alone, as far as the border of the foreign lands, 
+#etcsl: line-id=B.6
+
+B.7. {d}a-nun-na-ke₄-ne saŋ keše₂-bi na-nam
+#lem: Anunak[1]DN; saŋ[head]; kešed[bind]; me[be]
+#tr.en: he is indeed the guardian of the @wDN{Anuna}. He seizes all the great divine powers, 
+#etcsl: line-id=B.7
+
+B.8. me gal-gal-la zag mu-ni-in-keše₂
+#lem: me[Being]; gal[big]; zag[side]; kešed[bind]
+#tr.en: and places his feet upon the numerous divine powers. 
+#etcsl: line-id=B.8
+
+B.9. me šar₂-ra ŋiri₃-ni nam-mi-in-ŋar
+#lem: me[Being]; šar[numerous]V/i; ŋiri[foot]; ŋar[put]
+#tr.en: The very wise god, the prince who decides destiny, 
+#etcsl: line-id=B.9
+
+B.10. diŋir gal-an-zu nun nam tar-re-de₃
+#lem: diŋir[deity]; galanzu[wise]; nun[prince]; nam[fate]; tar[cut]
+#tr.en: has truly spoken to him; 
+#etcsl: line-id=B.10
+
+B.11. gu₃ zid mu-na-an-de₂ an-ne₂ {d}ur-<{d}nin-urta>-ra gu₃ zid <mu-na-an-de₂>
+#lem: gu[voice]; zid[right]; de[pour]; An[1]DN; Urninurta[1]RN; gu[voice]; zid[right]; de[pour]
+#tr.en: @wDN{An} has truly spoken to @wRN{Ur-@wDN{Ninurta}}. 
+#etcsl: line-id=B.11
+
+B.12. kalam-ma mu-ni-in-mah an-ne₂ {[d]}[ur]-<{d}nin-urta mu-ni-in-mah>
+#lem: kalam[the Land (of Sumer)]; mah[great]; An[1]DN; Urninurta[1]RN; mah[great]
+#tr.en: He has made him the mightiest in the Land; 
+#etcsl: line-id=B.12
+
+B.13. {ŋiš}gu-za nam-lugal-la ul-še₃ suhuš gen₆-na
+#lem: guza[chair]; namlugal[kingship]; ul[distant time]; suhuš[foundation]; gin[confirm]
+#tr.en: @wDN{An} has made @wRN{Ur-@wDN{Ninurta}} the mightiest in the Land. 
+#etcsl: line-id=B.13
+
+B.14. šibir mah! me kalam-ma ur₄-ur₄
+#lem: šibir[shepherd's staff]; mah[great]; me[Being]; kalam[the Land (of Sumer)]; ur[gather]
+#tr.en: He has bestowed upon @wRN{Ur-@wDN{Ninurta}} a royal throne on a foundation established forever; 
+#etcsl: line-id=B.14
+
+B.15. ŋidru niŋ₂-gen₆-na uŋ₃ šar₂ lah₅-lah₅-e
+#lem: ŋidru[scepter]; niŋgina[truth]; uŋ[people]; šar[numerous]V/i; lah[plural stem of tum ⟦bring⟧]
+#tr.en: the august shepherd's crook, 
+#etcsl: line-id=B.15
+
+B.16. {d}ur-{d}nin-urta-ra mu-na-an-tah
+#lem: Urninurta[1]RN; tah[add]
+#tr.en: which gathers up the divine powers of the Land; 
+#etcsl: line-id=B.16
+
+B.17. an kug-ga ki nam tar-ra-ni
+#lem: An[1]DN; kug[pure]; ki[place]; nam[fate]; tar[cut]
+#tr.en: and a just sceptre which directs the numerous people. 
+#etcsl: line-id=B.17
+
+B.18. diŋir an-na ba-sug₂-ge-eš-a
+#lem: diŋir[deity]; an[sky]; sug[stand]
+#tr.en: When holy @wDN{An} determines a destiny, 
+#etcsl: line-id=B.18
+
+B.19. {d}a-nun-na-ke₄-ne ŋizzal ba-an-ak-eš
+#lem: Anunak[1]DN; ŋizzal[hearing]; ak[do]
+#tr.en: the gods of heaven stand by and the @wDN{Anuna} pay attention. 
+#etcsl: line-id=B.19
+
+@div trailer 
+
+B.20. šag₄-ba-tuku-am₃
+#lem: šagbatuku[liturgical rubric]
+#tr.en: @fsux{šagbatuku}. 
+#etcsl: line-id=B.20
+
+@end trailer
+
+@end šagbatuku
+
+@div sa-gida C
+
+C.21. unken ŋar-ra-ba he₂-am₃ ba-ni-in-ne-eš
+#lem: unkin[assembly]; ŋar[put]; heʾam[so be it!]; e[speak]
+#tr.en: In their place of assembly, they said @q[Anuna,]{“Let it be so!”} 
+#etcsl: line-id=C.21
+
+C.22. iri du₃-du₃ a₂-dam ki ŋar-ra
+#lem: iri[city]; du[build]; adam[habitation]; ki[place]; ŋar[put]
+#tr.en: An gave to @wRN{Ur-@wDN{Ninurta}} the building of cities, the founding of settlements, 
+#etcsl: line-id=C.22
+
+C.23. kur gam-e kalam suhuš gen₆-na
+#lem: kur[mountain(s)]; gurum[bend]; kalam[the Land (of Sumer)]; suhuš[foundation]; gin[confirm]
+#tr.en: the subduing of foreign lands, 
+#etcsl: line-id=C.23
+
+C.24. mu he₂-ŋal₂ bal ud sud-da
+#lem: mu[year]; heŋal[plenty]; bala[turn]; ud[sun]; sud[distant]
+#tr.en: and the strengthening of the foundations of the Land of @wGN{Sumer}; 
+#etcsl: line-id=C.24
+
+C.25. {d}ur-<{d}nin-urta>-ra mu-na-an-šum₂
+#lem: Urninurta[1]RN; šum[give]
+#tr.en: years of plenty, and a reign of long days. 
+#etcsl: line-id=C.25
+
+@div trailer 
+
+C.26. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{sa-gida}. 
+#etcsl: line-id=C.26
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara D
+
+D.27. an-na igi su₃-ud-bi bar-ra-ni sipad zid mu-ni-in-il₂
+#lem: An[1]DN; igi[eye]; sud[distant]; bar[place outside]; sipad[shepherd]; zid[right]; il[raise]
+#tr.en: @wDN{An} raised his far-reaching gaze to the good shepherd. He spoke to @wRN{Ur-@wDN{Ninurta}}, 
+#etcsl: line-id=D.27
+
+D.28. {d}ur-<{d}nin-urta> dumu ki aŋ₂-ŋa₂-ni mi₂ zid-de₂-eš ša-mu-un-e
+#lem: Urninurta[1]RN; dumu[child]; ki[place]; aŋ[measure]; mi[cvne]; zid[right]; e[speak]
+#tr.en: his beloved son, with kindly words: @q[An,Ur-Ninurta]{“May there be shame at your awe-inspiring splendour, 
+#etcsl: line-id=D.28
+
+D.29. ni₂ me-lem₄-za teš₂ he₂-ŋal₂ ud gal-gin₇ u₅-bi
+#lem: ni[fear]; melim[frightening splendor]; teš[(sense of) shame]; heŋal[plenty]; ud[storm]; gal[big]; u[ride]
+#tr.en: while you (?) ride as if on a great storm. May you have no rival in your youthful power. 
+#etcsl: line-id=D.29
+
+D.30. nam-šul-zu gaba gi₄ na-an-tuku-tuku-un ma-da he₂-de₃-ŋal₂
+#lem: namšul[manhood]; gaba[breast]; gi[turn]; tuku[acquire]; mada[land]; ŋal[⟦be⟧ to be (there]
+#tr.en: May the Land remain (?) under your rule. May you make your name supreme in the foreign lands, 
+#etcsl: line-id=D.30
+
+D.31. mu-zu kur-kur-ra he₂-em-mah-en sag₉-zu he₂-di
+#lem: mu[name]; kur[mountain(s)]; mah[great]; sag[good]; di[speak]
+#tr.en: and may they speak good of you. May the land that is of its own will unbending to you, 
+#etcsl: line-id=D.31
+
+D.32. ma-da ni₂-ba nam-ra-an-gam-e gu₂ ŋiš hu-mu-ra-ab-ŋar
+#lem: mada[land]; ni[self]; gurum[bend]; gu[neck]; ŋeš[tree]; ŋar[put]
+#tr.en: submit to you. @wRN{Ur-@wDN{Ninurta}}, to whom I have given great power: you should trust in my name. 
+#etcsl: line-id=D.32
+
+D.33. {d}ur-<{d}nin-urta> a₂ gal šum₂-ma-ŋu₁₀ mu-ŋu₁₀-še₃ nir he₂-ŋal₂
+#lem: Urninurta[1]RN; a[arm]; gal[big]; šum[give]; mu[name]; nir[lordly]; heŋal[plenty]
+#tr.en: May your words clamp down upon the wicked like a great neck-stock. May the rebel land approach at your command, 
+#etcsl: line-id=D.33
+
+D.34. inim-zu {ŋiš}rab₃ mah-gin₇ hul-ŋal₂-e šu he₂-em-ri-ri
+#lem: inim[word]; raba[clamp]; mah[great]; huluŋal[evil]; šu[hand]; ri[impose]
+#tr.en: and do reverence to you. In your lordliness may you hold your head high. 
+#etcsl: line-id=D.34
+
+D.35. a₂ aŋ₂-ŋa₂-zu ki-bal-a ha-ba-te giri₁₇ šu ha-ma-an-ŋal₂-eš
+#lem: a[arm]; aŋ[measure]; kibala[rebel land]; teŋ[approach]; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: May you be good to the people. May you be the man of justice, 
+#etcsl: line-id=D.35
+
+D.36. nam-nun-zu saŋ an-še₃ he₂-eb-il₂ uŋ₃-e ha-ma-dug₃-ge
+#lem: namnun[magnificence]; saŋ[head]; an[sky]; il[raise]; uŋ[people]; dug[good]
+#tr.en: and may it come to your aid. You have justice that comes from the heart; 
+#etcsl: line-id=D.36
+
+D.37. niŋ₂-gen₆-na za-e lu₂-bi he₂-me-en a₂-tah-zu he₂-a
+#lem: niŋgina[truth]; zaʾe[you]; lu[person]; me[be]; atah[helper]; me[be]
+#tr.en: you are one of @wDN{Utu's} retainers. May @wDN{Inana}, who is assuredly your beloved, 
+#etcsl: line-id=D.37
+
+D.38. niŋ₂-si-sa₂ šag₄-ta e₃-a-me-en {d}utu ba-gub-ba
+#lem: niŋsisa[justice]; šag[heart]; e[leave]; Utu[1]DN; gub[stand]
+#tr.en: provide you with long life. 
+#etcsl: line-id=D.38
+
+D.39. {d}inana ki aŋ₂-zu na-nam nam-til₃ ha-ra-ab-sud-de₃
+#lem: Inanak[1]DN; ki[place]; aŋ[measure]; me[be]; namtil[life]; sud[distant]
+#tr.en: May the good protective deities of the @fsux{en} priesthood and of kingship stand faithfully at your side. 
+#etcsl: line-id=D.39
+
+D.40. {d}lamma sag₉-ga nam-en nam-lugal-la zid-de₃-eš ha-ra-sug₂-ge-eš
+#lem: lammar[(female) tutelary deity]; sag[good]; namen[the office of en-priest]; namlugal[kingship]; zid[right]; sug[stand]
+#tr.en: My @wRN{Ur-@wDN{Ninurta}}, named with the name of @wGN{Sumer}! 
+#etcsl: line-id=D.40
+
+D.41. <mu> sa₄-a ki-en-gi-ra-me-en {d}ur-<{d}nin-urta>-ŋu₁₀
+#lem: mu[name]; še[call by name]; Kengir[1]; Urninurta[1]RN
+#tr.en: Go with your head high to the shrine of @wSN{Nibru}, 
+#etcsl: line-id=D.41
+
+D.42. eš₃ nibru{ki} dur-an-ki-ka saŋ il₂-la ŋen-i₃
+#lem: eš[shrine]; Nibru[1]SN; Durankik[1]TN; saŋ[head]; il[raise]; ŋen[go]
+#tr.en: to @wTN{Dur-an-ki}. 
+#etcsl: line-id=D.42
+
+D.43. kadra!-zu! šeg₁₂ e₂-kur-ra-ke₄ šu-bi im-gid₂
+#lem: kadra[greeting gift]; šeg[brick]; Ekur[1]TN; šu[hand]; gid[long]
+#tr.en: Brick-built @wTN{E-kur} accepts your offerings: 
+#etcsl: line-id=D.43
+
+D.44. sipad ni₂ guru₃ nidba gal-gal-la-ni e₂-še₃ ha-ma-gub-be₂
+#lem: sipad[shepherd]; ni[fear]; gur[lift]; nindaba[(food) offering]; gal[big]; e[house]; gub[stand]
+#tr.en: @q{“May the awe-inspiring shepherd stand in attendance with his great food offerings for the house.”}”} 
+#etcsl: line-id=D.44
+
+@div trailer 
+
+D.45. sa-ŋar-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{sa-ŋara}. 
+#etcsl: line-id=D.45
+
+@end trailer
+
+@end sa-ŋara
+
+@div uru E
+
+E.46. 1(AŠ) diŋir-re-ne me gal-gal-la i₃-me-en
+#lem: n; diŋir[deity]; me[Being]; gal[big]; me[be]
+#tr.en: @q{“I am the only one among the gods with great divine powers. 
+#etcsl: line-id=E.46
+
+E.47. an lugal 1(AŠ) diŋir-re-<ne me gal-gal-la i₃-me-en>
+#lem: An[1]DN; lugal[king]; n; diŋir[deity]; me[Being]; gal[big]; me[be]
+#tr.en: I am @wDN{An} the king, the only one among the gods with great divine powers. 
+#etcsl: line-id=E.47
+
+E.48. {d}ur-<{d}nin-urta> ka-ta e₃-a-ŋu₁₀ ul-še₃ na-ra-kur₂-ru
+#lem: Urninurta[1]RN; kag[mouth]; e[leave]; ul[distant time]; kur[different]
+#tr.en: @wRN{Ur-@wDN{Ninurta}}, my utterances shall never be altered for you.”} 
+#etcsl: line-id=E.48
+
+@div trailer 
+
+E.49. u₁₈-ru₁₂-bi-im
+#lem: uru[literary subscript]
+#tr.en: Its @fsux{uru}. 
+#etcsl: line-id=E.49
+
+@end trailer
+
+@end uru
+
+@div trailer 
+
+E.50. a-da-ab an-na-kam
+#lem: adab[drum]; An[1]DN
+#tr.en: An @fsux{adab} of @wDN{An}. @notep{lines 49 and 50 are written as one line in source} 
+#etcsl: line-id=E.50
+
+#etcsl#doc lines 49 and 50 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

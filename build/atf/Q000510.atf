@@ -1,0 +1,163 @@
+&Q000510 = A prayer to An for Rīm-Sîn (Rīm-Sîn C)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.6.9.3
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.6.9.3&display=Crit&charenc=gcirc#
+
+1. sipad mu pad₃-da an kug-ge nam gal an-na tar
+#lem: sipad[shepherd]; mu[name]; pad[find]; An[1]DN; kug[pure]; nam[fate]; gal[big]; an[sky]; tar[cut]
+#tr.en: Shepherd, called by name, for whom holy @wDN{An} has determined in heaven a great destiny! 
+#etcsl: line-id=1
+
+2. {d}ri-im-{d}suen mu pad₃-da an kug-ge nam gal an-na tar
+#lem: Rimsin[1]RN; mu[name]; pad[find]; An[1]DN; kug[pure]; nam[fate]; gal[big]; an[sky]; tar[cut]
+#tr.en: @wRN{Rīm-@wDN{Sîn}}, called by name, 
+#etcsl: line-id=2
+
+3. nun šag₄ zid-ta nam-lugal-la mu-un-sa₂
+#lem: nun[prince]; šag[heart]; zid[right]; namlugal[kingship]; sa[equal]
+#tr.en: for whom holy @wDN{An} has determined in heaven a great destiny! 
+#etcsl: line-id=3
+
+4. nam-men uŋ₃ šar₂-ra-še₃ gal-le-eš kiŋ₂-kiŋ₂-en
+#lem: nammen[lordship]; uŋ[people]; šar[numerous]V/i; gal[big]; kiŋ[seek]
+#tr.en: Prince who achieved kingship when still in the true womb, you grandly exercise lordship over the numerous people. 
+#etcsl: line-id=4
+
+5. larsam{ki}-ma kur SA₄ me nam-nun-na de₂-a
+#lem: Larsam[1]SN; kur[mountain(s)]; X; me[Being]; namnun[magnificence]; de[pour]
+#tr.en: In @wSN{Larsam}, the …… mountain befitting the princely divine powers, 
+#etcsl: line-id=5
+
+6. nam-sipad ki-en-gi ki-uri-še₃ zid-de-eš pad₃-da-me-en
+#lem: namsipad[shepherdship]; Kengir[1]; Akkad[1 Akkad]; zid[right]; pad[find]
+#tr.en: you are truly called to be shepherd of @wGN{Sumer} and @wGN{Akkad}. 
+#etcsl: line-id=6
+
+7. an gal mah an ki-a en niŋ₂-nam gal-zu
+#lem: An[1]DN; gal[big]; mah[great]; an[sky]; ki[place]; en[lord]; niŋnam[anything]; galanzu[wise]
+#tr.en: Great @wDN{An}, august in heaven and earth, lord who is wise in everything, 
+#etcsl: line-id=7
+
+8. a-a diŋir-re-e-ne nam tar-tar-re-de₃ ki-bi-še₃ ši-ŋar
+#lem: aya[father]; diŋir[deity]; nam[fate]; tar[cut]; ki[place]; ŋar[put]
+#tr.en: father of the gods, has determined to fix the destinies for that place, 
+#etcsl: line-id=8
+
+9. dug₄-ga dugud inim-bi nu-silig-ge
+#lem: dug[speak]; dugud[heavy]; inim[word]; silig[cease]
+#tr.en: never interrupting the uttering of weighty commands, 
+#etcsl: line-id=9
+
+10. an-šag₄-ga sikil-la DU ŋal₂
+#lem: anšag[the interior of heaven]; sikil[pure]; X; ŋal[⟦be⟧ to be (there]
+#tr.en: …… in the pure interior of heaven. 
+#etcsl: line-id=10
+
+11. nun {d}ri-im-{d}suen sipad šag₄-ge <<UD>>-de₆-a-ne-me-en
+#lem: nun[prince]; Rimsin[1]RN; sipad[shepherd]; šag[heart]; de[carry]
+#tr.en: Prince @wRN{Rīm-@wDN{Sîn}}, you are the shepherd, the desire of his heart. 
+#etcsl: line-id=11
+
+12. an gal-e šag₄ ki aŋ₂-ŋa₂-ni dalla hu-mu-ra-<ni>-in-e₃
+#lem: An[1]DN; gal[big]; šag[heart]; ki[place]; aŋ[measure]; dalla[(to be) bright]; e[leave]
+#tr.en: May great @wDN{An} manifest brilliantly his heart's love for you; may he bless you for your justice. 
+#etcsl: line-id=12
+
+13. niŋ₂-si-sa₂-zu-še₃ gu₃ zid-de₃-eš hu-mu-ra-ab-de
+#lem: niŋsisa[justice]; gu[voice]; zid[right]; de[pour]
+#tr.en: May @wDN{An} in his profound heart make the days of your life abundant for you, 
+#etcsl: line-id=13
+
+14. an šag₄-ge su₃-ra₂ ud nam-til₃-zu hu-mu-ra-ab-dirig-ga
+#lem: An[1]DN; šag[heart]; sud[distant]; ud[sun]; namtil[life]; dirig[make more than]
+#tr.en: and give you kingship over the widespread lands until distant days. 
+#etcsl: line-id=14
+
+15. nam-lugal kur niŋ₂-daŋal-la ud su₃-ra₂-še₃ hu-mu-ra-ab-šum₂
+#lem: namlugal[kingship]; kur[mountain(s)]; niŋdaŋala[vastness]; ud[sun]; sud[distant]; šum[give]
+#tr.en: With his holy words may he determine for you a destiny of life, 
+#etcsl: line-id=15
+
+16. inim kug-ga-ne-ne-a nam nam-til₃-la hu-mu-ra-ab-tar
+#lem: inim[word]; kug[pure]; nam[fate]; namtil[life]; tar[cut]
+#tr.en: and with a wholly unalterable command give you long life in addition. 
+#etcsl: line-id=16
+
+17. dug₄-ga niŋ₂-nam nu-kur₂-da zi su₃-ra₂ hu-mu-ra-ab-tah
+#lem: dug[speak]; niŋnam[anything]; kur[different]; zi[life]; sud[distant]; tah[add]
+#tr.en: May he fix the holy headdress on your head, and seat you grandly on the throne of life. 
+#etcsl: line-id=17
+
+18. aga kug-ge saŋ-za-a he₂-ne₂-eb-ge-en
+#lem: aga[tiara]; kug[pure]; saŋ[head]; gin[confirm]
+#tr.en: May he hand over to you the sceptre of justice, 
+#etcsl: line-id=18
+
+19. {ŋiš}gu-za nam-til₃-la-ka gal-bi hu-mu-ra-ab-tuš
+#lem: guza[chair]; namtil[life]; gal[big]; tuš[sit (down)]
+#tr.en: and suspend by your side the staff which strengthens the Land. 
+#etcsl: line-id=19
+
+20. u₃-luh niŋ₂-si-sa₂ šu-zu-še₃ hu-mu-ra-ab-si
+#lem: uluh[scepter]; niŋsisa[justice]; šu[hand]; si[fill]
+#tr.en: May he make you grasp the shepherd's crook that causes the people to multiply. 
+#etcsl: line-id=20
+
+21. ešgiri₂ kalam ge-en-ge-en su-zu-a he₂-bi₂-la
+#lem: ešgiri[staff]; kalam[the Land (of Sumer)]; gin[confirm]; su[flesh]; la[hang]
+#tr.en: May he open for you the breasts of the brilliant heavens, 
+#etcsl: line-id=21
+
+22. šibir uŋ₃ lu-a hu-mu-ra-ab-dab₅
+#lem: šibir[shepherd's staff]; uŋ[people]; lu[abundant]; dab[seize]
+#tr.en: and cause the rain to rain for you. 
+#etcsl: line-id=22
+
+23. ubur an sud-aŋ₂ ŋal₂ hu-mu-ra-ab-taka₄ šeŋₓ(|IM.A|) an-na hu-mu-ra-ab-šeŋ₃
+#lem: ubur[breast]; an[sky]; sud[distant]; ŋal[open]; taka[set aside]; šeŋ[rain]; an[sky]; šeŋ[rain]
+#tr.en: From the heart of heaven may he assemble for you years of abundance and days of plenty. 
+#etcsl: line-id=23
+
+24. mu ma-da ud nam-he₂ an-šag₄-ta zag hu-mu-ra-ab-keše₂
+#lem: mu[year]; madam[abundance]; ud[sun]; namhe[abundance]; anšag[the interior of heaven]; zag[side]; kešed[bind]
+#tr.en: May he make splendid radiance and heart's joy for your days, 
+#etcsl: line-id=24
+
+25. iti₆ niŋ₂ giri₁₇-zal šag₄ hul₂-la ud-zu-še₃ hu-mu-ra-ab-ŋar
+#lem: itud[moon]; niŋ[thing]; kirizal[joy]; šag[heart]; hul[rejoice]; ud[sun]; ŋar[put]
+#tr.en: and place in your hands an agreeable reign of justice. 
+#etcsl: line-id=25
+
+26. bal niŋ₂ dug₃ niŋ₂-si-su si-a šu-zu-še₃ hu-mu-ra-ab-ŋar
+#lem: bala[turn]; niŋ[thing]; dug[good]; niŋsisa[justice]; si[fill]; šu[hand]; ŋar[put]
+#tr.en: May the great @wDN{An} forever be the protector of your kingship! 
+#etcsl: line-id=26
+
+27. an gal-e su₃-ra₂-še₃ a₂-bad-ŋal₂ nam-lugal-la-zu he₂-a
+#lem: An[1]DN; gal[big]; sud[distant]; abadŋal[protector]; namlugal[kingship]; me[be]
+#tr.en: @wRN{Rīm-@wDN{Sîn}}, 
+#etcsl: line-id=27
+
+28. {d}ri-im-{d}suen lugal-ŋu₁₀
+#lem: Rimsin[1]RN; lugal[king]
+#tr.en: you are my king! 
+#etcsl: line-id=28
+
+@div trailer 
+
+29. 28 mu-ni šudu₃-de₃ an
+#lem: n; mu[name]; šud[prayer]; An[1]DN
+#tr.en: 28 lines. A prayer to @wDN{An}. 
+#etcsl: line-id=29
+
+@end trailer
+
+
+
+
+
+
+

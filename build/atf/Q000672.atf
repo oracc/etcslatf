@@ -1,0 +1,336 @@
+&Q000672 = A balbale to Nanna (Nanna C)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.03&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div unknown A
+
+A.A.1. e₂ {d}utu e₃-a# ki-en-gi-ra#
+#lem: e[house]; Utu[1]DN; e[leave]; Kengir[1]
+#tr.en: O eastern (?) house of Sumer, I will declare your greatness! 
+#etcsl: line-id=A.A.1
+
+$ ({d}utu is a supralinear correction by the scribe from an original UD-ta)
+A.A.2. e₂-kiš#-[nu]-ŋal₂ šu-luh dadag-ga-am₃
+#lem: Ekišnuŋal[1]TN; šuluh[ritual cleansing]; dadag[bright]
+#tr.en: O @wTN{E-kiš-nu-ŋal}, whose purification rites are brilliant, 
+#etcsl: line-id=A.A.2
+
+A.A.3. e₂ {d}nanna# nam-mah-za ga-ri#-dug₄
+#lem: e[house]; Nanna[1]DN; nammah[greatness]; dug[speak]
+#tr.en: O house of @wDN{Nanna}! O shrine @wSN{Urim}, 
+#etcsl: line-id=A.A.3
+
+A.A.4. eš₃#{ma} urim₂{ki} mu-zu pa ga-an-e₃
+#lem: eš[shrine]; Urim[1]SN; mu[name]; pa[branch]; e[leave]
+#tr.en: I shall glorify your name. 
+#etcsl: line-id=A.A.4
+
+A.A.5. hur#-saŋ sikil šag₄ kug-ta e₃-a
+#lem: hursaŋ[mountain]; sikil[purify]; šag[heart]; kug[pure]; e[leave]
+#tr.en: Emerging from the holy heart of the pure hills, 
+#etcsl: line-id=A.A.5
+
+A.A.6. urim₂{ki} igi-ŋal₂ {{%akk ta-ši-im-tum}} an uraš-a
+#lem: Urim[1]SN; igiŋal[wise]; L; An[1]DN; Uraš[1]DN
+#tr.en: @wSN{Urim}, wisdom of @wDN{An} and @wDN{Uraš}, 
+#etcsl: line-id=A.A.6
+
+A.A.7. e₂-temen-ni₂-guru₃-a tum₂-ma
+#lem: Etemenniguru[1]TN; tum[suitable]
+#tr.en: appropriate for @wTN{E-temen-ni-guru}! 
+#etcsl: line-id=A.A.7
+
+A.A.8. an-da nam-lugal {{%akk šar!-[...] %akk X}} mu-un-da-e-ba
+#lem: An[1]DN; namlugal[kingship]; L; L; ba[allot]
+#tr.en: With @wDN{An} you bestow kingship; 
+#etcsl: line-id=A.A.8
+
+A.A.9. nam-mah-zu kur-kur-re ba-X [...] X
+#lem: nammah[greatness]; kur[mountain(s)]; X; X; X
+#tr.en: your majesty …… the foreign lands. 
+#etcsl: line-id=A.A.9
+
+A.A.10. su₃-ra₂-še₃ mu-zu pa ga-an-[e₃]
+#lem: sud[distant]; mu[name]; pa[branch]; e[leave]
+#tr.en: I shall glorify your name far and wide! 
+#etcsl: line-id=A.A.10
+
+A.A.11. šu-luh nam-en-na-ke₄ si bi₂-sa₂-a#
+#lem: šuluh[ritual cleansing]; namen[the office of en-priest]; si[horn]; sa[equal]
+#tr.en: He keeps in order the lordly purification rites ……. 
+#etcsl: line-id=A.A.11
+
+A.A.12. urim₂{ki}-ma dur₂ ki ba-ni-[X-ŋar]
+#lem: Urim[1]SN; dur[buttocks]; ki[place]; ŋar[put]
+#tr.en: He has taken his seat …… in @wSN{Urim}. 
+#etcsl: line-id=A.A.12
+
+A.A.13. mu-zu dug₃-ga-am₃ nun-e mu-un#-X [...]
+#lem: mu[name]; dug[good]; nun[prince]; X; X
+#tr.en: Your name is sweet! The Prince ……. 
+#etcsl: line-id=A.A.13
+
+A.A.14. inim kug-zu an-ra ša-mu-sag₉# X
+#lem: inim[word]; kug[pure]; An[1]DN; sag[good]; X
+#tr.en: Your holy word is pleasing to @wDN{An}. 
+#etcsl: line-id=A.A.14
+
+A.A.15. en-he₂-du₇-an-na-ŋu₁₀ an-na he₂-dirig#
+#lem: Enheduana[1]PN; An[1]DN; dirig[make more than]
+#tr.en: May my @wPN{En-ḫedu-ana} excel even @wDN{An}. 
+#etcsl: line-id=A.A.15
+
+A.A.16. šu-luh ŋi₆-par₄-ra SI [...]
+#lem: šuluh[ritual cleansing]; ŋipar[cloister]; X; X
+#tr.en: …… the purification rites of the @fsux{ŋipar}. 
+#etcsl: line-id=A.A.16
+
+A.A.17. me nam-en-na ba-ab-[...]
+#lem: me[Being]; namen[the office of en-priest]; X
+#tr.en: …… the lordly divine powers. 
+#etcsl: line-id=A.A.17
+
+A.A.18. ŋi₆-par₄-ra dib-dib-be₂ [X X]
+#lem: ŋipar[cloister]; dib[pass]; X; X
+#tr.en: …… the excellent @fsux{ŋipar}. 
+#etcsl: line-id=A.A.18
+
+A.A.19. {d#}[aš]-im₂-babbar-re# [...]
+#lem: Dilimbabbar[1]DN; X
+#tr.en: @wDN{Ašimbabbar} ……. 
+#etcsl: line-id=A.A.19
+
+$ (probably 1 line missing)
+A.A.21. zi# [...]
+#lem: zi[life]; X
+#tr.en: $ (@gap{probably 1 line missing}) 
+#etcsl: line-id=A.A.21
+
+A.A.22. šir₃ DI [...]
+#lem: šir[sing]; X; X
+#etcsl: line-id=A.A.22
+
+A.A.23. šir₃ kug# [...]
+#lem: šir[sing]; kug[purify]; X
+#tr.en: …… holy songs ……. 
+#etcsl: line-id=A.A.23
+
+A.A.24. nun-e X [...]
+#lem: nun[prince]; X; X
+#tr.en: The Prince ……. 
+#etcsl: line-id=A.A.24
+
+A.A.25. ŋeštug₂ [...]
+#lem: ŋeštug[ear]; X
+#tr.en: …… wisdom ……. 
+#etcsl: line-id=A.A.25
+
+A.A.26. me gal-gal-la [...]
+#lem: me[Being]; gal[big]; X
+#tr.en: …… the great divine powers. 
+#etcsl: line-id=A.A.26
+
+A.A.27. an {d}en-lil₂ GI# [...]
+#lem: An[1]DN; Enlil[1]DN; X; X
+#tr.en: @wDN{An} and @wDN{Enlil} ……. 
+#etcsl: line-id=A.A.27
+
+A.A.28. {d}nin-gal-la [...]
+#lem: Ningal[1]DN; X
+#tr.en: @wDN{Ningal} …… May he excel ……. 
+#etcsl: line-id=A.A.28
+
+A.A.29. he₂-dirig u₃-tud [...]
+#lem: dirig[make more than]; utud[give birth (to)]; X
+#tr.en: @wDN{Aš-im-babbar} ……. 
+#etcsl: line-id=A.A.29
+
+A.A.30. {d}dil-im₂-babbar-re X X X [...]
+#lem: Dilimbabbar[1]DN; X; X; X; X
+#tr.en: Like the sweet moonlight ……. 
+#etcsl: line-id=A.A.30
+
+A.A.31. iti₆ niŋ₂ dug₃-gin₇ X URU [...]
+#lem: itud[moon]; niŋ[thing]; dug[good]; X; X; X
+#tr.en: …… the @fsux{ŋipar}, my delight, 
+#etcsl: line-id=A.A.31
+
+A.A.32. ŋi₆-par₄ šag₄ hul₂-la-ŋu₁₀# [...]
+#lem: ŋipar[cloister]; šag[heart]; hul[rejoice]; X
+#tr.en: ……. @wDN{An} and @wDN{Enlil} ……. 
+#etcsl: line-id=A.A.32
+
+A.A.33. an {d}en-lil₂-bi [...]
+#lem: An[1]DN; Enlil[1]DN; X
+#tr.en: Mother @wDN{Ningal} …… charm ……. 
+#etcsl: line-id=A.A.33
+
+A.A.34. ama {d}nin-gal hi-li# [...]
+#lem: ama[mother]; Ningal[1]DN; hili[attractiveness]; X
+#tr.en: The high priestess of the moon god ……. 
+#etcsl: line-id=A.A.34
+
+A.A.35. zirru(|EN.NU.NUNUZ.ZI.AN.NANNA|) [...]
+#lem: zirru[priestess]; X
+#tr.en: @wPN{En-ḫedu-ana} ……. My king ……. 
+#etcsl: line-id=A.A.35
+
+A.A.36. en-he₂-du₇-an#-[na ...]
+#lem: Enheduana[1]PN; X
+#tr.en: …… the great divine powers ……. 
+#etcsl: line-id=A.A.36
+
+A.A.37. lugal-ŋu₁₀ [...]
+#lem: lugal[king]; X
+#tr.en: …… holy songs, 
+#etcsl: line-id=A.A.37
+
+A.A.38. me gal-gal-la-ni [...]
+#lem: me[Being]; gal[big]; X
+#tr.en: light ……  
+#etcsl: line-id=A.A.38
+
+A.A.39. šir₃ kug su₃-ra₂-aŋ₂ GA# [...]
+#lem: šir[sing]; kug[purify]; sudaŋ[precious metal or material (possibly amber)]; X; X
+#tr.en: @wPN{En-ḫedu-ana} ……  
+#etcsl: line-id=A.A.39
+
+A.A.40. mu-zu A GAR# X KI# [...]
+#lem: mu[name]; X; X; X; X; X
+#etcsl: line-id=A.A.40
+
+A.A.41. en-he₂-du₇-an-na an-na# [...]
+#lem: Enheduana[1]PN; an[sky]; X
+#etcsl: line-id=A.A.41
+
+A.A.42. la-la [...] lu₂-e [...]
+#lem: lala[plenty]; X; lu[person]; X
+#etcsl: line-id=A.A.42
+
+$ (probably 1 line missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div ŋišgiŋal B
+
+B.B.1. [...] lu₂# šu-luh-zu mu-un-zu-a
+#lem: X; lu[person]; šuluh[ritual cleansing]; zu[know]
+#tr.en: …… who is familiar with your purification rites, 
+#etcsl: line-id=B.B.1
+
+B.B.2. [...]-e# hu-mu-un-ak-e
+#lem: X; ak[do]
+#tr.en: ……, may he do ……. 
+#etcsl: line-id=B.B.2
+
+B.B.3. [...]-zu# unu! sikil-la ša-ra-an-du₃
+#lem: X; unu[dwelling]; sikil[pure]; du[build]
+#tr.en: …… shall build for you in the pure abode (?) ……. 
+#etcsl: line-id=B.B.3
+
+B.B.4. [X X] nu₂#-a {{%akk šu-un-nu-um}} nu-un-ši-ku₄-ku₄
+#lem: X; X; nud[lie down]; L; kur[enter]
+#tr.en: …… shall not enter ……. 
+#etcsl: line-id=B.B.4
+
+B.B.5. še#-zu |GA₂×GI| sikil-la ma-ra-ar₃-ar₃-e {{%akk iṭ-ṭe-e-en-kum}}
+#lem: še[barley]; ŋagia[cloister]; sikil[pure]; ara[grind]; L
+#tr.en: He shall grind your barley for you in the pure cloister. 
+#etcsl: line-id=B.B.5
+
+B.B.6. ar₃-ar₃-ra-zu {{%akk E₂ %akk ṭe₆-X-nu}} unu-na la-ba-e-nu₂ {{%akk u₂-ul %akk uš-ta-a-an}}
+#lem: ara[grind]; L; L; unu[dwelling]; nud[lie down]; L; L
+#tr.en: Your milled grain is not laid in his hall. 
+#etcsl: line-id=B.B.6
+
+B.B.7. niŋ₂-ar₃-ra-zu {{%akk mu-un-da-ka}} a nu-tag-ge
+#lem: niŋara[groats]; L; a[water]; tag[touch]
+#tr.en: Water shall not touch what you have ground, and your malt shall not be turned over. 
+#etcsl: line-id=B.B.7
+
+B.B.8. munu₄-zu niŋ₂ šu bal nu-ak-dam
+#lem: munu[malt]; niŋ[thing]; šu[hand]; bala[turn]; ak[do]
+#tr.en: O palace of @wDN{Suen}, 
+#etcsl: line-id=B.B.8
+
+B.B.9. e₂-gal {d}suen-na lu₂ a-na-zu mu-un-zu
+#lem: egal[palace]; Suen[1]DN; lu[person]; ana[what?]; zu[know]
+#tr.en: what do men know of you? 
+#etcsl: line-id=B.B.9
+
+B.B.10. al-la₂-e {{%akk i-na %akk e-ri-iš-tim}} gudug-e-ne-ka
+#lem: la[hang]; L; L; gudug[priest]
+#etcsl: line-id=B.B.10
+
+B.B.11. {gi}ma-sa₂-ab ku₄-ku₄-dam asil₃-la₂ di-dam
+#lem: masab[basket]; kur[enter]; asilala[joy]; di[speak]
+#tr.en: To bring offerings in baskets, to cause rejoicing, 
+#etcsl: line-id=B.B.11
+
+B.B.12. e₂ dug₃-ge-da e₂ ŋa₂-ŋa₂-dam {{%akk šu-X-X-a-am}}
+#lem: e[house]; dug[good]; e[house]; ŋar[put]; L
+#tr.en: to make the house comfortable, to establish the house, 
+#etcsl: line-id=B.B.12
+
+B.B.13. ki šu-luh kug-ga si sa₂-e-dam
+#lem: ki[place]; šuluh[ritual cleansing]; kug[pure]; si[horn]; sa[equal]
+#tr.en: to put in order the place of the holy purification rites -- may @wDN{Ningal}, 
+#etcsl: line-id=B.B.13
+
+B.B.14. {d#}nin-gal en-he₂-du₇-an-na-ŋu₁₀
+#lem: Ningal[1]DN; Enheduana[1]PN
+#tr.en: my @wPN{En-ḫedu-ana}, restore your ……. 
+#etcsl: line-id=B.B.14
+
+B.B.15. [...]-zu ki-bi hu-mu-na-gi₄-gi₄
+#lem: X; ki[place]; gi[turn]
+#tr.en: …… @wDN{Nanna}, I shall praise you. 
+#etcsl: line-id=B.B.15
+
+B.B.16. [...] {d}nanna mi₂ ga-e-dug₄
+#lem: X; Nanna[1]DN; mi[cvne]; dug[speak]
+#tr.en: …… @wDN{Suen}, 
+#etcsl: line-id=B.B.16
+
+B.B.17. [...] {d}suen mu-zu pa ga!-an-e₃
+#lem: X; Suen[1]DN; mu[name]; pa[branch]; e[leave]
+#tr.en: I shall glorify your name. 
+#etcsl: line-id=B.B.17
+
+@div trailer 
+
+B.B.18. [ŋiš]-gi₄#-ŋal₂-bi-im
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: Its @fsux{ŋišgiŋal}. 
+#etcsl: line-id=B.B.18
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div trailer 
+
+B.B.19. [bal]-bal#-e {d}nanna-kam
+#lem: balbale[literary subscript]; Nanna[1]DN
+#tr.en: A @fsux{balbale} of @wDN{Nanna}. 
+#etcsl: line-id=B.B.19
+
+@end trailer
+
+@end segment
+
+
+
+
+
+
+

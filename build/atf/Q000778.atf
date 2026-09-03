@@ -1,0 +1,620 @@
+&Q000778 = The song of the hoe
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.5.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.4&display=Crit&charenc=gcirc#
+
+1. en-e niŋ₂-du₇-e pa na-an-ga-mi-in-e₃
+#lem: en[lord]; niŋdu[that which is appropriate]; pa[branch]; e[leave]
+#tr.en: Not only did the lord make the world appear in its correct form -- the lord who never changes the destinies which he determines: 
+#etcsl: line-id=1
+
+#etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 3; OB catalogue at Andrews University, 0.2.11, line 9; OB catalogue at Yale, 0.2.12, Seg. A, line 3
+
+2. en nam tar-ra-na šu nu-bal-e-de₃
+#lem: en[lord]; nam[fate]; tar[cut]; šu[hand]; bala[turn]
+#tr.en: @wDN{Enlil}, 
+#etcsl: line-id=2
+
+3. {d}en-lil₂ numun kalam-ma (1:ki-ta:1) (2:ed₂-de₃:2)
+#lem: Enlil[1]DN; numun[seed]; kalam[the Land (of Sumer)]; ki[place]; e[leave]
+#tr.en: who will make the human seed of the Land come @varh[t554.v1]{forth } @vart[t554.v2,t554.v1]{@varn{3 mss. have instead:} up }  
+#etcsl: line-id=3
+
+:3v.1.1: ($2 mss. have instead:$) eš₃-ta
+#lem: eš[shrine]
+:3v.2.1: ($3 other mss. have instead:$) ed₃-de₃
+#lem: ed[go up]
+
+4. an ki-ta ba₉-re₆-de₃ saŋ na-an-ga-ma-an-šum₂
+#lem: an[sky]; ki[place]; bad[open]; saŋ[head]; šum[give]
+#tr.en: from the @varh[t554.v3]{earth } @vart[t554.v4,t554.v3]{@varn{2 other mss. have instead:} chamber } -- and not only did he hasten to separate heaven from earth, 
+#etcsl: line-id=4
+
+5. ki an-ta ba₉-re₆-de₃ saŋ na-an-ga-ma-an-šum₂
+#lem: ki[place]; an[sky]; bad[open]; saŋ[head]; šum[give]
+#tr.en: and hasten to separate earth from heaven, 
+#etcsl: line-id=5
+
+6. (1:uzu-e₃-a:1) saŋ mu₂-mu₂-de₃
+#lem: Uzuea[1]ON; saŋ[head]; mu[grow]
+#tr.en: but, 
+#etcsl: line-id=6
+
+:6v.1.1: ($2 mss. have instead:$) uzu-mu₂-a
+#lem: Uzumua[1]ON
+
+7. dur-an-ki-ka bulug (1:nam-mi-in-la₂:1)
+#lem: Durankik[1]TN; bulug[needle]; la[hang]
+#tr.en: in order to make it possible for humans to grow in @varh[t554.v5]{'Where Flesh Came Forth' } @vart[t554.v6,t554.v5]{@varn{2 mss. have instead:} 'Where Flesh Grew' } @noteref{the name of a cosmic location}, he first @varh[t554.v7]{suspended } @vart[t554.v8,t554.v7]{@varn{2 mss. have instead:} raised } the axis of the world at @wTN{Dur-an-ki}. 
+#etcsl: line-id=7
+
+:7v.1.1: ($1 ms. has instead:$) nam-il₂-e
+#lem: il[raise]
+:7v.1.2: ($1 ms. has instead:$) nam-il₂-la
+#lem: il[raise]
+
+8. {ŋiš}al-e mu-un-ŋar ud al-e₃
+#lem: al[hoe]; ŋar[put]; ud[sun]; e[leave]
+#tr.en: He did this with the help of the hoe (@fsux{al}) -- and  
+#etcsl: line-id=8
+
+9. eš₂-gar₃ mu-un-du₃ nam al-tar-re
+#lem: ešgar[work assignment]; du[build]; nam[fate]; tar[cut]
+#tr.en: so daylight broke forth (@fsux{aled}). By distributing (@fsux{altare}) the shares of duty he established daily tasks, 
+#etcsl: line-id=9
+
+10. {ŋiš}al-e {ŋiš}dusu-e a₂ si ba-ab-sa₂-e
+#lem: al[hoe]; dupsik[basket (for carrying earth and bricks)]; a[arm]; si[horn]; sa[equal]
+#tr.en: and for the hoe (@fsux{al}) and the carrying-basket wages were even established. 
+#etcsl: line-id=10
+
+11. {d}en-lil₂-le {ŋiš}al-a-ni za₃-mi₂ ba-an-dug₄
+#lem: Enlil[1]DN; al[hoe]; zamin[praise]; dug[speak]
+#tr.en: Then @wDN{Enlil} praised his hoe (@fsux{al}), his hoe (@fsux{al}) wrought in gold, 
+#etcsl: line-id=11
+
+12. {ŋiš}al-a-ni kug-sig₁₇-ga saŋ-bi {na₄}za-gin₃-na
+#lem: al[hoe]; kugsig[gold]; saŋ[head]; zagin[lapis lazuli]
+#tr.en: its top inlaid with lapis lazuli, 
+#etcsl: line-id=12
+
+13. {ŋiš}al sa la₂-a-ni kug-me kug-sig₁₇-ga
+#lem: al[hoe]; sa[sinew]; la[hang]; kugmea[bright metal]; kugsig[gold]
+#tr.en: his hoe (@fsux{al}) whose blade was tied on with a cord, 
+#etcsl: line-id=13
+
+14. {ŋiš}al-a-ni a₂ bulug-ba apin {na₄}za-gin₃-na-kam
+#lem: al[hoe]; a[arm]; bulug[needle]; apin[(seed) plow]; zagin[lapis lazuli]
+#tr.en: which was adorned with silver and gold, 
+#etcsl: line-id=14
+
+15. zu₂-bi gud-si-AŠ (1:bad₃ gal ed₂-de₃-dam:1)
+#lem: zu[tooth]; gud.si.AŠ[battering ram]; bad[wall]; gal[big]; e[leave]
+#tr.en: his hoe (@fsux{al}), the edge of whose point (?) was a plough of lapis lazuli, 
+#etcsl: line-id=15
+
+:15v.1.1: ($1 ms. has instead:$) saŋ gal u₃-tud-da
+#lem: saŋ[head]; gal[big]; utud[give birth (to)]
+
+16. en-e {ŋiš}al mu-un-šid nam mi-ni-ib-tar-re
+#lem: en[lord]; al[hoe]; šid[count]; nam[fate]; tar[cut]
+#tr.en: whose blade was like a battering ram @varh[t554.v9]{standing up to a great (@fsux{gal}) wall } @vart[t554.v10,t554.v9]{@varn{1 ms. has instead:} born for a great (@fsux{gal}) person (?) }. The  
+#etcsl: line-id=16
+
+17. ki-in-du men kug saŋ-ŋa₂ mu-ni-in-ŋal₂
+#lem: kindu[earth]; men[tiara]; kug[purify]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#tr.en: lord evaluated the hoe (@fsux{al}), determined its future destiny and placed a holy crown on its head ……. 
+#etcsl: line-id=17
+
+@variants
+
+18. (1:uzu-e₃-a:1) {ŋiš}al am₃-mi-ni-in-du₃
+#lem: uzu[flesh]; al[hoe]; du[build]
+#tr.en: Here, @vart[t554.v11,t554.r2]{in @varh[t554.v12]{'Where Flesh Came Forth' } @vart[t554.v13,t554.v12]{@varn{1 ms. has instead:} 'Where Flesh Grew' } @noteref{the name of a cosmic location}, he set this very hoe (@fsux{al}) to work; } @vart[t554.v14,t554.v11]{@varn{1 other ms. has instead:} in 'Where Flesh Grew' the unassailable (?), } he had it place the first model of mankind in the brick mould. 
+#etcsl: line-id=18
+
+:18v.1.1: ($1 ms. has instead:$) uzu-mu₂-a
+#lem: Uzumua[1]ON
+
+@variant
+
+#etcsl#ms 1 other ms. has instead the line:
+18A. uzu-mu₂-a saŋ nu-ŋa₂-ŋa₂-de₃
+#lem: Uzumua[1]ON; saŋ[head]; ŋar[put]
+#tr.en: His Land started to break through the soil towards @wDN{Enlil}. 
+#etcsl: line-id=18A
+
+@endvariants
+
+19. saŋ nam-lu₂-ulu₃ u₃-šub-ba mi-ni-in-ŋar
+#lem: saŋ[head]; namlulu[humanity]; ušub[brick-mold]; ŋar[put]
+#tr.en: He looked with favour at his black-headed people. 
+#etcsl: line-id=19
+
+20. {d}en-lil₂-še₃ kalam-ma-ni ki mu-un-ši-in-dar-re
+#lem: Enlil[1]DN; kalam[the Land (of Sumer)]; ki[place]; dar[split]
+#tr.en: Now the @wDN{Anuna} gods stepped forward to him, 
+#etcsl: line-id=20
+
+21. saŋ gig₂-ga-ni-še₃ igi zid mu-ši-in-bar
+#lem: saŋ[head]; giggig[black]; igi[eye]; zid[right]; bar[place outside]
+#tr.en: and did (@fsux{ŋal}) obeisance to him. They calmed @wDN{Enlil} with a prayer, 
+#etcsl: line-id=21
+
+22. {d}a-nun-na mu-un-na-sug₂-sug₂-ge-eš
+#lem: Anunak[1]DN; sug[stand]
+#tr.en: for they wanted to demand (@fsux{al-dug}) the black-headed people from him. 
+#etcsl: line-id=22
+
+23. šu-bi giri₁₇-ba mu-un-ne-ŋal₂
+#lem: šu[hand]; kiri[nose]; ŋal[⟦be⟧ to be (there]
+#tr.en: @wDN{Ninmena}, 
+#etcsl: line-id=23
+
+24. {d}en-lil₂ a-ra-zu-a mu-ni-in-huŋ-e-ne
+#lem: Enlil[1]DN; arazu[supplication]; huŋ[pacify]
+#tr.en: the lady who had given birth to the ruler, 
+#etcsl: line-id=24
+
+25. uŋ₃ saŋ gig₂-ga al mu-un-da-be₂-ne
+#lem: uŋ[people]; saŋ[head]; giggig[black]; al[cvne]; dug[speak]
+#tr.en: who had given birth to the king, 
+#etcsl: line-id=25
+
+26. nin en u₃-tud-de₃ lugal u₃-tud-de₃
+#lem: nin[lady]; en[lord]; utud[give birth (to)]; lugal[king]; utud[give birth (to)]
+#tr.en: now set (@fsux{alŋaŋa}) human reproduction going. 
+#etcsl: line-id=26
+
+27. {d}nin-men-na-ke₄ tud-tud al-ŋa₂-ŋa₂
+#lem: Ninmenak[1]DN; utud[give birth (to)]; ŋar[put]
+#etcsl: line-id=27
+
+28. mas-su an ki-a en {d}nu-nam-nir-ra
+#lem: massu[leader]; an[sky]; ki[place]; en[lord]; Nunamnir[1]DN
+#tr.en: The leader of heaven and earth, 
+#etcsl: line-id=28
+
+29. saŋ zid saŋ kal-la mu-ni-ib-sa₄-sa₄
+#lem: saŋ[head]; zid[right]; saŋ[head]; kal[rare]; še[call by name]
+#tr.en: Lord @wDN{Nunamnir}, 
+#etcsl: line-id=29
+
+30. saŋ-bi gu dili-a (1:mu-un-ed₂-de₃-a:1)
+#lem: saŋ[head]; gu[cord]; dili[single]; e[leave]
+#tr.en: named the important persons and valued (@fsux{kal}) persons. 
+#etcsl: line-id=30
+
+:30v.1.1: ($1 ms. has instead:$) mu-un-ne-ed₃-de₃-a
+#lem: ed[go up]
+:30v.1.2: ($1 other ms. has instead:$) mu-un-ni-ib-du₈
+#lem: du[spread]
+
+31. diŋir-re-e-ne-ra šukur₂-še₃ mu-un-dab₅-be₂
+#lem: diŋir[deity]; šukur[food allocation]; dab[seize]
+#tr.en: He formed those persons into a row and recruited them to provide for the gods. 
+#etcsl: line-id=31
+
+32. {d}en-ki-ke₄ {ŋiš}al-a-ni za₃-mi₂ ba-an-dug₄
+#lem: Enkik[1]DN; al[hoe]; zamin[praise]; dug[speak]
+#tr.en: Now @wDN{Enki} praised @wDN{Enlil's} hoe (@fsux{al}), and the maiden  
+#etcsl: line-id=32
+
+33. ki-sikil {d}nisaba eš-bar-ra ba-an-gub
+#lem: kisikil[young woman]; Nisabak[1]DN; ešbar[decision]; gub[stand]
+#tr.en: @wDN{Nisaba} was made responsible for keeping records of the decisions. 
+#etcsl: line-id=33
+
+34. {ŋiš}al mul {ŋiš}al kug-ba šu mu-un-ne-ŋal₂
+#lem: al[hoe]; mul[shine]; al[hoe]; kug[pure]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: And so people took (@fsux{ŋal}) the shining hoes (@fsux{al}), the holy hoes (@fsux{al}), into their hands. 
+#etcsl: line-id=34
+
+35. e₂-kur e₂ {d}en-lil₂-la₂ {ŋiš}al-e ŋar-ra-am₃
+#lem: Ekur[1]TN; e[house]; Enlil[1]DN; al[hoe]; ŋar[put]
+#tr.en: The @wTN{E-kur}, 
+#etcsl: line-id=35
+
+36. ud-de₃ al-du₃-e ŋi₆ al-mu₂-mu₂
+#lem: ud[storm]; du[build]; ŋi[night]; mu[grow]
+#tr.en: the temple of @wDN{Enlil}, 
+#etcsl: line-id=36
+
+37. nibru{ki} ki ŋar-ra ama₅ tum-ma-al{ki}-a
+#lem: Nibru[1]SN; ki[place]; ŋar[put]; emi[queen's household]; Tummal[1]TN
+#tr.en: was founded by the hoe (@fsux{al}). By day it was building (@fsux{aldue}) it, 
+#etcsl: line-id=37
+
+38. tum-ma-al (1:{gi}pisaŋ ninda:1) ama {d}nin-lil₂-la₂-kam
+#lem: Tummal[1]TN; bisaŋ[basket]; ninda[bread]; ama[mother]; Ninlil[1]DN
+#tr.en: by night it caused the temple to grow (@fsux{almumu}). In well-founded @wSN{Nibru}, 
+#etcsl: line-id=38
+
+:38v.1.1: ($1 ms. has instead:$) gašam in-du₃
+#lem: gašam[knowing]; du[build]
+
+39. e₂-mi tum-ma-al{ki}-a niŋ₂ sa₂ dug₄-ga-ta
+#lem: emi[queen's household]; Tummal[1]TN; niŋ[thing]; sa[equal]; dug[speak]
+#tr.en: the hero @wDN{Ninurta} entered into the presence of @wDN{Enlil} in the inner chamber of the @fsux{@wTN{Tummal}} -- the @fsux{@wTN{Tummal}}, 
+#etcsl: line-id=39
+
+40. ur-saŋ {d}nin-urta {d}en-lil₂-ra mu-na-da-an-ku₄-ku₄
+#lem: ursaŋ[warrior]; Ninurtak[1]DN; Enlil[1]DN; kur[enter]
+#tr.en: the @varh[t554.v15]{bread basket (?) } @vart[t554.v16,t554.v15]{@varn{1 ms. has instead:} …… masterpiece (?) } of Mother @wDN{Ninlil} -- the innermost chamber of the @fsux{@wTN{Tummal}}, 
+#etcsl: line-id=40
+
+41. maš₂ gig₂ nesaŋ en-na-ta
+#lem: maš[goat]; giggig[black]; nesaŋ[first-fruit offering]; en[lord]
+#tr.en: with regular food deliveries. 
+#etcsl: line-id=41
+
+42. kug {d}nin-i₃-si-in-na {d}en-lil₂-ra mu-na-da-an-ku₄-ku₄
+#lem: kug[purify]; Ninisinak[1]DN; Enlil[1]DN; kur[enter]
+#tr.en: Holy @wDN{Ninisina} entered into the presence of @wDN{Enlil} with black kids and fruit offerings for the lord. 
+#etcsl: line-id=42
+
+43. abzu igi piriŋ₃-ŋa₂ me al nu-di-da
+#lem: Eʾabzu[1]; igi[eye]; piriŋ[lion]; me[Being]; al[cvne]; di[speak]
+#tr.en: Next comes the @wTN{Abzu}, with the lions before it, 
+#etcsl: line-id=43
+
+44. al-tar lu₂ zid-de₃ en {d}nu-dim₂-mud-e
+#lem: altar[worker]; lu[person]; zid[right]; en[lord]; Nudimmud[1]DN
+#tr.en: where the divine powers may not be requested (@fsux{al-dug}): the hoe wielder (?) (@fsux{altar}), the good man, Lord @wDN{Nudimmud}, 
+#etcsl: line-id=44
+
+45. abzu al-du₃-e eridug{ki} al-tar-ra
+#lem: Eʾabzu[1]; du[build]; Eridug[1]SN; altar[construction work]
+#tr.en: was building (@fsux{aldue}) the @wTN{Abzu}, @wSN{Eridug} having been chosen as the construction site (@fsux{altar}). 
+#etcsl: line-id=45
+
+46. ama diŋir-re-e-ne {d}nin-hur-saŋ-ŋa₂-ke₄
+#lem: ama[mother]; diŋir[deity]; Ninhursaŋak[1]DN
+#tr.en: The mother of the gods, @wDN{Ninḫursaŋa}, 
+#etcsl: line-id=46
+
+47. ud al-tar en-na keš₃{ki}-a mu-da-an-til₃
+#lem: ud[sun]; altar[mighty?]; en[lord]; Keš[1]SN; til[live (of a single person)]
+#tr.en: had the mighty (?) (@fsux{altar}) light of the lord live with her in @wSN{Keš}; she had @wDN{Šul-pa-e}, 
+#etcsl: line-id=47
+
+48. {d}šul-pa-e₃-a na-nam {ŋiš}al-tar mu-da-an-gub
+#lem: Šulpae[1]DN; me[be]; altar[construction work]; gub[stand]
+#tr.en: no less, help her with the construction work (@fsux{altar}). 
+#etcsl: line-id=48
+
+49. eš₃ e₂-an-na {ŋiš}al-e kug-ga-am₃
+#lem: eš[shrine]; Eanak[1]TN; al[hoe]; kug[pure]
+#tr.en: The shrine @wTN{E-ana} was cleaned up by means of the hoe (@fsux{al}) for the lady of @wTN{E-ana}, 
+#etcsl: line-id=49
+
+50. nin e₂-an-na (1:im-ma-al:1) zid-da
+#lem: nin[lady]; Eanak[1]TN; immal[cow]; zid[right]
+#tr.en: the good @varh[t554.v17]{cow (@fsux{immal}) } @vart[t554.v18,t554.v17]{@varn{2 mss. have instead:} woman }. The hoe (@fsux{al}) deals with ruin mounds, 
+#etcsl: line-id=50
+
+:50v.1.1: ($2 mss. have instead:$) munus
+#lem: munus[woman]
+
+51. {ŋiš}al du₆-du₆-dam {ŋiš}al {u₂}|KI.KAL|-dam
+#lem: al[hoe]; dud[(ruin) mound]; al[hoe]; KI.KAL[writing for different types of grasses]
+#tr.en: the hoe (@fsux{al}) deals with weeds. 
+#etcsl: line-id=51
+
+52. ki zabalam{ki}-a {ŋiš}al lu₂ {d}inana-kam
+#lem: ki[place]; Zabalam[1]SN; al[hoe]; lu[person]; Inanak[1]DN
+#tr.en: In the city of @fsux{@wSN{Zabalam}}, 
+#etcsl: line-id=52
+
+53. {ŋiš}al nam mi-ni-ib-tar-re (1:sun₄:1) za-gin₃ ed₂-de₃
+#lem: al[hoe]; nam[fate]; tar[cut]; sum[beard]; zagin[lapis lazuli]; e[leave]
+#tr.en: the hoe (@fsux{al}) is @wDN{Inana's} workman (?). 
+#etcsl: line-id=53
+
+:53v.1.1: ($1 ms. has instead:$) zu₂
+#lem: zu[tooth]
+
+54. {ŋiš}al-tar-ra-ni-a {d}utu mu-da-an-gub
+#lem: altar[construction work]; Utu[1]DN; gub[stand]
+#tr.en: She determined the destiny of the hoe (@fsux{al}), with its projecting lapis-lazuli @varh[t554.v19]{beard } @vart[t554.v20,t554.v19]{@varn{1 ms. has instead:} tooth }. @wDN{Utu}  
+#etcsl: line-id=54
+
+55. {ŋiš}al-tar ka tar-ra šul {d}utu-kam
+#lem: altar[construction work]; kag[mouth]; tar[cut]; šul[youth]; Utu[1]DN
+#tr.en: was ready to help her with her building project (@fsux{altar}); it is the renowned (?) building project (@fsux{altar}) of youthful @wDN{Utu}. 
+#etcsl: line-id=55
+
+56. nin ŋeštug₂ daŋal-la {d}nisaba-ke₄
+#lem: nin[lady]; ŋeštug[ear]; daŋal[wide]; Nisabak[1]DN
+#tr.en: The lady with broad (@fsux{daŋal}) intelligence, 
+#etcsl: line-id=56
+
+57. šudum e₂-an-na-ka {ŋiš}al-tar ba-an-dug₄
+#lem: šudum[reckoning]; Eanak[1]TN; altar[construction work]; dug[speak]
+#tr.en: @wDN{Nisaba}, 
+#etcsl: line-id=57
+
+58. e₂-ha-mun na-nam {ŋiš}al-tar mu-da-an-gub
+#lem: Ehamun[1]TN; me[be]; altar[construction work]; gub[stand]
+#tr.en: ordered the measuring of the @wTN{E-ana} for a construction project (@fsux{altar}), and then designed her own @wTN{E-ḫamun} for construction (@fsux{altar}). 
+#etcsl: line-id=58
+
+59. lugal {ŋiš}al šid-da us₂-a ud zal-la
+#lem: lugal[king]; al[hoe]; šid[count]; us[accompany]; ud[sun]; zal[pass time]
+#tr.en: The king who measured up the hoe (@fsux{al}) and who passes (@fsux{zal}) his time in its tracks, 
+#etcsl: line-id=59
+
+60. ur-saŋ {d}nin-urta ki-bal-a {ŋiš}al-tar ba-an-gub
+#lem: ursaŋ[warrior]; Ninurtak[1]DN; kibala[rebel land]; altar[construction work]; gub[stand]
+#tr.en: the hero @wDN{Ninurta}, 
+#etcsl: line-id=60
+
+61. iri en-še₃ nu-še-ga šu-še₃ al-ŋa₂-ŋa₂
+#lem: iri[city]; en[lord]; šeg[agree]; šu[hand]; ŋar[put]
+#tr.en: has introduced working with the hoe (@fsux{altar}) into the rebel (@fsux{bal}) lands. 
+#etcsl: line-id=61
+
+62. an-še₃ ud-dam šeg₁₁ al-gi₄-gi₄
+#lem: an[sky]; ud[storm]; šeg[voice]; gi[turn]
+#tr.en: He subdues (@fsux{alŋaŋa}) any city that does not obey its lord. 
+#etcsl: line-id=62
+
+63. ki-še₃ ušumgal-am₃ al-ŋa₂-ŋa₂
+#lem: ki[place]; ušumgal[great dragon]; ŋar[put]
+#tr.en: Towards heaven he roars (@fsux{algigi}) like a storm, 
+#etcsl: line-id=63
+
+64. {d}šara₂ {d}en-lil₂-la₂ dub₃-ba (1:nam-mi-in-tuš:1)
+#lem: Šara[1]DN; Enlil[1]DN; dub[knee]; tuš[sit (down)]
+#tr.en: earthwards he strikes (@fsux{alŋaŋa}) like a dragon (@fsux{ušumgal}). @wDN{Šara} @varh[t554.v21]{sat down on } @vart[t554.v22,t554.v21]{@varn{1 ms. has instead:} got onto } @wDN{Enlil's} knees, 
+#etcsl: line-id=64
+
+:64v.1.1: ($1 ms. has instead:$) nam-mi-in-ŋar
+#lem: ŋar[put]
+
+65. niŋ₂ al-dug₄-ga-ni mu-na-da-ab-šum₂-mu
+#lem: niŋ[thing]; dug[speak]; šum[give]
+#tr.en: and @wDN{Enlil} gave him what he had desired (@fsux{al-dug}): @varh[t554.v23]{he had mentioned the mace, 
+#etcsl: line-id=65
+
+66. šita₂ {ŋiš}tukul ti mar-uru₅ (1:{ŋiš}al:1) am₃-ma-an-dug₄
+#lem: šita[weapon]; tukul[weapon]; ti[arrow]; emarru[quiver]; al[hoe]; dug[speak]
+#tr.en: the club, 
+#etcsl: line-id=66
+
+:66v.1.1: ($3 mss. have instead:$) al
+#lem: al[cvne]
+
+67. {d}dumu-zid al-lum-lum-ma igi-nim-ma-ka
+#lem: Dumuzid[1]DN; lum[fruit]; iginim[upper land]
+#tr.en: arrows and quiver, 
+#etcsl: line-id=67
+
+68. {d}gibil₆ {ŋiš}al-a-ni saŋ an-še₃ mi-ni-il₂
+#lem: Gibil[1]DN; al[hoe]; saŋ[head]; an[sky]; il[raise]
+#tr.en: and the hoe (@fsux{al}) } @vart[t554.v24,t554.v23]{@varn{3 mss. have instead:} he desired (@fsux{al-dug}) the mace, the club, arrows and quiver }. @wDN{Dumuzid} is the one who makes the upper land fertile (@fsux{allumlum}). @wDN{Gibil} made his hoe (@fsux{al}) raise its head towards the heavens -- he caused the hoe (@fsux{al}), sacred indeed, 
+#etcsl: line-id=68
+
+69. {ŋiš}al-e kug-ga-am₃ izi nam-mi-in-la₂
+#lem: al[hoe]; kug[pure]; izi[fire]; la[hang]
+#tr.en: to be refined with fire. 
+#etcsl: line-id=69
+
+70. {d}a-nun-na al-hul₂-hul₂-le-de₃-eš
+#lem: Anunak[1]DN; hul[rejoice]
+#tr.en: The @wDN{Anuna} were rejoicing (@fsux{alḫulḫuledeš}). 
+#etcsl: line-id=70
+
+71. e₂ {d}ŋeštin-an-na-ka {ŋiš}al-ŋar-surₓ(|UZ₃×BALAG|)-ra-am₃
+#lem: e[house]; Ŋeštinanak[1]DN; alŋarsur[drumstick]
+#tr.en: The temple of @wDN{Ŋeštin-ana} resembled the drumsticks, 
+#etcsl: line-id=71
+
+72. ama {d}ŋeštin-an-na-ka {ŋiš}al-ŋar-surₓ(|UZ₃×BALAG|) gu₃ dug₃-ga-ka
+#lem: ama[mother]; Ŋeštinanak[1]DN; alŋarsur[drumstick]; gu[voice]; dug[good]
+#tr.en: the drumsticks of Mother @wDN{Ŋeštin-ana} that make a pleasant sound. 
+#etcsl: line-id=72
+
+73. en-e {ŋiš}al-a-ni gud-gin₇ mur im-ša₄
+#lem: en[lord]; al[hoe]; gud[bull]; mur[noise]; ša[cvve]
+#tr.en: The lord @noteref{Enlil} bellowed at his hoe (@fsux{al}) like a bull. 
+#etcsl: line-id=73
+
+74. irigal-am₃ {ŋiš}al saŋ ki-a tum₂-ma
+#lem: irigal[underworld]; al[hoe]; saŋ[head]; ki[place]; tum[bring]
+#tr.en: As for the grave (@fsux{irigal}): the hoe (@fsux{al}) buries people, 
+#etcsl: line-id=74
+
+75. adₓ(|BAD.LU₂|) {ŋiš}al-e ki-ta tum₂-ma-am₃
+#lem: adda[corpse]; al[hoe]; ki[place]; tum[bring]
+#tr.en: but dead people are also brought up from the ground by the hoe (@fsux{al}) @noteref{This may allude to Enkidu's ghost being put in contact with Gilgameš.}. 
+#etcsl: line-id=75
+
+76. šul idim an-na šeš-ban₃-da {d}nergal-ka-kam
+#lem: šul[youth]; idim[heavy]; An[1]DN; šešbanda[kinship term]; Nergal[1]DN
+#tr.en: With the hoe (@fsux{al}), the hero honoured by @wDN{An}, 
+#etcsl: line-id=76
+
+77. ur-saŋ {d}gilgameš₂ {ŋiš}al-e sa-par₄-am₃
+#lem: ursaŋ[warrior]; Gilgameš[1]DN; al[hoe]; sabar[net]
+#tr.en: the younger brother of @fsux{@wDN{Nergal}}, 
+#etcsl: line-id=77
+
+78. dumu {d}nin-sumun₂-ka (1::1) {ŋiš}ŋisal-e dub-saŋ-ŋa₂
+#lem: dumu[child]; Ninsumunak[1]DN; ŋisal[rudder]; dubsaŋ[first]
+#tr.en: the warrior @wDN{Gilgameš} is as powerful as a hunting net. 
+#etcsl: line-id=78
+
+:78v.1.1: ($1 ms. adds:$) gašam
+#lem: gašam[knowing]
+
+79. {ŋiš}al-e id₂-da kindagal-am₃
+#lem: al[hoe]; id[river]; kindagal[leader]
+#tr.en: The @vart[t554.v25,t554.v25]{@varn{1 ms. adds:} sage } son of @wDN{Ninsumun} is pre-eminent with oars (@fsux{ŋisal}) @noteref{This may allude to Gilgameš rowing across the waters of death.}. 
+#etcsl: line-id=79
+
+80. (1:dag:1) agrun-na-ka {ŋiš}al-e sukkal-am₃
+#lem: dag[dwelling]; agrun[cella]; al[hoe]; sukkal[secretary]
+#tr.en: With the hoe (@fsux{al}) he is the great barber (@fsux{kindagal}) of the watercourses. 
+#etcsl: line-id=80
+
+:80v.1.1: ($1 ms. has instead:$) ki
+#lem: ki[place]
+
+81. hul-ŋal₂ ud nu₂-a dumu {ŋiš}al-me-eš
+#lem: huluŋal[evil]; ud[sun]; nud[lie down]; dumu[child]; al[hoe]
+#tr.en: In the @varh[t554.v26]{chamber } @vart[t554.v27,t554.v26]{@varn{1 ms. has instead:} place } of the shrine, 
+#etcsl: line-id=81
+
+82. u₄-sa₂ dug₄-ga-ta an-ta u₃-tud-de₃-eš
+#lem: usag[sleep]; dug[speak]; an[sky]; utud[give birth (to)]
+#tr.en: with the hoe (@fsux{al}) he is the minister (@fsux{sukkal}). The wicked (@fsux{ḫulŋal}) …… are sons of the hoe (@fsux{al}); they are born in sleep from heaven. 
+#etcsl: line-id=82
+
+83. an-še₃ al-ti-ri₂-gu₇ mušen diŋir-ra-am₃
+#lem: an[sky]; altirigu[wren]; mušen[bird]; diŋir[deity]
+#tr.en: In the sky there is the @fsux{altirigu} bird, the bird of the god. 
+#etcsl: line-id=83
+
+84. ki-še₃ {ŋiš}al-am₃ ŋiš-gi-a ur-ra tir-ra ušumgal-am₃
+#lem: ki[place]; al[hoe]; ŋešgi[thicket]; ur[dog]; tir[forest]; ušumgal[great dragon]
+#tr.en: On the earth there is the hoe (@fsux{al}): a dog in the reedbeds, 
+#etcsl: line-id=84
+
+85. ki me₃-ka šen-al-lu₅-am₃
+#lem: ki[place]; me[battle]; šenallu[an ax]
+#tr.en: a dragon (@fsux{ušumgal}) in the forest. 
+#etcsl: line-id=85
+
+86. ki bad₃-ka {ŋiš}al-lu₅-hab₂-am₃
+#lem: ki[place]; bad[wall]; salhub[net]
+#tr.en: On the battlefield, 
+#etcsl: line-id=86
+
+87. ki {ŋiš}banšur-ra {ŋiš}ma-al-tum-ma
+#lem: ki[place]; banšur[table]; maltum[bowl]
+#tr.en: there is the @fsux{dur-allub} battle-axe. 
+#etcsl: line-id=87
+
+88. ki {ŋiš}gigir-ka {ŋiš}ma-a-a-al-tum-ma
+#lem: ki[place]; gigir[chariot]; mayaltum[sledge]
+#tr.en: By the city wall there is the battle-net (@fsux{alluḫab}). On the dining-table there is the bowl (@fsux{maltum}). In the waggon shed, 
+#etcsl: line-id=88
+
+89. e₂ anše-ka {ŋiš}ar-gibil₂-am₃
+#lem: e[house]; anše[equid]; argibil[wooden or bronze structure]
+#tr.en: there is the sledge (@fsux{mayaltum}). In the donkey stable there is the cupboard (@fsux{argibil}). The hoe (@fsux{al})! -- the sound of the word is sweet: 
+#etcsl: line-id=89
+
+90. {ŋiš}al-am₃ mu-bi dug₃-ga hur-saŋ-ŋa₂ mu-un-ŋal₂
+#lem: al[hoe]; mu[name]; dug[good]; hursaŋ[mountain]; ŋal[⟦be⟧ to be (there]
+#tr.en: it also occurs (@fsux{munŋal}) on the hillsides: 
+#etcsl: line-id=90
+
+91. ŋiš hur-saŋ-ŋa₂ {ŋiš}al-la-nu-um-ma
+#lem: ŋeš[tree]; hursaŋ[mountain]; allanum[oak]
+#tr.en: the tree of the hillsides is the @fsux{allanum} oak. 
+#etcsl: line-id=91
+
+92. šim hur-saŋ-ŋa₂ {ŋiš}ar-ga-nu-um-ma
+#lem: šim[aromatic substance]; hursaŋ[mountain]; arganum[conifer]
+#tr.en: The fragrance of the hillsides is the @fsux{arganum} balm. 
+#etcsl: line-id=92
+
+93. na₄ hur-saŋ-ŋa₂ {na₄}algameš-am₃
+#lem: na[stone weight]; hursaŋ[mountain]; algameš[stone]
+#tr.en: The precious stone of the hillsides is the @fsux{algameš} steatite. 
+#etcsl: line-id=93
+
+94. {ŋiš}al lum-lum-ma {ŋiš}al lam-lam-ma
+#lem: al[hoe]; lum[fruit]; al[hoe]; lam[flourish]
+#tr.en: The hoe (@fsux{al}) makes everything prosper, the hoe makes everything flourish. 
+#etcsl: line-id=94
+
+95. {ŋiš}al še dug₃-ga {ŋiš}al (1:sa-par₄-am₃:1)
+#lem: al[hoe]; še[barley]; dug[good]; al[hoe]; sabar[net]
+#tr.en: The hoe (@fsux{al}) is good barley, 
+#etcsl: line-id=95
+
+:95v.1.1: ($1 ms. has instead:$) šabra#-[...]
+#lem: šabra[chief administrator of a temple or other household]
+
+96. {ŋiš}al u₃-šub-ba {ŋiš}al saŋ ŋal₂-la-am₃
+#lem: al[hoe]; ušub[brick-mold]; al[hoe]; saŋ[head]; ŋal[⟦be⟧ to be (there]
+#tr.en: the hoe (@fsux{al}) is @varh[t554.v28]{a hunting net } @vart[t554.v29,t554.v28]{@varn{1 ms. has instead:} an overseer }. The hoe (@fsux{al}) is brick moulds, 
+#etcsl: line-id=96
+
+97. {ŋiš}al-am₃ a₂ nam-ŋuruš-a-kam
+#lem: al[hoe]; a[arm]; namŋuruš[manliness]
+#tr.en: the hoe (@fsux{al}) has made people exist (@fsux{ŋal}). It is the hoe (@fsux{al}) that is the strength of young manhood. 
+#etcsl: line-id=97
+
+98. {ŋiš}al {ŋiš}dusu niŋ₂ iri du₃-du₃-dam
+#lem: al[hoe]; dupsik[basket (for carrying earth and bricks)]; niŋ[thing]; iri[city]; du[build]
+#tr.en: The hoe (@fsux{al}) and the basket are the tools for building cities. 
+#etcsl: line-id=98
+
+99. e₂ zid al-du₃-e gana₂ zid al-ŋa₂-ŋa₂
+#lem: e[house]; zid[right]; du[build]; gana[field]; zid[right]; ŋar[put]
+#tr.en: It builds (@fsux{aldue}) the right kind of house, it cultivates (@fsux{alŋaŋa}) the right kind of fields. 
+#etcsl: line-id=99
+
+100. gan₂-ne₂ zid-de₃ šu daŋal-la-me-en
+#lem: gana[field]; zid[right]; šu[hand]; daŋal[wide]
+#tr.en: It is you, 
+#etcsl: line-id=100
+
+101. gan₂-ne₂ lugal-bi-ir bal-e
+#lem: gana[field]; lugal[king]; bala[turn]
+#tr.en: hoe, 
+#etcsl: line-id=101
+
+102. gan₂-ne₂ lugal-bi-ir gu₂ nu-ŋar-ra-e
+#lem: gana[field]; lugal[king]; gu[neck]; ŋar[put]
+#tr.en: that extend (@fsux{daŋal}) the good agricultural land! 
+#etcsl: line-id=102
+
+103. {ŋiš}al-e lugal-bi-ir gu₂ mu-na-ab-ŋa₂-ŋa₂
+#lem: al[hoe]; lugal[king]; gu[neck]; ŋar[put]
+#tr.en: The hoe (@fsux{al}) subdues for its owner (@fsux{lugal}) any agricultural lands that have been recalcitrant (@fsux{bal}) against their owner (@fsux{lugal}), any agricultural lands that have not submitted to their owner (@fsux{lugal}). It chops the heads off the vile esparto grasses, 
+#etcsl: line-id=103
+
+104. {u₂}numun₂ hul {u₂}numun₂ hul-e saŋ dub₂-dub₂-be₂
+#lem: numun[alfalfa grass]; hulu[bad]; numun[alfalfa grass]; hulu[bad]; saŋ[head]; dub[tremble]
+#tr.en: yanks them out at their roots, 
+#etcsl: line-id=104
+
+105. ur₂-ba mu-un-bur₁₂-re pa-bi mu-un-ze₂-e
+#lem: ur[root]; bur[tear out]; pa[branch]; zir[tear out]
+#tr.en: and tears at their stalks. 
+#etcsl: line-id=105
+
+106. {ŋiš}al-e {u₂}hirin{hu-ri₂-in} šu-še₃ al-ŋa₂-ŋa₂
+#lem: al[hoe]; hirin[grass]; šu[hand]; ŋar[put]
+#tr.en: The hoe (@fsux{al}) also subdues (@fsux{alŋaŋa}) the @fsux{ḫirin} weeds. 
+#etcsl: line-id=106
+
+107. {ŋiš}al-e ŋiš nam tar-ra a-a {d}en-lil₂-la₂
+#lem: al[hoe]; ŋeš[tree]; nam[fate]; tar[cut]; aya[father]; Enlil[1]DN
+#tr.en: The hoe (@fsux{al}), the implement whose destiny was fixed  
+#etcsl: line-id=107
+
+108. {ŋiš}al-e za₃-mi₂ dug₄-ga
+#lem: al[hoe]; zamin[praise]; dug[speak]
+#tr.en: by Father @wDN{Enlil} -- the  
+#etcsl: line-id=108
+
+109. {d}nisaba za₃-mi₂
+#lem: Nisabak[1]DN; zamin[praise]
+#tr.en: renowned hoe (@fsux{al})! @wDN{Nisaba} be praised! 
+#etcsl: line-id=109
+
+
+
+
+
+
+

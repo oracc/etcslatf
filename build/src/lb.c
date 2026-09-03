@@ -222,7 +222,7 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	      /* revised strategy: add an unlabeled seg for the $-gap
 		 line but store ngaps as before because it's needed to
 		 balance the given ranges in translation paras */
-	      if (ngap < par->lbgoal)
+	      if (ngap <= par->lbgoal)
 		{
 		  ++par->usegs;
 		  par->ngaps += ngap;
@@ -237,7 +237,9 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	      else
 		{
 		  /* need a diagnostic? */
-		  par->ngaps = 0;
+		  fprintf(stderr, "%s:%s: @gap %d overflows goal %d\n",
+			  par->t->Q, par->label, ngap, par->lbgoal);
+		  *ignored = 1;
 		}
 	    }
 	  else
@@ -289,12 +291,29 @@ map_segs(Par *par)
 		  p = map_gap(segmem, par, p, l, &ignored);
 		  if (ignored)
 		    {
-		      /* concatenate the ignored @gap to the end of the previous segment */
-		      Seg *prev = list_last(l);
-		      p = lb_skip_XtoY(p);
-		      prev->c = p-1;
-		      if (*p)
-			++p;
+		      if (list_len(l))
+			{
+			  /* concatenate the ignored @gap to the end of the previous segment */
+			  Seg *prev = list_last(l);
+			  p = lb_skip_XtoY(p);
+			  prev->c = p-1;
+			  if (*p)
+			    ++p;
+			}
+		      else
+			{
+			  /* segment starts with ignored gap; create a seg for it */
+			  s = memo_new(segmem);
+			  s->p = par;
+			  list_add(l, s);
+			  s->o = p;
+			  p = lb_skip_XtoY(p);
+			  s->c = p-1;
+			  s->w = 0;
+			  s->b = '0';
+			  if (*p)
+			    ++p;
+			}
 		    }
 		}
 	      else if (*p)

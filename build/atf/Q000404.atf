@@ -1,0 +1,136 @@
+&Q000404 = A tigi (?) for Šulgi (Šulgi L)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.2.4.2.12
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.12&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div sa-gida A
+
+$ (unknown. no. lines missing)
+A.A.1. [...] X A₂ X X [...]
+#lem: X; X; X; X; X; X
+#tr.en: $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=A.A.1
+
+A.A.2. [...] X me₃-a šen X [...]
+#lem: X; X; me[battle]; šen[battle]; X; X
+#tr.en: …… in battle and fight ……. 
+#etcsl: line-id=A.A.2
+
+A.A.3. [...] X UŠ URUGAL GUR₅ a-zu X [...] X mu-na-a-šum₂
+#lem: X; X; X; X; X; azu[doctor]; X; X; X; šum[give]
+#tr.en: You gave …… to your offspring (?) ……. 
+#etcsl: line-id=A.A.3
+
+A.A.4. [...]-ta# sipad šul-gi ni₂ kur₂-ra i₃-ru
+#lem: X; sipad[shepherd]; Šulgir[1]RN; ni[fear]; kur[mountain(s)]; ri[impose]
+#tr.en: …… shepherd @wRN{Šulgi}, you spread fearsomeness over the foreign countries. 
+#etcsl: line-id=A.A.4
+
+A.A.5. [...] sipad a-zu-u₃ me-teš₂ ša-mu-u₃-i-i
+#lem: X; sipad[shepherd]; azu[doctor]; meteš[praise]; e[bring out]
+#tr.en: …… shepherd, your offspring (?) will praise you duly. 
+#etcsl: line-id=A.A.5
+
+@div trailer 
+
+A.A.6. [sa]-gid₂#-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{sa-gida}. 
+#etcsl: line-id=A.A.6
+
+@end trailer
+
+@end sa-gida
+
+@div unknown B
+
+A.B.7. [...] X UG ba-ni-ra aga₃-kar₂ im-mi-sig₁₀
+#lem: X; X; X; rah[beat]; agakar[conquest]; sig[put into]
+#tr.en: You defeat ……. 
+#etcsl: line-id=A.B.7
+
+A.B.8. [...] sumun me ŋar im-mi-ŋa₂-ar
+#lem: X; sumun[old]; me[Being]; ŋar[put]; ŋar[put]
+#tr.en: You impose silence on ……. 
+#etcsl: line-id=A.B.8
+
+A.B.9. [...] ki-bal-a-ke₄ gu₂-kiri₆ im-mi-dug₄
+#lem: X; kibala[rebel land]; gukiri[battle cry]; dug[speak]
+#tr.en: You roar a war-cry at  
+#etcsl: line-id=A.B.9
+
+A.B.10. [...] X kur iši su₃-ra₂-a-ba za-pa-zu im-mi#-[...]
+#lem: X; X; kur[mountain(s)]; iš[mountain]; sud[distant]; zipaŋ[voice]; X
+#tr.en: the rebel lands ……. 
+#etcsl: line-id=A.B.10
+
+A.B.11. [... šeg₁₁] gi₄#-gi₄-a-zu-ta X
+#lem: X; šeg[voice]; gi[turn]; X
+#tr.en: Your clamour …… even the distant mountains and hills. 
+#etcsl: line-id=A.B.11
+
+A.B.12. [... sug-zag]-ge₄# bi₂-gu₇# [...]
+#lem: X; sugzag[marsh edge]; gu[eat]; X
+#tr.en: …… at your roaring devastate (?) …… completely. 
+#etcsl: line-id=A.B.12
+
+$ (unknown no. of lines missing)
+@end unknown
+
+@end segment
+
+@div segment B
+
+@div sa-ŋara C
+
+B.C.1. [...] X X X [...]
+#lem: X; X; X; X; X
+#tr.en: …… like a forest set on fire, 
+#etcsl: line-id=B.C.1
+
+B.C.2. [...] X-še₃ mu-dug₄#
+#lem: X; X; dug[speak]
+#tr.en: …… covers all the ……. 
+#etcsl: line-id=B.C.2
+
+B.C.3. [...] X im-mi-us₂-sa#
+#lem: X; X; us[accompany]
+#tr.en: …… your fearsomeness makes …… and the enemies tremble. 
+#etcsl: line-id=B.C.3
+
+B.C.4. [...] tir izi šum₂-ma-gin₇
+#lem: X; tir[forest]; izi[fire]; šum[give]
+#etcsl: line-id=B.C.4
+
+B.C.5. [...] ni₂#-ba mu-ni-šu₄
+#lem: X; ni[self]; šuš[cover]
+#etcsl: line-id=B.C.5
+
+B.C.6. [...] ni₂-zu-da [...] kur₂-re saŋ im-da-sag₃-ge
+#lem: X; ni[fear]; X; kur[different]; saŋ[head]; sag[strike]
+#etcsl: line-id=B.C.6
+
+@div trailer 
+
+B.C.7. [sa-ŋar]-ra-am₃
+#lem: saŋara[musical notation]
+#tr.en: @fsux{sa-ŋara}. 
+#etcsl: line-id=B.C.7
+
+@end trailer
+
+@end sa-ŋara
+
+@end segment
+
+
+
+
+
+
+

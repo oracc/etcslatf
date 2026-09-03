@@ -1,0 +1,319 @@
+&Q000819 = Proverbs: collection 27
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.27
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.27&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+@div proverb 27.a1
+
+A.27.a1.1. X [...]
+#lem: X; X
+#tr.en: $ (@note{= Alster 1997 p. 284 C ii' 1'} ) $ (@gap{3 lines fragmentary}) 
+#etcsl: line-id=A.27.a1.1
+
+#etcsl#eq = Alster 1997 p. 284 C ii' 1'
+
+A.27.a1.2. ba#-[...]
+#lem: X
+#etcsl: line-id=A.27.a1.2
+
+A.27.a1.3. KA [...]
+#lem: X; X
+#etcsl: line-id=A.27.a1.3
+
+@end proverb
+
+@div proverb 27.a2
+
+A.27.a2.4. lu₂-zuh# [...] lu₂ MUNUS X [...]
+#lem: luzuha[thief]; X; lu[person]; X; X; X
+#tr.en: $ (@note{= Alster 1997 p. 284 C ii' 2'} ) $ (@gap{2 lines fragmentary}) 
+#etcsl: line-id=A.27.a2.4
+
+#etcsl#eq = Alster 1997 p. 284 C ii' 2'
+
+A.27.a2.5. ŋe₂₆-e nu-X [...]
+#lem: ŋaʾe[I]; X; X
+#etcsl: line-id=A.27.a2.5
+
+@end proverb
+
+@div proverb 27.a3
+
+A.27.a3.6. lu₂ ka du₃-da DI ŋiš X [...]
+#lem: lu[person]; kag[mouth]; du[build]; X; ŋeš[tree]; X; X
+#tr.en: $ (@note{= Alster 1997 p. 284 C ii' 3'} ) 
+#etcsl: line-id=A.27.a3.6
+
+#etcsl#eq = Alster 1997 p. 284 C ii' 3'
+
+A.27.a3.7. {d}en-ki X X X RI X [X X]
+#lem: Enkik[1]DN; X; X; X; X; X; X; X
+#etcsl: line-id=A.27.a3.7
+
+A.27.a3.8. X-bi DI A lu₂ na-me! he₂-X [X X]
+#lem: X; X; X; lu[person]; name[any]; X; X; X
+#etcsl: line-id=A.27.a3.8
+
+A.27.a3.9. ne-e [...] X
+#lem: nen[this]; X; X
+#etcsl: line-id=A.27.a3.9
+
+@end proverb
+
+@div proverb 27.a4
+
+A.27.a4.10. lu₂ AMAR DA# DI-gin₇ X lu₂# [...]
+#lem: lu[person]; X; X; X; X; lu[person]; X
+#tr.en: $ (@note{= Alster 1997 p. 284 C ii' 4'} ) $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=A.27.a4.10
+
+#etcsl#eq = Alster 1997 p. 284 C ii' 4'
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 27.b1
+
+B.27.b1.1. šag₄ niŋ₂-tuku tur₅-ra-am₃ an#-tur₅# [...]
+#lem: šag[heart]; niŋtuku[rich]; tur[ill]; tur[ill]; X
+#tr.en: @note{= Alster 1997 27.1} The rich man's heart is sick, it is very sick indeed (?) -- the man with a troubled heart is sick, 
+#etcsl: line-id=B.27.b1.1
+
+#etcsl#eq = Alster 1997 27.1
+
+B.27.b1.2. šag₄ dirig tur₅-ra-am₃ an-tur₅# [...]
+#lem: šag[heart]; dirig[make more than]; tur[ill]; tur[ill]; X
+#tr.en: he is very sick indeed (?). 
+#etcsl: line-id=B.27.b1.2
+
+@end proverb
+
+@div proverb 27.b2
+
+B.27.b2.3. a-na-aš-am₃ ur₅-ur₅-ra di₄-di₄-la₂#-[...]
+#lem: anaš[why?]; ura[interest-bearing loan]; didila[small(er)]
+#tr.en: @note{= Alster 1997 27.2} @q{“Why are the interest payments so small?”} 
+#etcsl: line-id=B.27.b2.3
+
+#etcsl#eq = Alster 1997 27.2
+
+@end proverb
+
+@div proverb 27.b3
+
+B.27.b3.4. gu₂-un sig gu₂ i₃-il₂-la i₃-gu₄-ud-gu₄-ud-dam
+#lem: gun[load]; sig[weak]; gu[neck]; il[raise]; gud[jump (on)]
+#tr.en: @note{= Alster 1997 27.3} He who carries a light burden can dance. 
+#etcsl: line-id=B.27.b3.4
+
+#etcsl#eq = Alster 1997 27.3
+
+@end proverb
+
+@div proverb 27.b4
+
+B.27.b4.5. di-bi-ri inim mu-ni-in-ne-eš
+#lem: dabariri[liar?]; inim[word]; e[speak]
+#tr.en: @note{= Alster 1997 27.4} The conmen (?) are having their say. 
+#etcsl: line-id=B.27.b4.5
+
+#etcsl#eq = Alster 1997 27.4
+
+@end proverb
+
+@div proverb 27.b5
+
+B.27.b5.6. lu₂ e₂-a-ne-ne u₂-gu de₂-a erim₃-bi an-gur-ru-uš
+#lem: lu[person]; e[house]; ugu[cvne]; de[pour]; erim[storeroom]; gur[turn]
+#tr.en: @note{= Alster 1997 27.5} People whose houses have been lost turn to their storehouses. 
+#etcsl: line-id=B.27.b5.6
+
+#etcsl#eq = Alster 1997 27.5
+
+@end proverb
+
+@div proverb 27.b6
+
+B.27.b6.7. gu₇-u₃-de₃ al-dug₃ gur-ru-da-bi al-gig#
+#lem: gu[eat]; dug[good]; gur[turn]; gig[sick]
+#tr.en: @note{= Alster 1997 27.6} To eat is good. When it comes up again, it is bad. 
+#etcsl: line-id=B.27.b6.7
+
+#etcsl#eq = Alster 1997 27.6
+
+@end proverb
+
+@div proverb 27.b7
+
+B.27.b7.8. šag₄ dirig-ga šag₄ a-ab-gig
+#lem: šag[heart]; dirig[make more than]; šag[heart]; gig[sick]
+#tr.en: @note{= Alster 1997 27.7} A troubled (?) mind makes you sick. 
+#etcsl: line-id=B.27.b7.8
+
+#etcsl#eq = Alster 1997 27.7
+
+@end proverb
+
+@div proverb 27.b8
+
+B.27.b8.9. ki-ŋiš-ŋiš-la₂-a u₂ bur₁₂-bur₁₂-re
+#lem: kiŋešŋešla[battlefield]; u[plant(s)]; bur[tear out]
+#tr.en: @note{= Alster 1997 27.8} On the battlefield plants are torn out. 
+#etcsl: line-id=B.27.b8.9
+
+#etcsl#eq = Alster 1997 27.8
+
+@end proverb
+
+@div proverb 27.b9
+
+B.27.b9.10. iri{ki} iri{ki} silim (1:nu-ub-dug₄ lu₂ lu₂-a silim# ab-be₂:1)
+#lem: iri[city]; iri[city]; silim[healthy]; dug[speak]; lu[person]; lu[person]; silim[healthy]; e[speak]
+#tr.en: @note{= Alster 1997 27.9; cf. @xref[t.6.2.3,t623.h75]{6.2.3: UET 6/2 250}} @varh[t6127.v1]{One city does not greet another, but one man greets another. } @vart[t6127.v2,]{@note{1 ms. has instead:} One city does not salute another, but one person salutes another. } 
+#etcsl: line-id=B.27.b9.10
+
+:10v.1.1: ($1 ms. has instead:$) nu-tag-ga lu₂-ulu₃ lu₂-ulu₃ silim bi₂-tag-ga
+#lem: tag[touch]; lulu[man]; lulu[man]; silim[healthy]; tag[touch]
+
+#etcsl#cf = Alster 1997 27.9; cf. 6.2.3: UET 6/2 250
+
+@end proverb
+
+@div proverb 27.b10
+
+B.27.b10.11. [...] danna#-še₃ (1:he₂-en-šub:1) MAŠ danna-še₃ he₂-em-gi
+#lem: X; dana[unit of length]; šub[fall]; n; dana[unit of length]; gi[turn]
+#tr.en: @note{= Alster 1997 27.10} Although he @varh[t6127.v3]{…… } @vart[t6127.v4,]{@note{1 ms. has instead:} fled } for …… miles, he returned after half a mile. 
+#etcsl: line-id=B.27.b10.11
+
+:11v.1.1: ($1 ms. has instead:$) ba-an-sah₆!(HA)
+#lem: zah[disappear]
+
+#etcsl#eq = Alster 1997 27.10
+
+@end proverb
+
+@div proverb 27.b11
+
+B.27.b11.12. [...] X-mi-pad₃-da-bi lu₂ bur₂-ru-bi
+#lem: X; pad[find]; lu[person]; bur[spread out]
+#tr.en: @note{= Alster 1997 27.11} He who found …… was the one who revealed it. 
+#etcsl: line-id=B.27.b11.12
+
+#etcsl#eq = Alster 1997 27.11
+
+@end proverb
+
+@div proverb 27.b12
+
+B.27.b12.13. (1:[...] X-mi#-ed₂-de₃ X X BUR₂ X ni₂ ba-te ba-sah₆:1)
+#lem: X; e[leave]; X; X; X; X; ni[fear]; teŋ[approach]; zah[disappear]
+#tr.en: @note{= Alster 1997 27.12} @varh[t6127.v5]{…… coming out …… afraid and fled. } @vart[t6127.v6,]{@note{1 ms. has instead:} …… and fled. } 
+#etcsl: line-id=B.27.b12.13
+
+:13v.1.1: ($1 ms. has instead:$) [X X] li#-bi₂-X-de₂ [...] ba-sah₆!(HA)
+#lem: X; X; de[pour]; X; zah[disappear]
+
+#etcsl#eq = Alster 1997 27.12
+
+@end proverb
+
+@div proverb 27.b13
+
+B.27.b13.14. [...] MU# nu#-BUR₂# X# niŋ₂#-bi# X [X X] X
+#lem: X; X; X; X; niŋ[thing]; X; X; X; X
+#tr.en: $ (@note{= Alster 1997 27.13} ) $ (@gap{1 line fragmentary} @gap{2 lines missing}) 
+#etcsl: line-id=B.27.b13.14
+
+#etcsl#eq = Alster 1997 27.13
+
+@end proverb
+
+$ 2 lines missing
+@div proverb 27.b14
+
+B.27.b14.17. [X X] X X X [...]
+#lem: X; X; X; X; X; X
+#tr.en: $ (@note{= Alster 1997 p. 284 A rev. 1} ) $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=B.27.b14.17
+
+#etcsl#eq = Alster 1997 p. 284 A rev. 1
+
+@end proverb
+
+@div proverb 27.b15
+
+B.27.b15.18. [...] X MU lu₂-ra# X X um#-ur₄-[ur₄]
+#lem: X; X; X; lu[person]; X; X; ur[gather]
+#tr.en: @note{= Alster 1997 p. 284 A rev. 2} …… reap …… for the man. 
+#etcsl: line-id=B.27.b15.18
+
+#etcsl#eq = Alster 1997 p. 284 A rev. 2
+
+@end proverb
+
+@div proverb 27.b16
+
+B.27.b16.19. [...] X-am₃ nam-tag-ŋu₁₀-e-[še]
+#lem: X; X; namtaga[sin]
+#tr.en: @note{= Alster 1997 p. 284 A rev. 3} …… my sin ……. 
+#etcsl: line-id=B.27.b16.19
+
+#etcsl#eq = Alster 1997 p. 284 A rev. 3
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 27.c1
+
+C.27.c1.1. [X X] X-gu₇-da-ke₄-eš
+#lem: X; X; gu[eat]
+#tr.en: @note{= Alster 1997 p. 284 C i' 6'} Because they will eat ……, 
+#etcsl: line-id=C.27.c1.1
+
+#etcsl#eq = Alster 1997 p. 284 C i' 6'
+
+C.27.c1.2. [...]-mi-dab₅-be₂-eš
+#lem: dab[seize]
+#tr.en: they seized ……. 
+#etcsl: line-id=C.27.c1.2
+
+@end proverb
+
+@div proverb 27.c2
+
+C.27.c2.3. [X X X] X KIŊ₂
+#lem: X; X; X; X; X
+#tr.en: $ (@note{= Alster 1997 p. 284 C i' 7'} ) $ (@gap{2 lines fragmentary}) 
+#etcsl: line-id=C.27.c2.3
+
+#etcsl#eq = Alster 1997 p. 284 C i' 7'
+
+C.27.c2.4. [...] X
+#lem: X; X
+#etcsl: line-id=C.27.c2.4
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

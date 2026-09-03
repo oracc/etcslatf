@@ -22,9 +22,21 @@
 19.	why are you unwilling?”} 
 
 {20 = 20-34}
-20.	@q[Inana,Utu]{“The shepherd shall not marry me! He shall not make me carry his garments of new wool. His brand new wool will not influence me. Let the farmer marry me, the maiden. With the farmer who grows colourful flax, with the farmer who grows dappled grain …….”} 
-$ (@gap{1 line fragmentary}) 
-22.	@q[Inana,Utu]{“The shepherd shall not marry me!”} 
+20.	@q[Inana,Utu]{“The shepherd shall  
+21.	not marry me! 
+22.	He shall  
+23.	not make me  
+24.	carry his garments  
+25.	of new wool. 
+26.	His brand new wool  
+27.	will not influence me. 
+28.	Let the farmer marry me, 
+29.	the maiden. 
+30.	With the farmer  
+31.	who grows colourful flax, 
+32.	with the farmer who grows  
+33.	dappled grain …….”} 
+$ (@gap{1 line fragmentary} @gap{approx. 7 lines missing} @q[Inana,Utu]{“The shepherd shall not marry me!”) 
 
 {35 = 35-39}
 35.	These words ……. 

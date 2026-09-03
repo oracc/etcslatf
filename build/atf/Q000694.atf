@@ -1,0 +1,294 @@
+&Q000694 = A hymn to Nergal (Nergal B)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.15.2
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.15.2&display=Crit&charenc=gcirc#
+
+1. [ur-saŋ dumu] mah# ni₂ gur₃-ru {d}en-lil₂-la₂
+#lem: ursaŋ[warrior]; dumu[child]; mah[great]; ni[fear]; gur[lift]; Enlil[1]DN
+#tr.en: Hero, majestic, awe-inspiring son of @wDN{Enlil}, battering like a storm and roaring against the rebel lands! 
+#etcsl: line-id=1
+
+2. [ud-gin₇ ra-ra] ki-bal-še₃ gu₃ ŋar-ra
+#lem: ud[storm]; rah[beat]; kibala[rebel land]; gu[voice]; ŋar[put]
+#tr.en: Immense at his front, at his rear surging as a flood, 
+#etcsl: line-id=2
+
+3. [igi-ni-še₃ u₁₈]-ru bar-ra-ni-še₃ mar-uru₅ zig₃-ga
+#lem: igi[eye]; urun[exalted]; bar[outside]; marru[stormwind]; zig[rise]
+#tr.en: after he ……, 
+#etcsl: line-id=3
+
+4. [...] X-ba-ni ki-bi [...]-ge#
+#lem: X; X; ki[place]; X
+#tr.en: …… this place; 
+#etcsl: line-id=4
+
+5. [en] {[d]}[meš₃]-lam#-ta-e₃-a ni₂# [huš gur₃-ru]
+#lem: en[lord]; Meslamtaea[1]; ni[fear]; huš[reddish]; gur[lift]
+#tr.en: Lord @wDN{Mešlamta-ea} inspiring terrifying awe, 
+#etcsl: line-id=5
+
+6. [X X]-a-ni kur erim₂#-[ŋal₂ nu-ed₂]-de₃
+#lem: X; X; kur[mountain(s)]; erimŋal[wicked]; e[leave]
+#tr.en: his …… not releasing the hostile land, 
+#etcsl: line-id=6
+
+7. [si ma-az]-za-ni kalam-[ma ...]-la
+#lem: si[horn]; maz[swell]; kalam[the Land (of Sumer)]; X
+#tr.en: his luxuriant horn …… in the Land, 
+#etcsl: line-id=7
+
+8. [...] {ŋiš}tukul# bi-in-sag₃#
+#lem: X; tukul[weapon]; sag[strike]
+#tr.en: struck …… with weapons. 
+#etcsl: line-id=8
+
+9. [...] X IM {d}en-[lil₂-le] u₃-tud-da
+#lem: X; X; X; Enlil[1]DN; utud[give birth (to)]
+#tr.en: ……, sired by @wDN{Enlil}, great ……, 
+#etcsl: line-id=9
+
+10. [...] GAL X X [mar]-uru₅# X X X
+#lem: X; X; X; X; marru[stormwind]; X; X; X
+#tr.en: …… flood ……; 
+#etcsl: line-id=10
+
+11. [...] X X [...]-ŋar#-re-en₆#
+#lem: X; X; X; ŋar[put]
+#tr.en: he has placed you ……, 
+#etcsl: line-id=11
+
+12. [a₂] nam-ur-saŋ-<ŋa₂>-zu mu-gub-be₂-en₆#
+#lem: a[arm]; namursaŋ[heroism]; gub[stand]
+#tr.en: he has positioned you in your heroic strength. 
+#etcsl: line-id=12
+
+13. [saŋ il₂]-la gu₃ ra-bi-da nir-ŋal₂
+#lem: saŋ[head]; il[raise]; gu[voice]; rah[beat]; nirŋal[authoritative]
+#tr.en: Raising his head, authoritative with a ringing voice, 
+#etcsl: line-id=13
+
+14. lu₂ zu-me diŋir-re-e-ne-ke₄
+#lem: lu[person]; zu[know]; diŋir[deity]
+#tr.en: knowing the divine powers of the gods, 
+#etcsl: line-id=14
+
+15. e₂ |ŊA₂×X|-e ba-[...]-ar kalam-ma-ka
+#lem: e[house]; X; X; kalam[the Land (of Sumer)]
+#tr.en: …… of the Land, 
+#etcsl: line-id=15
+
+16. an-ne₂# mu#-niŋin₂ niŋ₂-nam#-[ma] a₂ mu-un#-kiŋ₂
+#lem: an[sky]; niŋin[encircle]; niŋnam[anything]; a[arm]; kiŋ[seek]
+#tr.en: he travels through heaven and organises everything. 
+#etcsl: line-id=16
+
+17. ud nam-X mu-X X X
+#lem: ud[sun]; X; X; X; X
+#tr.en: When …… you command the storm which flattens the hostile land, 
+#etcsl: line-id=17
+
+18. a-ma#-[ru] kur sig₁₀-sig₁₀-ge₅ mu-ni-dug₄-ga
+#lem: amaru[flood]; kur[mountain(s)]; sig[put into]; dug[speak]
+#tr.en: you devastate its evil; 
+#etcsl: line-id=18
+
+19. niŋ₂ hul-[ŋal₂]-bi kuš₇ su₃-su₃-me-en
+#lem: niŋ[thing]; huluŋal[evil]; kuš[devastation]; su[sink]
+#tr.en: you pour it over for as long as it disobeys. 
+#etcsl: line-id=19
+
+20. en-na nu-še-ga#-še₃ su₃-su₃-me-en
+#lem: enna[until]; šeg[agree]; su[sprinkle]
+#tr.en: You are the great hero of the lands, 
+#etcsl: line-id=20
+
+21. ur-saŋ gal# kur-kur-ra#-[me]-en#
+#lem: ursaŋ[warrior]; gal[big]; kur[mountain(s)]
+#tr.en: you speak ……, 
+#etcsl: line-id=21
+
+22. ŠEŠ-a dub₂-dub₂#-e gu₃ ba-an-de₂-de₂
+#lem: X; dub[tremble]; gu[voice]; de[pour]
+#tr.en: you go … 
+#etcsl: line-id=22
+
+23. ŋiri₃ nu-ni#-gub X X-ni-du-un
+#lem: ŋiri[foot]; gub[stand]; X; ŋen[go]
+#tr.en: … where no foot has previously been placed. 
+#etcsl: line-id=23
+
+24. šaŋan 7-gin₇ X X-e ba-an-dib
+#lem: šaŋan[flask]; n; X; X; dib[pass]
+#tr.en: …… like a vessel with seven spouts. 
+#etcsl: line-id=24
+
+25. saŋ gig₂ teš₂ an-še₃ gu₂ bi₂-in-ŋar
+#lem: saŋ[head]; giggig[black]; teš[unity]; an[sky]; gu[neck]; ŋar[put]
+#tr.en: The black-headed gather together at the front. 
+#etcsl: line-id=25
+
+26. tum₁₂{mušen}-bi-a lal₃-da# zag mi-ni-dib-be₂
+#lem: tum[wild dove]; lal[syrup]; zag[side]; dib[pass]
+#tr.en: You outpace the pigeons with ……. 
+#etcsl: line-id=26
+
+27. sim{[mušen]} babbar# gig₂#-bi-a zag mi-ni-dib-be₂
+#lem: sim[swallow]; babbar[white]; giggig[black]; zag[side]; dib[pass]
+#tr.en: You outpace the black and white swallows (?). 
+#etcsl: line-id=27
+
+28. [X X sila] sig₉-sig₉-ga X [...]
+#lem: X; X; sila[street]; sig[silent]; X; X
+#tr.en: …… in the hushed streets, your …… awesomeness covers the city. 
+#etcsl: line-id=28
+
+29. ni₂# X-zu iri mu-un#-[dul]
+#lem: ni[fear]; X; iri[city]; dul[cover]
+#tr.en: The majestic and just crown …… your awesomeness. 
+#etcsl: line-id=29
+
+30. men zid# mah ni₂-zu [...]
+#lem: men[tiara]; zid[right]; mah[great]; ni[fear]; X
+#tr.en: The …… is a south wind that none can withstand. 
+#etcsl: line-id=30
+
+31. X X u₁₈-lu lu₂-u₃ gaba nu-[mu]-gi₄
+#lem: X; X; ulu[south wind]; lu[person]; gaba[breast]; gi[turn]
+#tr.en: At the place of the queen, the most precious place, you exercise the role of supreme deity! 
+#etcsl: line-id=31
+
+32. ki nin ki kal-kal nam-{d}en-lil₂ ša-ba-ak-e
+#lem: ki[place]; nin[lady]; ki[place]; kal[rare]; namenlil[Enlil-ship]; ak[do]
+#tr.en: Directing a noble gaze, you exercise kingship in the Land! For his father he has led the people from afar. 
+#etcsl: line-id=32
+
+33. igi saŋ il₂ kalam-ma nam-lugal ša-ba-ak-e
+#lem: igi[eye]; saŋ[head]; il[raise]; kalam[the Land (of Sumer)]; namlugal[kingship]; ak[do]
+#tr.en: He, 
+#etcsl: line-id=33
+
+34. a-a-ni-ra uŋ₃ su₃#-ud-bi-ta# mi-ni-ib-e₃
+#lem: aya[father]; uŋ[people]; sud[distant]; e[leave]
+#tr.en: @wDN{Nergal}, 
+#etcsl: line-id=34
+
+35. kur-ra e₂ X X X ki di#-bi-še₃ i₃-ši#-de₆ {d}nergal-ke₄
+#lem: kur[mountain(s)]; e[house]; X; X; X; ki[place]; did[lawsuit]; de[carry]; Nergal[1]DN
+#tr.en: has brought them to the …… of the nether world. 
+#etcsl: line-id=35
+
+36. {d}er₃-ra [lugal]-ni# mi₂ na-mu-un-e
+#lem: Erra[1]DN; lugal[king]; mi[cvne]; e[speak]
+#tr.en: Then @wDN{Erra} welcomed his king: @q[Erra,Nergal]{“They have come! You surpass @wDN{An}! 
+#etcsl: line-id=36
+
+37. sug₂-sug₂-ge-eš-am₃ an-ra dirig-ga-me-en
+#lem: sug[stand]; An[1]DN; dirig[make more than]
+#tr.en: Perform the stewardship for @wDN{An} the king! 
+#etcsl: line-id=37
+
+38. an lugal-e šid du₃-mu-na-ab
+#lem: An[1]DN; lugal[king]; šid[recite]; du[build]
+#tr.en: In accordance with destiny you determine fates with him, 
+#etcsl: line-id=38
+
+39. nam tar-re nam mu-un-di-ni-ib-tar-re {d}nergal-ka-me-en
+#lem: nam[fate]; tar[cut]; nam[fate]; tar[cut]; Nergal[1]DN
+#tr.en: @wDN{Nergal}!”} @wDN{Ninšubur}, the minister of the great place, 
+#etcsl: line-id=39
+
+40. {d}nin-šubur sukkal ki gal kur-ra-ke₄ {d}nergal-ka-ke₄ silim-bi ba-ni-in-dug₄
+#lem: Ninšubur[1]DN; sukkal[secretary]; ki[place]; gal[big]; kur[mountain(s)]; Nergal[1]DN; silim[healthy]; dug[speak]
+#tr.en: the underworld, greeted @wDN{Nergal}: 
+#etcsl: line-id=40
+
+41. en-e hur-saŋ-ta [lu₂-sa]-gaz ki mu-e₃-a-me-en
+#lem: en[lord]; hursaŋ[mountain]; sagaz[robber]; ki[place]; e[leave]
+#tr.en: @q[Nincubur,Nergal]{“You are the lord who has made the bandits come forth (?) from the mountains. 
+#etcsl: line-id=41
+
+42. {d}en#-[lil₂]-gin₇ ki X kur teš₂-a [a₂]-zu# nu-ed₂-de₃
+#lem: Enlil[1]DN; ki[place]; X; kur[mountain(s)]; teš[unity]; a[arm]; e[leave]
+#tr.en: As with @wDN{Enlil} ……, 
+#etcsl: line-id=42
+
+43. [ur]-saŋ# [...] gu₂# du₃ {d}en-lil₂-la₂
+#lem: ursaŋ[warrior]; X; gu[neck]; du[build]; Enlil[1]DN
+#tr.en: no part of a foreign land escapes your grasp. 
+#etcsl: line-id=43
+
+44. [zar-re-eš] {d}en-lil₂-ra ud 1(AŠ)-a du₈-du₈
+#lem: zar[sheaf (of barley)]; Enlil[1]DN; ud[sun]; n; du[spread]
+#tr.en: Hero, for @wDN{Enlil} you piled up @wDN{Enlil's} enemies (?) in a single day. 
+#etcsl: line-id=44
+
+45. [... hul] gig# {d}nergal i-zi-gin₇
+#lem: X; hulu[bad]; gig[sick]; Nergal[1]DN; izi[fire]
+#tr.en: Hating ……, @wDN{Nergal}, …… as fire, 
+#etcsl: line-id=45
+
+46. [...] kur ud e₃ zig₃-ga-me-en
+#lem: X; kur[mountain(s)]; ud[sun]; e[leave]; zig[rise]
+#tr.en: you rise up in the lands where the sun rises.”} 
+#etcsl: line-id=46
+
+47. {[d]}[a-nun-na mu]-un-sug₂-ge-eš
+#lem: Anunak[1]DN; sug[stand]
+#tr.en: The @wDN{Anuna} gods stepped forward: 
+#etcsl: line-id=47
+
+48. [...] ki-in-dar sud-sud-gin₇
+#lem: X; kindar[hole]; sud[distant]
+#tr.en: @q[Anuna,Nergal]{“Like …… cracks ……, 
+#etcsl: line-id=48
+
+49. [...] X-a-ni {d}nergal-ka-me-en
+#lem: X; X; Nergal[1]DN
+#tr.en: ……, you are @wDN{Nergal}!”} 
+#etcsl: line-id=49
+
+50. [...] in-ga-[...] X
+#lem: X; X; X
+#tr.en: …… son of @wDN{Enlil} ……, 
+#etcsl: line-id=50
+
+51. [...] X [...]
+#lem: X; X; X
+#tr.en: @wDN{Lugal-era}. 
+#etcsl: line-id=51
+
+52. [...] X X
+#lem: X; X; X
+#tr.en: Praising you is sweet. 
+#etcsl: line-id=52
+
+53. [...] tud-da
+#lem: X; utud[give birth (to)]
+#etcsl: line-id=53
+
+54. [... zar-re]-eš₂# du₈
+#lem: X; zar[sheaf (of barley)]; du[spread]
+#etcsl: line-id=54
+
+55. [... dumu] {[d]}en#-lil₂-la₂
+#lem: X; dumu[child]; Enlil[1]DN
+#etcsl: line-id=55
+
+56. [...] {d}lugal-er₉-ra
+#lem: X; Lugalerra[1]
+#etcsl: line-id=56
+
+57. [za₃-mi₂-zu dug₃]-ga#-am₃
+#lem: zamin[praise]; dug[good]
+#etcsl: line-id=57
+
+
+
+
+
+
+

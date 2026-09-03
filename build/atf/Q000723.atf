@@ -1,0 +1,159 @@
+&Q000723 = A tigi to Ninurta (Ninurta D)
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.27.04
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.27.04&display=Crit&charenc=gcirc#
+
+@div sa-gida A
+
+A.1. ŋiš ga-šub-šub tir <ga>-sag₃-sag₃ ama-ŋu₁₀ hu-mu-da-an-zu
+#lem: ŋeš[tree]; šub[fall]; tir[forest]; sag[strike]; ama[mother]; zu[know]
+#tr.en: @q[Ninurta,]{“I will fell trees, I will strike down forests. Let my mother know it. 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 30
+
+A.2. {d}nin-urta-me-en ŋiš ga-šub-šub tir ga-sag₃-sag₃ ama-ŋu₁₀ hu-mu-da-an-zu
+#lem: Ninurtak[1]DN; ŋeš[tree]; šub[fall]; tir[forest]; sag[strike]; ama[mother]; zu[know]
+#tr.en: I, @wDN{Ninurta}, will fell trees, I will strike down forests. Let my mother know it. 
+#etcsl: line-id=A.2
+
+A.3. {urud}tun₃ X X-gin₇ gu₂-gur₅-ru ga-am₃-dug₄ ama-ŋu₁₀ hu-mu-da-an-zu
+#lem: tun[ax]; X; X; guguru[trim down]; dug[speak]; ama[mother]; zu[know]
+#tr.en: I will clear them away like an …… axe. Let my mother know it. 
+#etcsl: line-id=A.3
+
+A.4. {urud}tun₃ gal-gin₇ bad₃ DUB ga-šub-šub ama-ŋu₁₀ hu-mu-da-an-zu
+#lem: tun[ax]; gal[big]; bad[wall]; X; šub[fall]; ama[mother]; zu[know]
+#tr.en: I will strike down …… walls like a huge axe. Let my mother now it. 
+#etcsl: line-id=A.4
+
+A.5. ŋiri₃ niŋin₂-a-gin₇ erin₂-bi <ga>-dub₂-dub₂ ama-ŋu₁₀ hu-mu-da-an-zu#
+#lem: ŋiri[foot]; niŋin[encircle]; erin[people]; dub[tremble]; ama[mother]; zu[know]
+#tr.en: I will make their troops tremble like ……. Let my mother know it. 
+#etcsl: line-id=A.5
+
+A.6. ud-de₃ ma₂-uru₅#-gin₇ teš₂ ga-am₃-gu₇ ama-ŋu₁₀ hu-mu-da-an-zu#
+#lem: ud[storm]; marru[stormwind]; teš[unity]; gu[eat]; ama[mother]; zu[know]
+#tr.en: I will devour them like storm and flood. Let my mother know it.”} 
+#etcsl: line-id=A.6
+
+A.7. ur-saŋ X me₃ sumur-ra X saŋ# mu-un-dub₂-dub₂-be₂
+#lem: ursaŋ[warrior]; X; me[battle]; sumur[angry]; X; saŋ[head]; dub[tremble]
+#tr.en: The warrior, …… in furious battle, smashes heads. The lord curses the disobedient, 
+#etcsl: line-id=A.7
+
+A.8. en-e ki-bal nu-še-ga# nam# im#-ma-kud-de₃
+#lem: en[lord]; kibala[rebel land]; šeg[agree]; nam[fate]; kud[cut]
+#tr.en: rebellious lands: @q[Ninurta,]{“I will …… battering ram, I will …… your venom. 
+#etcsl: line-id=A.8
+
+A.9. E RU X A {ŋiš}gud-si-AŠ ga-ra-ab-X uš₁₁-zu ga-mu-ni-gur₈
+#lem: X; X; X; X; gud.si.AŠ[battering ram]; X; uš[poison]; gurum[bend]
+#tr.en: I will destroy (?) your city gate ……, and reach your ……. 
+
+#etcsl: line-id=A.9
+
+A.10. abula-zu ŋiš X GAR X u₃-bi₂-tar X-zu sa₂# ga-am₃-dug₄
+#lem: abula[gate]; ŋeš[tree]; X; X; X; tar[cut]; X; sa[equal]; dug[speak]
+#tr.en: I will …… shield on (?) your tower, and reduce it to a pile of dust. 
+#etcsl: line-id=A.10
+
+A.11. an-za-gar₃-zu {kuš#}gur₂₁#{ur₃} u₃#-bi₂-la₂ sahar-re-eš ga-mu-dub!-dub
+#lem: anzagar[(fortified) tower]; guru[shield]; la[hang]; sahar[soil]; dub[heap up]
+#tr.en: I will …… your ……, like a city cursed by @wDN{Enlil}. 
+#etcsl: line-id=A.11
+
+A.12. iri {d}en-lil₂-le nam ku₅-ra₂-gin₇ |KA×X|-zu ga-mu-ni#-X
+#lem: iri[city]; Enlil[1]DN; nam[fate]; kud[cut]; X; X
+#tr.en: I will …… you into ruin mounds, 
+#etcsl: line-id=A.12
+
+A.13. iri {d}nin-urta hul-a-gin₇ du₆-du₆-da ga-X X X
+#lem: iri[city]; Ninurtak[1]DN; hulu[bad]; dud[(ruin) mound]; X; X; X
+#tr.en: like a city hated by @wDN{Ninurta}.”} 
+#etcsl: line-id=A.13
+
+@div trailer 
+
+A.14. sa-gid₂-da-am₃
+#lem: sagida[musical notation]
+#tr.en: @fsux{Sa-gida}. 
+#etcsl: line-id=A.14
+
+@end trailer
+
+@end sa-gida
+
+@div sa-ŋara B
+
+B.15. e lugal a₂ šum₂-ma {d}en-lil₂-la₂ kur šu-še₃# ŋar-u₃#
+#lem: e[vocative interjection]; lugal[king]; a[arm]; šum[give]; Enlil[1]DN; kur[mountain(s)]; šu[hand]; ŋar[put]
+#tr.en: O king, given strength by @wDN{Enlil}, conquer the foreign lands! 
+#etcsl: line-id=B.15
+
+B.16. en {d}nin-urta a₂ šum₂-ma {d}en-lil₂-la₂ [kur šu]-še₃ ŋar-u₃#
+#lem: en[lord]; Ninurtak[1]DN; a[arm]; šum[give]; Enlil[1]DN; kur[mountain(s)]; šu[hand]; ŋar[put]
+#tr.en: Lord @wDN{Ninurta}, given strength by @wDN{Enlil}, 
+#etcsl: line-id=B.16
+
+B.17. en pa₅-šeš an-na a₂ šum₂-ma {d}en-lil₂-la₂ kur šu-[še₃ ŋar-u₃]
+#lem: en[lord]; pašeš[foremost]; An[1]DN; a[arm]; šum[give]; Enlil[1]DN; kur[mountain(s)]; šu[hand]; ŋar[put]
+#tr.en: conquer the foreign lands! Lord, first choice of @wDN{An}, 
+#etcsl: line-id=B.17
+
+B.18. en {d}nin-urta X X [...]
+#lem: en[lord]; Ninurtak[1]DN; X; X; X
+#tr.en: given strength by @wDN{Enlil}, conquer the foreign lands! 
+#etcsl: line-id=B.18
+
+$ 4 lines missing
+$ (6 lines fragmentary)
+B.29. ki-sikil {d}nin#-nibru{ki} nin [...]
+#lem: kisikil[young woman]; Ninnibruk[1]DN; nin[lady]; X
+#tr.en: Lord @wDN{Ninurta} ……  
+#etcsl: line-id=B.29
+
+B.30. en {d}nin-urta lugal-ŋu₁₀ X [...]
+#lem: en[lord]; Ninurtak[1]DN; lugal[king]; X; X
+#tr.en: Young woman @wDN{Ninnibru}, lady ……. Lord @wDN{Ninurta}, 
+#etcsl: line-id=B.30
+
+B.31. {d}ig-alim-ma lugal-ŋu₁₀ [...]
+#lem: Igalimak[1]DN; lugal[king]; X
+#tr.en: my king ……. @wDN{Ig-alim}, my king ……. 
+#etcsl: line-id=B.31
+
+B.32. {d}šul-šag₄-ga-na lugal-ŋu₁₀ X [...]
+#lem: Šulšaganak[1]DN; lugal[king]; X; X
+#tr.en: @wDN{Šul-šagana}, my king ……. 
+#etcsl: line-id=B.32
+
+@div trailer 
+
+B.33. sa-ŋar-ra-am₃ šu-ta e-ne di-[dam]
+#lem: saŋara[musical notation]; šu[hand]; ene[pleasure?]; di[speak]
+#tr.en: @fsux{Sa-ŋara}, to be played with the hands (?). 
+#etcsl: line-id=B.33
+
+@end trailer
+
+@end sa-ŋara
+
+@div trailer 
+
+B.34. tigi# {[d]}[nin-urta-ka-kam]
+#lem: tigi[drum or other musical instrument]; Ninurtak[1]DN
+#tr.en: A @fsux{tigi} of @wDN{Ninurta} (?). 
+#etcsl: line-id=B.34
+
+@end trailer
+
+
+
+
+
+
+

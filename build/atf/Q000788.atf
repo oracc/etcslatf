@@ -1,0 +1,726 @@
+&Q000788 = A man and his god
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.5.2.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.2.4&display=Crit&charenc=gcirc#
+
+@div ŋišgiŋal A
+
+A.1. lu₂-ulu₃ nam-mah diŋir-ra-na zid-de₃-eš-še₃ he₂-em-me
+#lem: lulu[man]; nammah[greatness]; diŋir[deity]; zid[right]; e[speak]
+#tr.en: A person should steadfastly proclaim the exaltedness of his god. 
+#etcsl: line-id=A.1
+
+#etcsl#cite Cited in OB catalogue in the Louvre, 0.2.02, line 45
+
+A.2. ŋuruš-e inim diŋir-ra-na kug-ge-eš he₂-em-i-i
+#lem: ŋuruš[young adult male]; inim[word]; diŋir[deity]; kug[pure]; e[bring out]
+#tr.en: A young man should devoutly praise the words of his god; 
+#etcsl: line-id=A.2
+
+A.3. kalam zid-de-a uŋ₃ dur₂-ru-na-bi gu-gin₇ ha-ba-si-il-e
+#lem: kalam[the Land (of Sumer)]; zid[right]; uŋ[people]; durun[sit]; gu[cord]; sil[split]
+#tr.en: the people living in the righteous Land should unravel them like a thread. 
+#etcsl: line-id=A.3
+
+A.4. {ŋiš}balaŋ di ušur gu₅-li-ni ur₅!(IR) hu#-mu-un-na-bur₂-e
+#lem: balaŋ[an instrument]; di[speak]; usar[(female) neighbor]; guli[friend]; ur[liver]; bur[spread out]
+#tr.en: May the @fsux{balaŋ} singer assuage the spirit of his neighbour and friend. 
+#etcsl: line-id=A.4
+
+A.5. šag₄ X he₂-eb-huŋ-e
+#lem: šag[heart]; X; huŋ[pacify]
+#tr.en: May it soothe their (?) hearts, bring forth ……, 
+#etcsl: line-id=A.5
+
+A.6. X [he₂-ni]-in#-e₃ [...]-bi he₂-ni-ib-be₂
+#lem: X; e[leave]; X; e[speak]
+#tr.en: utter ……, 
+#etcsl: line-id=A.6
+
+A.7. [...] X X he₂#-aŋ₂-e
+#lem: X; X; X; aŋ[measure]
+#tr.en: and measure out ……. 
+#etcsl: line-id=A.7
+
+A.8. ka i-si-iš ŋal₂-la-ni šag₄ diŋir-ra-na he₂-em-huŋ-e
+#lem: kag[mouth]; isiš[tears]; ŋal[⟦be⟧ to be (there]; šag[heart]; diŋir[deity]; huŋ[pacify]
+#tr.en: Let his mouth shaping a lament soothe the heart of his god, 
+#etcsl: line-id=A.8
+
+A.9. lu₂-ulu₃ diŋir-da nu-me-a u₂-gu₇ la-ba-ak-e
+#lem: lulu[man]; diŋir[deity]; me[be]; ugu[food]; ak[do]
+#tr.en: for a man without a god does not obtain food. 
+#etcsl: line-id=A.9
+
+A.10. ŋuruš-e a₂-ni ki-lul-la hul la-ba-e-ŋa₂-ŋa₂
+#lem: ŋuruš[young adult male]; a[arm]; kilulak[murder]; hulu[bad]; ŋar[put]
+#tr.en: There is a young man who does not wickedly put his efforts into evil murder, 
+#etcsl: line-id=A.10
+
+A.11. [a]-nir# a₂-sag₃ du-lum gig-ga ud# im-ma-ni-in-zal#
+#lem: anir[lament]; Asag[1]DN; dulum[toil]; gig[sick]; ud[sun]; zal[pass time]
+#tr.en: yet he spends the time in grief, @fsux{asag} illness and bitter suffering. 
+#etcsl: line-id=A.11
+
+A.12. [...] X RA nam-tar-e su-gu₇-e [...]-ge# mu-un-ni-ib-te
+#lem: X; X; X; Namtar[1]DN; sugu[need]; X; teŋ[approach]
+#tr.en: The fate demon has brought need and …… close to him. 
+#etcsl: line-id=A.12
+
+A.13. [X X] gig#-ga umuš-bi mu-suh₃ X X X-na mu-un-dul
+#lem: X; X; gig[sick]; umuš[consideration]; suh[confuse]; X; X; X; dul[cover]
+#tr.en: Bitter …… has confused his judgment (?) of it, and covered his ……. 
+#etcsl: line-id=A.13
+
+A.14. a-ga-e šu hul mu-ni-ib-dug₄ X X-še₃
+#lem: aga[rear]; šu[hand]; hulu[bad]; dug[speak]; X; X
+#tr.en: Behind his back they have overpowered him like a ……. 
+#etcsl: line-id=A.14
+
+A.15. šul-e igi diŋir-ra-na
+#lem: šul[youth]; igi[eye]; diŋir[deity]
+#tr.en: Before his god the youth, 
+#etcsl: line-id=A.15
+
+A.16. ŋuruš-e a₂ hul ŋar-ra-na er₂ gig# i₃-še₈-še₈
+#lem: ŋuruš[young adult male]; a[arm]; hulu[bad]; ŋar[put]; er[tears]; gig[sick]; šeš[weep]
+#tr.en: the young man weeps bitterly over the malice he has suffered. 
+#etcsl: line-id=A.16
+
+A.17. ni₂ mu-un-tuku šu-kin si bi₂-in-sa₂
+#lem: ni[fear]; tuku[acquire]; šukin[prostration]; si[horn]; sa[equal]
+#tr.en: He is reverent and performs obeisance. 
+#etcsl: line-id=A.17
+
+A.18. [...] du#-lum-ma-ni KA A mi-ni-ib-be₂
+#lem: X; dulum[toil]; X; X; e[speak]
+#tr.en: He speaks …… of his suffering. 
+#etcsl: line-id=A.18
+
+A.19. [...] šag₄ kuš₂ si-a-na
+#lem: X; šag[heart]; kušu[tired]; si[fill]
+#tr.en: In his total exhaustion ……, 
+#etcsl: line-id=A.19
+
+A.20. [...] X-ni er₂ mu#-ni-in-ŋar
+#lem: X; X; er[tears]; ŋar[put]
+#tr.en: …… he weeps. 
+#etcsl: line-id=A.20
+
+A.21. [...] kar-ra [...]
+#lem: X; kar[flee]; X
+#tr.en: ……, 
+#etcsl: line-id=A.21
+
+A.22. [...] er₂ gig-ga# mu-un-ŋa₂-ŋa₂
+#lem: X; er[tears]; gig[sick]; ŋar[put]
+#tr.en: …… he weeps bitterly. 
+#etcsl: line-id=A.22
+
+A.23. [...] mu-na-da-si
+#lem: X; si[fill]
+#tr.en: He was able to fill the …… for him. 
+#etcsl: line-id=A.23
+
+A.24. [...] mu-na-an-DU# [mu]-na-ab-be₂
+#lem: X; X; e[speak]
+#tr.en: He …… to him and addresses him: 
+#etcsl: line-id=A.24
+
+A.25. [... a]-nir mu-ne-du₃
+#lem: X; anir[lament]; du[build]
+#tr.en: @q[man,his god]{“Grief ……, despair ……, and …… has been put in place. 
+#etcsl: line-id=A.25
+
+A.26. [... ur₅] uš₂-a [...] X |DU.DU|
+#lem: X; ur[liver]; uš[die]; X; X; X
+#tr.en: I am a young man, I am knowledgeable, 
+#etcsl: line-id=A.26
+
+A.27. [...] mi-ni-in#-ŋar#
+#lem: X; ŋar[put]
+#tr.en: but what I know does not come out right with me. 
+#etcsl: line-id=A.27
+
+A.28. ŋuruš-me-en zu-me-en [niŋ₂]-zu-ŋu₁₀ si nu-mu-da-sa₂-e
+#lem: ŋuruš[young adult male]; zu[know]; niŋzu[knowledge]; si[horn]; sa[equal]
+#tr.en: The truth which I speak has been turned (?) into a lie. 
+#etcsl: line-id=A.28
+
+A.29. zid dug₄-ga-ŋu₁₀ lul-še₃ i₃-kur₉
+#lem: zid[right]; dug[speak]; lul[false]; kur[enter]
+#tr.en: A man of deceit has overwhelmed me like the south wind and prostrated me before him. 
+#etcsl: line-id=A.29
+
+A.30. lu₂-lul-la-ke₄ u₁₈-lu mu-un-dul šu-kin mu-un-na-dab₅
+#lem: lulul[liar]; ulu[south wind]; dul[cover]; šukin[prostration]; dab[seize]
+#tr.en: My unwitting arm has shamed me before you. You have doled out to me suffering ever anew. 
+#etcsl: line-id=A.30
+
+A.31. a₂ nu-zu-ŋu₁₀ ma-ra-pe-la₂-en
+#lem: a[arm]; zu[know]; pel[defile]
+#tr.en: When I go into the house I despair. When I, 
+#etcsl: line-id=A.31
+
+A.32. du-lum-ma ki gibil-gibil-la-bi saŋ-e-eš mu-e-rig₇
+#lem: dulum[toil]; ki[place]; gibil[new]; saŋ[head]; rig[donate]
+#tr.en: a young man, 
+#etcsl: line-id=A.32
+
+A.33. e₂-a u₃-mu-un-kur₉-re-en ur₅ mu-uš₂
+#lem: e[house]; kur[enter]; ur[liver]; uš[die]
+#tr.en: go out into the street, 
+#etcsl: line-id=A.33
+
+A.34. ŋuruš-me-en sila-še₃ um-e₃-en šag₄ mu-un-sag₃
+#lem: ŋuruš[young adult male]; sila[street]; e[leave]; šag[heart]; sag[strike]
+#tr.en: I am depressed.”} 
+#etcsl: line-id=A.34
+
+A.35. šul-me-en sipad zid-ŋu₁₀ mu-da-ib₂ igi erim₂ mu-un-du₈
+#lem: šul[youth]; sipad[shepherd]; zid[right]; ib[angry]; igi[eye]; erim[enemy]; du[spread]
+#tr.en: @q{“My righteous shepherd has become angry with me, 
+#etcsl: line-id=A.35
+
+A.36. na-gada-ŋu₁₀ lu₂-erim₂ nu-me-en-na a₂ hul ma-kiŋ₂-kiŋ₂
+#lem: nagada[herdsman]; luʾerim[evildoer]; e[speak]; a[arm]; hulu[bad]; kiŋ[seek]
+#tr.en: a youth, and looked upon me with hostility. 
+#etcsl: line-id=A.36
+
+A.37. dub₃-sa-ŋu₁₀ inim gen₆-na na-ma-ab-be₂
+#lem: dusa[friend]; inim[word]; gin[confirm]; e[speak]
+#tr.en: My herdsman has plotted malice against me although I am not his enemy. 
+#etcsl: line-id=A.37
+
+A.38. gu₅-li-ŋu₁₀ inim zid dug₄-ga-ŋu₁₀-uš lul ma-ši-ŋa₂-ŋa₂
+#lem: guli[friend]; inim[word]; zid[right]; dug[speak]; lul[false]; ŋar[put]
+#tr.en: My companion does not say a true word to me. 
+#etcsl: line-id=A.38
+
+A.39. lu₂-lul-la-ke₄ inim teš₂ mu-un-dug₄
+#lem: lulul[liar]; inim[word]; teš[(sense of) shame]; dug[speak]
+#tr.en: My friend falsifies my truthfully spoken words. 
+#etcsl: line-id=A.39
+
+A.40. diŋir-ŋu₁₀ nu-mu-na-ni-ib-gi₄-gi₄-in
+#lem: diŋir[deity]; gi[turn]
+#tr.en: A man of deceit has spoken insulting words to me while you, 
+#etcsl: line-id=A.40
+
+A.41. umuš-ŋu₁₀ ba-an-ta-DU-un
+#lem: umuš[consideration]; X
+#tr.en: my god, do not respond to him and you carry off my understanding. 
+#etcsl: line-id=A.41
+
+A.42. hul-ŋal₂-e inim teš₂ mu-du
+#lem: huluŋal[evil]; inim[word]; teš[(sense of) shame]; ŋen[go]
+#tr.en: An ill-wisher has spoken insulting words to me -- he angered me, 
+#etcsl: line-id=A.42
+
+A.43. mu-un-ib₂-en ud-gin₇ mu-un-du₃ šag₄ hul mu-un-dim₂
+#lem: ib[angry]; ud[storm]; du[build]; šag[heart]; hulu[bad]; dim[create]
+#tr.en: was like a storm and created anguish. 
+#etcsl: line-id=A.43
+
+A.44. gal-an-zu-me-en šul nu-zu-ra a-na-aš mu-un-na-la₂-en
+#lem: galanzu[wise]; šul[youth]; zu[know]; anaš[why?]; la[hang]
+#tr.en: I am wise -- why am I tied up with ignorant youths? 
+#etcsl: line-id=A.44
+
+A.45. zu-me-en murub₄ lu₂ nu-zu-ka a-na-aš mu-un-na-la₂-en
+#lem: zu[know]; murub[middle]; lu[person]; zu[know]; anaš[why?]; la[hang]
+#tr.en: I am discerning -- why am I entangled among ignorant men?”} 
+#etcsl: line-id=A.45
+
+A.46. ninda i₃-ŋal₂-ŋal₂ su-gu₇ ninda-ŋu₁₀-um
+#lem: ninda[bread]; ŋal[⟦be⟧ to be (there]; sugu[need]; ninda[bread]
+#tr.en: @q{“Food is all about, yet my food is hunger. 
+#etcsl: line-id=A.46
+
+A.47. ud uŋ₃ šar₂-re ha-la ba-ba du-lum ha-la ba-ŋu₁₀-um
+#lem: ud[sun]; uŋ[people]; šar[numerous]V/i; hala[inheritance share]; ba[allot]; dulum[toil]; hala[inheritance share]; ba[allot]
+#tr.en: When shares were allotted to all the people, 
+#etcsl: line-id=A.47
+
+A.48. šeš X X in mu-un-dub₂ [šag₄] hul# mu-un-dim₂
+#lem: šeš[brother]; X; X; in[abuse]; dub[tremble]; šag[heart]; hulu[bad]; dim[create]
+#tr.en: my allotted share was suffering. 
+#etcsl: line-id=A.48
+
+A.49. [...] X-ga-ŋu₁₀ [...] X
+#lem: X; X; X; X
+#tr.en: A brother …… insulted me, 
+#etcsl: line-id=A.49
+
+A.50. [...] X HU šu mu-un-zi-zi
+#lem: X; X; X; šu[hand]; zig[rise]
+#tr.en: created anguish. 
+#etcsl: line-id=A.50
+
+A.51. [...] an#-da-tum₂-mu
+#lem: X; tum[bring]
+#tr.en: He …… my ……, 
+#etcsl: line-id=A.51
+
+A.52. [...] erim₂# igi-ŋal₂ nu-tuku-e im mu-sar-sar-re
+#lem: X; erim[enemy]; igiŋal[wise]; tuku[acquire]; im[clay]; sar[write]
+#tr.en: raised up …… and carried off ……. 
+#etcsl: line-id=A.52
+
+A.53. har-ra-an-[na] DI sumur-bi X-kiŋ₂-kiŋ₂
+#lem: harran[route]; X; sumur[angry]; kiŋ[seek]
+#tr.en: A hostile …… without wisdom wrote on clay (?). 
+#etcsl: line-id=A.53
+
+A.54. kaskal-la DI X-la-bi ŋiš-gin₇ mu-un-kud-e
+#lem: kaskal[way]; X; X; ŋeš[tree]; kud[cut]
+#tr.en: He sought the …… of the journey. 
+#etcsl: line-id=A.54
+
+A.55. ugula-a a-ga [...] X X [...]
+#lem: ugula[overseer]; aga[rear]; X; X; X; X
+#tr.en: He cut down the …… of the road like a tree. 
+#etcsl: line-id=A.55
+
+A.56. nu-banda₃-ŋu₁₀ [...] X [...] ŊA₂ [...]
+#lem: nubanda[overseer]; X; X; X; X; X
+#tr.en: He …… the supervisor and …… my steward.”} 
+#etcsl: line-id=A.56
+
+A.57. diŋir-ŋu₁₀ X [...] igi-zu-še₃ [...]
+#lem: diŋir[deity]; X; X; igi[eye]; X
+#tr.en: @q{“My god, …… before you. I would speak to you: 
+#etcsl: line-id=A.57
+
+A.58. ga-mu-ra-ab-dug₄ er₂-ŋu₁₀ dirig inim-ŋu₁₀ šag₄-ne-ša₄
+#lem: dug[speak]; er[tears]; dirig[make more than]; inim[word]; šaneša[supplication]
+#tr.en: my tears are excess and my words are supplication. I would tell you about it, 
+#etcsl: line-id=A.58
+
+A.59. ga-ra-ni-ib-dug₄ a-ra₂-ŋa₂ niŋ₂-hul-bi gu-gin₇ ga-mu-ra-si-il
+#lem: dug[speak]; ara[way]; niŋhulu[evil]; gu[cord]; sil[split]
+#tr.en: would unravel to you like a thread the evil of my path. 
+#etcsl: line-id=A.59
+
+A.60. niŋ₂ ak-en suh₃-a-bi X X [...]
+#lem: niŋ[thing]; ak[do]; suh[confuse]; X; X; X
+#tr.en: …… the confusion of what I have done (?). 
+#etcsl: line-id=A.60
+
+A.61. ŋiš-hur-ŋa₂ gal-an-zu hu-mu-un#-X niŋ₂ er₂ nu-gul-lu-dam
+#lem: ŋešhur[plan]; galanzu[wise]; X; niŋ[thing]; er[tears]; gul[destroy]
+#tr.en: Let the wise …… in my plans; tears will not cease. 
+#etcsl: line-id=A.61
+
+A.62. gu₅-li-ŋu₁₀-ur₂ mu-na-an-la₂-en
+#lem: guli[friend]; la[hang]
+#tr.en: I am less qualified than my friend; 
+#etcsl: line-id=A.62
+
+A.63. dub₃-sa-ŋu₁₀-ur₂ a-ga-še₃ mu-un-ši-gi₄-in
+#lem: dusa[friend]; aga[rear]; gi[turn]
+#tr.en: I am inferior to my companion.”} 
+#etcsl: line-id=A.63
+
+A.64. a₂-še ama ugu-ŋu₁₀ er₂-ŋu₁₀ igi-zu-še₃ na-an-gul-e
+#lem: aše[now]; ama[mother]; ugu[bear]; er[tears]; igi[eye]; gul[destroy]
+#tr.en: @q{“Now, let my mother who bore me not cease lamenting for me before you. 
+#etcsl: line-id=A.64
+
+A.65. nin₉-ŋu₁₀ balaŋ di ad dug₃ na-nam#
+#lem: nin[sister]; balaŋ[an instrument]; di[speak]; ad[voice]; dug[good]; me[be]
+#tr.en: Let my sister, truly a sweet-voiced @fsux{balaŋ} singer, 
+#etcsl: line-id=A.65
+
+A.66. niŋ₂ ak šu hul dug₄-ga-ŋu₁₀ er₂-ra ha-ra-ni-ib-be₂
+#lem: niŋ[thing]; ak[do]; šu[hand]; hulu[bad]; dug[speak]; er[tears]; e[speak]
+#tr.en: narrate tearfully to you the deeds by which I was overpowered. 
+#etcsl: line-id=A.66
+
+A.67. dam-ŋu₁₀ du-lum-ŋu₁₀ girid₂ X ha-ra-ni-ib-pad₃-pad₃-de₃
+#lem: dam[spouse]; dulum[toil]; Girid[1]DN; X; pad[find]
+#tr.en: Let my wife voice my suffering …… to you. 
+#etcsl: line-id=A.67
+
+A.68. nar šir₃ zu-e nam-tar gig-ga-ŋu₁₀ gu-gin₇ ha-ra-si-il-e
+#lem: nar[musician]; šir[sing]; zu[know]; namtar[fate]; gig[sick]; gu[cord]; sil[split]
+#tr.en: Let the singer expert in chanting unravel my bitter fate to you like a thread.”} 
+#etcsl: line-id=A.68
+
+A.69. diŋir-ŋu₁₀ kalam-e ud ba-zalag ŋa₂-ar ud ma-ku₁₀-ku₁₀
+#lem: diŋir[deity]; kalam[the Land (of Sumer)]; ud[sun]; zalag[bright]; ŋaʾe[I]; ud[sun]; kukkug[dark]
+#tr.en: @q{“My god, the day shines bright over the Land, but for me the day is black. 
+#etcsl: line-id=A.69
+
+A.70. ud zalag-ga ud hi-da!(A₂)-gin₇ X DU X
+#lem: ud[sun]; zalag[bright]; ud[sun]; hi[mix (up)]; X; X; X
+#tr.en: The bright day has become (?) a …… day. 
+#etcsl: line-id=A.70
+
+A.71. er₂ a-nir šag₄ sag₃ ur₅ uš₂-a šag₄-ga mu-un-ŋa₂-ŋa₂#
+#lem: er[tears]; anir[lament]; šag[heart]; sag[strike]; ur[liver]; uš[die]; šag[heart]; ŋar[put]
+#tr.en: Tears, lament, anguish and despair are lodged within me. 
+#etcsl: line-id=A.71
+
+A.72. du-lum-e dumu er₂ pad₃-da-gin₇ šu mu-un-dul-dul-e
+#lem: dulum[toil]; dumu[child]; er[tears]; pad[find]; šu[hand]; dul[cover]
+#tr.en: Suffering overwhelms me like a weeping child. 
+#etcsl: line-id=A.72
+
+A.73. nam-tar-ra šu-ba igi mi-ni-in-kur₂ zi-ŋu₁₀ mi-ni-tum₃-tum₃
+#lem: Namtar[1]DN; šu[hand]; igi[eye]; kur[different]; zi[life]; tum[bring]
+#tr.en: In the hands of the fate demon my appearance has been altered, my breath of life carried away. 
+#etcsl: line-id=A.73
+
+A.74. su-ŋa₂ a₂-sag₃ niŋ₂ hul ŋal₂-e a im-ma-[ni]-ib-tu₅
+#lem: su[flesh]; Asag[1]DN; niŋ[thing]; hulu[bad]; ŋal[⟦be⟧ to be (there]; a[water]; tu[cvve]
+#tr.en: The @fsux{asag} demon, the evil one, bathes in my body.”} 
+#etcsl: line-id=A.74
+
+A.75. a-ra₂-ŋa₂ niŋ₂-gig-ga-bi šu hul dug₄-[ga-bi]
+#lem: ara[way]; niŋgig[that which is bad]; šu[hand]; hulu[bad]; dug[speak]
+#tr.en: @q{“In the overwhelming bitterness of my path I never see  
+#etcsl: line-id=A.75
+
+A.76. ma-mu₂-da sag₉-ga igi li-bi₂-du₈-ru-un
+#lem: mamud[dream]; sag[good]; igi[eye]; du[spread]
+#tr.en: a good dream -- but unfavourable (?) visions daily never stop for me. 
+#etcsl: line-id=A.76
+
+A.77. ud šu₂-uš-e maš₂-ŋi₆ nu-ŋar-ra ŋa₂-la nu-mu-ta-dag-ge
+#lem: ud[sun]; šuš[cover]; mašŋik[(nocturnal) vision]; niŋnuŋara[malice]; ŋala[cvne]; dag[roam around]
+#tr.en: Anguish embraced me though I am not its wife and ……. 
+#etcsl: line-id=A.77
+
+A.78. šag₄ sag₃-e dam-bi nu-me-en-na gu₂-da in-da-la₂ a im-mi-[...]
+#lem: šag[heart]; sag[strike]; dam[spouse]; e[speak]; gu[neck]; la[hang]; a[water]; X
+#tr.en: Grief spread its lap for me though I am not its small child. 
+#etcsl: line-id=A.78
+
+A.79. zarah-e dumu tur-bi nu-me-en-na ur₂ mu-ub-tal₂-tal₂
+#lem: zarah[wailing]; dumu[child]; tur[small]; e[speak]; ur[loin]; tal[broad]
+#tr.en: Lamentation sweeps over me as if it  
+#etcsl: line-id=A.79
+
+A.80. a-nir ulu₃ ak-gin₇ mu-un-sig₁₀ šu nu-mu#-[...]
+#lem: anir[lament]; ulu[south wind]; ak[do]; sig[put into]; šu[hand]; X
+#tr.en: were a southerly wind-storm and ……. 
+#etcsl: line-id=A.80
+
+A.81. šeš-ŋu₁₀ u₈-e-a im-ma-ab-dug₄
+#lem: šeš[brother]; ua[oh!]; dug[speak]
+#tr.en: My brother cried @q[brother,self]{“Alas”}.”} @gap{10 lines fragmentary} @gap{5 lines missing} 
+#etcsl: line-id=A.81
+
+A.82. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=A.82
+
+A.83. [...] X X MA DU [...] X X X X AN [...]
+#lem: X; X; X; X; X; X; X; X; X; X; X; X
+#etcsl: line-id=A.83
+
+A.84. [...] X X HA X X I
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=A.84
+
+A.85. [...] X X X ba-sag₃-ge-en
+#lem: X; X; X; X; sag[strike]
+#etcsl: line-id=A.85
+
+A.86. [...] X X X X saŋ mu-il₂
+#lem: X; X; X; X; X; saŋ[head]; il[raise]
+#etcsl: line-id=A.86
+
+A.87. [...] zi mu-ni-in-tum₃-tum₃
+#lem: X; zi[life]; tum[bring]
+#etcsl: line-id=A.87
+
+A.88. [...] X mu-ni-X [...]
+#lem: X; X; X; X
+#etcsl: line-id=A.88
+
+A.89. [...] X GAR X X [...] X-en
+#lem: X; X; X; X; X; X; X
+#etcsl: line-id=A.89
+
+A.90. [...] X X-pad₃-de₃
+#lem: X; X; pad[find]
+#etcsl: line-id=A.90
+
+A.91. [...] X im-mi-ib-DU
+#lem: X; X; X
+#etcsl: line-id=A.91
+
+$ 5 lines missing
+A.97. [...] mu-še₈-še₈ [...]
+#lem: X; šeš[weep]; X
+#tr.en: @q{“I weep …… and ……. My god, you who are my father who begot me, 
+#etcsl: line-id=A.97
+
+A.98. diŋir-ŋu₁₀ za-e a-a ugu-ŋu₁₀-me-en igi-ŋu₁₀ he₂-ši#-[X-il₂]
+#lem: diŋir[deity]; zaʾe[you]; aya[father]; ugu[bear]; igi[eye]; il[raise]
+#tr.en: lift up my face to you. Righteous cow, god (?) of mercy and supplication, 
+#etcsl: line-id=A.98
+
+A.99. ab₂ zid diŋir arhuš#-a šag₄-ne-ša₄ a₂ nun he₂#-[...]
+#lem: ab[cow]; zid[right]; diŋir[deity]; arhuš[compassion]; šaneša[supplication]; a[arm]; nun[prince]; X
+#tr.en: let me acquire (?) noble strength. 
+#etcsl: line-id=A.99
+
+A.100. en-na-me-še₃# en₃-ŋu₁₀ nu-tar-re-en ki-ŋu₁₀ nu-kiŋ₂-kiŋ₂-en
+#lem: ennameše[how long?]; en[cvne]; tar[cut]; ki[place]; kiŋ[seek]
+#tr.en: For how long will you be uncaring for me and not look after me? 
+#etcsl: line-id=A.100
+
+A.101. gud-gin₇ ga#-ši-ib-zig₃ nu-mu-ra-ab-zig₃-ge-en₆#
+#lem: gud[bull]; zig[rise]; zig[rise]
+#tr.en: Like a bull I would rise to you but you do not let me rise, 
+#etcsl: line-id=A.101
+
+A.102. us₂ zid nu-mu-ub-dab₅-be₂-en
+#lem: us[path]; zid[right]; dab[seize]
+#tr.en: you do not let me take the right course. The wise heroes say true and right words: 
+#etcsl: line-id=A.102
+
+A.103. mi-ni-ib-be₂-ne šul gal-an-zu-ne inim zid si sa₂
+#lem: e[speak]; šul[youth]; galanzu[wise]; inim[word]; zid[right]; si[horn]; sa[equal]
+#tr.en: @q[wise heroes,self]{“Never has a sinless child been born to its mother; 
+#etcsl: line-id=A.103
+
+A.104. ud na-me dumu nam-tag nu-tuku ama-a-ni nu-tu-ud
+#lem: ud[sun]; name[any]; dumu[child]; namtaga[sin]; tuku[acquire]; ama[mother]; utud[give birth (to)]
+#tr.en: making an effort (?) does not bring success (?); 
+#etcsl: line-id=A.104
+
+A.105. kuš₂ la-ba-sa₂ erin₂ nam-tag nu-tuku ul-ta nu-ŋal₂-la-am₃
+#lem: kušu[tired]; sa[equal]; erin[people]; namtaga[sin]; tuku[acquire]; ul[distant time]; ŋal[⟦be⟧ to be (there]
+#tr.en: a sinless workman has never existed from of old.”}”} 
+#etcsl: line-id=A.105
+
+A.106. diŋir-ŋu₁₀ ha-lam-ma niŋ₂ saŋ-bi-še₃ mu-da-ab-sud-da-ŋu₁₀
+#lem: diŋir[deity]; halam[forsake]; niŋ[thing]; saŋ[head]; sud[distant]
+#tr.en: @q{“My god -- the …… of forgetting which I have …… against you, 
+#etcsl: line-id=A.106
+
+A.107. niŋ₂ bur₂-ra X-bi igi-zu-še₃ ŋe₂₆-e bi₂-ak-a-ŋu₁₀
+#lem: niŋ[thing]; bur[spread out]; X; igi[eye]; ŋaʾe[I]; ak[do]
+#tr.en: the …… of releasing which I have prepared before you -- may you utter words of grace on a young man who knows the holy words @q[young man,self]{“May he not consume me”}. 
+#etcsl: line-id=A.107
+
+A.108. ŋuruš na-an#-šeŋ₆-ŋe₂₆ kug-zu-a inim hi-li-a he₂-ni-be₇
+#lem: ŋuruš[young adult male]; šeŋ[cook]; kug[pure]; inim[word]; hili[attractiveness]; e[speak]
+#tr.en: When the day is not bright, in my vigour, in my sleep, 
+#etcsl: line-id=A.108
+
+A.109. ud nu-sikil a₂-ŋa₂ nu₂-a-ŋa₂ igi-zu-še₃ ha-ba-ab-dib-be₂-en
+#lem: ud[sun]; sikil[pure]; a[arm]; nud[lie down]; igi[eye]; dib[pass]
+#tr.en: may I walk before you. 
+#etcsl: line-id=A.109
+
+A.110. nu-ku₃-ug nu-dadag-ŋu₁₀-ne iri silim-ba ha-ba-tag-ge-en
+#lem: kug[pure]; dadag[bright]; iri[city]; silim[healthy]; tag[touch]
+#tr.en: May I …… my impurities and uncleanliness in the health of the city. 
+#etcsl: line-id=A.110
+
+A.111. ud ib₂-ba šag₄ hul du₃-a zu inim hi-li-a he₂-ni-be₇
+#lem: ud[sun]; ib[angry]; šag[heart]; hulu[bad]; du[build]; zu[know]; inim[word]; hili[attractiveness]; e[speak]
+#tr.en: May you utter words of grace on him who knows the words @q{“When anger and the evil heart came about”}. 
+#etcsl: line-id=A.111
+
+A.112. ud su-mu-ug X tab₂-tab₂-ba zu e-ne hul₂-la hu-mu-dug₄
+#lem: ud[sun]; sumug[calamity]; X; tab[burn]; zu[know]; ane[he]; hul[rejoice]; dug[speak]
+#tr.en: Indeed he speaks joyously to him who knows the words @q{“When fear and …… burned”}.”} 
+#etcsl: line-id=A.112
+
+A.113. diŋir-ŋu₁₀ X X nam-tag-ŋu₁₀ igi-ŋu₁₀ u₃-mi-zu
+#lem: diŋir[deity]; X; X; namtaga[sin]; igi[eye]; zu[know]
+#tr.en: @q{“My god, …… after you have made me know my sins, 
+#etcsl: line-id=A.113
+
+A.114. kan₄ iri-ka ha-lam-ma-bi dili bad-bi ga-am₃-dug₄
+#lem: kan[gate]; iri[city]; halam[forsake]; dili[single]; bad[open]; dug[speak]
+#tr.en: at the city's (?) gate I would declare them, ones forgotten and ones visible. 
+#etcsl: line-id=A.114
+
+A.115. ŋuruš-me-en ka tar nam-tag-ŋu₁₀ igi-zu-še₃ ga-si-il
+#lem: ŋuruš[young adult male]; kag[mouth]; tar[cut]; namtaga[sin]; igi[eye]; sil[split]
+#tr.en: I, a young man, will declare my sins before you. In the assembly may tears (?) rain like drizzle. 
+#etcsl: line-id=A.115
+
+A.116. unken-e u₂-KU muru₉-gin₇ hu-mu-ub-šeŋ₃-šeŋ₃-e
+#lem: unkin[assembly]; u₂.KU[tear?]; muru[rainstorm]; šeŋ[rain]
+#tr.en: In your house may my supplicating mother weep for me. May your holy heart (?) have mercy and compassion for me, 
+#etcsl: line-id=A.116
+
+A.117. e₂-zu ama šag₄-ne-ša₄-ŋu₁₀ er₂-ŋu₁₀ he₂-še₈-X [...]
+#lem: e[house]; ama[mother]; šaneša[supplication]; er[tears]; šeš[weep]; X
+#tr.en: a youth. May your heart, an awe-inspiring wave, 
+#etcsl: line-id=A.117
+
+A.118. šul-me-en arhuš šag₄-ne-ša₄-a-ŋu₁₀ šag₄# kug-zu he₂-em-mi#-[tuku]
+#lem: šul[youth]; arhuš[compassion]; šaneša[supplication]; šag[heart]; kug[pure]; tuku[acquire]
+#tr.en: be restored towards me, 
+#etcsl: line-id=A.118
+
+A.119. ŋuruš-me-en šag₄ i-zi ni₂ ri-a-zu ki-bi ha-ma-gi₄-gi₄
+#lem: ŋuruš[young adult male]; šag[heart]; izi[wave]; ni[fear]; ri[impose]; ki[place]; gi[turn]
+#tr.en: the young man.”} 
+#etcsl: line-id=A.119
+
+A.120. lu₂-ulu₃ er₂ gig-ga šeš₂-a-ni diŋir-ra-ni ŋiš ba-an-tuku-am₃
+#lem: lulu[man]; er[tears]; gig[sick]; šeš[weep]; diŋir[deity]; ŋeš[tree]; tuku[acquire]
+#tr.en: The man's god heard his bitter weeping. 
+#etcsl: line-id=A.120
+
+A.121. ŋuruš#-ra a-nir ŋal₂ i-si-iš la₂-la₂-a-ni šag₄ diŋir-ra-na u₃-mu-un-na-huŋ
+#lem: ŋuruš[young adult male]; anir[lament]; ŋal[⟦be⟧ to be (there]; isiš[tears]; la[hang]; šag[heart]; diŋir[deity]; huŋ[pacify]
+#tr.en: After his lamentation and prolonged wailing had soothed the heart of his god towards the young man, 
+#etcsl: line-id=A.121
+
+A.122. inim zid inim kug-ga dug₄-ga-ni diŋir-ra-ni šu ba-ši-in-ti
+#lem: inim[word]; zid[right]; inim[word]; kug[pure]; dug[speak]; diŋir[deity]; šu[hand]; teŋ[approach]
+#tr.en: his god accepted the righteous words, the holy words he had spoken. The words of supplication which the young man had mastered, 
+#etcsl: line-id=A.122
+
+A.123. ŋuruš-e inim a-ra-zu-a mi-ni-in-zu-a-ni
+#lem: ŋuruš[young adult male]; inim[word]; arazu[supplication]; zu[know]
+#tr.en: the holy prayers, 
+#etcsl: line-id=A.123
+
+A.124. šudu₃# ku₃-ug su diŋir-ra-na-ka i₃ li i₃-ak
+#lem: šud[prayer]; kug[pure]; su[flesh]; diŋir[deity]; i[oil]; lib[high quality]; ak[do]
+#tr.en: delighted his god like fine oil. 
+#etcsl: line-id=A.124
+
+A.125. diŋir-ra-ni inim hul-ŋal₂-ta šu-ni ba-ra-an-gid₂
+#lem: diŋir[deity]; inim[word]; huluŋal[evil]; šu[hand]; gid[long]
+#tr.en: His god stretched his hand away from the hostile words. 
+#etcsl: line-id=A.125
+
+A.126. šag₄ sag₃-ge dam-bi nu-me-en-na gu₂ in-da-la₂-e a šeŋₓ(|IM.A|) im-ma-ab-[...]
+#lem: šag[heart]; sag[strike]; dam[spouse]; e[speak]; gu[neck]; la[hang]; a[water]; šeŋ[rain]; X
+#tr.en: He …… the anguish which had embraced him though he was not its wife and had ……, 
+#etcsl: line-id=A.126
+
+A.127. zarah-e a₂ mu-ni-tal₂-tal₂-la lil₂-še₃ im-mi-in-sag₃
+#lem: zarah[wailing]; a[arm]; tal[broad]; lil[ghost]; sag[strike]
+#tr.en: and scattered to the winds the grief which had spread its arms round him. 
+#etcsl: line-id=A.127
+
+A.128. [a]-nir# URU{ki} ak-gin₇ mu-un-sig₁₀-ga sug-ge₄ im-mi-in-gu₇
+#lem: anir[lament]; ulu[south wind]; ak[do]; sig[put into]; sug[reed-bed]; gu[eat]
+#tr.en: He let the lamentation which had swept over him as if it were a southerly wind-storm (?) be dissipated. 
+#etcsl: line-id=A.128
+
+A.129. [nam]-tar#-ra su-a-na mu-un-ŋal₂-la bu₃ mu-na-an-ak
+#lem: Namtar[1]DN; su[flesh]; ŋal[⟦be⟧ to be (there]; bur[tear out]; ak[do]
+#tr.en: He eradicated the fate demon which had been lodged in his body. 
+#etcsl: line-id=A.129
+
+A.130. ŋuruš#-a du-lum-ma-ni hul₂-la mu-ni-in-kur₉
+#lem: ŋuruš[young adult male]; dulum[toil]; hul[rejoice]; kur[enter]
+#tr.en: He turned the young man's suffering into joy. 
+#etcsl: line-id=A.130
+
+A.131. {d}udug sag₁₀ ka-e en-nu-uŋ₃ ak maškim mu-un-da-an-tab
+#lem: udug[demon]; sag[good]; kag[mouth]; ennuŋ[watch]; ak[do]; maškim[an administrator]; tab[double]
+#tr.en: He set by him as guardian a benevolent protective demon that keeps guard at the mouth (?). 
+#etcsl: line-id=A.131
+
+A.132. {d}lamma-{d}lamma igi sag₉ mu-na-an-šum₂
+#lem: lammar[(female) tutelary deity]; igi[eye]; sag[goodness]; šum[give]
+#tr.en: He gave him kindly protective goddesses. 
+#etcsl: line-id=A.132
+
+A.133. [ŋuruš-e] nam-mah diŋir-ra-na zid-de₃-eš-še₃# [im-me]
+#lem: ŋuruš[young adult male]; nammah[greatness]; diŋir[deity]; zid[right]; dug[speak]
+#tr.en: The young man steadfastly proclaims the exaltedness of his god. 
+#etcsl: line-id=A.133
+
+A.134. [...] X mi-ni-ib-e₃-eš [...] E bi₂-zu-zu! [...]
+#lem: X; X; e[leave]; X; X; zu[know]; X
+#tr.en: He (?) brings forth …… and makes known ……. 
+#etcsl: line-id=A.134
+
+A.135. [...]-te-en-te-[en]
+#lem: ten[extinguish]
+#tr.en: He refreshes himself ……. 
+#etcsl: line-id=A.135
+
+A.136. [za-da nir ha]-ba#-an-ŋal₂ [...]-ba# zi-bi ga-i-i
+#lem: zaʾe[you]; nir[lordly]; ŋal[⟦be⟧ to be (there]; X; zi[life]; e[bring out]
+#tr.en: He trusts in you and ……. 
+#etcsl: line-id=A.136
+
+A.137. [X X] za-ra {d}utu e₃-gin₇ igi-ŋu₁₀ he₂-mu-e-ši-ni-ŋal₂
+#lem: X; X; zaʾe[you]; Utu[1]DN; e[leave]; igi[eye]; ŋal[⟦be⟧ to be (there]
+#tr.en: @q[man,his god]{“I have set my sights on you as on the rising sun. 
+#etcsl: line-id=A.137
+
+A.138. {[d]}nin#-mah UN ŋiškim til₃-la-gin₇ a₂ nun he₂-me-te-ŋal₂
+#lem: Ninmah[1]DN; X; ŋeškim[sign]; til[live (of a single person)]; a[arm]; nun[prince]; ŋal[⟦be⟧ to be (there]
+#tr.en: Like @wDN{Ninmaḫ} ……, you have let me exert great power. 
+#etcsl: line-id=A.138
+
+A.139. diŋir#-ŋu₁₀ igi zid nam-til₃-la-zu su₃-ud-še₃ he₂-me-du₈
+#lem: diŋir[deity]; igi[eye]; zid[right]; namtil[life]; sud[distant]; du[spread]
+#tr.en: My god, you looked on me from a distance with your good life-giving eyes. 
+#etcsl: line-id=A.139
+
+A.140. [X X nam]-kalag kug-kug-ga-zu [dug₃]-ge#-eš₂ ga-an-pad₃-pad₃
+#lem: X; X; namkalag[strength]; kug[pure]; dug[good]; pad[find]
+#tr.en: May I proclaim well your …… and holy strength. 
+#etcsl: line-id=A.140
+
+A.141. [šag₄ ...] X a# zig₃-zu ki-[bi] ha-ma-gi₄-gi₄
+#lem: šag[heart]; X; X; a[water]; zig[rise]; ki[place]; gi[turn]
+#tr.en: May your …… heart be restored towards me. 
+#etcsl: line-id=A.141
+
+A.142. [nam-tag-ŋu₁₀] he₂-mu-e-du₈
+#lem: namtaga[sin]; du[spread]
+#tr.en: May you absolve my sin. 
+#etcsl: line-id=A.142
+
+A.143. [šag₄]-zu# ha-ma-huŋ-e
+#lem: šag[heart]; huŋ[pacify]
+#tr.en: May your heart be soothed towards me.”} 
+#etcsl: line-id=A.143
+
+@div trailer 
+
+A.144. ŋiš#-gi₄-ŋal₂
+#lem: ŋešgiŋal[musical refrain]
+#tr.en: @fsux{Ŋišgiŋal}. 
+#etcsl: line-id=A.144
+
+@end trailer
+
+@end ŋišgiŋal
+
+@div trailer 
+
+A.145. er₂-šag₄-ne-ša₄
+#lem: eršaneša[song]
+#tr.en: An @fsux{eršagneša} for a man's god. 
+#etcsl: line-id=A.145
+
+A.146. diŋir lu₂-ulu₃-kam
+#lem: diŋir[deity]; lulu[man]
+#tr.en: @notep{lines 144 and 145 are written as one line in source} 
+#etcsl: line-id=A.146
+
+#etcsl#doc lines 144 and 145 are written as one line in source
+
+@end trailer
+
+
+
+
+
+
+

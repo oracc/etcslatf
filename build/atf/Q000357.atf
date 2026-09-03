@@ -1,0 +1,477 @@
+&Q000357 = The Flood story
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.7.4
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.4&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (approx. 36 lines missing)
+A.1. [...] im-ŋa₂-ŋa₂# [...]
+#lem: X; ŋar[put]; X
+#tr.en: …… sets up ……. 
+#etcsl: line-id=A.1
+
+A.2. nam-lu₂-ulu₃-ŋu₁₀ ha-lam-ma-bi-a ga-ba-ni-ib#-[...]
+#lem: namlulu[humanity]; halam[forsake]; X
+#tr.en: @q[Ninhursaja,]{“I will …… the perishing of my mankind; 
+#etcsl: line-id=A.2
+
+A.3. {d}nin-tur₅-ra niŋ₂-dim₂-dim₂-ma-ŋu₁₀ sig₁₀-[sig₁₀]-bi#-[a] ga-ba-ni-ib-gi₄-gi₄
+#lem: Nintur[1]DN; niŋdimdima[creature]; sig[put into]; gi[turn]
+#tr.en: for @wDN{Nintur}, I will stop the annihilation of my creatures, 
+#etcsl: line-id=A.3
+
+A.4. uŋ₃ ki-ur₃-bi-ta ga-ba-ni-ib-gur-ru-ne
+#lem: uŋ[people]; kiʾur[foundation]; gur[turn]
+#tr.en: and I will return the people from their dwelling grounds. 
+#etcsl: line-id=A.4
+
+A.5. iri{ki} me-a-bi he₂-em-mi-in-du₃ ŋissu-bi ni₂ ga-ba-ab-dub₂-bu
+#lem: iri[city]; me[be]; du[build]; ŋissu[shade]; ni[self]; dub[tremble]
+#tr.en: Let them build many cities so that I can refresh myself in their shade. 
+#etcsl: line-id=A.5
+
+A.6. iri me-a šeg₁₂-bi ki kug-ga he₂-em-mi-in-šub
+#lem: iri[city]; me[be]; šeg[brick]; ki[place]; kug[pure]; šub[fall]
+#tr.en: Let them lay the bricks of many cities in pure places, 
+#etcsl: line-id=A.6
+
+A.7. ki-eš-<bar> me-a ki kug-ga he₂-em-mi-ni-ib-ri
+#lem: kiʾešbar[place of (divine) decisions]; me[be]; ki[place]; kug[pure]; ri[impose]
+#tr.en: let them establish places of divination in pure places, 
+#etcsl: line-id=A.7
+
+A.8. KUG A niŋ₂ izi ten-na si mi-ni-in-si-sa₂
+#lem: X; X; niŋ[thing]; izi[fire]; ten[extinguish]; si[horn]; sisa[straighten]
+#tr.en: and when the fire-quenching …… is arranged, 
+#etcsl: line-id=A.8
+
+A.9. ŋarza me mah šu mi-ni-ib-šu-du₇
+#lem: ŋarza[rites]; me[Being]; mah[great]; šu[hand]; šudu[complete]
+#tr.en: the divine rites and exalted powers are perfected and the earth is irrigated, 
+#etcsl: line-id=A.9
+
+A.10. ki a im-ma-ab-dug₄ silim ga-mu-ni-in-ŋar
+#lem: ki[place]; a[water]; dug[speak]; silim[healthy]; ŋar[put]
+#tr.en: After @wDN{An}, @wDN{Enlil}, 
+#etcsl: line-id=A.10
+
+A.11. an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; Ninhursaŋak[1]DN
+#tr.en: @wDN{Enki} and @wDN{Ninḫursaŋa} had fashioned the black-headed people, 
+#etcsl: line-id=A.11
+
+A.12. saŋ gig₂-ga mu-un-dim₂-eš-a-ba
+#lem: saŋ[head]; giggig[black]; dim[create]
+#tr.en: they also made animals multiply everywhere, 
+#etcsl: line-id=A.12
+
+A.13. niŋ₂-gilim ki-ta ki-ta mu-lu-lu
+#lem: niŋgilim[rodent]; ki[place]; ki[place]; lu[abundant]
+#tr.en: and made herds of four-legged animals exist on the plains, 
+#etcsl: line-id=A.13
+
+A.14. maš₂-anše niŋ₂-ur₂-limmu₂ edin-na me-te-a-aš bi₂-ib₂-ŋal₂
+#lem: mašanše[animals]; niŋurlimmu[four legged creature]; eden[back]; mete[appropriate thing]; ŋal[⟦be⟧ to be (there]
+#tr.en: as is befitting. @gap{approx. 32 lines missing} 
+#etcsl: line-id=A.14
+
+$ (approx. 32 lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] mu-un#-[...]
+#lem: X; X
+#tr.en: @gap{3 lines fragmentary}
+#etcsl: line-id=B.1
+
+B.2. [...] AM₃ [...]
+#lem: X; X; X
+#etcsl: line-id=B.2
+
+B.3. [...] X degₓ(RI)-ga# ga-ba-ni-in-[...]
+#lem: X; X; deg[gather up]; X
+#etcsl: line-id=B.3
+
+B.4. [du]-lum#-bi igi ga-ba-ni-ib-du₈-du₈#-[...]
+#lem: dulum[toil]; igi[eye]; du[spread]
+#tr.en: @q{“I will oversee their labour. 
+#etcsl: line-id=B.4
+
+B.5. X šidim kalam-ma-ke₄ uš gen₆ ha#-ba-ab-ba-[al]
+#lem: X; šidim[builder]; kalam[the Land (of Sumer)]; uš[foundation]; gin[confirm]; bal[dig]
+#tr.en: Let …… the builder of the Land, dig a solid foundation.”} 
+#etcsl: line-id=B.5
+
+B.6. [ud ...] X nam-lugal-la an-ta ed₃-de₃-a-ba
+#lem: ud[sun]; X; X; namlugal[kingship]; an[sky]; ed[go up]
+#tr.en: After the …… of kingship had descended from heaven, 
+#etcsl: line-id=B.6
+
+B.7. men mah {ŋiš}gu-za nam-lugal-la an-ta ed₃-a-ba
+#lem: men[tiara]; mah[great]; guza[chair]; namlugal[kingship]; an[sky]; ed[go up]
+#tr.en: after the exalted crown and throne of kingship had descended from heaven, 
+#etcsl: line-id=B.7
+
+B.8. [ŋarza me] mah# šu mi-ni-ib-šu-du₇
+#lem: ŋarza[rites]; me[Being]; mah[great]; šu[hand]; šudu[complete]
+#tr.en: the divine rites and the exalted powers were perfected, 
+#etcsl: line-id=B.8
+
+B.9. [iri-bi-e]-ne# [šeg₁₂-bi ki kug-ga im]-ma#-an-da-šub
+#lem: iri[city]; šeg[brick]; ki[place]; kug[pure]; šub[fall]
+#tr.en: the bricks of the cities were laid in holy places, 
+#etcsl: line-id=B.9
+
+B.10. mu-bi ba-an-sa₄ kab dug₄-ga# [ba-hal]-hal#-la
+#lem: mu[name]; še[call by name]; kab[test]; dug[speak]; hal[divide]
+#tr.en: their names were announced and the …… were distributed. 
+#etcsl: line-id=B.10
+
+B.11. nesaŋ iri-be₂-e-ne eridug{ki} maš₂-saŋ {d}nu-dim₂-mud mi-ni-in-šum₂
+#lem: nesaŋ[first-fruit offering]; iri[city]; Eridug[1]SN; mašsaŋ[leader]; Nudimmud[1]DN; šum[give]
+#tr.en: The first of the cities, @wSN{Eridug}, was given to @wDN{Nudimmud} the leader. 
+#etcsl: line-id=B.11
+
+B.12. 2-kam-ma-še₃ nu-gig-ra bad₃-tibira{ki} mi-ni-in-šum₂
+#lem: n; nugig[priestess]; Badtibira[1]SN; šum[give]
+#tr.en: The second, @wSN{Bad-tibira}, was given to the Mistress. The third, 
+#etcsl: line-id=B.12
+
+B.13. 3-kam-ma la-ra-ag {d}pa-bil₂-<<hur>>-saŋ mi-ni-in-šum₂
+#lem: n; Larag[1]SN; Pabilsaŋ[1]DN; šum[give]
+#tr.en: @wSN{Larag}, was given to @wDN{Pabilsaŋ}. The fourth, @wSN{Zimbir}, was given to the hero @wDN{Utu}. 
+#etcsl: line-id=B.13
+
+B.14. 4-kam-ma zimbir{ki} šul {d}utu mi-ni-in-šum₂
+#lem: n; Zimbir[1 Sippar]; šul[youth]; Utu[1]DN; šum[give]
+#tr.en: The fifth, @wSN{Šuruppag}, was given to @wDN{Sud}. 
+#etcsl: line-id=B.14
+
+B.15. 5-kam-ma šuruppag {d}sud₃{ki}-ra mi-ni-in-šum₂
+#lem: n; Šuruppag[1]SN; Sud[1]DN; šum[give]
+#tr.en: And after the names of these cities had been announced and the …… had been distributed, 
+#etcsl: line-id=B.15
+
+B.16. iri-be₂-e-ne mu-bi ba-an-sa₄-a kab dug₄-ga ba-hal-hal-la
+#lem: iri[city]; mu[name]; še[call by name]; kab[test]; dug[speak]; hal[divide]
+#tr.en: the river ……, 
+#etcsl: line-id=B.16
+
+B.17. id₂ IM GUN₂ ma-an-šu₄-am₃ im-ma-al-la a im-ma-an-de₆
+#lem: id[river]; X; X; šuš[cover]; X; a[water]; de[carry]
+#tr.en: …… was watered, 
+#etcsl: line-id=B.17
+
+B.18. id₂ tur-tur-re šu luh-bi GAR HAR-HAR mi-ni-ib₂-ŋar-ŋar
+#lem: id[river]; tur[small]; šu[hand]; luh[clean]; X; X; ŋar[put]
+#tr.en: and with the cleansing of the small canals …… were established. @gap{approx. 34 lines missing} 
+#etcsl: line-id=B.18
+
+$ (approx. 34 lines missing)
+@end segment
+
+@div segment C
+
+C.1. ki-tuš an-na X [...]
+#lem: kituš[dwelling place]; an[sky]; X; X
+#tr.en: ……seat in heaven. …… flood. 
+#etcsl: line-id=C.1
+
+C.2. e-[...]
+#lem: X
+#tr.en: …… mankind. So he made ……. 
+#etcsl: line-id=C.2
+
+C.3. a-ma-ru [...]
+#lem: amaru[flood]; X
+#tr.en: Then @wDN{Nintur} ……. 
+#etcsl: line-id=C.3
+
+C.4. nam-lu₂-[ulu₃ ...]
+#lem: namlulu[humanity]; X
+#tr.en: Holy @wDN{Inana} made a lament for its people. 
+#etcsl: line-id=C.4
+
+C.5. ur₅-gin₇# bi₂-in-ak [...]
+#lem: ur[that]; ak[do]; X
+#tr.en: @wDN{Enki} took counsel with himself. @wDN{An}, @wDN{Enlil}, 
+#etcsl: line-id=C.5
+
+C.6. ud-bi-a {d}nin-tur₅# [...] DIM₂ A [...]
+#lem: ud[sun]; Nintur[1]DN; X; X; X; X
+#tr.en: @wDN{Enki} and @wDN{Ninḫursaŋa} made all the gods of heaven and earth take an oath by invoking @wDN{An} and @wDN{Enlil}. 
+#etcsl: line-id=C.6
+
+C.7. kug {d}inana-ke₄ uŋ₃-bi-še₃ a-nir mu-[un-ŋa₂-ŋa₂]
+#lem: kug[purify]; Inanak[1]DN; uŋ[people]; anir[lament]; ŋar[put]
+#tr.en: In those days @wRN{Zi-ud-sura} the king, the @fsux{gudug} priest, 
+#etcsl: line-id=C.7
+
+C.8. {d}en-ki šag₄ ni₂-te-na-ke₄ ad i-ni-in#-[gi₄-gi₄]
+#lem: Enkik[1]DN; šag[heart]; ni[self]; ad[voice]; gi[turn]
+#tr.en: ……. He fashioned ……. 
+#etcsl: line-id=C.8
+
+C.9. an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-[ke₄]
+#lem: An[1]DN; Enlil[1]DN; Enkik[1]DN; Ninhursaŋak[1]DN
+#tr.en: The humble, committed, reverent ……. Day by day, 
+#etcsl: line-id=C.9
+
+C.10. diŋir an ki-ke₄ mu an {d}en-lil₂ mu-X-[pad₃]
+#lem: diŋir[deity]; an[sky]; ki[place]; mu[name]; An[1]DN; Enlil[1]DN; pad[find]
+#tr.en: standing constantly at ……. Something that was not a dream appeared, 
+#etcsl: line-id=C.10
+
+C.11. ud-ba zi-ud-su₃-ra₂ lugal-am₃ gudug X [...]
+#lem: ud[sun]; Ziusudra[1]RN; lugal[king]; gudug[priest]; X; X
+#tr.en: conversation ……, 
+#etcsl: line-id=C.11
+
+C.12. an saŋ NIŊIN mu-un-dim₂-dim₂ EN [...]
+#lem: an[sky]; saŋ[head]; X; dim[create]; X; X
+#tr.en: …… taking an oath by invoking heaven and earth. 
+#etcsl: line-id=C.12
+
+C.13. nam-sun₅-na inim sig₁₀-sig₁₀-ge ni₂ teŋ₃-ŋe₂₆ [...]
+#lem: namsuna[humility]; inim[word]; sig[put into]; ni[fear]; teŋ[approach]; X
+#tr.en: In the @wTN{Ki-ur}, the gods …… a wall. 
+#etcsl: line-id=C.13
+
+C.14. ud šu₂-uš-e saŋ us₂ gub-ba [...]
+#lem: ud[sun]; šuš[cover]; saŋ[head]; us[accompany]; gub[stand]; X
+#tr.en: @wRN{Zi-ud-sura}, standing at its side, heard: @q[Enki,side-wall]{“Side-wall standing at my left side, 
+#etcsl: line-id=C.14
+
+C.15. ma-mu₂ nu-me-a ed₂-de₃ inim bal# [...]
+#lem: mamud[dream]; me[be]; e[leave]; inim[word]; bala[turn]; X
+#tr.en: ……. Side-wall, I will speak words to you; 
+#etcsl: line-id=C.15
+
+C.16. mu an ki-bi-ta pad₃-pad₃-de₃ [...]
+#lem: mu[name]; an[sky]; ki[place]; pad[find]; X
+#tr.en: take heed of my words, pay attention to my instructions. 
+#etcsl: line-id=C.16
+
+C.17. ki#-ur₃-še₃ diŋir-re-e-ne e₂-ŋar₈ [...]
+#lem: Kiʾur[1]; diŋir[deity]; egar[wall]; X
+#tr.en: A flood will sweep over the …… in all the ……. 
+#etcsl: line-id=C.17
+
+C.18. zi-ud-su₃-ra₂ da-bi gub-ba ŋiš mu-[un-tuku]
+#lem: Ziusudra[1]RN; dag[side]; gub[stand]; ŋeš[tree]; tuku[acquire]
+#tr.en: A decision that the seed of mankind is to be destroyed has been made. 
+#etcsl: line-id=C.18
+
+C.19. iz-zi-da a₂ gab₂-bu-ŋu₁₀ gub-ba [...]
+#lem: izzida[side-wall]; a[arm]; gab[left (hand)]; gub[stand]; X
+#tr.en: The verdict, 
+#etcsl: line-id=C.19
+
+C.20. iz-zi-da inim ga-ra-ab-dug₄ inim-[ŋu₁₀ he₂-dab₅]
+#lem: izzida[side-wall]; inim[word]; dug[speak]; inim[word]; dab[seize]
+#tr.en: the word of the divine assembly, 
+#etcsl: line-id=C.20
+
+C.21. na degₓ(RI)-ga-ŋu₁₀ ŋizzal [he₂-em-ši-ak]
+#lem: na[cvne]; deg[gather up]; ŋizzal[hearing]; ak[do]
+#tr.en: cannot be revoked. 
+#etcsl: line-id=C.21
+
+C.22. DAG-me-a a-ma-ru ugu kab dug₄#-[ga ...] ba-ur₃# [...]
+#lem: X; amaru[flood]; ugu[skull]; kab[test]; dug[speak]; X; ur[drag]; X
+#tr.en: The order announced by @wDN{An} and @wDN{Enlil} cannot be overturned. 
+#etcsl: line-id=C.22
+
+C.23. numun nam-lu₂-ulu₃ ha-lam-e-de₃# [nam-bi ba-tar]
+#lem: numun[seed]; namlulu[humanity]; halam[forsake]; nam[fate]; tar[cut]
+#tr.en: Their kingship, 
+#etcsl: line-id=C.23
+
+C.24. di-til-la inim pu-uh₂-ru-[um-ma-ka šu gi₄-gi₄ nu-ŋal₂]
+#lem: ditila[completed court case]; inim[word]; puhrum[assembly]; šu[hand]; gi[turn]; ŋal[⟦be⟧ to be (there]
+#tr.en: their term has been cut off; 
+#etcsl: line-id=C.24
+
+C.25. inim dug₄-ga an {d}en-[lil₂-la₂-ka šu bal-e nu-zu]
+#lem: inim[word]; dug[speak]; An[1]DN; Enlil[1]DN; šu[hand]; bala[turn]; zu[know]
+#tr.en: their heart should be rested about this. 
+#etcsl: line-id=C.25
+
+C.26. nam-lugal-bi bal-bi ba#-[bur₁₂ e-ne šag₄ kuš₂-u₃-de₃]
+#lem: namlugal[kingship]; bala[turn]; bur[tear out]; ane[he]; šag[heart]; kušu[tired]
+#tr.en: Now ……. 
+#etcsl: line-id=C.26
+
+C.27. e#-ne-eš₂ [...]
+#lem: ineš[now]; X
+#tr.en: What …….”} @gap{approx. 38 lines missing} 
+#etcsl: line-id=C.27
+
+C.28. a#-na MU-MU# [...]
+#lem: ana[what?]; X; X
+#etcsl: line-id=C.28
+
+$ (approx. 38 lines missing)
+@end segment
+
+@div segment D
+
+D.1. im-hul-im-hul {tum₉}si-si-ig du₃-a-bi teš₂-bi i₃-sug₂-ge-eš
+#lem: imhul[destructive wind]; sisig[breeze]; du[all]; teš[unity]; sug[stand]
+#tr.en: All the windstorms and gales arose together, 
+#etcsl: line-id=D.1
+
+D.2. a-ma-ru ugu kab dug₄-ga ba-an-da-ab-ur₃-e
+#lem: amaru[flood]; ugu[skull]; kab[test]; dug[speak]; ur[drag]
+#tr.en: and the flood swept over the ……. 
+#etcsl: line-id=D.2
+
+D.3. ud 7-am₃ ŋi₆ 7-am₃
+#lem: ud[sun]; n; ŋi[night]; n
+#tr.en: After the flood had swept over the land, 
+#etcsl: line-id=D.3
+
+D.4. a-ma-ru kalam-ma ba-ur₃-ra-ta
+#lem: amaru[flood]; kalam[the Land (of Sumer)]; ur[drag]
+#tr.en: and waves and windstorms had rocked the  
+#etcsl: line-id=D.4
+
+D.5. {ŋiš}ma₂ gur₄-gur₄ a gal-la im-hul tuku₄-tuku₄-a-ta
+#lem: ma[ship]; gur[thick]; a[water]; gal[big]; imhul[destructive wind]; tuku[rock]
+#tr.en: huge boat for seven days and seven nights, 
+#etcsl: line-id=D.5
+
+D.6. {d}utu i-im-ma-ra-e₃ an ki-a ud ŋa₂-ŋa₂
+#lem: Utu[1]DN; e[leave]; an[sky]; ki[place]; ud[sun]; ŋar[put]
+#tr.en: @wDN{Utu} the sun god came out, 
+#etcsl: line-id=D.6
+
+D.7. zi-ud-su₃-ra₂ {ŋiš}ma₂ gur₄-gur₄ ab-BUR₂ mu-un-da-burudₓ(U)
+#lem: Ziusudra[1]RN; ma[ship]; gur[thick]; abbur[opening]; burud[perforate]
+#tr.en: illuminating heaven and earth. 
+#etcsl: line-id=D.7
+
+D.8. šul {d}utu ŋiš-nu₁₁-ni-da {ŋiš}ma₂ gur₄-gur₄-še₃ ba-an-kur₉-re-en
+#lem: šul[youth]; Utu[1]DN; ŋešnu[light]; ma[ship]; gur[thick]; kur[enter]
+#tr.en: @wRN{Zi-ud-sura} could drill an opening in the huge boat and  
+#etcsl: line-id=D.8
+
+D.9. zi-ud-su₃-ra₂ lugal-am₃
+#lem: Ziusudra[1]RN; lugal[king]
+#tr.en: the hero @wDN{Utu} entered the huge boat with his rays. 
+#etcsl: line-id=D.9
+
+D.10. igi {d}utu-še₃ giri₁₇ ki su-ub ba-gub
+#lem: igi[eye]; Utu[1]DN; kiri[nose]; ki[place]; sub[rub]; gub[stand]
+#tr.en: @wRN{Zi-ud-sura} the king prostrated himself before @wDN{Utu}. 
+#etcsl: line-id=D.10
+
+D.11. lugal-e gud im-ma-ab-gaz-e udu im-ma-ab-šar₂-re
+#lem: lugal[king]; gud[bull]; gaz[kill]; udu[sheep]; šar[numerous]V/i
+#tr.en: The king sacrificed oxen and offered innumerable sheep. 
+#etcsl: line-id=D.11
+
+D.12. [...] X si gal [...] sikil-la-da
+#lem: X; X; si[horn]; gal[big]; X; sikil[pure]
+#tr.en: 311=$ (@gap{6 lines fragmentary} @gap{approx. 33 lines missing}) 
+#etcsl: line-id=D.12
+
+D.13. [...] X mu-un-na-X-X-ba
+#lem: X; X; ba[allot]
+#etcsl: line-id=D.13
+
+D.14. [...]
+#lem: X
+#etcsl: line-id=D.14
+
+D.15. [...] bi₂-in-si
+#lem: X; si[fill]
+#etcsl: line-id=D.15
+
+D.16. [...] X tab-ba
+#lem: X; X; tab[double]
+#etcsl: line-id=D.16
+
+D.17. [...] A X
+#lem: X; X; X
+#etcsl: line-id=D.17
+
+$ (approx. 33 lines missing)
+@end segment
+
+@div segment E
+
+E.1. zi an-na zi ki-a i₃-pad₃-de₃-en-ze₂-en za-zu-da he₂-em-da-la₂
+#lem: zi[life]; an[sky]; zi[life]; ki[place]; pad[find]; menzen[you (plural)]; la[hang]
+#tr.en: @q{“They have made you swear by heaven and earth, ……. 
+#etcsl: line-id=E.1
+
+E.2. an {d}en-lil₂ zi an-na zi ki-a i₃-pad₃-de₃-ze₂-en za-da-ne-ne im-da-la₂
+#lem: An[1]DN; Enlil[1]DN; zi[life]; an[sky]; zi[life]; ki[place]; pad[find]; menzen[you (plural)]; la[hang]
+#tr.en: @wDN{An} and @wDN{Enlil} have made you swear by heaven and earth, …….”} 
+#etcsl: line-id=E.2
+
+E.3. niŋ₂-gilim-ma ki-ta ed₃-de₃ im-ma-ra-ed₃-de₃
+#lem: niŋgilim[rodent]; ki[place]; ed[go up]; ed[go up]
+#tr.en: More and more animals disembarked onto the earth. 
+#etcsl: line-id=E.3
+
+E.4. zi-ud-su₃-ra₂ lugal-am₃
+#lem: Ziusudra[1]RN; lugal[king]
+#tr.en: @wRN{Zi-ud-sura} the king prostrated himself before @wDN{An} and @wDN{Enlil}. 
+#etcsl: line-id=E.4
+
+E.5. igi an {d}en-lil₂-la₂-še₃ giri₁₇ ki su-ub ba-gub!#
+#lem: igi[eye]; An[1]DN; Enlil[1]DN; kiri[nose]; ki[place]; sub[rub]; gub[stand]
+#tr.en: @wDN{An} and @wDN{Enlil} treated @wRN{Zi-ud-sura} kindly ……, 
+#etcsl: line-id=E.5
+
+E.6. an {d}en-lil₂ zi-ud-su₃-ra₂ mi₂-e-eš₂# [X-dug₄-X]
+#lem: An[1]DN; Enlil[1]DN; Ziusudra[1]RN; mi[cvne]; dug[speak]
+#tr.en: they granted him life like a god, 
+#etcsl: line-id=E.6
+
+E.7. til₃ diŋir-gin₇ mu-un-na-šum₂-mu
+#lem: til[live (of a single person)]; diŋir[deity]; šum[give]
+#tr.en: they brought down to him eternal life. 
+#etcsl: line-id=E.7
+
+E.8. zi da-ri₂ diŋir-gin₇ mu-un-<na>-ab-ed₃-de₃
+#lem: zi[life]; dari[eternal]; diŋir[deity]; ed[go up]
+#tr.en: At that time, 
+#etcsl: line-id=E.8
+
+E.9. ud-ba zi-ud-su₃-ra₂ lugal-am₃
+#lem: ud[sun]; Ziusudra[1]RN; lugal[king]
+#tr.en: because of preserving the animals and the seed of mankind, 
+#etcsl: line-id=E.9
+
+E.10. mu niŋ₂-gilim-ma numun nam-lu₂-ulu₃ uru₃ ak
+#lem: mu[name]; niŋgilim[rodent]; numun[seed]; namlulu[humanity]; uru[guard]; ak[do]
+#tr.en: they settled @wRN{Zi-ud-sura} the king in an overseas country, 
+#etcsl: line-id=E.10
+
+E.11. kur-bal kur dilmun-na ki {d}utu e₃-še₃ mu-un-til₃-eš
+#lem: kurbal[overseas country]; kur[mountain(s)]; Dilmun[1]GN; ki[place]; Utu[1]DN; e[leave]; til[live (of a single person)]
+#tr.en: in the land @wGN{Dilmun}, where the sun rises. 
+#etcsl: line-id=E.11
+
+E.12. za-e X [...] BA# X-bi til₃-eš X
+#lem: zaʾe[you]; X; X; X; X; til[live (of a single person)]; X
+#tr.en: @q{“You …….”} @gap{approx. 39 lines missing} 
+#etcsl: line-id=E.12
+
+$ (approx. 38 lines missing)
+@end segment
+
+
+
+
+
+
+

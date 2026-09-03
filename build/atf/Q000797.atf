@@ -1,0 +1,2765 @@
+&Q000797 = Proverbs: collection 3
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.03
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.03&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div proverb 3.1
+
+A.3.1.1. gub-gub-bu-de₃ tuš-tuš-de₃
+#lem: gub[stand]; tuš[sit (down)]
+#tr.en: @note{cf. @xref[t.6.2.5,t625.h34]{6.2.5: TIM 10/1 2}, @xref[t.1.8.1.1,]{1.8.1.1: ll. 25-28}} To stand and to sit, to spur on the donkeys, to support (?) the prince: who has the breath for that? 
+#etcsl: line-id=A.3.1.1
+
+#etcsl#cf cf. 6.2.5: TIM 10/1 2, 1.8.1.1: ll. 25-28
+
+A.3.1.2. zib₂ anše dab₅-dab₅-be₂-de₃ dumu lugal-la de₂-de₂-de₃
+#lem: zib[donkey-bridle]; anše[equid]; dab[seize]; dumu[child]; lugal[king]; de[pour]
+#etcsl: line-id=A.3.1.2
+
+A.3.1.3. a-ba zi-bi mu-un-tuku
+#lem: aba[who?]; zi[life]; tuku[acquire]
+#etcsl: line-id=A.3.1.3
+
+@end proverb
+
+@div proverb 3.2
+
+A.3.2.4. emeda(|UM.ME|){da} dumu lugal-la-gin₇ bad₃-si-a igi al-bar-bar-re
+#lem: emeda[nursemaid]; dumu[child]; lugal[king]; badsi[parapet]; igi[eye]; bar[place outside]
+#tr.en: You are peering out from the parapet like the prince's nurse. 
+#etcsl: line-id=A.3.2.4
+
+@end proverb
+
+@div proverb 3.3
+
+A.3.3.5. (1:a ed₃-de₃-na-aš umah-bi he₂-naŋ-e:1)
+#lem: a[water]; ed[go up]; umah[marshes]; naŋ[drink]
+#tr.en: @varh[t6103.v1]{Because you draw water, the swamp may drink. } @vart[t6103.v2,]{@note{1 ms. has instead:} You draw water for pouring out, so that the swamp may drink water. } 
+#etcsl: line-id=A.3.3.5
+
+:5v.1.1: ($1 ms. has instead:$) a i-i-de₂# bi₂-ib-gur₃-re-a a umah#-bi he₂-naŋ-e
+#lem: a[water]; de[pour]; gur[lift]; a[water]; umah[marshes]; naŋ[drink]
+
+@end proverb
+
+@div proverb 3.4
+
+A.3.4.6. u₂-|U.TUG₂|-DIN-ka niŋ₂ nu-sag₉-ga gana₂ zid-še₃ (1:mu₂-a:1)
+#lem: u₂.U.TUG₂.DIN.ka[plant]; niŋ[thing]; sag[good]; gana[field]; zid[right]; mu[grow]
+#tr.en: Unpleasant …… plants @varh[t6103.v3]{grow towards } @vart[t6103.v4,]{@note{1 ms. has instead:} rise up to } a good field. 
+#etcsl: line-id=A.3.4.6
+
+:6v.1.1: ($1 ms. has instead:$) ed₃-a
+#lem: ed[go up]
+
+@end proverb
+
+@div proverb 3.5
+
+A.3.5.7. e-ri-ib-gu₇-en ti-ri₂-ga al-dehi₂-me-en
+#lem: gu[eat]; tirida[runaway]; tehi[approach]
+#tr.en: I will feed you even though you are an outcast (?). 
+#etcsl: line-id=A.3.5.7
+
+A.3.5.8. e-ri-ib-naŋ-e ti-ri₂-ga al-dehi₂-me-en
+#lem: naŋ[drink]; tirida[runaway]; tehi[approach]
+#tr.en: I will give you drink even though you are an outcast (?). 
+#etcsl: line-id=A.3.5.8
+
+A.3.5.9. dumu-ŋu₁₀-me-en diŋir-zu kur₂-ra-am₃
+#lem: dumu[child]; diŋir[deity]; kur[different]
+#tr.en: You are still my son, even if your god has turned against you. 
+#etcsl: line-id=A.3.5.9
+
+@end proverb
+
+@div proverb 3.6
+
+A.3.6.10. ud-da ga-ŋen na-gada-kam
+#lem: ud[sun]; ŋen[go]; nagada[herdsman]
+#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.b7]{6.1.16.b7}} @q{“I will go today”} is what a herdsman says; 
+#etcsl: line-id=A.3.6.10
+
+#etcsl#cf cf. 6.1.16.b7
+
+A.3.6.11. ud ul-la ga-ŋen sipad-tur-ra-kam
+#lem: ud[sun]; ul[distant time]; ŋen[go]; sipadtur[junior shepherd]
+#tr.en: @q{“I will go tomorrow”} is what a shepherd-boy says. @q{“I will go”} is @q{“I will go”}, 
+#etcsl: line-id=A.3.6.11
+
+A.3.6.12. ga-ŋen ga-ŋen-na-am₃ ud mi-ni-ib-zal-zal-e
+#lem: ŋen[go]; ŋen[go]; ud[sun]; zal[pass time]
+#tr.en: and the time passes. 
+#etcsl: line-id=A.3.6.12
+
+@end proverb
+
+@div proverb 3.7
+
+@variants
+
+#etcsl#ms 1 ms. adds:
+A.3.7.12A. niŋ₂-gur₁₁ lil₂-še₃ ba-an-te
+#lem: niŋgur[property]; lil[ghost]; teŋ[approach]
+#tr.en: @vart[t6103.v5,]{@note{1 ms. adds:} Wealth is exposed to the winds. } The churned milk, although it isn't river mud, 
+#etcsl: line-id=A.3.7.12A
+
+@endvariants
+A.3.7.13. ga i₃-ti-ir-da gu₂-en-na nu-me-a
+#lem: ga[milk]; itirda[dairy product]; guʾena[river sediment]; me[be]
+#tr.en: is diverted into cracks in the ground. 
+#etcsl: line-id=A.3.7.13
+
+A.3.7.14. ki-in-dar mu-da-ab-tar
+#lem: kindar[hole]; tar[cut]
+#etcsl: line-id=A.3.7.14
+
+@end proverb
+
+@div proverb 3.7A
+
+A.3.7A.15. [...] X TI
+#lem: X; X; X
+#tr.en: @gap{2 lines fragmentary}
+#etcsl: line-id=A.3.7A.15
+
+A.3.7A.16. [...] X
+#lem: X; X
+#etcsl: line-id=A.3.7A.16
+
+@end proverb
+
+@div proverb 3.8
+
+@variants
+
+#etcsl#ms 1 ms. adds:
+A.3.8.16A. šu nu-luh-ha kaš i₃-de₂-a
+#lem: šu[hand]; luh[clean]; kaš[beer]; de[pour]
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.a5]{6.1.26.a5}, @xref[t.6.2.1,]{6.2.1: Ni 4122 ll. 2-5}} @vart[t6103.v6,]{@note{1 ms. adds:} To serve beer with unwashed hands, } To spit without trampling upon it, 
+#etcsl: line-id=A.3.8.16A
+
+@endvariants
+A.3.8.17. uš₇ dug₄-ga ŋiri₃ nu-saga₁₁-a
+#lem: uš[poison]; dug[speak]; ŋiri[foot]; saga[press?]
+#tr.en: to sneeze without covering it with dust, 
+#etcsl: line-id=A.3.8.17
+
+A.3.8.18. giri₁₇ te-en-na sahar nu-gi₄-a
+#lem: kiri[nose]; ten[extinguish]; sahar[soil]; gi[turn]
+#tr.en: to kiss with the tongue at midday without providing shade, 
+#etcsl: line-id=A.3.8.18
+
+A.3.8.19. eme ak an-bar₇ an-dul₃ nu-ŋa₂-ŋa₂
+#lem: eme[tongue]; ak[do]; anbar[mid-day]; andul[shade]; ŋar[put]
+#tr.en: are abominations to @wDN{Utu}. 
+#etcsl: line-id=A.3.8.19
+
+A.3.8.20. niŋ₂-gig {d}utu-kam
+#lem: niŋgig[evil]; Utu[1]DN
+#etcsl: line-id=A.3.8.20
+
+@end proverb
+
+@div proverb 3.9
+
+A.3.9.21. sipad ŋiš₃-a-ni nu-{ŋiš}kiri₆ suhur-a-ni
+#lem: sipad[shepherd]; ŋeš[penis]; nukirik[gardener]; suhur[tuft]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.153]{6.1.01.153}, @xref[t.6.1.16,t.6.1.16.b4]{6.1.16.b4-5}, @xref[t.6.1.22,]{6.1.22: ll. 26-27}, @xref[t.6.1.23,t.6.1.23.7]{6.1.23.7}} A shepherd his penis, a gardener his hair. 
+#etcsl: line-id=A.3.9.21
+
+#etcsl#cf cf. 6.1.01.153, 6.1.16.b4-5, 6.1.22: ll. 26-27, 6.1.23.7
+
+A.3.9.22. ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ nu-il₂
+#lem: ibila[heir]; gin[confirm]; dam[spouse]; il[raise]; dumu[child]; il[raise]; kirizal[joy]; il[raise]
+#tr.en: An unjust heir who does not support a wife, or who does not support a child, has no cause for celebration. 
+#etcsl: line-id=A.3.9.22
+
+@end proverb
+
+@div proverb 3.10
+
+A.3.10.23. sipad he₂-em-ta-ab-ed₃-de₃-a
+#lem: sipad[shepherd]; ed[go up]
+#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.b2]{6.1.16.b2}} If you get rid of the shepherd, 
+#etcsl: line-id=A.3.10.23
+
+#etcsl#cf cf. 6.1.16.b2
+
+A.3.10.24. udu-ni šu-a li-bi₂-in-gi₄
+#lem: udu[sheep]; šu[hand]; gi[turn]
+#tr.en: then his sheep will not return. 
+#etcsl: line-id=A.3.10.24
+
+@end proverb
+
+@div proverb 3.11
+
+A.3.11.25. sipad kug-zu mu-na-bir-a-kam
+#lem: sipad[shepherd]; kugzu[wise]; bir[scatter]
+#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.b3]{6.1.16.b3}} Because the clever shepherd became confused, 
+#etcsl: line-id=A.3.11.25
+
+#etcsl#cf cf. 6.1.16.b3
+
+A.3.11.26. udu-ni šu-a li-bi₂-in-gi₄
+#lem: udu[sheep]; šu[hand]; gi[turn]
+#tr.en: his sheep did not return. 
+#etcsl: line-id=A.3.11.26
+
+@end proverb
+
+@div proverb 3.12
+
+A.3.12.27. sipad-tur kuš₂-a-ni ama-ni nu-mu-un-da-an-zu
+#lem: sipadtur[junior shepherd]; kušu[tired]; ama[mother]; zu[know]
+#tr.en: A shepherd-boy when weary cannot recognise his own mother. 
+#etcsl: line-id=A.3.12.27
+
+@end proverb
+
+@div proverb 3.13
+
+A.3.13.28. ud ma-ra-an-ŋal₂ zid₂ ma₅-a
+#lem: ud[sun]; ŋal[⟦be⟧ to be (there]; zid[flour]; mu[crush]
+#tr.en: While you still have light, grind the flour. 
+#etcsl: line-id=A.3.13.28
+
+@end proverb
+
+@div proverb 3.14
+
+A.3.14.29. am-e niŋ₂-gig {ŋiš}apin-na-kam
+#lem: am[wild bull]; niŋgig[evil]; apin[(seed) plow]
+#tr.en: @note{cf. @xref[t.6.1.05,t.6.1.05.3]{6.1.05.3}} The wild bull is taboo for the plough. 
+#etcsl: line-id=A.3.14.29
+
+#etcsl#cf cf. 6.1.05.3
+
+@end proverb
+
+@div proverb 3.15
+
+A.3.15.30. tur gu₇-a lu₂ nu-til-le
+#lem: tur[small]; gu[eat]; lu[person]; til[complete]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 216-217}} To eat modestly doesn't kill a man, 
+#etcsl: line-id=A.3.15.30
+
+#etcsl#cf cf. 6.1.22: ll. 216-217
+
+A.3.15.31. igi-tum₃-la₂ saŋ ŋiš ra-ra
+#lem: igitumla[spy?]; saŋ[head]; ŋeš[tree]; rah[beat]
+#tr.en: but to covet will murder you. 
+#etcsl: line-id=A.3.15.31
+
+A.3.15.32. tur-bi gu₇-a mah-bi til₃-la
+#lem: tur[small]; gu[eat]; mah[great]; til[live (of a single person)]
+#tr.en: To eat a little is to live splendidly. 
+#etcsl: line-id=A.3.15.32
+
+A.3.15.33. dib-dib-be₂ ŋen-na ŋiri₃ ki-a sig₁₀-bi₂-ib
+#lem: dib[pass]; ŋen[go]; ŋiri[foot]; ki[place]; sig[put into]
+#tr.en: When you walk about, keep your feet on the ground! 
+#etcsl: line-id=A.3.15.33
+
+@end proverb
+
+@div proverb 3.16
+
+A.3.16.34. en-na til₃-la gu₅-li-ni-im
+#lem: enna[until]; til[live (of a single person)]; guli[friend]
+#tr.en: As long as he is alive, he is his friend. 
+#etcsl: line-id=A.3.16.34
+
+A.3.16.35. ud ug₅-ga gal₅-la₂ gal-la-ni-im
+#lem: ud[sun]; ug[kill]; galla[policeman]; gal[big]
+#tr.en: When he is dead, he is his worst demon. 
+#etcsl: line-id=A.3.16.35
+
+@end proverb
+
+@div proverb 3.17
+
+A.3.17.36. nam-gu₅-li niŋ₂ ud (1:1-a-kam:1)
+#lem: namguli[friendship]; niŋ[thing]; ud[sun]; n
+#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.d2]{6.1.16.d2}} Friendship lasts for just @varh[t6103.v7]{one  
+#etcsl: line-id=A.3.17.36
+
+:36v.1.1: ($1 ms. has instead:$) 3-a-kam
+#lem: n
+
+#etcsl#cf cf. 6.1.16.d2
+
+A.3.17.37. nam-gi₄-me-a-aš niŋ₂ da-ri₂-kam
+#lem: namgimeš[status of colleague]; niŋ[thing]; dari[eternal]
+#tr.en: day } @vart[t6103.v8,]{@note{1 ms. has instead:} three days } but collegiality lasts forever. 
+#etcsl: line-id=A.3.17.37
+
+@end proverb
+
+@div proverb 3.18
+
+A.3.18.38. du₁₄ ak-e ki (1:nam-gi₄-me-aš-kam:1)
+#lem: dud[combat]; ak[do]; ki[place]; namgimeš[status of colleague]
+#tr.en: Quarrelling occurs wherever @varh[t6103.v9]{there are colleagues }  
+#etcsl: line-id=A.3.18.38
+
+:38v.1.1: ($1 ms. has instead:$) nam-šeš-gal-la-še₃
+#lem: namšešgal[scribal status]
+
+A.3.18.39. eme sig gu₇-e ki nam-luh-še₃ i₃-ŋal₂
+#lem: eme[tongue]; sig[weak]; gu[eat]; ki[place]; namluh[purification]; ŋal[⟦be⟧ to be (there]
+#tr.en: @vart[t6103.v10,]{@note{1 ms. has instead:} one of the group is senior to the rest }. Slander occurs even where there has been purification. 
+#etcsl: line-id=A.3.18.39
+
+@end proverb
+
+@div proverb 3.19
+
+A.3.19.40. kaskal niŋ₂ gu₇-da lu₂ nu-kuš₂-u₃
+#lem: kaskal[way]; niŋ[thing]; gu[eat]; lu[person]; kušu[tired]
+#tr.en: When travelling, a man does not tire of eating. 
+#etcsl: line-id=A.3.19.40
+
+A.3.19.41. ud šu₂-uš-e ki bi₂-ib-degₓ(RI)-degₓ(RI)-ge
+#lem: ud[sun]; šuš[cover]; ki[place]; deg[gather up]
+#tr.en: He gathers in food all day long. 
+#etcsl: line-id=A.3.19.41
+
+@end proverb
+
+@div proverb 3.20
+
+A.3.20.42. su nam-lu₂-ulu₃-ka a gig i₃-ŋal₂
+#lem: su[flesh]; namlulu[humanity]; aya[cry]; gig[sick]; ŋal[⟦be⟧ to be (there]
+#tr.en: There are bitter tears in human flesh. 
+#etcsl: line-id=A.3.20.42
+
+@end proverb
+
+@div proverb 3.21
+
+A.3.21.43. (1:nisig nu-sam₂:1) dug₄-ge nu-tab-ba-e
+#lem: nisig[greenery]; sa[pay for]; dug[speak]; tab[double]
+#tr.en: @varh[t6103.v11]{Not buying vegetables (?) } @vart[t6103.v12,]{@note{1 ms. has instead:} Buying …… }, a promise (?) not fulfilled (?), handing over worthless money, 
+#etcsl: line-id=A.3.21.43
+
+:43v.1.1: ($1 ms. has instead:$) NIŊIN sam₂-e
+#lem: X; sa[pay for]
+
+A.3.21.44. šu nu-kug gub-ba-e u₂ igi-ta nu-ub-ta-a-an-ed₃
+#lem: šu[hand]; kug[pure]; gub[stand]; u[plant(s)]; igi[eye]; ed[go up]
+#tr.en: not removing a mote from the eye. 
+#etcsl: line-id=A.3.21.44
+
+@end proverb
+
+@div proverb 3.22
+
+A.3.22.45. šu gid₂-e šu mu-da-gid₂-e
+#lem: šu[hand]; gid[long]; šu[hand]; gid[long]
+#tr.en: A hand will stretch out towards an outstretched hand. 
+#etcsl: line-id=A.3.22.45
+
+A.3.22.46. šu bur₂-ra šu mu-[da]-bur₂!-e
+#lem: šu[hand]; bur[spread out]; šu[hand]; bur[spread out]
+#tr.en: A hand will open for an opened hand. 
+#etcsl: line-id=A.3.22.46
+
+@end proverb
+
+@div proverb 3.23
+
+A.3.23.47. kug tuku šag₄ an-hul₂ še tuku ur₅ an-sag₉
+#lem: kug[metal]; tuku[acquire]; šag[heart]; hul[rejoice]; še[barley]; tuku[acquire]; ur[liver]; sag[good]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 284-286}, @xref[t.6.2.3,]{6.2.3: UET 6/2 265 ll. 2-3}, @xref[t.6.2.5,]{6.2.5: IM 62823 Seg. A ll. 7-8}} He who has silver is happy; he who has grain feels comfortable; 
+#etcsl: line-id=A.3.23.47
+
+#etcsl#cf cf. 6.1.22: ll. 284-286, 6.2.3: UET 6/2 265 ll. 2-3, 6.2.5: IM 62823 Seg. A ll. 7-8
+
+A.3.23.48. niŋ₂-ur₂-limmu₂ tuku-e u₃ mu-un-ši-ku-ku
+#lem: niŋurlimmu[four legged creature]; tuku[acquire]; u[sleep]; ku[place]
+#tr.en: he who has livestock can sleep. 
+#etcsl: line-id=A.3.23.48
+
+@end proverb
+
+@div proverb 3.24
+
+A.3.24.49. {d}en-lil₂ IN ZI im-ge₄-en-na-ŋu₁₀
+#lem: Enlil[1]DN; X; X; gin[confirm]
+#tr.en: @note{cf. @xref[t.6.2.5,]{6.2.5: YBC 4677 l. 11}} @wDN{Enlil}, ……, 
+#etcsl: line-id=A.3.24.49
+
+#etcsl#cf cf. 6.2.5: YBC 4677 l. 11
+
+A.3.24.50. {tug₂}niŋ₂-dara₂-ŋu₁₀ (1:du-um:1)
+#lem: niŋdara[rag]; ŋen[go]
+#tr.en: my loincloth @varh[t6103.v13]{is } @vart[t6103.v14,]{@note{1 ms. has instead:} is not } gone (?). 
+#etcsl: line-id=A.3.24.50
+
+:50v.1.1: ($1 ms. has instead:$) nu-DU-X
+#lem: X
+
+@end proverb
+
+@div proverb 3.25
+
+A.3.25.51. {d}en-lil₂-le a-na-am₃ in-ak in-bul-bul
+#lem: Enlil[1]DN; ana[what?]; ak[do]; inbulbul[an agricultural product]
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.c1]{6.1.19.c1}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 8-10}} What did @wDN{Enlil} make? Chaff! 
+#etcsl: line-id=A.3.25.51
+
+#etcsl#cf cf. 6.1.19.c1, 6.2.5: YBC 4677 ll. 8-10
+
+A.3.25.52. {urud}šukur in-sig₁₀ su mu-ni-ib-te-te
+#lem: šukur[lance]; sig[put into]; su[flesh]; te[pierce]
+#tr.en: The lance struck. It went into the flesh. 
+#etcsl: line-id=A.3.25.52
+
+@end proverb
+
+@div proverb 3.26
+
+A.3.26.53. {d}utu bar-ra he₂-NE-[...]-šu₂
+#lem: Utu[1]DN; bar[outside]; šuš[cover]
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.c2]{6.1.19.c2}, @xref[t.6.1.24,t.6.1.24.9]{6.1.24.9}} When the sun is setting outside so that you cannot even recognise the hand in front of you, 
+#etcsl: line-id=A.3.26.53
+
+#etcsl#cf cf. 6.1.19.c2, 6.1.24.9
+
+A.3.26.54. ni₂-zu šu nu-zu-am₃ kur₉-ni-ib
+#lem: ni[self]; šu[hand]; zu[know]; kur[enter]
+#tr.en: go indoors! 
+#etcsl: line-id=A.3.26.54
+
+@end proverb
+
+@div proverb 3.27
+
+A.3.27.55. {d}iš-bi-er₃-ra lugal-e šu-ni X nin-e
+#lem: Išbierra[1]RN; lugal[king]; šu[hand]; X; nin[lady]
+#tr.en: King @wRN{Išbi-@wDN{Erra}} …… with his hand ……  
+#etcsl: line-id=A.3.27.55
+
+A.3.27.56. kurun₂ [...] de₂-a
+#lem: kurun[beer]; X; de[pour]
+#etcsl: line-id=A.3.27.56
+
+@end proverb
+
+@div proverb 3.28
+
+@variants
+
+A.3.28.57. X [...]-da#-an-kud-da
+#lem: X; kud[cut]
+#tr.en: 409=} @vart[t6103.v16,]{@note{1 ms. has instead:} @gap{2 lines fragmentary} } 
+#etcsl: line-id=A.3.28.57
+
+A.3.28.58. [...] X
+#lem: X; X
+#etcsl: line-id=A.3.28.58
+
+@variant
+
+#etcsl#ms instead of lines 57-58, 1 ms. has:
+A.3.28.A. abula ŋal₂ X [...] X
+#lem: abula[gate]; ŋal[⟦be⟧ to be (there]; X; X; X
+#etcsl: line-id=A.3.28.A
+
+A.3.28.B. X A ŋal₂ X X
+#lem: X; X; ŋal[⟦be⟧ to be (there]; X; X
+#etcsl: line-id=A.3.28.B
+
+@endvariants
+@end proverb
+
+@div proverb 3.29
+
+A.3.29.59. lu₂# UR X X X X
+#lem: lu[person]; X; X; X; X; X
+#tr.en: @gap{4 lines fragmentary}
+#etcsl: line-id=A.3.29.59
+
+A.3.29.60. A X AN [...] X
+#lem: X; X; X; X; X
+#etcsl: line-id=A.3.29.60
+
+A.3.29.61. abula X tuku
+#lem: abula[gate]; X; tuku[acquire]
+#etcsl: line-id=A.3.29.61
+
+A.3.29.62. X X LA
+#lem: X; X; X
+#etcsl: line-id=A.3.29.62
+
+@end proverb
+
+@div proverb 3.30
+
+A.3.30.63. {d}en-lil₂-le X X gu₇
+#lem: Enlil[1]DN; X; X; gu[eat]
+#tr.en: @wDN{Enlil} ……  
+#etcsl: line-id=A.3.30.63
+
+A.3.30.64. lu₂ dab₅ an-na X X X X
+#lem: lu[person]; dab[seize]; an[sky]; X; X; X; X
+#etcsl: line-id=A.3.30.64
+
+A.3.30.65. iri-am₃ [...]
+#lem: iri[city]; X
+#etcsl: line-id=A.3.30.65
+
+@end proverb
+
+@div proverb 3.31
+
+A.3.31.66. [na-an-ni libir-ra mu-un-kal]
+#lem: Nanni[1]RN; libir[old]; kal[rare]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.35]{3.35}, @xref[t.6.1.09,t.6.1.09.b1]{6.1.09.b1}, @xref[t.6.1.11,t.6.1.11.18]{6.1.11.18}, @xref[t.6.1.15,t.6.1.15.b8]{6.1.15.b8}, @xref[t.6.1.25,t.6.1.25.4]{6.1.25.4}, @xref[t.6.2.1,]{6.2.1: Ni 4469 Seg. A ll. 9-12}} @wRN{Nanni} cherished his old age. 
+#etcsl: line-id=A.3.31.66
+
+#etcsl#cf cf. 3.35, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.1.25.4, 6.2.1: Ni 4469 Seg. A ll. 9-12
+
+A.3.31.67. [e₂] mu-un-[du₃] X X X X
+#lem: e[house]; du[build]; X; X; X; X
+#tr.en: He built the temple ……. 
+#etcsl: line-id=A.3.31.67
+
+A.3.31.68. bad₃ nibru{[ki]} [i₃-du₃ ...]
+#lem: bad[wall]; Nibru[1]SN; du[build]; X
+#tr.en: He built a wall around @wSN{Nibru}, but ……. 
+#etcsl: line-id=A.3.31.68
+
+A.3.31.69. e₂-an-na mu-du₃ u₃-mu-un-[šub] im-ma-an-DU
+#lem: Eanak[1]TN; du[build]; šub[fall]; X
+#tr.en: He built @wTN{E-ana}, but after abandoning it, ……. 
+#etcsl: line-id=A.3.31.69
+
+A.3.31.70. si-mu-ru i₃-dab₅ bad₃-e nu-un#-[...]
+#lem: Simurrum[1]SN; dab[seize]; bad[wall]; X
+#tr.en: He captured @wSN{Simurrum}, but did not …… its wall. 
+#etcsl: line-id=A.3.31.70
+
+A.3.31.71. nam-lugal# kalag-ga# igi nu-mu-[du₈]
+#lem: namlugal[kingship]; kalag[strong]; igi[eye]; du[spread]
+#tr.en: He never saw mighty kingship. 
+#etcsl: line-id=A.3.31.71
+
+A.3.31.72. ur₅ na-an-na kur-ra ba-ra-an!-[de₆]
+#lem: ur[that]; Nanni[1]RN; kur[mountain(s)]; de[carry]
+#tr.en: Thus @wRN{Nanni} was carried off to the nether world. 
+#etcsl: line-id=A.3.31.72
+
+@end proverb
+
+@div proverb 3.32
+
+A.3.32.73. U₃ niŋ₂ KA X [...]
+#lem: X; niŋ[thing]; X; X; X
+#tr.en: like beer …… in front of him ……. 
+#etcsl: line-id=A.3.32.73
+
+A.3.32.74. KA šu-a ba-an-X [...]
+#lem: X; šu[hand]; X; X
+#etcsl: line-id=A.3.32.74
+
+A.3.32.75. kaš-gin₇ igi-na UD X X [...]
+#lem: kaš[beer]; igi[eye]; X; X; X; X
+#etcsl: line-id=A.3.32.75
+
+@end proverb
+
+@div proverb 3.33
+
+A.3.33.76. ud-da ga-til₃-e gud-gin₇ saman# [bi₂-in-la₂]
+#lem: ud[sun]; til[live (of a single person)]; gud[bull]; saman[tethering rope]; la[hang]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.100]{6.1.07.100}} He who says @q{“I will live for today”} is bound like a bull on a nose-rope. 
+#etcsl: line-id=A.3.33.76
+
+#etcsl#cf cf. 6.1.07.100
+
+@end proverb
+
+@div proverb 3.34
+
+A.3.34.77. ur-{d}namma mu-ša-lum gal-gal e₂ {d}en-lil₂-la₂ [...]
+#lem: Urnamma[1]RN; mušalum[drinking vessel]; gal[big]; e[house]; Enlil[1]DN; X
+#tr.en: @wRN{Ur-@wDN{Namma}} …… large mirrors in @wDN{Enlil's} temple. 
+#etcsl: line-id=A.3.34.77
+
+@end proverb
+
+@div proverb 3.35
+
+A.3.35.78. na-an-ni libir-ra-ni mu-na-kal#
+#lem: Nanni[1]RN; libir[old]; kal[rare]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.31]{3.31}} @wRN{Nanni} cherished his old age: 
+#etcsl: line-id=A.3.35.78
+
+#etcsl#cf cf. 3.31
+
+A.3.35.79. ŋe₂₆-e lu₂ libir-ra-ka-e-še
+#lem: ŋaʾe[I]; lu[person]; libir[old]
+#tr.en: @q{“I am what an old man should be.”} 
+#etcsl: line-id=A.3.35.79
+
+@end proverb
+
+@div proverb 3.36
+
+A.3.36.80. geme₂ niŋ₂ hi-li-a-ke₄ {d}iškur diŋir lugal LIL₂-e
+#lem: geme[female worker]; niŋ[thing]; hili[attractiveness]; Iškur[1]DN; diŋir[deity]; lugal[king]; X
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 325 ll. 3-5}, @xref[t.6.2.5,]{6.2.5: IM 62823 Seg. B ll. 11-12}} The voluptuous slave girl says: @q{“Let @wDN{Iškur}, 
+#etcsl: line-id=A.3.36.80
+
+#etcsl#cf cf. 6.2.3: UET 6/2 325 ll. 3-5, 6.2.5: IM 62823 Seg. B ll. 11-12
+
+A.3.36.81. ukuš₂-gin₇ ki dug₃ hu-mu-un-dar-re#
+#lem: ukuš[cucumber]; ki[place]; dug[good]; dar[split]
+#tr.en: …… god …… king …… split the fertile ground like a cucumber.”} 
+#etcsl: line-id=A.3.36.81
+
+@end proverb
+
+@div proverb 3.37
+
+A.3.37.82. geme₂ ig DU-da
+#lem: geme[female worker]; ig[door]; X
+#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c11]{6.1.21.c11-12}} A slave girl is one who …… the door. 
+#etcsl: line-id=A.3.37.82
+
+#etcsl#cf cf. 6.1.21.c11-12
+
+A.3.37.83. geme₂ e₂-gal-la za-ra dug₄-dug₄
+#lem: geme[female worker]; egal[palace]; zara[(excessive) concern]; dug[speak]
+#tr.en: The slave girl from the palace offers advice (?) continually. 
+#etcsl: line-id=A.3.37.83
+
+A.3.37.84. arad e₂-gal-la ga-til₃-ba gu₇-gu₇
+#lem: arad[slave]; egal[palace]; gatil[vow]; gu[eat]
+#tr.en: The slave from the palace eats the ex-voto offering @note{perhaps an idiom}. 
+#etcsl: line-id=A.3.37.84
+
+@end proverb
+
+@div proverb 3.38
+
+A.3.38.85. geme₂ kug-du₈-a-ni mu-un-de₆
+#lem: geme[female worker]; kugdu[ransom money]; de[carry]
+#tr.en: A slave girl carried her release money with her. 
+#etcsl: line-id=A.3.38.85
+
+A.3.38.86. 30 ma-na# im-ba an-[X X]
+#lem: n; mana[unit of weight]; imba[deficit]; X; X
+#tr.en: …… 30 minas. 
+#etcsl: line-id=A.3.38.86
+
+@end proverb
+
+@div proverb 3.39
+
+A.3.39.87. geme₂ ni₂ te-a-gin₇ {ŋiš}naŋa₃ bi₂-gur₄-gur₄#
+#lem: geme[female worker]; ni[fear]; teŋ[approach]; naŋa[mortar]; gur[thick]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 335 l. 1}} You grind with the pestle like a fearful slave girl. 
+#etcsl: line-id=A.3.39.87
+
+#etcsl#cf cf. 6.2.3: UET 6/2 335 l. 1
+
+@end proverb
+
+@div proverb 3.40
+
+A.3.40.88. geme₂# {ŋiš}ba-an-e# nu-ub-si-am₃#
+#lem: geme[female worker]; ban[unit of capacity]; si[fill]
+#tr.en: The slave girl who neglected  
+#etcsl: line-id=A.3.40.88
+
+A.3.40.89. dum-dam an-da-ab-za
+#lem: dumdam[sound]; za[cvve]
+#tr.en: to fill the containers grumbled: 
+#etcsl: line-id=A.3.40.89
+
+A.3.40.90. ka nu-un-[si]
+#lem: kag[mouth]; si[fill]
+#tr.en: @q{“It does not fill (?) to the top; 
+#etcsl: line-id=A.3.40.90
+
+A.3.40.91. murub₂ nu-si-[e-še]
+#lem: murub[middle]; si[fill]
+#tr.en: it does not fill (?) the middle.”} 
+#etcsl: line-id=A.3.40.91
+
+@end proverb
+
+@div proverb 3.41
+
+A.3.41.92. e₂-ta e₃ sila-ta kur₉-ra %e gi₄-in-e
+#lem: e[house]; e[leave]; sila[street]; kur[enter]; gin[worker]N
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.d9]{6.1.19.d9}, @xref[t.6.1.28,t.6.1.28.25]{6.1.28.25}} When the lady left the house and the slave girl entered from the street, 
+#etcsl: line-id=A.3.41.92
+
+#etcsl#cf cf. 6.1.19.d9, 6.1.28.25
+
+A.3.41.93. %e ga-ša-an-na-ni %s ŋišbum-ma bi₂-in-tuš
+#lem: gašan[lady]N; ŋešbun[(cultic) meal]; tuš[sit (down)]
+#tr.en: away from her lady the slave girl sat at her own banquet. 
+#etcsl: line-id=A.3.41.93
+
+@end proverb
+
+@div proverb 3.42
+
+A.3.42.94. e₂-{na₄}kinkin-na du₁₄ he₂-en-ŋal₂#
+#lem: ekinkin[mill]; dud[combat]; ŋal[⟦be⟧ to be (there]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 278-279}, @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. C ll. 1-2}, @xref[t.6.2.5,]{6.2.5: YBC 8713 l. 7}} When there is a dispute at the mill, 
+#etcsl: line-id=A.3.42.94
+
+#etcsl#cf cf. 6.1.22: ll. 278-279, 6.2.1: Ni 9824 Seg. C ll. 1-2, 6.2.5: YBC 8713 l. 7
+
+A.3.42.95. geme₂ niŋ₂ zuh-a-ni pa im-mi-in-ed₃
+#lem: geme[female worker]; niŋ[thing]; zuh[steal]; pa[branch]; ed[go up]
+#tr.en: a slave girl reveals (?) what she has stolen. 
+#etcsl: line-id=A.3.42.95
+
+@end proverb
+
+@div proverb 3.43
+
+A.3.43.96. geme₂-da nu₂-da-ni nitah kalag-da X
+#lem: geme[female worker]; nud[lie down]; nita[male]; kalag[strong]; X
+#tr.en: He who sleeps with a slave girl … 
+#etcsl: line-id=A.3.43.96
+
+A.3.43.97. geme₂ niŋ₂ zuh-zuh-a-ni nin-e lu₂-da X-sig₁₀
+#lem: geme[female worker]; niŋ[thing]; zuh[steal]; nin[lady]; lu[person]; sig[put into]
+#tr.en: … with a strong male …… what the slave girl has stolen, 
+#etcsl: line-id=A.3.43.97
+
+A.3.43.98. lu₂ lu₂-u₃ pa li-bi₂-ib-e₃#
+#lem: lu[person]; lu[person]; pa[branch]; e[leave]
+#tr.en: what the lady …… with a man -- one person does not reveal to another. 
+#etcsl: line-id=A.3.43.98
+
+@end proverb
+
+@div proverb 3.44
+
+A.3.44.99. šag₄ hul₂-la e₂-gi₄-a šag₄ ib₂-ba-kam#
+#lem: šag[heart]; hul[rejoice]; egia[bride]; šag[heart]; ib[angry]
+#tr.en: The joy of a daughter-in-law is anger. 
+#etcsl: line-id=A.3.44.99
+
+@end proverb
+
+@div proverb 3.45
+
+A.3.45.100. geme₂# nu-sam₂-aš {na₄}kinkin an-na SAR
+#lem: geme[female worker]; sa[pay for]; kinkin[small millstone]; an[sky]; X
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.43]{6.1.07.43}, @xref[t.6.2.1,]{6.2.1: Ni 9832 Seg. B ll. 6-7}} To a slave girl who has not been purchased, the upper millstone ……. 
+#etcsl: line-id=A.3.45.100
+
+#etcsl#cf cf. 6.1.07.43, 6.2.1: Ni 9832 Seg. B ll. 6-7
+
+A.3.45.101. {na₄}kinkin bur₁₂-ra-gin₇ al-du₇-du₇-du₇-de₃-en
+#lem: kinkin[small millstone]; bur[tear out]; du[push]
+#tr.en: You are forever pushing like a millstone torn out of its joint. 
+#etcsl: line-id=A.3.45.101
+
+@end proverb
+
+@div proverb 3.46
+
+A.3.46.102. ga-an-kur₉ ga-ab-X [X X]
+#lem: kur[enter]; X; X; X
+#tr.en: Let me come in! Let me …… it! 
+#etcsl: line-id=A.3.46.102
+
+A.3.46.103. ga-ab-hul-hul-hul# [X X]
+#lem: hulu[bad]; X; X
+#tr.en: Let me destroy it! ……. 
+#etcsl: line-id=A.3.46.103
+
+@end proverb
+
+@div proverb 3.47
+
+A.3.47.104. diŋir si sa₂ gi gur₅-ru-uš# [...]
+#lem: diŋir[deity]; si[horn]; sa[equal]; gi[reed]; guguru[trim down]; X
+#tr.en: The just god …… cut reeds (?) ……. 
+#etcsl: line-id=A.3.47.104
+
+@end proverb
+
+@div proverb 3.48
+
+A.3.48.105. ga-ab-sam₂ ga#-ba-X [...]
+#lem: sa[pay for]; X; X
+#tr.en: Let me buy it! Let me …… ! 
+#etcsl: line-id=A.3.48.105
+
+@end proverb
+
+@div proverb 3.49
+
+A.3.49.106. [...] X X [...]
+#lem: X; X; X; X
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=A.3.49.106
+
+@end proverb
+
+@div proverb 3.50
+
+A.3.50.107. [...]
+#lem: X
+#tr.en: @gap{2 lines missing}
+#etcsl: line-id=A.3.50.107
+
+A.3.50.108. [...]
+#lem: X
+#etcsl: line-id=A.3.50.108
+
+@end proverb
+
+@div proverb 3.51
+
+A.3.51.109. [...]
+#lem: X
+#tr.en: @gap{2 lines missing}
+#etcsl: line-id=A.3.51.109
+
+A.3.51.110. [...]
+#lem: X
+#etcsl: line-id=A.3.51.110
+
+@end proverb
+
+@div proverb 3.52
+
+A.3.52.111. [...] X X til₃-la# X [...]
+#lem: X; X; X; til[live (of a single person)]; X; X
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=A.3.52.111
+
+@end proverb
+
+@div proverb 3.53
+
+A.3.53.112. [...] X-gin₇ ki-gal-la# [...]
+#lem: X; X; kigal[platform]; X
+#tr.en: Like a …… on a socle. 
+#etcsl: line-id=A.3.53.112
+
+@end proverb
+
+@div proverb 3.54
+
+A.3.54.113. gud ga gu₇-a-gin₇ X [...]
+#lem: gud[bull]; ga[milk]; gu[eat]; X; X
+#tr.en: Like a suckling bull ……. 
+#etcsl: line-id=A.3.54.113
+
+@end proverb
+
+@div proverb 3.55
+
+A.3.55.114. til₃-la lul-la hul na-an-gu-[ul-en]
+#lem: til[live (of a single person)]; lul[false]; hulu[bad]; gal[big]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.48]{6.1.07.48}, @xref[t.6.1.11,t.6.1.11.5]{6.1.11.5}} As long as you live you should not increase evil by telling lies; 
+#etcsl: line-id=A.3.55.114
+
+#etcsl#cf cf. 6.1.07.48, 6.1.11.5
+
+A.3.55.115. gam ha-la-zu-še₃ mu-un#-[ŋal₂]
+#lem: gurum[bow]; hala[inheritance share]; ŋal[⟦be⟧ to be (there]
+#tr.en: for if you do, to succumb will be your lot. 
+#etcsl: line-id=A.3.55.115
+
+@end proverb
+
+@div proverb 3.56
+
+A.3.56.116. zid-du erim₂#-[du ...]
+#lem: ziddu[righteous(-acting)]; erimdu[hostile]; X
+#tr.en: The righteous …… the wicked ……. 
+#etcsl: line-id=A.3.56.116
+
+@end proverb
+
+@div proverb 3.57
+
+A.3.57.117. [...] u₃# dub-šen nu-me-en u₃ DUB# [...]
+#lem: X; u[and]; dubšen[treasure chest]; me[be]; u[and]; X; X
+#tr.en: …… and I'm not a treasure chest or a ……. 
+#etcsl: line-id=A.3.57.117
+
+@end proverb
+
+@div proverb 3.58
+
+A.3.58.118. ma-an-UD-da-ni-ta ur₅-gin₇ X [...]
+#lem: X; ur[that]; X; X
+#tr.en: @gap{1 line unclear}
+#etcsl: line-id=A.3.58.118
+
+@end proverb
+
+@div proverb 3.59
+
+A.3.59.119. en-e unug{ki}-ga# nam im-ma-kud-de₃ X
+#lem: en[lord]; Unug[1]SN; nam[fate]; kud[cut]; X
+#tr.en: @note{cf. @xref[t.6.1.25,t.6.1.25.3]{6.1.25.3}} The lord @note{i.e. @wDN{An} (?)} cursed @wSN{Unug}, 
+#etcsl: line-id=A.3.59.119
+
+#etcsl#cf cf. 6.1.25.3
+
+A.3.59.120. e-ne-ra nin e₂-an-na#-[ke₄] X
+#lem: ane[he]; nin[lady]; Eanak[1]TN; X
+#tr.en: but so was he cursed by the lady of @wTN{E-ana} @note{i.e. @wDN{Inana}}. 
+#etcsl: line-id=A.3.59.120
+
+@end proverb
+
+@div proverb 3.60
+
+A.3.60.121. aŋrig šu dim₄-ma sa-KU kalag-[ga-me-en]
+#lem: agrig[steward]; šu[hand]; dim[check]; sa.KU[arm]; kalag[strong]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.80]{6.1.07.80}} I am a loyal steward with strong arms. 
+#etcsl: line-id=A.3.60.121
+
+#etcsl#cf cf. 6.1.07.80
+
+@end proverb
+
+@div proverb 3.61
+
+A.3.61.122. da-da ha-ba-bad ŋe₂₆-e da-da# X
+#lem: dag[side]; bad[open]; ŋaʾe[I]; dag[side]; X
+#tr.en: Let the sides be separated; let me be the one who …… the sides. 
+#etcsl: line-id=A.3.61.122
+
+@end proverb
+
+@div proverb 3.62
+
+A.3.62.123. nam-ugula-a ma-ab-du₇-du₇-un#
+#lem: namugula[status of overseer]; du[push]
+#tr.en: It is on account of being the boss that you bully me. 
+#etcsl: line-id=A.3.62.123
+
+@end proverb
+
+@div proverb 3.63
+
+A.3.63.124. nam-sun₇-na-ta gi duru₅-gin₇
+#lem: namsuna[arrogance]; gi[reed]; duru[wet]
+#tr.en: Because of his arrogance, 
+#etcsl: line-id=A.3.63.124
+
+A.3.63.125. saŋ gu₂-ni-še₃ he₂-bi₂-in-ed₃-de₃
+#lem: saŋ[head]; gu[neck]; ed[go up]
+#tr.en: may his head be bowed to his neck like a damp reed. 
+#etcsl: line-id=A.3.63.125
+
+@end proverb
+
+@div proverb 3.64
+
+A.3.64.126. ŋiš-erin₂ sa ak pu₂ niŋ₂ ŋiri₃-a-kam
+#lem: ŋešrin[scales]; sa[net]; ak[do]; pu[cistern]; niŋ[thing]; ŋiri[foot]
+#tr.en: @note{cf. @xref[t.6.1.17,t.6.1.17.b7]{6.1.17.b7}} Weighing scales made with a net are a trap made for the feet; 
+#etcsl: line-id=A.3.64.126
+
+#etcsl#cf cf. 6.1.17.b7
+
+A.3.64.127. dam-gara₃ gu₅-li-ni-ir lu₂ na-an-tuku-tuku
+#lem: damgar[merchant]; guli[friend]; lu[person]; tuku[acquire]
+#tr.en: a man should not take a merchant for his friend. 
+#etcsl: line-id=A.3.64.127
+
+@end proverb
+
+@div proverb 3.65
+
+A.3.65.128. dam-gar₃-ra kug %e ta %s ba-an-tur i₃ u₃ še %e [ta %s ba-an-tur]
+#lem: damgar[merchant]; kug[metal]; ta[what?]QP; tur[small]; i[oil]; u[and]; še[barley]; ta[what?]QP; tur[small]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.165]{6.1.01.165}, @xref[t.6.1.17,t.6.1.17.b8]{6.1.17.b8}, @xref[t.6.1.22,]{6.1.22: ll. 194-196}} You, merchant, how small you made the amount of silver! And how small you made the amount of oil and barley! 
+#etcsl: line-id=A.3.65.128
+
+#etcsl#cf cf. 6.1.01.165, 6.1.17.b8, 6.1.22: ll. 194-196
+
+@end proverb
+
+@div proverb 3.66
+
+A.3.66.129. nam-dam-gar₃-ra {na₄}lagab za-gin₃-na
+#lem: namdamgar[commerce]; lagab[block]; zagin[lapis lazuli]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: l. 197}} That which in the trade is considered a lump of  
+#etcsl: line-id=A.3.66.129
+
+#etcsl#cf cf. 6.1.22: l. 197
+
+A.3.66.130. na₄ lugal-bi-ir a-da-[...] X X DU
+#lem: na[stone weight]; lugal[king]; X; X; X; X
+#tr.en: lapis lazuli is for its owner a stone that ……. 
+#etcsl: line-id=A.3.66.130
+
+@end proverb
+
+@div proverb 3.67
+
+A.3.67.131. sig₉-ga ba-ra-gid₂-de₃ kalag-ga ba-ra-ab-gub
+#lem: sig[put into]; gid[long]; kalag[strong]; gub[stand]
+#tr.en: One cannot drag out the weak, one cannot hold back the strong. 
+#etcsl: line-id=A.3.67.131
+
+@end proverb
+
+@div proverb 3.68
+
+A.3.68.132. šim sis-me šim ga-raš{sar} he₂
+#lem: šim[aromatic substance]; ses[bitter]; šim[aromatic substance]; garaš[leek]; me[be]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.85]{3.85}} Let our odour be the smell of  
+#etcsl: line-id=A.3.68.132
+
+#etcsl#cf cf. 3.85
+
+A.3.68.133. šim lu-ub₂{sar} nam-me
+#lem: šim[aromatic substance]; lub[turnip]; me[be]
+#tr.en: leeks -- let it not be the smell of turnips! 
+#etcsl: line-id=A.3.68.133
+
+@end proverb
+
+@div proverb 3.69
+
+A.3.69.134. in dub₂-dub₂-bu-ra in mu-na-an-ŋar
+#lem: in[abuse]; dub[tremble]; in[abuse]; ŋar[put]
+#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.22]{6.1.11.22}} He who insults is insulted. 
+#etcsl: line-id=A.3.69.134
+
+#etcsl#cf cf. 6.1.11.22
+
+A.3.69.135. giri₁₇ ur₅-e giri₁₇ mu-na-an-ur₅-re#
+#lem: kiri[nose]; ur[smell]; kiri[nose]; ur[smell]
+#tr.en: He who sneers is sneered at. 
+#etcsl: line-id=A.3.69.135
+
+@end proverb
+
+@div proverb 3.70
+
+A.3.70.136. piriŋ arah₄ sa-ba gub-ba
+#lem: piriŋ[lion]; arah[storehouse]; sa[net]; gub[stand]
+#tr.en: A lion caught in the trap in the storehouse becomes mine in this way: 
+#etcsl: line-id=A.3.70.136
+
+A.3.70.137. ur₅ ŋa₂-a-kam lugal-e ŋiš mu-ub-ze₂-ze₂
+#lem: ur[that]; ŋaʾe[I]; lugal[king]; ŋeš[tree]; zir[tear out]
+#tr.en: the owner simply removes the wood. 
+#etcsl: line-id=A.3.70.137
+
+@end proverb
+
+@div proverb 3.71
+
+A.3.71.138. ga-ab#-gid₂ mu-un-da-ku₅-ru
+#lem: gid[long]; kud[cut]
+#tr.en: $ (@note{cf. @xref[t.6.1.11,t.6.1.11.19]{6.1.11.19}, @xref[t.6.1.19,t.6.1.19.b6]{6.1.19.b6}, @xref[t.6.1.24,t.6.1.24.5]{6.1.24.5}} ) $ (@gap{1 line unclear}) 
+#etcsl: line-id=A.3.71.138
+
+#etcsl#cf cf. 6.1.11.19, 6.1.19.b6, 6.1.24.5
+
+A.3.71.139. šu-bi bar edin-na mu-da-an-DU
+#lem: šu[hand]; bar[outside]; eden[back]; X
+#etcsl: line-id=A.3.71.139
+
+@end proverb
+
+@div proverb 3.72
+
+A.3.72.140. eme-šid muš-gin₇ ga-ba-gid₂-da-gin₇ ab-ta-ab-us₂
+#lem: eme.ŠID[lizard]; muš[snake]; gid[long]; us[accompany]
+#tr.en: A lizard follows like a snake, like a ……. 
+
+#etcsl: line-id=A.3.72.140
+
+@end proverb
+
+@div proverb 3.73
+
+A.3.73.141. he₂-dab₅ tur-ra-gin₇ en-nu-uŋ₃-ŋa₂ šag₄-še₃ nu-gid₂-de₃
+#lem: hedab[worker]; tur[small]; ennuŋ[watch]; šag[heart]; gid[long]
+#tr.en: Like a …… worker, keeping watch is not what is on his mind. 
+#etcsl: line-id=A.3.73.141
+
+@end proverb
+
+@div proverb 3.74
+
+A.3.74.142. ga-an-tuš-e e₂ ba-an-gub
+#lem: gantuš[tenant]; e[house]; gub[stand]
+#tr.en: A tenant established the house, 
+#etcsl: line-id=A.3.74.142
+
+A.3.74.143. ur₁₁-ru-e a-šag₄ ba-ab-gub
+#lem: uru[sow]; ašag[field]; gub[stand]
+#tr.en: and ploughing established the field. 
+#etcsl: line-id=A.3.74.143
+
+@end proverb
+
+@div proverb 3.75
+
+A.3.75.144. haš₂ a-ra-an-gid₂-nam lu₂ še-ŋeš-i₃ bi₂-ib₂-il₂-il₂
+#lem: haš[thigh]; gid[long]; lu[person]; šeŋeši[sesame seed]; il[raise]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.17]{6.1.07.17}, @xref[t.6.2.5,t625.h43]{6.2.5: YBC 9912}} @q{“I am stretching my legs on your behalf,”} says a man delivering sesame. 
+#etcsl: line-id=A.3.75.144
+
+#etcsl#cf cf. 6.1.07.17, 6.2.5: YBC 9912
+
+@end proverb
+
+@div proverb 3.76
+
+A.3.76.145. mu {d}iškur kur gul-gul
+#lem: mu[name]; Iškur[1]DN; kur[mountain(s)]; gul[destroy]
+#tr.en: You invoke the oath of @wDN{Iškur}, who destroys the mountains, 
+#etcsl: line-id=A.3.76.145
+
+A.3.76.146. an-ŋa₂ ma₂ ba-ra-mu-e-da-ab-bal-e
+#lem: anŋa[however]; ma[ship]; bala[turn]
+#tr.en: but …… you cannot cross the river with a boat. 
+#etcsl: line-id=A.3.76.146
+
+@end proverb
+
+@div proverb 3.77
+
+A.3.77.147. {d}iškur-e kur al-dar-dar-e
+#lem: Iškur[1]DN; kur[mountain(s)]; dar[split]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 382 l. 3}} @wDN{Iškur} splits the mountains, 
+#etcsl: line-id=A.3.77.147
+
+#etcsl#cf cf. 6.2.3: UET 6/2 382 l. 3
+
+A.3.77.148. {kuš}a-ŋa₂-la₂ nu-dar-re
+#lem: aŋala[leather sack]; dar[split]
+#tr.en: yet he does not split the waterskin. 
+#etcsl: line-id=A.3.77.148
+
+@end proverb
+
+@div proverb 3.78
+
+A.3.78.149. DAG# i₃-pad₃#-da-ŋu₁₀ zu₂-lum-bi dilmun-na
+#lem: X; pad[find]; zulum[the fruit of the date-palm]; Dilmun[1]GN
+#tr.en: …… which I have found, its dates are from @wGN{Dilmun}. 
+#etcsl: line-id=A.3.78.149
+
+@end proverb
+
+@div proverb 3.79
+
+A.3.79.150. geme₂ kar-ra u₃ lul-la ku-ku
+#lem: geme[female worker]; kar[flee]; u[sleep]; lul[false]; ku[place]
+#tr.en: A runaway slave girl only pretends to sleep. 
+#etcsl: line-id=A.3.79.150
+
+@end proverb
+
+@div proverb 3.80
+
+A.3.80.151. maš-da₃-e edin LIL₂-LIL₂-bu-ka
+#lem: mašda[gazelle]; eden[back]; X
+#tr.en: The gazelle in the  
+#etcsl: line-id=A.3.80.151
+
+A.3.80.152. amar-bi ga bi₂-ib-gu₇
+#lem: amar[calf]; ga[milk]; gu[eat]
+#tr.en: …… desert feeds its young with milk. 
+#etcsl: line-id=A.3.80.152
+
+@end proverb
+
+@div proverb 3.81
+
+A.3.81.153. igi ti-ti X AN# X uri-e-ne
+#lem: igi[eye]; ti[rib]; X; X; X; Akkad[1 Akkad]
+#tr.en: Eyes of …… are characteristic of the @wEN{Akkadians} (?). 
+#etcsl: line-id=A.3.81.153
+
+@end proverb
+
+@div proverb 3.82
+
+A.3.82.154. umun₃-še₃ piriŋ-gin₇ du
+#lem: umun[insect(s)]; piriŋ[lion]; du[go]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.13]{6.1.07.13}} He moves like a lion against a louse, but when there is a job is to be done, 
+#etcsl: line-id=A.3.82.154
+
+#etcsl#cf cf. 6.1.07.13
+
+A.3.82.155. kiŋ₂ ak-de₃ niŋ₂-gilim-ma-gin₇ du
+#lem: kiŋ[work]; ak[do]; niŋgilim[rodent]; du[go]
+#tr.en: he moves like a rat. 
+#etcsl: line-id=A.3.82.155
+
+@end proverb
+
+@div proverb 3.83
+
+A.3.83.156. ud ul-e₃ nam al-tar-ra
+#lem: ud[sun]; e[leave]; nam[fate]; tar[cut]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: l. 85}} As the sun rises, decisions are made. 
+#etcsl: line-id=A.3.83.156
+
+#etcsl#cf cf. 6.1.22: l. 85
+
+A.3.83.157. {d}utu gub-ba-ni nam-lugal mu-un-na-an-šum₂
+#lem: Utu[1]DN; gub[stand]; namlugal[kingship]; šum[give]
+#tr.en: By the time the sun is up, kingship is conferred. 
+#etcsl: line-id=A.3.83.157
+
+@end proverb
+
+@div proverb 3.84
+
+A.3.84.158. {ŋiš}tukul mu-zu na-an-pad₃-de₃
+#lem: tukul[weapon]; mu[name]; pad[find]
+#tr.en: @note{cf. @xref[t.6.1.28,t.6.1.28.1]{6.1.28.1}} The battle-club would not find out  
+#etcsl: line-id=A.3.84.158
+
+#etcsl#cf cf. 6.1.28.1
+
+A.3.84.159. su-zu he₂-pad₃-de₃
+#lem: su[flesh]; pad[find]
+#tr.en: your name -- it would just find your flesh. 
+#etcsl: line-id=A.3.84.159
+
+@end proverb
+
+@div proverb 3.85
+
+A.3.85.160. {u₂}lu-ub₂{sar} ze₂-ze₂ šim sis-me
+#lem: lub[turnip]; zir[tear out]; šim[aromatic substance]; ses[bitter]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.68]{3.68}} Our own odour is of pulled-up  
+#etcsl: line-id=A.3.85.160
+
+#etcsl#cf cf. 3.68
+
+A.3.85.161. dug₃-ga lu₂-kur₂-ra ma-ab-tum₃
+#lem: dug[good]; lukur[stranger]; tum[bring]
+#tr.en: turnips -- sweet things are brought by strangers. 
+#etcsl: line-id=A.3.85.161
+
+@end proverb
+
+@div proverb 3.86
+
+A.3.86.162. šum₂-ma-ab lugal-la-kam
+#lem: šum[give]; lugal[king]
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.b5]{6.1.26.b5-6}} @q{“Give me!”} is what the king says. 
+#etcsl: line-id=A.3.86.162
+
+#etcsl#cf cf. 6.1.26.b5-6
+
+A.3.86.163. dug₃-ga-ab dumu sagi-a-kam
+#lem: dug[good]; dumu[child]; šagia[cup-bearer]
+#tr.en: @q{“Do well!”} is what the cupbearer's son says. 
+#etcsl: line-id=A.3.86.163
+
+@end proverb
+
+@div proverb 3.87
+
+A.3.87.164. nagar {ŋiš}kibir₂-am₃
+#lem: nagar[carpenter]; kibir[sharp implement]
+#tr.en: What characterises the carpenter is the chisel. 
+#etcsl: line-id=A.3.87.164
+
+A.3.87.165. ad-KID ma-sa₂-ab-am₃
+#lem: ad.KID[basket weaver]; masab[basket]
+#tr.en: What characterises the reed weaver is the basket. 
+#etcsl: line-id=A.3.87.165
+
+A.3.87.166. simug da tur-tur ak
+#lem: simug[smith]; dag[side]; tur[small]; ak[do]
+#tr.en: What characterises the smith is the making of little ……. 
+#etcsl: line-id=A.3.87.166
+
+A.3.87.167. nar u₈!-uₓ(PA)-a a-la-la
+#lem: nar[musician]; ua[oh!]; alala[soothing expression]
+#tr.en: What characterises the singer are the sounds @fsux{ua} and @fsux{alala}. 
+#etcsl: line-id=A.3.87.167
+
+@end proverb
+
+@div proverb 3.88
+
+A.3.88.168. saŋ# bul-e id₂-da bal-le
+#lem: saŋ[head]; bul[shake]; id[river]; bala[turn]
+#tr.en: @note{cf. @xref[t.6.1.18,t.6.1.18.14]{6.1.18.14}, @xref[t.6.1.24,t.6.1.24.7]{6.1.24.7}} He who tosses his head succeeds in crossing the river. 
+#etcsl: line-id=A.3.88.168
+
+#etcsl#cf cf. 6.1.18.14, 6.1.24.7
+
+A.3.88.169. (1:{id₂}idigna# ud a₂ dirig# RA#:1)
+#lem: Idigna[1 Tigris]; ud[sun]; a[arm]; dirig[make more than]; X
+#tr.en: @varh[t6103.v17]{…… the @wWN{Tigris} …… } @vart[t6103.v18,]{@note{1 ms. has instead:} …… negligent …… @note{possibly belongs to a different proverb} }. 
+#etcsl: line-id=A.3.88.169
+
+:169v.1.1: ($possibly belongs to a different proverb$) [...] še-ba-e-da-a#-[...]
+#lem: X; X
+
+@end proverb
+
+@div proverb 3.89
+
+A.3.89.170. ugula a₂ ŋiš ŋar-ra nu-un-zu-[a]
+#lem: ugula[overseer]; a[arm]; ŋeš[tree]; ŋar[put]; zu[know]
+#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.25]{6.1.11.25}} If the foreman does not know how to assign the work, 
+#etcsl: line-id=A.3.89.170
+
+#etcsl#cf cf. 6.1.11.25
+
+A.3.89.171. erin₂-na-ni saŋ sag₃-ge nu-gul-e
+#lem: erin[people]; saŋ[head]; sag[strike]; gul[destroy]
+#tr.en: his workers will not stop shaking their heads. 
+#etcsl: line-id=A.3.89.171
+
+@end proverb
+
+@div proverb 3.90
+
+A.3.90.172. [...] X en-bi-im
+#lem: X; X; en[lord]
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=A.3.90.172
+
+@end proverb
+
+@div proverb 3.91
+
+A.3.91.173. e₂ {d}en-lil₂-la₂ gu₂-dirig saŋŋa ugula-bi-im
+#lem: e[house]; Enlil[1]DN; gudirig[total]; saŋŋa[an official]; ugula[overseer]
+#tr.en: @wDN{Enlil's} temple is a summation of accounts. The temple manager is its overseer. 
+#etcsl: line-id=A.3.91.173
+
+@end proverb
+
+@div proverb 3.92
+
+A.3.92.174. e₂ {d}en-lil₂-la₂ pa₄-har addir-am₃
+#lem: e[house]; Enlil[1]DN; pahar[gathering]; addir[hire]
+#tr.en: @note{cf. @xref[t.6.1.14,t.6.1.14.18]{6.1.14.18}} @wDN{Enlil's} temple is a gathering (?) of wages. 
+#etcsl: line-id=A.3.92.174
+
+#etcsl#cf cf. 6.1.14.18
+
+@end proverb
+
+@div proverb 3.93
+
+A.3.93.175. {d}en-lil₂-le šer₇-da gu-la-ni šag₄-ŋar-ra
+#lem: Enlil[1]DN; šerda[crime]; gal[big]; šaŋar[starvation]
+#tr.en: @note{cf. @xref[t.6.2.4,]{6.2.4: VAT 21604 (+) 21605 Seg. B l. 3}} @wDN{Enlil's} greatest punishment is hunger. 
+#etcsl: line-id=A.3.93.175
+
+#etcsl#cf cf. 6.2.4: VAT 21604 (+) 21605 Seg. B l. 3
+
+@end proverb
+
+@div proverb 3.94
+
+A.3.94.176. ur-e nu-mu-na-an-šum₂
+#lem: ur[dog]; šum[give]
+#tr.en: If one does not give the dog something, 
+#etcsl: line-id=A.3.94.176
+
+A.3.94.177. munus-e munus-e gu₃ al-de₂-de₂-e
+#lem: munus[woman]; munus[woman]; gu[voice]; de[pour]
+#tr.en: it will bark at every woman. 
+#etcsl: line-id=A.3.94.177
+
+@end proverb
+
+@div proverb 3.95
+
+A.3.95.178. ur-gir₁₅ (1:{ŋiš}ilar:1) ra-a-gin₇
+#lem: urgir[(domestic) dog]; illar[weapon: bow? throwstick? javelin?]; rah[beat]
+#tr.en: @note{cf. @xref[t.6.1.05,t.6.1.05.93]{6.1.05.93}} She growls like a  
+#etcsl: line-id=A.3.95.178
+
+:178v.1.1: ($1 ms. has instead:$) {ŋiš}ellag
+#lem: ellag[ball]
+
+#etcsl#cf cf. 6.1.05.93
+
+A.3.95.179. dum-dam an-da-ab-za
+#lem: dumdam[sound]; za[cvve]
+#tr.en: dog struck by a @varh[t6103.v19]{throw-stick } @vart[t6103.v20,]{@note{1 ms. has instead:} ball (?) }. 
+#etcsl: line-id=A.3.95.179
+
+@end proverb
+
+@div proverb 3.96
+
+A.3.96.180. niŋ₂ gu erim₂-ma dum-dam za
+#lem: niŋ[thing]; gu[cord]; erim[enemy]; dumdam[sound]; za[cvve]
+#tr.en: That which is made of evil threads grumbles. 
+#etcsl: line-id=A.3.96.180
+
+@end proverb
+
+@div proverb 3.97
+
+A.3.97.181. inim# ga-ab-dug₄ ŋiri₃-bi-gin₇ du-du
+#lem: inim[word]; dug[speak]; ŋiri[foot]; ŋen[go]
+#tr.en: @q{“Just-let-me-say-a-word”} walks like feet. 
+#etcsl: line-id=A.3.97.181
+
+A.3.97.182. ka# an-tuku-da a-ba-am₃ mu-da-ab-sa₂-e
+#lem: kag[mouth]; tuku[acquire]; aba[who?]; sa[equal]
+#tr.en: Who can rival a garrulous man? 
+#etcsl: line-id=A.3.97.182
+
+@end proverb
+
+@div proverb 3.98
+
+A.3.98.183. [...] id₂-da he₂-ib-dirig-ma
+#lem: X; id[river]; dirig[make more than]
+#tr.en: … 
+#etcsl: line-id=A.3.98.183
+
+A.3.98.184. [...] bi₂-ib-tur-re
+#lem: X; tur[small]
+#tr.en: … floating on the river and …… diminishes. 
+#etcsl: line-id=A.3.98.184
+
+@end proverb
+
+@div proverb 3.99
+
+A.3.99.185. [za-e ŋa₂-ra] dug₄#-ma-ab ŋe₂₆-e za-a ga-ri-ib-dug₄
+#lem: zaʾe[you]; ŋaʾe[I]; dug[speak]; ŋaʾe[I]; zaʾe[you]; dug[speak]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.101]{3.101}} You speak to me -- and I will speak to you! 
+#etcsl: line-id=A.3.99.185
+
+#etcsl#cf cf. 3.101
+
+@end proverb
+
+@div proverb 3.100
+
+A.3.100.186. [...] al-ak-a niŋ₂-gu₇-a
+#lem: X; ak[do]; niŋgu[food]N
+#tr.en: He who …… is the one who eats something. 
+#etcsl: line-id=A.3.100.186
+
+@end proverb
+
+@div proverb 3.101
+
+A.3.101.187. za-e ŋe₂₆-e mu-de₃-dug₄
+#lem: zaʾe[you]; ŋaʾe[I]; dug[speak]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.99]{3.99}} You speak with me  
+#etcsl: line-id=A.3.101.187
+
+#etcsl#cf cf. 3.99
+
+A.3.101.188. ŋe₂₆-e za-e mu-de₃-dug₄
+#lem: ŋaʾe[I]; zaʾe[you]; dug[speak]
+#tr.en: and I speak with you. 
+#etcsl: line-id=A.3.101.188
+
+@end proverb
+
+@div proverb 3.102
+
+A.3.102.189. hu#-ru-um ti-ti ur-saŋ-e-ne
+#lem: hurum[junior]; ti[rib]; ursaŋ[warrior]
+#tr.en: Fools are the ribcages of heroes. 
+#etcsl: line-id=A.3.102.189
+
+@end proverb
+
+@div proverb 3.103
+
+A.3.103.190. hu-ru-um ka tuku
+#lem: hurum[junior]; kag[mouth]; tuku[acquire]
+#tr.en: The fool is garrulous. 
+#etcsl: line-id=A.3.103.190
+
+@end proverb
+
+@div proverb 3.104
+
+A.3.104.191. ur %e im-di %e me₂-er %e im-di
+#lem: ur[dog]; de[go]; meri[dagger]N; de[go]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.73]{6.1.07.73}} The dog moves, the knife moves, 
+#etcsl: line-id=A.3.104.191
+
+#etcsl#cf cf. 6.1.07.73
+
+A.3.104.192. %e mu-lu-ŋu₁₀ %e ba#-[ra-mu]-un-di
+#lem: mulu[person]N; de[go]
+#tr.en: but still my man does not move. 
+#etcsl: line-id=A.3.104.192
+
+@end proverb
+
+@div proverb 3.105
+
+A.3.105.193. ki ŋiri₃ ba-la₂ sukkal {d}ba-u₂#-ke₄
+#lem: ki[place]; ŋiri[foot]; la[hang]; sukkal[secretary]; Bau[1]DN
+#tr.en: Where someone is lame, 
+#etcsl: line-id=A.3.105.193
+
+A.3.105.194. [...]-na-ab-tah-e-še
+#lem: tah[add]
+#tr.en: …… the emissary of @wDN{Bau} comes to their aid. 
+#etcsl: line-id=A.3.105.194
+
+@end proverb
+
+@div proverb 3.106
+
+A.3.106.195. še nu-ŋal₂-la šu iri{ki}-ka
+#lem: še[barley]; ŋal[⟦be⟧ to be (there]; šu[hand]; iri[city]
+#tr.en: @note{cf. @xref[t.6.1.28,t.6.1.28.26]{6.1.28.26}} Where there is no grain, this is a sign of vengeance turned towards a city. 
+#etcsl: line-id=A.3.106.195
+
+#etcsl#cf cf. 6.1.28.26
+
+A.3.106.196. gi nu-ŋal₂-la nam-ukur₃-ra dirig-ga
+#lem: gi[reed]; ŋal[⟦be⟧ to be (there]; namukur[poverty]; dirig[make more than]
+#tr.en: Where there are no reeds, it is the worst of all poverty. 
+#etcsl: line-id=A.3.106.196
+
+@end proverb
+
+@div proverb 3.107
+
+A.3.107.197. niŋ₂ ga-til₃ nu ga-til₃ niŋ₂ ba-til nu ba-til
+#lem: niŋ[thing]; gatil[vow]; nu[not]; gatil[vow]; niŋ[thing]; til[complete]; nu[not]; til[complete]
+#tr.en: Something offered is not offered. 
+#etcsl: line-id=A.3.107.197
+
+A.3.107.198. niŋ₂ nu-kur₂-ra-am₃
+#lem: niŋ[thing]; kur[different]
+#tr.en: Something finished is not finished. 
+#etcsl: line-id=A.3.107.198
+
+@end proverb
+
+@div proverb 3.108
+
+A.3.108.199. zilulu šu hal-la ab-zil-zil
+#lem: zilulu[peddlar]; šu[hand]; hal[divide]; sil[split]
+#tr.en: A vagrant flays the skin of an opened hand. 
+#etcsl: line-id=A.3.108.199
+
+@end proverb
+
+@div proverb 3.109
+
+A.3.109.200. min-a-bi lu₂ 1(DIŠ)-gin₇-nam
+#lem: min[two]; lu[person]; n
+#tr.en: The two of them are like one man. 
+#etcsl: line-id=A.3.109.200
+
+@end proverb
+
+@div proverb 3.110
+
+A.3.110.201. ki an-ba-ŋu₁₀ e-ne in-pad₃-de₃
+#lem: ki[place]; anba[litter]; ane[he]; pad[find]
+#tr.en: Were he to find where I put my rubbish heap, he would say: @q{“You shouldn't go there!”} 
+#etcsl: line-id=A.3.110.201
+
+A.3.110.202. na-an-ni-ib#-dib-be₂-en
+#lem: dib[pass]
+#etcsl: line-id=A.3.110.202
+
+@end proverb
+
+@div proverb 3.111
+
+A.3.111.203. ud₅-de₃ nu-um-ŋen-na e₂-ri-a an-zu
+#lem: uzud[(female) goat]; ŋen[go]; eria[wasteland]; an[sky]
+#tr.en: @note{cf. @xref[t.6.1.08,t.6.1.08.b7]{6.1.08.b7}} Although it has never been there, the goat knows the wasteland. 
+#etcsl: line-id=A.3.111.203
+
+#etcsl#cf cf. 6.1.08.b7
+
+@end proverb
+
+@div proverb 3.112
+
+A.3.112.204. ka-ŋu₁₀ tu₇ bil-la₂ ma-ra-sed-de₃-en
+#lem: kag[mouth]; tu[soup]; bil[burn]; sed[cold]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 19-20}, @xref[t.6.1.28,t.6.1.28.28]{6.1.28.28}, @xref[t.6.2.3,]{6.2.3: UET 6/2 311 ll. 4-5}} With my mouth I cool the hot soup for you. 
+#etcsl: line-id=A.3.112.204
+
+#etcsl#cf cf. 6.1.22: ll. 19-20, 6.1.28.28, 6.2.3: UET 6/2 311 ll. 4-5
+
+A.3.112.205. ku₆-ta ŋiri₃-pad-ra₂ ma-ni-ib-degₓ(RI)-degₓ(RI)-ge-en
+#lem: kud[fish]; ŋiripadra[bone]; deg[gather up]
+#tr.en: I pick the bones from the fish for you. 
+#etcsl: line-id=A.3.112.205
+
+@end proverb
+
+@div proverb 3.113
+
+A.3.113.206. ka-ŋu₁₀ itid-da ka ba#-da-si
+#lem: kag[mouth]; itud[moon]; kag[mouth]; si[fill]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 311 l. 1}} My mouth, every month I fill you, my mouth. 
+#etcsl: line-id=A.3.113.206
+
+#etcsl#cf cf. 6.2.3: UET 6/2 311 l. 1
+
+@end proverb
+
+@div proverb 3.114
+
+A.3.114.207. eme-ŋu₁₀ anše kar-ra-gin₇ eŋer-bi-še₃ nu-gi₄-gi₄
+#lem: eme[tongue]; anše[equid]; kar[flee]; egir[back]; gi[turn]
+#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 311 ll. 2-3}} My tongue, like a runaway donkey, will not turn back. 
+#etcsl: line-id=A.3.114.207
+
+#etcsl#cf cf. 6.2.3: UET 6/2 311 ll. 2-3
+
+@end proverb
+
+@div proverb 3.115
+
+A.3.115.208. ud gid₂-da šukur₂-ŋu₁₀ bur₁₂-ra šag₄-ŋu₁₀ X X
+#lem: ud[sun]; gid[long]; šukur[food allocation]; bur[tear out]; šag[heart]; X; X
+#tr.en: All day long my food ration is kept away from me, 
+#etcsl: line-id=A.3.115.208
+
+A.3.115.209. ur-gir₁₅ mu-un-di-ni-ib-si
+#lem: urgir[(domestic) dog]; si[fill]
+#tr.en: my heart ……, but even a dog can satisfy its hunger. 
+#etcsl: line-id=A.3.115.209
+
+A.3.115.210. ŋa₂-ra ba-til ŋe₂₆-e ba-hul₂-le-en
+#lem: ŋaʾe[I]; til[complete]; ŋaʾe[I]; hul[rejoice]
+#tr.en: It's over for me, but should I be happy? 
+#etcsl: line-id=A.3.115.210
+
+A.3.115.211. ama-ŋu₁₀ šukur₂-ŋu₁₀ min-am₃ ba-ra-ab-ba
+#lem: ama[mother]; šukur[food allocation]; min[two]; ba[allot]
+#tr.en: My mother would not give me second helpings. 
+#etcsl: line-id=A.3.115.211
+
+@end proverb
+
+@div proverb 3.116
+
+A.3.116.212. gud-de₃ mur-ra gub
+#lem: gud[bull]; mur[fodder]; gub[stand]
+#tr.en: The ox standing in the fodder  
+#etcsl: line-id=A.3.116.212
+
+A.3.116.213. amar-ta e₂-ubur-ra# ba-ni-in-kur₉
+#lem: amar[calf]; eʾuburak[animal pen]; kur[enter]
+#tr.en: abandoned the calf to enter the pen. 
+#etcsl: line-id=A.3.116.213
+
+@end proverb
+
+@div proverb 3.117
+
+A.3.117.214. teš₂-e he₂-il₂-il₂ za-e lag-ga he₂-dur₂
+#lem: teš[unity]; il[raise]; zaʾe[you]; lag[clod (of earth)]; dur[sit]
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.g1]{6.1.19.g1}} You may lift it all together but you will put it down in pieces. 
+#etcsl: line-id=A.3.117.214
+
+#etcsl#cf cf. 6.1.19.g1
+
+@end proverb
+
+@div proverb 3.118
+
+A.3.118.215. niŋ₂ zu-a-ni ga-ra-an-da-ab-be₂
+#lem: niŋ[thing]; zu[know]; dug[speak]
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.a8]{6.1.26.a8}} When a man comes forward as a witness, saying: 
+#etcsl: line-id=A.3.118.215
+
+#etcsl#cf cf. 6.1.26.a8
+
+A.3.118.216. niŋ₂ nu-zu-am₃ lu₂-ki-inim-ma ab-ta-e₃
+#lem: niŋ[thing]; zu[know]; lukiʾinimak[witness]; e[leave]
+#tr.en: @q{“Let me tell you what I know about him”}, but does not know the relevant information, 
+#etcsl: line-id=A.3.118.216
+
+A.3.118.217. niŋ₂-gig {d}suen-na-kam
+#lem: niŋgig[evil]; Suen[1]DN
+#tr.en: it is an abomination to @wDN{Suen}. 
+#etcsl: line-id=A.3.118.217
+
+@end proverb
+
+@div proverb 3.119
+
+A.3.119.218. ka ŋal₂ taka₄-a nim ba-an-ku₄-ku₄
+#lem: kag[mouth]; ŋal[open]; taka[set aside]; nim[fly]; kur[enter]
+#tr.en: Flies enter an open mouth. 
+#etcsl: line-id=A.3.119.218
+
+@end proverb
+
+@div proverb 3.120
+
+A.3.120.219. sizkur₂-re nam-til₃ i₃-u₃-tud
+#lem: siškur[prayer]; namtil[life]; utud[give birth (to)]
+#tr.en: Offerings create life. 
+#etcsl: line-id=A.3.120.219
+
+@end proverb
+
+@div proverb 3.121
+
+A.3.121.220. sun₇-na nam-tag al-ŋa₂-ŋa₂ a₂-sag₃ al-il₂-il₂
+#lem: sun[authoritative]; namtaga[sin]; ŋar[put]; Asag[1]DN; il[raise]
+#tr.en: Punishment is assigned for the swaggerer; he is afflicted with diseases. 
+#etcsl: line-id=A.3.121.220
+
+@end proverb
+
+@div proverb 3.122
+
+A.3.122.221. he₂-em-ta-ab-ed₃-de₃
+#lem: ed[go up]
+#tr.en: Let him go down. 
+#etcsl: line-id=A.3.122.221
+
+@end proverb
+
+@div proverb 3.123
+
+A.3.123.222. a₂ zid-da-zu maš₂ he₂-da-ŋal₂
+#lem: a[arm]; zid[right]; maš[goat]; ŋal[⟦be⟧ to be (there]
+#tr.en: You should hold a kid in your right arm, 
+#etcsl: line-id=A.3.123.222
+
+A.3.123.223. gab₂-bu-zu kadra he₂-da-ŋal₂
+#lem: gab[left (hand)]; kadra[greeting gift]; ŋal[⟦be⟧ to be (there]
+#tr.en: and a bribe in your left arm. 
+#etcsl: line-id=A.3.123.223
+
+@end proverb
+
+@div proverb 3.124
+
+A.3.124.224. umbin# ku₅-ru# tug₂-mu-dur₇-ra-am₃ mur₁₀
+#lem: umbin[finger]; kud[break off]; tugmudura[mourning garment]; mur[dress]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.14]{6.1.07.14}} The manicurist is himself dressed in dirty rags. 
+#etcsl: line-id=A.3.124.224
+
+#etcsl#cf cf. 6.1.07.14
+
+@end proverb
+
+@div proverb 3.125
+
+A.3.125.225. al#-ŋen al-zal al-til ki nu-um-gub
+#lem: ŋen[go]; zal[pass time]; til[complete]; ki[place]; gub[stand]
+#tr.en: @note{cf. 5.4.01: l. 98} He came, he stayed a while; he finished, he did not stay put. 
+#etcsl: line-id=A.3.125.225
+
+#etcsl#cf cf. 5.4.01: l. 98
+
+@end proverb
+
+@div proverb 3.126
+
+@variants
+
+A.3.126.226. bi₂-in-dug₄ nu-mu-un-ni-[X-X]
+#lem: dug[speak]; X
+#tr.en: @varh[t6103.v21]{He spoke …… not …… his mouth is full of lies. 
+#etcsl: line-id=A.3.126.226
+
+A.3.126.227. ka-ga₁₄-ni lul-la-am₃
+#lem: kag[mouth]; lul[false]
+#tr.en: } @vart[t6103.v22,]{@note{1 ms. has instead:} @gap{2 lines fragmentary} } 
+#etcsl: line-id=A.3.126.227
+
+@variant
+
+#etcsl#ms instead of lines 226-227, 1 ms. has:
+A.3.126.A. [...]-ŋal₂#-e
+#lem: ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.3.126.A
+
+A.3.126.B. [...] dug₄# nu-tar-ra-bi
+#lem: X; dug[speak]; tar[cut]
+#etcsl: line-id=A.3.126.B
+
+@endvariants
+@end proverb
+
+@div proverb 3.127
+
+A.3.127.228. umbin gig-ga ur₂-ra ŋal₂-la-ŋu₁₀
+#lem: umbin[finger]; gig[sick]; ur[root]; ŋal[⟦be⟧ to be (there]
+#tr.en: My fingernail that hurts is clutched in my embrace. 
+#etcsl: line-id=A.3.127.228
+
+A.3.127.229. ŋiri₃ gig-ga {kuš}e-sir₂ ŋal₂-la#-ŋu₁₀
+#lem: ŋiri[foot]; gig[sick]; esir[sandal(s)]; ŋal[⟦be⟧ to be (there]
+#tr.en: My foot that hurts is in my sandal. 
+#etcsl: line-id=A.3.127.229
+
+A.3.127.230. šag₄ gig-ga-ŋu₁₀ a-ba-a hu-mu-un-pad₃-de₃
+#lem: šag[heart]; gig[sick]; aba[who?]; pad[find]
+#tr.en: But who will find my aching heart? 
+#etcsl: line-id=A.3.127.230
+
+@end proverb
+
+@div proverb 3.128
+
+A.3.128.231. {d}inana-ke₄ šag₄ gig-ga-ŋu₁₀ i₃ he₂-eb-de₂
+#lem: Inanak[1]DN; šag[heart]; gig[sick]; i[oil]; de[pour]
+#tr.en: May @wDN{Inana} pour oil on my heart that aches. 
+#etcsl: line-id=A.3.128.231
+
+@end proverb
+
+@div proverb 3.129
+
+A.3.129.232. tug₂ dim-gal-la-ke₄ id₂-da bi₂-ib-uš₂-e
+#lem: tug[textile]; dimgal[pole]; id[river]; uš[shut off]
+#tr.en: The sail on the mast blocks the river. 
+#etcsl: line-id=A.3.129.232
+
+@end proverb
+
+@div proverb 3.130
+
+A.3.130.233. du₁₄-da in-na di-da inim-ma he₂-ri-ib-pad₃-de₃
+#lem: dud[combat]; in[abuse]; di[speak]; inim[word]; pad[find]
+#tr.en: May you find the response to an insult hurled at you in a dispute. 
+#etcsl: line-id=A.3.130.233
+
+@end proverb
+
+@div proverb 3.131
+
+A.3.131.234. an-na-dug₃-ga mun he₂-gu₇-e
+#lem: dug[good]; mun[salt]; gu[eat]
+#tr.en: If it is too sweet for him, let him eat salt. 
+#etcsl: line-id=A.3.131.234
+
+A.3.131.235. nu-un-na-dug₃-ga {u₂}munzer he₂-gu₇-e
+#lem: dug[good]; munzer[licorice?]; gu[eat]
+#tr.en: If it is not too sweet for him, let him eat licorice. 
+#etcsl: line-id=A.3.131.235
+
+@end proverb
+
+@div proverb 3.132
+
+A.3.132.236. izi nu-ub-da-an-ten-a-aš li-gi₄-in-zu sar-ra-ab
+#lem: izi[fire]; ten[extinguish]; ligin[tablet with excerpts]; sar[write]
+#tr.en: Before the fire has gone out, write your exercise tablet! 
+#etcsl: line-id=A.3.132.236
+
+@end proverb
+
+@div proverb 3.132A
+
+A.3.132A.237. X X TE me-še₃-am₃ KA ki in-e₃
+#lem: X; X; X; meše[where to? whither?]; X; ki[place]; e[leave]
+#tr.en: Where ……? 
+#etcsl: line-id=A.3.132A.237
+
+A.3.132A.238. [...] bur₂-ra-ab [...] X
+#lem: X; bur[spread out]; X; X
+#tr.en: Solve ……! 
+#etcsl: line-id=A.3.132A.238
+
+@end proverb
+
+@div proverb 3.133
+
+A.3.133.239. X IM NI BA A geme₂ te-en# BA gig-ga#
+#lem: X; X; X; X; X; geme[female worker]; ten[extinguish]; X; gig[sick]
+#tr.en: … 
+#etcsl: line-id=A.3.133.239
+
+A.3.133.240. {ŋiš}dusu ni₂-ŋa₂ zag X a UD X
+#lem: dupsik[basket (for carrying earth and bricks)]; ni[self]; zag[side]; X; a[water]; X; X
+#tr.en: …  
+#etcsl: line-id=A.3.133.240
+
+A.3.133.241. X bal-a sahar-bi ba-su₃-su₃-un
+#lem: X; bala[turn]; sahar[soil]; su[sprinkle]
+#tr.en: slave girl …… ill …… basket …… myself …… you sprinkle the dirt on the ……. 
+#etcsl: line-id=A.3.133.241
+
+@end proverb
+
+@div proverb 3.134
+
+A.3.134.242. diŋir# lu₂-ulu₃ sipad u₂ kiŋ₂-ŋa₂ lu₂-ulu₃-kam
+#lem: diŋir[deity]; lulu[man]; sipad[shepherd]; u[plant(s)]; kiŋ[seek]; lulu[man]
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h32]{6.2.3: UET 6/2 255}} A man's personal god is a shepherd who finds pasturage for the man. 
+#etcsl: line-id=A.3.134.242
+
+#etcsl#cf cf. 6.2.3: UET 6/2 255
+
+A.3.134.243. udu-gin₇ u₂ gu₇-a he₂-en-tum₂-tum₂-mu
+#lem: udu[sheep]; u[plant(s)]; gu[eat]; tum[bring]
+#tr.en: Let him lead him like sheep to the food they can eat. 
+#etcsl: line-id=A.3.134.243
+
+@end proverb
+
+@div proverb 3.135
+
+A.3.135.244. en-na-bi-še₃-am₃ ka silim šum₂-ma
+#lem: en[lord]; kag[mouth]; silim[healthy]; šum[give]
+#tr.en: As long as  
+#etcsl: line-id=A.3.135.244
+
+A.3.135.245. nu-un-da-ab-da₁₃-da₁₃
+#lem: taka[set aside]
+#tr.en: the boasters haven't departed, 
+#etcsl: line-id=A.3.135.245
+
+A.3.135.246. ka-bi igi niŋin₂ ma-ab-tum₂-me#
+#lem: kag[mouth]; igi[eye]; niŋin[encircle]; tum[bring]
+#tr.en: their mouths make me uneasy. 
+#etcsl: line-id=A.3.135.246
+
+@end proverb
+
+@div proverb 3.136
+
+A.3.136.247. an ba-gul-gul ki ba-sag₃-sag₃
+#lem: an[sky]; gul[destroy]; ki[place]; sag[strike]
+#tr.en: The heavens were destroyed, the earth was shaken. 
+#etcsl: line-id=A.3.136.247
+
+A.3.136.248. an ba-gul ki ba-sag₃-ga!-ta
+#lem: an[sky]; gul[destroy]; ki[place]; sag[strike]
+#tr.en: After the heavens were destroyed and the earth was shaken, 
+#etcsl: line-id=A.3.136.248
+
+A.3.136.249. lu₂ ni₂-bi-a ba-an-gub
+#lem: lu[person]; ni[self]; gub[stand]
+#tr.en: the people were still standing there on their own. 
+#etcsl: line-id=A.3.136.249
+
+@end proverb
+
+@div proverb 3.137
+
+A.3.137.250. us₂-saŋ si nu-sa₂ egir-bi nu-gen₆-na
+#lem: udsaŋ[stake]; si[horn]; sa[equal]; egir[back]; gin[confirm]
+#tr.en: The rigging is not ship-shape, and the stern is not seaworthy. 
+#etcsl: line-id=A.3.137.250
+
+@end proverb
+
+@div proverb 3.138
+
+A.3.138.251. elam{ki} kur₉-ra-am₃ zu₂-ni ba-da-keše₂
+#lem: Elam[1]GN; kur[enter]; zu[tooth]; kešed[bind]
+#tr.en: He who entered @wGN{Elam} -- his lips are sealed. 
+#etcsl: line-id=A.3.138.251
+
+@end proverb
+
+@div proverb 3.139
+
+A.3.139.252. elam{ki} al#-til₃-la-ni nu-dug₃-ga
+#lem: Elam[1]GN; til[live (of a single person)]; dug[good]
+#tr.en: He who has to live in @wGN{Elam} -- his life is not good. 
+#etcsl: line-id=A.3.139.252
+
+@end proverb
+
+@div proverb 3.140
+
+A.3.140.253. gig gu₂-nida lal₃-gin₇ ib₂-ak
+#lem: kib[wheat]; gunida[designation of grain]; lal[syrup]; ak[do]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.95]{6.1.07.95}} Wheat and hulled barley was made to taste like honey. 
+#etcsl: line-id=A.3.140.253
+
+#etcsl#cf cf. 6.1.07.95
+
+A.3.140.254. mar-tu i₃-gu₇-a niŋ₂ šag₄-bi nu-un-zu
+#lem: Martu[1 Amorite]; gu[eat]; niŋ[thing]; šag[heart]; zu[know]
+#tr.en: The nomad ate it and didn't recognise what was in it. 
+#etcsl: line-id=A.3.140.254
+
+@end proverb
+
+@div proverb 3.141
+
+A.3.141.255. al-kar-kar-re egir-ra-ni al-kar#
+#lem: kar[flee]; egir[back]; kar[flee]
+#tr.en: He who keeps fleeing, flees from his own past. 
+#etcsl: line-id=A.3.141.255
+
+@end proverb
+
+@div proverb 3.142
+
+A.3.142.256. u₁₈-lu igi-ŋa₂ sahar-bi! in-sig₉-ga
+#lem: ulu[south wind]; igi[eye]; sahar[soil]; sig[put into]
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.c9]{6.1.26.c9}} The south wind got its sand into my eyes: 
+#etcsl: line-id=A.3.142.256
+
+#etcsl#cf cf. 6.1.26.c9
+
+A.3.142.257. a-na-aš-am₃ egir-ra mu-un-dub₂-be₂-en
+#lem: anaš[why?]; egir[back]; dub[tremble]
+#tr.en: @q{“Why do you strike me in the back?”} 
+#etcsl: line-id=A.3.142.257
+
+@end proverb
+
+@div proverb 3.143
+
+A.3.143.258. gi-gur-ta {ŋiš}ma₂-še₃
+#lem: gigur[measuring container]; ma[ship]
+#tr.en: Between the basket and the  
+#etcsl: line-id=A.3.143.258
+
+A.3.143.259. a-šag₄ si-mu-ur₄-ru-um{ki}
+#lem: ašag[field]; Simurrum[1]SN
+#tr.en: boat are the fields of @wSN{Simurrum}. 
+#etcsl: line-id=A.3.143.259
+
+@end proverb
+
+@div proverb 3.144
+
+A.3.144.260. šah₂ tun₃-pad ka ŋal₂-la-gin₇
+#lem: šah[pig]; tunpad[piece]; kag[mouth]; ŋal[⟦be⟧ to be (there]
+#tr.en: You keep walking around the storehouse like  
+#etcsl: line-id=A.3.144.260
+
+A.3.144.261. ŋa₂-nun am₃-niŋin₂-niŋin₂-e-en
+#lem: ŋanun[storehouse]; niŋin[encircle]
+#tr.en: a pig with a morsel in its mouth. 
+#etcsl: line-id=A.3.144.261
+
+@end proverb
+
+@div proverb 3.145
+
+A.3.145.262. zag tag-ga {d}inana ŋeštug₂ u₁₈-lu ma-mu₂-da-ka-ni
+#lem: zag[side]; tag[touch]; Inanak[1]DN; ŋeštug[ear]; ulu[cvve]; mamud[dream]
+#tr.en: For him who is rejected by @wDN{Inana}, his dream is to forget. 
+#etcsl: line-id=A.3.145.262
+
+@end proverb
+
+@div proverb 3.146
+
+A.3.146.263. al-sa nu-sa ab-ta-dub-be₂-en
+#lem: sa[roast]; sa[roast]; dub[heap up]
+#tr.en: Whether it is roasted or not, you should sprinkle the grain. 
+#etcsl: line-id=A.3.146.263
+
+@end proverb
+
+@div proverb 3.147
+
+A.3.147.264. al-ur₄-ur₄-na-ka-nam
+#lem: ur[gather]
+#tr.en: It is characteristic of your harvesting, it is characteristic of your gleaning, 
+#etcsl: line-id=A.3.147.264
+
+A.3.147.265. al-degₓ(RI)-degₓ(RI)-e-na-ka-nam
+#lem: deg[gather up]
+#tr.en: that they say: @q{“He is gone, 
+#etcsl: line-id=A.3.147.265
+
+A.3.147.266. ba-an-ŋen ba-an-ŋen mu-ni-ib-be₂-ne
+#lem: ŋen[go]; ŋen[go]; e[speak]
+#tr.en: he is gone.”} 
+#etcsl: line-id=A.3.147.266
+
+@end proverb
+
+@div proverb 3.148
+
+A.3.148.267. ha-ma-gub-be₂-en gudug-e-ne
+#lem: gub[stand]; gudug[priest]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 191-193}, @xref[t.6.1.28,t.6.1.28.27]{6.1.28.27}} @q{“You should serve me”} is typical of purification priests. 
+#etcsl: line-id=A.3.148.267
+
+#etcsl#cf cf. 6.1.22: ll. 191-193, 6.1.28.27
+
+A.3.148.268. haš₂-za gur-ra ašgab-e-ne
+#lem: haš[thigh]; gur[turn]; ašgab[leatherworker]
+#tr.en: Bowing over your hips is typical of leather-workers. 
+#etcsl: line-id=A.3.148.268
+
+A.3.148.269. ub-da an-gub lukur-e-ne
+#lem: ub[corner]; gub[stand]; lukur[priestess]
+#tr.en: To be stationed in all corners is typical of @fsux{lukur} women. 
+#etcsl: line-id=A.3.148.269
+
+A.3.148.270. ga-ba-e-de₃-gub nu-kiri₆-ke₄-[ne]
+#lem: gub[stand]; nukirik[gardener]
+#tr.en: @q{“I will be there with you”} is typical of gardeners. 
+#etcsl: line-id=A.3.148.270
+
+A.3.148.271. zi {d}en-ki i₃-pad₃ tug₂-zu e₂-a ud ba-ra-zal-e {lu₂}azlag₂-e-ne
+#lem: zi[life]; Enkik[1]DN; pad[find]; tug[textile]; e[house]; ud[sun]; zal[pass time]; azlag[fuller]
+#tr.en: @q{“I swear by @wDN{Enki} that your garments will take no time in this establishment”} is typical of fullers. 
+#etcsl: line-id=A.3.148.271
+
+@end proverb
+
+@div proverb 3.149
+
+A.3.149.272. ud al-šu₂-šu₂-ru im nu-šeŋ₃-šeŋ₃
+#lem: ud[sun]; šuš[cover]; im[rain]; šeŋ[rain]
+#tr.en: @note{cf. @xref[t.6.1.14,t.6.1.14.6]{6.1.14.6}, @xref[t.6.1.16,t.6.1.16.c5]{6.1.16.c5}, @xref[t.6.1.22,]{6.1.22: ll. 172-175}, @xref[t.6.1.25,t.6.1.25.1]{6.1.25.1}} The day became cloudy but it did not rain. 
+#etcsl: line-id=A.3.149.272
+
+#etcsl#cf cf. 6.1.14.6, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1
+
+A.3.149.273. im al-šeŋ₃ {kuš}e-sir₂ nu-du₈
+#lem: im[rain]; šeŋ[rain]; esir[sandal(s)]; du[spread]
+#tr.en: It rained, 
+#etcsl: line-id=A.3.149.273
+
+A.3.149.274. {id₂}idigna-a ka-ba mu-un-zur-re
+#lem: Idigna[1 Tigris]; kag[mouth]; zur[roil]
+#tr.en: but not enough for people to undo their sandals. 
+#etcsl: line-id=A.3.149.274
+
+A.3.149.275. a-gar₃-re nu-si-si
+#lem: agar[meadow]; si[fill]
+#tr.en: The @wWN{Tigris} was not surging at its inlet, so water did not fill the arable lands. 
+#etcsl: line-id=A.3.149.275
+
+@end proverb
+
+@div proverb 3.150
+
+A.3.150.276. eridug{ki} he₂-ŋal₂-la du₃-a-ba
+#lem: Eridug[1]SN; heŋal[plenty]; du[build]
+#tr.en: @note{cf. 3.3.07: ll. 5-7} In @wSN{Eridug}, built in abundance, 
+#etcsl: line-id=A.3.150.276
+
+#etcsl#cf cf. 3.3.07: ll. 5-7
+
+A.3.150.277. {ugu}ugu₄-bi e₂ nar-ra-ka igi la₂-bi al-tuš
+#lem: ugubi[monkey]; e[house]; nar[musician]; igi[eye]; la[hang]; tuš[sit (down)]
+#tr.en: the monkey sits with longing eyes in the singer's house. 
+#etcsl: line-id=A.3.150.277
+
+@end proverb
+
+@div proverb 3.151
+
+A.3.151.278. i₃ ga {ŋiš}silig-ta ab-ta-šar₂
+#lem: i[oil]; ga[milk]; silig[an ax]; šar[numerous]V/i
+#tr.en: Cream and milk are multiplied by an axe. 
+#etcsl: line-id=A.3.151.278
+
+@end proverb
+
+@div proverb 3.152
+
+A.3.152.279. 1(DIŠ)-bi 1(DIŠ) he₂-a igi-igi-bi an-di-ni-ib-kur₂-kur₂
+#lem: n; n; me[be]; igi[eye]; kur[different]
+#tr.en: @note{cf. @xref[t.6.1.15,t.6.1.15.f7]{6.1.15.f7}} Let the solitary one remain alone; he is forever treacherous. 
+#etcsl: line-id=A.3.152.279
+
+#etcsl#cf cf. 6.1.15.f7
+
+@end proverb
+
+@div proverb 3.153
+
+A.3.153.280. ud₅-de₃ nam-um-ma ba-dug₄ nam-u₂-zug₄ ib₂-ak
+#lem: uzud[(female) goat]; namumma[agedness]; dug[speak]; namuzug[pollutedness]; ak[do]
+#tr.en: The goat spoke in the manner of a wise old woman but acted in the manner of an unclean woman. 
+#etcsl: line-id=A.3.153.280
+
+@end proverb
+
+@div proverb 3.154
+
+A.3.154.281. 1(DIŠ) lag 1(DIŠ) ab-sin₂ ŋe₂₆-e eš₅-kam-ma-bi-me-en
+#lem: n; lag[clod (of earth)]; n; absin[furrow]; ŋaʾe[I]; n
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.11]{6.1.07.11}, @xref[t.1.8.2.1,]{1.8.2.1: l. 246}} The clod on the one hand, the furrow on the other hand. And I am the third one there. 
+#etcsl: line-id=A.3.154.281
+
+#etcsl#cf cf. 6.1.07.11, 1.8.2.1: l. 246
+
+@end proverb
+
+@div proverb 3.155
+
+A.3.155.282. kašbirₓ(|A.SUD|)-a ga-naŋ zag gal-la ga-tuš
+#lem: kašbir[diluted beer]; naŋ[drink]; zag[side]; gal[big]; tuš[sit (down)]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.15]{6.1.07.15}} Let me drink beer shandy and sit in the seat of honour! 
+#etcsl: line-id=A.3.155.282
+
+#etcsl#cf cf. 6.1.07.15
+
+@end proverb
+
+@div proverb 3.156
+
+A.3.156.283. nu-mu-na-kal ezem-ma ba-DU
+#lem: kal[rare]; ezem[festival]; X
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.16]{6.1.07.16}} Although it was not important to him, he attended the festival. 
+#etcsl: line-id=A.3.156.283
+
+#etcsl#cf cf. 6.1.07.16
+
+@end proverb
+
+@div proverb 3.157
+
+A.3.157.284. ud mu-e-ši-zal a-na-am₃ šu mu-da!-ti#
+#lem: ud[sun]; zal[pass time]; ana[what?]; šu[hand]; teŋ[approach]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.21]{6.1.07.21}} The time passed, and what did you gain? 
+#etcsl: line-id=A.3.157.284
+
+#etcsl#cf cf. 6.1.07.21
+
+@end proverb
+
+@div proverb 3.158
+
+A.3.158.285. alan mu-sag₉ ušbar₇ mu-un-da-hul₂
+#lem: alan[image]; sag[good]; ušbar[father-in-law]; hul[rejoice]
+#tr.en: @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 148-150}} The figure is good. The father-in-law rejoices over it: 
+#etcsl: line-id=A.3.158.285
+
+#etcsl#cf cf. 6.1.22: ll. 148-150
+
+A.3.158.286. i-gi₄-in-zu lu₂-ulu₃-am₃
+#lem: iginzu[as if]; lulu[man]
+#tr.en: @q{“It is just like a real person!”} 
+#etcsl: line-id=A.3.158.286
+
+@end proverb
+
+@div proverb 3.159
+
+A.3.159.287. inim dug₃ gu₅-li lu₂ šar₂-ra-ka
+#lem: inim[word]; dug[good]; guli[friend]; lu[person]; šar[numerous]V/i
+#tr.en: A good word is a friend to numerous men. 
+#etcsl: line-id=A.3.159.287
+
+@end proverb
+
+@div proverb 3.160
+
+A.3.160.288. inim gul-la gud 4 la₂-a
+#lem: inim[word]; gul[destroy]; gud[bull]; n; la[hang]
+#tr.en: A destructive (?) word is four oxen yoked together. 
+#etcsl: line-id=A.3.160.288
+
+@end proverb
+
+@div proverb 3.161
+
+A.3.161.289. šu nu-luh-ha ka-e tum₃-da niŋ₂-gig-ga-am₃
+#lem: šu[hand]; luh[clean]; kag[mouth]; tum[bring]; niŋgig[that which is bad]
+#tr.en: Putting unwashed hands to one's mouth is disgusting. 
+#etcsl: line-id=A.3.161.289
+
+@end proverb
+
+@div proverb 3.162
+
+A.3.162.290. engar igi-ŋal₂-la e₂-a hu-mu-e-da-an-til₃
+#lem: engar[farmer]; igiŋal[wise]; e[house]; til[live (of a single person)]
+#tr.en: May a clever farmer live at home with you. 
+#etcsl: line-id=A.3.162.290
+
+@end proverb
+
+@div proverb 3.163
+
+A.3.163.291. naŋ-ŋu₁₀ id₂-da ki-nu₂-ŋu₁₀ ki-kid-am₃
+#lem: naŋ[drink]; id[river]; kinud[sleeping quarter]; kikid[matted place]
+#tr.en: My drink is a river. The place where I sleep is a place of reed mats. 
+#etcsl: line-id=A.3.163.291
+
+@end proverb
+
+@div proverb 3.164
+
+A.3.164.292. muš-da-gur₄-e suh am₃-keše₂-keše₂
+#lem: mušdagura[gecko]; suh[crown]; kešed[bind]
+#tr.en: The gecko wears a tiara. 
+#etcsl: line-id=A.3.164.292
+
+@end proverb
+
+@div proverb 3.165
+
+A.3.165.293. e₂-še₃ ga-ŋen-na saŋ a-ab-kal
+#lem: e[house]; ŋen[go]; saŋ[head]; kal[rare]
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.161]{6.1.02.161}, @xref[t.6.1.25,t.6.1.25.8]{6.1.25.8}} @q{“I'm going home”} is what he prefers. 
+#etcsl: line-id=A.3.165.293
+
+#etcsl#cf cf. 6.1.02.161, 6.1.25.8
+
+@end proverb
+
+@div proverb 3.166
+
+A.3.166.294. šag₄-ŋu₁₀ {ŋiš}kiri₆ ha-ra-dirig-ga
+#lem: šag[heart]; kiri[(fruit) plantation]; dirig[make more than]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.79]{6.1.07.79}} The sun never leaves my heart, 
+#etcsl: line-id=A.3.166.294
+
+#etcsl#cf cf. 6.1.07.79
+
+A.3.166.295. {d}utu nu-um-ta-e₃
+#lem: Utu[1]DN; e[leave]
+#tr.en: which surpasses a garden. 
+#etcsl: line-id=A.3.166.295
+
+@end proverb
+
+@div proverb 3.167
+
+A.3.167.296. an gur₃-ru ki! šu-ni-še₃! la₂-a
+#lem: an[sky]; gur[lift]; ki[place]; šu[hand]; la[hang]
+#tr.en: @note{cf. @xref[t.6.1.04,t.6.1.04.4]{6.1.04.4}, @xref[t.6.1.22,]{6.1.22: l. 189}, @xref[t.6.2.4,]{6.2.4: VAT 21604 (+) 21605 Seg. B l. 2}} He holds up the sky, letting the earth dangle from his hands. 
+#etcsl: line-id=A.3.167.296
+
+#etcsl#cf cf. 6.1.04.4, 6.1.22: l. 189, 6.2.4: VAT 21604 (+) 21605 Seg. B l. 2
+
+@end proverb
+
+@div proverb 3.168
+
+A.3.168.297. še muš₅ niŋ₂-gig lu₂-gidim-ma-ka
+#lem: še[barley]; šeŋuš[barley]; niŋgig[evil]; lugidimak[necromancer]
+#tr.en: The @fsux{muš} barley is reserved for the necromancer. 
+#etcsl: line-id=A.3.168.297
+
+@end proverb
+
+@div proverb 3.169
+
+A.3.169.298. zid₂#-gig niŋ₂-gig diŋir-ra-na-ka
+#lem: zidgig[wheat flour]; niŋgig[evil]; diŋir[deity]
+#tr.en: Wheat flour is sacred to his god. 
+#etcsl: line-id=A.3.169.298
+
+@end proverb
+
+@div proverb 3.170
+
+A.3.170.299. lu₂ {ŋiš}ma₂ dirig-ga niŋ₂ kab₂-a di-da
+#lem: lu[person]; ma[ship]; dirig[make more than]; niŋ[thing]; kab[test]; di[speak]
+#tr.en: @note{cf. @xref[t.6.1.25,t.6.1.25.13]{6.1.25.13}, @xref[t.6.1.26,t.6.1.26.a10]{6.1.26.a10}, @xref[t.6.2.5,]{6.2.5: BM 57994 Seg. A ll. 1-3}} If a man sailing downstream says @q{“Give way!”} (?) -- if the  
+#etcsl: line-id=A.3.170.299
+
+#etcsl#cf cf. 6.1.25.13, 6.1.26.a10, 6.2.5: BM 57994 Seg. A ll. 1-3
+
+A.3.170.300. ugu tug₂#-ga gal₄-la šu dug₄-ga
+#lem: ugu[skull]; tug[textile]; gala[female genitals]; šu[hand]; dug[speak]
+#tr.en: hand touches a woman's genitals over  
+#etcsl: line-id=A.3.170.300
+
+A.3.170.301. niŋ₂-gig {d}suen-na-ka#
+#lem: niŋgig[evil]; Suen[1]DN
+#tr.en: her clothes -- it is an abomination to @wDN{Suen}. 
+#etcsl: line-id=A.3.170.301
+
+@end proverb
+
+@div proverb 3.171
+
+A.3.171.302. {im}šu-rin-na šir₃-ra ninda al-tum₃#-mu#
+#lem: šurin[oven]; šir[song]; ninda[bread]; tum[bring]
+#tr.en: Carrying bread to the oven whilst  
+#etcsl: line-id=A.3.171.302
+
+A.3.171.303. niŋ₂-gig {d}inana-ka
+#lem: niŋgig[evil]; Inanak[1]DN
+#tr.en: singing is an abomination to @wDN{Inana}. 
+#etcsl: line-id=A.3.171.303
+
+@end proverb
+
+@div proverb 3.172
+
+A.3.172.304. GA-GA-ŋu₁₀ lu₂-ŋu₁₀ sug₄-ga mu-da-ab-be₂
+#lem: X; lu[person]; sug[empty]; dug[speak]
+#tr.en: My …… speaks deceitfully with my man. 
+#etcsl: line-id=A.3.172.304
+
+@end proverb
+
+@div proverb 3.173
+
+A.3.173.305. %e e-ze₂ %s niŋ₂-erim₂-e an-na-ra-ab-dul
+#lem: eze[sheep]N; niŋerim[evil]; dul[cover]
+#tr.en: The sheep (?) is shrouded in wickedness for him. 
+#etcsl: line-id=A.3.173.305
+
+@end proverb
+
+@div proverb 3.174
+
+A.3.174.306. {gi}šag₄-sur nu-ub-ra-ah#-a zid₂-ni nu-šub-be₂
+#lem: šagsur[sieve]; rah[beat]; zid[flour]; šub[fall]
+#tr.en: If the sieve is not shaken, his flour will not drop from it. 
+#etcsl: line-id=A.3.174.306
+
+@end proverb
+
+@div proverb 3.175
+
+A.3.175.307. igi-tum₃-la₂ (1:gid₂-i-da:1) niŋ₂-gig {d}nin-urta-ke₄
+#lem: igitumla[spy?]; gid[long]; niŋgig[evil]; Ninurtak[1]DN
+#tr.en: Coveting and @varh[t6103.v23]{reaching out for things } @vart[t6103.v24,]{@note{1 ms. has instead:} spying } are abominations to @wDN{Ninurta}. 
+#etcsl: line-id=A.3.175.307
+
+:307v.1.1: ($1 ms. has instead:$) igi du₈
+#lem: igi[eye]; du[spread]
+
+@end proverb
+
+@div proverb 3.176
+
+A.3.176.308. nam-tar-re gaba-ri-me-en
+#lem: namtar[fate]; gabari[equal]
+#tr.en: I am confronting Fate: @q{“Speak in the way of a just man, 
+#etcsl: line-id=A.3.176.308
+
+A.3.176.309. zid-du dug₄-ga-ab erim₂-du dug₄-ga-ab
+#lem: ziddu[righteous(-acting)]; dug[speak]; erimdu[hostile]; dug[speak]
+#tr.en: or speak in the way of a wicked man, it makes no difference.”} 
+#etcsl: line-id=A.3.176.309
+
+@end proverb
+
+@div proverb 3.177
+
+A.3.177.310. ka-ta he₂-ŋal₂ šu-a nu-ŋal₂
+#lem: kag[mouth]; heŋal[plenty]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: @note{cf. @xref[t.6.2.2,t622.h2]{6.2.2: MDP 27 89}, @xref[t.6.2.3,]{6.2.3: UET 6/2 322 l. 3}} What comes out of one's mouth is not in one's hand. 
+#etcsl: line-id=A.3.177.310
+
+#etcsl#cf cf. 6.2.2: MDP 27 89, 6.2.3: UET 6/2 322 l. 3
+
+@end proverb
+
+@div proverb 3.178
+
+A.3.178.311. [...] X-ra
+#lem: X; X
+#tr.en: 2183=} @vart[t6103.v26,]{@note{1 ms. has instead:} @gap{2 lines fragmentary} } 
+#etcsl: line-id=A.3.178.311
+
+A.3.178.312. (1:[...]-kur₉#-ra:1)
+#lem: kur[enter]
+#etcsl: line-id=A.3.178.312
+
+:312v.1.1: ($1 ms. has instead:$) dam-a-ni X [X X]
+#lem: dam[spouse]; X; X; X
+
+@end proverb
+
+@div proverb 3.179
+
+A.3.179.313. u₃-u₈-a bi₂-in-dug₄ {ŋiš}ma₂ ba-da-an-su
+#lem: ua[oh!]; dug[speak]; ma[ship]; su[sink]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.77]{6.1.07.77}} He said: @q{“Woe!”} and the boat sank with him. 
+#etcsl: line-id=A.3.179.313
+
+#etcsl#cf cf. 6.1.07.77
+
+A.3.179.314. a-la-la bi₂-in-dug₄ gi-muš ba-da-an-haš
+#lem: alala[soothing expression]; dug[speak]; gimuš[boat pole]; haš[break off]
+#tr.en: He said: @q{“Alas!”} and the rudder broke. 
+#etcsl: line-id=A.3.179.314
+
+@end proverb
+
+@div proverb 3.180
+
+A.3.180.315. [gu₂] zu-hu-ul-la-ni-ta du-du-a
+#lem: gu[neck]; zuhul[pierce]; du[go]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.90]{6.1.07.90}} He is walking around despite his wounded neck. 
+#etcsl: line-id=A.3.180.315
+
+#etcsl#cf cf. 6.1.07.90
+
+@end proverb
+
+@div proverb 3.181
+
+A.3.181.316. gu₂# bal gu₂ ki-ta al-ak-e
+#lem: gu[neck]; bala[turn]; gu[neck]; ki[place]; ak[do]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.91]{6.1.07.91}} He turns things upside down. 
+#etcsl: line-id=A.3.181.316
+
+#etcsl#cf cf. 6.1.07.91
+
+@end proverb
+
+@div proverb 3.182
+
+A.3.182.317. a-šag₄ buru₄{mušen}-gin₇ zu₂ e-da-ra-ah
+#lem: ašag[field]; buru[bird(s)]; zu[tooth]; rah[beat]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.92]{6.1.07.92}} He devours things as crows do a field. 
+#etcsl: line-id=A.3.182.317
+
+#etcsl#cf cf. 6.1.07.92
+
+@end proverb
+
+@div proverb 3.183
+
+A.3.183.318. uš-bar du₈-a geme₂ (1:min-a-bi:1) uŋ₃-il₂ du₈-a arad (2:eš₅-a-bi:2)
+#lem: ušbar[weaver]; du[spread]; geme[female worker]; n; UN.IL₂[menial]; du[spread]; arad[slave]; n
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.105]{6.1.07.105}} A free weaver equals @varh[t6103.v27]{two slave girls } @vart[t6103.v28,]{@note{1 ms. has instead:} one slave girl }. A free worker equals @varh[t6103.v29]{three } @vart[t6103.v30,]{@note{1 ms. has instead:} two } slaves. 
+#etcsl: line-id=A.3.183.318
+
+:318v.1.1: ($1 ms. has instead:$) 1(DIŠ)-a-bi
+#lem: n
+:318v.2.1: ($1 ms. has instead:$) min-a-bi
+#lem: min[two]
+
+#etcsl#cf cf. 6.1.07.105
+
+@end proverb
+
+@div proverb 3.184
+
+A.3.184.319. {ŋiš}mar šu-KU₆-am₃ nu-mu-NE-dal-la
+#lem: mar[shovel]; šukud[fisherman]; dal[fly]
+#tr.en: A spade is like a fisherman who does not make …… fly (?). 
+#etcsl: line-id=A.3.184.319
+
+@end proverb
+
+@div proverb 3.185
+
+A.3.185.320. ka#-ŋu₁₀ lu₂ mu-da-ab-sa₂-e
+#lem: kag[mouth]; lu[person]; sa[equal]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.45]{6.1.07.45}} My mouth enables me to rival other men. 
+#etcsl: line-id=A.3.185.320
+
+#etcsl#cf cf. 6.1.07.45
+
+@end proverb
+
+@div proverb 3.186
+
+A.3.186.321. a-na-am₃ ne-e um-bar-bar-re-zu
+#lem: ana[what?]; nen[this]; bar[place outside]
+#tr.en: What is this after you split it? 
+#etcsl: line-id=A.3.186.321
+
+A.3.186.322. u₃ ne-e um#-bar-bar-re-zu
+#lem: u[and]; nen[this]; bar[place outside]
+#tr.en: And this after you split it? 
+#etcsl: line-id=A.3.186.322
+
+@end proverb
+
+@div proverb 3.187
+
+A.3.187.323. al-ŋal₂ {tug₂}niŋ₂-dara₂-am₃
+#lem: ŋal[⟦be⟧ to be (there]; niŋdara[rag]
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.99]{6.1.07.99}} When present, it was considered a loincloth; 
+#etcsl: line-id=A.3.187.323
+
+#etcsl#cf cf. 6.1.07.99
+
+A.3.187.324. u₂-gu ba-an-de₂# tug₂-ga-am₃
+#lem: ugu[cvne]; de[pour]; tug[textile]
+#tr.en: when lost, it is considered fine clothing. 
+#etcsl: line-id=A.3.187.324
+
+@end proverb
+
+@div proverb 3.188
+
+A.3.188.325. lu₂ dub-saŋ-ŋa₂ izi al-gu₇-e
+#lem: lu[person]; dubsaŋ[first]; izi[fire]; gu[eat]
+#tr.en: @note{cf. @xref[t.6.2.5,t625.h25]{6.2.5: YBC 7347}} If the leader is being devoured by a fire, those behind him don't say: @q{“Where is the leader?”} 
+#etcsl: line-id=A.3.188.325
+
+#etcsl#cf cf. 6.2.5: YBC 7347
+
+A.3.188.326. nu-ub-be₂ lu₂ egir-ra me-a lu₂ dub-saŋ-ŋa₂
+#lem: e[speak]; lu[person]; egir[back]; mea[where?]; lu[person]; dubsaŋ[first]
+#etcsl: line-id=A.3.188.326
+
+@end proverb
+
+@div proverb 3.189
+
+A.3.189.327. erin₂-ta gu₃ de₂-de₂
+#lem: erin[people]; gu[voice]; de[pour]
+#tr.en: To call out from among (?) the people. 
+#etcsl: line-id=A.3.189.327
+
+@end proverb
+
+@div proverb 3.190
+
+A.3.190.328. si sa₂ un-tar-e niŋ₂-erim₂ ib₂-il₂-e
+#lem: si[horn]; sa[equal]; tar[cut]; niŋerim[evil]; il[raise]
+#tr.en: When righteousness is cut off, injustice is increased. 
+#etcsl: line-id=A.3.190.328
+
+@end proverb
+
+@end segment
+
+@div segment B
+
+$ (unplaced; = Alster 1997 p. 78 CC)
+@div proverb 3.b1
+
+B.3.b1.1. [...] U₃ X X X X X [...]
+#lem: X; X; X; X; X; X; X; X
+#tr.en: @gap{2 lines fragmentary}
+#etcsl: line-id=B.3.b1.1
+
+B.3.b1.2. [...] DE₂ X KA [...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.3.b1.2
+
+@end proverb
+
+@div proverb 3.b2
+
+B.3.b2.3. [...] X X GI X [...]
+#lem: X; X; X; X; X; X
+#tr.en: @gap{5 lines fragmentary}
+#etcsl: line-id=B.3.b2.3
+
+B.3.b2.4. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=B.3.b2.4
+
+B.3.b2.5. [...] X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.3.b2.5
+
+B.3.b2.6. [...] X MU X A X
+#lem: X; X; X; X; X; X
+#etcsl: line-id=B.3.b2.6
+
+B.3.b2.7. [...] eš₅
+#lem: X; eš[three]
+#etcsl: line-id=B.3.b2.7
+
+@end proverb
+
+@div proverb 3.b3
+
+B.3.b3.8. [...] X ŠU A [...]
+#lem: X; X; X; X; X
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=B.3.b3.8
+
+@end proverb
+
+@end segment
+
+@div segment C
+
+$ (unplaced; = Alster 1997 p. 78 HH)
+@div proverb 3.c1
+
+C.3.c1.1. [...] nu-dug₃ [...]
+#lem: X; dug[good]; X
+#tr.en: … 
+#etcsl: line-id=C.3.c1.1
+
+C.3.c1.2. [...] kalag#-ga# X A X [...]
+#lem: X; kalag[strong]; X; X; X; X
+#tr.en: … not good …… strong ……. 
+#etcsl: line-id=C.3.c1.2
+
+@end proverb
+
+@div proverb 3.c2
+
+C.3.c2.3. [...] X X X a# naŋ#-naŋ# [...]
+#lem: X; X; X; X; a[water]; naŋ[drink]; X
+#tr.en: …… drinking water ……  
+#etcsl: line-id=C.3.c2.3
+
+C.3.c2.4. [...] X IGI X X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=C.3.c2.4
+
+@end proverb
+
+@div proverb 3.c3
+
+C.3.c3.5. [...] X [...]
+#lem: X; X; X
+#tr.en: @gap{1 line fragmentary}
+#etcsl: line-id=C.3.c3.5
+
+@end proverb
+
+@end segment
+
+@div segment D
+
+$ (unplaced; = Alster 1997 p. 78 N 3159 rev.)
+@div proverb 3.d1
+
+D.3.d1.1. IŠ# [...]
+#lem: X; X
+#tr.en: @gap{4 lines fragmentary}
+#etcsl: line-id=D.3.d1.1
+
+D.3.d1.2. nin₉ [...]
+#lem: nin[sister]; X
+#etcsl: line-id=D.3.d1.2
+
+D.3.d1.3. UD [...]
+#lem: X; X
+#etcsl: line-id=D.3.d1.3
+
+D.3.d1.4. igi-ni [...]
+#lem: igi[eye]; X
+#etcsl: line-id=D.3.d1.4
+
+@end proverb
+
+@end segment
+
+
+
+
+
+
+

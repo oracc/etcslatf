@@ -1,0 +1,584 @@
+&Q000342 = Inana and An
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.1.3.5
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.5&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+A.1. AN [...]
+#lem: X; X
+#tr.en: $ (@gap{1 line fragmentary}) 
+#etcsl: line-id=A.1
+
+A.2. kug {d}inana# [...]
+#lem: kug[purify]; Inanak[1]DN; X
+#tr.en: Holy @wDN{Inana} ……. 
+#etcsl: line-id=A.2
+
+A.3. ur-saŋ# šul# {[d]}[utu ...]
+#lem: ursaŋ[warrior]; šul[youth]; Utu[1]DN; X
+#tr.en: The hero, youthful @wDN{Utu}, ……. 
+#etcsl: line-id=A.3
+
+A.4. ŋi₆ u₃-na X [...]
+#lem: ŋi[night]; ŋiʾunak[night]; X; X
+#tr.en: At dead of night ……. 
+#etcsl: line-id=A.4
+
+A.5. e₂-an-na AN [...]
+#lem: Eanak[1]TN; X; X
+#tr.en: @wTN{E-ana} ……. 
+#etcsl: line-id=A.5
+
+A.6. {d}inana-ke₄ X [...]
+#lem: Inanak[1]DN; X; X
+#tr.en: @wDN{Inana} ……. 
+#etcsl: line-id=A.6
+
+A.7. an# gal# [...]
+#lem: an[sky]; gal[big]; X
+#tr.en: The great (?) heavens ……. 
+#etcsl: line-id=A.7
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+B.1. [...] X mu-da-an-X-X-e
+#lem: X; X; X
+#tr.en: …… @wTN{E-ana} comes forth from heaven, 
+#etcsl: line-id=B.1
+
+B.2. [... e₂-an]-na# an-da ba-ta-ed₂-de₃
+#lem: X; Eanak[1]TN; an[sky]; e[leave]
+#tr.en: …… the lady of heaven set her mind to capturing the great heavens, 
+#etcsl: line-id=B.2
+
+B.3. [...] nin# an-na-ke₄ an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+#lem: X; nin[lady]; an[sky]; an[sky]; gal[big]; kar[flee]; ŋeštug[ear]; gub[stand]
+#tr.en: …… @wDN{Inana} set her mind to capturing the great heavens, 
+#etcsl: line-id=B.3
+
+B.4. [X X] {d}inana-ke₄ an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+#lem: X; X; Inanak[1]DN; an[sky]; gal[big]; kar[flee]; ŋeštug[ear]; gub[stand]
+#tr.en: …… set her mind to capturing the great heavens from the …… of heaven, 
+#etcsl: line-id=B.4
+
+B.5. [...] an-na-ta an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+#lem: X; an[sky]; an[sky]; gal[big]; kar[flee]; ŋeštug[ear]; gub[stand]
+#tr.en: …… youthful @wDN{Utu}, she set her mind to capturing the great heavens. 
+#etcsl: line-id=B.5
+
+B.6. [...] šul {[d]}[utu] an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+#lem: X; šul[youth]; Utu[1]DN; an[sky]; gal[big]; kar[flee]; ŋeštug[ear]; gub[stand]
+#etcsl: line-id=B.6
+
+B.7. [šeš-a]-ni# ur-saŋ šul {d}utu kug {d}inana-ke₄ gu₃ mu-un-na-de₂-e
+#lem: šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN; kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
+#tr.en: Holy @wDN{Inana} spoke to her brother the hero, youthful @wDN{Utu}: @q[Inana,Utu]{“……, 
+#etcsl: line-id=B.7
+
+B.8. [X X] inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+#lem: X; X; inim[word]; dug[speak]; inim[word]; ŋeštug[ear]
+#tr.en: I want to tell you something -- pay attention to my speech. ……, 
+#etcsl: line-id=B.8
+
+B.9. [X X] X X-la maš-ŋu₁₀ inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+#lem: X; X; X; X; maš[twin]; inim[word]; dug[speak]; inim[word]; ŋeštug[ear]
+#tr.en: my twin, I want to tell you something -- pay attention to my speech.”} 
+#etcsl: line-id=B.9
+
+B.10. šeš#-a-ni ur-saŋ šul {d}utu kug {d}inana-ke₄ mu-un-na-ni-ib₂-gi!-gi!
+#lem: šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN; kug[purify]; Inanak[1]DN; gi[turn]
+#tr.en: Her brother the hero, youthful @wDN{Utu}, 
+#etcsl: line-id=B.10
+
+B.11. [nin₉-ŋu₁₀] zi# an-na nam-erim₂# mu-un-pad₃
+#lem: nin[sister]; zi[life]; an[sky]; namerim[oath]; pad[find]
+#tr.en: answered holy @wDN{Inana}: @q[Utu,Inana]{“My sister, 
+#etcsl: line-id=B.11
+
+B.12. [zi] IM-ŠEŠ an du-ru-un A X X-ŋu₁₀ mu-un-pad₃
+#lem: zi[life]; IM.ŠEŠ[rainbow?]; an[sky]; durun[sit]; X; X; X; pad[find]
+#tr.en: I swear an oath by the life of heaven, I swear by the life of the rainbow (?) of heaven, 
+
+#etcsl: line-id=B.12
+
+B.13. [X X] zi {ŋiš}gu-za-ŋa₂ nam-mah-ŋa₂ mu-un-pad₃
+#lem: X; X; zi[life]; guza[chair]; nammah[greatness]; pad[find]
+#tr.en: my ……, ……, 
+#etcsl: line-id=B.13
+
+B.14. inim# nin₉-ŋu₁₀ ma-ab-be₂-a ŋe₂₆-e ha-ba-da-ab-še-ge
+#lem: inim[word]; nin[sister]; e[speak]; ŋaʾe[I]; šeg[agree]
+#tr.en: I swear by the life of my throne, by my majesty: 
+#etcsl: line-id=B.14
+
+B.15. [inim] kug# {d}inana-ke₄ ma-ab-be₂-a ŋe₂₆-e ha-ba-da-ab-še-ge
+#lem: inim[word]; kug[purify]; Inanak[1]DN; e[speak]; ŋaʾe[I]; šeg[agree]
+#tr.en: I will follow what my sister says to me, I will follow what holy @wDN{Inana} says to me.”} 
+#etcsl: line-id=B.15
+
+B.16. [ki-sikil] {d}inana-ke₄ šeš-a-ni ur-saŋ šul {d}utu mu-un-na-ni-ib₂-gi!-gi!
+#lem: kisikil[young woman]; Inanak[1]DN; šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN; gi[turn]
+#tr.en: The maiden @wDN{Inana} answered her brother the hero, youthful @wDN{Utu}: @q[Inana,Utu]{“……, 
+#etcsl: line-id=B.16
+
+B.17. X nitalam#-ŋu₁₀ %e ma-a-ra %s ŋiš ma-an-dug₄ ne mu-un-su-ub
+#lem: X; ŋidlam[(equal ranking) spouse]; meʾe[I]IP; ŋeš[penis]; dug[speak]; ne[cvne]; sub[rub]
+#tr.en: my spouse (?), has made love to me, has kissed me. 
+#etcsl: line-id=B.17
+
+B.18. [...] al mu-na-an-dug₄ X-a-ra %e nu-mu-na-ze₂-eŋ₃
+#lem: X; al[cvne]; dug[speak]; X; zeŋ[give]V/t
+#tr.en: I wanted …… for him but …… he did not give it to him. 
+#etcsl: line-id=B.18
+
+B.19. [...] %e in#-da-ze₂-eŋ₃ %s X X an mah-e# e₂-an-na %e nu-mu-na-ze₂-eŋ₃
+#lem: X; zeŋ[give]V/t; X; X; An[1]DN; mah[great]; Eanak[1]TN; zeŋ[give]V/t
+#tr.en: I hastened (?) with him …… but majestic @wDN{An} would not give him @wTN{E-ana}. 
+#etcsl: line-id=B.19
+
+B.20. [an] me-en-de₃-na ki me-en-de₃-na an-da e₂-an-na ha-ba-da-kar#-X
+#lem: an[sky]; menden[we]; ki[place]; menden[we]; An[1]DN; Eanak[1]TN; kar[flee]
+#tr.en: The heavens are ours, the earth is ours: @wTN{E-ana} should be captured from @wDN{An}. 
+#etcsl: line-id=B.20
+
+B.21. ud [...] X X mu-un-dab₅-ba-ta gu₃ i-ra-de₂-e ŋiš tuku-ma-[ab]
+#lem: ud[sun]; X; X; X; dab[seize]; gu[voice]; de[pour]; ŋeš[tree]; tuku[acquire]
+#tr.en: After you have taken ……, listen to what I say to you. 
+#etcsl: line-id=B.21
+
+B.22. [...] X bar tam-ma-ab a₂ aŋ₂ za-e igi du₈#-[ma-ab]
+#lem: X; X; bar[outside]; tam[clean]; a[arm]; aŋ[measure]; zaʾe[you]; igi[eye]; du[spread]
+#tr.en: Examine …… for me, you must observe these instructions: …… the evil wind, 
+#etcsl: line-id=B.22
+
+B.23. [...]-dug₄ ud im#-[hul] {tum₉}u₁₈#-lu mu-da-[...]
+#lem: dug[speak]; ud[storm]; imhul[destructive wind]; ulu[south wind]; X
+#tr.en: the south wind, against me.”} @gap{approx. 23 lines missing} 
+#etcsl: line-id=B.23
+
+$ (approx. 23 lines missing)
+@end segment
+
+@div segment C
+
+C.1. X X [...]
+#lem: X; X; X
+#tr.en: (@wDN{Adagbir} speaks:) @q[Adagbir,]{“…… great net. 
+#etcsl: line-id=C.1
+
+C.2. {sa}šu₂-[uš-gal ...]
+#lem: sašušgal[net]; X
+#tr.en: …… the flood. 
+#etcsl: line-id=C.2
+
+C.3. ku-kur [...]
+#lem: kurku[flood]; X
+#tr.en: …… the fisherman.”} 
+#etcsl: line-id=C.3
+
+C.4. šu-KU₆ [...]
+#lem: šukud[fisherman]; X
+#etcsl: line-id=C.4
+
+C.5. kug {d}inana# [...] kur₉#
+#lem: kug[purify]; Inanak[1]DN; X; kur[enter]
+#tr.en: Holy @wDN{Inana} embarked (?) on the ……. 
+#etcsl: line-id=C.5
+
+C.6. {ŋiš}ma₂-gur₈# [...]
+#lem: magur[barge]; X
+#tr.en: The barge ……. 
+#etcsl: line-id=C.6
+
+C.7. eš₂ mu-un-[...]
+#lem: eš[rope]; X
+#tr.en: The rope ……. 
+#etcsl: line-id=C.7
+
+C.8. {tum₉}u₁₈-lu {tum₉}u₁₈#-[lu-bi im-ma-ta-an-zig₃]
+#lem: ulu[south wind]; ulu[south wind]; zig[rise]
+#tr.en: The south wind, that south wind, rose up. 
+#etcsl: line-id=C.8
+
+C.9. im-hul im-hul-[bi im-ma-ta-an-zig₃]
+#lem: imhul[destructive wind]; imhul[destructive wind]; zig[rise]
+#tr.en: The evil wind, that evil wind, rose up. 
+#etcsl: line-id=C.9
+
+C.10. an su₃-ra₂ [...]
+#lem: an[sky]; sud[distant]; X
+#tr.en: In the distant heavens ……. 
+#etcsl: line-id=C.10
+
+C.11. {d}HI-en-HI-sag₉# [...]
+#lem: HI.en.HI.sag₉[1]DN; X
+#tr.en: @wDN{Ḫienḫi-sag} ……. 
+#etcsl: line-id=C.11
+
+C.12. šu-KU₆-de₃ AN [...]
+#lem: šukud[fisherman]; X; X
+#tr.en: The fisherman ……. 
+#etcsl: line-id=C.12
+
+C.13. gi šu₂-šu₂# gi#-[zi gal ...]
+#lem: gi[reed]; šuš[cover]; gizi[fresh reed]; gal[big]; X
+#tr.en: The reed thickets and the tall reeds ……. 
+#etcsl: line-id=C.13
+
+C.14. {d}inana [...]
+#lem: Inanak[1]DN; X
+#tr.en: @wDN{Inana} spoke to @wDN{Adagbir}: 
+#etcsl: line-id=C.14
+
+C.15. šul {[d]}[utu ...]
+#lem: šul[youth]; Utu[1]DN; X
+#tr.en: @q[Inana,Adagbir]{“Youthful @wDN{Utu} ……. 
+#etcsl: line-id=C.15
+
+C.16. {ŋiš}[ma₂-gur₈ ...]
+#lem: magur[barge]; X
+#tr.en: The barge …….”} 
+#etcsl: line-id=C.16
+
+C.17. AN [...]
+#lem: X; X
+#tr.en: 207=$ (@gap{2 lines fragmentary} @gap{approx. 15 lines missing}) 
+#etcsl: line-id=C.17
+
+C.18. X [...]
+#lem: X; X
+#etcsl: line-id=C.18
+
+$ (approx. 15 lines missing)
+@end segment
+
+@div segment D
+
+D.1. ŋe₂₆-[e ...]
+#lem: ŋaʾe[I]; X
+#tr.en: @q[Inana,Adagbir]{“I ……. 
+#etcsl: line-id=D.1
+
+D.2. ŋiri₃ [...]
+#lem: ŋiri[foot]; X
+#tr.en: …… the way …….”} 
+#etcsl: line-id=D.2
+
+D.3. AN [...]
+#lem: X; X
+#etcsl: line-id=D.3
+
+D.4. KU lu₂# [...]
+#lem: X; lu[person]; X
+#etcsl: line-id=D.4
+
+D.5. {d}a-dag-bi#-[ir-e kug] {[d]}[inana-ke₄ mu-un-na-ni-ib₂-gi-gi]
+#lem: Adagbir[1]DN; kug[purify]; Inanak[1]DN; gi[turn]
+#tr.en: @wDN{Adagbir} answered holy @wDN{Inana}: @q[Adagbir,Inana]{“My lady, you cannot ……. 
+#etcsl: line-id=D.5
+
+D.6. nin-ŋu₁₀ nu-da#-[...]
+#lem: nin[lady]; X
+#tr.en: Your divinity ……. 
+#etcsl: line-id=D.6
+
+D.7. nam-diŋir-zu ba-ab#-[...]
+#lem: namdiŋir[divinity]; X
+#tr.en: The fisherman …… the south wind. 
+#etcsl: line-id=D.7
+
+D.8. šu-KU₆-de₃ {tum₉}u₁₈-[lu ...]
+#lem: šukud[fisherman]; ulu[south wind]; X
+#tr.en: My lady, if you travel on the barge, 
+#etcsl: line-id=D.8
+
+D.9. nin-ŋu₁₀ {ŋiš}ma₂-gur₈-X ha-ba-u₅-u₅#
+#lem: nin[lady]; magur[barge]; u[ride]
+#tr.en: and he raises the south wind, that south wind, 
+#etcsl: line-id=D.9
+
+D.10. {tum₉}u₁₈-lu {tum₉}u₁₈-[lu]-bi ha-ma-ta-an-zig₃
+#lem: ulu[south wind]; ulu[south wind]; zig[rise]
+#tr.en: and he raises the evil wind, 
+#etcsl: line-id=D.10
+
+D.11. im-hul im-hul-bi ha-[ma]-ta-an-zig₃
+#lem: imhul[destructive wind]; imhul[destructive wind]; zig[rise]
+#tr.en: that evil wind, 
+#etcsl: line-id=D.11
+
+D.12. {ŋiš}ma₂-gur₈ {ŋiš}ma₂ tur X X gi ambar#-[a] ba-an-su
+#lem: magur[barge]; ma[ship]; tur[small]; X; X; gi[reed]; ambar[reed-bed]; su[sink]
+#tr.en: barges and small boats will sink in the marshes.”} 
+#etcsl: line-id=D.12
+
+D.13. {sa}šu₂#-uš-gal-la-ta X X X he₂-en-da-an-te
+#lem: sašušgal[net]; X; X; X; teŋ[approach]
+#tr.en: Whenever (?) he approached the …… with his great net, 
+#etcsl: line-id=D.13
+
+D.14. ku-kur-ta a-ab zig₃-X e₃-ta
+#lem: kurku[flood]; aʾabak[sea]; zig[rise]; e[leave]
+#tr.en: as (?) it came out of the flood, the swelling sea, 
+#etcsl: line-id=D.14
+
+D.15. a nam-mi#-ib₂#-ra [...] hul# ba-ak-e
+#lem: a[water]; rah[beat]; X; hulu[bad]; ak[do]
+#tr.en: it lashed the water and made an evil ……. 
+#etcsl: line-id=D.15
+
+D.16. kug {d}inana-ke₄ šu-KU₆#-[de₃ inim mu-na-ni]-ib#-gi₄-gi₄
+#lem: kug[purify]; Inanak[1]DN; šukud[fisherman]; inim[word]; gi[turn]
+#tr.en: Holy @wDN{Inana} answered the fisherman: 
+#etcsl: line-id=D.16
+
+D.17. ud-da e₂-an-na X [...] za-e mu-ni-in-pad₃
+#lem: ud[sun]; Eanak[1]TN; X; X; zaʾe[you]; pad[find]
+#tr.en: @q[Inana,Adagbir]{“If you are to find …… @wTN{E-ana} …… and I am to gaze in admiration …… at that place, 
+#etcsl: line-id=D.17
+
+D.18. ki-bi ŋe₂₆-e# [... u₆ ba-ni]-in#-e-a
+#lem: ki[place]; ŋaʾe[I]; X; u[admiration]; e[speak]
+#tr.en: you said  
+#etcsl: line-id=D.18
+
+D.19. a-ra₂ sig-ge# [...] RU mu-e-ni-dug₄
+#lem: ara[way]; sig[weak]; X; X; dug[speak]
+#tr.en: …… the narrow passage.”} 
+#etcsl: line-id=D.19
+
+D.20. {d}a-dag-bi-ir-[e kug] {[d]}[inana-ke₄ inim mu-na-ni]-ib-gi₄-gi₄
+#lem: Adagbir[1]DN; kug[purify]; Inanak[1]DN; inim[word]; gi[turn]
+#tr.en: @wDN{Adagbir} answered holy @wDN{Inana}: 
+#etcsl: line-id=D.20
+
+D.21. gi šu₂-šu₂ gi#-[zi gal ...] he₂-en-da-an-RU
+#lem: gi[reed]; šuš[cover]; gizi[fresh reed]; gal[big]; X; X
+#tr.en: @q[Adagbir,Inana]{“…… through the reed thickets and the tall reeds. 
+#etcsl: line-id=D.21
+
+D.22. e₂-an-na an-ta ed₂-[da ...]-ra-pad₃-de₃
+#lem: Eanak[1]TN; an[sky]; e[leave]; pad[find]
+#tr.en: For you …… find @wTN{E-ana}, which comes forth from heaven.”} 
+#etcsl: line-id=D.22
+
+D.23. {d}a-dag-bi-ir [...] X [...] X {d}en-lil₂-la₂
+#lem: Adagbir[1]DN; X; X; X; X; Enlil[1]DN
+#tr.en: @wDN{Adagbir}, …… of @wDN{Enlil}, 
+#etcsl: line-id=D.23
+
+D.24. gi šu₂-šu₂ gi-zi gal X X X mu-un-da-an-RU
+#lem: gi[reed]; šuš[cover]; gizi[fresh reed]; gal[big]; X; X; X; X
+#tr.en: …… through the reed thickets and the tall reeds. 
+#etcsl: line-id=D.24
+
+D.25. e₂-an#-[na] an-ta ed₂-da-bi u₆ mu-ni-in-dug₄
+#lem: Eanak[1]TN; an[sky]; e[leave]; u[admiration]; dug[speak]
+#tr.en: She gazed in admiration at @wTN{E-ana} which comes forth from heaven. 
+#etcsl: line-id=D.25
+
+D.26. {d}šul#-a₂-zid-da unud(UNU₃) an-na-ke₄ saman(|EŠ₂.SUD.UD.NUN.EŠ₂.TU|) šu ba-ni-in-dab₅
+#lem: Šulazida[1]DN; unud[cowherd]; An[1]DN; saman[tethering rope]; šu[hand]; dab[seize]
+#tr.en: @wDN{Šul-a-zida}, @wDN{An's} herdsman, 
+#etcsl: line-id=D.26
+
+D.27. X X X utah#-he-ta a-ba-da-an-e₃ u₂-dug₄-ba sa₂ nam-me
+#lem: X; X; X; utah[heaven]; e[leave]; udug[demon]; sa[equal]; e[speak]
+#tr.en: grasped the cosmic tethering rope in his hands. After he had brought the …… forth from the sky, 
+#etcsl: line-id=D.27
+
+D.28. SA [...] X AN nam-me ki-šar₂-ra ba-an-sud-e
+#lem: X; X; X; X; e[speak]; kišar[totality]; sud[distant]
+#tr.en: he overcame the protective deities. He …… and kept it below the horizon. 
+#etcsl: line-id=D.28
+
+D.29. {id₂}u₂-la-a a nir a-ba-naŋ-a-ta
+#lem: Ulaya[1]WN; a[water]; nir[lordly]; naŋ[drink]
+#tr.en: Having drunk cleansing water from the @wWN{Ulaya} river, 
+#etcsl: line-id=D.29
+
+D.30. {d}inana-ke₄ ŋiri₂ im-ma-da-an-gu₄-ud kun-bi im-ma-da-kud#
+#lem: Inanak[1]DN; ŋir[scorpion]; gud[jump (on)]; kun[tail]; kud[cut]
+#tr.en: @wDN{Inana} stamped on the scorpion and cut off its tail. 
+#etcsl: line-id=D.30
+
+D.31. ur-mah#-gin₇ gu₃ mir-a ba-ni-in-ra za-pa-aŋ₂ mu-da-an-sed₄-e
+#lem: urmah[lion]; gu[voice]; mir[angry]; rah[beat]; zipaŋ[voice]; sed[cold]
+#tr.en: Like a lion it bellowed in an angry roar but its cries died down. 
+#etcsl: line-id=D.31
+
+D.32. [...] KA# BA im-da-an-šub X X im-mi-in-ge-en
+#lem: X; X; X; šub[fall]; X; X; gin[confirm]
+#tr.en: …… she threw it …… and made it secure. 
+#etcsl: line-id=D.32
+
+D.33. [... za]-pa#-aŋ₂ [X X]-a-ni ŋiš bi₂-in-tuku-a-ta
+#lem: X; zipaŋ[voice]; X; X; ŋeš[tree]; tuku[acquire]
+#tr.en: Having heard its …… cries, …… poured forth the ……, 
+#etcsl: line-id=D.33
+
+D.34. [...] X X-ta ba-ni#-de₂ im agarin₃
+#lem: X; X; X; de[pour]; im[clay]; aŋarin[matrix]
+#tr.en: the clay of creation, 
+#etcsl: line-id=D.34
+
+D.35. [...] šub-be₂ ba-da-an-nu₂
+#lem: X; šub[fall]; nud[lie down]
+#tr.en: …… and laid it ……. 
+#etcsl: line-id=D.35
+
+$ 2 lines missing
+D.38. [...] nin gal an-na-ke₄ inim-bi an-ra šu-a ba-an-gi#
+#lem: X; nin[lady]; gal[big]; an[sky]; inim[word]; An[1]DN; šu[hand]; gi[turn]
+#tr.en: …… the great lady of heaven delivered those words to @wDN{An}. 
+#etcsl: line-id=D.38
+
+D.39. [an-ne₂] inim-bi ŋiš ba-an-tuku-a-ta
+#lem: An[1]DN; inim[word]; ŋeš[tree]; tuku[acquire]
+#tr.en: Having heard those words, @wDN{An} slapped his thighs in ……, 
+#etcsl: line-id=D.39
+
+D.40. [X X]-a haš₂-<<bi>>-ni bi₂-in-ra u₃!-u₈! dug₄-ge bi₂-in-si
+#lem: X; X; haš[thigh]; rah[beat]; ua[oh!]; dug[speak]; si[fill]
+#tr.en: his voice filled with sighs of grief: @q[An,Inana]{“What has my child done? 
+#etcsl: line-id=D.40
+
+D.41. dumu#-ŋu₁₀ a-na-am₃ bi₂-in-ak ŋe₂₆-e bi₂-in-dirig-ga
+#lem: dumu[child]; ana[what?]; ak[do]; ŋaʾe[I]; dirig[make more than]
+#tr.en: She has become greater than me! What has @wDN{Inana} done? She has become greater than me! 
+#etcsl: line-id=D.41
+
+D.42. {[d]}inana# a-na-am₃ bi₂-in-ak ŋe₂₆-e bi₂-in-dirig-ga
+#lem: Inanak[1]DN; ana[what?]; ak[do]; ŋaʾe[I]; dirig[make more than]
+#tr.en: From now on, the normal length of daylight becomes shorter, and daylight converts to night-time. 
+#etcsl: line-id=D.42
+
+D.43. i₃-ne-eš₂-ta ud-da šid-bi ba-da-tur ud ŋi₆-bi-a ba-da-bur₂
+#lem: inešta[henceforth]; ud[sun]; šid[count]; tur[small]; ud[sun]; ŋi[night]; bur[spread out]
+#tr.en: From today, when the day's watch is three units long, daylight is equal to night-time.”} 
+#etcsl: line-id=D.43
+
+D.44. ud-da-ta en-nu-uŋ₃-bi 3-am₃ ud ŋi₆-bi-a ba-an-da-sa₂
+#lem: udata[hereafter]; ennuŋ[watch]; n; ud[sun]; ŋi[night]; sa[equal]
+#tr.en: And now, when day began, 
+#etcsl: line-id=D.44
+
+D.45. [i₃-ne]-eš₂ {d}utu e₃-a ne₃ he₂-en-na-nam
+#lem: ineš[now]; Utu[1]DN; e[leave]; ne[strength]; me[be]
+#tr.en: it was indeed so. 
+#etcsl: line-id=D.45
+
+#etcsl#ms 1 ms. reverses the order of lines 43-44
+
+D.46. diŋir nam-lu₂-ulu₃ mu-un-dim₂-ma (1::1)
+#lem: diŋir[deity]; namlulu[humanity]; dim[create]
+#tr.en: @wDN{An}, who created gods and humankind, gazed at holy @wDN{Inana} @vart[t135.v1,t135.v1]{@varn{1 ms. adds:} and addressed the favourite wife who travels by his side }, unable to describe this arrogance, 
+#etcsl: line-id=D.46
+
+:46v.1.1: ($1 ms. adds:$) dam dam bar gid₂-de₃ nam-mu-da-ab-be₂
+#lem: dam[spouse]; tam[trust]; bar[outside]; gid[long]; dug[speak]
+
+D.47. an-ne₂ kug {d}inana-ke₄ igi bi₂-in-du₈-am₃
+#lem: An[1]DN; kug[purify]; Inanak[1]DN; igi[eye]; du[spread]
+#tr.en: this arrogance -- @wDN{An} was unable to describe @vart[t135.v2,t135.v2]{@varn{1 ms. adds:} to @wDN{Inana} } this arrogance, this arrogance: 
+#etcsl: line-id=D.47
+
+D.48. ni₂ bur₂ ne-en-nam ni₂ bur₂ ne-en-nam KA-bi nu-du₃-a-ba
+#lem: ni[self]; bur[spread out]; nen[this]; ni[self]; bur[spread out]; nen[this]; X; du[build]
+#tr.en: @q[An,Inana]{“My child, 
+#etcsl: line-id=D.48
+
+D.49. an-ne₂ (1::1) ni₂ bur₂ ne-en-nam# [ni₂ bur₂ ne-en-nam] KA-bi nu-du₃-a-ba
+#lem: An[1]DN; ni[self]; bur[spread out]; nen[this]; ni[self]; bur[spread out]; nen[this]; X; du[build]
+#tr.en: …… you did not say …… -- you were able to capture @wTN{E-ana}! 
+#etcsl: line-id=D.49
+
+:49v.1.1: ($1 ms. adds:$) {d}inana-ke₄
+#lem: Inanak[1]DN
+
+D.50. lu₂ dumu-ŋu₁₀ ba-su nu-mu-e-dug₄-ga e₂-an-na-kam im-da-an-kar-re-en
+#lem: lu[person]; dumu[child]; su[sink]; dug[speak]; Eanak[1]TN; kar[flee]
+#tr.en: @wDN{Inana}, 
+#etcsl: line-id=D.50
+
+D.51. {d}inana-ke₄ ba-su nu-mu-e-dug₄-ga e₂-an-na-kam im-da-an-kar-re-en
+#lem: Inanak[1]DN; su[sink]; dug[speak]; Eanak[1]TN; kar[flee]
+#tr.en: …… you did not say …… -- you were able to capture @wTN{E-ana}! 
+#etcsl: line-id=D.51
+
+D.52. e₂-an-na an-gin₇ he₂-ge-en (1:zag saga₁₁ nam-ba-an-tuku:1)
+#lem: Eanak[1]TN; an[sky]; gin[confirm]; zag[side]; saga[press?]; tuku[acquire]
+#tr.en: @wTN{E-ana} should be as firm as heaven, 
+#etcsl: line-id=D.52
+
+:52v.1.1: ($1 ms. has instead:$) la-la-bi nam-mi-ni-gi₄#
+#lem: lala[plenty]; gi[turn]
+
+D.53. gu₂-kiŋ₂ kalam-ma mu-bi he₂-pad₃-de₃ (1::1)
+#lem: gukin[totality]; kalam[the Land (of Sumer)]; mu[name]; pad[find]
+#tr.en: @varh[t135.v3]{it should not be toppled } @vart[t135.v4,t135.v3]{@varn{1 ms. has instead:} its attractions should never be exhausted }. Its name should be 'The Settlement of the Land'. 
+#etcsl: line-id=D.53
+
+:53v.1.1: ($1 ms. adds:$) gaba-ri na-an-tuku-tuku
+#lem: gabari[equal]; tuku[acquire]
+
+D.54. nam-lu₂-ulu₃ uŋ₃ šar₂-ra-ba ŋiri₃-ni-še₃ he₂-en-na-ab-sig₁₀-ge
+#lem: namlulu[humanity]; uŋ[people]; šar[numerous]V/i; ŋiri[foot]; sig[put into]
+#tr.en: @vart[t135.v5,t135.v5]{@varn{1 ms. adds:} It should have no rival. } Mankind, all of the people, should prostrate themselves at her (?) feet.”} 
+#etcsl: line-id=D.54
+
+D.55. e-ne-eš₂ {d}utu ud ne-en#-a ur₅ he₂-en-na-nam-ma-am₃
+#lem: ineš[now]; Utu[1]DN; ud[sun]; nen[this]; ur[that]; me[be]
+#tr.en: And now, under that sun and on that day, it was indeed so. 
+#etcsl: line-id=D.55
+
+D.56. e₂-an-na an-da im-da-an-kar [...]-ta im-mi-in-ge-en
+#lem: Eanak[1]TN; An[1]DN; kar[flee]; X; gin[confirm]
+#tr.en: She had captured @wTN{E-ana} from @wDN{An}! She secured it ……. 
+#etcsl: line-id=D.56
+
+D.57. ud-da {d}inana-ke₄ e₂-an-na e₂ ki nin#-am₃ im-me
+#lem: ud[sun]; Inanak[1]DN; Eanak[1]TN; e[house]; ki[place]; nin[lady]; dug[speak]
+#tr.en: Now @wDN{Inana} speaks of the @wTN{E-ana} as the house that is the place of the lady. 
+#etcsl: line-id=D.57
+
+D.58. in-nin-e ki u₃-ma gub-bu-ba šu sa₂ dug₄-ga-am₃
+#lem: innin[lady]; ki[place]; uma[triumph]; gub[stand]; šu[hand]; sa[equal]; dug[speak]
+#tr.en: The goddess who has attained her triumphant position, @wDN{Inana} who has attained her triumphant position, 
+#etcsl: line-id=D.58
+
+D.59. {d}inana-ke₄ ki u₃-ma gub-bu-ba šu sa₂ dug₄-ga-am₃
+#lem: Inanak[1]DN; ki[place]; uma[triumph]; gub[stand]; šu[hand]; sa[equal]; dug[speak]
+#tr.en: declares in the good place: 
+#etcsl: line-id=D.59
+
+D.60. e₂-an-na an-da im-da-kar-re-en ki dug₃-ga im-me
+#lem: Eanak[1]TN; An[1]DN; kar[flee]; ki[place]; dug[good]; dug[speak]
+#tr.en: @q[Inana,]{“I have captured @wTN{E-ana} from @wDN{An}.”} 
+#etcsl: line-id=D.60
+
+D.61. {d}nun-gal-e-ne dirig-ba
+#lem: Nungal[1]DN; dirig[make more than]
+#tr.en: Because you are unmatched among the Great Princes, maiden @wDN{Inana}, praising you is magnificent! 
+#etcsl: line-id=D.61
+
+D.62. ki-sikil {d}inana za₃-mi₂-zu mah-am₃
+#lem: kisikil[young woman]; Inanak[1]DN; zamin[praise]; mah[great]
+#etcsl: line-id=D.62
+
+@end segment
+
+
+
+
+
+
+
