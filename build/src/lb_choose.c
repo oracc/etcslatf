@@ -11,6 +11,7 @@ static void lbc_multiple(Par *pp, int n);
 static void lbc_identity_sent(Par *p);
 static void lbc_multiple_sent(Par *p, int n);
 static void lbc_fallbacks(Par *p, int sent);
+static void lb_sentence_orphans(Par *p);
 
 static int
 count_sentences(Seg **segs)
@@ -44,8 +45,11 @@ lb_choose(Par *p)
 	lbc_identity_sent(p);
       else if ((nsent % GOALG(p)) == 0)
 	lbc_multiple_sent(p, nsent / GOALG(p));
-      else if (p->nsegs > GOALG(p))
-	lbc_fallbacks(p, nsent);
+      else
+	{
+	  if (p->nsegs > GOALG(p))
+	    lbc_fallbacks(p, nsent);
+	}
     }
 #if 0
   if (p->choice != C_NONE)
@@ -449,5 +453,29 @@ lb_merge(Par *p, SSC *s)
 	nlabel += p->segs[i]->unlabeled;
       else
 	p->segs[i]->label = p->labels[nlabel++];
+    }
+}
+
+/* Look for short segments that end a sentence and merge them with the
+   preceding seg */
+static void
+lb_sentence_orphans(Par *p)
+{
+  int i;
+  int few = p->re_xwords / 2;
+  if (few < 1)
+    few = 1;
+  for (i = 0; i < p->nsegs; ++i)
+    {
+      if (i && '.' == p->segs[i]->b && p->segs[i]->w <= few)
+	{
+	  if (',' == p->segs[i-1]->b || p->segs[i-1]->w <= few)
+	    {
+	      lb_merge_segs(p, i-1); /* arg is the segment to overwrite */
+	      /* take another look at the newly merged seg to catch multiple shorts in a row */
+	      if (i > 1)
+		i -= 2;
+	    }
+	}
     }
 }

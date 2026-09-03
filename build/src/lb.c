@@ -35,7 +35,6 @@ void map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
 const char *skip_tag_and_arg(const char *p);
 const char *skip_XtoY(const char *p);
-void lb_sentence_orphans(Par *p);
 
 static void
 lb_sanity(Par *p)
@@ -110,7 +109,7 @@ main(int argc, char *const *argv)
 	  else
 	    tp->pars[i].re_xwords = 0;
 	  tp->pars[i].nlabs = tp->pars[i].nsegs - tp->pars[i].usegs;
-	  lb_sentence_orphans(&tp->pars[i]);
+	  /*lb_sentence_orphans(&tp->pars[i]);*/
 	  if (tp->pars[i].nlabs < tp->pars[i].re_goal)
 	    lb_split_segs(segmem, &tp->pars[i]);
 	  lb_sanity(&tp->pars[i]);
@@ -478,29 +477,5 @@ lb_tra_report(FILE *fp, Tra *t)
 	    }
 	}
       fputc('\n', fp);
-    }
-}
-
-/* Look for short segments that end a sentence and merge them with the
-   preceding seg */
-void
-lb_sentence_orphans(Par *p)
-{
-  int i;
-  int few = p->re_xwords / 2;
-  if (few < 1)
-    few = 1;
-  for (i = 0; i < p->nsegs; ++i)
-    {
-      if (i && '.' == p->segs[i]->b && p->segs[i]->w <= few)
-	{
-	  if (',' == p->segs[i-1]->b || p->segs[i-1]->w <= few)
-	    {
-	      lb_merge_segs(p, i-1); /* arg is the segment to overwrite */
-	      /* take another look at the newly merged seg to catch multiple shorts in a row */
-	      if (i > 1)
-		i -= 2;
-	    }	  
-	}
     }
 }
