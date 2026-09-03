@@ -1187,7 +1187,9 @@ D.282. [...] X X [...]
 #lem: X; X; X; X
 #etcsl: line-id=D.282
 
-$ 1 line missing
+D.283. ($ 1 line missing $)
+#etcsl: line-id=D.283
+
 @div trailer 
 
 D.284. [ŋiš-gi₄-ŋal₂ ki-ru-gu₂-da-kam]
@@ -2336,7 +2338,9 @@ I.519. ki-ru-gu₂ 5(diš)-kam-ma-am₃
 #lg D	jicgijal
 
 
-@(x = x)  @gap{1 line fragmentary}   @gap{1 line missing} 
+@(D.282 = 282)  @gap{1 line fragmentary}
+
+@(D.283 = 283)  @gap{1 line missing} 
 
 #trailer rubric	jicgijal
 

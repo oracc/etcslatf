@@ -465,10 +465,9 @@ I.x. ki-ru-gu₂# X-kam-ma#
 
 @div trailer 
 
-x.
+I.n.
 #lem: 
-
-#etcsl: line-id=I.x
+#etcsl: line-id=I.n
 
 #etcsl#doc This composition is inscribed on a tablet whose colophon specifies it as a šir-namšub of Utu
 
@@ -575,4 +574,4 @@ x.
 
 #trailer subscript	cir-namcub
 
-@(x = x) @notetrailer{This composition is inscribed on a tablet whose colophon specifies it as a @fsux{šir-namšub} of Utu}
+@(I.n = x) @notetrailer{This composition is inscribed on a tablet whose colophon specifies it as a @fsux{šir-namšub} of Utu}
