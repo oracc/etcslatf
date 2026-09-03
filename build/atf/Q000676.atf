@@ -11,34 +11,37 @@
 $ (unknown no. of lines missing)
 A.1. {d}nanna# [...]
 #lem: Nanna[1]DN; X
-#tr.en: @wDN{Nanna}, ……, lord, son of @wDN{Enlil}, ……, @wDN{Nanna}, lord, ……, lord, son of @wDN{Enlil}, ……! 
+#tr.en: @wDN{Nanna}, ……, lord, 
 #etcsl: line-id=A.1
 
 A.2. en dumu {d}en-lil₂-la₂# [...]
 #lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#tr.en: son of @wDN{Enlil}, ……, 
 #etcsl: line-id=A.2
 
 A.3. {d}nanna en X [...]
 #lem: Nanna[1]DN; en[lord]; X; X
+#tr.en: @wDN{Nanna}, lord, ……, 
 #etcsl: line-id=A.3
 
 A.4. en dumu {d}en-lil₂-la₂ [...]
 #lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#tr.en: lord, son of @wDN{Enlil}, ……! 
 #etcsl: line-id=A.4
 
 A.5. en u₆ di dug₃-ga# [...]
 #lem: en[lord]; u[admiration]; di[speak]; dug[good]; X
-#tr.en: Lord, sweet wonder ……! The woman perfect in beauty ……. 
+#tr.en: Lord, sweet wonder ……! 
 #etcsl: line-id=A.5
 
 A.6. munus hi-li šu du₇ [...]
 #lem: munus[woman]; hili[attractiveness]; šu[hand]; du[perfect]; X
-#tr.en: @wDN{Nanna}, lord, 
+#tr.en: The woman perfect in beauty ……. 
 #etcsl: line-id=A.6
 
 A.7. {d}nanna en u₆ [di dug₃-ga ...]
 #lem: Nanna[1]DN; en[lord]; u[admiration]; di[speak]; dug[good]; X
-#tr.en: sweet wonder ……! 
+#tr.en: @wDN{Nanna}, lord, sweet wonder ……! 
 #etcsl: line-id=A.7
 
 A.8. munus hi-li šu du₇ [...]
@@ -87,6 +90,7 @@ A.16. [za]-e# lu₂ nir X [...]
 
 A.17. [...] X X KI# X [...]
 #lem: X; X; X; X; X; X
+#tr.en: 76=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=A.17
 
 $ (unknown no. of lines missing)
@@ -176,7 +180,7 @@ B.16. [X X] X {d}en-lil₂# [...]
 
 B.17. [...] {d}nanna en dumu gal an-na [...] ki# aŋ₂ {d}en-lil₂ {d}nin-lil₂-la₂ [...]
 #lem: X; Nanna[1]DN; en[lord]; dumu[child]; gal[big]; An[1]DN; X; ki[place]; aŋ[measure]; Enlil[1]DN; Ninlil[1]DN; X
-#tr.en: beloved …… of @wDN{Enlil} and @wDN{Ninlil}, 
+#tr.en: beloved …… of @wDN{Enlil} and @wDN{Ninlil}, @gap{unknown no. of lines missing} 
 #etcsl: line-id=B.17
 
 $ (unknown no. of lines missing)
@@ -186,6 +190,7 @@ $ (unknown no. of lines missing)
 
 C.1. [...]-me-en
 #lem: X
+#tr.en: 158=$ (@gap{12 lines missing or fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=C.1
 
 C.2. [...] X

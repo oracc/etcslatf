@@ -133,7 +133,7 @@ find_longest(Par *p, const char **s, int *w)
 void
 lb_split_segs(Memo *segmem, Par *p)
 {
-  while (p->nsegs < p->lbgoal)
+  while (p->nlabs < p->re_goal)
     {
       const char *split = NULL;
       int w;

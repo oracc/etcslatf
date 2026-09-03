@@ -13,12 +13,14 @@ static void lbc_multiple_sent(Par *p, int n);
 static void lbc_fallbacks(Par *p, int sent);
 static void lb_sentence_orphans(Par *p);
 
+unsigned char sentch[256] = { ['.'] = 1, ['!'] = 1, ['?'] = 1 };
+
 static int
 count_sentences(Seg **segs)
 {
   int i, s;
   for (i = s = 0; segs[i]; ++i)
-    if ('.' == segs[i]->b)
+    if (sentch[segs[i]->b])
       ++s;
   return s;
 }
@@ -47,8 +49,17 @@ lb_choose(Par *p)
 	lbc_multiple_sent(p, nsent / GOALG(p));
       else
 	{
-	  if (p->nsegs > GOALG(p))
+	  extern Memo *segmem;
+	  lb_sentence_orphans(p);
+	  if (p->nlabs < p->re_goal)
+	    lb_split_segs(segmem, p);
+	  if (p->nlabs == p->re_goal)
+	    lbc_identity(p);
+	  else if (p->nlabs > p->re_goal)
 	    lbc_fallbacks(p, nsent);
+	  else
+	    fprintf(stderr, "lb_choose: internal error: p->nlabs %d < p->re_goal %d; this can't happen\n",
+		    p->nlabs, p->re_goal);
 	}
     }
 #if 0
@@ -177,8 +188,8 @@ lbc_identity_sent(Par *p)
     {
       if ('0' == p->segs[i]->b)
 	continue;
-      if ('.' == p->segs[i]->b)
-	p->segs[i]->lb = 1;
+      if (sentch[p->segs[i]->b])
+    	p->segs[i]->lb = 1;
     }
   lb_label_sent(p);
 }
@@ -193,7 +204,7 @@ lbc_multiple_sent(Par *p, int n)
     {
       if ('0' == p->segs[i]->b)
 	continue;
-      if ('.' == p->segs[i]->b)
+      if (sentch[p->segs[i]->b])
 	{
 	  if (++j == n)
 	    {
@@ -467,7 +478,7 @@ lb_sentence_orphans(Par *p)
     few = 1;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if (i && '.' == p->segs[i]->b && p->segs[i]->w <= few)
+      if (i && sentch[p->segs[i]->b] && p->segs[i]->w <= few)
 	{
 	  if (',' == p->segs[i-1]->b || p->segs[i-1]->w <= few)
 	    {

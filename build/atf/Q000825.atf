@@ -68,7 +68,7 @@
 
 1.A.11. [...] EN# is-hab₂-ba X [...]
 #lem: X; X; ishab[rogue]; X; X
-#tr.en: …… rogue ……  
+#tr.en: …… rogue …… @gap{unknown no. of lines missing} 
 #etcsl: line-id=1.A.11
 
 $ (unknown no. of lines missing)
@@ -217,6 +217,7 @@ $ (unknown no. of lines missing)
 
 2.A.13. [...] NE-NE X
 #lem: X; X; X
+#tr.en: 186=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=2.A.13
 
 $ (unknown no. of lines missing)
@@ -447,7 +448,7 @@ $ (unknown no. of lines missing)
 
 4.A.14. {d}en-lil₂-le iri nam [ku₅]-ra₂#-ni ha#-ba-ši-in#-il₂-la#
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
-#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”} 
+#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”} @gap{unknown no. of lines missing} 
 #etcsl: line-id=4.A.14
 
 $ (unknown no. of lines missing)
@@ -533,6 +534,7 @@ $ (unknown no. of lines missing)
 
 5.A.5. IG# DU₈# X# zag# [...] tur-ra BI dug₃-ga# [...]
 #lem: X; X; X; zag[side]; X; tur[small]; X; dug[good]; X
+#tr.en: 458=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=5.A.5
 
 $ (unknown no. of lines missing)
@@ -821,7 +823,7 @@ $ (unknown no. of lines missing)
 
 10.A.3. niŋ₂#-gig {d}suen-na-kam
 #lem: niŋgig[evil]; Suen[1]DN
-#tr.en: over her clothes -- it is an abomination to @wDN{Suen}. 
+#tr.en: over her clothes -- it is an abomination to @wDN{Suen}. @gap{unknown no. of lines missing} 
 #etcsl: line-id=10.A.3
 
 $ (unknown no. of lines missing)
@@ -1110,13 +1112,14 @@ $ (unknown no. of lines missing)
 
 25.1. lu₂ igištu-ke₄ izi al-gu₇#-e
 #lem: lu[person]; igištu[first and foremost]; izi[fire]; gu[eat]
-#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.188]{6.1.03.188}} If a leader is being consumed by fire, those behind him don't say: @q{“Where is the leader?”} 
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.188]{6.1.03.188}} If a leader is being consumed by fire, 
 #etcsl: line-id=25.1
 
 #etcsl#cf cf. 6.1.03.188
 
 25.2. lu₂ eŋer na-ab-be₂# me-am₃ lu₂ du₁₁-saŋ#
 #lem: lu[person]; egir[back]; e[speak]; mea[where?]; lu[person]; dubsaŋ[first]
+#tr.en: those behind him don't say: @q{“Where is the leader?”} 
 #etcsl: line-id=25.2
 
 @end version

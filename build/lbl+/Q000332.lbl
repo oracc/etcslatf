@@ -41,10 +41,10 @@
 117=28.	No wailings were wailed in the city's outskirts there. 
 
 {29 = 29-32}
-121=29.	@wDN{Ninsikila} said to her father @wDN{Enki}: @q[Ninsikila,Enki]{“You have given a city. You have given a city. 
-125=30.	What does your giving avail me? You have given a city, @wGN{Dilmun}. You have given a city. 
-129=31.	What does your giving avail me? You have given ……. You have given a city. 
-133=32.	What avails me your giving?”} 
+121=29.	@wDN{Ninsikila} said to her father @wDN{Enki}: @q[Ninsikila,Enki]{“You have given a city. You have given a city. What does your giving avail me? 
+125=30.	You have given a city, @wGN{Dilmun}. You have given a city. 
+129=31.	What does your giving avail me? You have given ……. 
+133=32.	You have given a city. What avails me your giving?”} 
 
 {33 = 33-39}
 137=33.	@q{“You have given ……, a city that has no river quay. 
@@ -72,17 +72,17 @@ $ (@gap{3 lines missing})
 201=49B.	lapis lazuli and ……. 
 205=49C.	May the land of @wGN{Meluḫa} load precious desirable cornelian, 
 209=49D.	@fsux{meš} wood of @wGN{Magan} and the best @fsux{abba} wood into large ships for you. 
-213=49E.	May the land of @wGN{Marḫaši} yield you precious stones, 
-217=49F.	topazes. May the land of @wGN{Magan} offer you strong, 
-221=49G.	powerful copper, dolerite, @fsux{u} stone and @fsux{šumin} stone. 
+213=49E.	May the land of @wGN{Marḫaši} yield you precious stones, topazes. 
+217=49F.	May the land of @wGN{Magan} offer you strong, powerful copper, 
+221=49G.	dolerite, @fsux{u} stone and @fsux{šumin} stone. 
 $ (@gap{1 line vacat}) 
 225=49I.	May the @wGN{Sea-land} offer you its own ebony wood, 
 229=49J.	…… of a king. May the @wGN{'Tent'-lands} offer you fine multicoloured wools. 
-235=49K.	May the land of @wGN{Elam} hand over to you choice wools, 
-239=49L.	its tribute. May the manor of @wSN{Urim}, the royal throne dais, 
-243=49M.	the city ……, load up into large ships for you sesame, 
-247=49N.	august raiment, 
-251=49O.	and fine cloth. 
+235=49K.	May the land of @wGN{Elam} hand over to you choice wools, its tribute. 
+239=49L.	May the manor of @wSN{Urim}, the royal throne dais, 
+243=49M.	the city ……, 
+247=49N.	load up into large ships for you sesame, 
+251=49O.	august raiment, and fine cloth. 
 255=49P.	May the wide sea yield you its wealth.”} 
 
 {49Q = 49Q-49V}
@@ -119,12 +119,12 @@ $ (@gap{1 line vacat})
 356=68.	@q[Nintur,Enki]{“No man take me in the marsh.”} 
 
 {69 = 69-74}
-360=69.	@wDN{Enki} cried out: @q[Enki,Nintur]{“By the life's breath of heaven I adjure you. 
-364=70.	Lie down for me in the marsh, lie down for me in the marsh, 
-368=71.	that would be joyous.”} 
-372=72.	@wDN{Enki} distributed his semen destined for @wDN{Damgalnuna}. 
-376=73.	He poured semen into @wDN{Ninḫursaŋa's} womb and she conceived the semen in the womb, 
-380=74.	the semen of @wDN{Enki}. 
+360=69.	@wDN{Enki} cried out: 
+364=70.	@q[Enki,Nintur]{“By the life's breath of heaven I adjure you. 
+368=71.	Lie down for me in the marsh, 
+372=72.	lie down for me in the marsh, that would be joyous.”} 
+376=73.	@wDN{Enki} distributed his semen destined for @wDN{Damgalnuna}. 
+380=74.	He poured semen into @wDN{Ninḫursaŋa's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
 
 {75 = 75-87}
 384=75.	But her one month was one day, 
@@ -147,23 +147,23 @@ $ (@gap{1 line vacat})
 444=90.	he was able to see up there, he was. 
 448=91.	He said to his minister @wDN{Isimud}: @q[Enki,Isimud]{“Is this nice youngster not to be kissed? 
 452=92.	Is this nice @wDN{Ninnisig} not to be kissed?”} His minister @wDN{Isimud} answered him: 
-456=93.	@q[Isimud,Enki]{“Is this nice youngster not to be kissed? Is this nice @wDN{Ninnisig} not to be kissed? 
-460=94.	My master will sail, let me navigate. 
-464=95.	He will sail, 
-468=96.	let me navigate.”} 
+456=93.	@q[Isimud,Enki]{“Is this nice youngster not to be kissed? 
+460=94.	Is this nice @wDN{Ninnisig} not to be kissed? 
+464=95.	My master will sail, let me navigate. 
+468=96.	He will sail, let me navigate.”} 
 
 {97 = 97-107}
 472=97.	First he put his feet in the boat, 
 476=98.	next he put them on dry land. He clasped her to the bosom, 
 480=99.	kissed her, 
-484=100.	@wDN{Enki} poured semen into the womb and she conceived the semen in the womb, 
-488=101.	the semen of @wDN{Enki}. But her one month was one day, 
-492=102.	but her two months were two days, but her nine months were nine days. 
-496=103.	In the month of womanhood, like fine (?) oil, 
-500=104.	like fine (?) oil, like oil of abundance, @wDN{Ninnisig}, 
-504=105.	like fine (?) oil, like fine (?) oil, 
-508=106.	like oil of abundance, 
-512=107.	gave birth to @wDN{Ninkura}. 
+484=100.	@wDN{Enki} poured semen into the womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+488=101.	But her one month was one day, but her two months were two days, 
+492=102.	but her nine months were nine days. In the month of womanhood, 
+496=103.	like fine (?) oil, like fine (?) oil, like oil of abundance, 
+500=104.	@wDN{Ninnisig}, 
+504=105.	like fine (?) oil, 
+508=106.	like fine (?) oil, 
+512=107.	like oil of abundance, gave birth to @wDN{Ninkura}. 
 
 {108 = 108-116}
 516=108.	In turn @wDN{Ninkura} went out to the riverbank. 
@@ -173,41 +173,40 @@ $ (@gap{1 line vacat})
 532=112.	@q[Enki,Isimud]{“Is this nice youngster not to be kissed? 
 536=113.	Is this nice @wDN{Ninkura} not to kissed?”} His minister @wDN{Isimud} answered him: 
 540=114.	@q[Isimud,Enki]{“Kiss this nice youngster. Kiss this nice @wDN{Ninkura}. 
-544=115.	My master will sail, let me navigate. He will sail, 
-548=116.	let me navigate.”} 
+544=115.	My master will sail, let me navigate. 
+548=116.	He will sail, let me navigate.”} 
 
 {117 = 117-126}
 552=117.	First he put his feet in the boat, 
 556=118.	next he put them on dry land. He clasped her to the bosom, 
 560=119.	kissed her, 
-564=120.	@wDN{Enki} poured semen into the womb and she conceived the semen in the womb, 
-568=121.	the semen of @wDN{Enki}. But her one month was one day, 
-572=122.	but her nine months were nine days. In the month of womanhood, 
-576=123.	like fine (?) oil, like fine (?) oil, like oil of abundance, 
-580=124.	@wDN{Ninkura}, like fine (?) oil, like fine (?) oil, like oil of abundance, 
-584=125.	gave birth to @wDN{Uttu}, 
-588=126.	the exalted (?) woman. 
+564=120.	@wDN{Enki} poured semen into the womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+568=121.	But her one month was one day, but her nine months were nine days. 
+572=122.	In the month of womanhood, like fine (?) oil, 
+576=123.	like fine (?) oil, like oil of abundance, @wDN{Ninkura}, 
+580=124.	like fine (?) oil, like fine (?) oil, 
+584=125.	like oil of abundance, 
+588=126.	gave birth to @wDN{Uttu}, the exalted (?) woman. 
 
 {126A = 126A-126K}
 595=126A.	@wDN{Ninkura} in turn gave birth to @wDN{Ninimma}. 
 599=126B.	She brought the child up and made her flourish. 
 603=126C.	@wDN{Ninimma} in turn went out to the riverbank. 
-607=126D.	@wDN{Enki} was towing his boat along and was able to see up there, 
-611=126E.	……. 
-615=126F.	He laid eyes on @wDN{Ninimma} on the riverbank and said to his minister @wDN{Isimud}: 
-619=126G.	@q[Enki,Isimud]{“Have I ever kissed one like this nice youngster? 
-623=126H.	Have I ever made love to one like nice @wDN{Ninimma}?”} 
-627=126I.	His minister @wDN{Isimud} answered him: @q[Isimud,Enki]{“My master will sail, 
-631=126J.	let me navigate. He will sail, 
-126K.	let me navigate.”} 
+607=126D.	@wDN{Enki} was towing his boat along and was able to see up there, ……. 
+611=126E.	He laid eyes on @wDN{Ninimma} on the riverbank and said to his minister @wDN{Isimud}: 
+615=126F.	@q[Enki,Isimud]{“Have I ever kissed one like this nice youngster? 
+619=126G.	Have I ever made love to one like nice @wDN{Ninimma}?”} 
+623=126H.	His minister @wDN{Isimud} answered him: 
+627=126I.	@q[Isimud,Enki]{“My master will sail, let me navigate. 
+631=126K.	He will sail, let me navigate.”} 
 
 {126L = 126L-126Q}
 635=126L.	First he put his feet in the boat, 
-639=126M.	next he put them on dry land. He clasped her to the bosom, 
-643=126N.	lying in her crotch, 
-647=126O.	made love to the youngster and kissed her. 
-651=126P.	@wDN{Enki} poured semen into @wDN{Ninimma's} womb and she conceived the semen in the womb, 
-655=126Q.	the semen of @wDN{Enki}. 
+639=126M.	next he put them on dry land. 
+643=126N.	He clasped her to the bosom, 
+647=126O.	lying in her crotch, 
+651=126P.	made love to the youngster and kissed her. 
+655=126Q.	@wDN{Enki} poured semen into @wDN{Ninimma's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
 
 {126R = 126R-126CC}
 659=126R.	To the woman its one month was but its one day, 
@@ -253,15 +252,15 @@ $ (@gap{3 lines fragmentary})
 {159 = 159-166}
 801=159.	@wDN{Enki} (said to) …… the gardener: 
 $ (@gap{4 lines missing}) 
-806=164.	He brought him cucumbers in ……, 
-810=165.	brought him apples with their stems sticking out (?), 
-814=166.	brought him grapes in their clusters, filled his lap. 
+806=161.	He brought him cucumbers in ……, 
+810=162.	brought him apples with their stems sticking out (?), 
+814=163.	brought him grapes in their clusters, filled his lap. 
 
 {167 = 167-177}
 818=167.	@wDN{Enki} made his face attractive and took a staff in his hand. 
 822=168.	@wDN{Enki} came to a halt at @wDN{Uttu's}, 
-826=169.	knocked at her house (demanding): @q[Enki,Uttu]{“Open up, 
-830=170.	open up.”} : @q[Uttu,Enki]{“Who are you?”} @q[Enki,Uttu]{“I am a gardener. 
+826=169.	knocked at her house (demanding): @q[Enki,Uttu]{“Open up, open up.”} 
+830=170.	: @q[Uttu,Enki]{“Who are you?”} @q[Enki,Uttu]{“I am a gardener. 
 834=171.	Let me give you cucumbers, apples, 
 838=172.	and grapes for your consent.”} Joyfully @wDN{Uttu} opened the house. 
 842=173.	@wDN{Enki} gave @wDN{Uttu}, the exalted (?) woman, 
@@ -273,12 +272,12 @@ $ (@gap{4 lines missing})
 {178 = 178-185}
 866=178.	@wDN{Uttu}, the exalted (?) woman, …… to the left for him, 
 870=179.	waved the hands for him. @wDN{Enki} aroused @wDN{Uttu}. He clasped her to the bosom, 
-874=180.	lying in her crotch, fondled her thighs, fondled her with the hand. 
-878=181.	He clasped her to the bosom, 
-882=182.	lying in her crotch, 
-886=183.	made love to the youngster and kissed her. 
-890=184.	@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb, 
-894=185.	the semen of @wDN{Enki}. 
+874=180.	lying in her crotch, fondled her thighs, 
+878=181.	fondled her with the hand. 
+882=182.	He clasped her to the bosom, 
+886=183.	lying in her crotch, 
+890=184.	made love to the youngster and kissed her. 
+894=185.	@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
 
 {186 = 186-189}
 898=186.	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} She cried out: @q[Uttu,self]{“Woe, my body. 
@@ -296,9 +295,9 @@ $ (@gap{2 lines fragmentary})
 935=197.	she grew the @fsux{amḫaru} plant. 
 
 {198 = 198-201}
-939=198.	@wDN{Enki} was able to see up there from in the marsh, 
-943=199.	he was able to see up there, he was. He said to his minister @wDN{Isimud}: 
-947=200.	@q[Enki,Isimud]{“I have not determined the destiny of these plants. What is this one? 
+939=198.	@wDN{Enki} was able to see up there from in the marsh, he was able to see up there, he was. 
+943=199.	He said to his minister @wDN{Isimud}: @q[Enki,Isimud]{“I have not determined the destiny of these plants. 
+947=200.	What is this one? 
 951=201.	What is that one?”} 
 
 {202 = 202-210}

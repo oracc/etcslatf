@@ -21,8 +21,8 @@
 63=14.	she has grasped …… for you. 
 67=15.	…… has brought the numerous …… to you. 
 71=16.	They raise …… to your ……; 
-75=17.	kids …… are ordered, and your @wTN{Egal-edina}, the place of calm, 
-79=18.	has been arranged for you. 
+75=17.	kids …… are ordered, and your @wTN{Egal-edina}, 
+79=18.	the place of calm, has been arranged for you. 
 83=19.	You are the good woman who appears radiantly throughout the Land. 
 
 {20 = 20-21}
@@ -40,11 +40,11 @@
 123=29.	Your feet are placed on seven dogs, 
 127=30.	your seat is set upon a lion and a leopard. 
 131=31.	Cattle and sheep are brought to you for inspection. 
-135=32.	@wDN{Lulal} stands by your feet, bearing in battle the pitiless (?) mace. 
-139=33.	Beside them the cultic attendants stand at your service, 
-143=34.	lined up for you beside the dogs. 
-147=35.	They have taken over the temple @wTN{Gu-ena-ida}, 
-151=36.	to provide for you. 
+135=32.	@wDN{Lulal} stands by your feet, 
+139=33.	bearing in battle the pitiless (?) mace. 
+143=34.	Beside them the cultic attendants stand at your service, 
+147=35.	lined up for you beside the dogs. 
+151=36.	They have taken over the temple @wTN{Gu-ena-ida}, to provide for you. 
 
 {37 = 37-38}
 155=37.	@wDN{Inana}, you are the lady of all the divine powers, and no deity can compete with you. 
@@ -54,7 +54,7 @@
 163=39.	The …… dog (?) has brought the sheep close to you; 
 167=40.	the powerful dog (?) has …… a wild bull …… in its paws, 
 $ (@gap{2 lines unclear}) 
-171=43.	the lion, the warrior ……. 
+171=42.	the lion, the warrior ……. 
 
 {44 = 44-56}
 183=44.	@wDN{Inana}, 
@@ -88,13 +88,13 @@ $ (@gap{2 lines unclear})
 {66 = 66-76}
 271=66.	At the New Year, at the festival of @wDN{Dumuzid}, 
 275=67.	your spouse @wDN{Ama-ušumgal-ana}, Lord @wDN{Dumuzid}, steps forward to you. 
-279=68.	…… of weeping are brought to you, 
-283=69.	@wDN{Inana}, as offerings. 
-287=70.	The tubes of the underworld are opened for you, 
-291=71.	and memorial libations are poured down them for you. 
-295=72.	The @fsux{en} priests, the @fsux{lumaḫ} priests and the @fsux{nindiŋir} priestesses, 
-299=73.	and the dead @fsux{luzid} and @fsux{amalu}, eat meals for you, 
-303=74.	to keep away the ghosts, and drink water for you, 
+279=68.	…… of weeping are brought to you, @wDN{Inana}, as offerings. 
+283=69.	The tubes of the underworld are opened for you, 
+287=70.	and memorial libations are poured down them for you. 
+291=71.	The @fsux{en} priests, the @fsux{lumaḫ} priests and the @fsux{nindiŋir} priestesses, 
+295=72.	and the dead @fsux{luzid} and @fsux{amalu}, eat meals for you, 
+299=73.	to keep away the ghosts, 
+303=74.	and drink water for you, 
 307=75.	to keep away the ghosts. 
 311=76.	Your holy dais is set up beside them. 
 
@@ -127,16 +127,16 @@ $ (@gap{2 lines unclear})
 {95 = 95-106}
 387=95.	When you act as a shepherd with the herdsman, 
 391=96.	when …… with the cowherd you throw the halters on the cows, 
-395=97.	when you mix the butter, when you purify the milk, 
-399=98.	when you find joy in the embrace of your spouse @wDN{Dumuzid}, 
-403=99.	when you have pleasure in the embrace of your spouse @wDN{Dumuzid}, 
-407=100.	when you take your seat on the high dais in the great hall in your @wTN{Kura-igi-ŋal} where judgment is passed, 
-411=101.	then the people of the holy @fsux{uzga} stand there at your service. 
+395=97.	when you mix the butter, 
+399=98.	when you purify the milk, 
+403=99.	when you find joy in the embrace of your spouse @wDN{Dumuzid}, 
+407=100.	when you have pleasure in the embrace of your spouse @wDN{Dumuzid}, 
+411=101.	when you take your seat on the high dais in the great hall in your @wTN{Kura-igi-ŋal} where judgment is passed, 
+415=102.	then the people of the holy @fsux{uzga} stand there at your service. 
 $ (@gap{1 line unclear}) 
-415=103.	They cannot compete with you, @wDN{Inana}. 
-419=104.	As a prostitute you go down to the tavern and, 
-423=105.	like (?) a ghost who slips in through the window, 
-427=106.	you enter there. 
+419=104.	They cannot compete with you, @wDN{Inana}. 
+423=105.	As a prostitute you go down to the tavern and, 
+427=106.	like (?) a ghost who slips in through the window, you enter there. 
 
 {107 = 107-108}
 435=107.	@wDN{Inana}, you are the lady of all the divine powers, and no deity can compete with you. 
@@ -227,8 +227,8 @@ $ (@gap{1 line unclear})
 757=208.	Your mother @wDN{Ningal} …… great attributes. 
 761=209.	Your father @wDN{Suen} …… great holy cows. 
 765=210.	Your brother, the youth @wDN{Utu} ……. 
-769=211.	Your spouse @wDN{Ama-ušumgal-ana}, the shepherd, Lord @wDN{Dumuzid}, 
-773=212.	……. 
+769=211.	Your spouse @wDN{Ama-ušumgal-ana}, the shepherd, 
+773=212.	Lord @wDN{Dumuzid}, ……. 
 777=213.	Your beloved minister (?) @wDN{Ninšubur} ……. 
 781=214.	Your beloved sister-in-law @wDN{Ŋeštin-ana} ……. 
 $ (@gap{3 lines fragmentary or missing}) 

@@ -1,7 +1,18 @@
 &Q000407
 
 {A.1 = 1-12}
-1.	City worthy of the divine powers, according to its name: shrine @wSN{Urim}, raging storm of @wGN{Sumer}, battleground -- and well established! Origin of human seed, consolidating the foundations of the Land, abundance -- and well established! Lofty dais of @wDN{An}, pure place, holy place, provider of first-fruit offerings for @wDN{An} to refresh himself, dripping with syrup and wine -- and well established! @wTN{Du-ur}, celebrated place of @wDN{Enlil}, in whose interior are the assigned divine powers, place whose destiny was decreed by Father @wDN{Enlil}, great dais -- and well established! @wSN{Eridug}, shrine expert in decreeing the fates, with princely divine powers, pure divine powers -- and well established! @wTN{E-kiš-nu-ŋal}, cattle-pen of @wDN{Suen}, where fecund cows, breed-bulls and holy calves gambol together, producing fine cream -- and well established! @fsux{Abzu}, holy residence of youthful @wDN{Suen}, tall crook lifting its head towards heaven, a marvel -- and well established! 
+1.	City worthy of the divine powers, according to its name: shrine @wSN{Urim}, 
+2.	raging storm of @wGN{Sumer}, battleground -- and well established! Origin of human seed, 
+3.	consolidating the foundations of the Land, abundance -- and well established! Lofty dais of @wDN{An}, 
+4.	pure place, holy place, provider of first-fruit offerings for @wDN{An} to refresh himself, 
+5.	dripping with syrup and wine -- and well established! @wTN{Du-ur}, celebrated place of @wDN{Enlil}, 
+6.	in whose interior are the assigned divine powers, 
+7.	place whose destiny was decreed by Father @wDN{Enlil}, great dais -- and well established! 
+8.	@wSN{Eridug}, shrine expert in decreeing the fates, with princely divine powers, 
+9.	pure divine powers -- and well established! @wTN{E-kiš-nu-ŋal}, cattle-pen of @wDN{Suen}, where fecund cows, 
+10.	breed-bulls and holy calves gambol together, producing fine cream -- and well established! 
+11.	@fsux{Abzu}, holy residence of youthful @wDN{Suen}, 
+12.	tall crook lifting its head towards heaven, a marvel -- and well established! 
 
 {A.13 = 13-24}
 13.	@fsux{Ŋipar}, shrine built in exuberance, 
@@ -20,9 +31,9 @@
 {A.25 = 25-37}
 25.	Its prince, the hero of @wDN{Enlil}, a lion rising up in its strength, 
 26.	a furious lion (?) baring its teeth at the foreign lands, 
-27.	…… inspects great wild bulls, eating ……, 
-28.	extending ……. Shepherd @wRN{Šulgi}, 
-29.	son of @wDN{Ninsumun}, 
+27.	…… inspects great wild bulls, 
+28.	eating ……, extending ……. 
+29.	Shepherd @wRN{Šulgi}, son of @wDN{Ninsumun}, 
 30.	ornament of ……, 
 31.	…… in their evil words, 
 32.	brought the hero @wDN{Gilgameš}, 
@@ -36,10 +47,10 @@
 38.	On the day when the destiny of the Land was determined, 
 39.	when the seed of all living beings was originally brought forth, 
 40.	when the king appeared radiantly to his comrade -- on that day, 
-41.	@wDN{Gilgameš}, the lord of @wSN{Kulaba}, 
-42.	conversed with @wRN{Šulgi}, 
-43.	the good shepherd of @wGN{Sumer}, 
-44.	at his shining feet. 
+41.	@wDN{Gilgameš}, 
+42.	the lord of @wSN{Kulaba}, 
+43.	conversed with @wRN{Šulgi}, 
+44.	the good shepherd of @wGN{Sumer}, at his shining feet. 
 45.	So that their praise would be sung forever, 
 46.	so that it be would handed down to distant days, 
 47.	so that it should be not forgotten in remote years, 
@@ -59,26 +70,26 @@
 60.	You brought the kingship from @wSN{Kiš} to @wSN{Unug}.”} 
 
 {A.61 = 61-84}
-61.	Thus he  
-62.	eulogised him  
-63.	who was  
-64.	born  
-65.	 
-66.	…… in @wSN{Kulaba}. 
+61.	Thus  
+62.	he  
+63.	eulogised  
+64.	him  
+65.	who  
+66.	was  
+67.	born  
+68.	 
+69.	 
+70.	…… in @wSN{Kulaba}. 
 $ (@gap{1 line unclear}) 
-68.	@wDN{Gilgameš}, 
-69.	lord  
-70.	of  
-71.	@wSN{Kulaba}, 
-72.	seed  
-73.	of  
-74.	lordship, 
-75.	righteous  
-76.	hero  
-77.	 
-78.	……  
-@gap{5 lines fragmentary or unclear}  
-84.	$ (@gap{approx. 4 lines missing} (@wDN{Gilgameš} continues speaking:) @q[Gilgamec,Culgi]{“Like ……, falsely ……, you trampled underfoot ……, …… as if in a mighty clamp. You gathered its …… like swallows rising into the air. You entered with them into the presence of @wDN{Enlil} in the shrine of @wSN{Nibru}. Even those …… who escaped from the ……, wail bitterly ……. …… a copper statue fashioned in @wSN{Urim}, …… the seven gods, stationed beside, wielding battle-axes. Fearsome hero ……, king of @wGN{Sumer}, you stand firm in your strength.”) 
+72.	@wDN{Gilgameš}, 
+73.	lord  
+74.	of @wSN{Kulaba}, 
+75.	seed  
+76.	of lordship, 
+77.	righteous hero  
+78.	 
+79.	……  
+$ (@gap{5 lines fragmentary or unclear} @gap{approx. 4 lines missing} (@wDN{Gilgameš} continues speaking:) @q[Gilgamec,Culgi]{“Like ……, falsely ……, you trampled underfoot ……, …… as if in a mighty clamp. You gathered its …… like swallows rising into the air. You entered with them into the presence of @wDN{Enlil} in the shrine of @wSN{Nibru}. Even those …… who escaped from the ……, wail bitterly ……. …… a copper statue fashioned in @wSN{Urim}, …… the seven gods, stationed beside, wielding battle-axes. Fearsome hero ……, king of @wGN{Sumer}, you stand firm in your strength.”) 
 
 {A.85 = 85-88}
 85.	@wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
@@ -95,11 +106,11 @@ $ (@gap{1 line fragmentary})
 97.	in the shrine of @wSN{Nibru} ……. …… your captured hero. 
 98.	You allowed the mother of the sick man to fetch her son to her embrace. 
 99.	Your battle-mace, its mouth gaping wide, attacks the foreign lands for you. 
-100.	@wDN{Gilgameš}, noble one of @wSN{Unug}, 
-101.	violent storm, 
-102.	at whose oppression ……. 
-103.	The inimical rebel land, 
-104.	like ……. 
+100.	@wDN{Gilgameš}, 
+101.	noble one of @wSN{Unug}, 
+102.	violent storm, 
+103.	at whose oppression ……. 
+104.	The inimical rebel land, like ……. 
 105.	You have revealed your immense majesty! 
 106.	May you extend your protective arms over me!”} 
 
@@ -110,28 +121,28 @@ $ (@gap{1 line fragmentary})
 {A.109 = 109-137}
 109.	@q[Gilgamec,Culgi]{“  
 $ (@gap{12 lines fragmentary} @gap{approx. 5 lines missing} @gap{8 lines fragmentary}) 
-122.	The youthful  
-123.	 
-124.	……, a  
-125.	god among  
-126.	the @wDN{Anuna}  
-127.	gods,  
-128.	… 
-129.	 
-130.	… venerates ……. Fearsome (?)  
-131.	hero  
-132.	……, king  
-133.	of @wGN{Sumer}, 
-134.	you stand  
-135.	firm in  
-136.	your  
-137.	strength (?).”} 
+111.	The youthful  
+112.	 
+113.	……, 
+114.	a  
+115.	god among  
+116.	the  
+117.	@wDN{Anuna} gods, 
+118.	 
+119.	… 
+120.	 
+121.	… venerates ……. 
+122.	Fearsome (?) hero  
+123.	……, 
+124.	king of @wGN{Sumer}, 
+125.	you stand firm  
+126.	in your strength (?).”} 
 
 {A.138 = 138-141}
 138.	@wRN{Šulgi}, the good shepherd of @wGN{Sumer}, praised his brother and friend, Lord @wDN{Gilgameš}, in his might, and declared to him in his heroism: 
 
 {A.142 = 142}
-142.	@q[Culgi,Gilgamec]{“@wDN{Ištaran}, the judge who dwells in the Land  
+142.	@q[Culgi,Gilgamec]{“@wDN{Ištaran}, the judge who dwells in the Land @gap{unknown no. of lines missing} ” 
 
 {B.1 = 1-8}
 $ (@gap{1 line fragmentary}) 
@@ -141,7 +152,7 @@ $ (@gap{1 line fragmentary})
 5.	wearing a lapis-lazuli beard ……. 
 6.	their praise ……, their songs (?) ……, 
 7.	their renown ……; 
-8.	son ……  
+8.	son …… @gap{unknown no. of lines missing} 
 
 {C.1 = 1-14}
 1-14.	@gap{fragmentary ends of 14 lines}
@@ -162,4 +173,4 @@ $ (@gap{2 lines fragmentary or unclear})
 $ (@gap{1 line fragmentary}) 
 
 {E.1 = 1-3}
-1.	…… the rebel lands like a horned viper ……, @wRN{Šulgi}, son of @wDN{Ninsumun} …… @wDN{Enki} ……  $ (@gap{1 line fragmentary}) 
+1.	…… the rebel lands like a horned viper ……, @wRN{Šulgi}, son of @wDN{Ninsumun} …… @wDN{Enki} ……  $ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 

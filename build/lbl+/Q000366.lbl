@@ -1,20 +1,23 @@
 &Q000366
 
 {1 = 1-4}
-9=1.	@q[Enkidu (?,Gilgamec]{“So come on now, you heroic bearer of a sceptre of wide-ranging power! Noble glory of the gods, angry bull standing ready for a fight! Young Lord @wRN{Gilgameš}, cherished in @wSN{Unug}!”} 
+9=1.	@q[Enkidu (?,Gilgamec]{“So come on now, you heroic bearer of a sceptre of wide-ranging power! 
+15=2.	Noble glory of the gods, 
+19=3.	angry bull standing ready for a fight! 
+23=4.	Young Lord @wRN{Gilgameš}, cherished in @wSN{Unug}!”} 
 
 {5 = 5-21}
 27=5.	@q[Gilgamec,Enkidu]{“In @wSN{Unug} people are dying, and souls are full of distress. 
-31=6.	People are lost -- that fills me with dismay. 
-35=7.	I lean out over the city wall: 
-39=8.	bodies in the water make the river almost overflow. 
-43=9.	That is what I see: that people die thus, which fills me with despair; 
-47=10.	that the end of life is unavoidable; 
-51=11.	that the grave, the all-powerful underworld, will spare no one; 
-55=12.	that no one is tall enough to block off the underworld; 
-59=13.	that no one is broad enough to cover over the underworld -- the boundary that a man cannot cross at the final end of life. 
-63=14.	By the life of my own mother @wDN{Ninsumun}, 
-67=15.	and of my father, holy @wDN{Lugalbanda}! My personal god @wDN{Enki}, 
+31=6.	People are lost -- that fills me with dismay. I lean out over the city wall: 
+35=7.	bodies in the water make the river almost overflow. 
+39=8.	That is what I see: that people die thus, 
+43=9.	which fills me with despair; that the end of life is unavoidable; 
+47=10.	that the grave, the all-powerful underworld, will spare no one; 
+51=11.	that no one is tall enough to block off the underworld; 
+55=12.	that no one is broad enough to cover over the underworld -- the boundary that a man cannot cross at the final end of life. 
+59=13.	By the life of my own mother @wDN{Ninsumun}, 
+63=14.	and of my father, holy @wDN{Lugalbanda}! 
+67=15.	My personal god @wDN{Enki}, 
 71=16.	Lord @wDN{Nudimmud}, 
 $ (@gap{3 lines fragmentary}) 
 75=20.	I will complete …… there. 
@@ -31,8 +34,8 @@ $ (@gap{3 lines fragmentary})
 
 {29 = 29-33}
 123=29.	@wDN{Utu} of heaven put on his lapis-lazuli diadem and came forward with head high. 
-127=30.	In his hand @wRN{Gilgameš}, the lord of @wSN{Kulaba}, held a holy staff before his nose: 
-131=31.	@q[Gilgamec,Utu]{“@wDN{Utu}, I want to set off into the mountains! May you be my helper! 
+127=30.	In his hand @wRN{Gilgameš}, the lord of @wSN{Kulaba}, held a holy staff before his nose: @q[Gilgamec,Utu]{“@wDN{Utu}, I want to set off into the mountains! 
+131=31.	May you be my helper! 
 135=32.	I want to set off into the mountains of Cedar-felling! 
 139=33.	May you be my helper!”} 
 
@@ -55,10 +58,10 @@ $ (@gap{4 lines missing})
 {51 = 51-56}
 196=51.	@wRN{Gilgameš} organised a levy in his city. 
 200=52.	In …… @wSN{Kulaba} he had the horn sounded. 
-204=53.	@q[Gilgamec,citizens of Kulaba]{“Citizens! You who have a wife, go to your wife! 
-208=54.	You who have children, go to your children! Warriors, whether experienced or inexperienced, 
-212=55.	who have no wife, 
-216=56.	who have no children -- let such people join me at my side as the companions of @wRN{Gilgameš}.”} 
+204=53.	@q[Gilgamec,citizens of Kulaba]{“Citizens! 
+208=54.	You who have a wife, go to your wife! 
+212=55.	You who have children, go to your children! 
+216=56.	Warriors, whether experienced or inexperienced, who have no wife, who have no children -- let such people join me at my side as the companions of @wRN{Gilgameš}.”} 
 
 {57 = 57-66}
 220=57.	The king left the city. @wRN{Gilgameš} left @wSN{Kulaba}, to follow the route to the @wGN{Mountains of Cedar-felling}. 
@@ -93,33 +96,33 @@ $ (@gap{3 lines missing})
 309=82.	the evening …….”} 
 
 {83 = 83-89}
-313=83.	@wRN{Gilgameš} awoke from his dream, shuddering from his sleep. He rubbed his eyes; 
-318=84.	there was eery silence everywhere. 
-322=85.	@q[Gilgamec,Enkidu]{“By the life of my own mother @wDN{Ninsumun} and of my father, 
-326=86.	holy @wDN{Lugalbanda}! My personal god @wDN{Enki}, 
+313=83.	@wRN{Gilgameš} awoke from his dream, shuddering from his sleep. 
+318=84.	He rubbed his eyes; there was eery silence everywhere. 
+322=85.	@q[Gilgamec,Enkidu]{“By the life of my own mother @wDN{Ninsumun} and of my father, holy @wDN{Lugalbanda}! 
+326=86.	My personal god @wDN{Enki}, 
 330=87.	Lord @wDN{Nudimmud} ……! 
 $ (@gap{2 lines missing}) 
 
 {90 = 90-95}
-335=90.	@q[Enkidu,Gilgamec]{“I ……, he vexes (?) me -- the warrior whose face is a lion's grimace, 
-339=91.	and whose breast is like a raging flood. 
-343=92.	No one dare approach his brow, which devours the reedbeds. 
-348=93.	On his tongue, like that of a man-eating lion, 
-352=94.	the blood never dries. You do not have enough strength for the warrior, 
-356=95.	such is his might.”} 
+335=90.	@q[Enkidu,Gilgamec]{“I ……, 
+339=91.	he vexes (?) me -- the warrior whose face is a lion's grimace, 
+343=92.	and whose breast is like a raging flood. 
+348=93.	No one dare approach his brow, which devours the reedbeds. 
+352=94.	On his tongue, like that of a man-eating lion, the blood never dries. 
+356=95.	You do not have enough strength for the warrior, such is his might.”} 
 
 {96 = 96-98}
 360=96.	His slave @wPN{Enkidu} addressed him:@q[Enkidu,]{“  
 $ (@gap{2 lines fragmentary}) 
 
 {99 = 99-108}
-372=99.	@q[Gilgamec,Huwawa]{“By the life of my own mother @wDN{Ninsumun} and of my father, 
-376=100.	holy @wDN{Lugalbanda}! My personal god @wDN{Enki}, Lord @wDN{Nudimmud} ……! Warrior, 
-380=101.	one would like to know where in the mountains you live. 
+372=99.	@q[Gilgamec,Huwawa]{“By the life of my own mother @wDN{Ninsumun} and of my father, holy @wDN{Lugalbanda}! 
+376=100.	My personal god @wDN{Enki}, Lord @wDN{Nudimmud} ……! 
+380=101.	Warrior, one would like to know where in the mountains you live. 
 384=102.	Here, they have made some tiny shoes for your tiny feet. 
 388=103.	Here, they have made some big shoes for your big feet. 
-$ (@gap{4 lines missing}) 
-393=108.	If you bring …….”} 
+393=108.	$ (@gap{4 lines missing}) 
+108.	If you bring …….”} 
 
 {109 = 109-115}
 397=109.	@q{“By the life of my mother @wDN{Ninsumun} and of my father, holy @wDN{Lugalbanda}! 
@@ -181,4 +184,4 @@ $ (@gap{4 lines missing})
 
 {167 = 167-168}
 566=167.	@wRN{Gilgameš} addressed @wPN{Ḫuwawa}: @q[Gilgamec,Huwawa]{“Come on, 
-570=168.	…….”} 
+570=168.	…….”} @gap{unknown no. of lines missing} 

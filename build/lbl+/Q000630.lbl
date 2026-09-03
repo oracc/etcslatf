@@ -11,8 +11,8 @@
 39=8.	When I stand in the mouth of the battle, 
 43=9.	I am indeed also the foremost one of all lands. 
 47=10.	When I stand in the thick of the battle, 
-51=11.	I am indeed also the very guts of battle, 
-55=12.	the heroic strength. When I walk about at the rear of the battle, 
+51=11.	I am indeed also the very guts of battle, the heroic strength. 
+55=12.	When I walk about at the rear of the battle, 
 59=13.	I am indeed also the flood bearing ……. 
 63=14.	When I take my stand behind the battle, 
 67=15.	I am the woman who comes (?). 
@@ -38,7 +38,7 @@
 131=31.	I am the queen created by @wDN{Nudimmud}. 
 135=32.	My eye ……. 
 139=33.	My eye ……. 
-$ (@gap{1 line fragmentary}) 
+143=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {B.1 = 1-7}
 152=1.	The life of the lord ……. 

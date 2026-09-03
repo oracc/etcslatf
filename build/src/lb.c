@@ -85,7 +85,7 @@ main(int argc, char *const *argv)
   setlocale(LC_ALL,ORACC_LOCALE);
   segmem = memo_init(sizeof(Seg), 32);
   lbfn = argv[1];
-  fprintf(stderr, "lb: processing %s\n", lbfn);
+  fprintf(stderr, "--lb: processing %s\n", lbfn);
   Roco *r = roco_load1(lbfn);
   m_ssc = memo_init(sizeof(SSC),32);
   logfn = strdup(lbfn);
@@ -132,7 +132,7 @@ main(int argc, char *const *argv)
 	    tp->pars[i].re_xwords = 0;
 	  tp->pars[i].nlabs = tp->pars[i].nsegs - tp->pars[i].usegs;
 	  /*lb_sentence_orphans(&tp->pars[i]);*/
-	  if (tp->pars[i].nlabs < tp->pars[i].re_goal)
+	  if (new_nW && tp->pars[i].nlabs < tp->pars[i].re_goal)
 	    lb_split_segs(segmem, &tp->pars[i]);
 	  lb_sanity(&tp->pars[i]);
 	  lb_log_segs(&tp->pars[i]);
@@ -247,9 +247,10 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 	}
       else
 	{
-	  /* "unknown number of lines" is treated as 0 lines */
+	  /* "unknown number of lines" is treated as ignored */
 	  if (!strstr(p, "unknown"))
 	    fprintf(stderr, "no digit in gap %s\n", p);
+	  *ignored = 1;
 	}
     }
 
@@ -268,6 +269,8 @@ map_segs(Par *par)
     {
       if ('(' == *p)
 	p = find_closer(++p);
+      while (isspace(*p))
+	++p;
       if (*p)
 	{
 	  const char *start = p;
@@ -302,7 +305,8 @@ map_segs(Par *par)
 			}
 		      else
 			{
-			  /* segment starts with ignored gap; create a seg for it */
+			  /* segment starts with ignored gap; create an unlabeled seg for it */
+			  ++par->usegs;
 			  s = memo_new(segmem);
 			  s->p = par;
 			  list_add(l, s);

@@ -32,11 +32,11 @@
 110=25.	Joy has been brought into @wDN{Enki's}@fsux{abzu}.”} 
 
 {26 = 26-32}
-114=26.	@q{“Your lock has no rival. Your bolt is a fearsome lion. 
-118=27.	Your roof beams are the bull of heaven, 
-122=28.	an artfully made bright headgear. 
-126=29.	Your reed-mats are like lapis lazuli, 
-130=30.	decorating the roof-beams. 
+114=26.	@q{“Your lock has no rival. 
+118=27.	Your bolt is a fearsome lion. 
+122=28.	Your roof beams are the bull of heaven, 
+126=29.	an artfully made bright headgear. 
+130=30.	Your reed-mats are like lapis lazuli, decorating the roof-beams. 
 137=31.	Your vault is a @varh[t114.v1]{bull } @vart[t114.v2,t114.v1]{@varn{some mss. have instead:} wild bull } raising its horns. 
 144=32.	Your door is a lion who @varh[t114.v3]{seizes a man } @vart[t114.v4,t114.v3]{@varn{1 ms. has instead:} is awe-inspiring }. Your stairway is a lion coming down on a man.”} 
 
@@ -72,8 +72,8 @@
 253=57.	a lion in the midst of the @fsux{abzu}; 
 257=58.	lofty temple of @wDN{Enki}, 
 261=59.	which bestows wisdom on the Land; 
-265=60.	your cry, like that of a mighty rising river, 
-269=61.	reaches (?) King @wDN{Enki}.”} 
+265=60.	your cry, 
+269=61.	like that of a mighty rising river, reaches (?) King @wDN{Enki}.”} 
 
 {62 = 62-67}
 275=62.	@q{“He made @varh[t114.v6]{the lyre, the @fsux{alŋar} instrument, 
@@ -103,12 +103,12 @@
 389=82.	as he brings joy into the @fsux{engur}. 
 
 {83 = 83-92}
-393=83.	Like the sea, he is awe-inspiring; like a mighty river, 
-397=84.	he instils fear. 
-401=85.	The @wWN{Euphrates} rises before him as it does before the fierce south wind. 
-405=86.	His punting pole is @varh[t114.v15]{@wDN{Nirah} } @vart[t114.v16,t114.v15]{@varn{some mss. have instead:} @wDN{Imdudu} }; his oars are the small reeds. 
-412=87.	When @wDN{Enki} embarks, the year will be full of abundance. 
-416=88.	The ship departs of its own accord, with tow rope held (?) by itself. 
+393=83.	Like the sea, he is awe-inspiring; like a mighty river, he instils fear. 
+397=84.	The @wWN{Euphrates} rises before him as it does before the fierce south wind. 
+401=85.	His punting pole is @varh[t114.v15]{@wDN{Nirah} } @vart[t114.v16,t114.v15]{@varn{some mss. have instead:} @wDN{Imdudu} }; his oars are the small reeds. 
+405=86.	When @wDN{Enki} embarks, the year will be full of abundance. 
+412=87.	The ship departs of its own accord, 
+416=88.	with tow rope held (?) by itself. 
 420=89.	As he leaves the temple of @wSN{Eridug}, 
 424=90.	the river gurgles (?) to its lord: 
 428=91.	its sound is a calf's mooing, 
@@ -120,8 +120,8 @@
 444=95.	where there were no bronze @fsux{ub} drums, he despatched some to their places. 
 
 {96 = 96-103}
-448=96.	He directed his steps on his own to @wSN{Nibru} and entered the temple terrace, 
-452=97.	the shrine of @wSN{Nibru}. @wDN{Enki} reached for (?) the beer, 
+448=96.	He directed his steps on his own to @wSN{Nibru} and entered the temple terrace, the shrine of @wSN{Nibru}. 
+452=97.	@wDN{Enki} reached for (?) the beer, 
 456=98.	he reached for (?) the liquor. 
 460=99.	He had liquor poured into big bronze containers, 
 464=100.	and had emmer-wheat beer pressed out (?). 
@@ -145,4 +145,16 @@
 528=116.	@wDN{Enlil} was made happy in @wSN{Nibru}. 
 
 {117 = 117-129}
-532=117.	@wDN{Enlil} addressed the @wDN{Anuna} gods: @q{“Great gods who are standing here! @wDN{Anuna}, who have lined up in the @wTN{Ubšu-unkena}! My son, King @wDN{Enki} has built up the temple! He has made @wSN{Eridug}@varh[t114.v17]{rise up (?) } @vart[t114.v18,t114.v17]{@varn{1 ms. has instead:} come out } from the ground like a mountain! He has built it in a pleasant place, in @wSN{Eridug}, the pure place, where no one is to enter -- a temple built with silver and decorated with lapis lazuli, a house which tunes the seven @fsux{tigi} drums properly, and provides incantations; where holy songs make all of the house a lovely place -- the shrine of the @fsux{abzu}, the good destiny of @wDN{Enki}, befitting the elaborate divine powers; the temple of @wSN{Eridug}, built with silver: for all this, Father @wDN{Enki} be praised!”} 
+532=117.	@wDN{Enlil} addressed the @wDN{Anuna} gods: @q{“Great gods who are standing here! 
+536=118.	@wDN{Anuna}, who have lined up in the @wTN{Ubšu-unkena}! My son, 
+540=119.	King @wDN{Enki} has built up the temple! 
+544=120.	He has made @wSN{Eridug}@varh[t114.v17]{rise up (?) } @vart[t114.v18,t114.v17]{@varn{1 ms. has instead:} come out } from the ground like a mountain! 
+548=121.	He has built it in a pleasant place, in @wSN{Eridug}, 
+555=122.	the pure place, 
+559=123.	where no one is to enter -- a temple built with silver and decorated with lapis lazuli, 
+563=124.	a house which tunes the seven @fsux{tigi} drums properly, 
+567=125.	and provides incantations; 
+571=126.	where holy songs make all of the house a lovely place -- the shrine of the @fsux{abzu}, 
+575=127.	the good destiny of @wDN{Enki}, befitting the elaborate divine powers; 
+579=128.	the temple of @wSN{Eridug}, built with silver: 
+583=129.	for all this, Father @wDN{Enki} be praised!”} 

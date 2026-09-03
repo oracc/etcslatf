@@ -79,13 +79,13 @@ $ (@gap{6 lines missing})
 264=67.	when its …… was brought to @wDN{Ašimbabbar} from ……, 
 268=68.	when its …… was brought to @wDN{Nanna-Suen} from the mound of ……, 
 $ (@gap{1 line fragmentary}) 
-275=70.	 
-279=71.	@wDN{Utu}  
-284=72.	rejoiced  
-288=73.	at  
-292=74.	him  
-296=75.	and  
-300=76.	put  
+275=70.	@wDN{Utu}  
+279=71.	rejoiced  
+284=72.	at  
+288=73.	him  
+292=74.	and  
+296=75.	put  
+300=76.	 
 304=77.	……. 
 308=78.	@wDN{Gibil}  
 312=79.	rejoiced  
@@ -152,8 +152,8 @@ $ (@gap{1 line fragmentary})
 694=198.	@wSN{Enegir} lay ahead of the offerings, @wSN{Urim} lay behind them. 
 698=199.	She brought out of the house what should not come out of the house, 
 702=200.	what should not come out of the house -- @wDN{Ningirida} brought out of the house what should not come out of the house: 
-706=201.	@q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen}, welcome, welcome, 
-710=202.	O boat!”} 
+706=201.	@q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
+710=202.	O boat of @wDN{Suen}, welcome, welcome, O boat!”} 
 
 {203 = 203-208}
 714=203.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
@@ -167,8 +167,8 @@ $ (@gap{1 line fragmentary})
 746=209.	@wSN{Larsam} lay ahead of the offerings, @wSN{Enegir} lay behind them. 
 750=210.	She brought out of the house what should not come out of the house, 
 754=211.	what should not come out of the house -- the lovely @wDN{Šerida} brought out of the house what should not come out of the house: 
-758=212.	@q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father, welcome, welcome, 
-762=213.	O boat!”} 
+758=212.	@q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
+762=213.	O boat of my father, welcome, welcome, O boat!”} 
 
 {214 = 214-219}
 766=214.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
@@ -182,8 +182,8 @@ $ (@gap{1 line fragmentary})
 798=220.	@wSN{Unug} lay ahead of the offerings, @wSN{Larsam} lay behind them. 
 802=221.	She brought out of the house what should not come out of the house, 
 806=222.	what should not come out of the house -- holy @wDN{Inana} brought out of the house what should not come out of the house: 
-810=223.	@q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, 
-814=224.	O boat! @vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”} 
+810=223.	@q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, O boat! 
+814=224.	@vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”} 
 
 {225 = 225-230}
 826=225.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
@@ -197,8 +197,8 @@ $ (@gap{1 line fragmentary})
 858=231.	@wSN{Šuruppag} lay ahead of the offerings, @wSN{Unug} lay behind them. 
 862=232.	She brought out of the house what should not come out of the house, 
 866=233.	what should not come out of the house -- @wDN{Ninunuga} brought out of the house what should not come out of the house: 
-870=234.	@q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen} welcome, welcome, 
-874=235.	O boat!”} 
+870=234.	@q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
+874=235.	O boat of @wDN{Suen} welcome, welcome, O boat!”} 
 
 {236 = 236-241}
 878=236.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
@@ -212,8 +212,8 @@ $ (@gap{1 line fragmentary})
 910=242.	@wSN{Tummal} lay ahead of the offerings, @wSN{Šuruppag} lay behind them. 
 914=243.	She brought out of the house what should not come out of the house, 
 918=244.	what should not come out of the house -- the fair @wDN{Ninlil} brought out of the house what should not come out of the house: 
-922=245.	@q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of the princely son welcome, 
-926=246.	welcome, O boat!”} 
+922=245.	@q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
+926=246.	O boat of the princely son welcome, welcome, O boat!”} 
 
 {247 = 247-252}
 930=247.	She laid out flour before the barge and spread bran. At her feet stood a covered bronze @fsux{gakkul} vat. 
@@ -231,7 +231,13 @@ $ (@gap{1 line fragmentary})
 978=257.	@wDN{Ašimbabbar} finally docked the boat. 
 
 {258 = 258-264}
-982=258.	He stood at the grand stairway of his father who begot him and called out to the porter of his father who begot him: @q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! Open the house, @wDN{Kalkal}, open the house! @wDN{Kalkal}, doorkeeper, open the house! Doorman, doorkeeper, open the house! Porter, open the house! @wDN{Kalkal}, open the house!”} 
+982=258.	He stood at the grand stairway of his father who begot him  
+986=259.	and called out to the porter of his father who begot him: 
+990=260.	@q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! 
+994=261.	Open the house, @wDN{Kalkal}, open the house! 
+998=262.	@wDN{Kalkal}, doorkeeper, open the house! 
+1002=263.	Doorman, doorkeeper, open the house! 
+1006=264.	Porter, open the house! @wDN{Kalkal}, open the house!”} 
 
 {265 = 265-274}
 1010=265.	@q{“I, @wDN{Nanna-Suen}, have gathered bulls for the cow-pen for the house of @wDN{Enlil}; 
@@ -251,10 +257,10 @@ $ (@gap{1 line fragmentary})
 1058=277.	have gathered (?) turtles (?) and little birds for the house of @wDN{Enlil}; 
 1062=278.	porter, open the house. I, @wDN{Ašimbabbar}, 
 1066=279.	have brought small @fsux{ubi} birds from the pond for the house of @wDN{Enlil}; 
-1070=280.	porter, open the house. I, @wDN{Nanna-Suen}, 
-1074=281.	have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; 
-1078=282.	porter, 
-1082=283.	open the house.”} 
+1070=280.	porter, open the house. I, 
+1074=281.	@wDN{Nanna-Suen}, 
+1078=282.	have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; 
+1082=283.	porter, open the house.”} 
 
 {284 = 284-293}
 1086=284.	@q{“I, @wDN{Ašimbabbar}, …… @fsux{suḫur} carp for the house of @wDN{Enlil}; 
@@ -288,24 +294,24 @@ $ (@gap{1 line fragmentary})
 1182=308.	I will give you that which is in the prow of the boat as a first offering, and I will give you that which is in the stern of the boat as a last offering.”} 
 
 {309 = 309-318}
-1186=309.	Rejoicing, the porter rejoicing, the porter rejoicing opened the house. 
-1190=310.	@wDN{Kalkal}, the doorkeeper, rejoicing, 
-1194=311.	the porter rejoicing opened the house. 
-1198=312.	@wDN{Kalkal}, in charge of the bolt-handle, 
-1202=313.	rejoicing, the porter rejoicing opened the house. 
-1206=314.	At the house of @wDN{Enlil}, 
-1210=315.	……, @wDN{Nanna-Suen} made the offerings. 
-1214=316.	@wDN{Enlil}, rejoicing over the offerings, 
-1218=317.	offered bread to @wDN{Suen}, 
-1222=318.	his son. 
+1186=309.	Rejoicing, the porter rejoicing, 
+1190=310.	the porter rejoicing opened the house. 
+1194=311.	@wDN{Kalkal}, the doorkeeper, rejoicing, 
+1198=312.	the porter rejoicing opened the house. 
+1202=313.	@wDN{Kalkal}, in charge of the bolt-handle, 
+1206=314.	rejoicing, the porter rejoicing opened the house. 
+1210=315.	At the house of @wDN{Enlil}, 
+1214=316.	……, @wDN{Nanna-Suen} made the offerings. 
+1218=317.	@wDN{Enlil}, rejoicing over the offerings, 
+1222=318.	offered bread to @wDN{Suen}, his son. 
 
 {319 = 319-325}
 1226=319.	@wDN{Enlil} rejoiced over @wDN{Suen} and spoke kindly: @q[Enlil,Kalkal]{“Give sweet cakes to my little fellow who eats sweet cakes. 
 1230=320.	Give sweet cakes to my @wDN{Nanna} who loves eating sweet cakes. 
 1234=321.	Bring out from the @wTN{E-kur} the bread allotment and first quality bread for him. 
 1238=322.	Pour out for him the finest beer, my pure ……. 
-1242=323.	May the …… of the towering @fsux{tilimda} vessels, standing on the ground, 
-1246=324.	……. Order pure sweet cake, syrup, 
+1242=323.	May the …… of the towering @fsux{tilimda} vessels, standing on the ground, ……. 
+1246=324.	Order pure sweet cake, syrup, 
 1250=325.	crescent (?) cake and clear water for him.”} 
 
 {326 = 326-330}
@@ -316,7 +322,15 @@ $ (@gap{1 line fragmentary})
 1270=330.	O @wDN{Enlil}, your abundance is …….”} 
 
 {331 = 331-339}
-1274=331.	@q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! In the river give me the carp-flood -- I want to set off for @wSN{Urim}! In the fields give me speckled barley -- I want to set off for @wSN{Urim}! In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! In the palace give me long life -- I want to set off for @wSN{Urim}!”} 
+1274=331.	@q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! 
+1278=332.	In the river give me the carp-flood -- I want to set off for @wSN{Urim}! 
+1282=333.	In the fields give me speckled barley -- I want to set off for @wSN{Urim}! 
+1286=334.	In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! 
+1290=335.	In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! 
+1294=336.	In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! 
+1298=337.	In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! 
+1302=338.	In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! 
+1306=339.	In the palace give me long life -- I want to set off for @wSN{Urim}!”} 
 
 {340 = 340-348}
 1310=340.	He gave to him, @wDN{Enlil} gave to him -- and he set off for @wSN{Urim}. 

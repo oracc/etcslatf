@@ -14,6 +14,7 @@ GetOptions(
 
 my $curr_text;
 my $curr_line;
+my $verbose = 0;
 
 while (<>) {
     if (/^\&(Q\d+)/) {
@@ -45,7 +46,8 @@ while (<>) {
 #	    print;
 	} else {
 	    chomp;
-	    warn "$curr_text: $_\n";
+	    warn "$curr_text: $_\n"
+		if $verbose;
 	    print "\$\$\t$_\n";
 	}	
     }

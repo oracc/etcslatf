@@ -30,7 +30,7 @@
 
 1.A.5. |MUNUS+X| MU X [...]
 #lem: X; X; X; X
-#tr.en: …… the go-between's fee …… lion ……  $ (@gap{1 line fragmentary}) … … not …… wife ……  $ (@gap{1 line fragmentary}) 
+#tr.en: …… the go-between's fee …… lion ……  $ (@gap{1 line fragmentary}) …… not …… wife ……  @gap{1 line fragmentary}  $ (@gap{unknown no. of lines missing}) 
 #etcsl: line-id=1.A.5
 
 1.A.6. ŋiri₃ niŋ₂-ŋiri₃# [...]
@@ -130,6 +130,7 @@ $ (unknown no. of lines missing)
 
 1.B.15. [...] GAR₃ X X UM
 #lem: X; X; X; X; X
+#tr.en: 118=$ (@gap{3 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=1.B.15
 
 1.B.16. [...] X GA-ar
@@ -280,7 +281,7 @@ $ (unknown no. of lines missing)
 
 2.A.15. [...]-an#-gu₇-[e]
 #lem: gu[eat]
-#tr.en: … good …… eat ……. 
+#tr.en: … good …… eat ……. @gap{unknown no. of lines missing} 
 #etcsl: line-id=2.A.15
 
 $ (unknown no. of lines missing)
@@ -375,7 +376,7 @@ $ (unknown no. of lines missing)
 
 3.A.9. {ŋiš}al im-NI-sahar-a ŋar-ra {d}nin-kilim-ma iri-na {{%akk al-lum %akk ša %akk i-na %akk ṭi-dim %akk na-[du-u₂] %akk ši-ku-tu %akk a-[li-ša]}}
 #lem: al[hoe]; im.NI.sahar[type of clay]; ŋar[put]; ninkilim[mongoose]; iri[city]; L; L; L; L; L; L; L
-#tr.en: A pickaxe put in the …… clay is a mongoose in its city. 
+#tr.en: A pickaxe put in the …… clay is a mongoose in its city. @gap{unknown no. of lines missing} 
 #etcsl: line-id=3.A.9
 
 $ (unknown no. of lines missing)
@@ -513,7 +514,7 @@ $ (unknown no. of lines missing)
 
 4.A.12. ur₅ na-an-na# [šag₄ sig-ga] kur-ra ba-ra#-[an-de₆]
 #lem: ur[that]; Nanni[1]RN; šag[heart]; sig[weak]; kur[mountain(s)]; de[carry]
-#tr.en: Thus @wRN{Nanni} was carried off to the nether world despondent. 
+#tr.en: Thus @wRN{Nanni} was carried off to the nether world despondent. @gap{unknown no. of lines missing} 
 #etcsl: line-id=4.A.12
 
 $ (unknown no. of lines missing)
@@ -551,7 +552,7 @@ $ (unknown no. of lines missing)
 
 4.B.7. a-na-aš-am₃ saŋ X [...]
 #lem: anaš[why?]; saŋ[head]; X; X
-#tr.en: Why ……? 
+#tr.en: Why ……? @gap{unknown no. of lines missing} 
 #etcsl: line-id=4.B.7
 
 $ (unknown no. of lines missing)
@@ -622,6 +623,7 @@ $ (unknown no. of lines missing)
 
 5.A.9. [...] X X [...]
 #lem: X; X; X; X
+#tr.en: 551=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=5.A.9
 
 $ (unknown no. of lines missing)
@@ -700,7 +702,7 @@ $ (unknown no. of lines missing)
 
 6.A.7. [...] X šu im-ma-ab-gur
 #lem: X; X; šu[hand]; gur[turn]
-#tr.en: …… he rolled ……. 
+#tr.en: …… he rolled ……. @gap{unknown no. of lines missing} 
 #etcsl: line-id=6.A.7
 
 $ (unknown no. of lines missing)
@@ -773,6 +775,7 @@ $ (unknown no. of lines missing)
 
 7.A.5. [X X] X X A X X [X X]
 #lem: X; X; X; X; X; X; X; X; X
+#tr.en: 681=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=7.A.5
 
 $ (unknown no. of lines missing)
@@ -803,7 +806,7 @@ $ (unknown no. of lines missing)
 
 7.B.5. [ŋe₂₆-e] ba#-am₃-til₃-la
 #lem: ŋaʾe[I]; til[complete]
-#tr.en: … because of …… I am finished. 
+#tr.en: … because of …… I am finished. @gap{unknown no. of lines missing} 
 #etcsl: line-id=7.B.5
 
 $ (unknown no. of lines missing)
@@ -853,6 +856,7 @@ $ (unknown no. of lines missing)
 
 8.A.4. [...] X BU
 #lem: X; X; X
+#tr.en: 751=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=8.A.4
 
 $ (unknown no. of lines missing)
@@ -922,12 +926,12 @@ $ (unknown no. of lines missing)
 
 9.5. ud-da-tuš-a# ga-na 1(DIŠ)-am₃
 #lem: uddatuš[jester]; gana[come on!]; n
-#tr.en: Come on, clown! Just for once, say: 
+#tr.en: Come on, clown! 
 #etcsl: line-id=9.5
 
 9.6. dug₄-ga-ab šu (1:ku₄-ku₄-ba:1) ib₂-ŋu₁₀
 #lem: dug[speak]; šu[hand]; kur[enter]; ib[hips]
-#tr.en: @q{“…… my hips are heavier than 50 @fsux{mana} weight.”} 
+#tr.en: Just for once, say: @q{“…… my hips are heavier than 50 @fsux{mana} weight.”} 
 #etcsl: line-id=9.6
 
 :6v.1.1: ($N 4047 has instead:$) a₂-ba
@@ -987,7 +991,7 @@ $ (unknown no. of lines missing)
 
 10.A.6. [ka₅-a] ŋeštug₂#-bi X [...]
 #lem: kaʾa[fox]; ŋeštug[ear]; X; X
-#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.61]{6.1.02.61}, @xref[t.6.2.5,t625.h21]{6.2.5: P 374}} If the hearing of the fox ……. 
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.61]{6.1.02.61}, @xref[t.6.2.5,t625.h21]{6.2.5: P 374}} If the hearing of the fox ……. @gap{unknown no. of lines missing} 
 #etcsl: line-id=10.A.6
 
 #etcsl#cf cf. 6.1.02.61, 6.2.5: P 374
@@ -1161,6 +1165,7 @@ $ (unknown no. of lines missing)
 
 13.A.8. [...] X X X [...]
 #lem: X; X; X; X; X
+#tr.en: 1018=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=13.A.8
 
 $ (unknown no. of lines missing)
@@ -1558,15 +1563,17 @@ $ (unknown no. of lines missing)
 
 26.1. nu-mu-un-su dam-egir-ra-ni na-ab-be₂-a
 #lem: numunkuš[widow]; damegir[secondary wife]; e[speak]
-#tr.en: Thus speaks a widow, a man's junior wife: @q{“What can widows become? They cannot be principal wives!”} 
+#tr.en: Thus speaks a widow, a man's junior wife: 
 #etcsl: line-id=26.1
 
 26.2. a-na nu-mu-un-su-a-me-eš
 #lem: ana[what?]; numunkuš[widow]
+#tr.en: @q{“What can widows become? 
 #etcsl: line-id=26.2
 
 26.3. dam# nitalam in-nu
 #lem: dam[spouse]; ŋidlam[(equal ranking) spouse]; nu[not]
+#tr.en: They cannot be principal wives!”} 
 #etcsl: line-id=26.3
 
 @end version
@@ -1666,11 +1673,12 @@ $ (unknown no. of lines missing)
 
 33.1. ŋen za-e dumu-me-e-ke₄
 #lem: ŋen[go]; zaʾe[you]; dumu[child]
-#tr.en: Come, you are our son, even from when you did not exist! 
+#tr.en: Come, you are our son, 
 #etcsl: line-id=33.1
 
 33.2. za-e nu-me-en-na-ta
 #lem: zaʾe[you]; e[speak]
+#tr.en: even from when you did not exist! 
 #etcsl: line-id=33.2
 
 @end version

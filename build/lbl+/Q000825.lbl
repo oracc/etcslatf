@@ -31,7 +31,7 @@
 55=10.	@gap{1 line fragmentary}
 
 {1.A.11 = 11}
-59=11.	…… rogue ……  
+59=11.	…… rogue …… @gap{unknown no. of lines missing} 
 
 {1.B.1 = 1-2}
 68=1-2.	@gap{2 lines fragmentary}
@@ -85,7 +85,7 @@
 178=11-12.	@gap{2 lines fragmentary}
 
 {2.A.13 = 13}
-$ (@gap{1 line fragmentary}) 
+186=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {2.B.1 = 1}
 195=1.	…… a fool (?) …… pronounces judgment (?) over me. 
@@ -169,7 +169,7 @@ $ (@gap{1 line fragmentary})
 
 {4.A.13 = 13-14}
 377=13.	@note{cf. @xref[t.6.1.15,t.6.1.15.b3]{6.1.15.b3}} The gardener lifts his gaze to you: 
-383=14.	@q{“May @wDN{Enlil} look upon the city that he cursed.”} 
+383=14.	@q{“May @wDN{Enlil} look upon the city that he cursed.”} @gap{unknown no. of lines missing} 
 
 {4.B.1 = 1}
 392=1.	@note{cf. @xref[t.6.1.14,t.6.1.14.1]{6.1.14.1}} Let the favour be repaid to him who repays a favour. 
@@ -199,7 +199,7 @@ $ (@gap{1 line fragmentary})
 
 {5.A.4 = 4-5}
 454=4.	My wife ……. 
-$ (@gap{1 line fragmentary}) 
+458=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {5.B.1 = 1-2}
 467=1.	The  
@@ -296,7 +296,7 @@ $ (@gap{1 line unclear})
 {10.A.1 = 1-3}
 695=1.	@note{cf. @xref[t.6.1.03,t.6.1.03.170]{6.1.03.170}, @xref[t.6.1.25,t.6.1.25.13]{6.1.25.13}, @xref[t.6.1.26,t.6.1.26.a10]{6.1.26.a10}} If a …… boatman …… demands an inspection, 
 701=2.	or if the hand touches a woman's genitals  
-705=3.	over her clothes -- it is an abomination to @wDN{Suen}. 
+705=3.	over her clothes -- it is an abomination to @wDN{Suen}. @gap{unknown no. of lines missing} 
 
 {10.B.1 = 1-3}
 714=1-3.	@gap{3 lines fragmentary}
@@ -372,7 +372,8 @@ $ (@gap{1 line fragmentary})
 948=2.	not procure much food nor even a little food. 
 
 {25.1 = 1-2}
-956=1.	@note{cf. @xref[t.6.1.03,t.6.1.03.188]{6.1.03.188}} If a leader is being consumed by fire, those behind him don't say: @q{“Where is the leader?”} 
+956=1.	@note{cf. @xref[t.6.1.03,t.6.1.03.188]{6.1.03.188}} If a leader is being consumed by fire, 
+962=2.	those behind him don't say: @q{“Where is the leader?”} 
 
 {26.1 = 1-2}
 970=1.	My wild stag's pen is lordly: the clan is fifty strong, 

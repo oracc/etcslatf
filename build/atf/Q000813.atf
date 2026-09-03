@@ -14,7 +14,6 @@ $ (unknown no. of lines missing)
 
 A.21.a1.1. [...] X-en
 #lem: X; X
-#tr.en: @gap{3 lines fragmentary} @gap{2 lines missing}
 #etcsl: line-id=A.21.a1.1
 
 A.21.a1.2. [...] X [...]
@@ -54,7 +53,7 @@ A.21.a5.8. [...] X X X
 
 A.21.a6.9. [...] GI
 #lem: X; X
-#tr.en: @gap{2 lines fragmentary} @gap{unknown no. of lines missing}
+#tr.en: 52=$ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=A.21.a6.9
 
 A.21.a6.10. [...] X X X
@@ -72,7 +71,7 @@ $ (unknown no. of lines missing)
 
 B.21.b1.1. nu-X X [...]
 #lem: X; X; X
-#tr.en: @note{= Alster 1997 21 Sec. B 1} @gap{1 line fragmentary}
+#tr.en: $ (@note{= Alster 1997 21 Sec. B 1} ) $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=B.21.b1.1
 
 #etcsl#eq = Alster 1997 21 Sec. B 1
@@ -83,6 +82,7 @@ B.21.b1.1. nu-X X [...]
 
 B.21.b2.2. [...]
 #lem: X
+#tr.en: $ (@note{= Alster 1997 21 Sec. B 2} ) $ (@gap{1 line missing}) $ (@gap{2 lines fragmentary}) 
 #etcsl: line-id=B.21.b2.2
 
 #etcsl#eq = Alster 1997 21 Sec. B 2
@@ -128,7 +128,7 @@ B.21.b4.7. niŋ₂ i₃-gu₇-a-ŋu₁₀ ga#-[ab-sug₆-e-še]
 
 B.21.b5.8. šah₂-ze₂-eh-[tur-e] šu al-gu₄-ud-[...]
 #lem: šahzehtur[piglet]; šu[hand]; gud[jump (on)]
-#tr.en: @note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”} 
+#tr.en: @note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”} @gap{unknown no. of lines missing} 
 #etcsl: line-id=B.21.b5.8
 
 #etcsl#cf = Alster 1997 21 Sec. B 5; cf. 6.1.09.a13, 6.1.19.b2, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4
@@ -155,19 +155,19 @@ C.21.c1.1. [e₂]-gi₄-a# gal₄-la# [lu₂-kam]
 
 C.21.c2.2. mussa-tur# UŠ# [X X]
 #lem: mussatur[son-in-law]; X; X; X
-#tr.en: 146=@note{= Alster 1997 21 Sec. A 
+#tr.en: @note{= Alster 1997 21 Sec. A 2; cf. @xref[t.6.1.19,t.6.1.19.c8]{6.1.19.c8}} A fiancée … 
 #etcsl: line-id=C.21.c2.2
 
 #etcsl#cf = Alster 1997 21 Sec. A 2; cf. 6.1.19.c8
 
 C.21.c2.3. ŋe₂₆ e₂-e X X X
 #lem: ŋaʾe[I]; e[house]; X; X; X
-#tr.en: 152=2; cf. @xref[t.6.1.19,t.6.1.19.c8]{6.1.19.c8}} A fiancée …… I …… to the house. 
+#tr.en: … I …… to the house. 
 #etcsl: line-id=C.21.c2.3
 
 C.21.c2.4. X ga#-ba#-X [...]
 #lem: X; X; X
-#tr.en: 156=May I ……. 
+#tr.en: May I ……. 
 #etcsl: line-id=C.21.c2.4
 
 @end proverb
@@ -333,7 +333,7 @@ C.21.c15.32. he₂-kud na-ab-dug₄# ŋa₂-ra in-na-LAGAB-u₃
 
 C.21.c16.x. egir₂ %e gi₄-in-na-ka
 #lem: egir[princess]; gin[worker]N
-#tr.en: @note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl} @gap{unknown no. of lines missing}
+#tr.en: $ (@note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=C.21.c15.33
 
 #etcsl: line-id=C.21.c16.x
@@ -351,7 +351,7 @@ $ (unknown no. of lines missing)
 
 D.21.d1.1. sipad X X X X [...]
 #lem: sipad[shepherd]; X; X; X; X; X
-#tr.en: @note{= Alster 1997 21 Sec. D 1} @gap{1 line fragmentary}
+#tr.en: $ (@note{= Alster 1997 21 Sec. D 1} ) $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=D.21.d1.1
 
 #etcsl#eq = Alster 1997 21 Sec. D 1

@@ -1,22 +1,32 @@
 &Q000793
 
 {A.1 = 1-13}
-11=1.	My fish, I have built you a home! My fish, I have built you a house, 
-17=2.	I have built you a store! I have built you a house bigger than a house, 
-21=3.	in fact a large sheepfold. Inside there is incense, and I have covered it with cloths for you; 
-25=4.	in this happy place, I …… water of joy for you; 
-29=5.	a house not bothered by cords dividing the plots, …… in the gutters. 
-33=6.	In the house, there is food, food of the best quality. In the house, 
-37=7.	there is food, food in good condition. 
-41=8.	No flies buzz around in your house where beer is poured out. 
-45=9.	Your reputation …… cannot be alienated (?). The threshold and the door-bolt, 
-49=10.	the ritual flour and the incense-burner are all in place. 
-53=11.	The scent and fragance in the house are like an aromatic cedar forest. 
-57=12.	In the house, there is beer, there is good beer. There is sweet beer, 
-61=13.	and honeyed cakes, ……. 
+11=1.	My fish, I have built you a home! My fish, 
+17=2.	I have built you a house, I have built you a store! 
+21=3.	I have built you a house bigger than a house, in fact a large sheepfold. 
+25=4.	Inside there is incense, and I have covered it with cloths for you; 
+29=5.	in this happy place, I …… water of joy for you; 
+33=6.	a house not bothered by cords dividing the plots, …… in the gutters. 
+37=7.	In the house, there is food, food of the best quality. In the house, 
+41=8.	there is food, food in good condition. 
+45=9.	No flies buzz around in your house where beer is poured out. 
+49=10.	Your reputation …… cannot be alienated (?). The threshold and the door-bolt, 
+53=11.	the ritual flour and the incense-burner are all in place. 
+57=12.	The scent and fragance in the house are like an aromatic cedar forest. 
+61=13.	In the house, there is beer, there is good beer. There is sweet beer, and honeyed cakes, ……. 
 
 {A.14 = 14-24}
-65=14.	Let your acquaintances come! Let your dear ones come! Let your father and grandfather come! Let the sons of your elder brother and the sons of your younger brother come! Let your little ones come, and your big ones too! Let your wife and your children come! Let your friends and companions come! Let your brother-in-law and your father-in-law come! Let the crowd by the side of your front door come! Don't leave your friends' children outside! Don't leave your neighbours outside, whoever they may be! 
+65=14.	Let your acquaintances come! 
+69=15.	Let your dear ones come! 
+73=16.	Let your father and grandfather come! 
+77=17.	Let the sons of your elder brother and the sons of your younger brother come! 
+81=18.	Let your little ones come, and your big ones too! 
+85=19.	Let your wife and your children come! 
+89=20.	Let your friends and companions come! 
+93=21.	Let your brother-in-law and your father-in-law come! 
+97=22.	Let the crowd by the side of your front door come! 
+101=23.	Don't leave your friends' children outside! 
+105=24.	Don't leave your neighbours outside, whoever they may be! 
 
 {A.25 = 25-33}
 109=25.	Enter, my beloved son! Enter, my fine son! Don't let the day go by, 
@@ -30,40 +40,97 @@
 141=33.	no one who sits there will get involved in a quarrel. 
 
 {A.34 = 34-39}
-145=34.	Enter, my beloved son! Enter, my fine son! As if you were in a river with brackish water, don't go investigating any canals! As if you were in silt settled on the riverbed, may you not be able to get up! As if you were in flowing water, you should not fix your bed! The moonlight should not enter that house! 
+145=34.	Enter, my beloved son! 
+149=35.	Enter, my fine son! 
+153=36.	As if you were in a river with brackish water, don't go investigating any canals! 
+157=37.	As if you were in silt settled on the riverbed, may you not be able to get up! 
+161=38.	As if you were in flowing water, you should not fix your bed! 
+165=39.	The moonlight should not enter that house! 
 
 {A.40 = 40-44}
-169=40.	And may you not succeed in getting away: face towards me! And may you not succeed in getting away like a …… to your lair: face towards me! And may you not succeed in getting away like a dog to where you go sniffing: face towards me! And may you not succeed in getting away like a …… to where you ……: face towards me! And may you not succeed in getting away like a bull to your cattle-pen, like a sheep to your sheepfold: face towards me! 
+169=40.	And may you not succeed in getting away: face towards me! 
+173=41.	And may you not succeed in getting away like a …… to your lair: face towards me! 
+177=42.	And may you not succeed in getting away like a dog to where you go sniffing: face towards me! 
+181=43.	And may you not succeed in getting away like a …… to where you ……: face towards me! 
+185=44.	And may you not succeed in getting away like a bull to your cattle-pen, like a sheep to your sheepfold: face towards me! 
 
 {A.45 = 45-67}
-189=45.	Now, just …… like a bull to your cattle-pen! Enter for me, and @wDN{Suen} will be delighted with you! Now, just …… like a sheep to your sheepfold! Enter for me, and @wDN{Dumuzid} will be delighted with you! When you lift your head like a bull towards your cattle-pen, Lord @wDN{Ašimbabbar} @wDN{Suen} will be delighted with you! When you raise your head like a sheep in the sheepfold, @wDN{Dumuzid} the shepherd will be delighted with you! $ (@gap{15 lines fragmentary or missing}) 
+189=45.	Now, just …… like a bull to your cattle-pen! 
+193=46.	Enter for me, and @wDN{Suen} will be delighted with you! Now, 
+197=47.	just …… like a sheep to your sheepfold! 
+201=48.	Enter for me, and @wDN{Dumuzid} will be delighted with you! 
+205=49.	When you lift your head like a bull towards your cattle-pen, 
+209=50.	Lord @wDN{Ašimbabbar} @wDN{Suen} will be delighted with you! 
+213=51.	When you raise your head like a sheep in the sheepfold, 
+217=52.	@wDN{Dumuzid} the shepherd will be delighted with you! 
+$ (@gap{15 lines fragmentary or missing}) 
 
 {A.68 = 68-80}
-226=68.	The fish who ……. May all kinds of fish also enter with you, 
-230=69.	my fish! The one with handsome barbels who eats the honey plant, 
-234=70.	my @fsux{suḫur-gal} fish: may he also enter with you, 
-238=71.	my fish! The one who always eats …… reeds, 
-242=72.	……, my @fsux{suḫur-tur} fish: may he also enter with you, 
-246=73.	my fish! The one with big lips, who sucks the @fsux{gizi} reeds, 
+226=68.	The fish who ……. 
+230=69.	May all kinds of fish also enter with you, my fish! 
+234=70.	The one with handsome barbels who eats the honey plant, 
+238=71.	my @fsux{suḫur-gal} fish: may he also enter with you, my fish! 
+242=72.	The one who always eats …… reeds, 
+246=73.	……, my @fsux{suḫur-tur} fish: may he also enter with you, my fish! 
+250=74.	The one with big lips, who sucks the @fsux{gizi} reeds, 
 $ (@gap{1 line fragmentary}) 
-250=75.	whose food ……, my @fsux{eštub} fish: 
-254=76.	may he also enter with you, 
-258=77.	my fish! The black punting-pole, engendered in the fields, 
-262=78.	the farrowing sow who takes away the dough from the river banks, 
-266=79.	my @fsux{gubi} fish @noteref{probably = eel}: may he also enter with you, 
-270=80.	my fish! 
+254=76.	whose food ……, my @fsux{eštub} fish: may he also enter with you, my fish! 
+258=77.	The black punting-pole, 
+262=78.	engendered in the fields, 
+266=79.	the farrowing sow who takes away the dough from the river banks, 
+270=80.	my @fsux{gubi} fish @noteref{probably = eel}: may he also enter with you, my fish! 
 
 {A.81 = 81-95}
-278=81.	The one with a spiny (?) tail and a spiny (?) back, who goes ……, my @fsux{še-suḫur-gal} (?) fish: may he also enter with you, my fish! The fish who is like a crying child in its prayers, my @fsux{še-suḫur-sig} (?) fish: may he also enter with you, my fish! With a pickaxe as a head, and having a comb for teeth, the branches of a fir-tree as its bones, @wDN{Dumuzid's} waterskin for its stomach (?), with a dehaired skin that does not need processing, with its slender tail like the fishermen's whip, the jumping fish, with naturally smoothed skin, with no entrails in its nose, the fish that hides from its adversary, whose sting goes across like a nail, that is taboo and is not placed as an offering in the city's shrines, my @fsux{mur} fish @noteref{= sting-ray}: may he also enter with you, my fish! 
+278=81.	The one with a spiny (?) tail and a spiny (?) back, 
+282=82.	who goes ……, my @fsux{še-suḫur-gal} (?) fish: may he also enter with you, my fish! 
+287=83.	The fish who is like a crying child in its prayers, 
+291=84.	my @fsux{še-suḫur-sig} (?) fish: may he also enter with you, my fish! 
+296=85.	With a pickaxe as a head, and having a comb for teeth, 
+300=86.	the branches of a fir-tree as its bones, @wDN{Dumuzid's} waterskin for its stomach (?), 
+304=87.	with a dehaired skin that does not need processing, 
+308=88.	with its slender tail like the fishermen's whip, 
+312=89.	the jumping fish, 
+316=90.	with naturally smoothed skin, 
+320=91.	with no entrails in its nose, 
+324=92.	the fish that hides from its adversary, 
+328=93.	whose sting goes across like a nail, 
+332=94.	that is taboo and is not placed as an offering in the city's shrines, 
+336=95.	my @fsux{mur} fish @noteref{= sting-ray}: may he also enter with you, my fish! 
 
 {A.96 = 96-113}
-340=96.	The one whose fins (?) churn the troubled waters, a fish who seizes …… at a glance (?), my @fsux{kiŋ} fish: may he also enter with you, my fish! With a head like a small millstone, …… a dog's head, $ (@gap{1 line unclear}) the fish who does not eat the …… plants, ……, my @fsux{ŋir-gid} fish: may he also enter with you, my fish! With the noise of his entrails ……, my @fsux{gir} fish: may he also enter with you, my fish! The fish who ……, the fish who knows how to escape through a reed barrier, the fish who despite being tasty is an abomination, my @fsux{ab-suḫur} fish: may he also enter with you, my fish! The fish that causes breaches in dykes, with venom in its jaws, my @fsux{agargar} fish: may he also enter with you, my fish! The one whom the merchants ……, my @fsux{kamar} fish: may he also enter with you, my fish! The one whom the @wEN{Martu} fetch away, my @fsux{nunbar-gid} (?) fish: may he also enter with you, my fish! 
+340=96.	The one whose fins (?) churn the troubled waters, 
+344=97.	a fish who seizes …… at a glance (?), 
+348=98.	my @fsux{kiŋ} fish: may he also enter with you, my fish! 
+352=99.	With a head like a small millstone, …… a dog's head, 
+$ (@gap{1 line unclear}) 
+356=101.	the fish who does not eat the …… plants, 
+360=102.	……, my @fsux{ŋir-gid} fish: may he also enter with you, my fish! 
+364=103.	With the noise of his entrails ……, my @fsux{gir} fish: 
+368=104.	may he also enter with you, my fish! The fish who ……, 
+372=105.	the fish who knows how to escape through a reed barrier, 
+376=106.	the fish who despite being tasty is an abomination, my @fsux{ab-suḫur} fish: 
+380=107.	may he also enter with you, my fish! The fish that causes breaches in dykes, 
+384=108.	with venom in its jaws, my @fsux{agargar} fish: may he also enter with you, my fish! 
+388=109.	The one whom the merchants ……, my @fsux{kamar} fish: 
+392=110.	may he also enter with you, my fish! 
+396=111.	The one whom the @wEN{Martu} fetch away, 
+400=112.	my @fsux{nunbar-gid} (?) fish: 
+404=113.	may he also enter with you, my fish! 
 
 {A.114 = 114-117}
-412=114.	The fish who does not eat edible plants, ……, my @fsux{azagur} fish: may he also enter with you, my fish! The one that …… a heavy skin, ……, my @fsux{muš} fish: may he also enter with you, my fish! @gap{approx. 7 lines fragmentary or missing} 
+412=114.	The fish who does not eat edible plants, ……, 
+416=115.	my @fsux{azagur} fish: may he also enter with you, my fish! 
+420=116.	The one that …… a heavy skin, ……, 
+424=117.	my @fsux{muš} fish: may he also enter with you, my fish! @gap{approx. 7 lines fragmentary or missing} 
 
 {B.1 = 1-7}
-437=1.	……, spotted (?) ……, my @fsux{ŋiru} (?) fish: may he also enter with you, my fish! The one that the children bring in ……, my @fsux{salsal} fish: may he also enter with you, my fish! The one with snake's eyes, a …… mouse's mouth, who …… on riverbanks, @gap{approx. 8 lines fragmentary or missing} 
+437=1.	……, spotted (?) ……, my @fsux{ŋiru} (?) fish: 
+441=2.	may he also enter with you, my fish! 
+445=3.	The one that the children bring in ……, 
+449=4.	my @fsux{salsal} fish: 
+453=5.	may he also enter with you, my fish! 
+457=6.	The one with snake's eyes, a …… mouse's mouth, 
+461=7.	who …… on riverbanks, @gap{approx. 8 lines fragmentary or missing} 
 
 {C.1 = 1-12}
 470=1.	The one who utters its sinister cry in the marshes and rivers, my @fsux{akane} bird: 

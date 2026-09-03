@@ -162,21 +162,24 @@
 
 9.1. [an] uga{mušen}-am₃
 #lem: an[sky]; uga[raven]
-#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.128]{6.1.01.128}, @xref[t.6.1.22,]{6.1.22: ll. 146-147}, @xref[t.6.1.23,t.6.1.23.9]{6.1.23.9}} In the sky there is the raven; on the ground there is the mongoose; in the desert there is the lion; my husband, where shall I go? 
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.128]{6.1.01.128}, @xref[t.6.1.22,]{6.1.22: ll. 146-147}, @xref[t.6.1.23,t.6.1.23.9]{6.1.23.9}} In the sky there is the raven; 
 #etcsl: line-id=9.1
 
 #etcsl#cf cf. 6.1.01.128, 6.1.22: ll. 146-147, 6.1.23.9
 
 9.2. [ki] {d}nin-kilim-am₃
 #lem: ki[place]; ninkilim[mongoose]
+#tr.en: on the ground there is the mongoose; 
 #etcsl: line-id=9.2
 
 9.3. [edin]-na ur-mah-e
 #lem: eden[back]; urmah[lion]
+#tr.en: in the desert there is the lion; 
 #etcsl: line-id=9.3
 
 9.4. %e [mu-ud-na]-ŋu₁₀ %s me-še₃ ga-ŋen
 #lem: mudna[spouse]N; meše[where to? whither?]; ŋen[go]
+#tr.en: my husband, where shall I go? 
 #etcsl: line-id=9.4
 
 @end version
@@ -259,11 +262,12 @@
 
 14.1. šum₂-mu-na-ab na-ta-ab-šum₂-mu
 #lem: šum[give]; šum[give]
-#tr.en: Give! -- Don't give! Don't let his hand touch it! 
+#tr.en: Give! -- Don't give! 
 #etcsl: line-id=14.1
 
 14.2. šu-ni {{%akk qa₂-su₂}} na-an-tag
 #lem: šu[hand]; L; tag[touch]
+#tr.en: Don't let his hand touch it! 
 #etcsl: line-id=14.2
 
 14.3. ŋarza-bi ŋiri₃ ba-da-kur₂ {{%akk ab-šu}}
@@ -292,13 +296,14 @@
 
 14.7. me-bi na-ab-ta#-[ab]-ha-lam-e [...] %s {{%akk la}}
 #lem: me[Being]; halam[forsake]; u; L
-#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}} You should not destroy their cult! Where there were ritual preparations, you should not destroy them! 
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}} You should not destroy their cult! 
 #etcsl: line-id=14.7
 
 #etcsl#cf cf. 6.1.02.1
 
 14.8. di-ir-ga-a {{%akk ri-ik-si₂-šu}} ki [...]-gul-lu-en#-[...]
 #lem: dirga[bond]; L; ki[place]; gul[destroy]
+#tr.en: Where there were ritual preparations, you should not destroy them! 
 #etcsl: line-id=14.8
 
 @end version
@@ -787,17 +792,19 @@
 
 34.1. [anše]-kur lu₂ u₅-a-ni u₃-mu-ni-in-šub
 #lem: sisi[horse]; lu[person]; u[ride]; šub[fall]
-#tr.en: @note{cf. @xref[t.6.1.05,t.6.1.05.38]{6.1.05.38}} The horse, after throwing off his rider, said: @q{“Were my load to be like this forever, how weak I would become!”} 
+#tr.en: @note{cf. @xref[t.6.1.05,t.6.1.05.38]{6.1.05.38}} The horse, after throwing off his rider, said: 
 #etcsl: line-id=34.1
 
 #etcsl#cf cf. 6.1.05.38
 
 34.2. tukum-bi gu₂-un-ŋu₁₀ da-ri₂-še₃
 #lem: tukumbi[if]; gun[load]; dari[eternal]
+#tr.en: @q{“Were my load to be like this forever, 
 #etcsl: line-id=34.2
 
 34.3. ne-en-nam al-sig-en-e-še
 #lem: nen[this]; sig[weak]
+#tr.en: how weak I would become!”} 
 #etcsl: line-id=34.3
 
 @end version
@@ -844,17 +851,19 @@
 
 36.5. e₂ ŋuruš gal-gal-e-ne-ka#
 #lem: e[house]; ŋuruš[young adult male]; gal[big]
-#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household  of several grown-up young men, … … battle fray ……  $ (@gap{2 lines fragmentary}) 
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household  
 #etcsl: line-id=36.5
 
 #etcsl#cf cf. 6.1.02.140
 
 36.6. ŋiš X X X X X X-ra-an-NE
 #lem: ŋeš[tree]; X; X; X; X; X; rah[beat]
+#tr.en: of several grown-up young men, 
 #etcsl: line-id=36.6
 
 36.7. me₃ šen#-[šen-na ...] tur#
 #lem: me[battle]; šen[battle]; X; tur[small]
+#tr.en: …… battle fray ……  
 #etcsl: line-id=36.7
 
 36.8. PA LI# [...]
@@ -874,17 +883,17 @@
 
 36.11. kug-ga-ke₄#-[eš] kug-sig₁₇-ga-ke₄-[eš]
 #lem: kug[metal]; kugsig[gold]
-#tr.en: Because of silver, because of gold, because of the money chest, 
+#tr.en: Because of silver, because of gold, 
 #etcsl: line-id=36.11
 
 36.12. dub-šen-na-ke₄-eš dub-šen-dilim₂-ma!(NA)-ke₄-eš
 #lem: dubšen[treasure chest]; dubšendilim[container]
-#tr.en: because of the …… chest, 
+#tr.en: because of the money chest, 
 #etcsl: line-id=36.12
 
 36.13. ŋe₂₆-e ba-til-de₃-en
 #lem: ŋaʾe[I]; til[complete]
-#tr.en: I am finished! 
+#tr.en: because of the …… chest, I am finished! 
 #etcsl: line-id=36.13
 
 @end version
@@ -937,12 +946,12 @@
 
 39.5. [...] X X mu-ŋu₁₀ ud {e₂}tur₃-ra-še₃ i₃-[ŋen]
 #lem: X; X; X; mu[name]; ud[sun]; tur[animal stall]; ŋen[go]
-#tr.en: '……' is my name!”} When he came to the fold, 
+#tr.en: '……' is my name!”} 
 #etcsl: line-id=39.5
 
 39.6. [X X]-na#-ŋu₁₀ gu₃ mu-na-de₂-e#
 #lem: X; X; gu[voice]; de[pour]
-#tr.en: he shouted: @q{“…… my …….”} 
+#tr.en: When he came to the fold, he shouted: @q{“…… my …….”} 
 #etcsl: line-id=39.6
 
 39.7. [e-ne] gu₃!# re-a mu-un-na-ni-ib₂-gi₄#-[gi₄]
@@ -1273,12 +1282,12 @@
 
 57.2. an u₃-sa₂ nu-mu-un-šum₂-ma
 #lem: An[1]DN; usag[sleep]; šum[give]
-#tr.en: @q{“Were @wDN{An} not to bestow sleep on someone, as he does me, 
+#tr.en: @q{“Were @wDN{An} not to bestow sleep on someone, 
 #etcsl: line-id=57.2
 
 57.3. ŋe₂₆-gin₇-nam he₂-si-ig
 #lem: ŋaʾe[I]; sig[silent]
-#tr.en: they would expire.”} 
+#tr.en: as he does me, they would expire.”} 
 #etcsl: line-id=57.3
 
 @end version
@@ -1751,6 +1760,7 @@
 $ (unknown no. of lines missing)
 77.A.1. [...] bi₂#-gi₄# [...]
 #lem: X; gi[turn]; X
+#tr.en: 1518=$ (@gap{11 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=77.A.1
 
 77.A.2. [...]-zu ba-an#-[...]
@@ -1829,6 +1839,7 @@ $ (unknown no. of lines missing)
 
 77.B.6. X-zu X [X X] X X X
 #lem: X; X; X; X; X; X; X
+#tr.en: 1591=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=77.B.6
 
 $ (unknown no. of lines missing)
@@ -1899,22 +1910,22 @@ $ (unknown no. of lines missing)
 
 79.2. an-na bi₂-ed₂-de₃
 #lem: an[sky]; e[leave]
-#tr.en: When battle approaches, when war arises, 
+#tr.en: When battle approaches, 
 #etcsl: line-id=79.2
 
 79.3. KA bur₂ kurum₇-bi kur-ra il₂#
 #lem: X; bur[spread out]; gurum[inspection]; kur[mountain(s)]; il[raise]
-#tr.en: the plans of the gods, 
+#tr.en: when war arises, 
 #etcsl: line-id=79.3
 
 79.4. me₃ šen im-ma-te
 #lem: me[battle]; šen[battle]; teŋ[approach]
-#tr.en: beloved by the gods, 
+#tr.en: the plans of the gods, 
 #etcsl: line-id=79.4
 
 79.5. me₃ šen-šen im-ma-zig₃-ga
 #lem: me[battle]; šen[battle]; zig[rise]
-#tr.en: are destroyed. 
+#tr.en: beloved by the gods, are destroyed. 
 #etcsl: line-id=79.5
 
 79.6. ŋiš-hur diŋir-re-e-ne-ke₄
@@ -1941,15 +1952,17 @@ $ (unknown no. of lines missing)
 
 80.1. ŋe₂₆-e diŋir-ŋu₁₀ a-na-am₃ in-ak
 #lem: ŋaʾe[I]; diŋir[deity]; ana[what?]; ak[do]
-#tr.en: As for me, what did my god do? $ (@gap{1 line unclear}) the basket and my debt, no expenditures were made for him! 
+#tr.en: As for me, what did my god do? 
 #etcsl: line-id=80.1
 
 80.2. SAR-ŋu₁₀ sag₉-ga-še₃
 #lem: X; sag[good]
+#tr.en: the basket and my debt, 
 #etcsl: line-id=80.2
 
 80.3. gi-gur ur₅-ra-ŋu₁₀
 #lem: gigur[measuring container]; ura[interest-bearing loan]
+#tr.en: no expenditures were made for him! 
 #etcsl: line-id=80.3
 
 80.4. nu-mu-na-ab-zig₃-e-še {{%akk [...] %akk X-ŠAL-li-IK %akk [...] %akk X %akk mu-su-uk-ka-tum}}
@@ -1963,22 +1976,22 @@ $ (unknown no. of lines missing)
 
 80.6. ŋe₂₆-e mu-na-ab-til-en
 #lem: ŋaʾe[I]; til[complete]
-#tr.en: @q{“I am spending it for him.”} That said, 
+#tr.en: @q{“I am spending it for him.”} That said, it was dispersed. 
 #etcsl: line-id=80.6
 
 80.7. dug₄-ga niŋ₂ bur₂-ra mu-un-na-ab-DU
 #lem: dug[speak]; niŋ[thing]; bur[spread out]; X
-#tr.en: it was dispersed. 
+#tr.en: Afterwards he could not work out what went wrong. 
 #etcsl: line-id=80.7
 
 80.8. a-ga-bi-še₃ ŋeštug₂-ga nu-ub-degₓ(RI)
 #lem: aga[rear]; ŋeštug[ear]; deg[gather up]
-#tr.en: Afterwards he could not work out what went wrong. 
+#tr.en: Things change. 
 #etcsl: line-id=80.8
 
 80.9. am₃-kur₂-ra a-ra₂-bi nu-zu {{%akk [...] %akk a-la-ak-ta-šu}}
 #lem: kur[different]; ara[way]; zu[know]; L; L
-#tr.en: Things change. No one knows what will happen. 
+#tr.en: No one knows what will happen. 
 #etcsl: line-id=80.9
 
 @end version
@@ -2022,12 +2035,12 @@ $ (unknown no. of lines missing)
 
 81.8. šul-e gaba dirig-ga {{%akk ša %akk lu-še-te-er-mi}}
 #lem: šul[youth]; gaba[breast]; dirig[make more than]; L; L
-#tr.en: For the hero whose strength is enormous, 
+#tr.en: For the hero whose strength  
 #etcsl: line-id=81.8
 
 81.9. iti₆ ba-an-da-an-šum₂
 #lem: itud[moon]; šum[give]
-#tr.en: moonlight is given. 
+#tr.en: is enormous, moonlight is given. 
 #etcsl: line-id=81.9
 
 @end version
@@ -2195,17 +2208,17 @@ $ (unknown no. of lines missing)
 
 85.4. KA nu-erim₂-gin₇ ŋiš [...]
 #lem: X; luʾerim[evildoer]; ŋeš[tree]; X
-#tr.en:  
+#tr.en: the  
 #etcsl: line-id=85.4
 
 85.5. ki-ma-an-ze-er KA [...]
 #lem: kimanzer[slippery place]; X; X
-#tr.en: the  
+#tr.en: slippery  
 #etcsl: line-id=85.5
 
 85.6. ki diŋir-ra-ke₄ ba-an-ši#-[...]
 #lem: ki[place]; diŋir[deity]; X
-#tr.en: slippery place …… the place of god …… let …… who knows what to say …… to the mouth. 
+#tr.en: place …… the place of god …… let …… who knows what to say …… to the mouth. 
 #etcsl: line-id=85.6
 
 85.7. inim-zu ka-še₃ hu-mu-un#-[...]
@@ -2535,21 +2548,24 @@ $ (unknown no. of lines missing)
 
 97.1. ga-am₃-dug₄ a-na-am₃ šu ba-ni-in-ti {{%akk lu-u₂ %akk aq-bi %akk mi-nam %akk el-qe₂}}
 #lem: dug[speak]; ana[what?]; šu[hand]; teŋ[approach]; L; L; L; L
-#tr.en: @note{cf. @xref[t.6.2.3,t623.h113]{UET 6/2 381}} Although I spoke, what did I gain? Although I spoke, what did it add? I covered up for myself, but what success did it bring me? 
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h113]{UET 6/2 381}} Although I spoke, what did I gain? 
 #etcsl: line-id=97.1
 
 #etcsl#cf cf. UET 6/2 381
 
 97.2. nam-ba-an-dug₄-ga-aš a-na-am₃ ba-ab-dirig {{%akk lu %akk aq-bi %akk mi-nam %akk u₂-wa-te-er}}
 #lem: dug[speak]; ana[what?]; dirig[make more than]; L; L; L; L
+#tr.en: Although I spoke, what did it add? 
 #etcsl: line-id=97.2
 
 97.3. niŋ₂ ni₂-ŋu₁₀ ba-an-dul-dul {{%akk ša %akk ra-ma-ni-ia %akk u₂-ka-ti-im-ma}}
 #lem: niŋ[thing]; ni[self]; dul[cover]; L; L; L
+#tr.en: I covered up for myself, 
 #etcsl: line-id=97.3
 
 97.4. a-na-am₃ ki-še-er ba-ab-ŋar {{%akk mi-nam %akk a-na %akk ku-ši-ri-im %akk aš-ku-un}}
 #lem: ana[what?]; kišer[limit]; ŋar[put]; L; L; L; L
+#tr.en: but what success did it bring me? 
 #etcsl: line-id=97.4
 
 @end version
@@ -2910,12 +2926,12 @@ $ (unknown no. of lines missing)
 
 116.1. [...] X [...]
 #lem: X; X; X
-#tr.en:  
+#tr.en: … 
 #etcsl: line-id=116.1
 
 116.2. [...] X-a us₂-sa-a-bi
 #lem: X; X; us[accompany]
-#tr.en: …… following it …… belongs to the palace. 
+#tr.en: … following it …… belongs to the palace. 
 #etcsl: line-id=116.2
 
 116.3. [...] e₂-gal-la-kam
@@ -2928,11 +2944,12 @@ $ (unknown no. of lines missing)
 
 117.1. {anše}kunga₂ ninda₂-zu i₃-zu-de₃-en
 #lem: kunga[an equid]; ninda[seed-funnel]; zu[know]
-#tr.en: O mule, do you know your sire, and do you know your mother? 
+#tr.en: O mule, do you know your sire, 
 #etcsl: line-id=117.1
 
 117.2. u₃ ama-zu i₃-zu-de₃-en
 #lem: u[and]; ama[mother]; zu[know]
+#tr.en: and do you know your mother? 
 #etcsl: line-id=117.2
 
 @end version
@@ -3099,14 +3116,14 @@ $ (unknown no. of lines missing)
 
 129.1. i₃-ŋen-ŋen-na-ke₄-eš# i₃-kaš₄-kaš₄-na-ke₄-eš
 #lem: ŋen[go]; kaš[run]
-#tr.en: @note{cf. @xref[t.6.2.3,t623.h106]{UET 6/2 295}, @xref[t.6.2.3,t623.h109]{UET 6/2 318}} Because I was always walking, because I always ran, 
+#tr.en: @note{cf. @xref[t.6.2.3,t623.h106]{UET 6/2 295}, @xref[t.6.2.3,t623.h109]{UET 6/2 318}} Because I was always walking, because I always ran, @q{“He carried away, he carried away!”} 
 #etcsl: line-id=129.1
 
 #etcsl#cf cf. UET 6/2 295, UET 6/2 318
 
 129.2. ba-an-tum₂ ba-an-tum₂ mu-ŋu₁₀-še₃ ba-an-dug₄#
 #lem: tum[carry]; tum[carry]; mu[name]; dug[speak]
-#tr.en: @q{“He carried away, he carried away!”} is what they called me. 
+#tr.en: is what they called me. 
 #etcsl: line-id=129.2
 
 @end version

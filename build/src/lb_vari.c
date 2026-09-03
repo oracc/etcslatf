@@ -1,6 +1,7 @@
 #include <oraccsys.h>
 #include "lb.h"
 
+int lbv_verbose = 0;
 void
 lbv_seg(Seg *s, int i)
 {
@@ -38,12 +39,15 @@ lbv_seg(Seg *s, int i)
 			      while (isdigit(*l))
 				lines[ndig++] = *l++;
 			      lines[ndig] = '\0';
-			      if (ndig)
-				fprintf(stderr, "lbv_seg:%s:%s: found @vari mentioning %s lines\n",
-					s->p->t->Q, s->p->label, lines);
-			      else
-				fprintf(stderr, "lbv_seg:%s:%s: found @vari with non-specific extent\n",
-					s->p->t->Q, s->p->label);
+			      if (lbv_verbose)
+				{
+				  if (ndig)
+				    fprintf(stderr, "lbv_seg:%s:%s: found @vari mentioning %s lines\n",
+					    s->p->t->Q, s->p->label, lines);
+				  else
+				    fprintf(stderr, "lbv_seg:%s:%s: found @vari with non-specific extent\n",
+					    s->p->t->Q, s->p->label);
+				}
 			    }
 			}
 		    }

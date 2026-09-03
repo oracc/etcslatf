@@ -45,7 +45,10 @@
 135=2.	may @wDN{Ezina-Kusu} @note{a goddess of grain} dwell in your house. 
 
 {9.1 = 1-4}
-143=1.	@note{cf. @xref[t.6.1.01,t.6.1.01.128]{6.1.01.128}, @xref[t.6.1.22,]{6.1.22: ll. 146-147}, @xref[t.6.1.23,t.6.1.23.9]{6.1.23.9}} In the sky there is the raven; on the ground there is the mongoose; in the desert there is the lion; my husband, where shall I go? 
+143=1.	@note{cf. @xref[t.6.1.01,t.6.1.01.128]{6.1.01.128}, @xref[t.6.1.22,]{6.1.22: ll. 146-147}, @xref[t.6.1.23,t.6.1.23.9]{6.1.23.9}} In the sky there is the raven; 
+149=2.	on the ground there is the mongoose; 
+153=3.	in the desert there is the lion; 
+157=4.	my husband, where shall I go? 
 
 {10.1 = 1-2}
 165=1.	@note{cf. @xref[t.6.1.01,t.6.1.01.142]{6.1.01.142}} Oh my sister, if there were no outdoor shrines, oh my mother, 
@@ -66,7 +69,8 @@
 221=3.	to be pregnant and sick is just too much. 
 
 {14.1 = 1-2}
-229=1.	Give! -- Don't give! Don't let his hand touch it! 
+229=1.	Give! -- Don't give! 
+233=2.	Don't let his hand touch it! 
 
 {14.3 = 3-4}
 237=3.	@note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}, @xref[t.6.1.07,t.6.1.07.1]{6.1.07.1}, @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. A ll. 1-2}} The course of its rituals was changed. 
@@ -77,7 +81,8 @@
 253=6.	You should not change the course of its rituals! 
 
 {14.7 = 7-8}
-257=7.	@note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}} You should not destroy their cult! Where there were ritual preparations, you should not destroy them! 
+257=7.	@note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}} You should not destroy their cult! 
+263=8.	Where there were ritual preparations, you should not destroy them! 
 
 {15.1 = 1-2}
 271=1.	@note{cf. @xref[t.6.1.02,t.6.1.02.2]{6.1.02.2}, @xref[t.6.1.26,t.6.1.26.c10]{6.1.26.c10}} Let me tell you about my fate: it is a disgrace. 
@@ -220,7 +225,9 @@ $ (@gap{2 lines fragmentary})
 677=3.	Whatever comes from his mouth will not be put in his hand. 
 
 {34.1 = 1-3}
-685=1.	@note{cf. @xref[t.6.1.05,t.6.1.05.38]{6.1.05.38}} The horse, after throwing off his rider, said: @q{“Were my load to be like this forever, how weak I would become!”} 
+685=1.	@note{cf. @xref[t.6.1.05,t.6.1.05.38]{6.1.05.38}} The horse, after throwing off his rider, said: 
+691=2.	@q{“Were my load to be like this forever, 
+695=3.	how weak I would become!”} 
 
 {35.1 = 1-2}
 703=1.	@note{cf. @xref[t.6.1.05,t.6.1.05.39]{6.1.05.39}} The donkey, after he had thrown off his packs, 
@@ -233,13 +240,16 @@ $ (@gap{2 lines fragmentary})
 731=4.	I will shed my tears on behalf of you.”} 
 
 {36.5 = 5-9}
-735=5.	@note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household  of several grown-up young men, … … battle fray ……  $ (@gap{2 lines fragmentary}) 
+735=5.	@note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household  
+741=6.	of several grown-up young men, 
+745=7.	…… battle fray ……  
+$ (@gap{2 lines fragmentary}) 
 
 {36.10 = 10-13}
 757=10.	@note{cf. @xref[t.6.1.09,t.6.1.09.d4]{6.1.09.d4}, @xref[t.6.2.1,]{6.2.1: N 4248 Seg. A ll. 8-13}, @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. B ll. 3-5}} @q{“Run!”} …… the king ……. 
-763=11.	Because of silver, because of gold, because of the money chest, 
-767=12.	because of the …… chest, 
-771=13.	I am finished! 
+763=11.	Because of silver, because of gold, 
+767=12.	because of the money chest, 
+771=13.	because of the …… chest, I am finished! 
 
 {37.1 = 1}
 779=1.	@note{cf. @xref[t.6.1.05,t.6.1.05.44]{6.1.05.44}} Make the donkey sit like this! I am making it lift its shrivelled penis! 
@@ -252,8 +262,8 @@ $ (@gap{2 lines fragmentary})
 805=2.	I will give you my fellow ewe in return!”} 
 809=3.	@q{“If I am to let you go, tell me your name!”} 
 813=4.	The goat answered the lion: @q{“You do not know my name? 
-817=5.	'……' is my name!”} When he came to the fold, 
-821=6.	he shouted: @q{“…… my …….”} 
+817=5.	'……' is my name!”} 
+821=6.	When he came to the fold, he shouted: @q{“…… my …….”} 
 825=7.	She answered him from the other side: @q{“……. 
 829=8.	As for sheep, none live here!”} 
 
@@ -340,8 +350,8 @@ $ (@gap{2 lines fragmentary})
 
 {57.1 = 1-3}
 1103=1.	@note{cf. @xref[t.6.1.08,t.6.1.08.b14]{6.1.08.b14}} A bear which for six months had not turned onto his side said: 
-1109=2.	@q{“Were @wDN{An} not to bestow sleep on someone, as he does me, 
-1113=3.	they would expire.”} 
+1109=2.	@q{“Were @wDN{An} not to bestow sleep on someone, 
+1113=3.	as he does me, they would expire.”} 
 
 {58.1 = 1}
 1121=1.	@note{cf. @xref[t.6.1.08,t.6.1.08.b15]{6.1.08.b15}} Like a hyena, he will not eat it unless it stinks. 
@@ -483,7 +493,7 @@ $ (@gap{1 line fragmentary})
 1507=21.	@gap{1 line fragmentary}
 
 {77.A.1 = 1-11}
-$ (@gap{11 lines fragmentary}) 
+1518=$ (@gap{11 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {77.B.1 = 1}
 1567=1.	@gap{1 line fragmentary}
@@ -497,7 +507,7 @@ $ (@gap{11 lines fragmentary})
 {77.B.4 = 4-6}
 1583=4.	Because he lives as though deaf, because of you, 
 1587=5.	my son is not fit to be a scribe. 
-$ (@gap{1 line fragmentary}) 
+1591=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {78.1 = 1-10}
 1602=1.	He who slanders …… for the liar -- @wDN{Ninegala} will crush his head ……. 
@@ -515,22 +525,25 @@ $ (@gap{1 line fragmentary})
 $ (@gap{1 line fragmentary}) 
 1646=2.	…… ascends to heaven. 
 $ (@gap{1 line unclear}) 
-1650=4.	When battle approaches, when war arises, 
-1654=5.	the plans of the gods, 
-1658=6.	beloved by the gods, 
-1662=7.	are destroyed. 
+1650=4.	When battle approaches, 
+1654=5.	when war arises, 
+1658=6.	the plans of the gods, 
+1662=7.	beloved by the gods, are destroyed. 
 1666=8.	You cause fire to devour the Land. 
 1670=9.	May my god know that my hand is suited to the stylus. 
 
 {80.1 = 1-4}
-1686=1.	As for me, what did my god do? $ (@gap{1 line unclear}) the basket and my debt, no expenditures were made for him! 
+1686=1.	As for me, what did my god do? 
+$ (@gap{1 line unclear}) 
+1690=3.	the basket and my debt, 
+1694=4.	no expenditures were made for him! 
 
 {80.5 = 5-9}
 1702=5.	A wealthy man had accumulated a fortune. 
-1706=6.	@q{“I am spending it for him.”} That said, 
-1710=7.	it was dispersed. 
-1714=8.	Afterwards he could not work out what went wrong. 
-1718=9.	Things change. No one knows what will happen. 
+1706=6.	@q{“I am spending it for him.”} That said, it was dispersed. 
+1710=7.	Afterwards he could not work out what went wrong. 
+1714=8.	Things change. 
+1718=9.	No one knows what will happen. 
 
 {81.1 = 1}
 1726=1.	@gap{1 line fragmentary}
@@ -544,8 +557,8 @@ $ (@gap{1 line unclear})
 {81.6 = 6-9}
 1746=6.	For him who walks, the day lasts. 
 1750=7.	For him who dances, the sun shines. 
-1754=8.	For the hero whose strength is enormous, 
-1758=9.	moonlight is given. 
+1754=8.	For the hero whose strength  
+1758=9.	is enormous, moonlight is given. 
 
 {82.1 = 1-8}
 1766=1.	@note{cf. @xref[t.6.2.3,t623.h83]{UET 6/2 252}, @xref[t.6.2.5,t625.h24]{6.2.5: YBC 7344}, @xref[t.4.06.1,]{4.06.1: Seg. C ll. 3-16}, @xref[t.5.2.4,]{5.2.4: l. 9}} A man without a personal god does not procure much food, 
@@ -588,9 +601,9 @@ $ (@gap{1 line unclear})
 1890=2.	wisdom and understanding become perfect …… to the mouth …… mankind? 
 1894=3.	At the place of testimony …… friendship ……  
 $ (@gap{1 line unclear}) 
-1898=5.	 
-1902=6.	the  
-1906=7.	slippery place …… the place of god …… let …… who knows what to say …… to the mouth. 
+1898=5.	the  
+1902=6.	slippery  
+1906=7.	place …… the place of god …… let …… who knows what to say …… to the mouth. 
 
 {86.1 = 1-6}
 1918=1.	One ferryman says  
@@ -627,9 +640,9 @@ $ (@gap{1 line unclear})
 
 {90.1 = 1-5}
 $ (@gap{2 lines fragmentary}) 
-2026=3.	his  
-2030=4.	… 
-2034=5.	… not draw a boat …… his bucket …… it is good. 
+2026=2.	his  
+2030=3.	… 
+2034=4.	… not draw a boat …… his bucket …… it is good. 
 
 {91.1 = 1-5}
 2050=1.	Your …… were changed. 
@@ -671,7 +684,10 @@ $ (@gap{1 line unclear})
 2178=4.	@q{“Anyone who saw you will carry you off!”} 
 
 {97.1 = 1-4}
-2186=1.	@note{cf. @xref[t.6.2.3,t623.h113]{UET 6/2 381}} Although I spoke, what did I gain? Although I spoke, what did it add? I covered up for myself, but what success did it bring me? 
+2186=1.	@note{cf. @xref[t.6.2.3,t623.h113]{UET 6/2 381}} Although I spoke, what did I gain? 
+2192=2.	Although I spoke, what did it add? 
+2196=3.	I covered up for myself, 
+2200=4.	but what success did it bring me? 
 
 {98.1 = 1-4}
 2208=1.	…… erection …… Sumerian …… forehead …… kneading dough ……  $ (@gap{1 line unclear}) 
@@ -763,11 +779,12 @@ $ (@gap{1 line fragmentary})
 
 {116.1 = 1-3}
 $ (@gap{1 line fragmentary}) 
-2512=2.	 
-2516=3.	…… following it …… belongs to the palace. 
+2512=2.	… 
+2516=3.	… following it …… belongs to the palace. 
 
 {117.1 = 1-2}
-2528=1.	O mule, do you know your sire, and do you know your mother? 
+2528=1.	O mule, do you know your sire, 
+2532=2.	and do you know your mother? 
 
 {118.1 = 1-2}
 2540=1.	Let the snake find its deep hole, the scorpion its crevice, 
@@ -814,8 +831,8 @@ $ (@gap{1 line fragmentary})
 2668=2.	At the witness box, friendship becomes known. 
 
 {129.1 = 1-2}
-2676=1.	@note{cf. @xref[t.6.2.3,t623.h106]{UET 6/2 295}, @xref[t.6.2.3,t623.h109]{UET 6/2 318}} Because I was always walking, because I always ran, 
-2682=2.	@q{“He carried away, he carried away!”} is what they called me. 
+2676=1.	@note{cf. @xref[t.6.2.3,t623.h106]{UET 6/2 295}, @xref[t.6.2.3,t623.h109]{UET 6/2 318}} Because I was always walking, because I always ran, @q{“He carried away, he carried away!”} 
+2682=2.	is what they called me. 
 
 {130.1 = 1-2}
 2690=1.	A home-born slave was treated with contempt, so he wept. 

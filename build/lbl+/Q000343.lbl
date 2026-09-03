@@ -53,9 +53,9 @@
 
 {37 = 37-40}
 205=37.	@q{“Lacerate your eyes for me, lacerate your nose for me. 
-212=38.	@vart[t141.v4,t141.v4]{@varn{1 ms. adds 1 line:} Lacerate your ears for me, in public. } In private, lacerate your buttocks for me. Like a pauper, 
-217=39.	clothe yourself in a single garment and all alone set your foot in the @wTN{E-kur}, 
-221=40.	the house of @wDN{Enlil}.”} 
+212=38.	@vart[t141.v4,t141.v4]{@varn{1 ms. adds 1 line:} Lacerate your ears for me, in public. } In private, lacerate your buttocks for me. 
+217=39.	Like a pauper, 
+221=40.	clothe yourself in a single garment and all alone set your foot in the @wTN{E-kur}, the house of @wDN{Enlil}.”} 
 
 {41 = 41-47}
 229=41.	@q{“When you have entered the @wTN{E-kur}, the house of @wDN{Enlil}, 
@@ -78,8 +78,8 @@
 289=56.	Don't let young lady @wDN{Inana} be killed in the underworld.”}”} 
 
 {57 = 57-64}
-293=57.	@q{“And if @wDN{Nanna} does not help you in this matter, 
-297=58.	go to @wSN{Eridug}. In @wSN{Eridug}, when you have entered the house of @wDN{Enki}, 
+293=57.	@q{“And if @wDN{Nanna} does not help you in this matter, go to @wSN{Eridug}. 
+297=58.	In @wSN{Eridug}, when you have entered the house of @wDN{Enki}, 
 301=59.	lament before @wDN{Enki}: @q[Nincubur,Enki]{“Father @wDN{Enki}, 
 305=60.	don't let anyone kill your daughter in the underworld. 
 309=61.	Don't let your precious metal be alloyed there with the dirt of the underworld. 
@@ -107,9 +107,9 @@
 373=77.	open up. I am all alone and I want to come in.”} 
 
 {78 = 78-84}
-377=78.	@wDN{Neti}, the chief doorman of the underworld, 
-381=79.	answered holy @wDN{Inana}: 
-385=80.	@q[Neti,Inana]{“Who are you?”} 
+377=78.	@wDN{Neti}, 
+381=79.	the chief doorman of the underworld, 
+385=80.	answered holy @wDN{Inana}: @q[Neti,Inana]{“Who are you?”} 
 389=81.	@q[Inana,Neti]{“I am @wDN{Inana} going to the east.”} 
 393=82.	@q[Neti,Inana]{“If you are @wDN{Inana} going to the east, 
 397=83.	why have you travelled to the land of no return? 
@@ -123,8 +123,8 @@
 421=89.	she offers generous libations at his wake -- that is the reason.”} 
 
 {90 = 90-93}
-425=90.	@wDN{Neti}, the chief doorman of the underworld, answered holy @wDN{Inana}: 
-429=91.	@q[Neti,Inana]{“Stay here, @wDN{Inana}. 
+425=90.	@wDN{Neti}, the chief doorman of the underworld, 
+429=91.	answered holy @wDN{Inana}: @q[Neti,Inana]{“Stay here, @wDN{Inana}. 
 433=92.	I will speak to my mistress. 
 437=93.	I will speak to my mistress @wDN{Ereškigala} and tell her what you have said.”} 
 
@@ -170,8 +170,8 @@
 561=124.	paid attention to the instructions of his mistress. 
 565=125.	He bolted the seven gates of the underworld. 
 569=126.	Then he opened each of the doors of the palace Ganzer separately. 
-573=127.	He said to holy @wDN{Inana}: @q[Neti,Inana]{“Come on, 
-577=128.	@wDN{Inana}, and enter.”} 
+573=127.	He said to holy @wDN{Inana}: 
+577=128.	@q[Neti,Inana]{“Come on, @wDN{Inana}, and enter.”} 
 
 {129 = 129-133}
 581=129.	And when @wDN{Inana} entered, @vart[t141.v5,t141.v5]{@varn{1 ms. adds 2 lines:} the lapis-lazuli measuring rod and measuring line were removed from her hand, when she entered the first gate, } the turban, 
@@ -223,15 +223,15 @@
 729=163.	@wDN{Inana}, you must not open your mouth against the rites of the underworld.”} 
 
 {164 = 164-172}
-733=164.	After she had crouched down and had her clothes removed, 
-737=165.	they were carried away. 
-741=166.	Then she made her sister @wDN{Ereškigala} rise from her throne, 
-745=167.	and instead she sat on her throne. The @wDN{Anuna}, 
-749=168.	the seven judges, rendered their decision against her. 
-753=169.	They looked at her -- it was the look of death. 
-757=170.	They spoke to her -- it was the speech of anger. 
-761=171.	They shouted at her -- it was the shout of heavy guilt. 
-765=172.	The afflicted woman was turned into a corpse. And the corpse was hung on a hook. 
+733=164.	After she had crouched down and had her clothes removed, they were carried away. 
+737=165.	Then she made her sister @wDN{Ereškigala} rise from her throne, 
+741=166.	and instead she sat on her throne. The @wDN{Anuna}, 
+745=167.	the seven judges, rendered their decision against her. 
+749=168.	They looked at her -- it was the look of death. 
+753=169.	They spoke to her -- it was the speech of anger. 
+757=170.	They shouted at her -- it was the shout of heavy guilt. 
+761=171.	The afflicted woman was turned into a corpse. 
+765=172.	And the corpse was hung on a hook. 
 
 {173 = 173-175}
 769=173.	After three days and three nights had passed, 
@@ -242,10 +242,10 @@
 807=176.	She made a lament for her in her ruined (houses). She beat the drum for her in the sanctuaries. 
 811=177.	She made the rounds of the houses of the gods for her. 
 815=178.	She lacerated her eyes for her, she lacerated her nose. 
-819=179.	In private she lacerated her buttocks for her. Like a pauper, 
-823=180.	she clothed herself in a single garment, 
-827=181.	and all alone she set her foot in the @wTN{E-kur}, 
-831=182.	the house of @wDN{Enlil}. 
+819=179.	In private she lacerated her buttocks for her. 
+823=180.	Like a pauper, 
+827=181.	she clothed herself in a single garment, 
+831=182.	and all alone she set her foot in the @wTN{E-kur}, the house of @wDN{Enlil}. 
 
 {183 = 183-189}
 835=183.	When she had entered the @wTN{E-kur}, the house of @wDN{Enlil}, 
@@ -257,11 +257,11 @@
 859=189.	Don't let young lady @wDN{Inana} be killed in the underworld.”} 
 
 {190 = 190-194}
-863=190.	In his rage Father @wDN{Enlil} answered @wDN{Ninšubur}: @q[Enlil,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
-867=191.	@wDN{Inana} craved the great heaven and she craved the great below as well. 
-871=192.	The divine powers of the underworld are divine powers which should not be craved, 
-875=193.	for whoever gets them must remain in the underworld. 
-879=194.	Who, having got to that place, could then expect to come up again?”} 
+863=190.	In his rage Father @wDN{Enlil} answered @wDN{Ninšubur}: 
+867=191.	@q[Enlil,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
+871=192.	@wDN{Inana} craved the great heaven and she craved the great below as well. 
+875=193.	The divine powers of the underworld are divine powers which should not be craved, 
+879=194.	for whoever gets them must remain in the underworld. Who, having got to that place, could then expect to come up again?”} 
 
 {195 = 195-203}
 883=195.	Thus Father @wDN{Enlil} did not help in this matter, so she went to @wSN{Urim}. 
@@ -275,11 +275,11 @@
 915=203.	Don't let young lady @wDN{Inana} be killed in the underworld.”} 
 
 {204 = 204-208}
-919=204.	In his rage Father @wDN{Nanna} answered @wDN{Ninšubur}: @q[Nanna,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
-923=205.	@wDN{Inana} craved the great heaven and she craved the great below as well. 
-927=206.	The divine powers of the underworld are divine powers which should not be craved, 
-931=207.	for whoever gets them must remain in the underworld. 
-935=208.	Who, having got to that place, could then expect to come up again?”} 
+919=204.	In his rage Father @wDN{Nanna} answered @wDN{Ninšubur}: 
+923=205.	@q[Nanna,Nincubur]{“My daughter craved the great heaven and she craved the great below as well. 
+927=206.	@wDN{Inana} craved the great heaven and she craved the great below as well. 
+931=207.	The divine powers of the underworld are divine powers which should not be craved, 
+935=208.	for whoever gets them must remain in the underworld. Who, having got to that place, could then expect to come up again?”} 
 
 {209 = 209-216}
 939=209.	Thus Father @wDN{Nanna} did not help her in this matter, so she went to @wSN{Eridug}. 
@@ -292,8 +292,8 @@
 967=216.	Don't let young lady @wDN{Inana} be killed in the underworld.”} 
 
 {217 = 217-225}
-971=217.	Father @wDN{Enki} answered @wDN{Ninšubur}: @q[Enki,Nincubur]{“What has my daughter done? She has me worried. 
-975=218.	What has @wDN{Inana} done? She has me worried. What has the mistress of all the lands done? 
+971=217.	Father @wDN{Enki} answered @wDN{Ninšubur}: @q[Enki,Nincubur]{“What has my daughter done? She has me worried. What has @wDN{Inana} done? 
+975=218.	She has me worried. What has the mistress of all the lands done? 
 979=219.	She has me worried. 
 983=220.	What has the mistress of heaven done? 
 987=221.	She has me worried.”} 
@@ -306,9 +306,9 @@
 1017=226.	@varh[t141.v10]{Then Father @wDN{Enki} spoke out to the @fsux{gala-tura} and the @fsux{kur-ŋara}: 
 1024=227.	} @q[Enki,]{“ @vart[t141.v11,t141.v10]{@varn{1 ms. has instead the line:} One of you sprinkle the life-giving plant over her, and the other the life-giving water. } Go and direct your steps to the underworld. 
 1029=228.	Flit past the door like flies. Slip through the door pivots like phantoms. 
-1033=229.	The mother who gave birth, @wDN{Ereškigala}, 
-1037=230.	on account of her children, 
-1041=231.	is lying there. 
+1033=229.	The mother who gave birth, 
+1037=230.	@wDN{Ereškigala}, 
+1041=231.	on account of her children, is lying there. 
 1045=232.	Her holy shoulders are not covered by a linen cloth. 
 1049=233.	Her breasts are not full like a @fsux{šagan} vessel. 
 1053=234.	Her nails are like a pickaxe (?) upon her. 
@@ -317,8 +317,8 @@
 {236 = 236-245}
 1065=236.	@q{“When she says @q[Ereckigala,]{“Oh my heart”}, you are to say @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, 
 1069=237.	our mistress, oh your heart”}. When she says @q[Ereckigala,]{“Oh my body”}, 
-1073=238.	you are to say @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, 
-1077=239.	oh your body”}. @q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
+1073=238.	you are to say @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, oh your body”}. 
+1077=239.	@q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
 1081=240.	Speaking to you from my heart to your heart, 
 1085=241.	from my body to your body -- if you are gods, 
 1089=242.	let me talk with you; if you are mortals, 
@@ -340,8 +340,8 @@ $ (@gap{1 line fragmentary})
 1140=254.	The @fsux{gala-tura} and the @fsux{kur-ŋara} paid attention to the instructions of @wDN{Enki}. 
 1144=255.	They flitted through the door like flies. 
 1148=256.	They slipped through the door pivots like phantoms. 
-1152=257.	The mother who gave birth, @wDN{Ereškigala}, because of her children, 
-1156=258.	was lying there. 
+1152=257.	The mother who gave birth, @wDN{Ereškigala}, 
+1156=258.	because of her children, was lying there. 
 1160=259.	Her holy shoulders were not covered by a linen cloth. 
 1164=260.	Her breasts were not full like a @fsux{šagan} vessel. 
 1168=261.	Her nails were like a pickaxe (?) upon her. 
@@ -350,8 +350,8 @@ $ (@gap{1 line fragmentary})
 {263 = 263-272}
 1176=263.	When she said @q[Ereckigala,]{“Oh my heart”}, they said to her @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, 
 1180=264.	our mistress, oh your heart”}. When she said @q[Ereckigala,]{“Oh my body”}, 
-1184=265.	they said to her @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, 
-1188=266.	oh your body”}. @q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
+1184=265.	they said to her @q[kur-jara, gala-tura,Ereckigala]{“You are troubled, our mistress, oh your body”}. 
+1188=266.	@q[Ereckigala,kur-jara, gala-tura]{“Who are you? 
 1192=267.	I tell you from my heart to your heart, 
 1196=268.	from my body to your body -- if you are gods, 
 1200=269.	I will talk with you; if you are mortals, 
@@ -365,8 +365,8 @@ $ (@gap{1 line fragmentary})
 1224=275.	They said to her: @q[kur-jara, gala-tura,Ereckigala]{“Give us the corpse hanging on the hook.”} 
 1228=276.	Holy @wDN{Ereškigala} answered the @fsux{gala-tura} and the @fsux{kur-ŋara}: @q[Ereckigala,kur-jara, gala-tura]{“The corpse is that of your queen.”} 
 1232=277.	They said to her: 
-1241=278.	@q[kur-jara, gala-tura,Ereckigala]{“Whether it is that of our king or that of our queen, 
-1248=279.	give it to us.”} They were given the corpse hanging on the hook. 
+1241=278.	@q[kur-jara, gala-tura,Ereckigala]{“Whether it is that of our king or that of our queen, give it to us.”} 
+1248=279.	They were given the corpse hanging on the hook. 
 1252=280.	One of them sprinkled on it the life-giving plant and the other the life-giving water. 
 1256=281.	And thus @wDN{Inana} arose. 
 
@@ -384,8 +384,8 @@ $ (@gap{1 line fragmentary})
 1292=290.	So when @wDN{Inana} left the underworld, the one in front of her, 
 1296=291.	though not a minister, held a sceptre in his hand; the one behind her, 
 1300=292.	though not an escort, carried a mace at his hip, while the small demons, 
-1304=293.	like a reed enclosure, and the big demons, like the reeds of a fence, 
-1308=294.	restrained her on all sides. 
+1304=293.	like a reed enclosure, and the big demons, 
+1308=294.	like the reeds of a fence, restrained her on all sides. 
 
 {295 = 295-305}
 1312=295.	Those who accompanied her, 
@@ -451,9 +451,9 @@ $ (@gap{1 line fragmentary})
 1550=343.	we will take him back.”} 
 
 {344 = 344-347}
-1554=344.	Holy @wDN{Inana} answered the demons: 
-1558=345.	@q[Inana,demons]{“Outstanding @wDN{Lulal} follows me at my right and my left. 
-1562=346.	How could I turn him over to you? Let us go on. 
+1554=344.	Holy @wDN{Inana} answered the demons: @q[Inana,demons]{“Outstanding @wDN{Lulal} follows me at my right and my left. 
+1558=345.	How could I turn him over to you? 
+1562=346.	Let us go on. 
 1566=347.	Let us go on to the great apple tree in the plain of @wSN{Kulaba}.”} 
 
 {348 = 348-353}
@@ -467,16 +467,16 @@ $ (@gap{1 line fragmentary})
 {354 = 354-358}
 1594=354.	She looked at him, it was the look of death. 
 1598=355.	She spoke to him (?), it was the speech of anger. 
-1602=356.	She shouted at him (?), it was the shout of heavy guilt: 
-1606=357.	@q[Inana,demons]{“How much longer? Take him away.”} 
+1602=356.	She shouted at him (?), it was the shout of heavy guilt: @q[Inana,demons]{“How much longer? 
+1606=357.	Take him away.”} 
 1610=358.	Holy @wDN{Inana} gave @wDN{Dumuzid} the shepherd into their hands. 
 
 {359 = 359-367}
-1614=359.	Those who had accompanied her, who had come for @wDN{Dumuzid}, 
-1618=360.	know no food, 
-1622=361.	know no drink, 
-1626=362.	eat no flour offering, 
-1630=363.	drink no libation. 
+1614=359.	Those who had accompanied her, 
+1618=360.	who had come for @wDN{Dumuzid}, 
+1622=361.	know no food, 
+1626=362.	know no drink, 
+1630=363.	eat no flour offering, drink no libation. 
 1634=364.	They never enjoy the pleasures of the marital embrace, 
 1638=365.	never have any sweet children to kiss. 
 1642=366.	They snatch the son from a man's knee. 
@@ -507,8 +507,8 @@ $ (@gap{4 lines fragmentary})
 1734=389.	She tore at her hair like esparto grass, she ripped it out like esparto grass. 
 1738=390.	@q[Inana,]{“You wives who lie in your men's embrace, where is my precious husband? 
 1742=391.	You children who lie in your men's embrace, where is my precious child? 
-1746=392.	Where is my man? Where ……? Where is my man? 
-1750=393.	Where ……?”} 
+1746=392.	Where is my man? Where ……? 
+1750=393.	Where is my man? Where ……?”} 
 
 {394 = 394-398}
 1770=394.	A fly spoke to holy @wDN{Inana}: 

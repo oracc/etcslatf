@@ -1,7 +1,9 @@
 &Q000356
 
 {1 = 1-3}
-1.	@q[demon,]{“Arise and get on board, arise, we are about to sail, arise and get on board!”} -- Woe, weep for the bright daylight, as the barge is steered away! -- @q[Ninjiczida,]{“I am a young man! Let me not be covered against my wishes by a cabin, as if with a blanket, as if with a blanket!”} 
+1.	@q[demon,]{“Arise and get on board, arise, we are about to sail, arise and get on board!”} -- Woe, weep for the bright daylight, as the barge is steered away! 
+2.	-- @q[Ninjiczida,]{“I am a young man! Let me not be covered against my wishes by a cabin, 
+3.	as if with a blanket, as if with a blanket!”} 
 
 {4 = 4-10}
 4.	Stretching out a hand to the barge, to the young man being steered away on the barge, stretching out a hand to @varh[t173.v1]{my young man @wDN{Damu} } @vart[t173.v2,t173.v1]{@varn{1 ms. has instead:} Lord @wDN{Ninŋišzida} } being taken away on the barge, stretching out a hand to @wDN{Ištaran} of the bright visage being taken away on the barge, stretching out a hand to @wDN{Alla}, master of the battle-net, being taken away on the barge, stretching out a hand to @wDN{Lugal-šud-e} being taken away on the barge, stretching out a hand to @wDN{Ninŋišzida} being taken away on the barge -- his younger sister was crying in lament to him in @varh[t173.v3]{the boat's cabin } @vart[t173.v4,t173.v3]{@varn{1 ms. has instead:} the cabin at the boat's bow }. 
@@ -47,12 +49,12 @@
 
 {38 = 38-44}
 38.	@wDN{Ama-šilama} @noteref{@wDN{Ninŋišzida's} sister} said to @wDN{Ninŋišzida}: @q[Ama-cilama,Ninjiczida]{“The ill-intentioned demon may accept something -- there should be a limit to it for you. 
-39.	My brother, your demon may accept something, there should be a limit to it for you. For him let me …… from my hand the ……, 
-40.	there should be a limit to it for you. For him let me …… from my hand the ……, 
-41.	there should be a limit to it for you. For him let me …… from my hips the dainty lapis lazuli beads, 
-42.	there should be a limit to it for you. 
-43.	For him let me …… from my hips the …… my lapis lazuli beads, 
-44.	there should be a limit to it for you.”} 
+39.	My brother, 
+40.	your demon may accept something, there should be a limit to it for you. 
+41.	For him let me …… from my hand the ……, there should be a limit to it for you. 
+42.	For him let me …… from my hand the ……, there should be a limit to it for you. 
+43.	For him let me …… from my hips the dainty lapis lazuli beads, there should be a limit to it for you. 
+44.	For him let me …… from my hips the …… my lapis lazuli beads, there should be a limit to it for you.”} 
 
 {45 = 45-49}
 45.	@q{“You are a beloved ……, there should be a limit to it for you. How they treat you, 
@@ -69,7 +71,14 @@
 54.	that this lady may come on board the barge.”} 
 
 {55 = 55-62}
-55.	When @wDN{Ama-šilama} had gone on board the barge, a cry approached the heavens, a cry approached the earth, that great demon set up an enveloping cry before him on the river: @q[demon,]{“@wSN{Urim}, at my cry to the heavens lock your houses, lock your houses, city, lock your houses! Shrine @wSN{Urim}, lock your houses, city, lock your houses! Against your lord who has left the @fsux{ŋipar}, city, lock your houses!”} $ (@gap{1 line fragmentary} @gap{approx. 1 line missing}) 
+55.	When @wDN{Ama-šilama} had gone on board the barge, 
+56.	a cry approached the heavens, a cry approached the earth, 
+57.	that great demon set up an enveloping cry before him on the river: 
+58.	@q[demon,]{“@wSN{Urim}, at my cry to the heavens lock your houses, 
+59.	lock your houses, city, lock your houses! 
+60.	Shrine @wSN{Urim}, lock your houses, city, lock your houses! 
+61.	Against your lord who has left the @fsux{ŋipar}, city, lock your houses!”} 
+$ (@gap{1 line fragmentary} @gap{approx. 1 line missing}) 
 
 {64 = 64-69}
 $ (@gap{2 lines fragmentary}) 

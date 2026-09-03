@@ -73,6 +73,7 @@ sub _lbpp {
 	    dump_bifurcated($Q,$label,$count,$rW,$nW,$xW,\@range,\@b);
 	}
     }
+    close(Q);
     close(B);
 }
 
@@ -185,30 +186,32 @@ sub parse_label {
     if ($l =~ /^(.+?)\s+=\s+(.+)$/) {
 	my($pre,$pst) = ($1,$2);
 	if ($pst =~ /^(.*?)-(.*?)$/) {
-	    my ($first,$last) = ($1,$2);
-	    warn "$file:$.: label=$pst; first=$first; last=$last\n"
-		if $verbose;
-	    if ($first =~ /^\d+$/ && $last =~ /^\d+$/) {
-		$count = ($last - $first) + 1;
-		@r = ($first .. $last);
-		warn "$file: number range = @r\n"
-		    if $verbose>1;
-	    } elsif ($first =~ /^\d*[A-Z]+$/ && $last =~ /^\d*[A-Z]+$/) {
-		my ($fdig,$flet) = ($first =~ m/^(\d*)([A-Z]+)$/);
-		my ($ldig,$llet) = ($last =~ m/^(\d*)([A-Z]+)$/);
-		$fdig = 0 unless $fdig; # A-H is a legal range
-		$ldig = 0 unless $ldig;
-		if ($fdig == $ldig) {
-		    @r = expand_range($fdig,$flet,$llet);
-		    $count = $#r + 1;
-		} else {
-		    # This is an error condition that is not present in original ETCSL trans labels
-		    warn "$file:$.: alphanumeric range $pst has differing number portions\n";
-		}
+	    if ($xranges{$pst}) {
+		@r = split(/\s+/, $xranges{$pst});
+		$count = $#r + 1;
 	    } else {
-		if ($xranges{$pst}) {
-		    @r = split(/\s+/, $xranges{$pst});
-		    $count = $#r + 1;
+		my ($first,$last) = ($1,$2);
+		my $line = $pre;
+		$line =~ s/^.*?\.([^.]+)$/$1/ if $line =~ /\./;
+		warn "$file:$.: line=$line; label=$l; first=$first; last=$last\n"
+		    if $line ne $first;
+		if ($first =~ /^\d+$/ && $last =~ /^\d+$/) {
+		    $count = ($last - $first) + 1;
+		    @r = ($first .. $last);
+		    warn "$file: number range = @r\n"
+			if $verbose>1;
+		} elsif ($first =~ /^\d*[A-Z]+$/ && $last =~ /^\d*[A-Z]+$/) {
+		    my ($fdig,$flet) = ($first =~ m/^(\d*)([A-Z]+)$/);
+		    my ($ldig,$llet) = ($last =~ m/^(\d*)([A-Z]+)$/);
+		    $fdig = 0 unless $fdig; # A-H is a legal range
+		    $ldig = 0 unless $ldig;
+		    if ($fdig == $ldig) {
+			@r = expand_range($fdig,$flet,$llet);
+			$count = $#r + 1;
+		    } else {
+			# This is an error condition that is not present in original ETCSL trans labels
+			warn "$file:$.: alphanumeric range $pst has differing number portions\n";
+		    }
 		} else {
 		    warn "$file:$.: asymmetrical range $pst not in etc/x-ranges.tsv\n";
 		}		

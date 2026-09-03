@@ -1,7 +1,11 @@
 &Q000799
 
 {A.5.1.1 = 1-5}
-1.	@varh[t6105.v1]{The elephant spoke to himself: @q{“There is nothing like me among all the creatures of @wDN{Šakkan}!”} The wren (?) answered him: @q{“But I, in my own small way, was created just as you were!”} } @vart[t6105.v2,]{@note{1 ms. has instead:} The elephant spoke to himself: @q{“Among all the creatures of @wDN{Šakkan}, the one that can defecate like me has yet to be created!”} The wren (?) answered him: @q{“But I, in my own small way, can defecate just as much as you!”} } 
+1.	@varh[t6105.v1]{The elephant spoke to himself: @q{“There is nothing like me among all the creatures of @wDN{Šakkan}!”} 
+2.	The wren (?) answered him: @q{“But I, 
+3.	in my own small way, 
+4.	was created just as you were!”} 
+5.	} @vart[t6105.v2,]{@note{1 ms. has instead:} The elephant spoke to himself: @q{“Among all the creatures of @wDN{Šakkan}, the one that can defecate like me has yet to be created!”} The wren (?) answered him: @q{“But I, in my own small way, can defecate just as much as you!”} } 
 
 {A.5.2.6 = 6}
 6.	@varh[t6105.v3]{You go like an elephant to raise a sunken boat. } @vart[t6105.v4,]{@note{1 ms. has instead:} An elephant is led to a sunken boat to raise it. } 
@@ -54,7 +58,7 @@
 
 {A.5.18.18 = 18-19}
 18.	The ox ……. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {B.5.25.1 = 1-2}
 1.	The ox ……  
@@ -93,28 +97,31 @@ $ (@gap{1 line fragmentary})
 {B.5.36.13 = 13-17}
 13.	A calf entered ……. 
 14.	It did not know how to get out. 
-15.	When the herdsman came to inspect, he hurled the churn towards it, 
-16.	smashing the churn. When the calf came out, 
-17.	it cowered -- but the churn was still smashed. 
+15.	When the herdsman came to inspect, 
+16.	he hurled the churn towards it, smashing the churn. 
+17.	When the calf came out, it cowered -- but the churn was still smashed. 
 
 {B.5.37.18 = 18}
 18.	Like a horse you paw the ground where you drink. 
 
 {B.5.38.19 = 19-21}
-19.	@note{cf. @xref[t.6.2.3,t623.h34]{6.2.3: UET 6/2 287}} The horse, after throwing off his rider, said: @q{“Were my load to be like this forever, how weak I would become!”} 
+19.	@note{cf. @xref[t.6.2.3,t623.h34]{6.2.3: UET 6/2 287}} The horse, after throwing off his rider, said: 
+20.	@q{“Were my load to be like this forever, 
+21.	how weak I would become!”} 
 
 {B.5.39.22 = 22-23}
 22.	@note{cf. @xref[t.6.2.3,t623.h35]{6.2.3: UET 6/2 283}} The donkey, after he had thrown off his packs, 
 23.	said: @q{“Now I can forget the burdens of former days!”} 
 
 {B.5.40.24 = 24}
-24.	The donkey ……. 
+24.	The donkey ……. @gap{unknown no. of lines missing} 
 
 {C.5.41.1 = 1}
 1.	The donkey stumbled, and the dog ……. 
 
 {C.5.42.2 = 2-3}
-2.	@note{cf. @xref[t.6.2.3,t623.h36]{6.2.3: UET 6/2 315}} While the donkey was swimming in the river, the dog was busy gathering food: @q{“When will he climb out and eat?”} 
+2.	@note{cf. @xref[t.6.2.3,t623.h36]{6.2.3: UET 6/2 315}} While the donkey was swimming in the river, the dog was busy gathering food: 
+3.	@q{“When will he climb out and eat?”} 
 
 {C.5.43.4 = 4-5}
 4.	He who rents a donkey for a  
@@ -130,9 +137,9 @@ $ (@gap{1 line fragmentary})
 8.	@note{cf. @xref[t.6.2.3,t623.h38]{6.2.3: UET 6/2 234}} Using a donkey in place of sheep will not provide you with an omen. 
 
 {C.5.47.9 = 9-11}
-9.	A donkey ……: @q{“In order to grow powerful, don't let your …… dwell in the house of your brother-in-law! 
-10.	When you are able to support a ……, 
-11.	then you may choose a wife.”} 
+9.	A donkey ……: @q{“In order to grow powerful, 
+10.	don't let your …… dwell in the house of your brother-in-law! 
+11.	When you are able to support a ……, then you may choose a wife.”} 
 
 {C.5.48.12 = 12-13}
 12.	If you keep beating a donkey on its back, 
@@ -151,7 +158,7 @@ $ (@gap{1 line fragmentary})
 19.	If until now you have not felt well, 
 20.	…… there is a canal inspector ……. 
 21.	Let him come to you, 
-22.	and your bones will feel well again. 
+22.	and your bones will feel well again. @gap{unknown no. of lines missing} ” 
 
 {D.5.52.1 = 1}
 1.	The donkey …… plenty of urine ……. 
@@ -160,7 +167,15 @@ $ (@gap{1 line fragmentary})
 2.	A donkey ……. 
 
 {D.5.55.3 = 3-11}
-3.	@note{cf. @xref[t.6.2.3,t623.h39]{6.2.3: UET 6/2 212}} The lion had caught a helpless she-goat: @q{“Let me go! I will give you my fellow ewe in return!”} @q{“If I am to let you go, tell me your name!”} The she-goat answered the lion: @q{“You do not know my name? 'I-am-cleverer-than-you' is my name!”} When the lion came to the fold, @varh[t6105.v6]{he } @vart[t6105.v7,]{@note{1 ms. has instead:} the lion } cried: @q{“I release you!”} She answered him from the other side: @q{“You released me, but were you clever? As for the sheep, none live here!”} 
+3.	@note{cf. @xref[t.6.2.3,t623.h39]{6.2.3: UET 6/2 212}} The lion had caught a helpless she-goat: 
+4.	@q{“Let me go! 
+5.	I will give you my fellow ewe in return!”} 
+6.	@q{“If I am to let you go, tell me your name!”} 
+7.	The she-goat answered the lion: @q{“You do not know my name? 
+8.	'I-am-cleverer-than-you' is my name!”} When the lion came to the fold, 
+9.	@varh[t6105.v6]{he } @vart[t6105.v7,]{@note{1 ms. has instead:} the lion } cried: @q{“I release you!”} She answered him from the other side: 
+10.	@q{“You released me, but were you clever? 
+11.	As for the sheep, none live here!”} 
 
 {D.5.56.12 = 12}
 12.	When the lion came to the sheepfold, there was a dog wearing a leash of spun wool. 
@@ -190,7 +205,8 @@ $ (@gap{1 line fragmentary})
 24.	The lion who lives a life of compassion will receive it. 
 
 {D.5.63.25 = 25-26}
-25.	When a lion roars, one says: @q{“Don't drop your food!”} 
+25.	When a lion roars, one says: 
+26.	@q{“Don't drop your food!”} 
 
 {D.5.64.27 = 27}
 27.	Is the lion accustomed to eating that which is milled? 
@@ -238,8 +254,8 @@ $ (@gap{1 line missing})
 49.	@q{“Provided you praise me you will grow fat”} would be the reply. 
 
 {D.5.x7.50 = 50-54}
-50.	@note{= Alster 1997 5 Vers. A 72} The wolf …… the drain-pipe of a house's roof: 
-51.	@q{“Last year we were nauseated (?) by your stench. Now this year we are still nauseated (?)! 
+50.	@note{= Alster 1997 5 Vers. A 72} The wolf …… the drain-pipe of a house's roof: @q{“Last year we were nauseated (?) by your stench. 
+51.	Now this year we are still nauseated (?)! 
 52.	How much longer will we be cursed with your stench? 
 53.	-- Now, as for me, I am hungry! 
 54.	What can I eat?”} 
@@ -303,7 +319,8 @@ $ (@gap{1 line missing})
 84.	@q{“ @vart[t6105.v11,]{@note{1 ms. adds:} It is an omen from heaven! } Let me clothe you in the lid of a measuring bowl!”} 
 
 {D.5.83.85 = 85-86}
-85.	The dog recognises a man who loves him; as the dog is judge, so its tail acts (?) as commissioner! 
+85.	The dog recognises a man who loves him; as the dog is judge, 
+86.	so its tail acts (?) as commissioner! 
 
 {D.5.84.87 = 87-89}
 87.	The dog gnawing on a  
@@ -371,16 +388,16 @@ $ (@gap{1 line fragmentary})
 115.	@note{cf. @xref[t.6.2.3,t623.h48]{6.2.3: UET 6/2 309}} You behave like a rabid dog stretching his neck into the river (?) ……. 
 
 {D.5.102.116 = 116-125}
-116.	A dog entered a warehouse. The merchant broke his leg with a wooden door-bolt: 
-117.	@q{“Get out of here!”} The dog questioned his tail: 
-118.	@q{“Is there something behind me?”} @q{“Those things which make you happy!”} 
-119.	it was told. @q{“Well then, let me go back again tonight and receive something!”} 
-120.	And so, upon his return, 
-121.	his leg was again broken. 
-122.	He dragged his tail and sat in the street. 
-123.	A second time he questioned his tail: 
-124.	@q{“Did the bolt just come out from in front of you, 
-125.	like before?”} 
+116.	A dog entered a warehouse. 
+117.	The merchant broke his leg with a wooden door-bolt: 
+118.	@q{“Get out of here!”} The dog questioned his tail: 
+119.	@q{“Is there something behind me?”} @q{“Those things which make you happy!”} 
+120.	it was told. @q{“Well then, 
+121.	let me go back again tonight and receive something!”} 
+122.	And so, upon his return, his leg was again broken. 
+123.	He dragged his tail and sat in the street. 
+124.	A second time he questioned his tail: 
+125.	@q{“Did the bolt just come out from in front of you, like before?”} 
 
 {D.5.103.126 = 126-128}
 126.	The dog …… winter ……: 
@@ -455,7 +472,8 @@ $ (@gap{1 line fragmentary})
 157.	I still love my little ones.”} 
 
 {D.5.124.158 = 158-159}
-158.	The bitch is a fool: bread is the food ration for her mouth, and a …… is the judge for her anus! 
+158.	The bitch is a fool: bread is the food ration for her mouth, 
+159.	and a …… is the judge for her anus! 
 
 {D.5.125.160 = 160-161}
 160.	When we have a bitch and have caught hold of her, 

@@ -1,16 +1,37 @@
 &Q000450
 
 {1 = 1-2}
-9=1.	Great lady, majestic physician to the black-headed, holy @wDN{Ninisina}, daughter of @wDN{An}, may you be praised! 
+9=1.	Great lady, majestic physician to the black-headed, holy @wDN{Ninisina}, 
+13=2.	daughter of @wDN{An}, may you be praised! 
 
 {3 = 3-9}
-17=3.	Lady whose tempest, like a raging storm, …… the interior of heaven and the trembling earth, whose upraised fierce face, like a fire, rips the bodies of the enemy; who, like a dragon, does not bring up venom in her place where ……, paws of a lion, sharpened knives, claws constantly dripping blood, …… which prick the body with fear! When you draw through the flesh the scalpel and the lancet, knives like lion's claws -- the bodies of the black-headed people tremble because of you! 
+17=3.	Lady whose tempest, like a raging storm, …… the interior of heaven and the trembling earth, 
+21=4.	whose upraised fierce face, like a fire, rips the bodies of the enemy; 
+25=5.	who, like a dragon, does not bring up venom in her place where ……, 
+29=6.	paws of a lion, sharpened knives, claws constantly dripping blood, 
+33=7.	…… which prick the body with fear! 
+37=8.	When you draw through the flesh the scalpel and the lancet, 
+41=9.	knives like lion's claws -- the bodies of the black-headed people tremble because of you! 
 
 {10 = 10-15}
-45=10.	Great storm that approaches the earth and has no rival, howling storm, roaring lion that cuts off the neck of the enemy, overpowering storm, …… spittle and gnashing its teeth in its ……! Storm that howls loudly, whose mouth drips blood, storm from whose mouth spittle spews constantly, pouring venom on the enemy, $ (@gap{1 line fragmentary}) 
+45=10.	Great storm that approaches the earth and has no rival, howling storm, 
+49=11.	roaring lion that cuts off the neck of the enemy, overpowering storm, 
+53=12.	…… spittle and gnashing its teeth in its ……! 
+57=13.	Storm that howls loudly, whose mouth drips blood, storm from whose mouth spittle spews constantly, 
+61=14.	pouring venom on the enemy, 
+$ (@gap{1 line fragmentary}) 
 
 {16 = 16-25}
-69=16.	Great terror of the desert that ……! A lion, a leopard rising from its lair and terrifying people, that like a great snare lies in wait for the evil-doer! Lady whose radiance is awesome, born of @wDN{An}, who cares for the righteous of the Land, who watches over the assembly, lady of the living and of the dead, who holds the life of the Land in her hand! Mistress whom no one can withstand, who sounds a triumphal cry! Holy @wDN{Ninisina}, who wears the ornaments of @fsux{šuba} stone in @wTN{Niŋin-ŋar}, the holy place! Lady who is supreme over the mountains, whose divine powers are awesome divine powers, instilled …… in the great shrine, the everlasting house of the Land! 
+69=16.	Great terror of the desert that ……! A lion, a leopard rising from its lair and terrifying people, 
+73=17.	that like a great snare lies in wait for the evil-doer! Lady whose radiance is awesome, 
+77=18.	born of @wDN{An}, who cares for the righteous of the Land, who watches over the assembly, 
+81=19.	lady of the living and of the dead, who holds the life of the Land in her hand! 
+85=20.	Mistress whom no one can withstand, who sounds a triumphal cry! 
+89=21.	Holy @wDN{Ninisina}, 
+93=22.	who wears the ornaments of @fsux{šuba} stone in @wTN{Niŋin-ŋar}, the holy place! 
+97=23.	Lady who is supreme over the mountains, 
+101=24.	whose divine powers are awesome divine powers, 
+105=25.	instilled …… in the great shrine, the everlasting house of the Land! 
 
 {26 = 26-33}
 109=26.	Lady, life-creator of the Land, your name is its great standard. 
@@ -37,7 +58,19 @@
 177=43.	The …… that fears (?) you does not cross the river. 
 
 {44 = 44-56}
-181=44.	My lady, your supreme magnitude and eminence being outstanding, the …… of your established assembly being ……, holy @wDN{Ninisina}, lady ……, mistress whose majesty ……, holy @wDN{Ninisina}, lady ……, lion, foremost viper ……, who ……, …… the place of oaths where the just hand is raised, the deceiver …… your name ……, …… on the enemies! May those who plan evil against @wRN{Iddin-@wDN{Dagan}} ……! @wDN{Ninisina}, let not the enemy carry away your name, O your name, @wDN{Ninisina}, O your name! 
+181=44.	My lady, your supreme magnitude and eminence being outstanding, 
+185=45.	the …… of your established assembly being ……, 
+189=46.	holy @wDN{Ninisina}, lady ……, mistress whose majesty ……, 
+193=47.	holy @wDN{Ninisina}, lady ……, lion, 
+197=48.	foremost viper ……, 
+201=49.	who ……, 
+205=50.	…… the place of oaths where the just hand is raised, 
+209=51.	the deceiver …… your name ……, 
+213=52.	…… on the enemies! 
+217=53.	May those who plan evil against @wRN{Iddin-@wDN{Dagan}} ……! 
+221=54.	@wDN{Ninisina}, 
+225=55.	let not the enemy carry away your name, 
+229=56.	O your name, @wDN{Ninisina}, O your name! 
 
 {57 = 57-64}
 233=57.	Sublime @wDN{An}, father of the gods, 
@@ -60,11 +93,18 @@ $ (@gap{1 line fragmentary})
 293=72.	O your name, @wDN{Enlil}, O your name! 
 
 {73 = 73-80}
-297=73.	@wDN{Ninlil}, garbed in white, foremost and watchful lady who brings forth ……, lady who consummately perfects all radiance, who dwells with @wDN{Enlil}! The king who dares to utter your name falsely, who does not fear the slaughterhouse where blood flows at the place of transgression, the Land's river of ordeal -- make him bear the heavy guilt that ……! Great mother @wDN{Ninlil}, let not the enemy carry away your name, O your name, @wDN{Ninlil}, O your name! 
+297=73.	@wDN{Ninlil}, garbed in white, foremost and watchful lady who brings forth ……, 
+301=74.	lady who consummately perfects all radiance, who dwells with @wDN{Enlil}! 
+305=75.	The king who dares to utter your name falsely, 
+309=76.	who does not fear the slaughterhouse where blood flows at the place of transgression, 
+313=77.	the Land's river of ordeal -- make him bear the heavy guilt that ……! 
+317=78.	Great mother @wDN{Ninlil}, 
+321=79.	let not the enemy carry away your name, 
+325=80.	O your name, @wDN{Ninlil}, O your name! 
 
 {81 = 81-85}
 329=81.	@wDN{Aruru}, whose divine powers cannot be overturned, 
 333=82.	…… an awesome tempest. 
 337=83.	@wDN{Enlil} who purifies all ……, 
 $ (@gap{1 line fragmentary}) 
-341=85.	…… hostility and violence, …… @wRN{Iddin-@wDN{Dagan}}, 
+341=85.	…… hostility and violence, …… @wRN{Iddin-@wDN{Dagan}}, @gap{unknown no. of lines missing} 

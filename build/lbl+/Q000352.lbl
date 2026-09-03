@@ -1,17 +1,17 @@
 &Q000352
 
 {A.1 = 1-8}
-$ (@gap{8 lines fragmentary}) 
+12=$ (@gap{8 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {B.1 = 1-4}
-49=1.	@q[Anzud chick,Ninurta]{“At his command your weapon struck me evilly. As I let the divine powers go out of my hand, 
-53=2.	these divine powers returned to the @fsux{abzu}. As I let the divine plan go out of my hand, 
-57=3.	this divine plan returned to the @fsux{abzu}. This tablet of destinies returned to the @fsux{abzu}. 
-61=4.	I was stripped of the divine powers.”} 
+49=1.	@q[Anzud chick,Ninurta]{“At his command your weapon struck me evilly. 
+53=2.	As I let the divine powers go out of my hand, these divine powers returned to the @fsux{abzu}. 
+57=3.	As I let the divine plan go out of my hand, this divine plan returned to the @fsux{abzu}. 
+61=4.	This tablet of destinies returned to the @fsux{abzu}. I was stripped of the divine powers.”} 
 
 {B.5 = 5-8}
-65=5.	@wDN{Ninurta} was stunned at these words of the Anzud chick. 
-69=6.	@wDN{Ninmena} gave out a wail: @q[Ninmena,Ninurta]{“And what about me? These divine powers have not fallen into my hand. 
+65=5.	@wDN{Ninurta} was stunned at these words of the Anzud chick. @wDN{Ninmena} gave out a wail: @q[Ninmena,Ninurta]{“And what about me? 
+69=6.	These divine powers have not fallen into my hand. 
 73=7.	I shall not exercise their authority. 
 77=8.	I shall not live (?) like him in the shrine, in the @fsux{abzu}.”} 
 
@@ -31,10 +31,10 @@ $ (@gap{8 lines fragmentary})
 113=17.	As for the bird which your mighty weapon captured, 
 117=18.	from now to eternity you will keep your foot placed on its neck. 
 121=19.	May the great gods give your heroic strength its due. 
-125=20.	May your father @wDN{Enlil} do whatever you command. May @wDN{Ninmena} not fashion your equal (?). 
-129=21.	May no one be as revered as you and no god extend an upraised hand before you. 
-133=22.	Monthly may your house (?) regularly receive tributes in the shrine, 
-137=23.	in the @fsux{abzu}. 
+125=20.	May your father @wDN{Enlil} do whatever you command. 
+129=21.	May @wDN{Ninmena} not fashion your equal (?). 
+133=22.	May no one be as revered as you and no god extend an upraised hand before you. 
+137=23.	Monthly may your house (?) regularly receive tributes in the shrine, in the @fsux{abzu}. 
 141=24.	May @wDN{An} (?) proclaim your name in the seat of honour.”} 
 
 {B.25 = 25-30}
@@ -59,8 +59,8 @@ $ (@gap{8 lines fragmentary})
 193=37.	Against him he stationed the turtle at an opening, at the gate of the @fsux{abzu}. 
 197=38.	@wDN{Enki} talked to him near the place of the ambush and brought him to the place where the turtle was. 
 201=39.	The turtle was able to grab @wDN{Ninurta's} tendon from behind. The hero @wDN{Ninurta} managed to turn back its feet. 
-205=40.	@wDN{Enki}, as if perplexed, said, 
-209=41.	@q[Enki,self]{“What is this!”} 
+205=40.	@wDN{Enki}, 
+209=41.	as if perplexed, said, @q[Enki,self]{“What is this!”} 
 213=42.	He had the turtle scrape the ground with its claws, 
 217=43.	had it dig an evil pit. 
 221=44.	The hero @wDN{Ninurta} fell into it with the turtle. 
@@ -70,17 +70,17 @@ $ (@gap{8 lines fragmentary})
 {B.47 = 47-54}
 233=47.	The great lord @wDN{Enki} said to him: @q[Enki,Ninurta]{“From ……, 
 237=48.	you who set your mind to kill me, 
-241=49.	…… who makes big claims -- I cut down, 
-245=50.	I raise up. 
-249=51.	You who set your sights on me like this -- what has your position seized for you, 
-253=52.	how ……? Where has your strength fled? 
-257=53.	Where is your heroism? In the great mountains you caused destruction, 
+241=49.	…… who makes big claims -- I cut down, I raise up. 
+245=50.	You who set your sights on me like this -- what has your position seized for you, how ……? 
+249=51.	Where has your strength fled? 
+253=52.	Where is your heroism? 
+257=53.	In the great mountains you caused destruction, 
 261=54.	but how will you get out now?”} 
 
 {B.55 = 55-60}
 265=55.	@wDN{Ninmena} learned of this situation. 
 269=56.	She ripped the clothes on her body and she ……. 
 273=57.	@q[Ninmena,Enki]{“You my plant-eater @wDN{Enki}, who shall I send to you? Men will shake their heads in fear ……. 
-277=58.	Who shall I send to you? That name is not @wDN{Enki}. 
-281=59.	That name is Ugugu-that-does-not-pour (?). You who are death which has no mercy, 
-285=60.	who shall I send to you?”} 
+277=58.	Who shall I send to you? That name is not @wDN{Enki}. That name is Ugugu-that-does-not-pour (?). 
+281=59.	You who are death which has no mercy, 
+285=60.	who shall I send to you?”} @gap{unknown no. of lines missing} 

@@ -1,12 +1,15 @@
 &Q000676
 
 {A.1 = 1-4}
-1.	@wDN{Nanna}, ……, lord, son of @wDN{Enlil}, ……, @wDN{Nanna}, lord, ……, lord, son of @wDN{Enlil}, ……! 
+1.	@wDN{Nanna}, ……, lord, 
+2.	son of @wDN{Enlil}, ……, 
+3.	@wDN{Nanna}, lord, ……, 
+4.	lord, son of @wDN{Enlil}, ……! 
 
 {A.5 = 5-8}
-5.	Lord, sweet wonder ……! The woman perfect in beauty ……. 
-6.	@wDN{Nanna}, lord, 
-7.	sweet wonder ……! 
+5.	Lord, sweet wonder ……! 
+6.	The woman perfect in beauty ……. 
+7.	@wDN{Nanna}, lord, sweet wonder ……! 
 8.	The woman perfect in beauty ……. 
 
 {A.9 = 9-12}
@@ -22,7 +25,7 @@ $ (@gap{1 line fragmentary})
 16.	you ……. 
 
 {A.17 = 17}
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {B.1 = 1}
 1.	@gap{1 line fragmentary}
@@ -47,7 +50,7 @@ $ (@gap{1 line fragmentary})
 14.	…… @wDN{Enlil} (?). ……, @wDN{Nanna}, 
 15.	lord, 
 16.	great son of @wDN{An}, 
-17.	beloved …… of @wDN{Enlil} and @wDN{Ninlil}, 
+17.	beloved …… of @wDN{Enlil} and @wDN{Ninlil}, @gap{unknown no. of lines missing} 
 
 {C.1 = 1-12}
-$ (@gap{12 lines missing or fragmentary}) 
+$ (@gap{12 lines missing or fragmentary} @gap{unknown no. of lines missing}) 

@@ -30,7 +30,7 @@ $ (@gap{6 lines missing})
 $ (@gap{1 line fragmentary}) 
 $ (@gap{5 lines fragmentary}) 
 $ (@gap{1 line missing}) 
-$ (@gap{2 lines fragmentary}) 
+$ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {1.B.1 = 1-8}
 4.	$ (@gap{3 lines fragmentary}) 
@@ -46,7 +46,7 @@ $ (@gap{2 lines fragmentary})
 11.	The king …… sleep. 
 12.	…… his dream ……. 
 13.	…… assembly ……. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {1.C.1 = 1-9}
 $ (@gap{6 lines fragmentary}) 
@@ -76,17 +76,17 @@ $ (@gap{1 line fragmentary})
 8.	…… forgotten forever and ……, 
 9.	he (?) carried out correctly ……. 
 10.	…… the flood …… the settlements of the Land.”} 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {1.E.1 = 1-11}
 1.	@q[,Gilgamec]{“  
 $ (@gap{3 lines fragmentary}) 
-5.	@wDN{Sisig} @noteref{a god of dreams}, the son of @wDN{Utu}, will provide light for him in the nether world, 
-6.	the place of darkness. When a funerary statue is made in honour of someone, 
-7.	whoever they may be, for future days, 
-8.	mighty youths and …… will form (?) a semicircle at the door-jambs and perform wrestling and feats of strength before them (?). 
-9.	In the month Neneŋar, 
-10.	at the festival of the ghosts, 
+5.	@wDN{Sisig} @noteref{a god of dreams}, the son of @wDN{Utu}, 
+6.	will provide light for him in the nether world, the place of darkness. 
+7.	When a funerary statue is made in honour of someone, 
+8.	whoever they may be, for future days, 
+9.	mighty youths and …… will form (?) a semicircle at the door-jambs and perform wrestling and feats of strength before them (?). 
+10.	In the month Neneŋar, at the festival of the ghosts, 
 11.	no light will be provided before them without him @noteref{i.e. @wRN{Gilgameš}}.”} 
 
 {1.E.12 = 12-27}
@@ -108,7 +108,7 @@ $ (@gap{3 lines fragmentary})
 27.	…… palm-fibre …….”} 
 
 {1.E.28 = 28}
-28.	@q{“Go ahead ……  
+28.	@q{“Go ahead …… @gap{unknown no. of lines missing} ” 
 
 {1.F.1 = 1-14}
 1.	@q{“  $ (@gap{1 line fragmentary}) …… @wPN{Enkidu}, your young comrade. 
@@ -123,7 +123,7 @@ $ (@gap{3 lines fragmentary})
 10.	…… will come to you. 
 11.	…… will come to you. 
 12.	…… will come to you. 
-13.	…… will come to you.”} 
+13.	…… will come to you.”} @gap{unknown no. of lines missing} 
 
 {1.G.1 = 1-22}
 $ (@gap{1 line fragmentary}) 
@@ -145,7 +145,7 @@ $ (@gap{1 line unclear})
 17.	whoever they may be, 
 18.	…… like you? 
 19.	…… the governorship of the nether world. 
-20.	You …… your ghost …… pass judgments …….”} 
+20.	You …… your ghost …… pass judgments …….”} @gap{unknown no. of lines missing} 
 
 {1.H.1 = 1-21}
 1.	@wSN{Kulaba} ……. 
@@ -171,7 +171,7 @@ $ (@gap{1 line fragmentary})
 21.	…… @wRN{Gilgameš} …… has established in ……. 
 
 {1.H.22 = 22}
-22.	His beloved ……. 
+22.	His beloved ……. @gap{unknown no. of lines missing} 
 
 {1.I.1 = 1-9}
 $ (@gap{2 lines fragmentary}) 
@@ -180,7 +180,7 @@ $ (@gap{2 lines fragmentary})
 4.	…… of Lord @wRN{Gilgameš} ……. 
 5.	…… scratched the nose for him, 
 6.	…… pulled out their hair for him. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {2.I.1 = 1-7}
 1.	His beloved wife, his beloved children, 
@@ -225,7 +225,12 @@ $ (@gap{1 line fragmentary})
 36.	They spread out (?) their …… in the dust. 
 
 {2.I.37 = 37-42}
-37.	Then the young lord, Lord @wRN{Gilgameš}, who never ceases to …… for the …… of @wDN{Enlil} -- @wRN{Gilgameš}, the son of @wDN{Ninsumun}, …… offshoot ……; no king who could match him has ever been born, $ (@gap{1 line unclear}) @wRN{Gilgameš}, lord of @wSN{Kulaba}, it is sweet to praise you! 
+37.	Then the young lord, Lord @wRN{Gilgameš}, who never ceases to …… for the …… of @wDN{Enlil} -- @wRN{Gilgameš}, 
+38.	the son of @wDN{Ninsumun}, …… offshoot ……; 
+39.	no king who could match him has ever been born, 
+$ (@gap{1 line unclear}) 
+41.	@wRN{Gilgameš}, lord of @wSN{Kulaba}, 
+42.	it is sweet to praise you! 
 
 {3.A.1 = 1-12}
 1.	The great wild bull has lain down and is never to rise again. 
@@ -242,30 +247,30 @@ $ (@gap{1 line fragmentary})
 12.	He has lain down on a couch of sighs and is never to rise again. 
 
 {3.A.13 = 13-19}
-13.	Unable to stand up, unable to sit down, he laments. Unable to eat, 
-14.	unable to drink, he laments. Held fast by the door-bolt of @wDN{Namtar}, 
-15.	he is unable to rise. 
-16.	Like a …… fish …… in a cistern, 
-17.	he …… ill. Like a captured gazelle buck, he …… couch. 
-18.	@wDN{Namtar} with no hands or feet, who …… one by night, 
-$ (@gap{1 line fragmentary}) 
+13.	Unable to stand up, unable to sit down, he laments. Unable to eat, unable to drink, he laments. 
+14.	Held fast by the door-bolt of @wDN{Namtar}, he is unable to rise. 
+15.	Like a …… fish …… in a cistern, he …… ill. 
+16.	Like a captured gazelle buck, he …… couch. 
+17.	@wDN{Namtar} with no hands or feet, 
+18.	who …… one by night, 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.B.1 = 1-5}
 1.	Then the young lord, Lord @wRN{Gilgameš}, 
-$ (@gap{4 lines fragmentary}) 
+$ (@gap{4 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.C.1 = 1-9}
 $ (@gap{4 lines fragmentary}) 
 5.	Then the young lord, Lord @wRN{Gilgameš}, 
-$ (@gap{4 lines fragmentary}) 
+$ (@gap{4 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.D.1 = 1-11}
-$ (@gap{11 lines fragmentary}) 
+$ (@gap{11 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.E.1 = 1-7}
 $ (@gap{5 lines fragmentary}) 
 2.	@wRN{Gilgameš} ……  
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.F.1 = 1-22}
 $ (@gap{2 lines fragmentary}) 
@@ -277,8 +282,8 @@ $ (@gap{2 lines fragmentary})
 9.	after having travelled all the roads that there are, 
 10.	having fetched cedar, the unique tree, from its mountains, 
 11.	having killed @wDN{Huwawa} in his forest, 
-12.	you set up many stelae for future days, 
-13.	for days to come. Having founded many temples of the gods, 
+12.	you set up many stelae for future days, for days to come. 
+13.	Having founded many temples of the gods, 
 14.	you reached @wRN{Zi-ud-sura} in his @varh[t1813.v1]{dwelling place } @vart[t1813.v2,t1813.v1]{@varn{1 ms. has instead:} place }. Having brought down to the Land the divine powers of @wGN{Sumer}, 
 15.	which at that time were forgotten forever, the orders, 
 16.	and the rituals, 
@@ -289,18 +294,18 @@ $ (@gap{3 lines missing})
 
 {3.F.23 = 23-37}
 $ (@gap{2 lines fragmentary}) 
-25.	@wDN{Enlil's} advice was given to @wDN{Enki}. @wDN{Enki} answered @wDN{An} and @wDN{Enlil}: 
-26.	@q[Enki,An, Enlil]{“In those days, in those distant days, in those nights, 
-27.	in those distant nights, in those years, 
-28.	in those distant years, 
-29.	after the assembly had made the Flood sweep over to destroy the seed of mankind, 
-30.	among us I was the only one who was for life (?), 
-31.	and so he remained alive (?) -- @wRN{Zi-ud-sura}, although (?) a human being, 
-32.	remained alive (?). 
-33.	Then you made me swear by heaven and by earth, 
-34.	and …… that no human will be allowed to live forever (?) any more. 
-35.	Now, 
-36.	as we look at @wRN{Gilgameš}, 
+25.	@wDN{Enlil's} advice was given to @wDN{Enki}. 
+26.	@wDN{Enki} answered @wDN{An} and @wDN{Enlil}: 
+27.	@q[Enki,An, Enlil]{“In those days, in those distant days, 
+28.	in those nights, in those distant nights, 
+29.	in those years, in those distant years, 
+30.	after the assembly had made the Flood sweep over to destroy the seed of mankind, 
+31.	among us I was the only one who was for life (?), 
+32.	and so he remained alive (?) -- @wRN{Zi-ud-sura}, 
+33.	although (?) a human being, remained alive (?). 
+34.	Then you made me swear by heaven and by earth, 
+35.	and …… that no human will be allowed to live forever (?) any more. 
+36.	Now, as we look at @wRN{Gilgameš}, 
 37.	could not he escape because of his mother?”} 
 
 {3.F.38 = 38-41}
@@ -310,13 +315,13 @@ $ (@gap{2 lines fragmentary})
 41.	and what he says will be as weighty as the words of @wDN{Ninŋišzida} and @wDN{Dumuzid}.”} 
 
 {3.F.42 = 42-62}
-42.	Then  young  Lord  @wRN{Gilgameš} became  
-43.	depressed because  of (?)  all mankind. 
-44.	@q[,Gilgamec]{“You should  not despair, you should  
-45.	not  feel depressed. 
+42.	Then young Lord @wRN{Gilgameš} became  
+43.	depressed because of (?) all mankind. 
+44.	@q[,Gilgamec]{“You should not despair, 
+45.	you should not feel depressed. 
 $ (@gap{1 line fragmentary}) 
-47.	 Mighty youths  and   
-48.	  …… a semicircle ……. 
+47.	Mighty youths and  
+48.	…… a semicircle ……. 
 $ (@gap{14 lines missing}) 
 
 {3.F.63 = 63-81}
@@ -346,16 +351,16 @@ $ (@gap{3 lines missing})
 86.	and what he says will be as weighty as the words of @wDN{Ninŋišzida} and @wDN{Dumuzid}.”} 
 
 {3.F.87 = 87-99}
-87.	And then the young lord, Lord @wRN{Gilgameš}, 
-88.	woke up ……. 
-89.	…… his eyes, 
-90.	……. 
+87.	And then the young lord, 
+88.	Lord @wRN{Gilgameš}, 
+89.	woke up ……. 
+90.	…… his eyes, ……. 
 91.	…… a dream ……! 
 92.	…… a dream ……! 
 $ (@gap{3 lines fragmentary}) 
-96.	@q[Gilgamec,]{“Am I to become again as I were …… on the lap of my own mother @wDN{Ninsumun}? 
-97.	…… who makes the great mountains tremble (?). 
-98.	@wDN{Namtar} with no hands or feet takes away …….”} 
+94.	@q[Gilgamec,]{“Am I to become again as I were …… on the lap of my own mother @wDN{Ninsumun}? 
+95.	…… who makes the great mountains tremble (?). 
+96.	@wDN{Namtar} with no hands or feet takes away …….”} 
 $ (@gap{1 line fragmentary}) 
 
 {3.F.100 = 100-115}
@@ -383,9 +388,9 @@ $ (@gap{1 line fragmentary})
 120.	in those years, in those distant years, 
 121.	after the assembly had made the Flood sweep over to destroy the seed of mankind ……, 
 122.	among us I was the only one who was for life (?). 
-123.	He remained alive (?); @wRN{Zi-ud-sura} alone, 
-124.	although (?) a human being, 
-125.	remained alive (?). 
+123.	He remained alive (?); 
+124.	@wRN{Zi-ud-sura} alone, 
+125.	although (?) a human being, remained alive (?). 
 126.	Then you made me swear by heaven and by earth, 
 127.	and I swore that no human will be allowed to live forever (?) any more. 
 128.	Now, 
@@ -446,28 +451,28 @@ $ (@gap{1 line fragmentary})
 
 {3.F.173 = 173-174}
 173.	@q{“He …… the @wDN{Anuna} gods. 
-174.	He will be counted a companion of the great gods. 
+174.	He will be counted a companion of the great gods. @gap{unknown no. of lines missing} ” 
 
 {3.G.1 = 1-5}
 1-5.	@gap{5 lines fragmentary}
 
 {3.H.1 = 1-9}
 $ (@gap{5 lines fragmentary}) 
-6.	His architect (?) designed  his tomb like ……. 
-7.	His god @wDN{Enki} showed  him where the solution  
-8.	of the dream lies  by ……. 
-9.	No one but the … … of the king could solve the vision. 
+2.	His architect (?) designed his tomb like ……. 
+3.	His god @wDN{Enki} showed him where the solution  
+4.	of the dream lies by ……. 
+5.	No one but the …… of the king could solve the vision. 
 
 {3.H.10 = 10-32}
 10.	The lord imposed a levy on his city. 
 11.	The herald made the horn signal sound in all the lands: 
 12.	@q[Herald,]{“@wSN{Unug}, arise! Open up the @wWN{Euphrates}! 
-13.	@wSN{Kulaba}, 
-14.	arise! 
-15.	Divert the waters of the @wWN{Euphrates}!”} 
-16.	@wSN{Unug's} levy was a flood, 
-17.	@wSN{Kulaba's} levy was a clouded sky. 
-18.	Meanwhile not even the first month @varh[t1813.v4]{had passed } @vart[t1813.v5,t1813.v4]{@varn{1 ms. has instead:} …… }, it was not five or 10 days before they had opened up the @wWN{Euphrates} and diverted its high water. 
+13.	@wSN{Kulaba}, arise! 
+14.	Divert the waters of the @wWN{Euphrates}!”} 
+15.	@wSN{Unug's} levy was a flood, 
+16.	@wSN{Kulaba's} levy was a clouded sky. 
+17.	Meanwhile not even the first month @varh[t1813.v4]{had passed } @vart[t1813.v5,t1813.v4]{@varn{1 ms. has instead:} …… }, it was not  
+18.	five or 10 days before they had opened up the @wWN{Euphrates} and diverted its high water. 
 19.	@wDN{Utu} looked at its shells with admiration. 
 20.	Then as soon as the water in the bed of the @wWN{Euphrates} had receded, 
 21.	his tomb was built there from stone. 
@@ -484,7 +489,7 @@ $ (@gap{1 line fragmentary})
 32.	He set up a solid house in the middle of @wSN{Unug}. 
 
 {3.H.33 = 33-41}
-33.	His beloved wife, his beloved children, his beloved favourite and junior wife, $ (@gap{7 lines fragmentary}) 
+33.	His beloved wife, his beloved children, his beloved favourite and junior wife, $ (@gap{7 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.I.1 = 1-7}
 1.	…… @wRN{Gilgameš} ……  
@@ -495,12 +500,12 @@ $ (@gap{1 line fragmentary})
 
 {3.I.8 = 8-10}
 8.	Then the young lord, Lord @wRN{Gilgameš}, 
-$ (@gap{2 lines fragmentary}) 
+$ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.J.1 = 1-11}
 $ (@gap{2 lines fragmentary}) 
 2.	…… @wRN{Gilgameš} ……  
-$ (@gap{8 lines fragmentary}) 
+$ (@gap{8 lines fragmentary} @gap{unknown no. of lines missing}) 
 
 {3.K.1 = 1-2}
 1.	…… to the city ……. 

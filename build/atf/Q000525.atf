@@ -9,57 +9,47 @@
 $ (unknown no. of lines missing)
 1. zi [...]
 #lem: zi[life]; X
-#tr.en: Life ……. Life ……. 
+#tr.en: $ ( Life ……. Life ……. Life ……. …… of your name ……. …… holy life ……. @wDN{Enki} ……. Prince @wRN{@wDN{Samsu}-iluna}, ……. …… terrifying splendour which spreads far and wide. @wDN{Enki} …… your throne, and …… bestow on you a sceptre of long years and days; may he …… your crown …… like @wDN{Utu}) 
 #etcsl: line-id=1
 
 2. zi [...]
 #lem: zi[life]; X
-#tr.en: Life ……. 
 #etcsl: line-id=2
 
 3. zi X [...]
 #lem: zi[life]; X; X
-#tr.en: …… of your name ……. 
 #etcsl: line-id=3
 
 4. mu-za [...]
 #lem: mu[name]; X
-#tr.en: …… holy life ……. 
 #etcsl: line-id=4
 
 5. til₃ kug [...]
 #lem: til[live (of a single person)]; kug[purify]; X
-#tr.en: @wDN{Enki} ……. 
 #etcsl: line-id=5
 
 6. {d}en-ki an [...]
 #lem: Enkik[1]DN; an[sky]; X
-#tr.en: Prince @wRN{@wDN{Samsu}-iluna}, 
 #etcsl: line-id=6
 
 7. nun sa-am-su-i-[lu-na ...]
 #lem: nun[prince]; Samsuʾiluna[01]; X
-#tr.en: ……. 
 #etcsl: line-id=7
 
 8. me-lem₄ daŋal-še₃# [dul-la ...]
 #lem: melim[frightening splendor]; daŋal[wide]; dul[cover]; X
-#tr.en: …… terrifying splendour which spreads far and wide. 
 #etcsl: line-id=8
 
 9. {ŋiš}gu-za-[zu] {d}en-ki-ke₄# [...]
 #lem: guza[chair]; Enkik[1]DN; X
-#tr.en: @wDN{Enki} …… your throne, 
 #etcsl: line-id=9
 
 10. ŋidru mu ud su₃-ra₂ saŋ-e-eš [X-rig₇]
 #lem: ŋidru[scepter]; mu[year]; ud[sun]; sud[distant]; saŋ[head]; rig[donate]
-#tr.en: and …… bestow on you a sceptre of long years and days; 
 #etcsl: line-id=10
 
 11. aga#-zu {d}utu-gin₇ [...] he₂-[...]
 #lem: aga[tiara]; Utu[1]DN; X; X
-#tr.en: may he …… your crown …… like @wDN{Utu}. 
 #etcsl: line-id=11
 
 12. nam#-lugal-zu# an ki-gin₇ he₂-ge#-[en]
@@ -104,55 +94,67 @@ $ (unknown no. of lines missing)
 
 20. kur gu₂-erim₂-ŋal₂-la-zu ud huš-gin₇# du₇-zu-[ne]
 #lem: kur[mountain(s)]; guʾerimŋal[hostile]; ud[storm]; huš[reddish]; du[push]
-#tr.en: When like a raging storm you batter the foreign lands that are hostile to you, may your head be raised high, O king; may your head be raised high, O @wRN{@wDN{Samsu}-iluna}! In @wSN{Babylon}, the city of the divine powers of @wDN{Suen}, may you let your cleverness shine like the sun! May @wDN{Marduk}, the god who created you, lift your head high in the midst of lords and princes! On the field of battle, of mêlée and conflict, may he never stray from your side! May he be your helper with weapons, may he cause you to excel until distant days! May @wDN{An}, king of the gods, make your life last until distant days! May @wDN{Enlil}, king of the foreign lands, who confirms your words, make your words weighty! May @wDN{Inana}, the great queen of heaven, grasp you firmly with her holy word! May @wDN{Enki} deliver numerous people into your hands! May @wDN{Asari}, the great ruler of the @fsux{abzu}, who provides advice for all the foreign lands, the lordly one of @wSN{Eridug}, the god who in his …… calls all the …… with a good name -- may he be your great princely strength! 
+#tr.en: When like a raging storm you batter the foreign lands that are hostile to you, 
 #etcsl: line-id=20
 
 21. lugal gu₂ an-še₃ he₂-ni-zig₃
 #lem: lugal[king]; gu[neck]; an[sky]; zig[rise]
+#tr.en: may your head be raised high, O king; may your head be raised high, O @wRN{@wDN{Samsu}-iluna}! 
 #etcsl: line-id=21
 
 22. sa-am-su-i-lu-na gu₂ an-še₃ he-ni-zig₃
 #lem: Samsuʾiluna[01]; gu[neck]; an[sky]; zig[rise]
+#tr.en: In @wSN{Babylon}, the city of the divine powers of @wDN{Suen}, may you let your cleverness shine like the sun! 
 #etcsl: line-id=22
 
 23. babilim₂{ki} iri me {d}suen-na-ka nam-gal-zu# ud-gin₇ pa he₂-ni-ib₂-e₃
 #lem: Babilim[1]; iri[city]; me[Being]; Suen[1]DN; namgal[greatness]; ud[sun]; pa[branch]; e[leave]
+#tr.en: May @wDN{Marduk}, the god who created you, lift your head high in the midst of lords and princes! 
 #etcsl: line-id=23
 
 24. {d}marduk diŋir saŋ du₃-zu gu₂#-en nun-e-ne-ka# saŋ-zu he₂-eb₂-il₂-le#
 #lem: Marduk[1]DN; diŋir[deity]; saŋ[head]; du[build]; guʾen[entirety]; nun[prince]; saŋ[head]; il[raise]
+#tr.en: On the field of battle, of mêlée and conflict, may he never stray from your side! 
 #etcsl: line-id=24
 
 25. ki me₃ šen-šen ŋiš-ŋiš-la₂#-[a]-ka# da-za ŋa₂-la na-an-ni-ib-dag-ge
 #lem: ki[place]; me[battle]; šen[battle]; ŋešla[battle]; dag[side]; ŋala[cvne]; dag[roam around]
+#tr.en: May he be your helper with weapons, may he cause you to excel until distant days! 
 #etcsl: line-id=25
 
 26. a₂-tah {ŋiš}tukul-zu he₂-[me] ud su₃-ra₂-še₃ he₂-ba-e-dirig#-ga#
 #lem: atah[helper]; tukul[weapon]; me[be]; ud[sun]; sud[distant]; dirig[make more than]
+#tr.en: May @wDN{An}, king of the gods, make your life last until distant days! May @wDN{Enlil}, 
 #etcsl: line-id=26
 
 27. an lugal diŋir-re-e-ne#-[ke₄] zi-zu ud su₃-ra₂-še₃ he₂#-[me]-da-ŋal₂
 #lem: An[1]DN; lugal[king]; diŋir[deity]; zi[life]; ud[sun]; sud[distant]; ŋal[⟦be⟧ to be (there]
+#tr.en: king of the foreign lands, who confirms your words, make your words weighty! May @wDN{Inana}, 
 #etcsl: line-id=27
 
 28. {d}en-lil₂ lugal kur-kur-[ra]-ke₄# inim-zu ge-en-na inim-zu ha-ba-ab-dugud
 #lem: Enlil[1]DN; lugal[king]; kur[mountain(s)]; inim[word]; gin[confirm]; inim[word]; dugud[heavy]
+#tr.en: the great queen of heaven, grasp you firmly with her holy word! May @wDN{Enki} deliver numerous people into your hands! 
 #etcsl: line-id=28
 
 29. {d}inana nin gal an-[na-ke₄] inim kug-ga-ni-a he₂-bi₂-ib₂-ha-za
 #lem: Inanak[1]DN; nin[lady]; gal[big]; an[sky]; inim[word]; kug[pure]; haza[hold]
+#tr.en: May @wDN{Asari}, the great ruler of the @fsux{abzu}, 
 #etcsl: line-id=29
 
 30. {[d]}[en-ki]-ke₄# uŋ₃ šar₂-[ra šu]-zu-še₃! hu!-mu-un-ŋal₂
 #lem: Enkik[1]DN; uŋ[people]; šar[numerous]V/i; šu[hand]; ŋal[⟦be⟧ to be (there]
+#tr.en: who provides advice for all the foreign lands, 
 #etcsl: line-id=30
 
 31. {[d]}[asari] ensi₂ gal abzu# kur#-kur kilib-ba na degₓ(RI) ba-X-a nir-ŋal₂ eridug{ki}-ga
 #lem: Asari[1]DN; ensik[ruler]; gal[big]; abzu[(cosmic) underground water]; kur[mountain(s)]; kilib[total]; na[cvne]; deg[gather up]; X; nirŋal[authoritative]; Eridug[1]SN
+#tr.en: the lordly one of @wSN{Eridug}, 
 #etcsl: line-id=31
 
 32. diŋir X-ra-na kilib₃-ŋal₂ X [...]-e-ne-ke₄ mu dug₃-ga he₂-bi₂-ib₂-sa₄ a₂ nun gal-zu he₂-a
 #lem: diŋir[deity]; X; kilibŋal[assembly]; X; X; mu[name]; dug[good]; še[call by name]; a[arm]; nun[prince]; gal[big]; me[be]
+#tr.en: the god who in his …… calls all the …… with a good name -- may he be your great princely strength! 
 #etcsl: line-id=32
 
 33. {d}namma ama e₂-e X [...] ki ama kalam-ma-ka ka-za a he₂-ŋa₂-ŋa₂

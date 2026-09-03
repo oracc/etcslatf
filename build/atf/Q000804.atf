@@ -283,7 +283,7 @@ $ (approx. 5 lines missing)
 
 B.11.29.23. [...] X
 #lem: X; X
-#tr.en:  … 
+#tr.en: … 
 #etcsl: line-id=B.11.29.23
 
 B.11.29.24. [...] X-me-en
@@ -549,11 +549,12 @@ E.11.66.1. šu gi₄-gi₄# [niŋ₂-gig] {[d]}[nin-urta-kam]
 
 E.11.67.2. gu₅-li-ŋu₁₀ sag₉-ga he₂-am₃-me-am₃ hul-me DU-am₃
 #lem: guli[friend]; sag[good]; me[be]; hulu[bad]; X
-#tr.en: @q{“That my friend should be well is our wish, and that our enemies should be gone! May those friendly to you reach their goal as a ship does a friendly harbour!”} 
+#tr.en: @q{“That my friend should be well is our wish, and that our enemies should be gone! 
 #etcsl: line-id=E.11.67.2
 
 E.11.67.3. sag₉-ga-zu ma₂ kar sag₉-ga-gin₇ kar-ra he₂-em-us₂#
 #lem: sag[good]; ma[ship]; kar[harbor]; sag[good]; kar[harbor]; us[accompany]
+#tr.en: May those friendly to you reach their goal as a ship does a friendly harbour!”} 
 #etcsl: line-id=E.11.67.3
 
 @end proverb
@@ -656,12 +657,12 @@ F.11.83.6. [...]
 
 F.11.84.7. lu₂# [...]
 #lem: lu[person]; X
-#tr.en:  … 
+#tr.en: … 
 #etcsl: line-id=F.11.84.7
 
 F.11.84.8. lul# [...]
 #lem: lul[false]; X
-#tr.en: …  merchant …… partner ……. 
+#tr.en: … merchant …… partner ……. 
 #etcsl: line-id=F.11.84.8
 
 F.11.84.9. lu₂ [...]
@@ -689,7 +690,7 @@ F.11.85.12. kud-kud-a gi#-[gur ba-ab-dab₅]
 
 F.11.85.13. inim-ma!-ni#-[ra lu₂ al-sag₃-e]
 #lem: inim[word]; lu[person]; sag[strike]
-#tr.en: For (?) his words a man beats him. 
+#tr.en: For (?) his words a man beats him. @gap{unknown no. of lines missing} 
 #etcsl: line-id=F.11.85.13
 
 @end proverb
@@ -703,7 +704,7 @@ $ (unknown no. of lines missing)
 
 G.11.g1.1. GAN [...]
 #lem: X; X
-#tr.en: $ (@note{= Alster 1997 p. 195 A viii} ) $ (@gap{2 lines fragmentary}) 
+#tr.en: $ (@note{= Alster 1997 p. 195 A viii} ) $ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=G.11.g1.1
 
 #etcsl#eq = Alster 1997 p. 195 A viii
@@ -723,7 +724,7 @@ $ (unknown no. of lines missing)
 
 H.11.h1.1. [...] X-ba
 #lem: X; X
-#tr.en: $ (@note{= Alster 1997 p. 195 A ix} ) $ (@gap{4 lines fragmentary}) 
+#tr.en: $ (@note{= Alster 1997 p. 195 A ix} ) $ (@gap{4 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=H.11.h1.1
 
 #etcsl#eq = Alster 1997 p. 195 A ix

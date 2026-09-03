@@ -336,38 +336,38 @@ $ 6 lines missing
 #etcsl#ms 3 mss. add 2 lines:
 68A. {ŋiš}a-da-ma₂-bi kur šim {ŋiš}erin-na-ta
 #lem: adama[wooden object]; kur[mountain(s)]; šim[aromatic substance]; eren[cedar]
-#tr.en:  
+#tr.en: @wDN{Utu}  
 #etcsl: line-id=68A
 
 68B. {d}dil-im₂-babbar-e mu-na-da-an-ri-am₃
 #lem: Dilimbabbar[1]DN; ri[impose]
-#tr.en: @wDN{Utu}  
+#tr.en: rejoiced  
 #etcsl: line-id=68B
 
 @endvariants
 69. {ŋiš}u₃-bi tir eb₂-la-ta
 #lem: u[planking]; tir[forest]; Ebla[1]SN
-#tr.en: rejoiced  
+#tr.en: at  
 #etcsl: line-id=69
 
 70. {d}dil-im₂-babbar-ra mu-na-da-an-ri-a
 #lem: Dilimbabbar[1]DN; ri[impose]
-#tr.en: at  
+#tr.en: him  
 #etcsl: line-id=70
 
 71. {ŋiš}u₃-suh₅-bi {ŋiš}tir šim {ŋiš}erin-na-ta
 #lem: usuh[tree]; tir[forest]; šim[aromatic substance]; eren[cedar]
-#tr.en: him  
+#tr.en: and  
 #etcsl: line-id=71
 
 72. {d}nanna-{d}suen mu-na-da-an-ri-a
 #lem: Nannasuen[1]DN; ri[impose]
-#tr.en: and  
+#tr.en: put  
 #etcsl: line-id=72
 
 73. u₂ X X-bi {ŋiš}li la-an-gi₄-ta
 #lem: u[plant(s)]; X; X; li[juniper]; Langi[1]SN
-#tr.en: put  
+#tr.en:  
 #etcsl: line-id=73
 
 74. {d}dil-im₂-babbar-ra mu-na-da-an-ri-a
@@ -828,12 +828,12 @@ $ 6 lines missing
 
 201. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: @q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen}, welcome, welcome, 
+#tr.en: @q[Ningirida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
 #etcsl: line-id=201
 
 202. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: O boat!”} 
+#tr.en: O boat of @wDN{Suen}, welcome, welcome, O boat!”} 
 #etcsl: line-id=202
 
 203. {ŋiš}ma₂#-[gur₈]-ra# zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
@@ -891,12 +891,12 @@ $ 6 lines missing
 
 212. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: @q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father, welcome, welcome, 
+#tr.en: @q[Cerida,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
 #etcsl: line-id=212
 
 213. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-[en]
 #lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: O boat!”} 
+#tr.en: O boat of my father, welcome, welcome, O boat!”} 
 #etcsl: line-id=213
 
 214. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-[sal-e]
@@ -954,12 +954,12 @@ $ 6 lines missing
 
 223. silim-ma he₂-me-en silim-ma he₂-[me-en] {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: @q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, 
+#tr.en: @q[Inana,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of my father welcome, welcome, O boat! 
 #etcsl: line-id=223
 
 224. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂# [silim-ma he₂]-me#-en
 #lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: O boat! @vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”} 
+#tr.en: @vart[t151.v5,t151.v5]{@varn{1 ms. adds 1 line:} O boat of @wDN{Suen} welcome, welcome, O boat! }”} 
 #etcsl: line-id=224
 
 @variants
@@ -1025,12 +1025,12 @@ $ 6 lines missing
 
 234. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: @q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of @wDN{Suen} welcome, welcome, 
+#tr.en: @q[Ninunuga,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
 #etcsl: line-id=234
 
 235. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: O boat!”} 
+#tr.en: O boat of @wDN{Suen} welcome, welcome, O boat!”} 
 #etcsl: line-id=235
 
 236. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
@@ -1088,12 +1088,12 @@ $ 6 lines missing
 
 245. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: @q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! O boat of the princely son welcome, 
+#tr.en: @q[Ninlil,Nanna-Suen]{“Welcome, welcome, welcome, O boat! 
 #etcsl: line-id=245
 
 246. {ŋiš}ma₂ dumu nun-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
 #lem: ma[ship]; dumu[child]; nun[prince]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
-#tr.en: welcome, O boat!”} 
+#tr.en: O boat of the princely son welcome, welcome, O boat!”} 
 #etcsl: line-id=246
 
 247. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
@@ -1161,31 +1161,37 @@ $ 6 lines missing
 
 258. kun-saŋ a-a ugu-na nam-mi-in-gub
 #lem: kunsaŋ[an architectural term]; aya[father]; ugu[bear]; gub[stand]
-#tr.en: He stood at the grand stairway of his father who begot him and called out to the porter of his father who begot him: @q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! Open the house, @wDN{Kalkal}, open the house! @wDN{Kalkal}, doorkeeper, open the house! Doorman, doorkeeper, open the house! Porter, open the house! @wDN{Kalkal}, open the house!”} 
+#tr.en: He stood at the grand stairway of his father who begot him  
 #etcsl: line-id=258
 
 259. i₃-du₈ a-a ugu-ni-ra gu₃ mu-na-de₂-e
 #lem: idu[doorkeeper]; aya[father]; ugu[bear]; gu[voice]; de[pour]
+#tr.en: and called out to the porter of his father who begot him: 
 #etcsl: line-id=259
 
 260. e₂ ŋal₂-lu i₃-du₈ e₂ ŋal₂-lu
 #lem: e[house]; ŋal[open]; idu[doorkeeper]; e[house]; ŋal[open]
+#tr.en: @q[Nanna-Suen,Kalkal]{“Open the house, porter, open the house! 
 #etcsl: line-id=260
 
 261. [e₂] ŋal₂#-lu {d}kal-kal e₂ ŋal₂-lu
 #lem: e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
+#tr.en: Open the house, @wDN{Kalkal}, open the house! 
 #etcsl: line-id=261
 
 262. {[d]}[kal]-kal# lu₂-ŋiš-e₃ e₂ ŋal₂-lu
 #lem: Kalkal[1]DN; luŋešed[doorman]; e[house]; ŋal[open]
+#tr.en: @wDN{Kalkal}, doorkeeper, open the house! 
 #etcsl: line-id=262
 
 263. [lu₂-ŋiš]-ed₃ ŋiš-e₃ e₂ ŋal₂-lu
 #lem: luŋešed[doorman]; luŋešed[doorman]; e[house]; ŋal[open]
+#tr.en: Doorman, doorkeeper, open the house! 
 #etcsl: line-id=263
 
 264. i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
 #lem: idu[doorkeeper]; e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
+#tr.en: Porter, open the house! @wDN{Kalkal}, open the house!”} 
 #etcsl: line-id=264
 
 265. gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re
@@ -1265,22 +1271,22 @@ $ 6 lines missing
 
 280. u₅-bi₂{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
 #lem: ubi[bird]; tur[small]; tul[public fountain]; tum[bring]
-#tr.en: porter, open the house. I, @wDN{Nanna-Suen}, 
+#tr.en: porter, open the house. I, 
 #etcsl: line-id=280
 
 281. {d}dil-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
 #lem: Dilimbabbar[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
-#tr.en: have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; 
+#tr.en: @wDN{Nanna-Suen}, 
 #etcsl: line-id=281
 
 282. a-zag-gun₃{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
 #lem: azagun[bird]; tur[small]; tul[public fountain]; tum[bring]
-#tr.en: porter, 
+#tr.en: have brought small @fsux{azagun} birds from the pond for the house of @wDN{Enlil}; 
 #etcsl: line-id=282
 
 283. {d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
 #lem: Nannasuen[1]DN; e[house]; Enlil[1]DN; idu[doorkeeper]; e[house]; ŋal[open]
-#tr.en: open the house.”} 
+#tr.en: porter, open the house.”} 
 #etcsl: line-id=283
 
 284. suhur{ku₆}-e šag₄ mu-da-ab-sur-re
@@ -1410,52 +1416,52 @@ $ 6 lines missing
 
 309. hul₂-la-da i₃-du₈-e hul₂-la-da
 #lem: hul[rejoice]; idu[doorkeeper]; hul[rejoice]
-#tr.en: Rejoicing, the porter rejoicing, the porter rejoicing opened the house. 
+#tr.en: Rejoicing, the porter rejoicing, 
 #etcsl: line-id=309
 
 310. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
 #lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
-#tr.en: @wDN{Kalkal}, the doorkeeper, rejoicing, 
+#tr.en: the porter rejoicing opened the house. 
 #etcsl: line-id=310
 
 311. {d}kal-kal lu₂-ŋiš-e₃ hul₂-la-da
 #lem: Kalkal[1]DN; luŋešed[doorman]; hul[rejoice]
-#tr.en: the porter rejoicing opened the house. 
+#tr.en: @wDN{Kalkal}, the doorkeeper, rejoicing, 
 #etcsl: line-id=311
 
 312. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
 #lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
-#tr.en: @wDN{Kalkal}, in charge of the bolt-handle, 
+#tr.en: the porter rejoicing opened the house. 
 #etcsl: line-id=312
 
 313. {d}kal-kal lu₂-{ŋiš}mud-e hul₂-la-da
 #lem: Kalkal[1]DN; lumud[bolt-handler]; hul[rejoice]
-#tr.en: rejoicing, the porter rejoicing opened the house. 
+#tr.en: @wDN{Kalkal}, in charge of the bolt-handle, 
 #etcsl: line-id=313
 
 314. i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
 #lem: idu[doorkeeper]; hul[rejoice]; e[house]; taka[set aside]; la[hang]
-#tr.en: At the house of @wDN{Enlil}, 
+#tr.en: rejoicing, the porter rejoicing opened the house. 
 #etcsl: line-id=314
 
 315. kur-ra igi ŋal₂ e₂ {d}en-lil₂-la₂-še₃
 #lem: kur[mountain(s)]; igi[eye]; ŋal[⟦be⟧ to be (there]; e[house]; Enlil[1]DN
-#tr.en: ……, @wDN{Nanna-Suen} made the offerings. 
+#tr.en: At the house of @wDN{Enlil}, 
 #etcsl: line-id=315
 
 316. {d}nanna-{d}suen-e nidba si bi₂-in-sa₂
 #lem: Nannasuen[1]DN; nindaba[(food) offering]; si[horn]; sa[equal]
-#tr.en: @wDN{Enlil}, rejoicing over the offerings, 
+#tr.en: ……, @wDN{Nanna-Suen} made the offerings. 
 #etcsl: line-id=316
 
 317. {d}en-lil₂-e nidba hul₂-la-da
 #lem: Enlil[1]DN; nindaba[(food) offering]; hul[rejoice]
-#tr.en: offered bread to @wDN{Suen}, 
+#tr.en: @wDN{Enlil}, rejoicing over the offerings, 
 #etcsl: line-id=317
 
 318. dumu-ni {d}suen-ra ninda mu-na-ba-e
 #lem: dumu[child]; Suen[1]DN; ninda[bread]; ba[allot]
-#tr.en: his son. 
+#tr.en: offered bread to @wDN{Suen}, his son. 
 #etcsl: line-id=318
 
 319. {d}suen-ra {d}en-lil₂ mu-un-da-hul₂ mi₂ zid na-mu-un-ne
@@ -1480,12 +1486,12 @@ $ 6 lines missing
 
 323. kaš sag₁₀-ga a₂ sikil-la-ŋu₁₀ de₂-mu-na-ra-ab-ze₂-en
 #lem: kaš[beer]; sag[good]; a[arm]; sikil[pure]; de[pour]
-#tr.en: May the …… of the towering @fsux{tilimda} vessels, standing on the ground, 
+#tr.en: May the …… of the towering @fsux{tilimda} vessels, standing on the ground, ……. 
 #etcsl: line-id=323
 
 324. ti-lim-da u₁₈-ru ki us₂-sa mu-bi he₂-em-ma-X-X
 #lem: tilimda[water vessel]; urun[exalted]; ki[place]; us[accompany]; mu[name]; X
-#tr.en: ……. Order pure sweet cake, syrup, 
+#tr.en: Order pure sweet cake, syrup, 
 #etcsl: line-id=324
 
 325. {ninda}gug₂ gi-rin-na lal₃ si-gug₂ a sikil dug₄-ga-na-ab-ze₂-en
@@ -1520,39 +1526,47 @@ $ 6 lines missing
 
 331. šum₂-ma-da-ab {d}en-lil₂ šum₂-ma-da-ab urim₂{ki}-še₃ ga-ŋen
 #lem: šum[give]; Enlil[1]DN; šum[give]; Urim[1]SN; ŋen[go]
-#tr.en: @q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! In the river give me the carp-flood -- I want to set off for @wSN{Urim}! In the fields give me speckled barley -- I want to set off for @wSN{Urim}! In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! In the palace give me long life -- I want to set off for @wSN{Urim}!”} 
+#tr.en: @q{“Give to me, @wDN{Enlil}, give to me -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=331
 
 332. id₂-da a-eštub šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: id[river]; aʾeštub[early flooding]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the river give me the carp-flood -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=332
 
 333. a-šag₄-ga še gu-nu šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the fields give me speckled barley -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=333
 
 334. ambar-ra ku₆-da suhur{ku₆} šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the marshes give me @fsux{kuda} carp and @fsux{suḫur} carp -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=334
 
 335. ŋiš-gi-a gi sumun gi henbur šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the reedbeds give me old reed and fresh reed -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=335
 
 336. {ŋiš}tir-{ŋiš}tir-ra šeg₉ šeg₉-bar šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the forests give me the ibex and wild ram -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=336
 
 337. an-edin-na {ŋiš}maš-gurum šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: aneden[the high steppe]; mašgurum[plant]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the high plain give me the @fsux{mašgurum} tree -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=337
 
 338. pu₂-kiri₆ lal₃ ŋeštin šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the orchards give me syrup and wine -- I want to set off for @wSN{Urim}! 
 #etcsl: line-id=338
 
 339. e₂-gal-la zi su₃-ud-ŋal₂ šum₂-ma-da-ab urim₂{ki} ga-ŋen
 #lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give]; Urim[1]SN; ŋen[go]
+#tr.en: In the palace give me long life -- I want to set off for @wSN{Urim}!”} 
 #etcsl: line-id=339
 
 340. mu-na-an-šum₂ {d}en-lil₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen

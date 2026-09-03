@@ -83,11 +83,12 @@ A.1.7.7. niŋ₂ ha-lam-ma diŋir-ra-kam šu ku₄-ku₄ nu-ub-zu
 
 A.1.8.8. ninda-ŋu₁₀ he₂-ŋal₂ ninda-zu ga-gu₇
 #lem: ninda[bread]; heŋal[plenty]; ninda[bread]; gu[eat]
-#tr.en: @q{“Though I still have bread left over, I will eat your bread!”} Will this endear a man to the household of his friend? 
+#tr.en: @q{“Though I still have bread left over, I will eat your bread!”} 
 #etcsl: line-id=A.1.8.8
 
 A.1.8.9. e₂ dub₃-sa-na-ka lu₂ ba-ni-ib-kal-le
 #lem: e[house]; dusa[friend]; lu[person]; kal[rare]
+#tr.en: Will this endear a man to the household of his friend? 
 #etcsl: line-id=A.1.8.9
 
 @end proverb
@@ -615,17 +616,17 @@ A.1.54.70. {ŋiš}ma₂-ŋu₁₀ zag ga-ab-tag
 
 A.1.55.71. ukur₃ ha-ba-ug₇ nam-ba-da-til₃-i
 #lem: ukur[poor]; uš[die]; til[live (of a single person)]
-#tr.en: Let the poor man die, let him not live. When he finds bread, 
+#tr.en: Let the poor man die, let him not live. When he finds bread, he finds no salt. 
 #etcsl: line-id=A.1.55.71
 
 A.1.55.72. ninda i₃-pad₃ mun nu-pad₃ mun i₃-pad₃ ninda nu-pad₃
 #lem: ninda[bread]; pad[find]; mun[salt]; pad[find]; mun[salt]; pad[find]; ninda[bread]; pad[find]
-#tr.en: he finds no salt. When he finds salt, he finds no bread. When he finds meat, 
+#tr.en: When he finds salt, he finds no bread. When he finds meat, he finds no condiments. 
 #etcsl: line-id=A.1.55.72
 
 A.1.55.73. uzu i₃-pad₃ gazi nu-pad₃ gazi i₃-pad₃ uzu nu-pad₃ (1::1)
 #lem: uzu[flesh]; pad[find]; gazi[condiment]; pad[find]; gazi[condiment]; pad[find]; uzu[flesh]; pad[find]
-#tr.en: he finds no condiments. When he finds condiments, he finds no meat. @vart[t6101.v5,]{@note{2 mss. add:} When he finds oil, he finds no jar. When he finds a jar, he finds no oil. } 
+#tr.en: When he finds condiments, he finds no meat. @vart[t6101.v5,]{@note{2 mss. add:} When he finds oil, he finds no jar. When he finds a jar, he finds no oil. } 
 #etcsl: line-id=A.1.55.73
 
 :73v.1.1: ($2 mss. add:$) i₃ i₃-pad₃ šaŋan nu-pad₃ šaŋan i₃-pad₃ i₃ nu-pad₃
@@ -700,6 +701,7 @@ A.1.60.81. [X X] X-ta na-ab-GAR [...]
 
 A.1.61.82. [...]-ke₄ [...]
 #lem: X; X
+#tr.en: 622=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=A.1.61.82
 
 @end proverb
@@ -1042,12 +1044,12 @@ B.1.85.43. gi#-a-dag-gin₇ lu₂ en₃-bi i₃#-tar-re
 
 B.1.86.44. {[ŋiš]}ma₂-addir# zabalam{ki}-a ba-su
 #lem: maʾaddir[ferryboat]; Zabalam[1]SN; su[sink]
-#tr.en: A ferryboat sank at @wSN{Zabalam}. @q{“Oh @wDN{Utu} of @wSN{Larsam}, 
+#tr.en: A ferryboat sank at @wSN{Zabalam}. 
 #etcsl: line-id=B.1.86.44
 
 B.1.86.45. {d}utu larsam{ki}-ma a-ba-a ŋiš ba-da-an-zig₃
 #lem: Utu[1]DN; Larsam[1]SN; aba[who?]; ŋeš[tree]; zig[rise]
-#tr.en: who pulled out the mooring stake?”} 
+#tr.en: @q{“Oh @wDN{Utu} of @wSN{Larsam}, who pulled out the mooring stake?”} 
 #etcsl: line-id=B.1.86.45
 
 @end proverb
@@ -1470,7 +1472,7 @@ B.1.120.97. gu-du-ba X [...]
 
 B.1.120.98. niŋ₂ X
 #lem: niŋ[thing]; X
-#tr.en: … in their backside …… something ……. 
+#tr.en: … in their backside …… something ……. @gap{unknown no. of lines missing} 
 #etcsl: line-id=B.1.120.98
 
 @end proverb
@@ -1588,6 +1590,7 @@ C.1.128.13. %e [mu]-ud-na-ŋu₁₀ %s me-[še₃ ga-ŋen]
 
 C.1.129.14. [...] X X AN X [...]
 #lem: X; X; X; X; X; X
+#tr.en: 1409=$ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=C.1.129.14
 
 C.1.129.15. [...] X X mu-e-da-an-[...]
@@ -1732,11 +1735,12 @@ D.1.147.17. ki niŋ₂ sag₉-ga ha-ra-an-kiŋ₂-kiŋ₂-e#
 
 D.1.148.18. ki-sikil šeš-zu saŋ nu-mu-re-eb-kal-le
 #lem: kisikil[young woman]; šeš[brother]; saŋ[head]; kal[rare]
-#tr.en: Girl, your brother cannot choose for you; whom do you choose? 
+#tr.en: Girl, your brother cannot choose for you; 
 #etcsl: line-id=D.1.148.18
 
 D.1.148.19. a-ba-am₃ saŋ mu-e-kal-le-en
 #lem: aba[who?]; saŋ[head]; kal[rare]
+#tr.en: whom do you choose? 
 #etcsl: line-id=D.1.148.19
 
 @end proverb
@@ -1810,14 +1814,14 @@ D.1.152.28. [giri₁₇]-zal#-še₃ nu-il₂
 
 D.1.153.29. dam nu-il₂ dumu nu-il₂
 #lem: dam[spouse]; il[raise]; dumu[child]; il[raise]
-#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.9]{6.1.03.9}, @xref[t.6.1.16,t.6.1.16.b5]{6.1.16.b5}, @xref[t.6.1.22,]{6.1.22: ll. 26-27}, @xref[t.6.1.23,t.6.1.23.7]{6.1.23.7}} He who does not support a wife, he who does not support a child, 
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.9]{6.1.03.9}, @xref[t.6.1.16,t.6.1.16.b5]{6.1.16.b5}, @xref[t.6.1.22,]{6.1.22: ll. 26-27}, @xref[t.6.1.23,t.6.1.23.7]{6.1.23.7}} He who does not support a wife, 
 #etcsl: line-id=D.1.153.29
 
 #etcsl#cf cf. 6.1.03.9, 6.1.16.b5, 6.1.22: ll. 26-27, 6.1.23.7
 
 D.1.153.30. giri₁₇-zal-še₃ nu-il₂
 #lem: kirizal[joy]; il[raise]
-#tr.en: has no cause for celebration. 
+#tr.en: he who does not support a child, has no cause for celebration. 
 #etcsl: line-id=D.1.153.30
 
 @end proverb
@@ -1978,13 +1982,14 @@ D.1.164.50. ga-sam₂ ma-an-šum₂ X [...]
 
 D.1.165.51. dam-gar₃-re kug %e ta %e ba-an-ir
 #lem: damgar[merchant]; kug[metal]; ta[what?]QP; ir[bring]
-#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.65]{6.1.03.65}, @xref[t.6.1.17,t.6.1.17.b8]{6.1.17.b8}, @xref[t.6.1.22,]{6.1.22: ll. 194-196}} Oh merchant, how you use up silver! And how you use up barley! 
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.65]{6.1.03.65}, @xref[t.6.1.17,t.6.1.17.b8]{6.1.17.b8}, @xref[t.6.1.22,]{6.1.22: ll. 194-196}} Oh merchant, how you use up silver! 
 #etcsl: line-id=D.1.165.51
 
 #etcsl#cf cf. 6.1.03.65, 6.1.17.b8, 6.1.22: ll. 194-196
 
 D.1.165.52. u₃ še %e ta %e ba-an-ir
 #lem: u[and]; še[barley]; ta[what?]QP; ir[bring]
+#tr.en: And how you use up barley! 
 #etcsl: line-id=D.1.165.52
 
 @end proverb
@@ -2294,17 +2299,17 @@ D.1.187.94. %e mu-lu-ŋu₁₀ %s ba-ra-mu-un-u₅
 
 D.1.188.95. barag₂-barag₂-ge nu-zu suhur %e ta %s ba-e-la₂
 #lem: barag[spread out]; zu[know]; suhur[tuft]; ta[what?]QP; la[hang]
-#tr.en: You don't know how to spread it out. 
+#tr.en: You don't know how to spread it out. How your tresses hang down! 
 #etcsl: line-id=D.1.188.95
 
 D.1.188.96. siki-zu 1 kuš₃-am₃# [...]
 #lem: siki[hair]; n; kuš[unit of length]; X
-#tr.en: How your tresses hang down! Your hair …… one cubit ……. 
+#tr.en: Your hair …… one cubit ……. My lady, 
 #etcsl: line-id=D.1.188.96
 
 D.1.188.97. nin-ŋu₁₀ nam nu-X [...]
 #lem: nin[lady]; nam[fate]; X; X
-#tr.en: My lady, you …… not ……. 
+#tr.en: you …… not ……. 
 #etcsl: line-id=D.1.188.97
 
 @end proverb
@@ -2322,19 +2327,18 @@ D.1.189.98. u₂-um inim-ma-am₃ a inim-ma-am₃
 
 D.1.190.99. {uzu}suš₂ %e al-ze₂-eb#
 #lem: suš[grease]; zeb[good]V/i
-#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.c9]{6.1.19.c9}} Fatty meat is good. 
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.c9]{6.1.19.c9}} Fatty meat is good. Fatty mutton is good. 
 #etcsl: line-id=D.1.190.99
 
 #etcsl#cf cf. 6.1.19.c9
 
 D.1.190.100. {uzu}i₃-udu %e al-ze₂#-eb
 #lem: lib[sheep fat]; zeb[good]V/i
-#tr.en: Fatty mutton is good. 
+#tr.en: -- What shall @varh[t6101.v17]{I } @vart[t6101.v18,]{@note{1 ms. has instead:} we } give the slave girl? 
 #etcsl: line-id=D.1.190.100
 
 D.1.190.101. %e ta-am₃ gi₄-in-na (1:ga-an-na-ab-ze₂-eŋ₃-ŋen:1)
 #lem: ta[what?]QP; gin[worker]N; zeŋ[give]
-#tr.en: 2063=-- What shall @varh[t6101.v17]{I } @vart[t6101.v18,]{@note{1 ms. has instead:} we } give the slave girl? 
 #etcsl: line-id=D.1.190.101
 
 :101v.1.1: ($1 ms. has instead:$) %e ga-ma-ze₂-ŋe₂₆-e-en-de₃-en
@@ -2440,12 +2444,12 @@ D.1.197.115. še-er-še-er# [...]
 
 D.1.197.116. X [...]
 #lem: X; X
-#tr.en: someone  
+#tr.en: someone … 
 #etcsl: line-id=D.1.197.116
 
 D.1.197.117. lu₂ [...]
 #lem: lu[person]; X
-#tr.en: …… attractiveness ……. 
+#tr.en: … attractiveness ……. 
 #etcsl: line-id=D.1.197.117
 
 D.1.197.118. hi-li [...]
@@ -2550,12 +2554,12 @@ D.1.201.135. [...] til₃
 
 D.1.202.136. [...] %e ze₂#-eŋ₃
 #lem: X; zeŋ[give]V/t
-#tr.en:  … 
+#tr.en: … 
 #etcsl: line-id=D.1.202.136
 
 D.1.202.137. [...]-ma
 #lem: X
-#tr.en: …  don't cover the …… with your hand. 
+#tr.en: … don't cover the …… with your hand. 
 #etcsl: line-id=D.1.202.137
 
 D.1.202.138. [...] X [...]-un#-ze₂-eŋ₃

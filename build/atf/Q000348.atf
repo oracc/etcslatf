@@ -90,12 +90,12 @@ $ 5 lines missing
 
 28. ka# kug <igi sag₉-sag₉ i-si-iš-bi mu-un-kuš₂-u₃>
 #lem: kag[mouth]; kug[purify]; igi[eye]; sag[good]; isiš[tears]; kušu[tired]
-#tr.en: she sobs tearfully, @q{“O you of the fair-spoken mouth, of the ever kind eyes,”} 
+#tr.en: she sobs tearfully, @q{“O you of the fair-spoken mouth, of the ever kind eyes,”} she sobs tearfully. 
 #etcsl: line-id=28
 
 29. (1:ŋuruš#:1) nitalam %e u₃-mu#-un %s zu₂-lum
 #lem: ŋuruš[young adult male]; ŋidlam[(equal ranking) spouse]; umun[lord]N; zulum[the fruit of the date-palm]
-#tr.en: she sobs tearfully. @q{“Lad, husband, lord, sweet as the date, …… O @wDN{Dumuzid}!”} 
+#tr.en: @q{“Lad, husband, lord, sweet as the date, …… O @wDN{Dumuzid}!”} 
 #etcsl: line-id=29
 
 :29v.1.1: ($or read:$) DAG#
@@ -243,23 +243,27 @@ $ 1 line missing
 
 76. %e [mu]-lu# %s nu₂ %e su₈-ba mu-lu %s nu₂ en-nu-uŋ₃-ba me-gub
 #lem: mulu[person]N; nud[lie down]; subad[shepherd]N; mulu[person]N; nud[lie down]; ennuŋ[watch]; gub[stand]
-#tr.en: @q[Inana,Dumuzid]{“O you who lie at rest, shepherd, who lie at rest, you stood guard over them! @wDN{Dumuzid}, you who lie at rest, you stood guard over them! @wDN{Ama-ušumgal-ana}, you who lie at rest, you stood guard over them! Rising with the sun you stood guard over my sheep (?), lying down by night only, you stood guard over my sheep (?)!”} 
+#tr.en: @q[Inana,Dumuzid]{“O you who lie at rest, shepherd, who lie at rest, you stood guard over them! 
 #etcsl: line-id=76
 
 77. {d}dumu-zid %e mu-lu %s nu₂ en-<nu-uŋ₃-ba me-gub>
 #lem: Dumuzid[1]DN; mulu[person]N; nud[lie down]; ennuŋ[watch]; gub[stand]
+#tr.en: @wDN{Dumuzid}, you who lie at rest, you stood guard over them! 
 #etcsl: line-id=77
 
 78. {d}ama-ušumgal-an-na %e mu-<lu %s nu₂ en-nu-uŋ₃-ba me-gub>
 #lem: Amaʾušumgalanak[1]DN; mulu[person]N; nud[lie down]; ennuŋ[watch]; gub[stand]
+#tr.en: @wDN{Ama-ušumgal-ana}, you who lie at rest, you stood guard over them! 
 #etcsl: line-id=78
 
 79. {d}utu-da gub-ba DI-ŋa₂ en-<nu-uŋ₃-ba me-gub>
 #lem: Utu[1]DN; gub[stand]; X; ennuŋ[watch]; gub[stand]
+#tr.en: Rising with the sun you stood guard over my sheep (?), lying down by night only, 
 #etcsl: line-id=79
 
 80. ŋi₆-da nu₂-nu₂ DI-ŋa₂ en-nu-uŋ₃-ba me-gub
 #lem: ŋi[night]; nud[lie down]; X; ennuŋ[watch]; gub[stand]
+#tr.en: you stood guard over my sheep (?)!”} 
 #etcsl: line-id=80
 
 81. ud-bi-a um-ma {d}bi-lu-lu
@@ -309,96 +313,108 @@ $ 1 line missing
 
 90. ud-bi-a nin-e šag₄-ga-ni a-na am₃-de₆
 #lem: ud[sun]; nin[lady]; šag[heart]; ana[what?]; de[carry]
-#tr.en: That day what was in the lady's heart? What was in holy @wDN{Inana's} heart? 
+#tr.en: That day what was in the lady's heart? 
 #etcsl: line-id=90
 
 91. kug {d}inana-ke₄ šag₄-ga-ni a-na am₃-de₆#
 #lem: kug[purify]; Inanak[1]DN; šag[heart]; ana[what?]; de[carry]
-#tr.en: To kill old woman @wDN{Bilulu} was in her heart! 
+#tr.en: What was in holy @wDN{Inana's} heart? 
 #etcsl: line-id=91
 
 92. um!-ma! {d}bi-lu-lu ug₅-ge#-[de₃] šag₄-ga-ni am₃#-[de₆]
 #lem: umma[old woman]; Bilulu[1]DN; ug[kill]; šag[heart]; de[carry]
-#tr.en: To make good the resting place for her beloved young husband, 
+#tr.en: To kill old woman @wDN{Bilulu} was in her heart! 
 #etcsl: line-id=92
 #etcsl#text Text u₃-mu-un.
 
 93. nitalam ki aŋ₂-ŋa₂-ni {d}dumu-zid-{d}ama-ušumgal#-[an-na-ra]
 #lem: ŋidlam[(equal ranking) spouse]; ki[place]; aŋ[measure]; Dumuzidamaušumgalanak[1]DN
-#tr.en: for @wDN{Dumuzid-ama-ušumgal-ana} -- that was in her heart! 
+#tr.en: To make good the resting place for her beloved young husband, 
 #etcsl: line-id=93
 
 94. ki-nu₂ dug₃-dug₃-ge-de₃ šag₄-ga-ni nam-[de₆]
 #lem: kinud[sleeping quarter]; dug[good]; šag[heart]; de[carry]
-#tr.en: My lady went to @wDN{Bilulu} in the haunted desert. 
+#tr.en: for @wDN{Dumuzid-ama-ušumgal-ana} -- that was in her heart! 
 #etcsl: line-id=94
 
 95. nin-ŋu₁₀ {d}bi-lu-lu edin-lil₂-la₂ ba-an-[...]
 #lem: nin[lady]; Bilulu[1]DN; edenlil[haunted desert]; X
-#tr.en: Her son @wPN{Ŋirŋire} like the wind there did …… @wPN{Širru} of the haunted desert, 
+#tr.en: My lady went to @wDN{Bilulu} in the haunted desert. 
 #etcsl: line-id=95
 
 96. dumu-ni ŋir₂-ŋir₂-e lil₂-la₂-a-bi bi₂-in#-[...]
 #lem: dumu[child]; Ŋirŋire[1]PN; lil[ghost]; X
-#tr.en: no one's child and no one's friend, 
+#tr.en: Her son @wPN{Ŋirŋire} like the wind there did …… @wPN{Širru} of the haunted desert, 
 #etcsl: line-id=96
 
 97. dumu na gu₅-li na šir₃-ru edin-lil₂-la₂ [...]
 #lem: dumu[child]; me[be]; guli[friend]; me[be]; Širru[1]PN; edenlil[haunted desert]; X
-#tr.en: ……. 
+#tr.en: no one's child and no one's friend, ……. 
 #etcsl: line-id=97
 
 98. kug {d}inana-ke₄ eš₂-dam-ma ba-ni-in-kur₉ [...]
 #lem: kug[purify]; Inanak[1]DN; ešdam[tavern]; kur[enter]; X
-#tr.en: Holy @wDN{Inana} entered the alehouse, stepped into a seat, began to determine fate: @q[Inana,Bilulu]{“Begone! I have killed you; so it is indeed, and with you I destroy also your name: May you become the waterskin for cold water that is used in the desert! May her son @wPN{Ŋirŋire} together with her become the protective god of the desert and the protective goddess of the desert! May @wPN{Širru} of the haunted desert, no one's child and no one's friend, walk in the desert and keep count of the flour, and when water is libated and flour sprinkled for the lad wandering in the desert, let the protective god of the desert and the protective goddess of the desert call out: @q[protective god and goddess,others]{“Libate!”}, call out: @q{“Sprinkle!”}, and thereby cause him to be present in the place from which he vanished, in the desert! Let old woman @wDN{Bilulu} gladden his heart!”} 
+#tr.en: Holy @wDN{Inana} entered the alehouse, stepped into a seat, began to determine fate: @q[Inana,Bilulu]{“Begone! 
 #etcsl: line-id=98
 
 99. ki-tuš-a ba-e-gub nam mu-ni-ib-tar-re
 #lem: kituš[dwelling place]; gub[stand]; nam[fate]; tar[cut]
+#tr.en: I have killed you; so it is indeed, 
 #etcsl: line-id=99
 
 100. ŋen-na ba-ug₅-ge-en na-nam-ma-am₃ mu-zu ga-ba-da-ha-lam-e
 #lem: ŋen[go]; ug[kill]; me[be]; mu[name]; halam[forsake]
+#tr.en: and with you I destroy also your name: 
 #etcsl: line-id=100
 
 101. {kuš}ummud a sed niŋ₂ edin-na he₂-me-en
 #lem: ummud[waterskin]; a[water]; sed[cool]; niŋ[thing]; eden[back]; me[be]
+#tr.en: May you become the waterskin for cold water that is used in the desert! 
 #etcsl: line-id=101
 
 102. dumu-ni ŋir₂-ŋir₂-re e-ne-bi-da
 #lem: dumu[child]; Ŋirŋire[1]PN; ane[he]
+#tr.en: May her son @wPN{Ŋirŋire} together with her become the protective god of the desert and the protective goddess of the desert! 
 #etcsl: line-id=102
 
 103. {d}udug edin-na {d}lamma edin-na he₂-em-ma-da-me-eš-am₃
 #lem: udug[demon]; eden[back]; lammar[(female) tutelary deity]; eden[back]; e[speak]
+#tr.en: May @wPN{Širru} of the haunted desert, 
 #etcsl: line-id=103
 
 104. dumu na gu₅-li na šir₃-ru edin#-lil₂-la₂
 #lem: dumu[child]; me[be]; guli[friend]; me[be]; Širru[1]PN; edenlil[haunted desert]
+#tr.en: no one's child and no one's friend, 
 #etcsl: line-id=104
 
 105. edin-na ha-mu-ni-ib₂-du zid₂ hu-mu-ni-ib₂-ŠID-e
 #lem: eden[back]; du[go]; zid[flour]; X
+#tr.en: walk in the desert and keep count of the flour, 
 #etcsl: line-id=105
 
 106. ŋuruš edin-na du a ub-ta-an-bal-bal zid₂ ub-ta-an-dub-dub
 #lem: ŋuruš[young adult male]; eden[back]; ŋen[go]; a[water]; bala[turn]; zid[flour]; dub[heap up]
+#tr.en: and when water is libated and flour sprinkled for the lad wandering in the desert, 
 #etcsl: line-id=106
 
 107. {d}udug edin-na {d}lamma edin-na
 #lem: udug[demon]; eden[back]; lammar[(female) tutelary deity]; eden[back]
+#tr.en: let the protective god of the desert and the protective goddess of the desert call out: 
 #etcsl: line-id=107
 
 108. [...] sed-a hu-mu-ni-ib-be₂ dub-a hu-mu-ni-ib-be₂
 #lem: X; sed[cold]; dug[speak]; dub[heap up]; dug[speak]
+#tr.en: @q[protective god and goddess,others]{“Libate!”}, call out: 
 #etcsl: line-id=108
 
 109. ki sa-ha-a-na [edin]-na# hu-mu-un-ŋal₂
 #lem: ki[place]; zah[disappear]; eden[back]; ŋal[⟦be⟧ to be (there]
+#tr.en: @q{“Sprinkle!”}, and thereby cause him to be present in the place from which he vanished, in the desert! 
 #etcsl: line-id=109
 
 110. um-ma {d}bi-lu-lu šag₄-ga-ni hu-mu-hul₂-le
 #lem: umma[old woman]; Bilulu[1]DN; šag[heart]; hul[rejoice]
+#tr.en: Let old woman @wDN{Bilulu} gladden his heart!”} 
 #etcsl: line-id=110
 
 111. i₃-ne-eš₂ {d}utu ud ne ur₅ he₂-en-na-nam#
@@ -418,37 +434,37 @@ $ 1 line missing
 
 114. {[d]}udug edin-na {d}lamma edin-na im-ma-an-da-an-me-eš-am₃
 #lem: udug[demon]; eden[back]; lammar[(female) tutelary deity]; eden[back]; dug[speak]
-#tr.en: @wPN{Širru} of the haunted desert, no one's child and no one's friend, 
+#tr.en: @wPN{Širru} of the haunted desert, 
 #etcsl: line-id=114
 
 115. [dumu] na# gu₅-li na šir₃-ru edin-lil₂-la₂
 #lem: dumu[child]; me[be]; guli[friend]; me[be]; Širru[1]PN; edenlil[haunted desert]
-#tr.en: walks in the desert and keeps count of the flour, 
+#tr.en: no one's child and no one's friend, 
 #etcsl: line-id=115
 
 116. [edin]-na# mu-ni-ib₂-ŋen zid₂ mu-ni-ib-ŠID-e
 #lem: eden[back]; ŋen[go]; zid[flour]; X
-#tr.en: and when water is libated and flour sprinkled for the lad wandering in the desert, 
+#tr.en: walks in the desert and keeps count of the flour, 
 #etcsl: line-id=116
 
 117. [ŋuruš edin]-na du a ub-ta-an-bal-bal zid₂ ub-ta-<an-dub-dub>
 #lem: ŋuruš[young adult male]; eden[back]; ŋen[go]; a[water]; bala[turn]; zid[flour]; dub[heap up]
-#tr.en: the protective god of the desert and the protective goddess of the desert call out: 
+#tr.en: and when water is libated and flour sprinkled for the lad wandering in the desert, 
 #etcsl: line-id=117
 
 118. {d}udug edin-na {[d]}lamma edin-na
 #lem: udug[demon]; eden[back]; lammar[(female) tutelary deity]; eden[back]
-#tr.en: @q[protective god and goddess,others]{“Libate!”}, call out: 
+#tr.en: the protective god of the desert and the protective goddess of the desert call out: 
 #etcsl: line-id=118
 
 119. [...] sed-a mu-ni-ib-be₂ dub-[a mu-ni-ib-be₂]
 #lem: X; sed[cold]; e[speak]; dub[heap up]; e[speak]
-#tr.en: @q{“Sprinkle!”}, and thereby cause him to be present in the place from which he vanished, 
+#tr.en: @q[protective god and goddess,others]{“Libate!”}, call out: 
 #etcsl: line-id=119
 
 120. ki sa-ha-a-na edin-na [mu-un-ŋal₂ ...]
 #lem: ki[place]; zah[disappear]; eden[back]; ŋal[⟦be⟧ to be (there]; X
-#tr.en: in the desert. 
+#tr.en: @q{“Sprinkle!”}, and thereby cause him to be present in the place from which he vanished, in the desert. 
 #etcsl: line-id=120
 
 121. um-ma {d}bi-lu-lu šag₄-ga-[ni mu-hul₂-e]
@@ -528,12 +544,12 @@ $ (approx. 11 lines missing)
 
 147. nam-šita dug₄-dug₄ lugal-la [...]
 #lem: namšita[prayer]; dug[speak]; lugal[king]; X
-#tr.en: who intercedes before the king -- @wDN{Ŋeštin-ana}, the lady, 
+#tr.en: who intercedes before the king -- @wDN{Ŋeštin-ana}, 
 #etcsl: line-id=147
 
 148. {d}ŋeštin-an-na-ke₄ nin [...]
 #lem: Ŋeštinanak[1]DN; nin[lady]; X
-#tr.en: did ……. 
+#tr.en: the lady, did ……. 
 #etcsl: line-id=148
 
 149. A AN SUD KID [...]
@@ -567,31 +583,37 @@ $ (approx. 11 lines missing)
 
 155. [i]-lu# za-ra i-lu za-ra [i-lu] %e du₅-mu-ri-ib-dug₄
 #lem: ilu[lament]; zaʾe[you]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
-#tr.en: @q[Jectin-ana,Dumuzid]{“Let me utter the lament for you, the lament for you, the lament! Brother, let me utter the lament for you, the lament! …… let me utter the lament for you, the lament! Let me utter the lament for you, the lament in the house @wGN{Arali}! Let me utter the lament for you, the lament in @wGN{Du-šuba}! Let me utter the lament for you, the lament in @wSN{Bad-tibira}! Let me utter the lament for you, the lament in the shepherding country!”} 
+#tr.en: @q[Jectin-ana,Dumuzid]{“Let me utter the lament for you, the lament for you, the lament! 
 #etcsl: line-id=155
 
 156. [...] šeš-e ŋe₂₆ i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: X; šeš[brother]; ŋaʾe[I]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Brother, let me utter the lament for you, the lament! 
 #etcsl: line-id=156
 
 157. [...] i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: X; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: …… let me utter the lament for you, the lament! 
 #etcsl: line-id=157
 
 158. [e₂ a-ra-li]-a# i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: e[house]; Arali[1]GN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Let me utter the lament for you, the lament in the house @wGN{Arali}! 
 #etcsl: line-id=158
 
 159. [du₆-šuba]-a# i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: Dušuba[1]GN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Let me utter the lament for you, the lament in @wGN{Du-šuba}! 
 #etcsl: line-id=159
 
 160. [bad₃]-tibira{ki}-a# i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: Badtibira[1]SN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Let me utter the lament for you, the lament in @wSN{Bad-tibira}! 
 #etcsl: line-id=160
 
 161. [ki nam]-sipad-da [i-lu za-ra i]-lu# %e du₅-mu-ri-ib#-[dug₄]
 #lem: ki[place]; namsipad[shepherdship]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Let me utter the lament for you, the lament in the shepherding country!”} 
 #etcsl: line-id=161
 
 162. [in]-nin# %e mu-ud-na-ni %s ne-nam ib₂-da#-[sa₂]
@@ -616,48 +638,57 @@ $ (approx. 11 lines missing)
 
 166. [i-lu za]-ra i-lu za-ra i-lu %e du₅-mu#-[ri]-ib#-dug₄
 #lem: ilu[lament]; zaʾe[you]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
-#tr.en: @q[Inana,Dumuzid]{“Let me utter the lament for you, the lament for you, the lament! Let me utter the lament for you, the lament for you, the lament! In the birthplace let me utter the lament for you, the lament! In the desert, O @wDN{Dumuzid}, let me utter the lament for you, the lament! In the house @wGN{Arali} let me utter the lament for you, the lament! In @wGN{Du-šuba} let me utter the lament for you, the lament! In @wSN{Bad-tibira} let me utter the lament for you, the lament! In the shepherding country let me utter the lament for you, the lament!”} 
+#tr.en: @q[Inana,Dumuzid]{“Let me utter the lament for you, the lament for you, the lament! 
 #etcsl: line-id=166
 
 167. [i]-lu za-ra i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: ilu[lament]; zaʾe[you]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: Let me utter the lament for you, the lament for you, the lament! 
 #etcsl: line-id=167
 
 168. [ki]-ulutim₂ i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: kiʾulutim[place of creation]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In the birthplace let me utter the lament for you, the lament! 
 #etcsl: line-id=168
 
 169. edin-na {d}dumu-zid i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: eden[back]; Dumuzid[1]DN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In the desert, O @wDN{Dumuzid}, let me utter the lament for you, the lament! 
 #etcsl: line-id=169
 
 170. e₂ a-ra-li-a i-lu za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: e[house]; Arali[1]GN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In the house @wGN{Arali} let me utter the lament for you, the lament! 
 #etcsl: line-id=170
 
 171. du₆-šuba-a [i-lu] za-ra <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: Dušuba[1]GN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In @wGN{Du-šuba} let me utter the lament for you, the lament! 
 #etcsl: line-id=171
 
 172. bad₃-tibira{ki}-a i-[lu za-ra] <i-lu %e du₅-mu-ri-ib-dug₄>
 #lem: Badtibira[1]SN; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In @wSN{Bad-tibira} let me utter the lament for you, the lament! 
 #etcsl: line-id=172
 
 173. ki nam-sipad-da i-lu za-ra i-lu %e du₅#-[mu-ri-ib-dug₄]
 #lem: ki[place]; namsipad[shepherdship]; ilu[lament]; zaʾe[you]; ilu[lament]; dug[speak]
+#tr.en: In the shepherding country let me utter the lament for you, the lament!”} 
 #etcsl: line-id=173
 
 174. {d}dumu-zid ne-nam ib₂-da-sa₂-e šu [ŋar gi₄-a]
 #lem: Dumuzid[1]DN; nen[this]; sa[equal]; šu[hand]; ŋar[put]; gi[turn]
-#tr.en: How truly she proved the equal of @wDN{Dumuzid}, avenging him; by killing @wDN{Bilulu}, @wDN{Inana} proved equal to him! 
+#tr.en: How truly she proved the equal of @wDN{Dumuzid}, 
 #etcsl: line-id=174
 
 175. {d}bi-lu-lu ug₅-[ga]
 #lem: Bilulu[1]DN; ug[kill]
+#tr.en: avenging him; by killing @wDN{Bilulu}, 
 #etcsl: line-id=175
 
 176. {d}inana ib₂-da-sa₂#
 #lem: Inanak[1]DN; sa[equal]
+#tr.en: @wDN{Inana} proved equal to him! 
 #etcsl: line-id=176
 
 @div trailer 
