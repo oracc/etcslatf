@@ -1,8 +1,9 @@
 #!/bin/sh
 tsv=$1
-err=lbp/`basename $tsv .tsv`.err
-lbl=lbl/`basename $tsv .tsv`.lbl
-lblplus=lbl+/`basename $tsv .tsv`.lbl
+b=`basename $tsv .tsv`
+err=lbp/$b.err
+lbl=lbl/$b.lbl
+lblplus=lbl+/$b.lbl
 echo src/lb $tsv
 src/lb $tsv >$lbl 2>$err
 echo bin/add-lnums.plx $lbl

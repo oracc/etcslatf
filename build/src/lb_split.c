@@ -72,6 +72,10 @@ find_longest(Par *p, const char **s, int *w)
 	  else
 	    break; /* we overflowed the word goal so this one won't work */
 	}
+      else if ('@' == *sp)
+	sp = lb_skip_tag_and_arg(++sp);
+      else if (CTRL_X == *sp)
+	sp = lb_skip_XtoY(sp);
       else
 	++sp;
     }
@@ -107,6 +111,10 @@ find_longest(Par *p, const char **s, int *w)
 		  sp += 3;
 		  break;
 		}
+	      else if ('@' == *sp)
+		sp = lb_skip_tag_and_arg(++sp);
+	      else if (CTRL_X == *sp)
+		sp = lb_skip_XtoY(sp);
 	      else
 		++sp;
 	    }
@@ -144,7 +152,7 @@ lb_split_segs(Memo *segmem, Par *p)
 	  int nw = p->segs[splitme]->w - w;
 
 	  /* Reset the LHS of the segment being split */
-	  p->segs[splitme]->c = split-1;
+	  p->segs[splitme]->c = split;
 	  p->segs[splitme]->w = w;
 	  p->segs[splitme]->b = ' ';
 	  

@@ -35,16 +35,16 @@
 28.	Fish addressed Bird murderously: 
 
 {29 = 29-40}
-29.	@q[Fish,Bird]{“…… Bird, 
-30.	…… there is no insult ……! 
-31.	Croaking, 
-32.	…… noise in the marshes …… squawking! 
-33.	Forever gobbling away greedily, while your heart is dripping with evil! Standing on the plain, 
-34.	you can keep pecking away until they chase you off! The farmer's sons lay lines and nets for you in the furrows. 
-35.	The gardener sets up nets against you in gardens and orchards. He cannot rest his arm from firing his sling; 
-36.	he cannot sit down because of you. You cause damage in the vegetable plots; 
-37.	you are a nuisance. In the damp parts of fields, there are your unpleasing footprints. 
-38.	Bird, you are shameless: you fill the courtyard with your droppings. The courtyard sweeper-boy who cleans the house chases after you with ropes. 
+29.	@q[Fish,Bird]{“…… Bird, …… there is no insult ……! 
+30.	Croaking, …… noise in the marshes …… squawking! 
+31.	Forever gobbling away greedily, while your heart is dripping with evil! Standing on the plain, 
+32.	you can keep pecking away until they chase you off! 
+33.	The farmer's sons lay lines and nets for you in the furrows. 
+34.	The gardener sets up nets against you in gardens and orchards. He cannot rest his arm from firing his sling; 
+35.	he cannot sit down because of you. You cause damage in the vegetable plots; 
+36.	you are a nuisance. In the damp parts of fields, there are your unpleasing footprints. 
+37.	Bird, you are shameless: you fill the courtyard with your droppings. 
+38.	The courtyard sweeper-boy who cleans the house chases after you with ropes. 
 39.	By your noise the @varh[t535.v1]{house } @vart[t535.v2,t535.v1]{@varn{1 ms. has instead:} palace } is disturbed; 
 40.	your din drives people away.”} 
 
@@ -73,9 +73,9 @@
 
 {57 = 57-69}
 57.	@q[Bird,Fish]{“How has your heart become so arrogant, while you yourself are so lowly? Your mouth is flabby (?), 
-58.	but although your mouth goes all the way round, you cannot see behind you. You are bereft of hips, 
-59.	as also of arms, hands and feet -- try bending your neck to your feet! Your smell is awful; 
-60.	you make people throw up, they sneer at you! No trough would hold the kind of prepared food you eat. 
+58.	but although your mouth goes all the way round, you cannot see behind you. 
+59.	You are bereft of hips, as also of arms, hands and feet -- try bending your neck to your feet! 
+60.	Your smell is awful; you make people throw up, they sneer at you! No trough would hold the kind of prepared food you eat. 
 61.	He who has carried you dare not let his hand touch his skin! In the great marshes and the wide lagoons, 
 62.	I am your persecuting demon. You cannot eat the sweet plants there, as my voice harasses you. 
 63.	You cannot travel with confidence in the river, 
@@ -84,7 +84,7 @@
 66.	Some of your little ones are destined to be my daily offering; 
 67.	you give them to me to allay my hunger. 
 68.	Some of your big ones are just as certainly destined for my banqueting hall …… in the mud. 
-($@gap{1 line unclear}$) 
+$ (@gap{1 line unclear}) 
 
 {70 = 70-79}
 70.	@q{“But I am the beautiful and clever Bird! Fine artistry went into my adornment. 
@@ -151,9 +151,9 @@
 121.	Again Bird replied to Fish: 
 
 {122 = 122-124}
-122.	@q[Bird,Fish]{“You utter fool! Dolt, muddle-headed Fish, you are out of ……! 
-123.	The mouths of those who circle (?) the quay never get enough to eat, and their hunger lasts all day. 
-124.	Swine, rascal, gorging yourself upon your own excrement, you freak!”} 
+122.	@q[Bird,Fish]{“You utter fool! Dolt, muddle-headed Fish, you are out of ……! The mouths of those who circle (?) the quay never get enough to eat, 
+123.	and their hunger lasts all day. Swine, rascal, gorging yourself upon your own excrement, 
+124.	you freak!”} 
 
 {125 = 125-136}
 125.	@q{“You are like a watchman living on the walls (?), ……! 
@@ -188,11 +188,11 @@
 148.	@q[Bird,Culgi]{“You ……, lord of true speech, pay attention to my words! 
 149.	I had put …… and laid eggs there. 
 150.	…… had bestowed …… and had given as their sustenance. 
-151.	After …… had started ……, 
-152.	…… he destroyed my house. He turned my nest of brushwood into a haunted house. 
-153.	He destroyed my house, and tore down my storeroom. He smashed my eggs and threw them into the sea. 
-154.	…… examine what I have said. 
-155.	Return a verdict in my favour.”} 
+151.	After …… had started ……, …… he destroyed my house. 
+152.	He turned my nest of brushwood into a haunted house. 
+153.	He destroyed my house, and tore down my storeroom. 
+154.	He smashed my eggs and threw them into the sea. 
+155.	…… examine what I have said. Return a verdict in my favour.”} 
 156.	…… investigating ……, 
 157.	she prostrated herself to the ground. 
 
@@ -201,8 +201,8 @@
 159.	spoke from the heart: @q{“Your words are sterling words, 
 160.	such as delight the heart.”} 
 161.	@q[Culgi,]{“For how long are @varh[t535.v10]{they } @vart[t535.v11,t535.v10]{@varn{1 ms. has instead:} you } going to persist (?) in quarrelling?”} 
-162.	Like …… came out supreme. 
-163.	Like butting ……, they jostled each other. 
+162.	Like …… came out supreme. Like butting ……, 
+163.	they jostled each other. 
 
 {164 = 164-167}
 164.	@q[Fish,]{“……, let it be favourable to me!”} 
@@ -211,28 +211,20 @@
 167.	and am wise in words.”} He answered Bird and Fish: 
 
 {168 = 168-177}
-168.	@q[Culgi,]{“To strut about in the @wTN{E-kur} is a glory for Bird, as its singing is sweet. 
-169.	At @wDN{Enlil's} holy table, 
-170.	Bird …… precedence over you ……! 
-171.	It shall utter its cries in the temple of the great gods. 
-172.	The @wDN{Anuna} gods rejoice at its voice. 
-173.	It is suitable for banquets in the great dining hall of the gods. 
-174.	It provides good cheer in @varh[t535.v12]{the king's } @vart[t535.v13,t535.v12]{@varn{1 ms. has instead:} @wRN{Šulgi's} } palace. …… with head high, 
-175.	at the table of @wRN{Šulgi}, son of @wDN{Enlil}. The king …… long life. 
-($@gap{1 line fragmentary}$) 
+168.	@q[Culgi,]{“To strut about in the @wTN{E-kur} is a glory for Bird, 
+169.	as its singing is sweet. At @wDN{Enlil's} holy table, Bird …… precedence over you ……! 
+170.	It shall utter its cries in the temple of the great gods. 
+171.	The @wDN{Anuna} gods rejoice at its voice. 
+172.	It is suitable for banquets in the great dining hall of the gods. 
+173.	It provides good cheer in @varh[t535.v12]{the king's } @vart[t535.v13,t535.v12]{@varn{1 ms. has instead:} @wRN{Šulgi's} } palace. …… with head high, 
+174.	at the table of @wRN{Šulgi}, son of @wDN{Enlil}. 
+175.	The king …… long life. 
+$ (@gap{1 line fragmentary}) 
 177.	Fish …… in splendour …….”} 
 
 {178 = 178-190}
 178.	Thereupon Fish …… Bird. 
-179.	($@gap{6 lines missing or fragmentary}$) 
-180.	…… @wDN{Enki} …… bestowed. 
-181.	($@gap{1 line fragmentary}$) 
-182.	In the @fsux{abzu} 
-183.	of @wSN{Eridug} 
-184.	� 
-185.	… Bird ……. 
-186.	Because Bird was victorious over 
-187.	Fish in the 
-188.	dispute between Fish 
-189.	and Bird, 
-190.	Father @wDN{Enki} be praised! 
+$ (@gap{6 lines missing or fragmentary}) 
+185.	…… @wDN{Enki} …… bestowed. 
+$ (@gap{1 line fragmentary}) 
+187.	In the @fsux{abzu} of @wSN{Eridug} …… Bird ……. Because Bird was victorious over Fish in the dispute between Fish and Bird, Father @wDN{Enki} be praised! 

@@ -1,4 +1,5 @@
 #include <oraccsys.h>
+#include <oracclocale.h>
 #include <list.h>
 #include <roco.h>
 #include <memo.h>
@@ -33,14 +34,23 @@ int count_words(Par *p);
 const char *find_closer(const char *p);
 void map_segs(Par *p);
 const char *next_boundary(const char *p, int *nwords, int *b);
-const char *skip_tag_and_arg(const char *p);
-const char *skip_XtoY(const char *p);
 
 static void
 lb_sanity(Par *p)
 {
   static int pass = 0;
-  ++pass;
+  static Hash *seen = NULL;
+  if (!p)
+    {
+      pass = 0;
+      if (seen)
+	hash_free(seen, NULL);
+      seen = hash_create(128);
+      return;
+    }
+  else
+    ++pass;
+  
   int i;
   for (i = 0; i < p->nsegs; ++i)
     {
@@ -56,12 +66,23 @@ lb_sanity(Par *p)
 		  pass, p->t->Q, p->label, i, i);
 	  p->segs[i]->c = p->segs[i]->o;
 	}
+      int ok = u_valid_span((uccp)p->segs[i]->o, (uccp)p->segs[i]->c);
+      if (ok != p->segs[i]->c - p->segs[i]->o)
+	{
+	  if (!hash_find(seen, (uccp)p->label))
+	    {
+	      fprintf(stderr, "lb_sanity[%d]: %s:%s: segs[%d]: invalid UTF-8 at offset %d\n",
+		      pass, p->t->Q, p->label, i, ok);
+	      hash_add(seen, (uccp)p->label, "");
+	    }	  
+	}
     }	
 }
 
 int
 main(int argc, char *const *argv)
 {
+  setlocale(LC_ALL,ORACC_LOCALE);
   segmem = memo_init(sizeof(Seg), 32);
   lbfn = argv[1];
   fprintf(stderr, "lb: processing %s\n", lbfn);
@@ -98,6 +119,7 @@ main(int argc, char *const *argv)
 	    continue;
 	}
       map_segs(&tp->pars[i]);
+      lb_sanity(NULL);
       lb_sanity(&tp->pars[i]);
       if (tp->pars[i].segs)
 	{
@@ -166,12 +188,18 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 
   *ignored = 0;
   
-  /* Ignore approx values; also any @gap[-]{ ... is to be ignored */
-  if (']' == s[-1] && '-' == s[-2])
-    *ignored = 1;
-
+  /* Ignore approx values */
   if (!strncmp(s, "{approx", strlen("{approx")))
     *ignored = 2;
+
+  /* [+] and [-] override previous ignored value */
+  if (']' == s[-1])
+    {
+      if ('-' == s[-2])
+	*ignored = 1;
+      else if ('+' == s[-2])
+	*ignored = 0;
+    }	
 
   if (!*ignored)
     {
@@ -247,7 +275,7 @@ map_segs(Par *par)
 	  p = next_boundary(p, &s->w, &s->b);
 	  if (p)
 	    {
-	      if (s->w || (CTRL_X == *start && strncmp(p+1, "@gap", 4)))
+	      if (s->w || (CTRL_X == *start && strncmp(start+1, "@gap", 4)))
 		{
 		  s->o = start;
 		  s->c = p;
@@ -262,7 +290,11 @@ map_segs(Par *par)
 		  if (ignored)
 		    {
 		      /* concatenate the ignored @gap to the end of the previous segment */
-		      s->c = p;
+		      Seg *prev = list_last(l);
+		      p = lb_skip_XtoY(p);
+		      prev->c = p-1;
+		      if (*p)
+			++p;
 		    }
 		}
 	      else if (*p)
@@ -372,7 +404,7 @@ next_boundary(const char *p, int *nwords, int *b)
 	  p += 3;
 	}
       else if ('@' == *p)
-	p = skip_tag_and_arg(++p);
+	p = lb_skip_tag_and_arg(++p);
       else if (CTRL_X == *p)
 	{
 	  if (p > start && isspace(p[-1]))
@@ -396,7 +428,7 @@ next_boundary(const char *p, int *nwords, int *b)
 	      return p;
 	    }
 	  else
-	    p = skip_XtoY(p);
+	    p = lb_skip_XtoY(p);
 	}
       else if (*p)
 	{
@@ -421,36 +453,6 @@ next_boundary(const char *p, int *nwords, int *b)
       else
 	return NULL;
     }
-}
-
-const char *
-skip_tag_and_arg(const char *p)
-{
-  while (isalpha(*p))
-    ++p;
-  if ('[' == *p)
-    {
-      while (*p && ']' != *p)
-	++p;
-      if (*p)
-	++p;
-    }
-  if ('{' == *p)
-    ++p;
-  /* @-commands are usually followed by whitespace but they don't count as words */
-  while (isspace(*p))
-    ++p;
-  return p;
-}
-
-/* Skip from \cX..\cY
- */
-const char *
-skip_XtoY(const char *p)
-{
-  while (*p && CTRL_Y != *p)
-    ++p;
-  return *p ? ++p : p;
 }
 
 void

@@ -32,7 +32,7 @@
 23.	who decrees the fates. What is your name?”} 
 
 {24 = 24-27}
-24.	@q[Nam-zid-tara,Enlil]{“My name is @wPN{Nam-zid-tara} (Well-blessed).”} @q[Enlil,Nam-zid-tara]{“Your fate shall be assigned according to your name: 
-25.	leave the house of your master, 
-26.	and your heirs shall come 
-27.	and go regularly in my temple.”} 
+@q[Nam-zid-tara,Enlil]{“My name is @wPN{Nam-zid-tara} (Well-blessed).”} @q[Enlil,Nam-zid-tara]{“Your fate shall be assigned according to your name: 
+leave the house of your master, 
+and your heirs shall come 
+and go regularly in my temple.”} 

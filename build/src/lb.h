@@ -116,6 +116,9 @@ extern void lb_tra_report(FILE *fp, Tra *t);
 extern void lb_vari(Par *p);
 extern void lb_merge_segs(Par *p, int m);
 
+extern const char *lb_skip_tag_and_arg(const char *p);
+extern const char *lb_skip_XtoY(const char *p);
+
 #endif/*LB_H*/
 
 

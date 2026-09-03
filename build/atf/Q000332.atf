@@ -1,6 +1,6 @@
 &Q000332 = Enki and Ninḫursaŋa
 @composite
-#project: ucsl/etcsl
+#project: etcslatf/inter
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.1.1
@@ -13,16 +13,17 @@
 
 2. ki-en-gi kug-ga e-ne ba-am₃-me-en-ze₂-en kur dilmun{ki} kug-ga-am₃
 #lem: Kengir[1]; kug[pure]; ane[he]; ba[allot]; kur[mountain(s)]; Dilmun[1]GN; kug[pure]
-#tr.en: Pure is @wGN{Sumer} -- and you are the ones to whom it is allotted. Pure is @wGN{Dilmun} land. Pure is @wGN{Dilmun} land. 
+#tr.en: Pure is @wGN{Sumer} -- and you are the ones to whom it is allotted. Pure is @wGN{Dilmun} land. 
 #etcsl: line-id=2
 
 3. kur dilmun{ki} kug-ga-am₃ kur dilmun sikil-am₃
 #lem: kur[mountain(s)]; Dilmun[1]GN; kug[pure]; kur[mountain(s)]; Dilmun[1]GN; sikil[pure]
-#tr.en: Virginal is @wGN{Dilmun} land. Virginal is @wGN{Dilmun} land. Pristine is @wGN{Dilmun} land. 
+#tr.en: Pure is @wGN{Dilmun} land. Virginal is @wGN{Dilmun} land. 
 #etcsl: line-id=3
 
 4. kur dilmun{ki} sikil-am₃ kur dilmun{ki} dadag-ga-am₃
 #lem: kur[mountain(s)]; Dilmun[1]GN; sikil[pure]; kur[mountain(s)]; Dilmun[1]GN; dadag[bright]
+#tr.en: Virginal is @wGN{Dilmun} land. Pristine is @wGN{Dilmun} land. 
 #etcsl: line-id=4
 
 5. dili-ni-ne dilmun{ki}-a u₃-bi₂-in-nu₂
@@ -102,32 +103,32 @@
 
 20. igi-gig-e igi-gig-me-en nu-mu-ni-be₂
 #lem: igigig[eye disease]; igigig[eye disease]; e[speak]
-#tr.en: No eye-diseases said there: @q[eye disease,self]{“I am the eye disease.”} No headache said there: @q[headache,self]{“I am the headache.”} 
+#tr.en: No eye-diseases said there: @q[eye disease,self]{“I am the eye disease.”} 
 #etcsl: line-id=20
 
 21. saŋ-gig-e saŋ-gig-me-en nu-mu-ni-be₂
 #lem: saŋgig[headache]; saŋgig[headache]; e[speak]
-#tr.en: No old woman belonging to it said there: @q[old woman,self]{“I am an old woman.”} 
+#tr.en: No headache said there: @q[headache,self]{“I am the headache.”} 
 #etcsl: line-id=21
 
 22. um-ma-bi um-ma-me-en nu-mu-ni-be₂
 #lem: umma[old woman]; umma[old woman]; e[speak]
-#tr.en: No old man belonging to it said there: @q[old man,self]{“I am an old man.”} 
+#tr.en: No old woman belonging to it said there: @q[old woman,self]{“I am an old woman.”} 
 #etcsl: line-id=22
 
 23. ab-ba-bi ab-ba-me-en nu-mu-ni-be₂
 #lem: abba[father]; abba[father]; e[speak]
-#tr.en: No maiden in her unwashed state …… in the city. 
+#tr.en: No old man belonging to it said there: @q[old man,self]{“I am an old man.”} 
 #etcsl: line-id=23
 
 24. ki-sikil a nu-tu₅-a-ni iri-a nu-mu-ni-ib-sig₁₀-ge
 #lem: kisikil[young woman]; a[water]; tu[cvve]; iri[city]; sig[put into]
-#tr.en: No man dredging a river said there: 
+#tr.en: No maiden in her unwashed state …… in the city. 
 #etcsl: line-id=24
 
 25. lu₂ id₂-da bal-e ŋi₆-de₃ nu-mu-ni-be₂
 #lem: lu[person]; id[river]; bala[turn]; ŋi[night]; e[speak]
-#tr.en: @q[man,self]{“It is getting dark.”} 
+#tr.en: No man dredging a river said there: @q[man,self]{“It is getting dark.”} 
 #etcsl: line-id=25
 
 26. niŋir-e zag-ga-na nu-um-niŋin₂-niŋin₂
@@ -260,17 +261,17 @@ $ 3 lines missing
 
 49E. ma₂ gal-gal hu-mu-ra-ab-sa₂
 #lem: ma[ship]; gal[big]; sa[equal]
-#tr.en: May the land of @wGN{Marḫaši} yield you precious stones, topazes. 
+#tr.en: May the land of @wGN{Marḫaši} yield you precious stones, 
 #etcsl: line-id=49E
 
 49F. kur mar-ha-ši{ki} na₄ kal-la {na₄}du₈#-[ši-a]
 #lem: kur[mountain(s)]; Marhaši[1]GN; na[stone weight]; kal[rare]; dušia[stone]
-#tr.en: May the land of @wGN{Magan} offer you strong, powerful copper, 
+#tr.en: topazes. May the land of @wGN{Magan} offer you strong, 
 #etcsl: line-id=49F
 
 49G. gaba hu-mu-ra-ab-[...]
 #lem: gaba[breast]; X
-#tr.en: dolerite, @fsux{u} stone and @fsux{šumin} stone. 
+#tr.en: powerful copper, dolerite, @fsux{u} stone and @fsux{šumin} stone. 
 #etcsl: line-id=49G
 
 49H. kur ma₂-gan{ki} urud niŋ₂ kalag-ga usu-X
@@ -287,27 +288,27 @@ $ 3 lines missing
 
 49K. kur ab-ba{ki}-ke₄ {ŋiš}esi me-te-bi# [...] lugal-la hu-mu-ra-ab-[...] X
 #lem: kur[mountain(s)]; Abba[1]GN; esi[tree]; mete[appropriate thing]; X; lugal[king]; X; X
-#tr.en: May the land of @wGN{Elam} hand over to you choice wools, its tribute. 
+#tr.en: May the land of @wGN{Elam} hand over to you choice wools, 
 #etcsl: line-id=49K
 
 49L. kur za-lam-ŋar{ki} siki gun₃!(IŠ) sag₉-ga [...] hu-mu-ra-ab-[...]
 #lem: kur[mountain(s)]; Tentland[1]GN; siki[hair]; gunu[speckled]; sag[good]; X; X
-#tr.en: May the manor of @wSN{Urim}, the royal throne dais, 
+#tr.en: its tribute. May the manor of @wSN{Urim}, the royal throne dais, 
 #etcsl: line-id=49L
 
 49M. kur elam{ki}-ma siki igi saŋ₅ gu₂-un#-[gu₂-un] hu-mu-ra-ab-bal-[bal-e]
 #lem: kur[mountain(s)]; Elam[1]GN; siki[hair]; igi[eye]; saŋ[choose]; gun[load]; bala[turn]
-#tr.en: the city ……, 
+#tr.en: the city ……, load up into large ships for you sesame, 
 #etcsl: line-id=49M
 
 49N. eš₃ urim₂{ki} barag nam-lugal-la iri{ki#} [...]
 #lem: eš[shrine]; Urim[1]SN; barag[sanctum]; namlugal[kingship]; iri[city]; X
-#tr.en: load up into large ships for you sesame, 
+#tr.en: august raiment, 
 #etcsl: line-id=49N
 
 49O. še-i₃-ŋiš tug₂ mah tug₂ sag₁₀ ma₂ gal-[gal] hu-mu-ra-ab-[sa₂]
 #lem: šeŋeši[sesame seed]; tug[textile]; mah[great]; tug[textile]; sag[good]; ma[ship]; gal[big]; sa[equal]
-#tr.en: august raiment, and fine cloth. 
+#tr.en: and fine cloth. 
 #etcsl: line-id=49O
 
 49P. a-ab-ba daŋal-la he₂-ŋal₂-bi hu-mu#-[...]
@@ -378,37 +379,37 @@ $ 3 lines missing
 
 56. iri-ni a he₂-ŋal₂-la im-ta-na₈-na₈
 #lem: iri[city]; a[water]; heŋal[plenty]; naŋ[drink]
-#tr.en: Her city drank water aplenty from them. @wGN{Dilmun} drank water aplenty from them. 
+#tr.en: Her city drank water aplenty from them. 
 #etcsl: line-id=56
 
 57. dilmun{ki} a he₂-<ŋal₂-la im-ta-na₈-na₈>
 #lem: Dilmun[1]GN; a[water]; heŋal[plenty]; naŋ[drink]
-#tr.en: Her pools of salt water indeed became pools of fresh water. 
+#tr.en: @wGN{Dilmun} drank water aplenty from them. 
 #etcsl: line-id=57
 
 58. pu₂ a sis-a-ni <pu₂> a dug₃-ga na-nam
 #lem: pu[cistern]; a[water]; ses[bitter]; pu[cistern]; a[water]; dug[good]; me[be]
-#tr.en: Her fields, glebe and furrows indeed produced grain for her. 
+#tr.en: Her pools of salt water indeed became pools of fresh water. 
 #etcsl: line-id=58
 
 59. a-šag₄ a-gar₃ ab-sin₂-a-ni še mu-na-ab-X#-šum₂#
 #lem: ašag[field]; agar[meadow]; absin[furrow]; še[barley]; šum[give]
-#tr.en: Her city indeed became an emporium on the quay for the Land. 
+#tr.en: Her fields, glebe and furrows indeed produced grain for her. 
 #etcsl: line-id=59
 
 60. iri-ni e₂-gun₂ kar-ra kalam-ma-ka na-nam
 #lem: iri[city]; egun[storeroom]; kar[harbor]; kalam[the Land (of Sumer)]; me[be]
-#tr.en: @wGN{Dilmun} indeed became an emporium on the quay for the Land. 
+#tr.en: Her city indeed became an emporium on the quay for the Land. 
 #etcsl: line-id=60
 
 61. dilmun{ki} e₂-gun₂ <kar-ra kalam-ma-ka na-nam>
 #lem: Dilmun[1]GN; egun[storeroom]; kar[harbor]; kalam[the Land (of Sumer)]; me[be]
-#tr.en: At that moment, on that day, 
+#tr.en: @wGN{Dilmun} indeed became an emporium on the quay for the Land. 
 #etcsl: line-id=61
 
 62. i₃-ne-eš₂ {d}utu ud ne-a ur₅ he₂-na-nam-ma
 #lem: ineš[now]; Utu[1]DN; ud[sun]; nen[this]; ur[that]; me[be]
-#tr.en: and under that sun, so it indeed happened. 
+#tr.en: At that moment, on that day, and under that sun, so it indeed happened. 
 #etcsl: line-id=62
 
 63. dili-ni {{%x TAR}} ŋeštug₂-ge tuku-a {d}nin-tur₅ ama kalam-ma-še₃
@@ -443,32 +444,32 @@ $ 3 lines missing
 
 69. {d}en-ki-ke₄ gu₃ bi₂-in-de₂
 #lem: Enkik[1]DN; gu[voice]; de[pour]
-#tr.en: @wDN{Enki} cried out: 
+#tr.en: @wDN{Enki} cried out: @q[Enki,Nintur]{“By the life's breath of heaven I adjure you. 
 #etcsl: line-id=69
 
 70. zi an-na i₃-pad₃
 #lem: zi[life]; an[sky]; pad[find]
-#tr.en: @q[Enki,Nintur]{“By the life's breath of heaven I adjure you. 
+#tr.en: Lie down for me in the marsh, lie down for me in the marsh, 
 #etcsl: line-id=70
 
 71. nu₂-a ambar-ra nu₂-a ambar-ra giri₁₇-zal
 #lem: nud[lie down]; ambar[reed-bed]; nud[lie down]; ambar[reed-bed]; kirizal[joy]
-#tr.en: Lie down for me in the marsh, 
+#tr.en: that would be joyous.”} 
 #etcsl: line-id=71
 
 72. {d}en-ki-ke₄ a {d}dam-gal-nun-na-ka-ni mi-ni-in-dug₄
 #lem: Enkik[1]DN; a[water]; Damgalnunak[1]DN; dug[speak]
-#tr.en: lie down for me in the marsh, that would be joyous.”} 
+#tr.en: @wDN{Enki} distributed his semen destined for @wDN{Damgalnuna}. 
 #etcsl: line-id=72
 
 73. {d}nin-hur-saŋ-ŋa₂-ke₄ a šag₄-ga ba-ni-in-ri
 #lem: Ninhursaŋak[1]DN; a[water]; šag[heart]; ri[impose]
-#tr.en: @wDN{Enki} distributed his semen destined for @wDN{Damgalnuna}. 
+#tr.en: He poured semen into @wDN{Ninḫursaŋa's} womb and she conceived the semen in the womb, 
 #etcsl: line-id=73
 
 74. a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
 #lem: a[water]; šag[heart]; šu[hand]; teŋ[approach]; a[water]; Enkik[1]DN
-#tr.en: He poured semen into @wDN{Ninḫursaŋa's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+#tr.en: the semen of @wDN{Enki}. 
 #etcsl: line-id=74
 
 75. ud 1-am₃ itid 1-a-ni
@@ -563,22 +564,22 @@ $ 3 lines missing
 
 93. sukkal-a-ni {d}isimud₄-de₃ mu-na-ni-ib-gi₄-gi₄
 #lem: sukkal[secretary]; Isimud[1]DN; gi[turn]
-#tr.en: @q[Isimud,Enki]{“Is this nice youngster not to be kissed? 
+#tr.en: @q[Isimud,Enki]{“Is this nice youngster not to be kissed? Is this nice @wDN{Ninnisig} not to be kissed? 
 #etcsl: line-id=93
 
 94. lu₂-tur sag₉-ga-e ne nu-mu-un-su-ub-be₂
 #lem: lutur[child]; sag[good]; ne[cvne]; sub[rub]
-#tr.en: Is this nice @wDN{Ninnisig} not to be kissed? 
+#tr.en: My master will sail, let me navigate. 
 #etcsl: line-id=94
 
 95. {d}nin-nisig sag₉-<ga-e ne nu-mu-un-su-ub-be₂>
 #lem: Nin.SAR[0]DN; sag[good]; ne[cvne]; sub[rub]
-#tr.en: My master will sail, let me navigate. 
+#tr.en: He will sail, 
 #etcsl: line-id=95
 
 96. lugal-ŋu₁₀ im-dirig ga-ri im-dirig ga-ri
 #lem: lugal[king]; dirig[make more than]; ri[impose]; dirig[make more than]; ri[impose]
-#tr.en: He will sail, let me navigate.”} 
+#tr.en: let me navigate.”} 
 #etcsl: line-id=96
 
 97. ŋiri₃-ni 1-a {ŋiš}ma₂-a bi₂-in-gub
@@ -598,42 +599,42 @@ $ 3 lines missing
 
 100. {d}en-ki-ke₄ a šag₄-ga ba-ni-in-ri
 #lem: Enkik[1]DN; a[water]; šag[heart]; ri[impose]
-#tr.en: @wDN{Enki} poured semen into the womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+#tr.en: @wDN{Enki} poured semen into the womb and she conceived the semen in the womb, 
 #etcsl: line-id=100
 
 101. a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
 #lem: a[water]; šag[heart]; šu[hand]; teŋ[approach]; a[water]; Enkik[1]DN
-#tr.en: But her one month was one day, but her two months were two days, 
+#tr.en: the semen of @wDN{Enki}. But her one month was one day, 
 #etcsl: line-id=101
 
 102. ud 1-am₃ itid 1-am₃
 #lem: ud[sun]; n; itud[moon]; n
-#tr.en: but her nine months were nine days. In the month of womanhood, 
+#tr.en: but her two months were two days, but her nine months were nine days. 
 #etcsl: line-id=102
 
 103. ud 2-am₃ itid 2-am₃
 #lem: ud[sun]; n; itud[moon]; n
-#tr.en: like fine (?) oil, like fine (?) oil, like oil of abundance, 
+#tr.en: In the month of womanhood, like fine (?) oil, 
 #etcsl: line-id=103
 
 104. ud 9-am₃ itid 9-am₃ itid nam-munus-a-ka
 #lem: ud[sun]; n; itud[moon]; n; itud[moon]; nammunus[femininity]
-#tr.en: @wDN{Ninnisig}, 
+#tr.en: like fine (?) oil, like oil of abundance, @wDN{Ninnisig}, 
 #etcsl: line-id=104
 
 105. i₃ li-[gin₇ i₃] li-gin₇ i₃-he-nun-na-gin₇
 #lem: i[oil]; lib[high quality]; i[oil]; lib[high quality]; ihenunak[precious oil]
-#tr.en: like fine (?) oil, 
+#tr.en: like fine (?) oil, like fine (?) oil, 
 #etcsl: line-id=105
 
 106. {[d]}[nin-nisig i₃] li#-<gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇>
 #lem: Nin.SAR[0]DN; i[oil]; lib[high quality]; i[oil]; lib[high quality]; ihenunak[precious oil]
-#tr.en: like fine (?) oil, 
+#tr.en: like oil of abundance, 
 #etcsl: line-id=106
 
 107. {d}nin-[kur-ra] in-tu-ud
 #lem: Ninkurak[1]DN; utud[give birth (to)]
-#tr.en: like oil of abundance, gave birth to @wDN{Ninkura}. 
+#tr.en: gave birth to @wDN{Ninkura}. 
 #etcsl: line-id=107
 
 108. {d}nin-kur-ra# [gu₂ id₂-da-ke₄ še₃-mi-ni-ib-e₃]
@@ -643,38 +644,42 @@ $ 3 lines missing
 
 109. {d}en-ki-ke₄ ambar-ra im-[da-la₂ e-ne im-da-la₂ e-ne]
 #lem: Enkik[1]DN; ambar[reed-bed]; la[hang]; ane[he]; la[hang]; ane[he]
-#tr.en: @wDN{Enki} was able to see up there from in the marsh, he was able to see up there, he was. 
+#tr.en: @wDN{Enki} was able to see up there from in the marsh, 
 #etcsl: line-id=109
 
 110. sukkal-a-ni {d}isimud₄-de₃ [gu₃ mu-na-de₂-e]
 #lem: sukkal[secretary]; Isimud[1]DN; gu[voice]; de[pour]
-#tr.en: He said to his minister @wDN{Isimud}: @q[Enki,Isimud]{“Is this nice youngster not to be kissed? Is this nice @wDN{Ninkura} not to kissed?”} His minister @wDN{Isimud} answered him: @q[Isimud,Enki]{“Kiss this nice youngster. Kiss this nice @wDN{Ninkura}. 
+#tr.en: he was able to see up there, he was. 
 #etcsl: line-id=110
 
 111. lu₂-tur sag₉-ga-e ne nu-mu-un-[su-ub-be₂]
 #lem: lutur[child]; sag[good]; ne[cvne]; sub[rub]
-#tr.en: My master will sail, let me navigate. 
+#tr.en: He said to his minister @wDN{Isimud}: 
 #etcsl: line-id=111
 
 112. {d}nin-kur-ra sag₉-ga-e ne nu-mu-un-su-ub-be₂
 #lem: Ninkurak[1]DN; sag[good]; ne[cvne]; sub[rub]
-#tr.en: He will sail, let me navigate.”} 
+#tr.en: @q[Enki,Isimud]{“Is this nice youngster not to be kissed? 
 #etcsl: line-id=112
 
 113. sukkal-a-ni {d}isimud₄-de₃ mu-na-ni-ib-gi₄-gi₄
 #lem: sukkal[secretary]; Isimud[1]DN; gi[turn]
+#tr.en: Is this nice @wDN{Ninkura} not to kissed?”} His minister @wDN{Isimud} answered him: 
 #etcsl: line-id=113
 
 114. lu₂-tur sag₉-ga-e ne su-ub-bu-ma-ni
 #lem: lutur[child]; sag[good]; ne[cvne]; sub[rub]
+#tr.en: @q[Isimud,Enki]{“Kiss this nice youngster. Kiss this nice @wDN{Ninkura}. 
 #etcsl: line-id=114
 
 115. {d}nin-kur-ra sag₉-ga-e ne su-ub-bu-ma-ni
 #lem: Ninkurak[1]DN; sag[good]; ne[cvne]; sub[rub]
+#tr.en: My master will sail, let me navigate. He will sail, 
 #etcsl: line-id=115
 
 116. lugal-ŋu₁₀ im-dirig ga-ri im-dirig ga-ri
 #lem: lugal[king]; dirig[make more than]; ri[impose]; dirig[make more than]; ri[impose]
+#tr.en: let me navigate.”} 
 #etcsl: line-id=116
 
 117. ŋiri₃-ni 1-a {ŋiš}ma₂-a bi₂-in-gub
@@ -694,37 +699,37 @@ $ 3 lines missing
 
 120. {d}en-ki-ke₄ a šag₄ ba-ni-in-ri
 #lem: Enkik[1]DN; a[water]; šag[heart]; ri[impose]
-#tr.en: @wDN{Enki} poured semen into the womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+#tr.en: @wDN{Enki} poured semen into the womb and she conceived the semen in the womb, 
 #etcsl: line-id=120
 
 121. a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
 #lem: a[water]; šag[heart]; šu[hand]; teŋ[approach]; a[water]; Enkik[1]DN
-#tr.en: But her one month was one day, but her nine months were nine days. 
+#tr.en: the semen of @wDN{Enki}. But her one month was one day, 
 #etcsl: line-id=121
 
 122. ud 1-am₃ itid 1-a-ni
 #lem: ud[sun]; n; itud[moon]; n
-#tr.en: In the month of womanhood, like fine (?) oil, 
+#tr.en: but her nine months were nine days. In the month of womanhood, 
 #etcsl: line-id=122
 
 123. ud 9-am₃ itid 9-a-ni itid nam-munus-a-[ka]
 #lem: ud[sun]; n; itud[moon]; n; itud[moon]; nammunus[femininity]
-#tr.en: like fine (?) oil, like oil of abundance, @wDN{Ninkura}, 
+#tr.en: like fine (?) oil, like fine (?) oil, like oil of abundance, 
 #etcsl: line-id=123
 
 124. i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-[na-gin₇]
 #lem: i[oil]; lib[high quality]; i[oil]; lib[high quality]; ihenunak[precious oil]
-#tr.en: like fine (?) oil, like fine (?) oil, 
+#tr.en: @wDN{Ninkura}, like fine (?) oil, like fine (?) oil, like oil of abundance, 
 #etcsl: line-id=124
 
 125. {d}nin-kur-ra i₃ li-<gin₇ i₃ li-gin₇ i₃-he-nun-na>
 #lem: Ninkurak[1]DN; i[oil]; lib[high quality]; i[oil]; lib[high quality]; ihenunak[precious oil]
-#tr.en: like oil of abundance, 
+#tr.en: gave birth to @wDN{Uttu}, 
 #etcsl: line-id=125
 
 126. {d}uttu munus NI-buluŋ₃ in-[tu-ud]
 #lem: Uttuk[1]DN; munus[woman]; buluŋ[grow]; utud[give birth (to)]
-#tr.en: gave birth to @wDN{Uttu}, the exalted (?) woman. 
+#tr.en: the exalted (?) woman. 
 #etcsl: line-id=126
 
 @variants
@@ -732,48 +737,52 @@ $ 3 lines missing
 #etcsl#ms insertion point for additional lines in a ms. of unknown origin:
 126A. {d}nin-kur-ra {d}nin-imma₃ ši-im-ma#-[an-tu-ud]
 #lem: Ninkurak[1]DN; Ninimma[1]DN; utud[give birth (to)]
-#tr.en: 595=@wDN{Ninkura} in turn gave birth to @wDN{Ninimma}. 
+#tr.en: @wDN{Ninkura} in turn gave birth to @wDN{Ninimma}. 
 #etcsl: line-id=126A
 
 126B. lu₂-tur i₃-buluŋ₃-e ul im-ma-an-[ti]
 #lem: lutur[child]; buluŋ[grow]; ul[swell]; teŋ[approach]
-#tr.en: 599=and made her flourish. 
+#tr.en: She brought the child up and made her flourish. 
 #etcsl: line-id=126B
 
 126C. {d}nin-imma₃ gu₂ id₂-da-kam še₃#-em-mi-[...]
 #lem: Ninimma[1]DN; gu[neck]; id[river]; X
-#tr.en: 603=@wDN{Ninimma} in turn went out to the riverbank. 
+#tr.en: @wDN{Ninimma} in turn went out to the riverbank. 
 #etcsl: line-id=126C
 
 126D. {d}en-ki-ke₄ ma₂-ta im-ta-gid₂-de₃ im-da-la₂ X [...]
 #lem: Enkik[1]DN; ma[ship]; gid[long]; la[hang]; X; X
-#tr.en: 607=@wDN{Enki} was towing his boat along and was able to see up there, ……. 
+#tr.en: @wDN{Enki} was towing his boat along and was able to see up there, 
 #etcsl: line-id=126D
 
 126E. {d}nin-imma₃ gu₂ id₂-da-kam igi <im>-ma-ni-in-X-[...]
 #lem: Ninimma[1]DN; gu[neck]; id[river]; igi[eye]; X
-#tr.en: 611=@q[Isimud,Enki]{“My master will sail, let me navigate. 
+#tr.en: ……. 
 #etcsl: line-id=126E
 
 126F. sukkal-a-ni {d}isimudₓ(ENKUM)-ra gu₃ mu-na-de₂#-[e]
 #lem: sukkal[secretary]; Isimud[1]DN; gu[voice]; de[pour]
-#tr.en: 615=He will sail, let me navigate.”} 
+#tr.en: He laid eyes on @wDN{Ninimma} on the riverbank and said to his minister @wDN{Isimud}: 
 #etcsl: line-id=126F
 
 126G. lu₂-tur sag₉-ga-gin₇ ŋe₂₆-e ne nam-in-su-ub
 #lem: lutur[child]; sag[good]; ŋaʾe[I]; ne[cvne]; sub[rub]
+#tr.en: @q[Enki,Isimud]{“Have I ever kissed one like this nice youngster? 
 #etcsl: line-id=126G
 
 126H. {d}nin-imma₃ sag₉-ga-gin₇ ŋe₂₆-e ŋiš₃ nam-in-du₃
 #lem: Ninimma[1]DN; sag[good]; ŋaʾe[I]; ŋeš[penis]; du[build]
+#tr.en: Have I ever made love to one like nice @wDN{Ninimma}?”} 
 #etcsl: line-id=126H
 
 126I. sukkal-a-ni {d}isimudₓ(ENKUM)-e mu-na-ni-ib-gi₄-gi₄
 #lem: sukkal[secretary]; Isimud[1]DN; gi[turn]
+#tr.en: His minister @wDN{Isimud} answered him: @q[Isimud,Enki]{“My master will sail, 
 #etcsl: line-id=126I
 
 126K. lugal-ŋu₁₀ i-im-dirig ga-ri i-im-dirig ga-ri
 #lem: lugal[king]; dirig[make more than]; ri[impose]; dirig[make more than]; ri[impose]
+#tr.en: let me navigate. He will sail, 
 #etcsl: line-id=126K
 
 126L. ŋiri₃-ni 1-am₃ ma₂-a bi₂-gub
@@ -783,27 +792,27 @@ $ 3 lines missing
 
 126M. 2-kam-ma-am₃ bar-rim₄-ma u₃-bi₂-gub
 #lem: n; barim[dry land]; gub[stand]
-#tr.en: next he put them on dry land. 
+#tr.en: next he put them on dry land. He clasped her to the bosom, 
 #etcsl: line-id=126M
 
 126N. gaba šu im-mi-in-dab₅ ur₂-ra-na nu₂-a
 #lem: gaba[breast]; šu[hand]; dab[seize]; ur[root]; nud[lie down]
-#tr.en: He clasped her to the bosom, 
+#tr.en: lying in her crotch, 
 #etcsl: line-id=126N
 
 126O. lu₂-tur ŋiš₃ im-mi-in-dug₄ ne im-ma-ni-in-su-[ub]
 #lem: lutur[child]; ŋeš[penis]; dug[speak]; ne[cvne]; sub[rub]
-#tr.en: lying in her crotch, 
+#tr.en: made love to the youngster and kissed her. 
 #etcsl: line-id=126O
 
 126P. {d}en-ki-ke₄ {d}nin-imma₃ a šag₄ mu-ni-in-ri
 #lem: Enkik[1]DN; Ninimma[1]DN; a[water]; šag[heart]; ri[impose]
-#tr.en: made love to the youngster and kissed her. 
+#tr.en: @wDN{Enki} poured semen into @wDN{Ninimma's} womb and she conceived the semen in the womb, 
 #etcsl: line-id=126P
 
 126Q. a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-kam
 #lem: a[water]; šag[heart]; šu[hand]; teŋ[approach]; a[water]; Enkik[1]DN
-#tr.en: @wDN{Enki} poured semen into @wDN{Ninimma's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+#tr.en: the semen of @wDN{Enki}. 
 #etcsl: line-id=126Q
 
 126R. munus-e ud 1-bi itid 1-bi na-nam
@@ -1006,12 +1015,12 @@ $ 4 lines missing
 
 169. e₂-na al-dub₂-dub₂-e ŋal₂-u₃ [ŋal₂-u₃]
 #lem: e[house]; dub[tremble]; ŋal[open]; ŋal[open]
-#tr.en: knocked at her house (demanding): @q[Enki,Uttu]{“Open up, open up.”} 
+#tr.en: knocked at her house (demanding): @q[Enki,Uttu]{“Open up, 
 #etcsl: line-id=169
 
 170. a-ba-me-en za-e-me-en
 #lem: aba[who?]; zaʾe[you]
-#tr.en: : @q[Uttu,Enki]{“Who are you?”} @q[Enki,Uttu]{“I am a gardener. 
+#tr.en: open up.”} : @q[Uttu,Enki]{“Who are you?”} @q[Enki,Uttu]{“I am a gardener. 
 #etcsl: line-id=170
 
 171. ŋe₂₆-e nu-{ŋiš}kiri₆ ukuš₂ {ŋiš}hašhur {[ŋiš]}[ŋeštin] he₂-am₃-še₃ ga-mu-ra-ab-šum₂
@@ -1065,42 +1074,42 @@ $ 4 lines missing
 
 180. gaba šu im-mi-in-dab ur₂-ra-na nu₂-a
 #lem: gaba[breast]; šu[hand]; dab[seize]; ur[root]; nud[lie down]
-#tr.en: lying in her crotch, fondled her thighs, 
+#tr.en: lying in her crotch, fondled her thighs, fondled her with the hand. 
 #etcsl: line-id=180
 
 181. haš₂ mu-un-tag-tag-ge šu mu-un-tag-tag-ge
 #lem: haš[thigh]; tag[touch]; šu[hand]; tag[touch]
-#tr.en: fondled her with the hand. 
+#tr.en: He clasped her to the bosom, 
 #etcsl: line-id=181
 
 182. gaba šu im-mi-in-dab₅ ur₂-ra-na nu₂-a
 #lem: gaba[breast]; šu[hand]; dab[seize]; ur[root]; nud[lie down]
-#tr.en: He clasped her to the bosom, 
+#tr.en: lying in her crotch, 
 #etcsl: line-id=182
 
 183. lu₂-tur ŋiš₃ im-in-du₃ ne im-ma-ni-in-su-ub
 #lem: lutur[child]; ŋeš[penis]; du[build]; ne[cvne]; sub[rub]
-#tr.en: lying in her crotch, 
+#tr.en: made love to the youngster and kissed her. 
 #etcsl: line-id=183
 
 184. {d}en-ki-ke₄ {d}uttu a šag₄ mu-ni-in-ri
 #lem: Enkik[1]DN; Uttuk[1]DN; a[water]; šag[heart]; ri[impose]
-#tr.en: made love to the youngster and kissed her. 
+#tr.en: @wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb, 
 #etcsl: line-id=184
 
 185. a šag₄-ga šu ba-ši-in-ti a {d}en-ki-ka₃-kam
 #lem: a[water]; šag[heart]; šu[hand]; teŋ[approach]; a[water]; Enkik[1]DN
-#tr.en: @wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
+#tr.en: the semen of @wDN{Enki}. 
 #etcsl: line-id=185
 
 186. {d}uttu munus sag₉-ga a₂ haš₂-ŋu₁₀ im-me a₂ bar-ŋu₁₀ a₂ %e ša₃-ba-ŋu₁₀ %s im-[me]
 #lem: Uttuk[1]DN; munus[woman]; sag[good]; aya[cry]; haš[thigh]; dug[speak]; aya[cry]; bar[outside]; aya[cry]; šab[heart]N; dug[speak]
-#tr.en: @wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} 
+#tr.en: @wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} She cried out: @q[Uttu,self]{“Woe, my body. 
 #etcsl: line-id=186
 
 187. {d}nin-hur-saŋ-ŋa₂ a haš₂-ta ba-an-tag-tag
 #lem: Ninhursaŋak[1]DN; aya[cry]; haš[thigh]; tag[touch]
-#tr.en: She cried out: @q[Uttu,self]{“Woe, my body. Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs. 
+#tr.en: Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs. 
 #etcsl: line-id=187
 
 $ (2 lines fragmentary)
