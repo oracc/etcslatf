@@ -243,12 +243,12 @@
 918=210.	bowl and they surrounded him at its scent. 
 922=211.	He hurled throw-sticks in the nether world and  
 926=212.	those struck down by the throw-sticks surrounded him. 
-930=213.	He held a cornel-wood stick in his  
-934=214.	hand and the spirits felt insulted by him. 
+930=213.	He held a cornel-wood stick in his hand  
+934=214.	and the spirits felt insulted by him. 
 938=215.	He put sandals on his feet. 
 942=216.	He caused irritation in the nether world. 
-946=217.	He kissed his beloved wife and hit  
-950=218.	his wife when he was annoyed with her. 
+946=217.	He kissed his beloved wife and hit his  
+950=218.	wife when he was annoyed with her. 
 954=219.	He kissed his beloved child and hit his son when he was annoyed with him. 
 958=220.	He aroused an outcry and was detained in the nether world. 
 
@@ -321,7 +321,7 @@
 1182=276.	and she weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir?”} 
 1186=277.	@q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like him who …… bricks (?), he eats bread.”} 
 1190=278.	@q[Gilgamec,Enkidu]{“……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} 
-$ (@gap{7 lines fragmentary or missing}) 
+$ (@gap{7 lines fragmentary or missing}) 
 
 {1.286 = 286-303}
 1199=286.	@q[Gilgamec,Enkidu]{“Did you see ……?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, 
@@ -386,7 +386,8 @@ $ (@gap{7 lines fragmentary or missing})
 1448=6.	@q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother? How does he fare?”} 
 1452=7.	@q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams (?) about.”} 
 1456=8.	@q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his father and his mother? How does he fare?”} 
-1460=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{1 line fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {3.B.1 = 1-11}
 1469=1.	@q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, 
@@ -428,7 +429,7 @@ $ (@gap{7 lines fragmentary or missing})
 1593=1.	…… surrounded him. 
 1597=2.	He carried …… and the spirits felt insulted (?) by him. 
 1601=3.	He caused (?) ……. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 1605=5.	He kissed his beloved wife, 
 1609=6.	and hit his wife when he was angry with her. 
 1613=7.	He kissed his beloved child, 
@@ -452,7 +453,8 @@ $ (@gap{1 line fragmentary})
 1673=21.	@wDN{Namtar} did not seize him, the Asag did not seize him, 
 1677=22.	but he was seized in the nether world. 
 1681=23.	…… did not seize him, 
-1685=24.	but he was seized in the nether world.”} @gap{unknown no. of lines missing} 
+1685=24.	but he was seized in the nether world.”} 
+$ (@gap{unknown no. of lines missing}) 
 
 {5.B.1 = 1-28}
 1694=1.	@q[Gilgamec,Enkidu]{“Did you see him  
@@ -468,8 +470,8 @@ $ (@gap{1 line fragmentary})
 1734=11.	@q[Enkidu,Gilgamec]{“He drinks water …….”} 
 1741=12.	@q[Gilgamec,Enkidu]{“Did you see him who had four sons? 
 1746=13.	How does he fare?”} 
-1750=14.	@q[Enkidu,Gilgamec]{“His heart is happy @vart[t1814.v31,t1814.v31]{@varn{1 ms. adds:} like a man who has four asses to yoke }.”}  
-1754=15.	@q[Gilgamec,Enkidu]{“Did you see him who had five sons? 
+1750=14.	@q[Enkidu,Gilgamec]{“His heart is happy @vart[t1814.v31,t1814.v31]{@varn{1 ms. adds:} like a man who has four asses to yoke }.”} @q[Gilgamec,Enkidu]{“Did  
+1754=15.	you see him who had five sons? 
 1758=16.	How does he fare?”} 
 1762=17.	@q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, 
 1766=18.	he enters the palace easily.”} 
@@ -478,11 +480,12 @@ $ (@gap{1 line fragmentary})
 1778=21.	@q[Enkidu,Gilgamec]{“He is cheerful as a ploughman.”} 
 1782=22.	@q[Gilgamec,Enkidu]{“Did you see him who had seven sons? 
 1786=23.	How does he fare?”} 
-1790=24.	@q[Enkidu,Gilgamec]{“As a companion of the gods he  
-1794=25.	sits on a throne and listens to judgments.”} 
+1790=24.	@q[Enkidu,Gilgamec]{“As a companion of the gods he sits  
+1794=25.	on a throne and listens to judgments.”} 
 1798=26.	@q[Gilgamec,Enkidu]{“Did you see him who had no heir? 
 27.	How does he fare?”} 
-28.	@q[Enkidu,Gilgamec]{“Like (?) …… he eats bread.”} @gap{approx. 3 lines missing} 
+28.	@q[Enkidu,Gilgamec]{“Like (?) …… he eats bread.”} 
+$ (@gap{approx. 3 lines missing}) 
 
 {5.B.29 = 29-51}
 1803=29.	@q[Gilgamec,Enkidu]{“Did you see him ……? 

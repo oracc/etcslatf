@@ -43,10 +43,10 @@
 125=30.	Who does this calf belong to? Who can take the calf?”}”} 
 
 {65 = 65-72}
-130=65.	@q[cloistered lady,king]{“Well now, the owner of the ox, …… his field ……. 
+130=65.	(The cloistered lady continues her reply to the king:) @q[cloistered lady,king]{“Well now, the owner of the ox, …… his field ……. 
 134=66.	After his ox has been eaten by a lion ……, 
 138=67.	his field …….”} 
-$ (@gap{1 line missing}) 
+$ (@gap{1 line missing}) 
 143=69.	@q{“The hero ……. 
 147=70.	Like a mountaineer ……. 
 151=71.	A dog …… the ox ……. 

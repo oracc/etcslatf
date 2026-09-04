@@ -1,23 +1,27 @@
 &Q000813
 
 {A.21.a1.1 = 1-5}
-$ (@gap{3 lines fragmentary}) 
-$ (@gap{2 lines missing}) 
+$ (@gap{3 lines fragmentary}) 
+$ (@gap{2 lines missing}) 
 
 {A.21.a4.6 = 6-7}
-32=6-7.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {A.21.a5.8 = 8}
-44=8.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {A.21.a6.9 = 9-10}
-52=$ (@gap{2 lines fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{2 lines fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {B.21.b1.1 = 1}
-69=1.	$ (@note{= Alster 1997 21 Sec. B 1} ) $ (@gap{1 line fragmentary}) 
+$ (@note{= Alster 1997 21 Sec. B 1} ) 
+69=1.	$ (@gap{1 line fragmentary}) 
 
 {B.21.b2.2 = 2-4}
-79=2.	$ (@note{= Alster 1997 21 Sec. B 2} ) $ (@gap{1 line missing}) $ (@gap{2 lines fragmentary}) 
+$ (@note{= Alster 1997 21 Sec. B 2} ) 
+79=2.	$ (@gap{1 line missing}) 
+85=3.	$ (@gap{2 lines fragmentary}) 
 
 {B.21.b3.5 = 5}
 97=5.	@note{= Alster 1997 21 Sec. B 3} The king …… not having questioned ……. 
@@ -27,14 +31,15 @@ $ (@gap{2 lines missing})
 113=7.	one says @q{“Let me replace what I am about to eat.”} 
 
 {B.21.b5.8 = 8}
-121=8.	@note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”} @gap{unknown no. of lines missing} 
+121=8.	@note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”} 
+$ (@gap{unknown no. of lines missing}) 
 
 {C.21.c1.1 = 1}
 136=1.	@note{= Alster 1997 21 Sec. A 1; cf. @xref[t.6.1.19,t.6.1.19.c7]{6.1.19.c7}, @xref[t.6.1.23,t.6.1.23.18]{6.1.23.18}, @xref[t.6.1.24,t.6.1.24.8]{6.1.24.8}} A man's daughter-in-law is his policeman. 
 
 {C.21.c2.2 = 2-4}
-146=2.	@note{= Alster 1997 21 Sec. A 2; cf. @xref[t.6.1.19,t.6.1.19.c8]{6.1.19.c8}} A fiancée … 
-152=3.	… I …… to the house. 
+146=2.	@note{= Alster 1997 21 Sec. A 2; cf. @xref[t.6.1.19,t.6.1.19.c8]{6.1.19.c8}} A fiancée  
+152=3.	…… I …… to the house. 
 156=4.	May I ……. 
 
 {C.21.c3.5 = 5-6}
@@ -45,7 +50,7 @@ $ (@gap{2 lines missing})
 178=7.	@note{= Alster 1997 21 Sec. A 4; cf. @xref[t.6.1.24,t.6.1.24.10]{6.1.24.10}} I would make the beer sweet but my neighbour would not appreciate it. 
 
 {C.21.c5.x = 8-20}
-188=8-20.	@note{= Alster 1997 21 Sec. A 5; cf. @xref[t.6.1.24,t.6.1.24.11]{6.1.24.11}; edited separately as 5.6.9 The fowler and his wife}
+188=8.	@note{= Alster 1997 21 Sec. A 5; cf. @xref[t.6.1.24,t.6.1.24.11]{6.1.24.11}; edited separately as 5.6.9 The fowler and his wife} 
 
 {C.21.c6.21 = 21}
 198=21.	@note{= Alster 1997 21 Sec. A 6} The slave girl roams around when it grows dark as if it were midnight. 
@@ -81,10 +86,12 @@ $ (@gap{2 lines missing})
 306=33.	It is a slave girl's princess! 
 
 {C.21.c16.x = 34-48}
-306=34.	$ (@note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl} @gap{unknown no. of lines missing}) 
+$ (@note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl} ) 
+$ (@gap{unknown no. of lines missing}) 
 
 {D.21.d1.1 = 1}
-323=1.	$ (@note{= Alster 1997 21 Sec. D 1} ) $ (@gap{1 line fragmentary}) 
+$ (@note{= Alster 1997 21 Sec. D 1} ) 
+323=1.	$ (@gap{1 line fragmentary}) 
 
 {D.21.d2.2 = 2}
 334=2.	@note{= Alster 1997 21 Sec. D 2} A lamentation singer …… not …… a @fsux{gur} weight of barley …… barge ……. 
@@ -98,16 +105,16 @@ $ (@gap{2 lines missing})
 
 {D.21.d4.8 = 8-9}
 368=8.	@note{= Alster 1997 21 Sec. D 4} A field, whose owner, a friend of a lamentation priest, ……  
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 
 {E.21.e1.1 = 1-3}
-390=1-3.	@gap{3 lines fragmentary}
+$ (@gap{3 lines fragmentary}) 
 
 {E.21.e2.4 = 4-8}
-406=4-8.	@gap{5 lines fragmentary}
+$ (@gap{5 lines fragmentary}) 
 
 {E.21.e3.9 = 9-11}
-430=9-11.	@gap{3 lines fragmentary}
+$ (@gap{3 lines fragmentary}) 
 
 {F.21.f1.1 = 1-4}
-451=1-4.	@gap{4 lines fragmentary}
+$ (@gap{4 lines fragmentary}) 

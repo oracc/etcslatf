@@ -33,9 +33,13 @@ lb_log_segs2(Par *p)
 	    {
 	      if (!p->segs[i]->unlabeled)
 		{
+#if 0
+		  /* when unlabeled == 0 there can't be a label */
 		  if (!*label)
 		    fprintf(stderr, "%s:%s: no label on segment %d\n", p->t->Q, p->label, i);
-		  else if (p->segs[i]->c - p->segs[i]->o == 1 && isspace(*p->segs[i]->o))
+		  else
+#endif
+		    if (p->segs[i]->c - p->segs[i]->o == 1 && isspace(*p->segs[i]->o))
 		    fprintf(stderr, "%s:%s: segment is a single space\n", p->t->Q, p->label);
 		}
 	    }

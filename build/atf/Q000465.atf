@@ -49,7 +49,7 @@
 
 1.A.A.8. [X X] usu gal mah X X zi-i-zi
 #lem: X; X; usu[strength]; gal[big]; mah[great]; X; X; zig[rise]
-#tr.en: $ (@gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=1.A.A.8
 
 1.A.A.9. [X X] MU UN nam {d}en-lil₂-la₂
@@ -59,7 +59,7 @@
 
 1.A.A.10. [...] {d}en-lil₂-ka he₂-du₇ eš₃ mah-a
 #lem: X; Enlil[1]DN; hedu[ornament]; eš[shrine]; mah[great]
-#tr.en: $ (@gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=1.A.A.10
 
 1.A.A.11. [...] me-lem₄ X X X X ŋal₂
@@ -89,7 +89,7 @@
 
 1.A.A.16. [...] a₂-nun-ŋal₂ mah-bi
 #lem: X; anunŋal[strong]; mah[great]
-#tr.en: $ (@gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=1.A.A.16
 
 1.A.A.17. [...] X en dumu {d}en-lil₂-la₂
@@ -119,11 +119,12 @@
 
 1.A.A.22. [X X] GI RU iri BA RI X X
 #lem: X; X; X; X; iri[city]; X; X; X; X
-#tr.en: $ (@gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=1.A.A.22
 
 1.A.A.23. [... eš]-bar nu-kam₃-me
 #lem: X; ešbar[decision]; kam[alter]
+#tr.en: $ (@gap{up to 8 lines missing}) 
 #etcsl: line-id=1.A.A.23
 
 1.A.A.24. [...] dug₄-ga-ni ki-bi-še₃ ŋar
@@ -326,7 +327,7 @@ $ (up to 8 lines missing)
 
 1.B.D.30. he₂-em-ta-X [...]
 #lem: X; X
-#tr.en: May …… @wRN{Išme-@wDN{Dagan}} ……! @gap{unknown no. of lines missing} 
+#tr.en: May …… @wRN{Išme-@wDN{Dagan}} ……! 
 #etcsl: line-id=1.B.D.30
 
 $ (unknown no. of lines missing)
@@ -352,7 +353,6 @@ $ (unknown no. of lines missing)
 
 1.C.E.3. en kur-ra [...] KA AŠ# [...]
 #lem: en[lord]; kur[mountain(s)]; X; X; X; X
-#tr.en: 299=$ (@gap{5 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=1.C.E.3
 
 1.C.E.4. {d}en-ki an# [...] EN [...]
@@ -397,7 +397,6 @@ $ (unknown no. of lines missing)
 
 1.D.F.2. [...] X
 #lem: X; X
-#tr.en: 342=$ (@gap{9 lines fragmentary} @gap{unknown no. of lines missing}) 
 #etcsl: line-id=1.D.F.2
 
 1.D.F.3. [...] X
@@ -702,12 +701,12 @@ $ (up to 3 lines missing)
 
 2.B.47. [...] {[d]}iš-me-{[d]}[da-gan ...]
 #lem: X; Išmedagan[1]RN; X
-#tr.en: … 
+#tr.en: …… @wRN{Išme-@wDN{Dagan}}  
 #etcsl: line-id=2.B.47
 
 2.B.48. [...] nam#-til₃ [...]
 #lem: X; namtil[life]; X
-#tr.en: … @wRN{Išme-@wDN{Dagan}} …… life ……. 
+#tr.en: …… life ……. 
 #etcsl: line-id=2.B.48
 
 @div trailer 
@@ -800,7 +799,6 @@ $ (up to 3 lines missing)
 
 2.C.65. [...]-am₃#
 #lem: X
-#tr.en: @gap{1 line fragmentary}
 #etcsl: line-id=2.C.65
 
 @end trailer

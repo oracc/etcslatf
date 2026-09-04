@@ -11,7 +11,7 @@
 $ (unknown no. of lines missing)
 A.1. AN [...]
 #lem: X; X
-#tr.en: $ ( @gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=A.1
 
 A.2. kug {d}inana# [...]
@@ -21,27 +21,27 @@ A.2. kug {d}inana# [...]
 
 A.3. ur-saŋ# šul# {[d]}[utu ...]
 #lem: ursaŋ[warrior]; šul[youth]; Utu[1]DN; X
-#tr.en: The hero, youthful @wDN{Utu}, 
+#tr.en: The hero, youthful @wDN{Utu}, ……. 
 #etcsl: line-id=A.3
 
 A.4. ŋi₆ u₃-na X [...]
 #lem: ŋi[night]; ŋiʾunak[night]; X; X
-#tr.en: ……. 
+#tr.en: At dead of night ……. 
 #etcsl: line-id=A.4
 
 A.5. e₂-an-na AN [...]
 #lem: Eanak[1]TN; X; X
-#tr.en: At dead of night ……. 
+#tr.en: @wTN{E-ana} ……. 
 #etcsl: line-id=A.5
 
 A.6. {d}inana-ke₄ X [...]
 #lem: Inanak[1]DN; X; X
-#tr.en: @wTN{E-ana} ……. 
+#tr.en: @wDN{Inana} ……. 
 #etcsl: line-id=A.6
 
 A.7. an# gal# [...]
 #lem: an[sky]; gal[big]; X
-#tr.en: @wDN{Inana} ……. 
+#tr.en: The great (?) heavens ……. 
 #etcsl: line-id=A.7
 
 $ (unknown no. of lines missing)
@@ -126,12 +126,12 @@ B.15. [inim] kug# {d}inana-ke₄ ma-ab-be₂-a ŋe₂₆-e ha-ba-da-ab-še-ge
 
 B.16. [ki-sikil] {d}inana-ke₄ šeš-a-ni ur-saŋ šul {d}utu mu-un-na-ni-ib₂-gi!-gi!
 #lem: kisikil[young woman]; Inanak[1]DN; šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN; gi[turn]
-#tr.en: The maiden @wDN{Inana} answered her brother the hero, youthful @wDN{Utu}: @q[Inana,Utu]{“……, 
+#tr.en: The maiden @wDN{Inana} answered her brother the hero, youthful @wDN{Utu}: @q[Inana,Utu]{“……, my spouse (?), 
 #etcsl: line-id=B.16
 
 B.17. X nitalam#-ŋu₁₀ %e ma-a-ra %s ŋiš ma-an-dug₄ ne mu-un-su-ub
 #lem: X; ŋidlam[(equal ranking) spouse]; meʾe[I]IP; ŋeš[penis]; dug[speak]; ne[cvne]; sub[rub]
-#tr.en: my spouse (?), has made love to me, has kissed me. 
+#tr.en: has made love to me, has kissed me. 
 #etcsl: line-id=B.17
 
 B.18. [...] al mu-na-an-dug₄ X-a-ra %e nu-mu-na-ze₂-eŋ₃
@@ -161,7 +161,7 @@ B.22. [...] X bar tam-ma-ab a₂ aŋ₂ za-e igi du₈#-[ma-ab]
 
 B.23. [...]-dug₄ ud im#-[hul] {tum₉}u₁₈#-lu mu-da-[...]
 #lem: dug[speak]; ud[storm]; imhul[destructive wind]; ulu[south wind]; X
-#tr.en: …… the evil wind, the south wind, against me.”} @gap{approx. 23 lines missing} 
+#tr.en: …… the evil wind, the south wind, against me.”} 
 #etcsl: line-id=B.23
 
 $ (approx. 23 lines missing)
@@ -250,7 +250,6 @@ C.16. {ŋiš}[ma₂-gur₈ ...]
 
 C.17. AN [...]
 #lem: X; X
-#tr.en: 207=$ (@gap{2 lines fragmentary} @gap{approx. 15 lines missing}) 
 #etcsl: line-id=C.17
 
 C.18. X [...]
@@ -264,7 +263,7 @@ $ (approx. 15 lines missing)
 
 D.1. ŋe₂₆-[e ...]
 #lem: ŋaʾe[I]; X
-#tr.en: @q[Inana,Adagbir]{“I ……. 
+#tr.en: (@wDN{Inana} speaks:) @q[Inana,Adagbir]{“I ……. 
 #etcsl: line-id=D.1
 
 D.2. ŋiri₃ [...]
@@ -342,17 +341,17 @@ D.16. kug {d}inana-ke₄ šu-KU₆#-[de₃ inim mu-na-ni]-ib#-gi₄-gi₄
 
 D.17. ud-da e₂-an-na X [...] za-e mu-ni-in-pad₃
 #lem: ud[sun]; Eanak[1]TN; X; X; zaʾe[you]; pad[find]
-#tr.en: @q[Inana,Adagbir]{“If you are to find …… @wTN{E-ana} …… and I am to gaze in admiration …… at that place, 
+#tr.en: @q[Inana,Adagbir]{“If you are to find …… @wTN{E-ana}  
 #etcsl: line-id=D.17
 
 D.18. ki-bi ŋe₂₆-e# [... u₆ ba-ni]-in#-e-a
 #lem: ki[place]; ŋaʾe[I]; X; u[admiration]; e[speak]
-#tr.en: you said  
+#tr.en: …… and I am to gaze in admiration …… at that place, 
 #etcsl: line-id=D.18
 
 D.19. a-ra₂ sig-ge# [...] RU mu-e-ni-dug₄
 #lem: ara[way]; sig[weak]; X; X; dug[speak]
-#tr.en: …… the narrow passage.”} 
+#tr.en: you said …… the narrow passage.”} 
 #etcsl: line-id=D.19
 
 D.20. {d}a-dag-bi-ir-[e kug] {[d]}[inana-ke₄ inim mu-na-ni]-ib-gi₄-gi₄

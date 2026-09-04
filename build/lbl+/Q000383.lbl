@@ -1,7 +1,7 @@
 &Q000383
 
 {1.A.A.5 = 1-10}
-$ (@gap{4 lines missing}) 
+$ (@gap{4 lines missing}) 
 17=5.	The roaring storm covered it like a cloak, was spread over it like a sheet. 
 21=6.	It covered @wSN{Eridug} like a cloak, was spread over it like a sheet. 
 25=7.	In the city, the furious storm resounded ……. 
@@ -46,7 +46,7 @@ $ (@gap{4 lines missing})
 149=34.	…… on its own destroyed it. 
 153=35.	It turned …… into tears. 
 157=36.	…… defiled ……  
-$ (@gap{1 line missing}) 
+$ (@gap{1 line missing}) 
 
 {1.A.C.39 = 39-47}
 166=39.	…… It distorted its appearance. …… It distorted its appearance. 
@@ -101,19 +101,19 @@ $ (@gap{1 line missing})
 324=74.	3rd @fsux{kirugu}. 
 
 {1.A.F.75 = 75-76}
-334=75-76.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {1.A.F.77 = 77}
 344=77.	Its @fsux{ŋišgiŋal}. 
 
 {1.A.G.78 = 78-99}
 354=78.	…… distressed and anxious …… like a pigeon ……. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 358=80.	The birds of the destroyed city …… a nest. 
-362=81.	The @fsux{ukuku} bird, bird of heart's sorrow, …… the place. 
-366=82.	Pain ……. The area became entangled in wild thornbushes. 
-370=83.	It …… wild thornbushes. The @wEN{Šimaškians} and @wEN{Elamites}, 
-374=84.	the destroyers, 
+362=81.	The @fsux{ukuku} bird, bird of heart's sorrow, 
+366=82.	…… the place. Pain ……. 
+370=83.	The area became entangled in wild thornbushes. It …… wild thornbushes. 
+374=84.	The @wEN{Šimaškians} and @wEN{Elamites}, the destroyers, 
 378=85.	looked at the holy kettles which no one may look at. 
 382=86.	In the House of @wDN{Nisaba's} Wisdom, the house of understanding, 
 386=87.	…… covered over ……. 
@@ -122,7 +122,8 @@ $ (@gap{1 line fragmentary})
 398=90.	when, like a mist lying heavily on the earth, 
 402=91.	……, 
 406=92.	they went like small birds shooed from their hiding places. 
-410=$ (@gap{7 lines fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{7 lines fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {1.B.G.1 = 1}
 451=1.	Father @wDN{Enki} uttered a lament for himself ……. 
@@ -144,15 +145,17 @@ $ (@gap{1 line fragmentary})
 500=9.	She held a dagger and a sword in her two hands -- they clashed together. 
 
 {1.B.I.10 = 10-15}
-504=10.	She tore out her hair like rushes, uttering a bitter lament: 
-508=11.	@q[Damgalnuna,Eridug]{“You, my city whose woman does not dwell there, 
-512=12.	whose charms do not satisfy her -- where is a lament uttered bitterly for you? @wSN{Eridug}! 
-516=13.	You, my city whose woman does not dwell there, 
-520=14.	whose charms do not satisfy her -- where are tears wept for you? I fall like a bull in your lofty …… falls ……. 
-524=15.	I am ……. My heart …… queen …….”} @gap{unknown no. of lines missing} @notegap{incorporating end of 5th @fsux{kirugu}} 
+504=10.	She tore out her hair like rushes, uttering a bitter lament: @q[Damgalnuna,Eridug]{“You, my city whose woman does not dwell there, whose charms do not satisfy her -- where is a lament uttered bitterly for you? 
+508=11.	@wSN{Eridug}! 
+512=12.	You, my city whose woman does not dwell there, whose charms do not satisfy her -- where are tears wept for you? 
+516=13.	I fall like a bull in your lofty …… falls ……. 
+520=14.	I am ……. 
+524=15.	My heart …… queen …….”} 
+$ (@gap{unknown no. of lines missing}) 
+@notegap{incorporating end of 5th @fsux{kirugu}} 
 
 {1.C.J.1 = 1-8}
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 538=2.	…… far away …… the great gods. 
 544=3.	Lord @wDN{Enlil}, 
 548=4.	king of the lands, looked maliciously at @wGN{Sumer}. 
@@ -183,7 +186,7 @@ $ (@gap{1 line fragmentary})
 636=25.	in her great dining hall, they call her name. 
 
 {1.C.J.26 = 26}
-640=26.	@q[Damgalnuna,Enki]{“My beloved, who has ever seen such a destruction as that of your city @wSN{Eridug}!”} 
+640=26.	(@wDN{Damgalnuna} speaks:) @q[Damgalnuna,Enki]{“My beloved, who has ever seen such a destruction as that of your city @wSN{Eridug}!”} 
 
 {1.C.J.27 = 27}
 646=27.	6th @fsux{kirugu}. 
@@ -234,8 +237,8 @@ $ (@gap{1 line fragmentary})
 
 {1.C.N.56 = 56-59}
 792=56.	…… and may he restore it for you. 
-$ (@gap{2 lines fragmentary}) 
-796=58.	Do not hide like a criminal ……. 
+$ (@gap{2 lines fragmentary}) 
+796=59.	Do not hide like a criminal ……. 
 
 {2.A.A.1 = 1-5}
 820=1.	House of princely powers, standing in mighty water -- the waters have receded from it ……. 
@@ -251,9 +254,10 @@ $ (@gap{2 lines fragmentary})
 {2.A.A.8 = 8-14}
 848=8.	At the great gate, the lion-faced gate, the place where fates are determined, evildoers ……. 
 852=9.	They set fire to its door. @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. 
-856=10.	…… @wDN{Enki}, at the …… place, …… its people. …… the destroyed place, 
-860=11.	the @wTN{Abzu} …… the powers of the @wDN{Anuna} gods. 
-864=$ (@gap{3 lines fragmentary} @gap{unknown no. of lines missing} @notegap{continuation of 3rd @fsux{kirugu}}) 
+856=10.	…… @wDN{Enki}, at the …… place, …… its people. …… the destroyed place, the @wTN{Abzu} …… the powers of the @wDN{Anuna} gods. 
+$ (@gap{3 lines fragmentary}) 
+860=14.	$ (@gap{unknown no. of lines missing}) 
+@notegap{continuation of 3rd @fsux{kirugu}} 
 
 {2.B.A.1 = 1-6}
 886=1.	@wSN{Eridug} ……. 

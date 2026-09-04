@@ -49,12 +49,12 @@
 {33 = 33-39}
 33.	@q{“You have given ……, a city that has no river quay. 
 34.	You have given a city. What does your giving avail me?”} 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 36.	@q{“A city that has no fields, glebe or furrow”}  
-$ (@gap{3 lines missing}) 
+$ (@gap{3 lines missing}) 
 
 {40 = 40-43}
-40.	@q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven, 
+40.	(@wDN{Enki} answered @wDN{Ninsikila}:) @q[Enki,Ninsikila]{“When @wDN{Utu} steps up into heaven, 
 41.	fresh waters shall run out of the ground for you from the standing vessels (?) on @wGN{Ezen's} (?) shore, 
 42.	from @wDN{Nanna's} radiant high temple, 
 43.	from the mouth of the waters running underground.”} 
@@ -75,7 +75,7 @@ $ (@gap{3 lines missing})
 49E.	May the land of @wGN{Marḫaši} yield you precious stones, topazes. 
 49F.	May the land of @wGN{Magan} offer you strong, powerful copper, 
 49G.	dolerite, @fsux{u} stone and @fsux{šumin} stone. 
-$ (@gap{1 line vacat}) 
+$ (@gap{1 line vacat}) 
 49I.	May the @wGN{Sea-land} offer you its own ebony wood, 
 49J.	…… of a king. May the @wGN{'Tent'-lands} offer you fine multicoloured wools. 
 49K.	May the land of @wGN{Elam} hand over to you choice wools, its tribute. 
@@ -229,12 +229,12 @@ $ (@gap{1 line vacat})
 130.	is able to see up here, he is; 
 131.	from in the marsh @wDN{Enki} is able to see up here, 
 132.	is able to see up here, he is. He will set eyes on you.”} 
-$ (@gap{10 lines fragmentary}) 
+$ (@gap{10 lines fragmentary}) 
 143.	…… @wDN{Uttu}, the exalted (?) woman ……  
-$ (@gap{3 lines fragmentary}) 
+$ (@gap{3 lines fragmentary}) 
 
 {147 = 147-151}
-147.	@q[Uttu,Enki]{“Bring cucumbers in ……, bring apples with their stems sticking out (?), 
+147.	(@wDN{Uttu} said:) @q[Uttu,Enki]{“Bring cucumbers in ……, bring apples with their stems sticking out (?), 
 148.	bring grapes in their clusters, 
 149.	and in the house you will indeed have hold of my halter, 
 150.	O @wDN{Enki}, 
@@ -251,19 +251,19 @@ $ (@gap{3 lines fragmentary})
 
 {159 = 159-166}
 159.	@wDN{Enki} (said to) …… the gardener: 
-$ (@gap{4 lines missing}) 
-161.	He brought him cucumbers in ……, 
-162.	brought him apples with their stems sticking out (?), 
-163.	brought him grapes in their clusters, filled his lap. 
+$ (@gap{4 lines missing}) 
+164.	He brought him cucumbers in ……, 
+165.	brought him apples with their stems sticking out (?), 
+166.	brought him grapes in their clusters, filled his lap. 
 
 {167 = 167-177}
 167.	@wDN{Enki} made his face attractive and took a staff in his hand. 
 168.	@wDN{Enki} came to a halt at @wDN{Uttu's}, 
 169.	knocked at her house (demanding): @q[Enki,Uttu]{“Open up, open up.”} 
-170.	: @q[Uttu,Enki]{“Who are you?”} @q[Enki,Uttu]{“I am a gardener. 
-171.	Let me give you cucumbers, apples, 
-172.	and grapes for your consent.”} Joyfully @wDN{Uttu} opened the house. 
-173.	@wDN{Enki} gave @wDN{Uttu}, the exalted (?) woman, 
+170.	(She asked): @q[Uttu,Enki]{“Who are you?”} (He answered:) @q[Enki,Uttu]{“I am a gardener. 
+171.	Let me give you cucumbers, apples, and grapes for your consent.”} 
+172.	Joyfully @wDN{Uttu} opened the house. @wDN{Enki} gave @wDN{Uttu}, 
+173.	the exalted (?) woman, 
 174.	cucumbers in ……, 
 175.	gave her apples with their stems sticking out (?), 
 176.	gave her grapes in their clusters. 
@@ -280,9 +280,9 @@ $ (@gap{4 lines missing})
 185.	@wDN{Enki} poured semen into @wDN{Uttu's} womb and she conceived the semen in the womb, the semen of @wDN{Enki}. 
 
 {186 = 186-189}
-186.	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} She cried out: @q[Uttu,self]{“Woe, my body. 
-187.	Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs. 
-$ (@gap{2 lines fragmentary}) 
+186.	@wDN{Uttu}, the beautiful woman, cried out: @q[Uttu,self]{“Woe, my thighs.”} 
+187.	She cried out: @q[Uttu,self]{“Woe, my body. Woe, my heart.”} @wDN{Ninḫursaŋa} removed the semen from the thighs. 
+$ (@gap{2 lines fragmentary}) 
 
 {190 = 190-197}
 190.	She grew the 'tree' plant, 
@@ -336,27 +336,27 @@ $ (@gap{2 lines fragmentary})
 228.	The fox first anointed his body, 
 229.	first shook out his fur (?), 
 230.	first put kohl on his eyes. 
-$ (@gap{4 lines fragmentary}) 
+$ (@gap{4 lines fragmentary}) 
 
 {235 = 235-246}
-235.	@q[fox,Ninhursaja]{“I have been to @wSN{Nibru}, but @wDN{Enlil} ……. 
+235.	(The fox said to @wDN{Ninḫursaŋa}:) @q[fox,Ninhursaja]{“I have been to @wSN{Nibru}, but @wDN{Enlil} ……. 
 236.	I have been to @wSN{Urim}, but @wDN{Nanna} ……. 
 237.	I have been to @wSN{Larsam}, but @wDN{Utu} ……. 
 238.	I have been to @wSN{Unug}, but @wDN{Inana} ……. 
 239.	I am seeking refuge with one who is …….”} 
-$ (@gap{7 lines fragmentary}) 
+240.	$ (@gap{7 lines fragmentary}) 
 
 {247 = 247-253}
 247.	@wDN{Ninḫursaŋa} hastened to the temple. 
 248.	The @wDN{Anuna} slipped off her garment, 
 249.	made ……, 
-250.	determined its destiny  
-251.	and ……. 
+250.	determined its destiny and  
+251.	……. 
 252.	@wDN{Ninḫursaŋa} made @wDN{Enki} sit by her vagina. 
 253.	@vart[t111.v4,t111.v4]{@varn{1 line not in the ms. from Nibru:} She placed (?) her hands on ……. and ……. on its outside. } 
 
 {254 = 254-263}
-254.	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”} 
+254.	(@wDN{Ninḫursaŋa} asked:) @q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”} 
 255.	@q[Enki,Ninhursaja]{“The top of my head (@fsux{ugu-dili}) hurts me.”} 
 256.	She gave birth to @wDN{Ab-u} out of it. 
 257.	@q[Ninhursaja,Enki]{“My brother, what part of you hurts you?”} 
@@ -378,7 +378,7 @@ $ (@gap{7 lines fragmentary})
 271.	@q[Enki,Ninhursaja]{“My sides (@fsux{zag}) hurt me.”} She gave birth to @wDN{Ensag} out of it. 
 
 {272 = 272-280}
-272.	@q[Ninhursaja,others]{“For the little ones to whom I have given birth may rewards not be lacking. 
+272.	(She said:) @q[Ninhursaja,others]{“For the little ones to whom I have given birth may rewards not be lacking. 
 273.	@wDN{Ab-u} shall become king of the grasses, 
 274.	@wDN{Ninsikila} shall become lord of @wGN{Magan}, 
 275.	@wDN{Ningiriutud} shall marry @wDN{Ninazu}, 

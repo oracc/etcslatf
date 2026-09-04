@@ -108,16 +108,6 @@ main(int argc, char *const *argv)
       tp->pars[i].text = lb_P(rr);
       tp->pars[i].endp = tp->pars[i].text + strlen(tp->pars[i].text);
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
-      if (CTRL_X == *tp->pars[i].text && CTRL_Y == tp->pars[i].endp[-1])
-	{
-	  const char *x = tp->pars[i].text+1;
-	  while (*x && CTRL_X != *x)
-	    ++x;
-	  /* If a para is only ^X ... ^Y skip the labelling and just
-	     print a group label on output */
-	  if (!*x)
-	    continue;
-	}
       map_segs(&tp->pars[i]);
       lb_sanity(NULL);
       lb_sanity(&tp->pars[i]);
@@ -184,6 +174,7 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 {
   const char *start = p;
   const char *s = p;
+  
   s = strchr(s, '{');
 
   *ignored = 0;
@@ -232,7 +223,7 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 		  sg->w = 0;
 		  sg->b = '0';
 		  sg->o = start;
-		  sg->c = strchr(sg->o, CTRL_Y);
+		  sg->c = strchr(sg->o, CTRL_Y) + 1;
 		}
 	      else
 		{
@@ -243,13 +234,13 @@ map_gap(Memo *segmem, Par *par, const char *p, List *l, int *ignored)
 		}
 	    }
 	  else
-	    fprintf(stderr, "no 'line' in @gap\n"); /* never happens in ETCSL TEI corpus */
+	    fprintf(stderr, "%s:%s: no 'line' in @gap\n", par->t->Q, par->label);
 	}
       else
 	{
 	  /* "unknown number of lines" is treated as ignored */
-	  if (!strstr(p, "unknown"))
-	    fprintf(stderr, "no digit in gap %s\n", p);
+	  if (!strstr(p, "unknown") && !strstr(p, "small"))
+	    fprintf(stderr, "%s:%s: no digit in gap %s\n", par->t->Q, par->label, p);
 	  *ignored = 1;
 	}
     }
@@ -267,8 +258,10 @@ map_segs(Par *par)
   const char *p = par->text;
   while (*p)
     {
+#if 0
       if ('(' == *p)
 	p = find_closer(++p);
+#endif
       while (isspace(*p))
 	++p;
       if (*p)
@@ -291,9 +284,11 @@ map_segs(Par *par)
 	      if (CTRL_X == *p && !strncmp(p+1, "@gap", 4)) /* boundary was a \cX@gap */
 		{
 		  int ignored = 0;
+		  const char *gap = p;
 		  p = map_gap(segmem, par, p, l, &ignored);
 		  if (ignored)
 		    {
+#if 0
 		      if (list_len(l))
 			{
 			  /* concatenate the ignored @gap to the end of the previous segment */
@@ -305,19 +300,21 @@ map_segs(Par *par)
 			}
 		      else
 			{
+#endif
 			  /* segment starts with ignored gap; create an unlabeled seg for it */
 			  ++par->usegs;
 			  s = memo_new(segmem);
 			  s->p = par;
 			  list_add(l, s);
-			  s->o = p;
-			  p = lb_skip_XtoY(p);
-			  s->c = p-1;
+			  s->o = gap;
+			  s->c = p;
 			  s->w = 0;
 			  s->b = '0';
 			  if (*p)
 			    ++p;
+#if 0
 			}
+#endif
 		    }
 		}
 	      else if (*p)

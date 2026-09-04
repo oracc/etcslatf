@@ -1,35 +1,36 @@
 &Q000671
 
 {1 = 1-26}
-9=1.	@q[Ningal,]{“I  
-18=2.	 
-22=3.	… 
-26=4.	 
-30=5.	…  
-34=6.	for  
-38=7.	the  
-8.	… 
-9.	…. 
-10.	 
-11.	@gap{approx. 19 lines missing}  
-12.	The  
-13.	embrace  
-14.	of  
-15.	my  
-16.	spouse  
-17.	… 
-18.	…. 
-19.	 
-20.	The  
-21.	young  
-22.	man  
-23.	… 
-24.	…. 
-25.	 
-26.	Among his cows ……. My beloved who ……. I shall go ……! There with the lord …….” 
+9=1.	(Ningal speaks:) @q[Ningal,]{“I  
+18=2.	……  
+22=3.	for the ……. 
+$ (@gap{approx. 19 lines missing}) 
+26=4.	The embrace  
+30=5.	of my  
+34=6.	spouse  
+38=7.	……. 
+8.	The young  
+9.	man  
+10.	……. 
+11.	Among his  
+12.	cows  
+13.	……. 
+14.	My beloved  
+15.	who  
+16.	……. 
+17.	I shall  
+18.	go  
+19.	……! 
+20.	There  
+21.	with  
+22.	the  
+23.	lord  
+24.	… 
+25.	…. 
+26.	”} 
 
 {27 = 27-31}
-42=27.	@q[Nanna,Ningal]{“My spouse, ……, 
+42=27.	(Nanna addresses Ningal:) @q[Nanna,Ningal]{“My spouse, ……, 
 46=28.	@wDN{Ningal} who ……, 
 50=29.	…… butter from the holy cows. 
 54=30.	Pure hands and …… feet ……. 
@@ -60,16 +61,17 @@
 130=49.	@wDN{Ningal}, I shall go with you to your house.”} 
 
 {50 = 50-59}
-134=50.	@q[Ningal,Nanna]{“……, 
-138=51.	my beloved, 
-142=52.	if only I  
-146=53.	could come to you  
-151=54.	without my mother  
-155=55.	to ……! 
-159=56.	If only I  
-163=57.	could come to  
-167=58.	you without @wDN{Ningikuga} (?)  
-59.	……! @gap{approx. 1 line missing} Lord @wDN{Nanna}, bring it to me! In the dwelling of the shepherd, in the house of gleaned barley, my lord, I shall come to you in the chamber, the storehouse (?)! ……, wonder of the Land, I shall come to you! My @wDN{Nanna}, your chant is sweet; it is the chant of my heart.” 
+134=50.	(Ningal addresses Nanna:) @q[Ningal,Nanna]{“……, my beloved, if only I could come to you without my mother to ……! 
+138=51.	If only I could come to you without @wDN{Ningikuga} (?) ……! 
+142=52.	$ (@gap{approx. 1 line missing}) 
+146=53.	Lord @wDN{Nanna}, bring it to me! 
+151=54.	In the dwelling of the shepherd, 
+155=55.	in the house of gleaned barley, 
+159=56.	my lord, I shall come to you in the chamber, the storehouse (?)! 
+163=57.	……, wonder of the Land, 
+167=58.	I shall come to you! 
+59.	My @wDN{Nanna}, your chant is sweet; 
+it is the chant of my heart.”} 
 
 {60 = 60}
 173=60.	A @fsux{balbale} of @wDN{Nanna}. 

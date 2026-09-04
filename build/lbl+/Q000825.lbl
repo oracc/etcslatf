@@ -1,22 +1,22 @@
 &Q000825
 
 {1.A.1 = 1}
-13=1.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.2 = 2}
-17=2.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.3 = 3}
-21=3.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.4 = 4}
-25=4.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.5 = 5}
-29=5.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.6 = 6}
-33=6.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.7 = 7}
 37=7.	@note{cf. @xref[t.6.1.03,t.6.1.03.23]{6.1.03.23}, @xref[t.6.1.22,]{6.1.22: ll. 284-286}, @xref[t.6.2.3,]{6.2.3: UET 6/2 265 l. 2}} He who has silver is happy, and he who has grain feels comfortable. 
@@ -28,19 +28,21 @@
 49=9.	@note{cf. @xref[t.5.6.1,]{5.6.1: l. 69}} The warrior is unique; he alone is the equal of many. 
 
 {1.A.10 = 10}
-55=10.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {1.A.11 = 11}
-59=11.	…… rogue …… @gap{unknown no. of lines missing} 
+59=11.	…… rogue ……  
+$ (@gap{unknown no. of lines missing}) 
 
 {1.B.1 = 1-2}
-68=1-2.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {1.B.3 = 3}
 76=3.	@note{cf. @xref[t.6.1.19,t.6.1.19.d5]{6.1.19.d5}} The @fsux{um} bird's song is unpleasant! 
 
 {1.B.4 = 4}
-82=4.	$ (@note{cf. @xref[t.6.1.19,t.6.1.19.d8]{6.1.19.d8}} ) $ (@gap{1 line unclear}) 
+$ (@note{cf. @xref[t.6.1.19,t.6.1.19.d8]{6.1.19.d8}} ) 
+82=4.	$ (@gap{1 line unclear}) 
 
 {1.B.5 = 5}
 88=5.	@note{cf. @xref[t.6.1.21,t.6.1.21.c8]{6.1.21.c8}} Dusk means joy for the palace. 
@@ -56,7 +58,8 @@
 110=9.	@wDN{Inana} remained seated (?) in the village. 
 
 {1.B.10 = 10}
-114=10.	$ (@note{cf. @xref[t.6.1.15,t.6.1.15.c15]{6.1.15.c15}} ) $ (@gap{1 line unclear}) 
+$ (@note{cf. @xref[t.6.1.15,t.6.1.15.c15]{6.1.15.c15}} ) 
+114=10.	$ (@gap{1 line unclear}) 
 
 {1.B.11 = 11-12}
 120=11.	@note{cf. @xref[t.6.1.03,t.6.1.03.36]{6.1.03.36}, @xref[t.6.2.3,]{6.2.3: UET 6/2 325 ll. 3-5}} The voluptuous slave girl says: @q{“Let @wDN{Iškur}, 
@@ -79,13 +82,14 @@
 166=8.	with your torch my reed altar (?) will not ……. 
 
 {2.A.9 = 9-10}
-170=9-10.	@gap{2 lines unclear}
+$ (@gap{2 lines unclear}) 
 
 {2.A.11 = 11-12}
-178=11-12.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {2.A.13 = 13}
-186=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{1 line fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {2.B.1 = 1}
 195=1.	…… a fool (?) …… pronounces judgment (?) over me. 
@@ -102,49 +106,49 @@
 223=8.	After he had succumbed, they kept bringing him funerary offerings. 
 
 {3.1 = 1}
-233=1.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {3.2 = 2-4}
-237=2-4.	@gap{3 lines fragmentary}
+$ (@gap{3 lines fragmentary}) 
 
 {3.5 = 5}
-249=5.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {3.6 = 6-7}
-253=6-7.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {3.8 = 8}
-261=8.	@gap{1 line missing}
+$ (@gap{1 line missing}) 
 
 {3.9 = 9}
-265=9.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {3.10 = 10-11}
-269=10-11.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {3.12 = 12}
-277=12.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {3.13 = 13-14}
-281=13-14.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {3.15 = 15-16}
-289=15-16.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {3.17 = 17-19}
-297=17-19.	@gap{3 lines fragmentary}
+$ (@gap{3 lines fragmentary}) 
 
 {3.20 = 20-21}
-309=20-21.	@gap{2 lines fragmentary}
+$ (@gap{2 lines fragmentary}) 
 
 {4.A.1 = 1}
 323=1.	…… may he bear it for us ……. 
 
 {4.A.2 = 2}
-327=2.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {4.A.3 = 3}
-331=3.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {4.A.4 = 4}
 335=4.	…… they have dragged it ……. 
@@ -153,7 +157,7 @@
 339=5.	…… rejoicing …… the @fsux{gala} singer ……. 
 
 {4.A.6 = 6}
-343=6.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {4.A.7 = 7-8}
 347=7.	@note{cf. @xref[t.6.1.14,t.6.1.14.3]{6.1.14.3}, @xref[t.6.1.16,t.6.1.16.c1]{6.1.16.c1}} The farmer lifts his gaze to you  
@@ -169,7 +173,8 @@
 
 {4.A.13 = 13-14}
 377=13.	@note{cf. @xref[t.6.1.15,t.6.1.15.b3]{6.1.15.b3}} The gardener lifts his gaze to you: 
-383=14.	@q{“May @wDN{Enlil} look upon the city that he cursed.”} @gap{unknown no. of lines missing} 
+383=14.	@q{“May @wDN{Enlil} look upon the city that he cursed.”} 
+$ (@gap{unknown no. of lines missing}) 
 
 {4.B.1 = 1}
 392=1.	@note{cf. @xref[t.6.1.14,t.6.1.14.1]{6.1.14.1}} Let the favour be repaid to him who repays a favour. 
@@ -178,9 +183,9 @@
 398=2.	@note{cf. @xref[t.6.1.11,t.6.1.11.56]{6.1.11.56}, @xref[t.6.1.25,t.6.1.25.9]{6.1.25.9}, @xref[t.6.1.26,t.6.1.26.a2]{6.1.26.a2}} A palace will fall of its own accord. 
 
 {4.B.3 = 3-5}
-404=3.	$ (@note{cf. @xref[t.6.2.5,t625.h17]{YBC 7351}, @xref[t.6.1.22,]{6.1.22: ll. 49-50}, @xref[t.6.1.26,t.6.1.26.a4]{6.1.26.a4}, @xref[t.6.2.3,t623.h74]{6.2.3: UET 6/2 259}} ) 
-$ (@gap{1 line fragmentary}) 
-410=5.	and chasing away a son from his father's house are abominations to @wDN{Ninurta}. 
+$ (@note{cf. @xref[t.6.2.5,t625.h17]{YBC 7351}, @xref[t.6.1.22,]{6.1.22: ll. 49-50}, @xref[t.6.1.26,t.6.1.26.a4]{6.1.26.a4}, @xref[t.6.2.3,t623.h74]{6.2.3: UET 6/2 259}} ) 
+$ (@gap{1 line fragmentary}) 
+404=4.	and chasing away a son from his father's house are abominations to @wDN{Ninurta}. 
 
 {4.B.6 = 6}
 418=6.	@note{cf. @xref[t.6.1.11,t.6.1.11.66]{6.1.11.66}, @xref[t.6.1.26,t.6.1.26.a6]{6.1.26.a6}} To take revenge is the prerogative of @wDN{Ninurta}. @note{followed by one erased line} 
@@ -195,15 +200,16 @@ $ (@gap{1 line fragmentary})
 444=2.	@note{cf. @xref[t.6.1.09,t.6.1.09.a3]{6.1.09.a3}, @xref[t.6.1.10,t.6.1.10.3]{6.1.10.3-4}, @xref[t.6.2.2,t622.h5]{6.2.2: MDP 27 216}} When the authorities are wise, and the poor are passed by, it is the effect of the blessing of @wSN{Aratta}. 
 
 {5.A.3 = 3}
-450=3.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {5.A.4 = 4-5}
 454=4.	My wife ……. 
-458=$ (@gap{1 line fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{1 line fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {5.B.1 = 1-2}
-467=1.	The  
-471=2.	lady …… did not speak …… destroying the father's house ……. 
+467=1.	The lady …… did not  
+471=2.	speak …… destroying the father's house ……. 
 
 {5.B.3 = 3}
 475=3.	…… companion of @wDN{An} ……. 
@@ -212,13 +218,13 @@ $ (@gap{1 line fragmentary})
 479=4.	@note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 367 l. 1}, @xref[t.5.6.1,]{5.6.1: l. 184}} The poor man inflicts all kinds of illnesses on the rich man. 
 
 {5.B.5 = 5}
-485=5.	@gap{1 line unclear}
+$ (@gap{1 line unclear}) 
 
 {5.B.6 = 6}
 489=6.	Let it be your bane. Let wealth be the inheritance given to you. 
 
 {5.B.7 = 7-8}
-493=7-8.	@gap{2 lines unclear}
+$ (@gap{2 lines unclear}) 
 
 {6.1 = 1-2}
 507=1.	@note{cf. @xref[t.6.1.01,t.6.1.01.1]{6.1.01.1}, @xref[t.6.2.3,]{6.2.3: UET 6/2 291 ll. 1-2}} Who could  
@@ -242,11 +248,11 @@ $ (@gap{1 line fragmentary})
 547=9.	a pestle (?) without a handle (?) ……. 
 
 {6.10 = 10-11}
-551=10.	… 
-555=11.	… together …… ditch (?) …… friendship ……. 
+551=10.	…… together  
+555=11.	…… ditch (?) …… friendship ……. 
 
 {6.12 = 12}
-559=12.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {7.1 = 1-2}
 567=1.	@note{cf. @xref[t.6.1.09,t.6.1.09.a12]{6.1.09.a12}, @xref[t.6.1.19,t.6.1.19.b1]{6.1.19.b1}, @xref[t.6.1.21,t.6.1.21.b4]{6.1.21.b4}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}} When a fattened pig is about to be slaughtered, 
@@ -272,22 +278,22 @@ $ (@gap{1 line fragmentary})
 617=11.	@note{cf. @xref[t.6.1.03,t.6.1.03.24]{6.1.03.24}} @wDN{Enlil}, when I am aroused (?), my loincloth is gone (?). 
 
 {8.1 = 1-2}
-627=1.	@wDN{Enlil} … 
-631=2.	… abomination ……. 
+627=1.	@wDN{Enlil}  
+631=2.	…… abomination ……. 
 
 {8.3 = 3-7}
-635=3-7.	@gap{5 lines fragmentary}
+$ (@gap{5 lines fragmentary}) 
 
 {9.1 = 1}
-659=1.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {9.2 = 2-3}
-663=2.	… 
-667=3.	… elder brother …… authority (?). 
+663=2.	……  
+667=3.	elder brother …… authority (?). 
 
 {9.4 = 4-5}
 671=4.	A brother …… a wife. 
-$ (@gap{1 line unclear}) 
+$ (@gap{1 line unclear}) 
 
 {9.6 = 6-7}
 679=6.	@note{cf. @xref[t.6.1.14,t.6.1.14.45]{6.1.14.45}, @xref[t.6.1.22,]{6.1.22: ll. 35-37}} A pig was carrying something (?): @q{“Where is my sow?”} 
@@ -295,27 +301,28 @@ $ (@gap{1 line unclear})
 
 {10.A.1 = 1-3}
 695=1.	@note{cf. @xref[t.6.1.03,t.6.1.03.170]{6.1.03.170}, @xref[t.6.1.25,t.6.1.25.13]{6.1.25.13}, @xref[t.6.1.26,t.6.1.26.a10]{6.1.26.a10}} If a …… boatman …… demands an inspection, 
-701=2.	or if the hand touches a woman's genitals  
-705=3.	over her clothes -- it is an abomination to @wDN{Suen}. @gap{unknown no. of lines missing} 
+701=2.	or if the hand touches a woman's genitals over  
+705=3.	her clothes -- it is an abomination to @wDN{Suen}. 
+$ (@gap{unknown no. of lines missing}) 
 
 {10.B.1 = 1-3}
-714=1-3.	@gap{3 lines fragmentary}
+$ (@gap{3 lines fragmentary}) 
 
 {11.1 = 1-2}
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 732=2.	@q{“How can the thing that I have just eaten be standing here?”} 
 
 {11.3 = 3-5}
 740=3.	A snake charmer had a snake. 
 744=4.	He pulled out the tooth ……  
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 
 {12.1 = 1-5}
 756=1.	The clown ……  
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 760=3.	…… your pot ……. 
 764=4.	The clown ……  
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 
 {13.1 = 1-3}
 780=1.	He who despises a just decision, 
@@ -323,9 +330,9 @@ $ (@gap{1 line fragmentary})
 788=3.	is an abomination to @wDN{Utu}. 
 
 {14.1 = 1-3}
-796=1.	A  
-800=2.	bird  
-804=3.	…… a bird …… fat …… bowl. 
+796=1.	A bird  
+800=2.	…… a  
+804=3.	bird …… fat …… bowl. 
 
 {15.1 = 1-3}
 812=1.	An elderly bull running around said, after it had stopped running: 
@@ -364,12 +371,12 @@ $ (@gap{1 line fragmentary})
 922=2.	the young people (?) get married. 
 
 {23.1 = 1-2}
-930=1.	The god of the river ordeal will admire  
-934=2.	the hearts of those who bear words of truth. 
+930=1.	The god of the river ordeal will admire the  
+934=2.	hearts of those who bear words of truth. 
 
 {24.1 = 1-2}
-942=1.	@note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 251 ll. 1-2}, @xref[t.6.2.3,]{6.2.3: UET 6/2 252 ll. 1-2}, @xref[t.4.06.1,]{4.06.1: Seg. C ll. 3-4}, @xref[t.5.2.4,]{5.2.4: l. 9}} A man without a personal god does  
-948=2.	not procure much food nor even a little food. 
+942=1.	@note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 251 ll. 1-2}, @xref[t.6.2.3,]{6.2.3: UET 6/2 252 ll. 1-2}, @xref[t.4.06.1,]{4.06.1: Seg. C ll. 3-4}, @xref[t.5.2.4,]{5.2.4: l. 9}} A man without a personal god does not  
+948=2.	procure much food nor even a little food. 
 
 {25.1 = 1-2}
 956=1.	@note{cf. @xref[t.6.1.03,t.6.1.03.188]{6.1.03.188}} If a leader is being consumed by fire, 

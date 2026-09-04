@@ -25,6 +25,8 @@ open(OUT, ">$out") || die;
 while (<TLIT>) {
     if ($lbl{$.}) {
 	$tr = $lbl{$.};
+    } elsif (/^([^\$\#\@].*?\.)\s/) {
+	warn "$tlit:$.: no entry in labels for MTS $1\n";
     }
     print OUT;
     if (/^\#lem/) {

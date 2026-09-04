@@ -1,7 +1,8 @@
 &Q000352
 
 {A.1 = 1-8}
-12=$ (@gap{8 lines fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{8 lines fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {B.1 = 1-4}
 49=1.	@q[Anzud chick,Ninurta]{“At his command your weapon struck me evilly. 
@@ -51,8 +52,8 @@
 
 {B.33 = 33-35}
 177=33.	By the house the minister @wDN{Isimud} opposed @wDN{Ninurta}. 
-181=34.	The hero @wDN{Ninurta} refused to come out  
-185=35.	and raised his hand against the minister @wDN{Isimud}. 
+181=34.	The hero @wDN{Ninurta} refused to come out and  
+185=35.	raised his hand against the minister @wDN{Isimud}. 
 
 {B.36 = 36-46}
 189=36.	Against @wDN{Ninurta}, @wDN{Enki} fashioned a turtle from the clay of the @fsux{abzu}. 
@@ -83,4 +84,5 @@
 273=57.	@q[Ninmena,Enki]{“You my plant-eater @wDN{Enki}, who shall I send to you? Men will shake their heads in fear ……. 
 277=58.	Who shall I send to you? That name is not @wDN{Enki}. That name is Ugugu-that-does-not-pour (?). 
 281=59.	You who are death which has no mercy, 
-285=60.	who shall I send to you?”} @gap{unknown no. of lines missing} 
+285=60.	who shall I send to you?”} 
+$ (@gap{unknown no. of lines missing}) 

@@ -38,23 +38,34 @@ my $curr_e = undef;
 my @elabels = ();
 my $elindex = 0;
 my $ewarned = 0;
+my $paraline = 0;
 
 open(L, $lbl) || die;
 open(O, ">$out") || die "failed to open '$out' for writing\n";
 while (<L>) {
     if (/^\{(.*?)\s+=/) { # para label
-	$curr_e = $1;	
+	$curr_e = $1;
+	if ($#elabels >= 0) {
+	    warn "$lbl:$paraline: unused labels in para\n"
+		if $#elabels >= $elindex;
+	}
+	$paraline = $.;
 	@elabels = @{$p{$curr_e}};
 	$elindex = 0;
 	$ewarned = 0;
     } else {
-	if (/^(.*?)\./) { # labeled translation line
+	if (/^([^\$].*?)\./) { # labeled translation line
 	    my $ln = $1;
 	    if ($elindex <= $#elabels) {
 		s/^/$elabels[$elindex++]=/;
 	    } else {
 		warn "$lbl:$.: more lines than labels encountered at line $ln.\n"
 		    unless $ewarned++;
+	    }
+	} elsif (/^\$/ && /blank|fragmentary|vacat/) {
+	    my ($n) = (/(\d+)/);
+	    if ($n) {
+		s/^/$elabels[$elindex++]= /;
 	    }
 	}
     }

@@ -3,12 +3,12 @@
 {1 = 1-8}
 9=1.	The heroic @wDN{Nanna-Suen} fixed his mind  
 15=2.	on the city of his mother. 
-19=3.	@wDN{Suen} @wDN{Ašimbabbar} fixed his mind  
-23=4.	on the city of his mother. 
-27=5.	@wDN{Nanna-Suen} fixed his mind on the  
-31=6.	city of his mother and his father. 
-35=7.	@wDN{Ašimbabbar} fixed his mind on  
-39=8.	the city of @wDN{Enlil} and @wDN{Ninlil}: 
+19=3.	@wDN{Suen} @wDN{Ašimbabbar} fixed his mind on  
+23=4.	the city of his mother. 
+27=5.	@wDN{Nanna-Suen} fixed his mind on the city  
+31=6.	of his mother and his father. 
+35=7.	@wDN{Ašimbabbar} fixed his mind on the  
+39=8.	city of @wDN{Enlil} and @wDN{Ninlil}: 
 
 {9 = 9-16}
 43=9.	@q[Nanna-Suen,self]{“I, the hero, will set off for my city. 
@@ -22,7 +22,7 @@
 
 {17 = 17-27}
 75=17.	@q{“The shining city, the pure place ……. 
-$ (@gap{6 lines missing}) 
+$ (@gap{6 lines missing}) 
 80=24.	…… very great, 
 84=25.	…… very great, 
 88=26.	…… very great, 
@@ -44,60 +44,61 @@ $ (@gap{6 lines missing})
 136=38.	He set about constructing (?) a barge and sent for reed matting. 
 
 {39 = 39-48}
-140=39.	@wDN{Nanna-Suen} despatched people to  
-144=40.	@wSN{Tummal} for the barge's reeds. 
+140=39.	@wDN{Nanna-Suen} despatched people to @wSN{Tummal}  
+144=40.	for the barge's reeds. 
 148=41.	@wDN{Ašimbabbar} despatched people to the  
 152=42.	@fsux{abzu} for the barge's pitch. 
 156=43.	@wDN{Nanna-Suen} despatched people to @wSN{Du-ašaga} for its rushes. 
 160=44.	@wDN{Ašimbabbar} despatched people to the  
 164=45.	cypress forest for its strakes (?). 
-168=46.	@wDN{Nanna-Suen} despatched people to the  
-172=47.	forests of @wSN{Kug-nuna} for its ribbing (?). 
+168=46.	@wDN{Nanna-Suen} despatched people to the forests  
+172=47.	of @wSN{Kug-nuna} for its ribbing (?). 
 176=48.	@vart[t151.v1,t151.v1]{@varn{3 mss. add 2 lines in a parallel passage:} @wDN{Ašimbabbar} despatched people to the mountain of fragrant cedar for its beams. } 
 
 {49 = 49-58}
-192=49.	@wDN{Ašimbabbar} despatched people to the  
-196=50.	forests of @wSN{Ebla} for its planking. 
+192=49.	@wDN{Ašimbabbar} despatched people to the forests  
+196=50.	of @wSN{Ebla} for its planking. 
 200=51.	@wDN{Nanna-Suen} despatched people to the fragrant  
 204=52.	cedar forest for its fir wood. 
-208=53.	@wDN{Ašimbabbar} despatched people to the junipers  
-212=54.	of @wSN{Langi} for its ……. 
+208=53.	@wDN{Ašimbabbar} despatched people to the junipers of  
+212=54.	@wSN{Langi} for its ……. 
 216=55.	@wDN{Ašimbabbar} despatched people to  
 220=56.	…… for its ……. 
 224=57.	@wDN{Nanna-Suen} despatched people to the mound of  
 228=58.	…… for its ……. 
 
 {59 = 59-82}
-232=59.	When the barge's reeds were brought to @wDN{Nanna-Suen} from @wSN{Tummal}, 
-236=60.	when the barge's pitch was brought to @wDN{Ašimbabbar} from the @fsux{abzu}, 
-240=61.	when its rushes were brought to @wDN{Nanna-Suen} from @wSN{Du-ašaga}, 
-244=62.	when its strakes (?) were brought to @wDN{Ašimbabbar} from the cypress forest, 
-248=63.	when its ribbing (?) was brought to @wDN{Nanna-Suen} from the forests of @wSN{Kug-nuna}, 
-252=64.	@vart[t151.v2,t151.v2]{@varn{3 mss. add 2 lines:} when its beams were brought to @wDN{Ašimbabbar} from the mountain of fragrant cedar, } when its planking was brought to @wDN{Ašimbabbar} from the forests of @wSN{Ebla}, 
-256=65.	when its fir wood was brought to @wDN{Nanna-Suen} from the fragrant cedar forest, 
-260=66.	when its …… was brought to @wDN{Ašimbabbar} from the junipers of @wSN{Langi}, 
-264=67.	when its …… was brought to @wDN{Ašimbabbar} from ……, 
-268=68.	when its …… was brought to @wDN{Nanna-Suen} from the mound of ……, 
-$ (@gap{1 line fragmentary}) 
-275=70.	@wDN{Utu}  
-279=71.	rejoiced  
-284=72.	at  
-288=73.	him  
-292=74.	and  
-296=75.	put  
-300=76.	 
-304=77.	……. 
-308=78.	@wDN{Gibil}  
-312=79.	rejoiced  
-316=80.	at  
-320=81.	him.  
-324=82.	 
+232=59.	When the barge's reeds were  
+236=60.	brought to @wDN{Nanna-Suen} from @wSN{Tummal}, 
+240=61.	when the barge's pitch was brought  
+244=62.	to @wDN{Ašimbabbar} from the @fsux{abzu}, 
+248=63.	when its rushes were brought  
+252=64.	to @wDN{Nanna-Suen} from @wSN{Du-ašaga}, 
+256=65.	when its strakes (?) were brought to  
+260=66.	@wDN{Ašimbabbar} from the cypress forest, 
+264=67.	when its ribbing (?) was brought to  
+268=68.	@wDN{Nanna-Suen} from the forests of @wSN{Kug-nuna}, 
+275=69.	@vart[t151.v2,t151.v2]{@varn{3 mss. add 2 lines:} when its beams were brought to @wDN{Ašimbabbar} from the mountain of fragrant cedar, } when its planking was brought to  
+279=70.	@wDN{Ašimbabbar} from the forests of @wSN{Ebla}, 
+284=71.	when its fir wood was brought to  
+288=72.	@wDN{Nanna-Suen} from the fragrant cedar forest, 
+292=73.	when its ……  
+296=74.	was brought to @wDN{Ašimbabbar} from the junipers of @wSN{Langi}, 
+300=75.	when its ……  
+304=76.	was brought to @wDN{Ašimbabbar} from ……, 
+308=77.	when its …… was  
+312=78.	brought to @wDN{Nanna-Suen} from the mound of ……, 
+$ (@gap{1 line fragmentary}) 
+316=80.	@wDN{Utu} rejoiced at him and  
+320=81.	put ……. 
+324=82.	@wDN{Gibil} rejoiced at him. 
 
 {147 = 147-150}
-513=147.	@q[Nanna-Suen,self]{“I am @wDN{Nanna-Suen}, I ……, 
+513=147.	(He declared:) @q[Nanna-Suen,self]{“I am @wDN{Nanna-Suen}, I ……, 
 517=148.	I will …… to the house of @wDN{Enlil}. 
 521=149.	I am @wDN{Ašimbabbar}, 
-525=150.	and I will …… to the house of @wDN{Enlil}.”} @gap{6 lines missing} 
+525=150.	and I will …… to the house of @wDN{Enlil}.”} 
+$ (@gap{6 lines missing}) 
 
 {157 = 157-166}
 530=157.	@wDN{Nanna-Suen} will gather bulls for the  
@@ -108,31 +109,31 @@ $ (@gap{1 line fragmentary})
 550=162.	for the house of @wDN{Enlil}. 
 554=163.	@wDN{Ašimbabbar} will feed meal to the  
 558=164.	goats for the house of @wDN{Enlil}. 
-562=165.	@wDN{Nanna-Suen} will … 
-566=166.	… porcupines for the house of @wDN{Enlil}. 
+562=165.	@wDN{Nanna-Suen} will  
+566=166.	…… porcupines for the house of @wDN{Enlil}. 
 
 {167 = 167-175}
-570=167.	@wDN{Ašimbabbar} will … 
-574=168.	… long-tailed bush-rats for the house of @wDN{Enlil}. 
-578=169.	@wDN{Nanna-Suen} will gather (?) turtles (?) and small  
-582=170.	birds for the house of @wDN{Enlil}. 
-586=171.	@wDN{Ašimbabbar} will bring small @fsux{ubi} birds from  
-590=172.	the pond for the house of @wDN{Enlil}. 
-594=173.	@wDN{Nanna-Suen} will bring small  
-598=174.	@fsux{azagun} birds from the  
+570=167.	@wDN{Ašimbabbar} will  
+574=168.	……  
+578=169.	long-tailed bush-rats for the house of @wDN{Enlil}. 
+582=170.	@wDN{Nanna-Suen} will gather (?) turtles (?) and small  
+586=171.	birds for the house of @wDN{Enlil}. 
+590=172.	@wDN{Ašimbabbar} will bring small @fsux{ubi} birds from  
+594=173.	the pond for the house of @wDN{Enlil}. 
+598=174.	@wDN{Nanna-Suen} will bring small @fsux{azagun} birds from the  
 602=175.	…… for the house of @wDN{Enlil}. 
 
 {176 = 176-185}
-606=176.	@wDN{Ašimbabbar} will … 
-610=177.	… @fsux{suḫur} carp for the house of @wDN{Enlil}. 
-614=178.	@wDN{Nanna-Suen} will … 
-618=179.	… @fsux{eštub} carp for the house of @wDN{Enlil}. 
-622=180.	@wDN{Ašimbabbar} will pour the oil of rushes  
-626=181.	onto the water for the house of @wDN{Enlil}. 
-630=182.	@wDN{Nanna-Suen} will fill baskets with  
-634=183.	eggs for the house of @wDN{Enlil}. 
-638=184.	@wDN{Ašimbabbar} will cause old reed and fresh  
-642=185.	reed to thrive for the house of @wDN{Enlil}. 
+606=176.	@wDN{Ašimbabbar} will  
+610=177.	…… @fsux{suḫur} carp for the house of @wDN{Enlil}. 
+614=178.	@wDN{Nanna-Suen} will  
+618=179.	…… @fsux{eštub} carp for the house of @wDN{Enlil}. 
+622=180.	@wDN{Ašimbabbar} will pour the oil of rushes onto  
+626=181.	the water for the house of @wDN{Enlil}. 
+630=182.	@wDN{Nanna-Suen} will fill baskets with eggs  
+634=183.	for the house of @wDN{Enlil}. 
+638=184.	@wDN{Ašimbabbar} will cause old reed and fresh reed  
+642=185.	to thrive for the house of @wDN{Enlil}. 
 
 {186 = 186-197}
 646=186.	@wDN{Nanna-Suen} will cause six hundred ewes to give  

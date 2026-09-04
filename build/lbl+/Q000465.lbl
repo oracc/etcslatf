@@ -8,22 +8,22 @@
 31=5.	@wDN{Ninurta}, surpassing in vigour! 
 35=6.	…… great and majestic strength ……, …… of @wDN{Enlil}, …… of @wDN{Enlil}, ornament of the august shrine! 
 39=7.	…… whose radiance ……! 
-43=9.	$ (@gap{1 line fragmentary}) 
+43=8.	$ (@gap{1 line fragmentary}) 
 47=9.	…… the neck-stock of the gods. 
-51=11.	$ (@gap{1 line fragmentary}) 
+51=10.	$ (@gap{1 line fragmentary}) 
 55=11.	…… among the @wDN{Anuna} gods. 
 59=12.	…… exceptionally mighty ……. 
 63=13.	…… lord, the son of @wDN{Enlil}, who has come forth from the hills, and rides (?) upon the numerous divine powers. 
 67=14.	…… great hero, surpassing dragon, perfect lord, …… without rival (?)! 
 71=15.	Great hero confident in his strength! 
-75=17.	$ (@gap{1 line fragmentary}) 
+75=16.	$ (@gap{1 line fragmentary}) 
 79=17.	……, whose decisions cannot be countermanded, …… what he says is firm. 
 83=18.	…… august son of @wDN{Enlil}! 
 87=19.	…… overpowers (?) the mountains, …… the Great Mountain @wDN{Enlil} …… in the @wTN{E-kur}, throughout the entire extent of heaven and earth. 
 91=20.	…… his great …… covers ……. 
 95=21.	…… raging ……. 
-99=23.	$ (@gap{1 line fragmentary}) 
-$ (@gap{up to 8 lines missing}) 
+99=22.	$ (@gap{1 line fragmentary}) 
+103=23.	$ (@gap{up to 8 lines missing}) 
 
 {1.B.B.1 = 1-4}
 144=1.	His words are precious, and what he says is true. 
@@ -63,26 +63,29 @@ $ (@gap{up to 8 lines missing})
 264=27.	…… the rebellious, disobedient land! 
 268=28.	…… his majestic mace the enemy! 
 272=29.	…… battle …… enemy! 
-276=30.	May …… @wRN{Išme-@wDN{Dagan}} ……! @gap{unknown no. of lines missing} 
+276=30.	May …… @wRN{Išme-@wDN{Dagan}} ……! 
+$ (@gap{unknown no. of lines missing}) 
 
 {1.C.E.1 = 1-9}
-$ (@gap{2 lines fragmentary}) 
-289=2.	…… lord of the nether world. 
-295=3.	@wDN{Enki} ……. 
-299=$ (@gap{5 lines fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{2 lines fragmentary}) 
+289=3.	…… lord of the nether world. 
+295=4.	@wDN{Enki} ……. 
+$ (@gap{5 lines fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {1.D.F.1 = 1-18}
-$ (@gap{8 lines fragmentary}) 
-336=2.	…… @wDN{Enki} ……  
-342=$ (@gap{9 lines fragmentary} @gap{unknown no. of lines missing}) 
+$ (@gap{8 lines fragmentary}) 
+336=9.	…… @wDN{Enki} ……  
+$ (@gap{9 lines fragmentary}) 
+$ (@gap{unknown no. of lines missing}) 
 
 {2.A.1 = 1-19}
-$ (@gap{up to 3 lines missing}) 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{up to 3 lines missing}) 
+$ (@gap{1 line fragmentary}) 
 422=5.	rising raging storm ……, …… lion ……, 
 426=6.	…… like ……. @wDN{Ninurta} ……. 
 430=7.	…… strength ……. 
-$ (@gap{3 lines fragmentary}) 
+$ (@gap{3 lines fragmentary}) 
 434=11.	…… the neck-stock of the gods. …… who has no rival, 
 438=12.	…… the foreign countries. @wDN{Ninurta}, …… @wDN{Anuna} gods! 
 442=13.	Lord in the @wTN{E-kur}, mighty ……! 
@@ -101,17 +104,17 @@ $ (@gap{3 lines fragmentary})
 514=24.	@wDN{Ninurta}, prominent in the @wTN{E-kur}! 
 518=25.	His huge storm ……. 
 522=26.	…… furious …… against the rebel lands. 
-$ (@gap{1 line fragmentary}) 
+$ (@gap{1 line fragmentary}) 
 526=28.	@wDN{Ninurta}, ……, great hero, 
 530=29.	who …… the enemy. 
 534=30.	Hero …… @wDN{Enlil} ……. 
-$ (@gap{2 lines fragmentary}) 
+$ (@gap{2 lines fragmentary}) 
 538=33.	…… wicked ……. 
 542=34.	His …… on the foreign countries, 
 546=35.	…… covers the Land like a garment. 
 
 {2.A.36 = 36-45}
-$ (@gap{4 lines fragmentary}) 
+$ (@gap{4 lines fragmentary}) 
 562=40.	Great hero, ……. 
 566=41.	The @wDN{Anuna} gods ……. 
 570=42.	His ……, …… are precious. 
@@ -123,8 +126,8 @@ $ (@gap{4 lines fragmentary})
 604=46.	@fsux{Sa-gida}. 
 
 {2.B.47 = 47-48}
-614=47.	… 
-618=48.	… @wRN{Išme-@wDN{Dagan}} …… life ……. 
+614=47.	…… @wRN{Išme-@wDN{Dagan}}  
+618=48.	…… life ……. 
 
 {2.B.49 = 49}
 624=49.	Its @fsux{ŋišgiŋal} of the @fsux{sa-gida}. 
@@ -138,7 +141,7 @@ $ (@gap{4 lines fragmentary})
 654=55.	@wDN{Ninurta}, …… foremost ……, 
 658=56.	great wild bull, 
 662=57.	…… by @wDN{Enlil} ……! 
-$ (@gap{2 lines fragmentary}) 
+$ (@gap{2 lines fragmentary}) 
 666=60.	…… of @wDN{Enlil}, the Great Mountain. 
 670=61.	…… the distant hills. 
 674=62.	…… the enemy ……. 
@@ -146,8 +149,9 @@ $ (@gap{2 lines fragmentary})
 682=64.	the son of ……. 
 
 {2.C.65 = 65}
-696=65.	@gap{1 line fragmentary}
+$ (@gap{1 line fragmentary}) 
 
 {2.D.66 = 66-69}
 706=66.	…… obliterates the foreign countries ……. 
-$ (@gap{3 lines fragmentary} @gap{up to 6 lines missing}) 
+$ (@gap{3 lines fragmentary}) 
+$ (@gap{up to 6 lines missing}) 

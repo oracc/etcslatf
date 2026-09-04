@@ -45,7 +45,7 @@ lb_choose(Par *p)
       int nsent = count_sentences(p->segs);
       if (nsent == GOALG(p))
 	lbc_identity_sent(p);
-      else if ((nsent % GOALG(p)) == 0)
+      else if (!p->ngaps && (nsent % GOALG(p)) == 0)
 	lbc_multiple_sent(p, nsent / GOALG(p));
       else
 	{
@@ -69,41 +69,30 @@ lb_choose(Par *p)
   lb_log_segs2(p);
 }
 
-#if 0
-void
-lb_label(Par *p)
-{
-  int i;
-  int n = 0;
-  int j = -1;
-  /*p->segs[0]->label = p->labels[0];*/
-  for (i = 0; i < p->nsegs; ++i)
-    {
-      if (-1 == j)
-	j = i;
-
-      if (p->segs[i]->lb)
-	{
-	  p->segs[j]->label = p->labels[n++];
-	  j = -1;
-	}
-      else if ('0' == p->segs[i]->b)
-	p->segs[i]->label = p->labels[n++];
-    }
-}
-#endif
-
 static void
 lbc_identity(Par *p)
 {
   int i;
   p->choice = C_IDENT;
+  int nlabel = 0;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if (!p->segs[i]->unlabeled)
-	p->segs[i]->label = p->labels[i];	
       if ('0' != p->segs[i]->b)
-	p->segs[i]->lb = 1;
+	{
+	  p->segs[i]->lb = 1;
+	  if (p->labels[nlabel])
+	    p->segs[i]->label = p->labels[nlabel++];
+	  else
+	    fprintf(stderr, "ran out of labels at %d\n", nlabel);
+	}
+      else
+	{
+	  if (p->segs[i]->unlabeled)
+	    {
+	      p->segs[i]->lb = 1;
+	      nlabel += p->segs[i]->unlabeled;
+	    }
+	}
     }
 }
 
@@ -163,12 +152,15 @@ lb_label_sent(Par *p)
   for (i = 0; i < p->nsegs; ++i)
     {
       if (p->segs[i]->unlabeled)
-	p->segs[i]->label = p->labels[nlabel += p->segs[i]->unlabeled];
-      else
+	{
+	  p->segs[i]->label = p->labels[nlabel];
+	  nlabel += p->segs[i]->unlabeled;
+	}
+      else if ('0' != p->segs[i]->b)
 	{
 	  p->segs[i]->label = p->labels[nlabel++];
 	  head = i;
-	  while ((i+1) < p->nsegs && !p->segs[i]->lb)
+	  while ((i+1) < p->nsegs && !p->segs[i]->lb && '0' != p->segs[i]->b)
 	    {
 	      p->segs[i]->next = p->segs[i+1];
 	      ++i;
@@ -186,9 +178,9 @@ lbc_identity_sent(Par *p)
   int i;
   for (i = 0; i < p->nsegs; ++i)
     {
-      if ('0' == p->segs[i]->b)
+      if ('0' == p->segs[i]->b && !p->segs[i]->unlabeled)
 	continue;
-      if (sentch[p->segs[i]->b])
+      if (sentch[p->segs[i]->b] || '0' == p->segs[i]->b)
     	p->segs[i]->lb = 1;
     }
   lb_label_sent(p);
@@ -203,7 +195,10 @@ lbc_multiple_sent(Par *p, int n)
   for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' == p->segs[i]->b)
-	continue;
+	{
+	  p->segs[i]->lb = 1;
+	  continue;
+	}
       if (sentch[p->segs[i]->b])
 	{
 	  if (++j == n)

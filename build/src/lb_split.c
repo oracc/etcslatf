@@ -39,6 +39,7 @@ find_longest(Par *p, const char **s, int *w)
   int iw = 0;
   int wmax = 0;
   int imax = 0;
+  int ellipsis_break = 0;
 
  retry:
   for (wmax = 0; iw < p->nsegs; ++iw)
@@ -51,31 +52,41 @@ find_longest(Par *p, const char **s, int *w)
     }
 
   /* find a split point at a space after the halfway word mark */
+  if (wmax % 2)
+    ++wmax;
   int nw = wmax / 2, xw = 0;
   const char *sp = p->segs[imax]->o;
   while (sp <= p->segs[imax]->c)
     {
       if (isspace(*sp))
 	{
-	  if (++xw == nw)
+	  if (++xw >= nw)
 	    break;
 	  else
 	    ++sp;
 	}
       else if (ELLIPSIS(sp))
 	{
-	  if ((xw+=2) < nw)
+	  /* there are normally two ellipses together in ETCSL corpus */
+	  /* If both are less than the goal, process them and continue */
+	  if (!xw || xw+4 < nw)
 	    {
+	      xw += 2;
 	      sp += 3;
-	      if (!ELLIPSIS(sp))
+	      if (ELLIPSIS(sp))
 		{
-		  if ('.' == *sp || ',' == *sp)
-		    ++sp;
-		  break;
+		  xw += 2;
+		  sp += 3;
 		}
 	    }
 	  else
-	    break; /* we overflowed the word goal so this one won't work */
+	    {
+	      /* take the break point before the ellipsis */
+	      if ('.' == *sp || ',' == *sp)
+		++sp;
+	      ellipsis_break++;
+	      break;
+	    }
 	}
       else if ('@' == *sp)
 	sp = lb_skip_tag_and_arg(++sp);
@@ -85,7 +96,7 @@ find_longest(Par *p, const char **s, int *w)
 	++sp;
     }
   /* Did we fail to find enough words? */
-  if (xw < nw || xw >= p->segs[imax]->w)
+  if (!ellipsis_break && (xw < nw || xw >= p->segs[imax]->w))
     {
       if ((imax+1) < p->nsegs)
 	{
@@ -139,10 +150,6 @@ lb_split_segs(Memo *segmem, Par *p)
       int w;
 
       int splitme = 0;
-#if 0
-      splitme = find_and(p, &split, &w);
-      if (splitme < 0)
-#endif
       splitme = find_longest(p, &split, &w);
       if (splitme >= 0)
 	{
@@ -177,7 +184,8 @@ lb_split_segs(Memo *segmem, Par *p)
 	}
       else
 	{
-	  fprintf(stderr, "%s:%s: lb_split_segs failed\n", p->t->Q, p->label);
+	  fprintf(stderr, "%s:%s: lb_split_segs failed: nlabs=%d; re_goal=%d\n",
+		  p->t->Q, p->label, p->nlabs, p->re_goal);
 	  break;
 	}
     }

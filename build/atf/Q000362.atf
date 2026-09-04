@@ -66,7 +66,7 @@
 
 1.A.E. ŋi₆#-par₄# [...]
 #lem: ŋipar[cloister]; X
-#tr.en: } @vart[t1812.v2,t1812.v1]{@varn{1 ms. has instead:} …… his mother who bore him spoke to the lord: @q[Ninsumun,Gilgamec]{“My king …… in the river, my lord …… your garden.”} @gap{2 lines unclear} } @gap{unknown no. of lines missing} 
+#tr.en: } @vart[t1812.v2,t1812.v1]{@varn{1 ms. has instead:} …… his mother who bore him spoke to the lord: @q[Ninsumun,Gilgamec]{“My king …… in the river, my lord …… your garden.”} @gap{2 lines unclear} }  
 #etcsl: line-id=1.A.11
 
 @variant
@@ -158,7 +158,7 @@ $ (unknown no. of lines missing)
 
 1.B.13. niŋ₂-ba {d}inana ŋi₆-par₄-zu-še₃ nam-ba-ni-ku₄-ku₄
 #lem: niŋba[gift]; Inanak[1]DN; ŋipar[cloister]; kur[enter]
-#tr.en: @q[Gilgamec,Inana]{“I shall certainly not try to take over the portion of @wDN{Inana} in your @fsux{ŋipar}. 
+#tr.en: (@wDN{Gilgameš} speaks:) @q[Gilgamec,Inana]{“I shall certainly not try to take over the portion of @wDN{Inana} in your @fsux{ŋipar}. 
 #etcsl: line-id=1.B.13
 
 1.B.14. {d}nin-e₂-gal a₂ nam-ur-saŋ-ŋa₂-ke₄-eš₂ nam-bi-ši-X
@@ -250,7 +250,7 @@ $ (unknown no. of lines missing)
 
 1.B.31. šag₄#-bi# [...]
 #lem: šag[heart]; X
-#tr.en: @q[An,Inana]{“Its entrails (?)……. 
+#tr.en: (@wDN{An} speaks:) @q[An,Inana]{“Its entrails (?)……. 
 #etcsl: line-id=1.B.31
 
 1.B.32. kuš-bi [...]
@@ -265,7 +265,7 @@ $ (unknown no. of lines missing)
 
 1.B.34. [...] bi₂#-in#-[...]
 #lem: X; X
-#tr.en: $ (@gap{1 line fragmentary}) 
+#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=1.B.34
 
 1.B.35. {d}inana-ke₄ a ši-im-lu-lu šurum i₃-X [...] X
@@ -308,7 +308,7 @@ $ (unknown no. of lines missing)
 
 1.B.42. a ši-im-lu₃-lu₃-e šurum gur₄-gur₄-re
 #lem: a[water]; lu[mix]; šurum[dung]; gur[thick]
-#tr.en: @q[Inana,An]{“Maybe it will muddy the waters, 
+#tr.en: (@wDN{Inana} speaks:) @q[Inana,An]{“Maybe it will muddy the waters, 
 #etcsl: line-id=1.B.42
 
 1.B.43. a-a-ŋu₁₀ gud an-na %e ha-ma-ze₂-eŋ₃-e# %s [...]
@@ -1158,7 +1158,6 @@ $ (unknown no. of lines missing)
 
 2.C.1. [...] BI X [...]
 #lem: X; X; X; X
-#tr.en: @gap{5 lines fragmentary}
 #etcsl: line-id=2.C.1
 
 #etcsl#doc It is uncertain if this segment belongs here.
@@ -1186,7 +1185,6 @@ $ (unknown no. of lines missing)
 
 2.D.1. [...] X [...]
 #lem: X; X; X
-#tr.en: @gap{4 lines fragmentary}
 #etcsl: line-id=2.D.1
 
 2.D.2. [...] X X TUG₂ ba-ni#-[...]
@@ -1580,12 +1578,12 @@ $ (unknown no. of lines missing)
 
 3.B.3. [X X a₂] nam#-ur-saŋ-ŋa₂-ŋu₁₀
 #lem: X; X; a[arm]; namursaŋ[heroism]
-#tr.en: … 
+#tr.en: …… shall  
 #etcsl: line-id=3.B.3
 
 3.B.4. tug₂# nam-i₃-dul-e
 #lem: tug[textile]; dul[cover]
-#tr.en: … shall not cover my valiant arm with a garment (?)! 
+#tr.en: not cover my valiant arm with a garment (?)! 
 #etcsl: line-id=3.B.4
 
 @end segment
