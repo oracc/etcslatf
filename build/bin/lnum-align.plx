@@ -35,18 +35,21 @@ foreach (@l) {
 
 # read the labels file
 my @label = (); @l = `cat $lbl`; chomp @l;
-my $para = undef;
+my @paras = ();
+my $pareid = undef;
 foreach (@l) {
     next if /^\s*$/ || /^\&/;
     if (/^{(.*?)}/) {
-	$para = $1;
+	$pareid = $1;
+	$pareid =~ s/\s.*$//;
+	push @paras, $pareid;
     } else {
 	tr/\cX\cY//d;
 	if (/^\$/) {
-	    push @label, [ '' , $_ , $para ];
+	    push @label, [ '' , $_ , $#paras ];
 	} else {
 	    /^(.*?)\.\s+(.*?)\s*$/;
-	    push @label, [ $1 , "#tr.en: $2" , $para ];
+	    push @label, [ $1 , "#tr.en: $2" , $#paras ];
 	}
     }
 }
@@ -62,6 +65,7 @@ my @tr = ();
 
 open(L, ">$log") || die;
 while ($ln <= $ln_top) {
+  resync:
     my $lnn = ${$lnums[$ln]}[0] || '';
     my $lbn = ${$label[$lb]}[0] || '$';
     # lnum_log("start: $lnn [ln=$ln/$ln_top] and $lbn [lb=$lb/$lb_top]\n");
@@ -102,8 +106,8 @@ while ($ln <= $ln_top) {
 		++$lb; # unless $frag > 0;
 	    } else {
 		lnum_log("EID/\$ mismatch: $lnn vs $lbc\n");
-		# could try some resync here
-		++$lb;
+		resync();
+		goto resync;
 	    }
 	} else {
 	    lnum_log("EID/EID mismatch: $lnn != $lbn\n");
@@ -128,7 +132,8 @@ while ($ln <= $ln_top) {
 	} else {
 	    lnum_log("\$/EID mismatch $lnn != label $lbn\n");
 	    ++$lb;
-	    ## ($ln,$lb) = resync($ln,$lb);
+	    resync();
+	    goto resync;
 	}
     }
     ++$ln;
@@ -143,6 +148,35 @@ print_tr();
 
 sub lnum_log {
     print L @_;
+}
+
+# lb is the label index; the arg is the EID at the start of the
+# paragraph following the one where things got unsynced
+sub move_lb_to {
+    my $to_eid = shift;
+    while ($lb <= $lb_top) {
+	if (${$label[$lb]}[0] eq $to_eid) {
+	    last;
+	} else {
+	    ++$lb;
+	}
+    }
+    warn "move_lb_to $to_eid failed\n"
+	if $lb > $lb_top;
+}
+
+# as above but with ln/lnums
+sub move_ln_to {
+    my $to_eid = shift;
+    while ($ln <= $ln_top) {
+	if (${$lnums[$ln]}[0] eq $to_eid) {
+	    last;
+	} else {
+	    ++$ln;
+	}
+    }
+    warn "move_ln_to $to_eid failed\n"
+	if $ln > $ln_top;
 }
 
 sub need_frag {
@@ -169,4 +203,26 @@ sub print_tr {
 	print "$$tr[0]\t$$tr[1]\n";
     }
     close(O);
+}
+
+# This routine is called when the line and label eids don't match.
+# The short resync is to look a line or two ahead on each side and see
+# if that produces a match; the long resync is to reset to the next
+# paragraph start.
+sub resync {
+    my $par_index = ${$label[$lb]}[2];
+    my $par_eid = $paras[$par_index+1]; # restart at the next para
+    my $off_ln = $ln;
+    my $off_lb = $lb;
+    move_lb_to($par_eid);
+    move_ln_to($par_eid);
+    if ($ln < $ln_top && $lb < $lb_top) {
+	while ($off_lb < $lb) {
+	    if (${$label[$off_lb]}[1]) {
+		push @tr, [ $off_ln, ${$label[$off_lb]}[1] ];
+	    }
+	}
+    } else {
+	die "resync failed; giving up\n";	
+    }
 }

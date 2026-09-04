@@ -7,8 +7,8 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.03&display=Crit&charenc=gcirc#
 
 1. lugal-ŋa₂ u₃-na-dug₄
+#tr.en: Speak to my lord: this is what @wPN{@wDN{Nanna}-ki-aŋ} the general, your servant, says:
 #lem: lugal[king]; dug[speak]
-#tr.en: Speak to my lord: this is what @wPN{@wDN{Nanna}-ki-aŋ} the general, your servant, says: 
 #etcsl: line-id=1
 
 2. {m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
@@ -20,86 +20,86 @@
 #etcsl: line-id=3
 
 4. e₂-danna{da-na}{ki!#} lugal-ŋu₁₀ ba-an-da-bal
+#tr.en: @wSN{E-danna} has turned against my lord.
 #lem: Edanna[1]SN; lugal[king]; bala[turn]
-#tr.en: @wSN{E-danna} has turned against my lord. 
 #etcsl: line-id=4
 
 5. šag₄ e₂-danna{da-na}-še₃ 6 me-at ugnim gu-un-gu-nu-um
+#tr.en: @wPN{Atta-mannum} has made six hundred troops
 #lem: šag[heart]; Edanna[1]SN; n; n; ugnim[army]; Gungunum[1]RN
-#tr.en: @wPN{Atta-mannum} has made six hundred troops  
 #etcsl: line-id=5
 
 6. {m}at-ta-ma-an-nu-um ba-ni-in-kur₉
+#tr.en: of @wRN{Gungunum} enter into @wSN{E-danna}.
 #lem: Attamannum[1]PN; kur[enter]
-#tr.en: of @wRN{Gungunum} enter into @wSN{E-danna}. 
 #etcsl: line-id=6
 
 7. ugnim-bi iri-saŋ-an-na libir-ra-še₃ ku₄-ku₄-de₃ la-ba-šum₂
+#tr.en: I would not allow these troops to enter old @wSN{Iri-saŋ-ana}.
 #lem: ugnim[army]; Irisaŋanna[1]SN; libir[old]; kur[enter]; šum[give]
-#tr.en: I would not allow these troops to enter old @wSN{Iri-saŋ-ana}. 
 #etcsl: line-id=7
 
 8. iri#{ki}-gibil-am₃ al-dur₂-ru-ne-eš
+#tr.en: They camped instead in @wSN{Iri-gibil}.
 #lem: Irigibil[1]SN; durun[sit]
-#tr.en: They camped instead in @wSN{Iri-gibil}. 
 #etcsl: line-id=8
 
 9. (1:ugnim-bi:1) gu₂ id₂-amar-{d}suen-ka-ta
+#tr.en: @varh[t3203.v1]{These troops } @vart[t3203.v2,t3203.v1]{@varn{1 ms. has instead:} The troops of @wRN{Gungunum} } have come from the banks of the @wWN{Id-@wRN{Amar-Suena}} watercourse,
 #lem: ugnim[army]; gu[neck]; Idamarsuena[1]WN
-#tr.en: @varh[t3203.v1]{These troops } @vart[t3203.v2,t3203.v1]{@varn{1 ms. has instead:} The troops of @wRN{Gungunum} } have come from the banks of the @wWN{Id-@wRN{Amar-Suena}} watercourse, 
 #etcsl: line-id=9
 
 :9v.1.1: ($1 ms. has instead:$) ugnim# gu-un-gu-nu-um
 #lem: ugnim[army]; Gungunum[1]RN
 
 10. [...] du₃#-u₃-de₃ du-un-nu-um{ki} ak-de₃
+#tr.en: in order to build ……,
 #lem: X; du[build]; Dunnum[1]SN; ak[do]
-#tr.en: in order to build ……, 
 #etcsl: line-id=10
 
 11. [...] X X-al-e-de₃ ba-ŋen
+#tr.en: to make @wSN{Dunnum} ready (?) and to …….
 #lem: X; X; X; ŋen[go]
-#tr.en: to make @wSN{Dunnum} ready (?) and to ……. 
 #etcsl: line-id=11
 
 12. tukum#-[bi] lugal-ŋu₁₀ NIM {ŋiš}pan# {ŋiš}gag-pan
+#tr.en: If my lord does not …… crews of highlanders,
 #lem: tukumbi[if]; lugal[king]; X; pana[bow]; kakpana[arrow]
-#tr.en: If my lord does not …… crews of highlanders, 
 #etcsl: line-id=12
 
 13. {ŋiš}ma₂ tur-tur šu-KU₆ X X X
+#tr.en: bows, arrows, small boats, fishermen ……, their tied-up leather sacks,
 #lem: ma[ship]; tur[small]; šukud[fisherman]; X; X; X
-#tr.en: bows, arrows, small boats, fishermen ……, their tied-up leather sacks, 
 #etcsl: line-id=13
 
 14. {kuš}a-ŋa₂-[la₂] keše₂-da-bi {ŋiš}tukul {ŋiš}[...] {[ŋiš]}šu#-kar₂
+#tr.en: weapons, …… and implements,
 #lem: aŋala[leather sack]; kešed[bind]; tukul[weapon]; X; šukara[tool]
-#tr.en: weapons, …… and implements, 
 #etcsl: line-id=14
 
 15. a₂ me₃ [...] nu-um-ta-[...] DU
+#tr.en: the armaments of battle,
 #lem: a[arm]; me[battle]; X; X; X
-#tr.en: the armaments of battle, 
 #etcsl: line-id=15
 
 16. ugnim [...] gu₂ id₂-amar-{[d]}[suen-ka]-ta
+#tr.en: then the troops will construct brick structures by the bank of the @wWN{Id-@wRN{Amar-Suena}} watercourse,
 #lem: ugnim[army]; X; gu[neck]; Idamarsuena[1]WN
-#tr.en: then the troops will construct brick structures by the bank of the @wWN{Id-@wRN{Amar-Suena}} watercourse, 
 #etcsl: line-id=16
 
 17. šeg₁₂ ba-du₃-e X [...] X X-e u₃ id₂ [...] al-ba-al-e
+#tr.en: …… and dig a …… canal.
 #lem: šeg[brick]; du[build]; X; X; X; X; u[and]; id[river]; X; bal[dig]
-#tr.en: …… and dig a …… canal. 
 #etcsl: line-id=17
 
 18. lugal-ŋu₁₀ nam-ba-e-še-ba-e-ne
+#tr.en: They should not be neglectful, my lord!
 #lem: lugal[king]; šebida[disdain]
-#tr.en: They should not be neglectful, my lord! 
 #etcsl: line-id=18
 
 19. a-ma-ru-kam
+#tr.en: It is urgent!
 #lem: amaru[flood]
-#tr.en: It is urgent! 
 #etcsl: line-id=19
 
 

@@ -7,194 +7,194 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.1.19&display=Crit&charenc=gcirc#
 
 1. {d#}i-bi₂-{d}suen lugal-ŋu₁₀-ra
+#tr.en: Say to @wRN{Ibbi-@wDN{Suen}}, my lord:
 #lem: Ibbisuen[1]RN; lugal[king]
-#tr.en: Say to @wRN{Ibbi-@wDN{Suen}}, my lord: 
 #etcsl: line-id=1
 
 2. u₃-na-a-dug₄
+#tr.en: this is what @wPN{Puzur-@wRN{Šulgi}}, the governor of @wSN{Kazallu},
 #lem: dug[speak]
-#tr.en: this is what @wPN{Puzur-@wRN{Šulgi}}, the governor of @wSN{Kazallu}, 
 #etcsl: line-id=2
 
 3. {m}puzur₄-{d}šul#-gi ensi₂ ka-zal-lu{ki} arad-zu na-ab-be₂-a
+#tr.en: your servant, says:
 #lem: Puzuršulgir[1]PN; ensik[ruler]; Kazallu[1]SN; arad[slave]; e[speak]
-#tr.en: your servant, says: 
 #etcsl: line-id=3
 
 4. lu₂-kiŋ₂-gi₄-a {d}iš-bi-er₃-ra ugu-ŋu₁₀ i-im-ŋen
+#tr.en: A messenger of @wRN{Išbi-@wDN{Erra}} came to me.
 #lem: kiŋgia[messenger]; Išbierra[1]RN; ugu[skull]; ŋen[go]
-#tr.en: A messenger of @wRN{Išbi-@wDN{Erra}} came to me. 
 #etcsl: line-id=4
 
 5. igi-ni ma-an-ŋar-ma
+#tr.en: He presented himself before me announcing:
 #lem: igi[eye]; ŋar[put]
-#tr.en: He presented himself before me announcing: 
 #etcsl: line-id=5
 
 6. {d}iš-bi-er₃-ra lugal-ŋu₁₀ ugu-zu-še₃ kiŋ₂-gi₄-a im-mi-in-gi₄#
+#tr.en: @q[messenger,Puzur-Culgi]{“@wRN{Išbi-@wDN{Erra}}, my lord, sends you a message:”}
 #lem: Išbierra[1]RN; lugal[king]; ugu[skull]; kiŋgia[messenger]; gi[turn]
-#tr.en: @q[messenger,Puzur-Culgi]{“@wRN{Išbi-@wDN{Erra}}, my lord, sends you a message:”} 
 #etcsl: line-id=6
 
 7. {d}en-lil₂ lugal-ŋu₁₀ nam-sipad kalam-ma KA-KA-ni ba-an-SUM
+#tr.en: @q{“@q[Icbi-Erra,messenger]{“@wDN{Enlil}, my lord, has …… the shepherdship of the land.
 #lem: Enlil[1]DN; lugal[king]; namsipad[shepherdship]; kalam[the Land (of Sumer)]; X; X
-#tr.en: @q{“@q[Icbi-Erra,messenger]{“@wDN{Enlil}, my lord, has …… the shepherdship of the land. 
 #etcsl: line-id=7
 
 8. gu₂ {id₂}idigna gu₂ {id₂}buranuna gu₂ {id₂}ab₂-gal u₃ gu₂ {id₂}me-{d}en-lil₂-la₂
+#tr.en: @wDN{Enlil} has told me to bring before @wDN{Ninisina} the cities,
 #lem: gu[neck]; Idigna[1 Tigris]; gu[neck]; Buranun[1 Euphrates]; gu[neck]; Abgal[1]WN; u[and]; gu[neck]; Meʾenlila[1]WN
-#tr.en: @wDN{Enlil} has told me to bring before @wDN{Ninisina} the cities, 
 #etcsl: line-id=8
 
 9. iri{ki}-be₂-e-ne diŋir-be₂-e-ne u₃ ugnim-be₂-e-ne
+#tr.en: deities and troops of the region of the @wWN{Tigris},
 #lem: iri[city]; diŋir[deity]; u[and]; ugnim[army]
-#tr.en: deities and troops of the region of the @wWN{Tigris}, 
 #etcsl: line-id=9
 
 10. ma-da ha-ma-zi{ki}-ta (1:en-na a-ab-ba ma₂-gan-na{ki}-še₃:1)
+#tr.en: @wWN{Euphrates},
 #lem: mada[land]; Hamazi[1]SN; enna[until]; aʾabak[sea]; Magan[1]GN
-#tr.en: @wWN{Euphrates}, 
 #etcsl: line-id=10
 
 :10v.1.1: ($1 ms. has instead:$) X A ma₂-gan-an-na{ki}-ta
 #lem: X; X; Magan[1]GN
 
 11. igi {d}nin-isin₂{si}-na-ka-še₃# ku₄-ku₄-de₃
+#tr.en: @wWN{Ab-gal} and @wWN{Me-@wDN{Enlila}} watercourses,
 #lem: igi[eye]; Ninisinak[1]DN; kur[enter]
-#tr.en: @wWN{Ab-gal} and @wWN{Me-@wDN{Enlila}} watercourses, 
 #etcsl: line-id=11
 
 12. i₃-si-in{ki} nam-ŋa₂-nun {d}en-lil₂-la₂-še₃ ŋa₂-ŋa₂-da mu-še₃ tuku-tuku-de₃
+#tr.en: from the province of @wGN{Ḫamazi}@varh[t3119.v1]{to the sea of @wGN{Magan} } @vart[t3119.v2,t3119.v1]{@varn{1 ms. has instead:} and from the …… of @wGN{Magan} }, so as to make @wSN{Isin} the storehouse of @wDN{Enlil},
 #lem: Isin[1]SN; namŋanun[storage]; Enlil[1]DN; ŋar[put]; mu[name]; tuku[acquire]
-#tr.en: from the province of @wGN{Ḫamazi}@varh[t3119.v1]{to the sea of @wGN{Magan} } @vart[t3119.v2,t3119.v1]{@varn{1 ms. has instead:} and from the …… of @wGN{Magan} }, so as to make @wSN{Isin} the storehouse of @wDN{Enlil}, 
 #etcsl: line-id=12
 
 13. (1:nam-ra-ak-ne-ne-a ak-de₃ iri{ki}-iri{ki}-bi tuš-tuš-u₃-de₃:1)
+#tr.en: to make it famous,
 #lem: namraʾak[looting]; ak[do]; iri[city]; tuš[sit (down)]
-#tr.en: to make it famous, 
 #etcsl: line-id=13
 
 :13v.1.1: ($1 ms. has instead:$) nam-ra-ak-ne-ne iri{ki}-iri{ki} tuš-tuš-u₃-de₃
 #lem: namraʾak[looting]; iri[city]; tuš[sit (down)]
 
 14. {d}en-lil₂-le ŋa₂-a-ra ma-an-dug₄
+#tr.en: and @varh[t3119.v3]{to make those regions its spoils of war and to make @wSN{Isin's} citizens occupy their cities } @vart[t3119.v4,t3119.v3]{@varn{1 ms. has instead:} to make @wSN{Isin's} citizens occupy the cities as spoils of war. }”}”}
 #lem: Enlil[1]DN; ŋaʾe[I]; dug[speak]
-#tr.en: and @varh[t3119.v3]{to make those regions its spoils of war and to make @wSN{Isin's} citizens occupy their cities } @vart[t3119.v4,t3119.v3]{@varn{1 ms. has instead:} to make @wSN{Isin's} citizens occupy the cities as spoils of war. }”}”} 
 #etcsl: line-id=14
 
 15. a-na-aš-am₃ gu₂ mu-da-ak-e
+#tr.en: @q{“@q{“Why do you oppose (?) me?
 #lem: anaš[why?]; gu[neck]; ak[do]
-#tr.en: @q{“@q{“Why do you oppose (?) me? 
 #etcsl: line-id=15
 
 16. (1:mu {d}en-lil₂ lugal-ŋu₁₀ u₃ {d}da-gan diŋir-ŋu₁₀ i₃-pad₃:1)
+#tr.en: @varh[t3119.v5]{I swear by the name of my lord @wDN{Enlil} and by @wDN{Dagan},
 #lem: mu[name]; Enlil[1]DN; lugal[king]; u[and]; Dagan[1]DN; diŋir[deity]; pad[find]
-#tr.en: @varh[t3119.v5]{I swear by the name of my lord @wDN{Enlil} and by @wDN{Dagan}, 
 #etcsl: line-id=16
 
 :16v.1.1: ($2 mss. have instead:$) mu# {d}da-gan diŋir-ŋa₂ i₃-pad₃
 #lem: mu[name]; Dagan[1]DN; diŋir[deity]; pad[find]
 
 17. ka-zal-lu{ki} šu-ŋa₂ sa₂ he₂-eb-be₂
+#tr.en: my personal god } @vart[t3119.v6,t3119.v5]{@varn{2 mss. have instead:} I swear by the name of @wDN{Dagan}, my personal god }, that I will indeed get hold of @wSN{Kazallu}!”}”}
 #lem: Kazallu[1]SN; šu[hand]; sa[equal]; e[speak]
-#tr.en: my personal god } @vart[t3119.v6,t3119.v5]{@varn{2 mss. have instead:} I swear by the name of @wDN{Dagan}, my personal god }, that I will indeed get hold of @wSN{Kazallu}!”}”} 
 #etcsl: line-id=17
 
 18. iri ma-da {d}en-lil₂-le ma-an-dug₄-ga
+#tr.en: @q{“@q{“The cities and the province which @wDN{Enlil} has promised me @varh[t3119.v7]{I want to build up } @vart[t3119.v8,t3119.v7]{@varn{1 ms. has instead:} I want to place } within @wSN{Isin} in their …….
 #lem: iri[city]; mada[land]; Enlil[1]DN; dug[speak]
-#tr.en: @q{“@q{“The cities and the province which @wDN{Enlil} has promised me @varh[t3119.v7]{I want to build up } @vart[t3119.v8,t3119.v7]{@varn{1 ms. has instead:} I want to place } within @wSN{Isin} in their ……. 
 #etcsl: line-id=18
 
 19. šag₄ i₃-si-in{ki}-na-ka zag#-us₂# X-ne-ne-a (1:ga-bi₂-ib-du₃-du₃:1)
+#tr.en: I want to perform at their @fsux{ešeš} festivals.
 #lem: šag[heart]; Isin[1]SN; X; X; du[build]
-#tr.en: I want to perform at their @fsux{ešeš} festivals. 
 #etcsl: line-id=19
 
 :19v.1.1: ($1 ms. has instead:$) ga-bi₂#-ib-ŋar
 #lem: ŋar[put]
 
 20. eš₃-eš₃-a-ne-ne-a ga-am₃-ak
+#tr.en: I want to install my statues, my emblems,
 #lem: ešeš[festival]; ak[do]
-#tr.en: I want to install my statues, my emblems, 
 #etcsl: line-id=20
 
 21. alan-ŋu₁₀ šu-nir-ŋu₁₀ en (1::1) nin-diŋir-ŋu₁₀-ne-ne
+#tr.en: my @fsux{en} priests @vart[t3119.v9,t3119.v9]{@varn{2 mss. add:} and @fsux{lumaḫ} priests } and @fsux{nindiŋir} priestesses in their @fsux{ŋipar} shrines.
 #lem: alan[image]; šunir[emblem]; en[priest]; erešdiŋir[priestess]
-#tr.en: my @fsux{en} priests @vart[t3119.v9,t3119.v9]{@varn{2 mss. add:} and @fsux{lumaḫ} priests } and @fsux{nindiŋir} priestesses in their @fsux{ŋipar} shrines. 
 #etcsl: line-id=21
 
 :21v.1.1: ($2 mss. add:$) lu₂-mah
 #lem: lumah[priest]
 
 22. ŋi₆-par₄-ra-ne-ne-a ga-bi₂-ib-dur₂-ru-durun
+#tr.en: Before @wDN{Enlil}, within the @wTN{E-kur},
 #lem: ŋipar[cloister]; durun[sit]
-#tr.en: Before @wDN{Enlil}, within the @wTN{E-kur}, 
 #etcsl: line-id=22
 
 23. igi {d}en-lil₂-la₂-še₃ šag₄ e₂-kur-ra
+#tr.en: before @wDN{Nanna},
 #lem: igi[eye]; Enlil[1]DN; šag[heart]; Ekur[1]TN
-#tr.en: before @wDN{Nanna}, 
 #etcsl: line-id=23
 
 24. igi {d}nanna-še₃ šag₄ e₂-kiš-nu-ŋal₂-[la]
+#tr.en: within the @wTN{E-kiš-nu-ŋal},
 #lem: igi[eye]; Nanna[1]DN; šag[heart]; Ekišnuŋal[1]TN
-#tr.en: within the @wTN{E-kiš-nu-ŋal}, 
 #etcsl: line-id=24
 
 25. TUR-TUR-ma-ke₄ sizkur₂-bi he₂-eb-be₂
+#tr.en: the …… shall speak their prayers.”}”}
 #lem: X; siškur[prayer]; e[speak]
-#tr.en: the …… shall speak their prayers.”}”} 
 #etcsl: line-id=25
 
 26. u₃ za-e lu₂ ŋiškim-til₃-zu-um
+#tr.en: @q{“@q{“And as for you,
 #lem: u[and]; zaʾe[you]; lu[person]; ŋeškimtil[trust]
-#tr.en: @q{“@q{“And as for you, 
 #etcsl: line-id=26
 
 27. šag₄ ma-da-ni-ta# (1:ga-am₃-ta-gub-bu:1)
+#tr.en: @varh[t3119.v10]{I want to remove } @vart[t3119.v11,t3119.v10]{@varn{2 mss. have instead:} …… eradicate } from within his
 #lem: šag[heart]; mada[land]; gub[stand]
-#tr.en: @varh[t3119.v10]{I want to remove } @vart[t3119.v11,t3119.v10]{@varn{2 mss. have instead:} …… eradicate } from within his  
 #etcsl: line-id=27
 
 :27v.1.1: ($2 mss. have instead:$) [...]-ab#-ta-an-bur₁₂
 #lem: bur[tear out]
 
 28. i₃-si-in{ki}-na bad₃-bi ga-am₃-du₃
+#tr.en: country the man in whom you placed your trust!
 #lem: Isin[1]SN; bad[wall]; du[build]
-#tr.en: country the man in whom you placed your trust! 
 #etcsl: line-id=28
 
 29. i-di-il-pa-šu-nu mu-še₃ ga-an-sa₄
+#tr.en: I want to rebuild the fortification of @wSN{Isin} and name it Īdil-pāšunu!”}”}
 #lem: Idilpašunu[1]ON; mu[name]; še[call by name]
-#tr.en: I want to rebuild the fortification of @wSN{Isin} and name it Īdil-pāšunu!”}”} 
 #etcsl: line-id=29
 
 30. bi₂-in-dug₄-ga-gin₇-nam
+#tr.en: Just as he said he would,
 #lem: dug[speak]
-#tr.en: Just as he said he would, 
 #etcsl: line-id=30
 
 31. i₃-si-in{ki}-na bad₃-bi ba-an-du₃
+#tr.en: he has rebuilt the fortification of
 #lem: Isin[1]SN; bad[wall]; du[build]
-#tr.en: he has rebuilt the fortification of  
 #etcsl: line-id=31
 
 32. i-di-il-pa-šu-nu mu-še₃ ba-an-sa₄#
+#tr.en: @wSN{Isin} and named it Īdil-pāšunu.
 #lem: Idilpašunu[1]ON; mu[name]; še[call by name]
-#tr.en: @wSN{Isin} and named it Īdil-pāšunu. 
 #etcsl: line-id=32
 
 33. nibru{ki} ba-an-dab₅ (1:en-nu-ŋa₂-ni ba-an-ŋar:1)
+#tr.en: He has captured @wSN{Nibru} and installed @varh[t3119.v12]{his garrison } @vart[t3119.v13,t3119.v12]{@varn{1 ms. has instead:} set guards } there.
 #lem: Nibru[1]SN; dab[seize]; ennuŋ[watch]; ŋar[put]
-#tr.en: He has captured @wSN{Nibru} and installed @varh[t3119.v12]{his garrison } @vart[t3119.v13,t3119.v12]{@varn{1 ms. has instead:} set guards } there. 
 #etcsl: line-id=33
 
 :33v.1.1: ($1 ms. has instead:$) en-uŋ₃-ŋa₂ lu₂ ba-an-ŋar
 #lem: ennuŋ[watch]; lu[person]; ŋar[put]
 
 34. u₃ {m}niŋ₂-dug₄-ga-ni saŋŋa (1:nibru{ki}:1) ba-an-dab₅
+#tr.en: Also he has captured @wPN{Niŋdugani}, the chief administrator @varh[t3119.v14]{of @wSN{Nibru} } @vart[t3119.v15,t3119.v14]{@varn{1 ms. has instead:} at @wSN{Nibru} }.
 #lem: u[and]; Niŋdugani[1]PN; saŋŋa[an official]; Nibru[1]SN; dab[seize]
-#tr.en: Also he has captured @wPN{Niŋdugani}, the chief administrator @varh[t3119.v14]{of @wSN{Nibru} } @vart[t3119.v15,t3119.v14]{@varn{1 ms. has instead:} at @wSN{Nibru} }. 
 #etcsl: line-id=34
 
 :34v.1.1: ($1 ms. has instead:$) nibru{ki}-a
@@ -203,7 +203,6 @@
 $ (1 ms. inserts here line 45 and writes line 35 after line 36)
 35. {m}zi-in-nu-um ensi₂ (1:su-bir₄{ki}:1) šaŋa-a (2:i-ni-in-dab₅:2)
 #lem: Zinnum[1]PN; ensik[ruler]; Subir[1]GN; šaŋar[afflicted]; dab[seize]
-#tr.en: He @varh[t3119.v16]{has imprisoned } @vart[t3119.v17,t3119.v16]{@varn{1 ms. has instead:} made a prisoner of } @wPN{Zinnum}, 
 #etcsl: line-id=35
 
 :35v.1.1: ($1 ms. has instead:$) kiš#{ki}
@@ -212,69 +211,69 @@ $ (1 ms. inserts here line 45 and writes line 35 after line 36)
 #lem: ak[do]
 
 36. ha-ma-zi{ki} nam-ra-aš im-mi-in-ak
+#tr.en: the governor @varh[t3119.v18]{of @wGN{Subir} } @vart[t3119.v19,t3119.v18]{@varn{1 ms. has instead:} of @wSN{Kiš} }. He has plundered @wGN{Ḫamazi}.
 #lem: Hamazi[1]SN; namra[booty]; ak[do]
-#tr.en: the governor @varh[t3119.v18]{of @wGN{Subir} } @vart[t3119.v19,t3119.v18]{@varn{1 ms. has instead:} of @wSN{Kiš} }. He has plundered @wGN{Ḫamazi}. 
 #etcsl: line-id=36
 
 37. (1:{m}nu-ur₂-a-hi:1) ensi₂ eš₃-nun-na{ki}
+#tr.en: He has made @varh[t3119.v20]{@wPN{Nūr-aḫī} } @vart[t3119.v21,t3119.v20]{@varn{2 mss. have instead:} @wPN{Nūr-@wDN{Ea}} }, the governor of @wSN{Ešnunna},
 #lem: Nurahi[1]PN; ensik[ruler]; Ešnuna[1]
-#tr.en: He has made @varh[t3119.v20]{@wPN{Nūr-aḫī} } @vart[t3119.v21,t3119.v20]{@varn{2 mss. have instead:} @wPN{Nūr-@wDN{Ea}} }, the governor of @wSN{Ešnunna}, 
 #etcsl: line-id=37
 
 :37v.1.1: ($2 mss. have instead:$) {m}nu-ur₂-e₂-a
 #lem: Nurea[1]PN
 
 38. šu-{d}en-lil₂ ensi₂ kiš{ki}-a
+#tr.en: @wPN{Šu-@wDN{Enlil}},
 #lem: Šuenlil[1]PN; ensik[ruler]; Kiš[1]SN
-#tr.en: @wPN{Šu-@wDN{Enlil}}, 
 #etcsl: line-id=38
 
 39. u₃ (1:{m}puzur₄-{d}tu-tu:1) ensi₂ bad₃-zi-ab-ba{ki}
+#tr.en: the governor of @wSN{Kiš},
 #lem: u[and]; Puzurtutu[1]PN; ensik[ruler]; Badsiabba[1 Borsippa]
-#tr.en: the governor of @wSN{Kiš}, 
 #etcsl: line-id=39
 
 :39v.1.1: ($1 ms. has instead:$) puzur₄-{d}marduk
 #lem: Puzurmarduk[1]PN
 
 40. ki-ni-še₃ ba-an-gur-ru-uš
+#tr.en: and @varh[t3119.v22]{@wPN{Puzur-@wDN{Tutu}} } @vart[t3119.v23,t3119.v22]{@varn{1 ms. has instead:} @wPN{Puzur-@wDN{Marduk}} }, the governor of @wSN{Bad-ziaba}, return to their posts.
 #lem: ki[place]; gur[turn]
-#tr.en: and @varh[t3119.v22]{@wPN{Puzur-@wDN{Tutu}} } @vart[t3119.v23,t3119.v22]{@varn{1 ms. has instead:} @wPN{Puzur-@wDN{Marduk}} }, the governor of @wSN{Bad-ziaba}, return to their posts. 
 #etcsl: line-id=40
 
 41. za-pa-aŋ₂-ŋa₂-ni-ta ma-da X X-gin₇ i₃-dul#
+#tr.en: At his cry of victory the land …… is covered (?) like a …….
 #lem: zipaŋ[voice]; mada[land]; X; X; dul[cover]
-#tr.en: At his cry of victory the land …… is covered (?) like a ……. 
 #etcsl: line-id=41
 
 42. {d}iš-bi-er₃-ra igi erin₂-na-še₃ i₃-|DU.DU|
+#tr.en: @wRN{Išbi-@wDN{Erra}} is constantly at the head of (?) his soldiers!
 #lem: Išbierra[1]RN; igi[eye]; erin[people]; X
-#tr.en: @wRN{Išbi-@wDN{Erra}} is constantly at the head of (?) his soldiers! 
 #etcsl: line-id=42
 
 43. bi₂-in-dug₄-ga-gin₇-nam
+#tr.en: Just as he said he would,
 #lem: dug[speak]
-#tr.en: Just as he said he would, 
 #etcsl: line-id=43
 
 44. gu₂ {id₂}idigna gu₂ {id₂}buranuna gu₂ {id₂}ab₂-gal u₃ gu₂ {id₂}me-{d}en-lil₂-la₂ ba-an-dab₅
+#tr.en: he has captured the regions of the @wWN{Tigris},
 #lem: gu[neck]; Idigna[1 Tigris]; gu[neck]; Buranun[1 Euphrates]; gu[neck]; Abgal[1]WN; u[and]; gu[neck]; Meʾenlila[1]WN; dab[seize]
-#tr.en: he has captured the regions of the @wWN{Tigris}, 
 #etcsl: line-id=44
 
 45. {m}i-din ma₃-al-gi₄-a{ki}-a ba-ni-in-kur₉
+#tr.en: @wWN{Euphrates}, @wWN{Ab-gal} and @wWN{Me-@wDN{Enlila}} watercourses. He has made @wPN{Iddin} enter @wSN{Malgium} (?).
 #lem: Iddin[1]PN; Malgium[1]SN; kur[enter]
-#tr.en: @wWN{Euphrates}, @wWN{Ab-gal} and @wWN{Me-@wDN{Enlila}} watercourses. He has made @wPN{Iddin} enter @wSN{Malgium} (?). 
 #etcsl: line-id=45
 
 46. {m}gir-bu-bu ensi₂ GIR₂-kal{ki}-ke₄
+#tr.en: @varh[t3119.v24]{Opposing } @vart[t3119.v25,t3119.v24]{@varn{1 ms. has instead:} hating } @wPN{Girbubu}, the governor of @wSN{Ŋirikal},
 #lem: Girbubu[1]PN; ensik[ruler]; GIR₂.kal[1]SN
-#tr.en: @varh[t3119.v24]{Opposing } @vart[t3119.v25,t3119.v24]{@varn{1 ms. has instead:} hating } @wPN{Girbubu}, the governor of @wSN{Ŋirikal}, 
 #etcsl: line-id=46
 
 47. (1:gu₂ in-da-ak-e:1) (2:{kuš}gur₂₁-ni ba-an-kud:2) u₃ e-ne ba-an-dab₅
+#tr.en: he @varh[t3119.v26]{cut off his strap } @vart[t3119.v27,t3119.v26]{@varn{2 mss. have instead:} he removed his barley stores (?) } and captured him.
 #lem: gu[neck]; ak[do]; guru[shield]; kud[cut]; u[and]; ane[he]; dab[seize]
-#tr.en: he @varh[t3119.v26]{cut off his strap } @vart[t3119.v27,t3119.v26]{@varn{2 mss. have instead:} he removed his barley stores (?) } and captured him. 
 #etcsl: line-id=47
 
 :47v.1.1: ($1 ms. has instead:$) gu₂ im-da#-bar-re-ma
@@ -283,36 +282,36 @@ $ (1 ms. inserts here line 45 and writes line 35 after line 36)
 #lem: guru[grain store]; sud[distant]
 
 48. (1:za-pa-aŋ₂-ŋa₂-ni im-ma-an-dugud:1)
+#tr.en: @varh[t3119.v28]{His cry of victory lies heavily upon us (?) } @vart[t3119.v29,t3119.v28]{@varn{1 ms. has instead:} …… he named …… }.
 #lem: zipaŋ[voice]; dugud[heavy]
-#tr.en: @varh[t3119.v28]{His cry of victory lies heavily upon us (?) } @vart[t3119.v29,t3119.v28]{@varn{1 ms. has instead:} …… he named …… }. 
 #etcsl: line-id=48
 
 :48v.1.1: ($1 ms. has instead:$) [... mu-še₃] ba#-an-sa₄
 #lem: X; mu[name]; še[call by name]
 
 49. ugu-ŋu₁₀-uš igi-ni ma-an-ŋar
+#tr.en: Now @wRN{Išbi-@wDN{Erra}} is looking in my direction. I have no ally,
 #lem: ugu[skull]; igi[eye]; ŋar[put]
-#tr.en: Now @wRN{Išbi-@wDN{Erra}} is looking in my direction. I have no ally, 
 #etcsl: line-id=49
 
 50. {lu₂}tab-ba nu-tuku lu₂ nu-mu-un-da-sa₂-e
+#tr.en: nobody with whom I can align myself.
 #lem: taba[companion]; tuku[acquire]; lu[person]; sa[equal]
-#tr.en: nobody with whom I can align myself. 
 #etcsl: line-id=50
 
 51. šu-ni sa₂ nu-mu-un-da-ab-dug₄-ga-ta
+#tr.en: Since he has not yet been able to get me in his grasp,
 #lem: šu[hand]; sa[equal]; dug[speak]
-#tr.en: Since he has not yet been able to get me in his grasp, 
 #etcsl: line-id=51
 
 52. u₃-mu-un-šub ga-am₃-ma-ŋen
+#tr.en: let me come to you when he falls upon me.
 #lem: šub[fall]; ŋen[go]
-#tr.en: let me come to you when he falls upon me. 
 #etcsl: line-id=52
 
 53. lugal-ŋu₁₀ he₂-en-zu
+#tr.en: My lord should know this!
 #lem: lugal[king]; zu[know]
-#tr.en: My lord should know this! 
 #etcsl: line-id=53
 
 

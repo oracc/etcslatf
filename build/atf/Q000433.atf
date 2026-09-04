@@ -13,12 +13,10 @@
 $ (unknown no. of lines missing)
 A.A.1. [X X] X X X [...]
 #lem: X; X; X; X; X; X
-#tr.en: …… encouragement, your heart ……. 
 #etcsl: line-id=A.A.1
 
 A.A.2. [X X] me-teš₂ ši-im-X [...]
 #lem: X; X; meteš[praise]; X; X
-#tr.en: @wDN{Mešlamta-ea}, faraway ……. 
 #etcsl: line-id=A.A.2
 
 A.A.3. [...] zi-šag₄-ŋal₂-la-ke₄ šag₄-zu im-[...]
@@ -33,7 +31,6 @@ A.A.4. {[d]}meš₃-lam-ta-e₃-a su₃-u₄-ra₂ X [...]
 
 A.A.5. ki-ru-gu₂ 4-kam-ma-am₃#
 #lem: kirugu[division notation in certain literary compositions]; n
-#tr.en: 4th @fsux{kirugu}. 
 #etcsl: line-id=A.A.5
 
 @end trailer
@@ -44,14 +41,12 @@ A.A.5. ki-ru-gu₂ 4-kam-ma-am₃#
 
 A.B.6. a₂ mah nun {d}i-bi₂-{d}suen-[ŋu₁₀]
 #lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
-#tr.en: You of august power, my prince @wRN{Ibbi-@wDN{Suen}}! 
 #etcsl: line-id=A.B.6
 
 @div trailer 
 
 A.B.7. ŋiš-gi₄-ŋal₂-bi-im
 #lem: ŋešgiŋal[musical refrain]
-#tr.en: Its @fsux{ŋisgiŋal}. 
 #etcsl: line-id=A.B.7
 
 @end trailer
@@ -62,39 +57,32 @@ A.B.7. ŋiš-gi₄-ŋal₂-bi-im
 
 A.C.8. ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig-ge-en ne-zu an-zag-še₃
 #lem: dirig[make more than]; lugal[king]; dirig[make more than]; ne[strength]; anzag[horizon]
-#tr.en: You are superlative, my master, you are superlative! 
 #etcsl: line-id=A.C.8
 
 A.C.9. en {d}lugal-er₉-ra ši-im-dirig-ge-en ne-zu an-zag-še₃
 #lem: en[lord]; Lugalerra[1]; dirig[make more than]; ne[strength]; anzag[horizon]
-#tr.en: Your power reaches to the outer limits of heaven. 
 #etcsl: line-id=A.C.9
 
 A.C.10. me-zu me galam-ma me nu-sig₁₀-ge₅-da
 #lem: me[Being]; me[Being]; galam[skilful]; me[Being]; sig[put into]
-#tr.en: Lord @wDN{Lugal-era}, you are superlative, your power reaches to the outer limits of heaven. 
 #etcsl: line-id=A.C.10
 
 A.C.11. ab ku-kur ŋal₂-la ni₂ huš ri-a-me-en
 #lem: ab[sea]; kurku[flood]; ŋal[⟦be⟧ to be (there]; ni[fear]; huš[reddish]; ri[impose]
-#tr.en: Your divine powers are artfully fashioned divine powers, incomparable divine powers! 
 #etcsl: line-id=A.C.11
 
 A.C.12. diŋir er₉ kalam-ma til₃-la-me-en
 #lem: diŋir[deity]; ir[mighty]; kalam[the Land (of Sumer)]; til[live (of a single person)]
-#tr.en: Sea with high waves, you are imbued with terrible fearsomeness! 
 #etcsl: line-id=A.C.12
 
 A.C.13. ni₂ gal an ki-a dul-la-me-en
 #lem: ni[fear]; gal[big]; an[sky]; ki[place]; dul[cover]
-#tr.en: Mighty god who dwells in the Land, your great awesomeness covers heaven and earth! 
 #etcsl: line-id=A.C.13
 
 @div trailer 
 
 A.C.14. ki-ru-gu₂ 5-kam-ma-am₃
 #lem: kirugu[division notation in certain literary compositions]; n
-#tr.en: 5th @fsux{kirugu}. 
 #etcsl: line-id=A.C.14
 
 @end trailer
@@ -105,19 +93,16 @@ A.C.14. ki-ru-gu₂ 5-kam-ma-am₃
 
 A.D.15. nam-mah-zu ga-i-i
 #lem: nammah[greatness]; e[bring out]
-#tr.en: I will praise your greatness! You are superlative, my master, you are superlative! 
 #etcsl: line-id=A.D.15
 
 A.D.16. ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig#-[ge-en] ne-zu an-zag-še₃
 #lem: dirig[make more than]; lugal[king]; dirig[make more than]; ne[strength]; anzag[horizon]
-#tr.en: Your power reaches to the outer limits of heaven. 
 #etcsl: line-id=A.D.16
 
 @div trailer 
 
 A.D.17. ŋiš-gi₄-ŋal₂-bi-im
 #lem: ŋešgiŋal[musical refrain]
-#tr.en: Its @fsux{ŋišgiŋal}. 
 #etcsl: line-id=A.D.17
 
 @end trailer
@@ -128,79 +113,64 @@ A.D.17. ŋiš-gi₄-ŋal₂-bi-im
 
 A.E.18. ur-saŋ zid me-teš₂-e ga-i-i
 #lem: ursaŋ[warrior]; zid[right]; meteš[praise]; e[bring out]
-#tr.en: Trustworthy warrior, I will praise you! Lord @wDN{Lugal-era}, I will praise you! 
 #etcsl: line-id=A.E.18
 
 A.E.19. en {d}lugal-er₉-ra me-teš₂ ga-i-i
 #lem: en[lord]; Lugalerra[1]; meteš[praise]; e[bring out]
-#tr.en: You are the great and august neck-stock of the gods, 
 #etcsl: line-id=A.E.19
 
 A.E.20. {ŋiš}rab₃ gal mah diŋir-re-e-ne-me-en
 #lem: raba[clamp]; gal[big]; mah[great]; diŋir[deity]
-#tr.en: you are a great awesomeness resting heavily upon the Land, 
 #etcsl: line-id=A.E.20
 
 A.E.21. ni₂ gal kalam-ma ša-mu-ri-a-me-[en]
 #lem: ni[fear]; gal[big]; kalam[the Land (of Sumer)]; ri[impose]
-#tr.en: a heavy flood-wave covering the foreign land. Your river is a mighty river, 
 #etcsl: line-id=A.E.21
 
 A.E.22. ku-kur dugud kur-ra du₆-ul!(LU)-la-me-en
 #lem: kurku[flood]; dugud[heavy]; kur[mountain(s)]; dul[cover]
-#tr.en: the river which determines destinies, an august river where the sun rises, 
 #etcsl: line-id=A.E.22
 
 A.E.23. id₂-zu id₂ kalag-ga-am₃ id₂ nam tar-ra-am₃
 #lem: id[river]; id[river]; kalag[strong]; id[river]; nam[fate]; tar[cut]
-#tr.en: which nobody can bear to look upon. 
 #etcsl: line-id=A.E.23
 
 A.E.24. id₂ mah ki ud e₃ igi nu-bar-re-dam
 #lem: id[river]; mah[great]; ki[place]; ud[sun]; e[leave]; igi[eye]; bar[place outside]
-#tr.en: Great barge riding on the flood waters, 
 #etcsl: line-id=A.E.24
 
 A.E.25. ma₂-gur₈ mah a ku-kur-ra u₅-a
 #lem: magur[barge]; mah[great]; a[water]; kurku[flood]; u[ride]
-#tr.en: Lord @wDN{Lugal-era}: 
 #etcsl: line-id=A.E.25
 
 A.E.26. gu₂ si-a nam-lu₂-ulu₃-ka
 #lem: gu[neck]; si[fill]; namlulu[humanity]
-#tr.en: when you set foot in the place where all mankind is gathered, 
 #etcsl: line-id=A.E.26
 
 A.E.27. en {d}lugal-er₉-ra ŋiri₃-zu um-mi-gub
 #lem: en[lord]; Lugalerra[1]; ŋiri[foot]; gub[stand]
-#tr.en: the princes of the underworld bow down before you; 
 #etcsl: line-id=A.E.27
 
 A.E.28. nun kur-ra-ke₄-ne ša-mu-e-ši-gam-e-de₃-eš
 #lem: nun[prince]; kur[mountain(s)]; gurum[bend]
-#tr.en: in the abyss you emit a bright light to them. 
 #etcsl: line-id=A.E.28
 
 A.E.29. bur₃-ra ud zalag ša-mu-un-ne-ri-ib-e₃
 #lem: burud[perforate]; ud[sun]; zalag[bright]; e[leave]
-#tr.en: …… has been placed in your hands. 
 #etcsl: line-id=A.E.29
 
 A.E.30. [...] U ra šu-zu-še₃ ša-mu-u₈-ŋal₂
 #lem: X; X; rah[beat]; šu[hand]; ŋal[⟦be⟧ to be (there]
-#tr.en: Lord @wDN{Lugal-era}, 
 #etcsl: line-id=A.E.30
 
 A.E.31. en# {d}lugal-er₉-ra an-zag-še₃ mah-me-en
 #lem: en[lord]; Lugalerra[1]; anzag[horizon]; mah[great]
-#tr.en: your greatness extends to the outer limits of heaven. 
 #etcsl: line-id=A.E.31
 
 @div trailer 
 
 A.E.32. ki-ru-gu₂ 6-kam-ma-am₃
 #lem: kirugu[division notation in certain literary compositions]; n
-#tr.en: 6th @fsux{kirugu}. 
 #etcsl: line-id=A.E.32
 
 @end trailer
@@ -211,14 +181,12 @@ A.E.32. ki-ru-gu₂ 6-kam-ma-am₃
 
 A.F.33. a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
 #lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
-#tr.en: You of august power, my prince @wRN{Ibbi-@wDN{Suen}}! 
 #etcsl: line-id=A.F.33
 
 @div trailer 
 
 A.F.34. ŋiš#-gi₄-ŋal₂-bi-im
 #lem: ŋešgiŋal[musical refrain]
-#tr.en: Its @fsux{ŋisgiŋal}. 
 #etcsl: line-id=A.F.34
 
 @end trailer
@@ -229,132 +197,106 @@ A.F.34. ŋiš#-gi₄-ŋal₂-bi-im
 
 A.G.35. lugal#-ŋu₁₀ nam-mah-za ga-am₃-dug₄
 #lem: lugal[king]; nammah[greatness]; dug[speak]
-#tr.en: My king, let me tell of your greatness! 
 #etcsl: line-id=A.G.35
 
 A.G.36. en# {d}lugal-er₉-ra nam-mah-za ga-am₃-dug₄
 #lem: en[lord]; Lugalerra[1]; nammah[greatness]; dug[speak]
-#tr.en: Lord @wDN{Lugal-era}, I will praise your greatness! 
 #etcsl: line-id=A.G.36
 
 A.G.37. za#-e mah-me-en dili-zu i₃-mah-me-en
 #lem: zaʾe[you]; mah[great]; dili[single]; mah[great]
-#tr.en: You are august, you alone are august! 
 #etcsl: line-id=A.G.37
 
 A.G.38. diŋir# er₉-ra diŋir-re-e-ne-er rib-ba
 #lem: diŋir[deity]; ir[mighty]; diŋir[deity]; rib[surpassing]
-#tr.en: Mighty god surpassing all the gods, 
 #etcsl: line-id=A.G.38
 
 A.G.39. lugal sukud-ra₂ an-ne₂-e us₂-sa
 #lem: lugal[king]; sukud[height]; an[sky]; us[accompany]
-#tr.en: elevated king reaching up to the heavens, 
 #etcsl: line-id=A.G.39
 
 A.G.40. diŋir# er₉ en zid ni₂-te-na
 #lem: diŋir[deity]; ir[mighty]; en[lord]; zid[right]; ni[self]
-#tr.en: mighty god, trustworthy lord by himself, 
 #etcsl: line-id=A.G.40
 
 A.G.41. {d}id₂-lu₂-ru-gu₂ šag₄ diŋir-re-e-ne
 #lem: Idlurugu[1]DN; šag[heart]; diŋir[deity]
-#tr.en: @wDN{River of the Ordeal}, heart of the gods, 
 #etcsl: line-id=A.G.41
 
 A.G.42. en ka-aš bar niŋ₂-erim₂-e hul gig
 #lem: en[lord]; kaš[decision]; bar[place outside]; niŋerim[evil]; hulu[bad]; gig[sick]
-#tr.en: decision-making lord who hates evil, 
 #etcsl: line-id=A.G.42
 
 A.G.43. {d}suen-gin₇ niŋ₂-si-sa₂-e ki aŋ₂
 #lem: Suen[1]DN; niŋsisa[justice]; ki[place]; aŋ[measure]
-#tr.en: who like @wDN{Suen} loves justice. 
 #etcsl: line-id=A.G.43
 
 A.G.44. en nam tar-tar-ra an {d}en-lil₂-la₂-me-eš
 #lem: en[lord]; nam[fate]; tar[cut]; An[1]DN; Enlil[1]DN
-#tr.en: They are the lords for whom @wDN{An} and @wDN{Enlil} have determined their destiny. 
 #etcsl: line-id=A.G.44
 
 A.G.45. niŋ₂-nam an ki ŋal₂-ŋal₂-la-a-ba
 #lem: niŋnam[anything]; an[sky]; ki[place]; ŋal[⟦be⟧ to be (there]
-#tr.en: When everything had been brought into existence in heaven and earth, 
 #etcsl: line-id=A.G.45
 
 A.G.46. nam tar-re-bi gal-bi mu-un-u₂-us₂
 #lem: nam[fate]; tar[cut]; gal[big]; us[accompany]
-#tr.en: their destiny greatly ……. @wDN{Enlil} granted ……. 
 #etcsl: line-id=A.G.46
 
 A.G.47. [...] X {d}en-lil₂-le saŋ-e-eš mu-un-rig₇
 #lem: X; X; Enlil[1]DN; saŋ[head]; rig[donate]
-#tr.en: …… of the princes, my @wRN{Ibbi-@wDN{Suen}}! 
 #etcsl: line-id=A.G.47
 
 A.G.48. [...] X nun-e-ne {d}i-bi₂-{d}suen-ŋu₁₀
 #lem: X; X; nun[prince]; Ibbisuen[1]RN
-#tr.en: …… is great, 
 #etcsl: line-id=A.G.48
 
 A.G.49. [X X] X nam-ma-ni mah bad₃ gal kur KU-KU
 #lem: X; X; X; nam[fate]; mah[great]; bad[wall]; gal[big]; kur[mountain(s)]; X
-#tr.en: a great wall which …… the foreign lands. 
 #etcsl: line-id=A.G.49
 
 A.G.50. [me] gal#-gal šu du₇ dumu {d}en-lil₂-la₂-ka
 #lem: me[Being]; gal[big]; šu[hand]; du[perfect]; dumu[child]; Enlil[1]DN
-#tr.en: Perfecting the great divine powers, he, the son of @wDN{Enlil}, 
 #etcsl: line-id=A.G.50
 
 A.G.51. {[d]}[lugal]-er₉-ra-gin₇ hul-ŋal₂ saŋ |KA×X|-|KA×X|
 #lem: Lugalerra[1]; huluŋal[evil]; saŋ[head]; X
-#tr.en: …… the wicked like @wDN{Lugal-era}. In his august power @wDN{Mešlamta-ea} greatly, 
 #etcsl: line-id=A.G.51
 
 A.G.52. {[d]}[meš₃-lam]-ta-e₃-a a₂ mah-a-na gal-bi
 #lem: Meslamtaea[1]; a[arm]; mah[great]; gal[big]
-#tr.en: in his august power he greatly ……. 
 #etcsl: line-id=A.G.52
 
 A.G.53. [a₂ mah]-a-na gal-bi ši-im-mi-DU
 #lem: a[arm]; mah[great]; gal[big]; X
-#tr.en: When he opens his mouth ……, 
 #etcsl: line-id=A.G.53
 
 A.G.54. [X X] AN ka du₈-a kur-ra šu ur₃-ur₃
 #lem: X; X; X; kag[mouth]; du[spread]; kur[mountain(s)]; šu[hand]; ur[drag]
-#tr.en: eradicating the foreign lands, 
 #etcsl: line-id=A.G.54
 
 A.G.55. [X X] tar-re erim₂ zar-re-eš i₃-sal-le
 #lem: X; X; tar[cut]; erim[enemy]; zar[sheaf (of barley)]; sal[thin]
-#tr.en: …… he heaps up the enemies in piles. 
 #etcsl: line-id=A.G.55
 
 A.G.56. [en] {[d]}lugal#-er₉-ra a₂ mah-a-na gal-bi
 #lem: en[lord]; Lugalerra[1]; a[arm]; mah[great]; gal[big]
-#tr.en: In his august power Lord @wDN{Lugal-era} greatly, 
 #etcsl: line-id=A.G.56
 
 A.G.57. [a₂ mah-a]-na gal-bi ši-im-mi-in-DU
 #lem: a[arm]; mah[great]; gal[big]; X
-#tr.en: in his august power he greatly ……, 
 #etcsl: line-id=A.G.57
 
 A.G.58. [X X] X NE ŋiškim sag₉-ga
 #lem: X; X; X; X; ŋeškim[sign]; sag[good]
-#tr.en: …… a favourable sign. 
 #etcsl: line-id=A.G.58
 
 A.G.59. [X X]-ga lugal-la-me-eš
 #lem: X; X; lugal[king]
-#tr.en: They are kings ……. 
 #etcsl: line-id=A.G.59
 
 A.G.60. [...] šu ŋa₂-ŋa₂-me-eš
 #lem: X; šu[hand]; ŋar[put]
-#tr.en: They are …… sparing ……  
 #etcsl: line-id=A.G.60
 
 A.G.61. [...] X ME X [...]
@@ -372,57 +314,46 @@ $ (unknown no. of lines missing)
 
 B.H.1. ur-saŋ gal-me-eš nam-mah-bi a-ri-a sug₄-ga-am₃
 #lem: ursaŋ[warrior]; gal[big]; nammah[greatness]; eria[wasteland]; sug[empty]
-#tr.en: They are great warriors: their greatness is like the empty desert wastes. 
 #etcsl: line-id=B.H.1
 
 B.H.2. 2-na-ne-ne lugal id₂-da-me-eš
 #lem: n; lugal[king]; id[river]
-#tr.en: They are both the lords of the River, 
 #etcsl: line-id=B.H.2
 
 B.H.3. {d}id₂-lu₂-ru-gu₂ lu₂ zid dadag-ga-[am₃]
 #lem: Idlurugu[1]DN; lu[person]; zid[right]; dadag[bright]
-#tr.en: the @wDN{River of the Ordeal} which clears the just man. 
 #etcsl: line-id=B.H.3
 
 B.H.4. lu₂-erim₂ {ŋiš}<rab₃>-gin₇ šu ri-ri-a-me-eš
 #lem: luʾerim[evildoer]; raba[clamp]; šu[hand]; ri[impose]
-#tr.en: They weigh upon the evil man like a neck-stock. In @wSN{Kisiga}, 
 #etcsl: line-id=B.H.4
 
 B.H.5. kisiga{ki} iri ul ki ŋar-ra-ba
 #lem: Kisiga[1]SN; iri[city]; ul[distant time]; ki[place]; ŋar[put]
-#tr.en: their very anciently founded city, the trustworthy does not get caught, 
 #etcsl: line-id=B.H.5
 
 B.H.6. zid-du nu-dab₅-be₂ erim₂-du nu-dib-be₂
 #lem: ziddu[righteous(-acting)]; dab[seize]; erimdu[hostile]; dib[pass]
-#tr.en: but the evil cannot pass through. 
 #etcsl: line-id=B.H.6
 
 B.H.7. ki šag₄ kuš₂ an {[d]}en#-[lil₂]-la₂-me-eš
 #lem: ki[place]; šag[heart]; kušu[tired]; An[1]DN; Enlil[1]DN
-#tr.en: They are a source of comfort to the hearts of @wDN{An} and @wDN{Enlil}, 
 #etcsl: line-id=B.H.7
 
 B.H.8. ki ni₂ dub₂ RU AN# X X X-me-eš
 #lem: ki[place]; ni[self]; dub[tremble]; X; X; X; X; X
-#tr.en: they are a source of relaxation ……. 
 #etcsl: line-id=B.H.8
 
 B.H.9. ki gal an-še₃ AN X X [X X]-me-en
 #lem: ki[place]; gal[big]; an[sky]; X; X; X; X; X
-#tr.en: They are …… the great place ……. 
 #etcsl: line-id=B.H.9
 
 B.H.10. ki nam tar-re an {[d]}en#-[lil₂]-la₂ [...]
 #lem: ki[place]; nam[fate]; tar[cut]; An[1]DN; Enlil[1]DN; X
-#tr.en: The place for which @wDN{An} and @wDN{Enlil} have determined its destiny ……, 
 #etcsl: line-id=B.H.10
 
 B.H.11. me-bi kug-kug-ga-am₃ X [...]
 #lem: me[Being]; kug[pure]; X; X
-#tr.en: its divine powers are holy ……  
 #etcsl: line-id=B.H.11
 
 B.H.12. [...] NI lu₂ nu-[...]
@@ -444,39 +375,32 @@ $ (unknown no. of lines missing)
 
 C.I.1. me-bi X X hu-ul-hu-le-eš sig₇-[ga-am₃]
 #lem: me[Being]; X; X; hul[rejoice]; sissig[green-yellow]
-#tr.en: Its divine powers ……. The seven divine powers, …… grandly established, 
 #etcsl: line-id=C.I.1
 
 C.I.2. me 7-na |LAGAB×X| gal-le-eš ŋar-[ra-am₃]
 #lem: me[Being]; n; X; gal[big]; ŋar[put]
-#tr.en: adorned with the divine powers by the prince in the @fsux{abzu}, 
 #etcsl: line-id=C.I.2
 
 C.I.3. me še-er-ka-an nun-e abzu-ta nun [X X] še-er-ka-an dug₄-ga-[am₃]
 #lem: me[Being]; šerkan[ornament]; nun[prince]; abzu[(cosmic) underground water]; nun[prince]; X; X; šerkan[ornament]; dug[speak]
-#tr.en: the prince …… adorned ……. 
 #etcsl: line-id=C.I.3
 
 C.I.4. {d}meš₃-lam-ta-e₃-a en {d}lugal#-er₉-[ra]
 #lem: Meslamtaea[1]; en[lord]; Lugalerra[1]
-#tr.en: The warrior qualities of @wDN{Mešlamta-ea} and Lord @wDN{Lugal-era} …… in the foreign lands; 
 #etcsl: line-id=C.I.4
 
 C.I.5. nam-ur-saŋ-bi kur-re ba-X-a
 #lem: namursaŋ[heroism]; kur[mountain(s)]; X
-#tr.en: their greatness shines forth to the outer limits of heaven and earth, 
 #etcsl: line-id=C.I.5
 
 C.I.6. nam-mah-bi zag an ki-še₃ zag an ki-še₃ pa e₃ ak-a
 #lem: nammah[greatness]; zag[side]; an[sky]; ki[place]; zag[side]; an[sky]; ki[place]; pa[branch]; e[leave]; ak[do]
-#tr.en: to the outer limits of heaven and earth. 
 #etcsl: line-id=C.I.6
 
 @div trailer 
 
 C.I.7. ki-ru-gu₂ 10-kam-ma-am₃
 #lem: kirugu[division notation in certain literary compositions]; n
-#tr.en: 10th @fsux{kirugu}. 
 #etcsl: line-id=C.I.7
 
 @end trailer
@@ -487,14 +411,12 @@ C.I.7. ki-ru-gu₂ 10-kam-ma-am₃
 
 C.K.8. a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
 #lem: a[arm]; mah[great]; nun[prince]; Ibbisuen[1]RN
-#tr.en: You of august power, my prince @wRN{Ibbi-@wDN{Suen}}! 
 #etcsl: line-id=C.K.8
 
 @div trailer 
 
 C.K.9. ŋiš-gi₄-ŋal₂-bi-im
 #lem: ŋešgiŋal[musical refrain]
-#tr.en: Its @fsux{ŋisgiŋal}. 
 #etcsl: line-id=C.K.9
 
 @end trailer
@@ -505,19 +427,16 @@ C.K.9. ŋiš-gi₄-ŋal₂-bi-im
 
 C.L.10. kalag-bi ud kalam-ma šu ur₃-ur₃
 #lem: kalag[strong]; ud[storm]; kalam[the Land (of Sumer)]; šu[hand]; ur[drag]
-#tr.en: Their power is a storm which could eradicate the Land. 
 #etcsl: line-id=C.L.10
 
 C.L.11. {d}meš₃-lam-<ta>-e₃-a en {d}lugal-er₉-ra za₃-mi₂-zu dug₃-ga-am₃
 #lem: Meslamtaea[1]; en[lord]; Lugalerra[1]; zamin[praise]; dug[good]
-#tr.en: @wDN{Mešlamta-ea} and Lord @wDN{Lugal-era}, it is sweet to praise you! 
 #etcsl: line-id=C.L.11
 
 @div trailer 
 
 C.L.12. ki-šu₂-bi-im
 #lem: kišuš[musical notation]
-#tr.en: Its @fsux{kišu}. 
 #etcsl: line-id=C.L.12
 
 @end trailer
@@ -528,7 +447,6 @@ C.L.12. ki-šu₂-bi-im
 
 C.L.13. šir₃-nam-gala {d}meš₃-lam-ta-e₃-a u₃ {d}lugal-er₉-ra
 #lem: širnamgalak[subscript]; Meslamtaea[1]; u[and]; Lugalerra[1]
-#tr.en: A @fsux{šir-namgala} of @wDN{Mešlamta-ea} and @wDN{Lugal-era}. 
 #etcsl: line-id=C.L.13
 
 @end trailer

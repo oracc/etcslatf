@@ -7,8 +7,8 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.04&display=Crit&charenc=gcirc#
 
 1. {m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
+#tr.en: Say to @wPN{@wDN{Nanna}-ki-aŋ}, the general: this is what @wRN{Lipit-@wDN{Eštar}}, your lord, says:
 #lem: Nannakiaŋ[1]PN; rabizigatum[military official]
-#tr.en: Say to @wPN{@wDN{Nanna}-ki-aŋ}, the general: this is what @wRN{Lipit-@wDN{Eštar}}, your lord, says: 
 #etcsl: line-id=1
 
 2. u₃-na-dug₄
@@ -20,8 +20,8 @@
 #etcsl: line-id=3
 
 4. mu (1:erin₂ lu₂-kur₂-ra-ke₄:1) (2:lugal u₃-na-dug₄ šu mu-e-taka₄:2)
+#tr.en: Because of @varh[t3204.v1]{enemy troops } @vart[t3204.v2,t3204.v1]{@varn{1 ms. has instead:} the enemy }, @varh[t3204.v3]{I, the king, have sent you a letter } @vart[t3204.v4,t3204.v3]{@varn{1 ms. has instead:} I have sent a letter }. @wPN{Atta-mannum}, who pleases his lord,
 #lem: mu[name]; erin[people]; lukur[stranger]; lugal[king]; unadug[letter]; šu[hand]; taka[set aside]
-#tr.en: Because of @varh[t3204.v1]{enemy troops } @vart[t3204.v2,t3204.v1]{@varn{1 ms. has instead:} the enemy }, @varh[t3204.v3]{I, the king, have sent you a letter } @vart[t3204.v4,t3204.v3]{@varn{1 ms. has instead:} I have sent a letter }. @wPN{Atta-mannum}, who pleases his lord, 
 #etcsl: line-id=4
 
 :4v.1.1: ($1 ms. has instead:$) lu₂-kur₂-ra-ke₄
@@ -30,24 +30,24 @@
 #lem: unadug[letter]; šu[hand]; taka[set aside]
 
 5. {m}at-ta₂-ma-nu-um (1:lu₂:1) lugal-a-ni-ir bi₂-in-sag₉-ge
+#tr.en: is (?) a better @varh[t3204.v5]{servant to his lord } @vart[t3204.v6,t3204.v5]{@varn{1 ms. has instead:} man } than you!
 #lem: Attamannum[1]PN; lu[person]; lugal[king]; sag[good]
-#tr.en: is (?) a better @varh[t3204.v5]{servant to his lord } @vart[t3204.v6,t3204.v5]{@varn{1 ms. has instead:} man } than you! 
 #etcsl: line-id=5
 
 :5v.1.1: ($1 ms. has instead:$) arad
 #lem: arad[slave]
 
 6. dirig-zu-še₃ (1:arad lugal-a-ni-ir:1) na-X
+#tr.en: Why is it that @varh[t3204.v7]{you have not been avenging your lord,
 #lem: dirig[make more than]; arad[slave]; lugal[king]; X
-#tr.en: Why is it that @varh[t3204.v7]{you have not been avenging your lord, 
 #etcsl: line-id=6
 
 :6v.1.1: ($1 ms. has instead:$) lu₂
 #lem: lu[person]
 
 7. a-na-aš-am₃ (1:ŋe₂₆-e X nu-zu-ŋu₁₀-ta za-e šu ŋar lugal-zu li-bi₂-in-gi₄:1)
+#tr.en: and not keeping me informed } @vart[t3204.v8,t3204.v7]{@varn{1 ms. has instead:} while I (?) have kept the soldiers loyal (?), you have not stationed them among those people }? @vart[t3204.v9,t3204.v9]{@varn{1 ms. adds:} So now you are to station the troops there. }
 #lem: anaš[why?]; ŋaʾe[I]; X; zu[know]; zaʾe[you]; šu[hand]; ŋar[put]; lugal[king]; gi[turn]
-#tr.en: and not keeping me informed } @vart[t3204.v8,t3204.v7]{@varn{1 ms. has instead:} while I (?) have kept the soldiers loyal (?), you have not stationed them among those people }? @vart[t3204.v9,t3204.v9]{@varn{1 ms. adds:} So now you are to station the troops there. } 
 #etcsl: line-id=7
 
 :7v.1.1: ($1 ms. has instead:$) erin₂ šu šag₄-še₃ i₃-ŋal₂-a-ŋa₂# nam-lu₂-ulu₃-ba li-bi₂-ŋar
@@ -62,8 +62,8 @@
 
 @endvariants
 8. a₂-še (1:2:1) li-mu-um erin₂ (2:lu₂ {ŋiš}šukur:2)
+#tr.en: Now,
 #lem: aše[now]; n; n; erin[people]; lu[person]; šukur[lance]
-#tr.en: Now, 
 #etcsl: line-id=8
 
 :8v.1.1: ($1 ms. has instead:$) 4
@@ -74,8 +74,8 @@
 #lem: lu[person]; šukur[lance]; giŋ[ax]
 
 9. (1:2:1) li-mu-um erin₂ (2:lu₂ {ŋiš}pan:2)
+#tr.en: @varh[t3204.v10]{I have sent to you in haste } @vart[t3204.v11,t3204.v10]{@varn{1 ms. has instead:} they have pursued (?) } @varh[t3204.v12]{2000 } @vart[t3204.v13,t3204.v12]{@varn{1 ms. has instead:} 4000 } @vart[t3204.v14,t3204.v12]{@varn{1 other ms. has instead:} 3000 } soldiers @varh[t3204.v15]{who
 #lem: n; n; erin[people]; lu[person]; pana[bow]
-#tr.en: @varh[t3204.v10]{I have sent to you in haste } @vart[t3204.v11,t3204.v10]{@varn{1 ms. has instead:} they have pursued (?) } @varh[t3204.v12]{2000 } @vart[t3204.v13,t3204.v12]{@varn{1 ms. has instead:} 4000 } @vart[t3204.v14,t3204.v12]{@varn{1 other ms. has instead:} 3000 } soldiers @varh[t3204.v15]{who  
 #etcsl: line-id=9
 
 :9v.1.1: ($1 ms. has instead:$) 4
@@ -84,8 +84,8 @@
 #lem: lu[person]; pana[bow]; giŋ[ax]
 
 10. (1:2:1) li-mu-um erin₂ (2:lu₂ dur₁₀-tab-ba:2) (3:im-mu-e-ši-sar:3)
+#tr.en: are spear-throwers } @vart[t3204.v16,t3204.v15]{@varn{ 1 ms. has instead:} who are …… spear-throwers }, @varh[t3204.v17]{2000 } @vart[t3204.v18,t3204.v17]{@varn{1 ms. has instead:} 4000 } soldiers @varh[t3204.v19]{who are archers } @vart[t3204.v20,t3204.v19]{@varn{1 ms. has instead:} who are …… archers }, and @varh[t3204.v21]{2000 } @vart[t3204.v22,t3204.v21]{@varn{1 ms. has instead:} 1000 } soldiers @varh[t3204.v23]{who are double-axe wielders } @vart[t3204.v24,t3204.v23]{@varn{1 ms. has instead:} who are …… double-axe wielders }.
 #lem: n; n; erin[people]; lu[person]; durtaba[an ax]; sar[run]
-#tr.en: are spear-throwers } @vart[t3204.v16,t3204.v15]{@varn{ 1 ms. has instead:} who are …… spear-throwers }, @varh[t3204.v17]{2000 } @vart[t3204.v18,t3204.v17]{@varn{1 ms. has instead:} 4000 } soldiers @varh[t3204.v19]{who are archers } @vart[t3204.v20,t3204.v19]{@varn{1 ms. has instead:} who are …… archers }, and @varh[t3204.v21]{2000 } @vart[t3204.v22,t3204.v21]{@varn{1 ms. has instead:} 1000 } soldiers @varh[t3204.v23]{who are double-axe wielders } @vart[t3204.v24,t3204.v23]{@varn{1 ms. has instead:} who are …… double-axe wielders }. 
 #etcsl: line-id=10
 
 :10v.1.1: ($1 ms. has instead:$) 1
@@ -96,38 +96,38 @@
 #lem: sar[run]
 
 11. lu₂-kur₂ iri-gibil-a al-dur₂-ru-ne-eš
+#tr.en: The enemy has camped down in @wSN{Iri-gibil}.
 #lem: lukur[stranger]; Irigibil[1]SN; durun[sit]
-#tr.en: The enemy has camped down in @wSN{Iri-gibil}. 
 #etcsl: line-id=11
 
 12. ki-tuš-bi-ta sar-bi₂-ib
+#tr.en: Chase them away from those settlements;
 #lem: kituš[dwelling place]; sar[run]
-#tr.en: Chase them away from those settlements; 
 #etcsl: line-id=12
 
 13. X X šu i₃-ŋar-re-ne nam bi₂-X [...]
+#tr.en: do not …….
 #lem: X; X; šu[hand]; ŋar[put]; nam[fate]; X; X
-#tr.en: do not ……. 
 #etcsl: line-id=13
 
 14. iri dili-dili zag-ba# zag-za en-nu-uŋ₃-bi ak#-X-ab
+#tr.en: Guard (?) each city …….
 #lem: iri[city]; dili[single]; zag[side]; zag[side]; ennuŋ[watch]; ak[do]
-#tr.en: Guard (?) each city ……. 
 #etcsl: line-id=14
 
 15. iri-bi šu-zu-ta la-ba-ra-e₃
+#tr.en: Do not let these cities
 #lem: iri[city]; šu[hand]; e[leave]
-#tr.en: Do not let these cities  
 #etcsl: line-id=15
 
 16. nam-lu₂-ulu₃-zu ŋar-bi₂-ib
+#tr.en: out of your grasp.
 #lem: namlulu[humanity]; ŋar[put]
-#tr.en: out of your grasp. 
 #etcsl: line-id=16
 
 17. a-ma-ru-kam
+#tr.en: Station your people -- it is urgent!
 #lem: amaru[flood]
-#tr.en: Station your people -- it is urgent! 
 #etcsl: line-id=17
 
 

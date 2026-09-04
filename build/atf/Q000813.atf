@@ -13,14 +13,17 @@ $ (unknown no. of lines missing)
 @div proverb 21.a1
 
 A.21.a1.1. [...] X-en
+($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.21.a1.1
 
 A.21.a1.2. [...] X [...]
+($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=A.21.a1.2
 
 A.21.a1.3. [...] X [...]
+($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=A.21.a1.3
 
@@ -68,7 +71,6 @@ $ (unknown no. of lines missing)
 
 B.21.b1.1. nu-X X [...]
 #lem: X; X; X
-#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=B.21.b1.1
 
 #etcsl#eq = Alster 1997 21 Sec. B 1
@@ -79,14 +81,12 @@ B.21.b1.1. nu-X X [...]
 
 B.21.b2.2. [...]
 #lem: X
-#tr.en: $ (@gap{1 line missing}) 
 #etcsl: line-id=B.21.b2.2
 
 #etcsl#eq = Alster 1997 21 Sec. B 2
 
 B.21.b2.3. NI [...]
 #lem: X; X
-#tr.en: $ (@gap{2 lines fragmentary}) 
 #etcsl: line-id=B.21.b2.3
 
 B.21.b2.4. [...]-zu# nu-mu-da-zu NE# [...]
@@ -99,7 +99,6 @@ B.21.b2.4. [...]-zu# nu-mu-da-zu NE# [...]
 
 B.21.b3.5. lugal-e en₃ nu-tar-ra-ni# [...]
 #lem: lugal[king]; en[cvne]; tar[cut]; X
-#tr.en: @note{= Alster 1997 21 Sec. B 3} The king …… not having questioned ……. 
 #etcsl: line-id=B.21.b3.5
 
 #etcsl#eq = Alster 1997 21 Sec. B 3
@@ -110,14 +109,12 @@ B.21.b3.5. lugal-e en₃ nu-tar-ra-ni# [...]
 
 B.21.b4.6. šah₂ niga ab-šum-[u₃-de₃] u₃-bi₂-[...]
 #lem: šah[pig]; niga[fattened]; šum[slaughter]; X
-#tr.en: @note{= Alster 1997 21 Sec. B 4; cf. @xref[t.6.1.09,t.6.1.09.a12]{6.1.09.a12}, @xref[t.6.1.19,t.6.1.19.b1]{6.1.19.b1}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 1-2}} When a fattened pig is about to be slaughtered ……, 
 #etcsl: line-id=B.21.b4.6
 
 #etcsl#cf = Alster 1997 21 Sec. B 4; cf. 6.1.09.a12, 6.1.19.b1, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2
 
 B.21.b4.7. niŋ₂ i₃-gu₇-a-ŋu₁₀ ga#-[ab-sug₆-e-še]
 #lem: niŋ[thing]; gu[eat]; sug[replace]
-#tr.en: one says @q{“Let me replace what I am about to eat.”} 
 #etcsl: line-id=B.21.b4.7
 
 @end proverb
@@ -126,7 +123,6 @@ B.21.b4.7. niŋ₂ i₃-gu₇-a-ŋu₁₀ ga#-[ab-sug₆-e-še]
 
 B.21.b5.8. šah₂-ze₂-eh-[tur-e] šu al-gu₄-ud-[...]
 #lem: šahzehtur[piglet]; šu[hand]; gud[jump (on)]
-#tr.en: @note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”} 
 #etcsl: line-id=B.21.b5.8
 
 #etcsl#cf = Alster 1997 21 Sec. B 5; cf. 6.1.09.a13, 6.1.19.b2, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4
@@ -142,7 +138,6 @@ $ (unknown no. of lines missing)
 
 C.21.c1.1. [e₂]-gi₄-a# gal₄-la# [lu₂-kam]
 #lem: egia[bride]; gala[female genitals]; lu[person]
-#tr.en: @note{= Alster 1997 21 Sec. A 1; cf. @xref[t.6.1.19,t.6.1.19.c7]{6.1.19.c7}, @xref[t.6.1.23,t.6.1.23.18]{6.1.23.18}, @xref[t.6.1.24,t.6.1.24.8]{6.1.24.8}} A man's daughter-in-law is his policeman. 
 #etcsl: line-id=C.21.c1.1
 
 #etcsl#cf = Alster 1997 21 Sec. A 1; cf. 6.1.19.c7, 6.1.23.18, 6.1.24.8
@@ -153,19 +148,16 @@ C.21.c1.1. [e₂]-gi₄-a# gal₄-la# [lu₂-kam]
 
 C.21.c2.2. mussa-tur# UŠ# [X X]
 #lem: mussatur[son-in-law]; X; X; X
-#tr.en: @note{= Alster 1997 21 Sec. A 2; cf. @xref[t.6.1.19,t.6.1.19.c8]{6.1.19.c8}} A fiancée  
 #etcsl: line-id=C.21.c2.2
 
 #etcsl#cf = Alster 1997 21 Sec. A 2; cf. 6.1.19.c8
 
 C.21.c2.3. ŋe₂₆ e₂-e X X X
 #lem: ŋaʾe[I]; e[house]; X; X; X
-#tr.en: …… I …… to the house. 
 #etcsl: line-id=C.21.c2.3
 
 C.21.c2.4. X ga#-ba#-X [...]
 #lem: X; X; X
-#tr.en: May I ……. 
 #etcsl: line-id=C.21.c2.4
 
 @end proverb
@@ -174,14 +166,12 @@ C.21.c2.4. X ga#-ba#-X [...]
 
 C.21.c3.5. dur₂ šah₂ he₂-gu₇-e#
 #lem: dur[buttocks]; šah[pig]; gu[eat]
-#tr.en: @note{= Alster 1997 Sec. A 3; cf. @xref[t.6.1.01,t.6.1.01.191]{6.1.01.191}} May …… eat the ham of a pig! 
 #etcsl: line-id=C.21.c3.5
 
 #etcsl#cf = Alster 1997 21 Sec. A 3; cf. 6.1.01.191
 
 C.21.c3.6. [...] šah₂ [...]
 #lem: X; šah[pig]; X
-#tr.en: …… pig ……. 
 #etcsl: line-id=C.21.c3.6
 
 @end proverb
@@ -190,7 +180,6 @@ C.21.c3.6. [...] šah₂ [...]
 
 C.21.c4.x. kaš ga-ze₂-ze₂#-eb# ušur nu-kal-e#
 #lem: kaš[beer]; dug[good]; usar[(female) neighbor]; kal[rare]
-#tr.en: @note{= Alster 1997 21 Sec. A 4; cf. @xref[t.6.1.24,t.6.1.24.10]{6.1.24.10}} I would make the beer sweet but my neighbour would not appreciate it. 
 #etcsl: line-id=C.21.c4.7
 
 #etcsl#cf = Alster 1997 21 Sec. A 4; cf. 6.1.24.10
@@ -211,7 +200,6 @@ C.21.c5.x.
 
 C.21.c6.21. %e gi₄#-in %s ud šu₂-šu₂-ru# ŋi₆ MAŠ-a-gin₇ an-na-di-di#-X
 #lem: gin[worker]N; ud[sun]; šuš[cover]; ŋi[night]; n; ŋen[go]
-#tr.en: @note{= Alster 1997 21 Sec. A 6} The slave girl roams around when it grows dark as if it were midnight. 
 #etcsl: line-id=C.21.c6.21
 
 #etcsl#eq = Alster 1997 21 Sec. A 6
@@ -222,7 +210,6 @@ C.21.c6.21. %e gi₄#-in %s ud šu₂-šu₂-ru# ŋi₆ MAŠ-a-gin₇ an-na-di-d
 
 C.21.c7.22. %e gi₄-in-na %s an-ba pa nu-um-e₃ %e ga-ša#-[an-a-ni %s ...]
 #lem: gin[worker]N; anba[litter]; pa[branch]; e[leave]; gašan[lady]N; X
-#tr.en: @note{= Alster 1997 21 Sec. A 7; cf. @xref[t.6.1.19,t.6.1.19.d10]{6.1.19.d10}} The litter was not apparent to the slave girl. To her mistress ……. 
 #etcsl: line-id=C.21.c7.22
 
 #etcsl#cf = Alster 1997 21 Sec. A 7; cf. 6.1.19.d10
@@ -233,7 +220,6 @@ C.21.c7.22. %e gi₄-in-na %s an-ba pa nu-um-e₃ %e ga-ša#-[an-a-ni %s ...]
 
 C.21.c8.23. ud šu₂-šu₂-ru šag₄ hul₂-la e₂-gi₄-a-kam#
 #lem: ud[sun]; šuš[cover]; šag[heart]; hul[rejoice]; egia[bride]
-#tr.en: @note{= Alster 1997 21 Sec. A 8; cf. @xref[t.6.2.5,]{6.2.5: IM 62823 Seg. B l. 5}} Dusk means joy for a daughter-in-law. 
 #etcsl: line-id=C.21.c8.23
 
 #etcsl#cf = Alster 1997 21 Sec. A 8; cf. 6.2.5: IM 62823 Seg. B l. 5
@@ -244,7 +230,6 @@ C.21.c8.23. ud šu₂-šu₂-ru šag₄ hul₂-la e₂-gi₄-a-kam#
 
 C.21.c9.24. nu-mu-un-na-kal geme₂ HAŠHUR [...]
 #lem: kal[rare]; geme[female worker]; X; X
-#tr.en: @note{= Alster 1997 21 Sec. A 9; cf. @xref[t.6.2.5,]{6.2.5: IM 62823 Seg. B l. 7}} It was of value to her. She is the slave girl of a ……. 
 #etcsl: line-id=C.21.c9.24
 
 #etcsl#cf = Alster 1997 21 Sec. A 9; cf. 6.2.5: IM 62823 Seg. B l. 7
@@ -255,14 +240,12 @@ C.21.c9.24. nu-mu-un-na-kal geme₂ HAŠHUR [...]
 
 C.21.c10.25. %e gi₄-in-gi₄-in-e %s balaŋ ba-ra-e₃#
 #lem: gin[worker]N; balaŋ[an instrument]; e[leave]
-#tr.en: @note{= Alster 1997 21 Sec. A 10; cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 325 ll. 1-2}, @xref[t.6.2.5,]{6.2.5: IM 62823 Seg. B ll. 8-9}} The slave girls did not take out the @fsux{balaŋ} drum. 
 #etcsl: line-id=C.21.c10.25
 
 #etcsl#cf = Alster 1997 21 Sec. A 10; cf. 6.2.3: UET 6/2 325 ll. 1-2, 6.2.5: IM 62823 Seg. B ll. 8-9
 
 C.21.c10.26. %e ga-ša-an-an-na %s e-duru₂-bi mu-X [...]
 #lem: Gašanana[1]DN; eduru[village]; X; X
-#tr.en: @wDN{Inana} …… in the village (?). 
 #etcsl: line-id=C.21.c10.26
 
 @end proverb
@@ -271,7 +254,6 @@ C.21.c10.26. %e ga-ša-an-an-na %s e-duru₂-bi mu-X [...]
 
 C.21.c11.27. geme₂ e₂-gal-la za#-ra dug₄-[dug₄]
 #lem: geme[female worker]; egal[palace]; zara[(excessive) concern]; dug[speak]
-#tr.en: @note{= Alster 1997 21 Sec. A 11; cf. @xref[t.6.1.03,t.6.1.03.37]{6.1.03.37}} The slave girl from the palace offers advice (?) continually. 
 #etcsl: line-id=C.21.c11.27
 
 #etcsl#cf = Alster 1997 21 Sec. A 11; cf. 6.1.03.37
@@ -282,7 +264,6 @@ C.21.c11.27. geme₂ e₂-gal-la za#-ra dug₄-[dug₄]
 
 C.21.c12.28. arad# e₂-gal-la ga-til₃-bi [gu₇-gu₇]
 #lem: arad[slave]; egal[palace]; gatil[vow]; gu[eat]
-#tr.en: @note{= Alster 1997 21 Sec. A 12; cf. @xref[t.6.1.03,t.6.1.03.37]{6.1.03.37}} The slave from the palace eats the ex-voto offering @note{perhaps an idiom}. 
 #etcsl: line-id=C.21.c12.28
 
 #etcsl#cf = Alster 1997 21 Sec. A 12; cf. 6.1.03.37
@@ -293,14 +274,12 @@ C.21.c12.28. arad# e₂-gal-la ga-til₃-bi [gu₇-gu₇]
 
 C.21.c13.29. KU-KU-a-ŋu₁₀-ne gal₄-la-ŋu₁₀ %e na-aŋ₂-gi₄-in-e ma-an-ga
 #lem: X; gala[female genitals]; naŋgin[~worker]N; ga[carry]V/t
-#tr.en: @note{= Alster 1997 21 Sec. A 13} If I ……, my vagina brings me slavery. 
 #etcsl: line-id=C.21.c13.29
 
 #etcsl#eq = Alster 1997 21 Sec. A 13
 
 C.21.c13.30. [gal₄]-la-ŋu₁₀ lu₂ ba-an-tuku
 #lem: gala[female genitals]; lu[person]; tuku[acquire]
-#tr.en: Will anyone take my vagina then? 
 #etcsl: line-id=C.21.c13.30
 
 @end proverb
@@ -309,7 +288,6 @@ C.21.c13.30. [gal₄]-la-ŋu₁₀ lu₂ ba-an-tuku
 
 C.21.c14.31. um{mušen} al-sah₆ gu-du-bi am₃-kar
 #lem: um[water bird]; zah[disappear]; gudu[buttocks]; kar[flee]
-#tr.en: @note{= Alster 1997 21 Sec. A 14; cf. @xref[t.6.1.19,t.6.1.19.d3]{6.1.19.d3}} The …… bird flees, running away from its own behind. 
 #etcsl: line-id=C.21.c14.31
 
 #etcsl#cf = Alster 1997 21 Sec. A 14; cf. 6.1.19.d3
@@ -320,7 +298,6 @@ C.21.c14.31. um{mušen} al-sah₆ gu-du-bi am₃-kar
 
 C.21.c15.32. he₂-kud na-ab-dug₄# ŋa₂-ra in-na-LAGAB-u₃
 #lem: kud[cut]; dug[speak]; ŋaʾe[I]; X
-#tr.en: @note{= Alster 1997 21 Sec. A 15; cf. @xref[t.6.1.09,t.6.1.09.b2]{6.1.09.b2}} @q{“You should cut it,”} she said …… to me. 
 #etcsl: line-id=C.21.c15.32
 
 #etcsl#cf = Alster 1997 21 Sec. A 15; cf. 6.1.09.b2
@@ -331,7 +308,6 @@ C.21.c15.32. he₂-kud na-ab-dug₄# ŋa₂-ra in-na-LAGAB-u₃
 
 C.21.c16.x. egir₂ %e gi₄-in-na-ka
 #lem: egir[princess]; gin[worker]N
-#tr.en: It is a slave girl's princess! 
 #etcsl: line-id=C.21.c15.33
 
 #etcsl: line-id=C.21.c16.x
@@ -349,7 +325,6 @@ $ (unknown no. of lines missing)
 
 D.21.d1.1. sipad X X X X [...]
 #lem: sipad[shepherd]; X; X; X; X; X
-#tr.en: $ (@gap{1 line fragmentary}) 
 #etcsl: line-id=D.21.d1.1
 
 #etcsl#eq = Alster 1997 21 Sec. D 1
@@ -361,7 +336,6 @@ $ (= Alster 1997 21 Sec. D 2)
 
 D.21.d2.2. gala-e {ŋiš}ma₂-gur še gur nu#-[...]
 #lem: gala[lamentation singer]; magur[barge]; še[barley]; gur[unit of capacity]; X
-#tr.en: @note{= Alster 1997 21 Sec. D 2} A lamentation singer …… not …… a @fsux{gur} weight of barley …… barge ……. 
 #etcsl: line-id=D.21.d2.2
 
 @end proverb
@@ -370,29 +344,24 @@ D.21.d2.2. gala-e {ŋiš}ma₂-gur še gur nu#-[...]
 
 D.21.d3.3. gala-e a-šag₄ lu₂-u₃-ka še zuh-zuh-de₃ i₃-ŋen
 #lem: gala[lamentation singer]; ašag[field]; lu[person]; še[barley]; zuh[steal]; ŋen[go]
-#tr.en: @note{= Alster 1997 21 Sec. D 3} A lamentation priest went into a man's field to steal the barley. 
 #etcsl: line-id=D.21.d3.3
 
 #etcsl#eq = Alster 1997 21 Sec. D 3
 
 D.21.d3.4. lugal a-šag₄-ga-ke₄ ba-an-dab₅
 #lem: lugal[king]; ašag[field]; dab[seize]
-#tr.en: The owner of the field caught him. @q{“My beautiful head got confused! 
 #etcsl: line-id=D.21.d3.4
 
 D.21.d3.5. saŋ an-sag₉-ga-ŋu₁₀ bi₂-suh bi₂-bir-bir# X
 #lem: saŋ[head]; sag[good]; suh[extract]; bir[scatter]; X
-#tr.en: It is totally bewildered. Just let me straighten it out, 
 #etcsl: line-id=D.21.d3.5
 
 D.21.d3.6. si ga-ba-ab-sa₂ umuš-ŋu₁₀ ga-ba-da-ab-X [...]
 #lem: si[horn]; sa[equal]; umuš[consideration]; X; X
-#tr.en: let me …… my senses! 
 #etcsl: line-id=D.21.d3.6
 
 D.21.d3.7. ga-ba-ŋen-e-[še]
 #lem: ŋen[go]
-#tr.en: Let me go free!”} 
 #etcsl: line-id=D.21.d3.7
 
 @end proverb
@@ -401,7 +370,6 @@ D.21.d3.7. ga-ba-ŋen-e-[še]
 
 D.21.d4.8. a-šag₄ %e u₃-mu-un %s gu₅-li gala-ke₄ na-an#-[...]
 #lem: ašag[field]; umun[lord]N; guli[friend]; gala[lamentation singer]; X
-#tr.en: @note{= Alster 1997 21 Sec. D 4} A field, whose owner, a friend of a lamentation priest, ……  
 #etcsl: line-id=D.21.d4.8
 
 #etcsl#eq = Alster 1997 21 Sec. D 4

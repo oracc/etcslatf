@@ -25,7 +25,9 @@ open(OUT, ">$out") || die; select OUT;
 while (<TLIT>) {
     print;
     if ($lla{$.}) {
-	print $lla{$.};
+	foreach my $l (@{$lla{$.}}) {
+	    print $l;
+	}
 #	$tr = $lla{$.};
     }
     # if (/^\#lem/) {
@@ -46,7 +48,7 @@ sub load_lla {
     open(L, $lla) || die;
     while (<L>) {
 	my($line,$text) = split(/\t/,$_);
-	$lla{$line} = $text;
+	push @{$lla{$line}}, $text;
     }
     close(L);
 }
