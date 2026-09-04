@@ -67,6 +67,7 @@ while ($ln <= $#lnums) {
 		++$lb;
 	    } else {
 		warn "not frag\n";
+		++$lb;
 	    }
 	} else {
 	    warn "$lnn != $lbn\n";
