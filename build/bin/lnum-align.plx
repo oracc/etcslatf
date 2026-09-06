@@ -93,7 +93,7 @@ while ($ln <= $ln_top) {
 	    }
 	} else { # EID in translit corresponding to fragmentary run in tlat
 	    lnum_log("$lnn ++=> fragmentary [frag=$frag]\n");
-	    push @tr, [ ${$lnums[$ln]}[1] , '($fragmentary$)' ];
+	    push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
 	    --$frag;
 	}
     } elsif ($lnn !~ /^\$/) { # lnn is an EID
@@ -101,7 +101,7 @@ while ($ln <= $ln_top) {
 	    my $lbc = ${$label[$lb]}[1];
 	    if ($lbc =~ /fragmentary/) {
 		lnum_log("$lnn => fragmentary\n");
-		push @tr, [ ${$lnums[$ln]}[1] , '($fragmentary$)' ];
+		push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
 		$frag = need_frag($lbc, '');
 		++$lb; # unless $frag > 0;
 	    } else {
@@ -214,12 +214,15 @@ sub resync {
     my $par_eid = $paras[$par_index+1]; # restart at the next para
     my $off_ln = $ln;
     my $off_lb = $lb;
+    my $off_ln_lnum = ${$lnums[$off_lb]}[1];
     move_lb_to($par_eid);
     move_ln_to($par_eid);
+    lnum_log("resync at lnum line# $off_ln_lnum at EID $par_eid\n");
     if ($ln < $ln_top && $lb < $lb_top) {
 	while ($off_lb < $lb) {
 	    if (${$label[$off_lb]}[1]) {
-		push @tr, [ $off_ln, ${$label[$off_lb]}[1] ];
+		push @tr, [ $off_ln_lnum, '?'.${$label[$off_lb]}[1] ];
+		++$off_lb;
 	    }
 	}
     } else {

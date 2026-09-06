@@ -1,7 +1,65 @@
-<h1 id="etcslatf">etcslatf</h1>
-<p>This repo contains tools for going from the original ETCSL TEI files
-to ATF with interlinear translation that is then intended for human
-review.</p>
+<h1 id="repo-etcslatf">REPO etcslatf</h1>
+<p>This repo contains Oracc projects to display ETCSL with interlinear
+and with paragraph-oriented translation, as well as tools for going from
+the original ETCSL TEI files to ATF translation both in paragraph and in
+an interlinear form that is then intended for human review.</p>
+<p>The repo is divided into three parts: build, paras, and inter:
+<em>build</em> is where ETCSL ATF is built from ETCSL sources;
+<em>paras</em> is a project, etcslatf/paras, that displays the ETCSL
+corpus with the Oracc version of ETCSL’s original paragraph-oriented
+translations; <em>inter</em> is a project, etcslatf/inter, that displays
+the ETCSL corpus with the translation remapped to interlinear
+line-by-line format.</p>
+<h1 id="alignment">ALIGNMENT</h1>
+<p>The interlinear translations are output to build/atf with the
+translation immediately after the transliteration.</p>
+<p>Alignment of fragmentary passages can sometimes be difficult because
+the ETCSL corpus transliterations sometimes spell out the content of
+fragmentary lines and sometimes use notes such as “10 lines
+fragmentary”; in the translation, the normal practice is only to use
+notes such as “1 line fragmentary”.</p>
+<p>To mitigate the effects of this variation, the aligment routine
+(build/bin/lnum-align.plx) has a fallback procedure when it detects a
+failed alignment. The remaining translation lines in the paragraph are
+output at the point the failure was detected, and the line numbers and
+labels are resynchronized to the start of the next paragraph.</p>
+<p>Translation lines output during resynchronization are prefixed with a
+question mark, ‘?’:</p>
+<pre>
+352. [X X] saŋ-kul an-ne₂ [ki ŋar-ra]
+#tr.en: O ……, bolt founded by @wDN{An},
+#lem: X; X; saŋkul[bolt]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=352
+
+353. [...] DA A X [...]
+#tr.en: ($fragmentary$)
+#lem: X; X; X; X; X
+#etcsl: line-id=353
+
+354. [X X] an ki-da [...]
+#tr.en: ($fragmentary$)
+?#tr.en: …… has erected a house in your precinct,
+?#tr.en: O ……,
+?#tr.en: 
+#lem: X; X; an[sky]; ki[place]; X
+#etcsl: line-id=354
+</pre>
+<h1 id="editing">EDITING</h1>
+<p>Before individual interlinear outputs have had an initial review,
+only the files in build/tlit (for transliterations) and build/tei (for
+translations) should be edited.</p>
+<p>After initial review, every interlinear translation will require
+human review and correction to the inevitable misalignments of
+transliteration and translation. During this phase, only the files in
+inter/00atf should be edited.</p>
+<p>After the human review of interlinear translations has been
+completed, corrections to the transliteration should continue to be made
+in inter/00atf; corrections to the translation must be made in both
+inter/00atf (for the interlinear translation) and in build/tra (for the
+paragraph translations).</p>
+<p>The 00atf files for the project etcsl/paras are rebuilt from the
+transliterations from inter/00atf and the paragraphs in build/tra.</p>
+<h1 id="build">BUILD</h1>
 <p>The work is done in three general phases which may themselves perform
 multiple tasks:</p>
 <ol type="1">
@@ -17,7 +75,7 @@ modifications to fix some encoding issues in the originals. These can be
 found by extracting the originals from the OTA repository and diffing
 against those in tei/.</p>
 <p>The TEI has entities resolved and is written to xml/ from where the
-files have <addSpan>...<anchor> converted to containers in aac/.</p>
+files have <addSpan>…<anchor> converted to containers in aac/.</p>
 <p>The aac/ files are then converted to bare ATF translations with an
 XSL script, etc/aac-tra.xsl, and renamed to their Q-numbers.</p>
 <p>The script bin/tei2tra.sh does the tei/ .. tra/ conversion.</p>
@@ -35,9 +93,9 @@ corresponds to.</li>
 original label giving the labels to be used for each line.</li>
 <li><strong>TEXT</strong>: The para of translation.</li>
 </ul>
-<p>The <strong>TEXT</strong> field is modified to replace ' (?)' with
-Ctrl-Q and to bracket ignorable segments (like @gap{...}) with Ctrl-X
-and Ctrl-Y.</p>
+<p>The <strong>TEXT</strong> field is modified to replace ’ (?)’ with
+Ctrl-Q and to bracket ignorable segments (like <span class="citation"
+data-cites="gap">@gap</span>{…}) with Ctrl-X and Ctrl-Y.</p>
 <p>The script bin/tra2lbp does the tra/ .. lbp/ conversion.</p>
 <h2 id="lbp2atf">lbp2atf</h2>
 <p>A C program, src/lb.c does the heavy lifting of choosing line breaks
@@ -64,13 +122,13 @@ does not exist lbl2atf.sh calls lnums.sh to create the lnum/ data.</p>
 <p>The lnum/ directory contains mostly two-column tables of physical
 line numbers in the transliteration file and the label line number.</p>
 <p>The first line gives the Q-number and the ETCSL text-id.</p>
-<p>All remaining lines that do not start with '$' give the ATF file line
+<p>All remaining lines that do not start with ‘$’ give the ATF file line
 number (i.e., the number of the line in the file, not the manuscript
 line number given at the start of the line) and the ETCSL line-id.</p>
-<p>Lines starting with '$' either give an extent in column one along
-with the '$' and a type in column two, either "blank", "fragmentary", or
-"blank". If the ETCSL gap comment contained "approx" this is added in
+<p>Lines starting with ‘$’ either give an extent in column one along
+with the ‘$’ and a type in column two, either “blank”, “fragmentary”, or
+“blank”. If the ETCSL gap comment contained “approx” this is added in
 column three.</p>
-<p>If column one has '$$', column two is the literal dollar line--this
-is used for $-lines that probably aren't needed for translation
-alignment but are kept in the .lnum file just in case.</p>
+<p>If column one has ‘$$’, column two is the literal dollar line–this is
+used for $-lines that probably aren’t needed for translation alignment
+but are kept in the .lnum file just in case.</p>

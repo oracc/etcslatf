@@ -12,6 +12,46 @@ of ETCSL's original paragraph-oriented translations; *inter* is a
 project, etcslatf/inter, that displays the ETCSL corpus with the
 translation remapped to interlinear line-by-line format.
 
+# ALIGNMENT
+
+The interlinear translations are output to build/atf with the
+translation immediately after the transliteration.
+
+Alignment of fragmentary passages can be difficult because the ETCSL
+corpus transliterations sometimes spell out the content of fragmentary
+lines and sometimes use notes such as "10 lines fragmentary"; in the
+translation, the normal practice is only to use notes such as "1 line
+fragmentary".
+
+To mitigate the effects of this variation, the aligment routine
+(build/bin/lnum-align.plx) has a fallback procedure when it detects a
+failed alignment.  The remaining translation lines in the paragraph
+are output at the point the failure was detected, and the line numbers
+and labels are resynchronized to the start of the next paragraph.
+
+Translation lines output during resynchronization are prefixed with a
+question mark, '?':
+
+<pre>
+352. [X X] saŋ-kul an-ne₂ [ki ŋar-ra]
+#tr.en: O ……, bolt founded by @wDN{An},
+#lem: X; X; saŋkul[bolt]; An[1]DN; ki[place]; ŋar[put]
+#etcsl: line-id=352
+
+353. [...] DA A X [...]
+#tr.en: ($fragmentary$)
+#lem: X; X; X; X; X
+#etcsl: line-id=353
+
+354. [X X] an ki-da [...]
+#tr.en: ($fragmentary$)
+?#tr.en: …… has erected a house in your precinct,
+?#tr.en: O ……,
+?#tr.en: 
+#lem: X; X; an[sky]; ki[place]; X
+#etcsl: line-id=354
+</pre>
+
 # EDITING
 
 Before individual interlinear outputs have had an initial review, only
