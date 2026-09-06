@@ -11,44 +11,54 @@
 @div proverb 2.1
 
 A.2.1.1. ki gul-la-ba ki he₂-en-gul
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.1]{6.1.07.1}, @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. A ll. 1-2}, @xref[t.6.2.3,]{6.2.3: UET 6/2 356 ll. 3-8}} @q{“In those places which have been destroyed, let more places be destroyed.
 #lem: ki[place]; gul[destroy]; ki[place]; gul[destroy]
 #etcsl: line-id=A.2.1.1
 
 #etcsl#cf cf. 6.1.07.1, 6.2.1: Ni 9824 Seg. A ll. 1-2, 6.2.3: UET 6/2 356 ll. 3-8
 
 A.2.1.2. ki nu-gul-la-ba gu₂-ŋiri₃ he₂-en-ŋal₂
+#tr.en: And in those places which have not been destroyed, let a breach be made there.
 #lem: ki[place]; gul[destroy]; guŋiri[breach]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=A.2.1.2
 
 A.2.1.3. ki-ni ki lu-ub₂{sar} kud-da he₂-a
+#tr.en: Let his place become like chopped-up turnips!”}
 #lem: ki[place]; ki[place]; lub[turnip]; kud[cut]; me[be]
 #etcsl: line-id=A.2.1.3
 
 A.2.1.4. ŋarza-bi ŋiri₃ ba-da-kur₂
+#tr.en: -- Their rituals were alienated.
 #lem: ŋarza[rites]; ŋiri[foot]; kur[different]
 #etcsl: line-id=A.2.1.4
 
 A.2.1.5. di-ir-ga-a ki ba-e-gul
+#tr.en: Where there were bonds, that place was destroyed.
 #lem: dirga[bond]; ki[place]; gul[destroy]
 #etcsl: line-id=A.2.1.5
 
 A.2.1.6. me-bi ba-da-ha-lam
+#tr.en: Their place in the universe was eradicated.
 #lem: me[Being]; halam[forsake]
 #etcsl: line-id=A.2.1.6
 
 A.2.1.7. ŋarza-bi ŋiri₃ na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+#tr.en: -- You should not alienate their rituals!
 #lem: ŋarza[rites]; ŋiri[foot]; kur[different]
 #etcsl: line-id=A.2.1.7
 
 A.2.1.8. di-ir-ga-a ki nam-ba-e-gul-lu-de₃-en-ze₂-en
+#tr.en: Where there are bonds, you should not destroy the place!
 #lem: dirga[bond]; ki[place]; gul[destroy]
 #etcsl: line-id=A.2.1.8
 
 A.2.1.9. me-bi na-ab-ta-ab-ha-lam-e-en-ze₂-en
+#tr.en: You should not eradicate their place in the universe.
 #lem: me[Being]; halam[forsake]
 #etcsl: line-id=A.2.1.9
 
 A.2.1.10. gud-de₃ ki-gub-ba na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+#tr.en: You should not move the oxen from their places!
 #lem: gud[bull]; kigub[station]; kur[different]
 #etcsl: line-id=A.2.1.10
 
@@ -57,12 +67,14 @@ A.2.1.10. gud-de₃ ki-gub-ba na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
 @div proverb 2.2
 
 A.2.2.11. nam-tar-ŋu₁₀ ga-am₃-dug₄ in-na-am₃
+#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.c10]{6.1.26.c10}, @xref[t.6.2.3,]{6.2.3: UET 6/2 292 ll. 1-2}} Let me tell you about my fate: it is an insult.
 #lem: namtar[fate]; dug[speak]; in[abuse]
 #etcsl: line-id=A.2.2.11
 
 #etcsl#cf cf. 6.1.26.c10, 6.2.3: UET 6/2 292 ll. 1-2
 
 A.2.2.12. pa ga-am₃-e₃ sulummar₂-am₃
+#tr.en: Let me explain it to you: it is a disgrace.
 #lem: pa[branch]; e[leave]; sulummar[slander]
 #etcsl: line-id=A.2.2.12
 
@@ -71,10 +83,12 @@ A.2.2.12. pa ga-am₃-e₃ sulummar₂-am₃
 @div proverb 2.3
 
 A.2.3.13. nam-tar-ŋu₁₀ ušur-ŋa₂ ga-na-ab-dug₄
+#tr.en: Were I to tell my neighbour about my fate,
 #lem: namtar[fate]; usar[(female) neighbor]; dug[speak]
 #etcsl: line-id=A.2.3.13
 
 A.2.3.14. in-na ma-ŋa₂-ŋa₂
+#tr.en: he would heap insults upon me.
 #lem: in[abuse]; ŋar[put]
 #etcsl: line-id=A.2.3.14
 
@@ -83,6 +97,7 @@ A.2.3.14. in-na ma-ŋa₂-ŋa₂
 @div proverb 2.4
 
 A.2.4.15. a-a igi i-ni-in-bar nam-tar-ŋu₁₀ ba-dib-ba
+#tr.en: @note{cf. @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. A l. 4}} I looked into the water. My destiny was drifting past.
 #lem: a[water]; igi[eye]; bar[place outside]; namtar[fate]; dib[pass]
 #etcsl: line-id=A.2.4.15
 
@@ -93,6 +108,7 @@ A.2.4.15. a-a igi i-ni-in-bar nam-tar-ŋu₁₀ ba-dib-ba
 @div proverb 2.5
 
 A.2.5.16. ud nam-tar gig-ga-ka ba-tu-ud-de₃-en
+#tr.en: I was born on an ill-fated day.
 #lem: ud[sun]; namtar[fate]; gig[sick]; utud[give birth (to)]
 #etcsl: line-id=A.2.5.16
 
@@ -101,6 +117,7 @@ A.2.5.16. ud nam-tar gig-ga-ka ba-tu-ud-de₃-en
 @div proverb 2.6
 
 A.2.6.17. nam-tar-ŋu₁₀ gu₃-nam ama-ŋu₁₀ mu-da-an-kur₂
+#tr.en: @note{cf. @xref[t.6.2.1,]{6.2.1: Ni 4300 Seg. A l. 4}} My fate is her voice: my mother can change it.
 #lem: namtar[fate]; gu[voice]; ama[mother]; kur[different]
 #etcsl: line-id=A.2.6.17
 
@@ -111,6 +128,7 @@ A.2.6.17. nam-tar-ŋu₁₀ gu₃-nam ama-ŋu₁₀ mu-da-an-kur₂
 @div proverb 2.7
 
 A.2.7.18. zu-a ur₃-ra mu-un-ne-e-ed₃
+#tr.en: An acquaintance has gone up onto the roof to them.
 #lem: zu[know]; ur[roof]; ed[go up]
 #etcsl: line-id=A.2.7.18
 
@@ -119,6 +137,7 @@ A.2.7.18. zu-a ur₃-ra mu-un-ne-e-ed₃
 @div proverb 2.8
 
 A.2.8.19. ušur ama-ŋu₁₀ e₂-a-na zi mu-un-di-ni-gi₄
+#tr.en: The neighbour is on friendly terms with my mother in her house.
 #lem: usar[(female) neighbor]; ama[mother]; e[house]; zi[life]; gi[turn]
 #etcsl: line-id=A.2.8.19
 
@@ -127,10 +146,12 @@ A.2.8.19. ušur ama-ŋu₁₀ e₂-a-na zi mu-un-di-ni-gi₄
 @div proverb 2.9
 
 A.2.9.20. nam nu-tar-re ki-gul-la gaba ba-an-ri#-[me-en]
+#tr.en: I am one whose fate has not been determined, confronted by a waif.
 #lem: nam[fate]; tar[cut]; kigula[destitute person]; gaba[breast]; ri[impose]
 #etcsl: line-id=A.2.9.20
 
 A.2.9.21. lu₂ kug la₂ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
+#tr.en: @q{“I will be the one who knows how to settle the account; let me take my position in front of you,”} she said to me.
 #lem: lu[person]; kug[purify]; la[hang]; zu[know]; igi[eye]; gub[stand]; dug[speak]
 #etcsl: line-id=A.2.9.21
 
@@ -139,10 +160,12 @@ A.2.9.21. lu₂ kug la₂ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
 @div proverb 2.10
 
 A.2.10.22. nam nu-tar-re a₂-sag₃-e gaba ba-an-ri-me-en
+#tr.en: I am one whose fate has not been determined, confronted by a sickness demon.
 #lem: nam[fate]; tar[cut]; Asag[1]DN; gaba[breast]; ri[impose]
 #etcsl: line-id=A.2.10.22
 
 A.2.10.23. kug niŋ₂-gur₁₁ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
+#tr.en: @q{“I am one who knows wealth and possessions; let me take my position in front of you,”} he said to me.
 #lem: kug[purify]; niŋgur[property]; zu[know]; igi[eye]; gub[stand]; dug[speak]
 #etcsl: line-id=A.2.10.23
 
@@ -151,16 +174,19 @@ A.2.10.23. kug niŋ₂-gur₁₁ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
 @div proverb 2.11
 
 A.2.11.24. nam-tar ur-ra-am₃ zu₂ mu-un-da-an-kud
+#tr.en: @note{cf. @xref[t.6.1.07,t.6.1.07.70]{6.1.07.70}} Fate is a dog -- well able to bite. Like dirty rags,
 #lem: namtar[fate]; ur[dog]; zu[tooth]; kud[cut]
 #etcsl: line-id=A.2.11.24
 
 #etcsl#cf cf. 6.1.07.70
 
 A.2.11.25. tug₂-mu-dur₇-ra-gin₇ im-ma-tab-tab
+#tr.en: it clings, saying:
 #lem: tugmudura[mourning garment]; tab[double]
 #etcsl: line-id=A.2.11.25
 
 A.2.11.26. a-ba-am₃ lu₂-ŋu₁₀ hu-mu-un-da-an-zu
+#tr.en: @q{“Who is my man? Let him know it.”}
 #lem: aba[who?]; lu[person]; zu[know]
 #etcsl: line-id=A.2.11.26
 
@@ -169,6 +195,7 @@ A.2.11.26. a-ba-am₃ lu₂-ŋu₁₀ hu-mu-un-da-an-zu
 @div proverb 2.12
 
 A.2.12.27. nam-tar tug₂-ga-am₃ edin-na mu-un-na-an-la₂
+#tr.en: Fate is a cloth stretched out in the desert for a man.
 #lem: namtar[fate]; tug[textile]; eden[back]; la[hang]
 #etcsl: line-id=A.2.12.27
 
@@ -177,6 +204,7 @@ A.2.12.27. nam-tar tug₂-ga-am₃ edin-na mu-un-na-an-la₂
 @div proverb 2.13
 
 A.2.13.28. nam-tar ud huš kalam-ma ri-a
+#tr.en: Fate is a raging storm blowing over the Land.
 #lem: namtar[fate]; ud[storm]; huš[reddish]; kalam[the Land (of Sumer)]; ri[impose]
 #etcsl: line-id=A.2.13.28
 
@@ -185,10 +213,12 @@ A.2.13.28. nam-tar ud huš kalam-ma ri-a
 @div proverb 2.14
 
 A.2.14.29. (1:du-lum:1) ur-gir₁₅-ra-am₃ egir-ra-na mu-un-DU
+#tr.en: @varh[t6102.v1]{Hard work } @vart[t6102.v2,]{@note{1 ms. has instead:} Fate } is a dog walking always behind a man.
 #lem: dulum[toil]; urgir[(domestic) dog]; egir[back]; X
 #etcsl: line-id=A.2.14.29
 
 :29v.1.1: ($1 ms. has instead:$) nam-tar
+?#tr.en: The poor man must always look to his next meal.
 #lem: namtar[fate]
 
 @end proverb
@@ -212,6 +242,7 @@ A.2.16.31. ukur₃ bu-lu-uh₂ si-il-le# lu₂ niŋ₂-tuku-e igi tur nam-ba-e-g
 @div proverb 2.17
 
 A.2.17.32. ukur₃-re še ur₁₁-ru nu-mu-un-zu-a ziz₂ a-na ba-ur₁₁-ru
+?#tr.en: The belching poor man should not look scornfully at the rich man.
 #lem: ukur[poor]; še[barley]; uru[sow]; zu[know]; ziz[emmer wheat]; ana[what?]; uru[sow]
 #etcsl: line-id=A.2.17.32
 
@@ -220,6 +251,7 @@ A.2.17.32. ukur₃-re še ur₁₁-ru nu-mu-un-zu-a ziz₂ a-na ba-ur₁₁-ru
 @div proverb 2.18
 
 A.2.18.33. ukur₃ nu-kal
+?#tr.en: How can a poor man who doesn't know how to cultivate barley manage to cultivate wheat?
 #lem: ukur[poor]; kal[rare]
 #etcsl: line-id=A.2.18.33
 
@@ -228,6 +260,7 @@ A.2.18.33. ukur₃ nu-kal
 @div proverb 2.19
 
 A.2.19.34. ukur₃-re niŋ₂ šu ti-a-ni zu₂ an-ur₅
+?#tr.en: The poor man is not appreciated.
 #lem: ukur[poor]; niŋ[thing]; šu[hand]; teŋ[approach]; zu[tooth]; ur[cvve]
 #etcsl: line-id=A.2.19.34
 
@@ -236,12 +269,15 @@ A.2.19.34. ukur₃-re niŋ₂ šu ti-a-ni zu₂ an-ur₅
 @div proverb 2.20
 
 A.2.20.35. en-te-na-ka a-šag₄ nu-ur₁₁-ru
+?#tr.en: The poor man chews whatever he is given.
 #lem: enten[winter]; ašag[field]; uru[sow]
 #etcsl: line-id=A.2.20.35
 
 #etcsl#cf cf. 6.1.26.d4
 
 A.2.20.36. ud# buru₁₄#-ka šu ga-rig₂ am₃-du₃-du₃-e
+?#tr.en: @note{cf. @xref[t.6.1.26,t.6.1.26.d4]{6.1.26.d4}} He didn't plough the field during winter.
+?#tr.en: And at harvest time he turned his hand to carding.
 #lem: ud[sun]; buru[harvest]; šu[hand]; garig[comb]; du[build]
 #etcsl: line-id=A.2.20.36
 
@@ -258,12 +294,15 @@ A.2.21.37. [...] X X niŋ₂-na e₂ šar₂-ra [...] X X X BAR
 @div proverb 2.22
 
 A.2.22.38. ukur₃-re al#-ŋal₂-la X X
+?#tr.en: …… incense burners …… a multitude of houses …….
 #lem: ukur[poor]; ŋal[⟦be⟧ to be (there]; X; X
 #etcsl: line-id=A.2.22.38
 
 #etcsl#cf cf. 6.1.17.b5
 
 A.2.22.39. tu₇ ubur#-ra bi₂-in-šu₂
+?#tr.en: @note{cf. @xref[t.6.1.17,t.6.1.17.b5]{6.1.17.b5}} When someone is poor ……,
+?#tr.en: they dine on the broth of the human breast.
 #lem: tu[soup]; ubur[breast]; šuš[cover]
 #etcsl: line-id=A.2.22.39
 
@@ -278,6 +317,8 @@ A.2.23.40. ukur₃-re dumu-ni tibir 1(DIŠ)-am₃ [šu nu-um-ma-ni-dug₄-ge]
 #etcsl#cf cf. 6.1.17.b4
 
 A.2.23.41. gi₁₆-sa da-ri₂-še₃ nu-mu-[...]
+?#tr.en: @note{cf. @xref[t.6.1.17,t.6.1.17.b4]{6.1.17.b4}} The poor man does not strike his son a single blow;
+?#tr.en: he does not …… highly forever.
 #lem: gilsa[treasure]; dari[eternal]; X
 #etcsl: line-id=A.2.23.41
 
@@ -290,6 +331,8 @@ A.2.24.42. ukur₃-re niŋ₂-tuku-na sun₇-na [X X]
 #etcsl: line-id=A.2.24.42
 
 A.2.24.43. [...] X X [X X]
+?#tr.en: The poor man
+?#tr.en: …… arrogance toward his patron.
 #lem: X; X; X; X; X
 #etcsl: line-id=A.2.24.43
 
@@ -306,6 +349,7 @@ A.2.26.44. e₂-e₂ ukur₃#-ukur₃!-ra teš₂-e la-ba-gam-e
 @div proverb 2.27
 
 A.2.27.45. inim ukur₃-ra-še₃ šu la-ba-ši-in-ti
+?#tr.en: Not all the households of the poor will bow down together.
 #lem: inim[word]; ukur[poor]; šu[hand]; teŋ[approach]
 #etcsl: line-id=A.2.27.45
 
@@ -314,12 +358,15 @@ A.2.27.45. inim ukur₃-ra-še₃ šu la-ba-ši-in-ti
 @div proverb 2.28
 
 A.2.28.46. du-du nam-ukur₃-ra a₂ bi₂-ib-ŋar
+?#tr.en: The word of a poor man is not accepted.
 #lem: ŋen[go]; namukur[poverty]; a[arm]; ŋar[put]
 #etcsl: line-id=A.2.28.46
 
 #etcsl#cf cf. 2.34A, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1
 
 A.2.28.47. lu₂ du-du zu in-kalag ugu lu₂ tuš-a nam-til₃ bi₂-ib-tah-e
+?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.34A]{2.34A}, @xref[t.6.1.22,]{6.1.22: l. 236}, @xref[t.6.2.3,]{6.2.3: UET 6/2 260 l. 1}} Moving about defeats poverty. He who knows how to move around becomes strong.
+?#tr.en: He will live longer than the sedentary man.
 #lem: lu[person]; ŋen[go]; zu[know]; kalag[strong]; ugu[skull]; lu[person]; tuš[sit (down)]; namtil[life]; tah[add]
 #etcsl: line-id=A.2.28.47
 
@@ -332,6 +379,10 @@ A.2.29.48. ukur₃ a-na-am₃ al-tur-re
 #etcsl: line-id=A.2.29.48
 
 A.2.29.49. e₂-{na₄}kinkin-na gu₂ {im}šu-rin-na-ka
+?#tr.en: How lowly is the poor man!
+?#tr.en: The area around the oven is a mill-house to him.
+?#tr.en: His torn clothes will not be repaired.
+?#tr.en: That which he has lost will not be searched for.
 #lem: ekinkin[mill]; gu[neck]; šurin[oven]
 #etcsl: line-id=A.2.29.49
 
@@ -352,6 +403,8 @@ A.2.30.52. ukur₃ ur₅-ra-am₃ al-tur-re
 #etcsl: line-id=A.2.30.52
 
 A.2.30.53. ka-ta kar-ra ur₅-ra ab-su-su
+?#tr.en: The poor man is this lowly:
+?#tr.en: his debts are paid off with what is taken from his mouth.
 #lem: kag[mouth]; kar[flee]; ura[interest-bearing loan]; sug[replace]
 #etcsl: line-id=A.2.30.53
 
@@ -368,6 +421,7 @@ A.2.31.54. ukur₃ kug tukur₂
 @div proverb 2.32
 
 A.2.32.55. ukur₃ si-ig kalam-ma-ka
+?#tr.en: A poor man chewing at silver.
 #lem: ukur[poor]; sig[weak]; kalam[the Land (of Sumer)]
 #etcsl: line-id=A.2.32.55
 
@@ -376,10 +430,13 @@ A.2.32.55. ukur₃ si-ig kalam-ma-ka
 @div proverb 2.33
 
 A.2.33.56. gu₅-li ukur₃-ra-ka
+?#tr.en: The poor are the weak in the Land.
 #lem: guli[friend]; ukur[poor]
 #etcsl: line-id=A.2.33.56
 
 A.2.33.57. niŋ₂ hu-hu-nu nu-mu-un-su-a-ka
+?#tr.en: It is the companion of the poor.
+?#tr.en: It is the weakness of the widows.
 #lem: niŋ[thing]; hunu[weak (of animals)]; numunkuš[widow]
 #etcsl: line-id=A.2.33.57
 
@@ -392,6 +449,8 @@ A.2.34.58. muš₃-me ukur₃-ra-ka
 #etcsl: line-id=A.2.34.58
 
 A.2.34.59. gaba ud-da-kam i₃-tuš-tuš-u₃-de₃ i-ni-in-ŋar
+?#tr.en: The face of the poor man is set as though he
+?#tr.en: were having to sit in the face of the storm.
 #lem: gaba[breast]; ud[storm]; tuš[sit (down)]; ŋar[put]
 #etcsl: line-id=A.2.34.59
 
@@ -410,10 +469,15 @@ A.2.34A.60. du-du nam-ukur₃-re a₂ bi₂-ib₂-ŋar
 @div proverb 2.35
 
 A.2.35.61. lu₂ du-du-ra ninda ga-na-šum₂#
+?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.28]{2.28}, @xref[t.6.1.22,]{6.1.22: l. 236}, @xref[t.6.2.3,]{6.2.3: UET 6/2 260 l. 1}} Moving about defeats poverty.
 #lem: lu[person]; du[go]; ninda[bread]; šum[give]
 #etcsl: line-id=A.2.35.61
 
 A.2.35.62. lu₂ nu-du-du-ra# me-ta ga-mu-na-ab-tum₃
+?#tr.en: (A man speaks:) Were I to give food to the man who roves about,
+?#tr.en: how could I bring it to him who does not rove about?
+?#tr.en: (A woman speaks:) Were I to give food to the man who roves about,
+?#tr.en: how could I bring it to him who does not rove about?
 #lem: lu[person]; du[go]; meta[where from? whence?]; tum[bring]
 #etcsl: line-id=A.2.35.62
 
@@ -434,6 +498,8 @@ A.2.36.65. [...] šag₄# dub-ba [...]
 #etcsl: line-id=A.2.36.65
 
 A.2.36.66. dub-sar# ni₂-te#-a-ni# X X X [...]
+?#tr.en: …… a tablet
+?#tr.en: …… a scribe himself …….
 #lem: dubsar[scribe]; ni[self]; X; X; X; X
 #etcsl: line-id=A.2.36.66
 
@@ -452,12 +518,15 @@ A.2.37.67. [dub-sar-me]-en mu ni₂-za nu-zu [igi ni₂-za] X-ge
 @div proverb 2.38
 
 A.2.38.68. [dub]-sar-re mu 1(DIŠ)-am₃ he₂-en-zu
+?#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.146]{6.1.11.146}, @xref[t.6.2.3,]{6.2.3: UET 6/2 267 ll. 1-2}} You are a scribe and you do not know your own name? Shame (?) on you!
 #lem: dubsar[scribe]; mu[name]; n; zu[know]
 #etcsl: line-id=A.2.38.68
 
 #etcsl#cf cf. 6.2.3: UET 6/2 268 ll. 1-2
 
 A.2.38.69. [šu]-ni he₂-sag₉-sag₉ e-ne-am₃ dub-sar-re
+?#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 268 ll. 1-2}} If a scribe knows only a single line but his handwriting is good,
+?#tr.en: he is indeed a scribe!
 #lem: šu[hand]; sag[good]; ane[he]; dubsar[scribe]
 #etcsl: line-id=A.2.38.69
 
@@ -472,6 +541,8 @@ A.2.39.70. nar-re en₃-du 1(DIŠ)-am₃ he₂-en-zu
 #etcsl#cf cf. 6.2.3: UET 6/2 268 ll. 3-4, 6.2.3: UET 6/2 290, 6.2.3: UET 6/3 452 ll. 1-2
 
 A.2.39.71. ad ša₄-am₃ he₂-en-sag₉ e-ne-am₃ nar-ra
+?#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 268 ll. 3-4}, @xref[t.6.2.3,t623.h19]{6.2.3: UET 6/2 290}, @xref[t.6.2.3,]{6.2.3: UET 6/3 452 ll. 1-2}} If a singer knows only one song but makes the sound pleasant,
+?#tr.en: he is indeed a singer!
 #lem: ad[voice]; ša[cvve]; sag[good]; ane[he]; nar[musician]
 #etcsl: line-id=A.2.39.71
 
@@ -490,6 +561,7 @@ A.2.40.72. dub-sar šu ka-ta sa₂-a e-ne-am₃ dub-sar-ra-am₃
 @div proverb 2.41
 
 A.2.41.73. nar za-pa-aŋ₂ nu-dug₃-ga hu-ru-um nar-e-ne
+?#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/3 452 l. 3}} A scribe whose hand can follow dictation is indeed a scribe!
 #lem: nar[musician]; zipaŋ[voice]; dug[good]; hurum[junior]; nar[musician]
 #etcsl: line-id=A.2.41.73
 
@@ -498,6 +570,7 @@ A.2.41.73. nar za-pa-aŋ₂ nu-dug₃-ga hu-ru-um nar-e-ne
 @div proverb 2.42
 
 A.2.42.74. dub-sar hu-ru a-[ga-aš gi₄] e₂-dub-ba-X
+?#tr.en: A singer whose voice is not sweet is a wretch among singers!
 #lem: dubsar[scribe]; hurum[junior]; aga[rear]; gi[turn]; edubbaʾa[scribal school]
 #etcsl: line-id=A.2.42.74
 
@@ -508,6 +581,7 @@ A.2.42.74. dub-sar hu-ru a-[ga-aš gi₄] e₂-dub-ba-X
 @div proverb 2.43
 
 A.2.43.75. dub-sar šu nu-a nar ŋili₃ nu-a
+?#tr.en: @note{cf. 5.4.02: l. 95, 5.4.03: l. 9} A wretched scribe, the most backward in the school!
 #lem: dubsar[scribe]; šu[hand]; nu[not]; nar[musician]; ŋeli[throat]; nu[not]
 #etcsl: line-id=A.2.43.75
 
@@ -516,6 +590,7 @@ A.2.43.75. dub-sar šu nu-a nar ŋili₃ nu-a
 @div proverb 2.44
 
 A.2.44.76. dub-sar an-ta-me-en lu₂ ki-ta nu-me-en
+?#tr.en: A scribe without a hand. A singer without a throat.
 #lem: dubsar[scribe]; anta[upper]; lu[person]; kita[lower]; me[be]
 #etcsl: line-id=A.2.44.76
 
@@ -524,10 +599,13 @@ A.2.44.76. dub-sar an-ta-me-en lu₂ ki-ta nu-me-en
 @div proverb 2.45
 
 A.2.45.77. dumu um-mi-a {na₄}gug-gin₇ ti-ba un-burudₓ(U)
+?#tr.en: You are an outstanding scribe; you are no lowly man.
 #lem: dumu[child]; ummia[expert]; gug[carnelian]; ti[rib]; burud[perforate]
 #etcsl: line-id=A.2.45.77
 
 A.2.45.78. e-ne dub-sar-ra-am₃
+?#tr.en: The pupil of a master, like cornelian pierced through its side.
+?#tr.en: He is indeed a scribe!
 #lem: ane[he]; dubsar[scribe]
 #etcsl: line-id=A.2.45.78
 
@@ -544,6 +622,7 @@ A.2.46.79. ti-ba un-burudₓ(U) {na₄}za-gin₃-na-am₃
 @div proverb 2.47
 
 A.2.47.80. dub-sar eme-gir₁₅ nu-mu-un-zu-a a-na-am₃ nam-dub-sar-ra-ni
+?#tr.en: That which is pierced through its side is indeed lapis lazuli!
 #lem: dubsar[scribe]; emegir[the Sumerian language]; zu[know]; ana[what?]; namdubsar[the scribal arts]
 #etcsl: line-id=A.2.47.80
 
@@ -552,6 +631,7 @@ A.2.47.80. dub-sar eme-gir₁₅ nu-mu-un-zu-a a-na-am₃ nam-dub-sar-ra-ni
 @div proverb 2.48
 
 A.2.48.81. lu₂ a-a nu-mu-un-da-ak-da-am₃ eme kaš₄-kaš₄ me-da he₂-en-tum₃
+?#tr.en: What kind of a scribe is a scribe who does not know Sumerian?
 #lem: lu[person]; aʾa[text]; ak[do]; eme[tongue]; kaš[run]; meta[where from? whence?]; tum[bring]
 #etcsl: line-id=A.2.48.81
 
@@ -560,6 +640,7 @@ A.2.48.81. lu₂ a-a nu-mu-un-da-ak-da-am₃ eme kaš₄-kaš₄ me-da he₂-en-
 @div proverb 2.49
 
 A.2.49.82. dub-sar eme-gir₁₅ nu-mu-un-zu-a inim bal-e me-da he₂-en-tum₃
+?#tr.en: Someone who cannot produce @q{“a-a”} -- from where will he achieve fluent speech?
 #lem: dubsar[scribe]; emegir[the Sumerian language]; zu[know]; inim[word]; bala[turn]; meta[where from? whence?]; tum[bring]
 #etcsl: line-id=A.2.49.82
 
@@ -570,10 +651,13 @@ A.2.49.82. dub-sar eme-gir₁₅ nu-mu-un-zu-a inim bal-e me-da he₂-en-tum₃
 @div proverb 2.50
 
 A.2.50.83. dub-sar šudum-ma im-ma ba-an-lal
+?#tr.en: @note{cf. @xref[t.6.2.3,t623.h21]{6.2.3: UET 6/2 269}} A scribe who does not know Sumerian -- from where will he produce a translation?
 #lem: dubsar[scribe]; šudum[reckoning]; im[clay]; lal[small]
 #etcsl: line-id=A.2.50.83
 
 A.2.50.84. dub-sar [im]-ma# šudum-e ba-an-lal
+?#tr.en: The scribe trained in counting is deficient on clay.
+?#tr.en: The scribe skilled with clay is deficient in counting.
 #lem: dubsar[scribe]; im[clay]; šudum[reckoning]; lal[small]
 #etcsl: line-id=A.2.50.84
 
@@ -590,6 +674,7 @@ A.2.51.85. dub-sar šag₄-ba-me-en KA [...]
 @div proverb 2.52
 
 A.2.52.86. dub-sar lu₂ gu₃ ra-ah nam-tag-ga-ni ab-gu-ul#
+?#tr.en: You are a …… scribe …….
 #lem: dubsar[scribe]; lu[person]; gu[voice]; rah[beat]; namtaga[sin]; gal[big]
 #etcsl: line-id=A.2.52.86
 
@@ -598,10 +683,13 @@ A.2.52.86. dub-sar lu₂ gu₃ ra-ah nam-tag-ga-ni ab-gu-ul#
 @div proverb 2.53
 
 A.2.53.87. dub-sar-tur ninda šag₄-gal-la#-ni-še₃ bi₂-ib₂-dirig-dirig-ge
+?#tr.en: A chattering scribe's guilt is great.
 #lem: dubsartur[junior scribe]; ninda[bread]; šaggal[food]; dirig[make more than]
 #etcsl: line-id=A.2.53.87
 
 A.2.53.88. nam-dub-sar-ra-še₃ ŋeštug₂ nu-ub-ši-ŋa₂-ŋa₂
+?#tr.en: A junior scribe is too concerned with feeding his hunger;
+?#tr.en: he does not pay attention to the scribal art.
 #lem: namdubsar[the scribal arts]; ŋeštug[ear]; ŋar[put]
 #etcsl: line-id=A.2.53.88
 
@@ -616,6 +704,13 @@ A.2.54.89. dub-sar pe-el-la₂ lu₂-mu₇-mu₇-ma-kam
 #etcsl#cf cf. 6.2.3: UET 6/2 267 ll. 5-7
 
 A.2.54.90. nar pe-el-la₂ lu₂-gi-di-da-kam
+?#tr.en: @note{cf. @xref[t.6.2.3,]{6.2.3: UET 6/2 267 ll. 5-7}} A disgraced scribe becomes an incantation priest.
+?#tr.en: A disgraced singer becomes a flute-player.
+?#tr.en: A disgraced lamentation priest becomes a piper.
+?#tr.en: A disgraced merchant becomes a con-man.
+?#tr.en: A disgraced carpenter becomes a man of the spindle.
+?#tr.en: A disgraced smith becomes a man of the sickle.
+?#tr.en: A disgraced mason becomes a hod-carrier.
 #lem: nar[musician]; pel[defile]; lugididak[musician]
 #etcsl: line-id=A.2.54.90
 
@@ -652,6 +747,7 @@ A.2.55.96. kindagal eme-gir₁₅ ba-an-zu-a
 @div proverb 2.55A
 
 A.2.55A.97. [...] lu₂ eme-gir₁₅# [...]
+?#tr.en: A barber who knows Sumerian.
 #lem: X; lu[person]; emegir[the Sumerian language]; X
 #etcsl: line-id=A.2.55A.97
 
@@ -660,6 +756,7 @@ A.2.55A.97. [...] lu₂ eme-gir₁₅# [...]
 @div proverb 2.56
 
 A.2.56.98. dub-sar šag₄ dab₅-ba nu-un-zu-a inim bal-e me-da he₂-em-tum₃
+?#tr.en: …… Sumerian …….
 #lem: dubsar[scribe]; šag[heart]; dab[seize]; zu[know]; inim[word]; bala[turn]; meta[where from? whence?]; tum[bring]
 #etcsl: line-id=A.2.56.98
 
@@ -668,6 +765,7 @@ A.2.56.98. dub-sar šag₄ dab₅-ba nu-un-zu-a inim bal-e me-da he₂-em-tum₃
 @div proverb 2.57
 
 A.2.57.99. nar za-pa-aŋ₂ he₂-en-dug₃ e-ne-am₃ nar-am₃
+?#tr.en: A scribe who does not know how to grasp the meaning -- from where will he produce a translation?
 #lem: nar[musician]; zipaŋ[voice]; dug[good]; ane[he]; nar[musician]
 #etcsl: line-id=A.2.57.99
 
@@ -676,6 +774,7 @@ A.2.57.99. nar za-pa-aŋ₂ he₂-en-dug₃ e-ne-am₃ nar-am₃
 @div proverb 2.58
 
 A.2.58.100. ka₅-a-a {d}en-lil₂ lul ba-e#-[...]
+?#tr.en: When a singer's voice is sweet, he is indeed a singer.
 #lem: kaʾa[fox]; Enlil[1]DN; lul[false]; X
 #etcsl: line-id=A.2.58.100
 

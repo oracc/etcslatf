@@ -11,96 +11,119 @@
 @div sa-gida A
 
 A.A.1. %e ga-ša-an-ŋen %s ša-ga-ba-ta ud zal-la-ŋu₁₀-ne {{%akk iš-tu %akk am-ša-li %akk i-na %akk šum-ṣu₂-li-ya}}
+#tr.en: While I, the lady,
 #lem: gašan[lady]N; šaduga[yesterday?]; ud[sun]; zal[pass time]; L; L; L; L
 #etcsl: line-id=A.A.1
 
 A.A.2. %e ga-ša-an-an-na-ŋen %s ša-ga-ba-ta ud zal-la-ŋu₁₀-ne
+#tr.en: was passing the day yesterday, while I,
 #lem: Gašanana[]DN; šaduga[yesterday?]; ud[sun]; zal[pass time]
 #etcsl: line-id=A.A.2
 
 A.A.3. ud zal-la-ŋu₁₀-ne e-ne %e di-da-ŋu₁₀-ne
+#tr.en: @wDN{Inana}, was passing the day yesterday,
 #lem: ud[sun]; zal[pass time]; ene[pleasure?]; de[go]
 #etcsl: line-id=A.A.3
 
 A.A.4. ud zal ŋi₆ sa₂-a-še₃ en₃-du dug₄-ga-ŋu₁₀-ne {{%akk i-na %akk šum-ṣu₂-lim %akk u₃ %akk šum-ši#-im#}}
+#tr.en: while I was passing the day, while I was dancing,
 #lem: ud[sun]; zal[pass time]; ŋi[night]; sa[equal]; endu[song]; dug[speak]; L; L; L; L
 #etcsl: line-id=A.A.4
 
 A.A.5. gaba mu-un-ri gaba mu-un-ri {{%akk im-hur-an-ni}}
+#tr.en: while I was singing songs all day until evening, he met me,
 #lem: gaba[breast]; ri[impose]; gaba[breast]; ri[impose]; L
 #etcsl: line-id=A.A.5
 
 A.A.6. %e u₃-mu-un %s gu₅-li an-na gaba mu-un-ri
+#tr.en: he met me. The lord,
 #lem: umun[lord]N; guli[friend]; An[1]DN; gaba[breast]; ri[impose]
 #etcsl: line-id=A.A.6
 
 A.A.7. %e u₃-mu-un-e %s šu-ni-a šu im-ma-an-du₃ {{%akk ih-ṣi₂-in-an-ni}}
+#tr.en: the friend of @wDN{An}, met me;
 #lem: umun[lord]N; šu[hand]; šu[hand]; du[build]; L
 #etcsl: line-id=A.A.7
 
 A.A.8. {d}ušumgal-an-na gu₂-ŋa₂-a gu₂-da ba-an-la₂ {{%akk ki-ša-di %akk i-di-ir}}
+#tr.en: the lord took me in his hands, @wDN{Ušumgal-ana} embraced me about my neck.
 #lem: Ušumgalana[1]DN; gu[neck]; gu[neck]; la[hang]; L; L
 #etcsl: line-id=A.A.8
 
 A.A.9. me-a-am šu ba-mu-u₈ e₂-me-še₃  %e  da-ŋen  %s 
+#tr.en: @q[Inana,Dumuzid]{“……, let me go,
 #lem: meʾam[term of endearment]; šu[hand]; ba[allot]; e[house]; ŋen[go]
 #etcsl: line-id=A.A.9
 
 A.A.10. gu₅-li  %e  {d}mu-ul-lil₂-la₂  %s  šu ba-mu-u₈ e₂-me#-še₃  %e  da-ŋen  %s 
+#tr.en: so that I can go to our house! Friend of @wDN{Enlil},
 #lem: guli[friend]; Mullil[1]DN; šu[hand]; ba[allot]; e[house]; ŋen[go]
 #etcsl: line-id=A.A.10
 
 A.A.11. ama-ŋu₁₀# lul-la-še₃ %e ta %s mu-na-ab-gub-be₂-en {{%akk mi-nam %akk az-za-as-si₂}}
+#tr.en: let me go, so that I can go to our house!
 #lem: ama[mother]; lul[false]; ta[what?]QP; gub[stand]; L; L
 #etcsl: line-id=A.A.11
 
 A.A.12. ama-ŋu₁₀#  %e  {d}ga-ša-an-gal-e  %s  lul-la-še₃ %e ta %s mu-na-ab-gub-be₂-en
+#tr.en: What lie can I offer to my mother? What lie can I offer to my mother @wDN{Ningal}?”}
 #lem: ama[mother]; Gašangal[1]DN; lul[false]; ta[what?]QP; gub[stand]
 #etcsl: line-id=A.A.12
 
 A.A.13. ŋe₂₆-e ga-ri-ib-zu-zu ŋe₂₆-e ga-ri-ib-zu-zu {{%akk lu-uq-bi-ki}}
+#tr.en: @q[Dumuzid,Inana]{“Let me teach you, let me teach you! @wDN{Inana},
 #lem: ŋaʾe[I]; zu[know]; ŋaʾe[I]; zu[know]; L
 #etcsl: line-id=A.A.13
 
 A.A.14. {d}inana lul-la munus-e-ne ŋe₂₆-e ga-ri-ib-zu-zu
+#tr.en: let me teach you the lies of women:
 #lem: Inanak[1]DN; lul[false]; munus[woman]; ŋaʾe[I]; zu[know]
 #etcsl: line-id=A.A.14
 
 A.A.15. ma-la-ŋu₁₀ sila daŋal-la e-ne %e mu-di-ni-ib-ma-ma %s {{%akk i-na %akk re-bi-tim %akk im-me-li-il}}
+#tr.en: @q{“My girlfriend was dancing with me in the square.
 #lem: malag[female neighbor]; sila[street]; daŋal[wide]; ene[pleasure?]; mar[place]V/t; L; L; L
 #etcsl: line-id=A.A.15
 
 A.A.16. ub₃ sag₃!-sag₃ e-ne di-da hub₂ mu-di-ni-in-gub {{%akk i-na %akk up-pi %akk lu-pu-tim %akk i-na %akk me-lu-ul-tim %akk i-ra-[ap]-pu-ud}}
+#tr.en: She ran around playfully with me, banging the drum.
 #lem: ub[drum]; sag[strike]; ene[pleasure?]; di[speak]; hub[foot]; gub[stand]; L; L; L; L; L; L
 #etcsl: line-id=A.A.16
 
 A.A.17. i-lu-ni %e ze₂-ba-am₃ %s ad mu-ši-ib-ša₄ {{%akk qu₂-be₂-e-ša# %akk ṭa-bu-tim %akk i-na-as-sa₃-as}}
+#tr.en: She sang her sweet songs for me.
 #lem: ilu[lament]; zeb[good]V/i; ad[voice]; ša[cvve]; L; L; L
 #etcsl: line-id=A.A.17
 
 A.A.18. hul₂-hul₂-e %e ze₂-ba-am₃ %s ud mu-di-ni-ib-zal-e {{%akk it-ti-ša %akk uš-te-be₂-er-re}}
+#tr.en: I passed the day there with her in pleasure and delight.”}
 #lem: hul[rejoice]; zeb[good]V/i; ud[sun]; zal[pass time]; L; L
 #etcsl: line-id=A.A.18
 
 A.A.19. ama ugu-zu-ur₂ lul-la-še₃ za-e gub-bu-na-da
+#tr.en: Offer this as a lie to your own mother.
 #lem: ama[mother]; ugu[bear]; lul[false]; zaʾe[you]; gub[stand]
 #etcsl: line-id=A.A.19
 
 A.A.20. me-en-de₃ iti₆-še₃ e-ne su₃-ud ga!-da-e {{%akk i-na %akk ri-ša-tim %akk i %akk nim-me-li-il#}}
+#tr.en: As for us -- let me make love with you by moonlight!
 #lem: menden[we]; itud[moon]; ene[pleasure?]; sud[distant]; dug[speak]; L; L; L; L
 #etcsl: line-id=A.A.20
 
 A.A.21. ki-nu₂ kug he-nun-na suh ga-mu-ra-du₈# {{%akk mu-uš-ṭa-ti-ki %akk lu-pa-ṭi-ir}}
+#tr.en: Let me loosen your hairgrip on the holy and luxuriant couch.
 #lem: kinud[sleeping quarter]; kug[purify]; henun[plenty]; suh[crown]; du[spread]; L; L
 #etcsl: line-id=A.A.21
 
 A.A.22. ud dug₃ nam-he₂-a hul₂-la hu-mu-u₃-di-ni-ib#-[zal-e] {{%akk li-ip-pu-uh₂}}
+#tr.en: May you pass a sweet day there with me in voluptuous pleasure.”}
 #lem: ud[sun]; dug[good]; namhe[abundance]; hul[rejoice]; zal[pass time]; L
 #etcsl: line-id=A.A.22
 
 @div trailer 
 
 A.A.23. sa-gid₂-da-am₃
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=A.A.23
 
@@ -111,14 +134,17 @@ A.A.23. sa-gid₂-da-am₃
 @div sa-ŋara B
 
 A.B.24. [X X] ki#-sikil-ŋen sila sir₂-ra X [...] {{%akk TA %akk su-qe₂-tim}}
+#tr.en: @q[Inana,Dumuzid]{“I the maiden, in the streets and alleys,
 #lem: X; X; kisikil[young woman]; sila[street]; esir[street]; X; X; L; L
 #etcsl: line-id=A.B.24
 
 A.B.25. [X X] X-da ud-da mu-e-da-X [...] {{%akk X %akk IM %akk X %akk X %akk X}}
+#tr.en: ……, by day I …… with you,”}
 #lem: X; X; X; ud[sun]; X; X; L; L; L; L; L
 #etcsl: line-id=A.B.25
 
 A.B.26. [...] X X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=A.B.26
 
@@ -132,10 +158,22 @@ $ (approx. 11 lines missing)
 @div sa-ŋara B
 
 B.B.1. [X X] MU X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.B.1
 
 B.B.2. [X X] X RA su₃-ud# mu#-un-ŋa₂-[ŋa₂]
+?$ (@gap{1 line unclear}) 
+?#tr.en: There he is, standing at our mother's gate,
+?#tr.en: while I am rushing around in excitement.
+?#tr.en: There he is standing at @wDN{Ningal's} gate,
+?#tr.en: while I am rushing around in excitement.
+?#tr.en: Oh that someone would tell my mother!
+?#tr.en: May our neighbour come to sprinkle water on the floor!
+?#tr.en: Oh that someone would tell my mother @wDN{Ningal}!
+?#tr.en: May our neighbour come to sprinkle water on the floor:
+?#tr.en: the fragrance of her dwelling is pleasant,
+?#tr.en: and her words are delightful.
 #lem: X; X; X; X; sud[distant]; ŋar[put]
 #etcsl: line-id=B.B.2
 
@@ -184,6 +222,14 @@ B.B.13. %e u₃-mu-un-ŋu₁₀ %s ur₂ kug-ge he₂-du₇
 #etcsl: line-id=B.B.13
 
 B.B.14. {d}ama-ušumgal-an-na mussa {d}suen-na
+?#tr.en: My lord is perfect for the holy embrace.
+?#tr.en: @wDN{Ama-ušumgal-ana}, the son-in-law of @wDN{Suen}, Lord @wDN{Dumuzid},
+?#tr.en: is perfect for the holy embrace. @wDN{Ama-ušumgal-ana},
+?#tr.en: son-in-law of @wDN{Suen}, my lord: how pleasing is your lavishness,
+?#tr.en: and how sweet-tasting are your green plants from the plain!
+?#tr.en: @wDN{Ama-ušumgal-ana},
+?#tr.en: how pleasing is your lavishness,
+?#tr.en: and how sweet-tasting are your green plants from the plain!
 #lem: Amaʾušumgalanak[1]DN; mussa[son-in-law]; Suen[1]DN
 #etcsl: line-id=B.B.14
 

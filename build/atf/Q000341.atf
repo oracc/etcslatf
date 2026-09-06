@@ -9,6 +9,7 @@
 @div segment A
 
 A.1. gud-dam iri{ki} [...]
+#tr.en: @wPN{Gudam} …… the city.
 #lem: Gudam[1]PN; iri[city]; X
 #etcsl: line-id=A.1
 
@@ -20,30 +21,37 @@ $ (unknown no. of lines missing)
 @div segment B
 
 B.1. gud-[dam ...]
+#tr.en: @wPN{Gudam} ……. @wPN{Gudam} …….
 #lem: Gudam[1]PN; X
 #etcsl: line-id=B.1
 
 B.2. gud-dam [...]
+#tr.en: @wDN{Inana} …….
 #lem: Gudam[1]PN; X
 #etcsl: line-id=B.2
 
 B.3. {d}inana [...]
+#tr.en: @wPN{Gudam} …… within @wSN{Unug} …….
 #lem: Inanak[1]DN; X
 #etcsl: line-id=B.3
 
 B.4. gud-dam šag₄ unug{ki#} [...]
+#tr.en: He …… the storehouse …….
 #lem: Gudam[1]PN; šag[heart]; Unug[1]SN; X
 #etcsl: line-id=B.4
 
 B.5. {e₂}šutum# [...] im-ma-ni-[...]
+#tr.en: @wPN{Gudam} …… the beer, …… the wine,
 #lem: šutum[storehouse]; X; X
 #etcsl: line-id=B.5
 
 B.6. gud-dam kaš i-[...] kurun i-[...]
+#tr.en: …… the bronze vessels,
 #lem: Gudam[1]PN; kaš[beer]; X; kurun[beer]; X
 #etcsl: line-id=B.6
 
 B.7. {zabar}aga [...] {zabar#}aga [...]
+#tr.en: …… the bronze vessels …….
 #lem: aga[vessel]; X; aga[vessel]; X
 #etcsl: line-id=B.7
 
@@ -53,46 +61,57 @@ $ (unknown no. of lines missing)
 @div segment C
 
 C.1. {zabar}aga X im-gur₄-gur₄-re
+#tr.en: They filled the bronze vessels to the brim.
 #lem: aga[vessel]; X; gur[thick]
 #etcsl: line-id=C.1
 
 C.2. ti-lim-da ma₂-gur₈ kug im-bi-bi-re
+#tr.en: He made the @fsux{tilimda} vessels shine like the holy barge,
 #lem: tilimda[water vessel]; magur[barge]; kug[purify]; babbar[white]
 #etcsl: line-id=C.2
 
 C.3. zid₂-gu sag₁₀ suhur-sun₄-la₂#{ku₆} X X X X TUM X X
+#tr.en: …… fine chickpea flour, bearded carp …….
 #lem: zidgu[type of flour]; sag[good]; suhursumla[fish]; X; X; X; X; X; X; X
 #etcsl: line-id=C.3
 
 C.4. E ku₆ šum₂-e E ku₆ zu₂-lum-ma-gin₇ im-BUL-[...]
+#tr.en: ……, he …… fish like dates.
 #lem: X; kud[fish]; šum[give]; X; kud[fish]; zulum[the fruit of the date-palm]; X
 #etcsl: line-id=C.4
 
 C.5. gud-dam-ra e-sir₂ unug{ki}-ga-ke₄ šar₂-am₃ mu-na-an#-[us₂ ...]
+#tr.en: Many followed @wPN{Gudam} on the streets of @wSN{Unug}.
 #lem: Gudam[1]PN; esir[street]; Unug[1]SN; šar[numerous]V/i; us[accompany]; X
 #etcsl: line-id=C.5
 
 C.6. šar₂-ra {ŋiš}tukul-a mu-na-an-dur₂-ru-ne-eš
+#tr.en: They sat armed before him.
 #lem: šar[numerous]V/i; tukul[weapon]; durun[sit]
 #etcsl: line-id=C.6
 
 C.7. nar-a-ni lugal-gaba-ŋal₂ DI gub-bu-de₃ ba-ra-e₃
+#tr.en: Her @noteref{= @wDN{Inana's}} (?) singer @wPN{Lugal-gabaŋal} came out to ……,
 #lem: nar[musician]; Lugalgabaŋal[1]PN; X; gub[stand]; e[leave]
 #etcsl: line-id=C.7
 
 C.8. ugnim-e igi im-ma-an-sig₁₀
+#tr.en: and looked at the troops. The singer met him with a song,
 #lem: ugnim[army]; igi[eye]; sig[put into]
 #etcsl: line-id=C.8
 
 C.9. nar-e en₃-du-a šu i-ni-in-gi₄ sa šu-na bi₂-in-RU
+#tr.en: …… string with his hand:
 #lem: nar[musician]; endu[song]; šu[hand]; gi[turn]; sa[sinew]; šu[hand]; X
 #etcsl: line-id=C.9
 
 C.10. i₃-gu₇-a-zu i₃-gu₇-a-zu
+#tr.en: @q[,Gudam]{“What you have eaten, what you have eaten -- it was not bread that you have eaten,
 #lem: gu[eat]; gu[eat]
 #etcsl: line-id=C.10
 
 C.11. ninda nu-e-gu₇ uzu-zu-um i₃-gu₇
+#tr.en: it was your flesh that you have eaten! What you have drunk,
 #lem: ninda[bread]; gu[eat]; uzu[flesh]; gu[eat]
 #etcsl: line-id=C.11
 
@@ -119,6 +138,10 @@ C.16. DU a-na-ak-en munus-e ŋa₂-a ma-an-dug₄-ga un-ne-DU-de₃-en
 #etcsl: line-id=C.16
 
 C.17. gud-dam-e haš₂ tibir-ra bi₂-in-ra ni₂ su-e bi₂-ib₂-us₂
+?#tr.en: @q[Gudam,]{“…… what the woman ordered me, when I have …….”}
+?#tr.en: @wPN{Gudam} slapped his thigh with his fist in annoyance; fear overcame him:
+?#tr.en: @q[Gudam,]{“He did not grasp the Šar-ur, my heroic weapon.
+?#tr.en: For me the temple of @wSN{Zabalam} …….”}
 #lem: Gudam[1]PN; haš[thigh]; tibir[hand]; rah[beat]; ni[fear]; su[flesh]; us[accompany]
 #etcsl: line-id=C.17
 
@@ -135,6 +158,12 @@ C.20. {ŋiš}dal e₂-an-na pa-ba mi-ni-in-kud
 #etcsl: line-id=C.20
 
 C.21. gud-dam sila-še₃ im-ma-na-ra-e₃
+?#tr.en: He lopped off the crossbeams of @wTN{E-ana} as if (?) they were branches.
+?#tr.en: @wPN{Gudam} went out into the street.
+?#tr.en: @wPN{Gudam} crushed many on the streets of @wSN{Unug},
+?#tr.en: and killed many with his mace.
+?#tr.en: @varh[t134.v1]{He hacked down the door of the city
+?#tr.en: gate } @vart[t134.v2,t134.v1]{@varn{the other ms. has instead:} …… the gate, the gate of @wDN{Iškur} }. He went out from …….
 #lem: Gudam[1]PN; sila[street]; e[leave]
 #etcsl: line-id=C.21
 
@@ -162,6 +191,10 @@ C.26. šu-peš tur šu-peš {d}inana-ke₄
 #etcsl: line-id=C.26
 
 C.27. {urud}dur₁₀-tab-ba (1:mu-na-an-bar-re-ia-ka:1)
+?#tr.en: A junior fisherman, a fisherman of @wDN{Inana},
+?#tr.en: @varh[t134.v3]{turned } @vart[t134.v4,t134.v3]{@varn{the other ms. has instead:} …… } the double-axe against him and struck @wPN{Gudam} down.
+?#tr.en: @wPN{Gudam} began to grieve,
+?#tr.en: and was tear-stricken:
 #lem: durtaba[an ax]; bar[place outside]
 #etcsl: line-id=C.27
 
@@ -181,6 +214,9 @@ C.30. {d}inana zi-ŋu₁₀ šum₂-ma-ab
 #etcsl: line-id=C.30
 
 C.31. gud kur-ra ga-mu-ra-ab-šum₂ tur₃-zu ga-mu-ra-ab-lu
+?#tr.en: @q[Gudam,Inana]{“@wDN{Inana}, spare my life!
+?#tr.en: I will give you bulls of the mountains, I will make your cow-pen full!
+?#tr.en: I will give (?) you sheep of the mountains, I will make your sheepfold full!”}
 #lem: gud[bull]; kur[mountain(s)]; šum[give]; tur[animal stall]; lu[abundant]
 #etcsl: line-id=C.31
 
@@ -196,6 +232,9 @@ C.33. kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
 
 #etcsl#ms the other ms. adds 3 lines:
 C.33A. gud kur-ra ŋa₂-a-[ra ...]
+?#tr.en: Holy @wDN{Inana} replied to him: @q[Inana,Gudam]{“ @vart[t134.v5,t134.v5]{@varn{the other ms. adds:} …… bulls of the mountains for me. …… sheep of the mountains for me. …… weapon ……. } The fields of @wSN{Zabalam}, where you dwelt: its villages …….
+?#tr.en: Over a wide area,
+?#tr.en: may …… calm for you, may …… desire (?).”}
 #lem: gud[bull]; kur[mountain(s)]; ŋaʾe[I]; X
 #etcsl: line-id=C.33A
 
@@ -221,6 +260,8 @@ C.36. {d}inana nam-ur-saŋ ga-am₃-dug₄
 #etcsl: line-id=C.36
 
 C.37. za₃-mi₂-zu dug₃-ga-am₃
+?#tr.en: Inana, I will speak of your heroism.
+?#tr.en: It is pleasant to praise you!
 #lem: zamin[praise]; dug[good]
 #etcsl: line-id=C.37
 

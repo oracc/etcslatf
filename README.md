@@ -129,11 +129,11 @@ ATF transliterations derived from ePSD2.
 * Tables of line numbers are created using bin/lnums.sh and saved in
   lnum/. This only needs to be done once unless there are changes to
   the tlit/ data.
-* The lbl/ data is rewritten so that each labeled line has the tlit/
-  data file line number (from lnum/) prepended to the line label; this
-  is written to lbl+/.
-* The lbl+/ data is merged into the tlit/ data based on
-  the line numbers and written to 00atf/.
+* The lbl/ data is merged with the lnum data to create a two column
+  table of ATF file-line numbers and the #tr that must be inserted at
+  that point; this is the lla/ format.
+* The lla/ data is merged into the tlit/ data based on
+  the line numbers and written to atf/.
 
 The script lbp2atf.sh does the lbl/ .. 00atf/ conversion; if lnum/
 does not exist lbl2atf.sh calls lnums.sh to create the lnum/ data.

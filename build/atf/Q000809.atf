@@ -11,32 +11,32 @@
 @div proverb 16.a1
 
 A.16.a1.1. [...] NE
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.16.a1.1
 
 A.16.a1.2. [...] šum₂
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; šum[give]
 #etcsl: line-id=A.16.a1.2
 
 A.16.a1.3. [... hul₂]
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; hul[rejoice]
 #etcsl: line-id=A.16.a1.3
 
 A.16.a1.4. [...] X KU
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=A.16.a1.4
 
 A.16.a1.5. [...]-gu₇-e
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: gu[eat]
 #etcsl: line-id=A.16.a1.5
 
 A.16.a1.6. [...]-bi
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=A.16.a1.6
 
@@ -45,17 +45,17 @@ A.16.a1.6. [...]-bi
 @div proverb 16.a2
 
 A.16.a2.7. [...] he₂-X X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=A.16.a2.7
 
 A.16.a2.8. [...] tum₂#-ma
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; tum[suitable]
 #etcsl: line-id=A.16.a2.8
 
 A.16.a2.9. [...] DU
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.16.a2.9
 
@@ -64,37 +64,37 @@ A.16.a2.9. [...] DU
 @div proverb 16.a3
 
 A.16.a3.10. [...]-an-tur
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: tur[small]
 #etcsl: line-id=A.16.a3.10
 
 A.16.a3.11. [...] X-e
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.16.a3.11
 
 A.16.a3.12. [...] 7
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; n
 #etcsl: line-id=A.16.a3.12
 
 A.16.a3.13. [...] gu₂#-uš#
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; gu[neck]
 #etcsl: line-id=A.16.a3.13
 
 A.16.a3.14. [...] GA
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.16.a3.14
 
 A.16.a3.15. [...] šum₂#
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; šum[give]
 #etcsl: line-id=A.16.a3.15
 
 A.16.a3.16. [...] X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.16.a3.16
 
@@ -108,17 +108,17 @@ $ (unknown no. of lines missing)
 @div proverb 16.b1
 
 B.16.b1.1. [...] X [...] X [...]
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=B.16.b1.1
 
 B.16.b1.2. [...] X X X [...] X X [...]
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X
 #etcsl: line-id=B.16.b1.2
 
 B.16.b1.3. X X AN AB X GAL X X ab-gu₇
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; gu[eat]
 #etcsl: line-id=B.16.b1.3
 
@@ -127,12 +127,14 @@ B.16.b1.3. X X AN AB X GAL X X ab-gu₇
 @div proverb 16.b2
 
 B.16.b2.4. sipad he₂-em-ta-ed₃-de₃-e-en
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.10]{6.1.03.10}} You should get rid of the shepherd,
 #lem: sipad[shepherd]; ed[go up]
 #etcsl: line-id=B.16.b2.4
 
 #etcsl#cf cf. 6.1.03.10
 
 B.16.b2.5. udu-ni šu-a li-bi₂-in-gi₄
+#tr.en: so his sheep will not come back into his charge.
 #lem: udu[sheep]; šu[hand]; gi[turn]
 #etcsl: line-id=B.16.b2.5
 
@@ -141,12 +143,14 @@ B.16.b2.5. udu-ni šu-a li-bi₂-in-gi₄
 @div proverb 16.b3
 
 B.16.b3.6. sipad kug-zu mu#-un#-na#-bir-am₃
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.11]{6.1.03.11}} The wise shepherd has become confused,
 #lem: sipad[shepherd]; kugzu[wise]; bir[scatter]
 #etcsl: line-id=B.16.b3.6
 
 #etcsl#cf cf. 6.1.03.11
 
 B.16.b3.7. udu-ni šu-a li-bi₂-in-gi₄
+#tr.en: and his sheep will not come back into his charge.
 #lem: udu[sheep]; šu[hand]; gi[turn]
 #etcsl: line-id=B.16.b3.7
 
@@ -155,12 +159,14 @@ B.16.b3.7. udu-ni šu-a li-bi₂-in-gi₄
 @div proverb 16.b4
 
 B.16.b4.8. sipad!(TUR₃) ŋiš₃-a-ni
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.9]{6.1.03.9}, @xref[t.6.1.23,t.6.1.23.7]{6.1.23.7}} A shepherd's sex appeal is his penis;
 #lem: sipad[shepherd]; ŋeš[penis]
 #etcsl: line-id=B.16.b4.8
 
 #etcsl#cf cf. 6.1.03.9, 6.1.23.7
 
 B.16.b4.9. nu-{ŋiš}kiri₆ suhur-ni
+#tr.en: a gardener's sex appeal is his hair.
 #lem: nukirik[gardener]; suhur[tuft]
 #etcsl: line-id=B.16.b4.9
 
@@ -169,6 +175,7 @@ B.16.b4.9. nu-{ŋiš}kiri₆ suhur-ni
 @div proverb 16.b5
 
 B.16.b5.10. ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ nu-il₂
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.153]{6.1.01.153}, @xref[t.6.1.03,t.6.1.03.9]{6.1.03.9}, @xref[t.6.1.22,]{6.1.22: ll. 26-27}, @xref[t.6.1.23,t.6.1.23.7]{6.1.23.7}} An unjust heir who does not support a wife, who does not support a child, has no cause for celebration.
 #lem: ibila[heir]; gin[confirm]; dam[spouse]; il[raise]; dumu[child]; il[raise]; kirizal[joy]; il[raise]
 #etcsl: line-id=B.16.b5.10
 
@@ -179,10 +186,12 @@ B.16.b5.10. ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ 
 @div proverb 16.b6
 
 B.16.b6.11. sipad X HA ud 1(DIŠ)-a itid na-an-X-X
+#tr.en: ($fragmentary$)
 #lem: sipad[shepherd]; X; X; ud[sun]; n; itud[moon]; X
 #etcsl: line-id=B.16.b6.11
 
 B.16.b6.12. [...] ŠU [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=B.16.b6.12
 
@@ -191,20 +200,24 @@ B.16.b6.12. [...] ŠU [...]
 @div proverb 16.b7
 
 B.16.b7.13. ud-da ga-ŋen na-gada#-[kam]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.6]{6.1.03.6}} @q{“Let me go today”} is what a herdsman says.
 #lem: ud[sun]; ŋen[go]; nagada[herdsman]
 #etcsl: line-id=B.16.b7.13
 
 #etcsl#cf cf. 6.1.03.6
 
 B.16.b7.14. ul-la ga-ŋen sipad#-[tur-ra-kam]
+#tr.en: @q{“Let me go tomorrow”} is what a shepherd boy says.
 #lem: ul[distant time]; ŋen[go]; sipadtur[junior shepherd]
 #etcsl: line-id=B.16.b7.14
 
 B.16.b7.15. niŋ₂-gur₁₁#-ni# X [...]
+#tr.en: ……. His property …….
 #lem: niŋgur[property]; X; X
 #etcsl: line-id=B.16.b7.15
 
 B.16.b7.16. ga-ŋen#-am₃ [...]
+#tr.en: @q{“Let me go!'…….”}
 #lem: ŋen[go]; X
 #etcsl: line-id=B.16.b7.16
 
@@ -213,10 +226,12 @@ B.16.b7.16. ga-ŋen#-am₃ [...]
 @div proverb 16.b8
 
 B.16.b8.17. KU X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=B.16.b8.17
 
 B.16.b8.18. X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=B.16.b8.18
 
@@ -230,12 +245,14 @@ $ (unknown no. of lines missing)
 @div proverb 16.c1
 
 C.16.c1.1. [igi engar-e mu-e-ši-in-il₂-e]
+#tr.en: @note{cf. @xref[t.6.1.14,t.6.1.14.3]{6.1.14.3}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 7-8}} The farmer lifts his gaze to you
 #lem: igi[eye]; engar[farmer]; il[raise]
 #etcsl: line-id=C.16.c1.1
 
 #etcsl#cf cf. 6.1.14.3, 6.2.5: UM 29-16-519 Seg. A ll. 7-8
 
 C.16.c1.2. {[d]}[en-lil₂-le iri nam ku₅-ra₂-ni ha-ba]-ši-[in-il₂-e]
+#tr.en: @note{i.e. @wDN{Enlil}}: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c1.2
 
@@ -244,12 +261,14 @@ C.16.c1.2. {[d]}[en-lil₂-le iri nam ku₅-ra₂-ni ha-ba]-ši-[in-il₂-e]
 @div proverb 16.c2
 
 C.16.c2.3. igi sipad-tur-re [mu-e-ši-in-il₂-e]
+#tr.en: @note{cf. @xref[t.6.1.14,t.6.1.14.4]{6.1.14.4}, @xref[t.6.1.15,t.6.1.15.b1]{6.1.15.b1}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 9-10}} The shepherd boy lifts his gaze to you:
 #lem: igi[eye]; sipadtur[junior shepherd]; il[raise]
 #etcsl: line-id=C.16.c2.3
 
 #etcsl#cf cf. 6.1.14.4, 6.1.15.b1, 6.2.5: UM 29-16-519 Seg. A ll. 9-10
 
 C.16.c2.4. {d}en-lil₂-le iri nam# [ku₅-ra₂-ni] ha-ba-ši-in-il₂#-[e]
+#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c2.4
 
@@ -258,12 +277,14 @@ C.16.c2.4. {d}en-lil₂-le iri nam# [ku₅-ra₂-ni] ha-ba-ši-in-il₂#-[e]
 @div proverb 16.c3
 
 C.16.c3.5. igi bahar₂-e mu-e-ši-[in-il₂-e]
+#tr.en: @note{cf. @xref[t.6.1.14,t.6.1.14.5]{6.1.14.5}, @xref[t.6.1.15,t.6.1.15.b2]{6.1.15.b2}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 11-12}} The potter lifts his gaze to you:
 #lem: igi[eye]; bahar[potter]; il[raise]
 #etcsl: line-id=C.16.c3.5
 
 #etcsl#cf cf. 6.1.14.5, 6.1.15.b2, 6.2.5: UM 29-16-519 Seg. A ll. 11-12
 
 C.16.c3.6. {d}en-lil₂-le iri nam [ku₅-ra₂-ni] ha-ba-ši-in-[il₂-e]
+#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c3.6
 
@@ -272,6 +293,7 @@ C.16.c3.6. {d}en-lil₂-le iri nam [ku₅-ra₂-ni] ha-ba-ši-in-[il₂-e]
 @div proverb 16.c4
 
 C.16.c4.7. engar igi uru₃-a a-na-am₃ [... ak ...]
+#tr.en: @note{cf. @xref[t.6.1.15,t.6.1.15.b4]{6.1.15.b4}} What will the farmer with his vigilant eye do?
 #lem: engar[farmer]; igi[eye]; uru[guard]; ana[what?]; X; ak[do]; X
 #etcsl: line-id=C.16.c4.7
 
@@ -282,16 +304,19 @@ C.16.c4.7. engar igi uru₃-a a-na-am₃ [... ak ...]
 @div proverb 16.c5
 
 C.16.c5.8. ud al-šu₂-šu₂-ru# [im nu-šeŋ₃-am₃]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.149]{6.1.03.149}, @xref[t.6.1.14,t.6.1.14.6]{6.1.14.6}, @xref[t.6.1.22,]{6.1.22: ll. 172-175}, @xref[t.6.1.25,t.6.1.25.1]{6.1.25.1}} It became cloudy, but it did not rain.
 #lem: ud[sun]; šuš[cover]; im[rain]; šeŋ[rain]
 #etcsl: line-id=C.16.c5.8
 
 #etcsl#cf cf. 6.1.03.149, 6.1.14.6, 6.1.22: ll. 172-175, 6.1.25.1
 
 C.16.c5.9. im al-šeŋ₃# {[kuš]}[e-sir₂ nu-du₈]
+#tr.en: It rained, but not enough for people to undo their sandals.
 #lem: im[rain]; šeŋ[rain]; esir[sandal(s)]; du[spread]
 #etcsl: line-id=C.16.c5.9
 
 C.16.c5.10. {id₂}idigna# [ka-ba nu-un-zur-re a-gar₃-re nu-si-si]
+#tr.en: The @wPN{Tigris} was not surging at its inlet, so water did not fill the arable lands.
 #lem: Idigna[1 Tigris]; kag[mouth]; zur[roil]; agar[meadow]; si[fill]
 #etcsl: line-id=C.16.c5.10
 
@@ -305,10 +330,12 @@ $ (unknown no. of lines missing)
 @div proverb 16.d1
 
 D.16.d1.1. ki#-sikil# [...]
+#tr.en: ($fragmentary$)
 #lem: kisikil[young woman]; X
 #etcsl: line-id=D.16.d1.1
 
 D.16.d1.2. šum₂ ba-ab#-[...]
+#tr.en: ($fragmentary$)
 #lem: šum[give]; X
 #etcsl: line-id=D.16.d1.2
 
@@ -317,12 +344,14 @@ D.16.d1.2. šum₂ ba-ab#-[...]
 @div proverb 16.d2
 
 D.16.d2.3. gu₅-li-ŋu₁₀# [niŋ₂ ud 1(DIŠ)-kam]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.17]{6.1.03.17}} @q{“My friend”} might last just one day.
 #lem: guli[friend]; niŋ[thing]; ud[sun]; n
 #etcsl: line-id=D.16.d2.3
 
 #etcsl#cf cf. 6.1.03.17
 
 D.16.d2.4. gi-me-[a-aš-ŋu₁₀ niŋ₂ ud da-ri₂-kam]
+#tr.en: @q{“My colleague”} lasts forever.
 #lem: gimeaʾaš[colleague]; niŋ[thing]; ud[sun]; dari[eternal]
 #etcsl: line-id=D.16.d2.4
 
@@ -331,10 +360,12 @@ D.16.d2.4. gi-me-[a-aš-ŋu₁₀ niŋ₂ ud da-ri₂-kam]
 @div proverb 16.d3
 
 D.16.d3.5. šeš šag₄ [...]
+#tr.en: ($fragmentary$)
 #lem: šeš[brother]; šag[heart]; X
 #etcsl: line-id=D.16.d3.5
 
 D.16.d3.6. eme KA [...]
+#tr.en: ($fragmentary$)
 #lem: eme[tongue]; X; X
 #etcsl: line-id=D.16.d3.6
 

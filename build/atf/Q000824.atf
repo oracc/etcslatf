@@ -11,22 +11,22 @@
 @div segment A
 
 1.A.1. [... mu]-un#-na#-de₂-e
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; de[pour]
 #etcsl: line-id=1.A.1
 
 1.A.2. [...] X X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.A.2
 
 1.A.3. [...] X X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.A.3
 
 1.A.4. [...] X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.A.4
 
@@ -35,67 +35,79 @@
 @div segment B
 
 1.B.1. [...] X X [...]
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=1.B.1
 
 1.B.2. [an an-guru₃ ki] šu-ni-še₃ an-[la₂]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.167]{6.1.03.167}, @xref[t.6.1.04,t.6.1.04.4]{6.1.04.4}, @xref[t.6.1.22,t6122.p35]{6.1.22: l. 189}} He holds up the sky, letting the earth dangle from his hands.
 #lem: an[sky]; gur[lift]; ki[place]; šu[hand]; la[hang]
 #etcsl: line-id=1.B.2
 
 #etcsl#cf cf. 6.1.03.167, 6.1.04.4, 6.1.22: l. 189
 
 1.B.3. {d#}[en-lil₂-le] šer₇#-da gu-la-[ni] šag₄#-[ŋar]-ra#-am₃
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.93]{6.1.03.93}} @wDN{Enlil's} greatest punishment is hunger.
 #lem: Enlil[1]DN; šerda[crime]; gal[big]; šaŋar[starvation]
 #etcsl: line-id=1.B.3
 
 #etcsl#cf cf. 6.1.03.93
 
 1.B.4. šul-a-lum-bi al-il₂-il₂#
+#tr.en: @note{cf. @xref[t.6.1.04,t.6.1.04.5]{6.1.04.5}} He bears the responsibility for it.
 #lem: šulalum[punishment]; il[raise]
 #etcsl: line-id=1.B.4
 
 #etcsl#cf cf. 6.1.04.5
 
 1.B.5. lu₂ ga-šum lu₂ BA# X X [...] X
+#tr.en: @note{cf. @xref[t.6.1.04,t.6.1.04.8]{6.1.04.8}} When he …… the man's assassin,
 #lem: lu[person]; gašum[assassin]; lu[person]; X; X; X; X; X
 #etcsl: line-id=1.B.5
 
 #etcsl#cf cf. 6.1.04.8
 
 1.B.6. al-me-a [lu₂] du₁₄-de₃-ka-[na ba-an-kur₉]
+#tr.en: he became his opponent.
 #lem: me[be]; lu[person]; dud[combat]; kur[enter]
 #etcsl: line-id=1.B.6
 
 1.B.7. u₂-a-gin₇# [saŋ]-gu₂#-ni-ka#-[ra ...]
+#tr.en: @note{cf. @xref[t.6.1.04,t.6.1.04.6]{6.1.04.6}} As a provisioner, …… upon those who speak proudly (?).
 #lem: ua[provisioner]; saŋguŋal[proud]; X
 #etcsl: line-id=1.B.7
 
 #etcsl#cf cf. 6.1.04.6
 
 1.B.8. tum₉# [X X] X [...] X
+#tr.en: @note{cf. @xref[t.6.1.04,t.6.1.04.9]{6.1.04.9}} The
 #lem: tumu[wind]; X; X; X; X; X
 #etcsl: line-id=1.B.8
 
 #etcsl#cf cf. 6.1.04.9
 
 1.B.9. [...] X [... sig₁₀]-ga#-am₃
+#tr.en: …… wind …… harmful (?).
 #lem: X; X; X; sig[put into]
 #etcsl: line-id=1.B.9
 
 1.B.10. {[tum₉]}[sa₁₂-ti]-um# tum₉ šeŋ₁₄-ŋa₂-kam
+#tr.en: The east wind is a rain-bearing wind;
 #lem: satium[east wind]; tumu[wind]; šeŋ[rain]
 #etcsl: line-id=1.B.10
 
 1.B.11. {[tum₉]}[mar-tu] lu₂# <til₃>-ba dirig-ga
+#tr.en: the west wind is greater than those who live there.
 #lem: MAR.TU[westerner]; lu[person]; til[live (of a single person)]; dirig[make more than]
 #etcsl: line-id=1.B.11
 
 1.B.12. {[tum₉]}[sa₁₂-ti-um] tum₉ he₂-ŋal₂-la
+#tr.en: The east wind is a wind of prosperity,
 #lem: satium[east wind]; tumu[wind]; heŋal[plenty]
 #etcsl: line-id=1.B.12
 
 1.B.13. [gu₅-li] {d}na-ra-am-{d}suen
+#tr.en: the friend of @wRN{Naram-@wDN{Suen}}.
 #lem: guli[friend]; Naramsuen[1]RN
 #etcsl: line-id=1.B.13
 
@@ -106,38 +118,47 @@
 @div version 2 (VAT 21587 (AUWE 23 117))
 
 2.1. [...] X X NU X [X X X]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X
 #etcsl: line-id=2.1
 
 2.2. [X X X] MU DI NA MA X X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X; X
 #etcsl: line-id=2.2
 
 2.3. [mu]-un#-na-de₂ A ŠEŠ na-an-e₃#
+#tr.en: …… poured it out for him …….
 #lem: de[pour]; X; X; e[leave]
 #etcsl: line-id=2.3
 
 2.4. [X X] AN šar₂-ra LU HU NI hul [X X]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; hulu[bad]; X; X
 #etcsl: line-id=2.4
 
 2.5. [X X]-ni#-in-tu-ud-[...]-ud
+#tr.en: …… gave
 #lem: X; utud[give birth (to)]
 #etcsl: line-id=2.5
 
 2.6. [X X] PA# HI# nin#-diŋir-gin₇ ki-sikil X X-a-ni
+#tr.en: birth …… like a @fsux{nindiŋir} priestess,
 #lem: X; X; X; X; erešdiŋir[priestess]; kisikil[young woman]; X; X
 #etcsl: line-id=2.6
 
 2.7. [...] RI GAG ed₂-da-ni ki-sikil TUR-ŋa₂#
+#tr.en: the young girl …… coming out,
 #lem: X; X; X; e[leave]; kisikil[young woman]; X
 #etcsl: line-id=2.7
 
 2.8. [...] X ba-ši-in-gi₄
+#tr.en: the young girl …… returned it …….
 #lem: X; X; gi[turn]
 #etcsl: line-id=2.8
 
 2.9. [X X] X A X DUB PAD X GA uŋ₃-e
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X; uŋ[people]
 #etcsl: line-id=2.9
 
@@ -146,22 +167,27 @@
 @div version 3 (VAT 21570 (AUWE 23 119))
 
 3.1. [...] X ZA X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=3.1
 
 3.2. [...] X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=3.2
 
 3.3. [...] X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=3.3
 
 3.4. [...] GAR SAR [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=3.4
 
 3.5. [...] DU# X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=3.5
 
@@ -170,18 +196,22 @@
 @div version 4 (VAT 21544 (AUWE 23 118))
 
 4.1. [...] X X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=4.1
 
 4.2. [...] X-e ŋar-ŋar MA [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; ŋar[put]; X; X
 #etcsl: line-id=4.2
 
 4.3. [...] X RA X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=4.3
 
 4.4. [...] SAR X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=4.4
 

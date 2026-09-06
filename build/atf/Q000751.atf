@@ -9,76 +9,96 @@
 @div e A
 
 A.1. nam₂ nun-e nam₂ nun-e e₂-ta nam-ta-ab-e₃
+#tr.en: The princely lord, the princely lord came forth from the house.
 #lem: nam[lord]; nun[prince]; nam[lord]; nun[prince]; e[house]; e[leave]
 #etcsl: line-id=A.1
 
 #etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 6, line 47; OB catalogue in the Louvre, 0.2.02, line 6; OB catalogue from Urim (U2), 0.2.04, line 23
 
 A.2. {d}en-lil₂ nam₂ nun-e e₂-ta nam-ta-ab-e₃
+#tr.en: @wDN{Enlil}, the princely lord, came forth from the house.
 #lem: Enlil[1]DN; nam[lord]; nun[prince]; e[house]; e[leave]
 #etcsl: line-id=A.2
 
 A.3. nam₂ nun-e nam-lugal-la e₂-ta nam-ta-ab-e₃
+#tr.en: The princely lord came forth royally from the house.
 #lem: nam[lord]; nun[prince]; namlugal[kingship]; e[house]; e[leave]
 #etcsl: line-id=A.3
 
 A.4. {d}en-lil₂ kur-kur-ra igi mi-ni-in-il₂-il₂-i
+#tr.en: @wDN{Enlil} lifted his glance over all the lands,
 #lem: Enlil[1]DN; kur[mountain(s)]; igi[eye]; il[raise]
 #etcsl: line-id=A.4
 
 A.5. {d}en-lil₂-ra kur ni₂-ba mu-na-il₂-il₂-i
+#tr.en: and the lands raised themselves to @wDN{Enlil}.
 #lem: Enlil[1]DN; kur[mountain(s)]; ni[self]; il[raise]
 #etcsl: line-id=A.5
 
 A.6. an ub-da 4 {d}en-lil₂-ra {ŋiš}kiri₆-gin₇ mu-na-sig₇
+#tr.en: The four corners of heaven became green for @wDN{Enlil} like a garden.
 #lem: an[sky]; ub[corner]; n; Enlil[1]DN; kiri[(fruit) plantation]; sissig[green-yellow]
 #etcsl: line-id=A.6
 
 A.7. keš₃{ki} saŋ il₂ mu-na-ni-in-ŋal₂
+#tr.en: @wSN{Keš} was positioned there for him with head uplifted,
 #lem: Keš[1]SN; saŋ[head]; il[raise]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=A.7
 
 A.8. keš₃{ki} kur-kur-ra saŋ il₂-bi
+#tr.en: and as @wSN{Keš} lifted its head among all the lands,
 #lem: Keš[1]SN; kur[mountain(s)]; saŋ[head]; il[raise]
 #etcsl: line-id=A.8
 
 A.9. {d}en-lil₂-le keš₃{ki} za₃-mi₂ am₃-ma-ab-be₂
+#tr.en: @wDN{Enlil} spoke in praise of @wSN{Keš}.
 #lem: Enlil[1]DN; Keš[1]SN; zamin[praise]; e[speak]
 #etcsl: line-id=A.9
 
 A.10. {d}nisaba nu-ka-aš-bi-im
+#tr.en: @wDN{Nisaba} was its decision-maker (?);
 #lem: Nisabak[1]DN; nukaš[decision-maker?]
 #etcsl: line-id=A.10
 
 A.11. inim-bi-ta sa-gin₇ im-da-an-sur
+#tr.en: with its words she wove it intricately like a net.
 #lem: inim[word]; sa[net]; sur[press]
 #etcsl: line-id=A.11
 
 A.12. dub-ba sar-sar šu-še₃ al-ŋa₂-ŋa₂
+#tr.en: Written on tablets it was held in her hands:
 #lem: dub[tablet]; sar[write]; šu[hand]; ŋar[put]
 #etcsl: line-id=A.12
 
 A.13. e₂ muš₃ kalam-ma gud huš aratta
+#tr.en: House, platform of the Land, important fierce bull! House @wSN{Keš},
 #lem: e[house]; muš[flat space]; kalam[the Land (of Sumer)]; gud[bull]; huš[reddish]; Aratta[1]GN
 #etcsl: line-id=A.13
 
 A.14. e₂ keš₃{ki} muš₃ kalam-ma gud huš aratta
+#tr.en: platform of the Land, important fierce bull! Growing as high as the hills,
 #lem: e[house]; Keš[1]SN; muš[flat space]; kalam[the Land (of Sumer)]; gud[bull]; huš[reddish]; Aratta[1]GN
 #etcsl: line-id=A.14
 
 A.15. hur-saŋ-da mu₂-a an-da gu₂ la₂-a
+#tr.en: embracing the heavens, growing as high as @wTN{E-kur},
 #lem: hursaŋ[mountain]; mu[grow]; an[sky]; gu[neck]; la[hang]
 #etcsl: line-id=A.15
 
 A.16. e₂-kur-da mu₂-a kur-ra saŋ il₂-bi
+#tr.en: lifting its head among the mountains!
 #lem: Ekur[1]TN; mu[grow]; kur[mountain(s)]; saŋ[head]; il[raise]
 #etcsl: line-id=A.16
 
 A.17. abzu-gin₇ (1:ri-a:1) hur-saŋ-gin₇ sig₇-sig₇-ga
+#tr.en: @varh[t4802.v1]{Rooted in the @fsux{abzu} } @vart[t4802.v2,t4802.v1]{@varn{2 mss. have instead:} Colourful as the @fsux{abzu} }, verdant like the mountains!
 #lem: abzu[(cosmic) underground water]; ri[impose]; hursaŋ[mountain]; sissig[green-yellow]
 #etcsl: line-id=A.17
 
 :17v.1.1: ($2 mss. have instead:$) gun₃-a
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: gunu[speckled]
 
 A.18. keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-tum₂-mu
@@ -106,10 +126,20 @@ A.21. e₂ 1-kam-ma
 @div e B
 
 B.22. e₂ dug₃ ki dug₃-ga du₃-a
+?#tr.en: The first house.
 #lem: e[house]; dug[good]; ki[place]; dug[good]; du[build]
 #etcsl: line-id=B.22
 
 B.23. e₂ keš₃{ki} (1::1) ki dug₃-ga du₃-a
+?#tr.en: Good house, built in a good location, house @wSN{Keš},
+?#tr.en: @vart[t4802.v3,t4802.v3]{@varn{some mss. add here:} good house, } built in a good location, floating in the heavens like a princely barge,
+?#tr.en: like a holy barge furnished with a …… gate,
+?#tr.en: like the boat of heaven, the platform of all the lands!
+?#tr.en: …… from the riverbank like a …… boat cabin!
+?#tr.en: House roaring like an ox,
+?#tr.en: bellowing loudly like a breed-bull!
+?#tr.en: House in whose interior is the power of the Land,
+?#tr.en: and behind which is the life of @wGN{Sumer}!
 #lem: e[house]; Keš[1]SN; ki[place]; dug[good]; du[build]
 #etcsl: line-id=B.23
 
@@ -149,6 +179,19 @@ B.31. e₂ ib-gal an-ne₂ us₂-sa
 #etcsl: line-id=B.31
 
 B.32. e₂ zid-da gal an-ne₂ us₂-sa
+?#tr.en: House, great enclosure, reaching to the heavens, great,
+?#tr.en: true house, reaching to the heavens! House, great crown reaching to the heavens,
+?#tr.en: house, rainbow reaching to the heavens!
+?#tr.en: House whose diadem extends into the midst of the heavens,
+?#tr.en: whose foundations are fixed in the @fsux{abzu},
+?#tr.en: whose shade covers all lands!
+?#tr.en: House founded by @wDN{An},
+?#tr.en: praised by @wDN{Enlil},
+?#tr.en: given an oracle by Mother @wDN{Nintur}!
+?#tr.en: House @wSN{Keš}, green in its fruit!
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: e[house]; zid[right]; gal[big]; an[sky]; us[accompany]
 #etcsl: line-id=B.32
 
@@ -209,10 +252,24 @@ B.44. e₂ 2-kam-ma
 @div e C
 
 C.45. e₂ an-še₃ 10 šar₂{iku} ki-še₃ 5 šar₂{iku}
+?#tr.en: The second house.
 #lem: e[house]; an[sky]; n; šar[3600]; ki[place]; n; šar[3600]
 #etcsl: line-id=C.45
 
 C.46. e₂ an-še₃ 10 bur₃{iku} ki-še₃ 5 bur₃{iku}
+?#tr.en: House, 10 @fsux{šar} at its upper end, five @fsux{šar} at its lower end;
+?#tr.en: house, 10 @fsux{bur} at its upper end, five @fsux{bur} at its lower end!
+?#tr.en: House, at its upper end a bison, at its lower end a stag;
+?#tr.en: house, at its upper end a wild sheep, at its lower end a deer;
+?#tr.en: house, at its upper end a dappled wild sheep, at its lower end a beautiful deer!
+?#tr.en: House, at its upper end green as a snake-eater bird, at its lower end floating on the water like a pelican!
+?#tr.en: House, at its upper end rising like the sun, at its lower end spreading like the moonlight;
+?#tr.en: house, at its upper end a warrior mace, at its lower end a battle-axe;
+?#tr.en: house, at its upper end a mountain, at its lower end a spring!
+?#tr.en: House, at its upper end threefold indeed!
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: e[house]; an[sky]; n; bur[unit of area]; ki[place]; n; bur[unit of area]
 #etcsl: line-id=C.46
 
@@ -276,10 +333,12 @@ C.58. e₂ 3-kam-ma
 
 #etcsl#ms 1 ms. adds the following lines:
 D.58A. [e₂ ...] ni₂ gal ši-ri an-ne₂ mu mah sa₄
+?#tr.en: The third house.
 #lem: e[house]; X; ni[fear]; gal[big]; ri[impose]; An[1]DN; mu[name]; mah[great]; še[call by name]
 #etcsl: line-id=D.58A
 
 D.58B. [e₂ ...] kur# gal {d}en-lil₂-le nam-ma-ni gal tar-re
+?#tr.en: @vart[t4802.v4,t4802.v4]{@varn{1 ms. adds here the following lines:} House …… inspiring great awe, called with a mighty name by @wDN{An}; house …… whose fate is grandly determined by the Great Mountain @wDN{Enlil}! House of the @wDN{Anuna} gods possessing great power, which gives wisdom to the people; house, reposeful dwelling of the great gods! House, which was planned together with the plans of heaven and earth, …… with the pure divine powers; house which underpins the Land and supports the shrines! House, mountain of abundance which passes the days in glory; house of @wDN{Ninḫursaŋa} which establishes the life of the Land! House, great hillside worthy of the purification rites, altering (?) all things; house without whom no decisions are made! House, good …… carrying in its hands the broad Land; house which gives birth to countless peoples, seed which has sprouts! House which gives birth to kings, which determines the destinies of the Land; house whose royal personages are to be revered! Will anyone else bring forth something as great as @wSN{Keš}? Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}? Who has ever seen anyone as great as its lady @wDN{Nintur}? }
 #lem: e[house]; X; kur[mountain(s)]; gal[big]; Enlil[1]DN; nam[fate]; gal[big]; tar[cut]
 #etcsl: line-id=D.58B
 
@@ -357,10 +416,26 @@ D.58R. [...]-kam-ma-am₃
 @div e E
 
 E.59. iri{ki} ga-am₃ iri{ki} ga-am₃ šag₄-bi a-ba mu-zu
+?#tr.en: The …… house.
 #lem: iri[city]; me[be]; iri[city]; me[be]; šag[heart]; aba[who?]; zu[know]
 #etcsl: line-id=E.59
 
 E.60. e₂ keš₃{ki} iri{ki} ga-am₃ šag₄-bi a-ba mu-zu
+?#tr.en: It is indeed a city, it is indeed a city!
+?#tr.en: Who knows its interior? The house @wSN{Keš} is indeed a city!
+?#tr.en: Who knows its interior?
+?#tr.en: The heroes make their way straight into its interior and perform its oracle rites perfectly.
+?#tr.en: Frisking cattle are gathered at the house in herds.
+?#tr.en: The house consumes many cattle;
+?#tr.en: the house consumes many sheep.
+?$ (@gap{1 line unclear}) 
+?#tr.en: Those who sit on daises bow their necks before it.
+?#tr.en: It wears a crown to vie with the boxwood tree,
+?#tr.en: it spreads out to vie with the poplar ……;
+?#tr.en: it is @vart[t4802.v6,t4802.v6]{@varn{1 ms. adds here:} growing } as green as the hills!
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: e[house]; Keš[1]SN; iri[city]; me[be]; šag[heart]; aba[who?]; zu[know]
 #etcsl: line-id=E.60
 
@@ -435,10 +510,23 @@ E.74. e₂ 4-kam-ma
 @div e F
 
 F.75. e₂ piriŋ u₃-tud šag₄-bi ur-saŋ su₃-ud
+?#tr.en: The fourth house.
 #lem: e[house]; piriŋ[lion]; utud[give birth (to)]; šag[heart]; ursaŋ[warrior]; sud[distant]
 #etcsl: line-id=F.75
 
 F.76. e₂ keš₃{ki} piriŋ u₃-tud šag₄-bi ur-saŋ su₃-ud
+?#tr.en: House given birth by a lion, whose interior the hero has embellished (?)!
+?#tr.en: House @wSN{Keš}, given birth by a lion, whose interior the hero has embellished (?)!
+?#tr.en: The heroes make their way straight into its interior.
+?#tr.en: @wDN{Ninḫursaŋa} sits within like a great dragon.
+?#tr.en: @wDN{Nintur} the great mother assists at births there.
+?#tr.en: @wDN{Šul-pa-e} the ruler acts as lord.
+?#tr.en: @wDN{Ašgi} the hero consumes the contents of the vessels (?).
+?#tr.en: @wDN{Urumaš}, the great herald of the plains, dwells there too.
+?#tr.en: Stags are gathered at the house in herds.
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: e[house]; Keš[1]SN; piriŋ[lion]; utud[give birth (to)]; šag[heart]; ursaŋ[warrior]; sud[distant]
 #etcsl: line-id=F.76
 
@@ -495,12 +583,28 @@ F.87. e₂ 5-kam-ma
 @div e G
 
 G.88. e₂ ud-gin₇ ki-gal-la gub-ba
+?#tr.en: The fifth house.
 #lem: e[house]; ud[storm]; kigal[platform]; gub[stand]
 #etcsl: line-id=G.88
 
 #etcsl#cite Cited in OB catalogue from Nibru (N6), 0.2.13, line 16
 
 G.89. am babbar-gin₇ edin sug₂-da
+?#tr.en: House positioned over its foundations like a storm,
+?#tr.en: like white bulls standing about on the plain;
+?#tr.en: house founded by the prince,
+?#tr.en: in praise on the @fsux{tigi} instrument!
+?#tr.en: House in whose interior is the power of the Land,
+?#tr.en: and behind which @varh[t4802.v7]{is the life of @wGN{Sumer} }
+?#tr.en: @vart[t4802.v8,t4802.v7]{@varn{some mss. have instead:} it is filled with life }; at whose gate is a lion reclining on its paws,
+?#tr.en: at whose gate is the ruler who decides cases (?)!
+?#tr.en: House at whose door is the Great Mountain without adversary;
+?#tr.en: @varh[t4802.v9]{at whose bolt } @vart[t4802.v10,t4802.v9]{@varn{some mss. have here instead:} at whose bar } is a great frisking wild bull @vart[t4802.v11,t4802.v11]{@varn{some mss. add here the line:}, at whose bolt is a beast …… a man} @vart[t4802.v12,t4802.v11]{@varn{1 ms. adds here instead the line:}, at whose …… is an awe-inspiring lion } ! @varh[t4802.v13]{Whose well-founded storehouse is a corner of heaven,
+?#tr.en: a corner of earth } @vart[t4802.v14,t4802.v13]{@varn{1 ms. has here instead:} Whose storehouse established as a household is a lance (?) }; whose terrace is supported by @fsux{laḫama} deities;
+?#tr.en: whose princely @vart[t4802.v15,t4802.v15]{@varn{1 ms. adds:} great } wall …… the shrine of @wSN{Urim}!
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: am[wild bull]; babbar[white]; eden[back]; sug[stand]
 #etcsl: line-id=G.89
 
@@ -595,10 +699,12 @@ G.103. e₂ 6-kam-ma
 
 #etcsl#ms 1 ms. (which uses a different numbering of the sections) adds the following lines:
 H.103A. e₂ su-lim guru₃ zag dib-ba šu
+?#tr.en: The sixth house.
 #lem: e[house]; sulim[awesome radiance]; gur[lift]; zag[side]; dib[pass]; šu[hand]
 #etcsl: line-id=H.103A
 
 H.103B. e₂ igi tab an-ne₂ BAR šag₄ AB
+?#tr.en: @vart[t4802.v16,t4802.v16]{@varn{1 ms. (which uses a different numbering of the sections) adds here the following lines:} House imbued with radiance, …… excellence! House ……! Lord @wDN{Nudimmud} in heaven and earth …… brickwork of the Land, brickwork …… grandly in the @fsux{abzu}. Terrace, relaxing abode, …… holy splendour rising over the people! House which is seemly for the foreign lands! Will anyone else bring forth something as great as @wSN{Keš}? Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}? Who has ever seen anyone as great as its lady @wDN{Nintur}? }
 #lem: e[house]; igi[eye]; tab[double]; an[sky]; X; šag[heart]; X
 #etcsl: line-id=H.103B
 
@@ -652,10 +758,23 @@ H.103L. e₂ 8-kam-ma
 @div e I
 
 I.104. e₂ kug KU-bi agrun
+?#tr.en: The eighth house.
 #lem: e[house]; kug[purify]; X; agrun[cella]
 #etcsl: line-id=I.104
 
 I.105. e₂ keš₃{ki} kug KU-bi agrun
+?#tr.en: The holy house whose …… is the shrine,
+?#tr.en: the holy house @wSN{Keš}, whose …… is the shrine;
+?#tr.en: the house whose lords are the @wDN{Anuna} gods,
+?#tr.en: whose @fsux{nueš} priests are the sacrificers of @wTN{E-ana}!
+?#tr.en: In the house the king places stone bowls in position;
+?#tr.en: the good @fsux{en} priest …… holds the lead-rope dangling.
+?#tr.en: The @fsux{a-tu} priest holds the staff;
+?#tr.en: the …… brings the gathered (?) waters.
+?#tr.en: The …… takes his seat in the holy place;
+?#tr.en: the @fsux{enkum} priests bow down …….
+?#tr.en: The @fsux{pašeš} priests beat the drumskins;
+?#tr.en: they recite powerfully, powerfully.
 #lem: e[house]; Keš[1]SN; kug[purify]; X; agrun[cella]
 #etcsl: line-id=I.105
 
@@ -704,6 +823,17 @@ I.116. si am-ma-ke₄ gum₂-ga mi-ni-ib-za
 #etcsl: line-id=I.116
 
 I.117. {ŋiš}al-ŋar-sur₉-ra suh₃-sah₄ mi-ni-ib-za
+?#tr.en: The bull's horn is made to growl; the drumsticks are made to thud.
+?#tr.en: The singer @varh[t4802.v18]{cries out } @vart[t4802.v19,t4802.v18]{@varn{1 ms. has instead:} declaims } to the @fsux{ala} drum;
+?#tr.en: @varh[t4802.v20]{the grand sweet @fsux{tigi} is played for him } @vart[t4802.v21,t4802.v20]{@varn{some mss. have instead:} the sweet @fsux{tigi} is well tuned }. The house is built;
+?#tr.en: its nobility is good! The house @wSN{Keš} is built;
+?#tr.en: its nobility is good!
+?#tr.en: Its lady has taken a seat in its …….
+?#tr.en: @wDN{Ninḫursaŋa}, its lady,
+?#tr.en: has taken her seat in its …….
+?#tr.en: Will anyone else bring forth something as great as @wSN{Keš}?
+?#tr.en: Will any other mother ever give birth to someone as great as its hero @wDN{Ašgi}?
+?#tr.en: Who has ever seen anyone as great as its lady @wDN{Nintur}?
 #lem: alŋarsur[drumstick]; suhsah[sound (onomatopoeic)]; za[cvve]
 #etcsl: line-id=I.117
 
@@ -762,6 +892,7 @@ I.127. e₂ 7-kam-ma
 @div e J
 
 J.128. iri-še₃ iri-še₃ lu₂ te-a na-te
+?#tr.en: The seventh house.
 #lem: iri[city]; iri[city]; lu[person]; teŋ[approach]; teŋ[approach]
 #etcsl: line-id=J.128
 

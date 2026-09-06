@@ -11,58 +11,63 @@
 @div segment A
 
 1.A.1. [...] X X ZI
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=1.A.1
 
 1.A.2. [...] X-am₃
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.A.2
 
 1.A.3. [...]-am₃
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=1.A.3
 
 1.A.4. [...] lu₂ X X-a-kam
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; lu[person]; X; X
 #etcsl: line-id=1.A.4
 
 1.A.5. [...] IG-bi [...] ki
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; ki[place]
 #etcsl: line-id=1.A.5
 
 1.A.6. [...] X X X [...] X
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=1.A.6
 
 1.A.7. [kug tuku šag₄] an-hul₂# še tuku ur₅ [an]-sag₉
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.23]{6.1.03.23}, @xref[t.6.1.22,]{6.1.22: ll. 284-286}, @xref[t.6.2.3,]{6.2.3: UET 6/2 265 l. 2}} He who has silver is happy, and he who has grain feels comfortable.
 #lem: kug[metal]; tuku[acquire]; šag[heart]; hul[rejoice]; še[barley]; tuku[acquire]; ur[liver]; sag[good]
 #etcsl: line-id=1.A.7
 
 #etcsl#cf cf. 6.1.03.23, 6.1.22: ll. 284-286, 6.2.3: UET 6/2 265 l. 2
 
 1.A.8. [niŋ₂-ur₂-limmu₂ tuku]-e# u₃ nu-un-da-[ku]-ku#
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.23]{6.1.03.23}, @xref[t.6.1.22,]{6.1.22: ll. 284-286}, @xref[t.6.2.3,]{6.2.3: UET 6/2 265 l. 3}} He who has livestock cannot sleep.
 #lem: niŋurlimmu[four legged creature]; tuku[acquire]; u[sleep]; ku[place]
 #etcsl: line-id=1.A.8
 
 #etcsl#cf cf. 6.1.03.23, 6.1.22: ll. 284-286, 6.2.3: UET 6/2 265 l. 3
 
 1.A.9. [ur-saŋ dili na-nam dili]-na# lu₂ šar₂-ra-am₃#
+#tr.en: @note{cf. @xref[t.5.6.1,]{5.6.1: l. 69}} The warrior is unique; he alone is the equal of many.
 #lem: ursaŋ[warrior]; dili[single]; me[be]; dili[single]; lu[person]; šar[numerous]V/i
 #etcsl: line-id=1.A.9
 
 #etcsl#cf cf. 5.6.1: l. 69
 
 1.A.10. [...] UD ba-X
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.A.10
 
 1.A.11. [...] EN# is-hab₂-ba X [...]
+#tr.en: …… rogue ……
 #lem: X; X; ishab[rogue]; X; X
 #etcsl: line-id=1.A.11
 
@@ -72,20 +77,25 @@ $ (unknown no. of lines missing)
 @div segment B
 
 1.B.1. [...] X HA GU-bi AN [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=1.B.1
 
 1.B.2. [...] X a-a ba-an-ed₃-de₃-de₃-en
+#tr.en: ($fragmentary$)
 #lem: X; X; aya[father]; ed[go up]
 #etcsl: line-id=1.B.2
 
 1.B.3. [um]{[mušen]} gu₃ de₂ nu-sag₉
+#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.d5]{6.1.19.d5}} The @fsux{um} bird's song is unpleasant!
 #lem: um[water bird]; gu[voice]; de[pour]; sag[good]
 #etcsl: line-id=1.B.3
 
 #etcsl#cf cf. 6.1.19.d5
 
 1.B.4. [...] X an-na ku₆-da engur-ra HAR-da mul-am₃
+?$ (@note{cf. @xref[t.6.1.19,t.6.1.19.d8]{6.1.19.d8}} ) 
+?$ (@gap{1 line unclear}) 
 #lem: X; X; an[sky]; kud[fish]; engur[(cosmic) underground waters]; X; mul[star]
 #etcsl: line-id=1.B.4
 
@@ -98,16 +108,19 @@ $ (unknown no. of lines missing)
 #etcsl#cf cf. 6.1.21.c8
 
 1.B.6. [X X] X geme₂-a-kam
+?#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c8]{6.1.21.c8}} Dusk means joy for the palace.
 #lem: X; X; X; geme[female worker]
 #etcsl: line-id=1.B.6
 
 1.B.7. [nu-mu]-un#-na-kal geme₂ X-ra-kam
+?#tr.en: …… of a slave girl …….
 #lem: kal[rare]; geme[female worker]; X
 #etcsl: line-id=1.B.7
 
 #etcsl#cf cf. 6.1.21.c9
 
 1.B.8. %e [gi₄]-in!#-gi₄-in-ne %s balaŋ ba-ra-an-e₃-eš
+?#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c9]{6.1.21.c9}} It meant nothing to her; she is the slave girl of a …….
 #lem: gin[worker]N; balaŋ[an instrument]; e[leave]
 #etcsl: line-id=1.B.8
 
@@ -396,7 +409,6 @@ $ (unknown no. of lines missing)
 @div segment B
 
 4.B.1. šu [gi₄-gi₄-ra šu he₂-en-na-gi₄]
-($fragmentary$)
 #lem: šu[hand]; gi[turn]; šu[hand]; gi[turn]
 #etcsl: line-id=4.B.1
 
@@ -476,12 +488,10 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=5.B.1
 
 5.B.2. e₂ ad-ta gul-gul X
-($fragmentary$)
 #lem: e[house]; adda[father]; gul[destroy]; X
 #etcsl: line-id=5.B.2
 
 5.B.3. TUM-bi gu₅-li an-na X
-($fragmentary$)
 #lem: X; guli[friend]; An[1]DN; X
 #etcsl: line-id=5.B.3
 

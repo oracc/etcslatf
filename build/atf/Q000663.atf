@@ -7,72 +7,58 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.33&display=Crit&charenc=gcirc#
 
 1. {lu₂}ki-sikil tur₃ [...]
-#tr.en: @q[Dumuzid,Inana]{“Maiden, the cattle-pen ……;
 #lem: kisikil[young woman]; tur[animal stall]; X
 #etcsl: line-id=1
 
 2. ki-sikil {d}inana amaš [...]
-#tr.en: maiden @wDN{Inana}, the sheepfold …….
 #lem: kisikil[young woman]; Inanak[1]DN; amaš[sheepfold]; X
 #etcsl: line-id=2
 
 3. ab-sin₂-na gam-gam-e [...]
-#tr.en: …… bending in the furrows.
 #lem: absin[furrow]; gurum[bend]; X
 #etcsl: line-id=3
 
 4. {d}inana ga#-e-re-dib-dib [...]
-#tr.en: @wDN{Inana}, let me stroll with you;
 #lem: Inanak[1]DN; dib[pass]; X
 #etcsl: line-id=4
 
 5. ziz₂ AN# [...]
-#tr.en: …… the emmer …….
 #lem: ziz[emmer wheat]; X; X
 #etcsl: line-id=5
 
 6. in-nin [...] GA [...]
-#tr.en: Young lady, let me …….”}
 #lem: innin[lady]; X; X; X
 #etcsl: line-id=6
 
 7. %e [nu]-nus-ŋen %s nu-me-en ne nu-[me-en]
-#tr.en: @q[Inana,Dumuzid]{“I am a woman and I won't do that, I won't!
 #lem: nunus[woman]N; me[be]; nen[this]; me[be]
 #etcsl: line-id=7
 
 8. [X X X]-ta mul-ŋen nu-[me-en]
-#tr.en: I am a star ……, and I won't!
 #lem: X; X; X; mul[star]; me[be]
 #etcsl: line-id=8
 
 9. nitalam# sipad-da nu-me-en#-[...]
-#tr.en: I won't be the wife of a shepherd!”}
 #lem: ŋidlam[(equal ranking) spouse]; sipad[shepherd]; me[be]
 #etcsl: line-id=9
 
 10. šeš-a-ni ur-saŋ šul {d}utu
-#tr.en: Her brother, the warrior youth @wDN{Utu},
 #lem: šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN
 #etcsl: line-id=10
 
 11. kug {d}inana-ra# gu₃ mu-un-na-de₂-e
-#tr.en: said to holy @wDN{Inana}:
 #lem: kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
 #etcsl: line-id=11
 
 12. nin₉-ŋu₁₀ he₂-tuku-tuku %e su₈-ba-de₃
-#tr.en: @q[Utu,Inana]{“My sister, let the shepherd marry you! Maiden @wDN{Inana}, why are you unwilling?
 #lem: nin[sister]; tuku[acquire]; subad[shepherd]N
 #etcsl: line-id=12
 
 13. ki-sikil {d}inana za-e a-na-aš nu-ub-še-ge-en
-#tr.en: @varh[t40833.v1]{His butter is good,
 #lem: kisikil[young woman]; Inanak[1]DN; zaʾe[you]; anaš[why?]; šeg[agree]
 #etcsl: line-id=13
 
 14. (1:i₃-ni dug₃-ga-am₃ ga-ni dug₃-ga-am₃:1) 
-#tr.en: his milk is good } @vart[t40833.v2,t40833.v1]{@varn{2 mss. have instead:} He of good butter, he of good milk } -- all the work of the shepherd's hands is splendid.
 #lem: i[oil]; dug[good]; ga[milk]; dug[good]
 #etcsl: line-id=14
 
@@ -80,17 +66,14 @@
 #lem: i[oil]; dug[good]; ga[milk]; dug[good]
 
 15. %e {lu₂}su₈-ba %s niŋ₂ šu dug₄-ga-ni dadag-ga-am₃
-#tr.en: @wDN{Inana}, let @wDN{Dumuzid} marry you.
 #lem: subad[shepherd]N; niŋ[thing]; šu[hand]; dug[speak]; dadag[bright]
 #etcsl: line-id=15
 
 16. {d}inana he₂-tuku-tuku %e {d}du₅-mu-zid-[de₃]
-#tr.en: You who wear jewellery,
 #lem: Inanak[1]DN; tuku[acquire]; Dumuzid[1]DN
 #etcsl: line-id=16
 
 17. unu₂# la₂ šuba la₂ za-e a-na-[aš] nu-ub-še-ge-en
-#tr.en: who wear @fsux{šuba} jewels, why are you unwilling?
 #lem: unu[dwelling]; la[hang]; šuba[precious stone]; la[hang]; zaʾe[you]; anaš[why?]; šeg[agree]
 #etcsl: line-id=17
 
@@ -107,47 +90,38 @@
 
 @endvariants
 18. i₃-ni dug₃-ga mu-un-da-gu₇-e
-#tr.en: @vart[t40833.v3,t40833.v3]{@varn{1 ms. adds 2 lines:} His butter is good, his milk is good -- all the work of the shepherd's hands is splendid. } He will eat his good butter with you.
 #lem: i[oil]; dug[good]; gu[eat]
 #etcsl: line-id=18
 
 19. an-dul₃-e lugal-la za-e a-na-aš nu-ub-še-ge-en
-#tr.en: Protector of the king, why are you unwilling?”}
 #lem: andul[shade]; lugal[king]; zaʾe[you]; anaš[why?]; šeg[agree]
 #etcsl: line-id=19
 
 20. ŋe₂₆-e %e su₈-ba-de₃ %s ba-ra-mu-tuku-tuku-un {{%akk la %akk i-ha-[...]}}
-#tr.en: @q[Inana,Utu]{“The shepherd shall
 #lem: ŋaʾe[I]; subad[shepherd]N; tuku[acquire]; L; L
 #etcsl: line-id=20
 
 21. [tug₂] gibil-la₂-na %e ba-ra-mi-ni-ga-ga-an {{%akk ṣu₂-ba-ti-šu %akk na-ap-ši-im %akk X %akk a %akk la}}
-#tr.en: not marry me!
 #lem: tug[textile]; gibil[new]; ga[carry]V/t; L; L; L; L; L
 #etcsl: line-id=21
 
 22. [siki gibil]-la₂-a-ni sa₂ ba-ra-mu-e-en {{%akk re-še₂₀-et %akk ša %akk ši-pa-ti-šu %akk X %akk a %akk la}}
-#tr.en: He shall not
 #lem: siki[hair]; gibil[new]; sa[equal]; e[speak]; L; L; L; L; L; L
 #etcsl: line-id=22
 
 23. ki#-sikil-ŋen %e me-e mu-un-gar₃-e de₃-mu-tuku-tuku-un
-#tr.en: make me carry
 #lem: kisikil[young woman]; meʾe[I]IP; mungar[farmer]N; tuku[acquire]
 #etcsl: line-id=23
 
 24. %e mu-un-gar₃ %s gu gun₃-gun₃-a-da
-#tr.en: his garments of new wool.
 #lem: mungar[farmer]N; gu[cord]; gunu[speckled]
 #etcsl: line-id=24
 
 25. %e mu-un-gar₃ %s še gun₃-gun₃-a-da
-#tr.en: His brand new wool
 #lem: mungar[farmer]N; še[barley]; gunu[speckled]
 #etcsl: line-id=25
 
 26. [...] X gu₂-un# [...]
-#tr.en: will not influence me.
 #lem: X; X; gun[load]; X
 #etcsl: line-id=26
 

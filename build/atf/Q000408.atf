@@ -9,75 +9,96 @@
 @div segment A
 
 A.1. [...] X X [...]
-($fragmentary$)
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=A.1
 
 A.2. [...] X [...]-la# ki# bi₂-mul# [...]
+#tr.en: …… shining …….
 #lem: X; X; X; ki[place]; mul[shine]; X
 #etcsl: line-id=A.2
 
 A.3. [...]-na# mi₂ mu-na-ni-dug₄ X [...]
+#tr.en: He @noteref{probably @wDN{Lugalbanda}} spoke to her @noteref{probably @wDN{Ninsumun}} tenderly ……:
 #lem: X; mi[cvne]; dug[speak]; X; X
 #etcsl: line-id=A.3
 
 A.4. [nam] tar#-ra-ni šu zid bi₂-ŋa₂-ar#-X-X
+#tr.en: @q[Lugalbanda,Ninsumun]{“He will accomplish precisely the fate determined for him.
 #lem: nam[fate]; tar[cut]; šu[hand]; zid[right]; ŋar[put]
 #etcsl: line-id=A.4
 
 A.5. {ŋiš#}erin duru₅ {ŋiš}ha-šu-ur₂-ra du₃-a-am₃#
+#tr.en: Your father holy @wDN{An} will make his branches spread as
 #lem: eren[cedar]; duru[wet]; hašur[tree]; du[build]
 #etcsl: line-id=A.5
 
 A.6. a-a-zu an kug-ge pa mu-ni-mul-mul#
+#tr.en: if he were a sappy cedar planted among @fsux{hašur} trees.”}
 #lem: aya[father]; An[1]DN; kug[pure]; pa[branch]; mul[shine]
 #etcsl: line-id=A.6
 
 A.7. ud-ba nin-ŋu₁₀ inim an-na-ke₄ ba-gub
+#tr.en: Then my lady stepped up (?) to the word of @wDN{An},
 #lem: ud[sun]; nin[lady]; inim[word]; An[1]DN; gub[stand]
 #etcsl: line-id=A.7
 
 A.8. {d}nin-sumun₂-na-ke₄! dam-a-ni kug {d}lugal-ban₃-da nam ba-da-an-tar!-re!
+#tr.en: @wDN{Ninsumun} made a fateful decision with her spouse,
 #lem: Ninsumunak[1]DN; dam[spouse]; kug[purify]; Lugalbanda[1]DN; nam[fate]; tar[cut]
 #etcsl: line-id=A.8
 
 A.9. sizkur-ra-na mu-da-an-kuš₂#-u₃
+#tr.en: holy @wDN{Lugalbanda}; she attended to his supplication.
 #lem: siškur[prayer]; kušu[tired]
 #etcsl: line-id=A.9
 
 A.10. an kug-ra ub-šu-kin-na-ka si mu-na-ni-in-sa₂
+#tr.en: She went straight to holy @wDN{An} in the @wTN{Ubšu-unkena}:
 #lem: An[1]DN; kug[pure]; Ubšuʾunkenak[1]TN; si[horn]; sa[equal]
 #etcsl: line-id=A.10
 
 A.11. a-a-ŋu₁₀ an lugal diŋir-re-ne-me-en₃
+#tr.en: @q[Ninsumun,An]{“My father, @wDN{An}, you are the king among the gods!
 #lem: aya[father]; An[1]DN; lugal[king]; diŋir[deity]
 #etcsl: line-id=A.11
 
 A.12. kalam niŋ₂-daŋal-ba igi mu-ni-il₂
+#tr.en: I have looked through the land in all its extent and among its black-headed people who are as numerous as ewes,
 #lem: kalam[the Land (of Sumer)]; niŋdaŋala[vastness]; igi[eye]; il[raise]
 #etcsl: line-id=A.12
 
 A.13. saŋ gig₂ u₈-gin₇ lu-a-ba
+#tr.en: and I have elevated @wRN{Šulgi} for me high above their head.
 #lem: saŋ[head]; giggig[black]; u[sheep]; lu[abundant]
 #etcsl: line-id=A.13
 
 A.14. šul-gi gu₂-saŋ-ba ma-ni-in-X sipad# zid-bi he₂-am₃
+#tr.en: May he be their trustworthy shepherd!”}
 #lem: Šulgir[1]RN; gusaŋ[(unknown meaning)]; X; sipad[shepherd]; zid[right]; me[be]
 #etcsl: line-id=A.14
 
 A.15. mes pa mul-ŋu₁₀-um ki ma-an-dar
+#tr.en: @q{“He is my @fsux{meš} tree with spreading branches; he sprang up from the soil for me,
 #lem: mes[tree]; pa[branch]; mul[shine]; ki[place]; dar[split]
 #etcsl: line-id=A.15
 
 A.16. [...] ma#-dam mu#-mu ma-a-de₆
+#tr.en: …… brings abundant yield for me every year. He is my spikenard herb, growing for me with sturdy stems.
 #lem: X; madam[abundance]; mu[year]; de[carry]
 #etcsl: line-id=A.16
 
 A.17. [...] X erina₈!(|MUŠ×MUŠ|)-ŋu₁₀-um ur₂ ma-a-gur#
+#tr.en: He makes my …… radiant in the brickwork of @wGN{Sumer}.
 #lem: X; X; arina[madder]; ur[loin]; gur[thick]
 #etcsl: line-id=A.17
 
 A.18. [...]-ŋu₁₀#-u₃# šeg₁₂ ki-en-gi-ra-ka pa e₃# ba#-ni!-ak
+?$ (@gap{1 line unclear}) 
+?#tr.en: May he stand daily in ……!
+?$ (@gap{1 line fragmentary}) 
+?#tr.en: ”}
+?$ (@gap{unknown no. of lines missing}) 
 #lem: X; šeg[brick]; Kengir[1]; pa[branch]; e[leave]; ak[do]
 #etcsl: line-id=A.18
 
@@ -103,6 +124,9 @@ B.1. [...] X urim₂{ki}-ma DU
 #etcsl: line-id=B.1
 
 B.2. [...] nam#-lugal ba-mu
+?#tr.en: …… of @wSN{Urim} …….
+?#tr.en: …… grant him (?) kingship!
+?$ (@gap{unknown no. of lines missing}) 
 #lem: X; namlugal[kingship]; ba[allot]
 #etcsl: line-id=B.2
 
@@ -116,6 +140,16 @@ C.1. {ŋiš}erina₈!(|MUŠ×MUŠ+NA|)-bi ki im-ma-pad₃
 #etcsl: line-id=C.1
 
 C.2. ze₂ inim kug-ba mu-da-an-gub-en₃
+?#tr.en: (@wDN{An} is speaking:) @q[An,Ninsumun]{“Its roots sank deep into the earth. I will stand by you in that holy matter.
+?#tr.en: May he who is worthy of being praised with good words,
+?#tr.en: @wRN{Šulgi}, the king of a propitious reign,
+?#tr.en: perform the rites established for the kingship perfectly for you,
+?#tr.en: the goddess, at the great and lofty wall-tower of @wSN{Urim}!
+?#tr.en: May he execute properly for you the statutes of the gods!
+?#tr.en: May he always offer you food at the time of the new moon and at the new year!
+?#tr.en: May you yourself bring me his prayers daily!
+?#tr.en: My tree is indeed abundance,
+?#tr.en: sprouting from the earth like green plants!”}
 #lem: zaʾe[you]; inim[word]; kug[pure]; gub[stand]
 #etcsl: line-id=C.2
 
@@ -156,6 +190,12 @@ C.11. ud-ba nin-ŋu₁₀ inim an-na-da hul₂-la-[ni]-a
 #etcsl: line-id=C.11
 
 C.12. {d}nin-sumun₂-na-ke₄ šul-gi lugal urim₅#{ki}-ma-ka
+?#tr.en: Then,
+?#tr.en: rejoicing over the words of @wDN{An},
+?#tr.en: my lady @wDN{Ninsumun} took @wRN{Šulgi} the king of @wSN{Urim} by his right hand,
+?#tr.en: led him joyfully into her @wTN{Egal-maḫ} and seated him upon the exalted dais erected by @wDN{An}.
+?#tr.en: She treated him tenderly with her holy bosom,
+?#tr.en: saying:
 #lem: Ninsumunak[1]DN; Šulgir[1]RN; lugal[king]; Urim[1]SN
 #etcsl: line-id=C.12
 
@@ -180,6 +220,11 @@ C.17. sipad šul-gi {ŋiš}ŋiri₂ gal-zu ŋe₂₆-[e]-me-en
 #etcsl: line-id=C.17
 
 C.18. šag₄ kug izi-a# zig₃-ŋu₁₀# mu#-ši#-ib₂#-hul₂-hul₂#
+?#tr.en: @q[Ninsumun,Culgi]{“Shepherd @wRN{Šulgi}, I am your great sword (?). My holy heart,
+?#tr.en: a rising flood, rejoices over you. My father,
+?#tr.en: @wDN{An} ……,
+?#tr.en: who is your master,
+?#tr.en: praises you who are surpassing in kingship (?) for (?) the …… of your kingship.”}
 #lem: šag[heart]; kug[purify]; izi[wave]; zig[rise]; hul[rejoice]
 #etcsl: line-id=C.18
 
@@ -200,6 +245,12 @@ C.22. šul-gi amar kug tud-da-ŋu₁₀-me-en₃
 #etcsl: line-id=C.22
 
 C.23. a dug₃# {d}lugal-ban₃-da-me-en₃
+?#tr.en: @q{“@wRN{Šulgi}, you are a pure calf, born to me.
+?#tr.en: You are a good seed of @wDN{Lugal-banda}.
+?#tr.en: I raised you upon my own holy lap.
+?#tr.en: I have decided your fate with my holy bosom.
+?#tr.en: You are a good fortune which fell to my share.
+?#tr.en: I requested you from holy @wDN{An} in the …….”}
 #lem: a[water]; dug[good]; Lugalbanda[1]DN
 #etcsl: line-id=C.23
 
@@ -224,6 +275,13 @@ C.28. ŋe₂₆-e nin-me#-en₃ kug {d}nin-sumun₂-na ama nam-lugal#-la
 #etcsl: line-id=C.28
 
 C.29. munus zid saŋ bar sag₉ nam-nin-a tum₂-ma
+?#tr.en: @q{“I, the lady, holy @wDN{Ninsumun}, the royal mother,
+?#tr.en: the good woman with beautiful hair befitting a lady,
+?#tr.en: @wRN{Šulgi}, I am your faithful guardian (?).
+?#tr.en: May you be dressed in my …… @fsux{ba} garment!
+?#tr.en: Dance …… on my holy knees!
+?#tr.en: May you, the shepherd, born for justice,
+?#tr.en: trust in my holy words!”}
 #lem: munus[woman]; zid[right]; saŋ[head]; bar[outside]; sag[goodness]; namnin[ladyship]; tum[suitable]
 #etcsl: line-id=C.29
 
@@ -252,6 +310,14 @@ C.35. mu kug-zu ka-ge im-ma#-ab-du₇#
 #etcsl: line-id=C.35
 
 C.36. su diŋir gal-gal-ne-ke₄ i₃ li# he₂-ak-ke₄
+?#tr.en: @q{“Your holy name is worthy of being praised;
+?#tr.en: may it please the flesh of the great gods like fine oil!
+?#tr.en: @wDN{An} has given you a sceptre for rendering judgments; may your head be raised high!
+?#tr.en: Your father who begot you, holy @wDN{Lugalbanda},
+?#tr.en: has named you as the 'Valiant one whom @wDN{An} made known among the gods'.
+?#tr.en: He has made you acquire (?) a …….
+?#tr.en: He has adorned you with a royal crown;
+?#tr.en: may he purify (?) your breath of life with an enduring sceptre!”}
 #lem: su[flesh]; diŋir[deity]; gal[big]; i[oil]; lib[high quality]; ak[do]
 #etcsl: line-id=C.36
 
@@ -284,6 +350,12 @@ C.43. {d}ŋeštin-an-na nin₉ lugal-la-ke₄
 #etcsl: line-id=C.43
 
 C.44. ka lal₃ diŋir-re-ne-ke₄
+?#tr.en: @q{“May @wDN{Geštin-ana}, the king's sister,
+?#tr.en: the mellifluous mouth of the gods,
+?#tr.en: never stop rejoicing over you joy in your palace,
+?#tr.en: erected for you as a source of happiness!
+?#tr.en: May she always step forward to me with friendy entreaties on your behalf!
+?#tr.en: May she never cease praying for you!”}
 #lem: kag[mouth]; lal[syrup]; diŋir[deity]
 #etcsl: line-id=C.44
 
@@ -308,6 +380,13 @@ C.49. nin-me-en₃ e₂ ki-tuš kug [...]
 #etcsl: line-id=C.49
 
 C.50. ama-ŋu₁₀ ur₅#-ra-aš %e ga#-[ša-an %s diŋir-re-ne-ke₄]
+?#tr.en: @q{“I, the lady …… holy temple of residence …….
+?#tr.en: My mother, @wDN{Uraš},
+?#tr.en: the lady of the gods and my father,
+?#tr.en: @wDN{An},
+?#tr.en: the king of the gods …… the woman,
+?#tr.en: the good cow in (?) the great sheepfold. They (?) give (?) me (?) enduring kingship.
+?#tr.en: They (?) have placed (?) the people in their entirety in my hands.”}
 #lem: ama[mother]; Uraš[1]DN; gašan[lady]N; diŋir[deity]
 #etcsl: line-id=C.50
 
@@ -336,6 +415,17 @@ C.56. a-nun-na diŋir gal-gal-[e-ne]
 #etcsl: line-id=C.56
 
 C.57. ki nam tar-ba mu-da-sug₂#-[sug₂-ge-eš]
+?#tr.en: @q{“At the place where the fates are decided,
+?#tr.en: the @wDN{Anuna},
+?#tr.en: the great gods, stood by me.
+?#tr.en: They made @wRN{Šulgi's} shepherdship everlasting for me and made @wRN{Šulgi},
+?#tr.en: the righteous one of his god,
+?#tr.en: rise over the land like @wDN{Utu} for me.
+?#tr.en: They set up a throne of firm reign for him.
+?#tr.en: The shepherd will decree just judgments and will make just decisions upon it (?).
+?#tr.en: They granted (?) @wRN{Šulgi} a royal crown.
+?#tr.en: …… great …….
+?$ (@gap{1 line fragmentary}) 
 #lem: ki[place]; nam[fate]; tar[cut]; sug[stand]
 #etcsl: line-id=C.57
 

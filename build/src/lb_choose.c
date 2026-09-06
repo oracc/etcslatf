@@ -153,7 +153,7 @@ lb_label_sent(Par *p)
     {
       if (p->segs[i]->unlabeled)
 	{
-	  p->segs[i]->label = p->labels[nlabel];
+	  /*p->segs[i]->label = p->labels[nlabel];*/
 	  nlabel += p->segs[i]->unlabeled;
 	}
       else if ('0' != p->segs[i]->b)

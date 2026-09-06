@@ -9,16 +9,19 @@
 @div barsud A
 
 A.1. [en] mah zag dib me galam u₁₈-ru
+#tr.en: The august lord, pre-eminent,
 #lem: en[lord]; mah[great]; zag[side]; dib[pass]; me[Being]; galam[skilful]; urun[exalted]
 #etcsl: line-id=A.1
 
 A.2. pa#-bil₂-ga en-en-e-ne
+#tr.en: with the most complex divine powers, almighty grandfather of all the lords --
 #lem: pabilga[kinship term]; en[lord]
 #etcsl: line-id=A.2
 
 @div trailer 
 
 A.3. bar-sud-am₃
+#tr.en: @fsux{barsud}.
 #lem: barsud[musical notation]
 #etcsl: line-id=A.3
 
@@ -29,10 +32,12 @@ A.3. bar-sud-am₃
 @div šagbatuku B
 
 B.4. saŋ il₂ dirig ninda₂ numun i-i
+#tr.en: -- head high, surpassing everyone, breed-bull, who makes the seeds sprout, whose name is respected, spreading great terror, whose august commands cannot be countermanded, who is imbued with awesomeness on the mountain of pure divine powers, who has taken his seat on the great throne-dais, @wDN{An}, the king of the gods --
 #lem: saŋ[head]; il[raise]; dirig[make more than]; ninda[breeding bull]; numun[seed]; e[bring out]
 #etcsl: line-id=B.4
 
 B.5. mu idim ni₂ gal-le-eš ri-a
+?#tr.en: @fsux{šagbatuku}.
 #lem: mu[name]; idim[heavy]; ni[fear]; gal[big]; ri[impose]
 #etcsl: line-id=B.5
 
@@ -69,6 +74,14 @@ C.11. igi zid su₃-ra₂-še₃ mu-un-ši-in-bar
 #etcsl: line-id=C.11
 
 C.12. nun {d}li-pi₂-it-eš₄-tar₂-ra igi zid mu-ši-in-bar
+?#tr.en: -- has looked at him with long-lasting favour,
+?#tr.en: has looked at prince @wRN{Lipit-@wDN{Eštar}} with favour.
+?#tr.en: He has bestowed on him a long life,
+?#tr.en: he has bestowed on prince @wRN{Lipit-@wDN{Eštar}} a long life.
+?#tr.en: The words of what @wDN{An} says are firmly established;
+?#tr.en: no god would oppose them.
+?#tr.en: At the place where the destinies are to be decided,
+?#tr.en: all the @wDN{Anuna} gods gather around him.
 #lem: nun[prince]; Lipiteštar[1]RN; igi[eye]; zid[right]; bar[place outside]
 #etcsl: line-id=C.12
 
@@ -109,10 +122,13 @@ C.19. šag₄-ba-tuku-am₃
 @div barsud D
 
 D.20. me gal-gal-la pa mu-ni-in-e₃
+?#tr.en: @fsux{šagbatuku}.
 #lem: me[Being]; gal[big]; pa[branch]; e[leave]
 #etcsl: line-id=D.20
 
 D.21. diŋir an-na mu-na-sug₂-ge-eš
+?#tr.en: He has made all the great divine powers manifest;
+?#tr.en: the gods of heaven stand around him.
 #lem: diŋir[deity]; an[sky]; sug[stand]
 #etcsl: line-id=D.21
 
@@ -129,10 +145,17 @@ D.22. bar-sud 2-kam-ma
 @div sa-gida E
 
 E.23. ŋiš-hur-bi si mu-ni-ib-sa₂-sa₂
+?#tr.en: 2nd @fsux{barsud}.
 #lem: ŋešhur[plan]; si[horn]; sa[equal]
 #etcsl: line-id=E.23
 
 E.24. diŋir ki-a (1:mu-na-gam-e-eš:1)
+?#tr.en: He has implemented their divine plans properly;
+?#tr.en: the gods of the earth @varh[t2553.v1]{submit themselves to
+?#tr.en: him } @vart[t2553.v2,t2553.v1]{@varn{1 ms. has instead:} sit around him }. With august and foremost (?) divine powers,
+?#tr.en: great @wDN{An} has bestowed on @wRN{Lipit-@wDN{Eštar}},
+?#tr.en: son of @wDN{Enlil},
+?#tr.en: a kingship which is very precious.
 #lem: diŋir[deity]; ki[place]; gurum[bend]
 #etcsl: line-id=E.24
 
@@ -168,10 +191,13 @@ E.29. sa-<<bar>>-gid₂-da-am₃
 @div ŋišgiŋal F
 
 F.30. an gal-am₃ diŋir pa e₃ gal-am₃
+?#tr.en: @fsux{sa-gida}.
 #lem: An[1]DN; gal[big]; diŋir[deity]; pa[branch]; e[leave]; gal[big]
 #etcsl: line-id=F.30
 
 F.31. an (1:u₁₈-ru:1) lugal {d}li-pi₂-it-eš₄-tar₂-ra ŋiškim-til₃-la-ni na-nam
+?#tr.en: @wDN{An}, the great, the great god shining forth, @wDN{An},
+?#tr.en: @varh[t2553.v3]{the almighty } @vart[t2553.v4,t2553.v3]{@varn{1 ms. has instead:} eminent }, is indeed the support of King @wRN{Lipit-@wDN{Eštar}}.
 #lem: An[1]DN; urun[exalted]; lugal[king]; Lipiteštar[1]RN; ŋeškimtil[trust]; me[be]
 #etcsl: line-id=F.31
 
@@ -185,6 +211,7 @@ F.32. (1:ŋiš-gi₄-ŋal₂-bi-im:1)
 #etcsl: line-id=F.32
 
 :32v.1.1: ($1 ms. has instead:$) ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+?#tr.en: @varh[t2553.v5]{Its @fsux{ŋišgiŋal} } @vart[t2553.v6,t2553.v5]{@varn{1 ms. has instead:} Its @fsux{ŋišgiŋal} of the @fsux{sa-gida} }.
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 
 @end trailer
@@ -198,6 +225,25 @@ G.33. an-e šag₄ gu₂-bi gi₄-a-na lugal mu-ni-in-pad₃
 #etcsl: line-id=G.33
 
 G.34. šag₄-bal-bal nam-lugal-la-ra gu₃ zid mu-na-an-de₂
+?#tr.en: In the overflowing of his heart, @wDN{An} has chosen him as king and blessed the royal descendant:
+?#tr.en: @q{“@wRN{Lipit-@wDN{Eštar}}, on whom I bestowed power, may you lift your head high!
+?#tr.en: May you spread fearsome radiance as if you were the front of a rising tempest!
+?#tr.en: May your storm cover the enemy territories, the disobedient countries!
+?#tr.en: You have established justice in @wGN{Sumer} and @wGN{Akkad},
+?#tr.en: and made the Land feel content.
+?#tr.en: @wRN{Lipit-@wDN{Eštar}}, son of @wDN{Enlil}, may you shine as brilliantly as the sunlight!
+?#tr.en: May concord be created under you in the established cities, settlements and dwellings!
+?#tr.en: May the black-headed people, numerous as flocks, follow the right path under you!
+?#tr.en: @wRN{Lipit-@wDN{Eštar}}, even in far-away foreign countries, you will be the king!
+?#tr.en: @wDN{Enlil} has faithfully bestowed on you the princely august throne,
+?#tr.en: the eternal ornament of kingship; he has made it firm for you.
+?#tr.en: May you never cease to wear the crown that @wDN{Suen} has placed firmly on your head!
+?#tr.en: @wDN{Enki} has adorned you with princely divine powers.
+?#tr.en: @wDN{Inana} escorts (?) you with the garment of princeship.
+?#tr.en: The friendly guardians and the protecting genii of the @wTN{E-kur} stand by you.
+?#tr.en: May the food offerings, wine, and milk that you bring ……!
+?#tr.en: Son and creature of @wDN{Enlil}, may everything be pleasant for you!”}
+?$ (@gap{2 lines missing}) 
 #lem: šabalbal[descendent]; namlugal[kingship]; gu[voice]; zid[right]; de[pour]
 #etcsl: line-id=G.34
 
@@ -279,12 +325,14 @@ G.53. sa-[ŋar-ra-am₃]
 @div ŋišgiŋal H
 
 H.54. diŋir ni₂ guru₃ šag₄-ge# pad₃-da# dumu# {d}en#-[lil₂-la₂] niŋ₂ ha-ra-ab-gu-ul-[gu-ul]
+?#tr.en: @fsux{sa-ŋara}.
 #lem: diŋir[deity]; ni[fear]; gur[lift]; šag[heart]; pad[find]; dumu[child]; Enlil[1]DN; niŋ[thing]; gal[big]
 #etcsl: line-id=H.54
 
 @div trailer 
 
 H.55. ŋiš-gi₄-ŋal₂-bi-im#
+?#tr.en: May you, son of @wDN{Enlil}, chosen in his heart by the god imbued with awesomeness, be provided abundantly with everything!
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=H.55
 
@@ -295,10 +343,14 @@ H.55. ŋiš-gi₄-ŋal₂-bi-im#
 @div uru I
 
 I.56. an-e dug₄-ga-ni nam dug₃ tar-[ra-am₃]
+?#tr.en: Its @fsux{ŋišgiŋal}.
 #lem: An[1]DN; dug[speak]; nam[fate]; dug[good]; tar[cut]
 #etcsl: line-id=I.56
 
 I.57. an gal-e dug₄-ga-ni nam dug₃ [tar-ra-am₃]
+?#tr.en: What @wDN{An} says decides a good destiny;
+?#tr.en: what the great @wDN{An} says decides a good destiny.
+?#tr.en: …… for @wRN{Lipit-@wDN{Eštar}}, son of @wDN{Enlil}.
 #lem: An[1]DN; gal[big]; dug[speak]; nam[fate]; dug[good]; tar[cut]
 #etcsl: line-id=I.57
 

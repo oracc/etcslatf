@@ -11,50 +11,61 @@
 @div segment A
 
 1.A.1. šul me₃!-ka šul me₃#-[ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of the man of battle, the man of battle.
 #lem: šul[youth]; me[battle]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.1
 
 #etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 11; OB catalogue in the Louvre, 0.2.02, line 37; OB catalogue from Urim (U2), 0.2.04, line 11
 
 1.A.2. en {d}gilgameš₂ [šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of Lord @wDN{Gilgameš}, the man of battle,
 #lem: en[lord]; Gilgameš[1]DN; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.2
 
 1.A.3. a₂-ur₂# sag₉#-sag₉ šul me₃-ka# [en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of him with the well-proportioned limbs, the man of battle.
 #lem: aʾur[limbs]; sag[good]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.3
 
 1.A.4. en TUR kalag#-kalag-ga šul me₃-ka en-du#-[ni ga-an-dug₄]
+#tr.en: I will sing the song of the mighty …… lord, the man of battle.
 #lem: en[lord]; X; kalag[strong]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.4
 
 @variants
 
 1.A.5. en {na₄}su₁₁ ku₁₀-[ku₁₀ šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: @varh[t1812.v1]{I will sing the song of the lord with the very black beard, the man of battle.
 #lem: en[lord]; sum[beard]; kukkug[dark]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.5
 
 1.A.6. ŋešba₂ lirum [...] X [... šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of …… athletic strength, the man of battle.
 #lem: ŋešba[boxer]; lirum[strength]; X; X; X; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=1.A.6
 
 1.A.7. lugal šul! ama X [...]
+#tr.en: …… the king, the man ……;
 #lem: lugal[king]; šul[youth]; ama[mother]; X; X
 #etcsl: line-id=1.A.7
 
 1.A.8. lugal-ŋu₁₀ X X X [...]
+#tr.en: my king ……,
 #lem: lugal[king]; X; X; X; X
 #etcsl: line-id=1.A.8
 
 1.A.9. en-ŋu₁₀ {ŋiš}kiri₆# {ŋiš#}za#-ba#-[lum ...]
+#tr.en: my lord …… garden …….
 #lem: en[lord]; kiri[(fruit) plantation]; zabalum[juniper]; X
 #etcsl: line-id=1.A.9
 
 1.A.10. kisal X X [...] URU X [...]
+#tr.en: …… courtyard, …… @fsux{ŋipar};
 #lem: kisal[courtyard]; X; X; X; X; X; X
 #etcsl: line-id=1.A.10
 
 1.A.E. ŋi₆#-par₄# [...]
+#tr.en: } @vart[t1812.v2,t1812.v1]{@varn{1 ms. has instead:} …… his mother who bore him spoke to the lord: @q[Ninsumun,Gilgamec]{“My king …… in the river, my lord …… your garden.”} @gap{2 lines unclear} }
 #lem: ŋipar[cloister]; X
 #etcsl: line-id=1.A.11
 

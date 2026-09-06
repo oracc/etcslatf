@@ -13,22 +13,27 @@
 @variants
 
 A.5.1.1. am-si ni₂-te#-a-ni maš₂#-[anše] {[d]}[šakkan₂-ka]
+#tr.en: @varh[t6105.v1]{The elephant spoke to himself: @q{“There is nothing like me among all the creatures of @wDN{Šakkan}!”}
 #lem: amsi[elephant]; ni[self]; mašanše[animals]; Šakkan[1]DN
 #etcsl: line-id=A.5.1.1
 
 A.5.1.2. niŋ₂ ŋe₂₆-gin₇-nam nu-ŋal₂ na-[ab-be₂-a]
+#tr.en: The wren (?) answered him: @q{“But I,
 #lem: niŋ[thing]; ŋaʾe[I]; ŋal[⟦be⟧ to be (there]; e[speak]
 #etcsl: line-id=A.5.1.2
 
 A.5.1.3. an-ti-ri₂-gu₇{mušen}-e mu-na#-[ni-ib-gi₄-gi₄]
+#tr.en: in my own small way,
 #lem: altirigu[wren]; gi[turn]
 #etcsl: line-id=A.5.1.3
 
 A.5.1.4. u₃ ŋe₂₆-e igi-te-en-ŋu₁₀-še₃
+#tr.en: was created just as you were!”}
 #lem: u[and]; ŋaʾe[I]; igiten[fraction (math.)]
 #etcsl: line-id=A.5.1.4
 
 A.5.1.E. za-a-gin₇-nam al-dim₂-me-en-e-še#
+#tr.en: } @vart[t6105.v2,]{@note{1 ms. has instead:} The elephant spoke to himself: @q{“Among all the creatures of @wDN{Šakkan}, the one that can defecate like me has yet to be created!”} The wren (?) answered him: @q{“But I, in my own small way, can defecate just as much as you!”} }
 #lem: zaʾe[you]; dim[create]
 #etcsl: line-id=A.5.1.5
 
@@ -36,6 +41,7 @@ A.5.1.E. za-a-gin₇-nam al-dim₂-me-en-e-še#
 
 #etcsl#ms instead of lines 1-5, 1 ms. has:
 A. am-si ni₂-ta-na maš₂-anše {d}šakkan₂-ka {{%akk um-ma %akk pi-ru-um %akk i-na %akk ra-ma-ni-ša %akk i-na %akk bu-ul %akk ša-am-ka-an}}
+?#tr.en: @varh[t6105.v3]{You go like an elephant to raise a sunken boat. } @vart[t6105.v4,]{@note{1 ms. has instead:} An elephant is led to a sunken boat to raise it. }
 #lem: amsi[elephant]; ni[self]; mašanše[animals]; Šakkan[1]DN; L; L; L; L; L; L; L
 #etcsl: line-id=A.5.1.A
 
@@ -82,6 +88,7 @@ A.5.3.7. am-e niŋ₂-gig apin-na-kam
 @div proverb 5.4
 
 A.5.4.8. am-gin₇ nam-sag₉-ga ni₂-zu-ka al-sag₉-ge-en-e-še
+?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.14]{6.1.03.14}} The wild bull is taboo for the plough.
 #lem: am[wild bull]; namsag[pleasure]; ni[self]; sag[good]
 #etcsl: line-id=A.5.4.8
 
@@ -90,6 +97,7 @@ A.5.4.8. am-gin₇ nam-sag₉-ga ni₂-zu-ka al-sag₉-ge-en-e-še
 @div proverb 5.5
 
 A.5.5.9. am-e {u₂}numun₂ al!-ni₁₀-ni₁₀-e
+?#tr.en: @q{“Like the wild bull, you only do what pleases you.”}
 #lem: am[wild bull]; numun[alfalfa grass]; niŋin[encircle]
 #etcsl: line-id=A.5.5.9
 
@@ -98,6 +106,7 @@ A.5.5.9. am-e {u₂}numun₂ al!-ni₁₀-ni₁₀-e
 @div proverb 5.6
 
 A.5.6.10. am-e {ŋiš}apin-na du₈-du₈-u₃
+?#tr.en: The wild bull wanders about amid the rushes.
 #lem: am[wild bull]; apin[(seed) plow]; du[spread]
 #etcsl: line-id=A.5.6.10
 
@@ -106,6 +115,7 @@ A.5.6.10. am-e {ŋiš}apin-na du₈-du₈-u₃
 @div proverb 5.7
 
 A.5.7.11. am-e gi KA tug₂ ab-ur₃-re-en
+?#tr.en: The wild bull is free from the plough (?).
 #lem: am[wild bull]; gi[reed]; X; tug[textile]; ur[drag]
 #etcsl: line-id=A.5.7.11
 
@@ -117,10 +127,13 @@ A.5.7.11. am-e gi KA tug₂ ab-ur₃-re-en
 @div proverb 5.8
 
 A.5.8.11A. [am]-e# gu₂ e₃-a gu₂# [...]
+?#tr.en: The wild bull …… I abandon the claim.
 #lem: am[wild bull]; gu[neck]; e[leave]; gu[neck]; X
 #etcsl: line-id=A.5.8.11A
 
 A.5.8.11B. [...] an-ta ba-[...]
+?#tr.en: The wild bull
+?#tr.en: …… enveloped …… above …….
 #lem: X; an[sky]; X
 #etcsl: line-id=A.5.8.11B
 
@@ -137,6 +150,7 @@ A.5.9.11C. am-e a₂ kalag-ga-zu [...] mu-e-du₇ [...]
 @div proverb 5.10
 
 A.5.10.11D. am-e u₃-na-gin₇ SI# [...]
+?#tr.en: Wild bull, you …… your strong limbs.
 #lem: am[wild bull]; una[wild]; X; X
 #etcsl: line-id=A.5.10.11D
 
@@ -145,6 +159,7 @@ A.5.10.11D. am-e u₃-na-gin₇ SI# [...]
 @div proverb 5.11
 
 A.5.11.11E. am-e ni₂# er₉# [...]
+?#tr.en: The wild bull …… aggressively.
 #lem: am[wild bull]; ni[fear]; ir[mighty]; X
 #etcsl: line-id=A.5.11.11E
 
@@ -154,6 +169,7 @@ A.5.11.11E. am-e ni₂# er₉# [...]
 @div proverb 5.12
 
 A.5.12.12. gud-de₃ ŋiri₃-zu-a al-dab₅-be₂-en
+?#tr.en: The wild bull …….
 #lem: gud[bull]; ŋiri[foot]; dab[seize]
 #etcsl: line-id=A.5.12.12
 
@@ -162,6 +178,7 @@ A.5.12.12. gud-de₃ ŋiri₃-zu-a al-dab₅-be₂-en
 @div proverb 5.13
 
 A.5.13.13. gud-gin₇ a-ga gur-ra nu-e-zu
+?#tr.en: An ox will catch you in your path.
 #lem: gud[bull]; aga[rear]; gur[turn]; zu[know]
 #etcsl: line-id=A.5.13.13
 
@@ -170,6 +187,7 @@ A.5.13.13. gud-gin₇ a-ga gur-ra nu-e-zu
 @div proverb 5.14
 
 A.5.14.14. gud naŋa dub₂-ba-še₃ ur-gir₁₅-re ka-bi al-du₈-du₈-u₃
+?#tr.en: Like an ox, you do not know how to turn back.
 #lem: gud[bull]; naŋa[potash]; dub[tremble]; urgir[(domestic) dog]; kag[mouth]; du[spread]
 #etcsl: line-id=A.5.14.14
 
@@ -178,6 +196,7 @@ A.5.14.14. gud naŋa dub₂-ba-še₃ ur-gir₁₅-re ka-bi al-du₈-du₈-u₃
 @div proverb 5.15
 
 A.5.15.15. gud a₂ la₂-am₃ lu₂ a₂ la₂-bi an-gu-lu-uš
+?#tr.en: The dog snarls at an ox scrubbed with soap.
 #lem: gud[bull]; a[arm]; la[hang]; lu[person]; a[arm]; la[hang]; gal[big]
 #etcsl: line-id=A.5.15.15
 
@@ -186,6 +205,7 @@ A.5.15.15. gud a₂ la₂-am₃ lu₂ a₂ la₂-bi an-gu-lu-uš
 @div proverb 5.16
 
 A.5.16.16. [gud ...] X-še₃ ga-an-da-il₂-e
+?#tr.en: The ox has been tamed; its tamers are great.
 #lem: gud[bull]; X; X; il[raise]
 #etcsl: line-id=A.5.16.16
 
@@ -194,6 +214,7 @@ A.5.16.16. [gud ...] X-še₃ ga-an-da-il₂-e
 @div proverb 5.17
 
 A.5.17.17. [gud sur₁₂-ra ab-sin₂-bi] al-sag₉-sag₉
+?#tr.en: The ox …….
 #lem: gud[bull]; sur[threshing floor]; absin[furrow]; sag[good]
 #etcsl: line-id=A.5.17.17
 
@@ -204,10 +225,14 @@ A.5.17.17. [gud sur₁₂-ra ab-sin₂-bi] al-sag₉-sag₉
 @div proverb 5.18
 
 A.5.18.18. [gud ...]-u₃-de₃
+?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.86]{6.1.02.86}, @xref[t.6.1.26,t.6.1.26.d6]{6.1.26.d6}} The furrows seem pleasant to an ox on the threshing floor.
 #lem: gud[bull]; X
 #etcsl: line-id=A.5.18.18
 
 A.5.18.19. [...]-e-še
+?#tr.en: The ox …….
+?$ (@gap{1 line fragmentary}) 
+?$ (@gap{unknown no. of lines missing}) 
 #lem: X
 #etcsl: line-id=A.5.18.19
 
@@ -225,6 +250,8 @@ B.5.25.1. gud# [...]
 #etcsl: line-id=B.5.25.1
 
 B.5.25.2. nu-mu-da#-[...]
+?#tr.en: The ox ……
+?$ (@gap{1 line fragmentary}) 
 #lem: X
 #etcsl: line-id=B.5.25.2
 
@@ -241,6 +268,7 @@ B.5.26.3. gud šar₂-ra šurum-bi nu-ŋal₂#-[la-am₃]
 @div proverb 5.27
 
 B.5.27.4. gud al-lu-lu-un šurum-bi al-degₓ(RI)-degₓ(RI)-ge-en#
+?#tr.en: From so many oxen, is there no dung?
 #lem: gud[bull]; lu[abundant]; šurum[dung]; deg[gather up]
 #etcsl: line-id=B.5.27.4
 
@@ -249,6 +277,7 @@ B.5.27.4. gud al-lu-lu-un šurum-bi al-degₓ(RI)-degₓ(RI)-ge-en#
 @div proverb 5.28
 
 B.5.28.5. gud šabra-gin₇ sila-a al-ni₁₀-ni₁₀-en
+?#tr.en: If you make the oxen multiply, you may collect their dung.
 #lem: gud[bull]; šabra[chief administrator of a temple or other household]; sila[street]; niŋin[encircle]
 #etcsl: line-id=B.5.28.5
 
@@ -257,6 +286,7 @@ B.5.28.5. gud šabra-gin₇ sila-a al-ni₁₀-ni₁₀-en
 @div proverb 5.29
 
 B.5.29.6. gud lugal-bi in-ga-hul₂ sukkal abul-la-kam
+?#tr.en: O ox, you wander about in the street like a commissioner.
 #lem: gud[bull]; lugal[king]; hul[rejoice]; sukkal[secretary]; abula[gate]
 #etcsl: line-id=B.5.29.6
 
@@ -265,6 +295,7 @@ B.5.29.6. gud lugal-bi in-ga-hul₂ sukkal abul-la-kam
 @div proverb 5.30
 
 B.5.30.7. ab₂-e# šag₄# gen₆-na-ni-ta mu-gud si nu-ub-tu₁₁
+?#tr.en: The owner of an ox is also happy at being the emissary at the city gate.
 #lem: ab[cow]; šag[heart]; gin[confirm]; gud[jump (on)]; si[horn]; tub[strike]
 #etcsl: line-id=B.5.30.7
 
@@ -273,6 +304,7 @@ B.5.30.7. ab₂-e# šag₄# gen₆-na-ni-ta mu-gud si nu-ub-tu₁₁
 @div proverb 5.31
 
 B.5.31.8. ab₂ su#-a-gin₇# eŋer# lu₂# gi#-gur-da-ka al-du-un
+?#tr.en: The cow jumps to her heart's content, but she does not gore.
 #lem: ab[cow]; sua[wild cat]; egir[back]; lu[person]; gigurda[basket]; du[go]
 #etcsl: line-id=B.5.31.8
 
@@ -281,6 +313,7 @@ B.5.31.8. ab₂ su#-a-gin₇# eŋer# lu₂# gi#-gur-da-ka al-du-un
 @div proverb 5.32
 
 B.5.32.9. ab₂# šag₄-sug₄-ga#-bi lu₂# na-me šu nu-bar-re
+?#tr.en: O cow, like a cat you walk behind the man carrying the food basket.
 #lem: ab[cow]; šagsug[empty]; lu[person]; name[any]; šu[hand]; bar[place outside]
 #etcsl: line-id=B.5.32.9
 

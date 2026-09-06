@@ -12,6 +12,7 @@ $ (unknown no. of lines missing)
 @div proverb 15.a1
 
 A.15.a1.1. [...] X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=A.15.a1.1
 
@@ -22,6 +23,8 @@ A.15.a1.1. [...] X X [...]
 @div proverb 15.a2
 
 A.15.a2.2. a-na# MUNUS A mu-na-ni-in-[...]
+?$ (@note{= Alster 1997 15 Sec. A 2} ) 
+?$ (@gap{1 line fragmentary}) 
 #lem: ana[what?]; X; X; X
 #etcsl: line-id=A.15.a2.2
 
@@ -38,6 +41,8 @@ A.15.a3.3. ud-ba na-ŋa₂-ah-gin₇# gu₃# mu!-un-na#-de₂-a
 #etcsl#eq = Alster 1997 15 Sec. A 3A
 
 A.15.a3.4. X-zu anše dab₅ lu₂ hu-mu-un-e-e-še
+?#tr.en: @note{= Alster 1997 15 Sec. A 3A} Then, when you shout like a fool,
+?#tr.en: someone should say: @q{“Your …… is a captured donkey!”}
 #lem: X; anše[equid]; dab[seize]; lu[person]; e[speak]
 #etcsl: line-id=A.15.a3.4
 
@@ -52,6 +57,8 @@ A.15.a4.5. X RI in-bi-im
 #etcsl#eq = Alster 1997 15 Sec. A 3B
 
 A.15.a4.6. e₂#-gal me-te-bi-im
+?#tr.en: @note{= Alster 1997 15 Sec. A 3B} It is an insult to …….
+?#tr.en: It is the dignity of the palace.
 #lem: egal[palace]; mete[appropriate thing]
 #etcsl: line-id=A.15.a4.6
 
@@ -70,6 +77,7 @@ A.15.a5.7. in-ga-hul₂-e ama lu₂-kar-ra-kam
 @div proverb 15.a6
 
 A.15.a6.8. in#-ga-hul₂-zu uŋ₃-e he₂-em-me
+?#tr.en: @note{= Alster 1997 15 Sec. A 4} The well-wisher is the mother of the refugee.
 #lem: hul[rejoice]; uŋ[people]; e[speak]
 #etcsl: line-id=A.15.a6.8
 

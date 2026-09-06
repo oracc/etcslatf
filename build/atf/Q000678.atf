@@ -9,68 +9,84 @@
 @div sa-gida A
 
 A.1. lugal-ŋu₁₀ sug-ga-na mu-un-X
+#tr.en: My king …… in his reed marshes.
 #lem: lugal[king]; sug[reed-bed]; X
 #etcsl: line-id=A.1
 
 A.2. e-ne sug sig₉-ga mu-un-X X X
+#tr.en: He …… in the silent (?) reed marshes.
 #lem: ane[he]; sug[reed-bed]; sig[put into]; X; X; X
 #etcsl: line-id=A.2
 
 A.3. sug gal sug muš-a e₂-a-ni ba-ni-in-la₂
+#tr.en: He extended his house over a huge reed marsh,
 #lem: sug[reed-bed]; gal[big]; sug[reed-bed]; muš[snake]; e[house]; la[hang]
 #etcsl: line-id=A.3
 
 A.4. X X sig₇-ga-bi na-nam AB KA a ba-du₃
+#tr.en: over a …… reed marsh. Its …… is green (?);
 #lem: X; X; sissig[green-yellow]; me[be]; X; X; a[water]; du[build]
 #etcsl: line-id=A.4
 
 A.5. iri-ni eš₃ urim₂{ki} mu-še₃ ba-an-sa₄
+#tr.en: he has built …… by the water.
 #lem: iri[city]; eš[shrine]; Urim[1]SN; mu[name]; še[call by name]
 #etcsl: line-id=A.5
 
 A.6. en ud su₃-ra₂-ke₄ iri-ni-ta
+#tr.en: He called his city the shrine @wSN{Urim}. In his city,
 #lem: en[lord]; ud[sun]; sud[distant]; iri[city]
 #etcsl: line-id=A.6
 
 A.7. {d}suen-e dur₂ ki ba-ni-in-ŋar
+#tr.en: the lord of the long days, @wDN{Suen}, founded a dwelling-place.
 #lem: Suen[1]DN; dur[buttocks]; ki[place]; ŋar[put]
 #etcsl: line-id=A.7
 
 A.8. urim₂{ki} iri šag₄-ge pad₃-da-na
+#tr.en: In @wSN{Urim}, the city chosen in his heart,
 #lem: Urim[1]SN; iri[city]; šag[heart]; pad[find]
 #etcsl: line-id=A.8
 
 A.9. e₂ gud-gin₇ ar₂ im-me
+#tr.en: bull-like the house gives praise.
 #lem: e[house]; gud[bull]; ar[celebrate]; dug[speak]
 #etcsl: line-id=A.9
 
 A.10. lugal-ŋu₁₀ ki girin-na-ni
+#tr.en: My king's splendid place is indeed an august place,
 #lem: lugal[king]; ki[place]; girim[flower]
 #etcsl: line-id=A.10
 
 A.11. ki mah ki kal-kal he₂-en-na-nam-ma-am₃
+#tr.en: a most precious place. @wDN{Suen} …… his beloved city,
 #lem: ki[place]; mah[great]; ki[place]; kal[rare]; me[be]
 #etcsl: line-id=A.11
 
 A.12. {d}suen-e iri ki aŋ₂-ŋa₂-ni
+#tr.en: the shrine @wSN{Urim},
 #lem: Suen[1]DN; iri[city]; ki[place]; aŋ[measure]
 #etcsl: line-id=A.12
 
 A.13. eš₃ urim₂{ki} me kug-kug-ga iri-ni X X
+#tr.en: the pure divine powers …… his city.
 #lem: eš[shrine]; Urim[1]SN; me[Being]; kug[pure]; iri[city]; X; X
 #etcsl: line-id=A.13
 
 A.14. lugal-ŋu₁₀ barag kug X UD X [...]
+#tr.en: My king …… the holy dais.
 #lem: lugal[king]; barag[sanctum]; kug[purify]; X; X; X; X
 #etcsl: line-id=A.14
 
 A.15. en {d}dil-im₂-babbar U₃ X X ŋar-ra X
+#tr.en: Lord @wDN{Ašimbabbar} …….
 #lem: en[lord]; Dilimbabbar[1]DN; X; X; X; ŋar[put]; X
 #etcsl: line-id=A.15
 
 @div trailer 
 
 A.16. sa-gid₂-da-am₃
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=A.16
 
@@ -81,100 +97,124 @@ A.16. sa-gid₂-da-am₃
 @div sa-ŋara B
 
 B.17. e {d}nanna {d}nanna ab₂-zu me-a mu-u₈-lu en {d}dil-im₂-babbar
+#tr.en: @q[,Suen]{“O @wDN{Nanna}, @wDN{Nanna},
 #lem: e[vocative interjection]; Nanna[1]DN; Nanna[1]DN; ab[cow]; mea[where?]; lu[abundant]; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=B.17
 
 B.18. iri igi il₂ eš₃ šag₄ ŋal₂ ul ti-a i₃-ra
+#tr.en: where have you tended your cows, Lord @wDN{Ašimbabbar}?”}
 #lem: iri[city]; igi[eye]; il[raise]; eš[shrine]; šag[heart]; ŋal[⟦be⟧ to be (there]; ul[swell]; teŋ[approach]; rah[beat]
 #etcsl: line-id=B.18
 
 B.19. aratta-gin₇-nam [...] gud-e ŋal₂-la-bi
+#tr.en: @q[Suen,]{“In the chosen city, the shrine of my heart which I have founded in joy like @wSN{Aratta} …….
 #lem: Aratta[1]GN; X; gud[bull]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=B.19
 
 B.20. eš₃-e urim₂{ki}-ŋu₁₀ [ab₂]-ŋu₁₀ ba-ši-in-lu
+#tr.en: In my shrine @wSN{Urim} I have tended my cows.”} @q[,Suen]{“First-born son of @wDN{Enlil},
 #lem: eš[shrine]; Urim[1]SN; ab[cow]; lu[abundant]
 #etcsl: line-id=B.20
 
 B.21. dumu-saŋ {d}en-lil₂-la₂ uŋ₃ me-a mu-u₈-lu en {d}dil-im₂-babbar
+#tr.en: where have you tended the people, Lord @wDN{Ašimbabbar}?”}
 #lem: dumusaŋ[first-born]; Enlil[1]DN; uŋ[people]; mea[where?]; lu[abundant]; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=B.21
 
 @variants
 
 B.22. [iri igi] il₂# eš₃ šag₄ ŋal₂ ul ti-a i₃-ra
+#tr.en: @q[Suen,]{“In the chosen city, the shrine of my heart which I have founded in joy,
 #lem: iri[city]; igi[eye]; il[raise]; eš[shrine]; šag[heart]; ŋal[⟦be⟧ to be (there]; ul[swell]; teŋ[approach]; rah[beat]
 #etcsl: line-id=B.22
 
 B.23. aratta#-gin₇-nam X gud-[e] ŋal₂#-la-bi
+#tr.en: like @wSN{Aratta} ……; in my @wTN{E-mud-kura} I have tended my cows.”}
 #lem: Aratta[1]GN; X; gud[bull]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=B.23
 
 B.24. [e₂-mud-kur-ra-ŋu₁₀ ab₂-ŋu₁₀ ba]-ši-in-lu
+#tr.en: @q[,Suen]{“First-born son of @wDN{Enlil}, where have you tended the people, Lord @wDN{Ašimbabbar}?”}
 #lem: Emudkurak[1]TN; ab[cow]; lu[abundant]
 #etcsl: line-id=B.24
 
 B.25. [dumu-saŋ] {[d]}[en-lil₂-la₂ uŋ₃ me-a] mu-u₈-lu [en] {[d]}[aš]-im₂-babbar
+#tr.en: @q[Suen,]{“In a place founded on a good day and given a good name,
 #lem: dumusaŋ[first-born]; Enlil[1]DN; uŋ[people]; mea[where?]; lu[abundant]; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=B.25
 
 B.26. ud dug₃-ga [ki ŋar-ra mu dug₃-ga] sa₄-a
+#tr.en: in the place chosen in my heart,
 #lem: ud[sun]; dug[good]; ki[place]; ŋar[put]; mu[name]; dug[good]; še[call by name]
 #etcsl: line-id=B.26
 
 B.27. {d}dil-im₂-[babbar-me-en ki šag₄]-ge pad₃-da-ŋu₁₀
+#tr.en: my @wTN{E-mud-kura},
 #lem: Dilimbabbar[1]DN; ki[place]; šag[heart]; pad[find]
 #etcsl: line-id=B.27
 
 B.28. e₂-mud-[kur]-ra-[ŋu₁₀] ab₂-ŋu₁₀ ba-ši-in-lu
+#tr.en: I, @wDN{Ašimbabbar}, have tended my cows.”}
 #lem: Emudkurak[1]TN; ab[cow]; lu[abundant]
 #etcsl: line-id=B.28
 
 B.29. dumu-saŋ {d}en-lil₂-la₂ uŋ₃ me-a mu-u₈-lu en {d}dil-im₂-babbar
+#tr.en: @q[,Suen]{“First-born son of Enlil,
 #lem: dumusaŋ[first-born]; Enlil[1]DN; uŋ[people]; mea[where?]; lu[abundant]; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=B.29
 
 B.30. ud dug₃-ga ki ŋar-ra mu [dug₃]-ga sa₄-a
+#tr.en: where have you tended the people, Lord @wDN{Ašimbabbar}?”}
 #lem: ud[sun]; dug[good]; ki[place]; ŋar[put]; mu[name]; dug[good]; še[call by name]
 #etcsl: line-id=B.30
 
 B.31. {d}dil-im₂-babbar-me-en ki [šag₄]-ge pad₃-da-ŋu₁₀
+#tr.en: @q[Suen,]{“In a place founded on a good day and given a good name,
 #lem: Dilimbabbar[1]DN; ki[place]; šag[heart]; pad[find]
 #etcsl: line-id=B.31
 
 B.32. e₂-mud-kur-ra-ŋu₁₀ ab₂-ŋu₁₀# [ba]-ši-in-lu
+#tr.en: in the place chosen in my heart,
 #lem: Emudkurak[1]TN; ab[cow]; lu[abundant]
 #etcsl: line-id=B.32
 
 B.33. lugal tur₃ kug-ga ab₂-zu me-a mu-u₈-lu šul mu₆-sub₃ nun-na
+#tr.en: my @wTN{E-mud-kura},
 #lem: lugal[king]; tur[animal stall]; kug[pure]; ab[cow]; mea[where?]; lu[abundant]; šul[youth]; munsub[shepherd]; nun[prince]
 #etcsl: line-id=B.33
 
 B.34. šag₄-tum₂-ma barag ša-mu-un-du₃ eš₃-e urim₂{ki}-ŋu₁₀-[še₃]
+#tr.en: I, @wDN{Ašimbabbar}, have tended my cows.”}
 #lem: šagtum[pasture land]; barag[sanctum]; du[build]; eš[shrine]; Urim[1]SN
 #etcsl: line-id=B.34
 
 B.35. {ŋiš}ŋišnimbar nam-mu₂ kur dilmun{ki} na-nam#
+#tr.en: @q[,Suen]{“King of the holy cattle-pen,
 #lem: ŋešnimbar[date-palm]; mu[grow]; kur[mountain(s)]; Dilmun[1]GN; me[be]
 #etcsl: line-id=B.35
 
 B.36. ŋiš-gi kug-bi-a ab₂-ŋu₁₀ ba-ši-in-lu
+#tr.en: where have you tended your cows, youthful, noble shepherd?”}
 #lem: ŋešgi[thicket]; kug[pure]; ab[cow]; lu[abundant]
 #etcsl: line-id=B.36
 
 B.37. dumu-saŋ {d}en-lil₂-la₂ uŋ₃ me-a mu-u₈-lu šul mu₆-sub₃ nun-na
+#tr.en: @q[Suen,]{“In the meadow where I have built a dais for my shrine @wSN{Urim} and have let date palms grow as in the land of @wGN{Dilmun} -- there in its holy reedbeds I have tended my cows.”}
 #lem: dumusaŋ[first-born]; Enlil[1]DN; uŋ[people]; mea[where?]; lu[abundant]; šul[youth]; munsub[shepherd]; nun[prince]
 #etcsl: line-id=B.37
 
 B.38. šag₄-tum₂-ma barag ša-mu-un-du₃ eš₃-e urim₂{ki}-ŋu₁₀-še₃
+#tr.en: @q[,Suen]{“First-born son of Enlil,
 #lem: šagtum[pasture land]; barag[sanctum]; du[build]; eš[shrine]; Urim[1]SN
 #etcsl: line-id=B.38
 
 B.39. {ŋiš}ŋišnimbar nam-mu₂ kur dilmun{ki} na-nam
+#tr.en: where have you tended the people, youthful, noble shepherd?”}
 #lem: ŋešnimbar[date-palm]; mu[grow]; kur[mountain(s)]; Dilmun[1]GN; me[be]
 #etcsl: line-id=B.39
 
 B.H. ŋiš-gi kug-bi-a ab₂-ŋu₁₀ ba-ši-in-lu
+#tr.en: @q[Suen,]{“In the meadow where I have built a dais for my shrine @wSN{Urim} and have let date palms grow as in the land of @wGN{Dilmun} -- there in its holy reedbeds I have tended my cows.”}
 #lem: ŋešgi[thicket]; kug[pure]; ab[cow]; lu[abundant]
 #etcsl: line-id=B.40
 
@@ -182,34 +222,42 @@ B.H. ŋiš-gi kug-bi-a ab₂-ŋu₁₀ ba-ši-in-lu
 
 #etcsl#ms instead of lines 22-40, 1 ms. has:
 A. [...] mu-u₈-lu šul mu₆-sub₃ nun-na
+#tr.en: @varn{instead of lines 22-40, 1 ms. has:} @q[,Suen]{“…… where have you tended your cows, youthful,
 #lem: X; lu[abundant]; šul[youth]; munsub[shepherd]; nun[prince]
 #etcsl: line-id=B.A
 
 B. [...] eš₃-e urim₂{ki}-ŋu₁₀-[še₃]
+#tr.en: noble shepherd?”} @q[Suen,]{“…… for my shrine @wDN{Urim} …… as in the land of @wGN{Dilmun} -- there in the house's cattle-pen I have tended my cows.”}
 #lem: X; eš[shrine]; Urim[1]SN
 #etcsl: line-id=B.B
 
 C. [...] kur dilmun{ki} na-nam
+#tr.en: @q[,Suen]{“King of the holy cattle-pen (?), where have you tended your cows,
 #lem: X; kur[mountain(s)]; Dilmun[1]GN; me[be]
 #etcsl: line-id=B.C
 
 D. {e₂}tur₃-bi-am₃ ab₂-ŋu₁₀ ba-ši-in-lu
+#tr.en: youthful, noble shepherd,
 #lem: tur[animal stall]; ab[cow]; lu[abundant]
 #etcsl: line-id=B.D
 
 E. lugal kisim₂(|DAG.KISIM₅×SI|) kug-ga ab₂-zu me-am₃ mu-u₈-lu šul mu₆-sub₃ nun-na en {d}dil-im₂-babbar
+#tr.en: Lord @wDN{Ašimbabbar}?”} @q[Suen,]{“In a place founded on a good day and given a good name,
 #lem: lugal[king]; kisim[animal stall]; kug[pure]; ab[cow]; mea[where?]; lu[abundant]; šul[youth]; munsub[shepherd]; nun[prince]; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=B.E
 
 F. ud dug₃-ga ki ŋar-ra# [mu] dug₃-ga sa₄#-[a]
+#tr.en: in the place chosen in my heart, @wTN{E-kiš-nu-ŋal},
 #lem: ud[sun]; dug[good]; ki[place]; ŋar[put]; mu[name]; dug[good]; še[call by name]
 #etcsl: line-id=B.F
 
 G. {d}dil-im₂-babbar-me-en ki# [šag₄]-ge pad₃-[da-ŋu₁₀]
+#tr.en: the …… house, I,
 #lem: Dilimbabbar[1]DN; ki[place]; šag[heart]; pad[find]
 #etcsl: line-id=B.G
 
 H. e₂-kiš-nu-ŋal₂ e₂ [...] X [...]
+#tr.en: @wDN{Ašimbabbar}, have tended my cows (?).”}
 #lem: Ekišnuŋal[1]TN; e[house]; X; X; X
 #etcsl: line-id=B.H
 
@@ -217,6 +265,7 @@ H. e₂-kiš-nu-ŋal₂ e₂ [...] X [...]
 @div trailer 
 
 B.41. sa-ŋar-ra-am₃
+#tr.en: @fsux{Sa-ŋara}.
 #lem: saŋara[musical notation]
 #etcsl: line-id=B.41
 
@@ -227,6 +276,7 @@ B.41. sa-ŋar-ra-am₃
 @div trailer 
 
 B.42. tigi {d}suen-na-kam
+#tr.en: A @fsux{tigi} of @wDN{Suen}.
 #lem: tigi[drum or other musical instrument]; Suen[1]DN
 #etcsl: line-id=B.42
 

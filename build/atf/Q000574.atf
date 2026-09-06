@@ -9,26 +9,37 @@
 @div version 1 (Version A (from Nibru))
 
 1.1. lugal zalag-ga-ni iti₆-gin₇ kur-kur-ra pa e₃-a
+#tr.en: Say this to the king who has made his radiance resplendent over all the lands like the moonlight.
 #lem: lugal[king]; zalag[bright]; itud[moon]; kur[mountain(s)]; pa[branch]; e[leave]
 #etcsl: line-id=1.1
 
 1.2. u₃-na-dug₄
+#tr.en: Repeat it to the king who renders just verdicts like @wDN{Utu} and regulates decisions like @wDN{Ištaran},
 #lem: dug[speak]
 #etcsl: line-id=1.2
 
 1.3. lugal {d}utu-gin₇ di si sa₂ kud-kud-de₃# eš-bar {d}ištaran-gin₇ si sa₂-sa₂-e-ra
+#tr.en: to my king who heeds prayers.
 #lem: lugal[king]; Utu[1]DN; did[lawsuit]; si[horn]; sa[equal]; kud[cut]; ešbar[decision]; Ištaran[1]DN; si[horn]; sa[equal]
 #etcsl: line-id=1.3
 
 1.4. lugal šudu₃-de₃ ŋiš tuku-ŋu₁₀-ur₂ u₃-na-de₃-tah
+#tr.en: This is what @varh[t3302.1.v1]{@wPN{Lugal-nesaŋe} } @vart[t3302.1.v2,t3302.1.v1]{@varn{3 mss. have instead:} @wPN{Lugal-šu} } , a citizen of @wSN{Nibru} and your servant,
 #lem: lugal[king]; šud[prayer]; ŋeš[tree]; tuku[acquire]; tah[add]
 #etcsl: line-id=1.4
 
 1.5. (1:{m}lugal-nesaŋ-e:1) dumu nibru{ki} arad₂-zu na-ab-be₂-a
+#tr.en: says:
 #lem: Lugalnesaŋe[1]PN; dumu[child]; Nibru[1]SN; arad[slave]; e[speak]
 #etcsl: line-id=1.5
 
 :5v.1.1: ($3 mss. have instead:$) {m}lugal-šu₂
+?#tr.en: Like a sheep I use my mouth for eating grass and I am unfamiliar with washing with soap. Like an ox bearing a yoke which it cannot support,
+?#tr.en: I have been driven out into the high plains. Like a cow whose calf is not close by,
+?#tr.en: I utter pitiful cries. As happens to a ewe whose lamb is restrained in the milking pen,
+?#tr.en: hands seize me. As happens to a bird,
+?#tr.en: men take my nest away. As happens to a boat which is not anchored to a firm quay,
+?#tr.en: I drift in the wind. @notep{1 ms. omits lines 10-12}
 #lem: Lugalšu[1]PN
 
 1.6. udu-gin₇ ka u₂ gu₇-ŋu₁₀ mu-e-pad₃ naŋa dub₂-ba i-ni-bad
@@ -62,6 +73,10 @@
 #etcsl: line-id=1.12
 
 1.13. iri kur₂ iri-ŋa₂ mu-da-an-kur₉ lu₂ en₃ tar-re la-ba-tuku
+?#tr.en: In the streets of @wSN{Nibru} grief consumes me.
+?#tr.en: A hostile city has taken over my city and I have no protector.
+?#tr.en: A hostile house has taken over my house and …… against me.
+?#tr.en: In my city, like a slave, no …… and I wear a filthy …… fleece.
 #lem: iri[city]; kur[alienate]; iri[city]; kur[enter]; lu[person]; en[cvne]; tar[cut]; tuku[acquire]
 #etcsl: line-id=1.13
 
@@ -86,6 +101,12 @@
 #etcsl: line-id=1.16
 
 1.17. lu₂ dili gu₇-u₃-gin₇ igi tur mu-un-gid₂-i-eš
+?#tr.en: My friends,
+?#tr.en: companions,
+?#tr.en: acquaintances and esteemed colleagues look on with scorn as at a man who eats alone.
+?#tr.en: My mother who begot me and whose breasts are crescent-shaped (?) has snatched from my mouth my contented consumption of milk.
+?#tr.en: My father who raised me in his lap has cast me aside.
+?#tr.en: My merciful lady whose house is treasured no longer notices me.
 #lem: lu[person]; dili[single]; gu[eat]; igi[eye]; tur[small]; gid[long]
 #etcsl: line-id=1.17
 
@@ -113,6 +134,8 @@
 #etcsl: line-id=1.22
 
 1.23. |GIŠ.BIL₂|-|GIŠ.BIL₂|-me-en {ŋiš}isimu₂{sar} nu-tuku-me-en HAR-re nam-ba-tum₂-un
+?#tr.en: As happens to a sickly tree that has borne no fruit, no one rejoices over me.
+?#tr.en: I am fresh fruit but I have no buds and I do not …….
 #lem: GIŠ.NE@s[fresh fruit]; isimu[stalk]; tuku[acquire]; X; tum[bring]
 
 #etcsl: line-id=1.23
@@ -144,6 +167,17 @@ $ (4 lines fragmentary)
 #etcsl: line-id=2.8
 
 2.9. [naŋa] dub₂#-ba i-ni-bad
+?#tr.en: Like a sheep I set my mouth to eating
+?#tr.en: grass and I am unfamiliar with washing with soap.
+?#tr.en: Like an ox under a yoke which it cannot support,
+?#tr.en: I have been driven out into the high plains.
+?#tr.en: Like a cow whose calf is not close by,
+?#tr.en: I utter pitiful cries.
+?#tr.en: As happens to a ……,
+?#tr.en: hands seize me.
+?#tr.en: As happens to a boat which is
+?#tr.en: not anchored to a firm quay,
+?#tr.en: I drift in the wind.
 #lem: naŋa[potash]; dub[tremble]; bad[open]
 #etcsl: line-id=2.9
 

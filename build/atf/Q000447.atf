@@ -9,74 +9,91 @@
 @div kirugu A
 
 A.1. [an-ta e₃-a-ra an-ta e₃-a]-ra [silim-ma ga]-na-ab-be₂-en
+#tr.en: I shall greet her who ascends above, her who ascends above,
 #lem: an[sky]; e[leave]; an[sky]; e[leave]; silim[healthy]; e[speak]
 #etcsl: line-id=A.1
 
 #etcsl#cite Cited in OB catalogue in the Louvre, 0.2.02, line 44
 
 A.2. [nu-u₈]-gig# an-ta e₃-a-ra [silim]-ma ga-na-ab-be₂-en
+#tr.en: I shall greet the Mistress who ascends above,
 #lem: nugig[priestess]; an[sky]; e[leave]; silim[healthy]; e[speak]
 #etcsl: line-id=A.2
 
 A.3. [nin] gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+#tr.en: I shall greet the great lady of heaven, @wDN{Inana}!
 #lem: nin[lady]; gal[big]; an[sky]; Inanak[1]DN; silim[healthy]; e[speak]
 #etcsl: line-id=A.3
 
 A.4. izi-ŋar kug an-e si-a-ra
+#tr.en: I shall greet the holy torch who fills the heavens,
 #lem: iziŋar[torch]; kug[purify]; an[sky]; si[fill]
 #etcsl: line-id=A.4
 
 A.5. su₃-ra₂-aŋ₂ {d}inana-ra ud-gin₇ zalag-ge-ra
+#tr.en: the light, @wDN{Inana}, her who shines like daylight, the great lady of heaven, @wDN{Inana}!
 #lem: sudaŋ[precious metal or material (possibly amber)]; Inanak[1]DN; ud[sun]; zalag[bright]
 #etcsl: line-id=A.5
 
 A.6. nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+#tr.en: I shall greet the Mistress, the most awesome lady among the @wDN{Anuna} gods;
 #lem: nin[lady]; gal[big]; an[sky]; Inanak[1]DN; silim[healthy]; e[speak]
 #etcsl: line-id=A.6
 
 A.7. nu-u₈-gig nin ni₂ gur₃-ru {d}a-nun-na-ke₄-ne
+#tr.en: the respected one who fills heaven and earth with her huge brilliance;
 #lem: nugig[priestess]; nin[lady]; ni[fear]; gur[lift]; Anunak[1]DN
 #etcsl: line-id=A.7
 
 A.8. nir-ŋal₂ an ki si gal si-a
+#tr.en: the eldest daughter of @wDN{Suen}, @wDN{Inana}!
 #lem: nirŋal[authoritative]; an[sky]; ki[place]; simuš[brilliance]; gal[big]; si[fill]
 #etcsl: line-id=A.8
 
 A.9. dumu gal {d}suen-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+#tr.en: For the young lady I shall sing a song about her grandeur,
 #lem: dumu[child]; gal[big]; Suen[1]DN; Inanak[1]DN; silim[healthy]; e[speak]
 #etcsl: line-id=A.9
 
 A.10. nam-mah-a-na nam-gal-la-na nam-nir-ŋal₂ buluŋ₃-ŋa₂-na
+#tr.en: about her greatness, about her exalted dignity; about her radiantly ascending at evening;
 #lem: nammah[greatness]; namgal[greatness]; namnirŋal[authority]; buluŋ[grow]
 #etcsl: line-id=A.10
 
 A.11. an-usan{an}-na dalla e₃-a-na
+#tr.en: about her filling the heaven like a holy torch;
 #lem: usan[evening]; dalla[(to be) bright]; e[leave]
 #etcsl: line-id=A.11
 
 A.12. izi-ŋar kug an-e si-a-na
+#tr.en: about her stance in the heavens,
 #lem: iziŋar[torch]; kug[purify]; an[sky]; si[fill]
 #etcsl: line-id=A.12
 
 A.13. {d}nanna {d}utu-gin₇ an-na gub-ba-na
+#tr.en: as noticeable by all lands,
 #lem: Nanna[1]DN; Utu[1]DN; an[sky]; gub[stand]
 #etcsl: line-id=A.13
 
 A.14. sig-ta igi-nim-še₃ kur-kur-ra zu-am₃
+#tr.en: from the south to the highlands,
 #lem: sig[weak]; iginim[upper land]; kur[mountain(s)]; zu[know]
 #etcsl: line-id=A.14
 
 A.15. nu-u₈-gig an-na-ka nam-gal-la-na
+#tr.en: as that of @wDN{Nanna} or of @wDN{Utu};
 #lem: nugig[priestess]; an[sky]; namgal[greatness]
 #etcsl: line-id=A.15
 
 A.16. in-nin₉-ra šir₃-re-eš ga-na-ab-be₂-en
+#tr.en: about the greatness of the mistress of heaven!
 #lem: innin[lady]; šir[song]; e[speak]
 #etcsl: line-id=A.16
 
 @div trailer 
 
 A.17. ki-ru-gu₂ 1-a-kam
+#tr.en: 1st @fsux{kirugu}.
 #lem: kirugu[division notation in certain literary compositions]; n
 #etcsl: line-id=A.17
 
@@ -87,12 +104,14 @@ A.17. ki-ru-gu₂ 1-a-kam
 @div ŋišgiŋal B
 
 B.18. e₃-a-ni ur-saŋ-am₃
+#tr.en: Her rising is that of a warrior.
 #lem: e[leave]; ursaŋ[warrior]
 #etcsl: line-id=B.18
 
 @div trailer 
 
 B.19. ŋiš-gi₄-ŋal₂-bi-im
+#tr.en: @fsux{Ŋišgiŋal}.
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=B.19
 
@@ -103,54 +122,67 @@ B.19. ŋiš-gi₄-ŋal₂-bi-im
 @div kirugu C
 
 C.20. an-na nam-mi-in-gub u₃-sumun₂ zid an-na-kam
+#tr.en: When standing in the heavens she is the good wild cow of @wDN{An},
 #lem: an[sky]; gub[stand]; sumun[wild cow]; zid[right]; An[1]DN
 #etcsl: line-id=C.20
 
 C.21. ki-a nir mi-ni-in-ŋal₂ nin kur-kur-ra-kam
+#tr.en: on earth she instils respect; she is the lady of all the lands.
 #lem: ki[place]; nir[lordly]; ŋal[⟦be⟧ to be (there]; nin[lady]; kur[mountain(s)]
 #etcsl: line-id=C.21
 
 C.22. abzu eridug{ki}-ga me šu ba-ni-in-ti
+#tr.en: She received the divine powers in the @fsux{abzu}, in @wSN{Eridug};
 #lem: abzu[(cosmic) underground water]; Eridug[1]SN; me[Being]; šu[hand]; teŋ[approach]
 #etcsl: line-id=C.22
 
 C.23. a-a-ni {d}en-ki-ke₄ saŋ-e-eš mu-ni-in-rig₇
+#tr.en: her father @wDN{Enki} presented them to her.
 #lem: aya[father]; Enkik[1]DN; saŋ[head]; rig[donate]
 #etcsl: line-id=C.23
 
 C.24. nam-en nam-lugal-la šu-ni-še₃ mu-u₈-ŋar
+#tr.en: He placed the lordship and kingship in her hands.
 #lem: namen[the office of en-priest]; namlugal[kingship]; šu[hand]; ŋar[put]
 #etcsl: line-id=C.24
 
 C.25. an-da barag gal-la dur₂ mu-da-an-ŋar
+#tr.en: She takes her seat on the great dais with @wDN{An};
 #lem: An[1]DN; barag[sanctum]; gal[big]; dur[buttocks]; ŋar[put]
 #etcsl: line-id=C.25
 
 C.26. {d}en-lil₂-da kalam-ma-na nam mu-un-di-ni-ib-tar-re
+#tr.en: she determines the fates in her Land with @wDN{Enlil}.
 #lem: Enlil[1]DN; kalam[the Land (of Sumer)]; nam[fate]; tar[cut]
 #etcsl: line-id=C.26
 
 C.27. itid-da ud-sakar-ra me šu du₇-du₇-de₃
+#tr.en: Monthly, at the new moon,
 #lem: itud[moon]; udsakar[crescent moon]; me[Being]; šu[hand]; du[perfect]
 #etcsl: line-id=C.27
 
 C.28. diŋir kalam-ma-ke₄ gu₂ mu-na-an-si-si-iš
+#tr.en: the gods of the Land gather around her so that the divine powers are perfected.
 #lem: diŋir[deity]; kalam[the Land (of Sumer)]; gu[neck]; si[fill]
 #etcsl: line-id=C.28
 
 C.29. {d}a-nun-na gal-gal im-ši-gam-e-de₃-eš
+#tr.en: The great @wDN{Anuna} gods,
 #lem: Anunak[1]DN; gal[big]; gurum[bend]
 #etcsl: line-id=C.29
 
 C.30. sizkur a-ra-zu-a ši-im-ma-sug₂-sug₂-ge-eš
+#tr.en: having bowed before them,
 #lem: siškur[prayer]; arazu[supplication]; sug[stand]
 #etcsl: line-id=C.30
 
 C.31. nam-šita kur-kur-ra mu-na-da-ab-be₂-ne
+#tr.en: stand there with prayers and supplications and utter prayers on behalf of all the lands.
 #lem: namšita[prayer]; kur[mountain(s)]; dug[speak]
 #etcsl: line-id=C.31
 
 C.32. nin-ŋu₁₀ di kalam-ma ki-bi-še₃ i₃-kud-de₃
+#tr.en: My lady decrees judgments in due order for the Land.
 #lem: nin[lady]; did[lawsuit]; kalam[the Land (of Sumer)]; ki[place]; kud[cut]
 #etcsl: line-id=C.32
 
@@ -158,6 +190,7 @@ C.32. nin-ŋu₁₀ di kalam-ma ki-bi-še₃ i₃-kud-de₃
 
 #etcsl#ms 2 mss. add the line:
 C.32A. {[d]}[inana-ke₄] ka-aš bar kalam-ma {d}en-lil₂-[da] i₃-bar-[re]
+?#tr.en: @vart[t2531.v1,t2531.v1]{@varn{2 mss. add the line:} @wDN{Inana} decides verdicts for the Land together with @wDN{Enlil}. } Her black-headed people parade before her.
 #lem: Inanak[1]DN; kaš[decision]; bar[place outside]; kalam[the Land (of Sumer)]; Enlil[1]DN; bar[place outside]
 #etcsl: line-id=C.32A
 
@@ -179,10 +212,20 @@ C.34. ki-ru-gu₂ 2-kam-ma-am₃
 @div kirugu D
 
 D.35. {ŋiš}al-ŋar kug-ga-ke₄ šu mu-na-tag-ge
+?#tr.en: 2nd @fsux{kirugu}.
 #lem: alŋar[musical instrument]; kug[metal]; šu[hand]; tag[touch]
 #etcsl: line-id=D.35
 
 D.36. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: Making silver @fsux{alŋar} instruments sound for her,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet the great lady of heaven, @wDN{Inana}!
+?#tr.en: Making holy @fsux{ub} and holy @fsux{lilis} drums sound for her,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet the great lady of heaven, @wDN{Inana}!
+?#tr.en: Beating (?) holy @fsux{balaŋ} and holy @fsux{lilis} drums for her,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet @vart[t2531.v2,t2531.v2]{@varn{1 ms. adds:} in (?) her grandeur, in (?) her greatness, in (?) her exalted dignity as she ascends radiantly at evening, } @varh[t2531.v3]{the eldest daughter of @wDN{Suen} } @vart[t2531.v4,t2531.v3]{@varn{some mss. have instead:} the great lady of heaven }, @wDN{Inana}!
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=D.36
 
@@ -246,10 +289,25 @@ D.44. ki-ru-gu₂ 3-kam-ma-am₃
 @div kirugu E
 
 E.45. saŋ-ur-saŋ-e-ne suh mu-na-an-dub-dub-bu-uš
+?#tr.en: 3rd @fsux{kirugu}.
 #lem: saŋursaŋ[cultic performer]; suh[crown]; dub[heap up]
 #etcsl: line-id=E.45
 
 E.46. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: Tightening their hairgrips for her, male prostitutes parade before her, holy @wDN{Inana}.
+?#tr.en: Their locks of hair at the back are adorned for her with coloured rags (?);
+?#tr.en: they parade before her, holy @wDN{Inana}. Clothed (?) in the leather (?) of divinity,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: The trustworthy @varh[t2531.v5]{man } @vart[t2531.v6,t2531.v5]{@varn{1 ms. has instead:} king } and the proud lady,
+?#tr.en: the doyenne of the great wise women, parade before her, holy @wDN{Inana}.
+?#tr.en: Those who are in charge (?) of beating (?) the soothing @fsux{balaŋ} drums parade before her, holy @wDN{Inana}.
+?#tr.en: Each girded with a sword belt,
+?#tr.en: the strength of battle,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: Grasping a spear,
+?#tr.en: the strength of battle,
+?#tr.en: in their hands,
+?#tr.en: they parade before her, holy @wDN{Inana}.
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=E.46
 
@@ -317,10 +375,20 @@ E.59. ki-ru-gu₂ 4-kam-ma-am₃
 @div kirugu F
 
 F.60. a₂ zid-da-bi tug₂ nitah₂ bi₂-in-mur₁₀
+?#tr.en: 4th @fsux{kirugu}.
 #lem: a[arm]; zid[right]; tug[textile]; nita[male]; mur[dress]
 #etcsl: line-id=F.60
 
 F.61. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: Dressed with men's clothing on the right side,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet the great lady of heaven, @wDN{Inana}!
+?#tr.en: Adorned (?) with women's clothing on the left side,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet the great lady of heaven, @wDN{Inana}!
+?#tr.en: Competing with skipping ropes of (?) coloured cords for her,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: I shall greet @varh[t2531.v7]{the eldest daughter of @wDN{Suen} } @vart[t2531.v8,t2531.v7]{@varn{1 ms. has instead:} the great lady of heaven }, @wDN{Inana}!
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=F.61
 
@@ -368,10 +436,23 @@ F.69. ki-ru-gu₂ 5-kam-ma-am₃
 @div kirugu G
 
 G.70. ŋuruš {ŋiš}rab₃ ŋar-ra mu-na-šir₃-šir₃-re-eš
+?#tr.en: 5th @fsux{kirugu}.
 #lem: ŋuruš[young adult male]; raba[clamp]; ŋar[put]; šir[song]
 #etcsl: line-id=G.70
 
 G.71. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: Young men wearing neck-stocks sing to her and parade before her, holy @wDN{Inana}.
+?#tr.en: Young women, @fsux{šugia} priestesses,
+?#tr.en: coiffured,
+?#tr.en: parade before her, holy @wDN{Inana}.
+?#tr.en: …… sword and dagger for her,
+?#tr.en: they parade before her, holy @wDN{Inana}.
+?#tr.en: With daggers in their hands,
+?#tr.en: …… @fsux{kurŋara} priests parade before her, holy @wDN{Inana}.
+?#tr.en: Those who cover their swords with gore spatter blood as they parade before her, holy @wDN{Inana}.
+?#tr.en: Blood is poured on the dais standing in the @fsux{guena} hall,
+?#tr.en: as @fsux{tigi},
+?#tr.en: @fsux{šem} and @fsux{ala} drums are made to sound loudly.
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=G.71
 
@@ -420,6 +501,12 @@ G.82. nu-u₈-gig an sikil-la dili-ni nam-mi-in-gub
 #etcsl: line-id=G.82
 
 G.83. kur-kur saŋ gig₂ uŋ₃ (1:udu-gin₇:1) lu-a
+?#tr.en: The Mistress stands alone in the pure heavens.
+?#tr.en: From the midst of heaven my lady looks with joy at all the lands and the black headed people,
+?#tr.en: who are as numerous as @varh[t2531.v9]{sheep } @vart[t2531.v10,t2531.v9]{@varn{1 ms. has instead:} ewes }. @vart[t2531.v11,t2531.v11]{@varn{some mss. add the line:} They parade before her, holy @wDN{Inana}. } I praise the lady of the evening,
+?#tr.en: @wDN{Inana}, the august one, the young lady, @wDN{Inana}.
+?#tr.en: @varh[t2531.v12]{The lady of the evening reaches the borders of heaven!
+?#tr.en: } @vart[t2531.v13,t2531.v12]{@varn{1 ms. has instead:} The lady exalted as high as the heaven, @wDN{Inana}, is august! }
 #lem: kur[mountain(s)]; saŋ[head]; giggig[black]; uŋ[people]; udu[sheep]; lu[abundant]
 #etcsl: line-id=G.83
 
@@ -466,10 +553,28 @@ G.88. ki-ru-gu₂ 6-kam-ma-[am₃]
 @div kirugu H
 
 H.89. an-usan-na mul dalla# [e₃-a] {[mul]}[dili-bad] ud gal an kug-[ge si-a]
+?#tr.en: 6th @fsux{kirugu}.
 #lem: usan[evening]; mul[star]; dalla[(to be) bright]; e[leave]; Dilibad[1]CN; ud[sun]; gal[big]; an[sky]; kug[pure]; si[fill]
 #etcsl: line-id=H.89
 
 H.90. nin an-usan-na ur-saŋ-ŋa₂ an-ta nam-ta-[an-e₃]
+?#tr.en: When at evening, the radiant star, the Venus star,
+?#tr.en: the great light which fills the holy heavens, the lady of the evening,
+?#tr.en: ascends above like a warrior,
+?#tr.en: the people in all the lands lift their gaze to her.
+?#tr.en: The men purify themselves, the woman cleanse themselves. The oxen toss (?) their heads in their yoke.
+?#tr.en: The sheep stir up dust in their pens. Because of my lady,
+?#tr.en: the numerous beasts of @wDN{Šakkan}, the creatures of the plain,
+?#tr.en: the four-legged animals @varh[t2531.v14]{under the broad heavens } @vart[t2531.v15,t2531.v14]{@varn{1 ms. has instead:} of the broad high (?) plain }, the orchards and gardens,
+?#tr.en: the plots, the green reedbeds, the fish of the deep,
+?#tr.en: the birds of heaven,
+?#tr.en: all hasten to their sleeping places.
+?#tr.en: All the living creatures and the numerous people bend the knee before her.
+?#tr.en: When called for (?) by my lady,
+?#tr.en: the matriarchs plentifully provide food and drink,
+?#tr.en: and my lady refreshes herself in her Land.
+?#tr.en: There is play in the Land, which is made festive.
+?#tr.en: The young men take pleasure in their spouses.
 #lem: nin[lady]; usan[evening]; ursaŋ[warrior]; an[sky]; e[leave]
 #etcsl: line-id=H.90
 
@@ -541,6 +646,11 @@ H.106. nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
 #etcsl: line-id=H.106
 
 H.107. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: From the midst of heaven my lady looks down with joy. They parade before her,
+?#tr.en: holy @wDN{Inana}. The lady of the evening,
+?#tr.en: @wDN{Inana}, is august;
+?#tr.en: I praise the young lady, @wDN{Inana}.
+?#tr.en: The lady of the evening, her grandeur reaches the borders of heaven!
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=H.107
 
@@ -569,10 +679,21 @@ H.111. ki-ru-gu₂ 7-kam-ma-am₃
 @div kirugu I
 
 I.112. an-zib₂-ba zag hi-li an-na me-te an daŋal-la
+?#tr.en: 7th @fsux{kirugu}.
 #lem: anzib[an epithet of Inana]; sag[good]; hili[attractiveness]; an[sky]; mete[appropriate thing]; an[sky]; daŋal[wide]
 #etcsl: line-id=I.112
 
 I.113. ŋi₆ u₃-na iti₆-gin₇ mu-un-e₃
+?#tr.en: At night the skilled and beautiful one (?), the joy of @wDN{An},
+?#tr.en: the ornament of broad heaven,
+?#tr.en: appears like moonlight;
+?#tr.en: in the heat of the noon she appears like sunlight.
+?#tr.en: After the storehouses of the Land have been filled with fine food,
+?#tr.en: and all the lands and the black-headed people have assembled,
+?#tr.en: @vart[t2531.v16,t2531.v16]{@varn{1 ms. adds:} and the storehouses of the Land have been made full (?), } those who sleep on the roofs and those who sleep by the walls step up before her with …… and bring her their cases.
+?#tr.en: Then she makes her orders known, and identifies the evil.
+?#tr.en: She judges the evil as evil and destroys the wicked.
+?#tr.en: She looks with favour on the just and determines a good fate for them.
 #lem: ŋi[night]; ŋiʾunak[night]; itud[moon]; e[leave]
 #etcsl: line-id=I.113
 
@@ -621,6 +742,11 @@ I.122. nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
 #etcsl: line-id=I.122
 
 I.123. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: From the midst of heaven my lady looks down with joy. They parade before her,
+?#tr.en: holy @wDN{Inana}. The lady exalted as high as the heaven,
+?#tr.en: @wDN{Inana}, is august!
+?#tr.en: I praise the young woman, @wDN{Inana}.
+?#tr.en: The lady exalted as high as the heaven, her grandeur reaches the borders of heaven.
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=I.123
 
@@ -649,10 +775,15 @@ I.127. ki-ru-gu₂ 8-kam-ma-am₃
 @div ŋišgiŋal J
 
 J.128. nin sag₉ hi-li an-na ur-saŋ-am₃ an-ta nam-ta-an-e₃
+?#tr.en: 8th @fsux{kirugu}.
 #lem: nin[lady]; sag[goodness]; hili[attractiveness]; An[1]DN; ursaŋ[warrior]; an[sky]; e[leave]
 #etcsl: line-id=J.128
 
 J.129. zag-si an-na-ka he-du₇ am₃-mi-in-gur₃-ru
+?#tr.en: The beautiful lady, the joy of @wDN{An}, has ascended above like a warrior.
+?#tr.en: She carries there what befits the …… of heaven.
+?#tr.en: She takes counsel with @wDN{An} in his lofty place.
+?#tr.en: Among @varh[t2531.v17]{youths and heroes } @vart[t2531.v18,t2531.v17]{@varn{some mss. have instead:} heroic youths }, may she be alone chosen!
 #lem: X; an[sky]; du[perfect]; gur[lift]
 #etcsl: line-id=J.129
 
@@ -680,12 +811,14 @@ J.132. ŋiš-gi₄-ŋal₂-bi-im
 @div šagbatuku K
 
 K.133. kalag-ga-am₃ nir-ŋal₂-am₃ buluŋ₃-ŋa₂-am₃ mah gal-la-am₃ nam-šul-am₃ dirig-ga-am₃
+?#tr.en: @fsux{Ŋišgiŋal}.
 #lem: kalag[strong]; nirŋal[authoritative]; buluŋ[grow]; mah[great]; gal[big]; namšul[manhood]; dirig[make more than]
 #etcsl: line-id=K.133
 
 @div trailer 
 
 K.134. šag₄-ba-tuku-am₃
+?#tr.en: She is mighty, she is respected, she exalted, she is august and great, she is surpassing in youthfulness.
 #lem: šagbatuku[liturgical rubric]
 #etcsl: line-id=K.134
 
@@ -696,10 +829,18 @@ K.134. šag₄-ba-tuku-am₃
 @div kirugu L
 
 L.135. nin u₆ di kalam-ma mul dili {mul}dili-bad
+?#tr.en: @fsux{Šagbatuku}.
 #lem: nin[lady]; u[admiration]; di[speak]; kalam[the Land (of Sumer)]; mul[star]; dili[single]; Dilibad[1]CN
 #etcsl: line-id=L.135
 
 L.136. nin an-še₃ la₂-a ur-saŋ-ŋa₂ an-ta nam-ta-an-e₃
+?#tr.en: As the lady, admired by the Land, the lone star,
+?#tr.en: the Venus star, the lady elevated as high as the heaven,
+?#tr.en: ascends above like a warrior, all the lands tremble before her …….
+?#tr.en: The faithful black-headed people bow to her.
+?#tr.en: The young man travelling on the road directs himself by her.
+?#tr.en: The oxen raise their heads in their yoke to her.
+?#tr.en: @vart[t2531.v19,t2531.v19]{@varn{2 mss. add:} The melody of the song of those tending the cattle resounds …… on the plain. The farmer …… the cattle …… their yoke in the Land. } With her the storehouses of the Land prosper.
 #lem: nin[lady]; an[sky]; la[hang]; ursaŋ[warrior]; an[sky]; e[leave]
 #etcsl: line-id=L.136
 
@@ -744,6 +885,14 @@ L.142. kug {d}inana-ra ŋiri₃ mu-un-ši-ib-ul₄-e
 #etcsl: line-id=L.142
 
 L.143. nin-ŋu₁₀ an-šag₄-ta dug₃-ge-eš hu-mu-un-ŋa₂-ŋa₂
+?#tr.en: Everybody hastens to holy @wDN{Inana}.
+?#tr.en: For my lady in the midst of heaven the best of everything is prepared (?).
+?#tr.en: In the pure places of the plain, at its good places,
+?#tr.en: on the roofs, on the rooftops, the rooftops of the dwellings (?),
+?#tr.en: in the sanctuaries (?) of mankind,
+?#tr.en: incense offerings like a forest of aromatic cedars are transmitted to her.
+?#tr.en: They sacrifice @fsux{alum} sheep, long-haired sheep, and fattened sheep for her.
+?#tr.en: They purify the earth for the Mistress, they @varh[t2531.v20]{carry out purification rites for her } @vart[t2531.v21,t2531.v20]{@varn{some mss. have instead:} celebrate her in songs }.
 #lem: nin[lady]; anšag[the interior of heaven]; dug[good]; ŋar[put]
 #etcsl: line-id=L.143
 
@@ -779,6 +928,19 @@ L.150. i₃-nun zu₂-lum ga-ar₃ niŋ₂-sa-ha 7-bi
 #etcsl: line-id=L.150
 
 L.151. {ŋiš}banšur kalam-ma-ka nesaŋ mu-na-ab-si
+?#tr.en: They fill the tables of the Land with ghee,
+?#tr.en: dates, cheese,
+?#tr.en: and seven sorts of fruits as first-fruit offerings for her.
+?#tr.en: They pour dark beer for her, they pour light beer for her.
+?#tr.en: Dark beer, emmer beer,
+?#tr.en: and emmer beer for my lady bubble in the @fsux{šagub} jar and the @fsux{lamsari} vat for her.
+?#tr.en: From pastes of honey mixed with ghee @vart[t2531.v22,t2531.v22]{@varn{some mss. add the line:} From …… mixed with ghee }, they bake date-syrup cakes for her.
+?#tr.en: They pour out early-morning beer, flour, flour in honey,
+?#tr.en: honey,
+?#tr.en: and wine of sunrise for her.
+?#tr.en: The personal gods of the people also attend upon her with food and drink.
+?#tr.en: @varh[t2531.v23]{They provide the Mistress with food in the holy place, the pure place.
+?#tr.en: } @vart[t2531.v24,t2531.v23]{@varn{some mss. have instead:} They purify the earth for the Mistress, they celebrate her in songs. }
 #lem: banšur[table]; kalam[the Land (of Sumer)]; nesaŋ[first-fruit offering]; si[fill]
 #etcsl: line-id=L.151
 
@@ -842,6 +1004,11 @@ L.163. nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
 #etcsl: line-id=L.163
 
 L.164. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: From the midst of heaven my lady looks down with joy.
+?#tr.en: They parade before her, holy @wDN{Inana}.
+?#tr.en: @wDN{Inana}, the lady exalted as high as the heaven is august!
+?#tr.en: I praise the young lady, @wDN{Inana}.
+?#tr.en: The lady exalted as high as the heaven, her grandeur reaches the borders of heaven!
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=L.164
 
@@ -870,10 +1037,23 @@ L.168. ki-ru-gu₂ 9-kam-ma-am₃
 @div kirugu M
 
 M.169. e₂-gal e₂ na degₓ(RI) kalam-ma-ka {ŋiš}rab₃ kur-kur-ra-kam
+?#tr.en: 9th @fsux{kirugu}.
 #lem: egal[palace]; e[house]; na[cvne]; deg[gather up]; kalam[the Land (of Sumer)]; raba[clamp]; kur[mountain(s)]
 #etcsl: line-id=M.169
 
 M.170. e₂ {d}id₂-lu₂-ru-gu₂ saŋ gig₂-ga uŋ₃ gu₂ si-a-ba
+?#tr.en: When the black-headed people have assembled in the palace, the house that advises the Land,
+?#tr.en: the neck-stock of all the foreign countries,
+?#tr.en: the house of the river of ordeal,
+?#tr.en: a dais is set up for @wDN{Ninegala}.
+?#tr.en: The divine king stays there with her.
+?#tr.en: At the New Year,
+?#tr.en: on the day of the rites,
+?#tr.en: @varh[t2531.v25]{in order for her to determine the fate of all the countries } @vart[t2531.v26,t2531.v25]{@varn{1 ms. has instead:} in order for the life of all the countries to be attended to }, so that during the day (?) the faithful servants can be inspected,
+?#tr.en: so that on the day of the disappearance of the moon the divine powers can be perfected,
+?#tr.en: a bed is set up for my lady.
+?#tr.en: Esparto grass is purified with cedar perfume and arranged on that bed for my lady,
+?#tr.en: and a coverlet is smoothed out on the top (?) of it.
 #lem: e[house]; Idlurugu[1]DN; saŋ[head]; giggig[black]; uŋ[people]; gu[neck]; si[fill]
 #etcsl: line-id=M.170
 
@@ -925,6 +1105,12 @@ M.181. {tug₂}niŋ₂-barag₂ šag₄ hul₂-la ki-nu₂ dug₃-dug₃-ge-da
 #etcsl: line-id=M.181
 
 M.182. nin-ŋu₁₀ ur₂ kug-ge a mi-ni-in-tu₅-tu₅
+?#tr.en: In order to find sweetness in the bed on the joyous coverlet,
+?#tr.en: my lady bathes her holy thighs.
+?#tr.en: She bathes them for the thighs of the king;
+?#tr.en: @varh[t2531.v27]{she bathes them for } @vart[t2531.v28,t2531.v27]{@varn{some mss. have instead:} with head held high she goes to } the thighs of @wRN{Iddin-@wDN{Dagan}}.
+?#tr.en: Holy @wDN{Inana} rubs herself with soap;
+?#tr.en: she sprinkles oil and cedar essence on the ground.
 #lem: nin[lady]; ur[loin]; kug[pure]; a[water]; tu[cvve]
 #etcsl: line-id=M.182
 
@@ -955,6 +1141,14 @@ M.187. lugal ur₂ kug-še₃ saŋ il₂-la mu-un-ŋen
 
 #etcsl#ms some mss. add the line:
 M.187A. ur₂ {d}i-din-{d}da-gan-še₃ saŋ il₂-la mu-un-ŋen
+?#tr.en: The king goes to her holy thighs with head held high,
+?#tr.en: @vart[t2531.v29,t2531.v29]{@varn{some mss. add:} she goes to the thighs of @wRN{Iddin-@wDN{Dagan}}, } he goes to the thighs of @wDN{Inana} with head held high.
+?#tr.en: @wDN{Ama-ušumgal-ana} lies down beside her and @varh[t2531.v30]{caresses her holy thighs } @vart[t2531.v31,t2531.v30]{@varn{some mss. have instead:} (says:) @q[Ama-ucumgal-ana,Inana]{“O my holy thighs! O my holy @wDN{Inana}!”} }.
+?#tr.en: After the lady has made him rejoice with her holy thighs on the bed,
+?#tr.en: after holy @wDN{Inana} has made him rejoice with her holy thighs on the bed,
+?#tr.en: she relaxes (?) with him on her bed:
+?#tr.en: @q[Inana,Iddin-Dagan]{“@wRN{Iddin-@wDN{Dagan}},
+?#tr.en: you are indeed my beloved!”}
 #lem: ur[loin]; Iddindagan[1]RN; saŋ[head]; il[raise]; ŋen[go]
 #etcsl: line-id=M.187A
 
@@ -995,6 +1189,14 @@ M.195. ne-saŋ sig₁₀-ga-še₃ šu-luh ŋar-ŋar-ra-še₃
 #etcsl: line-id=M.195
 
 M.196. na-izi sig₉-ga-še₃ na li mu₂-a-še₃
+?#tr.en: To pour libations, to carry out purification rites,
+?#tr.en: to heap up incense offerings, to burn juniper,
+?#tr.en: to set out food offerings,
+?#tr.en: to set out offering-bowls,
+?#tr.en: he goes into her @wTN{Egal-maḫ}.
+?#tr.en: She embraces her beloved spouse,
+?#tr.en: holy @wDN{Inana} embraces him.
+?#tr.en: She shines like daylight on @varh[t2531.v32]{the great throne dais } @vart[t2531.v33,t2531.v32]{@varn{1 ms. has instead:} the throne at one side (?) } and makes the king position himself next (?) to her like the sun.
 #lem: nadeg[incense]; sig[put into]; na[cvne]; li[juniper]; mu[grow]
 #etcsl: line-id=M.196
 
@@ -1030,6 +1232,20 @@ M.203. he₂-ŋal₂ giri₁₇-zal-e nam-he₂-a igi-ni-še₃ si im-sa₂
 #etcsl: line-id=M.203
 
 M.204. ŋišbun niŋ₂ dug₃-ga mu-un-na-an-ni-ŋal₂
+?#tr.en: Abundance and celebration are prepared before her in plenty.
+?#tr.en: He arranges a rich banquet for her. The black-headed people line up before her.
+?#tr.en: With instruments loud enough to drown out the south wind-storm,
+?#tr.en: with sweet sounding @fsux{alŋar} instruments, the glory of the palace,
+?#tr.en: and with harps,
+?#tr.en: the source of joy for mankind,
+?#tr.en: musicians perform songs which delight her heart.
+?#tr.en: The king sees to what is eaten and drunk,
+?#tr.en: @wDN{Ama-ušumgal-ana} sees to what is eaten and drunk.
+?#tr.en: The palace is in festive mood, the king is joyous.
+?#tr.en: The people spend the day amid plenteousness.
+?#tr.en: @wDN{Ama-ušumgal-ana} stands in great joy.
+?#tr.en: May his days be long on the splendid throne!
+?#tr.en: He proudly (?) occupies the royal dais.
 #lem: ŋešbun[(cultic) meal]; niŋ[thing]; dug[good]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=M.204
 
@@ -1086,6 +1302,12 @@ M.217. nin-ŋu₁₀ za₃-mi₂ an ki-ke₄-ne za₃-mi₂ ma-ni-in-dug₄
 #etcsl: line-id=M.217
 
 M.218. nu-u₈-gig an ki-da tud-da-me-en
+?#tr.en: They praise my lady on my behalf (?) with the hymns of heaven and earth.
+?#tr.en: @q[unknown,Inana]{“You are the Mistress born together with heaven and earth.”}
+?#tr.en: In the holy place, the pure place, they celebrate the Mistress in songs:
+?#tr.en: @q[unknown,Inana]{“Joy of the black-headed people, ornament of the assembly,
+?#tr.en: @wDN{Inana}, eldest daughter of @wDN{Suen},
+?#tr.en: lady of the evening, your praise is good.”}
 #lem: nugig[priestess]; an[sky]; ki[place]; utud[give birth (to)]
 #etcsl: line-id=M.218
 
@@ -1110,6 +1332,10 @@ M.223. nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
 #etcsl: line-id=M.223
 
 M.224. kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+?#tr.en: From the midst of heaven my lady looks down with joy.
+?#tr.en: They parade before her, holy @wDN{Inana}.
+?#tr.en: @varh[t2531.v34]{@wDN{Inana}, the lady elevated as high as the heavens, is august!
+?#tr.en: have instead:} The lady of the evening, her grandeur reaches the borders of heaven! }
 #lem: kug[purify]; Inanak[1]DN; igi[eye]; dib[pass]
 #etcsl: line-id=M.224
 
@@ -1133,10 +1359,13 @@ M.226. <ki-ru-gu₂ 10-kam-ma-am₃>
 @div ŋišgiŋal N
 
 N.227. kalag-ga-am₃ nir-ŋal₂-am₃ buluŋ₃-ŋa₂-am₃ mah gal-am₃
+?#tr.en: 10th @fsux{kirugu}.
 #lem: kalag[strong]; nirŋal[authoritative]; buluŋ[grow]; mah[great]; gal[big]
 #etcsl: line-id=N.227
 
 N.228. nam-šul-la dirig-ga-am₃
+?#tr.en: She is mighty, she is respected, she is exalted,
+?#tr.en: she is august and great, she is surpassing in youthfulness!
 #lem: namšul[manhood]; dirig[make more than]
 #etcsl: line-id=N.228
 

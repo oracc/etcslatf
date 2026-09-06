@@ -11,6 +11,8 @@
 @div proverb 12.a1
 
 A.12.a1.1. lugal [...]
+?$ (@note{= Alster 1997 12 Sec. B 1} ) 
+?$ (@gap{4 lines fragmentary}) 
 #lem: lugal[king]; X
 #etcsl: line-id=A.12.a1.1
 
@@ -39,6 +41,8 @@ A.12.a2.5. lugal-e SAR igi silaŋ-ŋe₂₆ [...] X
 #etcsl#eq = Alster 1997 12 Sec. B 2
 
 A.12.a2.6. nu-me-X nu-gu₇-e-[še]
+?#tr.en: @note{= Alster 1997 12 Sec. B 2} The master
+?#tr.en: …… kneading dough …… does not eat.
 #lem: me[be]; gu[eat]
 #etcsl: line-id=A.12.a2.6
 
@@ -57,12 +61,15 @@ A.12.a3.7. lugal-e X [...] X arad-da-ni#
 @div proverb 12.a4
 
 A.12.a4.8. lugal-e mu-un-zu#
+?#tr.en: @note{= Alster 1997 12 Sec. B 3} The master …… his servant …….
 #lem: lugal[king]; zu[know]
 #etcsl: line-id=A.12.a4.8
 
 #etcsl#eq = Alster 1997 12 Sec. B 4
 
 A.12.a4.9. aŋrig-e nu-mu-un-zu#
+?#tr.en: @note{= Alster 1997 12 Sec. B 4} The master knows.
+?#tr.en: The steward does not know.
 #lem: agrig[steward]; zu[know]
 #etcsl: line-id=A.12.a4.9
 
@@ -81,12 +88,15 @@ A.12.a5.10. lugal-e da ha-ra-nu₂# u₃ nin-e muš₃-me-zu he₂-eb-ra
 @div proverb 12.a6
 
 A.12.a6.11. lugal e₂-e-ke₄ DIM₂-zu
+?#tr.en: @note{= Alster 1997 12 Sec. B 5} May the master sleep at your side, and may the mistress slap your face.
 #lem: lugal[king]; e[house]; X
 #etcsl: line-id=A.12.a6.11
 
 #etcsl#eq = Alster 1997 12 Sec. B 6
 
 A.12.a6.12. DIM₂-e {ŋiš}rab₃-am₃
+?#tr.en: @note{= Alster 1997 12 Sec. B 6} The lord of the house, your ……;
+?#tr.en: ……, a restraint.
 #lem: X; raba[clamp]
 #etcsl: line-id=A.12.a6.12
 
@@ -105,6 +115,7 @@ A.12.a7.13. lugal e₂-e u₃ nin e₂-e-ke₄ {ŋiš}za-na mi-ni-ib-tag-ge-ne
 @div proverb 12.a8
 
 A.12.a8.14. esaŋ₂-e šu bi₂-ib-degₓ(RI)-degₓ(RI)
+?#tr.en: @note{= Alster 1997 12 Sec. B 7} The lord and lady of the house touch the figurine.
 #lem: esaŋ[grain-store]; šu[hand]; deg[gather up]
 #etcsl: line-id=A.12.a8.14
 
@@ -115,12 +126,15 @@ A.12.a8.14. esaŋ₂-e šu bi₂-ib-degₓ(RI)-degₓ(RI)
 @div proverb 12.a9
 
 A.12.a9.15. niŋ₂ e₃ min₃-na-ne-ne-ka
+?#tr.en: @note{= Alster 1997 12 Sec. B 8} The granary collects.
 #lem: niŋ[thing]; e[leave]; n
 #etcsl: line-id=A.12.a9.15
 
 #etcsl#eq = Alster 1997 12 Sec. B 9
 
 A.12.a9.16. ŋe₂₆#-e in-ga-me-en-na-e-še
+?#tr.en: @note{= Alster 1997 12 Sec. B 9} Outgoings are a matter for both,
+?#tr.en: and now I also am one of them.
 #lem: ŋaʾe[I]; e[speak]
 #etcsl: line-id=A.12.a9.16
 

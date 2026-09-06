@@ -9,20 +9,24 @@
 @div barsud A
 
 A.1. ur-saŋ ul gal-le-eš nir gaba#-ŋal₂ zag piriŋ ul sig₇-ga
+#tr.en: Ancient warrior, greatly respected and forceful, with the strength of a full-grown lion!
 #lem: ursaŋ[warrior]; ul[distant time]; gal[big]; nir[lordly]; gabaŋal[forceful]; zag[side]; piriŋ[lion]; ul[bud]; sissig[green-yellow]
 #etcsl: line-id=A.1
 
 #etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 33 (?)
 
 A.2. {d}nin-urta X mar#-uru₅ ug gal šen-šen-na ru-ru-gu₂
+#tr.en: @wDN{Ninurta}, …… flood, great lion, fierce opponent in battle!
 #lem: Ninurtak[1]DN; X; marru[stormwind]; ug[lion]; gal[big]; šen[battle]; rugu[withstand]
 #etcsl: line-id=A.2
 
 A.3. a₂-ŋal₂ uŋ₃ erim₂ X RA# SU %e uru₂ %s gul-lu a₂-dam sahar-re-eš gi₄
+#tr.en: Mighty one, who …… the enemy peoples, destroyer of cities, who turns the settlements into dust!
 #lem: aŋal[strong]; uŋ[people]; erim[enemy]; X; X; X; uru[city]; gul[destroy]; adam[habitation]; sahar[soil]; gi[turn]
 #etcsl: line-id=A.3
 
 A.4. {d}nin-urta am gal gud-si-AŠ bad₃ gal |ŠU.KAD₄|-|ŠU.KAD₄|-e
+#tr.en: @wDN{Ninurta}, great wild bull, a battering ram who …… great walls!
 #lem: Ninurtak[1]DN; am[wild bull]; gal[big]; gud.si.AŠ[battering ram]; bad[wall]; gal[big]; X
 
 #etcsl: line-id=A.4
@@ -30,6 +34,7 @@ A.4. {d}nin-urta am gal gud-si-AŠ bad₃ gal |ŠU.KAD₄|-|ŠU.KAD₄|-e
 @div trailer 
 
 A.5. bar-sud-am₃
+#tr.en: @fsux{Barsud}.
 #lem: barsud[musical notation]
 #etcsl: line-id=A.5
 
@@ -40,14 +45,23 @@ A.5. bar-sud-am₃
 @div šagbatuku B
 
 B.6. a-ma-ru ki-bal-še₃ hu-luh-ha gaba-šu-ŋar nu-tuku
+#tr.en: A flood which frightens the rebel lands, without rival! @wDN{Ninurta},
 #lem: amaru[flood]; kibala[rebel land]; huluh[frightened]; gabašuŋar[rival]; tuku[acquire]
 #etcsl: line-id=B.6
 
 B.7. {d}nin-urta i-lim u₅ (1:su niŋ₂-ŋir₂ ud ŋar A MUŠ₃# [...]:1)
+#tr.en: deathly hush, @varh[t2444.v1]{…… bolt of lightning (?),
 #lem: Ninurtak[1]DN; ilim[radiance]; u[ride]; su[flesh]; niŋŋir[lightning bolt]; ud[storm]; ŋar[put]; X; X; X
 #etcsl: line-id=B.7
 
 :7v.1.1: ($the other ms. has instead:$) su-lim gur₃-ru ud ŋar erim₂ X X
+?#tr.en: …… } @vart[t2444.v2,t2444.v1]{@varn{the other ms. has instead:} imbued with fearsomeness, ……, …… the enemy }. You have made the name of King @wRN{Šu-@wDN{Suen}} known among the widespread people.
+?#tr.en: When he directs big bulls and big sheep to the main courtyard of your @wTN{E-šu-me-ša},
+?#tr.en: the holy residence, the @wTN{Igi-šu-galam} in which the fates are determined,
+?#tr.en: may he greet (?) you from its holy royal offering place,
+?#tr.en: may @wRN{Šu-@wDN{Suen}} greet (?) you from there.
+?#tr.en: …… @wDN{Ninurta} …… long life …….
+?#tr.en: …… long life …… for @wRN{Šu-@wDN{Suen}}.
 #lem: sulim[awesome radiance]; gur[lift]; ud[storm]; ŋar[put]; erim[enemy]; X; X
 
 B.8. lugal {d}šu-{d}suen uŋ₃ daŋal-la mu-ni X-zu

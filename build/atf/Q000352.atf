@@ -10,6 +10,7 @@
 
 $ (unknown no. of lines missing)
 A.1. X [...]
+?$ (@gap{unknown no. of lines missing}) 
 #lem: X; X
 #etcsl: line-id=A.1
 
@@ -51,6 +52,10 @@ B.1. dug₄-ga-ni-ta {ŋiš}tukul-zu hul-a mu-ni-in-tag
 #etcsl: line-id=B.1
 
 B.2. me šu-ŋa₂ šu ba-ba-ŋu₁₀-ne me-bi abzu-še₃ ba-an-gi₄
+?#tr.en: @q[Anzud chick,Ninurta]{“At his command your weapon struck me evilly.
+?#tr.en: As I let the divine powers go out of my hand, these divine powers returned to the @fsux{abzu}.
+?#tr.en: As I let the divine plan go out of my hand, this divine plan returned to the @fsux{abzu}.
+?#tr.en: This tablet of destinies returned to the @fsux{abzu}. I was stripped of the divine powers.”}
 #lem: me[Being]; šu[hand]; šu[hand]; ba[allot]; me[Being]; abzu[(cosmic) underground water]; gi[turn]
 #etcsl: line-id=B.2
 
@@ -67,6 +72,10 @@ B.5. [inim amar] anzud#{mušen}-še₃ {d}nin-urta lul-aš ba-an-si
 #etcsl: line-id=B.5
 
 B.6. {[d]}[nin-men]-na-ke₄ a-nir im-ŋa₂-ŋa₂
+?#tr.en: @wDN{Ninurta} was stunned at these words of the Anzud chick. @wDN{Ninmena} gave out a wail: @q[Ninmena,Ninurta]{“And what about me?
+?#tr.en: These divine powers have not fallen into my hand.
+?#tr.en: I shall not exercise their authority.
+?#tr.en: I shall not live (?) like him in the shrine, in the @fsux{abzu}.”}
 #lem: Ninmenak[1]DN; anir[lament]; ŋar[put]
 #etcsl: line-id=B.6
 
@@ -83,10 +92,16 @@ B.9. a-a {d}en-ki inim mu#-[un-dug₄]-dug₄#-ga-a abzu-a ba-da-an-zu
 #etcsl: line-id=B.9
 
 B.10. ur-saŋ {d}nin-urta amar anzud{mušen}-de₃ šu-ni bi₂-in-ti
+?#tr.en: Father @wDN{Enki} in the @fsux{abzu} knew what had been said.
 #lem: ursaŋ[warrior]; Ninurtak[1]DN; amar[calf]; Anzud[1]DN; šu[hand]; teŋ[approach]
 #etcsl: line-id=B.10
 
 B.11. ki {d}en-ki-ka₃-še₃ abzu-še₃ im-ma-da-te#
+?#tr.en: The Anzud chick took the hero @wDN{Ninurta} by his hand and drew near with him to @wDN{Enki's} place,
+?#tr.en: the @fsux{abzu}.
+?#tr.en: The Anzud chick returned @wDN{Uta-ulu} to the @fsux{abzu}.
+?#tr.en: The lord was delighted with the hero,
+?#tr.en: Father @wDN{Enki} was delighted with the hero @wDN{Ninurta}.
 #lem: ki[place]; Enkik[1]DN; abzu[(cosmic) underground water]; teŋ[approach]
 #etcsl: line-id=B.11
 
@@ -107,6 +122,16 @@ B.15. en {d}nu-dim₂#-[mud]-e# mi₂# zid mu-un-i-i-de₃
 #etcsl: line-id=B.15
 
 B.16. ur-saŋ-e diŋir šeš-[zu-ne]-a diŋir na#-me ur₅-gin₇ nu-mu-un-ak-e
+?#tr.en: Lord @wDN{Nudimmud} honoured him duly: @q[Nudimmud,Ninurta]{“Hero,
+?#tr.en: no god among your brother gods could have acted so.
+?#tr.en: As for the bird which your mighty weapon captured,
+?#tr.en: from now to eternity you will keep your foot placed on its neck.
+?#tr.en: May the great gods give your heroic strength its due.
+?#tr.en: May your father @wDN{Enlil} do whatever you command.
+?#tr.en: May @wDN{Ninmena} not fashion your equal (?).
+?#tr.en: May no one be as revered as you and no god extend an upraised hand before you.
+?#tr.en: Monthly may your house (?) regularly receive tributes in the shrine, in the @fsux{abzu}.
+?#tr.en: May @wDN{An} (?) proclaim your name in the seat of honour.”}
 #lem: ursaŋ[warrior]; diŋir[deity]; šeš[brother]; diŋir[deity]; name[any]; ur[that]; ak[do]
 #etcsl: line-id=B.16
 
@@ -147,6 +172,12 @@ B.25. ur-saŋ nam-tar-ra-bi šag₄-bi nu-hul₂
 #etcsl: line-id=B.25
 
 B.26. ki-gub-ba-ni a-ŋi₆# i-im-ku₁₀-ku₁₀-ge i-sig₇-sig₇-ge
+?#tr.en: The hero secretly was not happy with these promises.
+?#tr.en: Where he stood, he darkened and yellowed like (?) a flood-storm (?).
+?#tr.en: He contemplated great deeds and inwardly he was rebellious.
+?#tr.en: He uttered a word which has no …….
+?#tr.en: The hero @wDN{Ninurta} set his sights on the whole world.
+?#tr.en: He told no one and inwardly did not …….
 #lem: kigub[station]; aŋi[wave]; kukkug[dark]; sissig[green-yellow]
 #etcsl: line-id=B.26
 
@@ -171,6 +202,8 @@ B.31. en gal {d}en-ki ki ni₂-te-na-ke₄ inim šag₄-bi ba-X-[zu]
 #etcsl: line-id=B.31
 
 B.32. eš₃-e abzu-a a-ŋi₆ mud i-im-tuku₄-tuku₄-e#
+?#tr.en: The great lord @wDN{Enki} intuitively grasped the substance of the plan.
+?#tr.en: In the shrine, in the @fsux{abzu} he stirred up a dark flood-storm.
 #lem: eš[shrine]; Eʾabzu[1]; aŋi[wave]; mud[blood]; tuku[rock]
 #etcsl: line-id=B.32
 
@@ -179,6 +212,9 @@ B.33. sukkal {d}isimudₓ(|PAB.NUN.ME.EZEN|)-de₃ e₂-e ŋiri₃ mu-un-ru-gu�
 #etcsl: line-id=B.33
 
 B.34. ur-saŋ {d}nin-urta ed₂-de₃ nu-mu-un-še-še
+?#tr.en: By the house the minister @wDN{Isimud} opposed @wDN{Ninurta}.
+?#tr.en: The hero @wDN{Ninurta} refused to come out and
+?#tr.en: raised his hand against the minister @wDN{Isimud}.
 #lem: ursaŋ[warrior]; Ninurtak[1]DN; e[leave]; šeg[agree]
 #etcsl: line-id=B.34
 
@@ -191,6 +227,17 @@ B.36. {d}en-ki-ke₄ im abzu-a ba-al-gu₇ ba-da-an-dim₂
 #etcsl: line-id=B.36
 
 B.37. ki sun₅-na kan₄ abzu-a ba-al-gu₇ ba-da-an-gub
+?#tr.en: Against @wDN{Ninurta}, @wDN{Enki} fashioned a turtle from the clay of the @fsux{abzu}.
+?#tr.en: Against him he stationed the turtle at an opening, at the gate of the @fsux{abzu}.
+?#tr.en: @wDN{Enki} talked to him near the place of the ambush and brought him to the place where the turtle was.
+?#tr.en: The turtle was able to grab @wDN{Ninurta's} tendon from behind. The hero @wDN{Ninurta} managed to turn back its feet.
+?#tr.en: @wDN{Enki},
+?#tr.en: as if perplexed, said, @q[Enki,self]{“What is this!”}
+?#tr.en: He had the turtle scrape the ground with its claws,
+?#tr.en: had it dig an evil pit.
+?#tr.en: The hero @wDN{Ninurta} fell into it with the turtle.
+?#tr.en: The hero did not know how to get out from …….
+?#tr.en: The turtle kept on gnawing his feet with its claws (?).
 #lem: ki[place]; sun[plural stem of kur⟦to enter⟧]; kan[gate]; abzu[(cosmic) underground water]; balgi[turtle]; gub[stand]
 #etcsl: line-id=B.37
 
@@ -235,6 +282,14 @@ B.47. en# gal# {d}en-[ki]-ke₄ [gu₃ mu-un]-na#-de₂-e
 #etcsl: line-id=B.47
 
 B.48. me X kur#-ta mu-ni-in-niŋin₂-niŋin₂ mu#-pad₃-de₃
+?#tr.en: The great lord @wDN{Enki} said to him: @q[Enki,Ninurta]{“From ……,
+?#tr.en: you who set your mind to kill me,
+?#tr.en: …… who makes big claims -- I cut down, I raise up.
+?#tr.en: You who set your sights on me like this -- what has your position seized for you, how ……?
+?#tr.en: Where has your strength fled?
+?#tr.en: Where is your heroism?
+?#tr.en: In the great mountains you caused destruction,
+?#tr.en: but how will you get out now?”}
 #lem: me[Being]; X; kur[mountain(s)]; niŋin[encircle]; pad[find]
 #etcsl: line-id=B.48
 
@@ -267,6 +322,13 @@ B.55. {d}nin-men-na-ke₄ inim-bi ba-da-an-pad₃
 #etcsl: line-id=B.55
 
 B.56. tug₂ bar-ra-na al#-bir₇#-re KAŠ₄ im-sar-[sar-re]
+?#tr.en: @wDN{Ninmena} learned of this situation.
+?#tr.en: She ripped the clothes on her body and she …….
+?#tr.en: @q[Ninmena,Enki]{“You my plant-eater @wDN{Enki}, who shall I send to you? Men will shake their heads in fear …….
+?#tr.en: Who shall I send to you? That name is not @wDN{Enki}. That name is Ugugu-that-does-not-pour (?).
+?#tr.en: You who are death which has no mercy,
+?#tr.en: who shall I send to you?”}
+?$ (@gap{unknown no. of lines missing}) 
 #lem: tug[textile]; bar[outside]; bir[shred]; X; sar[run]
 #etcsl: line-id=B.56
 

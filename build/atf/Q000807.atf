@@ -11,6 +11,7 @@
 @div proverb 14.1
 
 A.14.1.1. [šu gi₄-gi₄]-ra# šu he₂-en-na-gi₄
+#tr.en: @note{cf. @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. B l. 1}} Let the favour be repaid to him who repays a favour.
 #lem: šu[hand]; gi[turn]; šu[hand]; gi[turn]
 #etcsl: line-id=A.14.1.1
 
@@ -21,10 +22,13 @@ A.14.1.1. [šu gi₄-gi₄]-ra# šu he₂-en-na-gi₄
 @div proverb 14.2
 
 A.14.2.2. {[d]}[lum-ma] lu₂# (1:inim-ŋar sag₉-ga-ra:1) [sag₉]-ga# he₂-en-na-ŋal₂
+#tr.en: @note{cf. @xref[t.6.2.5,t625.h32]{6.2.5: NBC 8072}} May @wDN{Luma} grant prosperity to him @varh[t6114.v1]{who speaks well of others } @vart[t6114.v2,]{@note{1 ms. has instead:} who has good things }.
 #lem: Luma[1]DN; lu[person]; iŋar[oracular utterance]; sag[good]; sag[good]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=A.14.2.2
 
 :2v.1.1: ($1 ms. has instead:$) niŋ₂ sag₉-ga-ra
+?#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.c1]{6.1.16.c1}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 7-8}} The farmer lifts his gaze to you
+?#tr.en: @note{i.e. @wDN{Enlil}}: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: niŋ[thing]; sag[good]
 
 #etcsl#cf cf. 6.2.5: NBC 8072
@@ -54,6 +58,8 @@ A.14.4.5. [igi sipad-tur]-e-<<ne>> mu-e-ši-in-il₂-la
 #etcsl#cf cf. 6.1.15.b1, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10
 
 A.14.4.6. {[d]}[en-lil₂]-le iri nam ku₅-ra₂-ni [ha]-ba-ši-ib₂-il₂-la
+?#tr.en: @note{cf. @xref[t.6.1.15,t.6.1.15.b1]{6.1.15.b1}, @xref[t.6.1.16,t.6.1.16.c2]{6.1.16.c2}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 9-10}} The herdsman lifts his gaze to you:
+?#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=A.14.4.6
 
@@ -68,6 +74,8 @@ A.14.5.7. [igi bahar₂]-e mu-e-ši-in-il₂-la
 #etcsl#cf cf. 6.1.15.b2, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12
 
 A.14.5.8. {[d]}[en-lil₂]-le iri nam ku₅-ra₂-ni [ha]-ba-ši-ib₂-il₂-la
+?#tr.en: @note{cf. @xref[t.6.1.15,t.6.1.15.b2]{6.1.15.b2}, @xref[t.6.1.16,t.6.1.16.c3]{6.1.16.c3}, @xref[t.6.2.5,]{6.2.5: UM 29-16-519 Seg. A ll. 11-12}} The potter lifts his gaze to you:
+?#tr.en: @q{“May @wDN{Enlil} look upon the city that he cursed.”}
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=A.14.5.8
 

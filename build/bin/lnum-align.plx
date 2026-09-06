@@ -106,11 +106,13 @@ while ($ln <= $ln_top) {
 		++$lb; # unless $frag > 0;
 	    } else {
 		lnum_log("EID/\$ mismatch: $lnn vs $lbc\n");
-		resync();
-		goto resync;
+		goto resync
+		    if resync();
 	    }
 	} else {
 	    lnum_log("EID/EID mismatch: $lnn != $lbn\n");
+	    goto resync
+		if resync();
 	    # lnn and lbn are both EIDs but they don't match; this is where resync could go
 	}
     } else { # lnn is a $-line
@@ -132,8 +134,8 @@ while ($ln <= $ln_top) {
 	} else {
 	    lnum_log("\$/EID mismatch $lnn != label $lbn\n");
 	    ++$lb;
-	    resync();
-	    goto resync;
+	    goto resync
+		if resync();
 	}
     }
     ++$ln;
@@ -211,21 +213,37 @@ sub print_tr {
 # paragraph start.
 sub resync {
     my $par_index = ${$label[$lb]}[2];
-    my $par_eid = $paras[$par_index+1]; # restart at the next para
-    my $off_ln = $ln;
-    my $off_lb = $lb;
-    my $off_ln_lnum = ${$lnums[$off_lb]}[1];
-    move_lb_to($par_eid);
-    move_ln_to($par_eid);
-    lnum_log("resync at lnum line# $off_ln_lnum at EID $par_eid\n");
-    if ($ln < $ln_top && $lb < $lb_top) {
-	while ($off_lb < $lb) {
-	    if (${$label[$off_lb]}[1]) {
-		push @tr, [ $off_ln_lnum, '?'.${$label[$off_lb]}[1] ];
-		++$off_lb;
+    if ($par_index < $#paras) {
+	my $par_eid = $paras[$par_index+1]; # restart at the next para
+	my $off_ln = $ln;
+	my $off_lb = $lb;
+	my $off_ln_lnum = ${$lnums[$off_ln]}[1];
+	move_lb_to($par_eid);
+	move_ln_to($par_eid);
+	lnum_log("resync at lnum line# $off_ln_lnum at EID $par_eid\n");
+	if ($ln < $ln_top && $lb < $lb_top) {
+	    while ($off_lb < $lb) {
+		if (${$label[$off_lb]}[1]) {
+		    push @tr, [ $off_ln_lnum, '?'.${$label[$off_lb]}[1] ];
+		    ++$off_lb;
+		}
 	    }
+	} else {
+	    warn "resync failed; giving up\n";
+	    ++$lb;
 	}
     } else {
-	die "resync failed; giving up\n";	
+	if ($lb < $lb_top) {
+	    while ($lb <= $lb_top) {
+		if (${$label[$lb]}[1]) {
+		    push @tr, [ ${$lnums[$ln]}[1], '?'.${$label[$lb]}[1] ];
+		    ++$lb;
+		}
+	    }
+	    $ln = $ln_top+1; # clear the EOF to ensure the processing loop exits
+	    $lb = $lb_top+1;
+	    return 0;
+	}
     }
+    return 0;
 }

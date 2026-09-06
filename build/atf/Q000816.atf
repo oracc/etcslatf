@@ -10,6 +10,8 @@ $ (unknown no. of lines missing)
 @div proverb 24.1
 
 24.1.1. [...] A MU# [...]
+?#tr.en: @note{cf. @xref[t.6.1.09,t.6.1.09.a12]{6.1.09.a12-13}, @xref[t.6.1.19,t.6.1.19.b1]{6.1.19.b1-2}, @xref[t.6.1.21,t.6.1.21.b4]{6.1.21.b4-5}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 1-4}} When a fattened pig is about to be slaughtered, one says @q{“I must replace what I eat.”}
+?#tr.en: As the piglet snuffles around, it says @q{“I can no longer take pleasure in eating.”}
 #lem: X; X; X; X
 #etcsl: line-id=24.1.1
 
@@ -38,6 +40,8 @@ $ (unknown no. of lines missing)
 #etcsl#cf cf. 6.1.02.135, 6.1.19.b4
 
 24.3.5. e₂ gul-e kug-sig₁₇# [i₃-gul-e]
+?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.135]{6.1.02.135}, @xref[t.6.1.19,t.6.1.19.b4]{6.1.19.b4}} He who annihilates a house destroys silver.
+?#tr.en: He who destroys a house destroys gold.
 #lem: e[house]; gul[destroy]; kugsig[gold]; gul[destroy]
 #etcsl: line-id=24.3.5
 
@@ -52,6 +56,8 @@ $ (unknown no. of lines missing)
 #etcsl#cf cf. 6.1.09.a14, 6.1.19.b5
 
 24.4.7. %e u₃-mu-un-si# %s gam-[am₃ arad ug₅-ga-am₃]
+?#tr.en: @note{cf. @xref[t.6.1.09,t.6.1.09.a14]{6.1.09.a14}, @xref[t.6.1.19,t.6.1.19.b5]{6.1.19.b5}} The lord's wife kneels, the slave girl dies.
+?#tr.en: The lord kneels, the slave dies.
 #lem: umunsik[ruler]N; gurum[bend]; arad[slave]; ug[kill]
 #etcsl: line-id=24.4.7
 
@@ -70,10 +76,13 @@ $ (unknown no. of lines missing)
 @div proverb 24.6
 
 24.6.9. im-ba am₃-ŋa₂-ŋa₂# [...]
+?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.71]{6.1.03.71}, @xref[t.6.1.11,t.6.1.11.19]{6.1.11.19}, @xref[t.6.1.19,t.6.1.19.b6]{6.1.19.b6}} …… its hands …… to the edge of the desert.
 #lem: imba[deficit]; ŋar[put]; X
 #etcsl: line-id=24.6.9
 
 24.6.10. ba-ab-ak i₃-[...]
+?#tr.en: There will be losses …….
+?#tr.en: It will be done …….
 #lem: ak[do]; X
 #etcsl: line-id=24.6.10
 
@@ -92,12 +101,16 @@ $ (unknown no. of lines missing)
 @div proverb 24.8
 
 24.8.12. {kuš}ummud zi# [lu₂-kam] {kuš}e-sir₂ [igi lu₂-kam]
+?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.88]{6.1.03.88}, @xref[t.6.1.18,t.6.1.18.14]{6.1.18.14}} He who tosses his head succeeds in crossing the river.
 #lem: ummud[waterskin]; zi[life]; lu[person]; esir[sandal(s)]; igi[eye]; lu[person]
 #etcsl: line-id=24.8.12
 
 #etcsl#cf cf. 6.1.19.c7, 6.1.21.c1, 6.1.23.18
 
 24.8.13. dam dim₄-ma lu₂#-[kam] dumu-nitah# ŋissu lu₂#-[kam]
+?#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.c7]{6.1.19.c7}, @xref[t.6.1.21,t.6.1.21.c1]{6.1.21.c1}, @xref[t.6.1.23,t.6.1.23.18]{6.1.23.18}} A man's waterskin is his life. A man's sandals are his eyes.
+?#tr.en: A man's wife is his supervisor (?). A man's son is his protective shade.
+?#tr.en: A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.
 #lem: dam[spouse]; dim[check]; lu[person]; dumunita[son]; ŋissu[shade]; lu[person]
 #etcsl: line-id=24.8.13
 
@@ -120,6 +133,7 @@ $ (unknown no. of lines missing)
 @div proverb 24.10
 
 24.11.x. kaš %e ga-an-ze₂-eb-ba %s ušur!(UKUR₃) [nu]-mu#-un-kal-[e]
+?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.26]{6.1.03.26}, @xref[t.6.1.19,t.6.1.19.c2]{6.1.19.c2}} When the sun is setting outside so that you cannot see a hand in front of you, go inside!
 #lem: kaš[beer]; zeb[good]V/i; usar[(female) neighbor]; kal[rare]
 #etcsl: line-id=24.10.16
 

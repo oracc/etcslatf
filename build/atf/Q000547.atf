@@ -11,10 +11,17 @@
 @div segment A
 
 1.A.1. {m}puzur₄-šul-gi šagina# [...]
+#tr.en: Say to @wPN{Puzur-@wRN{Šulgi}}, the commander ……: this is what @wRN{Šulgi}, your lord, says:
 #lem: Puzuršulgir[1]PN; šakkanak[general]; X
 #etcsl: line-id=1.A.1
 
 1.A.2. u₃-na-a-[dug₄]
+?#tr.en: When I had …… the fortress @wGN{Igi-ḫursaŋa},
+?#tr.en: and @wDN{An} and @wDN{Enlil} had …… supreme rule over all the foreign lands and the widespread people,
+?#tr.en: the cities and the Land ……,
+?#tr.en: and the people of the widespread Land lay …….
+?$ (@gap{1 line fragmentary}) 
+?$ (@gap{unknown no. of lines missing}) 
 #lem: dug[speak]
 #etcsl: line-id=1.A.2
 
@@ -53,10 +60,16 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=1.B.1
 
 1.B.2. lu₂-saŋ-kiŋ₂-bi he₂-en-dab₅-a
+?#tr.en: They should mobilise all these cities.
 #lem: lusaŋkiŋ[master builder?]; dab[seize]
 #etcsl: line-id=1.B.2
 
 1.B.3. ki bad₃ šub-ba ki-bi-še₃ hu-mu-un-ŋar
+?#tr.en: When the master-builder (?) has taken up the work concerned,
+?#tr.en: he is to re-establish securely any place where the fortification has fallen into ruins.
+?#tr.en: Let him reinforce and also rebuild it.
+?#tr.en: The neglected work load is to be completed within one month;
+?#tr.en: I shall be questioning him about this work.
 #lem: ki[place]; bad[wall]; šub[fall]; ki[place]; ŋar[put]
 #etcsl: line-id=1.B.3
 
@@ -77,6 +90,11 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=1.B.7
 
 1.B.8. {m}lu₂#-{d}nanna ensi₂ ma-da zi-mu-dar-ra-ke₄
+?#tr.en: …… the @wEN{Tidnum} have returned (?) from their mountain land.
+?#tr.en: I am therefore setting over you @wPN{Lu-@wDN{Nanna}}, the ruler of the province of @wGN{Zimudar}, together with his troops (?).
+?#tr.en: There is for you …… together with his …….
+?#tr.en: There is not for him …….
+?$ (@gap{1 line fragmentary}) 
 #lem: Lunanna[1]PN; ensik[ruler]; mada[land]; Zimudar[1]GN
 #etcsl: line-id=1.B.8
 
@@ -98,6 +116,8 @@ $ (1 line fragmentary)
 #etcsl: line-id=1.B.13
 
 1.B.14. [...] al-til-la-aš
+?#tr.en: May ……
+?#tr.en: be sent when (?) …… is completed.
 #lem: X; til[complete]
 #etcsl: line-id=1.B.14
 
@@ -106,6 +126,7 @@ $ (1 line fragmentary)
 #etcsl: line-id=1.B.15
 
 1.B.16. erin₂-na-ni-ta u₃-mu-e-šub-bu-un-ze₂-en#
+?#tr.en: Should @wPN{Lu-@wDN{Nanna}}, the ruler of the province of @wGN{Zimudar}, together with his troops, abandon you, then you and @wPN{Aradŋu} @varh[t3108.v1]{should not turn aside } @vart[t3108.v2,t3108.v1]{@varn{1 ms. has instead:} should not feel constrained (?) }.
 #lem: erin[people]; šub[fall]
 #etcsl: line-id=1.B.16
 
@@ -121,6 +142,10 @@ $ (1 line fragmentary)
 #etcsl: line-id=1.B.18
 
 1.B.19. ŋi₆ an-bar₇ kiŋ₂ he₂#-en-du₃
+?#tr.en: The orders are rigorous: you should not neglect your work load.
+?#tr.en: They are to proceed with the building work by night and in the heat of noon.
+?#tr.en: You will not be sleeping during the night or in the heat of noon!
+?#tr.en: You should know this! It is urgent!
 #lem: ŋi[night]; anbar[mid-day]; kiŋ[work]; du[build]
 #etcsl: line-id=1.B.19
 
@@ -143,6 +168,8 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.1
 
 2.2. {m}{d}šul-gi lu₂-gal-zu₂ na-ap-pa-a
+?#tr.en: Say to @wPN{Puzur-@wDN{Numušda}}: this is what @wRN{Šulgi},
+?#tr.en: your lord, says:
 #lem: Šulgir[1]RN; lugal[king]; e[speak]
 #etcsl: line-id=2.2
 
@@ -151,6 +178,11 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.3
 
 2.4. kur!-kur-re uŋ₃ di-am-ga-al-la an-ne <<AN>> {d}en-lil₂-le mu-be mu-un-na-an-šu-um-ma-ta {{%akk KUR.MEŠ-ni ni-ši₂ ra-ap-ša₃-ti AN-nu u₃ {d}KUR.GAL ŠE₃ be-li id-di-nu-ni}}
+?#tr.en: When I had built the great fortress @wGN{Igi-ḫursaŋa} and @wDN{An} and @wDN{Enlil} had given to me the …… over all the foreign lands and the widespread people,
+?#tr.en: each of their towns and all their provinces,
+?#tr.en: and the people of the widespread Land lay in green meadows.
+?#tr.en: I made them rest (?) in spacious habitations,
+?#tr.en: in peaceful dwelling places.
 #lem: kur[mountain(s)]; uŋ[people]; daŋal[wide]; An[1]DN; Enlil[1]DN; mu[name]; šum[give]; L; L; L; L; L; L; L; L; L
 #etcsl: line-id=2.4
 
@@ -171,6 +203,12 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.8
 
 2.9. nitah₂{ta}-be ki šag₄-ga-an-ne e-du {{%akk NITAH₂-šu e-mi li-ib-bi-šu DU-ka}}
+?#tr.en: As for their men and women:
+?#tr.en: the man among them goes wherever he pleases,
+?#tr.en: and the woman with (?) spindle and hair clasp goes wherever she pleases.
+?#tr.en: After they had set up stock-pens in the vastness of the desert,
+?#tr.en: and established their tents and camps,
+?#tr.en: the workmen and the labourers spend the days in the fields.
 #lem: nita[male]; ki[place]; šag[heart]; du[go]; L; L; L; L
 #etcsl: line-id=2.9
 
@@ -195,6 +233,8 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.14
 
 2.15. ki#-im pa#-da!-be ak-ka-a-a ba-ad-be ne-er-ga-al li-bi-ib-tu-ul-le {{%akk ši-pir₂ BAD₃ e-pe-ša₃ e-te-el-li-iš lu-u₂ aq-bi}}
+?#tr.en: In order that the ruler and the general manager can build everything for you concerning the fortress, carry out this work on the fortress now.
+?#tr.en: The reputation of this fortress shall not be diminished.
 #lem: kiŋ[work]; bad[wall]; ak[do]; bad[wall]; nirŋal[authoritative]; tur[small]; L; L; L; L; L; L
 #etcsl: line-id=2.15
 
@@ -203,6 +243,10 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.16
 
 2.17. šak ku-še ša qa-al mu-un-na-an-du {{%akk aš-ta-al am-ta-li-ik-ma BAD₃ ša₃-tu DIM₂}}
+?#tr.en: By consulting omens and according to my heart's desire (?) I have benefited (?) the life of the troops and the province …….
+?#tr.en: Now the troops have arrived.
+?#tr.en: As for the work on this fortress,
+?#tr.en: the men are to proceed with the building work on it.
 #lem: šag[heart]; kušu[tired]; šag[heart]; ŋal[⟦be⟧ to be (there]; dug[speak]; L; L; L; L; L
 #etcsl: line-id=2.17
 
@@ -219,6 +263,9 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.20
 
 2.21. im-sik ša₃-ab-ra-a lu-u₂-be₂ he-eb-du-mu!# {{%akk IM.SIK u₃ ŠA₃.AB.RA.A ma-li BAD₃ ša₃-<tu> <DIM₂>}}
+?#tr.en: Now I have sent @wPN{Aradŋu} to you.
+?#tr.en: Let the ruler and the general manager bring these men.
+?#tr.en: They are to mobilise all the settlements.
 #lem: ensik[ruler]; šabra[chief administrator of a temple or other household]; lu[person]; tum[bring]; L; L; L; L; L; L; L
 #etcsl: line-id=2.21
 
@@ -231,6 +278,11 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.23
 
 2.24. ki-im ga-al šub-ba ki-be ha-pa-gi-gi {{%akk a-šar BAD₃ ŠUB.BA ŠE₃ aš-ri-šu li-tur}}
+?#tr.en: The master builder (?) has taken up his work.
+?#tr.en: Where substantial work has been neglected, let him return to it.
+?#tr.en: He is to reinforce and rebuild it.
+?#tr.en: He is to complete the fortress within one month.
+?#tr.en: Let him not question this assignment.
 #lem: kiŋ[work]; gal[big]; šub[fall]; ki[place]; gi[turn]; L; L; L; L; L; L
 #etcsl: line-id=2.24
 
@@ -251,6 +303,9 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.28
 
 2.29. zi-bi-is-še₃ he-em-da-am-du-ku {{%akk ṣi₂-di-is-su₂ na-ši₂-ku}}
+?#tr.en: May @wPN{Lu-@wDN{Nanna}}, the ruler of the province of @wGN{Zimudar}, go to join his troops.
+?#tr.en: He certainly has flour provisions (?) with him.
+?#tr.en: He should not be deterred by hardship.
 #lem: zidše[(travel) provisions]; tuku[acquire]; L; L
 #etcsl: line-id=2.29
 
@@ -263,10 +318,16 @@ $ (1 line fragmentary)
 #etcsl: line-id=2.31
 
 2.32. u₃ igi{gi}-zi-ne-en-ne mu-un-da-re-eš-še {{%akk UD-mi IGI-ku-nu ta-aš-ta-ak-na-ni}}
+?#tr.en: When the fortress is completed, a letter from the two of you should reach me (?).
 #lem: ud[sun]; igi[eye]; du[spread]; L; L; L
 #etcsl: line-id=2.32
 
 2.33. lu₂-{d}nanna im-sik ma-ta zi-im-mu-un#-dar-ra-ak-ke iri-ne-eš-še ha-pa-ši-im-tu {{%akk lu₂-{d}nanna IM.SIK ma-at zi-im-mu-un-dar qa-du ERIN₂.MEŠ-šu ez-ba-ni-iš-šu-ma}}
+?#tr.en: When you have seen for yourselves, let @wPN{Lu-@wDN{Nanna}}, the ruler of the province of @wGN{Zimudar}, proceed to his troops.
+?#tr.en: You and @wPN{Aradŋu} should not delay them!
+?#tr.en: Let the building work proceed both by night and by the noonday heat.
+?#tr.en: Your (?) orders are rigorous, and you should not give up this work load.
+?#tr.en: It is urgent!
 #lem: Lunanna[1]PN; ensik[ruler]; mada[land]; Zimudar[1]GN; erin[people]; du[go]; L; L; L; L; L; L; L
 #etcsl: line-id=2.33
 

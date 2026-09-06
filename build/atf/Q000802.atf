@@ -11,6 +11,7 @@
 @div proverb 9.a1
 
 A.9.a1.1. nir-ŋal₂-e a-na bi₂-in-dug₄ nu-sag₉
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.1]{6.1.10.1}, @xref[t.6.2.5,]{6.2.5: IM 43438 Seg. A l. 1}} Whatever the man in authority said, it was not pleasant.
 #lem: nirŋal[authoritative]; ana[what?]; dug[speak]; sag[good]
 #etcsl: line-id=A.9.a1.1
 
@@ -21,6 +22,7 @@ A.9.a1.1. nir-ŋal₂-e a-na bi₂-in-dug₄ nu-sag₉
 @div proverb 9.a2
 
 A.9.a2.2. nir-ŋal₂-e a-na bi₂-in-dug₄ nu-zid
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.2]{6.1.10.2}} Whatever the man in authority said, it was not right.
 #lem: nirŋal[authoritative]; ana[what?]; dug[speak]; zid[right]
 #etcsl: line-id=A.9.a2.2
 
@@ -31,12 +33,14 @@ A.9.a2.2. nir-ŋal₂-e a-na bi₂-in-dug₄ nu-zid
 @div proverb 9.a3
 
 A.9.a3.3. nir-ŋal₂ kug-zu-am₃ ukur₃ šu dim₄-ma-am₃
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.3]{6.1.10.3-4}, @xref[t.6.2.2,t622.h5]{6.2.2: MDP 27 216}, @xref[t.6.2.5,]{6.2.5: IM 43438 Seg. A l. 2}} When the authorities are wise, and the poor are loyal,
 #lem: nirŋal[authoritative]; kugzu[wise]; ukur[poor]; šu[hand]; dim[check]
 #etcsl: line-id=A.9.a3.3
 
 #etcsl#cf cf. 6.1.10.3-4, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2
 
 A.9.a3.4. šu ŋar ŋal₂-la aratta{ki}-ka
+#tr.en: it is the effect of the blessing of @wSN{Aratta}.
 #lem: šu[hand]; ŋar[put]; ŋal[⟦be⟧ to be (there]; Aratta[1]GN
 #etcsl: line-id=A.9.a3.4
 
@@ -45,6 +49,7 @@ A.9.a3.4. šu ŋar ŋal₂-la aratta{ki}-ka
 @div proverb 9.a4
 
 A.9.a4.5. a₂-tuku lugal ki-in-du-ka
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.5]{6.1.10.5}, @xref[t.6.1.22,]{6.1.22: l. 190}, @xref[t.6.2.3,]{6.2.3: UET 6/3 80 l. 18}} The mighty man is master of the earth.
 #lem: atuku[powerful]; lugal[king]; kindu[earth]
 #etcsl: line-id=A.9.a4.5
 
@@ -55,6 +60,7 @@ A.9.a4.5. a₂-tuku lugal ki-in-du-ka
 @div proverb 9.a5
 
 A.9.a5.6. usu ka lu₂-ta# am₃-ku₄-ku₄
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.6]{6.1.10.6}} It is from a man's mouth that strength comes.
 #lem: usu[strength]; kag[mouth]; lu[person]; kur[enter]
 #etcsl: line-id=A.9.a5.6
 
@@ -65,6 +71,7 @@ A.9.a5.6. usu ka lu₂-ta# am₃-ku₄-ku₄
 @div proverb 9.a6
 
 A.9.a6.7. usu igi-ŋal₂-tuku nu-ub-da-sa₂
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.7]{6.1.10.7}, @xref[t.6.2.3,t623.h65]{6.2.3: UET 6/3 462}} Strength cannot keep pace with intelligence.
 #lem: usu[strength]; igiŋaltuku[wise]; sa[equal]
 #etcsl: line-id=A.9.a6.7
 
@@ -75,6 +82,7 @@ A.9.a6.7. usu igi-ŋal₂-tuku nu-ub-da-sa₂
 @div proverb 9.a7
 
 A.9.a7.8. usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.8]{6.1.10.8}} The strength of my god completes my own.
 #lem: usu[strength]; diŋir[deity]; ni[self]; til[complete]
 #etcsl: line-id=A.9.a7.8
 
@@ -85,6 +93,7 @@ A.9.a7.8. usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
 @div proverb 9.a8
 
 A.9.a8.9. nam-ŋuruš-ŋu₁₀ anše kar-ra#-gin₇ haš₂-ŋa₂ ba-e-taka₄
+#tr.en: @note{cf. @xref[t.6.1.10,t.6.1.10.9]{6.1.10.9}, @xref[t.6.1.17,t.6.1.17.b3]{6.1.17.b3}, @xref[t.6.1.17,]{ll. 12-13}, 5.6.7: l. 28} Youthful vigour has left my loins, like a runaway donkey.
 #lem: namŋuruš[manliness]; anše[equid]; kar[flee]; haš[thigh]; taka[set aside]
 #etcsl: line-id=A.9.a8.9
 
@@ -95,6 +104,7 @@ A.9.a8.9. nam-ŋuruš-ŋu₁₀ anše kar-ra#-gin₇ haš₂-ŋa₂ ba-e-taka₄
 @div proverb 9.a9
 
 A.9.a9.10. nu-zu e₂-gal-la ba-šar₂
+#tr.en: Ignoramuses are numerous in the palace.
 #lem: zu[know]; egal[palace]; šar[numerous]V/i
 #etcsl: line-id=A.9.a9.10
 
@@ -103,6 +113,7 @@ A.9.a9.10. nu-zu e₂-gal-la ba-šar₂
 @div proverb 9.a10
 
 A.9.a10.11. zu-a nu-di is-hab₂-ba-am₃
+#tr.en: He who knows but does not speak is a fool.
 #lem: zu[know]; di[speak]; ishab[rogue]
 #etcsl: line-id=A.9.a10.11
 
@@ -111,16 +122,19 @@ A.9.a10.11. zu-a nu-di is-hab₂-ba-am₃
 @div proverb 9.a11
 
 A.9.a11.12. kug#-zu nu-mu-un-da-sa₂
+#tr.en: No one can rival the wise man. $ (@gap{1 line fragmentary})
 #lem: kugzu[wise]; sa[equal]
 #etcsl: line-id=A.9.a11.12
 
 @variants
 
 A.9.a11.13. X [...] E KA ka# ba-[tar]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; kag[mouth]; tar[cut]
 #etcsl: line-id=A.9.a11.13
 
 A.9.a11.B. [X X X]-le# [...] in#-gaz-za [...] nu-ŋa₂-ŋa₂
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; gaz[kill]; X; ŋar[put]
 #etcsl: line-id=A.9.a11.14
 
@@ -128,6 +142,7 @@ A.9.a11.B. [X X X]-le# [...] in#-gaz-za [...] nu-ŋa₂-ŋa₂
 
 #etcsl#ms instead of lines 13-14, 1 ms. has:
 A. NE# KA ka bi₂-tar
+?#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.b1]{6.1.19.b1}, @xref[t.6.1.21,t.6.1.21.b4]{6.1.21.b4}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 1-2}} When a fattened pig is about to be slaughtered, one says: @q{“Let me replace what I eat.”}
 #lem: X; X; kag[mouth]; tar[cut]
 #etcsl: line-id=A.9.a11.A
 
@@ -157,6 +172,8 @@ A.9.a13.16. [šah₂]-ze₂-eh-tur-re šu al#-gud-gu₄-ud
 #etcsl#cf cf. 6.1.19.b2, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4
 
 A.9.a13.17. sag₉-ga-aš ŋe₂₆-e nu-gu₇-e-še
+?#tr.en: @note{cf. @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.21,t.6.1.21.b5]{6.1.21.b5}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet roots around (?), it says:
+?#tr.en: @q{“I do not eat for pleasure.”}
 #lem: sag[good]; ŋaʾe[I]; gu[eat]
 #etcsl: line-id=A.9.a13.17
 

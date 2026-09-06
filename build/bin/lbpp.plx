@@ -60,7 +60,7 @@ sub _lbpp {
 	chomp;
 	if (s/^\@\((.*?)\)\s+//) {
 	    my $label = $L = $1;
-	    my($count,@range) = parse_label($label);
+	    my($count,$prefix,@range) = parse_label($label);
 	    next if $count == 0;
 	    s/\s+\(\?\)/\cQ/g; # map ' (?)' to \cQ 
 	    my $rW = (tr/ / /); # raw word count
@@ -70,6 +70,9 @@ sub _lbpp {
 	    if ($xW == 0) {
 		$xW = 4;
 	    }
+	    if ($prefix) {
+		@range = map { "$prefix$_" } @range;
+	    }	    
 	    dump_bifurcated($Q,$label,$count,$rW,$nW,$xW,\@range,\@b);
 	}
     }
@@ -183,8 +186,13 @@ sub parse_label {
     my $l = shift;
     my @r = ();
     my $count = 0;
+    my $prefix = '';
     if ($l =~ /^(.+?)\s+=\s+(.+)$/) {
 	my($pre,$pst) = ($1,$2);
+	$prefix = $pre;
+	if ($prefix =~ /\./) {
+	    $prefix =~ s/\.[^.]+$/./;
+	}
 	if ($pst =~ /^(.*?)-(.*?)$/) {
 	    if ($xranges{$pst}) {
 		@r = split(/\s+/, $xranges{$pst});
@@ -228,7 +236,7 @@ sub parse_label {
 	    $count = 1;
 	}
     }
-    ($count,@r);
+    ($count,$prefix,@r);
 }
 
 sub str_from_segs {

@@ -43,6 +43,14 @@ $ 4 lines missing
 #etcsl: line-id=1.A.A.11
 
 1.A.A.12. a-a {d}en-ki iri-ni iri kur₂-gin₇ bar-ta ba-ra-gub er₂# [gig mu-un-še₈]-še₈#
+?#tr.en: Its king stayed outside his city as if it were an alien city. He wept bitter tears.
+?#tr.en: Father @wDN{Enki} stayed outside his city as if it were an alien city. He wept bitter tears.
+?#tr.en: For the sake of his harmed city, he wept bitter tears.
+?#tr.en: Its lady, like a flying bird,
+?#tr.en: left her city. The mother of @wTN{E-maḫ},
+?#tr.en: holy @wDN{Damgalnuna}, left her city.
+?#tr.en: The divine powers of the city of holiest divine powers were overturned. The divine powers of the rites of the greatest divine powers were altered.
+?#tr.en: In @wSN{Eridug} everything was reduced to ruin, was wrought with confusion.
 #lem: aya[father]; Enkik[1]DN; iri[city]; iri[city]; kur[different]; bar[outside]; gub[stand]; er[tears]; gig[sick]; šeš[weep]
 #etcsl: line-id=1.A.A.12
 
@@ -75,6 +83,14 @@ $ 4 lines missing
 #etcsl: line-id=1.A.A.19
 
 1.A.A.20. ud sag₁₀ hul nu-ŋal₂-la sag₉-ga nu-zu hul nu-zu-e
+?#tr.en: The evil-bearing storm went out from the city.
+?#tr.en: It swept across the Land -- a storm which possessses neither kindness nor malice,
+?#tr.en: does not distinguish between good and evil. @wGN{Subir} came down like rain. It struck hard.
+?#tr.en: In the city where bright daylight used to shine forth, the day darkened.
+?#tr.en: In @wSN{Eridug} where bright daylight used to shine forth, the day darkened.
+?#tr.en: As if the sun had set below the horizon, it turned into twilight.
+?#tr.en: As if @wDN{An} had cursed the city, alone he destroyed it.
+?#tr.en: As if @wDN{Enlil} had frowned upon it, @wSN{Eridug}, the shrine @wTN{Abzu}, bowed low.
 #lem: ud[storm]; sag[good]; hulu[bad]; ŋal[⟦be⟧ to be (there]; sag[good]; zu[know]; hulu[bad]; zu[know]
 #etcsl: line-id=1.A.A.20
 
@@ -115,12 +131,14 @@ $ 4 lines missing
 @div ŋišgiŋal B
 
 1.A.B.28. a %e uru₂ %s gul-la e₂ gul-la-ri gig-ga-bi im-me
+?#tr.en: 1st @fsux{kirugu}.
 #lem: aya[cry]; uru[city]; gul[destroy]; e[house]; gul[destroy]; gig[sick]; dug[speak]
 #etcsl: line-id=1.A.B.28
 
 @div trailer 
 
 1.A.B.29. ŋiš-gi₄-ŋal₂-bi-im
+?#tr.en: It cried out bitterly: @q[Eridug,]{“O the destruction of the city! The destruction of the house!”}
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=1.A.B.29
 
@@ -131,10 +149,19 @@ $ 4 lines missing
 @div kirugu C
 
 1.A.C.30. 2-kam-ma-še₃ ud-de₃ iri mu-un-gul-gul ad-bi gig-ga-am₃
+?#tr.en: Its @fsux{ŋišgiŋal}.
 #lem: n; ud[storm]; iri[city]; gul[destroy]; ad[voice]; gig[sick]
 #etcsl: line-id=1.A.C.30
 
 1.A.C.31. [...] X giri₁₆ im-ma-ni-ib₂-ŋar
+?#tr.en: A second time the storm destroyed the city -- its song was plaintive.
+?#tr.en: …… was trampled (?). …… intensified the lament.
+?#tr.en: It cut the lock from its main gate. The storm dislodged its door.
+?#tr.en: …… It stacked the people up in heaps.
+?#tr.en: …… on its own destroyed it.
+?#tr.en: It turned …… into tears.
+?#tr.en: …… defiled ……
+?$ (@gap{1 line missing}) 
 #lem: X; X; ŋiri[foot]; ŋar[put]
 #etcsl: line-id=1.A.C.31
 
@@ -168,6 +195,15 @@ $ 1 line missing
 #etcsl: line-id=1.A.C.39
 
 1.A.C.40. [...] ulutim₂#-bi mu-un-kur₂
+?#tr.en: …… It distorted its appearance. …… It distorted its appearance.
+?#tr.en: It circled its …… wall. It overturned its foundations.
+?#tr.en: Throughout his city, the pure, radiant (?) place, the foundations were filled with dust.
+?#tr.en: It cast down its ziggurat,
+?#tr.en: the shrine which reaches up to heaven, into a heap of debris.
+?#tr.en: The loftiness of its elevated door-ornament, befitting a house, was stripped down (?).
+?#tr.en: It cut down the gate, its Great-Ziggurat-of-Heaven-and-Earth-Covered-with-Terrible-Awesomeness, its shining door,
+?#tr.en: and it broke through its bolt.
+?#tr.en: It ripped out its doorframe. The house was defaced.
 #lem: X; uludin[form]; kur[different]
 #etcsl: line-id=1.A.C.40
 
@@ -212,12 +248,14 @@ $ 1 line missing
 @div ŋišgiŋal D
 
 1.A.D.49. eridug{ki} gul-la-ri gul-la-bi gig-ga-am₃
+?#tr.en: 2nd @fsux{kirugu}.
 #lem: Eridug[1]SN; gul[destroy]; gul[destroy]; gig[sick]
 #etcsl: line-id=1.A.D.49
 
 @div trailer 
 
 1.A.D.50. ŋiš-gi₄-ŋal₂-bi-im
+?#tr.en: The destruction of @wSN{Eridug}! Its destruction was grievous.
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=1.A.D.50
 
@@ -228,10 +266,18 @@ $ 1 line missing
 @div kirugu E
 
 1.A.E.51. kan₄ igi piriŋ-ŋa₂ ki nam tar-re-ba
+?#tr.en: Its @fsux{ŋišgiŋal}.
 #lem: kan[gate]; igi[eye]; piriŋ[lion]; ki[place]; nam[fate]; tar[cut]
 #etcsl: line-id=1.A.E.51
 
 1.A.E.52. {ŋiš}tir!(|TE+GAR|) e₂-a he₂-du₇-bi ba-ra-an-guz [...]
+?#tr.en: At its lion-faced gate, the place where fates are determined, it mutilated the copse (?) forming the ornament of the house …….
+?#tr.en: @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. Prematurely they destroyed it utterly. They completely altered …….
+?#tr.en: At the gate of the @fsux{uzga} precinct, the animal-fattener …… the great offerings.
+?#tr.en: Its birds and fish were neglected there.
+?#tr.en: Destruction …….
+?#tr.en: Throughout his house,
+?#tr.en: radiant (?) in silver and lapis lazuli, tears …….
 #lem: tir[forest]; e[house]; hedu[ornament]; guz[be crushed]; X
 #etcsl: line-id=1.A.E.52
 
@@ -260,6 +306,14 @@ $ 1 line missing
 #etcsl: line-id=1.A.E.58
 
 1.A.E.59. ezem-ma gal-e X X [...]
+?#tr.en: The hired man and the governor …….
+?#tr.en: The festivals …… grandly …….
+?#tr.en: Holy songs, songs of all kinds …….
+?#tr.en: The @fsux{šem} drum and @fsux{ala} drum …….
+?#tr.en: The great divine powers, all the divine powers …….
+?#tr.en: The place of the gods of heaven and earth …….
+?#tr.en: The judgment by the king, the holy sceptre at his right side, …….
+?#tr.en: The @fsux{en} priestess, @fsux{lumaḫ} priest and @fsux{nindiŋir} priestess …….
 #lem: ezem[festival]; gal[big]; X; X; X
 #etcsl: line-id=1.A.E.59
 
@@ -292,6 +346,14 @@ $ 1 line missing
 #etcsl: line-id=1.A.E.66
 
 1.A.E.67. e₂ lu₂ nu-zu-ba da-bi X [...]
+?#tr.en: The minister @wDN{Isimud} …….
+?#tr.en: Strangers to the house …… its side.
+?#tr.en: @wSN{Eridug}, the shrine @wTN{Abzu}, …… silently.
+?#tr.en: The enemy …… cleansed in a magnificent robe.
+?#tr.en: …… a man …… the people …….
+?#tr.en: Along with the fluids spilled from his guts, his blood spilled forth.
+?#tr.en: The ……, which like the azure sky was embellished forever,
+?#tr.en: …… grasped …….
 #lem: e[house]; lu[person]; zu[know]; dag[side]; X; X
 #etcsl: line-id=1.A.E.67
 
