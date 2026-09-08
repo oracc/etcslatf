@@ -7,22 +7,34 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.08&display=Crit&charenc=gcirc#
 
 1. {m}i-la-ak-ni-id u₃-na-dug₄
+#tr.en: Say to @wPN{Ilak-niʾid}
 #lem: Ilakniʾid[1]PN; dug[speak]
 #etcsl: line-id=1
 
 2. {m}{d}UTU-DUG₃-e na-ab-be₂-a
+#tr.en: what @wPN{Šamaš-ṭāb} says:
 #lem: Šamašṭab[1]PN; e[speak]
 #etcsl: line-id=2
 
 3. kaskal itid 1(DIŠ) ud 15-kam ud IM-za he₂-bi₂-DU
+#tr.en: It is a journey of one month and fifteen days, and …….
 #lem: kaskal[way]; itud[moon]; n; ud[sun]; n; ud[sun]; X; X
 #etcsl: line-id=3
 
 4. šag₄ (1:ni-qum{ki}-ma-še₃:1) a-na-še-am₃ itid-da ud eš₅-kam-ma-bi
+#tr.en: Why on the third day of the month have you not brought your news to me @varh[t3308.v1]{at } @vart[t3308.v2,t3308.v1]{@varn{1 ms. has instead:} from } @wSN{Niqqum}?
 #lem: šag[heart]; Niqqum[1]SN; anaš[why?]; itud[moon]; ud[sun]; ešakamak[third]
 #etcsl: line-id=4
 
 :4v.1.1: ($1 ms. has instead:$) ni-qum{ki}-ma-ta
+?#tr.en: I have looked out for you and your route was arranged.
+?#tr.en: In question are:
+?#tr.en: 4 shekels of silver for 2 yoked donkeys,
+?#tr.en: 1/2 shekel of silver for 1 linen …… garment,
+?#tr.en: 1 shekel for your rental of the boat,
+?#tr.en: and 1 and 1/3 shekels for your …… rental of the boat.
+?$ (@gap{1 line unclear}) 
+?#tr.en: Your additional expenditure is not included in this total.
 #lem: Niqqum[1]SN
 
 5. a₂ aŋ₂-ŋa₂-zu na-ma-tum₃
@@ -63,10 +75,16 @@
 #etcsl: line-id=12
 
 13. 2(aš) gun₂ siki (1:da-gal-tum-ma:1) kug-bi ha-ra-da-šid
+#tr.en: I have calculated the cost of two loads of purple wool for you.
 #lem: n; gun[load]; siki[hair]; dagaltuma[description of wool or sheep]; kug[metal]; šid[count]
 #etcsl: line-id=13
 
 :13v.1.1: ($1 ms. has instead:$) da-ga-al-tum-ma
+?#tr.en: The price is @varh[t3308.v3]{1 and 2/3 } @vart[t3308.v4,t3308.v3]{@varn{2 mss. have instead:} 2/3 } @fsux{mana} of silver -- bring me the equivalent in tin.
+?#tr.en: And look out for quartz (?), …… stone and …… stone.
+?#tr.en: Your extra silver and the capital have been held for you and recorded on a clay tablet.
+?#tr.en: From now on news should be brought about you.
+?#tr.en: It is urgent.
 #lem: dagaltuma[description of wool or sheep]
 :13v.1.2: ($another ms. has instead:$) da-ga-AN-tum-ma
 #lem: dagaltuma[description of wool or sheep]

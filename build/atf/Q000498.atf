@@ -89,48 +89,49 @@ $ (unknown no. of lines missing)
 @div sa-ŋara B
 
 B.B.1. iri a₂ aŋ₂ [...]
+#tr.en: The city, where …… orders …….
 #lem: iri[city]; a[arm]; aŋ[measure]; X
 #etcsl: line-id=B.B.1
 
 B.B.2. zu₂ keše₂-bi [...]
-?#tr.en: The city, where …… orders …….
-?$ (@gap{1 line fragmentary}) 
-?#tr.en: @wDN{Enlil}, what you say is exalted,
-?#tr.en: and there is no god who can interpret it.
-?#tr.en: @q[Enlil,]{“I will make the fate I have determined for you even more glorious.
-?#tr.en: I will make your life long-lasting.
-?#tr.en: I will make your days as numerous as those of @wDN{Utu}.”}
-?#tr.en: You are the god of all the foreign lands!
+#tr.en: ($fragmentary$)
 #lem: zu[tooth]; kešed[bind]; X
 #etcsl: line-id=B.B.2
 
 B.B.3. {d}en-lil₂-me-en dug₄-ga-[zu] mah#-am₃
+#tr.en: @wDN{Enlil}, what you say is exalted,
 #lem: Enlil[1]DN; dug[speak]; mah[great]
 #etcsl: line-id=B.B.3
 
 B.B.4. diŋir na-me nu-mu-e-da-bur₂#-re
+#tr.en: and there is no god who can interpret it.
 #lem: diŋir[deity]; name[any]; bur[spread out]
 #etcsl: line-id=B.B.4
 
 B.B.5. nam# i-ri-tar pa e₃ ga-mu-ra-ab-dirig
+#tr.en: @q[Enlil,]{“I will make the fate I have determined for you even more glorious.
 #lem: nam[fate]; tar[cut]; pa[branch]; e[leave]; dirig[make more than]
 #etcsl: line-id=B.B.5
 
 B.B.6. nam-til₃-zu nam-til₃ ga-mu-ra-ab-tah
+#tr.en: I will make your life long-lasting.
 #lem: namtil[life]; namtil[life]; tah[add]
 #etcsl: line-id=B.B.6
 
 B.B.7. {d}utu-gin₇ ud-zu ga-ra-ab-sud-su₃-ud
+#tr.en: I will make your days as numerous as those of @wDN{Utu}.”}
 #lem: Utu[1]DN; ud[sun]; sud[distant]
 #etcsl: line-id=B.B.7
 
 B.B.8. kur-kur-ra diŋir-bi za-e-me-en
+#tr.en: You are the god of all the foreign lands!
 #lem: kur[mountain(s)]; diŋir[deity]; zaʾe[you]
 #etcsl: line-id=B.B.8
 
 @div trailer 
 
 B.B.9. sa-ŋar-ra-am₃
+#tr.en: @fsux{Sa-ŋara}.
 #lem: saŋara[musical notation]
 #etcsl: line-id=B.B.9
 
@@ -141,14 +142,14 @@ B.B.9. sa-ŋar-ra-am₃
 @div ŋišgiŋal C
 
 B.C.10. en nam tar-re-me-en {d}bur-{d}suen ŋiškim lugal mu-e-til₃-le-en
-?#tr.en: @fsux{Sa-ŋara}.
+#tr.en: You are the lord who determines the fates! @wRN{Būr-@wDN{Suen's}} royal trust is in you!
 #lem: en[lord]; nam[fate]; tar[cut]; Bursuenak[1]RN; ŋeškim[sign]; lugal[king]; til[live (of a single person)]
 #etcsl: line-id=B.C.10
 
 @div trailer 
 
 B.C.11. ŋiš-gi₄-ŋal₂-bi-im
-?#tr.en: You are the lord who determines the fates! @wRN{Būr-@wDN{Suen's}} royal trust is in you!
+#tr.en: Its @fsux{ŋišgiŋal}.
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=B.C.11
 
@@ -159,24 +160,24 @@ B.C.11. ŋiš-gi₄-ŋal₂-bi-im
 @div uru D
 
 B.D.12. niŋ₂-zid niŋ₂-gen₆-na pa bi₂-a-e₃ su kalam-ma mu-[dug₃]
-?#tr.en: Its @fsux{ŋišgiŋal}.
+#tr.en: You have made justice and righteousness conspicuous, and you have made the Land feel content.
 #lem: niŋzid[righteousness]; niŋgina[truth]; pa[branch]; e[leave]; su[flesh]; kalam[the Land (of Sumer)]; dug[good]
 #etcsl: line-id=B.D.12
 
 B.D.13. {d}bur-{d}suen X AB ud šu₂-uš mu-zu he₂-em-hul₂#
-?#tr.en: You have made justice and righteousness conspicuous, and you have made the Land feel content.
-?#tr.en: @wRN{Būr-@wDN{Suen}}, may your name be a cause for rejoicing …… daily.
-?#tr.en: May you be exalted among ……; let them call you the pre-eminent lord!
+#tr.en: @wRN{Būr-@wDN{Suen}}, may your name be a cause for rejoicing …… daily.
 #lem: Bursuenak[1]RN; X; X; ud[sun]; šuš[cover]; mu[name]; hul[rejoice]
 #etcsl: line-id=B.D.13
 
 B.D.14. [X X] E NE saŋ-zu he₂-ni-in-il₂ en saŋ-bi-še₃ he₂-pad₃
+#tr.en: May you be exalted among ……; let them call you the pre-eminent lord!
 #lem: X; X; X; X; saŋ[head]; il[raise]; en[lord]; saŋ[head]; pad[find]
 #etcsl: line-id=B.D.14
 
 @div trailer 
 
 B.D.15. [u₁₈-ru₁₂-bi-im]
+#tr.en: Its @fsux{uru}.
 #lem: uru[literary subscript]
 #etcsl: line-id=B.D.15
 
@@ -187,6 +188,7 @@ B.D.15. [u₁₈-ru₁₂-bi-im]
 @div trailer 
 
 B.D.16. [a]-da#-ab {d}en-lil₂-la₂-kam#
+#tr.en: An @fsux{adab} of @wDN{Enlil}. @notep{lines 15 and 16 are written as one line in source}
 #lem: adab[drum]; Enlil[1]DN
 #etcsl: line-id=B.D.16
 

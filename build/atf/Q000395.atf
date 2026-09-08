@@ -7,91 +7,117 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2.01&display=Crit&charenc=gcirc#
 
 1. lugal-me-en šag₄-ta ur-saŋ-me-en
+#tr.en: I, the king,
 #lem: lugal[king]; šag[heart]; ursaŋ[warrior]
 #etcsl: line-id=1
 
 #etcsl#cite Cited in Ur III catalogue at Yale, 0.1.2, line 30; OB catalogue from Nibru, at Philadelphia, 0.2.01, line 1; OB catalogue from Urim (U2), 0.2.04, line 4; OB catalogue at Andrews University, 0.2.11, line 7; OB catalogue at Yale, 0.2.12, Seg. A, line 1
 
 2. {d}šul-gi-me-en ba-tu-ud-de₃-en-na-ta nitah kalag-ga-me-en
+#tr.en: was a hero already in the womb; I,
 #lem: Šulgir[1]RN; utud[give birth (to)]; nita[male]; kalag[strong]
 #etcsl: line-id=2
 
 3. piriŋ igi huš ušumgal-e tud-da-me-en
+#tr.en: @wRN{Šulgi}, was born to be a mighty man.
 #lem: piriŋ[lion]; igi[eye]; huš[reddish]; ušumgal[great dragon]; utud[give birth (to)]
 #etcsl: line-id=3
 
 4. lugal an ub-da 4-ba-me-en
+#tr.en: I am a fierce-looking lion, begotten by a dragon.
 #lem: lugal[king]; an[sky]; ub[corner]; n
 #etcsl: line-id=4
 
 5. na-gada sipad saŋ gig₂-ga-me-en
+#tr.en: I am the king of the four regions; I am the herdsman and shepherd of the black-headed people.
 #lem: nagada[herdsman]; sipad[shepherd]; saŋ[head]; giggig[black]
 #etcsl: line-id=5
 
 6. nir-ŋal₂ diŋir kur-kur-ra-me-en
+#tr.en: I am a respected one, the god of all the lands.1
 #lem: nirŋal[authoritative]; diŋir[deity]; kur[mountain(s)]
 #etcsl: line-id=6
 
 7. dumu u₃-tud-da {d}nin-sumun₂-kam-me-en
+#tr.en: I am a child born of @wDN{Ninsumun}.
 #lem: dumu[child]; utud[give birth (to)]; Ninsumunak[1]DN
 #etcsl: line-id=7
 
 8. šag₄-ge pad₃-da an kug-ga-me-en
+#tr.en: I am the choice of holy @wDN{An's} heart.
 #lem: šag[heart]; pad[find]; An[1]DN; kug[pure]
 #etcsl: line-id=8
 
 9. lu₂ nam tar-ra {d}en-lil₂-la₂-me-en
+#tr.en: I am the man whose fate was decided by @wDN{Enlil}.
 #lem: lu[person]; nam[fate]; tar[cut]; Enlil[1]DN
 #etcsl: line-id=9
 
 10. {d}šul-gi ki aŋ₂ {d}nin-lil₂-la₂-me-en
+#tr.en: I am @wRN{Šulgi}, the beloved of @wDN{Ninlil}.
 #lem: Šulgir[1]RN; ki[place]; aŋ[measure]; Ninlil[1]DN
 #etcsl: line-id=10
 
 11. mi₂ zid dug₄-ga {d}nin-tur₅-ra-me-en
+#tr.en: I am he who is cherished by @wDN{Nintur}.
 #lem: mi[cvne]; zid[right]; dug[speak]; Nintur[1]DN
 #etcsl: line-id=11
 
 12. ŋeštug₂ šum₂-ma {d}en-ki-kam-me-en
+#tr.en: I am he who was endowed with wisdom by @wDN{Enki}.
 #lem: ŋeštug[ear]; šum[give]; Enkik[1]DN
 #etcsl: line-id=12
 
 13. lugal kalag-ga {d}nanna-a-me-en
+#tr.en: I am the powerful king of @wDN{Nanna}.
 #lem: lugal[king]; kalag[strong]; Nanna[1]DN
 #etcsl: line-id=13
 
 14. piriŋ ka du₈-a {d}utu-u₃-me-en
+#tr.en: I am the growling lion of @wDN{Utu}.
 #lem: piriŋ[lion]; kag[mouth]; du[spread]; Utu[1]DN
 #etcsl: line-id=14
 
 15. {d}šul-gi hi-li-a pad₃-da {d}inana-me-en
+#tr.en: I am @wRN{Šulgi}, who has been chosen by @wDN{Inana} for his attractiveness.
 #lem: Šulgir[1]RN; hili[attractiveness]; pad[find]; Inanak[1]DN
 #etcsl: line-id=15
 
 16. anše-ŋir₂-nun-na kaskal-e du₇-u₃-me-en
+#tr.en: I am a mule, most suitable for the road.
 #lem: anšeŋirnun[an equid]; kaskal[way]; du[perfect]
 #etcsl: line-id=16
 
 17. anše-kur-ra har-ra-an-na kun sud-sud-me-en
+#tr.en: I am a horse, whose tail waves on the highway.
 #lem: sisi[horse]; harran[route]; kun[tail]; sud[distant]
 #etcsl: line-id=17
 
 18. (1:dur₃ {d}šakkan₂-na kaš₄-e kiŋ₂-ŋa₂-me-en:1)
+#tr.en: @varh[t24201.v1]{I am a stallion of @wDN{Šakkan}, eager to run.
 #lem: dur[young male donkey]; Šakkan[1]DN; kaš[run]; kiŋ[seek]
 #etcsl: line-id=18
 
 :18v.1.1: ($1 ms. has instead the line:$) anše {d}šakkan₂ kaš₄!(DU)-e ki aŋ₂-me-en
+?#tr.en: }
 #lem: anše[equid]; Šakkan[1]DN; kaš[run]; ki[place]; aŋ[measure]
 
 19. dub-sar gal-zu {d}nisaba-kam-me-en
+#tr.en: I am a knowledgeable scribe of @wDN{Nisaba};
 #lem: dubsar[scribe]; galanzu[wise]; Nisabak[1]DN
 #etcsl: line-id=19
 
 20. nam-ur-saŋ-ŋu₁₀-gin₇ (1:nam-kalag-ga-ŋu₁₀-gin₇:1)
+#tr.en: I have perfected my wisdom
 #lem: namursaŋ[heroism]; namkalag[strength]
 #etcsl: line-id=20
 
 :20v.1.1: ($1 ms. has instead:$) [nam]-kal#-la-ŋu₁₀-gin₇
+?#tr.en: just as my heroism
+?#tr.en: and @varh[t24201.v3]{my strength }
+?#tr.en: @vart[t24201.v4,t24201.v3]{@varn{1 ms. has instead:} my distinction }. Reliable words can reach (?) me.
+?#tr.en: I cherish righteousness but do not tolerate wickedness.
+?#tr.en: I hate anyone who speaks wickedly.
 #lem: namkala[value]
 
 21. ŋeštug₂-ŋa₂ šu hu-mu-ni-du₇-am₃
@@ -115,28 +141,38 @@
 #etcsl: line-id=25
 
 26. {d}šul-gi-me-en lugal kalag-ga saŋ-bi-še₃ e₃-a-me-en
+#tr.en: Because I am a powerful man who enjoys using his thighs,
 #lem: Šulgir[1]RN; lugal[king]; kalag[strong]; saŋ[head]; e[leave]
 #etcsl: line-id=26
 
 27. a₂-nun-ŋal₂ zag-še-ni-še₃ hul₂-la i₃-me-en-na-ke₄-eš
+#tr.en: I, @wRN{Šulgi}, the mighty king,
 #lem: anunŋal[strong]; zagše[shoulder]; hul[rejoice]; me[be]
 #etcsl: line-id=27
 
 28. ŋiri₃ hu-mu-gur kaskal kalam-ma-ke₄ si he₂-mi-sa₂-sa₂
+#tr.en: superior to all,
 #lem: ŋiri[foot]; gur[turn]; kaskal[way]; kalam[the Land (of Sumer)]; si[horn]; sa[equal]
 #etcsl: line-id=28
 
 29. danna hu-mu-gen₆ e₂ gal-la he₂-bi₂-du₃
+#tr.en: strengthened (?) the roads,
 #lem: dana[unit of length]; gin[confirm]; e[house]; gal[big]; du[build]
 #etcsl: line-id=29
 
 @variants
 
 30. zag-ba {ŋiš}kiri₆ (1:he₂-bi₂-gub:1) ki ni₂ dub₂-bu he₂-bi₂-ŋar
+#tr.en: put in order the highways of the Land.
 #lem: zag[side]; kiri[(fruit) plantation]; gub[stand]; ki[place]; ni[self]; dub[tremble]; ŋar[put]
 #etcsl: line-id=30
 
 :30v.1.1: ($1 ms. has instead:$) he₂-bi₂-ib₂-du₃
+?#tr.en: I marked out the double-hour distances, built there lodging houses.
+?#tr.en: @varh[t24201.v5]{I planted gardens by their side and established resting-places } @vart[t24201.v6,t24201.v5]{@varn{1 ms. has instead:} I established gardens (?) and resting-places by their side }, and installed in those places experienced men.
+?#tr.en: Whichever direction one comes from,
+?#tr.en: one can refresh oneself when the time is cool;
+?#tr.en: and travellers and wayfarers who arrive at night can seek haven there as in a well-built city.
 #lem: du[build]
 
 @variant
@@ -167,14 +203,20 @@
 #etcsl: line-id=35
 
 36. mu-ŋu₁₀ ud ul-le₂-a-aš ŋa₂-ŋa₂-de₃ ka-ta nu-šub-bu-de₃
+#tr.en: So that my name should be established for distant days and never fall into oblivion,
 #lem: mu[name]; ud[sun]; ul[distant time]; ŋar[put]; kag[mouth]; šub[fall]
 #etcsl: line-id=36
 
 37. ar₂-ŋu₁₀ kalam-ma (1:ak-ak-de₃:1)
+#tr.en: so that my praise should be @varh[t24201.v7]{uttered } @vart[t24201.v8,t24201.v7]{@varn{1 ms.:} spread } throughout the Land, and my glory should be proclaimed in the foreign lands,
 #lem: ar[celebrate]; kalam[the Land (of Sumer)]; ak[do]
 #etcsl: line-id=37
 
 :37v.1.1: ($1 ms. has instead:$) barag₂!-barag₂-e-de₃
+?#tr.en: I, the fast runner,
+?#tr.en: summoned my strength and,
+?#tr.en: to prove my speed,
+?#tr.en: my heart prompted me to make a return journey from @wSN{Nibru} to brick-built @wSN{Urim} as if it were only the distance of a double-hour.
 #lem: barag[spread out]
 
 38. ka tar-ŋu₁₀ kur-kur-ra si-il-le-de₃
@@ -194,50 +236,68 @@
 #etcsl: line-id=41
 
 42. piriŋ nam-šul-bi-ta nu-kuš₂-u₃ ne₃-ba gub-ba-me-en
+#tr.en: I, the lion, never failing in his vigour, standing firm in his strength,
 #lem: piriŋ[lion]; namšul[manhood]; kušu[tired]; ne[strength]; gub[stand]
 #etcsl: line-id=42
 
 43. {tug₂}niŋ₂-lam₂ ban₃-da ib₂-ŋa₂ ba-du₃
+#tr.en: fastened the small @fsux{niŋlam} garment firmly to my hips. Like a pigeon anxiously fleeing from a …… snake,
 #lem: niŋlam[garment]; banda[junior]; ib[hips]; du[build]
 #etcsl: line-id=43
 
 44. tum₁₂{mušen} nir-DU sumur-bi dal-la-gin₇ a₂-ŋu₁₀ hu-mu-sud-sud
+#tr.en: I spread my wings;
 #lem: tum[wild dove]; mirša[snake]; sumur[angry]; dal[fly]; a[arm]; sud[distant]
 #etcsl: line-id=44
 
 45. anzud{mušen} kur-bi-še₃ igi il₂-la-gin₇ dub₃-ŋu₁₀ hu-mu-bad-bad
+#tr.en: like the Anzud bird lifting its gaze to the mountains, I stretched forward my legs.
 #lem: Anzud[1]DN; kur[mountain(s)]; igi[eye]; il[raise]; dub[knee]; bad[open]
 #etcsl: line-id=45
 
 46. iri ma-da ki ŋar-ŋar-ra-ŋu₁₀ ha-ma-sug₂-sug₂-ge-eš-am₃
+#tr.en: The inhabitants of the cities which I had founded in the Land lined up for me;
 #lem: iri[city]; mada[land]; ki[place]; ŋar[put]; sug[stand]
 #etcsl: line-id=46
 
 47. uŋ₃ saŋ gig₂-ga u₈-gin₇ lu-a u₆ dug₃ ha-ma-ab-dug₄
+#tr.en: the black-headed people, as numerous as ewes, looked at me with sweet admiration.
 #lem: uŋ[people]; saŋ[head]; giggig[black]; u[sheep]; lu[abundant]; u[admiration]; dug[good]; dug[speak]
 #etcsl: line-id=47
 
 48. maš₂ hur-saŋ-ŋa₂ ki-ur₃-bi-še₃ hub₂ sar-sar-re-gin₇
+#tr.en: I entered the @wTN{E-kiš-nu-ŋal} like a mountain kid hurrying to its habitation,
 #lem: maš[goat]; hursaŋ[mountain]; kiʾur[foundation]; hub[foot]; sar[run]
 #etcsl: line-id=48
 
 49. {d}utu a₂-dam-ma ud daŋal-la
+#tr.en: when @wDN{Utu} spreads broad daylight over the countryside.
 #lem: Utu[1]DN; adam[habitation]; ud[sun]; daŋal[wide]
 #etcsl: line-id=49
 
 50. e₂-kiš-nu-ŋal₂-še₃ ha-ba-kur₉-re-en
+#tr.en: I filled with abundance the temple of @wDN{Suen},
 #lem: Ekišnuŋal[1]TN; kur[enter]
 #etcsl: line-id=50
 
 51. e₂ {d}suen-na tur₃ i₃ gal-gal-la he₂-ŋal₂-la he₂-bi₂-du₈
+#tr.en: a cow-pen which yields plenty of fat. I had oxen slaughtered there;
 #lem: e[house]; Suen[1]DN; tur[animal stall]; i[oil]; gal[big]; heŋal[plenty]; du[spread]
 #etcsl: line-id=51
 
 52. gud ha-ba-ni-gaz udu (1:ha-ba-ni-šar₂:1)
+#tr.en: I had sheep @varh[t24201.v9]{offered there lavishly } @vart[t24201.v10,t24201.v9]{@varn{some mss.:} butchered there }. I had @fsux{šem} and @fsux{ala} drums resound there @varh[t24201.v11]{and caused @fsux{tigi} drums play there sweetly.
 #lem: gud[bull]; gaz[kill]; udu[sheep]; šar[slaughter]
 #etcsl: line-id=52
 
 :52v.1.1: ($some mss. have instead:$) ha-ba-ni-šum
+?#tr.en: } @vart[t24201.v12,t24201.v11]{@varn{1 ms. has instead the line:} I …… the @fsux{balaŋ} player (?). } I, @wRN{Šulgi},
+?#tr.en: who makes everything abundant,
+?#tr.en: presented food-offerings there and,
+?#tr.en: like a lion,
+?#tr.en: spreading fearsomeness from (?) the royal offering-place,
+?#tr.en: I bent down (?) and bathed in flowing water;
+?#tr.en: I knelt down and feasted in the @wTN{Egal-maḫ} of @wDN{Ninegala}.
 #lem: šum[slaughter]
 
 53. šem₅ a₂-la₂-e šeg₁₁ ha-ba-gi₄
@@ -272,10 +332,20 @@
 #etcsl: line-id=59
 
 60. (1:{d}nin-immaₓ(|LAGAB×SIG₇|){mušen}:1) sur₂-du₃{mušen}-gin₇ ha-ba-zig₃-ge-en
+#tr.en: Then I arose like an owl (?),
 #lem: ninninnata[bird of prey]; surdu[falcon]; zig[rise]
 #etcsl: line-id=60
 
 :60v.1.1: ($2 mss. have instead:$) {d}nin-ninna₂{mušen}
+?#tr.en: like a falcon to return to @wSN{Nibru} in my vigour.
+?#tr.en: But a storm shrieked,
+?#tr.en: and the west wind whirled around.
+?#tr.en: The north wind and the south wind howled at each other.
+?#tr.en: Lightning together with the seven winds vied with each other in the heavens.
+?#tr.en: Thundering storms made the earth quake,
+?#tr.en: and @wDN{Iškur} roared in the broad heavens.
+?#tr.en: @varh[t24201.v13]{The rains of heaven mingled with the waters of the earth.
+?#tr.en: } @vart[t24201.v14,t24201.v13]{@varn{1 ms. has instead:} The rains of heaven competed with the waters of the earth. } Small and large hailstones drummed on my back.
 #lem: ninninnata[bird of prey]
 
 61. nibru{ki}-še₃ a-la-ŋa₂ ha-ba-gur-re-en
@@ -321,38 +391,47 @@
 #lem: budbad[sound (onomatopoeic)]
 
 70. lugal-me-en ni₂ ba-ra-ba-da-te su ba-ra-ba-da-zig₃
+#tr.en: I, the king, however,
 #lem: lugal[king]; ni[fear]; teŋ[approach]; su[flesh]; zig[rise]
 #etcsl: line-id=70
 
 71. piriŋ ban₃-da-gin₇ gur₅-ru-uš hu-mu-bur₂-bur₂
+#tr.en: did not fear, nor was I terrified.
 #lem: piriŋ[lion]; banda[junior]; guruš[cvne]; bur[spread out]
 #etcsl: line-id=71
 
 72. anše edin-na-gin₇ hub₂-ŋa₂ hu-mu-šu₂-šu₂
+#tr.en: I rushed forth like a fierce lion.
 #lem: anše[equid]; eden[back]; hub[foot]; šuš[cover]
 #etcsl: line-id=72
 
 73. šag₄ la-la-ŋal₂-la-ŋu₁₀ kaš₄ hu-mu-ni-gun₃-gun₃
+#tr.en: I galloped like an ass in the desert.
 #lem: šag[heart]; lalaŋal[charming]; kaš[run]; gunu[speckled]
 #etcsl: line-id=73
 
 74. dur₃ dili du-gin₇ im₂-ma-ŋu₁₀-ne
+#tr.en: With my heart full of joy, I ran (?) onward.
 #lem: dur[young male donkey]; dili[single]; du[go]; im[run]
 #etcsl: line-id=74
 
 75. {d}utu e₂-a-ni-še₃ igi i₃-ŋa₂-ŋa₂-de₃
+#tr.en: Trotting like a solitary wild ass,
 #lem: Utu[1]DN; e[house]; igi[eye]; ŋar[put]
 #etcsl: line-id=75
 
 76. kaskal 15 danna-am₃ šu hu-mu-ni₁₀-ni₁₀
+#tr.en: I traversed a distance of fifteen double-hours by the time @wDN{Utu} was to set his face toward his house;
 #lem: kaskal[way]; n; dana[unit of length]; šu[hand]; niŋin[encircle]
 #etcsl: line-id=76
 
 77. (1:saŋ-ur-saŋ-ŋu₁₀-ne igi hu-mu-un-du₈-uš-am₃:1)
+#tr.en: @varh[t24201.v15]{my @fsux{saŋ-ursaŋ} priests looked at me with admiration.
 #lem: saŋursaŋ[cultic performer]; igi[eye]; du[spread]
 #etcsl: line-id=77
 
 :77v.1.1: ($instead of line 77, 1 ms. has 2 lines:$) {d}[...] lu-a [...] a-lal₃ {d}en#-[lil₂] {[d]}nin-lil₂-ka# [šu] he-mi-il₂
+?#tr.en: } @vart[t24201.v16,t24201.v15]{@varn{1 ms. has instead:} …… numerous (?) ……; I prayed in the …… of @wDN{Enlil} and @wDN{Ninlil}. } I celebrated the @fsux{ešeš} festival in both @wSN{Nibru} and @wSN{Urim} on the same day!
 #lem: X[1]DN; lu[abundant]; X; alal[part of a temple]; Enlil[1]DN; Ninlil[1]DN; šu[hand]; il[raise]
 
 78. ud 1-a nibru{ki} urim₂{ki}-ma eš₃-eš₃-bi hu-mu-ak
@@ -360,34 +439,42 @@
 #etcsl: line-id=78
 
 79. šeš gu₅-li-ŋu₁₀ šul {d}utu-am₃
+#tr.en: I drank beer in the palace founded by @wDN{An} with my brother and companion, the hero @wDN{Utu}.
 #lem: šeš[brother]; guli[friend]; šul[youth]; Utu[1]DN
 #etcsl: line-id=79
 
 80. e₂-gal an-ne₂ ki ŋar-ra-am₃ kaš hu-mu-un-di-ni-naŋ
+#tr.en: My singers praised me with songs accompanied by seven @fsux{tigi} drums.
 #lem: egal[palace]; an[sky]; ki[place]; ŋar[put]; kaš[beer]; naŋ[drink]
 #etcsl: line-id=80
 
 81. nar-ŋu₁₀ tigi 7-e šir₃-re-eš ha-ma-an-ne-eš
+#tr.en: My spouse, the maiden @wDN{Inana}, the lady,
 #lem: nar[musician]; tigi[drum or other musical instrument]; n; šir[song]; e[speak]
 #etcsl: line-id=81
 
 82. nitalam-ŋu₁₀ ki-sikil {d}inana nin hi-li an ki-a
+#tr.en: the joy of heaven and earth,
 #lem: ŋidlam[(equal ranking) spouse]; kisikil[young woman]; Inanak[1]DN; nin[lady]; hili[attractiveness]; an[sky]; ki[place]
 #etcsl: line-id=82
 
 83. gu₇ naŋ-bi-a hu-mu-da-an-tuš-am₃
+#tr.en: sat with me at the banquet.
 #lem: gu[eat]; naŋ[drink]; tuš[sit (down)]
 #etcsl: line-id=83
 
 84. ni₂-ŋu₁₀ silim-eš₂-am₃ ba-ra-ab-dug₄
+#tr.en: Truly I am not boasting! Wherever I look to,
 #lem: ni[self]; silim[healthy]; dug[speak]
 #etcsl: line-id=84
 
 85. igi il₂-la-ŋa₂ he₂-eb-ŋen-ne-en
+#tr.en: there I go;
 #lem: igi[eye]; il[raise]; ŋen[go]
 #etcsl: line-id=85
 
 86. šag₄-ge guru₇-ŋa₂ an-ta he₂-eb-gi₄
+#tr.en: wherever my heart desires, I reach.
 #lem: šag[heart]; guru[grain heap]; an[sky]; gi[turn]
 #etcsl: line-id=86
 
@@ -395,6 +482,7 @@
 
 #etcsl#ms 1 ms. adds at least 10 lines:
 86A. inim-inim-ma im-sar-ra-ŋu₁₀
+?#tr.en: @vart[t24201.v17,t24201.v17]{@varn{1 ms. adds at least 10 lines:} By the life of my father holy @wDN{Lugalbanda}, and @wDN{Nanna} the king of heaven and earth, I swear that the words written on my tablet are ……. @gap{at least 4 lines missing or unclear} …… since the days of yore, since ………, no king of @wGN{Sumer} as great as I has existed for the people. } @wDN{An} placed a @varh[t24201.v18]{legitimate and lofty } @vart[t24201.v19,t24201.v18]{@varn{some mss. have:} golden } @vart[t24201.v20,t24201.v18]{@varn{1 ms. has:} good silver } @vart[t24201.v21,t24201.v18]{@varn{1 ms. has:} silver } crown firmly on my head.
 #lem: inim[word]; sar[write]
 #etcsl: line-id=86A
 
@@ -432,64 +520,79 @@ $ (at least 4 lines missing or unclear)
 #lem: kug[metal]
 
 88. e₂-kur za-gin₃-na {ŋiš}ŋidru ha-ba-dab₅-ba
+#tr.en: In the lustrous @wTN{E-kur},
 #lem: Ekur[1]TN; zagin[lapis lazuli]; ŋidru[scepter]; dab[seize]
 #etcsl: line-id=88
 
 89. barag babbar-ra {ŋiš}gu-za suhuš gen₆-na saŋ an-še₃ ha-ba-il₂
+#tr.en: I seized the holy sceptre and I lifted my head towards heaven on a shining dais,
 #lem: barag[sanctum]; babbar[white]; guza[chair]; suhuš[foundation]; gin[confirm]; saŋ[head]; an[sky]; il[raise]
 #etcsl: line-id=89
 
 90. nam-lugal-la a₂ hu-mu-ni-mah
+#tr.en: a throne with firm foundation. I consolidated my kingship,
 #lem: namlugal[kingship]; a[arm]; mah[great]
 #etcsl: line-id=90
 
 91. kur hu-mu-gam-gam kalam hu-mu-ge-en-ge-en
+#tr.en: subdued the foreign lands, fortified the Land.
 #lem: kur[mountain(s)]; gurum[bend]; kalam[the Land (of Sumer)]; gin[confirm]
 #etcsl: line-id=91
 
 92. an ub-da 4 uŋ₃ saŋ sig₁₀-ga-a-ba mu-ŋu₁₀ he₂-em-mi-sa₄
+#tr.en: May my name be proclaimed among the well-guarded people of the four regions!
 #lem: an[sky]; ub[corner]; n; uŋ[people]; saŋ[head]; sig[put into]; mu[name]; še[call by name]
 #etcsl: line-id=92
 
 93. šir₃ kug-ŋa₂ hu-mu-un-e-ne
+#tr.en: May they praise it in holy hymns about me!
 #lem: šir[sing]; kug[pure]; e[speak]
 #etcsl: line-id=93
 
 94. nam-mah-ŋu₁₀ hu-mu-ni-pad₃-de₃-ne
+#tr.en: May they glorify my majesty, saying:
 #lem: nammah[greatness]; pad[find]
 #etcsl: line-id=94
 
 95. a₂ mah lugal-la-kam mi₂ dug₄-ga
+#tr.en: @q{“The one provided with lofty royal power; the one given heroism,
 #lem: a[arm]; mah[great]; lugal[king]; mi[cvne]; dug[speak]
 #etcsl: line-id=95
 
 96. {d}suen-e e₂-kiš-nu-ŋal₂-ta
+#tr.en: power and happy life by @wDN{Suen} of the @wTN{E-kiš-nu-ŋal};
 #lem: Suen[1]DN; Ekišnuŋal[1]TN
 #etcsl: line-id=96
 
 97. nam-ur-saŋ nam-kalag-ga nam-til₃ niŋ₂ dug₃ saŋ-e-eš rig₇-ga
+#tr.en: the one endowed with superior strength by @wDN{Nunamnir};
 #lem: namursaŋ[heroism]; namkalag[strength]; namtil[life]; niŋ[thing]; dug[good]; saŋ[head]; rig[donate]
 #etcsl: line-id=97
 
 98. a₂ mah šum₂-ma {d}nu-nam-nir-ra
+#tr.en: @wRN{Šulgi}, the destroyer of foreign lands, the fortifier of the Land,
 #lem: a[arm]; mah[great]; šum[give]; Nunamnir[1]DN
 #etcsl: line-id=98
 
 99. {d}šul-gi kur gul-gul kalam ge-en-ge-en
+#tr.en: the purification priest of heaven and earth, who has no rival;
 #lem: Šulgir[1]RN; kur[mountain(s)]; gul[destroy]; kalam[the Land (of Sumer)]; gin[confirm]
 #etcsl: line-id=99
 
 100. išib an ki-a gaba-ri nu-tuku
+#tr.en: @varh[t24201.v22]{@wRN{Šulgi},
 #lem: išib[purification priest]; an[sky]; ki[place]; gabari[equal]; tuku[acquire]
 #etcsl: line-id=100
 
 @variants
 
 101. {d}šul-gi dumu nir-ŋal₂ an-na-ke₄ mi₂ dug₄-ga
+#tr.en: who is cared for by the respected child of @wDN{An}!
 #lem: Šulgir[1]RN; dumu[child]; nirŋal[authoritative]; An[1]DN; mi[cvne]; dug[speak]
 #etcsl: line-id=101
 
 102. {d}nisaba za₃-mi₂
+#tr.en: @varh[t24201.v23]{@wDN{Nisaba} be praised! } @vart[t24201.v24,t24201.v22]{@varn{1 ms. has instead:} @wRN{Šulgi}, be praised (?) by @wDN{An's} respected son! }
 #lem: Nisabak[1]DN; zamin[praise]
 #etcsl: line-id=102
 

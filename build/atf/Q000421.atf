@@ -229,35 +229,34 @@ $ (unknown no. of lines missing)
 @div segment C
 
 seg3.1. en# [...] X X [...]
+#tr.en: Lord ……. When he performed extispicy regarding the building of @wDN{Enki's} temple,
 #lem: en[lord]; X; X; X; X
 #etcsl: line-id=seg3.1
 
 #etcsl#eq = UET 8 32 reverse
 
 seg3.2. e₂ {d}en-ki-ka₃-še₃ du₃-u₃-de₃ maš₂-e šu mu-un-gid₂-da-a
-?#tr.en: Lord ……. When he performed extispicy regarding the building of @wDN{Enki's} temple,
-?#tr.en: the omen did not mention anything about the building of the temple,
-?#tr.en: so he did not start it. To establish a lasting fame for himself,
-?#tr.en: the king ……;
-?#tr.en: to establish a lasting fame for himself, @wRN{Amar-@wDN{Suena}} …….
-?#tr.en: …… the temple of @wDN{Enki} …….
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: the omen did not mention anything about the building of the temple,
 #lem: e[house]; Enkik[1]DN; du[build]; maš[goat]; šu[hand]; gid[long]
 #etcsl: line-id=seg3.2
 
 seg3.3. maš₂-bi-ta e₂ du₃-a nu-mu-na-ab-be₂ šu-ni la#-ba-ši-in-[ŋar]
+#tr.en: so he did not start it. To establish a lasting fame for himself,
 #lem: maš[goat]; e[house]; du[build]; e[speak]; šu[hand]; ŋar[put]
 #etcsl: line-id=seg3.3
 
 seg3.4. lugal-e mu-ni ud su₃-ra₂-še₃ ŋa₂-ŋa₂-[de₃ ...]
+#tr.en: the king ……;
 #lem: lugal[king]; mu[name]; ud[sun]; sud[distant]; ŋar[put]; X
 #etcsl: line-id=seg3.4
 
 seg3.5. {d}amar-{d}suen mu-ni ud su₃-ra₂#-[še₃ ŋa₂-ŋa₂-de₃] mu#-[...]
+#tr.en: to establish a lasting fame for himself, @wRN{Amar-@wDN{Suena}} …….
 #lem: Amarsuenak[1]RN; mu[name]; ud[sun]; sud[distant]; ŋar[put]; X
 #etcsl: line-id=seg3.5
 
 seg3.6. X mu e₂ {d}en-ki-ke₄# [...]
+#tr.en: …… the temple of @wDN{Enki} …….
 #lem: X; mu[name]; e[house]; Enkik[1]DN; X
 #etcsl: line-id=seg3.6
 
@@ -267,15 +266,14 @@ $ (unknown no. of lines missing)
 @div segment D
 
 seg4.1. en nun gal-an-zu X [...] BI X [...]
+#tr.en: Lord, wise prince ……
 #lem: en[lord]; nun[prince]; galanzu[wise]; X; X; X; X; X
 #etcsl: line-id=seg4.1
 
 #etcsl#eq = UET 6/3 487 obverse; this fragment might belong to the same tablet as UET 8 32, in which case it would preserve the beginning and the end of the tablet
 
 seg4.2. X [...]
-?#tr.en: Lord, wise prince ……
-?$ (@gap{1 line fragmentary}) 
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=seg4.2
 
@@ -285,14 +283,14 @@ $ (unknown no. of lines missing)
 @div segment E
 
 E.1. lu₂# URUD# HA# RI# X# IN# [...] šag₄# [...] BA X X [...]
+#tr.en: He who …….
 #lem: lu[person]; X; X; X; X; X; X; šag[heart]; X; X; X; X; X
 #etcsl: line-id=E.1
 
 #etcsl#eq = UET 6/3 487 reverse
 
 E.2. {d}amar-{d}suen# lugal# <nam>-tar-ra#-ni šag₄-bi X nu-mu-un-ba-ba
-?#tr.en: He who …….
-?#tr.en: King @wRN{Amar-@wDN{Suena}} has not been assigned a fate from (?) it.
+#tr.en: King @wRN{Amar-@wDN{Suena}} has not been assigned a fate from (?) it.
 #lem: Amarsuenak[1]RN; lugal[king]; namtar[fate]; šag[heart]; X; ba[allot]
 #etcsl: line-id=E.2
 

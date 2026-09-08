@@ -7,6 +7,7 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.1&display=Crit&charenc=gcirc#
 
 1. [nam]-lugal an-ta ed₃-de₃-a-ba^1^^2^
+#tr.en: After the kingship descended from heaven,
 #lem: namlugal[kingship]; an[sky]; ed[go up]
 #etcsl: line-id=1
 
@@ -15,190 +16,283 @@
 #etcsl#ms ^2^ In the following composite text, mss. are referred to by the sigla used by Vincente 1995; from those listed there, mss. Fi, Go, P6, and WB 62 were not used; if not specified by a note, numerical data come from ms. WB.
 
 2. eridug#{ki} nam-lugal-la
+#tr.en: the kingship was in @wSN{Eridug}.
 #lem: Eridug[1]SN; namlugal[kingship]
 #etcsl: line-id=2
 
 3. eridug{ki} a₂-lu-lim lugal
+#tr.en: In @wSN{Eridug},
 #lem: Eridug[1]SN; Alulim[1]RN; lugal[king]
 #etcsl: line-id=3
 
 4. mu 28800 i₃-ak
+#tr.en: @wRN{Alulim} became king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=4
 
 5. a₂-lal₃-ŋar mu 36000 i₃-ak
+#tr.en: he ruled for 28800 years.
 #lem: Alalŋar[1]RN; mu[year]; n; ak[do]
 #etcsl: line-id=5
 
 6. 2 lugal
+#tr.en: @wRN{Alalŋar} ruled for 36000 years.
 #lem: n; lugal[king]
 #etcsl: line-id=6
 
 7. mu-<bi> 64800 ib₂-ak
+#tr.en: 2 kings;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=7
 
 8. eridug{ki} ba-šub
+#tr.en: they ruled for 64800 years.
 #lem: Eridug[1]SN; šub[fall]
 #etcsl: line-id=8
 
 9. nam-lugal-bi bad₃-tibira{ki}-še₃
+#tr.en: Then @wSN{Eridug} fell and the
 #lem: namlugal[kingship]; Badtibira[1]SN
 #etcsl: line-id=9
 
 10. ba-de₆
+#tr.en: kingship was taken to @wSN{Bad-tibira}.
 #lem: de[carry]
 #etcsl: line-id=10
 
 11. bad₃-tibira{ki} en-me-en-lu₂-an-na
+#tr.en: In @wSN{Bad-tibira},
 #lem: Badtibira[1]SN; Enmenluanak[1]RN
 #etcsl: line-id=11
 
 12. mu 43200 i₃-ak
+#tr.en: @wRN{En-men-lu-ana} ruled for 43200 years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=12
 
 13. en-me-en-gal-an-na
+#tr.en: @wRN{En-men-gal-ana} ruled for 28800 years.
 #lem: Enmengalanak[1]RN
 #etcsl: line-id=13
 
 14. mu 28800 i₃-ak
+#tr.en: @wRN{Dumuzid},
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=14
 
 15. {d}dumu-zid sipad mu 36000 i₃-ak
+#tr.en: the shepherd,
 #lem: Dumuzid[2]RN; sipad[shepherd]; mu[year]; n; ak[do]
 #etcsl: line-id=15
 
 16. 3 lugal
+#tr.en: ruled for 36000 years.
 #lem: n; lugal[king]
 #etcsl: line-id=16
 
 17. mu-bi 108000 ib₂-ak
+#tr.en: 3 kings;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=17
 
 18. bad₃-tibira{ki} ba-šub-be₂-en
+#tr.en: they ruled for 108000 years.
 #lem: Badtibira[1]SN; šub[fall]
 #etcsl: line-id=18
 
 19. nam-lugal-bi la-ra-ag{ki}-še₃ ba-de₆
+#tr.en: Then @wSN{Bad-tibira} fell (?) and the
 #lem: namlugal[kingship]; Larag[1]SN; de[carry]
 #etcsl: line-id=19
 
 20. la-ra-ag{ki} en-sipad-zid-an-na
+#tr.en: kingship was taken to @wSN{Larag}.
 #lem: Larag[1]SN; Ensipadzidanak[1]RN
 #etcsl: line-id=20
 
 21. mu 28800 i₃-ak
+#tr.en: In @wSN{Larag},
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=21
 
 22. 1 lugal
+#tr.en: @wRN{En-sipad-zid-ana} ruled for 28800 years.
 #lem: n; lugal[king]
 #etcsl: line-id=22
 
 23. mu-bi 28800 ib₂-ak
+#tr.en: 1 king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=23
 
 24. la-ra-ag{ki} ba-šub-be₂-en
+#tr.en: he ruled for 28800 years.
 #lem: Larag[1]SN; šub[fall]
 #etcsl: line-id=24
 
 25. nam-lugal-bi zimbir{ki}-še₃ ba-de₆
+#tr.en: Then @wSN{Larag} fell (?) and the kingship was taken to @wSN{Zimbir}.
 #lem: namlugal[kingship]; Zimbir[1 Sippar]; de[carry]
 #etcsl: line-id=25
 
 26. zimbir{ki} en-me-en-dur₂-an-na
+#tr.en: In @wSN{Zimbir},
 #lem: Zimbir[1 Sippar]; Enmenduranak[1]RN
 #etcsl: line-id=26
 
 27. lugal-am₃ mu 21000 i₃-ak
+#tr.en: @wRN{En-men-dur-ana} became king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=27
 
 28. 1 lugal
+#tr.en: he ruled for 21000 years.
 #lem: n; lugal[king]
 #etcsl: line-id=28
 
 29. mu-bi 21000 ib₂-ak
+#tr.en: 1 king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=29
 
 30. zimbir{ki} ba-šub-be₂-en
+#tr.en: he ruled for 21000 years.
 #lem: Zimbir[1 Sippar]; šub[fall]
 #etcsl: line-id=30
 
 31. nam-lugal-bi šuruppag{ki}-<še₃> ba-de₆
+#tr.en: Then @wSN{Zimbir} fell (?) and the kingship was taken to @wSN{Šuruppag}.
 #lem: namlugal[kingship]; Šuruppag[1]SN; de[carry]
 #etcsl: line-id=31
 
 32. šuruppag{ki} ubur-tu₃-tu₃
+#tr.en: In @wSN{Šuruppag},
 #lem: Šuruppag[1]SN; Uburtutu[1]RN
 #etcsl: line-id=32
 
 33. lugal-am₃ mu 18600 i₃-ak
+#tr.en: @wRN{Ubara-@wDN{Tutu}} became king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=33
 
 34. 1 lugal
+#tr.en: he ruled for 18600 years.
 #lem: n; lugal[king]
 #etcsl: line-id=34
 
 35. mu-bi 18600 ib₂-ak
+#tr.en: 1 king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=35
 
 36. 5 iri{ki}-me-eš
+#tr.en: he ruled for 18600 years.
 #lem: n; iri[city]
 #etcsl: line-id=36
 
 37. 8 lugal
+#tr.en: In 5 cities 8 kings;
 #lem: n; lugal[king]
 #etcsl: line-id=37
 
 38. mu-<bi> 241200 ib₂-ak
+#tr.en: they ruled for 241200 years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=38
 
 39. a-ma-ru ba-ur₃-<<ra-ta>>
+#tr.en: Then the flood swept over.
 #lem: amaru[flood]; ur[drag]
 #etcsl: line-id=39
 
 40. eŋer a-ma-ru ba-ur₃-ra-ta
+#tr.en: After the flood had swept over,
 #lem: egir[back]; amaru[flood]; ur[drag]
 #etcsl: line-id=40
 
 41. nam-lugal an-ta ed₃-de₃-a-ba
+#tr.en: and the kingship had descended from heaven,
 #lem: namlugal[kingship]; an[sky]; ed[go up]
 #etcsl: line-id=41
 
 42. kiš{ki} nam-lugal-la
+#tr.en: the kingship was in @wSN{Kiš}.
 #lem: Kiš[1]SN; namlugal[kingship]
 #etcsl: line-id=42
 
 43. kiš{ki} {ŋeš}ŋušur
+#tr.en: In @wSN{Kiš}, @wRN{Ŋušur} became king;
 #lem: Kiš[1]SN; Ŋušur[1]RN
 #etcsl: line-id=43
 
 44. lugal-am₃
+#tr.en: he ruled for 1200 years.
 #lem: lugal[king]
 #etcsl: line-id=44
 
 45. mu 1200 i₃-ak
+#tr.en: @wRN{Kullassina-bēl} ruled for @varh[t211.v1]{960 } @vart[t211.v2,t211.v1]{@varn{ms. P2+L2 has instead:} 900 } years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=45
 
 46. kul₂-la-si₂-na-be#-el
+#tr.en: @wRN{Nanŋišlišma} ruled for @varn{ms. P2+L2 has:} @varh[t211.v501]{670 } (?) years.
 #lem: Kullassinabel[1]RN
 #etcsl: line-id=46
 
 47. mu (1:960:1) i₃-ak
+#tr.en: @wRN{En-taraḫ-ana} ruled for @varn{ms. P2+L2 has:} @varh[t211.v502]{420 } years ……,
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=47
 
 :47v.1.1: ($ms. P2+L2 has instead:$) 900
+?#tr.en: 3 months,
+?#tr.en: and 3 1/2 days.
+?#tr.en: @wRN{Babum} …… ruled for @varn{ms. P2+L2 has:} @varh[t211.v503]{300 } years.
+?#tr.en: @wRN{Puannum} ruled for @varh[t211.v3]{840 } @vart[t211.v4,t211.v3]{@varn{ms. P2+L2 has instead:} 240 } years.
+?#tr.en: @wRN{Kalibum} ruled for @varh[t211.v5]{960 } @vart[t211.v6,t211.v5]{@varn{ms. P2+L2 has instead:} 900 } years.
+?#tr.en: @wRN{Kalūmum} ruled for @varh[t211.v7]{840 } @vart[t211.v8,t211.v7]{@varn{mss. P3+BT14, Su1 have instead:} 900 } years.
+?#tr.en: @wRN{Zuqāqīp} ruled for @varh[t211.v9]{900 } @vart[t211.v10,t211.v9]{@varn{ms. Su1 has instead:} 600 } years.
+?#tr.en: @note{in mss. P2+L2, P3+BT14, P5, the 10th and 11th rulers of the dynasty precede the 8th and 9th} @varh[t211.v11]{@wRN{Atab} } @vart[t211.v12,t211.v11]{@varn{mss. P2+L2, P3+BT14, P5 have instead:} @wRN{A-ba} } ruled for 600 years.
+?#tr.en: @wRN{Mašda}, the son of @wRN{Atab},
+?#tr.en: ruled for @varh[t211.v13]{840 } @vart[t211.v14,t211.v13]{@varn{ms. Su1 has instead:} 720 } years.
+?#tr.en: @wRN{Arwium},
+?#tr.en: the son of @wRN{Mašda},
+?#tr.en: ruled for 720 years.
+?#tr.en: @wRN{Etana}, the shepherd,
+?#tr.en: who ascended to heaven and consolidated all the foreign countries,
+?#tr.en: became king;
+?#tr.en: he ruled for @varh[t211.v15]{1500 } @vart[t211.v16,t211.v15]{@varn{ms. P2+L2 has instead:} 635 } years.
+?#tr.en: @wRN{Baliḫ},
+?#tr.en: the son of @wRN{Etana},
+?#tr.en: ruled for @varh[t211.v17]{400 } @vart[t211.v18,t211.v17]{@varn{mss. P2+L2, Su1 have instead:} 410 } years.
+?#tr.en: @wRN{En-me-nuna} ruled for @varh[t211.v19]{660 } @vart[t211.v20,t211.v19]{@varn{ms. P2+L2 has instead:} 621 } years.
+?#tr.en: @wRN{Melem-Kiš},
+?#tr.en: the son of @wRN{En-me-nuna},
+?#tr.en: ruled for 900 years.
+?#tr.en: @vart[t211.v21,t211.v21]{@varn{ms. P3+BT14 adds:} 1560 are the years of the dynasty of @wRN{En-me-nuna}. } @varh[t211.v22]{@wRN{Barsal-nuna},
+?#tr.en: the son of @wRN{En-me-nuna},
+?#tr.en: } @vart[t211.v23,t211.v22]{@varn{mss. P5, P3+BT14 have instead:} @wRN{Barsal-nuna} } ruled for 1200 years.
+?#tr.en: @wRN{Zamug},
+?#tr.en: the son of @wRN{Barsal-nuna},
+?#tr.en: ruled for 140 years.
+?#tr.en: @wRN{Tizqār},
+?#tr.en: the son of @wRN{Zamug},
+?#tr.en: ruled for 305 years.
+?#tr.en: @vart[t211.v24,t211.v24]{@varn{ms. P3+BT14 adds:} 1620 + X ……. } @wRN{Ilku} ruled for 900 years.
+?#tr.en: @wRN{Iltasadum} ruled for 1200 years.
+?#tr.en: @wRN{En-me-barage-si},
+?#tr.en: who made the land of @wGN{Elam} submit,
+?#tr.en: became king;
+?#tr.en: he ruled for 900 years.
+?#tr.en: @wRN{Aga},
+?#tr.en: the son of @wRN{En-me-barage-si},
+?#tr.en: ruled for 625 years.
+?#tr.en: @vart[t211.v25,t211.v25]{@varn{ms. P3+BT14 adds:} 1525 are the years of the dynasty of @wRN{En-me-barage-si}. } 23 kings;
+?#tr.en: they ruled for 24510 years,
+?#tr.en: 3 months,
+?#tr.en: and 3 1/2 days.
+?#tr.en: Then @wSN{Kiš} was defeated and the kingship was taken to @wTN{E-ana}.
 #lem: n
 
 48. na-an-ŋiš-li-iš-ma
@@ -459,22 +553,61 @@
 #etcsl: line-id=94
 
 95. e₂-an-na-ka
+#tr.en: In @wTN{E-ana},
 #lem: Eanak[1]TN
 #etcsl: line-id=95
 
 96. meš₃-ki-aŋ₂-ga-še-er
+#tr.en: @wRN{Meš-ki-aŋ-gašer},
 #lem: Meškiaŋgašer[1]RN
 #etcsl: line-id=96
 
 97. dumu {d}utu en-am₃
+#tr.en: the son of @wDN{Utu},
 #lem: dumu[child]; Utu[1]DN; en[lord]
 #etcsl: line-id=97
 
 98. lugal-am₃ mu (1:324#:1) i₃-ak
+#tr.en: became lord and king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=98
 
 :98v.1.1: ($ms. P2+L2 has instead:$) 325
+?#tr.en: he ruled for @varh[t211.v26]{324 } @vart[t211.v27,t211.v26]{@varn{ms. P2+L2 has instead:} 325 } years.
+?#tr.en: @wRN{Meš-ki-aŋ-gašer} entered the sea and disappeared.
+?#tr.en: @wRN{Enmerkar},
+?#tr.en: the son of @wRN{Meš-ki-aŋ-gašer},
+?#tr.en: the king of @wSN{Unug},
+?#tr.en: @varh[t211.v28]{who built @wSN{Unug} } @vart[t211.v29,t211.v28]{@varn{mss. L1+N1, P2+L2 have instead:} under whom @wSN{Unug} was built }, became king;
+?#tr.en: he ruled for @varh[t211.v30]{420 } @vart[t211.v31,t211.v30]{@varn{ms. TL has instead:} 900 + X } years.
+?#tr.en: @vart[t211.v32,t211.v32]{@varn{ms. P3+BT14 adds:} 745 are the years of the dynasty of @wRN{Meš-ki-aŋ-gašer}. } @vart[t211.v33,t211.v32]{@varn{ms TL adds instead:} ……; he ruled for 5 + X years. } @wRN{Lugalbanda},
+?#tr.en: the shepherd,
+?#tr.en: ruled for 1200 years.
+?#tr.en: @wRN{Dumuzid},
+?#tr.en: the fisherman whose city was @wSN{Kuara},
+?#tr.en: ruled for @varh[t211.v34]{100 } @vart[t211.v35,t211.v34]{@varn{ms. TL has instead:} 110 } years.
+?#tr.en: @vart[t211.v36,t211.v36]{@varn{ms. P3+BT14 adds:} He captured @wRN{En-me-barage-si} single-handed. } @wRN{Gilgameš},
+?#tr.en: whose father was a phantom (?),
+?#tr.en: the lord of @wSN{Kulaba},
+?#tr.en: ruled for 126 years.
+?#tr.en: @wRN{Ur-@wDN{Nungal}},
+?#tr.en: the son of @wRN{Gilgameš},
+?#tr.en: ruled for 30 years.
+?#tr.en: @wRN{Udul-kalama},
+?#tr.en: the son of @varh[t211.v37]{@wRN{Ur-@wDN{Nungal}}
+?#tr.en: } @vart[t211.v38,t211.v37]{@varn{ms. Su1 has instead:} @wRN{Ur-lugal} }, ruled for 15 years.
+?#tr.en: @wRN{Lā-baʾšum} ruled for 9 years.
+?#tr.en: @wRN{En-nun-taraḫ-ana} ruled for 8 years.
+?#tr.en: @wRN{Meš-ḫe},
+?#tr.en: the smith,
+?#tr.en: ruled for 36 years.
+?#tr.en: @varh[t211.v39]{@wRN{Melem-ana} } @vart[t211.v40,t211.v39]{@varn{ms. Su2 has instead:} @wRN{Til-kug} (?) …… } ruled
+?#tr.en: for @varh[t211.v41]{6 } @vart[t211.v42,t211.v41]{@varn{ms. Su2 has instead:} 900 } years.
+?#tr.en: @wRN{Lugal-kitun} (?) ruled for @varh[t211.v43]{36 } @vart[t211.v44,t211.v43]{@varn{ms. Su2 has instead:} 420 } years.
+?#tr.en: 12 kings;
+?#tr.en: they ruled for @varh[t211.v45]{2310 } @vart[t211.v46,t211.v45]{@varn{ms. Su2 has instead:} 3588 } years.
+?#tr.en: Then @wSN{Unug} was defeated and the
+?#tr.en: kingship was taken to @wSN{Urim}.
 #lem: n
 
 99. meš₃-ki-aŋ₂-ga-še-er
@@ -672,22 +805,36 @@
 #etcsl: line-id=133
 
 134. urim₂{ki}-ma
+#tr.en: In @wSN{Urim},
 #lem: Urim[1]SN
 #etcsl: line-id=134
 
 135. meš₃-an-ne₂-pad₃-da
+#tr.en: @wRN{Meš-@wDN{Ane}-pada} became king;
 #lem: Mešanepada[1]RN
 #etcsl: line-id=135
 
 136. lugal-am₃ mu 80 i₃-ak
+#tr.en: he ruled for 80 years.
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=136
 
 137. (1:meš₃-ki-aŋ₂-{d}nanna:1)
+#tr.en: @varh[t211.v47]{@wRN{Meš-ki-aŋ-@wDN{Nanna}} } @vart[t211.v48,t211.v47]{@varn{ms. P2+L2 has instead:} @wRN{Meš-ki-aŋ-nuna} }, the son of @wRN{Meš-@wDN{Ane}-pada},
 #lem: Meškiaŋnanna[1]RN
 #etcsl: line-id=137
 
 :137v.1.1: ($ms. P2+L2 has instead:$) meš₃-ki-aŋ₂-nun-na
+?#tr.en: became king;
+?#tr.en: he ruled for
+?#tr.en: @varh[t211.v49]{36 } @vart[t211.v50,t211.v49]{@varn{ms. P2+L2 has instead:} 30 } years.
+?#tr.en: @wRN{Elulu} ruled for
+?#tr.en: @varn{mss. L1+N1, P2+L2, P3+BT14 have:} @varh[t211.v504]{25 } years.
+?#tr.en: @wRN{Balulu} ruled for @varn{mss. L1+N1, P2+L2, P3+BT14 have:} @varh[t211.v505]{36 } years.
+?#tr.en: @varn{mss. L1+N1, P2+L2 have:} @varh[t211.v506]{4 } kings;
+?#tr.en: they ruled for @varn{mss. L1+N1, P2+L2, P3+BT14 have:} @varh[t211.v507]{171 } years.
+?#tr.en: Then @wSN{Urim} was defeated and the
+?#tr.en: kingship was taken to @wSN{Awan}.
 #lem: Meškiaŋnuna[1]RN
 
 138. dumu meš₃-an-ne₂-pad₃-da
@@ -746,14 +893,17 @@
 #etcsl: line-id=147
 
 148. a-wa-an{ki}-[na]
+#tr.en: In @wSN{Awan},
 #lem: Awan[1]SN
 #etcsl: line-id=148
 
 149. [... lugal-am₃]
+#tr.en: …… became king;
 #lem: X; lugal[king]
 #etcsl: line-id=149
 
 150. [mu ... i₃-ak]
+#tr.en: he ruled for
 #lem: mu[year]; X; ak[do]
 #etcsl: line-id=150
 
@@ -791,22 +941,41 @@ $ 1 line missing
 #etcsl: line-id=159
 
 160. kiš{ki} su₈-sud₃-da {lu₂}azlag₂
+#tr.en: In @wSN{Kiš},
 #lem: Kiš[1]SN; Susuda[1]RN; azlag[fuller]
 #etcsl: line-id=160
 
 161. lugal-am₃
+#tr.en: @wRN{Susuda},
 #lem: lugal[king]
 #etcsl: line-id=161
 
 162. mu 201 X i₃#-ak
+#tr.en: the fuller,
 #lem: mu[year]; n; X; ak[do]
 #etcsl: line-id=162
 
 163. da-da-sig mu (1::1) i₃-ak
+#tr.en: became king;
 #lem: Dadasig[1]RN; mu[year]; ak[do]
 #etcsl: line-id=163
 
 :163v.1.1: ($ms. vD has:$) 81
+?#tr.en: he ruled for 201 + X years.
+?#tr.en: @wRN{Dadasig} ruled for @varn{ms. vD has:} @varh[t211.v508]{81 } years.
+?#tr.en: @wRN{Mamagal},
+?#tr.en: the boatman,
+?#tr.en: ruled for @varh[t211.v51]{360 } @vart[t211.v52,t211.v51]{@varn{ms. L1+N1 has instead:} 420 } years.
+?#tr.en: @wRN{Kalbum},
+?#tr.en: the son of @varh[t211.v53]{@wRN{Mamagal} } @vart[t211.v54,t211.v53]{@varn{ms. WB has instead:} @wRN{Magalgal} }, ruled for @varh[t211.v55]{195 } @vart[t211.v56,t211.v55]{@varn{ms. L1+N1 has instead:} 132 } years.
+?#tr.en: @wRN{Tuge} (?) ruled for 360 years.
+?#tr.en: @wRN{Men-nuna} @vart[t211.v57,t211.v57]{,@varn{ms. L1+N1 adds:} the son of @wRN{Tuge} (?), } ruled for 180 years.
+?#tr.en: @note{in mss. L1+N1, TL, the 7th and 8th rulers of the dynasty are in reverse order} …… ruled for 290 years.
+?#tr.en: @wRN{Lugalŋu} ruled for @varh[t211.v58]{360 } @vart[t211.v59,t211.v58]{@varn{ms. L1+N1 has instead:} 420 } years.
+?#tr.en: 8 kings;
+?#tr.en: they ruled for @varh[t211.v60]{3195 } @vart[t211.v61,t211.v60]{@varn{ms. L1+N1 has instead:} 3792 } years.
+?#tr.en: Then @wSN{Kiš} was defeated and the
+?#tr.en: kingship was taken to @wSN{Ḫamazi}.
 #lem: n
 
 164. ma₂-ma₂-gal {lu₂}ma₂-lah₄-e
@@ -890,34 +1059,48 @@ $ 1 line missing
 #etcsl: line-id=178
 
 179. ha-ma-zi₂{ki}-a ha-da-ni-iš
+#tr.en: In @wSN{Ḫamazi},
 #lem: Hamazi[1]SN; Hadaniš[1]RN
 #etcsl: line-id=179
 
 180. lugal-am₃
+#tr.en: @wRN{Hadaniš} became king;
 #lem: lugal[king]
 #etcsl: line-id=180
 
 181. mu 6 šu-ši i₃-ak
+#tr.en: he ruled for 360 years.
 #lem: mu[year]; n; n; ak[do]
 #etcsl: line-id=181
 
 182. 1 lugal
+#tr.en: 1 king;
 #lem: n; lugal[king]
 #etcsl: line-id=182
 
 183. mu-bi 6 šu-ši ib₂-ak
+#tr.en: he ruled for 360 years.
 #lem: mu[year]; n; n; ak[do]
 #etcsl: line-id=183
 
 184. ha-ma-zi₂{ki} {ŋiš}tukul ba-an-sag₃
+#tr.en: Then @wSN{Ḫamazi} was defeated and the
 #lem: Hamazi[1]SN; tukul[weapon]; sag[strike]
 #etcsl: line-id=184
 
 185. (1:nam-lugal-bi unug{ki}-še₃ ba-de₆:1)
+#tr.en: kingship @varh[t211.v62]{was taken } @vart[t211.v63,t211.v62]{@varn{ms. P3+BT14 has instead:} was returned a second time } to @wSN{Unug}.
 #lem: namlugal[kingship]; Unug[1]SN; de[carry]
 #etcsl: line-id=185
 
 :185v.1.1: ($ms. P3+BT14 has instead:$) [nam]-lugal# a-ra₂ 2-kam-ma-še₃ [unug]{ki}-še₃ ba-e-gur
+?#tr.en: In @wSN{Unug}, @wRN{En-šag-kuš-ana} became king;
+?#tr.en: he ruled for 60 years.
+?#tr.en: @varh[t211.v64]{@wRN{Lugal-ure} } @vart[t211.v65,t211.v64]{@varn{ms. P3+BT14 has instead:} @wRN{Lugal-kiniše-dudu} (?) } ruled for 120 years.
+?#tr.en: @wRN{Argandea} ruled for 7 years.
+?#tr.en: @varn{ms. L1+N1 has:} @varh[t211.v509]{3 } kings;
+?#tr.en: they ruled for @varn{ms. L1+N1 has:} @varh[t211.v510]{187 } years.
+?#tr.en: Then @wSN{Unug} was @varh[t211.v66]{defeated } @vart[t211.v67,t211.v66]{@varn{ms. TL has instead:} destroyed } and the kingship was taken to @wSN{Urim}.
 #lem: namlugal[kingship]; ara[times (with numbers)]; n; Unug[1]SN; gur[turn]
 
 #etcsl#ms In mss. IB, L1+N1, TL, the 2nd dynasty of Unug of lines 185-191 is preceded by the 2nd dynasty of Urim of lines 192-203.
@@ -962,18 +1145,30 @@ $ 1 line missing
 #etcsl: line-id=192
 
 193. urim₂#-ma na-an-ni
+#tr.en: In @wSN{Urim},
 #lem: Urim[1]SN; Nanni[1]RN
 #etcsl: line-id=193
 
 194. lugal-am₃
+#tr.en: @wRN{Nanni} became king;
 #lem: lugal[king]
 #etcsl: line-id=194
 
 195. mu (1:($ms. vD has:$) 120 X:1) i₃-ak
+#tr.en: he ruled
 #lem: mu[year]; n; X; ak[do]
 #etcsl: line-id=195
 
 :195v.1.1: ($ms. IB has instead:$) X 54
+?#tr.en: for @vart[t211.v68,t211.v68]{@varn{ms. vD has:} 120 + X } @vart[t211.v69,t211.v68]{@varn{ms. IB has instead:} 54 + X } years.
+?#tr.en: @wRN{Meš-ki-aŋ-@wDN{Nanna}},
+?#tr.en: the son of @wRN{Nanni},
+?#tr.en: ruled for @varn{ms. vD has:}
+?#tr.en: @varh[t211.v512]{48 } years.
+?#tr.en: @vart[t211.v70,t211.v513]{……, the son (?) of ……, ruled for @varn{ms. IB has:} @varh[t211.v513]{2 } years. @varn{ms. IB has:} @varh[t211.v514]{3 } kings; they ruled for @vart[t211.v71,t211.v71]{@varn{ms. IB has:} 582 } @vart[t211.v72,t211.v71]{@varn{ms. TL has instead:} 578 } years. } @vart[t211.v73,t211.v70]{@varn{ms. vD has instead:} 2 kings; they ruled for 120 + X years. } Then @wSN{Urim}
+?#tr.en: was @varh[t211.v74]{defeated }
+?#tr.en: @vart[t211.v75,t211.v74]{@varn{ms. TL has instead:} destroyed } and the
+?#tr.en: kingship was taken to @wSN{Adab}.
 #lem: X; n
 
 196. meš₃-ki-aŋ₂-{d}nanna# dumu na-an-ni-ke₄
@@ -1042,14 +1237,20 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=204
 
 205. adab{ki}-ba# lugal-an-ne₂-mu-un-du₃
+#tr.en: In @wSN{Adab},
 #lem: Adab[1]SN; Lugalanemundu[1]RN
 #etcsl: line-id=205
 
 206. lugal-am₃ mu (1::1) in-ak
+#tr.en: @wRN{Lugal-@wDN{Ane}-mundu} became king;
 #lem: lugal[king]; mu[year]; ak[do]
 #etcsl: line-id=206
 
 :206v.1.1: ($mss. L1+N1, TL have:$) 90
+?#tr.en: he ruled for @varn{mss. L1+N1, TL have:} @varh[t211.v516]{90 } years.
+?#tr.en: @varn{mss. L1+N1, TL have:} @varh[t211.v517]{1 } king;
+?#tr.en: he ruled for @varn{mss. L1+N1, TL have:} @varh[t211.v518]{90 } years.
+?#tr.en: Then @wSN{Adab} was @varh[t211.v76]{defeated } @vart[t211.v77,t211.v76]{@varn{ms. TL has instead:} destroyed } and the kingship was taken to @wSN{Mari}.
 #lem: n
 
 207. (1::1) lugal
@@ -1078,14 +1279,27 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=210
 
 211. ma-ri₂{ki}-a AN-BU
+#tr.en: In @wSN{Mari}, @wRN{Anbu} (?) became king;
 #lem: Mari[1]SN; AN.BU[1]RN
 #etcsl: line-id=211
 
 212. lugal-am₃ mu (1:30:1) i₃-ak
+#tr.en: he ruled for @varh[t211.v78]{30 } @vart[t211.v79,t211.v78]{@varn{ms. TL has instead:} 90 } years.
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=212
 
 :212v.1.1: ($ms. TL has instead:$) 90
+?#tr.en: @wRN{Anba} (?), the son of @wRN{Anbu} (?),
+?#tr.en: ruled for @varh[t211.v80]{17 } @vart[t211.v81,t211.v80]{@varn{ms. TL has instead:} 7 } years.
+?#tr.en: @wRN{Bazi}, the leatherworker, ruled for 30 years.
+?#tr.en: @wRN{Zizi}, the fuller, ruled for 20 years.
+?#tr.en: @wRN{Limer},
+?#tr.en: the @fsux{gudug} priest,
+?#tr.en: ruled for 30 years.
+?#tr.en: @wRN{Šarrum-īter} ruled for @varh[t211.v82]{9 } @vart[t211.v83,t211.v82]{@varn{ms. TL has instead:} 7 } years.
+?#tr.en: 6 kings;
+?#tr.en: they ruled for @varh[t211.v84]{136 } @vart[t211.v85,t211.v84]{@varn{ms. TL has instead:} 184 } years.
+?#tr.en: Then @wSN{Mari} was @varh[t211.v86]{defeated } @vart[t211.v87,t211.v86]{@varn{ms. TL has instead:} destroyed } and the kingship was taken to @wSN{Kiš}.
 #lem: n
 
 213. AN-BA dumu AN-BU-ke₄
@@ -1145,34 +1359,42 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=223
 
 224. kiš{ki}-a kug-{d}ba-u₂
+#tr.en: In @wSN{Kiš}, @wRN{Kug-@wDN{Bau}},
 #lem: Kiš[1]SN; Kugbau[1]RN
 #etcsl: line-id=224
 
 225. {f}lu₂-kurun-na
+#tr.en: the woman tavern-keeper,
 #lem: lukurunak[brewer]
 #etcsl: line-id=225
 
 226. suhuš kiš{ki} mu-un-gen₆-na
+#tr.en: who made firm the foundations of @wSN{Kiš},
 #lem: suhuš[foundation]; Kiš[1]SN; gin[confirm]
 #etcsl: line-id=226
 
 227. lugal-am₃ mu 100 i₃-ak
+#tr.en: became king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=227
 
 228. 1 lugal
+#tr.en: she ruled for 100 years.
 #lem: n; lugal[king]
 #etcsl: line-id=228
 
 229. mu-bi 100 i₃-ak
+#tr.en: 1 king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=229
 
 230. kiš{ki} (1:{[ŋiš]}[tukul] ba-an-sag₃:1)
+#tr.en: she ruled for 100 years.
 #lem: Kiš[1]SN; tukul[weapon]; sag[strike]
 #etcsl: line-id=230
 
 :230v.1.1: ($ms. TL has instead:$) ba-gul#
+?#tr.en: Then @wSN{Kiš} was @varh[t211.v88]{defeated } @vart[t211.v89,t211.v88]{@varn{ms. TL has instead:} destroyed } and the kingship was taken to @wSN{Akšak}.
 #lem: gul[destroy]
 
 231. nam-lugal-bi akšak{ki}-<še₃> ba-de₆
@@ -1180,18 +1402,30 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=231
 
 232. akšak{ki}-a un-zi
+#tr.en: In @wSN{Akšak},
 #lem: Akšak[1]SN; Unzi[1]RN
 #etcsl: line-id=232
 
 233. lugal-am₃ mu 30 i₃-ak
+#tr.en: @wRN{Unzi} became king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=233
 
 234. un-da-lu-lu mu (1:6:1) i₃-ak
+#tr.en: he ruled for 30 years.
 #lem: Undalulu[1]RN; mu[year]; n; ak[do]
 #etcsl: line-id=234
 
 :234v.1.1: ($mss. L1+N1, S have instead:$) 12
+?#tr.en: @wRN{Undalulu} ruled for @varh[t211.v90]{6 } @vart[t211.v91,t211.v90]{@varn{mss. L1+N1, S have instead:} 12 } years.
+?#tr.en: @wRN{Urur} @varh[t211.v92]{ruled for } @vart[t211.v93,t211.v92]{@varn{ms. IB has instead:} was king (?) for } 6 years.
+?#tr.en: @wRN{Puzur-@wDN{Niraḫ}} ruled for @varn{mss. IB, L1+N1, S, Su1 have:} @varh[t211.v519]{20 } years.
+?#tr.en: @wRN{Išu-@wDN{Il}} ruled for @varn{mss. IB, L1+N1, S, Su1 have:} @varh[t211.v520]{24 } years.
+?#tr.en: @wRN{Šu-@wDN{Suen}},
+?#tr.en: the son of @wRN{Išu-@wDN{Il}},
+?#tr.en: ruled for @vart[t211.v94,t211.v94]{@varn{mss. IB, L1+N1, S, TL have:} 7 } @vart[t211.v95,t211.v94]{@varn{ms. Su1 has instead:} 24 } years.
+?#tr.en: @vart[t211.v96,t211.v96]{@varn{mss. S, Su1, TL have:} @varh[t211.v522]{6 } kings; they ruled for @vart[t211.v97,t211.v97]{@varn{mss. L1+N1, S, TL have:} 99 } @vart[t211.v98,t211.v97]{@varn{ms. Su1 has instead:} 116 } years } @vart[t211.v99,t211.v96]{@varn{ms. IB has instead:} 5 kings; they ruled for @varn{ms. IB has:} @varh[t211.v524]{87 } years }. @varh[t211.v100]{Then @wSN{Akšak} was defeated
+?#tr.en: } @vart[t211.v101,t211.v100]{@varn{ms. S has instead:} Then the reign of @wSN{Akšak} was abolished } and the kingship was taken to @wSN{Kiš}.
 #lem: n
 
 235. ur-ur mu 6 (1:i₃-ak:1)
@@ -1254,32 +1488,47 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=243
 
 244. kiš{ki}-a puzur₄-{d}suen
+#tr.en: In @wSN{Kiš}, @wRN{Puzur-@wDN{Suen}}, the son of @wRN{Kug-@wDN{Bau}},
 #lem: Kiš[1]SN; Puzursuen[1]RN
 #etcsl: line-id=244
 
 #etcsl#ms Mss. IB, S, Su1, Su3+Su4 list the 3rd and 4th dynasty of Kiš of lines 224-231 and lines 244-258, respectively, as one dynasty; IB places Akšak after the 3rd/4th dynasty of Kiš; S, Su1 place Akšak before the 3rd/4th dynasty of Kiš.
 
 245. dumu kug-{d}ba-u₂-ke₄
+#tr.en: became king;
 #lem: dumu[child]; Kugbau[1]RN
 #etcsl: line-id=245
 
 246. lugal-am₃ mu 25 i₃-ak
+#tr.en: he ruled for 25 years.
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=246
 
 247. ur-{d}za-ba₄-ba₄
+#tr.en: @wRN{Ur-@wDN{Zababa}}, the son of @wRN{Puzur-@wDN{Suen}},
 #lem: Urzababa[1]RN
 #etcsl: line-id=247
 
 248. dumu puzur₄-{d}suen-na#-ke₄
+#tr.en: ruled for @varh[t211.v102]{400 } @vart[t211.v103,t211.v102]{@varn{mss. P3+BT14, S have instead:} 6 } @vart[t211.v104,t211.v102]{@varn{ms. IB has instead:} 4 + X } years.
 #lem: dumu[child]; Puzursuen[1]RN
 #etcsl: line-id=248
 
 249. mu (1:400:1) i₃-ak
+#tr.en: @vart[t211.v105,t211.v105]{@varn{ms. P3+BT14 adds:} 131 are the years of the dynasty of @wRN{Kug-@wDN{Bau}}. } @varh[t211.v106]{@wRN{Zimudar} } @vart[t211.v107,t211.v106]{@varn{ms. TL has instead:} @wRN{Ziŋu-iake} } ruled for @varh[t211.v108]{30 } @vart[t211.v109,t211.v108]{@varn{ms. IB has instead:} 30 + X } years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=249
 
 :249v.1.1: ($mss. P3+BT14, S have instead:$) 6
+?#tr.en: @wRN{Usi-watar},
+?#tr.en: the son of @varh[t211.v110]{@wRN{Zimudar} } @vart[t211.v111,t211.v110]{@varn{ms. TL has instead:} @wRN{Ziŋu-iake} }, ruled for @varh[t211.v112]{7 } @vart[t211.v113,t211.v112]{@varn{ms. S has instead:} 6 } years.
+?#tr.en: @wRN{@wDN{Eštar}-muti} ruled for @varh[t211.v114]{11 } @vart[t211.v115,t211.v114]{@varn{ms. Su1 has instead:} 17 (?) } years.
+?#tr.en: @wRN{Išme-@wDN{Šamaš}} ruled for 11 years.
+?#tr.en: @vart[t211.v116,t211.v116]{@varn{ms. Su1 adds:} @wRN{Šu-ilīšu} ruled for 15 years. } @varh[t211.v117]{@wRN{Nanniya},
+?#tr.en: the jeweller,
+?#tr.en: } @vart[t211.v118,t211.v117]{@varn{ms. Su1 has instead:} @wRN{Zimudar} } @vart[t211.v119,t211.v117]{@varn{ms. IB has instead:} …… } ruled for @varh[t211.v120]{7 } @vart[t211.v121,t211.v120]{@varn{ms. S has instead:} 3 } years.
+?#tr.en: @varh[t211.v122]{7 kings;
+?#tr.en: they ruled for @varh[t211.v123]{491 } @vart[t211.v124,t211.v123]{@varn{ms. Su1 has instead:} 485 } years } @vart[t211.v125,t211.v122]{@varn{ms. S has instead:} 8 kings; they ruled for @varn{ms. S has:} @varh[t211.v525]{586 } years }. @varh[t211.v126]{Then @wSN{Kiš} was defeated } @vart[t211.v127,t211.v126]{@varn{ms. S has instead:} Then the reign of @wSN{Kiš} was abolished } and the kingship @varh[t211.v128]{was taken } @vart[t211.v129,t211.v128]{@varn{ms. P3+BT14 has instead:} was returned a third time } to @wSN{Unug}.
 #lem: n
 :249v.1.2: ($ms. IB has instead:$) 4 X
 #lem: n; X
@@ -1377,14 +1626,21 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl#ms Ms. IB omits the 3rd dynasty of Unug of lines 258-263.
 
 259. unug{ki}-ga lugal-zag-ge-si
+#tr.en: In @wSN{Unug},
 #lem: Unug[1]SN; Lugalzagesi[1]RN
 #etcsl: line-id=259
 
 260. lugal-am₃ mu (1:25:1) i₃-ak
+#tr.en: @wRN{Lugal-zage-si} became king;
 #lem: lugal[king]; mu[year]; n; ak[do]
 #etcsl: line-id=260
 
 :260v.1.1: ($ms. P3+BT14 has instead:$) 34
+?#tr.en: he ruled for @varh[t211.v130]{25 } @vart[t211.v131,t211.v130]{@varn{ms. P3+BT14 has instead:} 34 } years.
+?#tr.en: 1 king;
+?#tr.en: he ruled for @varh[t211.v132]{25 } @vart[t211.v133,t211.v132]{@varn{ms. P3+BT14 has instead:} 34 } years.
+?#tr.en: @varh[t211.v134]{Then @wSN{Unug} was defeated } @vart[t211.v135,t211.v134]{@varn{ms. S has instead:} Then the reign of @wSN{Unug} was abolished }
+?#tr.en: and the kingship was taken to @wSN{Agade}.
 #lem: n
 
 261. 1 lugal
@@ -1414,26 +1670,57 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=265
 
 266. a-ga-de₃{ki}-a šar-ru-ki-in
+#tr.en: In @wSN{Agade}, @wRN{Sargon},
 #lem: Agade[1]SN; Sargon[1]RN
 #etcsl: line-id=266
 
 267. ab-ba-ni nu-kiri₆
+#tr.en: whose father was a gardener,
 #lem: abba[father]; nukirik[gardener]
 #etcsl: line-id=267
 
 268. sagi ur-{d}za-ba₄-ba₄
+#tr.en: the cupbearer of @wRN{Ur-@wDN{Zababa}},
 #lem: šagia[cup-bearer]; Urzababa[1]RN
 #etcsl: line-id=268
 
 269. lugal a-ga-de₃{ki} lu₂ a-ga-de₃{ki}
+#tr.en: became king,
 #lem: lugal[king]; Agade[1]SN; lu[person]; Agade[1]SN
 #etcsl: line-id=269
 
 270. (1:mu-un-du₃-a:1)
+#tr.en: the king of @wSN{Agade},
 #lem: du[build]
 #etcsl: line-id=270
 
 :270v.1.1: ($ms. L1+N1 has instead:$) mu-un-da-du₃-a
+?#tr.en: @varh[t211.v136]{who built @wSN{Agade} } @vart[t211.v137,t211.v136]{@varn{ms. L1+N1 has instead:} under whom @wSN{Agade} was built }; he ruled for @varh[t211.v138]{56 } @vart[t211.v139,t211.v138]{@varn{ms. L1+N1 has instead:} 55 } @vart[t211.v140,t211.v138]{@varn{ms. TL has instead:} 54 } years.
+?#tr.en: @wRN{Rīmuš},
+?#tr.en: the son of @wRN{Sargon},
+?#tr.en: ruled for @varh[t211.v141]{9 } @vart[t211.v142,t211.v141]{@varn{ms. IB has instead:} 7 } @vart[t211.v143,t211.v141]{@varn{ms. L1+N1 has instead:} 15 } years.
+?#tr.en: @wRN{Man-ištiššu},
+?#tr.en: the older brother of @wRN{Rīmuš},
+?#tr.en: the son of @wRN{Sargon},
+?#tr.en: ruled for @varh[t211.v144]{15 } @vart[t211.v145,t211.v144]{@varn{ms. L1+N1 has instead:} 7 } years.
+?#tr.en: @wRN{Narām-@wDN{Suen}},
+?#tr.en: the son of @wRN{Man-ištiššu},
+?#tr.en: ruled for @varn{mss. L1+N1, P3+BT14 have:} @varh[t211.v526]{56 } years.
+?#tr.en: @wRN{Šar-kali-šarrī},
+?#tr.en: the son of @wRN{Narām-@wDN{Suen}},
+?#tr.en: ruled for @vart[t211.v146,t211.v146]{@varn{ms. L1+N1, Su+Su4 have:} 25 } @vart[t211.v147,t211.v146]{@varn{ms. P3+BT14 has instead:} 24 } years.
+?#tr.en: @vart[t211.v148,t211.v148]{@varn{ms. P3+BT14 adds:} 157 are the years of the dynasty of @wRN{Sargon}. } Then @varh[t211.v149]{who was the king?
+?#tr.en: Who was not the king?
+?#tr.en: } @vart[t211.v150,t211.v149]{@varn{ms. Su3+Su4 has instead:} who was the king? Who indeed was the king? } @wRN{Irgigi} was king,
+?#tr.en: @wRN{Imi} was king,
+?#tr.en: @wRN{Nanûm} was king @note{in mss. L1+N1, Su3+Su4, Imi and Nanûm are in reverse order}, @wRN{Ilulu} was king,
+?#tr.en: and the @varn{mss. P3+BT14, S have:} @varh[t211.v528]{4 } of them ruled for only @varn{mss. P3+BT14, S have:} @varh[t211.v529]{3 } years.
+?#tr.en: @wRN{Dudu} ruled for 21 years.
+?#tr.en: @wRN{Šu-@wDN{Durul}},
+?#tr.en: the son of @wRN{Dudu},
+?#tr.en: ruled for @varh[t211.v151]{15 } @vart[t211.v152,t211.v151]{@varn{ms. IB has instead:} 18 } years.
+?#tr.en: @varh[t211.v153]{11 kings;
+?#tr.en: they ruled for 181 years } @vart[t211.v154,t211.v153]{@varn{ms. S has instead:} 12 kings; they ruled for @varn{ms. S has:} @varh[t211.v530]{197 } years } @vart[t211.v155,t211.v153]{@varn{mss. Su1, Su3+Su4, which omit Dudu and Šu-Durul, have instead:} 9 kings; they ruled for @vart[t211.v156,t211.v156]{@varn{ms. Su1 has:} 161 } @vart[t211.v157,t211.v156]{@varn{ms. Su3+Su4 has instead:} 177 } years }. @varh[t211.v158]{Then @wSN{Agade} was defeated } @vart[t211.v159,t211.v158]{@varn{ms. S has instead:} Then the reign of @wSN{Agade} was abolished } and the kingship was taken to @wSN{Unug}.
 #lem: du[build]
 
 271. lugal-am₃ mu (1:56:1) i₃-ak
@@ -1603,14 +1890,25 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #etcsl: line-id=296
 
 297. unug{ki}-ga ur-niŋin₃ lugal-am₃
+#tr.en: In @wSN{Unug},
 #lem: Unug[1]SN; Urniŋin[1]RN; lugal[king]
 #etcsl: line-id=297
 
 298. mu (1:7:1) i₃-ak
+#tr.en: @wRN{Ur-niŋin} became king;
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=298
 
 :298v.1.1: ($ms. IB, S have instead:$) 3
+?#tr.en: he ruled for @varh[t211.v160]{7 } @vart[t211.v161,t211.v160]{@varn{mss. IB, S have instead:} 3 } @vart[t211.v162,t211.v160]{@varn{ms. Su1 has instead:} 15 } @vart[t211.v163,t211.v160]{@varn{ms. Su3+Su4 has instead:} 30 } years.
+?#tr.en: @wRN{Ur-gigir},
+?#tr.en: the son of @wRN{Ur-niŋin},
+?#tr.en: ruled for @varh[t211.v164]{6 } @vart[t211.v165,t211.v164]{@varn{ms. IB has instead:} 7 } @vart[t211.v166,t211.v164]{@varn{ms. Su1 has instead:} 15 } @vart[t211.v167,t211.v164]{@varn{ms. Su3+Su4 has instead:} 7 } years.
+?#tr.en: @wRN{Kuda} ruled for 6 years.
+?#tr.en: @wRN{Puzur-ilī} ruled for @varh[t211.v168]{5 } @vart[t211.v169,t211.v168]{@varn{ms. IB has instead:} 20 } years.
+?#tr.en: @varh[t211.v170]{@wRN{Ur-@wDN{Utu}} ruled for 6 } @vart[t211.v171,t211.v170]{@varn{ms. Su3+Su4 has instead:} @wRN{Ur-@wDN{Utu}}, the son of @wRN{Ur-gigir}, ruled for 25 } @vart[t211.v172,t211.v170]{@varn{ms. Su1 has instead:} @wRN{Lugal-melem}, the son of @wRN{Ur-gigir}, ruled for 7 } years.
+?#tr.en: @varh[t211.v173]{5 kings;
+?#tr.en: they ruled for @varh[t211.v174]{30 } @vart[t211.v175,t211.v174]{@varn{ms. IB has instead:} 43 } @vart[t211.v176,t211.v174]{@varn{mss. P₄+Ha, S have instead:} 26 } years } @vart[t211.v177,t211.v173]{@varn{ms. Su3+Su4, which omits Kuda and Puzur-ilī, has instead:} 3 kings; they ruled for @varn{ms. Su3+Su4 has:} @varh[t211.v532]{47 } years }. @varh[t211.v178]{@wSN{Unug} was defeated } @vart[t211.v179,t211.v178]{@varn{ms. S has instead:} Then the reign of @wSN{Unug} was abolished } and the kingship was taken to the @varh[t211.v180]{army } @vart[t211.v181,t211.v180]{@varn{ms. Su3+Su4 has instead:} land } of @wGN{Gutium}.
 #lem: n
 :298v.1.2: ($ms. Su1 has instead:$) 15
 #lem: n
@@ -1684,10 +1982,37 @@ B. mu-bi 120 X i₃#-ib₂-ak
 #lem: mada[land]
 
 308. (1:ugnim:1) gu-tu-um{ki}
+#tr.en: In the @varh[t211.v182]{army } @vart[t211.v183,t211.v182]{@varn{ms. Su3+Su4 has instead:} land } of @wGN{Gutium},
 #lem: ugnim[army]; Gutium[1]GN
 #etcsl: line-id=308
 
 :308v.1.1: ($ms. Su3+Su4 has instead:$) [ma]-da#
+?#tr.en: at first @varh[t211.v184]{no king was famous;
+?#tr.en: they were their own kings and ruled thus for 3
+?#tr.en: years } @vart[t211.v185,t211.v184]{@varn{ms. L1+N1 has instead:} they had no king; they ruled themselves for 5 years }. Then @varh[t211.v186]{@wRN{Inkišuš} } @vart[t211.v187,t211.v186]{@varn{ms. Su3+Su4 has instead:} …… } ruled for @varh[t211.v188]{6 } @vart[t211.v189,t211.v188]{@varn{ms. L1+Ni1 has instead:} 7 } years.
+?#tr.en: @wRN{Zarlagab} ruled for 6 years.
+?#tr.en: @varh[t211.v190]{@wRN{Šulme} } @vart[t211.v191,t211.v190]{@varn{ms. L1+N1 has instead:} @wRN{Yarlagaš} } ruled for 6 years.
+?#tr.en: @varh[t211.v192]{@wRN{Silulumeš} } @vart[t211.v193,t211.v192]{@varn{ms. Mi has instead:} @wRN{Silulu} } ruled for @varh[t211.v194]{6 } @vart[t211.v195,t211.v194]{@varn{ms. G has instead:} 7 } years.
+?#tr.en: @varh[t211.v196]{@wRN{Inimabakeš} ruled for 5 } @vart[t211.v197,t211.v196]{@varn{ms. Mi has instead:} @wRN{Duga} ruled for 6 } years.
+?#tr.en: @varh[t211.v198]{@wRN{Igešauš} ruled for 6 } @vart[t211.v199,t211.v198]{@varn{ms. Mi has instead:} @wRN{Ilu-an} (?) ruled for 3 } years.
+?#tr.en: @wRN{Yarlagab} ruled for @varh[t211.v200]{15 } @vart[t211.v201,t211.v200]{@varn{ms. Mi has instead:} 5 } years.
+?#tr.en: @wRN{Ibate} ruled for 3 years.
+?#tr.en: @varh[t211.v202]{@wRN{Yarla} } @vart[t211.v203,t211.v202]{@varn{ms. L1+N1 has instead:} @wRN{Yarlangab} (?) } ruled for 3 years.
+?#tr.en: @varh[t211.v204]{@wRN{Kurum} } @vart[t211.v205,t211.v204]{@varn{ms. L1+N1 has instead:} …… } ruled for @varh[t211.v206]{1 } @vart[t211.v207,t211.v206]{@varn{ms. Mi has instead:} 3 } years.
+?#tr.en: @wRN{Apilkin} ruled for 3 years.
+?#tr.en: @wRN{Lā-erabum} (?) ruled for 2 years.
+?#tr.en: @wRN{Irarum} ruled for 2 years.
+?#tr.en: @wRN{Ibranum} ruled for 1 year.
+?#tr.en: @wRN{Ḫablum} ruled for 2 years.
+?#tr.en: @wRN{Puzur-@wDN{Suen}},
+?#tr.en: the son of @wRN{Ḫablum},
+?#tr.en: ruled for 7 years.
+?#tr.en: @wRN{Yarlaganda} ruled for 7 years.
+?#tr.en: …… ruled for 7 years.
+?#tr.en: @wRN{Tirigan} (?) ruled for 40 days.
+?#tr.en: 21 kings;
+?#tr.en: they ruled for @vart[t211.v208,t211.v208]{@varn{ms. L1+N1 has:} 124 years and 40 days } @vart[t211.v209,t211.v208]{@varn{ms. Su3+Su4 has instead:} 25 years }. Then the army of
+?#tr.en: @wGN{Gutium} was @varh[t211.v210]{defeated } @vart[t211.v211,t211.v210]{@varn{ms. TL has instead:} destroyed } and the kingship was taken to @wSN{Unug}.
 #lem: mada[land]
 
 @variants
@@ -1849,14 +2174,20 @@ D. ni₂-bi-a mu 5 i₃-ak
 #etcsl: line-id=334
 
 335. unug{ki}-ga {d}utu-he₂-ŋal₂ [lugal]-am₃
+#tr.en: In @wSN{Unug},
 #lem: Unug[1]SN; Utuheŋal[1]RN; lugal[king]
 #etcsl: line-id=335
 
 336. mu (1:7 šu-ši 7 ud [...]:1) i₃-ak
+#tr.en: @wRN{@wDN{Utu}-ḫeŋal} became king;
 #lem: mu[year]; n; n; n; ud[sun]; X; ak[do]
 #etcsl: line-id=336
 
 :336v.1.1: ($ms. IB has instead:$) 26 [itid ...] 2 ud 15
+?#tr.en: he ruled for @varh[t211.v212]{427 years,
+?#tr.en: …… days } @vart[t211.v213,t211.v212]{@varn{ms. IB has instead:} 26 years, 2 + X months, and 15 days } @vart[t211.v214,t211.v212]{@varn{ms. J has instead:} 7 years, 6 months, and 15 days } @vart[t211.v215,t211.v212]{@varn{ms. TL has instead:} 7 years, 6 months, and 5 days }. 1 king;
+?#tr.en: he ruled for @varh[t211.v216]{427 years,
+?#tr.en: …… days } @vart[t211.v217,t211.v216]{@varn{ms. J has instead:} 7 years, 6 months, and 15 days } @vart[t211.v218,t211.v216]{@varn{ms. TL has instead:} 7 years, 6 months, and 5 days }. Then @wSN{Unug} was defeated and the kingship was taken to @wSN{Urim}.
 #lem: n; itud[moon]; X; n; ud[sun]; n
 :336v.1.2: ($ms. J has instead:$) 7 itid 6# ud [15]
 #lem: n; itud[moon]; n; ud[sun]; n
@@ -1885,22 +2216,36 @@ D. ni₂-bi-a mu 5 i₃-ak
 #etcsl: line-id=340
 
 341. urim₂{ki}-ma ur-{d}namma lugal-am₃
+#tr.en: In @wSN{Urim}, @wRN{Ur-@wDN{Namma}} became king;
 #lem: Urim[1]SN; Urnamma[1]RN; lugal[king]
 #etcsl: line-id=341
 
 342. mu 18 i₃-ak
+#tr.en: he ruled for 18 years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=342
 
 343. {d}šul-gi dumu ur-{d}namma-ke₄
+#tr.en: @wRN{Šulgi}, the son of @wRN{Ur-Namma},
 #lem: Šulgir[1]RN; dumu[child]; Urnamma[1]RN
 #etcsl: line-id=343
 
 344. mu (1:46:1) i₃-ak
+#tr.en: ruled for @varh[t211.v219]{46 } @vart[t211.v220,t211.v219]{@varn{mss. Su3+Su4, TL have instead:} 48 } @vart[t211.v221,t211.v219]{@varn{ms. P5 has instead:} 58 } years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=344
 
 :344v.1.1: ($mss. Su3+Su4, TL have instead:$) 48
+?#tr.en: @wRN{Amar-@wDN{Suena}}, the son of @wRN{Šulgi},
+?#tr.en: ruled for @varh[t211.v222]{9 } @vart[t211.v223,t211.v222]{@varn{ms. Su3+Su4 has instead:} 25 } years.
+?#tr.en: @wRN{Šu-@wDN{Suen}},
+?#tr.en: the son of @wRN{Amar-@wDN{Suena}},
+?#tr.en: ruled for @varh[t211.v224]{9 } @vart[t211.v225,t211.v224]{@varn{ms. P5 has instead:} 7 } @vart[t211.v226,t211.v224]{@varn{ms. Su1 has instead:} 20 + X } @vart[t211.v227,t211.v224]{@varn{ms. Su3+Su4 has instead:} 16 } years.
+?#tr.en: @wRN{Ibbi-@wDN{Suen}},
+?#tr.en: the son of @wRN{Šu-@wDN{Suen}},
+?#tr.en: ruled for @varh[t211.v228]{24 } @vart[t211.v229,t211.v228]{@varn{mss. P5, Su1 have instead:} 25 } @vart[t211.v230,t211.v228]{@varn{ms. Su3+Su4 has instead:} 15 } @vart[t211.v231,t211.v228]{@varn{ms. TL has instead:} 23 (?) } years.
+?#tr.en: @varh[t211.v232]{4 kings;
+?#tr.en: they ruled for 108 years } @vart[t211.v233,t211.v232]{@varn{mss. J, P5, Su1, Su3+Su4 have instead:} 5 kings; they ruled for @vart[t211.v234,t211.v234]{@varn{ms. P5 has:} 117 } @vart[t211.v235,t211.v234]{@varn{ms. Su1 has instead:} 120 + X } @vart[t211.v236,t211.v234]{@varn{ms. Su3+Su4 has instead:} 123 } years }. @varh[t211.v237]{Then @wSN{Urim} was defeated } @vart[t211.v238,t211.v237]{@varn{ms. P5 has instead:} Then the reign of @wSN{Urim} was abolished }. @vart[t211.v239,t211.v239]{@varn{ms. Su3+Su4 adds:} The very foundation of @wGN{Sumer} was torn out (?). } The kingship was taken to @wSN{Isin}.
 #lem: n
 :344v.1.2: ($ms. P5 has instead:$) 58
 #lem: n
@@ -1984,14 +2329,37 @@ D. ni₂-bi-a mu 5 i₃-ak
 #etcsl: line-id=354
 
 355. i₃-si-in{ki}-na iš-bi-{d}er₃-ra lugal-am₃
+#tr.en: In @wSN{Isin}, @wRN{Išbi-@wDN{Erra}} became king;
 #lem: Isin[1]SN; Išbierra[1]RN; lugal[king]
 #etcsl: line-id=355
 
 356. mu (1:33:1) i₃-ak
+#tr.en: he ruled for @varh[t211.v240]{33 } @vart[t211.v241,t211.v240]{@varn{ms. P5 has instead:} 32 } years.
 #lem: mu[year]; n; ak[do]
 #etcsl: line-id=356
 
 :356v.1.1: ($ms. P5 has instead:$) 32
+?#tr.en: @wRN{Šu-ilīšu}, the son of @wRN{Išbi-@wDN{Erra}},
+?#tr.en: ruled for @varh[t211.v242]{20 } @vart[t211.v243,t211.v242]{@varn{ms. P5 has instead:} 10 } @vart[t211.v244,t211.v242]{@varn{ms. Su1 has instead:} 15 } years.
+?#tr.en: @wRN{Iddin-@wDN{Dagan}}, the son of @wRN{Šu-ilīšu},
+?#tr.en: ruled for @varh[t211.v245]{21 } @vart[t211.v246,t211.v245]{@varn{ms. Su1 has instead:} 25 } years.
+?#tr.en: @wRN{Išme-@wDN{Dagan}}, the son of @wRN{Iddin-@wDN{Dagan}},
+?#tr.en: ruled for @vart[t211.v247,t211.v247]{@varn{mss. P2, P5 have:} 20 } @vart[t211.v248,t211.v247]{@varn{ms. Mi has instead:} 18 } years. @wRN{Lipit-@wDN{Eštar}},
+?#tr.en: the son of @varh[t211.v249]{@wRN{Išme-@wDN{Dagan}} } @vart[t211.v250,t211.v249]{@varn{ms. P2 has instead:} @wRN{Iddin-@wDN{Dagan}} }, ruled for @varn{mss. L1+N1, P2, P5 have:} @varh[t211.v536]{11 } years.
+?#tr.en: @wRN{Ur-@wDN{Ninurta}} @vart[t211.v251,t211.v251]{@varn{mss. L1+N1, P2 add:}, the son of @wDN{Iškur} -- may he have years of abundance, a good reign, and a sweet life -- } ruled for @varn{ms. P5 has:} @varh[t211.v537]{28 } years.
+?#tr.en: @wRN{Būr-@wDN{Suen}}, the son of @wRN{Ur-@wDN{Ninurta}},
+?#tr.en: ruled for 21 years.
+?#tr.en: @wRN{Lipit-@wDN{Enlil}},
+?#tr.en: the son of @wRN{Būr-@wDN{Suen}},
+?#tr.en: ruled for 5 years.
+?#tr.en: @wRN{@wDN{Erra}-imitti} ruled for @varh[t211.v252]{8 } @vart[t211.v253,t211.v252]{@varn{mss. P5, TL have instead:} 7 } years.
+?#tr.en: @vart[t211.v254,t211.v254]{@varn{ms. P5 adds:} …… ruled for …… 6 months. } @wRN{@wDN{Enlil}-bāni} ruled for 24 years.
+?#tr.en: @wRN{Zambiya} ruled for 3 years.
+?#tr.en: @wRN{Iter-piša} ruled for 4 years.
+?#tr.en: @wRN{Ur-du-kuga} ruled for 4 years.
+?#tr.en: @wRN{@wDN{Suen}-magir} ruled for 11 years.
+?#tr.en: @vart[t211.v255,t211.v255]{@varn{ms. P5 adds:} @wRN{Damiq-ilišu}, the son of @wRN{@wDN{Suen}-magir}, ruled for 23 years. } 14 kings;
+?#tr.en: they ruled for @varh[t211.v256]{203 years } @vart[t211.v257,t211.v256]{@varn{ms. P5 has instead:} 225 years and 6 months }.
 #lem: n
 
 357. šu-i₃-li₂-šu dumu iš-bi-{d}er₃-ra-ke₄
@@ -2123,109 +2491,147 @@ D. ni₂-bi-a mu 5 i₃-ak
 #lem: n; itud[moon]; n
 
 378. šu-niŋin₂ 40!-la₂-[1 lugal]
+#tr.en: A total of
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=378
 
 #etcsl#ms Mss. P2+L2, L1+N1 and P4+Ha conclude with a summary of the post-diluvian dynasties; the composite text of lines 378-431 uses numerical data from each ms. but follows the wording of P2+L2 and L1+N1.
 
 379. mu-bi 14400# [...] 9 mu [3 itid 3 1/2 ud] ib₂-ak
+#tr.en: 39 kings ruled
 #lem: mu[year]; n; X; n; mu[year]; n; itud[moon]; n; n; ud[sun]; ak[do]
 #etcsl: line-id=379
 
 380. a-ra₂ 4-[kam]
+#tr.en: for 14409 + X years,
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=380
 
 381. šag₄ kiš{[ki]}
+#tr.en: 3 months and
 #lem: šag[heart]; Kiš[1]SN
 #etcsl: line-id=381
 
 382. šu-niŋin₂# 22 lugal#
+#tr.en: 3 1/2 days,
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=382
 
 383. mu-bi 2610 [...] 6 itid 15 ud ib₂-ak
+#tr.en: 4 times in @wSN{Kiš}.
 #lem: mu[year]; n; X; n; itud[moon]; n; ud[sun]; ak[do]
 #etcsl: line-id=383
 
 384. a-ra₂ 5-kam
+#tr.en: A total of
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=384
 
 385. šag₄ unug{ki}-ga
+#tr.en: 22 kings ruled
 #lem: šag[heart]; Unug[1]SN
 #etcsl: line-id=385
 
 386. šu-niŋin₂ 12 lugal
+#tr.en: for 2610 + X years,
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=386
 
 387. mu-bi 396 mu ib₂-ak
+#tr.en: 6 months and 15 days,
 #lem: mu[year]; n; mu[year]; ak[do]
 #etcsl: line-id=387
 
 388. a-ra₂# 3-kam
+#tr.en: 5 times in @wSN{Unug}.
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=388
 
 389. [šag₄] urim₂{ki}-ma
+#tr.en: A total of 12 kings
 #lem: šag[heart]; Urim[1]SN
 #etcsl: line-id=389
 
 390. šu-niŋin₂# 3 lugal
+#tr.en: ruled for 396 years,
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=390
 
 391. mu-bi 356 mu ib₂-ak
+#tr.en: 3 times in @wSN{Urim}.
 #lem: mu[year]; n; mu[year]; ak[do]
 #etcsl: line-id=391
 
 392. a-ra₂ 1-kam
+#tr.en: A total of 3 kings
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=392
 
 393. šag₄ a-wa-an{ki}
+#tr.en: ruled for 356 years,
 #lem: šag[heart]; Awan[1]SN
 #etcsl: line-id=393
 
 394. [šu]-niŋin₂ 1 lugal
+#tr.en: once in @wSN{Awan}.
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=394
 
 395. mu-bi 420 mu [i₃]-ak
+#tr.en: A total of 1 king
 #lem: mu[year]; n; mu[year]; ak[do]
 #etcsl: line-id=395
 
 396. a-ra₂ 1-[kam]
+#tr.en: ruled for 420 years,
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=396
 
 397. šag₄ ha#-[ma]-zi#{ki}-a
+#tr.en: once in @wSN{Ḫamazi}.
 #lem: šag[heart]; Hamazi[1]SN
 #etcsl: line-id=397
 
 $ 16 lines missing
 414. [šu-niŋin₂ 12] lugal
+#tr.en: A total of 12 (?) kings
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=414
 
 415. [mu-bi 60] 137 [mu] ib₂-ak
+#tr.en: ruled for 197 (?) years,
 #lem: mu[year]; n; n; mu[year]; ak[do]
 #etcsl: line-id=415
 
 416. [a]-ra₂# 1-kam
+#tr.en: once in @wSN{Agade}.
 #lem: ara[times (with numbers)]; n
 #etcsl: line-id=416
 
 417. [šag₄] a#-ga-de₃{ki}
+#tr.en: A total of @varh[t211.v258]{21 }
 #lem: šag[heart]; Agade[1]SN
 #etcsl: line-id=417
 
 418. šu-niŋin₂# (1:21:1) lugal
+#tr.en: @vart[t211.v259,t211.v258]{@varn{ms. P4+Ha has instead:} 23 } kings ruled for @varh[t211.v260]{125
 #lem: šuniŋin[total]; n; lugal[king]
 #etcsl: line-id=418
 
 :418v.1.1: ($ms. P4+Ha has instead:$) 23
+?#tr.en: years and 40 days }
+?#tr.en: @vart[t211.v261,t211.v260]{@varn{ms. P4+Ha has instead:} 99 years }, once in the army of @wGN{Gutium}.
+?#tr.en: A total of
+?#tr.en: @varh[t211.v262]{11 } @vart[t211.v263,t211.v262]{@varn{ms. P4+Ha has instead:} 16 }
+?#tr.en: kings ruled for @varh[t211.v264]{159 } @vart[t211.v265,t211.v264]{@varn{ms. P4+Ha has instead:} 226 } years,
+?#tr.en: once in @wSN{Isin}.
+?#tr.en: There are 11 cities,
+?#tr.en: cities in which the
+?#tr.en: kingship was exercised.
+?#tr.en: A total of @varh[t211.v266]{134 } @vart[t211.v267,t211.v266]{@varn{ms. P4+Ha has instead:} 139 } kings,
+?#tr.en: who altogether ruled for @varh[t211.v268]{28876
+?#tr.en: + X } @vart[t211.v269,t211.v268]{@varn{ms. P4+Ha has instead:} 3443 + X } years.
+?#tr.en: 21.
 #lem: n
 
 419. mu-bi (1:125 mu 40 ud:1) ib₂-ak

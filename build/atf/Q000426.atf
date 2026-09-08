@@ -28,28 +28,29 @@ A.A.2. šag₄#-[ba-tuku ...]
 @div barsud B
 
 A.B.3. {d}šu-{d}suen gal-zu X X [...]
+#tr.en: Wise @wRN{Šu-@wDN{Suen}} …….
 #lem: Šusuen[1]RN; galanzu[wise]; X; X; X
 #etcsl: line-id=A.B.3
 
 A.B.4. X X MU lu₂ X X X [...]
-?#tr.en: Wise @wRN{Šu-@wDN{Suen}} …….
-?$ (@gap{1 line fragmentary}) 
-?#tr.en: …… dais …….
-?#tr.en: …… the beauty and ornament …….
+#tr.en: ($fragmentary$)
 #lem: X; X; X; lu[person]; X; X; X; X
 #etcsl: line-id=A.B.4
 
 A.B.5. [...] X U₃ barag X [...]
+#tr.en: …… dais …….
 #lem: X; X; X; barag[sanctum]; X; X
 #etcsl: line-id=A.B.5
 
 A.B.6. X X [X X] mu-na-ab-X [...] hi-li me-te# [...]
+#tr.en: …… the beauty and ornament …….
 #lem: X; X; X; X; X; X; hili[attractiveness]; mete[appropriate thing]; X
 #etcsl: line-id=A.B.6
 
 @div trailer 
 
 A.B.7. bar-sud [2-kam-ma-am₃]
+#tr.en: 2nd (?) @fsux{barsud}.
 #lem: barsud[musical notation]; n
 #etcsl: line-id=A.B.7
 
@@ -60,19 +61,22 @@ A.B.7. bar-sud [2-kam-ma-am₃]
 @div unknown C
 
 A.C.8. an-e X [...] KA [...]
-?#tr.en: 2nd (?) @fsux{barsud}.
+#tr.en: @wDN{An} …….
 #lem: An[1]DN; X; X; X; X
 #etcsl: line-id=A.C.8
 
 A.C.9. {d}šu-{d}suen# [...]
+#tr.en: @wRN{Šu-@wDN{Suen}} …….
 #lem: Šusuen[1]RN; X
 #etcsl: line-id=A.C.9
 
 A.C.10. AN [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.C.10
 
 A.C.11. KI# [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=A.C.11
 
@@ -86,16 +90,19 @@ $ (unknown no. of lines missing)
 @div sa-gida D
 
 B.D.1. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=B.D.1
 
 B.D.2. {d}[šu]-{d}suen# [...] zig₃-ga# [...]
+#tr.en: @wRN{Šu-@wDN{Suen}} …… rising …….
 #lem: Šusuen[1]RN; X; zig[rise]; X
 #etcsl: line-id=B.D.2
 
 @div trailer 
 
 B.D.3. sa-[gid₂-da]
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=B.D.3
 
@@ -106,12 +113,14 @@ B.D.3. sa-[gid₂-da]
 @div ŋišgiŋal E
 
 B.E.4. AN DA X mu-un-X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.E.4
 
 @div trailer 
 
 B.E.5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-gida}.
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 #etcsl: line-id=B.E.5
 
@@ -122,20 +131,24 @@ B.E.5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
 @div uru F
 
 B.F.6. an-e nam mu-un-tar-ra# [...]
+#tr.en: As @wDN{An} determined the fates …….
 #lem: An[1]DN; nam[fate]; tar[cut]; X
 #etcsl: line-id=B.F.6
 
 B.F.7. an kug-ga nam mu-un-tar eš₃ urim₂# [...]
+#tr.en: Holy @wDN{An} determined the fates, …… the shrine @wSN{Urim} …….
 #lem: An[1]DN; kug[pure]; nam[fate]; tar[cut]; eš[shrine]; Urim[1]SN; X
 #etcsl: line-id=B.F.7
 
 B.F.8. an-e ud-gin₇ {d}šu-{d}suen-ra me X [...] KA mu-un-na-ni-in-[...]
+#tr.en: Like the sunlight @wDN{An} …… for @wRN{Šu-@wDN{Suen}}.
 #lem: An[1]DN; ud[sun]; Šusuen[1]RN; me[Being]; X; X; X; X
 #etcsl: line-id=B.F.8
 
 @div trailer 
 
 B.F.9. u₁₈-ru₁₂-bi-im
+#tr.en: Its @fsux{uru}.
 #lem: uru[literary subscript]
 #etcsl: line-id=B.F.9
 
@@ -146,6 +159,7 @@ B.F.9. u₁₈-ru₁₂-bi-im
 @div trailer 
 
 B.F.10. a-da-ab an#-[na-kam]
+#tr.en: An @fsux{adab} of @wDN{An}. @notep{lines 9 and 10 are written as one line in source}
 #lem: adab[drum]; An[1]DN
 #etcsl: line-id=B.F.10
 

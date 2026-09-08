@@ -7,6 +7,7 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.02&display=Crit&charenc=gcirc#
 
 1. [me-a-am-ra %e me-e %s mu-un-X]^1^^2^
+#tr.en: (Ningal speaks:) @q[Ningal,]{“I
 #lem: meʾam[term of endearment]; meʾe[I]IP; X
 #etcsl: line-id=1
 
@@ -40,110 +41,137 @@ $ (approx. 19 lines missing)
 #etcsl: line-id=26
 
 27. nitalam-ŋu₁₀ [...]
+#tr.en: (Nanna addresses Ningal:) @q[Nanna,Ningal]{“My spouse, ……,
 #lem: ŋidlam[(equal ranking) spouse]; X
 #etcsl: line-id=27
 
 28. {d}nin-gal lu₂ X [...]
+#tr.en: @wDN{Ningal} who ……,
 #lem: Ningal[1]DN; lu[person]; X; X
 #etcsl: line-id=28
 
 29. i₃ ab₂ kug-ga# [...]
+#tr.en: …… butter from the holy cows.
 #lem: i[oil]; ab[cow]; kug[pure]; X
 #etcsl: line-id=29
 
 30. šu sikil ŋiri₃ X [...]
+#tr.en: Pure hands and …… feet …….
 #lem: šu[hand]; sikil[purify]; ŋiri[foot]; X; X
 #etcsl: line-id=30
 
 31. [...] sag₉#-ga#-ŋu₁₀# X [...]
+#tr.en: My lovely …….”}
 #lem: X; sag[good]; X; X
 #etcsl: line-id=31
 
 32. [X X ŋiš]-gi ki-e-ne#-[di ...]
+#tr.en: @q{“……, the reedbeds, the playground …….
 #lem: X; X; ŋešgi[thicket]; kiʾenedi[play area]; X
 #etcsl: line-id=32
 
 33. [X X] gi-du₃#-e ŋiri₂ saga₁₁ ga-[...]
+#tr.en: I shall …… sharp knives to the …… and reed fences.
 #lem: X; X; gidu[reed fence]; ŋiri[dagger]; saga[press?]; X
 #etcsl: line-id=33
 
 34. {gi}en₃-bar dug₃-ga-še₃ X ga-[...] {{%akk lu-ri-[id]}}
+#tr.en: I shall …… to the beautiful young reeds.
 #lem: enbar[reed]; dug[good]; X; X; L
 #etcsl: line-id=34
 
 35. in-nin u₅-bi₂{mušen}-ra niŋ₂-u₂-[rum-bi] {{%akk ma-kur#-ru#}} [...]
+#tr.en: Mistress, …… the treasures (?) of the @fsux{ubi} birds.
 #lem: innin[lady]; ubi[bird]; niŋurum[property]; L; X
 #etcsl: line-id=35
 
 36. nunuz-bi mu#-ra-ab-ri gud₃ ga-X [...]
+#tr.en: I will gather their eggs for you, and I shall …… the nest.
 #lem: nunuz[egg]; ri[impose]; gud[nest]; X; X
 #etcsl: line-id=36
 
 37. zirru(|EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI|){{{d}nin-gal}} u₅-bi₂{mušen#} [...]
+#tr.en: High priestess of @wDN{Nanna}, …… the @fsux{ubi} birds.”}
 #lem: zirru[priestess]; Ningal[1]DN; ubi[bird]; X
 #etcsl: line-id=37
 
 38. i₃# dug-a {{%akk [i]-na %akk ši-ki-in-nim}} nir# [...] u₃-mu-e-ši#-[...]
+#tr.en: @q{“After I have …… butter into the container,
 #lem: i[oil]; dug[(clay) pot]; L; L; nir[lordly]; X; X
 #etcsl: line-id=38
 
 39. ud# X X-ba gug₂-še₃ u₃-mu-e-ni-[...] {{%akk u₂-ur-ra-am %akk a-na %akk ku-uk-ki# %akk šu#-[...]}}
+#tr.en: after I have …… for cakes in the morning (?),
 #lem: ud[sun]; X; X; gug[cake]; X; L; L; L; L
 #etcsl: line-id=39
 
 40. ambar mah-a suhur{ku₆}-ra ŠEN um-ma-ni-X-[...] {{%akk ba-ra#-[...]}}
+#tr.en: after I have …… carp in the great marsh,
 #lem: ambar[reed-bed]; mah[great]; suhur[carp]; X; X; L
 #etcsl: line-id=40
 
 41. {lu₂}ki#-sikil kud-da tur-re šu um-mi#-[...]
+#tr.en: young lady, after I have …… little turtles (?),
 #lem: kisikil[young woman]; kušu[creature]; tur[small]; šu[hand]; X
 #etcsl: line-id=41
 
 42. ama ugu-zu {d}nin-gi-kug#-[ga ...]
+#tr.en: then I will …… your own mother @wDN{Ningikuga}.
 #lem: ama[mother]; ugu[bear]; Ningikuga[1]DN; X
 #etcsl: line-id=42
 
 43. {d}nin-gal e₂-zu-še₃ ŋe₂₆-e ga-mu-ra-da#-[ŋen]
+#tr.en: @wDN{Ningal}, I shall go with you to your house.”}
 #lem: Ningal[1]DN; e[house]; ŋaʾe[I]; ŋen[go]
 #etcsl: line-id=43
 
 44. ab₂ tur₃-ra um-mi-ŋen#-na# [X X]-ba# {{%akk iš-tu %akk UŠ %akk X %akk UL %akk ZA %akk X %akk X}}
+#tr.en: @q{“After I have led the cows into the stall ……,
 #lem: ab[cow]; tur[animal stall]; ŋen[go]; X; X; L; L; L; L; L; L; L
 #etcsl: line-id=44
 
 45. {dug}šakir₃ kug#-ga# ga kug u₃-mu-ra#-[...]
+#tr.en: after I have …… holy milk into the holy churn for you,
 #lem: šakir[churn]; kug[pure]; ga[milk]; kug[purify]; X
 #etcsl: line-id=45
 
 46. {d}šu-ni-du₇ kiŋ₂!-ŋa₂ u₃-mu-e-ni#-dun₅#-a {{%akk a#-na %akk ma-a-ṣi-im}}
+#tr.en: after @wDN{Šuni-du} has done the churning, young lady,
 #lem: Šunidug[1]DN; kiŋ[work]; dun[rock]; L; L
 #etcsl: line-id=46
 
 47. {lu₂#}ki-sikil amar X tur-ra-ŋu₁₀-še₃ ga {{%akk ši-iz-ba-am}} u₃-mu-un#-[...] X nam-ma-X
+#tr.en: after I have given my …… young calves milk ……,
 #lem: kisikil[young woman]; amar[calf]; X; tur[small]; ga[milk]; L; X; X; X
 #etcsl: line-id=47
 
 48. i₃# hi#-a ga luh-ha mu-ra#-[X X] {{%akk ba-X-X}}
+#tr.en: then I will …… pats of butter and purified milk for you.
 #lem: i[oil]; hi[mix (up)]; ga[milk]; luh[clean]; X; X; L
 #etcsl: line-id=48
 
 49. {d#}nin-gal e₂-zu-še₃ ŋe₂₆-e ga-mu-ra-da-ŋen# {{%akk lu-ul-li-ka-ak-ki}}
+#tr.en: @wDN{Ningal}, I shall go with you to your house.”}
 #lem: Ningal[1]DN; e[house]; ŋaʾe[I]; ŋen[go]; L
 #etcsl: line-id=49
 
 50. me-a-[am] e#-me-da nu-me-a
+#tr.en: (Ningal addresses Nanna:) @q[Ningal,Nanna]{“……, my beloved, if only I could come to you without my mother to ……!
 #lem: meʾam[term of endearment]; dug[speak]; me[be]
 #etcsl: line-id=50
 
 51. ki-ga# [aŋ₂]-ŋu₁₀# X [...]-ba nu-uš-mu-e-ši-di-di-in
+#tr.en: If only I could come to you without @wDN{Ningikuga} (?) ……!
 #lem: ki[place]; aŋ[measure]; X; X; ŋen[go]
 #etcsl: line-id=51
 
 52. {d}nin#-[gi]-kug#-ga-da nu-me-a
+#tr.en: $ (@gap{approx. 1 line missing})
 #lem: Ningikuga[1]DN; me[be]
 #etcsl: line-id=52
 
 53. [...] X DI nu-uš-mu#-[e-ši-di-di-in]
+#tr.en: Lord @wDN{Nanna}, bring it to me!
 #lem: X; X; X; ŋen[go]
 #etcsl: line-id=53
 

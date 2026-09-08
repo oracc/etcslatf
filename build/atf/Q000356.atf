@@ -7,22 +7,28 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.3&display=Crit&charenc=gcirc#
 
 1. zig₃-ga u₅-bi₂ zig₃-ga u₅-e-de₃-en zig₃-ga u₅-bi₂
+#tr.en: @q[demon,]{“Arise and get on board, arise, we are about to sail, arise and get on board!”} -- Woe, weep for the bright daylight, as the barge is steered away!
 #lem: zig[rise]; u[ride]; zig[rise]; u[ride]; zig[rise]; u[ride]
 #etcsl: line-id=1
 
 2. i-lu er₂-ra še-er dadag-ga ma₂-gur₈ ri-de₃
+#tr.en: -- @q[Ninjiczida,]{“I am a young man! Let me not be covered against my wishes by a cabin,
 #lem: ilu[lament]; er[tears]; šer[bright]; dadag[bright]; magur[barge]; ri[impose]
 #etcsl: line-id=2
 
 3. ŋuruš-me-en {ŋiš}u₃ tug₂-gin₇ tug₂-gin₇ ni₂-ŋu₁₀ ba-ra-dul-me-en
+#tr.en: as if with a blanket, as if with a blanket!”}
 #lem: ŋuruš[young adult male]; u[ship's cabin]; tug[textile]; tug[textile]; ni[self]; dul[cover]
 #etcsl: line-id=3
 
 4. ma₂-gur₈-re ŋuruš ma₂-gur₈ ri-da-ni šu gid₂-da
+#tr.en: Stretching out a hand to the barge, to the young man being steered away on the barge, stretching out a hand to @varh[t173.v1]{my young man @wDN{Damu} } @vart[t173.v2,t173.v1]{@varn{1 ms. has instead:} Lord @wDN{Ninŋišzida} } being taken away on the barge, stretching out a hand to @wDN{Ištaran} of the bright visage being taken away on the barge, stretching out a hand to @wDN{Alla}, master of the battle-net, being taken away on the barge, stretching out a hand to @wDN{Lugal-šud-e} being taken away on the barge, stretching out a hand to @wDN{Ninŋišzida} being taken away on the barge -- his younger sister was crying in lament to him in @varh[t173.v3]{the boat's cabin } @vart[t173.v4,t173.v3]{@varn{1 ms. has instead:} the cabin at the boat's bow }.
 #lem: magur[barge]; ŋuruš[young adult male]; magur[barge]; ri[impose]; šu[hand]; gid[long]
 #etcsl: line-id=4
 
 5. (1:ŋuruš {d}da-mu-ŋu₁₀:1) ma₂-gur₈ ri-da-ni šu gid₂-da
+?#tr.en: His older sister removed the cover (?) from @varh[t173.v5]{the boat's cabin } @vart[t173.v6,t173.v5]{@varn{1 ms. has instead:} the cabin at the boat's stern }: @q[Ama-cilama,Ninjiczida]{“Let me sail away with you, let me sail away with you,
+?#tr.en: @varh[t173.v7]{brother } @vart[t173.v8,t173.v7]{@varn{1 ms. has instead:} my brother }, let me sail away with you. @vart[t173.v9,t173.v9]{@varn{2 mss. add 1 line:} My brother, let me sail on your barge with you, my brother, let me sail away with you. @vart[t173.v10,t173.v10]{@varn{1 ms. adds 1 further line:} Let me sail on your splendid barge with you, my brother, let me sail away with you. } }”}
 #lem: ŋuruš[young adult male]; Damu[1]DN; magur[barge]; ri[impose]; šu[hand]; gid[long]
 #etcsl: line-id=5
 
@@ -83,10 +89,13 @@
 
 @endvariants
 13. ma₂-saŋ-ta i-lu gu₃ mu-un-na-be₂ (1:šeš:1) ga-ba-de₃-u₅
+#tr.en: She was crying a lament to him at the boat's bow: @q[Ama-cilama,Ninjiczida]{“@varh[t173.v11]{Brother } @vart[t173.v12,t173.v11]{@varn{1 ms. has instead:} My brother }, let me sail away with you.
 #lem: masaŋ[prow]; ilu[lament]; gu[voice]; e[speak]; šeš[brother]; u[ride]
 #etcsl: line-id=13
 
 :13v.1.1: ($1 ms. has instead:$) šeš-ŋu₁₀
+?#tr.en: Let me …… for you in your boat's stern, @varh[t173.v13]{brother } @vart[t173.v14,t173.v13]{@varn{1 ms. has instead:} my brother }, let me sail away with you.”}
+?#tr.en: adds 2 lines:} @q{“The @fsux{gudug} priest sits in the cabin at your boat's stern.”} She was crying a lament to him: @q[Ama-cilama,Ninjiczida]{“Let me sail away with you, my brother, let me sail away with you.”} }
 #lem: šeš[brother]
 
 14. ma₂-egir-za (1:ga-mu-ra-GAZ-GAZ:1) (2:šeš:2) ga-ba-de₃-u₅
@@ -111,10 +120,16 @@
 
 @endvariants
 15. ŋuruš {d}da-mu-ŋu₁₀ ga-ba-de₃-u₅ (1:šeš:1) ga-ba-de₃-u₅
+#tr.en: @q{“My young man @wDN{Damu}, let me sail away with you, @varh[t173.v16]{brother } @vart[t173.v17,t173.v16]{@varn{1 ms. has instead:} my brother }, let me sail away with you.
 #lem: ŋuruš[young adult male]; Damu[1]DN; u[ride]; šeš[brother]; u[ride]
 #etcsl: line-id=15
 
 :15v.1.1: ($1 ms. has instead:$) šeš-ŋu₁₀
+?#tr.en: @wDN{Ištaran} of the bright visage, let me sail away with you, @varh[t173.v18]{brother } @vart[t173.v19,t173.v18]{@varn{1 ms. has instead:} my brother }, let me sail away with you.
+?#tr.en: @wDN{Alla}, master of the battle-net, let me sail away with you, @varh[t173.v20]{brother } @vart[t173.v21,t173.v20]{@varn{1 ms. has instead:} my brother }, let me sail away with you.
+?#tr.en: @wDN{Lugal-šud-e}, let me sail away with you, @varh[t173.v22]{brother } @vart[t173.v23,t173.v22]{@varn{1 ms. has instead:} my brother }, let me sail away with you.
+?#tr.en: @vart[t173.v24,t173.v24]{@varn{1 ms. adds 1 line:} @wDN{Lugal-ki-bura}, let me sail away with you, my brother, let me sail away with you. }@wDN{Ninŋišzida}, let me sail away with you, @varh[t173.v25]{brother } @vart[t173.v26,t173.v25]{@varn{1 ms. has instead:} my brother }, let me sail away with you.
+?#tr.en: adds 2 lines:} My brother, let me sail on your barge with you, my brother, let me sail away with you. Let me sail on your splendid barge with you, my brother, let me sail away with you. }”}
 #lem: šeš[brother]
 
 16. {d}ištaran igi šuba-ke₄ ga-ba-de₃-u₅ (1:šeš:1) ga-ba-de₃-u₅
@@ -166,14 +181,23 @@
 
 @endvariants
 20. gal₅-la₂ hul murub₄-ba til₃-la
+#tr.en: The evil demon who was in their midst called out to @varh[t173.v28]{@wDN{Lugal-ki-suna} } @vart[t173.v29,t173.v28]{@varn{2 mss. have instead:} @wDN{Ninŋišzida} }: @q[demon,Ninjiczida]{“@varh[t173.v30]{@wDN{Lugal-ki-suna} } @vart[t173.v31,t173.v30]{@varn{1 ms. has instead:} @wDN{Lugal-ki-bura} }, look at your sister!”}
 #lem: galla[policeman]; hulu[bad]; murub[middle]; til[live (of a single person)]
 #etcsl: line-id=20
 
 21. (1:{d}lugal-ki-sun₅-na:1) gu₃ mu-un-na-de₂-e
+#tr.en: Having looked at his sister, @varh[t173.v32]{@wDN{Lugal-ki-suna} } @vart[t173.v33,t173.v32]{@varn{1 ms. has instead:} @wDN{Lugal-ki-bura} } said to her:
 #lem: Lugalkisuna[1]DN; gu[voice]; de[pour]
 #etcsl: line-id=21
 
 :21v.1.1: ($2 mss. have instead:$) %e [u₃]-mu-un-<mu>-zid-da-ra
+?#tr.en: @q[Ninjiczida,Ama-cilama]{“He sails with me, he sails with me. Why should you sail @vart[t173.v34,t173.v34]{@varn{1 ms. adds:} to the underworld }? Lady,
+?#tr.en: the demon sails with me.
+?#tr.en: Why should you sail @vart[t173.v35,t173.v35]{@varn{1 ms. adds:} to the underworld }? The thresher sails with me.
+?#tr.en: Why should you sail @vart[t173.v36,t173.v36]{@varn{1 ms. adds:} to the underworld }? The man who has bound my hands sails with me.
+?#tr.en: Why should you sail?
+?#tr.en: The man who has tied my arms sails with me.
+?#tr.en: Why should you sail?”}
 #lem: Umunmuzida[1]
 
 22. (1:{d}lugal-ki-sun₅-na:1) nin₉-zu-še₃ igi bar# [...]
@@ -220,10 +244,19 @@
 #etcsl: line-id=28
 
 29. id₂-kur-ra-ke₄ a nu-de₂ a-bi nu-mu-un-na-na₈-na₈# (1::1)
+#tr.en: @q{“The river of the nether world produces no water, no water is drunk from it.
 #lem: Idkura[1]WN; a[water]; de[pour]; a[water]; naŋ[drink]
 #etcsl: line-id=29
 
 :29v.1.1: ($1 ms. adds:$) za-e %e ta %s u₅-de₃
+?#tr.en: @vart[t173.v37,t173.v37]{@varn{1 ms. adds:} Why should you sail? } The fields of the nether world produce no grain, no flour is eaten from it.
+?#tr.en: @vart[t173.v38,t173.v38]{@varn{1 ms. adds:} Why should you sail? } The sheep of the nether world produce no wool, no cloth is woven from it.
+?#tr.en: @vart[t173.v39,t173.v39]{@varn{1 ms. adds:} Why should you sail? } As for me, even if my mother digs as if for a canal, I shall not be able to drink the water meant for me.
+?#tr.en: The waters of springtime will not be poured for me as they are for the tamarisks; I shall not sit in the shade intended for me.
+?#tr.en: The dates I should bear like a date palm will not reveal (?) their beauty for me.
+?#tr.en: I am a field threshed by my demon -- you would scream at it.
+?#tr.en: He has put manacles on my hands -- you would scream at it.
+?#tr.en: He has put a neck-stock on my neck -- you would scream at it.”}
 #lem: zaʾe[you]; ta[what?]; u[ride]
 
 30. a-šag₄ kur-ra-ke₄ še nu-de₂ zid₂ nu-mu-un-<na>-ab-gu₇!-X (1::1)
@@ -265,175 +298,218 @@
 #etcsl: line-id=37
 
 38. {[d]}[ama]-šilam#-ma {d}nin#-[ŋiš-zid-da-ra gu₃ mu-un-na-de₂-e]
+#tr.en: @wDN{Ama-šilama} @noteref{@wDN{Ninŋišzida's} sister} said to @wDN{Ninŋišzida}: @q[Ama-cilama,Ninjiczida]{“The ill-intentioned demon may accept something -- there should be a limit to it for you.
 #lem: Amašilamak[1]DN; Ninŋešzidak[1]; gu[voice]; de[pour]
 #etcsl: line-id=38
 
 39. gal₅#-[la₂ šag₄] gig#-ga %e aŋ₂ %s he₂-[gid₂-i ki-še-er-ra ab-tuku-e]
+#tr.en: My brother,
 #lem: galla[policeman]; šag[heart]; gig[sick]; aŋ[thing]N; gid[long]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=39
 
 40. [X X] gal₅-la₂-zu %e aŋ₂ %s he₂-[gid₂-i ki-še-er-ra ab-tuku-e]
+#tr.en: your demon may accept something, there should be a limit to it for you.
 #lem: X; X; galla[policeman]; aŋ[thing]N; gid[long]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=40
 
 41. [...] šu#-ŋu₁₀ ga-mu-na-ab#-[... ki-še-er-ra ab-tuku-e]
+#tr.en: For him let me …… from my hand the ……, there should be a limit to it for you.
 #lem: X; šu[hand]; X; kišer[limit]; tuku[acquire]
 #etcsl: line-id=41
 
 42. [...] šu#-ŋu₁₀ ga-mu-na-ab#-[... ki-še-er-ra ab-tuku-e]
+#tr.en: For him let me …… from my hand the ……, there should be a limit to it for you.
 #lem: X; šu[hand]; X; kišer[limit]; tuku[acquire]
 #etcsl: line-id=42
 
 43. {[na₄]}[za]-gin₃# di₄-di₄-la₂ ur₂-ŋu₁₀ ga-mu#-[na-ab-X] ki#-[še-er-ra ab-tuku-e]
+#tr.en: For him let me …… from my hips the dainty lapis lazuli beads, there should be a limit to it for you.
 #lem: zagin[lapis lazuli]; didila[small(er)]; ur[root]; X; kišer[limit]; tuku[acquire]
 #etcsl: line-id=43
 
 44. [...] {[na₄]}[za]-gin₃#-ŋu₁₀-gin₇ ur₂-ŋu₁₀ ga-mu#-[na-ab-X] ki-[še-er-ra ab-tuku-e]
+#tr.en: For him let me …… from my hips the …… my lapis lazuli beads, there should be a limit to it for you.”}
 #lem: X; zagin[lapis lazuli]; ur[root]; X; kišer[limit]; tuku[acquire]
 #etcsl: line-id=44
 
 45. [... ki] aŋ₂#-ŋa₂-me-en ki#-[še-er-ra ab-tuku-e]
+#tr.en: @q{“You are a beloved ……, there should be a limit to it for you. How they treat you,
 #lem: X; ki[place]; aŋ[measure]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=45
 
 46. i₃-ak-ke₂-eš# i₃-ak-ke₂-eš ki-še-er-ra ab-tuku-e
+#tr.en: how they treat you! -- there should be a limit to it for you. My brother,
 #lem: ak[do]; ak[do]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=46
 
 47. šeš-ŋu₁₀ i₃-ak-ke₂-eš mah-bi i₃-ak-ke₂-eš ki-še-er-ra ab-tuku-e
+#tr.en: how they treat you, how haughtily they treat you! -- there should be a limit to it for you.
 #lem: šeš[brother]; ak[do]; mah[great]; ak[do]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=47
 
 48. šaŋar ba-an-tuku ninda ma-ra-an-ze₂-er ki-še-er-ra ab-tuku-e#
+#tr.en: @q{“I am hungry, but the bread has slipped away from me!”} -- there should be a limit to it for you.
 #lem: šaŋar[starvation]; tuku[acquire]; ninda[bread]; zir[tear out]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=48
 
 49. enmen₂ ba-an-tuku a ma-<ra>-an-ze₂-er ki-še-er-ra ab-tuku-e
+#tr.en: @q{“I am thirsty, but the water has slipped away from me!”} -- there should be a limit to it for you.”}
 #lem: immen[thirst]; tuku[acquire]; a[water]; zir[tear out]; kišer[limit]; tuku[acquire]
 #etcsl: line-id=49
 
 50. gal₅-la₂ hul murub₄-ba til₃-la
+#tr.en: The evil demon who was in their midst, the clever demon, that great demon who was in their midst,
 #lem: galla[policeman]; hulu[bad]; murub[middle]; til[live (of a single person)]
 #etcsl: line-id=50
 
 51. gal₅-la₂ kug-zu gal₅-la₂ gal-bi murub₄-ba til₃-la
+#tr.en: called out to the man at the boat's bow and to the man at the boat's stern:
 #lem: galla[policeman]; kugzu[wise]; galla[policeman]; gal[big]; murub[middle]; til[live (of a single person)]
 #etcsl: line-id=51
 
 52. lu₂ {ŋiš}ma₂-saŋ-ŋa₂-ke₄! lu₂ {ŋiš}ma₂-egir-ra-ke₄ gu₃ mu-un-na-de₂-e
+#tr.en: @q[demon,]{“Don't let the mooring stake be pulled out, don't let the mooring stake be pulled out,
 #lem: lu[person]; masaŋ[prow]; lu[person]; maʾegir[stern]; gu[voice]; de[pour]
 #etcsl: line-id=52
 
 53. ŋiš na-an-zig₃ ŋiš na-an-zig₃ šeš-ra u₅!-de₃
+#tr.en: so that she may come on board to her brother,
 #lem: ŋeš[tree]; zig[rise]; ŋeš[tree]; zig[rise]; šeš[brother]; u[ride]
 #etcsl: line-id=53
 
 54. nin-e {ŋiš}ma₂-gur₈-ra u₅-de₃
+#tr.en: that this lady may come on board the barge.”}
 #lem: nin[lady]; magur[barge]; u[ride]
 #etcsl: line-id=54
 
 55. {d}ama-šilamₓ(TUR₃) {ŋiš}ma₂-gur₈-ra u₅-da-a-ni
+#tr.en: When @wDN{Ama-šilama} had gone on board the barge,
 #lem: Amašilamak[1]DN; magur[barge]; u[ride]
 #etcsl: line-id=55
 
 56. gu₃ an-na ba-te gu₃ ki-ta ba-te
+#tr.en: a cry approached the heavens, a cry approached the earth,
 #lem: gu[voice]; an[sky]; teŋ[approach]; gu[voice]; ki[place]; teŋ[approach]
 #etcsl: line-id=56
 
 57. gu₃ šu! niŋin₂!-na gal₅-la₂ gal-bi id₂-da mu-da-ŋar
+#tr.en: that great demon set up an enveloping cry before him on the river:
 #lem: gu[voice]; šu[hand]; niŋin[encircle]; galla[policeman]; gal[big]; id[river]; ŋar[put]
 #etcsl: line-id=57
 
 58. urim₂{ki}-am₃ gu₃ de₂ an-ta-ŋu₁₀
+#tr.en: @q[demon,]{“@wSN{Urim}, at my cry to the heavens lock your houses,
 #lem: Urim[1]SN; gu[voice]; de[pour]; anta[companion]
 #etcsl: line-id=58
 
 59. e₂-za gi-bi e₂-za gi-bi iri e₂-za gi-bi
+#tr.en: lock your houses, city, lock your houses!
 #lem: e[house]; gi[turn]; e[house]; gi[turn]; iri[city]; e[house]; gi[turn]
 #etcsl: line-id=59
 
 60. eš₃ urim₂{ki}-ma e₂-za gi-bi iri e₂-za gi-bi
+#tr.en: Shrine @wSN{Urim}, lock your houses, city, lock your houses!
 #lem: eš[shrine]; Urim[1]SN; e[house]; gi[turn]; iri[city]; e[house]; gi[turn]
 #etcsl: line-id=60
 
 61. en-zu ŋi₆-par₃-ta ba-ra-e₃-a iri e₂-za gi-bi
+#tr.en: Against your lord who has left the @fsux{ŋipar}, city, lock your houses!”}
 #lem: en[lord]; ŋipar[cloister]; e[leave]; iri[city]; e[house]; gi[turn]
 #etcsl: line-id=61
 
 62. [...] X X X X [X X]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X
 #etcsl: line-id=62
 
 $ (approx. 1 line missing)
 64. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=64
 
 65. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=65
 
 66. ŋidru kug [...]
+#tr.en: …… a holy sceptre.
 #lem: ŋidru[scepter]; kug[purify]; X
 #etcsl: line-id=66
 
 67. tug₂-ba₁₃ kug [...]
+#tr.en: …… a holy robe of office.
 #lem: ba[garment]; kug[purify]; X
 #etcsl: line-id=67
 
 68. aga kug saŋ#-[ŋa₂ ...]
+#tr.en: …… a holy crown.
 #lem: aga[tiara]; kug[purify]; saŋ[head]; X
 #etcsl: line-id=68
 
 69. ŋidru za-gin₃-na [...]
+#tr.en: …… a lapis-lazuli sceptre.
 #lem: ŋidru[scepter]; zagin[lapis lazuli]; X
 #etcsl: line-id=69
 
 70. id₂ sug₄!(BU) id₂ hul₂-la# [...]
+#tr.en: He …… to the empty river, the rejoicing (?) river:
 #lem: id[river]; sug[empty]; id[river]; hul[rejoice]; X
 #etcsl: line-id=70
 
 71. e₂-ba la-ba-te-te [...]
+#tr.en: @q[Ninazu (?,]{“You @noteref{addressing @wDN{Ama-šilima} } shall not draw near to this house, …….
 #lem: e[house]; teŋ[approach]; X
 #etcsl: line-id=71
 
 72. ki {d}ereš-ki-gal-la-ka# [...]
+#tr.en: …… to the place of @wDN{Ereškigala}.
 #lem: ki[place]; Ereškigalak[1]DN; X
 #etcsl: line-id=72
 
 73. ŋe₂₆-e ama-ŋu₁₀ ki aŋ₂-ŋa₂-[ni-ta ...]
+#tr.en: My mother …… out of her love.
 #lem: ŋaʾe[I]; ama[mother]; ki[place]; aŋ[measure]; X
 #etcsl: line-id=73
 
 74. za-e gal₅-la₂ gal-bi he₂-me-en [...]
+#tr.en: As for you @noteref{addressing the demon}, you may be a great demon ……,
 #lem: zaʾe[you]; galla[policeman]; gal[big]; me[be]; X
 #etcsl: line-id=74
 
 75. nam-gu-za-la₂ kur-ra-še₃ šu-[zu ...]
+#tr.en: …… your hand against the nether world's office of throne-bearer.”}
 #lem: namguzala[office of throne-bearer]; kur[mountain(s)]; šu[hand]; X
 #etcsl: line-id=75
 
 76. lugal-ŋu₁₀# igi er₂-ra nu-še₈-še₈#-[...]
+#tr.en: @q{“My king will no longer shed tears in his eyes. The drum will …… his joy in tears. Come!
 #lem: lugal[king]; igi[eye]; er[tears]; šeš[weep]
 #etcsl: line-id=76
 
 77. balaŋ šag₄ hul₂-la-ka-ni er₂ [...]
+#tr.en: May the fowler utter a lament for you in his well-stocked house, lord, may he utter a lament for you.
 #lem: balaŋ[an instrument]; šag[heart]; hul[rejoice]; er[tears]; X
 #etcsl: line-id=77
 
 78. ŋen-na mušen-du₃ e₂ niŋ₂ ŋar-ra-na i-lu-zu he-me en i-lu-zu he₂-me %e te %s ba-ab-pel-e
+#tr.en: How he has been humiliated! May the young fisherman utter a lament for you in his well-stocked house, lord,
 #lem: ŋen[go]; mušendu[bird-catcher]; e[house]; niŋ[thing]; ŋar[put]; ilu[lament]; e[speak]; en[lord]; ilu[lament]; e[speak]; ta[what?]QP; pel[defile]
 #etcsl: line-id=78
 
 79. šu-KU₆ tur-e e₂ niŋ₂ ŋar-ra-na i-lu-zu he₂-me en i-lu-zu he₂-me %e ta %s ba-ab-pel-e
+#tr.en: may he utter a lament for you. How he has been humiliated! May the mother of the dead @fsux{gudug} priest @varh[t173.v40]{utter a lament for you in her empty @fsux{ŋipar} } @vart[t173.v41,t173.v40]{@varn{ 1 ms. has instead:}, on whom the house of the palace looked with envy (?) }, utter a lament for you,
 #lem: šukud[fisherman]; tur[small]; e[house]; niŋ[thing]; ŋar[put]; ilu[lament]; e[speak]; en[lord]; ilu[lament]; e[speak]; ta[what?]QP; pel[defile]
 #etcsl: line-id=79
 
 80. ama gudug ug₅-ga (1:ŋi₆-par₃-ra sug₄-ga-[na]:1) i-lu-zu he₂-me en i-lu-zu he₂-me %e ta %s <ba-ab-pel-e>
+#tr.en: lord, may she utter a lament for you. How he has been humiliated!
 #lem: ama[mother]; gudug[priest]; ug[kill]; ŋipar[cloister]; sug[empty]; ilu[lament]; e[speak]; en[lord]; ilu[lament]; e[speak]; ta[what?]QP; pel[defile]
 #etcsl: line-id=80
 
 :80v.1.1: ($1 ms. has instead:$) igi-tum₃-la₂ e₂ lugal-la-ke₄ bi₂-in-du₈
+?#tr.en: May the mother high priestess utter a lament @varh[t173.v42]{for you who have left the @fsux{ŋipar} } @vart[t173.v43,t173.v42]{@varn{1 ms. has instead:} for you, now dead, who used to be in your @fsux{ŋipar} }, lord, may she utter a lament for you. How he has been humiliated!”}
 #lem: igitumla[spy?]; e[house]; lugal[king]; du[spread]
 
 81. ama nin-diŋir (1:ŋi₆-par₃-ra ba-ra-e₃#-[X X]:1) i-lu-zu he₂-me en i-lu-zu he₂-me %e ta %s ba-ab-pel-e
@@ -444,38 +520,47 @@ $ (approx. 1 line missing)
 #lem: ug[kill]; ŋipar[cloister]; til[live (of a single person)]
 
 82. lugal-ŋu₁₀ saŋ-zu sahar-ra niŋin₂-na-zu a tu₅-a
+#tr.en: @q{“My king, bathe with water your head that has rolled in the dust.
 #lem: lugal[king]; saŋ[head]; sahar[soil]; niŋin[encircle]; a[water]; tu[cvve]
 #etcsl: line-id=82
 
 83. ŋiri₃-zu ki pel-la pel-la-zu e-sir₂ [...]
+#tr.en: …… in sandals your feet defiled from the defiled place.”}
 #lem: ŋiri[foot]; ki[place]; pel[defile]; pel[defile]; esir[street]; X
 #etcsl: line-id=83
 
 84. lugal-e saŋ-du sahar-ra# niŋin₂-na#-[ni a mu]-un-tu₅#
+#tr.en: The king bathed with water his head that had rolled in the dust.
 #lem: lugal[king]; saŋdu[head]; sahar[soil]; niŋin[encircle]; a[water]; tu[cvve]
 #etcsl: line-id=84
 
 85. ŋiri₃-bi ki pel-la pel-[la-ni e-sir₂ ...]
+#tr.en: …… in sandals his feet defiled from the defiled place.
 #lem: ŋiri[foot]; ki[place]; pel[defile]; pel[defile]; esir[street]; X
 #etcsl: line-id=85
 
 86. e₂-bi la-ba-teŋ₃-ŋe₂₆# [...]
+#tr.en: @q[Ninazu (?),]{“Not drawing near to this house, …….
 #lem: e[house]; teŋ[approach]; X
 #etcsl: line-id=86
 
 87. {ŋiš}gu-za-zu tuš-a [...]
+#tr.en: …… your throne …… to you @q[throne,]{“Sit down”}.
 #lem: guza[chair]; tuš[sit (down)]; X
 #etcsl: line-id=87
 
 88. ŋiš-nu₂ nu₂-a hu#-[mu-X]
+#tr.en: May your bed …… to you @q[bed,]{“Lie down”}.”}
 #lem: ŋešnud[bed]; nud[lie down]; X
 #etcsl: line-id=88
 
 89. niŋ₂-gu₇ ka-a mi-ni-in-gu₇! kurun₂ suh-bi i₃-naŋ
+#tr.en: He ate food in his mouth, he drank choice wine.
 #lem: niŋgu[food]; kag[mouth]; gu[eat]; kurun[beer]; suh[choose]; naŋ[drink]
 #etcsl: line-id=89
 
 90. kug gal {d}ereš-ki-gal-la za₃-mi₂-zu dug₃-ga-am₃
+#tr.en: Great holy one, @wDN{Ereškigala}, praising you is sweet.
 #lem: kug[purify]; gal[big]; Ereškigalak[1]DN; zamin[praise]; dug[good]
 #etcsl: line-id=90
 

@@ -65,17 +65,17 @@ A.3.4.6. u₂-|U.TUG₂|-DIN-ka niŋ₂ nu-sag₉-ga gana₂ zid-še₃ (1:mu₂
 @div proverb 3.5
 
 A.3.5.7. e-ri-ib-gu₇-en ti-ri₂-ga al-dehi₂-me-en
+#tr.en: I will feed you even though you are an outcast (?).
 #lem: gu[eat]; tirida[runaway]; tehi[approach]
 #etcsl: line-id=A.3.5.7
 
 A.3.5.8. e-ri-ib-naŋ-e ti-ri₂-ga al-dehi₂-me-en
-?#tr.en: I will feed you even though you are an outcast (?).
-?#tr.en: I will give you drink even though you are an outcast (?).
-?#tr.en: You are still my son, even if your god has turned against you.
+#tr.en: I will give you drink even though you are an outcast (?).
 #lem: naŋ[drink]; tirida[runaway]; tehi[approach]
 #etcsl: line-id=A.3.5.8
 
 A.3.5.9. dumu-ŋu₁₀-me-en diŋir-zu kur₂-ra-am₃
+#tr.en: You are still my son, even if your god has turned against you.
 #lem: dumu[child]; diŋir[deity]; kur[different]
 #etcsl: line-id=A.3.5.9
 
@@ -84,16 +84,19 @@ A.3.5.9. dumu-ŋu₁₀-me-en diŋir-zu kur₂-ra-am₃
 @div proverb 3.6
 
 A.3.6.10. ud-da ga-ŋen na-gada-kam
+#tr.en: @note{cf. @xref[t.6.1.16,t.6.1.16.b7]{6.1.16.b7}} @q{“I will go today”} is what a herdsman says;
 #lem: ud[sun]; ŋen[go]; nagada[herdsman]
 #etcsl: line-id=A.3.6.10
 
 #etcsl#cf cf. 6.1.16.b7
 
 A.3.6.11. ud ul-la ga-ŋen sipad-tur-ra-kam
+#tr.en: @q{“I will go tomorrow”} is what a shepherd-boy says.
 #lem: ud[sun]; ul[distant time]; ŋen[go]; sipadtur[junior shepherd]
 #etcsl: line-id=A.3.6.11
 
 A.3.6.12. ga-ŋen ga-ŋen-na-am₃ ud mi-ni-ib-zal-zal-e
+#tr.en: @q{“I will go”} is @q{“I will go”}, and the time passes.
 #lem: ŋen[go]; ŋen[go]; ud[sun]; zal[pass time]
 #etcsl: line-id=A.3.6.12
 

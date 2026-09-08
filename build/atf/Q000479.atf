@@ -95,38 +95,39 @@ $ (unknown no. of lines missing)
 @div kirugu B
 
 B.B.1. ŋarza a₂ šu [...]
+#tr.en: …… rites …….
 #lem: ŋarza[rites]; a[arm]; šu[hand]; X
 #etcsl: line-id=B.B.1
 
 B.B.2. ur₅-še₃!(TUG₂) ur₅ %e ša₃-ab-ŋu₁₀# %s [...]
-?#tr.en: …… rites …….
-?#tr.en: Thus …… my mood and heart.
-?#tr.en: As if during the night watch …… like excrement.
-?#tr.en: …… my countenance like smoke.
-?#tr.en: …… my body like blazing straw.
-?$ (@gap{1 line fragmentary}) 
+#tr.en: Thus …… my mood and heart.
 #lem: ur[that]; ur[liver]; šab[heart]N; X
 #etcsl: line-id=B.B.2
 
 B.B.3. ŋi₆ en-nu-uŋ₃-ŋa₂-gin₇# [...] šurum₃-gin₇! X [...]
+#tr.en: As if during the night watch …… like excrement.
 #lem: ŋi[night]; ennuŋ[watch]; X; šurum[dung]; X; X
 #etcsl: line-id=B.B.3
 
 B.B.4. muš₃-me-ŋu₁₀ i-bi₂-gin₇# [...]
+#tr.en: …… my countenance like smoke.
 #lem: mušme[face]; ibi[smoke]; X
 #etcsl: line-id=B.B.4
 
 B.B.5. su-ŋu₁₀ in bar₇-a-gin₇# [...]
+#tr.en: …… my body like blazing straw.
 #lem: su[flesh]; inu[straw]; bar[burn]; X
 #etcsl: line-id=B.B.5
 
 B.B.6. mu-un-ak a-a X [...]-a!-ba TUG₂ [...]
+#tr.en: ($fragmentary$)
 #lem: ak[do]; aya[father]; X; X; X; X
 #etcsl: line-id=B.B.6
 
 @div trailer 
 
 B.B.7. ki-ru#-[gu₂ X-kam]
+#tr.en: …… @fsux{kirugu}.
 #lem: kirugu[division notation in certain literary compositions]; X
 #etcsl: line-id=B.B.7
 
@@ -137,14 +138,14 @@ B.B.7. ki-ru#-[gu₂ X-kam]
 @div ŋišgiŋal C
 
 B.C.8. %e ga-ša-an %s [...]
-?#tr.en: …… @fsux{kirugu}.
+#tr.en: …… lady …….
 #lem: gašan[lady]N; X
 #etcsl: line-id=B.C.8
 
 @div trailer 
 
 B.C.9. ŋiš-gi₄#-[ŋal₂-bi-im]
-?#tr.en: …… lady …….
+#tr.en: Its @fsux{ŋišgiŋal}.
 #lem: ŋešgiŋal[musical refrain]
 #etcsl: line-id=B.C.9
 
@@ -156,34 +157,42 @@ B.C.9. ŋiš-gi₄#-[ŋal₂-bi-im]
 
 $ 1 line missing
 B.D.11. X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=B.D.11
 
 B.D.12. šu du₃-a [...]
+#tr.en: …… whose hands were fettered,
 #lem: šu[hand]; du[build]; X
 #etcsl: line-id=B.D.12
 
 B.D.13. še₂₉-eš₂ dug₄-[ga ...]
+#tr.en: …… who had been treated unjustly.
 #lem: heše[oppressed]; dug[speak]; X
 #etcsl: line-id=B.D.13
 
 B.D.14. dumu {d}en-lil₂ dumu AN# [...]
+#tr.en: The son of @wDN{Enlil}, the son of …….
 #lem: dumu[child]; Enlil[1]DN; dumu[child]; X; X
 #etcsl: line-id=B.D.14
 
 B.D.15. bar im-ak uŋ₃-e X [...] ki-en-gi# [...]
+#tr.en: …… @wGN{Sumer} …….
 #lem: bar[outside]; ak[do]; uŋ[people]; X; X; Kengir[1]; X
 #etcsl: line-id=B.D.15
 
 B.D.16. {d}en-lil₂-me-en erin₂# LU-LU X [...]
+#tr.en: I, @wDN{Enlil}, …….
 #lem: Enlil[1]DN; erin[people]; X; X; X
 #etcsl: line-id=B.D.16
 
 B.D.17. i₃-ne-eš₂-ta ud TE [...]
+#tr.en: From now on …….
 #lem: inešta[henceforth]; ud[sun]; X; X
 #etcsl: line-id=B.D.17
 
 B.D.18. X X X X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.D.18
 
@@ -197,73 +206,74 @@ $ (unknown no. of lines missing)
 @div kirugu E
 
 C.E.1. nam#-lu₂-ulu₃ us₂ zid im-mi-in-dab₅#
+#tr.en: He made the people follow the proper path,
 #lem: namlulu[humanity]; us[path]; zid[right]; dab[seize]
 #etcsl: line-id=C.E.1
 
 C.E.2. ki-en-gi-da lu₂-erim₂ im-ta-an-da-ra
-?#tr.en: He made the people follow the proper path,
-?#tr.en: and ousted (?) the enemy from @wGN{Sumer}. He removed the wicked tongues,
-?#tr.en: and made justice shine forth like copper.
-?#tr.en: That fathers should be feared and mothers respected,
-?#tr.en: that sons should pay heed to the words of their fathers,
-?#tr.en: and that mercy, compassion and pity should be shown,
-?#tr.en: that one should provide even one's paternal grandparents with food and drink -- all this he established in @wGN{Sumer} and @wGN{Akkad}.
-?#tr.en: Then she made @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil},
-?#tr.en: the @fsux{en} priest of @wSN{Unug}, into their guardian -- this is what @wDN{Inana},
-?#tr.en: the lady of heaven and earth,
-?#tr.en: did;
-?#tr.en: and the great @wDN{An} declared his consent.
-?#tr.en: @wDN{Enlil} …….
+#tr.en: and ousted (?) the enemy from @wGN{Sumer}. He removed the wicked tongues,
 #lem: Kengir[1]; luʾerim[evildoer]; dar[split]
 #etcsl: line-id=C.E.2
 
 C.E.3. eme niŋ₂ ha-lam-ma di im-da-an-kur₂
+#tr.en: and made justice shine forth like copper.
 #lem: eme[tongue]; niŋ[thing]; halam[forsake]; di[speak]; kur[different]
 #etcsl: line-id=C.E.3
 
 C.E.4. niŋ₂-si-sa₂ urud-gin₇ pa bi₂-ib-e₃
+#tr.en: That fathers should be feared and mothers respected,
 #lem: niŋsisa[justice]; urud[copper]; pa[branch]; e[leave]
 #etcsl: line-id=C.E.4
 
 C.E.5. a-a-ra ni₂ teŋ₃-ŋe₂₆-e ama-ra ni₂ su₄-ne₂
+#tr.en: that sons should pay heed to the words of their fathers,
 #lem: aya[father]; ni[fear]; teŋ[approach]; ama[mother]; ni[self]; sun[humble]
 #etcsl: line-id=C.E.5
 
 C.E.6. dumu ab-ba-ra inim-ma-ne₂-eš dur₂-u₃
+#tr.en: and that mercy, compassion and pity should be shown,
 #lem: dumu[child]; abba[father]; inim[word]; dur[buttocks]
 #etcsl: line-id=C.E.6
 
 C.E.7. arhuš šag₄-tur₃ šag₄-ne-ša₄ gur-ru
+#tr.en: that one should provide even one's paternal grandparents with food and drink -- all this he established in @wGN{Sumer} and @wGN{Akkad}.
 #lem: arhuš[compassion]; šagtur[womb]; šaneša[supplication]; gur[turn]
 #etcsl: line-id=C.E.7
 
 C.E.8. ad-da a-a-na an-gu₇ ama a-a-na an-naŋ
+#tr.en: Then she made @wRN{Išme-@wDN{Dagan}}, the son of @wDN{Enlil},
 #lem: adda[father]; aya[father]; gu[eat]; ama[mother]; aya[father]; naŋ[drink]
 #etcsl: line-id=C.E.8
 
 C.E.9. ki-en-gi ki-uri-a mi-ni-in-ŋar
+#tr.en: the @fsux{en} priest of @wSN{Unug}, into their guardian -- this is what @wDN{Inana},
 #lem: Kengir[1]; Akkad[1 Akkad]; ŋar[put]
 #etcsl: line-id=C.E.9
 
 C.E.10. {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂
+#tr.en: the lady of heaven and earth,
 #lem: Išmedagan[1]RN; dumu[child]; Enlil[1]DN
 #etcsl: line-id=C.E.10
 
 C.E.11. en unug{ki}-ga saŋ keše₂-ba mi-ni-in-kur₉#
+#tr.en: did;
 #lem: en[priest]; Unug[1]SN; saŋ[head]; kešed[bind]; kur[enter]
 #etcsl: line-id=C.E.11
 
 C.E.12. bi₂#-in-ak {d}inana nin an ki-ke₄#
+#tr.en: and the great @wDN{An} declared his consent.
 #lem: ak[do]; Inanak[1]DN; nin[lady]; an[sky]; ki[place]
 #etcsl: line-id=C.E.12
 
 C.E.13. an# gal!-e he₂-am₃-bi bi₂-in#-[dug₄] {d}en-lil₂-le# [...]
+#tr.en: @wDN{Enlil} …….
 #lem: An[1]DN; gal[big]; heʾam[so be it!]; dug[speak]; Enlil[1]DN; X
 #etcsl: line-id=C.E.13
 
 @div trailer 
 
 C.E.14. ki-ru#-[gu₂ X-kam]
+#tr.en: …… @fsux{kirugu}.
 #lem: kirugu[division notation in certain literary compositions]; X
 #etcsl: line-id=C.E.14
 

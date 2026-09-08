@@ -7,81 +7,107 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.5.b&display=Crit&charenc=gcirc#
 
 1. {d}marduk he₂-til₃-e
-?#tr.en: May @wDN{Marduk} grant life!
-?#tr.en: May he make your …… full!
-?#tr.en: May @wDN{Marduk} decree life for you!
+#tr.en: May @wDN{Marduk} grant life!
 #lem: Marduk[1]DN; til[live (of a single person)]
 #etcsl: line-id=1
 
 2. X-la he₂-ri-ib-si-si
+#tr.en: May he make your …… full!
 #lem: X; si[fill]
 #etcsl: line-id=2
 
 3. nam-til₃-zu {d}marduk he₂-eb₂-be₂
+#tr.en: May @wDN{Marduk} decree life for you!
 #lem: namtil[life]; Marduk[1]DN; e[speak]
 #etcsl: line-id=3
 
 4. nam-til₃-la-zu he₂-ri-ib-sud-dam
+#tr.en: May he prolong your life,
 #lem: namtil[life]; sud[distant]
 #etcsl: line-id=4
 
 5. [ud] du#-ru-še₃ he₂-ri-ib-tuku-a
+#tr.en: and may he let you keep it for everlasting days!
 #lem: ud[sun]; duri[forever]; tuku[acquire]
 #etcsl: line-id=5
 
 6. he₂-til₃-la
+#tr.en: May you live, and may you have peace!
 #lem: til[live (of a single person)]
 #etcsl: line-id=6
 
 7. he₂-silim-ma
+#tr.en: May it last forever! May life be your lot,
 #lem: silim[healthy]
 #etcsl: line-id=7
 
 8. gi₁₆-sa-aš he₂-a
+#tr.en: and may a life of contentment be your share!
 #lem: gilsa[treasure]; me[be]
 #etcsl: line-id=8
 
 9. ŋiš-šub-ba-zu nam-til₃-la he₂-a
+#tr.en: When you lie down to sleep,
 #lem: ŋeššub[lot]; namtil[life]; me[be]
 #etcsl: line-id=9
 
 10. nam-til₃ šag₄ dug₃-ga ha-la-zu he₂-a
+#tr.en: may your dreams be propitious, and when you rise,
 #lem: namtil[life]; šag[heart]; dug[good]; hala[inheritance share]; me[be]
 #etcsl: line-id=10
 
 11. ud nu₂-a ma-mu₂-zu he₂-en-sag₉
+#tr.en: may your omens be favourable!
 #lem: ud[sun]; nud[lie down]; mamud[dream]; sag[good]
 #etcsl: line-id=11
 
 12. zig₃-ga-am₃ inim-ŋar-zu he₂-en-sag₉
+#tr.en: Wherever you walk,
 #lem: zig[rise]; iŋar[oracular utterance]; sag[good]
 #etcsl: line-id=12
 
 13. ki ŋiri₃ gub-ba-zu silim-ma he₂-ni-ib₂-gen₆
+#tr.en: may you be established in peace!
 #lem: ki[place]; ŋiri[foot]; gub[stand]; silim[healthy]; gin[confirm]
 #etcsl: line-id=13
 
 14. til₃#-la lugal-ŋu₁₀ igi an-ne₂ a-a diŋir-re-e-ne-ke₄ sag₉-ga
+#tr.en: May the life of my king be pleasant in the eyes of @wDN{An}, father of the gods!
 #lem: til[live (of a single person)]; lugal[king]; igi[eye]; An[1]DN; aya[father]; diŋir[deity]; sag[good]
 #etcsl: line-id=14
 
 15. [...] lugal-zu kalam-ma he₂-ri-ib-il₂-e
+#tr.en: May he let you wear your royal …… in the Land!
 #lem: X; lugal[king]; kalam[the Land (of Sumer)]; il[raise]
 #etcsl: line-id=15
 
 16. [...] X {ŋiš}gu-za-zu su₃-u₄-ra₂-še₃ hu-mu-un-X X
+#tr.en: May your …… throne be …… until distant days!
 #lem: X; X; guza[chair]; sud[distant]; X; X
 #etcsl: line-id=16
 
 17. KA# X gi₁₆#-sa-aš he₂-a
+#tr.en: ……, may it last forever, and may life be your lot!
 #lem: X; X; gilsa[treasure]; me[be]
 #etcsl: line-id=17
 
 18. <ŋiš-šub-ba-zu nam-til₃-la he₂-a>
+#tr.en: May @wDN{Aya} …… life, …… your strength!
 #lem: ŋeššub[lot]; namtil[life]; me[be]
 #etcsl: line-id=18
 
 19. {d}a-a KA nam-til₃-la X [...] a₂-zu [...]
+?$ (@gap{1 line unclear}) 
+?#tr.en: May it be your lot to be a god,
+?#tr.en: eating food and @varh[t285b.v1]{…… peaceful water } @vart[t285b.v2,t285b.v1]{@varn{1 ms. has instead:} drinking water …… } of long life!
+?#tr.en: May a divine command bestow life on you! May you live, and may you have peace!
+?#tr.en: May it last forever and may life be your lot!
+?#tr.en: May a life of contentment be your share! When you lie down to sleep,
+?#tr.en: may your dreams be propitious,
+?#tr.en: and when you rise, may your omens be favourable!
+?#tr.en: Wherever you walk,
+?#tr.en: may you be established in peace!
+?#tr.en: May you live for everlasting days ……!
 #lem: Aya[1]DN; X; namtil[life]; X; X; a[arm]; X
 #etcsl: line-id=19
 

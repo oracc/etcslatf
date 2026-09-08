@@ -7,62 +7,81 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08.33&display=Crit&charenc=gcirc#
 
 1. {lu₂}ki-sikil tur₃ [...]
+#tr.en: @q[Dumuzid,Inana]{“Maiden, the cattle-pen ……;
 #lem: kisikil[young woman]; tur[animal stall]; X
 #etcsl: line-id=1
 
 2. ki-sikil {d}inana amaš [...]
+#tr.en: maiden @wDN{Inana}, the sheepfold …….
 #lem: kisikil[young woman]; Inanak[1]DN; amaš[sheepfold]; X
 #etcsl: line-id=2
 
 3. ab-sin₂-na gam-gam-e [...]
+#tr.en: …… bending in the furrows.
 #lem: absin[furrow]; gurum[bend]; X
 #etcsl: line-id=3
 
 4. {d}inana ga#-e-re-dib-dib [...]
+#tr.en: @wDN{Inana}, let me stroll with you;
 #lem: Inanak[1]DN; dib[pass]; X
 #etcsl: line-id=4
 
 5. ziz₂ AN# [...]
+#tr.en: …… the emmer …….
 #lem: ziz[emmer wheat]; X; X
 #etcsl: line-id=5
 
 6. in-nin [...] GA [...]
+#tr.en: Young lady, let me …….”}
 #lem: innin[lady]; X; X; X
 #etcsl: line-id=6
 
 7. %e [nu]-nus-ŋen %s nu-me-en ne nu-[me-en]
+#tr.en: @q[Inana,Dumuzid]{“I am a woman and I won't do that, I won't!
 #lem: nunus[woman]N; me[be]; nen[this]; me[be]
 #etcsl: line-id=7
 
 8. [X X X]-ta mul-ŋen nu-[me-en]
+#tr.en: I am a star ……, and I won't!
 #lem: X; X; X; mul[star]; me[be]
 #etcsl: line-id=8
 
 9. nitalam# sipad-da nu-me-en#-[...]
+#tr.en: I won't be the wife of a shepherd!”}
 #lem: ŋidlam[(equal ranking) spouse]; sipad[shepherd]; me[be]
 #etcsl: line-id=9
 
 10. šeš-a-ni ur-saŋ šul {d}utu
+#tr.en: Her brother, the warrior youth @wDN{Utu},
 #lem: šeš[brother]; ursaŋ[warrior]; šul[youth]; Utu[1]DN
 #etcsl: line-id=10
 
 11. kug {d}inana-ra# gu₃ mu-un-na-de₂-e
+#tr.en: said to holy @wDN{Inana}:
 #lem: kug[purify]; Inanak[1]DN; gu[voice]; de[pour]
 #etcsl: line-id=11
 
 12. nin₉-ŋu₁₀ he₂-tuku-tuku %e su₈-ba-de₃
+#tr.en: @q[Utu,Inana]{“My sister, let the shepherd marry you! Maiden @wDN{Inana}, why are you unwilling?
 #lem: nin[sister]; tuku[acquire]; subad[shepherd]N
 #etcsl: line-id=12
 
 13. ki-sikil {d}inana za-e a-na-aš nu-ub-še-ge-en
+#tr.en: @varh[t40833.v1]{His butter is good,
 #lem: kisikil[young woman]; Inanak[1]DN; zaʾe[you]; anaš[why?]; šeg[agree]
 #etcsl: line-id=13
 
 14. (1:i₃-ni dug₃-ga-am₃ ga-ni dug₃-ga-am₃:1) 
+#tr.en: his milk is good } @vart[t40833.v2,t40833.v1]{@varn{2 mss. have instead:} He of good butter, he of good milk } -- all the work of the shepherd's hands is splendid.
 #lem: i[oil]; dug[good]; ga[milk]; dug[good]
 #etcsl: line-id=14
 
 :14v.1.1: ($2 mss. have instead:$) i₃ dug₃-ga-ke₄ ga dug₃-ga-ke₄
+?#tr.en: @wDN{Inana}, let @wDN{Dumuzid} marry you.
+?#tr.en: You who wear jewellery,
+?#tr.en: who wear @fsux{šuba} jewels, why are you unwilling?
+?#tr.en: @vart[t40833.v3,t40833.v3]{@varn{1 ms. adds 2 lines:} His butter is good, his milk is good -- all the work of the shepherd's hands is splendid. } He will eat his good butter with you.
+?#tr.en: Protector of the king, why are you unwilling?”}
 #lem: i[oil]; dug[good]; ga[milk]; dug[good]
 
 15. %e {lu₂}su₈-ba %s niŋ₂ šu dug₄-ga-ni dadag-ga-am₃
@@ -98,30 +117,37 @@
 #etcsl: line-id=19
 
 20. ŋe₂₆-e %e su₈-ba-de₃ %s ba-ra-mu-tuku-tuku-un {{%akk la %akk i-ha-[...]}}
+#tr.en: @q[Inana,Utu]{“The shepherd shall
 #lem: ŋaʾe[I]; subad[shepherd]N; tuku[acquire]; L; L
 #etcsl: line-id=20
 
 21. [tug₂] gibil-la₂-na %e ba-ra-mi-ni-ga-ga-an {{%akk ṣu₂-ba-ti-šu %akk na-ap-ši-im %akk X %akk a %akk la}}
+#tr.en: not marry me!
 #lem: tug[textile]; gibil[new]; ga[carry]V/t; L; L; L; L; L
 #etcsl: line-id=21
 
 22. [siki gibil]-la₂-a-ni sa₂ ba-ra-mu-e-en {{%akk re-še₂₀-et %akk ša %akk ši-pa-ti-šu %akk X %akk a %akk la}}
+#tr.en: He shall not
 #lem: siki[hair]; gibil[new]; sa[equal]; e[speak]; L; L; L; L; L; L
 #etcsl: line-id=22
 
 23. ki#-sikil-ŋen %e me-e mu-un-gar₃-e de₃-mu-tuku-tuku-un
+#tr.en: make me carry
 #lem: kisikil[young woman]; meʾe[I]IP; mungar[farmer]N; tuku[acquire]
 #etcsl: line-id=23
 
 24. %e mu-un-gar₃ %s gu gun₃-gun₃-a-da
+#tr.en: his garments of new wool.
 #lem: mungar[farmer]N; gu[cord]; gunu[speckled]
 #etcsl: line-id=24
 
 25. %e mu-un-gar₃ %s še gun₃-gun₃-a-da
+#tr.en: His brand new wool
 #lem: mungar[farmer]N; še[barley]; gunu[speckled]
 #etcsl: line-id=25
 
 26. [...] X gu₂-un# [...]
+#tr.en: will not influence me.
 #lem: X; X; gun[load]; X
 #etcsl: line-id=26
 
@@ -131,106 +157,132 @@ $ (approx. 7 lines missing)
 #etcsl: line-id=34
 
 35. inim-bi [...]
+#tr.en: These words …….
 #lem: inim[word]; X
 #etcsl: line-id=35
 
 36. sipad-ra engar [...]
+#tr.en: ……the farmer to the shepherd.
 #lem: sipad[shepherd]; engar[farmer]; X
 #etcsl: line-id=36
 
 37. lugal-ŋu₁₀ X [...]
+#tr.en: My king ……, the shepherd,
 #lem: lugal[king]; X; X
 #etcsl: line-id=37
 
 38. %e su₈-ba {d}du₅-mu-zid-de₃#
+#tr.en: @wDN{Dumuzid} …….
 #lem: subad[shepherd]N; Dumuzid[1]DN
 #etcsl: line-id=38
 
 39. [...] X X dug₄-ge-de₃ in-[X X]
+#tr.en: …… to say ……:
 #lem: X; X; X; dug[speak]; X; X
 #etcsl: line-id=39
 
 40. engar-e# ŋa₂-a-ra engar-e ŋa₂-a-ra engar-e a-na mu-un-dirig-ga-am₃
+#tr.en: @q[Dumuzid,Inana]{“In what is the farmer superior to me, the farmer to me, the farmer to me?
 #lem: engar[farmer]; ŋaʾe[I]; engar[farmer]; ŋaʾe[I]; engar[farmer]; ana[what?]; dirig[make more than]
 #etcsl: line-id=40
 
 41. {d}en-ki-im-du lu₂ eg₂ pa₅-ra-ke₄
+#tr.en: @wDN{Enkimdu},
 #lem: Enkimdu[1]DN; lu[person]; eg[levee]; par[(small) canal]
 #etcsl: line-id=41
 
 42. ŋa₂-a-ra engar-e a-na mu-un-dirig-ga-am₃
+#tr.en: the man of the dykes and canals -- in what is that farmer superior to me?
 #lem: ŋaʾe[I]; engar[farmer]; ana[what?]; dirig[make more than]
 #etcsl: line-id=42
 
 43. tug₂ gig₂-ga-ni ha-ma-ab-šum₂-mu
+#tr.en: Let him give me his black garment,
 #lem: tug[textile]; giggig[black]; šum[give]
 #etcsl: line-id=43
 
 44. engar-ra u₈ gig₂-ŋu₁₀ ŋe₂₆-e ga-mu-na-ši-ib-šum₂
+#tr.en: and I will give the farmer my black ewe for it.
 #lem: engar[farmer]; u[sheep]; giggig[black]; ŋaʾe[I]; šum[give]
 #etcsl: line-id=44
 
 45. tug₂ babbar₂-ra-ni ha-ma-ab-šum₂-mu
+#tr.en: Let him give me his white garment,
 #lem: tug[textile]; babbar[white]; šum[give]
 #etcsl: line-id=45
 
 46. engar-ra u₈ babbar₂-ra-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+#tr.en: and I will give the farmer my white ewe for it.
 #lem: engar[farmer]; u[sheep]; babbar[white]; šum[give]
 #etcsl: line-id=46
 
 47. e-ne kaš saŋ-ŋa₂-ni ha-ma-an-de₂-e
+#tr.en: Let him pour me his best beer,
 #lem: ane[he]; kaš[beer]; saŋ[head]; de[pour]
 #etcsl: line-id=47
 
 48. engar-ra ga sig₇-a-ŋu₁₀ ga-mu-na-ši-in-de₂
+#tr.en: and I will pour the farmer my yellow milk for it.
 #lem: engar[farmer]; ga[milk]; sissig[green-yellow]; de[pour]
 #etcsl: line-id=48
 
 49. e-ne kaš sag₁₀-ni ha-ma-an-de₂-e
+#tr.en: Let him pour me his fine beer,
 #lem: ane[he]; kaš[beer]; sag[good]; de[pour]
 #etcsl: line-id=49
 
 50. engar-ra ga-ki-si-im-ma#-[ŋu₁₀] ga-mu-na-ši-in-de₂#
+#tr.en: and I will pour the farmer my soured (?) milk for it.
 #lem: engar[farmer]; kisim[sour milk]; de[pour]
 #etcsl: line-id=50
 
 51. e-ne kaš sa₂ gi₄-a-ni ha-ma-an-de₂-e {{%akk hi-iq-šu}}
+#tr.en: Let him pour me his brewed beer,
 #lem: ane[he]; kaš[beer]; sa[sinew]; gi[turn]; de[pour]; L
 #etcsl: line-id=51
 
 52. engar-ra ga BUL-a-ŋu₁₀ ga-mu-na-ši-in-de₂
+#tr.en: and I will pour the farmer my whipped milk for it.
 #lem: engar[farmer]; ga[milk]; X; de[pour]
 #etcsl: line-id=52
 
 53. e-ne kašbir-a-ni ha-ma-an-de₂-e {{%akk X %akk X %akk X %akk a-šu}}
+#tr.en: Let him pour me his beer shandy,
 #lem: ane[he]; kašbir[diluted beer]; de[pour]; L; L; L; L
 #etcsl: line-id=53
 
 54. engar-ra ŋe₂₆-e ga u₂-ŋu₁₀ ga-mu-na-ši-in-de₂
+#tr.en: and I will pour the farmer my …… milk for it.”}
 #lem: engar[farmer]; ŋaʾe[I]; ga[milk]; u[plant(s)]; de[pour]
 #etcsl: line-id=54
 
 55. ha-ha-la sag₁₀-ni ha-ma-ab-šum₂-mu
+#tr.en: @q{“Let him give me his best filtered beer,
 #lem: hahala[comestible]; sag[good]; šum[give]
 #etcsl: line-id=55
 
 56. engar-ra ŋe₂₆-e ga i₃-ti-ir-da-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+#tr.en: and I will give the farmer my curds (?).
 #lem: engar[farmer]; ŋaʾe[I]; ga[milk]; itirda[dairy product]; šum[give]
 #etcsl: line-id=56
 
 57. ninda sag₁₀-ni ha-ma-ab-šum₂-mu
+#tr.en: Let him give me his best bread,
 #lem: ninda[bread]; sag[good]; šum[give]
 #etcsl: line-id=57
 
 58. engar-ra ga nunuz-te#-a-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+#tr.en: and I will give the farmer my …… milk for it.
 #lem: engar[farmer]; ga[milk]; nunuzte[dairy designation]; šum[give]
 #etcsl: line-id=58
 
 59. gu₂ di₄-di₄-la₂-ni ha-ma-ab-šum₂-mu
+#tr.en: Let him give me his little beans,
 #lem: gu[pulse]; didila[small(er)]; šum[give]
 #etcsl: line-id=59
 
 60. engar-ra ga-ar₃ tur-tur-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+#tr.en: and I will give the farmer my small cheeses for them.
 #lem: engar[farmer]; gaʾar[cheese]; tur[small]; šum[give]
 #etcsl: line-id=60
 
@@ -238,6 +290,10 @@ $ (approx. 7 lines missing)
 
 #etcsl#ms 1 ms. adds 2 lines:
 60A. gu₂# [gal-gal-la-ni ha-ma-ab-šum₂-mu]
+?#tr.en: @vart[t40833.v4,t40833.v4]{@varn{1 ms. adds 2 lines:} Let him give me his large beans, and I will give the farmer my big cheeses for them. } After letting him eat and letting him drink,
+?#tr.en: I will even leave extra butter for him,
+?#tr.en: and I will leave extra milk for him.
+?#tr.en: In what is the farmer superior to me?”}
 #lem: gu[pulse]; gal[big]; šum[give]
 #etcsl: line-id=60A
 
@@ -263,108 +319,134 @@ $ (approx. 7 lines missing)
 #etcsl: line-id=64
 
 65. ul am₃-te ul am₃-te gaba peš₁₀-a ul am₃-te
+#tr.en: He was cheerful, he was cheerful, at the edge of the riverbank, he was cheerful.
 #lem: ul[swell]; teŋ[approach]; ul[swell]; teŋ[approach]; gaba[breast]; piš[bank]; ul[swell]; teŋ[approach]
 #etcsl: line-id=65
 
 66. peš₁₀-am₃ sipad-de₃ peš₁₀-am₃
+#tr.en: On the riverbank, the shepherd on the riverbank,
 #lem: piš[bank]; sipad[shepherd]; piš[bank]
 #etcsl: line-id=66
 
 67. sipad-de₃ peš₁₀-am₃# udu na-an-ga-am₃-mi#-[ni-in-lu-lu]
+#tr.en: now the shepherd was even pasturing the sheep on the riverbank.
 #lem: sipad[shepherd]; piš[bank]; udu[sheep]; lu[abundant]
 #etcsl: line-id=67
 
 68. sipad peš₁₀-a udu lu-a-ra
+#tr.en: The farmer approached the shepherd there, the shepherd pasturing the sheep on the riverbank;
 #lem: sipad[shepherd]; piš[bank]; udu[sheep]; lu[abundant]
 #etcsl: line-id=68
 
 69. {lu₂}sipad-ra engar mu-na-ni-[in-te]
+#tr.en: the farmer @wDN{Enkimdu} approached him there. @wDN{Dumuzid} …… the farmer,
 #lem: sipad[shepherd]; engar[farmer]; teŋ[approach]
 #etcsl: line-id=69
 
 70. engar {d}en-ki-im-du mu#-[na-ni-in-te]
+#tr.en: the king of dyke and canal.
 #lem: engar[farmer]; Enkimdu[1]DN; teŋ[approach]
 #etcsl: line-id=70
 
 71. {d}dumu-zid lugal eg₂ pa₅-re [...]
+#tr.en: From the plain where he was,
 #lem: Dumuzid[1]DN; lugal[king]; eg[levee]; par[(small) canal]; X
 #etcsl: line-id=71
 
 72. edin-a-na sipad-de₃ [edin]-a-na du₁₄ mu-un#-[di-ni-ib-mu₂-mu₂]
+#tr.en: the shepherd from the plain where he was provoked a quarrel with him;
 #lem: eden[back]; sipad[shepherd]; eden[back]; dud[combat]; mu[grow]
 #etcsl: line-id=72
 
 73. %e su₈-ba %s {d}dumu-zid-de₃ edin-a-na du₁₄ mu-un-di-ni-ib-mu₂-mu₂
+#tr.en: the shepherd @wDN{Dumuzid} from the plain where he was provoked a quarrel with him.
 #lem: subad[shepherd]N; Dumuzid[1]DN; eden[back]; dud[combat]; mu[grow]
 #etcsl: line-id=73
 
 74. ŋa₂-a za-a-da %e su₈-ba %s ŋa₂-a za-a-da %e su₈-ba %s ŋa₂-a za-a-da
+#tr.en: @q[Enkimdu,Dumuzid]{“Why should I compete against you, shepherd,
 #lem: ŋaʾe[I]; zaʾe[you]; subad[shepherd]N; ŋaʾe[I]; zaʾe[you]; subad[shepherd]N; ŋaʾe[I]; zaʾe[you]
 #etcsl: line-id=74
 
 75. a-na-aš mu-da-ab-sa₂-e-en
+#tr.en: I against you, shepherd, I against you?
 #lem: anaš[why?]; sa[equal]
 #etcsl: line-id=75
 
 76. udu-zu u₂ peš₁₀ he₂-em-mi-gu₇
+#tr.en: Let your sheep eat the grass of the riverbank,
 #lem: udu[sheep]; u[plant(s)]; piš[bank]; gu[eat]
 #etcsl: line-id=76
 
 77. išin-ŋa₂ udu-zu he₂-em-mi-gu₇!(LU)
+#tr.en: let your sheep graze on my stubble.
 #lem: isin[culm]; udu[sheep]; gu[eat]
 #etcsl: line-id=77
 
 78. a-šag₄ šuba unug{ki}-ga še ha-ba-ni-gu₇
+#tr.en: Let them eat grain in the jewelled (?) fields of @wSN{Unug},
 #lem: ašag[field]; šuba[precious stone]; Unug[1]SN; še[barley]; gu[eat]
 #etcsl: line-id=78
 
 79. maš₂ sila₄-zu {id₂}surungal-ŋa₂ a ha-ba-ni-in-naŋ
+#tr.en: let your kids and lambs drink water from my @wWN{Surungal} canal.”}
 #lem: maš[goat]; sila[lamb]; Surungal[1]WN; a[water]; naŋ[drink]
 #etcsl: line-id=79
 
 80. {lu₂}sipad-me-en nam-nitalam-ŋu₁₀-še₃
+#tr.en: @q[Dumuzid,Enkimdu]{“As for me, I am a shepherd: when I am married, farmer,
 #lem: sipad[shepherd]; namŋidlam[marriage status]
 #etcsl: line-id=80
 
 81. engar gu₅-li-ŋa₂ na-ba-ni-in-kur₉-ra
+#tr.en: you are going to be counted as my friend.
 #lem: engar[farmer]; guli[friend]; kur[enter]
 #etcsl: line-id=81
 
 82. engar {d}en-ki-im-du gu₅-li-ŋa₂ engar gu₅-li-ŋa₂
+#tr.en: Farmer @wDN{Enkimdu},
 #lem: engar[farmer]; Enkimdu[1]DN; guli[friend]; engar[farmer]; guli[friend]
 #etcsl: line-id=82
 
 83. na-ba-ni-in-kur₉-ra-am₃
+#tr.en: you are going to be counted as my friend, farmer, as my friend.”}
 #lem: kur[enter]
 #etcsl: line-id=83
 
 84. gig ga-mu-ra-de₆ gu₂ ga-mu-ra-de₆
+#tr.en: @q[Enkimdu,Dumuzid Inana]{“I will bring you wheat, and I will bring you beans;
 #lem: kib[wheat]; de[carry]; gu[pulse]; de[carry]
 #etcsl: line-id=84
 
 85. gu₂-nida bir-un₄-na ga-mu-ra-de₆
+#tr.en: I will bring you two-row barley from the threshing-floor. And you,
 #lem: gunida[designation of grain]; birun[threshing-floor?]; de[carry]
 #etcsl: line-id=85
 
 86. {lu₂}ki-sikil niŋ₂ za-a-ra sig₉-ga
+#tr.en: maiden, I will bring you whatever you please,
 #lem: kisikil[young woman]; niŋ[thing]; zaʾe[you]; sig[put into]
 #etcsl: line-id=86
 
 87. ki-sikil {d}inana še giŋ₄ gu₂ MUNUS ga-mu-ra-de₆
+#tr.en: maiden @wDN{Inana}, …… barley or …… beans.”}
 #lem: kisikil[young woman]; Inanak[1]DN; še[barley]; giŋ[unit of weight]; gu[pulse]; X; de[carry]
 #etcsl: line-id=87
 
 88. sipad engar-da a-da-min₃ dug₄-ga
+#tr.en: The dispute between the shepherd and the farmer:
 #lem: sipad[shepherd]; engar[farmer]; adamin[contest]; dug[speak]
 #etcsl: line-id=88
 
 89. ki-sikil {d}inana za₃-mi₂-zu dug₃-ga-am₃
+#tr.en: maiden @wDN{Inana}, your praise is sweet.
 #lem: kisikil[young woman]; Inanak[1]DN; zamin[praise]; dug[good]
 #etcsl: line-id=89
 
 @div trailer 
 
 90. bal-bal-e-dam
+#tr.en: A @fsux{balbale}.
 #lem: balbale[literary subscript]
 #etcsl: line-id=90
 

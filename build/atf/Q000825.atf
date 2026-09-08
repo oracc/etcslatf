@@ -102,47 +102,53 @@ $ (unknown no. of lines missing)
 #etcsl#cf cf. 6.1.19.d8
 
 1.B.5. [ud šu₂-šu₂]-ru# X šag₄ hul₂-la e₂-gal-la-kam
+#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c8]{6.1.21.c8}} Dusk means joy for the palace.
 #lem: ud[sun]; šuš[cover]; X; šag[heart]; hul[rejoice]; egal[palace]
 #etcsl: line-id=1.B.5
 
 #etcsl#cf cf. 6.1.21.c8
 
 1.B.6. [X X] X geme₂-a-kam
-?#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c8]{6.1.21.c8}} Dusk means joy for the palace.
+#tr.en: …… of a slave girl …….
 #lem: X; X; X; geme[female worker]
 #etcsl: line-id=1.B.6
 
 1.B.7. [nu-mu]-un#-na-kal geme₂ X-ra-kam
-?#tr.en: …… of a slave girl …….
+#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c9]{6.1.21.c9}} It meant nothing to her; she is the slave girl of a …….
 #lem: kal[rare]; geme[female worker]; X
 #etcsl: line-id=1.B.7
 
 #etcsl#cf cf. 6.1.21.c9
 
 1.B.8. %e [gi₄]-in!#-gi₄-in-ne %s balaŋ ba-ra-an-e₃-eš
-?#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c9]{6.1.21.c9}} It meant nothing to her; she is the slave girl of a …….
+#tr.en: @note{cf. @xref[t.6.1.21,t.6.1.21.c10]{6.1.21.c10}, @xref[t.6.2.3,]{6.2.3: UET 6/2 325 ll. 1-2}} The slave girls brought out a @fsux{balaŋ} drum.
 #lem: gin[worker]N; balaŋ[an instrument]; e[leave]
 #etcsl: line-id=1.B.8
 
 #etcsl#cf cf. 6.1.21.c10, 6.2.3: UET 6/2 325 ll. 1-2
 
 1.B.9. %e [ga-ša]-an-an-na %s e-duru₂-še₃ tuš-tuš
+#tr.en: @wDN{Inana} remained seated (?) in the village.
 #lem: Gašanana[1]DN; eduru[village]; tuš[sit (down)]
 #etcsl: line-id=1.B.9
 
 1.B.10. [...] X a šu! na₄ an-na-kur₉!
+?$ (@note{cf. @xref[t.6.1.15,t.6.1.15.c15]{6.1.15.c15}} ) 
+?$ (@gap{1 line unclear}) 
 #lem: X; X; a[water]; šu[hand]; na[stone weight]; kur[enter]
 #etcsl: line-id=1.B.10
 
 #etcsl#cf cf. 6.1.15.c15
 
 1.B.11. [geme₂ niŋ₂ hi-li]-a#-ke₄# {d}iškur diŋir lugal LIL₂!-e
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.36]{6.1.03.36}, @xref[t.6.2.3,]{6.2.3: UET 6/2 325 ll. 3-5}} The voluptuous slave girl says: @q{“Let @wDN{Iškur},
 #lem: geme[female worker]; niŋ[thing]; hili[attractiveness]; Iškur[1]DN; diŋir[deity]; lugal[king]; X
 #etcsl: line-id=1.B.11
 
 #etcsl#cf cf. 6.1.03.36, 6.2.3: UET 6/2 325 ll. 3-5
 
 1.B.12. [ukuš₂-gin₇ ki dug₃] hu#-mu-dar#-e-še
+#tr.en: …… god …… king …… split the fertile ground like a cucumber.”}
 #lem: ukuš[cucumber]; ki[place]; dug[good]; dar[split]
 #etcsl: line-id=1.B.12
 
@@ -155,34 +161,42 @@ $ (unknown no. of lines missing)
 @div segment A
 
 2.A.1. {ŋiš}ma₂# dilmun-na tum₉ nu-mir ba-an-da-su
+#tr.en: A @wGN{Dilmun} ship sank although there was no wind.
 #lem: ma[ship]; Dilmun[1]GN; tumu[wind]; mir[angry]; su[sink]
 #etcsl: line-id=2.A.1
 
 2.A.2. ŋiš mah a-zu šu NE li-bi₂-TAG
+#tr.en: Your water (?) will not …… the huge trees.
 #lem: ŋeš[tree]; mah[great]; azu[doctor]; šu[hand]; X; X
 #etcsl: line-id=2.A.2
 
 2.A.3. ki-nu₂ dug₃-ga-zu u₃-sa₂ nu-mu-ni-nu
+#tr.en: You will not sleep on your comfortable bed.
 #lem: kinud[sleeping quarter]; dug[good]; usag[sleep]; nud[lie down]
 #etcsl: line-id=2.A.3
 
 2.A.4. id₂ a mah a mi-ni-ib₂-de₂-a-zu
+#tr.en: Although you poured out water from a river of mighty waters,
 #lem: id[river]; a[water]; mah[great]; a[water]; de[pour]
 #etcsl: line-id=2.A.4
 
 2.A.5. bar-ra!-ŋu₁₀ nu-mu-sed₅
+#tr.en: it did not cool my temper.
 #lem: bar[outside]; sed[cold]
 #etcsl: line-id=2.A.5
 
 2.A.6. uš₁₁-ŋu₁₀ nu-mu-ni-til
+#tr.en: It did not put an end (?) to the sorcery affecting me.
 #lem: uš[poison]; til[complete]
 #etcsl: line-id=2.A.6
 
 2.A.7. IM DU-da-za še nu-mu-ni-in-la₂
+#tr.en: Since you …… and will not winnow,
 #lem: X; X; še[barley]; la[hang]
 #etcsl: line-id=2.A.7
 
 2.A.8. izi-ŋar-zu-ta {gi}<šu>-bil-la₂-ŋu₁₀ šu bar zid li#-bi₂-ak
+#tr.en: with your torch my reed altar (?) will not …….
 #lem: iziŋar[torch]; šubila[cabinet]; šu[hand]; bar[place outside]; zid[right]; ak[do]
 #etcsl: line-id=2.A.8
 

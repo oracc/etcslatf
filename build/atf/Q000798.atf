@@ -417,6 +417,7 @@ B.4.52.24. niŋ₂ šu dug₄-ga-ŋu₁₀ ki diŋir-ra-na nam-ba-e-til-en
 @div proverb 4.53
 
 B.4.53.25. ama er₂ še₈-še₈ X X X HAR-ra bi₂-ib₂-gu₇-en
+#tr.en: …… a weeping mother …… you enjoy the use of …….
 #lem: ama[mother]; er[tears]; šeš[weep]; X; X; X; X; gu[eat]
 #etcsl: line-id=B.4.53.25
 
@@ -425,13 +426,12 @@ B.4.53.25. ama er₂ še₈-še₈ X X X HAR-ra bi₂-ib₂-gu₇-en
 @div proverb 4.54
 
 B.4.54.26. ama-ŋu₁₀ saŋ rig₇# [...] MU#
-?#tr.en: …… a weeping mother …… you enjoy the use of …….
+#tr.en: My mother …… offering;
 #lem: ama[mother]; saŋ[head]; rig[donate]; X; X
 #etcsl: line-id=B.4.54.26
 
 B.4.54.27. geme₂-ŋu₁₀ al-me-a-gin₇ e-ak-e
-?#tr.en: My mother …… offering;
-?#tr.en: she is behaving as though she were my slave-girl.
+#tr.en: she is behaving as though she were my slave-girl.
 #lem: geme[female worker]; me[be]; ak[do]
 #etcsl: line-id=B.4.54.27
 
@@ -440,12 +440,12 @@ B.4.54.27. geme₂-ŋu₁₀ al-me-a-gin₇ e-ak-e
 @div proverb 4.55
 
 B.4.55.28. ziₓ(IGI@g)-a a sig₉-sig₉ bi₂-in#-[...]
+#tr.en: …… a libation (?).
 #lem: ziʾa[blinded worker]; a[water]; sig[clear]; X
 #etcsl: line-id=B.4.55.28
 
 B.4.55.29. lu₂# X [X X]-ma-ab mu-šum₂-e-še
-?#tr.en: …… a libation (?).
-?#tr.en: …… gave it.
+#tr.en: …… gave it.
 #lem: lu[person]; X; X; X; šum[give]
 #etcsl: line-id=B.4.55.29
 
@@ -454,14 +454,14 @@ B.4.55.29. lu₂# X [X X]-ma-ab mu-šum₂-e-še
 @div proverb 4.56
 
 B.4.56.30. lu₂ ur₃-ra-ke₄ lu₂ e₂#-[a til₃-la]-ka#
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.126]{6.1.02.126}, @xref[t.6.1.11,t.6.1.11.131]{6.1.11.131}} Says the man lying on the roof to the man living in the house:
 #lem: lu[person]; ur[roof]; lu[person]; e[house]; til[live (of a single person)]
 #etcsl: line-id=B.4.56.30
 
 #etcsl#cf cf. 6.1.02.126, 6.1.11.131
 
 B.4.56.31. mu#-[na]-ab#-be₂-a im-ma-zalag-ge-e-še
-?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.126]{6.1.02.126}, @xref[t.6.1.11,t.6.1.11.131]{6.1.11.131}} Says the man lying on the roof to the man living in the house:
-?#tr.en: @q{“It is too bright up here!”}
+#tr.en: @q{“It is too bright up here!”}
 #lem: e[speak]; zalag[bright]
 #etcsl: line-id=B.4.56.31
 
@@ -470,6 +470,7 @@ B.4.56.31. mu#-[na]-ab#-be₂-a im-ma-zalag-ge-e-še
 @div proverb 4.57
 
 B.4.57.32. piriŋ-e e₂ ni₂-te-na-ka-da du₃-a ab#-la₂-la₂
+#tr.en: The lion is tied up with (?) that of which his own house is made.
 #lem: piriŋ[lion]; e[house]; ni[self]; du[build]; la[hang]
 #etcsl: line-id=B.4.57.32
 
@@ -478,7 +479,7 @@ B.4.57.32. piriŋ-e e₂ ni₂-te-na-ka-da du₃-a ab#-la₂-la₂
 @div proverb 4.58
 
 B.4.58.33. lu₂-IM ib₂-dab₅-ba lu₂ gen₆-na ba-an#-dim₂
-?#tr.en: The lion is tied up with (?) that of which his own house is made.
+#tr.en: That which the thief has taken was made by an honest man.
 #lem: lutumu[criminal]; dab[seize]; lu[person]; gin[confirm]; dim[create]
 #etcsl: line-id=B.4.58.33
 
@@ -487,7 +488,7 @@ B.4.58.33. lu₂-IM ib₂-dab₅-ba lu₂ gen₆-na ba-an#-dim₂
 @div proverb 4.59
 
 B.4.59.34. ki ab-kal# diŋir#-ra-kam sahar-ra-am₃ bi₂-ib₂-šu₂-šu₂-un
-?#tr.en: That which the thief has taken was made by an honest man.
+#tr.en: To appreciate the earth is for the gods; I am merely covered in dust.
 #lem: ki[place]; kal[rare]; diŋir[deity]; sahar[soil]; šuš[cover]
 #etcsl: line-id=B.4.59.34
 
@@ -496,7 +497,7 @@ B.4.59.34. ki ab-kal# diŋir#-ra-kam sahar-ra-am₃ bi₂-ib₂-šu₂-šu₂-un
 @div proverb 4.60
 
 B.4.60.35. zig₃-ga saŋ niŋ₂-gur₁₁-ra-ka bid₃ ab-gu₅-ul
-?#tr.en: To appreciate the earth is for the gods; I am merely covered in dust.
+#tr.en: In respect of both expenditures and capital goods, the anus is well supplied.
 #lem: zig[rise]; saŋ[head]; niŋgur[property]; bed[anus]; gal[big]
 #etcsl: line-id=B.4.60.35
 
@@ -505,7 +506,7 @@ B.4.60.35. zig₃-ga saŋ niŋ₂-gur₁₁-ra-ka bid₃ ab-gu₅-ul
 @div proverb 4.61
 
 B.4.61.36. nam-sis-a bid₃ ib-ra ka ba-an-kur₉
-?#tr.en: In respect of both expenditures and capital goods, the anus is well supplied.
+#tr.en: Bitterness afflicted the anus; but it entered by way of the mouth.
 #lem: namsesa[bitterness]; bed[anus]; rah[beat]; kag[mouth]; kur[enter]
 #etcsl: line-id=B.4.61.36
 
@@ -514,7 +515,7 @@ B.4.61.36. nam-sis-a bid₃ ib-ra ka ba-an-kur₉
 @div proverb 4.62
 
 B.4.62.37. gu-du-e# še₁₀ dur₂-e dug₄-ge inim# dirig#-ge am₃-ta-ab-tum₃
-?#tr.en: Bitterness afflicted the anus; but it entered by way of the mouth.
+#tr.en: The anus breaks wind; talking produces excessive words.
 #lem: gudu[buttocks]; šed[excrement]; dur[buttocks]; dug[speak]; inim[word]; dirig[make more than]; tum[bring]
 #etcsl: line-id=B.4.62.37
 
@@ -523,6 +524,7 @@ B.4.62.37. gu-du-e# še₁₀ dur₂-e dug₄-ge inim# dirig#-ge am₃-ta-ab-tum
 @div proverb 4.63
 
 B.4.63.38. ama sikil#-sikil#-la ma₂-addir#-ra a nu-tuku-me-en
+#tr.en: O …… mother, I have no water in the ferry-boat.
 #lem: ama[mother]; sikil[pure]; maʾaddir[ferryboat]; a[water]; tuku[acquire]
 #etcsl: line-id=B.4.63.38
 

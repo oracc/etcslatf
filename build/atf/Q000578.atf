@@ -7,34 +7,42 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.06&display=Crit&charenc=gcirc#
 
 1. šeš-ŋu₁₀-ne u₃-na-dug₄
+#tr.en: Say to my brothers
 #lem: šeš[brother]; dug[speak]
 #etcsl: line-id=1
 
 2. {m}{d}a-ba₄-tah-lugal-ŋa₂-ke₄ na-ab-be₂-a
+#tr.en: what @wPN{Aba-taḫ-lugalŋa} says:
 #lem: Abatahlugalŋak[1]PN; e[speak]
 #etcsl: line-id=2
 
 3. al-su₃-ud kaskal i-im-re₇-de₃-en
+#tr.en: We are to go on journeys that are long and now the just king,
 #lem: sud[distant]; kaskal[way]; ere[go (perfect plural stem of ŋen⟦to go⟧)]
 #etcsl: line-id=3
 
 4. u₃ lugal gen₆-na lugal-me ŋiri₃# ba-an-us₂#
+#tr.en: our king,
 #lem: u[and]; lugal[king]; gin[confirm]; lugal[king]; ŋiri[foot]; us[accompany]
 #etcsl: line-id=4
 
 5. kaskal-kaskal-e kaskal ba-an-tah
+#tr.en: draws near (?).
 #lem: kaskal[way]; kaskal[way]; tah[add]
 #etcsl: line-id=5
 
 6. ama-me en₃ li-bi₂-in-tar-re-de₃-en
+#tr.en: Journey is to be added to journey after journey.
 #lem: ama[mother]; en[cvne]; tar[cut]
 #etcsl: line-id=6
 
 7. dag-gi₄-me ud na#-an-šu₂-uš-a lul-aš
+#tr.en: I shall not be able to look after our mother.
 #lem: daggi[city quarter]; ud[sun]; šuš[cover]; lul[false]
 #etcsl: line-id=7
 
 8. 1(DIŠ) sila₃ mun 1(DIŠ) sila₃ gazi
+#tr.en: Take great care that the sun does not set over our
 #lem: n; sila[unit of capacity]; mun[salt]; n; sila[unit of capacity]; gazi[condiment]
 #etcsl: line-id=8
 
@@ -42,6 +50,10 @@
 
 #etcsl#ms 1 ms. adds on the lower edge:
 8A. [...] UŠ šu-ta e-[...]
+?#tr.en: neighbourhood before you have …… one litre of salt,
+?#tr.en: one litre of mustard (?) @vart[t3306.v1,t3306.v1]{@varn{1 ms. adds on the lower edge:}, …… from the hand, } and one …… garment for travellers.
+?#tr.en: Our journeys will be long.
+?#tr.en: It is urgent.
 #lem: X; X; šu[hand]; X
 #etcsl: line-id=8A
 

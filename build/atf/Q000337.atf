@@ -231,15 +231,31 @@
 #etcsl: line-id=1.A.43
 
 1.A.44. kingal {d}nuska a₂ aŋ₂-ŋa₂ {d}en-lil₂-la₂ šu ba-an-ti-a-ta
+#tr.en: When @wDN{Nuska}, the head of the assembly, had received @wDN{Enlil's} instructions,
 #lem: kingal[an official]; Nuska[1]DN; a[arm]; aŋ[measure]; Enlil[1]DN; šu[hand]; teŋ[approach]
 #etcsl: line-id=1.A.44
 
 1.A.45. ud X X nam-zal ereš₂{ki}-še₃ ŋiri₃-ni na-am₃-mi-gub
-?#tr.en: When @wDN{Nuska}, the head of the assembly, had received @wDN{Enlil's} instructions,
-?#tr.en: he wasted no time ……; he directed his steps to @wSN{Ereš}. He entered @wTN{E-zagin},
-?#tr.en: the residence of @wDN{Nanibgal} @noteref{a name of @wDN{Nisaba}} and prostrated himself before @wDN{Nanibgal} on her dais.
-?#tr.en: …… of @wDN{Enlil} ……,
-?#tr.en: and she (?) asked him ……: @q[Nisaba,Nuska]{“…… what ……?”}
+#tr.en: he wasted no time ……; he directed his steps to @wSN{Ereš}. He entered @wTN{E-zagin},
+#lem: ud[sun]; X; X; zal[pass time]; Ereš[1]SN; ŋiri[foot]; gub[stand]
+#etcsl: line-id=1.A.45
+
+1.A.46. e₂-za-gin₃ ki-tuš {d}nanibgal-še₃ mu-na-da-an-ku₄-ku₄
+#tr.en: the residence of @wDN{Nanibgal} @noteref{a name of @wDN{Nisaba}} and prostrated himself before @wDN{Nanibgal} on her dais.
+#lem: Ezagin[1]TN; kituš[dwelling place]; Nanibgal[1]DN; kur[enter]
+#etcsl: line-id=1.A.46
+
+1.A.47. [X X] X zi {d}nanibgal barag#-ga-na ki mu-na-ni-ib-za
+#tr.en: …… of @wDN{Enlil} ……,
+#lem: X; X; X; zi[life]; Nanibgal[1]DN; barag[sanctum]; ki[place]; zaza[bow down]
+#etcsl: line-id=1.A.47
+
+1.A.48. [X X] {[d]}[en]-lil₂#-la₂-ka [X X] X gub en₃ <<MU>>-mu-ni-ib-tar-tar#-[re]
+#tr.en: and she (?) asked him ……: @q[Nisaba,Nuska]{“…… what ……?”}
+#lem: X; X; Enlil[1]DN; X; X; X; gub[stand]; en[cvne]; tar[cut]
+#etcsl: line-id=1.A.48
+
+1.A.49. [...] a-na A# [...]
 ?$ (@gap{7 lines missing}) 
 ?$ (@gap{1 line fragmentary}) 
 ?#tr.en: (@wDN{Nuska} speaks:) @q[Nuska,Nisaba]{“…… @wDN{Sud} …….
@@ -259,22 +275,6 @@
 ?#tr.en: @wDN{Aruru} shall become @wDN{Sud's} sister-in-law: let her be shown the household.
 ?#tr.en: Inform your lord thus in his august @wTN{Ki-ur}.
 ?#tr.en: Repeat this to @wDN{Enlil} in the privacy of his holy bedchamber.”}
-#lem: ud[sun]; X; X; zal[pass time]; Ereš[1]SN; ŋiri[foot]; gub[stand]
-#etcsl: line-id=1.A.45
-
-1.A.46. e₂-za-gin₃ ki-tuš {d}nanibgal-še₃ mu-na-da-an-ku₄-ku₄
-#lem: Ezagin[1]TN; kituš[dwelling place]; Nanibgal[1]DN; kur[enter]
-#etcsl: line-id=1.A.46
-
-1.A.47. [X X] X zi {d}nanibgal barag#-ga-na ki mu-na-ni-ib-za
-#lem: X; X; X; zi[life]; Nanibgal[1]DN; barag[sanctum]; ki[place]; zaza[bow down]
-#etcsl: line-id=1.A.47
-
-1.A.48. [X X] {[d]}[en]-lil₂#-la₂-ka [X X] X gub en₃ <<MU>>-mu-ni-ib-tar-tar#-[re]
-#lem: X; X; Enlil[1]DN; X; X; X; gub[stand]; en[cvne]; tar[cut]
-#etcsl: line-id=1.A.48
-
-1.A.49. [...] a-na A# [...]
 #lem: X; ana[what?]; X; X
 #etcsl: line-id=1.A.49
 
@@ -348,11 +348,11 @@ $ 7 lines missing
 #etcsl: line-id=1.A.73
 
 1.A.74. [...]-ra a₂ mu-da-an-aŋ₂-ta#
+#tr.en: After …… had instructed ……, …… and @wDN{Nuska} took his seat on it.
 #lem: X; a[arm]; aŋ[measure]
 #etcsl: line-id=1.A.74
 
 1.A.75. [...] DU# {d}nuska dur₂ bi₂-in-ŋar
-?#tr.en: After …… had instructed ……, …… and @wDN{Nuska} took his seat on it.
 ?$ (@gap{1 line missing}) 
 ?#tr.en: @wDN{Nanibgal} called …… and gave her advice: @q[Nisaba,Sud]{“My little one,
 ?#tr.en: asleep indoors (?) …… your pure ……, the pleasant private quarters …….
@@ -490,53 +490,53 @@ $ 1 line missing
 #etcsl: line-id=1.A.102
 
 1.A.103. [...] ba-dug₃ {d}en-lil₂ šag₄-ga-na hul₂-hul₂-e im-de₆
+#tr.en: …… made …… feel good, brought great rejoicing in @wDN{Enlil's} heart.
 #lem: X; dug[good]; Enlil[1]DN; šag[heart]; hul[rejoice]; de[carry]
 #etcsl: line-id=1.A.103
 
 1.A.104. [...] saŋ mu-ni-il₂ kušum₄ mu-un-tag-tag-ge
-?#tr.en: …… made …… feel good, brought great rejoicing in @wDN{Enlil's} heart.
-?#tr.en: He raised his head ……, and animals came running.
-?#tr.en: …… herds of four-legged animals that graze together in the desert.
-?#tr.en: He caught …… living in the mountains, he made wild bulls,
-?#tr.en: red deer, elephants, fallow deer, gazelles, bears, wild sheep and rams,
-?#tr.en: lynxes, foxes, wild cats, tigers, mountain sheep, water buffaloes, monkeys, and thick-horned fat cattle jostle together noisily.
-?#tr.en: Cows and their calves, wild cattle with wide-spread horns, …… rope,
-?#tr.en: @varh[t122.v5]{ewes and lambs, goats and kids, romping …… } @vart[t122.v6,t122.v5]{@varn{1 later ms. from Susa has instead:} …… and fighting }, large kids with long beards,
-?#tr.en: scratching with their hooves, lambs,
-?#tr.en: ……,
-?#tr.en: and majestic sheep were despatched by @wDN{Enlil} toward @wSN{Ereš}.
+#tr.en: He raised his head ……, and animals came running.
 #lem: X; saŋ[head]; il[raise]; kušum[cvne]; tag[touch]
 #etcsl: line-id=1.A.104
 
 1.A.105. [X X maš₂]-anše# <niŋ₂>-ur₂-limmu₂-e edin ni₂-ba lu-a
+#tr.en: …… herds of four-legged animals that graze together in the desert.
 #lem: X; X; mašanše[animals]; niŋurlimmu[four legged creature]; eden[back]; ni[self]; lu[abundant]
 #etcsl: line-id=1.A.105
 
 1.A.106. [...]-zu# hur-saŋ ŋal₂-la-ba šu im-ma-ni-tag
+#tr.en: He caught …… living in the mountains, he made wild bulls,
 #lem: X; hursaŋ[mountain]; ŋal[⟦be⟧ to be (there]; šu[hand]; tag[touch]
 #etcsl: line-id=1.A.106
 
 1.A.107. am lu-lim am-si tarah maš-da₃ az šeg₉ šeg₉-bar-ra
+#tr.en: red deer, elephants, fallow deer, gazelles, bears, wild sheep and rams,
 #lem: am[wild bull]; lulim[stag]; amsi[elephant]; durah[wild goat]; mašda[gazelle]; az[bear]; šeg[an animal]; šeŋbar[an animal]
 #etcsl: line-id=1.A.107
 
 1.A.108. su-a ka₅-a su-a-ri ur-šub₅ udu kur-ra ab₂-za-za {ugu}ugu₄-bi
+#tr.en: lynxes, foxes, wild cats, tigers, mountain sheep, water buffaloes, monkeys, and thick-horned fat cattle jostle together noisily.
 #lem: sua[wild cat]; kaʾa[fox]; suari[wild cat]; uršub[tiger]; udu[sheep]; kur[mountain(s)]; abzaza[zebu]; ugubi[monkey]
 #etcsl: line-id=1.A.108
 
 1.A.109. gud niga a₂ gur-gur-ra gu₃#-bi bi₂-in-sig₁₀-sig₁₀
+#tr.en: Cows and their calves, wild cattle with wide-spread horns, …… rope,
 #lem: gud[bull]; niga[fattened]; a[arm]; gur[thick]; gu[voice]; sig[put into]
 #etcsl: line-id=1.A.109
 
 1.A.110. immal₂ amar-bi am si hal-ha saman# [...]
+#tr.en: @varh[t122.v5]{ewes and lambs, goats and kids, romping …… } @vart[t122.v6,t122.v5]{@varn{1 later ms. from Susa has instead:} …… and fighting }, large kids with long beards,
 #lem: immal[cow]; amar[calf]; am[wild bull]; si[horn]; hal[divide]; saman[tethering rope]; X
 #etcsl: line-id=1.A.110
 
 1.A.111. (1:u₈ sila₄ ud₅ maš₂ zur-zur-re [...]:1)
+#tr.en: scratching with their hooves, lambs,
 #lem: u[sheep]; sila[lamb]; uzud[(female) goat]; maš[goat]; zur[take care of]; X
 #etcsl: line-id=1.A.111
 
 :111v.1.1: ($1 later ms. from Susa has instead the line:$) [...]-ra# a-da-min₃ NE e-ne [...]
+?#tr.en: ……,
+?#tr.en: and majestic sheep were despatched by @wDN{Enlil} toward @wSN{Ereš}.
 #lem: X; adamin[contest]; X; ane[he]; X
 
 1.A.112. maš₂ gal sun₄ la₂ umbin sud₂-sud₂ sila₄ X [...]
@@ -548,122 +548,122 @@ $ 1 line missing
 #etcsl: line-id=1.A.113
 
 1.A.114. ga-ar₃ gal-gal ga-ar₃ gazi ga-ar₃ tur-[tur ...]
+#tr.en: Large cheeses, mustard-flavoured cheeses,
 #lem: gaʾar[cheese]; gal[big]; gaʾar[cheese]; gazi[condiment]; gaʾar[cheese]; tur[small]; X
 #etcsl: line-id=1.A.114
 
 1.A.115. ga nunuz-te šeŋ₆-ŋa₂ ga i-ti-ir-da# [...]
-?#tr.en: Large cheeses, mustard-flavoured cheeses,
-?#tr.en: small cheeses, ……,
-?#tr.en: milk ……, the sweetest dry honey and white honey,
-?#tr.en: ……, and thick and large …… were despatched by @wDN{Enlil} toward @wSN{Ereš}.
+#tr.en: small cheeses, ……,
 #lem: ga[milk]; nunuzte[dairy designation]; šeŋ[cook]; ga[milk]; itirda[dairy product]; X
 #etcsl: line-id=1.A.115
 
 1.A.116. lal₃ had₂ lal₃ hab₂ ku₇-ku₇-da HI [...] X X X X
+#tr.en: milk ……, the sweetest dry honey and white honey,
 #lem: lal[syrup]; ah[dried (out)]; lal[syrup]; tahab[soak]; kud[sweet]; X; X; X; X; X; X
 #etcsl: line-id=1.A.116
 
 1.A.117. [X X] X gur-gur gal-bi si# ba#-ni-sa₂ {d}en-lil₂ ereš₂#{[ki]}-[še₃]
+#tr.en: ……, and thick and large …… were despatched by @wDN{Enlil} toward @wSN{Ereš}.
 #lem: X; X; X; gur[turn]; gal[big]; si[horn]; sa[equal]; Enlil[1]DN; Ereš[1]SN
 #etcsl: line-id=1.A.117
 
 1.A.118. [X X] zu₂-lum {ŋiš}peš₃ {ŋiš}nu-ur₂-ma gal {ŋiš}X X
+#tr.en: ……, dates, figs,
 #lem: X; X; zulum[the fruit of the date-palm]; peš[fig]; nurma[pomegranate tree]; gal[big]; X; X
 #etcsl: line-id=1.A.118
 
 1.A.119. ŋiš-ŋi₆#-par₄ {ŋiš}šennur {ŋiš}ha-lu-ub₂ {ŋiš}ešₓ(LAM) {ŋiš}al-la-nu-um
-?#tr.en: ……, dates, figs,
-?#tr.en: large pomegranates, ……, @fsux{ŋipar} fruits,
-?#tr.en: plums (?), @fsux{ḫalub} nuts, almonds,
-?#tr.en: acorns, @wGN{Dilmun} dates packed in baskets, dark-coloured date spadices,
-?#tr.en: large pomegranates gathered from orchards, big clusters of grapes on high, …… trees in fruit,
-?#tr.en: trees from orchards, …… grown in winter, and fruits from orchards were despatched by @wDN{Enlil} toward @wSN{Ereš}.
+#tr.en: large pomegranates, ……, @fsux{ŋipar} fruits,
 #lem: ŋipar[fruit tree]; šennur[plum]; halub[tree]; eš[tree]; allanum[oak]
 #etcsl: line-id=1.A.119
 
 1.A.120. zu₂-lum dilmun-na gur-da dab₅-ba an zu₂-lum za-gin₃-na
+#tr.en: plums (?), @fsux{ḫalub} nuts, almonds,
 #lem: zulum[the fruit of the date-palm]; Dilmun[1]GN; gur[unit of capacity]; dab[seize]; aʾan[date spadix]; zulum[the fruit of the date-palm]; zagin[lapis lazuli]
 #etcsl: line-id=1.A.120
 
 1.A.121. {ŋiš}nu-ur₂-ma gal pu₂-ta šu su-ub-ba {ŋiš}ŋeštin ga-ra-an gal nim
+#tr.en: acorns, @wGN{Dilmun} dates packed in baskets, dark-coloured date spadices,
 #lem: nurma[pomegranate tree]; gal[big]; pu[fruit orchard]; šu[hand]; sub[rub]; ŋeštin[vine]; garan[bunch (of fruit)]; gal[big]; nim[high]
 #etcsl: line-id=1.A.121
 
 1.A.122. ŋiš kur gi-rin-na ŋiš šag₄ {ki}kiri₆ ŋiš HI UD X [...] en-te-en-e gu₂ peš-a
+#tr.en: large pomegranates gathered from orchards, big clusters of grapes on high, …… trees in fruit,
 #lem: ŋeš[tree]; kur[mountain(s)]; girim[flower]; ŋeš[tree]; šag[heart]; kiri[(fruit) plantation]; ŋeš[tree]; X; X; X; X; enten[winter]; gu[neck]; peš[thick]
 #etcsl: line-id=1.A.122
 
 1.A.123. gurun {ŋiš}kiri₆-a si ba-ni-in-sa₂ {d}en#-[lil₂] ereš₂#{ki}-še₃
+#tr.en: trees from orchards, …… grown in winter, and fruits from orchards were despatched by @wDN{Enlil} toward @wSN{Ereš}.
 #lem: gurun[fruit]; kiri[(fruit) plantation]; si[horn]; sa[equal]; Enlil[1]DN; Ereš[1]SN
 #etcsl: line-id=1.A.123
 
 1.A.124. ha-šum ha-ra-li kur ki su₃#-[ra₂] erim₃-ma niŋ₂ šag₄ [...]
+#tr.en: Ores (?) from @wGN{Ḫarali}, the faraway land,
 #lem: hašum[ore?]; Harali[1]GN; kur[mountain(s)]; ki[place]; sud[distant]; erim[storeroom]; niŋ[thing]; šag[heart]; X
 #etcsl: line-id=1.A.124
 
 1.A.125. {na₄}du₈-ši-a kug-sig₁₇ kug-[babbar ...]
-?#tr.en: Ores (?) from @wGN{Ḫarali}, the faraway land,
-?#tr.en: …… storehouses, ……,
-?#tr.en: rock-crystal, gold,
-?#tr.en: silver, ……,
-?#tr.en: the yield of the uplands ……, heavy loads of them,
-?#tr.en: were despatched by @wDN{Enlil} toward @wSN{Ereš}. After the personal presents,
-?#tr.en: the transported goods ……, @wDN{Ninmaḫ} and the minister …….
-?#tr.en: The dust from their march reached high into the sky like rain clouds. Enormous marriage gifts were being brought for @wDN{Nanibgal} to @wSN{Ereš};
-?#tr.en: the city was getting full inside and out, …… it was to be replete.
-?#tr.en: The rest …… on the outlying roads ……. …… blue sky …….
-?$ (@gap{1 line missing}) 
-?$ (@gap{2 lines fragmentary}) 
+#tr.en: …… storehouses, ……,
 #lem: dušia[stone]; kugsig[gold]; kugbabbar[silver]; X
 #etcsl: line-id=1.A.125
 
 1.A.126. gu₂-un igi-nim-[ma] X
+#tr.en: rock-crystal, gold,
 #lem: gun[load]; iginim[upper land]; X
 #etcsl: line-id=1.A.126
 
 1.A.127. gu₂-un dugud-da-bi si ba#-[ni-in-sa₂] {d}en-lil₂ ereš₂{ki#}-[še₃]
+#tr.en: silver, ……,
 #lem: gun[load]; dugud[heavy]; si[horn]; sa[equal]; Enlil[1]DN; Ereš[1]SN
 #etcsl: line-id=1.A.127
 
 1.A.128. mu pad₃-da egir-bi niŋ₂ lah₄ [...] {d}nin-mah sukkal a-ab#-[...]
+#tr.en: the yield of the uplands ……, heavy loads of them,
 #lem: mu[name]; pad[find]; egir[back]; niŋ[thing]; lah[plural stem of tum ⟦bring⟧]; X; Ninmah[1]DN; sukkal[secretary]; X
 #etcsl: line-id=1.A.128
 
 1.A.129. sahar ŋiri₃-bi muru₉!(|IM.IM|) šeŋ₃-ŋa₂-gin₇ an-šag₄-ga i-ib-us₂#
+#tr.en: were despatched by @wDN{Enlil} toward @wSN{Ereš}. After the personal presents,
 #lem: sahar[soil]; ŋiri[foot]; muru[rainstorm]; šeŋ[rain]; anšag[the interior of heaven]; us[accompany]
 #etcsl: line-id=1.A.129
 
 1.A.130. ereš₂{ki}-še₃ nam-mi-ni-in-tum₃ niŋ₂-de₂-a gal-gal# {d}nanibgal# X
+#tr.en: the transported goods ……, @wDN{Ninmaḫ} and the minister …….
 #lem: Ereš[1]SN; tum[bring]; niŋdea[marriage gift]; gal[big]; Nanibgal[1]DN; X
 #etcsl: line-id=1.A.130
 
 1.A.131. šag₄ bar iri-ba im-mi-in-si#-si# [...] šu nam-peš-peš-dam#
+#tr.en: The dust from their march reached high into the sky like rain clouds. Enormous marriage gifts were being brought for @wDN{Nanibgal} to @wSN{Ereš};
 #lem: šag[heart]; bar[outside]; iri[city]; si[fill]; X; šu[hand]; peš[thick]
 #etcsl: line-id=1.A.131
 
 1.A.132. da₁₃-da₁₃-bi ŋiri₃ bar#-ra X [...] kur-bi [...]
+#tr.en: the city was getting full inside and out, …… it was to be replete.
 #lem: taka[set aside]; ŋiri[foot]; bar[outside]; X; X; kur[mountain(s)]; X
 #etcsl: line-id=1.A.132
 
 1.A.133. an sig₇#-ga# X [...]
+#tr.en: The rest …… on the outlying roads ……. …… blue sky …….
 #lem: an[sky]; sissig[green-yellow]; X; X
 #etcsl: line-id=1.A.133
 
 $ 1 line missing
 1.A.135. U₂ X [...] BI [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=1.A.135
 
 1.A.136. U₂ A X [...] {tug₂}aktum [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; aktum[garment]; X
 #etcsl: line-id=1.A.136
 
 1.A.137. (1:ušbar₃#{bar} {d}en-lil₂-le munus šu ba-kar₂-kar₂ {d}nanibgal mi₂ mu-un-e:1)
+#tr.en: @varh[t122.v7]{@wDN{Nanibgal}, the mother-in-law of @wDN{Enlil}, the woman who had been slandered, was treated kindly by @wDN{Nuska} (?) } @vart[t122.v8,t122.v7]{@varn{1 ms. has instead:} …… the mother-in-law of @wDN{Enlil}, the woman …… @wDN{Ezina} …… } -- but the lady disregarded the flatterer,
 #lem: ušbar[father-in-law]; Enlil[1]DN; munus[woman]; šu[hand]; kar[blow]; Nanibgal[1]DN; mi[cvne]; dug[speak]
 #etcsl: line-id=1.A.137
 
 :137v.1.1: ($the other ms. has instead the line:$) ušbar₃ {d}en-lil₂-la₂ munus# [...] {d}ezina₂ [...]
-?#tr.en: @varh[t122.v7]{@wDN{Nanibgal}, the mother-in-law of @wDN{Enlil}, the woman who had been slandered, was treated kindly by @wDN{Nuska} (?) } @vart[t122.v8,t122.v7]{@varn{1 ms. has instead:} …… the mother-in-law of @wDN{Enlil}, the woman …… @wDN{Ezina} …… } -- but the lady disregarded the flatterer,
 ?#tr.en: and spoke to her daughter: @q[Nisaba,Sud]{“May you be @varh[t122.v9]{@wDN{Enlil's} favourite wife } @vart[t122.v10,t122.v9]{@varn{1 ms. has instead:} the wife of @wDN{Enlil's} heart }, and may he speak to you sweetly.
 ?#tr.en: May he embrace you, the most beautiful of all, and tell you: @q[Nisaba,Sud]{“Beloved, open wide!”}@varh[t122.v11]{May the two of you never lose the pleasure (?) of excitement;
 ?#tr.en: make it last (?) a long time. } @vart[t122.v12,t122.v11]{@varn{1 ms. has instead:} May it be that the pleasure (?) of excitement will never be lost. } You two …… on the hill, and have children afterwards!
@@ -716,67 +716,91 @@ $ 1 line missing
 #lem: niŋ[thing]; kur[different]
 
 1.A.146. šu-ni im-ma-an-dab₅ {d}a-ru-ru eš₃-mah-še₃ mi-ni-in-kar
+#tr.en: Then @wDN{Aruru} grasped her by the hand and led her away into the @wTN{Eš-maḫ}.
 #lem: šu[hand]; dab[seize]; Aruru[1]DN; Ešmah[1]TN; kar[flee]
 #etcsl: line-id=1.A.146
 
 1.A.147. e₂-kur e₂ {d}en-lil₂-ke₄ mu-un!-ši-ib₂-kur₉ X [...]
-?#tr.en: Then @wDN{Aruru} grasped her by the hand and led her away into the @wTN{Eš-maḫ}.
-?#tr.en: She brought her into the @wTN{E-kur}, the house of @wDN{Enlil}, and …….
-?#tr.en: In the sleeping quarters,
-?#tr.en: in the flowered bed …… like a fragrant cedar forest,
-?#tr.en: @wDN{Enlil} made (?) love to his wife and took great pleasure in it.
-?$ (@gap{1 line fragmentary}) 
-?#tr.en: The lord whose statements are …… the lady; …… @wDN{Nintur},
-?#tr.en: the @q{“Lady who gives birth”} ……. …… @wDN{En-batibira's} @noteref{perhaps a name of @wDN{Aruru}} countenance, …….
-?#tr.en: He presented her with ……,
-?#tr.en: everything ……, and …….
+#tr.en: She brought her into the @wTN{E-kur}, the house of @wDN{Enlil}, and …….
 #lem: Ekur[1]TN; e[house]; Enlil[1]DN; kur[enter]; X; X
 #etcsl: line-id=1.A.147
 
 1.A.148. e₂ ki-nu₂-a ŋiš#-nu₂ gi-rin-na# {ŋiš}tir šim {ŋiš}erin-gin₇ [...]
+#tr.en: In the sleeping quarters,
 #lem: e[house]; kinud[sleeping quarter]; ŋešnud[bed]; girim[flower]; tir[forest]; šim[aromatic substance]; eren[cedar]; X
 #etcsl: line-id=1.A.148
 
 1.A.149. {d}en-lil₂# nitalam-a-ni ŋiš₃ bi₂#-[...] mu#-ni-in-hi-li-[...]
+#tr.en: in the flowered bed …… like a fragrant cedar forest,
 #lem: Enlil[1]DN; ŋidlam[(equal ranking) spouse]; ŋeš[penis]; X; hili[have pleasure]
 #etcsl: line-id=1.A.149
 
 1.A.150. [...]-ka MU [...]
+#tr.en: @wDN{Enlil} made (?) love to his wife and took great pleasure in it.
 #lem: X; X; X
 #etcsl: line-id=1.A.150
 
 1.A.151. en dug₄-ga-a-X X-ru nin [...]
+#tr.en: ($fragmentary$)
 #lem: en[lord]; dug[speak]; urun[exalted]; nin[lady]; X
 #etcsl: line-id=1.A.151
 
 1.A.152. {d}nin-tur₅! munus <<NU>>-u₃-tud# [...]
+#tr.en: The lord whose statements are …… the lady; …… @wDN{Nintur},
 #lem: Nintur[1]DN; munus[woman]; utud[give birth (to)]; X
 #etcsl: line-id=1.A.152
 
 1.A.153. {[d]}en-ba!-tibira! muš₃-me# [...]
+#tr.en: the @q{“Lady who gives birth”} ……. …… @wDN{En-batibira's} @noteref{perhaps a name of @wDN{Aruru}} countenance, …….
 #lem: Enbatibirak[1]DN; mušme[face]; X
 #etcsl: line-id=1.A.153
 
 1.A.154. X X X niŋ₂-nam [...] NE [X X] nu-bar-re-dam
+#tr.en: He presented her with ……,
 #lem: X; X; X; niŋnam[anything]; X; X; X; X; bar[place outside]
 #etcsl: line-id=1.A.154
 
 1.A.155. ki-ni ŋar me ki til₃-le# sag₉-ge# saŋ-e#-[eš ...]-rig₇#
+#tr.en: everything ……, and …….
 #lem: ki[place]; ŋar[put]; me[Being]; ki[place]; til[live (of a single person)]; sag[good]; saŋ[head]; rig[donate]
 #etcsl: line-id=1.A.155
 
 1.A.156. ud-da-ta munus EDIN-BAR he₂-em munus bar lu₂ e₂ he₂-em
+#tr.en: (@wDN{Enlil} speaks:) @q[Enlil,Sud]{“From now on, a woman shall be the ……;
 #lem: udata[hereafter]; munus[woman]; X; me[be]; munus[woman]; bar[outside]; lu[person]; e[house]; me[be]
 #etcsl: line-id=1.A.156
 
 1.A.157. lu₂ dam sig₁₀-ga-ŋu₁₀ mu-un-u₃-tud kug {d}nisaba-ke₄
-?#tr.en: (@wDN{Enlil} speaks:) @q[Enlil,Sud]{“From now on, a woman shall be the ……;
-?#tr.en: a foreign woman shall be the mistress of the house. May my beautiful wife, who was born by holy @wDN{Nisaba},
-?#tr.en: be @wDN{Ezina}, the growing grain, the life of @wGN{Sumer}.
-?#tr.en: When you appear in the furrows like a beautiful young girl,
-?#tr.en: may @wDN{Iškur}, the canal inspector, be your provider, supplying you with water from the ground.
-?#tr.en: The height of the year is marked with your new prime flax and your new prime grain;
-?#tr.en: @wDN{Enlil} and @wDN{Ninlil} procreate them (?) as desired.
+#tr.en: a foreign woman shall be the mistress of the house. May my beautiful wife, who was born by holy @wDN{Nisaba},
+#lem: lu[person]; dam[spouse]; sig[put into]; utud[give birth (to)]; kug[purify]; Nisabak[1]DN
+#etcsl: line-id=1.A.157
+
+1.A.158. {d}ezina₂ {d}ezina₂ mu₂ zi ki-en-gi-ra he₂-em
+#tr.en: be @wDN{Ezina}, the growing grain, the life of @wGN{Sumer}.
+#lem: Ezina[1]DN; Ezina[1]DN; mu[grow]; zi[life]; Kengir[1]; me[be]
+#etcsl: line-id=1.A.158
+
+1.A.159. ab-sin₂-na ki-sikil sag₉-ga-gin₇ ni₂ pa e₃ ak-za
+#tr.en: When you appear in the furrows like a beautiful young girl,
+#lem: absin[furrow]; kisikil[young woman]; sag[good]; ni[self]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=1.A.159
+
+1.A.160. {d}iškur ku₃-ŋal₂ u₂-a-zu he₂-em a ki-ta mi-ri-in-de₂
+#tr.en: may @wDN{Iškur}, the canal inspector, be your provider, supplying you with water from the ground.
+#lem: Iškur[1]DN; guŋal[inspector]; ua[provisioner]; me[be]; a[water]; ki[place]; de[pour]
+#etcsl: line-id=1.A.160
+
+1.A.161. zag-mu-a gu saŋ gibil-gibil-za še saŋ gibil-gibil-za
+#tr.en: The height of the year is marked with your new prime flax and your new prime grain;
+#lem: zagmuk[new year]; gu[cord]; saŋ[head]; gibil[new]; še[barley]; saŋ[head]; gibil[new]
+#etcsl: line-id=1.A.161
+
+1.A.162. {d}en-lil₂ {d}nin-lil₂-bi kurku₂-a he₂-mu-ni-tud#-tud-de₃#-eš
+#tr.en: @wDN{Enlil} and @wDN{Ninlil} procreate them (?) as desired.
+#lem: Enlil[1]DN; Ninlil[1]DN; kurku[wish]; utud[give birth (to)]
+#etcsl: line-id=1.A.162
+
+1.A.163. lu₂ li-bi₂-in-dug₄-ga-ŋu₁₀ lu₂-erim₂-bi (1:he₂-em:1) usu uŋ₃-bi tu-lu-ab
 ?$ (@gap{1 line unclear}) 
 ?#tr.en: The harvest crop raises its head high for the great festival of @wDN{Enlil}.
 ?#tr.en: The scribal art, the tablets decorated with writing, the stylus, the tablet board, reckoning and calculating, adding and subtracting,
@@ -786,30 +810,6 @@ $ 1 line missing
 ?#tr.en: The farmer (?) ……. Woman, the proudest among the Great Princes,
 ?#tr.en: ……, from now on, @wDN{Sud} …… @wDN{Ninlil} …….”}
 ?$ (@gap{unknown no. of lines missing}) 
-#lem: lu[person]; dam[spouse]; sig[put into]; utud[give birth (to)]; kug[purify]; Nisabak[1]DN
-#etcsl: line-id=1.A.157
-
-1.A.158. {d}ezina₂ {d}ezina₂ mu₂ zi ki-en-gi-ra he₂-em
-#lem: Ezina[1]DN; Ezina[1]DN; mu[grow]; zi[life]; Kengir[1]; me[be]
-#etcsl: line-id=1.A.158
-
-1.A.159. ab-sin₂-na ki-sikil sag₉-ga-gin₇ ni₂ pa e₃ ak-za
-#lem: absin[furrow]; kisikil[young woman]; sag[good]; ni[self]; pa[branch]; e[leave]; ak[do]
-#etcsl: line-id=1.A.159
-
-1.A.160. {d}iškur ku₃-ŋal₂ u₂-a-zu he₂-em a ki-ta mi-ri-in-de₂
-#lem: Iškur[1]DN; guŋal[inspector]; ua[provisioner]; me[be]; a[water]; ki[place]; de[pour]
-#etcsl: line-id=1.A.160
-
-1.A.161. zag-mu-a gu saŋ gibil-gibil-za še saŋ gibil-gibil-za
-#lem: zagmuk[new year]; gu[cord]; saŋ[head]; gibil[new]; še[barley]; saŋ[head]; gibil[new]
-#etcsl: line-id=1.A.161
-
-1.A.162. {d}en-lil₂ {d}nin-lil₂-bi kurku₂-a he₂-mu-ni-tud#-tud-de₃#-eš
-#lem: Enlil[1]DN; Ninlil[1]DN; kurku[wish]; utud[give birth (to)]
-#etcsl: line-id=1.A.162
-
-1.A.163. lu₂ li-bi₂-in-dug₄-ga-ŋu₁₀ lu₂-erim₂-bi (1:he₂-em:1) usu uŋ₃-bi tu-lu-ab
 #lem: lu[person]; dug[speak]; luʾerim[evildoer]; me[be]; usu[strength]; uŋ[people]; dul[cover]
 #etcsl: line-id=1.A.163
 
@@ -851,6 +851,7 @@ $ (unknown no. of lines missing)
 @div segment B
 
 1.B.1. šir₃# kug# mi₂# dug₄-ga# X {d}en-lil₂ {d}nin-lil₂-bi-[da X X]
+#tr.en: A holy song of praise ……. @wDN{Enlil} and @wDN{Ninlil} ……!
 #lem: šir[sing]; kug[purify]; mi[cvne]; dug[speak]; X; Enlil[1]DN; Ninlil[1]DN; X; X
 #etcsl: line-id=1.B.1
 
@@ -861,89 +862,108 @@ $ (unknown no. of lines missing)
 @div version 2 (Version B)
 
 2.B.1. [...] du₆#-da zal-zal-le-ze₂-en MU# X [...]
-?#tr.en: A holy song of praise ……. @wDN{Enlil} and @wDN{Ninlil} ……!
+#tr.en: (@wDN{Nisaba} speaks:) @q[Nisaba,Sud]{“…… spend (?) your time on the hill! …….
 #lem: X; dud[(ruin) mound]; zal[pass time]; X; X; X
 #etcsl: line-id=2.B.1
 
 #etcsl#ms 1 later ms. from Susa preserves a slightly variant version of lines 142ff.
 
 2.B.2. [...] kur₉#-ra-ba-ni igi-zu-še₃# [he₂]-ŋal₂# he₂-em [...]
-?#tr.en: (@wDN{Nisaba} speaks:) @q[Nisaba,Sud]{“…… spend (?) your time on the hill! …….
-?#tr.en: Enter ……! And may abundance precede you ……!
-?#tr.en: May the people line up for you ……; may all the people …… for you.
-?#tr.en: Your …… which I have determined for you should be fulfilled; …… with head held high into the @wTN{Eš-maḫ}.”}
+#tr.en: Enter ……! And may abundance precede you ……!
 #lem: X; kur[enter]; igi[eye]; heŋal[plenty]; me[be]; X
 #etcsl: line-id=2.B.2
 
 2.B.3. [...]-zu#-še₃ uŋ₃-e si ha-ra-ab-si uŋ₃ ni₂-bi ha-ra-NE#
+#tr.en: May the people line up for you ……; may all the people …… for you.
 #lem: X; uŋ[people]; si[horn]; sa[equal]; uŋ[people]; ni[self]; X
 #etcsl: line-id=2.B.3
 
 2.B.4. [...] i-ri-tar-ra-zu he₂-em-ši-ŋal₂ saŋ il₂-la eš₃-mah [...]
+#tr.en: Your …… which I have determined for you should be fulfilled; …… with head held high into the @wTN{Eš-maḫ}.”}
 #lem: X; tar[cut]; ŋal[⟦be⟧ to be (there]; saŋ[head]; il[raise]; Ešmah[1]TN; X
 #etcsl: line-id=2.B.4
 
 2.B.5. [...]-ni mi-ni-in-dab₅ {d}a-ru-ru eš₃-mah-a-še₃ mi-[ni]-in#-[...]
+#tr.en: @wDN{Aruru} grasped her …… and …… her away into the @wTN{Eš-maḫ}.
 #lem: X; dab[seize]; Aruru[1]DN; Ešmah[1]TN; X
 #etcsl: line-id=2.B.5
 
 2.B.6. e₂-kur za-gin₃-na mu-ni-in-kur₉ i₃ saŋ igi-ni mi-ni#-[in]-de₂
-?#tr.en: @wDN{Aruru} grasped her …… and …… her away into the @wTN{Eš-maḫ}.
-?#tr.en: She brought her into the shining @wTN{E-kur}, and poured the best perfume over her face.
-?#tr.en: In the sleeping quarters, in the flowered bed fragrant like a cedar forest, @wDN{Enlil} made (?) love to his wife and took great pleasure in it.
-?#tr.en: He sat her (?) on his dais appropriate to the status of @wDN{Enlil}, and made the people pray to her.
-?#tr.en: The lord whose statements are powerful also determined a fate for the Lady @noteref{@wDN{Aruru}}, the woman of his favour;
-?#tr.en: he gave her the name @wDN{Nintur},
-?#tr.en: the 'Lady who gives birth', the 'Lady who spreads her knees'.
-?#tr.en: He made beautiful @wDN{En-batibira's} @noteref{perhaps a name of @wDN{Aruru}} countenance, …….
-?#tr.en: He presented her with the …… of a mistress,
-?#tr.en: everything pertaining to women that no man must see, and …….
+#tr.en: She brought her into the shining @wTN{E-kur}, and poured the best perfume over her face.
 #lem: Ekur[1]TN; zagin[lapis lazuli]; kur[enter]; i[oil]; saŋ[head]; igi[eye]; de[pour]
 #etcsl: line-id=2.B.6
 
 2.B.7. e₂ ki-nu₂ ŋiš-nu₂ gi-rin-na# tir erin-na-gin₇ dug₃
+#tr.en: In the sleeping quarters, in the flowered bed fragrant like a cedar forest, @wDN{Enlil} made (?) love to his wife and took great pleasure in it.
 #lem: e[house]; kinud[sleeping quarter]; ŋešnud[bed]; girim[flower]; tir[forest]; eren[cedar]; dug[good]
 #etcsl: line-id=2.B.7
 
 2.B.8. {d}en-lil₂ nitalam₄-a-ni ŋiš₃-a-ni# X im#-mi-in-nir# mu-ni-ib-hi-li-hi-li
+#tr.en: He sat her (?) on his dais appropriate to the status of @wDN{Enlil}, and made the people pray to her.
 #lem: Enlil[1]DN; ŋidlam[(equal ranking) spouse]; ŋeš[penis]; X; nir[winnow]; hili[have pleasure]
 #etcsl: line-id=2.B.8
 
 2.B.9. barag nam-{d}en-lil₂-la₂-ka-ni mu-ni#-[in-X ...] šudu₃# mu-ni-in-ša₄
+#tr.en: The lord whose statements are powerful also determined a fate for the Lady @noteref{@wDN{Aruru}}, the woman of his favour;
 #lem: barag[sanctum]; namenlil[Enlil-ship]; X; X; šud[prayer]; ša[cvve]
 #etcsl: line-id=2.B.9
 
 2.B.10. en dug₄-ga-ni uruₓ(|URU×URUD|) nin munus tam-tam#-ma-ni nam he₂-ni!(RI)-ib#-tar-re
+#tr.en: he gave her the name @wDN{Nintur},
 #lem: en[lord]; dug[speak]; urun[exalted]; nin[lady]; munus[woman]; tam[trust]; nam[fate]; tar[cut]
 #etcsl: line-id=2.B.10
 
 2.B.11. {d}nin-tur₅-re nin u₃-tud nin dub₃ bad mu-še₂₁ mu#-[ni]-in-sa₄
+#tr.en: the 'Lady who gives birth', the 'Lady who spreads her knees'.
 #lem: Nintur[1]DN; nin[lady]; utud[give birth (to)]; nin[lady]; dub[knee]; bad[open]; mu[name]; še[call by name]
 #etcsl: line-id=2.B.11
 
 2.B.12. {d}en#-ba-tibira muš₃-me mi-ni-in-sig₇ igi X dim₂-dim₂#
+#tr.en: He made beautiful @wDN{En-batibira's} @noteref{perhaps a name of @wDN{Aruru}} countenance, …….
 #lem: Enbatibirak[1]DN; mušme[face]; sissig[green-yellow]; igi[eye]; X; dim[create]
 #etcsl: line-id=2.B.12
 
 2.B.13. [...] nu#-gig-ga niŋ₂-nam munus-e-ne lu₂ igi nu-bar-re
+#tr.en: He presented her with the …… of a mistress,
 #lem: X; nugig[priestess]; niŋnam[anything]; munus[woman]; lu[person]; igi[eye]; bar[place outside]
 #etcsl: line-id=2.B.13
 
 2.B.14. ki#-ni i₃-ŋal₂ gi til₃-le# X saŋ-e he₂-na-rig₇#
+#tr.en: everything pertaining to women that no man must see, and …….
 #lem: ki[place]; ŋal[⟦be⟧ to be (there]; gi[reed]; til[live (of a single person)]; X; saŋ[head]; rig[donate]
 #etcsl: line-id=2.B.14
 
 2.B.15. [ud]-da-ta munus EDIN-BAR he₂-em munus# lu₂ nin e₂-e-ke₄
+#tr.en: (@wDN{Enlil} speaks:) @q[Enlil,Sud]{“From now on, a woman shall be the ……;
 #lem: udata[hereafter]; munus[woman]; X; me[be]; munus[woman]; lu[person]; nin[lady]; e[house]
 #etcsl: line-id=2.B.15
 
 2.B.16. lu₂ dam tam-ma-ŋu₁₀ u₃-tud-da# kug {d}nisaba-ke₄
-?#tr.en: (@wDN{Enlil} speaks:) @q[Enlil,Sud]{“From now on, a woman shall be the ……;
-?#tr.en: a woman shall be the mistress of the house. May my favourite wife,
-?#tr.en: who was born by holy @wDN{Nisaba}, be @wDN{Ezina},
-?#tr.en: the grain, the life of the Land.
-?#tr.en: When she appears in the furrows like a beautiful young girl, may …… be her provider,
-?#tr.en: watering her with water from the ground, as she grows prime grain and prime flax ……
+#tr.en: a woman shall be the mistress of the house. May my favourite wife,
+#lem: lu[person]; dam[spouse]; tam[trust]; utud[give birth (to)]; kug[purify]; Nisabak[1]DN
+#etcsl: line-id=2.B.16
+
+2.B.17. {d}ezina₂ {d}ezina₂ zi kalam-ma he₂-em
+#tr.en: who was born by holy @wDN{Nisaba}, be @wDN{Ezina},
+#lem: Ezina[1]DN; Ezina[1]DN; zi[life]; kalam[the Land (of Sumer)]; me[be]
+#etcsl: line-id=2.B.17
+
+2.B.18. [...] ki-sikil sig₇-ga-gin₇ ni₂# pa e₃ ak-ne
+#tr.en: the grain, the life of the Land.
+#lem: X; kisikil[young woman]; sissig[green-yellow]; ni[self]; pa[branch]; e[leave]; ak[do]
+#etcsl: line-id=2.B.18
+
+2.B.19. [...] ŋal₂ u₂-a-bi he₂-me-en a ki-ta naŋ-naŋ
+#tr.en: When she appears in the furrows like a beautiful young girl, may …… be her provider,
+#lem: X; ŋal[⟦be⟧ to be (there]; ua[provisioner]; me[be]; a[water]; ki[place]; naŋ[drink]
+#etcsl: line-id=2.B.19
+
+2.B.20. [...] še saŋ mu₂-mu₂-ne gu saŋ mu₂-mu₂-ne
+#tr.en: watering her with water from the ground, as she grows prime grain and prime flax ……
+#lem: X; še[barley]; saŋ[head]; mu[grow]; gu[cord]; saŋ[head]; mu[grow]
+#etcsl: line-id=2.B.20
+
+2.B.21. [...]-in-dug₄-ga-zu lu₂-erim₂!(|NE.DU|)-bi ša₃-nam usu uŋ₃-bi dul-la-ab
 ?$ (@gap{1 line unclear}) 
 ?#tr.en: …… the harvest crop …… the great festival of @wDN{Enlil} ……. ……,
 ?#tr.en: the measuring rod, the marking of the boundaries,
@@ -953,26 +973,6 @@ $ (unknown no. of lines missing)
 ?#tr.en: @wDN{Enlil} is the king and @wDN{Ninlil} is the queen. The goddess without name has a famous name now,
 ?#tr.en: ……  $ (@gap{1 line unclear})
 ?$ (@gap{1 line unclear}) 
-#lem: lu[person]; dam[spouse]; tam[trust]; utud[give birth (to)]; kug[purify]; Nisabak[1]DN
-#etcsl: line-id=2.B.16
-
-2.B.17. {d}ezina₂ {d}ezina₂ zi kalam-ma he₂-em
-#lem: Ezina[1]DN; Ezina[1]DN; zi[life]; kalam[the Land (of Sumer)]; me[be]
-#etcsl: line-id=2.B.17
-
-2.B.18. [...] ki-sikil sig₇-ga-gin₇ ni₂# pa e₃ ak-ne
-#lem: X; kisikil[young woman]; sissig[green-yellow]; ni[self]; pa[branch]; e[leave]; ak[do]
-#etcsl: line-id=2.B.18
-
-2.B.19. [...] ŋal₂ u₂-a-bi he₂-me-en a ki-ta naŋ-naŋ
-#lem: X; ŋal[⟦be⟧ to be (there]; ua[provisioner]; me[be]; a[water]; ki[place]; naŋ[drink]
-#etcsl: line-id=2.B.19
-
-2.B.20. [...] še saŋ mu₂-mu₂-ne gu saŋ mu₂-mu₂-ne
-#lem: X; še[barley]; saŋ[head]; mu[grow]; gu[cord]; saŋ[head]; mu[grow]
-#etcsl: line-id=2.B.20
-
-2.B.21. [...]-in-dug₄-ga-zu lu₂-erim₂!(|NE.DU|)-bi ša₃-nam usu uŋ₃-bi dul-la-ab
 #lem: dug[speak]; luʾerim[evildoer]; X; usu[strength]; uŋ[people]; dul[cover]
 #etcsl: line-id=2.B.21
 
@@ -1009,12 +1009,12 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=2.B.29
 
 2.B.30. eš₃# nibru{ki} saŋ-e-eš rig₇-ga-ba
+#tr.en: As the presents are given in the shrine @wSN{Nibru}, a holy song of praise is sung.
 #lem: eš[shrine]; Nibru[1]SN; saŋ[head]; rig[donate]
 #etcsl: line-id=2.B.30
 
 2.B.31. šir₃ kug mi₂ dug₄-ga dug₄-ge-e# {d}en-lil₂ lugal kur-ra-ke₄ [X X]
-?#tr.en: As the presents are given in the shrine @wSN{Nibru}, a holy song of praise is sung.
-?#tr.en: @wDN{Enlil}, the lord of the countries, …….
+#tr.en: @wDN{Enlil}, the lord of the countries, …….
 #lem: šir[sing]; kug[purify]; mi[cvne]; dug[speak]; dug[speak]; Enlil[1]DN; lugal[king]; kur[mountain(s)]; X; X
 #etcsl: line-id=2.B.31
 

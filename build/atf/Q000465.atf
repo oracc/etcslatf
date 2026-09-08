@@ -165,28 +165,29 @@ $ (up to 8 lines missing)
 @div sa-gida B
 
 1.B.B.1. inim-ma-ni kal-kal-a-[am₃]
+#tr.en: His words are precious, and what he says is true.
 #lem: inim[word]; kal[rare]
 #etcsl: line-id=1.B.B.1
 
 1.B.B.2. dug₄-ga-ni zid-da-am₃#
-?#tr.en: His words are precious, and what he says is true.
-?#tr.en: @wDN{Ninurta}, lion raging against the disobedient!
-?#tr.en: Authoritative one,
-?#tr.en: who makes the foreign countries submit …….
+#tr.en: @wDN{Ninurta}, lion raging against the disobedient!
 #lem: dug[speak]; zid[right]
 #etcsl: line-id=1.B.B.2
 
 1.B.B.3. {d}nin-urta piriŋ sumur nu-še-ga#
+#tr.en: Authoritative one,
 #lem: Ninurtak[1]DN; piriŋ[lion]; sumur[angry]; šeg[agree]
 #etcsl: line-id=1.B.B.3
 
 1.B.B.4. nir-ŋal₂ kur gam-gam X [...] X
+#tr.en: who makes the foreign countries submit …….
 #lem: nirŋal[authoritative]; kur[mountain(s)]; gurum[bend]; X; X; X
 #etcsl: line-id=1.B.B.4
 
 @div trailer 
 
 1.B.B.5. sa-gid₂-da-[am₃]
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=1.B.B.5
 
@@ -197,19 +198,19 @@ $ (up to 8 lines missing)
 @div ŋišgiŋal C
 
 1.B.C.6. {d}nin-urta {d}iš-me-{d}[da-gan ...]
-?#tr.en: @fsux{Sa-gida}.
+#tr.en: May @wDN{Ninurta} look upon @wRN{Išme-@wDN{Dagan}}
 #lem: Ninurtak[1]DN; Išmedagan[1]RN; X
 #etcsl: line-id=1.B.C.6
 
 1.B.C.7. igi nam-til₃-la hu-mu#-[ši-in-bar]
-?#tr.en: May @wDN{Ninurta} look upon @wRN{Išme-@wDN{Dagan}}
-?#tr.en: …… with a life-giving gaze!
+#tr.en: …… with a life-giving gaze!
 #lem: igi[eye]; namtil[life]; bar[place outside]
 #etcsl: line-id=1.B.C.7
 
 @div trailer 
 
 1.B.C.8. ŋiš-gi₄-ŋal₂ sa-gid₂-[da-bi-im]
+#tr.en: Its @fsux{ŋišgiŋal} of the @fsux{sa-gida}.
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 #etcsl: line-id=1.B.C.8
 
@@ -220,91 +221,112 @@ $ (up to 8 lines missing)
 @div unknown D
 
 1.B.D.9. u₄-ta-u₁₈-lu i-lim u₅ [X X]
-?#tr.en: Its @fsux{ŋišgiŋal} of the @fsux{sa-gida}.
+#tr.en: @wDN{Uta-ulu}, riding on fearsome radiance ……,
 #lem: Utaʾulu[1]; ilim[radiance]; u[ride]; X; X
 #etcsl: line-id=1.B.D.9
 
 1.B.D.10. en gal-e-ne dirig X [X X]
+#tr.en: greatest amongst the great lords ……!
 #lem: en[lord]; gal[big]; dirig[make more than]; X; X; X
 #etcsl: line-id=1.B.D.10
 
 1.B.D.11. {d}nin-urta nam-nir-ra šu# [du₇]
+#tr.en: @wDN{Ninurta},
 #lem: Ninurtak[1]DN; namnir[supremacy]; šu[hand]; du[perfect]
 #etcsl: line-id=1.B.D.11
 
 1.B.D.12. saŋ en₃ tar an ki X [X X]
+#tr.en: perfect in authority,
 #lem: saŋ[head]; en[cvne]; tar[cut]; an[sky]; ki[place]; X; X; X
 #etcsl: line-id=1.B.D.12
 
 1.B.D.13. en a₂ šum₂-ma {d}nu-[nam-nir-ra]
+#tr.en: caretaker of heaven and earth ……,
 #lem: en[lord]; a[arm]; šum[give]; Nunamnir[1]DN
 #etcsl: line-id=1.B.D.13
 
 1.B.D.14. ne₃-ni-da nir-ŋal₂ [X X] X
+#tr.en: lord who was given strength by @wDN{Nunamnir},
 #lem: ne[strength]; nirŋal[authoritative]; X; X; X
 #etcsl: line-id=1.B.D.14
 
 1.B.D.15. {d}nin-urta saŋ-kal [...]
+#tr.en: confident in his strength ……!
 #lem: Ninurtak[1]DN; saŋkal[foremost]; X
 #etcsl: line-id=1.B.D.15
 
 1.B.D.16. {d}en-lil₂-le [...]
+#tr.en: @wDN{Ninurta},
 #lem: Enlil[1]DN; X
 #etcsl: line-id=1.B.D.16
 
 1.B.D.17. gud du₇-du₇-gin₇ X [...]
+#tr.en: foremost ……!
 #lem: gud[bull]; du[push]; X; X
 #etcsl: line-id=1.B.D.17
 
 1.B.D.18. nu-še-zu ŋiri₃-zu X [...]
+#tr.en: @wDN{Enlil} ……!
 #lem: šeg[agree]; ŋiri[foot]; X; X
 #etcsl: line-id=1.B.D.18
 
 1.B.D.19. ur-saŋ gal X X X [...]
+#tr.en: …… like a butting bull!
 #lem: ursaŋ[warrior]; gal[big]; X; X; X; X
 #etcsl: line-id=1.B.D.19
 
 1.B.D.20. hur-saŋ sud [...]
+#tr.en: …… your foot on the disobedient!
 #lem: hursaŋ[mountain]; sud[distant]; X
 #etcsl: line-id=1.B.D.20
 
 1.B.D.21. lugal-ra kur gu₂-erim₂#-[ŋal₂-la]
+#tr.en: Great hero ……!
 #lem: lugal[king]; kur[mountain(s)]; guʾerimŋal[hostile]
 #etcsl: line-id=1.B.D.21
 
 1.B.D.22. šu-ni-še₃ [...]
+#tr.en: …… the distant hills!
 #lem: šu[hand]; X
 #etcsl: line-id=1.B.D.22
 
 1.B.D.23. {d}nin-urta {d}iš-[me]-{[d]}[da-gan-ra]
+#tr.en: …… the enemy lands into the king's hands!
 #lem: Ninurtak[1]DN; Išmedagan[1]RN
 #etcsl: line-id=1.B.D.23
 
 1.B.D.24. šen-šen a₂-tah# [...]
+#tr.en: @wDN{Ninurta},
 #lem: šen[battle]; atah[helper]; X
 #etcsl: line-id=1.B.D.24
 
 1.B.D.25. {ŋiš}tukul mah-a-ni [...]
+#tr.en: …… helper of @wRN{Išme-@wDN{Dagan}} in the mêlée!
 #lem: tukul[weapon]; mah[great]; X
 #etcsl: line-id=1.B.D.25
 
 1.B.D.26. ki-bal nu-[še-ga ...]
+#tr.en: …… his majestic weapon!
 #lem: kibala[rebel land]; šeg[agree]; X
 #etcsl: line-id=1.B.D.26
 
 1.B.D.27. udug₂ mah-a-ni erim₂# [...]
+#tr.en: …… the rebellious, disobedient land!
 #lem: udug[weapon]; mah[great]; erim[enemy]; X
 #etcsl: line-id=1.B.D.27
 
 1.B.D.28. me₃ X gu₂-erim₂# [X X]
+#tr.en: …… his majestic mace the enemy!
 #lem: me[battle]; X; guʾerim[hostile]; X; X
 #etcsl: line-id=1.B.D.28
 
 1.B.D.29. {d}iš-me-{d}da-gan [...]
+#tr.en: …… battle …… enemy!
 #lem: Išmedagan[1]RN; X
 #etcsl: line-id=1.B.D.29
 
 1.B.D.30. he₂-em-ta-X [...]
+#tr.en: May …… @wRN{Išme-@wDN{Dagan}} ……!
 #lem: X; X
 #etcsl: line-id=1.B.D.30
 
@@ -318,40 +340,49 @@ $ (unknown no. of lines missing)
 @div unknown E
 
 1.C.E.1. [...] X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.C.E.1
 
 #etcsl#doc Segments C and D might well belong to a separate composition
 
 1.C.E.2. UD X [...] X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=1.C.E.2
 
 1.C.E.3. en kur-ra [...] KA AŠ# [...]
+#tr.en: …… lord of the nether world.
 #lem: en[lord]; kur[mountain(s)]; X; X; X; X
 #etcsl: line-id=1.C.E.3
 
 1.C.E.4. {d}en-ki an# [...] EN [...]
+#tr.en: @wDN{Enki} …….
 #lem: Enkik[1]DN; an[sky]; X; X; X
 #etcsl: line-id=1.C.E.4
 
 1.C.E.5. X {d}en-[...]
+#tr.en: ($fragmentary$)
 #lem: X; En.X[1]DN
 #etcsl: line-id=1.C.E.5
 
 1.C.E.6. dirig X [...]
+#tr.en: ($fragmentary$)
 #lem: dirig[make more than]; X; X
 #etcsl: line-id=1.C.E.6
 
 1.C.E.7. MAŠ NI [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.C.E.7
 
 1.C.E.8. nin# [...]
+#tr.en: ($fragmentary$)
 #lem: nin[lady]; X
 #etcsl: line-id=1.C.E.8
 
 1.C.E.9. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.C.E.9
 
@@ -365,76 +396,94 @@ $ (unknown no. of lines missing)
 @div unknown F
 
 1.D.F.1. [...] E
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.D.F.1
 
 #etcsl#doc Segments C and D might well belong to a separate composition
 
 1.D.F.2. [...] X
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.D.F.2
 
 1.D.F.3. [...] X
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.D.F.3
 
 1.D.F.4. [...] X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.D.F.4
 
 1.D.F.5. [...] BI
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.D.F.5
 
 1.D.F.6. [...] X-gin₇ KI kug X E
+#tr.en: ($fragmentary$)
 #lem: X; X; X; kug[purify]; X; X
 #etcsl: line-id=1.D.F.6
 
 1.D.F.7. [...] X X X X X NA
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X
 #etcsl: line-id=1.D.F.7
 
 1.D.F.8. [...] HA X [...] TU X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=1.D.F.8
 
 1.D.F.9. [...] GI {d}en-ki X X
+#tr.en: …… @wDN{Enki} ……
 #lem: X; X; Enkik[1]DN; X; X
 #etcsl: line-id=1.D.F.9
 
 1.D.F.10. [...] X X X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=1.D.F.10
 
 1.D.F.11. [...] {d}en-X RI
+#tr.en: ($fragmentary$)
 #lem: X; En.X[0]DN; X
 #etcsl: line-id=1.D.F.11
 
 1.D.F.12. [...] X X X NA
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=1.D.F.12
 
 1.D.F.13. [...] X GA
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.D.F.13
 
 1.D.F.14. [...]-am₃
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=1.D.F.14
 
 1.D.F.15. [...] X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.D.F.15
 
 1.D.F.16. [...]-a
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=1.D.F.16
 
 1.D.F.17. [...] X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.D.F.17
 
 1.D.F.18. [...] X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=1.D.F.18
 
@@ -451,10 +500,24 @@ $ (unknown no. of lines missing)
 
 $ (up to 3 lines missing)
 2.A.1. [...] X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=2.A.1
 
 2.A.2. [u₁₈]-lu sumur zig₃#-[ga ...]
+?#tr.en: rising raging storm ……, …… lion ……,
+?#tr.en: …… like ……. @wDN{Ninurta} …….
+?#tr.en: …… strength …….
+?$ (@gap{3 lines fragmentary}) 
+?#tr.en: …… the neck-stock of the gods. …… who has no rival,
+?#tr.en: …… the foreign countries. @wDN{Ninurta}, …… @wDN{Anuna} gods!
+?#tr.en: Lord in the @wTN{E-kur}, mighty ……!
+?#tr.en: @wDN{Uta-ulu} …… great strength ……,
+?#tr.en: who has come forth from the hills and …… on the numerous divine powers!
+?#tr.en: @wDN{Ninurta} ……, perfect lord ……!
+?#tr.en: Great hero,
+?#tr.en: who …… the mountains,
+?#tr.en: and destroys their stones (?) totally!
 #lem: ulu[south wind]; sumur[angry]; zig[rise]; X
 #etcsl: line-id=2.A.2
 
@@ -527,112 +590,139 @@ $ (up to 3 lines missing)
 #etcsl: line-id=2.A.19
 
 2.A.20. sa₂# pad₃-de₃# eš-bar nu-kam₃#-[me]
+#tr.en: Adviser, whose decisions cannot be countermanded!
 #lem: sa[advice]; pad[find]; ešbar[decision]; kam[alter]
 #etcsl: line-id=2.A.20
 
 2.A.21. {d}nin#-urta dug₄-ga#-ni ki-bi-[še₃ ŋar]
+#tr.en: @wDN{Ninurta}, whose utterances are firm!
 #lem: Ninurtak[1]DN; dug[speak]; ki[place]; ŋar[put]
 #etcsl: line-id=2.A.21
 
 2.A.22. [ur]-saŋ# en# dumu mah {d}en#-[lil₂-la₂]
+#tr.en: Hero, lord, august son of @wDN{Enlil}!
 #lem: ursaŋ[warrior]; en[lord]; dumu[child]; mah[great]; Enlil[1]DN
 #etcsl: line-id=2.A.22
 
 2.A.23. [...] X MA X-a kur-še₃ šu ša-[an-ša]
+#tr.en: …… overpowers (?) the mountains.
 #lem: X; X; X; X; kur[mountain(s)]; šu[hand]; šanšaša[cvve]
 #etcsl: line-id=2.A.23
 
 2.A.24. {[d]}nin-urta# mah-di e₂-kur-ra# X
+#tr.en: @wDN{Ninurta}, prominent in the @wTN{E-kur}!
 #lem: Ninurtak[1]DN; mahdi[exalted]; Ekur[1]TN; X
 #etcsl: line-id=2.A.24
 
 2.A.25. [...] X [...] X BA u₁₈-lu mah-a-ni# [...]
+#tr.en: His huge storm …….
 #lem: X; X; X; X; X; ulu[south wind]; mah[great]; X
 #etcsl: line-id=2.A.25
 
 2.A.26. [...] X RU sumur-ra₂ ki-bal# [...]
+#tr.en: …… furious …… against the rebel lands.
 #lem: X; X; X; sumur[angry]; kibala[rebel land]; X
 #etcsl: line-id=2.A.26
 
 2.A.27. [...] X ZI₂ X LI# BU nu-še-ga X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; šeg[agree]; X; X
 #etcsl: line-id=2.A.27
 
 2.A.28. {[d]}nin-urta# X X-ga-bi X [...]
+#tr.en: @wDN{Ninurta}, ……, great hero,
 #lem: Ninurtak[1]DN; X; X; X; X
 #etcsl: line-id=2.A.28
 
 2.A.29. [ur]-saŋ# gal gu₂-erim₂#-ŋal₂-la ur₂ X [...]
+#tr.en: who …… the enemy.
 #lem: ursaŋ[warrior]; gal[big]; guʾerimŋal[hostile]; ur[loin]; X; X
 #etcsl: line-id=2.A.29
 
 2.A.30. ur-saŋ# igi [X X] {d}en-lil₂ [...] X
+#tr.en: Hero …… @wDN{Enlil} …….
 #lem: ursaŋ[warrior]; igi[eye]; X; X; Enlil[1]DN; X; X
 #etcsl: line-id=2.A.30
 
 2.A.31. [...] NI# IN X [X X] X X X SUM X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X; X; X
 #etcsl: line-id=2.A.31
 
 2.A.32. [X X] X X [...] X X A-A [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X
 #etcsl: line-id=2.A.32
 
 2.A.33. [...]-ta erim₂-e gu₂# [X X]
+#tr.en: …… wicked …….
 #lem: X; erim[enemy]; gu[neck]; X; X
 #etcsl: line-id=2.A.33
 
 2.A.34. [...]-a-ni kur-ra šu-mu-X X
+#tr.en: His …… on the foreign countries,
 #lem: X; kur[mountain(s)]; X; X
 #etcsl: line-id=2.A.34
 
 2.A.35. [... kalam]-ma tug₂-gin₇ ši-im-šu₄#
+#tr.en: …… covers the Land like a garment.
 #lem: X; kalam[the Land (of Sumer)]; tug[textile]; šuš[cover]
 #etcsl: line-id=2.A.35
 
 2.A.36. [...] DU
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=2.A.36
 
 2.A.37. [...] KI
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=2.A.37
 
 2.A.38. [...] NE#
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=2.A.38
 
 2.A.39. X EŠ# [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=2.A.39
 
 2.A.40. [ur]-saŋ gal X [...]
+#tr.en: Great hero, …….
 #lem: ursaŋ[warrior]; gal[big]; X; X
 #etcsl: line-id=2.A.40
 
 2.A.41. {[d]}a#-nun-na-ke₄#-[ne ...]
+#tr.en: The @wDN{Anuna} gods …….
 #lem: Anunak[1]DN; X
 #etcsl: line-id=2.A.41
 
 2.A.42. [...] X X-a-ni# [...]
+#tr.en: His ……, …… are precious.
 #lem: X; X; X; X
 #etcsl: line-id=2.A.42
 
 2.A.43. [...] kal-kal# [...]
+#tr.en: ……, lion raging against …….
 #lem: X; kal[rare]; X
 #etcsl: line-id=2.A.43
 
 2.A.44. [...] piriŋ sumur# [...]
+#tr.en: ……,
 #lem: X; piriŋ[lion]; sumur[angry]; X
 #etcsl: line-id=2.A.44
 
 2.A.45. [...] gam#-gam X [...]
+#tr.en: who makes …… submit …….
 #lem: X; gurum[bend]; X; X
 #etcsl: line-id=2.A.45
 
 @div trailer 
 
 2.A.46. [sa]-gid₂-da#-[am₃]
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=2.A.46
 
@@ -643,16 +733,19 @@ $ (up to 3 lines missing)
 @div ŋišgiŋal B
 
 2.B.47. [...] {[d]}iš-me-{[d]}[da-gan ...]
+#tr.en: …… @wRN{Išme-@wDN{Dagan}}
 #lem: X; Išmedagan[1]RN; X
 #etcsl: line-id=2.B.47
 
 2.B.48. [...] nam#-til₃ [...]
+#tr.en: …… life …….
 #lem: X; namtil[life]; X
 #etcsl: line-id=2.B.48
 
 @div trailer 
 
 2.B.49. ŋiš-[gi₄-ŋal₂] sa-gid₂#-[da-bi-im]
+#tr.en: Its @fsux{ŋišgiŋal} of the @fsux{sa-gida}.
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 #etcsl: line-id=2.B.49
 
@@ -663,68 +756,84 @@ $ (up to 3 lines missing)
 @div unknown C
 
 2.C.50. u₄-ta#-[u₁₈-lu] X nam-nun!-na# [...]
+#tr.en: @wDN{Uta-ulu} …… in majesty.
 #lem: Utaʾulu[1]; X; namnun[magnificence]; X
 #etcsl: line-id=2.C.50
 
 2.C.51. mi-tum# [...]-e erim₂ [...]
+#tr.en: …… the battle-mace …… the enemy.
 #lem: mitum[divine weapon]; X; erim[enemy]; X
 #etcsl: line-id=2.C.51
 
 2.C.52. {d}nin-urta# [nam]-nir#-ra zag# [dib]
+#tr.en: @wDN{Ninurta}, surpassing in authority, caretaker for ……!
 #lem: Ninurtak[1]DN; namnir[supremacy]; zag[side]; dib[pass]
 #etcsl: line-id=2.C.52
 
 2.C.53. saŋ en₃ tar# [X X] X BAL RI X [...]
+#tr.en: Lord who was given great strength by @wDN{Nunamnir},
 #lem: saŋ[head]; en[cvne]; tar[cut]; X; X; X; X; X; X; X
 #etcsl: line-id=2.C.53
 
 2.C.54. en a₂ šum₂#-[ma] {d}nu-nam-nir-ra#
+#tr.en: confident in his strength, striding into battle!
 #lem: en[lord]; a[arm]; šum[give]; Nunamnir[1]DN
 #etcsl: line-id=2.C.54
 
 2.C.55. ne₃-ni-da# [nir]-ŋal₂# me₃-še₃ gub-bu X
+#tr.en: @wDN{Ninurta}, …… foremost ……,
 #lem: ne[strength]; nirŋal[authoritative]; me[battle]; gub[stand]; X
 #etcsl: line-id=2.C.55
 
 2.C.56. {d}nin-[urta] X X gu₂-gal X [...]
+#tr.en: great wild bull,
 #lem: Ninurtak[1]DN; X; X; gugal[foremost]; X; X
 #etcsl: line-id=2.C.56
 
 2.C.57. am gal# [...] {d}en-lil₂-le# [...]
+#tr.en: …… by @wDN{Enlil} ……!
 #lem: am[wild bull]; gal[big]; X; Enlil[1]DN; X
 #etcsl: line-id=2.C.57
 
 2.C.58. am [...] X TA A
+#tr.en: ($fragmentary$)
 #lem: am[wild bull]; X; X; X; X
 #etcsl: line-id=2.C.58
 
 2.C.59. X [...] RI AM A [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X
 #etcsl: line-id=2.C.59
 
 2.C.60. [...] {[d]}[en]-lil₂ kur gal-la
+#tr.en: …… of @wDN{Enlil}, the Great Mountain.
 #lem: X; Enlil[1]DN; kur[mountain(s)]; gal[big]
 #etcsl: line-id=2.C.60
 
 2.C.61. [...] hur#-saŋ sud₄-su₁₃-ra#
+#tr.en: …… the distant hills.
 #lem: X; hursaŋ[mountain]; sud[distant]
 #etcsl: line-id=2.C.61
 
 2.C.62. [... gu₂]-erim₂#-ŋal₂-la X X
+#tr.en: …… the enemy …….
 #lem: X; guʾerimŋal[hostile]; X; X
 #etcsl: line-id=2.C.62
 
 2.C.63. [...] X šu#-ni-še₃ RU# [...]
+#tr.en: into his hands. …… @wRN{Išme-@wDN{Dagan}},
 #lem: X; X; šu[hand]; X; X
 #etcsl: line-id=2.C.63
 
 2.C.64. [...] {[d]}[iš-me]-{[d]}da-gan dumu# [...]
+#tr.en: the son of …….
 #lem: X; Išmedagan[1]RN; dumu[child]; X
 #etcsl: line-id=2.C.64
 
 @div trailer 
 
 2.C.65. [...]-am₃#
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=2.C.65
 
@@ -735,18 +844,22 @@ $ (up to 3 lines missing)
 @div unknown D
 
 2.D.66. [... kur]-ra šu ur₄-[ur₄ ...]
+#tr.en: …… obliterates the foreign countries …….
 #lem: X; kur[mountain(s)]; šu[hand]; ur[gather]; X
 #etcsl: line-id=2.D.66
 
 2.D.67. [...]-gin₇ SI X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=2.D.67
 
 2.68. [...] RU a₂ [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; a[arm]; X
 #etcsl: line-id=2.68
 
 2.D.69. [...] X hul [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; hulu[bad]; X
 #etcsl: line-id=2.D.69
 

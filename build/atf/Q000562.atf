@@ -7,10 +7,15 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.2.01&display=Crit&charenc=gcirc#
 
 1. lugal-ŋa₂ u₃-na-dug₄
+#tr.en: Speak to my lord: this is what @wPN{@wDN{Sîn}-illat} the general, your servant, says:
 #lem: lugal[king]; dug[speak]
 #etcsl: line-id=1
 
 2. {m}{d}suen-illat ra-bi-si₂-ka₃-tum-ma
+?#tr.en: When I moved opposite @wSN{Kakkulātum},
+?#tr.en: the @wEN{Martu} rose up from their ambush with their weapons (?).
+?#tr.en: When I ……,
+?#tr.en: I captured 70 (?) …… and brought them into @wSN{Kakkulātum}.
 #lem: Sinillat[1]PN; rabizigatum[military official]
 #etcsl: line-id=2
 
@@ -35,18 +40,22 @@
 #etcsl: line-id=7
 
 8. tukum-bi lugal-ŋu₁₀ ugnim-ma tuš-u₃-bi ab-be₂
+#tr.en: If my lord arranges for the troops to encamp,
 #lem: tukumbi[if]; lugal[king]; ugnim[army]; tuš[sit (down)]; e[speak]
 #etcsl: line-id=8
 
 9. {kuš}a-ŋa₂-la₂ keše₂-da-bi šu he₂-mi-ib-da₁₃-da₁₃
+#tr.en: let him have them take their tied-up leather sacks.
 #lem: aŋala[leather sack]; kešed[bind]; šu[hand]; taka[set aside]
 #etcsl: line-id=9
 
 10. tukum-bi lugal-ŋu₁₀ ugnim-ma nu-tuš-u₃-bi ab-be₂
+#tr.en: If my lord arranges for the troops not to encamp,
 #lem: tukumbi[if]; lugal[king]; ugnim[army]; tuš[sit (down)]; e[speak]
 #etcsl: line-id=10
 
 11. (1:he₂-em-ma-sug₂-ge-eš:1) (2:lugal-ŋu₁₀ he₂-en-zu:2)
+#tr.en: @varh[t3201.v1]{then let them stay put } @vart[t3201.v2,t3201.v1]{@varn{2 mss. have instead:} then let them go }. @varh[t3201.v3]{May my lord know } @vart[t3201.v4,t3201.v3]{@varn{1 ms. has instead:} This is urgent }!
 #lem: gub[stand]; lugal[king]; zu[know]
 #etcsl: line-id=11
 

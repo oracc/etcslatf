@@ -192,6 +192,8 @@ sub parse_label {
 	$prefix = $pre;
 	if ($prefix =~ /\./) {
 	    $prefix =~ s/\.[^.]+$/./;
+	} else {
+	    $prefix = '';
 	}
 	if ($pst =~ /^(.*?)-(.*?)$/) {
 	    if ($xranges{$pst}) {

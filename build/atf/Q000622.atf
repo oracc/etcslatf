@@ -7,13 +7,14 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.1&display=Crit&charenc=gcirc#
 
 1. ud huš gal me-lem₄# [...]
-?#tr.en: Great fierce storm, …… radiance!
+#tr.en: Great fierce storm, …… radiance!
 #lem: ud[storm]; huš[reddish]; gal[big]; melim[frightening splendor]; X
 #etcsl: line-id=1
 
 #etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 18
 
 2. {d}inana me₃-a ni₂ me-lem₄ gur₃-ru
+#tr.en: @wDN{Inana},
 #lem: Inanak[1]DN; me[battle]; ni[fear]; melim[frightening splendor]; gur[lift]
 #etcsl: line-id=2
 
@@ -21,6 +22,15 @@
 
 #etcsl#ms 1 ms. adds 2 lines:
 A. {d}inana me₃ e#-ne di!-di
+?#tr.en: emitting fearsomeness and radiance in battle!
+?#tr.en: @vart[t4071.v1,t4071.v1]{@varn{1 ms. adds:} @wDN{Inana}, playing (?) in battle! @wDN{Inana}, emitting fearsomeness and radiance in battle! } Where @wDN{Enlil} has commanded it,
+?#tr.en: you make a lion's body and lion's muscles rise up.
+?#tr.en: …… in the south and in the uplands …… like grass.
+?#tr.en: Like @wDN{Iškur} …….
+?#tr.en: Like their proud mighty heroes,
+?#tr.en: @varh[t4071.v2]{you …… } @vart[t4071.v3,t4071.v2]{@varn{1 ms. has instead:} may they …… for you } their noses (?) to the ground.
+?#tr.en: May the @varh[t4071.v4]{great } @vart[t4071.v5,t4071.v4]{@varn{1 ms. has instead:} proud } warrior of kings and queens restore for you the shrine @wSN{Keš}.
+?#tr.en: May he make them …… their noses (?) to the ground for you.
 #lem: Inanak[1]DN; me[battle]; ene[pleasure?]; di[speak]
 #etcsl: line-id=A
 
@@ -75,30 +85,37 @@ B. {d}inana me₃-a ni₂ me-lem₄ gur₃-ru
 #etcsl: line-id=11
 
 12. nin-ŋu₁₀ abzu-ta igi ša-mu-ni-in-ŋar
+#tr.en: My lady,
 #lem: nin[lady]; abzu[(cosmic) underground water]; igi[eye]; ŋar[put]
 #etcsl: line-id=12
 
 13. an-ne₂ SI saŋ-bi ŋiri₃ ki mu-[...] ša#-mu-ra-ab-dug₄#
+#tr.en: you turn your gaze from the @fsux{abzu} (?).
 #lem: An[1]DN; X; saŋ[head]; ŋiri[foot]; ki[place]; X; dug[speak]
 #etcsl: line-id=13
 
 14. an lugal-da me ba#-a-me-[en]
+#tr.en: @wDN{An} has commanded you …….
 #lem: An[1]DN; lugal[king]; me[Being]; e[speak]
 #etcsl: line-id=14
 
 15. {d}en-lil₂-gin₇ zag-ge₄ si-a-me-en
+#tr.en: You are gifted with divine powers like @wDN{An} the king,
 #lem: Enlil[1]DN; zag[side]; si[fill]
 #etcsl: line-id=15
 
 16. ka-aš mah unken-na ša-mu-un-bar-re-en
+#tr.en: and like @wDN{Enlil} you are established in a place of honour.
 #lem: kaš[decision]; mah[great]; unkin[assembly]; bar[place outside]
 #etcsl: line-id=16
 
 17. ŋiš-nu₁₁-gin₇ an-ta šag₄ unken-na-ka
+#tr.en: You determine majestic verdicts in the assembly;
 #lem: ŋešnu[light]; an[sky]; šag[heart]; unkin[assembly]
 #etcsl: line-id=17
 
 18. zid-du ša-mu-un-ni-DU (1:erim₂-du ša-mu-ni-dab₅:1)
+#tr.en: like a light from heaven within the assembly,
 #lem: ziddu[righteous(-acting)]; X; erimdu[hostile]; dab[seize]
 #etcsl: line-id=18
 

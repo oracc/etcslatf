@@ -429,6 +429,7 @@ B.7.40.46. [...]
 @div proverb 7.41
 
 B.7.41.47. bi₂-in-dug₄ ba-da-an-gur
+#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.21]{6.1.11.21}} He spoke, but went back on what he said.
 #lem: dug[speak]; gur[turn]
 #etcsl: line-id=B.7.41.47
 
@@ -439,7 +440,7 @@ B.7.41.47. bi₂-in-dug₄ ba-da-an-gur
 @div proverb 7.42
 
 B.7.42.48. {ŋiš}ma₂-gin₇ a-a am₃-zig₃-zig₃
-?#tr.en: @note{cf. @xref[t.6.1.11,t.6.1.11.21]{6.1.11.21}} He spoke, but went back on what he said.
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.89]{6.1.01.89}} Like a boat, he always floats up in the water.
 #lem: ma[ship]; a[water]; zig[rise]
 #etcsl: line-id=B.7.42.48
 
@@ -450,7 +451,7 @@ B.7.42.48. {ŋiš}ma₂-gin₇ a-a am₃-zig₃-zig₃
 @div proverb 7.43
 
 B.7.43.49. {na₄}kinkin bur₁₂-ra-gin₇# al-du₇-du₇-du₇-un#
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.89]{6.1.01.89}} Like a boat, he always floats up in the water.
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.45]{6.1.03.45}, @xref[t.6.2.1,]{6.2.1: Ni 9832 Seg. B ll. 6-7}} You are forever pushing, like a millstone torn out of its joint.
 #lem: kinkin[small millstone]; bur[tear out]; du[push]
 #etcsl: line-id=B.7.43.49
 
@@ -461,7 +462,7 @@ B.7.43.49. {na₄}kinkin bur₁₂-ra-gin₇# al-du₇-du₇-du₇-un#
 @div proverb 7.44
 
 B.7.44.50. ka ba-an-la₂-a dam-a-ni gi₄-in-nam
-?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.45]{6.1.03.45}, @xref[t.6.2.1,]{6.2.1: Ni 9832 Seg. B ll. 6-7}} You are forever pushing, like a millstone torn out of its joint.
+#tr.en: He whose speech is humble -- his wife is a slave girl.
 #lem: kag[mouth]; la[hang]; dam[spouse]; geme[female worker]
 #etcsl: line-id=B.7.44.50
 
@@ -470,7 +471,7 @@ B.7.44.50. ka ba-an-la₂-a dam-a-ni gi₄-in-nam
 @div proverb 7.45
 
 B.7.45.51. ka-ŋu₁₀ lu₂-[da] an-da#-sa₂-e-en
-?#tr.en: He whose speech is humble -- his wife is a slave girl.
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.185]{6.1.03.185}} My mouth makes me comparable with other men.
 #lem: kag[mouth]; lu[person]; sa[equal]
 #etcsl: line-id=B.7.45.51
 
@@ -481,7 +482,7 @@ B.7.45.51. ka-ŋu₁₀ lu₂-[da] an-da#-sa₂-e-en
 @div proverb 7.46
 
 B.7.46.52. u₆ di kalam di-de₃-<<en>> iri-ni mu-un-ed₂-e
-?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.185]{6.1.03.185}} My mouth makes me comparable with other men.
+#tr.en: In order to survey (?) the Land, he left his city.
 #lem: u[admiration]; di[speak]; kalam[the Land (of Sumer)]; di[speak]; iri[city]; e[leave]
 #etcsl: line-id=B.7.46.52
 
@@ -490,15 +491,14 @@ B.7.46.52. u₆ di kalam di-de₃-<<en>> iri-ni mu-un-ed₂-e
 @div proverb 7.47
 
 B.7.47.53. %e al-di-di-de₃-en %s nu-kuš₂-u₃-de₃-en
-?#tr.en: In order to survey (?) the Land, he left his city.
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.174]{6.1.01.174}} I walk about, I don't get tired.
 #lem: de[go]; kušu[tired]
 #etcsl: line-id=B.7.47.53
 
 #etcsl#cf cf. 6.1.01.174
 
 B.7.47.54. %e i₃-di-di-de₃-en %s u₃ nu-ku-ku-me-en
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.174]{6.1.01.174}} I walk about, I don't get tired.
-?#tr.en: I keep moving, I don't sleep.
+#tr.en: I keep moving, I don't sleep.
 #lem: de[go]; u[sleep]; ku[place]
 #etcsl: line-id=B.7.47.54
 
@@ -507,14 +507,14 @@ B.7.47.54. %e i₃-di-di-de₃-en %s u₃ nu-ku-ku-me-en
 @div proverb 7.48
 
 B.7.48.55. til₃-la lul-la hul na-an-gu-ul-e#
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.55]{6.1.03.55}, @xref[t.6.1.11,t.6.1.11.5]{6.1.11.5}} As long as you live, you should not increase evil by lying;
 #lem: til[live (of a single person)]; lul[false]; hulu[bad]; gal[big]
 #etcsl: line-id=B.7.48.55
 
 #etcsl#cf cf. 6.1.03.55, 6.1.11.5
 
 B.7.48.56. gam ha-la-zu mu-un-ŋal₂#
-?#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.55]{6.1.03.55}, @xref[t.6.1.11,t.6.1.11.5]{6.1.11.5}} As long as you live, you should not increase evil by lying;
-?#tr.en: for if you do, to succumb will be your lot.
+#tr.en: for if you do, to succumb will be your lot.
 #lem: gurum[bow]; hala[inheritance share]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=B.7.48.56
 
@@ -523,19 +523,19 @@ B.7.48.56. gam ha-la-zu mu-un-ŋal₂#
 @div proverb 7.49
 
 B.7.49.57. tug₂-me-en-ze₂-er-še₃ ba-X-da#-[bir₇-ra]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.175]{6.1.01.175}} When clothes have been cut up into rags,
 #lem: tugmudura[mourning garment]; bir[shred]
 #etcsl: line-id=B.7.49.57
 
 #etcsl#cf cf. 6.1.01.175
 
 B.7.49.58. še sahar-ba im-ma-an-til₃#-[la]
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.175]{6.1.01.175}} When clothes have been cut up into rags,
-?#tr.en: when the barley has been lying in the dust,
-?#tr.en: what more is there to be got?
+#tr.en: when the barley has been lying in the dust,
 #lem: še[barley]; sahar[soil]; til[live (of a single person)]
 #etcsl: line-id=B.7.49.58
 
 B.7.49.59. %e ta %s šu ba-ni-[in-ti]
+#tr.en: what more is there to be got?
 #lem: ta[what?]QP; šu[hand]; teŋ[approach]
 #etcsl: line-id=B.7.49.59
 
@@ -544,6 +544,7 @@ B.7.49.59. %e ta %s šu ba-ni-[in-ti]
 @div proverb 7.50
 
 B.7.50.60. a de₂-a-bi en# [...] X še sig₉-ga-bi en# [...] X
+#tr.en: Pouring water ……, placing barley …….
 #lem: a[water]; de[pour]; en[lord]; X; X; še[barley]; sig[put into]; en[lord]; X; X
 #etcsl: line-id=B.7.50.60
 
@@ -552,7 +553,7 @@ B.7.50.60. a de₂-a-bi en# [...] X še sig₉-ga-bi en# [...] X
 @div proverb 7.51
 
 B.7.51.61. in-gu₇ nu-un-gu₇ [numun sag₉-ga-am₃]
-?#tr.en: Pouring water ……, placing barley …….
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.100]{6.1.01.100}} Whether he ate or not, the seed was good.
 #lem: gu[eat]; gu[eat]; numun[seed]; sag[good]
 #etcsl: line-id=B.7.51.61
 
@@ -563,15 +564,14 @@ B.7.51.61. in-gu₇ nu-un-gu₇ [numun sag₉-ga-am₃]
 @div proverb 7.52
 
 B.7.52.62. %e ga-ša-an %s tug₂ gal-gal#-[la-ŋen]
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.100]{6.1.01.100}} Whether he ate or not, the seed was good.
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.176]{6.1.01.176}} I am a lady who wears large garments.
 #lem: gašan[lady]N; tug[textile]; gal[big]
 #etcsl: line-id=B.7.52.62
 
 #etcsl#cf cf. 6.1.01.176
 
 B.7.52.63. {tug₂}niŋ₂-dara₂-ŋu₁₀  %e  da-an#-[kud]  %s 
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.176]{6.1.01.176}} I am a lady who wears large garments.
-?#tr.en: Let me cut my loincloth!
+#tr.en: Let me cut my loincloth!
 #lem: niŋdara[rag]; kud[cut]
 #etcsl: line-id=B.7.52.63
 
@@ -580,15 +580,14 @@ B.7.52.63. {tug₂}niŋ₂-dara₂-ŋu₁₀  %e  da-an#-[kud]  %s
 @div proverb 7.53
 
 B.7.53.64. %e u₃-mu-un %s id₂ %e [da-ma-al-la-ŋen]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.177]{6.1.01.177}} You are the master of a broad river.
 #lem: umun[lord]N; id[river]; damal[wide]V/i
 #etcsl: line-id=B.7.53.64
 
 #etcsl#cf cf. 6.1.01.177
 
 B.7.53.65. [... BU] i₃-[gu₇-e-en]
-?#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.177]{6.1.01.177}} You are the master of a broad river.
-?#tr.en: You are eating …….
-?$ (@gap{approx. 23 lines missing}) 
+#tr.en: You are eating …….
 #lem: X; X; gu[eat]
 #etcsl: line-id=B.7.53.65
 
@@ -602,14 +601,14 @@ $ (approx. 23 lines missing)
 @div proverb 7.70
 
 C.7.70.1. nam-tar [ur]-am₃ [zu₂ mu-un-da-ab-kud]
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.11]{6.1.02.11}} Fate is a dog, well able to bite.
 #lem: namtar[fate]; ur[dog]; zu[tooth]; kud[cut]
 #etcsl: line-id=C.7.70.1
 
 #etcsl#cf cf. 6.1.02.11
 
 C.7.70.2. tug₂-mu-dur₇-ra-gin₇ [im-ma-tab-tab]
-?#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.11]{6.1.02.11}} Fate is a dog, well able to bite.
-?#tr.en: It clings like dirty rags.
+#tr.en: It clings like dirty rags.
 #lem: tugmudura[mourning garment]; tab[double]
 #etcsl: line-id=C.7.70.2
 
@@ -618,10 +617,12 @@ C.7.70.2. tug₂-mu-dur₇-ra-gin₇ [im-ma-tab-tab]
 @div proverb 7.71
 
 C.7.71.3. %e ga-ša-an-an-na E X [...]
+#tr.en: @wDN{Inana} ……
 #lem: Gašanana[1]DN; X; X; X
 #etcsl: line-id=C.7.71.3
 
 C.7.71.4. E EN KI AH [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=C.7.71.4
 
@@ -630,6 +631,9 @@ C.7.71.4. E EN KI AH [...]
 @div proverb 7.72
 
 C.7.72.5. MI RI IM IR MI X [...]
+?$ (@gap{1 line unclear}) 
+?#tr.en: …… something belonging to @wDN{Inana} ……
+?$ (@gap{1 line fragmentary}) 
 #lem: X; X; X; X; X; X; X
 #etcsl: line-id=C.7.72.5
 
@@ -646,16 +650,19 @@ C.7.72.7. %e aŋ₂ %s ŋiri₃-ba DI [...]
 @div proverb 7.73
 
 C.7.73.8. ur %e i-im-di
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.104]{6.1.03.104}} The dog moves,
 #lem: ur[dog]; de[go]
 #etcsl: line-id=C.7.73.8
 
 #etcsl#cf cf. 6.1.03.104
 
 C.7.73.9. %e me₂#-[er %s %e im-di]
+#tr.en: the knife moves,
 #lem: meri[dagger]N; de[go]
 #etcsl: line-id=C.7.73.9
 
 C.7.73.10. lu₂-ŋu₁₀ %e ba-ra-mu#-[un-di]
+#tr.en: but still my man does not move.
 #lem: lu[person]; de[go]
 #etcsl: line-id=C.7.73.10
 
@@ -664,12 +671,14 @@ C.7.73.10. lu₂-ŋu₁₀ %e ba-ra-mu#-[un-di]
 @div proverb 7.74
 
 C.7.74.11. {ŋiš}ma₂-addir# X lu₂ dirig [X X]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.187]{6.1.01.187}} The ferryboat …… too many men:
 #lem: maʾaddir[ferryboat]; X; lu[person]; dirig[make more than]; X; X
 #etcsl: line-id=C.7.74.11
 
 #etcsl#cf cf. 6.1.01.187
 
 C.7.74.12. lu₂-ŋu₁₀ ba-ra-mu-[un-u₅]
+#tr.en: @q{“My man shall not board it!”}
 #lem: lu[person]; u[ride]
 #etcsl: line-id=C.7.74.12
 
@@ -678,10 +687,12 @@ C.7.74.12. lu₂-ŋu₁₀ ba-ra-mu-[un-u₅]
 @div proverb 7.75
 
 C.7.75.13. i₃-bi mu-dur₇-ra am₃#-[...]
+#tr.en: This oil …… mourning rags …….
 #lem: i[oil]; mudur[dirt]; X
 #etcsl: line-id=C.7.75.13
 
 C.7.75.14. še-bi sahar-ra am₃#-[...]
+#tr.en: This barley …… in dust.
 #lem: še[barley]; sahar[soil]; X
 #etcsl: line-id=C.7.75.14
 
@@ -690,12 +701,14 @@ C.7.75.14. še-bi sahar-ra am₃#-[...]
 @div proverb 7.76
 
 C.7.76.15. e-le-lum-ŋu₁₀ kur-re [X X]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.183]{6.1.01.183}} My cry of joy …… by the nether world,
 #lem: elilum[an exclamation]; kur[mountain(s)]; X; X
 #etcsl: line-id=C.7.76.15
 
 #etcsl#cf cf. 6.1.01.183
 
 C.7.76.16. umuš-ŋu₁₀ ur₅-re nu-um-ši-[kar-X]
+#tr.en: but my mental faculties are not thereby taken away.
 #lem: umuš[consideration]; ur[that]; kar[flee]
 #etcsl: line-id=C.7.76.16
 
@@ -704,16 +717,19 @@ C.7.76.16. umuš-ŋu₁₀ ur₅-re nu-um-ši-[kar-X]
 @div proverb 7.77
 
 C.7.77.17. uₓ(PA)-a bi₂-in-dug₄ ma₂ ba-da-an#-[su]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.179]{6.1.03.179}} He said: @q{“Woe!”} and the boat sank with him.
 #lem: ua[oh!]; dug[speak]; ma[ship]; su[sink]
 #etcsl: line-id=C.7.77.17
 
 #etcsl#cf cf. 6.1.03.179
 
 C.7.77.18. a-la-la bi₂-in-dug₄ {ŋiš}gi-muš ba-da-an-haš
+#tr.en: He said: @q{“Alas!”} and the rudder broke.
 #lem: alala[soothing expression]; dug[speak]; gimuš[boat pole]; haš[break off]
 #etcsl: line-id=C.7.77.18
 
 C.7.77.19. ŋuruš-e u₈-a diŋir-ra-am₃ di {ŋiš}ma₂ ki-bi ba-te
+#tr.en: The young man said: @q{“Ah god!”} and the boat reached its destination.
 #lem: ŋuruš[young adult male]; ua[oh!]; diŋir[deity]; di[speak]; ma[ship]; ki[place]; teŋ[approach]
 #etcsl: line-id=C.7.77.19
 
@@ -722,12 +738,14 @@ C.7.77.19. ŋuruš-e u₈-a diŋir-ra-am₃ di {ŋiš}ma₂ ki-bi ba-te
 @div proverb 7.78
 
 C.7.78.20. a-ba-am₃# sahar mu-un-zig₃
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.d15]{6.1.02.d15}} Who removed the dust?
 #lem: aba[who?]; sahar[soil]; zig[rise]
 #etcsl: line-id=C.7.78.20
 
 #etcsl#cf cf. 6.1.02.d15
 
 C.7.78.21. a-ba-am₃ {ŋiš}ma₂# bi₂-in#-zu
+#tr.en: Who …… the boat?
 #lem: aba[who?]; ma[ship]; zu[know]
 #etcsl: line-id=C.7.78.21
 
@@ -736,12 +754,14 @@ C.7.78.21. a-ba-am₃ {ŋiš}ma₂# bi₂-in#-zu
 @div proverb 7.79
 
 C.7.79.22. šag₄-ŋu₁₀ {ŋiš}kiri₆ ha#-[ra-dirig]-ga-ta#
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.166]{6.1.03.166}} The sun never leaves my heart,
 #lem: šag[heart]; kiri[(fruit) plantation]; dirig[make more than]
 #etcsl: line-id=C.7.79.22
 
 #etcsl#cf cf. 6.1.03.166
 
 C.7.79.23. {d}utu nu-mu-un-ta#-[e₃]
+#tr.en: which surpasses a garden.
 #lem: Utu[1]DN; e[leave]
 #etcsl: line-id=C.7.79.23
 
@@ -750,6 +770,7 @@ C.7.79.23. {d}utu nu-mu-un-ta#-[e₃]
 @div proverb 7.80
 
 C.7.80.24. aŋrig šu dim₄-ma#-[am₃] sa-KU kalag-ga-me-en
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.60]{6.1.03.60}} I am a loyal steward, I am a strong pair of hands.
 #lem: agrig[steward]; šu[hand]; dim[check]; sa.KU[arm]; kalag[strong]
 #etcsl: line-id=C.7.80.24
 
@@ -760,12 +781,14 @@ C.7.80.24. aŋrig šu dim₄-ma#-[am₃] sa-KU kalag-ga-me-en
 @div proverb 7.81
 
 C.7.81.25. gud kur₂-ra u₂ gu₇-gu₇
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.93]{6.1.02.93}, @xref[t.6.2.3,]{6.2.3: UET 6/3 31 ll. 5-6}} A stranger's ox eats grass
 #lem: gud[bull]; kur[different]; u[plant(s)]; gu[eat]
 #etcsl: line-id=C.7.81.25
 
 #etcsl#cf cf. 6.1.02.93, 6.2.3: UET 6/3 31 ll. 5-6
 
 C.7.81.26. gud ni₂-ba i₃-šim-ma! nu₂-nu₂
+#tr.en: while one's own ox lies hungry.
 #lem: gud[bull]; ni[self]; išim[hunger]; nud[lie down]
 #etcsl: line-id=C.7.81.26
 
@@ -774,6 +797,7 @@ C.7.81.26. gud ni₂-ba i₃-šim-ma! nu₂-nu₂
 @div proverb 7.82
 
 C.7.82.27. niŋ₂ u₂ nu-gu₇ am kur-ra-kam#
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.30]{6.1.01.30}} That which does not eat food is a wild bull of the mountains.
 #lem: niŋ[thing]; u[plant(s)]; gu[eat]; am[wild bull]; kur[mountain(s)]
 #etcsl: line-id=C.7.82.27
 
@@ -785,6 +809,7 @@ $ 7 lines missing
 @div proverb 7.87
 
 C.7.87.35. šag₄# [...]
+#tr.en: ($fragmentary$)
 #lem: šag[heart]; X
 #etcsl: line-id=C.7.87.35
 
@@ -793,18 +818,22 @@ C.7.87.35. šag₄# [...]
 @div proverb 7.88
 
 C.7.88.36. ga-an#-[...]
+#tr.en: @q{“Let me ……,
 #lem: X
 #etcsl: line-id=C.7.88.36
 
 C.7.88.37. ga-ab-[...]
+#tr.en: let me ……;
 #lem: X
 #etcsl: line-id=C.7.88.37
 
 C.7.88.38. ga-ab#-hul-hul
+#tr.en: let me destroy it”} is characteristic of
 #lem: hulu[bad]
 #etcsl: line-id=C.7.88.38
 
 C.7.88.39. geme₂ lukur-ra-kam
+#tr.en: the slave girl of a @fsux{lukur} priestess.
 #lem: geme[female worker]; lukur[priestess]
 #etcsl: line-id=C.7.88.39
 
@@ -813,12 +842,14 @@ C.7.88.39. geme₂ lukur-ra-kam
 @div proverb 7.89
 
 C.7.89.40. lul dug₄-ga-ab
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.71]{6.1.02.71}} Tell a lie,
 #lem: lul[false]; dug[speak]
 #etcsl: line-id=C.7.89.40
 
 #etcsl#cf cf. 6.1.02.71
 
 C.7.89.41. zid dug₄-ga-ab
+#tr.en: tell the truth.
 #lem: zid[right]; dug[speak]
 #etcsl: line-id=C.7.89.41
 
@@ -827,6 +858,7 @@ C.7.89.41. zid dug₄-ga-ab
 @div proverb 7.90
 
 C.7.90.42. gu₂# zu-hu-ul-a-ni-ta du₃#-du₃-am₃
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.180]{6.1.03.180}} He is working despite his pierced neck.
 #lem: gu[neck]; zuhul[pierce]; du[build]
 #etcsl: line-id=C.7.90.42
 
@@ -837,6 +869,7 @@ C.7.90.42. gu₂# zu-hu-ul-a-ni-ta du₃#-du₃-am₃
 @div proverb 7.91
 
 C.7.91.43. gu₂# bal gu₂ ki-ta al-ak-e
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.181]{6.1.03.181}} He turns things upside down.
 #lem: gu[neck]; bala[turn]; gu[neck]; ki[place]; ak[do]
 #etcsl: line-id=C.7.91.43
 
@@ -847,6 +880,7 @@ C.7.91.43. gu₂# bal gu₂ ki-ta al-ak-e
 @div proverb 7.92
 
 C.7.92.44. [a]-šag₄ buru₄{mušen}-gin₇ zu₂# e-da-an-ra-ah
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.182]{6.1.03.182}} He devours things as crows do a field.
 #lem: ašag[field]; buru[bird(s)]; zu[tooth]; rah[beat]
 #etcsl: line-id=C.7.92.44
 
@@ -857,16 +891,19 @@ C.7.92.44. [a]-šag₄ buru₄{mušen}-gin₇ zu₂# e-da-an-ra-ah
 @div proverb 7.93
 
 C.7.93.45. [ad]-da# a hur nu-ri
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.155]{6.1.01.155}} Conceived by no father,
 #lem: adda[father]; a[water]; hur[ever (again)]; ri[impose]
 #etcsl: line-id=C.7.93.45
 
 #etcsl#cf cf. 6.1.01.155
 
 C.7.93.46. [ama-a] a hur# nu-ri
+#tr.en: conceived by no mother,
 #lem: ama[mother]; a[water]; hur[ever (again)]; ri[impose]
 #etcsl: line-id=C.7.93.46
 
 C.7.93.47. {[gi]}[en₃-bar] gaba# ud-da X [e₃]-a
+#tr.en: the reed came out of the breast of the storm.
 #lem: enbar[reed]; gaba[breast]; ud[storm]; X; e[leave]
 #etcsl: line-id=C.7.93.47
 
@@ -875,14 +912,17 @@ C.7.93.47. {[gi]}[en₃-bar] gaba# ud-da X [e₃]-a
 @div proverb 7.94
 
 C.7.94.48. [...] RA [...] RA
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=C.7.94.48
 
 C.7.94.49. [...] AN [...] AN
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=C.7.94.49
 
 C.7.94.50. X [X X] X X [X X]-bi#
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X
 #etcsl: line-id=C.7.94.50
 
@@ -891,12 +931,14 @@ C.7.94.50. X [X X] X X [X X]-bi#
 @div proverb 7.95
 
 C.7.95.51. gig gu₂-nida-a lal₃-gin₇# ib₂#-ak
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.140]{6.1.03.140}} Wheat and hulled barley was made to taste like honey.
 #lem: kib[wheat]; gunida[designation of grain]; lal[syrup]; ak[do]
 #etcsl: line-id=C.7.95.51
 
 #etcsl#cf cf. 6.1.03.140
 
 C.7.95.52. mar-tu i₃-gu₇-e niŋ₂ šag₄-bi# nu-un-zu
+#tr.en: The nomad ate it and didn't recognise what was in it.
 #lem: Martu[1 Amorite]; gu[eat]; niŋ[thing]; šag[heart]; zu[know]
 #etcsl: line-id=C.7.95.52
 
@@ -905,10 +947,12 @@ C.7.95.52. mar-tu i₃-gu₇-e niŋ₂ šag₄-bi# nu-un-zu
 @div proverb 7.96
 
 C.7.96.53. še sur-ra gu₂ %e na-an-mar-mar-re#
+#tr.en: Don't pile up the poured (?) barley.
 #lem: še[barley]; sur[press]; gu[neck]; mar[place]V/t
 #etcsl: line-id=C.7.96.53
 
 C.7.96.54. še-zu-še₃ tum₄ tu₁₁ lugal-zu ba-an-gu₇
+#tr.en: When it has been carried to your barley and piled up, it will be eaten by your lord.
 #lem: še[barley]; tum[bring]; tub[strike]; lugal[king]; gu[eat]
 #etcsl: line-id=C.7.96.54
 
@@ -917,12 +961,14 @@ C.7.96.54. še-zu-še₃ tum₄ tu₁₁ lugal-zu ba-an-gu₇
 @div proverb 7.97
 
 C.7.97.55. sag₉-ga-bi pad₃-da
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.121]{6.1.02.121}} The good thing is to find it.
 #lem: sag[good]; pad[find]
 #etcsl: line-id=C.7.97.55
 
 #etcsl#cf cf. 6.1.02.121
 
 C.7.97.56. hul-bi u₂-gu de₂-a
+#tr.en: The bad thing is to have lost it.
 #lem: hulu[bad]; ugu[cvne]; de[pour]
 #etcsl: line-id=C.7.97.56
 
@@ -931,12 +977,14 @@ C.7.97.56. hul-bi u₂-gu de₂-a
 @div proverb 7.98
 
 C.7.98.57. nam-sag₉-ga kaš-a
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.123]{6.1.02.123}} The pleasure -- it is the beer!
 #lem: namsag[pleasure]; kaš[beer]
 #etcsl: line-id=C.7.98.57
 
 #etcsl#cf cf. 6.1.02.123
 
 C.7.98.58. nam-hul kaskal-la
+#tr.en: The discomfort -- it is the journey!
 #lem: namhulu[evil]; kaskal[way]
 #etcsl: line-id=C.7.98.58
 
@@ -945,12 +993,14 @@ C.7.98.58. nam-hul kaskal-la
 @div proverb 7.99
 
 C.7.99.59. al-ŋal₂-la {tug₂}niŋ₂-dara₂-am₃
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.187]{6.1.03.187}} When present, it is considered a loincloth;
 #lem: ŋal[⟦be⟧ to be (there]; niŋdara[rag]
 #etcsl: line-id=C.7.99.59
 
 #etcsl#cf cf. 6.1.03.187
 
 C.7.99.60. u₂-gu ba-an-de₂ tug₂-ga-am₃
+#tr.en: when lost, it is considered fine clothing.
 #lem: ugu[cvne]; de[pour]; tug[textile]
 #etcsl: line-id=C.7.99.60
 
@@ -959,6 +1009,7 @@ C.7.99.60. u₂-gu ba-an-de₂ tug₂-ga-am₃
 @div proverb 7.100
 
 C.7.100.61. ud-da ga-til₃-e gud-gin₇ saman₂ bi₂-in-la₂
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.33]{6.1.03.33}} He who says @q{“Let me live today”} is bound like a bull on a leash.
 #lem: ud[sun]; til[live (of a single person)]; gud[bull]; saman[tethering rope]; la[hang]
 #etcsl: line-id=C.7.100.61
 
@@ -970,12 +1021,14 @@ $ 3 lines missing
 @div proverb 7.104
 
 C.7.104.65. [šag₄-bi zig₃-ga ugula nam-me]
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.97]{6.1.01.97}, @xref[t.6.1.11,t.6.1.11.53]{6.1.11.53}} Those who get excited should not become foremen.
 #lem: šag[heart]; zig[rise]; ugula[overseer]; me[be]
 #etcsl: line-id=C.7.104.65
 
 #etcsl#cf cf. 6.1.01.97, 6.1.11.53
 
 C.7.104.66. sipad# engar [nam-me]
+#tr.en: A shepherd should not become a farmer.
 #lem: sipad[shepherd]; engar[farmer]; me[be]
 #etcsl: line-id=C.7.104.66
 
@@ -984,12 +1037,14 @@ C.7.104.66. sipad# engar [nam-me]
 @div proverb 7.105
 
 C.7.105.67. uš!-bar du₈#-[a geme₂ min-am₃]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.183]{6.1.03.183}} A free weaver equals two slave girls.
 #lem: ušbar[weaver]; du[spread]; geme[female worker]; min[two]
 #etcsl: line-id=C.7.105.67
 
 #etcsl#cf cf. 6.1.03.183
 
 C.7.105.68. uŋ₃-il₂ du₈#-a arad eš₅-am₃
+#tr.en: A free worker equals three slaves.
 #lem: UN.IL₂[menial]; du[spread]; arad[slave]; eš[three]
 #etcsl: line-id=C.7.105.68
 
@@ -998,6 +1053,7 @@ C.7.105.68. uŋ₃-il₂ du₈#-a arad eš₅-am₃
 @div proverb 7.106
 
 C.7.106.69. na₄ niŋ₂ %e ga-ša-an-ŋa₂-a-ke₄ %s gaz-za-am₃
+#tr.en: Crushed by a stone belonging to my lady.
 #lem: na[stone weight]; niŋ[thing]; gašan[lady]N; gaz[kill]
 #etcsl: line-id=C.7.106.69
 
@@ -1006,10 +1062,12 @@ C.7.106.69. na₄ niŋ₂ %e ga-ša-an-ŋa₂-a-ke₄ %s gaz-za-am₃
 @div proverb 7.107
 
 C.7.107.70. lu₂# [...]-ke₄# ŋi₆-a-ka
+#tr.en: ($fragmentary$)
 #lem: lu[person]; X; ŋi[night]
 #etcsl: line-id=C.7.107.70
 
 C.7.107.71. X X du₇-du₇-du₇-un
+#tr.en: ($fragmentary$)
 #lem: X; X; du[push]
 #etcsl: line-id=C.7.107.71
 
@@ -1018,10 +1076,12 @@ C.7.107.71. X X du₇-du₇-du₇-un
 @div proverb 7.108
 
 C.7.108.72. ki DIM₃#-e ŋa₂-a-kam
+#tr.en: …… is mine;
 #lem: ki[place]; X; ŋaʾe[I]
 #etcsl: line-id=C.7.108.72
 
 C.7.108.73. X mu-ni-ib#-zig₃-zig₃
+#tr.en: …… raised the …….
 #lem: X; zig[rise]
 #etcsl: line-id=C.7.108.73
 
@@ -1031,6 +1091,7 @@ $ 15 lines missing
 @div proverb 7.120
 
 C.7.120.89. [...] ŊA₂ [...]-ra#-am₃
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=C.7.120.89
 
@@ -1039,6 +1100,7 @@ C.7.120.89. [...] ŊA₂ [...]-ra#-am₃
 @div proverb 7.121
 
 C.7.121.90. [iri]{[ki]} [en₃]-du-bi [maš₂-šu]-gid₂-gid₂-bi
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.70]{6.1.01.70}} The songs of a city are its omen diviners.
 #lem: iri[city]; endu[song]; maššugidgid[diviner]
 #etcsl: line-id=C.7.121.90
 
@@ -1049,26 +1111,32 @@ C.7.121.90. [iri]{[ki]} [en₃]-du-bi [maš₂-šu]-gid₂-gid₂-bi
 @div proverb 7.122
 
 C.7.122.91. [...]-si-en-de₃-en
+#tr.en: We ……;
 #lem: si[fill]
 #etcsl: line-id=C.7.122.91
 
 C.7.122.92. [...]-X-en-de₃-en
+#tr.en: we ……;
 #lem: X
 #etcsl: line-id=C.7.122.92
 
 C.7.122.93. [...]-gu₇-un-de₃-en
+#tr.en: we ate ……;
 #lem: gu[eat]
 #etcsl: line-id=C.7.122.93
 
 C.7.122.94. [...]-naŋ#-en-de₃-en
+#tr.en: we drank ……;
 #lem: naŋ[drink]
 #etcsl: line-id=C.7.122.94
 
 C.7.122.95. [...] E mu-e-dul
+#tr.en: …… cover ……;
 #lem: X; X; dul[cover]
 #etcsl: line-id=C.7.122.95
 
 C.7.122.96. [...] A bi₂-dul
+#tr.en: …… cover …….
 #lem: X; X; dul[cover]
 #etcsl: line-id=C.7.122.96
 

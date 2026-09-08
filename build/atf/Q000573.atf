@@ -7,10 +7,12 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.01&display=Crit&charenc=gcirc#
 
 1. lugal (1:gud:1) igi gun₃ sun₄ {na₄}za-gin₃ la₂-ŋu₁₀-ur₂ {{%akk a-na %akk šar-ri %akk ša %akk ki# %akk al#-pi# %akk ši-it-ha-ri# %akk qi₂#-bi-ma#}}
+#tr.en: Speak to my lord, the @varh[t3301.v1]{bull } @vart[t3301.v2,t3301.v1]{@varn{1 ms. has instead:} wild bull } @vart[t3301.v3,t3301.v1]{@varn{1 other ms. has instead:} bison (?) } with sparkling eyes, who wears a lapis-lazuli beard:
 #lem: lugal[king]; gud[bull]; igi[eye]; gunu[speckled]; sum[beard]; zagin[lapis lazuli]; la[hang]; L; L; L; L; L; L; L
 #etcsl: line-id=1
 
 :1v.1.1: ($1 ms. has instead:$) am
+?#tr.en: Repeat to my golden statue born on a favourable day, to my water buffalo reared in a holy fold, chosen in the heart @varh[t3301.v4]{of holy @wDN{Inana} } @vart[t3301.v5,t3301.v4]{@varn{1 ms. has instead:} of holy @wDN{Inana}, …… of @wDN{Suen} }, to my lord, the trusted one of @wDN{Inana}:
 #lem: am[wild bull]
 :1v.1.2: ($1 other ms. has instead:$) alim#
 #lem: alim[bison]
@@ -35,14 +37,18 @@
 #etcsl: line-id=5
 
 6. za-e dim₂-ma-zu dumu an-na-me-en {{%akk wa-X %akk [...] %akk X-ra-ni}}
+#tr.en: You are fashioned like the son of @wDN{An}. As with the words of a god,
 #lem: zaʾe[you]; dim[create]; dumu[child]; An[1]DN; L; L; L
 #etcsl: line-id=6
 
 7. dug₄-ga-zu inim diŋir-ra-gin₇ (1:hur nu-gi₄-gi₄-dam:1) {{%akk hu-ur %akk la %akk ta-ar}}
+#tr.en: @varh[t3301.v6]{what you say is irrevocable } @vart[t3301.v7,t3301.v6]{@varn{1 ms. has instead:} all the foreign lands cannot answer (?) your words }. Your words, like rain pouring from the skies,
 #lem: dug[speak]; inim[word]; diŋir[deity]; hur[ever (again)]; gi[turn]; L; L; L
 #etcsl: line-id=7
 
 :7v.1.1: ($1 ms. has instead:$) kur#-kur nu-gi₄#-[...]
+?#tr.en: @varh[t3301.v8]{are uncountable } @vart[t3301.v9,t3301.v8]{@varn{1 ms. has instead:} are uncheckable } @vart[t3301.v10,t3301.v8]{@varn{1 other ms. has instead:} are uncontrollable (?) }: this is what @wPN{Ur-saga}, your servant,
+?#tr.en: says:
 #lem: kur[mountain(s)]; gi[turn]
 
 8. inim-zu im an-ta šeŋ₃-ŋe₂₆-gin₇ (1:šid nu-tuku-tuku-dam:1) {{%akk X# %akk BI.NA}}
@@ -59,10 +65,15 @@
 #etcsl: line-id=9
 
 10. lugal-ŋu₁₀ bar-ŋa₂ en₃ (1:bi₂-in-tar:1) dumu urim₂{ki}-ma-me-en
+#tr.en: My lord @varh[t3301.v11]{has taken care of me
 #lem: lugal[king]; bar[outside]; en[cvne]; tar[cut]; dumu[child]; Urim[1]SN
 #etcsl: line-id=10
 
 :10v.1.1: ($2 mss. have instead:$) li-bi₂-in-tar
+?#tr.en: } @vart[t3301.v12,t3301.v11]{@varn{2 mss. have instead:} has not taken care of me }; I am a citizen of @wSN{Urim}.
+?#tr.en: @varh[t3301.v13]{If my lord agrees } @vart[t3301.v14,t3301.v13]{@varn{1 ms. has instead:} If it pleases my lord }, let no one waste my father's household,
+?#tr.en: let no one take away @varh[t3301.v15]{the home of
+?#tr.en: my father's estate } @vart[t3301.v16,t3301.v15]{@varn{1 ms. has instead:} my old man's home }! May my lord know this!
 #lem: tar[cut]
 
 11. tukum-bi (1:lugal-ŋa₂ an-na-kam:1)

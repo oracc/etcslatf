@@ -228,6 +228,7 @@ sub resync {
 		    ++$off_lb;
 		}
 	    }
+	    return 1;
 	} else {
 	    warn "resync failed; giving up\n";
 	    ++$lb;

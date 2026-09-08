@@ -384,31 +384,32 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=3.A.3
 
 3.A.4. di-bi-da an-ša₄-an{ki}-na {{%akk i-me-er %akk an-ša-ni-[im]}}
+#tr.en: The donkey of @wSN{Anšan},
 #lem: dibida[donkey]; Anšan[1]GN; L; L
 #etcsl: line-id=3.A.4
 
 3.A.5. dim₃-šah₂ mar-ha-ši{ki} {{%akk ma-ar-gi₄ %akk pa-ra-ah-[ši]}}
-?#tr.en: The donkey of @wSN{Anšan},
-?#tr.en: the bear (?) of @wGN{Marḫaši},
-?#tr.en: the cat of @wSN{Meluḫa},
-?#tr.en: the elephant of the eastern mountains,
-?#tr.en: bite off Euphrates poplars as if they were leeks.
+#tr.en: the bear (?) of @wGN{Marḫaši},
 #lem: damšah[hippopotamus]; Marhaši[1]GN; L; L
 #etcsl: line-id=3.A.5
 
 3.A.6. gul-lum me-luh-ha{ki} {{%akk šu-ra-an %akk me-luh-[ha]}}
+#tr.en: the cat of @wSN{Meluḫa},
 #lem: gullum[cat (from Meluhha)]; Meluhha[1]; L; L
 #etcsl: line-id=3.A.6
 
 3.A.7. til-lu-ug sa₁₂-ti-um{ki} {{%akk pi-i-ir %akk ša-ad-di-[im]}}
+#tr.en: the elephant of the eastern mountains,
 #lem: tillug[elephant]; Satium[1]GN; L; L
 #etcsl: line-id=3.A.7
 
 3.A.8. {ŋiš}asal₂ HI ga-raš{sar}-gin₇ šab-šab-e {{%akk ša %akk ṣa-ar-ba-tam %akk ki-ma# %akk ka#-[...] %akk i-ha-ra-[ṣu]}}
+#tr.en: bite off Euphrates poplars as if they were leeks.
 #lem: asal[poplar]; X; garaš[leek]; šab[trim]; L; L; L; L; L
 #etcsl: line-id=3.A.8
 
 3.A.9. {ŋiš}al im-NI-sahar-a ŋar-ra {d}nin-kilim-ma iri-na {{%akk al-lum %akk ša %akk i-na %akk ṭi-dim %akk na-[du-u₂] %akk ši-ku-tu %akk a-[li-ša]}}
+#tr.en: A pickaxe put in the …… clay is a mongoose in its city.
 #lem: al[hoe]; im.NI.sahar[type of clay]; ŋar[put]; ninkilim[mongoose]; iri[city]; L; L; L; L; L; L; L
 #etcsl: line-id=3.A.9
 
@@ -418,63 +419,67 @@ $ (unknown no. of lines missing)
 @div segment B
 
 3.B.1. inim ŋar-ra MAŠ gur šag₄ edin-a {{%akk im %akk ṣa %akk a %akk pa %akk šum₂ %akk aš₂ %akk sa %akk ša %akk ṣe-[ri]}}
+#tr.en: In a complaint,
 #lem: inim[word]; ŋar[put]; n; gur[unit of capacity]; šag[heart]; eden[back]; L; L; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.1
 
 3.B.2. [...] X UL en-gin₇ dab₅-ba {{%akk ki-ma %akk ka-aš-da-an-[...]}}
-?#tr.en: In a complaint,
-?#tr.en: half a @fsux{gur} from the desert …… seized like a lord …….
+#tr.en: half a @fsux{gur} from the desert …… seized like a lord …….
 #lem: X; X; X; en[lord]; dab[seize]; L; L
 #etcsl: line-id=3.B.2
 
 3.B.3. X X šu nu-us₂ {{%akk kam-ma-am %akk u₂-ul %akk <i>-ṣa-ab-ba-[at]}}
+#tr.en: He cannot …… in his hand.
 #lem: X; X; šu[hand]; us[accompany]; L; L; L
 #etcsl: line-id=3.B.3
 
 3.B.4. [...] X ki nu-ši-la₂ {{%akk a-na %akk i-nim %akk u₂-ul %akk i-qa₂-[al]}}
-?#tr.en: He cannot …… in his hand.
-?#tr.en: He does not listen …….
-?#tr.en: He scratches on the ground.
+#tr.en: He does not listen …….
 #lem: X; X; ki[place]; la[hang]; L; L; L; L
 #etcsl: line-id=3.B.4
 
 3.B.5. [ki]-in#-du-a al-hur {{%akk qa₂-aq-qa₂-ra-am %akk u₂-up-[...] %akk [...]}}
+#tr.en: He scratches on the ground.
 #lem: kindu[earth]; hur[scratch]; L; L; L
 #etcsl: line-id=3.B.5
 
 3.B.6. {[f]}[kar]-ke₄ gi-dub HI IR BU sila šub {{%akk ha-ri-im-tum %akk ša %akk i-na %akk su₂-qi₃-im# %akk u₄ %akk mu %akk WA %akk tu %akk X}}
+#tr.en: A courtesan who …… in the streets
 #lem: karkid[prostitute]; gidubak[stylus]; X; X; X; sila[street]; šub[fall]; L; L; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.6
 
 3.B.7. [...] X lu₂ šub-ba na-an-ŋar
-?#tr.en: A courtesan who …… in the streets
-?#tr.en: …… doesn't give …… to a fallen man.
+#tr.en: …… doesn't give …… to a fallen man.
 #lem: X; X; lu[person]; šub[fall]; ŋar[put]
 #etcsl: line-id=3.B.7
 
 3.B.8. [anše edin]-na#-gin₇ lul X ŋar-ra {{%akk ša %akk ki-ma %akk i-me-er %akk ṣe-ri %akk X %akk X %akk pi %akk ša-kan %akk X}}
+#tr.en: Like a wild ass which has put …….
 #lem: anše[equid]; eden[back]; lul[false]; X; ŋar[put]; L; L; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.8
 
 3.B.9. [X X] BU KUN KA-na KA-KA ba-NIM-ma {{%akk ša-ri-u₂-um %akk ša %akk ka-ak-ka-šu %akk wa-ṣi-a %akk ša %akk X %akk [...]}}
-?#tr.en: Like a wild ass which has put …….
-?$ (@gap{1 line fragmentary}) 
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.9
 
 3.B.10. [...] lahtan#-na |KA×X| ud šu₂-a {{%akk ša %akk i-na %akk la-ah-ta-nim %akk u₃ %akk hu-bu-[ri-im]}}
+#tr.en: He who rubbed (?) his nose against a beer vat
 #lem: X; lahtan[beer vat]; X; ud[sun]; šuš[cover]; L; L; L; L; L
 #etcsl: line-id=3.B.10
 
 3.B.11. [X X] X ki-umun₂ giri₁₇ šu du₈-a {{%akk ap-pa %akk ib-bir-ru %akk [...]}}
+#tr.en: or a large beer container (?) …….
 #lem: X; X; X; kiʾumun[place of learning]; kiri[nose]; šu[hand]; du[spread]; L; L; L
 #etcsl: line-id=3.B.11
 
 3.B.12. [X X] e#-gi-ru-ne {{%akk ša %akk i-na %akk ab %akk pi-lum %akk ša %akk i-na %akk ir-[...] %akk X}}
+#tr.en: ($fragmentary$)
 #lem: X; X; X; L; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.12
 
 3.B.13. [...] X E NE {{%akk šu %akk ni %akk X %akk gu %akk ši %akk X %akk mu %akk X %akk X %akk X}}
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; L; L; L; L; L; L; L; L; L; L
 #etcsl: line-id=3.B.13
 
@@ -487,54 +492,66 @@ $ (unknown no. of lines missing)
 @div segment A
 
 4.A.1. [...] he₂#-e-a
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.40]{6.1.01.40}, @xref[t.6.1.19,t.6.1.19.f4]{6.1.19.f4}} Let
 #lem: X; me[be]
 #etcsl: line-id=4.A.1
 
 #etcsl#cf cf. 6.1.01.40, 6.1.19.f4
 
 4.A.2. [ninda-ni niŋ₂]-ussu!(IMIN)
+#tr.en: …… be …….
 #lem: ninda[bread]; niŋmuzug[impure thing]
 #etcsl: line-id=4.A.2
 
 4.A.3. [... he₂]-am₃
+#tr.en: Let his bread be foul food.
 #lem: X; me[be]
 #etcsl: line-id=4.A.3
 
 4.A.4. [lu₂ nu-mu-un-šu₂]-šu₂!
+#tr.en: No man should eat it.
 #lem: lu[person]; šuš[cover]
 #etcsl: line-id=4.A.4
 
 4.A.5. [...] dub#-ba-kam
+#tr.en: ($fragmentary$)
 #lem: X; dub[tablet]
 #etcsl: line-id=4.A.5
 
 4.A.6. [...] X X DI
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=4.A.6
 
 4.A.7. [...]-bi
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=4.A.7
 
 4.A.8. [...] DI#
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=4.A.8
 
 4.A.9. si-mu-ur#-[ru-um i₃-dab₅] bad₃-bi [nu-un-gul]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.31]{6.1.03.31}, @xref[t.6.1.09,t.6.1.09.b1]{6.1.09.b1}, @xref[t.6.1.11,t.6.1.11.18]{6.1.11.18}, @xref[t.6.1.15,t.6.1.15.b8]{6.1.15.b8}, @xref[t.6.1.25,t.6.1.25.4]{6.1.25.4}} He captured @wSN{Simurrum} but did not destroy its walls.
 #lem: Simurrum[1]SN; dab[seize]; bad[wall]; gul[destroy]
 #etcsl: line-id=4.A.9
 
 #etcsl#cf cf. 6.1.03.31, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.1.25.4
 
 4.A.10. e₂-an-na [i₃-du₃] u₃-mu-un#-[šub]
+#tr.en: He built @wTN{E-ana} but then abandoned it.
 #lem: Eanak[1]TN; du[build]; šub[fall]
 #etcsl: line-id=4.A.10
 
 4.A.11. nam-lugal! [kalag-ga] igi nu-mu-ni-[du₈]
+#tr.en: He did not see mighty kingship.
 #lem: namlugal[kingship]; kalag[strong]; igi[eye]; du[spread]
 #etcsl: line-id=4.A.11
 
 4.A.12. ur₅ na-an-na# [šag₄ sig-ga] kur-ra ba-ra#-[an-de₆]
+#tr.en: Thus @wRN{Nanni} was carried off to the nether world despondent.
 #lem: ur[that]; Nanni[1]RN; šag[heart]; sig[weak]; kur[mountain(s)]; de[carry]
 #etcsl: line-id=4.A.12
 
@@ -544,30 +561,37 @@ $ (unknown no. of lines missing)
 @div segment B
 
 4.B.1. X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=4.B.1
 
 4.B.2. [...] GIM# [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=4.B.2
 
 4.B.3. [X X] GAN [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=4.B.3
 
 4.B.4. A X KA [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=4.B.4
 
 4.B.5. gabu₂-ba im-[...]
+#tr.en: ($fragmentary$)
 #lem: gab[left (hand)]; X
 #etcsl: line-id=4.B.5
 
 4.B.6. ar₂-ar₂-e lu₂ [...]
+#tr.en: …… someone …… the mounds.
 #lem: ar[ruin]; lu[person]; X
 #etcsl: line-id=4.B.6
 
 4.B.7. a-na-aš-am₃ saŋ X [...]
+#tr.en: Why ……?
 #lem: anaš[why?]; saŋ[head]; X; X
 #etcsl: line-id=4.B.7
 
@@ -577,14 +601,17 @@ $ (unknown no. of lines missing)
 @div segment C
 
 4.C.1. [...] SU
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=4.C.1
 
 4.C.2. [...] X-SU-SU
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=4.C.2
 
 4.C.3. [...] X
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=4.C.3
 
@@ -597,40 +624,49 @@ $ (unknown no. of lines missing)
 @div segment A
 
 5.A.1. [...] X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=5.A.1
 
 5.A.2. [...] X ŊA₂ [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=5.A.2
 
 5.A.3. [...]-kam NA [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=5.A.3
 
 5.A.4. [...] X IG [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=5.A.4
 
 5.A.5. [...] maš₂ šu [...]
+#tr.en: ($fragmentary$)
 #lem: X; maš[goat]; šu[hand]; X
 #etcsl: line-id=5.A.5
 
 5.A.6. [...] X GA! AM₃ [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=5.A.6
 
 5.A.7. [...] X šu gid₂! [...]
+#tr.en: @note{cf. @xref[t.6.1.13,t.6.1.13.27]{6.1.13.27}} ……
 #lem: X; X; šu[hand]; gid[long]; X
 #etcsl: line-id=5.A.7
 
 #etcsl#cf cf. 6.1.13.27
 
 5.A.8. [...] 1/3 X [...]
+#tr.en: accept …… one-third …….
 #lem: X; n; X; X
 #etcsl: line-id=5.A.8
 
 5.A.9. [...] X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=5.A.9
 
@@ -640,28 +676,34 @@ $ (unknown no. of lines missing)
 @div segment B
 
 5.B.1. [...] lu₂# nu-[...]
+#tr.en: …… no-one …….
 #lem: X; lu[person]; X
 #etcsl: line-id=5.B.1
 
 5.B.2. [...] lu₂# nu-me-en
+#tr.en: @note{cf. @xref[t.6.1.01,t.6.1.01.95]{6.1.01.95}} …… you are not a man.
 #lem: X; lu[person]; me[be]
 #etcsl: line-id=5.B.2
 
 #etcsl#cf cf. 6.1.01.95
 
 5.B.3. [...] TUR X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=5.B.3
 
 5.B.4. [...] X DU [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=5.B.4
 
 5.B.5. [...] X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=5.B.5
 
 5.B.6. [...] X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=5.B.6
 
@@ -674,30 +716,37 @@ $ (unknown no. of lines missing)
 @div segment A
 
 6.A.1. [...] DA SA [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=6.A.1
 
 6.A.2. [...] GA NAM nu-[...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=6.A.2
 
 6.A.3. [...] mu#-na-ab-kiŋ₂
+#tr.en: …… seek out …….
 #lem: X; kiŋ[seek]
 #etcsl: line-id=6.A.3
 
 6.A.4. [...] X gi₄-gi₄-da-ni
+#tr.en: On his returning …….
 #lem: X; X; gi[turn]
 #etcsl: line-id=6.A.4
 
 6.A.5. [...]-gin₇ e₂-a-na! ba-ra-an-gi
+#tr.en: Like a …… he won't return to his house.
 #lem: X; e[house]; gi[turn]
 #etcsl: line-id=6.A.5
 
 6.A.6. [...] lu₂# gaba-ŋal₂
+#tr.en: …… a strong man.
 #lem: X; lu[person]; gabaŋal[forceful]
 #etcsl: line-id=6.A.6
 
 6.A.7. [...] X šu im-ma-ab-gur
+#tr.en: …… he rolled …….
 #lem: X; X; šu[hand]; gur[turn]
 #etcsl: line-id=6.A.7
 
@@ -707,26 +756,32 @@ $ (unknown no. of lines missing)
 @div segment B
 
 6.B.1. [...] im-ma-an-kud [X X]
+#tr.en: …… cut
 #lem: X; kud[cut]; X; X
 #etcsl: line-id=6.B.1
 
 6.B.2. [...]-an-tur₅-tur₅-de₃-en
+#tr.en: it …… you will be ill.
 #lem: tur[ill]
 #etcsl: line-id=6.B.2
 
 6.B.3. [...] im-sam₂#
+#tr.en: …… bought …….
 #lem: X; sa[pay for]
 #etcsl: line-id=6.B.3
 
 6.B.4. [...] X ug₅
+#tr.en: …… dead …….
 #lem: X; X; ug[kill]
 #etcsl: line-id=6.B.4
 
 6.B.5. [...] X ba-an-du₈
+#tr.en: …… open ……
 #lem: X; X; du[spread]
 #etcsl: line-id=6.B.5
 
 6.B.6. [...] X
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=6.B.6
 
@@ -739,28 +794,33 @@ $ (unknown no. of lines missing)
 @div segment A
 
 7.A.1. [me-bi na-ab-ta-ab-ha-lam]-me-en-ze₂#-[en]
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.1]{6.1.02.1}, @xref[t.6.1.07,t.6.1.07.1]{6.1.07.1}, @xref[t.6.2.3,]{6.2.3: UET 6/2 356 ll. 3-8}} You should not eradicate their place in the universe.
 #lem: me[Being]; halam[forsake]
 #etcsl: line-id=7.A.1
 
 #etcsl#cf cf. 6.1.02.1, 6.1.07.1, 6.2.3: UET 6/2 356 ll. 3-8
 
 7.A.2. [gud-de₃] ki-gub-bi na-ab#-[ta-ab-kur₂-ru]-de₃-en-ze₂#-[en]
+#tr.en: You should not move the oxen from their places!
 #lem: gud[bull]; kigub[station]; kur[different]
 #etcsl: line-id=7.A.2
 
 7.A.3. [gud] DU#-a {ŋiš#}tukul a-ab-am₃#
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.83]{6.1.02.83}} An ox is walking around (?); a mace is …….
 #lem: gud[bull]; X; tukul[weapon]; aʾabak[sea]
 #etcsl: line-id=7.A.3
 
 #etcsl#cf cf. 6.1.02.83
 
 7.A.4. [a-a] igi# i-ni-bar nam-tar-ŋu₁₀ ba-[dib-ba]
+#tr.en: @note{cf. @xref[t.6.1.02,t.6.1.02.4]{6.1.02.4}} I looked into the water. My destiny was drifting past.
 #lem: a[water]; igi[eye]; bar[place outside]; namtar[fate]; dib[pass]
 #etcsl: line-id=7.A.4
 
 #etcsl#cf cf. 6.1.02.4
 
 7.A.5. [X X] X X A X X [X X]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X
 #etcsl: line-id=7.A.5
 
@@ -770,24 +830,29 @@ $ (unknown no. of lines missing)
 @div segment B
 
 7.B.1. [...] X-še₃
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=7.B.1
 
 7.B.2. [...]-e#-a
+#tr.en: ($fragmentary$)
 #lem: X
 #etcsl: line-id=7.B.2
 
 7.B.3. [...]-ke₄#-eš
+#tr.en: @note{cf. @xref[t.6.1.02,]{N 4248 Seg. A ll. 8-13}, @xref[t.6.1.09,t.6.1.09.d4]{6.1.09.d4}, @xref[t.6.2.3,]{6.2.3: UET 6/2 315 ll. 10-13}} …… because of …….
 #lem: X
 #etcsl: line-id=7.B.3
 
 #etcsl#cf cf. N 4248 Seg. A ll. 8-13, 6.1.09.d4, 6.2.3: UET 6/2 315 ll. 10-13
 
 7.B.4. [...]-X-ke₄-eš
+#tr.en: …… because
 #lem: X
 #etcsl: line-id=7.B.4
 
 7.B.5. [ŋe₂₆-e] ba#-am₃-til₃-la
+#tr.en: of …… I am finished.
 #lem: ŋaʾe[I]; til[complete]
 #etcsl: line-id=7.B.5
 
@@ -797,16 +862,19 @@ $ (unknown no. of lines missing)
 @div segment C
 
 7.C.1. e₂-{[na₄]}[kinkin-na du₁₄ he₂-en-ŋal₂]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.42]{6.1.03.42}, @xref[t.6.1.22,]{6.1.22: ll. 278-279}, @xref[t.6.2.5,]{6.2.5: YBC 8713 l. 7}} If there is a
 #lem: ekinkin[mill]; dud[combat]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=7.C.1
 
 #etcsl#cf cf. 6.1.03.42, 6.1.22: ll. 278-279, 6.2.5: YBC 8713 l. 7
 
 7.C.2. geme₂ [niŋ₂ zuh-a]
+#tr.en: dispute at the mill,
 #lem: geme[female worker]; niŋ[thing]; zuh[steal]
 #etcsl: line-id=7.C.2
 
 7.C.3. he₂#-[em-ma-ab-ed₃-de₃]
+#tr.en: a slave girl reveals (?) what she has stolen.
 #lem: ed[go up]
 #etcsl: line-id=7.C.3
 
@@ -819,18 +887,22 @@ $ (unknown no. of lines missing)
 @div segment A
 
 8.A.1. [...]-ba-ŋu₁₀
+#tr.en: …… my …….
 #lem: X
 #etcsl: line-id=8.A.1
 
 8.A.2. [...] he₂#-a
+#tr.en: Let there be …….
 #lem: X; me[be]
 #etcsl: line-id=8.A.2
 
 8.A.3. [...] šag₄-ŋu₁₀
+#tr.en: …… my heart.
 #lem: X; šag[heart]
 #etcsl: line-id=8.A.3
 
 8.A.4. [...] X BU
+#tr.en: ($fragmentary$)
 #lem: X; X; X
 #etcsl: line-id=8.A.4
 
@@ -840,32 +912,39 @@ $ (unknown no. of lines missing)
 @div segment B
 
 8.B.1. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=8.B.1
 
 8.B.2. ŋiri₃ [...]
+#tr.en: ($fragmentary$)
 #lem: ŋiri[foot]; X
 #etcsl: line-id=8.B.2
 
 8.B.3. pad₃! IM [...]
+#tr.en: ($fragmentary$)
 #lem: pad[find]; X; X
 #etcsl: line-id=8.B.3
 
 8.B.4. LUM TE X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=8.B.4
 
 8.B.5. šu-si bi₂#-[...]
+#tr.en: @note{cf. @xref[t.6.1.03,t.6.1.03.45]{6.1.03.45}, @xref[t.6.1.07,t.6.1.07.43]{6.1.07.43}} …… finger.
 #lem: šusi[finger]; X
 #etcsl: line-id=8.B.5
 
 #etcsl#cf cf. 6.1.03.45, 6.1.07.43
 
 8.B.6. {na₄}kinkin bur₁₂#-[ra-gin₇]
+#tr.en: You are forever pushing like a
 #lem: kinkin[small millstone]; bur[tear out]
 #etcsl: line-id=8.B.6
 
 8.B.7. al#-[du₇-du₇-du₇-de₃-en]
+#tr.en: millstone torn out of its joint.
 #lem: du[push]
 #etcsl: line-id=8.B.7
 
@@ -876,26 +955,32 @@ $ (unknown no. of lines missing)
 @div version 9 (N 6119 (Alster 1997 p. 292) and N 4047 (Veldhuis 2000c fig. 8))
 
 9.1. [...] al#-gu₇ X X
+#tr.en: ($fragmentary$)
 #lem: X; gu[eat]; X; X
 #etcsl: line-id=9.1
 
 9.2. [...] X A saŋ a-tar-zu nam-ŋu₁₀
+#tr.en: What is …… your mockery to me?
 #lem: X; X; X; saŋ[head]; attar[derision]; anam[what]
 #etcsl: line-id=9.2
 
 9.3. X niŋ₂-kas₇-ŋu₁₀
+#tr.en: …… whatever he
 #lem: X; niŋkas[account]
 #etcsl: line-id=9.3
 
 9.4. [X X]-ab#-ak-e-še
+#tr.en: will do …… to my accounts.
 #lem: X; ak[do]
 #etcsl: line-id=9.4
 
 9.5. ud-da-tuš-a# ga-na 1(DIŠ)-am₃
+#tr.en: Come on, clown!
 #lem: uddatuš[jester]; gana[come on!]; n
 #etcsl: line-id=9.5
 
 9.6. dug₄-ga-ab šu (1:ku₄-ku₄-ba:1) ib₂-ŋu₁₀
+#tr.en: Just for once, say: @q{“…… my hips are heavier than 50 @fsux{mana} weight.”}
 #lem: dug[speak]; šu[hand]; kur[enter]; ib[hips]
 #etcsl: line-id=9.6
 

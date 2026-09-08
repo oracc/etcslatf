@@ -51,43 +51,42 @@ $ (unknown no. of lines missing)
 @div segment B
 
 B.1. an lugal# [...]
+#tr.en: @wDN{An} the king …….
 #lem: an[sky]; lugal[king]; X
 #etcsl: line-id=B.1
 
 B.2. u₃-sumun₂ zid# [...]
-?#tr.en: @wDN{An} the king …….
-?#tr.en: Vigorous wild cow, …….
-?#tr.en: Life and living …….
-?#tr.en: Mankind …….
-?#tr.en: The established first-fruit offerings …….
-?#tr.en: Pleasing the spirit and …… the heart, …….
-?#tr.en: Living and a long life …….
-?#tr.en: In the house where beer is poured out, …… the oil of cedars …….
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: Vigorous wild cow, …….
 #lem: sumun[wild cow]; zid[right]; X
 #etcsl: line-id=B.2
 
 B.3. zi nam-til₃# [...]
+#tr.en: Life and living …….
 #lem: zi[life]; namtil[life]; X
 #etcsl: line-id=B.3
 
 B.4. lu₂-ulu₃-bi [...]
+#tr.en: Mankind …….
 #lem: lulu[man]; X
 #etcsl: line-id=B.4
 
 B.5. ne-saŋ ŋar-ra [...]
+#tr.en: The established first-fruit offerings …….
 #lem: nesaŋ[first-fruit offering]; ŋar[put]; X
 #etcsl: line-id=B.5
 
 B.6. ur₅ sag₉-ge šag₄ [...]
+#tr.en: Pleasing the spirit and …… the heart, …….
 #lem: ur[liver]; sag[good]; šag[heart]; X
 #etcsl: line-id=B.6
 
 B.7. nam-til₃ zi sud# [...]
+#tr.en: Living and a long life …….
 #lem: namtil[life]; zi[life]; sud[distant]; X
 #etcsl: line-id=B.7
 
 B.8. e₂ kaš de₂-a A [...] i₃ {ŋiš}erin-na# [...]
+#tr.en: In the house where beer is poured out, …… the oil of cedars …….
 #lem: e[house]; kaš[beer]; de[pour]; X; X; i[oil]; eren[cedar]; X
 #etcsl: line-id=B.8
 
@@ -97,18 +96,17 @@ $ (unknown no. of lines missing)
 @div segment C
 
 C.1. {dug}šakir₃ [...]
+#tr.en: The churn (?) …….
 #lem: šakir[churn]; X
 #etcsl: line-id=C.1
 
 C.2. nun gal {d}en-[ki ...] X [...]
-?#tr.en: The churn (?) …….
-?#tr.en: The great prince @wDN{Enki} …….
-?#tr.en: The house (?) …….
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: The great prince @wDN{Enki} …….
 #lem: nun[prince]; gal[big]; Enkik[1]DN; X; X; X
 #etcsl: line-id=C.2
 
 C.3. e₂# [...]
+#tr.en: The house (?) …….
 #lem: e[house]; X
 #etcsl: line-id=C.3
 
@@ -118,28 +116,34 @@ $ (unknown no. of lines missing)
 @div segment D
 
 D.1. abzu# me-bi X [...]
+#tr.en: The divine powers of the @fsux{abzu} …….
 #lem: abzu[(cosmic) underground water]; me[Being]; X; X
 #etcsl: line-id=D.1
 
 D.2. X sag₉-ga lu₂# [...]
+#tr.en: The good …….
 #lem: X; sag[good]; lu[person]; X
 #etcsl: line-id=D.2
 
 D.3. saŋ il₂ nam-nin-a za₃-mi₂-zu X
+#tr.en: Outstanding among ladies, your praise …….
 #lem: saŋ[head]; il[raise]; namnin[ladyship]; zamin[praise]; X
 #etcsl: line-id=D.3
 
 D.4. eridug{ki} kur he₂-ŋal₂-la-zu dam-bi nu-til-e
+#tr.en: You never cease being the wife of your @wSN{Eridug}, the mountain of abundance.
 #lem: Eridug[1]SN; kur[mountain(s)]; heŋal[plenty]; dam[spouse]; til[complete]
 #etcsl: line-id=D.4
 
 D.5. diŋir gal#-gal-e-ne u₃-tud-bi he₂-a diŋir-bi he₂-em
+#tr.en: She is the birth-giver of the great gods, she is their goddess.
 #lem: diŋir[deity]; gal[big]; utud[give birth (to)]; me[be]; diŋir[deity]; me[be]
 #etcsl: line-id=D.5
 
 @div trailer 
 
 D.6. šir₃-šag₄-hul₂-la {d}dam-gal-nun#-[na-kam]
+#tr.en: A @fsux{šir-šagḫula} of @wDN{Damgalnuna}.
 #lem: širšaghulak[subscript]; Damgalnunak[1]DN
 #etcsl: line-id=D.6
 

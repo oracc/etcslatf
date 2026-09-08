@@ -50,42 +50,42 @@
 #lem: Lugalšu[1]PN
 
 1.8. šul-a-lum nu-zu-ŋu₁₀ saŋ-ki ba-gid₂
+#tr.en: A punishment which I do not understand has
 #lem: šulalum[punishment]; zu[know]; saŋki[forehead]; gid[long]
 #etcsl: line-id=1.8
 
 1.9. til₄ ak-ŋu₁₀ mu-e-pad₃
-?#tr.en: A punishment which I do not understand has
-?#tr.en: ravaged me and I have wailed my lamenting.
-?#tr.en: In a strange city I moan like a dove and receive no mercy.
-?#tr.en: I am constantly restless like a dog which
-?#tr.en: does not know where to settle down.
-?#tr.en: I am watchful like a bird which has flown from the claws of a falcon.
-?#tr.en: My exuberance has perished in blight like a garden that has not been @varh[t3303.1.v5]{watered
-?#tr.en: } @vart[t3303.1.v6,t3303.1.v5]{@varn{1 ms. has instead:} tended } . Envy within my king's palace overwhelms me and a bad reputation besets me.
+#tr.en: ravaged me and I have wailed my lamenting.
 #lem: tal[cry]; ak[do]; pad[find]
 #etcsl: line-id=1.9
 
 1.10. iri kur₂-ra tum₁₂{mušen}-gin₇ še mi-in-ša₄
+#tr.en: In a strange city I moan like a dove and receive no mercy.
 #lem: iri[city]; kur[different]; tum[wild dove]; šeg[voice]; ša[cvve]
 #etcsl: line-id=1.10
 
 1.11. šag₄-ne-ša₄ la-ba-an-tuku
+#tr.en: I am constantly restless like a dog which
 #lem: šaneša[supplication]; tuku[acquire]
 #etcsl: line-id=1.11
 
 1.12. ur-gin₇ ki gam-ma nu-zu šu dag-dag-ge ba-si
+#tr.en: does not know where to settle down.
 #lem: ur[dog]; ki[place]; gurum[bend]; zu[know]; šu[hand]; dag[roam around]; si[fill]
 #etcsl: line-id=1.12
 
 1.13. mušen šu sur₂-du₃{mušen}-ta dal-a-gin₇ ur₅-da i₃-ak-en
+#tr.en: I am watchful like a bird which has flown from the claws of a falcon.
 #lem: mušen[bird]; šu[hand]; surdu[falcon]; dal[fly]; ur[liver]; ak[do]
 #etcsl: line-id=1.13
 
 1.14. {ŋiš}kiri₆ (1:a:1) nu-dug₄-ga-gin₇ asil₃-la₂-ŋu₁₀ hab₂-ba ba-an-ug₅
+#tr.en: My exuberance has perished in blight like a garden that has not been @varh[t3303.1.v5]{watered
 #lem: kiri[(fruit) plantation]; a[water]; dug[speak]; asilala[joy]; hab[malodorous]; ug[kill]
 #etcsl: line-id=1.14
 
 :14v.1.1: ($1 ms. has instead:$) šu#-ta
+?#tr.en: } @vart[t3303.1.v6,t3303.1.v5]{@varn{1 ms. has instead:} tended } . Envy within my king's palace overwhelms me and a bad reputation besets me.
 #lem: šu[hand]
 
 1.15. igi la₂ e₂ lugal-ŋa₂-ke₄ ib₂-sig₉-ge inim-ŋar gig ma-la₂
@@ -93,12 +93,16 @@
 #etcsl: line-id=1.15
 
 1.16. zarah-e X X X X [...]
+#tr.en: Grief …….
 #lem: zarah[wailing]; X; X; X; X; X
 #etcsl: line-id=1.16
 
 1.17. (1:u₃#-u₈:1) LA X [...] X NA# ha-mu-[...]
-?#tr.en: Grief …….
-?#tr.en: Woe …….
+#tr.en: Woe …….
+#lem: ua[oh!]; X; X; X; X; X; X
+#etcsl: line-id=1.17
+
+:17v.1.1: ($1 ms. has instead:$) u₈-a-e
 ?#tr.en: Like an ox I am overwhelmed,
 ?#tr.en: …… my fodder.
 ?#tr.en: My descendants and offspring are on good
@@ -113,10 +117,6 @@
 ?#tr.en: My brother,
 ?#tr.en: although not an enemy,
 ?#tr.en: …… contemptuously.
-#lem: ua[oh!]; X; X; X; X; X; X
-#etcsl: line-id=1.17
-
-:17v.1.1: ($1 ms. has instead:$) u₈-a-e
 #lem: ua[oh!]
 
 1.18. gud-gin₇ mur-ŋa₂ eme ZU ŊA₂# [...] šu ša-an-ša-[...]
@@ -156,12 +156,12 @@ $ (approx. 6 lines missing)
 #etcsl: line-id=1.31
 
 1.32. lugal KA NE# [...]
+#tr.en: The king ……,
 #lem: lugal[king]; X; X; X
 #etcsl: line-id=1.32
 
 1.33. {d}utu-gin₇ X X X GA [...]
-?#tr.en: The king ……,
-?#tr.en: …… like @wDN{Utu}.
+#tr.en: …… like @wDN{Utu}.
 #lem: Utu[1]DN; X; X; X; X; X
 #etcsl: line-id=1.33
 
@@ -175,15 +175,6 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=2.1
 
 2.2. {ŋiš}kiri₆ a dug₄-ga-gin₇ X [...]
-?#tr.en: …… a bird …… the claws of a falcon.
-?#tr.en: …… like a garden which has been watered.
-?#tr.en: Envy within my king's palace overwhelms me and …….
-?#tr.en: Grief …….
-?#tr.en: Woe …….
-?#tr.en: Like an ox I am overwhelmed, like …… my fodder.
-?#tr.en: My descendants and offspring are worried in their nests.
-?#tr.en: Like a distant …… from the …… high plains where the winds blow, …… the mill.
-?#tr.en: I will not experience being buried as befits the dead but …… ground like grain.
 #lem: kiri[(fruit) plantation]; a[water]; dug[speak]; X; X
 #etcsl: line-id=2.2
 

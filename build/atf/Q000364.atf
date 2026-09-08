@@ -362,57 +362,61 @@
 #etcsl: line-id=1.69
 
 1.70. ud-bi-a %e mu %s di-ta-am₃ {ŋiš}ha-lu-ub₂ di-ta ŊIŠ TUG₂ di-ta-am₃
+#tr.en: @q{“At that time, there was a single tree,
 #lem: ud[sun]; mu[tree]N; n; halub[tree]; n; X; X; n
 #etcsl: line-id=1.70
 
 1.71. gu₂ {id₂}buranun-na kug-ga-ka du₃-a-ba
-?#tr.en: @q{“At that time, there was a single tree,
-?#tr.en: a single @fsux{ḫalub} tree, a single tree (?),
-?#tr.en: growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}.
-?#tr.en: The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away.
-?#tr.en: I, a woman,
-?#tr.en: respectful of @wDN{An's} words, was walking along;
-?#tr.en: I, a woman,
-?#tr.en: respectful of @wDN{Enlil's} words, was walking along,
-?#tr.en: and took the tree and brought it into @wSN{Unug}, into holy @wDN{Inana's} luxuriant garden.”}
+#tr.en: a single @fsux{ḫalub} tree, a single tree (?),
 #lem: gu[neck]; Buranun[1 Euphrates]; kug[pure]; du[build]
 #etcsl: line-id=1.71
 
 1.72. {id₂}buranun-na a na₈-na₈-da-bi
+#tr.en: growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}.
 #lem: Buranun[1 Euphrates]; a[water]; naŋ[drink]
 #etcsl: line-id=1.72
 
 1.73. a₂ {tum₉}u₁₈-lu ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-ni-in-suh
+#tr.en: The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away.
 #lem: a[arm]; ulu[south wind]; ur[root]; bur[tear out]; pa[branch]; suh[extract]
 #etcsl: line-id=1.73
 
 1.74. {id₂}buranun-na a im-ma-ni-ib-ra
+#tr.en: I, a woman,
 #lem: Buranun[1 Euphrates]; a[water]; rah[beat]
 #etcsl: line-id=1.74
 
 1.75. %e nu-nus e-ne-eŋ₃ %s an-na-ta ni₂ te-a du
+#tr.en: respectful of @wDN{An's} words, was walking along;
 #lem: nunus[woman]N; eneŋ[word]N; An[1]DN; ni[fear]; teŋ[approach]; ŋen[go]
 #etcsl: line-id=1.75
 
 1.76. %e e-ne-eŋ₃ %s  %e  {d}mu-ul-lil₂-la₂-ta  %s  ni₂ te-a du
+#tr.en: I, a woman,
 #lem: eneŋ[word]N; Mullil[1]DN; ni[fear]; teŋ[approach]; ŋen[go]
 #etcsl: line-id=1.76
 
 1.77. %e mu %s šu-ŋa₂ mu-un-dab₅ unug{ki}-še₃ ba-ni-in-kur₉
+#tr.en: respectful of @wDN{Enlil's} words, was walking along,
 #lem: mu[tree]N; šu[hand]; dab[seize]; Unug[1]SN; kur[enter]
 #etcsl: line-id=1.77
 
 1.78. {ŋiš}kiri₆ gi-rin kug %e ga-ša-an-na-še₃ %s im-ma-ni-in-ku₄-ku₄
+#tr.en: and took the tree and brought it into @wSN{Unug}, into holy @wDN{Inana's} luxuriant garden.”}
 #lem: kiri[(fruit) plantation]; girim[flower]; kug[purify]; Gašanana[1]DN; kur[enter]
 #etcsl: line-id=1.78
 
 1.79. %e nu-nus-ŋen mu %s šu-ŋa₂!(NA) li-bi₂-in-du %e me-ri-ŋu₁₀-ta %s bi₂-in-du
+#tr.en: @q{“I, the woman, planted the tree with my feet, but not with my hands.
 #lem: nunus[woman]N; mu[tree]N; šu[hand]; du[build]; meri[foot]N; du[build]
 #etcsl: line-id=1.79
 
 1.80. %e (1:{d}ga-[ša-an]-na-ŋen:1) %e mu %s šu-ŋa₂ a li-bi₂-in-de₂ %e me-ri-ŋu₁₀-ta %s a bi₂-du
-?#tr.en: @q{“I, the woman, planted the tree with my feet, but not with my hands.
-?#tr.en: I, @varh[t1814.v1]{@wDN{Inana} } @vart[t1814.v2,t1814.v1]{@varn{1 ms. has instead:} the woman }, watered it using my feet but not my hands.
+#tr.en: I, @varh[t1814.v1]{@wDN{Inana} } @vart[t1814.v2,t1814.v1]{@varn{1 ms. has instead:} the woman }, watered it using my feet but not my hands.
+#lem: Gašanana[1]DN; mu[tree]N; šu[hand]; a[water]; de[pour]; meri[foot]N; a[water]; dug[speak]
+#etcsl: line-id=1.80
+
+:80v.1.1: ($1 ms. has instead:$) %e nu-nus-ŋen
 ?#tr.en: She said:
 ?#tr.en: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”}
 ?#tr.en: She said:
@@ -423,10 +427,6 @@
 ?#tr.en: the phantom maid built herself a dwelling, the maid who laughs with a joyful heart.
 ?#tr.en: But holy @wDN{Inana} cried!”} Her brother, the young warrior @wDN{Utu}, however,
 ?#tr.en: did not stand by her in the matter.
-#lem: Gašanana[1]DN; mu[tree]N; šu[hand]; a[water]; de[pour]; meri[foot]N; a[water]; dug[speak]
-#etcsl: line-id=1.80
-
-:80v.1.1: ($1 ms. has instead:$) %e nu-nus-ŋen
 #lem: nunus[woman]
 
 1.81. me-na-am₃ {ŋiš}gu-za gi-rin ba-ni-tuš-u₃-de₃-en bi₂-in-dug₄
@@ -470,223 +470,223 @@
 #etcsl: line-id=1.90
 
 1.91. ud zal-le#-da an-ur₂ zalag-ge-de₃
+#tr.en: When dawn was breaking,
 #lem: ud[sun]; zal[pass time]; anur[horizon]; zalag[bright]
 #etcsl: line-id=1.91
 
 1.92. mušen buru₅{mušen} ud zal-le šeg₁₀ gi₄-gi₄-da
-?#tr.en: When dawn was breaking,
-?#tr.en: when the horizon became bright,
-?#tr.en: when the little birds,
-?#tr.en: at the break of dawn,
-?#tr.en: began to clamour,
-?#tr.en: when @wDN{Utu} had left his bedchamber,
-?#tr.en: his sister holy @wDN{Inana} said to the warrior @wDN{Gilgameš}:
-?#tr.en: @q[Inana,Gilgamec]{“My brother,
-?#tr.en: in those days when destiny was determined,
-?#tr.en: when abundance overflowed in the Land,
-?#tr.en: when @wDN{An} had taken the heavens for himself,
-?#tr.en: when @wDN{Enlil} had taken the earth for himself,
-?#tr.en: when the nether world had been given to @wDN{Ereškigala} as a gift;
-?#tr.en: when he set sail,
-?#tr.en: when he set sail,
-?#tr.en: when the father set sail for the nether world,
-?#tr.en: when @wDN{Enki} set sail for the nether world -- against the lord a storm of small hailstones arose,
-?#tr.en: against @wDN{Enki} a storm of large hailstones arose.
-?#tr.en: The small ones were light hammers,
-?#tr.en: the large ones were like stones from catapults (?).
-?#tr.en: The keel of @wDN{Enki's} little boat was trembling as if it were being butted by turtles,
-?#tr.en: the waves at the bow of the boat rose to devour the lord like wolves
-?#tr.en: and the waves at the stern of the boat were attacking @wDN{Enki} like a lion.”}
+#tr.en: when the horizon became bright,
 #lem: mušen[bird]; buru[sparrow]; ud[sun]; zal[pass time]; šeg[voice]; gi[turn]
 #etcsl: line-id=1.92
 
 1.93. {d}utu agrun#-ta e₃-a-ni
+#tr.en: when the little birds,
 #lem: Utu[1]DN; agrun[cella]; e[leave]
 #etcsl: line-id=1.93
 
 1.94. nin₉-a-ni kug {d}inana-ke₄
+#tr.en: at the break of dawn,
 #lem: nin[sister]; kug[purify]; Inanak[1]DN
 #etcsl: line-id=1.94
 
 1.95. ur-saŋ {d}gilgameš₂ gu₃ mu-na-[de₂-e]
+#tr.en: began to clamour,
 #lem: ursaŋ[warrior]; Gilgameš[1]DN; gu[voice]; de[pour]
 #etcsl: line-id=1.95
 
 1.96. šeš-ŋu₁₀ ud re-a %e na-aŋ₂ %s ba-tar-ra-a-[ba]
+#tr.en: when @wDN{Utu} had left his bedchamber,
 #lem: šeš[brother]; ud[sun]; re[that]; naŋ[fate]N; tar[cut]
 #etcsl: line-id=1.96
 
 1.97. ud %e [he₂-ma-al-la] ka-na-aŋ₂ %s ba-e-zal-la re
+#tr.en: his sister holy @wDN{Inana} said to the warrior @wDN{Gilgameš}:
 #lem: ud[sun]; hemal[plenty]N; kanaŋ[land]N; zal[pass time]; re[that]
 #etcsl: line-id=1.97
 
 1.98. [ud an-ne₂ an %e ba-an]-ir-ra-a-ba
+#tr.en: @q[Inana,Gilgamec]{“My brother,
 #lem: ud[sun]; An[1]DN; an[sky]; ir[bring]
 #etcsl: line-id=1.98
 
 1.99.  %e  {[d]}[mu-ul-lil₂-le  %s  ki %e ba]-an-ir-ra-a-ba
+#tr.en: in those days when destiny was determined,
 #lem: Mullil[1]DN; ki[place]; ir[bring]
 #etcsl: line-id=1.99
 
 1.100.  %e  {[d]}[ga-ša-an-ki-gal-la-ra]  %s  kur-ra saŋ rig₇-ga-še₃ im-ma-ab-rig₇-ga-a-ba
+#tr.en: when abundance overflowed in the Land,
 #lem: Gašankigal[1]DN; kur[mountain(s)]; saŋ[head]; rig[donate]; rig[donate]
 #etcsl: line-id=1.100
 
 1.101. ba-u₅-a-ba ba-u₅-a-ba
+#tr.en: when @wDN{An} had taken the heavens for himself,
 #lem: u[ride]; u[ride]
 #etcsl: line-id=1.101
 
 1.102. a-a kur-še₃ ba-u₅-a-ba
+#tr.en: when @wDN{Enlil} had taken the earth for himself,
 #lem: aya[father]; kur[mountain(s)]; u[ride]
 #etcsl: line-id=1.102
 
 1.103. %e {d}am-an-ki %s kur-še₃ ba-u₅-a-ba
+#tr.en: when the nether world had been given to @wDN{Ereškigala} as a gift;
 #lem: Amanki[]DN; kur[mountain(s)]; u[ride]
 #etcsl: line-id=1.103
 
 1.104. %e u₃-mu-un-ra %s tur-tur ba-an-da-ri
+#tr.en: when he set sail,
 #lem: umun[lord]N; tur[small]; ri[impose]
 #etcsl: line-id=1.104
 
 1.105. %es {d}am-an-ki-ra %eg gal-gal ba-an-da-ri
+#tr.en: when he set sail,
 #lem: Amanki[1]DN; gal[big]; ri[impose]
 #etcsl: line-id=1.105
 
 1.106. tur-tur-bi na₄ šu-kam
+#tr.en: when the father set sail for the nether world,
 #lem: tur[small]; na[stone weight]; šu[hand]
 #etcsl: line-id=1.106
 
 1.107. gal-gal-bi na₄ gi gu₄-ud-da-kam
+#tr.en: when @wDN{Enki} set sail for the nether world -- against the lord a storm of small hailstones arose,
 #lem: gal[big]; na[stone weight]; gi[reed]; gud[jump (on)]
 #etcsl: line-id=1.107
 
 1.108. ur₂ {ŋiš}ma₂ tur-re %es {d}am-an-ki-ka₃-ke₄
+#tr.en: against @wDN{Enki} a storm of large hailstones arose.
 #lem: ur[loin]; ma[ship]; tur[small]; Amanki[1]DN
 #etcsl: line-id=1.108
 
 1.109. %e še-en-bun₂-na %s du₇-am₃ i₃-šu₂-šu₂
+#tr.en: The small ones were light hammers,
 #lem: šenbuna[turtle]N; du[push]; šuš[cover]
 #etcsl: line-id=1.109
 
 1.110. %e u₃-mu-un-ra %s a {ŋiš}ma₂-saŋ-ŋa₂-ke₄
+#tr.en: the large ones were like stones from catapults (?).
 #lem: umun[lord]N; a[water]; masaŋ[prow]
 #etcsl: line-id=1.110
 
 1.111. ur-bar-ra-gin₇ teš₂ mu-un-na-gu₇-e
+#tr.en: The keel of @wDN{Enki's} little boat was trembling as if it were being butted by turtles,
 #lem: urbara[wolf]; teš[unity]; gu[eat]
 #etcsl: line-id=1.111
 
 1.112. %es {d}am-an-ki-ra %eg a {ŋiš}ma₂-egir-ra-ke₄
+#tr.en: the waves at the bow of the boat rose to devour the lord like wolves
 #lem: Amanki[1]DN; a[water]; maʾegir[stern]
 #etcsl: line-id=1.112
 
 1.113. ur-mah-gin₇ saŋ ŋiš im-ra-ra
+#tr.en: and the waves at the stern of the boat were attacking @wDN{Enki} like a lion.”}
 #lem: urmah[lion]; saŋ[head]; ŋeš[tree]; rah[beat]
 #etcsl: line-id=1.113
 
 1.114. ud-bi-a %e mu %s di-ta-am₃ {ŋiš}ha-lu-ub₂ di-ta-am₃ ŊIŠ TUG₂ di-ta-am₃
+#tr.en: @q{“At that time, there was a single tree,
 #lem: ud[sun]; mu[tree]N; n; halub[tree]; n; X; X; n
 #etcsl: line-id=1.114
 
 1.115. gu₂ {id₂}buranun-na kug-ga-ka du₃-[a]-ba
-?#tr.en: @q{“At that time, there was a single tree,
-?#tr.en: a single @fsux{ḫalub} tree, a single tree (?),
-?#tr.en: growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}.
-?#tr.en: The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away.
-?#tr.en: I, a woman,
-?#tr.en: respectful of @wDN{An's} words, was walking along;
-?#tr.en: I, a woman,
-?#tr.en: respectful of @wDN{Enlil's} words, was walking along,
-?#tr.en: and took the tree and brought it into @wSN{Unug}, into @wDN{Inana's} luxuriant garden.”}
+#tr.en: a single @fsux{ḫalub} tree, a single tree (?),
 #lem: gu[neck]; Buranun[1 Euphrates]; kug[pure]; du[build]
 #etcsl: line-id=1.115
 
 1.116. {id₂}buranun-na a na₈-na₈-da-bi
+#tr.en: growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}.
 #lem: Buranun[1 Euphrates]; a[water]; naŋ[drink]
 #etcsl: line-id=1.116
 
 1.117. a₂ {tum₉}u₁₈-lu ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-un-ni-in-suh
+#tr.en: The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away.
 #lem: a[arm]; ulu[south wind]; ur[root]; bur[tear out]; pa[branch]; suh[extract]
 #etcsl: line-id=1.117
 
 1.118. {id₂}buranun-na a im-ma-ni-ib-ra
+#tr.en: I, a woman,
 #lem: Buranun[1 Euphrates]; a[water]; rah[beat]
 #etcsl: line-id=1.118
 
 1.119. %e nu-nus-e e-ne-eŋ₃ %s an-na-ta ni₂ te-a du
+#tr.en: respectful of @wDN{An's} words, was walking along;
 #lem: nunus[woman]N; eneŋ[word]N; An[1]DN; ni[fear]; teŋ[approach]; ŋen[go]
 #etcsl: line-id=1.119
 
 1.120. %e e-ne-eŋ₃ %s  %e  {d}mu-ul-lil₂-la₂-ta  %s  ni₂ te-a du
+#tr.en: I, a woman,
 #lem: eneŋ[word]N; Mullil[1]DN; ni[fear]; teŋ[approach]; ŋen[go]
 #etcsl: line-id=1.120
 
 1.121. %e mu %s šu-ŋa₂ mu-un-dab₅ unug{ki}-še₃ ba-an-ni-kur₉
+#tr.en: respectful of @wDN{Enlil's} words, was walking along,
 #lem: mu[tree]N; šu[hand]; dab[seize]; Unug[1]SN; kur[enter]
 #etcsl: line-id=1.121
 
 1.122. {ŋiš}kiri₆ gi-rin %e ga-ša-an-an-na-še₃ %s im-ma-ni-in-ku₄-<ku₄>-re
+#tr.en: and took the tree and brought it into @wSN{Unug}, into @wDN{Inana's} luxuriant garden.”}
 #lem: kiri[(fruit) plantation]; girim[flower]; Gašanana[1]DN; kur[enter]
 #etcsl: line-id=1.122
 
 1.123. %e nu-nus-e mu %s šu-na li-bi₂-dug₄ ŋiri₃-ni-ta bi₂-in-du
+#tr.en: @q{“The woman planted the tree with her feet, but not with her hands.
 #lem: nunus[woman]N; mu[tree]N; šu[hand]; du[build]; ŋiri[foot]; du[build]
 #etcsl: line-id=1.123
 
 1.124. %e {d}[ga]-ša-an-na-ke₄ %e mu %s šu-na a li-bi₂-de₂ ŋiri₃-ni-ta bi₂-[in]-du
-?#tr.en: @q{“The woman planted the tree with her feet, but not with her hands.
-?#tr.en: @wDN{Inana} watered it using her feet but not her hands.
-?#tr.en: She said:
-?#tr.en: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”}
-?#tr.en: She said:
-?#tr.en: @q[Inana,]{“When will this be a luxuriant bed on which I can lie down?”}
-?#tr.en: Five years, 10 years had gone by, the tree had grown massive;
-?#tr.en: its bark, however, did not split. At its roots, a snake immune to incantations made itself a nest.
-?#tr.en: In its branches, the Anzud bird settled its young. In its trunk,
-?#tr.en: the phantom maid built herself a dwelling, the maid who laughs with a joyful heart.
-?#tr.en: But @varh[t1814.v3]{holy @wDN{Inana} } @vart[t1814.v4,t1814.v3]{@varn{1 ms. has instead:} I, holy @wDN{Inana}, } cried!”}
-?#tr.en: In the matter which his sister had told him about,
-?#tr.en: her brother, the warrior @wDN{Gilgameš}, stood by her.
+#tr.en: @wDN{Inana} watered it using her feet but not her hands.
 #lem: Gašanana[1]DN; mu[tree]N; šu[hand]; a[water]; de[pour]; ŋiri[foot]; dug[speak]
 #etcsl: line-id=1.124
 
 1.125. me-na-am₃ {ŋiš}gu-za gi-rin ba-ni-tuš-u₃-de₃-en bi₂-in-dug₄
+#tr.en: She said:
 #lem: mena[when?]; guza[chair]; girim[flower]; tuš[sit (down)]; dug[speak]
 #etcsl: line-id=1.125
 
 1.126. me-na-am₃ ŋiš-nu₂ gi-rin ba-ni-nu₂-de₃-en bi₂-in-dug₄
+#tr.en: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”}
 #lem: mena[when?]; ŋešnud[bed]; girim[flower]; nud[lie down]; dug[speak]
 #etcsl: line-id=1.126
 
 1.127. mu 5-am₃ mu 10-am₃ ba-e-zal-la re
+#tr.en: She said:
 #lem: mu[year]; n; mu[year]; n; zal[pass time]; re[that]
 #etcsl: line-id=1.127
 
 1.128. %e mu %s ba-gur₄ kuš-bi nu-mu-un-da-dar
+#tr.en: @q[Inana,]{“When will this be a luxuriant bed on which I can lie down?”}
 #lem: mu[tree]N; gur[thick]; kuš[skin]; dar[split]
 #etcsl: line-id=1.128
 
 1.129. ur₂-bi-a muš tu₆ nu-zu-e gud₃ im-ma-ni-ib-us₂
+#tr.en: Five years, 10 years had gone by, the tree had grown massive;
 #lem: ur[root]; muš[snake]; tu[incantation]; zu[know]; gud[nest]; us[accompany]
 #etcsl: line-id=1.129
 
 1.130. pa-bi-a mušen anzud{mušen}-de₃ amar-bi im-ma-ni-ib-ŋar
+#tr.en: its bark, however, did not split. At its roots, a snake immune to incantations made itself a nest.
 #lem: pa[branch]; mušen[bird]; Anzud[1]DN; amar[calf]; ŋar[put]
 #etcsl: line-id=1.130
 
 1.131. šab-ba-bi-a ki-sikil lil₂-la₂-ke₄ e₂ im-ma-ni-in-du₃
+#tr.en: In its branches, the Anzud bird settled its young. In its trunk,
 #lem: šab[middle]; kisikil[young woman]; lil[ghost]; e[house]; du[build]
 #etcsl: line-id=1.131
 
 1.132. ki-sikil zu₂ li₉-li₉ šag₄ hul₂-hul₂
+#tr.en: the phantom maid built herself a dwelling, the maid who laughs with a joyful heart.
 #lem: kisikil[young woman]; zu[tooth]; bir[shred]; šag[heart]; hul[rejoice]
 #etcsl: line-id=1.132
 
 1.133. kug (1:{d}inana-ke₄:1) er₂ e-ne ba-še₈-še₈
+#tr.en: But @varh[t1814.v3]{holy @wDN{Inana} } @vart[t1814.v4,t1814.v3]{@varn{1 ms. has instead:} I, holy @wDN{Inana}, } cried!”}
 #lem: kug[purify]; Inanak[1]DN; er[tears]; ane[he]; šeš[weep]
 #etcsl: line-id=1.133
 
 :133v.1.1: ($1 ms. has instead:$) %e {d}ga-ša-an-na-ŋen
+?#tr.en: In the matter which his sister had told him about,
+?#tr.en: her brother, the warrior @wDN{Gilgameš}, stood by her.
 #lem: Gašanana[1]DN
 
 1.134. nin₉-a-ni inim in-na-an-dug₄-ga
@@ -698,11 +698,11 @@
 #etcsl: line-id=1.135
 
 1.136. {tug₂}ib₂-ba-ru šag₄-ba 50 ma-na-am₃ ib₂-ba-na (1:ba-an-du₃:1)
+#tr.en: He @varh[t1814.v5]{strapped } @vart[t1814.v6,t1814.v5]{@varn{1 ms. has instead:} …… } his …… belt of 50 minas weight to his waist -- 50 minas were to him as 30 shekels.
 #lem: ibbaru[harness]; šag[heart]; n; mana[unit of weight]; ib[hips]; du[build]
 #etcsl: line-id=1.136
 
 :136v.1.1: ($1 ms. has instead:$) ba-an-kar
-?#tr.en: He @varh[t1814.v5]{strapped } @vart[t1814.v6,t1814.v5]{@varn{1 ms. has instead:} …… } his …… belt of 50 minas weight to his waist -- 50 minas were to him as 30 shekels.
 ?#tr.en: He took his bronze axe used for expeditions,
 ?#tr.en: which weighs seven talents and seven minas, in his hand.
 ?#tr.en: He killed the snake immune to incantations living at its roots.
@@ -782,12 +782,19 @@
 #etcsl: line-id=1.150
 
 1.151. {ŋiš}ellag al dug₄-dug₄-ge sila ur₃-ra {ŋiš}ellag na-mu-un-e
+#tr.en: He played with the ball (?) in the broad square, never wanting to stop playing it,
 #lem: ellag[ball]; al[cvne]; dug[speak]; sila[street]; ur[roof]; ellag[ball]; e[speak]
 #etcsl: line-id=1.151
 
 1.152. ni₂ silim dug₄-dug₄-ge sila ur₃-ra ni₂ silim na-mu-un-e
-?#tr.en: He played with the ball (?) in the broad square, never wanting to stop playing it,
-?#tr.en: and he praised himself in the broad square, never wanting to stop praising himself.
+#tr.en: and he praised himself in the broad square, never wanting to stop praising himself.
+#lem: ni[self]; silim[healthy]; dug[speak]; sila[street]; ur[roof]; ni[self]; silim[healthy]; e[speak]
+#etcsl: line-id=1.152
+
+@variants
+
+#etcsl#ms mss. from Urim add 1 line:
+1.152A. ŋuruš iri-na-ka {ŋiš}ellag al dug₄-dug₄-ga-ne
 ?#tr.en: @vart[t1814.v9,t1814.v9]{@varn{mss. from Urim add:} The young men of his city were playing with the ball (?). } For (?) him who made the team of the widows' children ……, they lamented: @q{“O my neck!
 ?#tr.en: O my hips!”}
 ?#tr.en: For those that had a mother,
@@ -801,13 +808,6 @@
 ?#tr.en: the widows' accusation and the young girls' complaint caused his ball (?) and his mallet (?) to fall down to the bottom of the nether world.
 ?#tr.en: @vart[t1814.v10,t1814.v10]{@varn{1 ms. adds:} He could not reach them by ……. } He tried with his hand but could not @varh[t1814.v11]{reach } @vart[t1814.v12,t1814.v11]{@varn{1 ms. has instead:} touch } them,
 ?#tr.en: tried with his foot but could not @varh[t1814.v13]{reach } @vart[t1814.v14,t1814.v13]{@varn{1 ms. has instead:} touch } them.
-#lem: ni[self]; silim[healthy]; dug[speak]; sila[street]; ur[roof]; ni[self]; silim[healthy]; e[speak]
-#etcsl: line-id=1.152
-
-@variants
-
-#etcsl#ms mss. from Urim add 1 line:
-1.152A. ŋuruš iri-na-ka {ŋiš}ellag al dug₄-dug₄-ga-ne
 #lem: ŋuruš[young adult male]; iri[city]; ellag[ball]; al[cvne]; dug[speak]
 #etcsl: line-id=1.152A
 
@@ -879,52 +879,52 @@
 #lem: ŋiri[foot]; dug[speak]; ŋiri[foot]; tag[touch]
 
 1.166. abula ganzer igi kur-ra-ka dur₂ im-ma-ni-in-ŋar
+#tr.en: At the gate of @wGN{Ganzer}, in front of the nether world, he sat down.
 #lem: abula[gate]; Ganzer[1]GN; igi[eye]; kur[mountain(s)]; dur[buttocks]; ŋar[put]
 #etcsl: line-id=1.166
 
 1.167. {d}gilgameš₂ er₂ im-ma-an-pad₃ šeₓ(SIG₇)-šeₓ(SIG₇) i₃-ŋa₂-ŋa₂
-?#tr.en: At the gate of @wGN{Ganzer}, in front of the nether world, he sat down.
-?#tr.en: @wDN{Gilgameš} wept, crying bitterly: @q[Gilgamec,]{“O my ball (?)! O my mallet (?)! O my ball (?),
-?#tr.en: I am still not satiated with its charms,
-?#tr.en: the game with it has not yet palled for me!
-?#tr.en: If only my ball (?) waited still in the carpenter's house for me!
-?#tr.en: I would treat the carpenter's wife like my own mother -- if only it waited still there for me!
-?#tr.en: I would treat the carpenter's child like my little sister -- if only it waited still there for me!
-?#tr.en: @varh[t1814.v15]{My ball (?) has fallen down to the nether world -- who will retrieve it for me?
-?#tr.en: } @vart[t1814.v16,t1814.v15]{@varn{1 ms. has instead:} Who will retrieve my ball (?) from the nether world? }@varh[t1814.v17]{My mallet (?) has fallen down to @wGN{Ganzer} -- who will retrieve it for me?
-?#tr.en: } @vart[t1814.v18,t1814.v17]{@varn{1 ms. has instead:} Who will retrieve my mallet (?) from @wGN{Ganzer}? }”}
+#tr.en: @wDN{Gilgameš} wept, crying bitterly: @q[Gilgamec,]{“O my ball (?)! O my mallet (?)! O my ball (?),
 #lem: Gilgameš[1]DN; er[tears]; pad[find]; še[tear]; ŋar[put]
 #etcsl: line-id=1.167
 
 1.168. a {ŋiš}ellag-ŋu₁₀ a {ŋiš}e-ke₄-ma-ŋu₁₀
+#tr.en: I am still not satiated with its charms,
 #lem: aya[cry]; ellag[ball]; aya[cry]; ekema[mallet]
 #etcsl: line-id=1.168
 
 1.169. {ŋiš}ellag la-la-bi nu-mu-un-gi₄-a-ŋu₁₀
+#tr.en: the game with it has not yet palled for me!
 #lem: ellag[ball]; lala[plenty]; gi[turn]
 #etcsl: line-id=1.169
 
 1.170. ešemen!(|DI.E.NE.DI|) di nu-mu-un-sug₄-ga-ŋu₁₀
+#tr.en: If only my ball (?) waited still in the carpenter's house for me!
 #lem: ešemen[skipping rope]; di[speak]; sug[full]
 #etcsl: line-id=1.170
 
 1.171. ud-ba {ŋiš}ellag-ŋu₁₀ e₂ nagar-ra-ka nu-uš-ma-da-ŋal₂-am₃
+#tr.en: I would treat the carpenter's wife like my own mother -- if only it waited still there for me!
 #lem: ud[sun]; ellag[ball]; e[house]; nagar[carpenter]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=1.171
 
 1.172. dam nagar-ra ama ugu-ŋu₁₀-gin₇ nu-uš-ma-da-ŋal₂-la-am₃
+#tr.en: I would treat the carpenter's child like my little sister -- if only it waited still there for me!
 #lem: dam[spouse]; nagar[carpenter]; ama[mother]; ugu[bear]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=1.172
 
 1.173. dumu nagar-ra nin₉ ban₃-da-ŋu₁₀-gin₇ nu-uš-ma-da-ŋal₂-la-am₃
+#tr.en: @varh[t1814.v15]{My ball (?) has fallen down to the nether world -- who will retrieve it for me?
 #lem: dumu[child]; nagar[carpenter]; nin[sister]; banda[junior]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=1.173
 
 1.174. (1:{ŋiš}ellag-ŋu₁₀ kur-še₃ mu-da-šub a-ba-a ma-ra-ab-ed₃-de₃:1)
+#tr.en: } @vart[t1814.v16,t1814.v15]{@varn{1 ms. has instead:} Who will retrieve my ball (?) from the nether world? }@varh[t1814.v17]{My mallet (?) has fallen down to @wGN{Ganzer} -- who will retrieve it for me?
 #lem: ellag[ball]; kur[mountain(s)]; šub[fall]; aba[who?]; ed[go up]
 #etcsl: line-id=1.174
 
 :174v.1.1: ($1 ms. has instead the line:$) {ŋiš}ellag-ŋu₁₀ kur-ta a-ba-a im-ta-ed₃-de₃
+?#tr.en: } @vart[t1814.v18,t1814.v17]{@varn{1 ms. has instead:} Who will retrieve my mallet (?) from @wGN{Ganzer}? }”}
 #lem: ellag[ball]; kur[mountain(s)]; aba[who?]; ed[go up]
 
 1.175. (1:{ŋiš}e-ke₄-ma-ŋu₁₀ ganzer-še₃ mu-da-šub a-ba-a ma-ra-ab-ed₃-de₃:1)
@@ -935,11 +935,11 @@
 #lem: ekema[mallet]; Ganzer[1]GN; aba[who?]; ed[go up]
 
 1.176. arad-da-ni en-ki-du₁₀-e (1::1) (2:inim mu-un-ni-ib-gi₄-gi₄:2)
+#tr.en: His servant @wPN{Enkidu} @varh[t1814.v19]{answered } @vart[t1814.v20,t1814.v19]{@varn{1 ms. has instead:} said to } @varh[t1814.v21]{him } @vart[t1814.v22,t1814.v21]{@varn{1 ms. has instead:} @wDN{Gilgameš} }: @q[Enkidu,Gilgamec]{“My king,
 #lem: arad[slave]; Enkidu[1]PN; inim[word]; gi[turn]
 #etcsl: line-id=1.176
 
 :176v.1.1: ($1 ms. adds:$) {[d]}gilgameš₂
-?#tr.en: His servant @wPN{Enkidu} @varh[t1814.v19]{answered } @vart[t1814.v20,t1814.v19]{@varn{1 ms. has instead:} said to } @varh[t1814.v21]{him } @vart[t1814.v22,t1814.v21]{@varn{1 ms. has instead:} @wDN{Gilgameš} }: @q[Enkidu,Gilgamec]{“My king,
 ?#tr.en: you weep; why does your heart worry?
 ?#tr.en: Today I shall retrieve your ball (?) from the nether world,
 ?#tr.en: I shall retrieve your mallet (?) from @wGN{Ganzer}.”} @wDN{Gilgameš} answered @wPN{Enkidu}:
@@ -989,14 +989,26 @@
 #lem: inim[word]; dab[seize]
 
 1.184. tug₂ dan₂-dan₂-na-zu na-an-mu₄-mu₄-un
+#tr.en: @q{“You should not put on your clean garments:
 #lem: tug[textile]; dan[pure]; mur[dress]
 #etcsl: line-id=1.184
 
 1.185. gir₅-gin₇ ŋiškim na-an-ni-ib#-e₃-eš
-?#tr.en: @q{“You should not put on your clean garments:
-?#tr.en: they would recognise immediately that you are alien.
-?#tr.en: You should not anoint yourself with fine oil from a bowl:
-?#tr.en: they would surround you at @varh[t1814.v27]{its } @vart[t1814.v28,t1814.v27]{@varn{1 ms. has instead:} your } scent.
+#tr.en: they would recognise immediately that you are alien.
+#lem: gir[stranger]; ŋeškim[sign]; e[leave]
+#etcsl: line-id=1.185
+
+1.186. i₃ dug₃-ga bur-ra na-an-še₂₂-še₂₂-en
+#tr.en: You should not anoint yourself with fine oil from a bowl:
+#lem: i[oil]; dug[good]; bur[(stone) bowl]; šeš[anoint]
+#etcsl: line-id=1.186
+
+1.187. (1:ir-si-im-bi-še₃:1) nam-mu-e-niŋin₂-niŋin₂-ne-eš
+#tr.en: they would surround you at @varh[t1814.v27]{its } @vart[t1814.v28,t1814.v27]{@varn{1 ms. has instead:} your } scent.
+#lem: irsim[fragrance]; niŋin[encircle]
+#etcsl: line-id=1.187
+
+:187v.1.1: ($1 ms. has instead:$) ir-sim-zu-še₃
 ?#tr.en: You should not hurl throw-sticks in the nether world:
 ?#tr.en: those struck down by the throw-sticks would surround you.
 ?#tr.en: You should not not hold a cornel-wood stick in your hand:
@@ -1008,18 +1020,6 @@
 ?#tr.en: You should not kiss your beloved child.
 ?#tr.en: You should not hit your son even if you are annoyed with him.
 ?#tr.en: The outcry aroused would detain you in the nether world.”}
-#lem: gir[stranger]; ŋeškim[sign]; e[leave]
-#etcsl: line-id=1.185
-
-1.186. i₃ dug₃-ga bur-ra na-an-še₂₂-še₂₂-en
-#lem: i[oil]; dug[good]; bur[(stone) bowl]; šeš[anoint]
-#etcsl: line-id=1.186
-
-1.187. (1:ir-si-im-bi-še₃:1) nam-mu-e-niŋin₂-niŋin₂-ne-eš
-#lem: irsim[fragrance]; niŋin[encircle]
-#etcsl: line-id=1.187
-
-:187v.1.1: ($1 ms. has instead:$) ir-sim-zu-še₃
 #lem: irsim[fragrance]
 
 1.188. {ŋiš}ilar kur-ra nam-mu-e-sag₃-ge
@@ -1067,45 +1067,61 @@
 #etcsl: line-id=1.198
 
 1.199. i₃-nu₂-a-ra i₃-nu₂-a-ra
+#tr.en: @q{“She who lies there,
 #lem: nud[lie down]; nud[lie down]
 #etcsl: line-id=1.199
 
 1.200. ama {d}nin-a-zu i₃-nu₂-a-ra
-?#tr.en: @q{“She who lies there,
-?#tr.en: she who lies there,
-?#tr.en: @wDN{Ninazu's} mother who lies there -- her pure shoulders are not covered with a garment,
-?#tr.en: and no linen is spread over her pure breast.
-?#tr.en: She has fingers like a pickaxe,
-?#tr.en: she plucks her hair out like leeks.”}
+#tr.en: she who lies there,
 #lem: ama[mother]; Ninazu[1]DN; nud[lie down]
 #etcsl: line-id=1.200
 
 1.201. mur kug-ga-na tug₂ nu-um-dul
+#tr.en: @wDN{Ninazu's} mother who lies there -- her pure shoulders are not covered with a garment,
 #lem: murgu[shoulder]; kug[pure]; tug[textile]; dul[cover]
 #etcsl: line-id=1.201
 
 1.202. gaba kug-ga-na gada nu-um-bur₂
+#tr.en: and no linen is spread over her pure breast.
 #lem: gaba[breast]; kug[pure]; gada[flax]; bur[spread out]
 #etcsl: line-id=1.202
 
 1.203. [šu-si-ni] {urud!#}lub-gin₇ an-da-ŋal₂#
+#tr.en: She has fingers like a pickaxe,
 #lem: šusi[finger]; lubi[an ax]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=1.203
 
 1.204. [siki-ni ga-raš]{sar#}-gin₇ i₃-guru₅-guru₅
+#tr.en: she plucks her hair out like leeks.”}
 #lem: siki[hair]; garaš[leek]; guguru[trim down]
 #etcsl: line-id=1.204
 
 1.205. en#-[ki-du₁₀] inim# lugal-la-na-aš šu nu-um-ma-gid₂-[i]
+#tr.en: @wPN{Enkidu},
 #lem: Enkidu[1]PN; inim[word]; lugal[king]; šu[hand]; gid[long]
 #etcsl: line-id=1.205
 
 1.206. tug₂ dan₂-dan₂-na-ni im-ma-an-mur₁₀
-?#tr.en: @wPN{Enkidu},
-?#tr.en: however,
-?#tr.en: did not heed not his master's words.
-?#tr.en: He put on his clean garments and they recognised that he was alien.
-?#tr.en: He anointed himself with fine oil from a
+#tr.en: however,
+#lem: tug[textile]; dan[pure]; mur[dress]
+#etcsl: line-id=1.206
+
+1.207. gir₅-gin₇ ŋiškim im-ma-an-ne-eš
+#tr.en: did not heed not his master's words.
+#lem: gir[stranger]; ŋeškim[sign]; e[speak]
+#etcsl: line-id=1.207
+
+1.208. i₃ dug₃-ga {na₄}bur-ra im-ma-an-šeš₄
+#tr.en: He put on his clean garments and they recognised that he was alien.
+#lem: i[oil]; dug[good]; bur[(stone) bowl]; šeš[anoint]
+#etcsl: line-id=1.208
+
+1.209. ir-si-im-bi-še₃ (1:im-ma-an-niŋin₂-niŋin₂-ne-eš:1)
+#tr.en: He anointed himself with fine oil from a
+#lem: irsim[fragrance]; niŋin[encircle]
+#etcsl: line-id=1.209
+
+:209v.1.1: ($1 ms. has instead:$) gu₂ im-ma-ŋar-re-eš
 ?#tr.en: bowl and they surrounded him at its scent.
 ?#tr.en: He hurled throw-sticks in the nether world and
 ?#tr.en: those struck down by the throw-sticks surrounded him.
@@ -1117,22 +1133,6 @@
 ?#tr.en: wife when he was annoyed with her.
 ?#tr.en: He kissed his beloved child and hit his son when he was annoyed with him.
 ?#tr.en: He aroused an outcry and was detained in the nether world.
-#lem: tug[textile]; dan[pure]; mur[dress]
-#etcsl: line-id=1.206
-
-1.207. gir₅-gin₇ ŋiškim im-ma-an-ne-eš
-#lem: gir[stranger]; ŋeškim[sign]; e[speak]
-#etcsl: line-id=1.207
-
-1.208. i₃ dug₃-ga {na₄}bur-ra im-ma-an-šeš₄
-#lem: i[oil]; dug[good]; bur[(stone) bowl]; šeš[anoint]
-#etcsl: line-id=1.208
-
-1.209. ir-si-im-bi-še₃ (1:im-ma-an-niŋin₂-niŋin₂-ne-eš:1)
-#lem: irsim[fragrance]; niŋin[encircle]
-#etcsl: line-id=1.209
-
-:209v.1.1: ($1 ms. has instead:$) gu₂ im-ma-ŋar-re-eš
 #lem: gu[neck]; ŋar[put]
 
 1.210. {ŋiš}ilar kur-ra im-ma-an-sag₃-ge
@@ -1180,308 +1180,315 @@
 #etcsl: line-id=1.220
 
 1.221. ur-saŋ {d}gilgameš₂ dumu {d}nin-[sumun₂-na-ke₄]
+#tr.en: The warrior @wDN{Gilgameš}, son of @wDN{Ninsumun}, directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}.
 #lem: ursaŋ[warrior]; Gilgameš[1]DN; dumu[child]; Ninsumunak[1]DN
 #etcsl: line-id=1.221
 
 1.222. [e₂]-kur-re e₂ {d}en-lil₂-la₂-še₃ ŋiri₃-[ni dili mu-un-gub]
-?#tr.en: The warrior @wDN{Gilgameš}, son of @wDN{Ninsumun}, directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}.
-?#tr.en: He cried before @wDN{Enlil}: @q[Gilgamec,Enlil]{“Father @wDN{Enlil},
-?#tr.en: my ball (?) fell down into the nether world, my mallet (?) fell down into @wGN{Ganzer}.
-?#tr.en: @wPN{Enkidu} went down to retrieve them but the nether world has seized him.
-?#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him; but the nether world has seized him.
-?#tr.en: The @fsux{udug} demon of @wDN{Nergal}, who spares nobody, did not seize him, but the nether world has seized him.
-?#tr.en: He did not fall in battle on the field of manhood,
-?#tr.en: but the nether world has seized him.”}
-?#tr.en: Father @wDN{Enlil} did not stand by him in the matter, so he went to @wSN{Eridug}.
+#tr.en: He cried before @wDN{Enlil}: @q[Gilgamec,Enlil]{“Father @wDN{Enlil},
 #lem: Ekur[1]TN; e[house]; Enlil[1]DN; ŋiri[foot]; dili[single]; gub[stand]
 #etcsl: line-id=1.222
 
 1.223. [igi] {[d]}[en-lil₂]-la₂-še₃ er₂# [im-ma-še₈-še₈]
+#tr.en: my ball (?) fell down into the nether world, my mallet (?) fell down into @wGN{Ganzer}.
 #lem: igi[eye]; Enlil[1]DN; er[tears]; šeš[weep]
 #etcsl: line-id=1.223
 
 1.224. [a-a] {[d]}en#-lil₂ {ŋiš}ellag-ŋu₁₀ kur-[še₃ mu-da-an-šub] {[ŋiš]}e-ke₄-ma#-[ŋu₁₀] ganzer-[še₃ mu-da-an-šub]
+#tr.en: @wPN{Enkidu} went down to retrieve them but the nether world has seized him.
 #lem: aya[father]; Enlil[1]DN; ellag[ball]; kur[mountain(s)]; šub[fall]; ekema[mallet]; Ganzer[1]GN; šub[fall]
 #etcsl: line-id=1.224
 
 1.225. [en-ki-du₁₀] ed₃#-de₃ i₃-gi₄# kur-[re im-ma-an-dab₅]
+#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him; but the nether world has seized him.
 #lem: Enkidu[1]PN; ed[go up]; gi[turn]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.225
 
 1.226. [nam-tar nu-un]-dab₅# a₂-sag₃ nu-un-dab₅ kur-[re im]-ma-an-dab₅
+#tr.en: The @fsux{udug} demon of @wDN{Nergal}, who spares nobody, did not seize him, but the nether world has seized him.
 #lem: Namtar[1]DN; dab[seize]; Asag[1]DN; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.226
 
 1.227. {d}udug {d}nergal saŋ šu nu-[du₇] nu#-mu-un-dab₅ kur-re im-ma-an-dab₅
+#tr.en: He did not fall in battle on the field of manhood,
 #lem: udug[demon]; Nergal[1]DN; saŋ[head]; šu[hand]; du[perfect]; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.227
 
 1.228. ki nam-nitah-a-ke₄ me₃-a nu-un-šub kur-re im-ma-an-dab₅
+#tr.en: but the nether world has seized him.”}
 #lem: ki[place]; namnita[manhood]; me[battle]; šub[fall]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.228
 
 1.229. a-a {d}en-lil₂ inim-bi nu-mu-de₃-gub eridug{ki}-še₃ ba-ŋen
+#tr.en: Father @wDN{Enlil} did not stand by him in the matter, so he went to @wSN{Eridug}.
 #lem: aya[father]; Enlil[1]DN; inim[word]; gub[stand]; Eridug[1]SN; ŋen[go]
 #etcsl: line-id=1.229
 
 1.230. eridug{ki} e₂ {d}en-ki-ka₃-še₃ ŋiri₃-ni dili mu-un-gub
+#tr.en: In @wSN{Eridug} he directed his steps on his own to the temple of @wDN{Enki}. He cried before @wDN{Enki}:
 #lem: Eridug[1]SN; e[house]; Enkik[1]DN; ŋiri[foot]; dili[single]; gub[stand]
 #etcsl: line-id=1.230
 
 1.231. igi {d}en-ki-ka₃-še₃ er₂ im-ma-še₈-še₈
-?#tr.en: In @wSN{Eridug} he directed his steps on his own to the temple of @wDN{Enki}. He cried before @wDN{Enki}:
-?#tr.en: @q[Gilgamec,Enki]{“Father @wDN{Enki}, my ball (?) fell down into the nether world,
-?#tr.en: my mallet (?) fell down into @wGN{Ganzer}. @wPN{Enkidu} went down to retrieve them but the nether world has seized him.
-?#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him;
-?#tr.en: but the nether world has seized him. The @fsux{udug} demon of @wDN{Nergal},
-?#tr.en: who spares nobody, did not seize him,
-?#tr.en: but the nether world has seized him. He did not fall in battle on the field of manhood,
-?#tr.en: but the nether world has seized him.”} Father @wDN{Enki} stood by him in this matter.
+#tr.en: @q[Gilgamec,Enki]{“Father @wDN{Enki}, my ball (?) fell down into the nether world,
 #lem: igi[eye]; Enkik[1]DN; er[tears]; šeš[weep]
 #etcsl: line-id=1.231
 
 1.232. a-a {d}en-ki {ŋiš}ellag-ŋu₁₀ kur-še₃ mu-da-an-šub {ŋiš}e-ke₄-ma-ŋu₁₀ ganzer-še₃ mu-da-an-šub
+#tr.en: my mallet (?) fell down into @wGN{Ganzer}. @wPN{Enkidu} went down to retrieve them but the nether world has seized him.
 #lem: aya[father]; Enkik[1]DN; ellag[ball]; kur[mountain(s)]; šub[fall]; ekema[mallet]; Ganzer[1]GN; šub[fall]
 #etcsl: line-id=1.232
 
 1.233. en-ki-du₁₀ ed₃-de₃ i₃-gi₄-en kur-re im-ma-an-dab₅
+#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him;
 #lem: Enkidu[1]PN; ed[go up]; gi[turn]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.233
 
 1.234. nam-tar nu-un-dab₅ a₂-sag₃ nu-un-dab₅ kur-re im-ma-an-dab₅
+#tr.en: but the nether world has seized him. The @fsux{udug} demon of @wDN{Nergal},
 #lem: Namtar[1]DN; dab[seize]; Asag[1]DN; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.234
 
 1.235. {d}udug {d}nergal saŋ šu nu-du₇ nu-mu-un-dab₅ kur-re im-ma-an-dab₅
+#tr.en: who spares nobody, did not seize him,
 #lem: udug[demon]; Nergal[1]DN; saŋ[head]; šu[hand]; du[perfect]; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.235
 
 1.236. ki nam-nitah-a-ke₄ me₃-[a] nu-un-šub kur-re im-ma-an-dab₅
+#tr.en: but the nether world has seized him. He did not fall in battle on the field of manhood,
 #lem: ki[place]; namnita[manhood]; me[battle]; šub[fall]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=1.236
 
 1.237. a-a {d}en-ki inim-bi ba-e-de₃-gub
+#tr.en: but the nether world has seized him.”} Father @wDN{Enki} stood by him in this matter.
 #lem: aya[father]; Enkik[1]DN; inim[word]; gub[stand]
 #etcsl: line-id=1.237
 
 1.238. ur-saŋ šul {d}utu-ra dumu {d}nin-gal-e tud-da gu₃ mu-na-de₂-e
+#tr.en: He said to the young warrior @wDN{Utu},
 #lem: ursaŋ[warrior]; šul[youth]; Utu[1]DN; dumu[child]; Ningal[1]DN; utud[give birth (to)]; gu[voice]; de[pour]
 #etcsl: line-id=1.238
 
 1.239. i₃-ne-eš₂ ab-lal₃ kur-ra ŋal₂ u₃-bi₂-in-taka₄
-?#tr.en: He said to the young warrior @wDN{Utu},
-?#tr.en: the son born by @wDN{Ningal}:
-?#tr.en: @q[Enki,Utu]{“Open a hole in the nether world immediately,
-?#tr.en: and then bring up his servant from the nether world!”}
-?#tr.en: He opened a hole in the nether world and brought up his servant with his breeze (?) from the nether world.
+#tr.en: the son born by @wDN{Ningal}:
 #lem: ineš[now]; ablal[nook]; kur[mountain(s)]; ŋal[open]; taka[set aside]
 #etcsl: line-id=1.239
 
 1.240. šubur-a-ni kur-ta ed₃-de₃-mu-na-ab
+#tr.en: @q[Enki,Utu]{“Open a hole in the nether world immediately,
 #lem: subur[slave]; kur[mountain(s)]; ed[go up]
 #etcsl: line-id=1.240
 
 1.241. ab-lal₃ kur-ra ŋal₂ im-ma-an-taka₄
+#tr.en: and then bring up his servant from the nether world!”}
 #lem: ablal[nook]; kur[mountain(s)]; ŋal[open]; taka[set aside]
 #etcsl: line-id=1.241
 
 1.242. si-si-ig-ni-ta šubur-a-ni kur-ta mu-da#-ra-ab-ed₃-de₃
+#tr.en: He opened a hole in the nether world and brought up his servant with his breeze (?) from the nether world.
 #lem: sisig[breeze]; subur[slave]; kur[mountain(s)]; ed[go up]
 #etcsl: line-id=1.242
 
 1.243. gu₂-ni gu₂-da mu-ni-in-la₂ ne mu-un-su-ub-be₂
+#tr.en: They hugged and kissed. They wearied each other with questions:
 #lem: gu[neck]; gu[neck]; la[hang]; ne[cvne]; sub[rub]
 #etcsl: line-id=1.243
 
 1.244. en₃ tar-re im-mi-in-kuš₂-u₃-ne
-?#tr.en: They hugged and kissed. They wearied each other with questions:
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the order of the nether world?
-?#tr.en: -- If only you would tell me, my friend,
-?#tr.en: if only you would tell me!”}
-?#tr.en: @q[Enkidu,Gilgamec]{“If I tell you the order of the nether world, sit down and weep!
-?#tr.en: I shall sit down and weep! ……,
-?#tr.en: which your heart rejoiced to touch, is ……,
-?#tr.en: worms infest it like an old garment (?); like …… of (?) a crevice,
-?#tr.en: it is full of dust.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Alas!”}
-?#tr.en: he said and sat down in the dust.
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the order of the nether world?
 #lem: en[cvne]; tar[cut]; kušu[tired]
 #etcsl: line-id=1.244
 
 1.245. a₂ aŋ₂-ŋa₂ kur-ra igi bi₂-du₈
+#tr.en: -- If only you would tell me, my friend,
 #lem: a[arm]; aŋ[measure]; kur[mountain(s)]; igi[eye]; du[spread]
 #etcsl: line-id=1.245
 
 1.246. nu-uš-ma-ab-be₂-en gu₅-li-ŋu₁₀ nu-uš-ma-be₂#-en
+#tr.en: if only you would tell me!”}
 #lem: e[speak]; guli[friend]; e[speak]
 #etcsl: line-id=1.246
 
 1.247. tukum-bi a₂ aŋ₂-ŋa₂ kur-ra mu-ra-ab-[be₂-en]
+#tr.en: @q[Enkidu,Gilgamec]{“If I tell you the order of the nether world, sit down and weep!
 #lem: tukumbi[if]; a[arm]; aŋ[measure]; kur[mountain(s)]; e[speak]
 #etcsl: line-id=1.247
 
 1.248. [za]-e tuš-a er₂ ŋe₂₆-e ga-tuš ga-er₂#
+#tr.en: I shall sit down and weep! ……,
 #lem: zaʾe[you]; tuš[sit (down)]; er[weep]; ŋaʾe[I]; tuš[sit (down)]; er[weep]
 #etcsl: line-id=1.248
 
 1.249. [...] šu bi₂-in-tag-ga# šag₄-zu ba-e-hul₂
+#tr.en: which your heart rejoiced to touch, is ……,
 #lem: X; šu[hand]; tag[touch]; šag[heart]; hul[rejoice]
 #etcsl: line-id=1.249
 
 1.250. [...]-ši#-du-un bi₂-in-dug₄
+#tr.en: worms infest it like an old garment (?); like …… of (?) a crevice,
 #lem: ŋen[go]; dug[speak]
 #etcsl: line-id=1.250
 
 1.251. [... tug₂ sumun]-a#-gin₇ uh bi₂-in-tag#
+#tr.en: it is full of dust.”}
 #lem: X; tug[textile]; sumun[old]; eh[insect(s)]; tag[touch]
 #etcsl: line-id=1.251
 
 1.252. [... ki]-in-dar-ra-gin₇ sahar-ra a-ab-si
+#tr.en: @q[Gilgamec,Enkidu]{“Alas!”}
 #lem: X; kindar[hole]; sahar[soil]; si[fill]
 #etcsl: line-id=1.252
 
 1.253. en-e u₈ bi₂-in-dug₄ sahar-ra ba-da-an-tuš
+#tr.en: he said and sat down in the dust.
 #lem: en[lord]; ua[oh!]; dug[speak]; sahar[soil]; tuš[sit (down)]
 #etcsl: line-id=1.253
 
 1.254. lu₂ dumu-ni 1-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had one son?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.254
 
 1.255. {ŋiš}gag e₂-ŋar₈-a-na ab-du₃-a gig-ga i-i
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had one son?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He weeps bitterly at the wooden peg which was driven into his wall.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had two sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He sits on a couple of bricks, eating bread.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had three sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He drinks water from a saddle waterskin.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had four sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His heart rejoices like a man who has four asses to yoke.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had five sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, he enters the palace easily.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had six sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He is a cheerful as a ploughman.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had seven sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“As a companion of the gods, he sits on a throne and listens to judgments.”}
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He weeps bitterly at the wooden peg which was driven into his wall.”}
 #lem: gag[nail]; egar[wall]; du[build]; gig[sick]; e[bring out]
 #etcsl: line-id=1.255
 
 1.256. lu₂ dumu-ni 2-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had two sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.256
 
 1.257. šeg₁₂ 2-a al-tuš ninda al-gu₇-e
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He sits on a couple of bricks, eating bread.”}
 #lem: šeg[brick]; n; tuš[sit (down)]; ninda[bread]; gu[eat]
 #etcsl: line-id=1.257
 
 1.258. lu₂ dumu-ni 3-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had three sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.258
 
 1.259. {kuš}ummud dag-si-ke₄ a al-na₈-na₈
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He drinks water from a saddle waterskin.”}
 #lem: ummud[waterskin]; dagsi[saddle hook]; a[water]; naŋ[drink]
 #etcsl: line-id=1.259
 
 1.260. lu₂ dumu-ni 4-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had four sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.260
 
 1.261. lu₂ anše 4 la₂-gin₇ šag₄-ga-ni al-hul₂
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His heart rejoices like a man who has four asses to yoke.”}
 #lem: lu[person]; anše[equid]; n; la[hang]; šag[heart]; hul[rejoice]
 #etcsl: line-id=1.261
 
 1.262. lu₂ dumu-ni 5-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had five sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.262
 
 1.263. dub-sar sag₉-ga-gin₇ a₂-ni ŋal₂ bi₂-in-taka₄ e₂-gal si sa₂-bi ba-an-ku₄-ku₄
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, he enters the palace easily.”}
 #lem: dubsar[scribe]; sag[good]; a[arm]; ŋal[open]; taka[set aside]; egal[palace]; si[horn]; sa[equal]; kur[enter]
 #etcsl: line-id=1.263
 
 1.264. lu₂ dumu-ni 6-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had six sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.264
 
 1.265. {lu₂}{ŋiš}apin-la₂-gin₇ šag₄-ga-ni al-hul₂#
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He is a cheerful as a ploughman.”}
 #lem: apinla[planter]; šag[heart]; hul[rejoice]
 #etcsl: line-id=1.265
 
 1.266. lu₂ dumu-ni 7-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an#-[ak]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had seven sons?”} @q[Enkidu,Gilgamec]{“I saw him.”}
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.266
 
 1.267. dub-us₂ diŋir-re-e-ne-ke₄ {ŋiš}gu-za ib₂-tuš di-da ŋiš ba-tuku
+#tr.en: @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“As a companion of the gods, he sits on a throne and listens to judgments.”}
 #lem: dubus[second]; diŋir[deity]; guza[chair]; tuš[sit (down)]; did[lawsuit]; ŋeš[tree]; tuku[acquire]
 #etcsl: line-id=1.267
 
 1.268. tiru-e igi bi₂-du₈-am₃ igi bi₂-du₈-am₃# a-na-gin₇ an-[ak]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the palace eunuch?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: tiru[courtier]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.268
 
 1.269. pa a-la-la hur-ra-gin₇ ub-dug₄-ga-a ab-us₂
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the palace eunuch?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“Like a useless @fsux{alala} stick he is propped in a corner.”} @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“Like a …… pot,
-?#tr.en: she is thrown away violently, she gives no man joy.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“You finish a rope, and he weeps over the rope.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“You finish a reed mat,
-?#tr.en: and she weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like him who …… bricks (?), he eats bread.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?$ (@gap{7 lines fragmentary or missing}) 
+#tr.en: @q[Enkidu,Gilgamec]{“Like a useless @fsux{alala} stick he is propped in a corner.”} @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?”}
 #lem: pa[branch]; alala[designation of a stick]; hur[scratch]; dug[speak]; us[accompany]
 #etcsl: line-id=1.269
 
 1.270. munus nu-u₃-tud igi bi₂-du₈-am₃ igi bi₂-du₈#-[am₃] a-na-gin₇ an-ak#
+#tr.en: @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“Like a …… pot,
 #lem: munus[woman]; utud[give birth (to)]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.270
 
 1.271. {dug}zal-lil₂-da-gin₇ TI-na i₃-gurud lu₂ nu-mu-un-hul₂-e
+#tr.en: she is thrown away violently, she gives no man joy.”}
 #lem: zallilda[pot]; X; gurud[throw]; lu[person]; hul[rejoice]
 #etcsl: line-id=1.271
 
 1.272. ŋuruš tur ur₂ dam-na-ka tug₂ nu-ub#-sig₉-ge igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?”}
 #lem: ŋuruš[young adult male]; tur[small]; ur[loin]; dam[spouse]; tug[textile]; sig[put into]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.272
 
 1.273. eš₂-šu-ak# šu im-mi-du₇-un eš₂-šu-ak#-ba [er₂ im-mi]-in#-še₈-še₈
+#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“You finish a rope, and he weeps over the rope.”}
 #lem: eššuak[rope]; šu[hand]; du[perfect]; eššuak[rope]; er[tears]; šeš[weep]
 #etcsl: line-id=1.273
 
 1.274. ki-sikil ur₂# dam-na-ka tug₂ nu-ub-sig₉-ge igi bi₂-du₈-am₃ [igi bi₂]-du₈#-am₃ a-na-gin₇ an-ak#
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?”}
 #lem: kisikil[young woman]; ur[loin]; dam[spouse]; tug[textile]; sig[put into]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.274
 
 1.275. gi-šu-ak šu im-mi#-du₇-un gi-šu-ak er₂ mi-in-še₈-še₈
+#tr.en: @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“You finish a reed mat,
 #lem: gišuak[mat]; šu[hand]; du[perfect]; gišuak[mat]; er[tears]; šeš[weep]
 #etcsl: line-id=1.275
 
 1.276. lu₂ ibila nu-tuku igi bi₂-du₈-am₃ [igi bi₂]-du₈#-am₃ a-na-gin₇ an-ak#
+#tr.en: and she weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir?”}
 #lem: lu[person]; ibila[heir]; tuku[acquire]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.276
 
 1.277. šeg₁₂ {ŋiš}KID-ra-gin₇ ninda al-gu₇-e
+#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like him who …… bricks (?), he eats bread.”}
 #lem: šeg[brick]; X; ninda[bread]; gu[eat]
 #etcsl: line-id=1.277
 
 1.278. X [... igi] bi₂-du₈#-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: X; X; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=1.278
 
 1.279. [...] UM X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=1.279
 
 $ 6 lines missing
 1.286. lu₂ [...] BA# [... igi bi₂-du₈-am₃]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see ……?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart,
 #lem: lu[person]; X; X; X; igi[eye]; du[spread]
 #etcsl: line-id=1.286
 
 1.287. u₂-ni al#-[bar a-ni al-bar u₂ gid₂ al-gu₇-e] a gid₂# al-na₈#-na₈
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see ……?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart,
-?#tr.en: he eats the food offered (?) to him, he drinks the water offered (?) to him.”}
+#tr.en: he eats the food offered (?) to him, he drinks the water offered (?) to him.”}
+#lem: u[plant(s)]; bar[place outside]; a[water]; bar[place outside]; u[plant(s)]; gid[long]; gu[eat]; a[water]; gid[long]; naŋ[drink]
+#etcsl: line-id=1.287
+
+@variants
+
+#etcsl#ms 1 ms. adds 4 lines:
+1.287A. lu₂# ur-mah-e gu₇-a [igi] bi₂#-du₈-am₃
 ?#tr.en: @vart[t1814.v29,t1814.v29]{@varn{1 ms. adds:} @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a lion?”} @q[Enkidu,Gilgamec]{“He cries bitterly @q{“O my hands! O my legs!”}”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“They cannot …… his bones.”} } @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”}
 ?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell in battle?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 ?#tr.en: @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”}
@@ -1498,13 +1505,6 @@ $ 6 lines missing
 ?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”}
 ?#tr.en: @q[Enkidu,Gilgamec]{“I did not see him. His spirit is not about.
 ?#tr.en: His smoke went up to the sky.”}
-#lem: u[plant(s)]; bar[place outside]; a[water]; bar[place outside]; u[plant(s)]; gid[long]; gu[eat]; a[water]; gid[long]; naŋ[drink]
-#etcsl: line-id=1.287
-
-@variants
-
-#etcsl#ms 1 ms. adds 4 lines:
-1.287A. lu₂# ur-mah-e gu₇-a [igi] bi₂#-du₈-am₃
 #lem: lu[person]; urmah[lion]; gu[eat]; igi[eye]; du[spread]
 #etcsl: line-id=1.287A
 
@@ -1605,142 +1605,142 @@ $ 6 lines missing
 @div version 2 (A version from Urim (UET 6 58))
 
 2.1. lu₂ ur₃-ta šub-ba igi bi₂#-[du₈-am₃] igi i-ni-in#-du₈-am₃# [a-na-gin₇ an-ak]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: lu[person]; ur[roof]; šub[fall]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.1
 
 2.2. ŋiri₃-pad-ra₂-ni šu NE nu-ub-be₂#-[eš]
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“They cannot …… his bones.”} @q[Gilgamec,Enkidu]{“Did you see him who was struck in (?) a flood-storm of (?) @wDN{Iškur}?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him,
-?#tr.en: he drinks the water offered (?) to him.
-?#tr.en: He lives outside the city.”}
+#tr.en: @q[Enkidu,Gilgamec]{“They cannot …… his bones.”} @q[Gilgamec,Enkidu]{“Did you see him who was struck in (?) a flood-storm of (?) @wDN{Iškur}?”}
 #lem: ŋiripadra[bone]; šu[hand]; X; e[speak]
 #etcsl: line-id=2.2
 
 2.3. lu₂ {d}iškur-ra ŋiri₃-bal# mu-ni-in-[ra]-ra igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-[gin₇ an-ak]
+#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”}
 #lem: lu[person]; Iškur[1]DN; ŋiribal[flooding]; rah[beat]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.3
 
 2.4. gud-gin₇ al-dub₂ uh im-da-gu₇-[e]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: gud[bull]; dub[tremble]; eh[insect(s)]; gu[eat]
 #etcsl: line-id=2.4
 
 2.5. lu₂-sahar-šub-ba igi bi₂-du₈-am₃ igi i-ni-du₈-am₃# a-na-gin₇ an-ak#
+#tr.en: @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him,
 #lem: lusaharšuba[leper]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.5
 
 2.6. u₂-[ni al]-bar# a-ni al-bar u₂ gid₂ al-gu₇-e a gid₂ al-na₈-na₈
+#tr.en: he drinks the water offered (?) to him.
 #lem: u[plant(s)]; bar[place outside]; a[water]; bar[place outside]; u[plant(s)]; gid[long]; gu[eat]; a[water]; gid[long]; naŋ[drink]
 #etcsl: line-id=2.6
 
 2.7. iri bar-ra-a al-tuš
+#tr.en: He lives outside the city.”}
 #lem: iri[city]; bar[outside]; tuš[sit (down)]
 #etcsl: line-id=2.7
 
 2.8. lu₂ inim# ama a-a-na-ke₄ ni₂ nu-teŋ₃-ŋe₂₆-dam igi bi₂-du₈-am₃ igi# i#-ni-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his mother and father?”}
 #lem: lu[person]; inim[word]; ama[mother]; aya[father]; ni[fear]; teŋ[approach]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.8
 
 2.9. a ni₂-ŋu₁₀ a ŋiš-ge-en#-na šeg₁₀ gi₄ nu-ub!-gul-e
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his mother and father?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“O my body! O my limbs!”} he never ceases to cry.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother and father?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams about.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who …… the name of his god?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His spirit …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs …… tossed out in the street.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence?”}@q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“They play at a table of gold and silver, laden with honey and ghee.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I did not see him. His smoke went up to the sky.
-?#tr.en: His spirit does not live in the underworld.”}
+#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“O my body! O my limbs!”} he never ceases to cry.”}
 #lem: aya[cry]; ni[self]; aya[cry]; ŋešgen[limbs]; šeg[voice]; gi[turn]; gul[destroy]
 #etcsl: line-id=2.9
 
 2.10. lu₂ aš₂ ama a-a-na-ke₄ sa₂ bi₂-dug₄-ga# igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na#-[gin₇] an#-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother and father?”}
 #lem: lu[person]; aš[curse]; ama[mother]; aya[father]; sa[equal]; dug[speak]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.10
 
 2.11. ibila ba-da-kar gidim-ma-ni šu al-[dag]-dag#-ge
+#tr.en: @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams about.”}
 #lem: ibila[heir]; kar[flee]; gidim[spirit of a deceased person]; šu[hand]; dag[roam around]
 #etcsl: line-id=2.11
 
 2.12. lu₂ mu diŋir-ra#-[ni] saŋ bi₂-in-[...]-la igi bi₂-du₈#-[am₃ igi] i#-ni-du₈-am₃# [a]-na#-gin₇ <an>-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who …… the name of his god?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His spirit …….”}
 #lem: lu[person]; mu[name]; diŋir[deity]; saŋ[head]; X; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.12
 
 2.13. gidim-ma-ni X [...] X [...]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: gidim[spirit of a deceased person]; X; X; X; X
 #etcsl: line-id=2.13
 
 2.14. gidim lu₂ ninda sig₁₀-ge₅ [nu]-tuku [igi bi₂]-du₈#-am₃ igi i-ni-du₈-am₃ [a]-na#-gin₇ an-ak#
+#tr.en: @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs …… tossed out in the street.”}
 #lem: gidim[spirit of a deceased person]; lu[person]; ninda[bread]; sig[put into]; tuku[acquire]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.14
 
 2.15. šu# su-ub-be₂ utul₂-a ninda pad#-[pad]-ra₂ PA sila šub-ba i₃-gu₇-e
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence?”}@q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”}
 #lem: šu[hand]; sub[rub]; utul[tureen]; ninda[bread]; pad[break (into bits)]; X; sila[street]; šub[fall]; gu[eat]
 #etcsl: line-id=2.15
 
 2.16. [niŋin₃-ŋar tur-tur]-ŋu₁₀ ni₂-ba nu-zu igi bi₂-du₈-am₃ igi# i-ni-du₈-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Enkidu,Gilgamec]{“They play at a table of gold and silver, laden with honey and ghee.”}
 #lem: niŋinŋar[stillborn baby]; tur[small]; ni[self]; zu[know]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.16
 
 2.17. {ŋiš}banšur# kug-sig₁₇# kug#-babbar lal₃ i₃-nun-na e-ne im-da-e-ne
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”}
 #lem: banšur[table]; kugsig[gold]; kugbabbar[silver]; lal[syrup]; inun[ghee]; ene[pleasure?]; dug[speak]
 #etcsl: line-id=2.17
 
 2.18. lu₂ izi la₂ igi bi₂-du₈-am₃ igi nu-mu-na-du₈-am₃#
+#tr.en: @q[Enkidu,Gilgamec]{“I did not see him. His smoke went up to the sky.
 #lem: lu[person]; izi[fire]; la[hang]; igi[eye]; du[spread]; igi[eye]; du[spread]
 #etcsl: line-id=2.18
 
 2.19. i-bi₂-ni an-na ba-a-ed₃-am₃ gidim-a-ni ki-a nu-ub-tuš
+#tr.en: His spirit does not live in the underworld.”}
 #lem: ibi[smoke]; an[sky]; ed[go up]; gidim[spirit of a deceased person]; ki[place]; tuš[sit (down)]
 #etcsl: line-id=2.19
 
 2.20. lu₂ diŋir lul-lul sig₁₀-ge₅# nam-erim₂ ba-an-kud igi bi₂-du₈-am₃ igi i-[ni]-du₈#-am₃ a-na-gin₇ an-ak
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who lied to the gods while swearing an oath?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: lu[person]; diŋir[deity]; lul[false]; sig[put into]; namerim[oath]; kud[cut]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.20
 
 2.21. ki-a-naŋ saŋ kur-ra#-[ke₄ ...] X-ra-ah naŋ-a i₃-naŋ#-e
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who lied to the gods while swearing an oath?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He drinks …… which has been drunk …… the libation place at the entrance (?) to the nether world.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the citizen of @wSN{Ŋirsu} who refused (?) water to his father and his mother?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“In front of each of them are a thousand @wEN{Martu}, and his spirit can neither …… nor …….
-?#tr.en: The @wEN{Martu} at the libation place at the entrance (?) to the nether world …….”} @q[Gilgamec,Enkidu]{“Did you see the citizens of @wGN{Sumer} and @wGN{Akkad}?”} @q[Enkidu,Gilgamec]{“I saw them.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“How do they fare?”} @q[Enkidu,Gilgamec]{“They drink the water of the …… place, muddy water.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see where my father and my mother live?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“Both of them drink the water of the …… place, muddy water.”}
+#tr.en: @q[Enkidu,Gilgamec]{“He drinks …… which has been drunk …… the libation place at the entrance (?) to the nether world.”}
 #lem: kiʾanaŋ[place of libations to the dead]; saŋ[head]; kur[mountain(s)]; X; X; naŋ[drink]; naŋ[drink]
 #etcsl: line-id=2.21
 
 2.22. dumu ŋir₂-su{ki} a il₂#-il₂# a-a-na u₃ ama-na igi bi₂-du₈-am₃ [igi] i#-ni-du₈-am₃ a-na-gin₇ [an-ak]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the citizen of @wSN{Ŋirsu} who refused (?) water to his father and his mother?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
 #lem: dumu[child]; Ŋirsu[1]SN; a[water]; il[raise]; aya[father]; u[and]; ama[mother]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.22
 
 2.23. igi lu₂ 1-ta-am₃ li-im dumu mar-tu-me-eš# gidim-a-ni šu la-ba-an-ta-ra-ra gaba nu-ši-dub-bu#
+#tr.en: @q[Enkidu,Gilgamec]{“In front of each of them are a thousand @wEN{Martu}, and his spirit can neither …… nor …….
 #lem: igi[eye]; lu[person]; n; n; dumu[child]; Martu[1 Amorite]; gidim[spirit of a deceased person]; šu[hand]; rah[beat]; gaba[breast]; dub[heap up]
 #etcsl: line-id=2.23
 
 2.24. dumu mar-tu{ki}-a ki-a-naŋ saŋ kur-ra-ke₄ igi-ba bi₂-ib₂-dab₅-be₂-en
+#tr.en: The @wEN{Martu} at the libation place at the entrance (?) to the nether world …….”} @q[Gilgamec,Enkidu]{“Did you see the citizens of @wGN{Sumer} and @wGN{Akkad}?”} @q[Enkidu,Gilgamec]{“I saw them.”}
 #lem: dumu[child]; Martu[1 Amorite]; kiʾanaŋ[place of libations to the dead]; saŋ[head]; kur[mountain(s)]; igi[eye]; dab[seize]
 #etcsl: line-id=2.24
 
 2.25. dumu ki-en-gi ki-uri-ke₄ igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak#
+#tr.en: @q[Gilgamec,Enkidu]{“How do they fare?”} @q[Enkidu,Gilgamec]{“They drink the water of the …… place, muddy water.”}
 #lem: dumu[child]; Kengir[1]; Akkad[1 Akkad]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.25
 
 2.26. a ki-lul-la a lu₃-a bi₂-ib₂-naŋ-me-eš
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see where my father and my mother live?”}
 #lem: a[water]; kilulak[murder]; a[water]; lu[mix]; naŋ[drink]
 #etcsl: line-id=2.26
 
 2.27. a-a-ŋu₁₀ u₃ ama-ŋu₁₀ me-a se₁₂-[me]-eš# igi bi₂-du₈-am₃ igi i-ni-du₈-am₃# [a-na-gin₇ an-ak]
+#tr.en: @q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”}
 #lem: aya[father]; u[and]; ama[mother]; mea[where?]; se[plural stem of til⟦to live⟧ (of people)]; igi[eye]; du[spread]; igi[eye]; du[spread]; anagin[how?]; ak[do]
 #etcsl: line-id=2.27
 
 2.28. [2]-a-ne-ne-ne a ki-lul#-[la a lu₃-a] bi₂-ib₂-naŋ#-[me-eš]
+#tr.en: @q[Enkidu,Gilgamec]{“Both of them drink the water of the …… place, muddy water.”}
 #lem: n; a[water]; kilulak[murder]; a[water]; lu[mix]; naŋ[drink]
 #etcsl: line-id=2.28
 
@@ -1751,48 +1751,47 @@ $ 6 lines missing
 @div segment A
 
 3.A.1. [lu₂] {ŋiš}ma₂-du₃ ra igi bi₂-[du₈] a-na-gin₇ i₃-ŋal₂#
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board? How does he fare?”}
 #lem: lu[person]; madu[part of a boat]; rah[beat]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.A.1
 
 3.A.2. a₂#-še₃ ama-ŋu₁₀ lu₂ he₂-en-na-ab-be₂# TI bur₁₂-ra-ni a
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”}
-?#tr.en: the man cries to her, as he pulls out ……,
-?#tr.en: he …… crossbeam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?
-?#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams (?) about.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his father and his mother? How does he fare?”}
-?$ (@gap{1 line fragmentary}) 
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”}
 #lem: aše[now]; ama[mother]; lu[person]; e[speak]; X; bur[tear out]; a[water]
 #etcsl: line-id=3.A.2
 
 3.A.3. {ŋiš#}saŋ-du ninda pad-pad-ra₂-ni# a bi₂-ib-gul-la-X-a
+#tr.en: the man cries to her, as he pulls out ……,
 #lem: saŋdu[wooden beam]; ninda[bread]; pad[break (into bits)]; a[water]; gul[destroy]
 #etcsl: line-id=3.A.3
 
 3.A.4. lu₂# ur₃-ta šub-ba igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+#tr.en: he …… crossbeam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?
 #lem: lu[person]; ur[roof]; šub[fall]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.A.4
 
 3.A.5. [gud]-gin₇ al-šub uh im-da-ab-gu₇#
+#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”}
 #lem: gud[bull]; šub[fall]; eh[insect(s)]; gu[eat]
 #etcsl: line-id=3.A.5
 
 3.A.6. [lu₂] aš₂!# ama-na-ke₄ sa₂ bi₂-in-dug₄-ga [igi] bi₂#-du₈ a-na-gin₇ i₃-ŋal₂#
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother? How does he fare?”}
 #lem: lu[person]; aš[curse]; ama[mother]; sa[equal]; dug[speak]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.A.6
 
 3.A.7. ibila# ba-an-da-kar [gidim-a]-ni# šu# al#-ŋa₂-ŋa₂{X-X}-ke₄
+#tr.en: @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams (?) about.”}
 #lem: ibila[heir]; kar[flee]; gidim[spirit of a deceased person]; šu[hand]; ŋar[put]
 #etcsl: line-id=3.A.7
 
 3.A.8. [lu₂ inim] a-a-na u₃ ama!-na [ni₂] nu-teŋ₃-ŋe₂₆-dam# igi bi₂-du₈ [a-na-gin₇] i₃-ŋal₂
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his father and his mother? How does he fare?”}
 #lem: lu[person]; inim[word]; aya[father]; u[and]; ama[mother]; ni[fear]; teŋ[approach]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.A.8
 
 3.A.9. [...] X X X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=3.A.9
 
@@ -1802,57 +1801,57 @@ $ (unknown no. of lines missing)
 @div segment B
 
 3.B.1. [u₂-ni al-bar a]-ni [al-bar u₂ gid₂] al-[gu₇-e] a [gid₂ al-na₈-na₈]
+#tr.en: @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart,
 #lem: u[plant(s)]; bar[place outside]; a[water]; bar[place outside]; u[plant(s)]; gid[long]; gu[eat]; a[water]; gid[long]; naŋ[drink]
 #etcsl: line-id=3.B.1
 
 3.B.2. [lu₂ me₃-a] šub-ba igi bi₂-[du₈] a-na-gin₇ [i₃-ŋal₂]
-?#tr.en: @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart,
-?#tr.en: he eats the food offered (?) to him, he drinks the water offered (?) to him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell in battle? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who ……? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“…… from his (?) hand …….”} @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?
-?#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs tossed out in the street.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence? How do they fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“They play with a bucket of gold and silver, full of honey and ghee.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”} @q[Enkidu,Gilgamec]{“I did not see him.
-?#tr.en: His spirit is not there. His smoke went up to the sky.”}
+#tr.en: he eats the food offered (?) to him, he drinks the water offered (?) to him.”}
 #lem: lu[person]; me[battle]; šub[fall]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.B.2
 
 3.B.3. [ad ama-ni] saŋ-du nu-dab-dab#-[be₂]-ne# dam-a-ni er₂ ba-ni-še₈-še₈
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell in battle? How does he fare?”}
 #lem: adda[father]; ama[mother]; saŋdu[head]; dab[seize]; dam[spouse]; er[tears]; šeš[weep]
 #etcsl: line-id=3.B.3
 
 3.B.4. [...] X NA X NA [...]-ma igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+#tr.en: @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”}
 #lem: X; X; X; X; X; X; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.B.4
 
 3.B.5. [...] X-ta šu-ta IM X KI
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who ……? How does he fare?”}
 #lem: X; X; šu[hand]; X; X; X
 #etcsl: line-id=3.B.5
 
 3.B.6. [gidim lu₂ ninda] ki-sig₁₀-ga nu-tuku [igi] bi₂#-du₈ [a-na-gin₇] i₃-ŋal₂
+#tr.en: @q[Enkidu,Gilgamec]{“…… from his (?) hand …….”} @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?
 #lem: gidim[spirit of a deceased person]; lu[person]; ninda[bread]; kisiga[funerary offerings]; tuku[acquire]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.B.6
 
 3.B.7. [šu su-ub-be₂] ninda pad!(GAR)-pad-ra₂-a-ni [sila] šub#-ba i₃-gu₇-e#
+#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs tossed out in the street.”}
 #lem: šu[hand]; sub[rub]; ninda[bread]; pad[break (into bits)]; sila[street]; šub[fall]; gu[eat]
 #etcsl: line-id=3.B.7
 
 3.B.8. [niŋin₃]-ŋar-ra tur-tur#-[ŋu₁₀] ni₂#-bi nu-zu [igi bi₂-du₈] a-na-gin₇# [i₃-ŋal₂]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence? How do they fare?”}
 #lem: niŋinŋar[stillborn baby]; tur[small]; ni[self]; zu[know]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.B.8
 
 3.B.9. {ŋiš#}buniŋ(SUG) kug#-[sig₁₇ kug-babbar lal₃ i₃-nun-na e-ne im-di-e-ne]
+#tr.en: @q[Enkidu,Gilgamec]{“They play with a bucket of gold and silver, full of honey and ghee.”}
 #lem: buniŋ[trough]; kugsig[gold]; kugbabbar[silver]; lal[syrup]; inun[ghee]; ene[pleasure?]; e[speak]
 #etcsl: line-id=3.B.9
 
 3.B.10. lu₂# izi X [igi bi₂-du₈] igi <nu-mu-ni-du₈>
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”} @q[Enkidu,Gilgamec]{“I did not see him.
 #lem: lu[person]; izi[fire]; X; igi[eye]; du[spread]; igi[eye]; du[spread]
 #etcsl: line-id=3.B.10
 
 3.B.11. <gidim-ma-ni nu-ŋal₂ i>-bi₂-ni# an#-[na ba-e-ed₃]
+#tr.en: His spirit is not there. His smoke went up to the sky.”}
 #lem: gidim[spirit of a deceased person]; ŋal[⟦be⟧ to be (there]; ibi[smoke]; an[sky]; ed[go up]
 #etcsl: line-id=3.B.11
 
@@ -1863,86 +1862,87 @@ $ (unknown no. of lines missing)
 @div version 4 (A third version from Urim (UET 6 60))
 
 4.1. [unug]{[ki]} im-mi-gi₄-gi₄#-[ne]
+#tr.en: They returned to @wSN{Unug}, they returned to their city.
 #lem: Unug[1]SN; gi[turn]
 #etcsl: line-id=4.1
 
 4.2. iri#-bi im-mi-gi₄-gi₄-ne#
-?#tr.en: They returned to @wSN{Unug}, they returned to their city.
-?#tr.en: He entered outfitted with tools and armaments,
-?#tr.en: with an axe and a spear,
-?#tr.en: and deposited them in his palace happily.
-?#tr.en: Looking at the statue,
-?#tr.en: the young men and women of @wSN{Unug} and the old men (?) and women of @wSN{Kulaba} rejoiced.
-?#tr.en: As @wDN{Utu} came forth from his bedchamber,
-?#tr.en: @wDN{Gilgameš} (?) raised his head and told them (?):
-?#tr.en: @q[Gilgamec,]{“My father and my mother, drink clean water!”}
-?#tr.en: Midday had hardly passed when they touched the statue's (?) crown.
+#tr.en: He entered outfitted with tools and armaments,
 #lem: iri[city]; gi[turn]
 #etcsl: line-id=4.2
 
 4.3. {ŋiš!#}šu-kar₂ a₂-kar₂-ra-ke₄ pa-a-šu a₂-gid₂-[da] da-da-ra-še₃ mi-ni-in-kur₉#
+#tr.en: with an axe and a spear,
 #lem: šukara[tool]; akar[implement]; pašu[an axe]; agida[spear]; dadara[tied up]; kur[enter]
 #etcsl: line-id=4.3
 
 4.4. e₂-gal-la-na hul₂-hul₂#-la mi-ni-in-ŋar
+#tr.en: and deposited them in his palace happily.
 #lem: egal[palace]; hul[rejoice]; ŋar[put]
 #etcsl: line-id=4.4
 
 4.5. ŋuruš ki-sikil unug-ga{ki} saŋ-tuku bur-šum₂#-ma kul#-[aba]{[ki]}
+#tr.en: Looking at the statue,
 #lem: ŋuruš[young adult male]; kisikil[young woman]; Unug[1]SN; saŋtuku[splendid]; buršuma[dowager]; Kulaba[1]SN
 #etcsl: line-id=4.5
 
 4.6. alan-bi igi mu-un-bar-bar-re-ne im-ma-hul₂-hul₂-la
+#tr.en: the young men and women of @wSN{Unug} and the old men (?) and women of @wSN{Kulaba} rejoiced.
 #lem: alan[image]; igi[eye]; bar[place outside]; hul[rejoice]
 #etcsl: line-id=4.6
 
 4.7. {d}utu agrun-na-ta e₃-a-na saŋ <<mu-un-na>>-mi-ni-in-il₂!
+#tr.en: As @wDN{Utu} came forth from his bedchamber,
 #lem: Utu[1]DN; agrun[cella]; e[leave]; saŋ[head]; il[raise]
 #etcsl: line-id=4.7
 
 4.8. a₂-bi mu-un-da-an-aŋ₂
+#tr.en: @wDN{Gilgameš} (?) raised his head and told them (?):
 #lem: a[arm]; aŋ[measure]
 #etcsl: line-id=4.8
 
 4.9. a-a-ŋu₁₀ u₃ ama-ŋu₁₀ a si-ig-ga# naŋ-ze₂-en#
+#tr.en: @q[Gilgamec,]{“My father and my mother, drink clean water!”}
 #lem: aya[father]; u[and]; ama[mother]; a[water]; sig[clear]; naŋ[drink]
 #etcsl: line-id=4.9
 
 4.10. ud nu-mu-un-da-sa₉ am₃-da-dirig aga₃-bi in-ši-in-tag-ne
+#tr.en: Midday had hardly passed when they touched the statue's (?) crown.
 #lem: ud[sun]; sa[halve]; dirig[make more than]; aga[tiara]; tag[touch]
 #etcsl: line-id=4.10
 
 4.11. {d}gilgameš₂-e ki hul-a ba-an-šub
+#tr.en: @wDN{Gilgameš} threw himself down at the place of mourning,
 #lem: Gilgameš[1]DN; ki[place]; hulu[bad]; šub[fall]
 #etcsl: line-id=4.11
 
 4.12. ud 9-kam ki hul-a ba-an-šub
-?#tr.en: @wDN{Gilgameš} threw himself down at the place of mourning,
-?#tr.en: he threw himself down for nine days at the place of mourning.
-?#tr.en: The young men and women of @wSN{Unug} and the old men (?) and women of @wSN{Kulaba} wept.
-?#tr.en: As soon as he had said that,
-?#tr.en: he repulsed the citizen of @wSN{Ŋirsu}.
-?#tr.en: @q[Gilgamec,]{“My father and my mother, drink clean water!”}
+#tr.en: he threw himself down for nine days at the place of mourning.
 #lem: ud[sun]; n; ki[place]; hulu[bad]; šub[fall]
 #etcsl: line-id=4.12
 
 4.13. ŋuruš# ki-sikil unug{ki}-ga saŋ!-tuku bur#-šu-ma kul#-aba{ki} er₂ ba-še₈-še₈
+#tr.en: The young men and women of @wSN{Unug} and the old men (?) and women of @wSN{Kulaba} wept.
 #lem: ŋuruš[young adult male]; kisikil[young woman]; Unug[1]SN; saŋtuku[splendid]; buršuma[dowager]; Kulaba[1]SN; er[tears]; šeš[weep]
 #etcsl: line-id=4.13
 
 4.14. bi₂-in-dug₄-ga-gin₇-nam
+#tr.en: As soon as he had said that,
 #lem: dug[speak]
 #etcsl: line-id=4.14
 
 4.15. dumu ŋir₂-su{ki}-a zag bi₂-in-tag
+#tr.en: he repulsed the citizen of @wSN{Ŋirsu}.
 #lem: dumu[child]; Ŋirsu[1]SN; zag[side]; tag[touch]
 #etcsl: line-id=4.15
 
 4.16. a-a-ŋu₁₀ u₃ ama-ŋu₁₀ a si-ig-ga naŋ-ze₂-en
+#tr.en: @q[Gilgamec,]{“My father and my mother, drink clean water!”}
 #lem: aya[father]; u[and]; ama[mother]; a[water]; sig[clear]; naŋ[drink]
 #etcsl: line-id=4.16
 
 4.17. ur-saŋ {d}gilgameš₂ dumu {d}nin-sumun₂-ka za₃-mi₂-zu dug₃-ga-am₃
+#tr.en: Warrior @wDN{Gilgameš}, son of @wDN{Ninsumun}, sweet is your praise!
 #lem: ursaŋ[warrior]; Gilgameš[1]DN; dumu[child]; Ninsumunak[1]DN; zamin[praise]; dug[good]
 #etcsl: line-id=4.17
 
@@ -1953,124 +1953,122 @@ $ (unknown no. of lines missing)
 @div segment A
 
 5.A.1. [...] im-ma-niŋin₂#-ne-eš
-?#tr.en: Warrior @wDN{Gilgameš}, son of @wDN{Ninsumun}, sweet is your praise!
+#tr.en: …… surrounded him.
 #lem: X; niŋin[encircle]
 #etcsl: line-id=5.A.1
 
 5.A.2. [...] ma-an-il₂ gidim mu-un-da-e-re
-?#tr.en: …… surrounded him.
-?#tr.en: He carried …… and the spirits felt insulted (?) by him.
-?#tr.en: He caused (?) …….
-?$ (@gap{1 line fragmentary}) 
-?#tr.en: He kissed his beloved wife,
-?#tr.en: and hit his wife when he was angry with her.
-?#tr.en: He kissed his beloved child,
-?#tr.en: and hit his son when he was angry with him.
-?#tr.en: He aroused an outcry and was detained in the nether world.
+#tr.en: He carried …… and the spirits felt insulted (?) by him.
 #lem: X; il[raise]; gidim[spirit of a deceased person]; ur[be convulsed]
 #etcsl: line-id=5.A.2
 
 5.A.3. [...] im-ma-ni-in#-ŋar
+#tr.en: He caused (?) …….
 #lem: X; ŋar[put]
 #etcsl: line-id=5.A.3
 
 5.A.4. [...] X-bi im-ma#-ŋa₂-ŋa₂
+#tr.en: ($fragmentary$)
 #lem: X; X; ŋar[put]
 #etcsl: line-id=5.A.4
 
 5.A.5. [dam ki aŋ₂-ŋa₂-a-ni] ne# im-ma-ni-su-ub#
+#tr.en: He kissed his beloved wife,
 #lem: dam[spouse]; ki[place]; aŋ[measure]; ne[cvne]; sub[rub]
 #etcsl: line-id=5.A.5
 
 5.A.6. [dam] hul# [gig]-ga-a-ni# im-ma-ni-ib-ra
+#tr.en: and hit his wife when he was angry with her.
 #lem: dam[spouse]; hulu[bad]; gig[sick]; rah[beat]
 #etcsl: line-id=5.A.6
 
 5.A.7. [dumu] ki aŋ₂-[ŋa₂-a-ni ne] im#-ma-ni-su#-ub
+#tr.en: He kissed his beloved child,
 #lem: dumu[child]; ki[place]; aŋ[measure]; ne[cvne]; sub[rub]
 #etcsl: line-id=5.A.7
 
 5.A.8. dumu# hul gig#-ga-a-ni [im-ma]-ni#-ib-ra#
+#tr.en: and hit his son when he was angry with him.
 #lem: dumu[child]; hulu[bad]; gig[sick]; rah[beat]
 #etcsl: line-id=5.A.8
 
 5.A.9. i-{d}utu-bi kur-ra ba-e-dab-be₂#
+#tr.en: He aroused an outcry and was detained in the nether world.
 #lem: iʾutu[complaint]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.9
 
 5.A.10. ud hul-ŋal₂-da en-na ud# 7-na#-še₃
+#tr.en: From that fateful day and for seven days his servant, @wPN{Enkidu}, did not come out from the nether world.
 #lem: ud[sun]; huluŋal[evil]; enna[until]; ud[sun]; n
 #etcsl: line-id=5.A.10
 
 5.A.11. šubur-ra-a-ni {d}en-ki-du₁₀-ra kur-ta nu-mu-un-ed₂-de₃
-?#tr.en: From that fateful day and for seven days his servant, @wPN{Enkidu}, did not come out from the nether world.
-?#tr.en: The king was lamenting, crying bitterly: @q[Gilgamec,]{“My beloved servant, my faithful companion, my counsellor, has been seized in the nether world!
-?#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him; but he was seized in the nether world.
-?#tr.en: The @fsux{udug} of @wDN{Nergal} who …… did not seize him,
-?#tr.en: but he was seized in the nether world.
-?#tr.en: He did not fall in battle on the field of ……,
-?#tr.en: but he was seized in the nether world.”}
+#tr.en: The king was lamenting, crying bitterly: @q[Gilgamec,]{“My beloved servant, my faithful companion, my counsellor, has been seized in the nether world!
 #lem: subur[slave]; Enkidu[1]PN; kur[mountain(s)]; e[leave]
 #etcsl: line-id=5.A.11
 
 5.A.12. lugal-e i-lu mu-un-na-ab-be₂ er₂# gig# šeₓ(|A.IGI|)-šeₓ(|A.IGI|)
+#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him; but he was seized in the nether world.
 #lem: lugal[king]; ilu[lament]; e[speak]; er[tears]; gig[sick]; šeš[weep]
 #etcsl: line-id=5.A.12
 
 5.A.13. šubur šag₄-ga-a-ŋu₁₀ tab-ba gen₆-na#-[a-ŋu₁₀] ad# [gi₄]-gi₄#-a-ŋu₁₀# kur-ra im#-[ma-an-dab]
+#tr.en: The @fsux{udug} of @wDN{Nergal} who …… did not seize him,
 #lem: subur[slave]; šag[heart]; taba[companion]; gin[confirm]; ad[voice]; gi[turn]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.13
 
 5.A.14. nam-tar nu-dab a₂-sag₃ nu-dab# kur-ra# im#-ma-an#-[dab]
+#tr.en: but he was seized in the nether world.
 #lem: Namtar[1]DN; dab[seize]; Asag[1]DN; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.14
 
 5.A.15. {d}udug {d}nergal saŋ [...] X nu-dab# kur-ra im-ma#-[an]-dab#
+#tr.en: He did not fall in battle on the field of ……,
 #lem: udug[demon]; Nergal[1]DN; saŋ[head]; X; X; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.15
 
 5.A.16. ki# nam#-X me₃ nu-un-šub kur-ra im-ma-ab#-dab
+#tr.en: but he was seized in the nether world.”}
 #lem: ki[place]; X; me[battle]; šub[fall]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.16
 
 5.A.17. e₂-kur-ra e₂ {[d]}[en]-lil₂-la₂#-[a]-še₃# ŋiri₃-ni dili mu-un-gub
+#tr.en: He directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}.
 #lem: Ekur[1]TN; e[house]; Enlil[1]DN; ŋiri[foot]; dili[single]; gub[stand]
 #etcsl: line-id=5.A.17
 
 5.A.18. igi  %e  {d}mu-ul-lil₂-la₂-še₃  %s  KA DI# X X MA X ba#-gub
-?#tr.en: He directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}.
-?#tr.en: Before @wDN{Enlil}, he ……: @q[Gilgamec,Enlil]{“My ball (?) fell down into the nether world,
-?#tr.en: my mallet (?) fell down into @wGN{Ganzer}. But @wPN{Enkidu}, going down to retrieve them,
-?#tr.en: my beloved servant, my faithful companion, my counsellor, was seized in the nether world.
-?#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him,
-?#tr.en: but he was seized in the nether world.
-?#tr.en: …… did not seize him,
-?#tr.en: but he was seized in the nether world.”}
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: Before @wDN{Enlil}, he ……: @q[Gilgamec,Enlil]{“My ball (?) fell down into the nether world,
 #lem: igi[eye]; Mullil[1]DN; X; X; X; X; X; X; gub[stand]
 #etcsl: line-id=5.A.18
 
 5.A.19. {ŋiš}ellag-a-ŋu₁₀ kur-ta# [mu]-un#-[da]-šub
+#tr.en: my mallet (?) fell down into @wGN{Ganzer}. But @wPN{Enkidu}, going down to retrieve them,
 #lem: ellag[ball]; kur[mountain(s)]; šub[fall]
 #etcsl: line-id=5.A.19
 
 5.A.20. {ŋiš}e-AG-a-ŋu₁₀ ganzerₓ(|KUR.ZA.KUR.ZI|)-da mu-un-da-šub#
+#tr.en: my beloved servant, my faithful companion, my counsellor, was seized in the nether world.
 #lem: ekema[mallet]; Ganzer[1]GN; šub[fall]
 #etcsl: line-id=5.A.20
 
 5.A.21. {d}en-ki-du₁₀ ed₂-de₃ ed₃#-de₃#
+#tr.en: @wDN{Namtar} did not seize him, the Asag did not seize him,
 #lem: Enkidu[1]PN; e[leave]; ed[go up]
 #etcsl: line-id=5.A.21
 
 5.A.22. [šubur] šag₄#-ga-a-ŋu₁₀ tab-ba gen₆-na-a-ŋu₁₀ ad# gi₄#-gi₄-a-ŋu₁₀# [kur-ra im]-ma-an#-dab#
+#tr.en: but he was seized in the nether world.
 #lem: subur[slave]; šag[heart]; taba[companion]; gin[confirm]; ad[voice]; gi[turn]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.22
 
 5.A.23. [nam-tar nu-dab] a₂#-sag₃ nu-dab kur-ra# [im-ma-an-dab]
+#tr.en: …… did not seize him,
 #lem: Namtar[1]DN; dab[seize]; Asag[1]DN; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.23
 
 5.A.24. [...] X X X nu-dab# kur#-[ra im-ma-an-dab]
+#tr.en: but he was seized in the nether world.”}
 #lem: X; X; X; X; dab[seize]; kur[mountain(s)]; dab[seize]
 #etcsl: line-id=5.A.24
 
@@ -2080,21 +2078,64 @@ $ (unknown no. of lines missing)
 @div segment B
 
 5.B.1. [lu₂ dumu 1-am₃ igi] bi₂#-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him
 #lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
 #etcsl: line-id=5.B.1
 
 5.B.2. [a-na-gin₇] i₃#-ŋal₂
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him
-?#tr.en: who had one son?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He weeps bitterly …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him
-?#tr.en: who had two sons?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He sits on …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had three sons?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He drinks water …….”}
+#tr.en: who had one son?
+#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=5.B.2
+
+5.B.3. [...] gig-ga X i
+#tr.en: How does he fare?”}
+#lem: X; gig[sick]; X; e[bring out]
+#etcsl: line-id=5.B.3
+
+5.B.4. [lu₂] dumu#-ne 2-am₃# igi# bi₂-du₈-a
+#tr.en: @q[Enkidu,Gilgamec]{“He weeps bitterly …….”}
+#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
+#etcsl: line-id=5.B.4
+
+5.B.5. [a-na-gin₇] i₃-ŋal₂
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him
+#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=5.B.5
+
+5.B.6. [...] X a-ab-tuš X
+#tr.en: who had two sons?
+#lem: X; X; tuš[sit (down)]; X
+#etcsl: line-id=5.B.6
+
+5.B.7. [lu₂ dumu]-ne# 3-am₃ igi bi₂-du₈-a
+#tr.en: How does he fare?”}
+#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
+#etcsl: line-id=5.B.7
+
+5.B.8. [a-na-gin₇] i₃-ŋal₂
+#tr.en: @q[Enkidu,Gilgamec]{“He sits on …….”}
+#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=5.B.8
+
+5.B.9. [...] a mu-na₈-na₈
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had three sons?
+#lem: X; a[water]; naŋ[drink]
+#etcsl: line-id=5.B.9
+
+5.B.10. [lu₂ dumu-ne 4-am₃] igi bi₂-du₈-a
+#tr.en: How does he fare?”}
+#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
+#etcsl: line-id=5.B.10
+
+5.B.11. a#-na-gin₇# i₃-ŋal₂
+#tr.en: @q[Enkidu,Gilgamec]{“He drinks water …….”}
+#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=5.B.11
+
+@variants
+
+#etcsl#ms 1 ms. adds 1 line:
+5.B.11A. lu₂ anše# [4 la₂-gin₇]
 ?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who had four sons?
 ?#tr.en: How does he fare?”}
 ?#tr.en: @q[Enkidu,Gilgamec]{“His heart is happy @vart[t1814.v31,t1814.v31]{@varn{1 ms. adds:} like a man who has four asses to yoke }.”} @q[Gilgamec,Enkidu]{“Did
@@ -2113,49 +2154,6 @@ $ (unknown no. of lines missing)
 ?#tr.en: How does he fare?”}
 ?#tr.en: @q[Enkidu,Gilgamec]{“Like (?) …… he eats bread.”}
 ?$ (@gap{approx. 3 lines missing}) 
-#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
-#etcsl: line-id=5.B.2
-
-5.B.3. [...] gig-ga X i
-#lem: X; gig[sick]; X; e[bring out]
-#etcsl: line-id=5.B.3
-
-5.B.4. [lu₂] dumu#-ne 2-am₃# igi# bi₂-du₈-a
-#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
-#etcsl: line-id=5.B.4
-
-5.B.5. [a-na-gin₇] i₃-ŋal₂
-#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
-#etcsl: line-id=5.B.5
-
-5.B.6. [...] X a-ab-tuš X
-#lem: X; X; tuš[sit (down)]; X
-#etcsl: line-id=5.B.6
-
-5.B.7. [lu₂ dumu]-ne# 3-am₃ igi bi₂-du₈-a
-#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
-#etcsl: line-id=5.B.7
-
-5.B.8. [a-na-gin₇] i₃-ŋal₂
-#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
-#etcsl: line-id=5.B.8
-
-5.B.9. [...] a mu-na₈-na₈
-#lem: X; a[water]; naŋ[drink]
-#etcsl: line-id=5.B.9
-
-5.B.10. [lu₂ dumu-ne 4-am₃] igi bi₂-du₈-a
-#lem: lu[person]; dumu[child]; n; igi[eye]; du[spread]
-#etcsl: line-id=5.B.10
-
-5.B.11. a#-na-gin₇# i₃-ŋal₂
-#lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
-#etcsl: line-id=5.B.11
-
-@variants
-
-#etcsl#ms 1 ms. adds 1 line:
-5.B.11A. lu₂ anše# [4 la₂-gin₇]
 #lem: lu[person]; anše[equid]; n; la[hang]
 #etcsl: line-id=5.B.11A
 
@@ -2218,218 +2216,217 @@ $ (unknown no. of lines missing)
 
 $ (approx. 3 lines missing)
 5.B.29. [...] X [...] igi# [bi₂-du₈-a]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him ……?
 #lem: X; X; X; igi[eye]; du[spread]
 #etcsl: line-id=5.B.29
 
 5.B.30. [a-na-gin₇] i₃-[ŋal₂]
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him ……?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He drinks water …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him ……?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He …… as the worms eat at him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a dog?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He …… @q{“O my hands!
-?#tr.en: O my legs!
-?#tr.en: O ……!”}”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him hit (?) by the mast of a boat?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“@q{“Alas, my mother”} the man cries to her, …… wooden peg ……, he …… food, cross beam (?), crumbs …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?
-?#tr.en: How does she fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“Like a …… pot, she is thrown away violently, she …… nobody.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?
-?#tr.en: How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“You finish a reed mat and he weeps over the reed mat.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?
-?#tr.en: How does she fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“You finish a …… garment and she weeps over the …… garment.”}
+#tr.en: How does he fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.30
 
 5.B.31. [...] X a na₈-na₈
+#tr.en: @q[Enkidu,Gilgamec]{“He drinks water …….”}
 #lem: X; X; a[water]; naŋ[drink]
 #etcsl: line-id=5.B.31
 
 5.B.32. [...]-am₃ igi bi₂-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him ……?
 #lem: X; igi[eye]; du[spread]
 #etcsl: line-id=5.B.32
 
 5.B.33. [a-na]-gin₇# i₃-ŋal₂
+#tr.en: How does he fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.33
 
 5.B.34. [...] X HAR im-da-ab-gu₇-e
+#tr.en: @q[Enkidu,Gilgamec]{“He …… as the worms eat at him.”}
 #lem: X; X; X; gu[eat]
 #etcsl: line-id=5.B.34
 
 5.B.35. lu₂ ur#-e gu₇-a igi bi₂-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a dog?
 #lem: lu[person]; ur[dog]; gu[eat]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.35
 
 5.B.36. a-na-gin₇ i₃-ŋal₂
+#tr.en: How does he fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.36
 
 5.B.37. a₂ šu-ŋu₁₀# a₂ ŋiri₃-ŋu₁₀ a₂ [...]
+#tr.en: @q[Enkidu,Gilgamec]{“He …… @q{“O my hands!
 #lem: aya[cry]; šu[hand]; aya[cry]; ŋiri[foot]; aya[cry]; X
 #etcsl: line-id=5.B.37
 
 5.B.38. lu₂ dimgul <ra> igi [bi₂-du₈-a]
+#tr.en: O my legs!
 #lem: lu[person]; dimgal[pole]; rah[beat]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.38
 
 5.B.39. a-na-gin₇ i₃-[ŋal₂]
+#tr.en: O ……!”}”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.39
 
 5.B.40. a₂-še₃ ama-ŋu₁₀ lu₂ mu-na-be₂
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him hit (?) by the mast of a boat?
 #lem: aše[now]; ama[mother]; lu[person]; e[speak]
 #etcsl: line-id=5.B.40
 
 5.B.41. {ŋiš}gag-e du₃-du₃# [...]
+#tr.en: How does he fare?”}
 #lem: gag[nail]; du[build]; X
 #etcsl: line-id=5.B.41
 
 5.B.42. niŋ₂-gu₇-e saŋ-du# ninda bad-bad-de₃ niŋ₂ gul-gul [...]
+#tr.en: @q[Enkidu,Gilgamec]{“@q{“Alas, my mother”} the man cries to her, …… wooden peg ……, he …… food, cross beam (?), crumbs …….”}
 #lem: niŋgu[food]N; saŋdu[wooden beam]; ninda[bread]; pad[break (into bits)]; niŋ[thing]; gul[destroy]; X
 #etcsl: line-id=5.B.42
 
 5.B.43. munus nu-u₃-tud# X igi bi₂#-[du₈-a]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?
 #lem: munus[woman]; utud[give birth (to)]; X; igi[eye]; du[spread]
 #etcsl: line-id=5.B.43
 
 5.B.44. a-na-gin₇ i₃-ŋal₂#
+#tr.en: How does she fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.44
 
 5.B.45. {dug}sahar# X-ga# til₃-la in-šub lu₂ na#-[me nu-mu]-ši-la₂-e
+#tr.en: @q[Enkidu,Gilgamec]{“Like a …… pot, she is thrown away violently, she …… nobody.”}
 #lem: sahar[vessel]; X; til[complete]; šub[fall]; lu[person]; name[any]; la[hang]
 #etcsl: line-id=5.B.45
 
 5.B.46. ŋuruš tur ur₂# dam#-na-ke₄ tug₂ nu-sig₉-ga igi [bi₂]-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?
 #lem: ŋuruš[young adult male]; tur[small]; ur[loin]; dam[spouse]; tug[textile]; sig[put into]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.46
 
 5.B.47. a-na-gin₇ i₃-ŋal₂
+#tr.en: How does he fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.47
 
 5.B.48. gi-šu-ak-a šu mi-ni-du₈ ugu# gi-šu-ak-a gig I [...]
+#tr.en: @q[Enkidu,Gilgamec]{“You finish a reed mat and he weeps over the reed mat.”}
 #lem: gišuak[mat]; šu[hand]; du[spread]; ugu[skull]; gišuak[mat]; gig[sick]; X; X
 #etcsl: line-id=5.B.48
 
 5.B.49. ki-sikil tur ur₂ dam-na-ke₄ {ŋiš}dala₂ nu-du₁₀ igi bi₂-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?
 #lem: kisikil[young woman]; tur[small]; ur[loin]; dam[spouse]; dala[thorn]; du[spread]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.49
 
 5.B.50. a-na-gin₇ i₃-ŋal₂
+#tr.en: How does she fare?”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.50
 
 5.B.51. {tug₂}eš₅-tab-ba šu im-mi-du₈ ugu eš₅!-tab-ba-a gig-ga i
+#tr.en: @q[Enkidu,Gilgamec]{“You finish a …… garment and she weeps over the …… garment.”}
 #lem: eštaba[three-ply garment]; šu[hand]; du[spread]; ugu[skull]; eštaba[three-ply garment]; gig[sick]; e[bring out]
 #etcsl: line-id=5.B.51
 
 5.B.52. lu₂ AN ni₂ buluŋ₅-ŋa₂ igi bi₂-du₈-a
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who …… extolled himself? How does he fare?”}
 #lem: lu[person]; X; ni[self]; buluŋ[grow]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.52
 
 5.B.53. a-na-gin₇ i₃-ŋal₂
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who …… extolled himself? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“He bows down (?) like an ox as the worms eat at him.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof? How does he fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“His bones …… and his spirit …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see ……? How does he fare?”} @q[Enkidu,Gilgamec]{“He …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see the leprous man?
-?#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“His water is set apart,
-?#tr.en: his food is set apart. He …… the spirits.
-?#tr.en: He lives outside the city.”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Did you see my stillborn children who never received a name?
-?#tr.en: How do they fare?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“They play at a table of gold and silver …….”}
-?#tr.en: @q[Gilgamec,Enkidu]{“Didn't you see him who was set on fire?”}
-?#tr.en: @q[Enkidu,Gilgamec]{“Why, my friend, did not you spare this question?”}
-?#tr.en: @q[Gilgamec,Enkidu]{“I asked it, my friend!”}
-?#tr.en: @q[Enkidu,Gilgamec]{“His spirit is …… from the nether world,
-?#tr.en: it went up to the sky with the smoke (?).”}
+#tr.en: @q[Enkidu,Gilgamec]{“He bows down (?) like an ox as the worms eat at him.”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.53
 
 5.B.54. gud-gin₇ im-gam HAR im-da-gu₇-e
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof? How does he fare?”}
 #lem: gud[bull]; gurum[bend]; X; gu[eat]
 #etcsl: line-id=5.B.54
 
 5.B.55. lu₂ ur₃ šub-ba igi bi₂-du₈-a
+#tr.en: @q[Enkidu,Gilgamec]{“His bones …… and his spirit …….”}
 #lem: lu[person]; ur[roof]; šub[fall]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.55
 
 5.B.56. a-na-gin₇ i₃-ŋal₂
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see ……? How does he fare?”} @q[Enkidu,Gilgamec]{“He …….”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.56
 
 5.B.57. ŋiri₃-pad-a-ni X X gidim#-a-ni di in-du₈-a igi bi₂#-[du₈-a]
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see the leprous man?
 #lem: ŋiripadra[bone]; X; X; gidim[spirit of a deceased person]; did[lawsuit]; du[spread]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.57
 
 5.B.58. a-na-gin₇ [i₃-ŋal₂ ...]
+#tr.en: How does he fare?”} @q[Enkidu,Gilgamec]{“His water is set apart,
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]; X
 #etcsl: line-id=5.B.58
 
 5.B.59. lu₂-sahar-šub-ba igi bi₂-du₈-a a-na-gin₇# i₃#-[ŋal₂]
+#tr.en: his food is set apart. He …… the spirits.
 #lem: lusaharšuba[leper]; igi[eye]; du[spread]; anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.59
 
 5.B.60. a al-bar-ra u₂ al-bar-ra
+#tr.en: He lives outside the city.”}
 #lem: a[water]; bar[place outside]; u[plant(s)]; bar[place outside]
 #etcsl: line-id=5.B.60
 
 5.B.61. udug di in-du₈ bar-bi-a im-tuš
+#tr.en: @q[Gilgamec,Enkidu]{“Did you see my stillborn children who never received a name?
 #lem: udug[demon]; did[lawsuit]; du[spread]; bar[outside]; tuš[sit (down)]
 #etcsl: line-id=5.B.61
 
 5.B.62. niŋin₃-ŋu₁₀ nu-sa₄#-am₃ igi bi₂-du₈-a
+#tr.en: How do they fare?”}
 #lem: niŋin[fetus]; še[call by name]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.62
 
 5.B.63. a-na-gin₇ i₃-ŋal₂
+#tr.en: @q[Enkidu,Gilgamec]{“They play at a table of gold and silver …….”}
 #lem: anagin[how?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=5.B.63
 
 5.B.64. {ŋiš}banšur# kug#-[sig₁₇ kug-babbar ...] X-e-ne [im-di-e-ne]
+#tr.en: @q[Gilgamec,Enkidu]{“Didn't you see him who was set on fire?”}
 #lem: banšur[table]; kugsig[gold]; kugbabbar[silver]; X; X; e[speak]
 #etcsl: line-id=5.B.64
 
 5.B.65. lu₂ izi X la₂# igi nu-bi₂#-du₈-[a]
+#tr.en: @q[Enkidu,Gilgamec]{“Why, my friend, did not you spare this question?”}
 #lem: lu[person]; izi[fire]; X; la[hang]; igi[eye]; du[spread]
 #etcsl: line-id=5.B.65
 
 5.B.66. a-na-aš-am₃ gu₅-li#-a-ŋu₁₀ nu-bi₂-in-tar X
+#tr.en: @q[Gilgamec,Enkidu]{“I asked it, my friend!”}
 #lem: anaš[why?]; guli[friend]; tar[cut]; X
 #etcsl: line-id=5.B.66
 
 5.B.67. en₃-bi in-tar gu₅-li-a-ŋu₁₀
+#tr.en: @q[Enkidu,Gilgamec]{“His spirit is …… from the nether world,
 #lem: en[cvne]; tar[cut]; guli[friend]
 #etcsl: line-id=5.B.67
 
 5.B.68. gidim#-a-ni kur-ta [...] X X e#-bi#-da an-e ba-e
+#tr.en: it went up to the sky with the smoke (?).”}
 #lem: gidim[spirit of a deceased person]; kur[mountain(s)]; X; X; X; ibi[smoke]; an[sky]; ed[go up]
 #etcsl: line-id=5.B.68
 
 5.B.69. šag₄# ba-sag₃ mu-ra#-a-ni# ba-uš₂
+#tr.en: His heart was smitten, his insides were ravaged.
 #lem: šag[heart]; sag[strike]; ur[liver]; uš[die]
 #etcsl: line-id=5.B.69
 
 5.B.70. lugal-[e] X nam-til₃-la i₃-kiŋ₂#-[kiŋ₂]
-?#tr.en: His heart was smitten, his insides were ravaged.
-?#tr.en: The king began to search for life.
-?#tr.en: Now the lord once decided to set off for the mountain where the man lives.
-?#tr.en: 
+#tr.en: The king began to search for life.
 #lem: lugal[king]; X; namtil[life]; kiŋ[seek]
 #etcsl: line-id=5.B.70
 
 5.B.71. en-e kur lu₂# til₃#-la-še₃ {ŋiš#-tug₂#}ŋeštug#-ga#-[ni] na#-an-gub
+#tr.en: Now the lord once decided to set off for the mountain where the man lives.
 #lem: en[lord]; kur[mountain(s)]; lu[person]; til[live (of a single person)]; ŋeštug[ear]; gub[stand]
 #etcsl: line-id=5.B.71
 

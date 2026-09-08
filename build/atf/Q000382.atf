@@ -1174,30 +1174,29 @@ $ (unknown no. of lines missing)
 @div kirugu K
 
 1. ki#-bal# e₂# [...] UR [...]
+#tr.en: The enemy land …….
 #lem: kibala[rebel land]; e[house]; X; X; X
 #etcsl: line-id=F.K.1
 
 #etcsl#doc probable beginning of another kirugu
 
 2. ki zabalam{ki} [...] TA# [...]
-?#tr.en: The enemy land …….
-?#tr.en: @wSN{Zabalam} …….
-?#tr.en: In @wSN{Urim}, the @wTN{E-kiš-nu-ŋal} …….
-?#tr.en: Cattlepen and sheepfold ……, evil …….
-?#tr.en: The land of Subir …….
-?$ (@gap{200-300 lines missing}) 
+#tr.en: @wSN{Zabalam} …….
 #lem: ki[place]; Zabalam[1]SN; X; X; X
 #etcsl: line-id=F.K.2
 
 3. urim₂{ki} e₂-kiš#-[nu-ŋal₂ ...] TA [...]
+#tr.en: In @wSN{Urim}, the @wTN{E-kiš-nu-ŋal} …….
 #lem: Urim[1]SN; Ekišnuŋal[1]TN; X; X; X
 #etcsl: line-id=F.K.3
 
 4. tur₃ {e₂}amaš e₂ X [...] hul [...]
+#tr.en: Cattlepen and sheepfold ……, evil …….
 #lem: tur[animal stall]; amaš[sheepfold]; e[house]; X; X; hulu[bad]; X
 #etcsl: line-id=F.K.4
 
 5. ki# su-bir₄#{[ki]}
+#tr.en: The land of Subir …….
 #lem: ki[place]; Subir[1]GN
 #etcsl: line-id=F.K.5
 
@@ -1211,30 +1210,29 @@ $ 200-300 lines missing
 @div kirugu L
 
 1. diŋir gal-gal# [...]
+#tr.en: All the great gods …….
 #lem: diŋir[deity]; gal[big]; X
 #etcsl: line-id=G.L.1
 
 #etcsl#doc part of 11th kirugu
 
 2. {d}a-nun-na [...]
-?#tr.en: All the great gods …….
-?#tr.en: The @wDN{Anuna} gods …….
-?$ (@gap{1 line fragmentary}) 
-?#tr.en: Sovereigns …….
-?$ (@gap{1 line fragmentary}) 
-?$ (@gap{unknown no. of lines missing}) 
+#tr.en: The @wDN{Anuna} gods …….
 #lem: Anunak[1]DN; X
 #etcsl: line-id=G.L.2
 
 3. DI NE X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=G.L.3
 
 4. barag-barag# [...]
+#tr.en: Sovereigns …….
 #lem: barag[sanctum]; X
 #etcsl: line-id=G.L.4
 
 5. IM# [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=G.L.5
 
@@ -1248,189 +1246,201 @@ $ (unknown no. of lines missing)
 @div kirugu M
 
 1. nin nam-gal-la-ni kur-ra dirig-ga
+#tr.en: Lady @wDN{Inana} whose greatness is vaster than the mountains,
 #lem: nin[lady]; namgal[greatness]; kur[mountain(s)]; dirig[make more than]
 #etcsl: line-id=H.M.1
 
 #etcsl#doc beginning of 12th kirugu
 
 2. an-gin₇ dib {d}en-lil₂-gin₇ ni₂ gur₃-ru
-?#tr.en: Lady @wDN{Inana} whose greatness is vaster than the mountains,
-?#tr.en: hovering like @wDN{An}, vested with grandeur like @wDN{Enlil},
-?#tr.en: like her father,
-?#tr.en: perfect by night and in the heat of the day,
-?#tr.en: like @wDN{Utu}, surpassing in vigour,
-?#tr.en: singularly exalted in all the four regions -- let @wRN{Išme-@wDN{Dagan}} take pleasure in relaxing in your temple,
-?#tr.en: let him murmer to you in your temple,
-?#tr.en: let him raise his head to you in your @wTN{E-ana}.
+#tr.en: hovering like @wDN{An}, vested with grandeur like @wDN{Enlil},
 #lem: An[1]DN; dib[pass]; Enlil[1]DN; ni[fear]; gur[lift]
 #etcsl: line-id=H.M.2
 
 3. a-a-ni-gin₇ ŋi₆ an-šeŋ₆-ŋa₂-ba he₂-du₇
+#tr.en: like her father,
 #lem: aya[father]; ŋi[night]; šeŋ[cook]; hedu[ornament]
 #etcsl: line-id=H.M.3
 
 4. {d}utu-gin₇ nam-šul-la zag dib
+#tr.en: perfect by night and in the heat of the day,
 #lem: Utu[1]DN; namšul[manhood]; zag[side]; dib[pass]
 #etcsl: line-id=H.M.4
 
 5. ub-da limmu-ba dili-ni mah
+#tr.en: like @wDN{Utu}, surpassing in vigour,
 #lem: ub[corner]; limmu[four]; dili[single]; mah[great]
 #etcsl: line-id=H.M.5
 
 6. ni₂ dub₂-ba e₂-za hu-mu-hul₂-le
+#tr.en: singularly exalted in all the four regions -- let @wRN{Išme-@wDN{Dagan}} take pleasure in relaxing in your temple,
 #lem: ni[self]; dub[tremble]; e[house]; hul[rejoice]
 #etcsl: line-id=H.M.6
 
 7. e₂-za mul-ma-al hu-mu-ri-ib-za
+#tr.en: let him murmer to you in your temple,
 #lem: e[house]; mulmal[sound (onomatopoeic)]; za[cvve]
 #etcsl: line-id=H.M.7
 
 8. e₂-an-na-za saŋ hu-mu-ri-in-il₂
+#tr.en: let him raise his head to you in your @wTN{E-ana}.
 #lem: Eanak[1]TN; saŋ[head]; il[raise]
 #etcsl: line-id=H.M.8
 
 9. {d}iš-me-{d}da-gan u₂-a-zu ha-ra-da-gub
+#tr.en: Let @wRN{Išme-@wDN{Dagan}} serve you as your steward. Let him prepare great bulls for you.
 #lem: Išmedagan[1]RN; ua[provisioner]; gub[stand]
 #etcsl: line-id=H.M.9
 
 10. gud gal-gal-e si ha-ra-ni-ib-sa₂
-?#tr.en: Let @wRN{Išme-@wDN{Dagan}} serve you as your steward. Let him prepare great bulls for you.
-?#tr.en: Let him dedicate great offerings to you. Let him make the beer,
-?#tr.en: fat and oil plentiful for you.
-?#tr.en: Let him make syrup and wine flow for you as from stone jars.
-?#tr.en: Let @wRN{Išme-@wDN{Dagan}}, son of @wDN{Enlil} on the king's pedestal,
-?#tr.en: bow in homage to you.
-?#tr.en: May he make the @fsux{ub} and @fsux{ala} drums resound grandly for you.
-?#tr.en: May the @fsux{tigi} sound sweetly for you,
-?#tr.en: and may the @fsux{zamzam} play for you.
-?#tr.en: May they play …… on the @fsux{tigi} for you,
-?#tr.en: expressing your prayers and supplications before you.
+#tr.en: Let him dedicate great offerings to you. Let him make the beer,
 #lem: gud[bull]; gal[big]; si[horn]; sa[equal]
 #etcsl: line-id=H.M.10
 
 11. nidba gal-gal-e ŋiš hu-mu-ra-ab-tag-ge
+#tr.en: fat and oil plentiful for you.
 #lem: nindaba[(food) offering]; gal[big]; ŋeš[tree]; tag[touch]
 #etcsl: line-id=H.M.11
 
 12. kaš i₃-udu i₃ hu-mu-ra-ab-šar₂-e
+#tr.en: Let him make syrup and wine flow for you as from stone jars.
 #lem: kaš[beer]; lib[sheep fat]; i[oil]; šar[numerous]V/i
 #etcsl: line-id=H.M.12
 
 13. lal₃ ŋeštin bur-gin₇ ha-ra-ab-de₂-e
+#tr.en: Let @wRN{Išme-@wDN{Dagan}}, son of @wDN{Enlil} on the king's pedestal,
 #lem: lal[syrup]; ŋeštin[vine]; bur[(stone) bowl]; de[pour]
 #etcsl: line-id=H.M.13
 
 14. {d}iš-me-{d}da-gan-e ki lugal gub-ba
+#tr.en: bow in homage to you.
 #lem: Išmedagan[1]RN; ki[place]; lugal[king]; gub[stand]
 #etcsl: line-id=H.M.14
 
 15. dumu {d}en-lil₂-la₂ giri₁₇ šu ha-ra-ab-tag-ge
+#tr.en: May he make the @fsux{ub} and @fsux{ala} drums resound grandly for you.
 #lem: dumu[child]; Enlil[1]DN; kiri[nose]; šu[hand]; tag[touch]
 #etcsl: line-id=H.M.15
 
 16. ub₃ a₂-la₂-e gu₃ nun hu-mu-ra-ab-be₂
+#tr.en: May the @fsux{tigi} sound sweetly for you,
 #lem: ub[drum]; ala[wooden drum]; gu[voice]; nun[prince]; e[speak]
 #etcsl: line-id=H.M.16
 
 17. tigi a-ra-dug₃ za-am-za-am hu-mu-ra-ab-du₁₂
+#tr.en: and may the @fsux{zamzam} play for you.
 #lem: tigi[drum or other musical instrument]; dug[good]; zamzam[musical instrument]; du[play (a musical instrument)]
 #etcsl: line-id=H.M.17
 
 18. [...] X X tigi-a hu-mu-ra-ab-du₁₂
+#tr.en: May they play …… on the @fsux{tigi} for you,
 #lem: X; X; X; tigi[drum or other musical instrument]; du[play (a musical instrument)]
 #etcsl: line-id=H.M.18
 
 19. [sizkur] a-ra-zu-zu saŋ-bi-še₃ ha-ra-e₃
+#tr.en: expressing your prayers and supplications before you.
 #lem: siškur[prayer]; arazu[supplication]; saŋ[head]; e[leave]
 #etcsl: line-id=H.M.19
 
 20. X [...] e₃-a ŋal₂-ŋal₂-la-še₃
+#tr.en: In bringing forth ……, all that there are,
 #lem: X; X; e[leave]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=H.M.20
 
 21. unug#{ki} e₂-ŋi₆-par₄-ra-za
-?#tr.en: In bringing forth ……, all that there are,
-?#tr.en: at your @wTN{E-ŋipar} in @wSN{Unug},
-?#tr.en: as a humble man who has grasped your feet,
-?#tr.en: as a reverent man who has experienced your exaltedness,
-?#tr.en: he has brought a lament as offering to you and will …….
-?#tr.en: As for everything that happened to @wGN{Sumer} and @wGN{Akkad},
-?#tr.en: which he has witnessed in @wSN{Unug}, the aggrieved place,
-?#tr.en: may the best singers perform songs there.
+#tr.en: at your @wTN{E-ŋipar} in @wSN{Unug},
 #lem: Unug[1]SN; Eŋipar[1]TN
 #etcsl: line-id=H.M.21
 
 22. lu₂# sun₅-na ŋiri₃-zu mu-un-dab₅-ba
+#tr.en: as a humble man who has grasped your feet,
 #lem: lu[person]; sun[humble]; ŋiri[foot]; dab[seize]
 #etcsl: line-id=H.M.22
 
 23. ni₂-tuku nam-mah-zu mu-un-zu-a
+#tr.en: as a reverent man who has experienced your exaltedness,
 #lem: nituku[pious]; nammah[greatness]; zu[know]
 #etcsl: line-id=H.M.23
 
 24. er₂ sizkur-ra-ta ma-ra-an-de₆ u₃-mu-un-[X X]
+#tr.en: he has brought a lament as offering to you and will …….
 #lem: er[tears]; siškur[prayer]; de[carry]; X; X
 #etcsl: line-id=H.M.24
 
 25. niŋ₂ ki-en-gi ki-uri a-na-ab-ak
+#tr.en: As for everything that happened to @wGN{Sumer} and @wGN{Akkad},
 #lem: niŋ[thing]; Kengir[1]; Akkad[1 Akkad]; ak[do]
 #etcsl: line-id=H.M.25
 
 26. unug{ki}-ga ki gig-ga igi-na bi₂-du₈-am₃
+#tr.en: which he has witnessed in @wSN{Unug}, the aggrieved place,
 #lem: Unug[1]SN; ki[place]; gig[sick]; igi[eye]; du[spread]
 #etcsl: line-id=H.M.26
 
 27. nar gal-zu šir₃-ra hu-mu-ni-ib-tum₂-tum₂
+#tr.en: may the best singers perform songs there.
 #lem: nar[musician]; galanzu[wise]; šir[song]; tum[bring]
 #etcsl: line-id=H.M.27
 
 28. u₃-mu-un-e₃-eš er₂-bi {d}a-nun-na-ke₄-ne
+#tr.en: If the @wDN{Anuna} gods emerge tearfully,
 #lem: e[leave]; er[tears]; Anunak[1]DN
 #etcsl: line-id=H.M.28
 
 29. ud an ki-in-du-a a-na ŋal₂-la-ba
+#tr.en: let them promise to us that as it was when heaven and earth came about,
 #lem: ud[sun]; an[sky]; kindu[earth]; ana[what?]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=H.M.29
 
 30. ud-bi nam-me-kur₂-ru he₂-me-ne-eš
+#tr.en: nothing of that time shall be changed.
 #lem: ud[sun]; kur[different]; e[speak]
 #etcsl: line-id=H.M.30
 
 31. an lu₂-ba-ra igi zid u₃-mu-un-ši-in-bar
+#tr.en: If @wDN{An} looks kindly upon that man and at the well-built city,
 #lem: An[1]DN; lu[person]; igi[eye]; zid[right]; bar[place outside]
 #etcsl: line-id=H.M.31
 
 32. iri{ki} du₃-a ki nam tar-re-da
+#tr.en: the place of determining fate, proclaim @q[Inana,]{“Man and city!
 #lem: iri[city]; du[build]; ki[place]; nam[fate]; tar[cut]
 #etcsl: line-id=H.M.32
 
 33. lu₂ iri-bi nam-til₃ niŋ₂ dug₃-ge
+#tr.en: Life and well-being!”} for him. Let praise ring out.
 #lem: lu[person]; iri[city]; namtil[life]; niŋ[thing]; dug[good]
 #etcsl: line-id=H.M.33
 
 34. gu₃ zig₃-mu-na-ni-ib me-teš₂ he₂-i-i
+#tr.en: Let him be made surpassing above all,
 #lem: gu[voice]; zig[rise]; meteš[praise]; e[bring out]
 #etcsl: line-id=H.M.34
 
 35. zid-da gab₂-bu-na he₂-bi₂-in-dirig
+#tr.en: to his right or left.
 #lem: zid[right]; gab[left (hand)]; dirig[make more than]
 #etcsl: line-id=H.M.35
 
 36. {d}lamma ŋa₂-la nu-dag-ge saŋ-ŋa₂-na tuku-bi₂-ib
+#tr.en: Tireless @fsux{lamma} deity,
 #lem: lammar[(female) tutelary deity]; ŋala[cvne]; dag[roam around]; saŋ[head]; tuku[acquire]
 #etcsl: line-id=H.M.36
 
 37. nam-tar-ra#-[ni] inim# zid dug₄-ga-a-ba
+#tr.en: take hold of his head,
 #lem: namtar[fate]; inim[word]; zid[right]; dug[speak]
 #etcsl: line-id=H.M.37
 
 38. inim an-na# {d}en-lil₂-la₂-še₃ sud-da-še₃ nu-kur₂-ru
+#tr.en: pronounce his fate in charitable words -- by the command of @wDN{An} and @wDN{Enlil} it will remain unaltered for a long time.
 #lem: inim[word]; An[1]DN; Enlil[1]DN; sud[distant]; kur[different]
 #etcsl: line-id=H.M.38
 
 @div trailer 
 
 39. ki#-ru-gu₂ 12-kam-ma-am₃
+#tr.en: 12th @fsux{kirugu}.
 #lem: kirugu[division notation in certain literary compositions]; n
 #etcsl: line-id=H.M.39
 

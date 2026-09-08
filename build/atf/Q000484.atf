@@ -152,6 +152,7 @@ D.23. [... a]-a-zu! {[d]}[en]-lil₂#-le nam-še₃ mu-ri-in#-[tar]
 @div trailer 
 
 D.24. [sa]-gid₂-da-am₃
+#tr.en: @fsux{Sa-gida}.
 #lem: sagida[musical notation]
 #etcsl: line-id=D.24
 
@@ -162,19 +163,19 @@ D.24. [sa]-gid₂-da-am₃
 @div ŋišgiŋal E
 
 E.25. [...] {[d]}li#-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-ra
-?#tr.en: @fsux{Sa-gida}.
+#tr.en: ……,
 #lem: X; Lipiteštar[1]RN; dumu[child]; Enlil[1]DN
 #etcsl: line-id=E.25
 
 E.26. [... erim₂-ŋal₂]-la-ni gam-gam-mu-na-ab
-?#tr.en: ……,
-?#tr.en: make …… hostile to him bow down for @wRN{Lipit-@wDN{Eštar}}, the son of @wDN{Enlil}!
+#tr.en: make …… hostile to him bow down for @wRN{Lipit-@wDN{Eštar}}, the son of @wDN{Enlil}!
 #lem: X; erimŋal[wicked]; gurum[bend]
 #etcsl: line-id=E.26
 
 @div trailer 
 
 E.27. [ŋiš-gi₄-ŋal₂ sa-gid₂-da]-bi-im
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-gida}.
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 #etcsl: line-id=E.27
 
@@ -185,6 +186,18 @@ E.27. [ŋiš-gi₄-ŋal₂ sa-gid₂-da]-bi-im
 @div sa-ŋara F
 
 F.28. [...] X a-ab-ba-ta
+?$ (@gap{3 lines unclear}) 
+?#tr.en: You have counted …… as ruin-mounds, to be mixed with dust.
+?#tr.en: You have swept over ……, you obliterated it.
+?#tr.en: @wDN{Ninurta}, hero of @wDN{Enlil},
+?#tr.en: as you are sitting on your throne-dais, may your spouse,
+?#tr.en: the true lady @wDN{Ninnibru}, who embraces you,
+?#tr.en: step before you daily with friendly words on behalf of @wRN{Lipit-@wDN{Eštar}}! @wDN{Uta-ulu},
+?#tr.en: may you be his aid when he prays! May he be able to rely on your words,
+?#tr.en: may he be peerless! May he be the king whose fate @wDN{Ninurta} decides,
+?#tr.en: the one endowed with attractiveness! @wRN{Lipit-@wDN{Eštar}},
+?#tr.en: the prince who is a supporter of yours, the son of @wDN{Enlil},
+?#tr.en: has established justice in @wGN{Sumer} and @wGN{Akkad}, and made the Land feel content.
 #lem: X; X; aʾabak[sea]
 #etcsl: line-id=F.28
 
@@ -241,12 +254,14 @@ F.41. su kalam-ma mu-dug₃
 #etcsl: line-id=F.41
 
 F.42. sipad mas-su₂ tum₂-tum₂-mu gal-an-zu-a uŋ₃ ha-ra-ab-lah₄-lah₄-e
+#tr.en: May the shepherd, the expert, most wise in leading, guide the people for you!
 #lem: sipad[shepherd]; massu[leader]; tum[bring]; galanzu[wise]; uŋ[people]; lah[plural stem of tum ⟦bring⟧]
 #etcsl: line-id=F.42
 
 @div trailer 
 
 F.43. sa-ŋar-ra-am₃
+#tr.en: @fsux{Sa-ŋara}.
 #lem: saŋara[musical notation]
 #etcsl: line-id=F.43
 
@@ -257,12 +272,14 @@ F.43. sa-ŋar-ra-am₃
 @div ŋišgiŋal G
 
 G.44. ur-saŋ gal nun# {d}li-<pi₂>-it-eš₄-tar₂-ra u₃-mu-ta-sig₁₀ ki-bal nu-še-ga-na zar-gin₇ he₂-us₂-u₃-us₂
+#tr.en: Great hero, when for prince @wRN{Lipit-@wDN{Eštar}} you reduce to heaps the rebellious lands which are insubordinate to him, may ……!
 #lem: ursaŋ[warrior]; gal[big]; nun[prince]; Lipiteštar[1]RN; sig[put into]; kibala[rebel land]; šeg[agree]; zar[sheaf (of barley)]; us[accompany]
 #etcsl: line-id=G.44
 
 @div trailer 
 
 G.45. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+#tr.en: @fsux{Ŋišgiŋal} of the @fsux{sa-ŋara}.
 #lem: ŋešgiŋal[musical refrain]; saŋara[musical notation]
 #etcsl: line-id=G.45
 
@@ -273,24 +290,29 @@ G.45. ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
 @div uru H
 
 H.46. en a-ma-ru mah suhuš erim₂-ma bur₁₂-re
+#tr.en: Lord, mighty flood which tears out the roots of the enemy!
 #lem: en[lord]; amaru[flood]; mah[great]; suhuš[foundation]; erim[enemy]; bur[tear out]
 #etcsl: line-id=H.46
 
 H.47. {d}nin-urta en a-ma-ru mah suhuš erim₂-<ma> bur₁₂-re
+#tr.en: @wDN{Ninurta},
 #lem: Ninurtak[1]DN; en[lord]; amaru[flood]; mah[great]; suhuš[foundation]; erim[enemy]; bur[tear out]
 #etcsl: line-id=H.47
 
 H.48. nun {d}li-pi₂-it-eš₄-tar₂-ra {ŋiš}tukul hul-du-ni
+#tr.en: mighty flood which tears out the roots of the enemy,
 #lem: nun[prince]; Lipiteštar[1]RN; tukul[weapon]; huludu[wicked]
 #etcsl: line-id=H.48
 
 H.49. gi-gin₇# ša₅-ša₅ šu mah-a-ni si-bi₂-ib₂#
+#tr.en: may you put a weapon into the mighty hands of prince @wRN{Lipit-@wDN{Eštar}} which will snap his enemies in two as if they were reeds!
 #lem: gi[reed]; ša[snap off]; šu[hand]; mah[great]; si[fill]
 #etcsl: line-id=H.49
 
 @div trailer 
 
 H.50. u₁₉-ru₁₂-bi-im
+#tr.en: Its @fsux{uru}.
 #lem: uru[literary subscript]
 #etcsl: line-id=H.50
 
@@ -301,6 +323,7 @@ H.50. u₁₉-ru₁₂-bi-im
 @div trailer 
 
 H.51. a-da-ab {d}nin-urta-ka-kam
+#tr.en: An @fsux{adab} of @wDN{Ninurta}.
 #lem: adab[drum]; Ninurtak[1]DN
 #etcsl: line-id=H.51
 
