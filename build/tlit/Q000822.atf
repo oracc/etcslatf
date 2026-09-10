@@ -31,7 +31,7 @@
 @div version 2 (MDP 27 89)
 
 2.1. ka i₃-ŋal₂ šu nu-ni-ŋal₂
-#lem: kag[mouth]; ŋal[⟦be⟧ to be (there]; šu[hand]; ŋal[⟦be⟧ to be (there]
+#lem: kag[mouth]; ŋal[⟦be⟧ to be (there] +. ; šu[hand]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=2.1
 
 #etcsl#cf cf. 6.1.03.177, 6.2.3: UET 6/2 322 l. 3
@@ -75,11 +75,11 @@
 @div version 6 (MDP 27 214)
 
 6.1. tug₂-a du₈ nu-zu SAR-re-eš
-#lem: tug[textile]; du[spread]; zu[know]; X
+#lem: tug[textile]; du[spread]; zu[know] +. ; X
 #etcsl: line-id=6.1
 
 6.2. še in-zu tug₂ SAR-re-eš
-#lem: še[barley]; zu[know]; tug[textile]; X
+#lem: še[barley]; zu[know] +. ; tug[textile]; X
 #etcsl: line-id=6.2
 
 6.3. BA ŠE UD HU X X
@@ -91,7 +91,7 @@
 #etcsl: line-id=6.4
 
 6.5. i₃-ŋa₂-re-eš šu ba-X-re-eš
-#lem: ŋar[put]; šu[hand]; X
+#lem: ŋar[put] +. ; šu[hand]; X
 #etcsl: line-id=6.5
 
 @end version
@@ -227,7 +227,7 @@
 @div version 16 (MDP 27 215)
 
 16.1. kaš nu-zu si nu-su
-#lem: kaš[beer]; zu[know]; si[horn]; sa[equal]
+#lem: kaš[beer]; zu[know] +. ; si[horn]; sa[equal]
 #etcsl: line-id=16.1
 
 16.2. kaš sa-a ba-ab-dug₃
@@ -271,7 +271,7 @@
 @div version 20 (MDP 27 91 and MDP 27 92)
 
 20.1. a i₃-pad₃-de₃ mu-dub ba-ni-ib₂-naŋ
-#lem: a[water]; pad[find]; dub[heap up]; naŋ[drink]
+#lem: a[water]; pad[find] +. ; dub[heap up] +. ; naŋ[drink]
 #etcsl: line-id=20.1
 
 @end version
@@ -287,7 +287,7 @@
 @div version 22 (MDP 27 103)
 
 22.1. iri-ŋu₁₀ nu-la₂-a ba-e-šub-e lu₂ šub-ba nu-tuku
-#lem: iri[city]; la[hang]; šub[fall]; lu[person]; šub[fall]; tuku[acquire]
+#lem: iri[city]; la[hang] +. ; šub[fall] +. ; lu[person]; šub[fall]; tuku[acquire]
 #etcsl: line-id=22.1
 
 @end version
@@ -319,7 +319,7 @@
 @div version 26 (MDP 27 109)
 
 26.1. di inim ga-ra-dug₄# ŋeštug₂ ŋizzal he₂-em-ši-a
-#lem: did[lawsuit]; inim[word]; dug[speak]; ŋeštug[ear]; ŋizzal[hearing]; ak[do]
+#lem: did[lawsuit]; inim[word]; dug[speak] +. ; ŋeštug[ear]; ŋizzal[hearing]; ak[do]
 #etcsl: line-id=26.1
 
 @end version
@@ -327,7 +327,7 @@
 @div version 27 (MDP 27 110)
 
 27.1. igi-zu igi-zu he₂-a dug₃-zu he₂-ši-du
-#lem: igi[eye]; igi[eye]; me[be]; dug[good]; du[go]
+#lem: igi[eye]; igi[eye]; me[be] +. ; dug[good]; du[go]
 #etcsl: line-id=27.1
 
 @end version
@@ -335,7 +335,7 @@
 @div version 28 (MDP 27 211)
 
 28.1. ama-a-ni kud-am₃ a₂ la₂-am₃
-#lem: ama[mother]; kud[cut]; a[arm]; la[hang]
+#lem: ama[mother]; kud[cut] +. ; a[arm]; la[hang]
 #etcsl: line-id=28.1
 
 @end version

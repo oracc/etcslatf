@@ -7,13 +7,13 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.4&display=Crit&charenc=gcirc#
 
 1. ud gal piriŋ an-na inim he₂-a dug₄-dug₄
-#lem: ud[sun]; gal[big]; piriŋ[lion]; an[sky]; inim[word]; me[be]; dug[speak]
+#lem: ud[sun]; gal[big]; piriŋ[lion]; an[sky]; inim[word]; me[be] +. ; dug[speak]
 #etcsl: line-id=1
 
 #etcsl#cite Cited in OB catalogue from Nibru, at Philadelphia, 0.2.01, line 45; OB catalogue in the Louvre, 0.2.02, line 50
 
 2. {d}inana ud gal piriŋ an-na inim he₂-a dug₄-dug₄
-#lem: Inanak[1]DN; ud[sun]; gal[big]; piriŋ[lion]; an[sky]; inim[word]; me[be]; dug[speak]
+#lem: Inanak[1]DN; ud[sun]; gal[big]; piriŋ[lion]; an[sky]; inim[word]; me[be] +. ; dug[speak]
 #etcsl: line-id=2
 
 3. {d}nin-e₂-gal-la an ud zal-le-da-ke₄ izi su₃-ud-bi il₂-la
@@ -45,7 +45,7 @@
 #etcsl: line-id=9
 
 10. {[d]}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam#-[mah-za] ga#-am₃!#-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=10
 
 11. [X X] UD kalam-ma saŋ il₂-la-a-ba
@@ -89,7 +89,7 @@
 #etcsl: line-id=20
 
 21. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=21
 
 22. ŋi₆-ta en-nu-uŋ₃ DIŠ zal-la-ba
@@ -137,7 +137,7 @@
 #etcsl: line-id=32
 
 33. šita₂ sa nu-la₂-e me₃-a mu-e-da-ab-gur₃-ru
-#lem: šita[weapon]; sa[sinew]; la[hang]; me[battle]; gur[lift]
+#lem: šita[weapon]; sa[sinew]; la[hang] +. ; me[battle]; gur[lift]
 #etcsl: line-id=33
 
 34. lu₂-ur₃-ra zag-ba mu-e-ši-re₇-re₇-eš
@@ -157,11 +157,11 @@
 #etcsl: line-id=37
 
 38. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga#-[am₃-dug₄]
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=38
 
 39. ur KA-ga-na-ke₄ udu ma-ra-ab-te [...] X
-#lem: ur[dog]; X; udu[sheep]; teŋ[approach]; X; X
+#lem: ur[dog]; X; udu[sheep]; teŋ[approach] +. ; X; X
 #etcsl: line-id=39
 
 40. ur usu-tuku am šu-bi-še₃ ma-ra#-[X X] X
@@ -181,7 +181,7 @@
 #etcsl: line-id=43
 
 44. kur saŋ-ki-za ba-e-de₃-gid₂-da [...]
-#lem: kur[mountain(s)]; saŋki[forehead]; gid[long]; X
+#lem: kur[mountain(s)]; saŋki[forehead]; gid[long] +. ; X
 #etcsl: line-id=44
 
 45. {d}inana an-na nim ŋir₂-me-en ki-a kušum# tag#-[ga-me-en]
@@ -233,7 +233,7 @@
 #etcsl: line-id=56
 
 57. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ [nam]-mah-za# [ga-am₃-dug₄]
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=57
 
 58. ŋiš-ab-ba {ŋiš}kiši₁₇ gal hul mu₂-a gir₅-gir₅-e-da-zu-ne
@@ -281,7 +281,7 @@
 #etcsl: line-id=68
 
 69. {d}inana šu nu-gi₄-a er₂-ra nesaŋ ša-mu-ra-ab-tum₃
-#lem: Inanak[1]DN; šu[hand]; gi[turn]; er[tears]; nesaŋ[first-fruit offering]; tum[bring]
+#lem: Inanak[1]DN; šu[hand]; gi[turn] +. ; er[tears]; nesaŋ[first-fruit offering]; tum[bring]
 #etcsl: line-id=69
 
 70. a-pap kur-ra-ke₄ ŋal₂ ša-mu-ra-ab-taka₄-X
@@ -317,7 +317,7 @@
 #etcsl: line-id=77
 
 78. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃#-[dug₄]
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=78
 
 79. {d}inana an-da {d}en-lil₂-da di ku₅-ru-da-zu-ne
@@ -381,7 +381,7 @@
 #etcsl: line-id=93
 
 94. {[d]}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam#-[mah-za ga-am₃-dug₄]
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=94
 
 95. giri₁₇-dab-da nam-sipad al-ak-zu-ne
@@ -417,7 +417,7 @@
 #etcsl: line-id=102
 
 103. nu-mu-e-sig₁₀-ge-en ŋiš ma-ra-e-ne
-#lem: sig[put into]; ŋeš[tree]; rah[beat]
+#lem: sig[put into] +. ; ŋeš[tree]; rah[beat]
 #etcsl: line-id=103
 
 104. {d}inana nu-mu-e-da-sa₂-e-ne
@@ -437,7 +437,7 @@
 #etcsl: line-id=107
 
 108. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=108
 
 109. kuš₇ maš₂-anše du₈-du₈-a-ba
@@ -473,7 +473,7 @@
 #etcsl: line-id=116
 
 117. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=117
 
 118. u₂-si-an mul-mu teš₂-bi-še₃ gur-ru-a-ba
@@ -513,7 +513,7 @@
 #etcsl: line-id=126
 
 127. {d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄#
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=127
 
 128. X RA TAB AB ŋen-na-ni hi-li [X X] X
@@ -529,7 +529,7 @@
 #etcsl: line-id=130
 
 131. X u₃-mu-ni-du₃ SU X [X X] X u₃-mu-ni#-ib₂-tag-[...] X
-#lem: X; du[build]; X; X; X; X; X; tag[touch]; X
+#lem: X; du[build] +. ; X; X; X; X; X; tag[touch]; X
 #etcsl: line-id=131
 
 132. NI ku₁₀-ku₁₀-ge X X X [...]
@@ -562,7 +562,7 @@ $ 1 line missing
 #etcsl: line-id=139
 
 140. X tur mu-da-dug₃ [...] tab mu-un-da-[...]
-#lem: X; tur[small]; dug[good]; X; tab[double]; X
+#lem: X; tur[small]; dug[good] +. ; X; tab[double]; X
 #etcsl: line-id=140
 
 141. geme₂ nin-a-ni [...] HI NI šum₂-ma [...] X
@@ -582,7 +582,7 @@ $ 1 line missing
 #etcsl: line-id=144
 
 145. {d}nin#-[e₂-gal-la ki]-ur₃#-zu mu-un-ŋal₂# [nam-mah-za ga-am₃-dug₄]
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=145
 
 146. X X X [...] X UR₃ ŋen-na X [...]
@@ -602,7 +602,7 @@ $ 1 line missing
 #etcsl: line-id=149
 
 150. e₂ [X X X] X X ba-ŋar! [...] X ma-ra#-an-du₈-e
-#lem: e[house]; X; X; X; X; X; ŋar[put]; X; X; du[spread]
+#lem: e[house]; X; X; X; X; X; ŋar[put] +. ; X; X; du[spread]
 #etcsl: line-id=150
 
 151. ZA X ZA [X X] nu₂# dug₃-X-ge-da [...] DI
@@ -630,11 +630,11 @@ $ 1 line missing
 #etcsl: line-id=156
 
 157. ki-sikil-e# e₂-mah mu-un-šub-be₂ e₂ [...]-ŋu₁₀#-gin₇ mu-un-gul-e
-#lem: kisikil[young woman]; Emah[1]TN; šub[fall]; e[house]; X; gul[destroy]
+#lem: kisikil[young woman]; Emah[1]TN; šub[fall] +. ; e[house]; X; gul[destroy]
 #etcsl: line-id=157
 
 158. ŋuruš! nam-mah-zu mu-un-zu-a giri₁₇ šu ba-ab-tag-ge
-#lem: ŋuruš[young adult male]; nammah[greatness]; zu[know]; kiri[nose]; šu[hand]; tag[touch]
+#lem: ŋuruš[young adult male]; nammah[greatness]; zu[know] +. ; kiri[nose]; šu[hand]; tag[touch]
 #etcsl: line-id=158
 
 159. {d}inana nin# me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
@@ -642,7 +642,7 @@ $ 1 line missing
 #etcsl: line-id=159
 
 160. {d#}nin-[e₂]-gal# ki-ur₃-zu mu-ŋal₂ nam#-mah-za ga-am₃#-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=160
 
 161. [...] X E la₂-a-ba#
@@ -671,7 +671,7 @@ $ 20 lines missing
 #etcsl: line-id=186
 
 187. X X X im-mi-in-tar saŋ [...] X mu-na-ni-in-rig₇#
-#lem: X; X; X; tar[cut]; saŋ[head]; X; X; rig[donate]
+#lem: X; X; X; tar[cut] +. ; saŋ[head]; X; X; rig[donate]
 #etcsl: line-id=187
 
 188. ki-gub-ba-zu MU ZU X X-am₃
@@ -691,7 +691,7 @@ $ 20 lines missing
 #etcsl: line-id=191
 
 192. {d#}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=192
 
 193. [...] X GAR ki šag₄ te |KA.AN.NI.SI|-zu
@@ -727,7 +727,7 @@ $ 20 lines missing
 #etcsl: line-id=200
 
 201. nin [...] tu₅-a |KA.AN.NI.SI| [u₃]-mu-un-si šu-nir-zu u₃-mu-un-ak
-#lem: nin[lady]; X; tu[cvve]; X; si[fill]; šunir[emblem]; ak[do]
+#lem: nin[lady]; X; tu[cvve]; X; si[fill] +. ; šunir[emblem]; ak[do]
 #etcsl: line-id=201
 
 202. ki-sikil |ŠAG₄.TUR| gub-ba-za hi-li ba-ni-in-tag-ge-en₆
@@ -735,7 +735,7 @@ $ 20 lines missing
 #etcsl: line-id=202
 
 203. lu₂ X X tur₃-ra mu-ni-in-pad₃-de₃ [...]-ra#-an-DU
-#lem: lu[person]; X; X; tur[animal stall]; pad[find]; X
+#lem: lu[person]; X; X; tur[animal stall]; pad[find] +. ; X
 #etcsl: line-id=203
 
 204. [X X] X ZA GAR-zu A mu-ra-an-DU a-ra-zu MU X X
@@ -747,7 +747,7 @@ $ 20 lines missing
 #etcsl: line-id=205
 
 206. {d}nin-e₂-gal-la# [ki]-ur₃#-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
-#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there]; nammah[greatness]; dug[speak]
+#lem: Ninegalak[1]DN; kiʾur[foundation]; ŋal[⟦be⟧ to be (there] +. ; nammah[greatness]; dug[speak]
 #etcsl: line-id=206
 
 207. {d}inana nin me gal-gal-la-me-en

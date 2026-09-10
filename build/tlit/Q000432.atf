@@ -9,7 +9,7 @@
 @div sa-gida A
 
 A.1. en me sag₂!(GAN) nu-di i-lim u₅ men gal-la
-#lem: en[lord]; me[Being]; sag[scatter]; di[speak]; ilim[radiance]; u[ride]; men[tiara]; gal[big]
+#lem: en[lord]; me[Being]; sag[scatter]; di[speak] +. ; ilim[radiance]; u[ride]; men[tiara]; gal[big]
 #etcsl: line-id=A.1
 
 #etcsl#cite Cited in OB catalogue from Nibru (N3), 0.2.06, line 20
@@ -97,7 +97,7 @@ A.21. {d}i-bi₂-{d}suen šu mah-a-ni im-dab
 #etcsl: line-id=A.21
 
 A.22. zid-de₃-eš-še₃ mu-na-an-ak mu dug₃ sa₄-a-ni
-#lem: zid[right]; ak[do]; mu[name]; dug[good]; še[call by name]
+#lem: zid[right]; ak[do] +. ; mu[name]; dug[good]; še[call by name]
 #etcsl: line-id=A.22
 
 @div trailer 
@@ -121,7 +121,7 @@ B.25. an {d}en-lil₂ pap gal {d}nu-dim₂-mud
 #etcsl: line-id=B.25
 
 B.26. ama {d}nin-tur₅ kalam-ma šir₃-ra-ni mah-am₃ me-teš₂ he₂-i-i
-#lem: ama[mother]; Nintur[1]DN; kalam[the Land (of Sumer)]; šir[song]; mah[great]; meteš[praise]; e[bring out]
+#lem: ama[mother]; Nintur[1]DN; kalam[the Land (of Sumer)]; šir[song]; mah[great] +. ; meteš[praise]; e[bring out]
 #etcsl: line-id=B.26
 
 B.27. eš₃ urim₂{ki} iri me nun šul {d}suen-na-kam
@@ -133,7 +133,7 @@ B.28. an {d}en-lil₂ pap gal {d}nu-dim₂-mud
 #etcsl: line-id=B.28
 
 B.29. ama {d}nin-tur₅ kalam-ma šir₃-ra-ni mah-am₃ me-[teš₂] he₂-i-i
-#lem: ama[mother]; Nintur[1]DN; kalam[the Land (of Sumer)]; šir[song]; mah[great]; meteš[praise]; e[bring out]
+#lem: ama[mother]; Nintur[1]DN; kalam[the Land (of Sumer)]; šir[song]; mah[great] +. ; meteš[praise]; e[bring out]
 #etcsl: line-id=B.29
 
 B.30. {d}a-nun-na X X X X [...]

@@ -137,15 +137,15 @@ B.11.18.1. na#-[an-ni libir-ra mu-un-kal]
 #etcsl#cf cf. 6.1.03.31, 6.1.09.b1, 6.1.15.b8, 6.1.25.4, 6.2.1: Ni 4469 Seg. A ll. 9-12
 
 B.11.18.2. e₂ {d}[en-lil₂-la₂ i₃-du₃] nu-[un-til]
-#lem: e[house]; Enlil[1]DN; du[build]; til[complete]
+#lem: e[house]; Enlil[1]DN; du[build] +. ; til[complete]
 #etcsl: line-id=B.11.18.2
 
 B.11.18.3. bad₃ nibru#{[ki]} [i₃-du₃] KA ŠE [...]
-#lem: bad[wall]; Nibru[1]SN; du[build]; X; X; X
+#lem: bad[wall]; Nibru[1]SN; du[build] +. ; X; X; X
 #etcsl: line-id=B.11.18.3
 
 B.11.18.4. si-mu-ur#-[ru]{[ki]} [i₃-dab₅] gu₂-bi [nu-X-gid₂] šag₄ hul# [...]
-#lem: Simurrum[1]SN; dab[seize]; gu[neck]; gid[long]; šag[heart]; hulu[bad]; X
+#lem: Simurrum[1]SN; dab[seize] +. ; gu[neck]; gid[long]; šag[heart]; hulu[bad]; X
 #etcsl: line-id=B.11.18.4
 
 B.11.18.5. ur₅ na-an#-[ni šag₄ sig-ga] kur-še₃ ba-[ra-an-de₆]
@@ -157,7 +157,7 @@ B.11.18.5. ur₅ na-an#-[ni šag₄ sig-ga] kur-še₃ ba-[ra-an-de₆]
 @div proverb 11.19
 
 B.11.19.6. ga-gid₂ mu-da#-[ku₅-ru]
-#lem: gid[long]V/i/gid₂#ga:~; kud[cut]
+#lem: gid[long]V/i/gid₂#ga:~ +. ; kud[cut]
 #etcsl: line-id=B.11.19.6
 
 #etcsl#cf cf. 6.1.03.71, 6.1.19.b6, 6.1.24.5
@@ -179,13 +179,13 @@ B.11.20.8. gid₂-bi mu-da-ab#-X
 @div proverb 11.21
 
 B.11.21.9. bi₂-in-dug₄ nu-mu-un-gen₆
-#lem: dug[speak]; gin[confirm]
+#lem: dug[speak] +. ; gin[confirm]
 #etcsl: line-id=B.11.21.9
 
 #etcsl#cf cf. 6.1.07.41
 
 B.11.21.10. ab-be₂ ab-da-ab-gur
-#lem: e[speak]; gur[turn]
+#lem: e[speak] +. ; gur[turn]
 #etcsl: line-id=B.11.21.10
 
 @end proverb
@@ -207,7 +207,7 @@ B.11.22.12. giri₁₇ ur₅ giri₁₇ mu-un#-na-ur₅#-e
 @div proverb 11.23
 
 B.11.23.13. %e gi₄#-in %s al-tum₄#-me na-ab-be₂-e
-#lem: gin[worker]N; tum[bring]; e[speak]
+#lem: gin[worker]N; tum[bring] +. ; e[speak]
 #etcsl: line-id=B.11.23.13
 
 @end proverb
@@ -223,7 +223,7 @@ B.11.24.14. diŋir %e u₃-mu-un-na-ke₄ %s hu-mu-dar-dar#-e-e-še
 @div proverb 11.25
 
 B.11.25.15. ugula a₂ ŋiš ŋa₂-ŋa₂ nu-zu! saŋ sag₃-ge nu-ŋa₂-ŋa₂
-#lem: ugula[overseer]; a[arm]; ŋeš[tree]; ŋar[put]; zu[know]; saŋ[head]; sag[strike]; ŋar[put]
+#lem: ugula[overseer]; a[arm]; ŋeš[tree]; ŋar[put]; zu[know] +. ; saŋ[head]; sag[strike]; ŋar[put]
 #etcsl: line-id=B.11.25.15
 
 #etcsl#cf cf. 6.1.03.89
@@ -341,7 +341,7 @@ C.11.40.10. nu-X [...] il₂-i [...] X
 #etcsl: line-id=C.11.40.10
 
 C.11.40.11. ab-il₂ [...] X
-#lem: il[raise]; X; X
+#lem: il[raise] +. ; X; X
 #etcsl: line-id=C.11.40.11
 
 @end proverb
@@ -470,7 +470,7 @@ D.11.57.11. sig-sig a-ga-de₃{ki}-še₃ i₃-gi₄-in
 #etcsl#cf cf. 6.1.18.15
 
 D.11.57.12. a-ga-de₃{ki}-a a-na-am₃ i₃-ak maš₂-ŋi₆ zid-da
-#lem: Agade[1]SN; ana[what?]; ak[do]; mašŋik[(nocturnal) vision]; zid[right]
+#lem: Agade[1]SN; ana[what?]; ak[do] +. ; mašŋik[(nocturnal) vision]; zid[right]
 #etcsl: line-id=D.11.57.12
 
 @end proverb
@@ -493,7 +493,7 @@ E.11.66.1. šu gi₄-gi₄# [niŋ₂-gig] {[d]}[nin-urta-kam]
 @div proverb 11.67
 
 E.11.67.2. gu₅-li-ŋu₁₀ sag₉-ga he₂-am₃-me-am₃ hul-me DU-am₃
-#lem: guli[friend]; sag[good]; me[be]; hulu[bad]; X
+#lem: guli[friend]; sag[good]; me[be] +. ; hulu[bad]; X
 #etcsl: line-id=E.11.67.2
 
 E.11.67.3. sag₉-ga-zu ma₂ kar sag₉-ga-gin₇ kar-ra he₂-em-us₂#
@@ -513,7 +513,7 @@ E.11.68.4. hul-zu a-ŋi₆-a-ŋi₆ id₂#-da-gin₇ iri#-ni-še₃ ha-ba-gi₄
 @div proverb 11.69
 
 E.11.69.5. a#-da ab-tuš kur-šag₄ igi du₈
-#lem: a[water]; tuš[sit (down)]; kuršag[center of the mountains]; igi[eye]; du[spread]
+#lem: a[water]; tuš[sit (down)] +. ; kuršag[center of the mountains]; igi[eye]; du[spread]
 #etcsl: line-id=E.11.69.5
 
 #etcsl#cf cf. 6.1.02.149, 6.1.26.d15
@@ -691,7 +691,7 @@ I.11.130.2. %e aŋ₂ %s ama-ŋu₁₀# [...]
 @div proverb 11.131
 
 I.11.131.3. lu₂ ur₃ an-nu₂# lu₂ e₂ an-til₃-la#
-#lem: lu[person]; ur[roof]; nud[lie down]; lu[person]; e[house]; til[live (of a single person)]
+#lem: lu[person]; ur[roof]; nud[lie down] +. ; lu[person]; e[house]; til[live (of a single person)]
 #etcsl: line-id=I.11.131.3
 
 #etcsl#cf cf. 6.1.02.126, 6.1.04.56
@@ -717,7 +717,7 @@ I.11.132.6. ma₂ 60 gur bi₂#-[...] X
 @div proverb 11.133
 
 I.11.133.7. ur₅ nu-luh-ha [...] X niŋ₂ {d}utu ur₅ ak
-#lem: ura[interest-bearing loan]; luh[clean]; X; X; niŋ[thing]; Utu[1]DN; ura[interest-bearing loan]; ak[do]
+#lem: ura[interest-bearing loan]; luh[clean] +. ; X; X; niŋ[thing]; Utu[1]DN; ura[interest-bearing loan]; ak[do]
 #etcsl: line-id=I.11.133.7
 
 I.11.133.8. [...] X

@@ -29,11 +29,11 @@
 #etcsl: line-id=5
 
 6. kur gul-gul ti a₂-ta i-ni-in-ug₇ kur-re a₂ ba-e-šum₂
-#lem: kur[mountain(s)]; gul[destroy]; ti[arrow]; a[arm]; uš[die]; kur[mountain(s)]; a[arm]; šum[give]
+#lem: kur[mountain(s)]; gul[destroy]; ti[arrow]; a[arm]; uš[die] +. ; kur[mountain(s)]; a[arm]; šum[give]
 #etcsl: line-id=6
 
 7. piriŋ-gin₇ an ki-a šeg₁₁ i-ni-in-gi₄ uŋ₃-e su i₃-ni-in-sag₃
-#lem: piriŋ[lion]; an[sky]; ki[place]; šeg[voice]; gi[turn]; uŋ[people]; su[flesh]; sag[strike]
+#lem: piriŋ[lion]; an[sky]; ki[place]; šeg[voice]; gi[turn] +. ; uŋ[people]; su[flesh]; sag[strike]
 #etcsl: line-id=7
 
 8. am gal-gin₇ kur gu₂-erim₂-ŋal₂-la u₃-na ba-gub-be₂-en
@@ -41,7 +41,7 @@
 #etcsl: line-id=8
 
 9. piriŋ huš-gin₇ uru₁₆-na nu-še-ga ze₂-za bi₂-ib₂-te-en-te-en
-#lem: piriŋ[lion]; huš[reddish]; urun[exalted]; šeg[agree]; ze[bile]; ten[extinguish]
+#lem: piriŋ[lion]; huš[reddish]; urun[exalted]; šeg[agree] +. ; ze[bile]; ten[extinguish]
 #etcsl: line-id=9
 
 10. nin-ŋu₁₀ an-gin₇ buluŋ₃-ŋa₂-za
@@ -149,7 +149,7 @@
 #etcsl: line-id=35
 
 36. hur-saŋ zig₃ šu-ŋu₁₀ ga-am₃-mi-ib-si ni₂-ŋu₁₀ ga-mi-ib#-zu
-#lem: hursaŋ[mountain]; zig[rise]; šu[hand]; si[fill]; ni[fear]; zu[know]
+#lem: hursaŋ[mountain]; zig[rise]; šu[hand]; si[fill] +. ; ni[fear]; zu[know]
 #etcsl: line-id=36
 
 37. a₂ mah-bi-še₃ gud mah ga-ba-ši-gub
@@ -161,11 +161,11 @@
 #etcsl: line-id=38
 
 39. hub₂ ga-mu-un-šu₂ ešemen {d}inana kug ga-mu-ni-in-sar
-#lem: hub[foot]; šuš[cover]; ešemen[skipping rope]; Inanak[1]DN; kug[purify]; sar[run]
+#lem: hub[foot]; šuš[cover] +. ; ešemen[skipping rope]; Inanak[1]DN; kug[purify]; sar[run]
 #etcsl: line-id=39
 
 40. hur-saŋ-ŋa₂ me₃ ga-ba-ab-de₆ šen-šen si ga-ba-ab-sa₂
-#lem: hursaŋ[mountain]; me[battle]; de[carry]; šen[battle]; si[horn]; sa[equal]
+#lem: hursaŋ[mountain]; me[battle]; de[carry] +. ; šen[battle]; si[horn]; sa[equal]
 #etcsl: line-id=40
 
 41. ti mar-uru₅-a si ga-ba-ab-sa₂
@@ -197,7 +197,7 @@
 #etcsl: line-id=47
 
 48. hur-saŋ aratta{ki} šu nu-teŋ₃-ŋe₂₆ ni₂-bi ga-ba-ni-ib₂-sud
-#lem: hursaŋ[mountain]; Aratta[1]GN; šu[hand]; teŋ[approach]; ni[fear]; sud[distant]
+#lem: hursaŋ[mountain]; Aratta[1]GN; šu[hand]; teŋ[approach] +. ; ni[fear]; sud[distant]
 #etcsl: line-id=48
 
 49. iri an-ne₂ nam ba-an-kud-da-gin₇ ki-bi na-an-gi₄-gi₄
@@ -213,7 +213,7 @@
 #etcsl: line-id=51
 
 52. ebih{ki}-e ka tar-ŋu₁₀ he₂-si-il-le me-teš₂ hu-mu-i-i
-#lem: Ebih[1]GN; kag[mouth]; tar[cut]; sil[split]; meteš[praise]; e[bring out]
+#lem: Ebih[1]GN; kag[mouth]; tar[cut]; sil[split] +. ; meteš[praise]; e[bring out]
 #etcsl: line-id=52
 
 53. {d}inana dumu {d}suen-na-ke₄
@@ -221,7 +221,7 @@
 #etcsl: line-id=53
 
 54. {tug₂}pala₃-a ba-an-mur₁₀ ul gu₂ ba-an-e₃
-#lem: pala[garment]; mur[dress]; ul[swell]; gu[neck]; e[leave]
+#lem: pala[garment]; mur[dress] +. ; ul[swell]; gu[neck]; e[leave]
 #etcsl: line-id=54
 
 55. ni₂ me-lem₄ huš-a saŋ-ki-na še-er-ka-an ba-ni-in-dug₄
@@ -249,7 +249,7 @@
 #etcsl: line-id=60
 
 61. an-ra ne-saŋ mu-un-na-an-gub sizkur mu-na-ab-be₂
-#lem: An[1]DN; nesaŋ[first-fruit offering]; gub[stand]; siškur[prayer]; e[speak]
+#lem: An[1]DN; nesaŋ[first-fruit offering]; gub[stand] +. ; siškur[prayer]; e[speak]
 #etcsl: line-id=61
 
 62. an {d}inana-da hul₂-la-e
@@ -257,7 +257,7 @@
 #etcsl: line-id=62
 
 63. mu-un-gid₂ ki-na ba-e-tuš
-#lem: gid[long]; ki[place]; tuš[sit (down)]
+#lem: gid[long] +. ; ki[place]; tuš[sit (down)]
 #etcsl: line-id=63
 
 64. zag gal an-na-ka ba-e-si
@@ -265,7 +265,7 @@
 #etcsl: line-id=64
 
 65. an a-a-ŋu₁₀ silim ma-ra-ab-be₂-en inim-ŋu₁₀-uš ŋeštug₂-zu
-#lem: An[1]DN; aya[father]; silim[healthy]; e[speak]; inim[word]; ŋeštug[ear]
+#lem: An[1]DN; aya[father]; silim[healthy]; e[speak] +. ; inim[word]; ŋeštug[ear]
 #etcsl: line-id=65
 
 66. an-ne₂ an-ba ni₂-ŋu₁₀ mi-ni-in-ri
@@ -321,11 +321,11 @@
 #etcsl: line-id=78
 
 79. an lugal šu-ŋu₁₀ he₂-em-mu-e-šum₂ a₂ [...]
-#lem: An[1]DN; lugal[king]; šu[hand]; šum[give]; a[arm]; X
+#lem: An[1]DN; lugal[king]; šu[hand]; šum[give] +. ; a[arm]; X
 #etcsl: line-id=79
 
 80. lugal-la zid-da-na he₂-ni-in-kur₉ ki-bal gul-gul-lu-de₃
-#lem: lugal[king]; zid[right]; kur[enter]; kibala[rebel land]; gul[destroy]
+#lem: lugal[king]; zid[right]; kur[enter] +. ; kibala[rebel land]; gul[destroy]
 #etcsl: line-id=80
 
 81. kur-ur₂-ra sur₂-du₃{mušen}-gin₇ saŋ hu-mu-da-dub₂-be₂
@@ -345,11 +345,11 @@
 #etcsl: line-id=84
 
 85. kur-ra a₂ he₂-bi₂-in-ŋar igi he₂-ni-in-bar gid₂-da-bi ha-ba-zu
-#lem: kur[mountain(s)]; a[arm]; ŋar[put]; igi[eye]; bar[place outside]; gid[long]; zu[know]
+#lem: kur[mountain(s)]; a[arm]; ŋar[put] +. ; igi[eye]; bar[place outside]; gid[long]; zu[know]
 #etcsl: line-id=85
 
 86. har-ra-an kug an-na-ka-še₃ he₂-ni-e₃ burudₓ(U)-da-bi ha-ba-zu
-#lem: harran[route]; kug[purify]; An[1]DN; e[leave]; burud[perforate]; zu[know]
+#lem: harran[route]; kug[purify]; An[1]DN; e[leave] +. ; burud[perforate]; zu[know]
 #etcsl: line-id=86
 
 87. diŋir-re-e-ne ga-an!-ne-dirig#-[...]-X
@@ -385,7 +385,7 @@
 #etcsl: line-id=94
 
 95. hur-saŋ zig₃ šu-ŋu₁₀ ga-am₃-mi-ib-si ni₂-ŋu₁₀ ga-mi-ib-zu#
-#lem: hursaŋ[mountain]; zig[rise]; šu[hand]; si[fill]; ni[fear]; zu[know]
+#lem: hursaŋ[mountain]; zig[rise]; šu[hand]; si[fill] +. ; ni[fear]; zu[know]
 #etcsl: line-id=95
 
 96. a₂ mah-bi-še₃ gud mah ga-ba-ši-gub
@@ -397,11 +397,11 @@
 #etcsl: line-id=97
 
 98. UŠ ga-mu-un-šub e-[šen] {[d]}[inana] kug ga-mu-ni-in-sar
-#lem: X; šub[fall]; ešemen[skipping rope]; Inanak[1]DN; kug[purify]; sar[run]
+#lem: X; šub[fall] +. ; ešemen[skipping rope]; Inanak[1]DN; kug[purify]; sar[run]
 #etcsl: line-id=98
 
 99. hur-saŋ-ŋa₂ me₃ ga-ba-lah₅ šen-šen ga-ba-ab-sar-sar
-#lem: hursaŋ[mountain]; me[battle]; de[carry]; šen[battle]; sar[run]
+#lem: hursaŋ[mountain]; me[battle]; de[carry] +. ; šen[battle]; sar[run]
 #etcsl: line-id=99
 
 100. ti mar-uru₅-am₃ si ga-ba-ab-sa₂
@@ -433,7 +433,7 @@
 #etcsl: line-id=106
 
 107. hur-saŋ aratta{ki} šu nu-teŋ₃-ŋe₂₆ ni₂-bi ga-ba-ni-ib₂-sud
-#lem: hursaŋ[mountain]; Aratta[1]GN; šu[hand]; teŋ[approach]; ni[fear]; sud[distant]
+#lem: hursaŋ[mountain]; Aratta[1]GN; šu[hand]; teŋ[approach] +. ; ni[fear]; sud[distant]
 #etcsl: line-id=107
 
 108. iri an-ne₂ nam ba-kud-da-gin₇ ki-bi na-an-gi₄-gi₄
@@ -449,7 +449,7 @@
 #etcsl: line-id=110
 
 111. ebih{ki} ka tar-ŋu₁₀ he₂-si-il-le me-teš₂ hu-mu-i-i
-#lem: Ebih[1]GN; kag[mouth]; tar[cut]; sil[split]; meteš[praise]; e[bring out]
+#lem: Ebih[1]GN; kag[mouth]; tar[cut]; sil[split] +. ; meteš[praise]; e[bring out]
 #etcsl: line-id=111
 
 112. an lugal diŋir-re-e-ne-ke₄ mu-na-ni-ib-gi₄-gi₄
@@ -457,15 +457,15 @@
 #etcsl: line-id=112
 
 113. lu₂-tur-ŋu₁₀ kur-re al bi₂-dug₄ šag₄-bi a-na ab-ak
-#lem: lutur[child]; kur[mountain(s)]; al[cvne]; dug[speak]; šag[heart]; ana[what?]; ak[do]
+#lem: lutur[child]; kur[mountain(s)]; al[cvne]; dug[speak] +. ; šag[heart]; ana[what?]; ak[do]
 #etcsl: line-id=113
 
 114. {d}inana-me-en kur-re al bi₂-dug₄ šag₄-bi a-na ab-ak
-#lem: Inanak[1]DN; kur[mountain(s)]; al[cvne]; dug[speak]; šag[heart]; ana[what?]; ak[do]
+#lem: Inanak[1]DN; kur[mountain(s)]; al[cvne]; dug[speak] +. ; šag[heart]; ana[what?]; ak[do]
 #etcsl: line-id=114
 
 115. hur-saŋ ebih{ki} al bi₂-dug₄ šag₄-bi a-na ab-ak
-#lem: hursaŋ[mountain]; Ebih[1]GN; al[cvne]; dug[speak]; šag[heart]; ana[what?]; ak[do]
+#lem: hursaŋ[mountain]; Ebih[1]GN; al[cvne]; dug[speak] +. ; šag[heart]; ana[what?]; ak[do]
 #etcsl: line-id=115
 
 116. ki-gub diŋir-re-e-ne-ke₄ ni₂ huš im-da-ri-ri
@@ -489,7 +489,7 @@
 #etcsl: line-id=120
 
 121. {ŋiš}kiri₆ nisig-bi gurun im-la₂ giri₁₇-zal im-du₈-du₈
-#lem: kiri[(fruit) plantation]; nisig[greenery]; gurun[fruit]; la[hang]; kirizal[joy]; du[spread]
+#lem: kiri[(fruit) plantation]; nisig[greenery]; gurun[fruit]; la[hang] +. ; kirizal[joy]; du[spread]
 #etcsl: line-id=121
 
 122. ŋiš mah-bi aga₃ an-na IM DI u₆ di-de₃ ba-gub
@@ -541,7 +541,7 @@
 #etcsl: line-id=133
 
 134. me₃ mah ba-ra-an-e₃ ud gal ki bi₂-in-us₂
-#lem: me[battle]; mah[great]; e[leave]; ud[storm]; gal[big]; ki[place]; us[accompany]
+#lem: me[battle]; mah[great]; e[leave] +. ; ud[storm]; gal[big]; ki[place]; us[accompany]
 #etcsl: line-id=134
 
 135. kug {d}inana-ke₄ mar-uru₅ sa₂ bi₂-in-dug₄
@@ -593,7 +593,7 @@
 #etcsl: line-id=146
 
 147. {ŋiš}tir-bi aš₂ bi₂-in-dug₄ ŋiš-bi nam ba-an-kud
-#lem: tir[forest]; aš[curse]; dug[speak]; ŋeš[tree]; nam[fate]; kud[cut]
+#lem: tir[forest]; aš[curse]; dug[speak] +. ; ŋeš[tree]; nam[fate]; kud[cut]
 #etcsl: line-id=147
 
 148. {ŋiš}al-la-nu-um-bi enmen-ba mi-ni-in-ug₇
@@ -601,7 +601,7 @@
 #etcsl: line-id=148
 
 149. bar-bi-a izi mi-ni-in-ri i-bi₂-bi bi₂-in-mu₂
-#lem: bar[outside]; izi[fire]; ri[impose]; ibi[smoke]; mu[grow]
+#lem: bar[outside]; izi[fire]; ri[impose] +. ; ibi[smoke]; mu[grow]
 #etcsl: line-id=149
 
 150. in-nin-e kur-re me bi₂-in-tal₂
@@ -613,7 +613,7 @@
 #etcsl: line-id=151
 
 152. hur-saŋ ebih{ki}-ke₄ im-ma-ŋen gu₃ im-ma-de₂-e
-#lem: hursaŋ[mountain]; Ebih[1]GN; ŋen[go]; gu[voice]; de[pour]
+#lem: hursaŋ[mountain]; Ebih[1]GN; ŋen[go] +. ; gu[voice]; de[pour]
 #etcsl: line-id=152
 
 153. hur-saŋ il₂-la-zu-še₃ sukud-da-zu-še₃
@@ -653,7 +653,7 @@
 #etcsl: line-id=161
 
 162. gud-gin₇ a₂ mah-zu ki ba-e-te-en hul-bi mu-ri-ib₂-us₂
-#lem: gud[bull]; a[arm]; mah[great]; ki[place]; ten[extinguish]; hulu[bad]; us[accompany]
+#lem: gud[bull]; a[arm]; mah[great]; ki[place]; ten[extinguish] +. ; hulu[bad]; us[accompany]
 #etcsl: line-id=162
 
 163. igi-za er₂-ra si ba-ni-in-sa₂
@@ -669,7 +669,7 @@
 #etcsl: line-id=165
 
 166. 2-kam-ma-še₃ ni₂ huš na-kur-ku silim zid-de₃-eš na-e
-#lem: n; ni[fear]; huš[reddish]; kurku[observe?]; silim[healthy]; zid[right]; e[speak]
+#lem: n; ni[fear]; huš[reddish]; kurku[observe?] +. ; silim[healthy]; zid[right]; e[speak]
 #etcsl: line-id=166
 
 167. a-a-ŋu₁₀  %e  {d}mu-ul-lil₂-le  %s  šag₄ kur-kur-ra-ka ni₂ gal-ŋu₁₀ mi-ni-in-ri
@@ -689,11 +689,11 @@
 #etcsl: line-id=170
 
 171. e₂-gal mu-du₃ niŋ₂ dirig bi₂-ak
-#lem: egal[palace]; du[build]; niŋ[thing]; dirig[make more than]; ak[do]
+#lem: egal[palace]; du[build] +. ; niŋ[thing]; dirig[make more than]; ak[do]
 #etcsl: line-id=171
 
 172. {ŋiš}gu-za mi-ni-gub suhuš-bi mi-ni-ge-en
-#lem: guza[chair]; gub[stand]; suhuš[foundation]; gin[confirm]
+#lem: guza[chair]; gub[stand] +. ; suhuš[foundation]; gin[confirm]
 #etcsl: line-id=172
 
 173. kur-ŋar-ra ŋiri₂ ba-da-ra mu-na-šum₂

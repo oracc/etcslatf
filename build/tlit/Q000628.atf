@@ -67,11 +67,11 @@
 #etcsl: line-id=15
 
 16. ur mu-da-ri piriŋ# mu-da-ri
-#lem: ur[dog]; ri[impose]; piriŋ[lion]; ri[impose]
+#lem: ur[dog]; ri[impose] +. ; piriŋ[lion]; ri[impose]
 #etcsl: line-id=16
 
 17. {ŋiš}taškarin mu-da-ri {ŋiš}ha-lu-ub₂ mu-da-ri
-#lem: taškarin[box tree]; ri[impose]; halub[tree]; ri[impose]
+#lem: taškarin[box tree]; ri[impose] +. ; halub[tree]; ri[impose]
 #etcsl: line-id=17
 
 18. %e ga-ša-an-an-na#-ŋen %s IM tur-tur-e šu i-im-ti
@@ -143,7 +143,7 @@
 #etcsl: line-id=34
 
 35. {d}sud₃ AŠ a-ab-sikil#-la₂# kug-bi-ta a-da-min₃ mu-de₃-ne
-#lem: Sud[1]DN; X; sikil[pure]; kug[pure]; adamin[contest]; e[speak]
+#lem: Sud[1]DN; X; sikil[pure] +. ; kug[pure]; adamin[contest]; e[speak]
 #etcsl: line-id=35
 
 36. id₂-de₃ id₂-de₃ id₂ dirig-gin₇ dam-gin₇ %e ze₂-eb %s %e uru₂-gin₇ %e ze₂-eb %s ur₅-gin₇ %e ze₂-eb %s nu-ŋal₂
@@ -223,7 +223,7 @@
 #etcsl: line-id=54
 
 55. e₂-gal-la im-te-en mu-un-na-ab-be₂-ne
-#lem: egal[palace]; ten[extinguish]; e[speak]
+#lem: egal[palace]; ten[extinguish] +. ; e[speak]
 #etcsl: line-id=55
 
 56. {d}dumu-zid e₂-e-am₃ ki-am₃ dadag-ga
@@ -247,19 +247,19 @@
 #etcsl: line-id=60
 
 61. i-lu te-am₃ ad ša₄ ša₃-ba
-#lem: ilu[lament]; teŋ[approach]; ad[voice]; ša[cvve]; šag[heart]
+#lem: ilu[lament]; teŋ[approach] +. ; ad[voice]; ša[cvve]; šag[heart]
 #etcsl: line-id=61
 
 62. me-e-bi te-am₃ me ba-tuš-u₃-ne
-#lem: e[speak]; teŋ[approach]; me[Being]; tuš[sit (down)]
+#lem: e[speak]; teŋ[approach] +. ; me[Being]; tuš[sit (down)]
 #etcsl: line-id=62
 
 63. ki-bi te-am₃ ki am₃-gub-bu-ne
-#lem: ki[place]; teŋ[approach]; ki[place]; gub[stand]
+#lem: ki[place]; teŋ[approach] +. ; ki[place]; gub[stand]
 #etcsl: line-id=63
 
 64. am₃-mi-in-gub-bu-ne am₃-mi-in-gub-bu-ne
-#lem: gub[stand]; gub[stand]
+#lem: gub[stand] +. ; gub[stand]
 #etcsl: line-id=64
 
 65. %e {d}mu-ul-lil₂ %s ki-ur₃-ra am₃-mi-in-gub-bu-ne
