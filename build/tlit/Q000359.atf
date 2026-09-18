@@ -7,7 +7,7 @@
 #key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.7&display=Crit&charenc=gcirc#
 
 1. ab-ba na mu-un-de ab-ba na mu-un-[de]
-#lem: abba[father]; na[cvne]; deg[gather up] +. ; abba[father]; na[cvne]; deg[gather up]
+#lem: abba[father]; na[cvne]; deg[gather up]; abba[father]; na[cvne]; deg[gather up]
 #etcsl: line-id=1
 
 2. im ba-šeŋ₃-ŋa₂-ba e₂-ŋar₈ ba-gul-la-[ba]
@@ -27,23 +27,23 @@
 #etcsl: line-id=5
 
 6. še ba-su-ub-ba in-ga-an-su-ub
-#lem: še[cvne]; sub[rub] +. ; sub[rub]
+#lem: še[cvne]; sub[rub]; sub[rub]
 #etcsl: line-id=6
 
 7. ud im-e ŋe₂₆-e ga-šeŋ₃ im-mi-in-dug₄-ga-ba
-#lem: ud[sun]; im[rain]; ŋaʾe[I]; šeŋ[rain] +. ; dug[speak]
+#lem: ud[sun]; im[rain]; ŋaʾe[I]; šeŋ[rain]; dug[speak]
 #etcsl: line-id=7
 
 8. ud e₂-ŋar₈-e ŋe₂₆-e ga-gul!(ŠEŊ₃) im-mi-in-dug₄-ga-ba
-#lem: ud[sun]; egar[wall]; ŋaʾe[I]; gul[destroy] +. ; dug[speak]
+#lem: ud[sun]; egar[wall]; ŋaʾe[I]; gul[destroy]; dug[speak]
 #etcsl: line-id=8
 
 9. ud a-ma-ru ŋe₂₆-e ga-ur₃-ur₃ im-mi-in-dug₄-ga-ba
-#lem: ud[sun]; amaru[flood]; ŋaʾe[I]; ur[drag] +. ; dug[speak]
+#lem: ud[sun]; amaru[flood]; ŋaʾe[I]; ur[drag]; dug[speak]
 #etcsl: line-id=9
 
 10. an in-dug₄ ki in-tu-ud
-#lem: an[sky]; dug[speak] +. ; ki[place]; utud[give birth (to)]
+#lem: an[sky]; dug[speak]; ki[place]; utud[give birth (to)]
 #etcsl: line-id=10
 
 11. {u₂}šumunda in-ga-an-tu-ud
@@ -51,7 +51,7 @@
 #etcsl: line-id=11
 
 12. ki in-tu-ud an in-dug₄
-#lem: ki[place]; utud[give birth (to)] +. ; an[sky]; dug[speak]
+#lem: ki[place]; utud[give birth (to)]; an[sky]; dug[speak]
 #etcsl: line-id=12
 
 13. {u₂}šumunda in-ga-an-tu-ud
@@ -87,7 +87,7 @@
 #etcsl: line-id=20
 
 21. kiŋ₂-gi₄-a ba-an-gaz sahar-tu₁₁-be₂ ba-tuš
-#lem: kiŋgia[messenger]; gaz[kill] +. ; sahar.HUB₂[dust-heap]; tuš[sit (down)]
+#lem: kiŋgia[messenger]; gaz[kill]; sahar.HUB₂[dust-heap]; tuš[sit (down)]
 #etcsl: line-id=21
 
 22. {u₂}šumunda izi la₂-la₂ am₃-me u₂-du₃-a-ni nu-ub-be₂
@@ -95,19 +95,19 @@
 #etcsl: line-id=22
 
 23. u₂ nu-mu-dub₂-dub₂-be₂ u₂ nu-mu-bur₂-bur₂-re
-#lem: u[plant(s)]; dub[tremble] +. ; u[plant(s)]; bur[spread out]
+#lem: u[plant(s)]; dub[tremble]; u[plant(s)]; bur[spread out]
 #etcsl: line-id=23
 
 24. u₂ nu-mu-bur₂-bur₂-re %e ma-a %s um-ma-an-du₃
-#lem: u[plant(s)]; bur[spread out] +. ; ma[house]N; du[build]
+#lem: u[plant(s)]; bur[spread out]; ma[house]N; du[build]
 #etcsl: line-id=24
 
 25. tukum mu-un-gub-be₃ tukum mu-un-nu₂-e
-#lem: tukum[if]; gub[stand] +. ; tukum[if]; nud[lie down]
+#lem: tukum[if]; gub[stand]; tukum[if]; nud[lie down]
 #etcsl: line-id=25
 
 26. izi um-ma-an-šum₂ daŋal-ba ŋen-na-ni
-#lem: izi[fire]; šum[give] +. ; daŋal[wide]; ŋen[go]
+#lem: izi[fire]; šum[give]; daŋal[wide]; ŋen[go]
 #etcsl: line-id=26
 
 27. {u₂}šumunda ki-gub-ba-ni a-a sis-na
@@ -115,7 +115,7 @@
 #etcsl: line-id=27
 
 28. izi ga-ba-ŋar ga-ba-ŋar im-ma-ni-in-du₇-e
-#lem: izi[fire]; ŋar[put] +. ; ŋar[put] +. ; du[push]
+#lem: izi[fire]; ŋar[put]; ŋar[put]; du[push]
 #etcsl: line-id=28
 
 29. ur₂ e₂-an-na-ke₄ izi im-ma-ni-ri
@@ -123,7 +123,7 @@
 #etcsl: line-id=29
 
 30. šu im-ma-ni-in-du₃ šu im-ma-ni-in-la₂
-#lem: šu[hand]; du[build] +. ; šu[hand]; la[hang]
+#lem: šu[hand]; du[build]; šu[hand]; la[hang]
 #etcsl: line-id=30
 
 31. inim ka-na um-ma-da-ŋal₂-la
@@ -131,7 +131,7 @@
 #etcsl: line-id=31
 
 32. %e ga-ša-an-an-na-<ke₄> %s uga!(NAŊA){mušen} ba-e-dab₅ ugu-ni-še₃ ba-gub
-#lem: Gašanana[1]DN; uga[raven]; dab[seize] +. ; ugu[skull]; gub[stand]
+#lem: Gašanana[1]DN; uga[raven]; dab[seize]; ugu[skull]; gub[stand]
 #etcsl: line-id=32
 
 33. sipad-de₃ %e e-ze₂-ni ma-a-a-ba %s mu-da-ab-šub
@@ -155,11 +155,11 @@
 #etcsl: line-id=37
 
 38. im ba-da-šeŋ₃ e₂-ŋar₈ ba-da-gul
-#lem: im[rain]; šeŋ[rain] +. ; egar[wall]; gul[destroy]
+#lem: im[rain]; šeŋ[rain]; egar[wall]; gul[destroy]
 #etcsl: line-id=38
 
 39. tur₃ ba-da-gul amaš ba-da-bur₁₂
-#lem: tur[animal stall]; gul[destroy] +. ; amaš[sheepfold]; bur[tear out]
+#lem: tur[animal stall]; gul[destroy]; amaš[sheepfold]; bur[tear out]
 #etcsl: line-id=39
 
 40. id₂-da a-ŋi₆ hul ba-an-da-šub
@@ -184,7 +184,7 @@
 
 $ 5 lines missing
 50. u₂-du₃-a-ni mu-ub#-be₂ [u₂ mu-dub₂]-dub₂#-be₂
-#lem: ududu[reed bundle]; e[speak] +. ; u[plant(s)]; dub[tremble]
+#lem: ududu[reed bundle]; e[speak]; u[plant(s)]; dub[tremble]
 #etcsl: line-id=50
 
 51. {u₂}šumunda izi la₂ e-X [...] X
@@ -196,7 +196,7 @@ $ 5 lines missing
 #etcsl: line-id=52
 
 53. izi la₂ am₃-ma-an-du₃ en₃ mu-un-na-tar-re
-#lem: izi[fire]; la[hang]; du[build] +. ; en[cvne]; tar[cut]
+#lem: izi[fire]; la[hang]; du[build]; en[cvne]; tar[cut]
 #etcsl: line-id=53
 
 54. %e ga-ša-an-an-na-ra %s {lu₂}azlag tug₂-ga-ni dan₃-dan₃-na
@@ -212,7 +212,7 @@ $ 5 lines missing
 #etcsl: line-id=56
 
 57. bahar₂ {dug}utul₂ kug mu-un-na-an-šum₂ sipad-de₃ %e e-ze₂-ni mu-na-ab-ga
-#lem: bahar[potter]; utul[tureen]; kug[purify]; šum[give] +. ; sipad[shepherd]; eze[sheep]N; ga[carry]
+#lem: bahar[potter]; utul[tureen]; kug[purify]; šum[give]; sipad[shepherd]; eze[sheep]N; ga[carry]
 #etcsl: line-id=57
 
 58. sipad-de₃ %e e-ze₂-ni mu-na-ab-ga %s en₃ mu-un-na-tar-re
@@ -224,11 +224,11 @@ $ 5 lines missing
 #etcsl: line-id=59
 
 60. gu₃ an-e ba-te gu₃ ki-še₃ ba-te
-#lem: gu[voice]; an[sky]; teŋ[approach] +. ; gu[voice]; ki[place]; teŋ[approach]
+#lem: gu[voice]; an[sky]; teŋ[approach]; gu[voice]; ki[place]; teŋ[approach]
 #etcsl: line-id=60
 
 61. gu₃ šu niŋin₂-na-ni an-ur₂-ra tug₂-gin₇ im-mi-in-dul gada-gin₇ im-mi-in-bur₂
-#lem: gu[voice]; šu[hand]; niŋin[encircle]; anur[horizon]; tug[textile]; dul[cover] +. ; gada[flax]; bur[spread out]
+#lem: gu[voice]; šu[hand]; niŋin[encircle]; anur[horizon]; tug[textile]; dul[cover]; gada[flax]; bur[spread out]
 #etcsl: line-id=61
 
 62. saŋ-du {u₂}šumunda-ke₄ {tum₉}[u₁₈-lu]-{[tum₉]}[u₁₈]-lu# bi₂-in-šub
@@ -240,11 +240,11 @@ $ 5 lines missing
 #etcsl: line-id=63
 
 64. u₂ he₂-me-en [...]
-#lem: u[plant(s)]; me[be] +. ; X
+#lem: u[plant(s)]; me[be]; X
 #etcsl: line-id=64
 
 65. u₂ hul gig-ga [he₂-me-en ...]
-#lem: u[plant(s)]; hulu[bad]; gig[sick]; me[be] +. ; X
+#lem: u[plant(s)]; hulu[bad]; gig[sick]; me[be]; X
 #etcsl: line-id=65
 
 66. mu-[zu ...]

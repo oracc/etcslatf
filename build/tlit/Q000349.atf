@@ -45,7 +45,7 @@
 #etcsl: line-id=9
 
 10. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
-#lem: ŋaʾe[I]; iri[city]; ŋen[go] +. ; aya[father]; ŋen[go]
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; aya[father]; ŋen[go]
 #etcsl: line-id=10
 
 11. {d}suen-me-en ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen
@@ -53,7 +53,7 @@
 #etcsl: line-id=11
 
 12. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
-#lem: ŋaʾe[I]; iri[city]; ŋen[go] +. ; aya[father]; ŋen[go]
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; aya[father]; ŋen[go]
 #etcsl: line-id=12
 
 13. a-a-ŋu₁₀ {d}en-lil₂-la₂-še₃ ga-an-ši-ŋen
@@ -61,7 +61,7 @@
 #etcsl: line-id=13
 
 14. ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen ama-ŋu₁₀-še₃ ga-an-ši-ŋen
-#lem: ŋaʾe[I]; iri[city]; ŋen[go] +. ; ama[mother]; ŋen[go]
+#lem: ŋaʾe[I]; iri[city]; ŋen[go]; ama[mother]; ŋen[go]
 #etcsl: line-id=14
 
 15. ama-ŋu₁₀ {d}nin-lil₂-la₂-še₃ ga-an-ši-ŋen
@@ -118,11 +118,11 @@ $ 6 lines missing
 #etcsl: line-id=33
 
 34. iri-ŋu₁₀ {kur}dilmun{ki} nu-me-a {ŋiš}ŋišnimbar ba-mu₂
-#lem: iri[city]; Dilmun[1]GN; me[be] +. ; ŋešnimbar[date-palm]; mu[grow]
+#lem: iri[city]; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; mu[grow]
 #etcsl: line-id=34
 
 35. nibru{ki} {kur}dilmun{ki} nu-me-a {ŋiš}ŋišnimbar ba-mu₂
-#lem: Nibru[1]SN; Dilmun[1]GN; me[be] +. ; ŋešnimbar[date-palm]; mu[grow]
+#lem: Nibru[1]SN; Dilmun[1]GN; me[be]; ŋešnimbar[date-palm]; mu[grow]
 #etcsl: line-id=35
 
 36. ama gal {d}nin-lil₂-le šag₄ gada ba-ni-in-la₂
@@ -134,7 +134,7 @@ $ 6 lines missing
 #etcsl: line-id=37
 
 38. {ŋiš}ma₂-gur₈ im-nu₂-e {gi}kid-bur₂ im-gi₄-[gi₄]
-#lem: magur[barge]; nud[lie down] +. ; kidbur[mat]; gi[turn]
+#lem: magur[barge]; nud[lie down]; kidbur[mat]; gi[turn]
 #etcsl: line-id=38
 
 39. {ŋiš}ma₂-gur₈-ra gi-bi tum-ma-al{ki}-še₃
@@ -494,7 +494,7 @@ $ 5 lines missing
 #etcsl: line-id=140
 
 141. nesaŋ mu-un-na-ab-tum₃ [...] MU [...] X
-#lem: nesaŋ[first-fruit offering]; tum[bring] +. ; X; X; X; X
+#lem: nesaŋ[first-fruit offering]; tum[bring]; X; X; X; X
 #etcsl: line-id=141
 
 142. [...] saŋ us₂ mu-na-dur₂-ru-ne-eš
@@ -696,23 +696,23 @@ $ 6 lines missing
 #etcsl: line-id=198
 
 199. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: e[house]; e[leave] +. ; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=199
 
 200. {d}nin-girid₂-da e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: Ningirida[1]DN; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: Ningirida[1]DN; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=200
 
 201. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: silim[healthy]; me[be] +. ; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=201
 
 202. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=202
 
 203. {ŋiš}ma₂#-[gur₈]-ra# zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
-#lem: magur[barge]; zid[flour]; gub[stand] +. ; duh[bran]; sal[thin]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
 #etcsl: line-id=203
 
 204. ŋiri₃-ni# gakkul# zabar-ra im-ma-an-šu₂-šu₂
@@ -740,7 +740,7 @@ $ 6 lines missing
 #etcsl: line-id=207
 
 208. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
-#lem: ma[ship]; gu[neck]; šum[give] +. ; Nibru[1]SN; du[go]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
 #etcsl: line-id=208
 
 209. nidba-a saŋ-bi larsam{ki}-ma egir-bi enegir{ki}-a
@@ -748,23 +748,23 @@ $ 6 lines missing
 #etcsl: line-id=209
 
 210. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: e[house]; e[leave] +. ; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=210
 
 211. {d}še-ri₅-da sag₉-ga e₂-<ta> nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: Šerda[1]DN; sag[good]; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: Šerda[1]DN; sag[good]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=211
 
 212. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: silim[healthy]; me[be] +. ; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=212
 
 213. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-[en]
-#lem: ma[ship]; aya[father]; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=213
 
 214. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-[sal-e]
-#lem: magur[barge]; zid[flour]; gub[stand] +. ; duh[bran]; sal[thin]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
 #etcsl: line-id=214
 
 215. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
@@ -792,7 +792,7 @@ $ 6 lines missing
 #etcsl: line-id=218
 
 219. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
-#lem: ma[ship]; gu[neck]; šum[give] +. ; Nibru[1]SN; du[go]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
 #etcsl: line-id=219
 
 220. nidba-a saŋ-bi ki unug{ki}-ga egir-bi larsam{ki#}-[ma]
@@ -800,31 +800,31 @@ $ 6 lines missing
 #etcsl: line-id=220
 
 221. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab#-[e₃]
-#lem: e[house]; e[leave] +. ; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=221
 
 222. kug {d}inana-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: kug[purify]; Inanak[1]DN; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: kug[purify]; Inanak[1]DN; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=222
 
 223. silim-ma he₂-me-en silim-ma he₂-[me-en] {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: silim[healthy]; me[be] +. ; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=223
 
 224. {ŋiš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋiš}ma₂# [silim-ma he₂]-me#-en
-#lem: ma[ship]; aya[father]; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; aya[father]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=224
 
 @variants
 
 #etcsl#ms 1 ms. adds 1 line:
 224A. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en# {ŋiš}ma₂ silim#-[ma he₂-me-en]
-#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=224A
 
 @endvariants
 225. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
-#lem: magur[barge]; zid[flour]; gub[stand] +. ; duh[bran]; sal[thin]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
 #etcsl: line-id=225
 
 226. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
@@ -852,7 +852,7 @@ $ 6 lines missing
 #etcsl: line-id=229
 
 230. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂#-[mu] nibru{ki}-še₃ ba-du-[un]
-#lem: ma[ship]; gu[neck]; šum[give] +. ; Nibru[1]SN; du[go]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
 #etcsl: line-id=230
 
 231. nidba-a saŋ-bi šuruppag{ki}-a egir-bi unug{ki}-ga
@@ -860,23 +860,23 @@ $ 6 lines missing
 #etcsl: line-id=231
 
 232. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: e[house]; e[leave] +. ; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=232
 
 233. {d}nin-unug-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: Ninunugak[1]DN; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: Ninunugak[1]DN; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=233
 
 234. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: silim[healthy]; me[be] +. ; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=234
 
 235. {ŋiš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; Suen[1]DN; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=235
 
 236. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
-#lem: magur[barge]; zid[flour]; gub[stand] +. ; duh[bran]; sal[thin]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
 #etcsl: line-id=236
 
 237. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
@@ -904,7 +904,7 @@ $ 6 lines missing
 #etcsl: line-id=240
 
 241. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-[un]
-#lem: ma[ship]; gu[neck]; šum[give] +. ; Nibru[1]SN; du[go]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
 #etcsl: line-id=241
 
 242. nidba-a saŋ-bi tum-ma-al{ki}-a egir-bi šuruppag{ki}-ga
@@ -912,23 +912,23 @@ $ 6 lines missing
 #etcsl: line-id=242
 
 243. e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: e[house]; e[leave] +. ; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: e[house]; e[leave]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=243
 
 244. {d}nin-lil₂ sag₉-ga e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
-#lem: Ninlil[1]DN; sag[good]; e[house]; e[leave] +. ; e[house]; e[leave]
+#lem: Ninlil[1]DN; sag[good]; e[house]; e[leave]; e[house]; e[leave]
 #etcsl: line-id=244
 
 245. silim-ma he₂-me-en silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: silim[healthy]; me[be] +. ; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: silim[healthy]; me[be]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=245
 
 246. {ŋiš}ma₂ dumu nun-na silim-ma he₂-me-en {ŋiš}ma₂ silim-ma he₂-me-en
-#lem: ma[ship]; dumu[child]; nun[prince]; silim[healthy]; me[be] +. ; ma[ship]; silim[healthy]; me[be]
+#lem: ma[ship]; dumu[child]; nun[prince]; silim[healthy]; me[be]; ma[ship]; silim[healthy]; me[be]
 #etcsl: line-id=246
 
 247. {ŋiš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
-#lem: magur[barge]; zid[flour]; gub[stand] +. ; duh[bran]; sal[thin]
+#lem: magur[barge]; zid[flour]; gub[stand]; duh[bran]; sal[thin]
 #etcsl: line-id=247
 
 248. ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
@@ -956,7 +956,7 @@ $ 6 lines missing
 #etcsl: line-id=251
 
 252. {ŋiš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
-#lem: ma[ship]; gu[neck]; šum[give] +. ; Nibru[1]SN; du[go]
+#lem: ma[ship]; gu[neck]; šum[give]; Nibru[1]SN; du[go]
 #etcsl: line-id=252
 
 253. nidba-a saŋ-bi nibru{ki}-a egir-bi tum-ma-al{ki}-a
@@ -988,11 +988,11 @@ $ 6 lines missing
 #etcsl: line-id=259
 
 260. e₂ ŋal₂-lu i₃-du₈ e₂ ŋal₂-lu
-#lem: e[house]; ŋal[open] +. ; idu[doorkeeper]; e[house]; ŋal[open]
+#lem: e[house]; ŋal[open]; idu[doorkeeper]; e[house]; ŋal[open]
 #etcsl: line-id=260
 
 261. [e₂] ŋal₂#-lu {d}kal-kal e₂ ŋal₂-lu
-#lem: e[house]; ŋal[open] +. ; Kalkal[1]DN; e[house]; ŋal[open]
+#lem: e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
 #etcsl: line-id=261
 
 262. {[d]}[kal]-kal# lu₂-ŋiš-e₃ e₂ ŋal₂-lu
@@ -1004,7 +1004,7 @@ $ 6 lines missing
 #etcsl: line-id=263
 
 264. i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
-#lem: idu[doorkeeper]; e[house]; ŋal[open] +. ; Kalkal[1]DN; e[house]; ŋal[open]
+#lem: idu[doorkeeper]; e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
 #etcsl: line-id=264
 
 265. gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re
@@ -1172,7 +1172,7 @@ $ 6 lines missing
 #etcsl: line-id=305
 
 306. i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu#
-#lem: idu[doorkeeper]; e[house]; ŋal[open] +. ; Kalkal[1]DN; e[house]; ŋal[open]
+#lem: idu[doorkeeper]; e[house]; ŋal[open]; Kalkal[1]DN; e[house]; ŋal[open]
 #etcsl: line-id=306
 
 307. niŋ₂ saŋ {ŋiš}ma₂ niŋ₂-saŋ ga-ra-ni-ib-šum₂
@@ -1224,7 +1224,7 @@ $ 6 lines missing
 #etcsl: line-id=318
 
 319. {d}suen-ra {d}en-lil₂ mu-un-da-hul₂ mi₂ zid na-mu-un-ne
-#lem: Suen[1]DN; Enlil[1]DN; hul[rejoice] +. ; mi[cvne]; zid[right]; e[speak]
+#lem: Suen[1]DN; Enlil[1]DN; hul[rejoice]; mi[cvne]; zid[right]; e[speak]
 #etcsl: line-id=319
 
 320. lu₂-tur-ŋu₁₀ lu₂ {ninda}gug₂ gu₇-a-ra {ninda}gug₂ šum₂-mu-na-ab-ze₂-en
@@ -1272,75 +1272,75 @@ $ 6 lines missing
 #etcsl: line-id=330
 
 331. šum₂-ma-da-ab {d}en-lil₂ šum₂-ma-da-ab urim₂{ki}-še₃ ga-ŋen
-#lem: šum[give] +. ; Enlil[1]DN; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: šum[give]; Enlil[1]DN; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=331
 
 332. id₂-da a-eštub šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: id[river]; aʾeštub[early flooding]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: id[river]; aʾeštub[early flooding]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=332
 
 333. a-šag₄-ga še gu-nu šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=333
 
 334. ambar-ra ku₆-da suhur{ku₆} šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=334
 
 335. ŋiš-gi-a gi sumun gi henbur šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=335
 
 336. {ŋiš}tir-{ŋiš}tir-ra šeg₉ šeg₉-bar šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=336
 
 337. an-edin-na {ŋiš}maš-gurum šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: aneden[the high steppe]; mašgurum[plant]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: aneden[the high steppe]; mašgurum[plant]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=337
 
 338. pu₂-kiri₆ lal₃ ŋeštin šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=338
 
 339. e₂-gal-la zi su₃-ud-ŋal₂ šum₂-ma-da-ab urim₂{ki} ga-ŋen
-#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=339
 
 340. mu-na-an-šum₂ {d}en-lil₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: šum[give] +. ; Enlil[1]DN; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: šum[give]; Enlil[1]DN; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=340
 
 341. id₂-da a-eštub mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: id[river]; aʾeštub[early flooding]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: id[river]; aʾeštub[early flooding]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=341
 
 342. a-šag₄-ga še gu-nu mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ašag[field]; še[barley]; gunu[qualification of barley]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=342
 
 343. ambar-a ku₆-da suhur{ku₆} mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ambar[reed-bed]; guŋal[inspector]; suhur[carp]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=343
 
 344. ŋiš-gi-a gi sumun gi henbur mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: ŋešgi[thicket]; gi[reed]; sumun[old]; gi[reed]; henbur[stalk]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=344
 
 345. tir-tir-ra šeg₉ šeg₉-bar mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: tir[forest]; šeg[an animal]; šeŋbar[an animal]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=345
 
 346. an-edin-na {ŋiš}maš-gurum mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: aneden[the high steppe]; mašgurum[plant]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: aneden[the high steppe]; mašgurum[plant]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=346
 
 347. pu₂-kiri₆ lal₃ ŋeštin mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
-#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: pukiri[irrigated orchard]; lal[syrup]; ŋeštin[vine]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=347
 
 348. e₂-gal-la zi su₃-ud-ŋal₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-an-ŋen
-#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give] +. ; Urim[1]SN; ŋen[go]
+#lem: egal[palace]; zi[life]; sudŋal[long-lasting]; šum[give]; Urim[1]SN; ŋen[go]
 #etcsl: line-id=348
 
 349. lugal-ŋu₁₀ barag-za {d}en-lil₂-la₂

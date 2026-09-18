@@ -9,7 +9,7 @@
 @div version 1 (A version from Nibru)
 
 1.1. a-ba-a mu-un#-[ba]-al#-e a-ba-a mu-un-ba-al-e
-#lem: aba[who?]; bal[dig] +. ; aba[who?]; bal[dig]
+#lem: aba[who?]; bal[dig]; aba[who?]; bal[dig]
 #etcsl: line-id=1.1
 
 #etcsl#inc OB catalogue from Nibru (N4), 0.2.08, Seg. D, line 3
@@ -43,11 +43,11 @@
 #etcsl: line-id=1.8
 
 1.9. [... u₂]-lal₃-a mu-un-du suhur#{ku₆} am₃-gur-gur
-#lem: X; ulal[plant]; du[build] +. ; suhur[carp]; gur[thick]
+#lem: X; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=1.9
 
 1.10. [... u₂]-lal₃-a mu-un-du [suhur]{ku₆#} am₃-gur-gur
-#lem: X; ulal[plant]; du[build] +. ; suhur[carp]; gur[thick]
+#lem: X; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=1.10
 
 1.11. [... gi]-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
@@ -75,11 +75,11 @@
 #etcsl: line-id=1.16
 
 1.17. [...] a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
-#lem: X; a[water]; dug[good]; tum[bring] +. ; dupsik[basket (for carrying earth and bricks)]; la[hang]
+#lem: X; a[water]; dug[good]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=1.17
 
 1.18. [...] X a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
-#lem: X; X; a[water]; dug[good]; tum[bring] +. ; dupsik[basket (for carrying earth and bricks)]; la[hang]
+#lem: X; X; a[water]; dug[good]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=1.18
 
 @end version
@@ -87,15 +87,15 @@
 @div version 2 (A version of unknown provenance)
 
 2.1. [a-ba-a mu-un]-ba#-al-e a-ba-a# mu#-[un-ba-al-e id₂] a-ba-a mu-un#-[ba-al-e]
-#lem: aba[who?]; bal[dig] +. ; aba[who?]; bal[dig] +. ; id[river]; aba[who?]; bal[dig]
+#lem: aba[who?]; bal[dig]; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.1
 
 2.2. {[id₂]}[keše₂-kug] a-ba-a mu-un-ba-[al-e] id₂# a-ba-a mu-un-ba-al-e
-#lem: Kešekug[1]WN; aba[who?]; bal[dig] +. ; id[river]; aba[who?]; bal[dig]
+#lem: Kešekug[1]WN; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.2
 
 2.3. {[id₂]}[pa₅-bi]-luh a-ba-a mu-un-ba-al-e id₂# a-ba-a mu-un-ba-al-e
-#lem: Pabiluh[1]WN; aba[who?]; bal[dig] +. ; id[river]; aba[who?]; bal[dig]
+#lem: Pabiluh[1]WN; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.3
 
 2.4. {d}ur-{d}namma kug tuku mu-un-ba-al-e
@@ -159,7 +159,7 @@
 #etcsl: line-id=2.18
 
 2.19. mu da-ri₂ mu ka-ge ba-ab-du₇# [...]
-#lem: mu[name]; dari[eternal]; mu[name]; kag[mouth]; du[perfect] +. ; X
+#lem: mu[name]; dari[eternal]; mu[name]; kag[mouth]; du[perfect]; X
 #etcsl: line-id=2.19
 
 2.20. {d}en-ki-ke₄# ŋeštug₂ daŋal-la-ŋu₁₀# saŋ#-e-eš mu#-[rig₇]
@@ -167,15 +167,15 @@
 #etcsl: line-id=2.20
 
 2.21. ŋe₂₆#-e iri{ki}-ŋa₂ id₂# he₂-ŋal₂-la# mu#-ba-al {id₂}keše₂-kug mu-sa₄
-#lem: ŋaʾe[I]; iri[city]; id[river]; heŋal[plenty]; bal[dig] +. ; Kešekug[1]WN; še[call by name]
+#lem: ŋaʾe[I]; iri[city]; id[river]; heŋal[plenty]; bal[dig]; Kešekug[1]WN; še[call by name]
 #etcsl: line-id=2.21
 
 2.22. urim₂{ki}-ma id₂# he₂-ŋal₂#-la mu-ba-al {id₂}keše₂#-kug mu-sa₄
-#lem: Urim[1]SN; id[river]; heŋal[plenty]; bal[dig] +. ; Kešekug[1]WN; še[call by name]
+#lem: Urim[1]SN; id[river]; heŋal[plenty]; bal[dig]; Kešekug[1]WN; še[call by name]
 #etcsl: line-id=2.22
 
 2.23. mu da-ri₂ ka-ge ba-ab-du₇-am₃ {id₂}pa₅-bi-luh mušen-am₃
-#lem: mu[name]; dari[eternal]; kag[mouth]; du[perfect] +. ; Pabiluh[1]WN; mušen[bird]
+#lem: mu[name]; dari[eternal]; kag[mouth]; du[perfect]; Pabiluh[1]WN; mušen[bird]
 #etcsl: line-id=2.23
 
 2.24. ŋe₂₆-e iri-ŋa₂ a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
@@ -187,11 +187,11 @@
 #etcsl: line-id=2.25
 
 2.26. ŋe₂₆-e id₂-ŋa₂ u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e am₃-gur-gur-e
-#lem: ŋaʾe[I]; id[river]; ulal[plant]; du[build] +. ; suhur[carp]; gur[thick]
+#lem: ŋaʾe[I]; id[river]; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=2.26
 
 2.27. urim₂{ki}-ma u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e [am₃]-gur#-gur-e
-#lem: Urim[1]SN; ulal[plant]; du[build] +. ; suhur[carp]; gur[thick]
+#lem: Urim[1]SN; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=2.27
 
 2.28. ŋe₂₆-e iri-ŋa₂ gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
@@ -211,11 +211,11 @@
 #etcsl: line-id=2.31
 
 2.32. ŋe₂₆-e id-ŋa₂ a-[ra₂-a hu]-mu#-un-[tum₃] {ŋiš}dusu-e hu-mu-un-na-la₂-e
-#lem: ŋaʾe[I]; id[river]; ara[way]; tum[bring] +. ; dupsik[basket (for carrying earth and bricks)]; la[hang]
+#lem: ŋaʾe[I]; id[river]; ara[way]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=2.32
 
 2.33. urim₂{ki}-ma id-ŋa₂ a-ra₂-a hu-mu-un-tum₃ {[ŋiš]}dusu-e hu-mu-un-na-la₂-e
-#lem: Urim[1]SN; id[river]; ara[way]; tum[bring] +. ; dupsik[basket (for carrying earth and bricks)]; la[hang]
+#lem: Urim[1]SN; id[river]; ara[way]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=2.33
 
 2.34. lugal-bi lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-am₃
@@ -382,7 +382,7 @@ $ 1 line missing
 #etcsl: line-id=3.33
 
 3.34. he₂-ŋal₂-bi ku₆ mušen ma-ra-ab-de₆ e₂-kiš-nu-ŋal₂-še₃
-#lem: heŋal[plenty]; kud[fish]; mušen[bird]; de[carry] +. ; Ekišnuŋal[1]TN
+#lem: heŋal[plenty]; kud[fish]; mušen[bird]; de[carry]; Ekišnuŋal[1]TN
 #etcsl: line-id=3.34
 
 3.35. gu₂-gu₂-bi {u₂}munzer lu₂-a u₂-lal₃-e gu₇-e
