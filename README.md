@@ -96,6 +96,10 @@ script, etc/aac-tra.xsl, and renamed to their Q-numbers.
 
 The script bin/tei2tra.sh does the tei/ .. tra/ conversion.
 
+2026-09-22: tra/ is no longer used for the interlinear alignment; tri/
+is used, and is being manually adjusted to make it easier to align
+translation of variants with the transliterations.
+
 ## tra2lbp
 
 The tra files are rewritten by bin/lbpp.plx as .tsv files with the

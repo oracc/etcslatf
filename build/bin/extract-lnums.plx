@@ -28,7 +28,7 @@ while (<>) {
 	    /=(.*?)\s*$/;
 	    print "$curr_line\t$1\n";
 	}
-    } elsif (/^([^\@\$\#].*?)\.\s/) {
+    } elsif (/^([^:\@\$\#].*?)\.\s/) {
 	if ($curr_mts) {
 	    print "$curr_line\t$curr_mts\n";
 	    $curr_mts = undef;

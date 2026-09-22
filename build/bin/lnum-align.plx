@@ -17,7 +17,7 @@ GetOptions(
 #
 # Read .lnum for a tlit and the .lbl for a tlat and write .lla (lnum-label-aligned)
 #
-
+my $fr_or_un = '';
 my $lbl = shift @ARGV;
 my $out = $lbl; $out =~ s/^lbl/lla/; $out =~ s/lbl$/lla/;
 my $lnum = $lbl; $lnum =~ s/^lbl/lnums/; $lnum =~ s/lbl$/lnum/;
@@ -31,6 +31,7 @@ my @paras = ();
 my $pareid = undef;
 foreach (@l) {
     next if /^\s*$/ || /^\&/;
+    # warn "label-load: $_\n" if $trace;
     if (/^{(.*?)}/) {
 	$pareid = $1;
 	$pareid =~ s/\s.*$//;
@@ -126,16 +127,17 @@ while ($ln <= $ln_top) {
 		}
 	    } else { # EID in translit corresponding to fragmentary run in tlat
 		lnum_log("$lnn ++=> fragmentary [frag=$frag]\n");
-		push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
+		push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($'.$fr_or_un.'$)' ];
 		--$frag;
 	    }
 	} elsif ($lnn !~ /^\$/) { # lnn is an EID
 	    if ('$' eq $lbn) {
 		my $lbc = ${$label[$lb]}[1];
 		warn "lbc undefined at lb=$lb\n" unless defined $lbc;
-		if ($lbc =~ /fragmentary/) {
+		if ($lbc =~ /(fragmentary|unclear|untranslated)/) {
+		    $fr_or_un = $1;
 		    lnum_log("$lnn => fragmentary\n");
-		    push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
+		    push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ('.$fr_or_un.'$)' ];
 		    $frag = need_frag($lbc, '');
 		    ++$lb; # unless $frag > 0;
 		} else {
@@ -145,6 +147,7 @@ while ($ln <= $ln_top) {
 		}
 	    } else {
 		lnum_log("EID/EID mismatch: $lnn != $lbn\n");
+		++$ln;
 		goto resync
 		    if resync();
 		# lnn and lbn are both EIDs but they don't match; this is where resync could go
@@ -167,7 +170,7 @@ while ($ln <= $ln_top) {
 		}
 	    } else {
 		lnum_log("\$/EID mismatch $lnn != label $lbn\n");
-		## ++$lb;
+		++$lb;
 		goto resync
 		    if resync();
 	    }
@@ -263,7 +266,7 @@ sub print_tr {
 # paragraph start.
 sub resync {
     my $par_index = ${$label[$lb]}[2];
-    warn "resync: label[ $lb ] par index = $par_index\n";
+    lnum_log("resync: label[ $lb ] par index = $par_index\n");
     if ($par_index <= $#paras) {
 	my $par_eid = $paras[$par_index+1]; # restart at the next para
 	my $off_ln = $ln;

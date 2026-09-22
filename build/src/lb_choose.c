@@ -414,7 +414,7 @@ lbf_brute_pairs(Par *p)
     {
       if (p->segs[i]->unlabeled)
 	nlabel += p->segs[i]->unlabeled;
-      else
+      else if (nlabel < p->nlabs)
 	p->segs[i]->label = p->labels[nlabel++];
     }
 }

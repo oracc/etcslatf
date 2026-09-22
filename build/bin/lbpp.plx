@@ -30,20 +30,31 @@ use lib "$ENV{'ORACC_BUILDS'}/lib";
 use Getopt::Long;
 
 my $verbose = 0; # print progress messages
-
+my @qlist = ();
+my %do_Q = ();
 GetOptions(
+    'q:s'=>\@qlist,
     'v+'=>\$verbose,
     );
+
+if ($#qlist >= 0) {
+    #warn "qlist=@qlist\n";
+    @do_Q{@qlist} = ();
+}
+#print Dumper \%do_Q; exit 1;
 
 my %xranges = (); my @xr = `cat etc/x-ranges.tsv`; chomp(@xr);
 foreach (@xr) { my($l,$r) = split(/\t/,$_); $xranges{$l} = $r }
 
 my $file = '';
 my $Q = '';
-my @q = <tra/*.atf>;
+my @q = <tri/*.atf>;
 foreach my $q (@q) {
-    my $Q = $q; $Q =~ s#^tra/(Q\d+)\.atf#$1#;
-    _lbpp($q,$Q);
+    my $Q = $q; $Q =~ s#^tri/(Q\d+)\.atf#$1#;
+    if ($#qlist < 0 || exists($do_Q{$Q})) {
+#	warn "$0: processing $Q\n";
+	_lbpp($q,$Q);
+    }
 }
 
 1;
@@ -54,7 +65,7 @@ sub _lbpp {
     ($file,$Q) = @_;
     my $L = '';
     open(Q,$file);
-    my $b = $file; $b =~ s/tra/lbp/; $b =~ s/atf$/tsv/;
+    my $b = $file; $b =~ s/tri/lbp/; $b =~ s/atf$/tsv/;
     open(B,">$b") || die "can't open $b\n";
     while (<Q>) {
 	chomp;
@@ -104,7 +115,7 @@ sub bifurcate {
 		    push @n, $s[$i]; # save the piece up to the tag regardless
 		}
 		my $tag = $tag_and_arg; $tag =~ s/\[.*$//;
-		if ('q' ne $tag && 'fsux' ne $tag && 'varh' ne $tag) {
+		if ('q' ne $tag && 'fsux' ne $tag && 'varh' ne $tag && 'vart' ne $tag) {
 		    my $endcurly = $curly;
 		    my $start = ++$i;
 		    while ($i <= $#s) {
@@ -173,7 +184,7 @@ sub expand_range {
 	    ++$beg;
 	    # Perl increments alpha variable Z to AA, AB, AC, etc.; we
 	    # only want Z, AA, BB, CC
-	    while ("$beg" !~ /^(.)(?:\1)+$/) {
+	    while ("$beg" !~ /^(.)(?:\1)+$/i) {
 		++$beg;
 	    }
 	} else {
@@ -199,50 +210,60 @@ sub parse_label {
 	} else {
 	    $prefix = '';
 	}
-	if ($pst =~ /^(.*?)-(.*?)$/) {
-	    if ($xranges{$pst}) {
-		@r = split(/\s+/, $xranges{$pst});
-		$count = $#r + 1;
-	    } else {
-		my ($first,$last) = ($1,$2);
-		my $line = $pre;
-		$line =~ s/^.*?\.([^.]+)$/$1/ if $line =~ /\./;
-		warn "$file:$.: line=$line; label=$l; first=$first; last=$last\n"
-		    if $line ne $first;
-		if ($first =~ /^\d+$/ && $last =~ /^\d+$/) {
-		    $count = ($last - $first) + 1;
-		    @r = ($first .. $last);
-		    warn "$file: number range = @r\n"
-			if $verbose>1;
-		} elsif ($first =~ /^\d*[A-Z]+$/ && $last =~ /^\d*[A-Z]+$/) {
-		    my ($fdig,$flet) = ($first =~ m/^(\d*)([A-Z]+)$/);
-		    my ($ldig,$llet) = ($last =~ m/^(\d*)([A-Z]+)$/);
-		    $fdig = 0 unless $fdig; # A-H is a legal range
-		    $ldig = 0 unless $ldig;
-		    if ($fdig == $ldig) {
-			@r = expand_range($fdig,$flet,$llet);
-			$count = $#r + 1;
-		    } else {
-			# This is an error condition that is not present in original ETCSL trans labels
-			warn "$file:$.: alphanumeric range $pst has differing number portions\n";
-		    }
-		} else {
-		    warn "$file:$.: asymmetrical range $pst not in etc/x-ranges.tsv\n";
-		}		
-	    }
-	} else {
-	    if ($pst !~ /^\d+$/) {
-		# This doesn't matter as long as ax is able to
-		# reconcile it as a parallel to a line with the
-		# same "number"
-		
-		# warn "$0: rangeless $pst is not simple number\n";
-	    }
-	    @r = ($pst);
-	    $count = 1;
+	my @lsegs = split(/,/,$pst);
+	my $i = 0;
+	for (my $i = 0; $i <= $#lsegs; ++$i) {
+	    push @r, expand_segment($i,$l,$pre,$lsegs[$i]);
 	}
+	$count = $#r + 1;
     }
     ($count,$prefix,@r);
+}
+
+sub expand_segment {
+    my ($i,$l,$pre,$pst) = @_;
+    my @r = ();
+    my $first = -1;
+    my $last = -1;
+    if ($pst =~ /^(.*?)-(.*?)$/) {
+	if ($xranges{$pst}) {
+	    @r = split(/\s+/, $xranges{$pst});
+	} else {
+	    my ($first,$last) = ($1,$2);
+	    my $line = $pre;
+	    $line =~ s/^.*?\.([^.]+)$/$1/ if $line =~ /\./;
+	    warn "$file:$.: line=$line; label=$l; first=$first; last=$last\n"
+		if $i==0 && $line ne $first;
+	    if ($first =~ /^\d+$/ && $last =~ /^\d+$/) {
+		@r = ($first .. $last);
+		warn "$file: number range = @r\n"
+		    if $verbose>1;
+	    } elsif ($first =~ /^\d*[A-Z]+$/i && $last =~ /^\d*[A-Z]+$/i) {
+		my ($fdig,$flet) = ($first =~ m/^(\d*)([A-Z]+)$/i);
+		my ($ldig,$llet) = ($last =~ m/^(\d*)([A-Z]+)$/i);
+		$fdig = 0 unless $fdig; # A-H is a legal range
+		$ldig = 0 unless $ldig;
+		if ($fdig == $ldig) {
+		    @r = expand_range($fdig,$flet,$llet);
+		} else {
+		    # This is an error condition that is not present in original ETCSL trans labels
+		    warn "$file:$.: alphanumeric range $pst has differing number portions\n";
+		}
+	    } else {
+		warn "$file:$.: asymmetrical range $pst not in etc/x-ranges.tsv\n";
+	    }		
+	}
+    } else {
+	if ($pst !~ /^\d+$/) {
+	    # This doesn't matter as long as ax is able to
+	    # reconcile it as a parallel to a line with the
+	    # same "number"
+	    
+	    # warn "$0: rangeless $pst is not simple number\n";
+	}
+	@r = ($pst);
+    }
+    @r;
 }
 
 sub str_from_segs {
