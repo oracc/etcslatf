@@ -64,7 +64,7 @@
 #lem: kisal[courtyard]; X; X; X; X; X; X
 #etcsl: line-id=1.A.10
 
-1.A.E. ŋi₆#-par₄# [...]
+1.A.11. ŋi₆#-par₄# [...]
 #tr.en: } @vart[t1812.v2,t1812.v1]{@varn{1 ms. has instead:} …… his mother who bore him spoke to the lord: @q[Ninsumun,Gilgamec]{“My king …… in the river, my lord …… your garden.”} @gap{2 lines unclear} }
 #lem: ŋipar[cloister]; X
 #etcsl: line-id=1.A.11
@@ -73,6 +73,7 @@
 
 #etcsl#ms instead of lines 5-11, 1 ms. has:
 A. [X X] X en-e ama ugu-ni gu₃ mu-[na-de₂]
+?$ (@gap{5 lines untranslated}) 
 #lem: X; X; X; en[lord]; ama[mother]; ugu[bear]; gu[voice]; de[pour]
 #etcsl: line-id=1.A.A
 
@@ -99,10 +100,16 @@ $ (unknown no. of lines missing)
 @div segment B
 
 1.B.1. [...] X X [...]
+#tr.en: $ (@gap{unknown no. of lines missing}) $ (@gap{2 lines unclear})
 #lem: X; X; X; X
 #etcsl: line-id=1.B.1
 
 1.B.2. [X X] NE# kisal X [...]
+?$ (@gap{2 lines unclear}) 
+?#tr.en: without there being any combat, a man …….
+?#tr.en: She perceived the canopy, the canopy ……,
+?#tr.en: holy @wDN{Inana} perceived the canopy, from the palace of the @fsux{abzu},
+?#tr.en: 
 #lem: X; X; X; kisal[courtyard]; X; X
 #etcsl: line-id=1.B.2
 
@@ -123,50 +130,62 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=1.B.6
 
 1.B.7. am-ŋu₁₀ lu₂-ŋu₁₀ ME-EN-NE-EN šu nu-ri-bar-re
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my …… man, I shall not let you go!
 #lem: am[wild bull]; lu[person]; X; šu[hand]; bar[place outside]
 #etcsl: line-id=1.B.7
 
 1.B.8. en {d}gilgameš₂ am-ŋu₁₀ lu₂-ŋu₁₀ NE šu nu-ri-bar-re
+#tr.en: Lord @wDN{Gilgameš}, my wild bull, my …… man, I shall not let you go!
 #lem: en[lord]; Gilgameš[1]DN; am[wild bull]; lu[person]; X; šu[hand]; bar[place outside]
 #etcsl: line-id=1.B.8
 
 1.B.9. e₂-an-na-ka di kud-de₃ šu nu-ri-bar-re
+#tr.en: I shall not let you go to dispense justice in the @wTN{E-ana}!
 #lem: Eanak[1]TN; did[lawsuit]; kud[cut]; šu[hand]; bar[place outside]
 #etcsl: line-id=1.B.9
 
 1.B.10. ŋi₆-par₄ kug-ŋa₂ ka-aš bar-re šu nu-ri-bar-re
+#tr.en: I shall not let you go to pronounce verdicts in my holy @fsux{ŋipar}!
 #lem: ŋipar[cloister]; kug[pure]; kaš[decision]; bar[place outside]; šu[hand]; bar[place outside]
 #etcsl: line-id=1.B.10
 
 1.B.11. e₂-an-na an-ne₂ ki aŋ₂ di kud-de₃ šu nu-ri-bar-re
+#tr.en: I shall not let you go to dispense justice in the @wTN{E-ana} beloved by @wDN{An}!
 #lem: Eanak[1]TN; An[1]DN; ki[place]; aŋ[measure]; did[lawsuit]; kud[cut]; šu[hand]; bar[place outside]
 #etcsl: line-id=1.B.11
 
 1.B.12. {d}gilgameš₂ za-e u₃-NE he₂-me-en za-e gud he₂-e
+#tr.en: @wDN{Gilgameš}, may you be ……, may you be ……!”}
 #lem: Gilgameš[1]DN; zaʾe[you]; X; me[be]; zaʾe[you]; gud[bull]; me[be]
 #etcsl: line-id=1.B.12
 
 1.B.13. niŋ₂-ba {d}inana ŋi₆-par₄-zu-še₃ nam-ba-ni-ku₄-ku₄
+#tr.en: (@wDN{Gilgameš} speaks:) @q[Gilgamec,Inana]{“I shall certainly not try to take over the portion of @wDN{Inana} in your @fsux{ŋipar}.
 #lem: niŋba[gift]; Inanak[1]DN; ŋipar[cloister]; kur[enter]
 #etcsl: line-id=1.B.13
 
 1.B.14. {d}nin-e₂-gal a₂ nam-ur-saŋ-ŋa₂-ke₄-eš₂ nam-bi-ši-X
+#tr.en: @wDN{Ninegala} will not …… because of my valorous strength.
 #lem: Ninegalak[1]DN; a[arm]; namursaŋ[heroism]; X
 #etcsl: line-id=1.B.14
 
 1.B.15. {d}inana nin e-sir₂-ŋu₁₀ za-e nam-ba-<ni>-in-TAR
+#tr.en: But @wDN{Inana}, lady, don't you block my way, either!
 #lem: Inanak[1]DN; nin[lady]; esir[street]; zaʾe[you]; X
 #etcsl: line-id=1.B.15
 
 1.B.16. gud kur-ra ga-an-dug₄ tur₃-ba [ga]-am₃#-mi-ib-si
+#tr.en: My wish is to catch (?) mountain bulls, to fill the cow-pens.
 #lem: gud[bull]; kur[mountain(s)]; dug[speak]; tur[animal stall]; si[fill]
 #etcsl: line-id=1.B.16
 
 1.B.17. udu kur-ra ga-an-dug₄ amaš-ba [ga]-am₃#-mi-ib-si
+#tr.en: I wish to catch (?) mountain sheep, to fill the sheepfolds.
 #lem: udu[sheep]; kur[mountain(s)]; dug[speak]; amaš[sheepfold]; si[fill]
 #etcsl: line-id=1.B.17
 
 1.B.18. kug {na₄}gug i₃-ŋar i-sur-sur-me-eš GA (1:U₅:1) nam-X-X
+#tr.en: I wish to …… silver and cornelian.”}
 #lem: kug[metal]; gug[carnelian]; ŋar[put]; sur[press]; X; X; X
 #etcsl: line-id=1.B.18
 
@@ -174,14 +193,17 @@ $ (unknown no. of lines missing)
 #lem: X
 
 1.B.19. [in]-nin₉-e gu₃ ba-an-de₂ KA-ni ba-an-pa-an
+#tr.en: The queen spoke with a snort;
 #lem: innin[lady]; gu[voice]; de[pour]; X; paŋ[breathe]
 #etcsl: line-id=1.B.19
 
 1.B.20. {[d]}[inana-ke₄] gu₃# ba#-[de₂] KA-ni ba-an-pa-an
+#tr.en: @wDN{Inana} spoke with a snort:
 #lem: Inanak[1]DN; gu[voice]; de[pour]; X; paŋ[breathe]
 #etcsl: line-id=1.B.20
 
 1.B.21. [...] X NE (1:TA:1) za-e MA i-ra-an-dug₄
+#tr.en: @q[Inana,Gilgamec]{“…… say to you.
 #lem: X; X; X; X; zaʾe[you]; X; dug[speak]
 #etcsl: line-id=1.B.21
 
@@ -189,6 +211,7 @@ $ (unknown no. of lines missing)
 #lem: X
 
 1.B.22. [...] X NE (1:TA:1) za-ra ma-ra-an-dug₄
+#tr.en: …… say to you.
 #lem: X; X; X; X; zaʾe[you]; dug[speak]
 #etcsl: line-id=1.B.22
 
@@ -196,70 +219,89 @@ $ (unknown no. of lines missing)
 #lem: X
 
 1.B.23. [...] X-gin₇ nu-du₃ {d}gilgameš₂
+#tr.en: ……, @wDN{Gilgameš}.”}
 #lem: X; X; du[build]; Gilgameš[1]DN
 #etcsl: line-id=1.B.23
 
 1.B.24. [...] X [...] X X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X
 #etcsl: line-id=1.B.24
 
 1.B.25. [...] HA# [...] X
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X
 #etcsl: line-id=1.B.25
 
 1.B.26. [...] X X HA RA X X X X NE
+#tr.en: ($fragmentary$)
 #lem: X; X; X; X; X; X; X; X; X; X
 #etcsl: line-id=1.B.26
 
 1.B.27. [...] RA X tug₂-da-a
+#tr.en: ($fragmentary$)
 #lem: X; X; X; tug[textile]
 #etcsl: line-id=1.B.27
 
 1.B.28. [...] BI# ib-ta-ni-in-ŋar
+#tr.en: ($fragmentary$)
 #lem: X; X; ŋar[put]
 #etcsl: line-id=1.B.28
 
 1.B.29. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.B.29
 
 1.B.30. X [...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.B.30
 
 1.B.31. šag₄#-bi# [...]
+#tr.en: (@wDN{An} speaks:) @q[An,Inana]{“Its entrails (?)…….
 #lem: šag[heart]; X
 #etcsl: line-id=1.B.31
 
 1.B.32. kuš-bi [...]
+#tr.en: Its hide …….
 #lem: kuš[skin]; X
 #etcsl: line-id=1.B.32
 
 1.B.33. uš₂-bi X X [...]
+#tr.en: Its blood …….”}
 #lem: uš[blood]; X; X; X
 #etcsl: line-id=1.B.33
 
 1.B.34. [...] bi₂#-in#-[...]
+#tr.en: ($fragmentary$)
 #lem: X; X
 #etcsl: line-id=1.B.34
 
 1.B.35. {d}inana-ke₄ a ši-im-lu-lu šurum i₃-X [...] X
+#tr.en: @q[An,Inana]{“@wDN{Inana}, it will muddy the waters; it will …… cowpats.
 #lem: Inanak[1]DN; a[water]; lu[mix]; šurum[dung]; X; X; X
 #etcsl: line-id=1.B.35
 
 1.B.36. an-ne₂ ki aŋ₂-ŋu₁₀ SU na-ba-[...]
+#tr.en: My one beloved by @wDN{An}, …….”}
 #lem: An[1]DN; ki[place]; aŋ[measure]; X; X
 #etcsl: line-id=1.B.36
 
 1.B.37. gi-dur im-ma-ni-in-dab₅ an# [...]
+#tr.en: He let her hold the leash; @wDN{An} ……. @varh[t1812.v3]{@q[An,Inana]{“My child, who does it belong to?”}
 #lem: dur[umbilical cord]; dab[seize]; An[1]DN; X
 #etcsl: line-id=1.B.37
 
 1.B.38. lu₂-tur-ŋu₁₀ (1:a-ba-kam:1) a ši-lu₃-lu₃-e id₂ X šurum [...]
+#tr.en: } @vart[t1812.v4,t1812.v3]{@varn{1 ms. has instead:} @q{“My child, what use would it be?”} } @q{“It will stir up the waters, it will leave …… cowpats ……!
 #lem: lutur[child]; aba[who?]; a[water]; lu[mix]; id[river]; X; šurum[dung]; X
 #etcsl: line-id=1.B.38
 
 :38v.1.1: ($1 ms. has instead:$) a-na-[aš]-am₃
+?#tr.en: If the great bull is let loose, …… @wSN{Unug}!
+?#tr.en: If the great bull is let loose against @wDN{Gilgameš}, …… @wSN{Unug}!
+?#tr.en: I will not give her that which bears my own name.”}
 #lem: anaš[why?]
 
 1.B.39. gud gal šu bar-ra# unug{ki}-ga X [...]
@@ -275,48 +317,59 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=1.B.41
 
 1.B.42. a ši-im-lu₃-lu₃-e šurum gur₄-gur₄-re
+#tr.en: (@wDN{Inana} speaks:) @q[Inana,An]{“Maybe it will muddy the waters,
 #lem: a[water]; lu[mix]; šurum[dung]; gur[thick]
 #etcsl: line-id=1.B.42
 
 1.B.43. a-a-ŋu₁₀ gud an-na %e ha-ma-ze₂-eŋ₃-e# %s [...]
+#tr.en: and will leave gigantic cowpats -- but let my father give me the Bull of Heaven,
 #lem: aya[father]; gud[bull]; an[sky]; zeŋ[give]V/t; X
 #etcsl: line-id=1.B.43
 
 1.B.44. en ga-mu-un-ug₅-ga en ga-mu-un-ug₅-ga
+#tr.en: so I can kill the lord, so I can kill the lord,
 #lem: en[lord]; ug[kill]; en[lord]; ug[kill]
 #etcsl: line-id=1.B.44
 
 1.B.45. en {d}gilgameš₂ en ga-mu-un-ug₅-ga
+#tr.en: so I can kill the lord, Lord @wDN{Gilgameš}!”}
 #lem: en[lord]; Gilgameš[1]DN; en[lord]; ug[kill]
 #etcsl: line-id=1.B.45
 
 1.B.46. an gal-e kug {d}inana-ke₄ mu-na-ni-ib₂-gi-gi₄
+#tr.en: Great @wDN{An} replied to holy @wDN{Inana}: @q[An,Inana]{“My child, the Bull of Heaven would not have any pasture,
 #lem: An[1]DN; gal[big]; kug[purify]; Inanak[1]DN; gi[turn]
 #etcsl: line-id=1.B.46
 
 1.B.47. lu₂-tur-ŋu₁₀ gud an-na u₂-gu₇-bi in-nu an-ur₂-ra u₂-gu₇-bi-im
+#tr.en: as its pasture is on the horizon. Maiden @wDN{Inana},
 #lem: lutur[child]; gud[bull]; an[sky]; ugu[food]; nu[not]; anur[horizon]; ugu[food]
 #etcsl: line-id=1.B.47
 
 1.B.48. ki-sikil {d}inana gud an-na ki {d}utu e₃-a-še₃ u₂ im-da-gu₇-e
+#tr.en: the Bull of Heaven can only graze where the sun rises.
 #lem: kisikil[young woman]; Inanak[1]DN; gud[bull]; an[sky]; ki[place]; Utu[1]DN; e[leave]; u[plant(s)]; gu[eat]
 #etcsl: line-id=1.B.48
 
 1.B.49. za-e gud an-na %e nu-mu-e-da-ab-ze₂-eŋ₃-en
+#tr.en: So I cannot give the Bull of Heaven to you!”}
 #lem: zaʾe[you]; gud[bull]; an[sky]; zeŋ[give]V/t
 #etcsl: line-id=1.B.49
 
 1.B.50. kug {d}inana-ke₄ gu₂# mu-na-ni-ib₂-gi-gi
+#tr.en: Holy @wDN{Inana} replied to him: @q[Inana,An]{“I shall shout,
 #lem: kug[purify]; Inanak[1]DN; gu[neck]; gi[turn]
 #etcsl: line-id=1.B.50
 
 1.B.51. ŋe₂₆-e gu₃ ba-de₂-e-en an ki-še₃ a-ba-da-te
+#tr.en: and make my voice reach heaven and earth!”}
 #lem: ŋaʾe[I]; gu[voice]; de[pour]; an[sky]; ki[place]; teŋ[approach]
 #etcsl: line-id=1.B.51
 
 @variants
 
 1.B.52. ni₂ ba-da-an-te ni₂ ba-da-an-te
+#tr.en: @varh[t1812.v6]{He was frightened, he was frightened. @vart[t1812.v7,t1812.v6]{@varn{1 ms. adds here:} …… was frightened of @wDN{Inana}. } Great @wDN{An} replied to holy @wDN{Inana}:
 #lem: ni[fear]; teŋ[approach]; ni[fear]; teŋ[approach]
 #etcsl: line-id=1.B.52
 
@@ -324,6 +377,8 @@ $ (unknown no. of lines missing)
 
 #etcsl#ms 1 ms. adds after line 52:
 1.B.52A. X inana ni₂ ba-da-an-te
+?#tr.en: @q[An,Inana]{“I shall give her the Bull of Heaven.”}
+?#tr.en: } @vart[t1812.v8,t1812.v6]{@varn{instead of approx. lines 52-54, 1 ms. has:} She made her voice reach heaven ……, she made her voice reach earth; she made her voice reach heaven ……, she made her voice reach earth. It covered them like a woollen garment, it was spread over them like a linen garment. …… who could speak to her? …… who could speak to her? …… gave ……. }
 #lem: X; Inanak[1]DN; ni[fear]; teŋ[approach]
 #etcsl: line-id=1.B.52A
 
@@ -368,14 +423,23 @@ f. [...] šum₂
 
 @endvariants
 1.B.55. ki-sikil {d}inana# nam-nitah-gin₇ saman za-gin₃-na šu ba-ni-in-du₈
+#tr.en: In masculine fashion, the maiden @wDN{Inana} grasped it by the lapis-lazuli tether.
 #lem: kisikil[young woman]; Inanak[1]DN; namnita[manhood]; saman[tethering rope]; zagin[lapis lazuli]; šu[hand]; du[spread]
 #etcsl: line-id=1.B.55
 
 1.B.56. kug {d}inana-ke₄# gud an-na (1:an-ta-e₃:1)
+#tr.en: Holy @wDN{Inana} brought the Bull of Heaven @varh[t1812.v9]{out } @vart[t1812.v10,t1812.v9]{@varn{1 ms. has instead:} down }. At @wSN{Unug}, the Bull devoured the pasture,
 #lem: kug[purify]; Inanak[1]DN; gud[bull]; an[sky]; e[leave]
 #etcsl: line-id=1.B.56
 
 :56v.1.1: ($1 ms. has instead:$) im-ta-an-ed₃
+?#tr.en: and drank the water of the river in great slurps.
+?#tr.en: With each slurp it used up one mile of the river,
+?#tr.en: but its thirst was not satisfied. It devoured the pasture and stripped the land bare.
+?#tr.en: It broke up the palm trees of @wSN{Unug},
+?#tr.en: as it bent them to fit them into its mouth.
+?#tr.en: When it was standing, the Bull submerged @wSN{Unug}.
+?#tr.en: @varh[t1812.v11]{The aura } @vart[t1812.v12,t1812.v11]{@varn{1 ms. has instead:} the name } of the Bull of Heaven submerged Kulaba.
 #lem: ed[go up]
 
 1.B.57. gud unug{ki}-ga-ke₄ u₂ mu-gu₇-e
@@ -418,14 +482,18 @@ f. [...] šum₂
 @variants
 
 1.B.64. nar-a-ni [...]
+#tr.en: @varh[t1812.v13]{His musician ……. As he looked up ……,
 #lem: nar[musician]; X
 #etcsl: line-id=1.B.64
 
 1.B.65. igi il₂-a-ni [...]
+#tr.en: leaning (?) ……
 #lem: igi[eye]; il[raise]; X
 #etcsl: line-id=1.B.65
 
 1.B.66. gam-gam-ma-ni [...]
+?$ (@gap{1 line unclear}) 
+?#tr.en: } @vart[t1812.v14,t1812.v13]{@varn{1 ms. has instead:} Then Lord @wDN{Gilgameš} …… his musician. } @vart[t1812.v15,t1812.v13]{@varn{a second ms. has instead:} @wDN{Gilgameš} …… his musician @wPN{Lugal-gabaŋal}. @q[Gilgamec,Lugal-gabajal]{“My musician, tune your strings, …… give me a drink, ……. …… bronze …… in your hand ……. His musician …….”} } @vart[t1812.v16,t1812.v13]{@varn{a third ms. has instead:} …… replied to @wPN{Lugal-gabaŋal}, @q[Gilgamec,Lugal-gabajal]{“@wPN{Lugal-gabaŋal}, tune your strings; I wish to have a drink!”} (@wPN{Lugal-gabaŋal} answers:) @q[Lugal-gabajal,Gilgamec]{“…… drink, that is why nothing of yours is important.”} …… replied to @wPN{Lugal-gabaŋal}. } @vart[t1812.v17,t1812.v13]{@varn{instead of approx. lines 64-67, a fourth ms. has:} @gap{3 lines unclear} …… drink, lord ……. …… drink, lord ……. @gap{7 lines missing or unclear} …… @wSN{Unug} ……. }
 #lem: gurum[bend]; X
 #etcsl: line-id=1.B.66
 
@@ -532,26 +600,32 @@ V. [...] unug{ki#} [...]
 
 @endvariants
 1.B.68. en {d}gilgameš₂# [...]
+#tr.en: Lord @wDN{Gilgameš} ……. @wDN{Inana} …… the Bull of Heaven.
 #lem: en[lord]; Gilgameš[1]DN; X
 #etcsl: line-id=1.B.68
 
 1.B.69. inana gud an-na [...]
+#tr.en: At @wSN{Unug}, the Bull ……,
 #lem: Inanak[1]DN; gud[bull]; an[sky]; X
 #etcsl: line-id=1.B.69
 
 1.B.70. gud unug{ki} [...]
+#tr.en: and drank the water of the river in great slurps.
 #lem: gud[bull]; Unug[1]SN; X
 #etcsl: line-id=1.B.70
 
 1.B.71. id₂ a-ŋi₆ lu! [a na₈-na₈]
+#tr.en: With each slurp it used up one mile of the river,
 #lem: id[river]; aŋi[wave]; lu[abundant]; a[water]; naŋ[drink]
 #etcsl: line-id=1.B.71
 
 1.B.72. id₂ a-ŋi₆ lu danna{na}-[ta-am₃ ib₂-si šag₄-bi nu-si-si]
+#tr.en: but its thirst was not satisfied. It devoured the pasture and stripped the land bare.
 #lem: id[river]; aŋi[wave]; lu[abundant]; dana[unit of length]; si[fill]; šag[heart]; si[fill]
 #etcsl: line-id=1.B.72
 
 1.B.73. u₂ mu-gu₇-e# [ki im-sig₉-ge-e]
+#tr.en: $ (@vart[t1812.v18,t1812.v18]{@varn{1 ms. adds here:} His lady ……. @wDN{Gilgameš} …… said, @q[Gilgamec,others]{“My mother ……, my sister ……, will …… the cattle to their tethering stakes, will …… the sheep to their tethering stakes, will …… to their tethering stakes.”} @wDN{Gilgameš} ……, @q[Gilgamec,Bull of Heaven]{“Bull of Heaven, you, yes you, ……; you, yes you -- you do not …….”} @wDN{Gilgameš} ……. } )
 #lem: u[plant(s)]; gu[eat]; ki[place]; sig[put into]
 #etcsl: line-id=1.B.73
 
@@ -559,6 +633,12 @@ V. [...] unug{ki#} [...]
 
 #etcsl#ms 1 ms. adds here:
 1.B.73A. nin-ni [...]
+?$ (@gap{5 lines unclear}) 
+?#tr.en: @q{“They will throw your corpse in the deserted streets,
+?#tr.en: and throw your intestines in the broad square.
+?#tr.en: They will send your carcass to the knacker's,
+?#tr.en: and I shall share out your meat in baskets to the widows' sons who are citizens of my city …….
+?#tr.en: I shall make flasks of your two horns for pouring fine oil to @wDN{Inana} in @wTN{E-ana}.”}
 #lem: nin[lady]; X
 #etcsl: line-id=1.B.73A
 
@@ -647,30 +727,37 @@ V. [...] unug{ki#} [...]
 #etcsl: line-id=1.B.83
 
 1.B.84. inana bad₃# igi mu-ni-la₂
+#tr.en: @wDN{Inana} watched from the top of the ramparts. The Bull bellowed in the dust,
 #lem: Inanak[1]DN; bad[wall]; igi[eye]; la[hang]
 #etcsl: line-id=1.B.84
 
 1.B.85. gud-de₃ sahar-ra gu₃ bi₂-in-dug₄
+#tr.en: and @wDN{Gilgameš} walked (?) at its head as @wPN{Enkidu} climbed up the rope of its …….
 #lem: gud[bull]; sahar[soil]; gu[voice]; dug[speak]
 #etcsl: line-id=1.B.85
 
 1.B.86. en {d}gilgameš₂ saŋ-du-ta i₃-du
+#tr.en: Their fellow-citizens came along …….
 #lem: en[lord]; Gilgameš[1]DN; saŋdu[head]; ŋen[go]
 #etcsl: line-id=1.B.86
 
 1.B.87. en-ki-du₁₀ dur lib-ba-na# [...] ba#-an-ed₃
+#tr.en: It covered them with dust,
 #lem: Enkidu[1]PN; dur[binding]; X; X; ed[go up]
 #etcsl: line-id=1.B.87
 
 1.B.88. dumu iri-na [mu]-un-da-ni-re₇-eš-am₃ amar ŋiš nu-zu sahar ba-e-ne-ši-dul₅
+#tr.en: like a young calf unused to the yoke.
 #lem: dumu[child]; iri[city]; ere[go (perfect plural stem of ŋen⟦to go⟧)]; amar[calf]; ŋeš[tree]; zu[know]; sahar[soil]; dul[cover]
 #etcsl: line-id=1.B.88
 
 1.B.89. (1:en-ki-du₁₀ eŋer gud-da-še₃ im-mi-gub [...] ka# mu-un-niŋin₂:1)
+#tr.en: @varh[t1812.v19]{@wPN{Enkidu} stood behind the Bull and went round …….
 #lem: Enkidu[1]PN; egir[back]; gud[bull]; gub[stand]; X; kag[mouth]; niŋin[encircle]
 #etcsl: line-id=1.B.89
 
 :89v.1.1: ($1 ms. has instead:$) [...] u₃-bi₂-in-sig₁₀ kun-bi im-ma-an-dab₅
+?#tr.en: } @vart[t1812.v20,t1812.v19]{@varn{1 ms. has instead:} He put …… and seized its tail. } He spoke to his master @wDN{Gilgameš}:
 #lem: X; sig[put into]; kun[tail]; dab[seize]
 
 1.B.90. lugal-a-ni-ir {d}gilgameš₂-ra gu₃ mu-na-de₂-e
@@ -678,26 +765,32 @@ V. [...] unug{ki#} [...]
 #etcsl: line-id=1.B.90
 
 1.B.91. i₃-a lum-lum u₃-luh-ha sud-sud
+#tr.en: @q[Enkidu,Gilgamec]{“Ho, magnificent one, extending your staff of office,
 #lem: ia[(an exclamation)]; lum[fruit]; uluh[scepter]; sud[distant]
 #etcsl: line-id=1.B.91
 
 1.B.92. dumu-gir₁₅ giri₁₇-zal diŋir-re-ne
+#tr.en: born of noble lineage, splendour of the gods,
 #lem: dumugir[citizen]; kirizal[joy]; diŋir[deity]
 #etcsl: line-id=1.B.92
 
 1.B.93. gud lipiš-tuku me₃-a gub-ba
+#tr.en: furious bull standing ready for battle,
 #lem: gud[bull]; lipištuku[furious]; me[battle]; gub[stand]
 #etcsl: line-id=1.B.93
 
 1.B.94. en gal {d}gilgameš₂ unug#{ki#} bi₂-in-dug₄-ga
+#tr.en: who is respected as the great lord @wDN{Gilgameš} of @wSN{Unug}!
 #lem: en[lord]; gal[big]; Gilgameš[1]DN; Unug[1]SN; dug[speak]
 #etcsl: line-id=1.B.94
 
 1.B.95. ama-zu dumu u₃-tud-da mah-bi he₂-em#-zu
+#tr.en: Your mother was truly skilled in bearing children,
 #lem: ama[mother]; dumu[child]; utud[give birth (to)]; mah[great]; zu[know]
 #etcsl: line-id=1.B.95
 
 1.B.96. emeda(|UM.ME|)-ga-<la₂>-zu dumu-ra# ga-ba mah-bi he₂-em-zu
+#tr.en: and your nurse was truly skilled in suckling her charges!
 #lem: emegala[wet nurse]; dumu[child]; ba[allot]; mah[great]; zu[know]
 #etcsl: line-id=1.B.96
 
@@ -705,6 +798,10 @@ V. [...] unug{ki#} [...]
 
 #etcsl#ms 1 ms. adds:
 1.B.96A. en dumu-gir₁₅ AN X [...]
+?#tr.en: @vart[t1812.v21,t1812.v21]{@varn{1 ms. adds:} Lord born of noble lineage, …… } Do not fear -- the warrior without strength …… himself (?).
+?#tr.en: There where the road is straight …….
+?#tr.en: …… axe …….”}
+?$ (@gap{4 lines unclear}) 
 #lem: en[lord]; dumugir[citizen]; X; X; X
 #etcsl: line-id=1.B.96A
 
@@ -747,70 +844,88 @@ $ (unknown no. of lines missing)
 @div segment A
 
 2.A.1. šul me₃!-kam šul me₃!-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of the man of battle, the man of battle.
 #lem: šul[youth]; me[battle]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.1
 
 2.A.2. en {d}gilgameš₂ šul me₃-kam# in-du-ni# ga-an-dug₄#
+#tr.en: I will sing the song of Lord @wDN{Gilgameš}, the man of battle,
 #lem: en[lord]; Gilgameš[1]DN; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.2
 
 2.A.3. en su ku₁₀-ku₁₀ šul me₃!-kam in#-[du]-ni ga-an-dug₄
+#tr.en: I will sing the song of the lord with the very black beard, the man of battle.
 #lem: en[lord]; su[flesh]; kukkug[dark]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.3
 
 2.A.4. a₂-ur₂ sag₉-sag₉ šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him with the well-proportioned limbs, the man of battle.
 #lem: aʾur[limbs]; sag[good]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.4
 
 2.A.5. UL-nir-ma šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him in his prime (?), the man of battle.
 #lem: X; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.5
 
 2.A.6. niŋ₂-erim₂ du₇-du₇ šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him who batters the wicked, the man of battle.
 #lem: niŋerim[evil]; du[push]; šul[youth]; me[battle]; endu[song]; dug[speak]
 #etcsl: line-id=2.A.6
 
 2.A.7. lugal-e en-e ama ugu-ne-ra A₂ KAL IŠ ta-a-ni-[...] id₂-da NAŊA-de₃
+#tr.en: The king, the lord, having …… as his mother who bore him ……, wishing to wash (?) in the river.
 #lem: lugal[king]; en[lord]; ama[mother]; ugu[bear]; X; X; X; teŋ[approach]; id[river]; X
 #etcsl: line-id=2.A.7
 
 2.A.8. en-ŋu₁₀ {ŋiš}kiri₆ {ŋiš}za-ba-al-še₃ kur₉-NE kiŋ₂-a-zu-ne
+#tr.en: My lord, having sought entry into the garden planted with junipers,
 #lem: en[lord]; kiri[(fruit) plantation]; zabalum[juniper]; kur[enter]; kiŋ[seek]
 #etcsl: line-id=2.A.8
 
 2.A.9. en ŋi₆-par₄-ta udu nir-ra-am₃ siki am₃-ze₂ SAR-SAR
+#tr.en: the lord, coming from the @fsux{ŋipar},
 #lem: en[lord]; ŋipar[cloister]; udu[sheep]; nir[winnow]; siki[hair]; zir[tear out]; X
 #etcsl: line-id=2.A.9
 
 2.A.10. KAL saŋ-ŋa₂-ke₄ dur₂ bi-ŋar ZI-gin₇ ŠEN NE#-na
+#tr.en: sheared the wool of the fleecy sheep ……;
 #lem: X; saŋ[head]; dur[buttocks]; ŋar[put]; X; X; X
 #etcsl: line-id=2.A.10
 
 2.A.11. lugal-e ZI-gin₇ ŠEN NE-na gi-sal#-[la] gu₂# gur₂
+#tr.en: …… he sat down …….
 #lem: lugal[king]; X; X; X; ŋisal[rudder]; gu[neck]; gurum[bend]
 #etcsl: line-id=2.A.11
 
 2.A.12. nun gi-sal-la gi lum-lum-ma-gin₇# [X X] X mu-ši-ib-šu₂
+#tr.en: The king …… bending …… with the oar;
 #lem: nun[prince]; ŋisal[rudder]; gi[reed]; lum[fruit]; X; X; X; šuš[cover]
 #etcsl: line-id=2.A.12
 
 2.A.13. niŋ₂-erim₂-bi za-e ŠEN-gin₇ X [...] X-šu₂
+#tr.en: the prince covered …… with the oar, as if it was of flourishing reed.
 #lem: niŋerim[evil]; zaʾe[you]; X; X; X; šuš[cover]
 #etcsl: line-id=2.A.13
 
 2.A.14. ama ugu-ne-ra DI# NA# mu-un-[...]-na-šum₂
+#tr.en: You covered their wicked ones, as if ……, with water.
 #lem: ama[mother]; ugu[bear]; X; X; šum[give]
 #etcsl: line-id=2.A.14
 
 2.A.15. kisal daŋal-la [...]
+#tr.en: He gave …… to his mother who bore him.
 #lem: kisal[courtyard]; daŋal[wide]; X
 #etcsl: line-id=2.A.15
 
 2.A.16. {d}gilgameš₂ ŋiš buluŋ₃# X [...]
+#tr.en: In the wide courtyard ……, @wDN{Gilgameš} …….
 #lem: Gilgameš[1]DN; ŋeš[tree]; buluŋ[grow]; X; X
 #etcsl: line-id=2.A.16
 
 2.A.17. KA gul-gul-e NE# [...]
+?$ (@gap{1 line unclear}) 
+?#tr.en: In the great courtyard …….
 #lem: X; gul[destroy]; X; X
 #etcsl: line-id=2.A.17
 
@@ -819,94 +934,117 @@ $ (unknown no. of lines missing)
 #etcsl: line-id=2.A.18
 
 2.A.19. ud-bi-a e₂#-la₂#-e# [...]
+#tr.en: Then …… the canopy …….
 #lem: ud[sun]; ela[canopy]; X
 #etcsl: line-id=2.A.19
 
 2.A.20. kug {d}inana-ke₄ [e₂-la₂-e igi mu-un-bar]
+#tr.en: Holy @wDN{Inana} perceived the canopy, from the palace of the @fsux{abzu},
 #lem: kug[purify]; Inanak[1]DN; ela[canopy]; igi[eye]; bar[place outside]
 #etcsl: line-id=2.A.20
 
 2.A.21. e₂ abzu₂(DE₂)#-ta# [e₂-la₂-e igi mu-un-bar]
+#tr.en: she perceived the canopy:
 #lem: e[house]; abzu[(cosmic) underground water]; ela[canopy]; igi[eye]; bar[place outside]
 #etcsl: line-id=2.A.21
 
 2.A.22. am-ŋu₁₀# [lu]-ŋu₁₀ IM MA# [NI TA ... šu nu-ri-bar-re]
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my man, I shall not let you ……!
 #lem: am[wild bull]; lu[person]; X; X; X; X; X; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.22
 
 2.A.23. {d}gilgameš₂ IM# [MA NI TA ... šu nu-ri-bar-re]
+#tr.en: @wDN{Gilgameš}, I shall not let you ……!
 #lem: Gilgameš[1]DN; X; X; X; X; X; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.23
 
 2.A.24. e₂-an-na-ŋu₁₀ di [kud-de₃ šu nu-ri-bar-re]
+#tr.en: I shall not let you dispense justice in my @wTN{E-ana}!
 #lem: Eanak[1]TN; did[lawsuit]; kud[cut]; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.24
 
 2.A.25. ŋi₆-par₄ gu₂-ŋu₁₀ kaš# [bar-re šu nu-ri-bar-re]
+#tr.en: I shall not let you pronounce verdicts in my holy @fsux{ŋipar}!
 #lem: ŋipar[cloister]; kug[pure]; kaš[decision]; bar[place outside]; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.25
 
 2.A.26. e₂-an-na an-na [ki aŋ₂ di kud-de₃ šu nu-ri-bar-re]
+#tr.en: I shall not let you dispense justice in the @wTN{E-ana} beloved by @wDN{An}!
 #lem: Eanak[1]TN; An[1]DN; ki[place]; aŋ[measure]; did[lawsuit]; kud[cut]; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.26
 
 2.A.27. {d}gilgameš₂ za-[e ... IM MA NI TA] ŋe₂₆-e# [... IM MA NI TA]
+#tr.en: @wDN{Gilgameš}, may you ……, may I …….”}
 #lem: Gilgameš[1]DN; zaʾe[you]; X; X; X; X; X; ŋaʾe[I]; X; X; X; X; X
 #etcsl: line-id=2.A.27
 
 2.A.28. lugal-e ka-ga₁₄-ne# [...]
+#tr.en: The king, …… his mouth, the king …… to his mother who bore him.
 #lem: lugal[king]; kag[mouth]; X
 #etcsl: line-id=2.A.28
 
 2.A.29. lugal-e ama ugu-ne-ra [...]
+#tr.en: @wDN{Gilgameš} …… to @wDN{Ninsumun} ……:
 #lem: lugal[king]; ama[mother]; ugu[bear]; X
 #etcsl: line-id=2.A.29
 
 2.A.30. {d}gilgameš₂ {d}nin-sumunₓ(EŠ₂) X [...]
+#tr.en: @q[Gilgamec,Ninsumun]{“O mother who bore me, how ……!
 #lem: Gilgameš[1]DN; Ninsumunak[1]DN; X; X
 #etcsl: line-id=2.A.30
 
 2.A.31. ama ugu-ŋu₁₀ en-gin₇ uzu X [...]
+#tr.en: By the door of the great gate …….
 #lem: ama[mother]; ugu[bear]; en[lord]; uzu[flesh]; X; X
 #etcsl: line-id=2.A.31
 
 2.A.32. {ŋiš}ig abula-ke₄ X [...]
+#tr.en: From the crenellations of the wall ……:
 #lem: ig[door]; abula[gate]; X; X
 #etcsl: line-id=2.A.32
 
 2.A.33. suh₁₀ bad₃-ke₄ [...] ŋar-ŋar [...]
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my man,
 #lem: suh[crown]; bad[wall]; X; ŋar[put]; X
 #etcsl: line-id=2.A.33
 
 2.A.34. am-ŋu₁₀ lu-ŋu₁₀ IM MA NI [TA ...] šu# nu-mu-ni-bar-re
+#tr.en: I shall not let you go ……!
 #lem: am[wild bull]; lu[person]; X; X; X; X; X; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.34
 
 2.A.35. {d}gilgameš₂ IM MA NI [TA ...] šu# nu-mu-ni-bar-re
+#tr.en: @wDN{Gilgameš},
 #lem: Gilgameš[1]DN; X; X; X; X; X; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.35
 
 2.A.36. e₂-an-na-ŋu₁₀ di mu-un-[kud-de₃ šu] nu-mu-ni-bar-re
+#tr.en: I shall not let you go ……!
 #lem: Eanak[1]TN; did[lawsuit]; kud[cut]; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.36
 
 2.A.37. ŋi₆-par₄ gu₂-ŋu₁₀ kaš mu-un-bar#-[re] šu# nu-mu-ni-bar-re#
+#tr.en: You dispensed justice in my @wTN{E-ana} -- I shall not let you go!
 #lem: ŋipar[cloister]; kug[pure]; kaš[decision]; bar[place outside]; šu[hand]; bar[place outside]
 #etcsl: line-id=2.A.37
 
 2.A.38. e₂-an-na an-na [...] ki aŋ₂-a-ni
+#tr.en: You pronounced verdicts in my holy @fsux{ŋipar} -- I shall not let you go,
 #lem: Eanak[1]TN; An[1]DN; X; ki[place]; aŋ[measure]
 #etcsl: line-id=2.A.38
 
 2.A.39. {d}gilgameš₂ za-e me₃ [...] IM MA NI TA ŋe₂₆-e KA GA# IM MA NI TA#
+#tr.en: in his beloved …… @wTN{E-ana}!"”}”}
 #lem: Gilgameš[1]DN; zaʾe[you]; me[battle]; X; X; X; X; X; ŋaʾe[I]; X; X; X; X; X; X
 #etcsl: line-id=2.A.39
 
 2.A.40. ama ugu-ne-ra ur₅-[gin₇] mu-un-na-ab-be₂-ak#-[ka]
+#tr.en: When he had spoken thus to the mother who bore him,
 #lem: ama[mother]; ugu[bear]; ur[that]; e[speak]
 #etcsl: line-id=2.A.40
 
 2.A.41. ama ugu#-[ne] {[d]}[gilgameš₂-ra mu-na-ni-ib-gi₄-gi₄]
+#tr.en: the mother who bore him replied to @wDN{Gilgameš}:
 #lem: ama[mother]; ugu[bear]; Gilgameš[1]DN; gi[turn]
 #etcsl: line-id=2.A.41
 

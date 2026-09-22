@@ -61,6 +61,9 @@ sub _lbpp {
 	if (s/^\@\((.*?)\)\s+//) {
 	    my $label = $L = $1;
 	    my($count,$prefix,@range) = parse_label($label);
+	    if ($verbose) {
+		warn "$0: $label\[$count,$prefix,@range]::$_\n";
+	    }
 	    next if $count == 0;
 	    s/\s+\(\?\)/\cQ/g; # map ' (?)' to \cQ 
 	    my $rW = (tr/ / /); # raw word count
@@ -72,7 +75,7 @@ sub _lbpp {
 	    }
 	    if ($prefix) {
 		@range = map { "$prefix$_" } @range;
-	    }	    
+	    }
 	    dump_bifurcated($Q,$label,$count,$rW,$nW,$xW,\@range,\@b);
 	}
     }
@@ -139,6 +142,7 @@ sub bifurcate {
 	    push @nn, $x;
 	}
     }
+    printf(STDERR "$0: bifurcate found %d nodes\n", $#nn+1) if $verbose;
     @nn;
 }
 

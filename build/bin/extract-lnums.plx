@@ -37,7 +37,7 @@ while (<>) {
 	$curr_mts = $1;
 	# print "$1\n";
     } elsif (/^\$/) {
-	if (/(blank|fragmentary|missing|vacat)/) {
+	if (/(blank|fragmentary|missing|vacat|untranslated)/) {
 	    my $type = $1;
 	    my $extent = 0;
 	    my $approx = "";

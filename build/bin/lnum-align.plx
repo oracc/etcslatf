@@ -9,7 +9,9 @@ use lib "$ENV{'ORACC_BUILDS'}/lib";
 
 use Getopt::Long;
 
+my $trace = 0;
 GetOptions(
+    trace => \$trace
     );
 
 #
@@ -21,20 +23,10 @@ my $out = $lbl; $out =~ s/^lbl/lla/; $out =~ s/lbl$/lla/;
 my $lnum = $lbl; $lnum =~ s/^lbl/lnums/; $lnum =~ s/lbl$/lnum/;
 my $log = $out; $log =~ s/lla$/log/;
 
-# read the lnums file
-my @lnums = (); my @l = `cat $lnum`; chomp @l;
-shift @l;
-foreach (@l) {
-    my @x = split(/\t/,$_);
-    if ($x[0] =~ /\$/) {
-	push @lnums, [ "$x[0] $x[1]" , -1 ]; # order is EID/MTS-line-label; ATF file-line-number
-    } else {
-	push @lnums, [ $x[1] , $x[0] ]; # order is EID/MTS-line-label; ATF file-line-number
-    }
-}
+my %pareid_to_lb_num = (); my %pareid_to_ln_num = ();
 
 # read the labels file
-my @label = (); @l = `cat $lbl`; chomp @l;
+my @label = (); my @l = `cat $lbl`; chomp @l;
 my @paras = ();
 my $pareid = undef;
 foreach (@l) {
@@ -43,6 +35,7 @@ foreach (@l) {
 	$pareid = $1;
 	$pareid =~ s/\s.*$//;
 	push @paras, $pareid;
+	$pareid_to_lb_num{$pareid} = $#label+1;
     } else {
 	tr/\cX\cY//d;
 	if (/^\$/) {
@@ -52,6 +45,44 @@ foreach (@l) {
 	    push @label, [ $1 , "#tr.en: $2" , $#paras ];
 	}
     }
+}
+
+# read the lnums file
+my @lnums = (); @l = `cat $lnum`; chomp @l;
+shift @l;
+foreach (@l) {
+    my @x = split(/\t/,$_);
+    if ($x[0] =~ /\$/) {
+	push @lnums, [ "$x[0] $x[1]" , -1 ]; # order is EID/MTS-line-label; ATF file-line-number
+    } else {
+	push @lnums, [ $x[1] , $x[0] ]; # order is EID/MTS-line-label; ATF file-line-number
+	if (defined($pareid_to_lb_num{$x[1]}) && !defined($pareid_to_ln_num{$x[1]})) {
+	    $pareid_to_ln_num{$x[1]} = $#lnums;
+	}
+    }
+}
+
+if ($trace) {
+    open(T, '>label.dump');
+    for (my $x = 0; $x <= $#label; ++$x) {
+	print T "$x: @{$label[$x]}\n";
+    }
+    close(T);
+    open(T, '>paras.dump');
+    for (my $x = 0; $x <= $#paras; ++$x) {
+	print T "$x: $paras[$x]\n";
+    }
+    close(T);
+    open(T, '>par2ln.dump');
+    foreach my $k (@paras) {
+	print T "$k => $lnum:$pareid_to_ln_num{$k} = ${$lnums[$pareid_to_ln_num{$k}]}[1]\n";
+    }
+    close(T);
+    open(T, '>par2lb.dump');
+    foreach my $k (@paras) {
+	print T "$k => $lbl:$pareid_to_lb_num{$k} = ${$label[$pareid_to_lb_num{$k}]}[1]\n";
+    }
+    close(T);
 }
 
 # iterate over the lnums and the labels simultaneously; if the next
@@ -74,68 +105,72 @@ while ($ln <= $ln_top) {
 	push @tr, [ ${$lnums[$ln]}[1] , ${$label[$lb]}[1] ];
 	$frag = 0;
 	++$lb;
-    } elsif ($frag > 0) {
-	# don't test $lbn in this block, because $lbn is held at the
-	# line after the $-line that resulted in non-zero $frag
-	if ($lnn =~ /^\$/) { # dollar-line in translit
-	    if ($lnn =~ /frag/) {
-		my($lnnf) = ($lnn =~ /(\d+)/);
-		$frag -= $lnnf;
-		if ($frag < 0) {
-		    $frag = 0;
-		    lnum_log("$lnn when frag=$frag resulted in frag underflow\n");
+    } else {
+	lnum_log("$lnn != $lbn\n") if $trace;
+	if ($frag > 0) {
+	    # don't test $lbn in this block, because $lbn is held at the
+	    # line after the $-line that resulted in non-zero $frag
+	    if ($lnn =~ /^\$/) { # dollar-line in translit
+		if ($lnn =~ /frag/) {
+		    my($lnnf) = ($lnn =~ /(\d+)/);
+		    $frag -= $lnnf;
+		    if ($frag < 0) {
+			$frag = 0;
+			lnum_log("$lnn when frag=$frag resulted in frag underflow\n");
+		    } else {
+			lnum_log("$lnn => frag=$frag\n");
+		    }
 		} else {
-		    lnum_log("$lnn => frag=$frag\n");
+		    lnum_log("Found '$lnn' while frag=$frag; resetting frag\n");
+		    $frag = 0;
+		}
+	    } else { # EID in translit corresponding to fragmentary run in tlat
+		lnum_log("$lnn ++=> fragmentary [frag=$frag]\n");
+		push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
+		--$frag;
+	    }
+	} elsif ($lnn !~ /^\$/) { # lnn is an EID
+	    if ('$' eq $lbn) {
+		my $lbc = ${$label[$lb]}[1];
+		warn "lbc undefined at lb=$lb\n" unless defined $lbc;
+		if ($lbc =~ /fragmentary/) {
+		    lnum_log("$lnn => fragmentary\n");
+		    push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
+		    $frag = need_frag($lbc, '');
+		    ++$lb; # unless $frag > 0;
+		} else {
+		    lnum_log("EID/\$ mismatch: $lnn vs $lbc\n");
+		    goto resync
+			if resync();
 		}
 	    } else {
-		lnum_log("Found '$lnn' while frag=$frag; resetting frag\n");
-		$frag = 0;
+		lnum_log("EID/EID mismatch: $lnn != $lbn\n");
+		goto resync
+		    if resync();
+		# lnn and lbn are both EIDs but they don't match; this is where resync could go
 	    }
-	} else { # EID in translit corresponding to fragmentary run in tlat
-	    lnum_log("$lnn ++=> fragmentary [frag=$frag]\n");
-	    push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
-	    --$frag;
-	}
-    } elsif ($lnn !~ /^\$/) { # lnn is an EID
-	if ('$' eq $lbn) {
-	    my $lbc = ${$label[$lb]}[1];
-	    if ($lbc =~ /fragmentary/) {
-		lnum_log("$lnn => fragmentary\n");
-		push @tr, [ ${$lnums[$ln]}[1] , '#tr.en: ($fragmentary$)' ];
-		$frag = need_frag($lbc, '');
-		++$lb; # unless $frag > 0;
+	} else { # lnn is a $-line
+	    if ('$' eq $lbn) {
+		my $lbc = ${$label[$lb]}[1];
+		if ($lnn =~ /fragmentary/ && $lbc =~ /fragmentary/) {
+		    lnum_log("$lnn ~~ $lbc [frag=$frag]\n");
+		    $frag = need_frag($lbc, $lnn);
+		    ++$lb; # unless $frag > 0;
+		} elsif ($lnn =~ /missing/ && $lbc =~ /missing/) {
+		    lnum_log("$lnn ~~ $lbc\n");
+		    $frag = 0;
+		    ++$lb;
+		} else {
+		    lnum_log("lnn\$: $lnn !~ $lbc\n");
+		    $frag = 0;
+		    ++$lb;
+		}
 	    } else {
-		lnum_log("EID/\$ mismatch: $lnn vs $lbc\n");
+		lnum_log("\$/EID mismatch $lnn != label $lbn\n");
+		## ++$lb;
 		goto resync
 		    if resync();
 	    }
-	} else {
-	    lnum_log("EID/EID mismatch: $lnn != $lbn\n");
-	    goto resync
-		if resync();
-	    # lnn and lbn are both EIDs but they don't match; this is where resync could go
-	}
-    } else { # lnn is a $-line
-	if ('$' eq $lbn) {
-	    my $lbc = ${$label[$lb]}[1];
-	    if ($lnn =~ /fragmentary/ && $lbc =~ /fragmentary/) {
-		lnum_log("$lnn ~~ $lbc [frag=$frag]\n");
-		$frag = need_frag($lbc, $lnn);
-		++$lb; # unless $frag > 0;
-	    } elsif ($lnn =~ /missing/ && $lbc =~ /missing/) {
-		lnum_log("$lnn ~~ $lbc\n");
-		$frag = 0;
-		++$lb;
-	    } else {
-		lnum_log("lnn\$: $lnn !~ $lbc\n");
-		$frag = 0;
-		++$lb;
-	    }
-	} else {
-	    lnum_log("\$/EID mismatch $lnn != label $lbn\n");
-	    ++$lb;
-	    goto resync
-		if resync();
 	}
     }
     ++$ln;
@@ -156,19 +191,34 @@ sub lnum_log {
 # paragraph following the one where things got unsynced
 sub move_lb_to {
     my $to_eid = shift;
-    while ($lb <= $lb_top) {
-	if (${$label[$lb]}[0] eq $to_eid) {
+    $lb = $pareid_to_lb_num{$to_eid};
+}
+
+sub xmove_lb_to {
+    my $to_eid = shift;
+    my $xlb = 0;
+    warn "move_lb_to: requested to move to $to_eid at lb=$lb\n";
+    while ($xlb <= $lb_top) {
+	if (${$label[$xlb]}[0] eq $to_eid) {
 	    last;
 	} else {
-	    ++$lb;
+	    ++$xlb;
 	}
     }
-    warn "move_lb_to $to_eid failed\n"
-	if $lb > $lb_top;
+    if ($xlb > $lb_top) {
+	warn "move_lb_to $to_eid failed\n"
+    } else {
+	$lb = $xlb;
+    }
 }
 
 # as above but with ln/lnums
 sub move_ln_to {
+    my $to_eid = shift;
+    $lb = $pareid_to_lb_num{$to_eid};
+}
+
+sub xmove_ln_to {
     my $to_eid = shift;
     while ($ln <= $ln_top) {
 	if (${$lnums[$ln]}[0] eq $to_eid) {
@@ -213,7 +263,8 @@ sub print_tr {
 # paragraph start.
 sub resync {
     my $par_index = ${$label[$lb]}[2];
-    if ($par_index < $#paras) {
+    warn "resync: label[ $lb ] par index = $par_index\n";
+    if ($par_index <= $#paras) {
 	my $par_eid = $paras[$par_index+1]; # restart at the next para
 	my $off_ln = $ln;
 	my $off_lb = $lb;
