@@ -100,6 +100,10 @@ The script bin/tei2tra.sh does the tei/ .. tra/ conversion.
 is used, and is being manually adjusted to make it easier to align
 translation of variants with the transliterations.
 
+2026-09-22bis: refactor alignment again going directly from lbl/ to
+atf/ by having new lbl-merge.plx use tlit/ etcsl: line-id to key on to
+line-id's expanded from tri/ label ranges.
+
 ## tra2lbp
 
 The tra files are rewritten by bin/lbpp.plx as .tsv files with the
