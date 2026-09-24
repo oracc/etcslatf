@@ -5,7 +5,7 @@
 #include <memo.h>
 
 #include "lb.h"
-
+int sentence_cues;
 unsigned char bounds[256] =
   {
     ['.'] = 1,
@@ -20,7 +20,7 @@ unsigned char bounds[256] =
 const char *cnames[] =
   {
     "NONE" , "IDENT", "MULTI", "IDENT_S", "MULTI_S",
-    "FB_SHORT_PAIRS" , "FB_BRUTE_PAIRS" , 
+    "FB_SHORT_PAIRS" , "FB_BRUTE_PAIRS" , "MANUAL" ,
     NULL
   };
 
@@ -33,7 +33,7 @@ Memo *segmem;
 int count_words(Par *p);
 const char *find_closer(const char *p);
 void map_segs(Par *p);
-const char *next_boundary(const char *p, int *nwords, int *b);
+const char *next_boundary(const char *p, int manual, int *nwords, int *b);
 
 static void
 lb_sanity(Par *p)
@@ -76,7 +76,7 @@ lb_sanity(Par *p)
 	      hash_add(seen, (uccp)p->label, "");
 	    }	  
 	}
-    }	
+    }
 }
 
 int
@@ -108,12 +108,14 @@ main(int argc, char *const *argv)
       tp->pars[i].text = lb_P(rr);
       tp->pars[i].endp = tp->pars[i].text + strlen(tp->pars[i].text);
       tp->pars[i].labels = (const char **)vec_from_str(strdup(lb_R(rr)),NULL,NULL);
+      sentence_cues = 0;
       map_segs(&tp->pars[i]);
+      tp->pars[i].sentence_cues = sentence_cues;
       lb_sanity(NULL);
       lb_sanity(&tp->pars[i]);
       if (tp->pars[i].segs)
 	{
-	  lb_vari(&tp->pars[i]);
+	  /*lb_vari(&tp->pars[i]);*/
 	  int new_nW = count_words(&tp->pars[i]);
 	  tp->pars[i].re_goal = tp->pars[i].lbgoal - tp->pars[i].ngaps;
 	  if (tp->pars[i].re_goal)
@@ -256,6 +258,7 @@ map_segs(Par *par)
 {
   List *l = list_create(LIST_SINGLE);
   const char *p = par->text;
+  par->manual = strchr(par->text, '|') != NULL;
   while (*p)
     {
 #if 0
@@ -270,7 +273,7 @@ map_segs(Par *par)
 	  Seg *s = memo_new(segmem);
 	  s->p = par;
 	  list_add(l, s);
-	  p = next_boundary(p, &s->w, &s->b);
+	  p = next_boundary(p, par->manual, &s->w, &s->b);
 	  if (p)
 	    {
 	      if (s->w || (CTRL_X == *start && strncmp(start+1, "@gap", 4)))
@@ -344,7 +347,7 @@ map_segs(Par *par)
 }
 
 const char *
-next_boundary(const char *p, int *nwords, int *b)
+next_boundary(const char *p, int manual, int *nwords, int *b)
 {
   int ellipsis = 0, nonsp = 0, sp = 1, words = 0;
   while (isspace(*p))
@@ -364,39 +367,61 @@ next_boundary(const char *p, int *nwords, int *b)
 	    ++p;
 	  while (isspace(*p));
 	}
-      else if (bounds[(unsigned char)*p])
+      else if ((manual && '|' == *p) || (!manual && bounds[(unsigned char)*p]))
 	{
-	  *b = *p;
 	  int ok = 0;
-	  if (EMDASH(p))
+	  if ('|' == *p)
 	    {
-	      p += 2;
-	      while (p[1] && isspace(p[1]))
-		++p;
 	      ok = 1;
+	      *b = '.';
+	      ++sentence_cues;
+	    }
+	  else if ('.' == p[1]) /* override the boundary with a sentence break */
+	    {
+	      ok = 1;
+	      *b = '.';
+	      ++p;
+	      ++sentence_cues;
 	    }
 	  else
+	    *b = *p;
+	  if (!ok)
 	    {
-	      ++p;
-	      while (QUOTE(p) || CLOSER(p))
+	      if (EMDASH(p))
 		{
-		  if (0xE2 == (unsigned char)*p)
-		    p += 3;
-		  else
-		    ++p;
-		}
-	      if (!*p)
-		ok = 1;
-	      else if (isspace(*p))
-		{
+		  p += 2;
+		  if ('.' == p[1])
+		    {
+		      *b = '.';
+		      ++p;
+		    }
 		  while (p[1] && isspace(p[1]))
 		    ++p;
 		  ok = 1;
 		}
 	      else
-		/* do not consider a punctuation character not
-		   followed by a space to be a boundary */
-	      	;
+		{
+		  ++p;
+		  while (QUOTE(p) || CLOSER(p))
+		    {
+		      if (0xE2 == (unsigned char)*p)
+			p += 3;
+		      else
+			++p;
+		    }
+		  if (!*p)
+		    ok = 1;
+		  else if (isspace(*p))
+		    {
+		      while (p[1] && isspace(p[1]))
+			++p;
+		      ok = 1;
+		    }
+		  else
+		    /* do not consider a punctuation character not
+		       followed by a space to be a boundary */
+		    ;
+		}
 	    }
 	  if (ok && nonsp) /* if it counts as a boundary and we also saw non-spaces */
 	    {

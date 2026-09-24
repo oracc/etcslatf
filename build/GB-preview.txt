@@ -1,0 +1,988 @@
+&Q000362 = Gilgameš and the bull of heaven
+@composite
+#project: etcslatf/inter
+#atf: use unicode
+#atf: use math
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.2&display=Crit&charenc=gcirc#
+
+@div version 1 (A version of unknown provenance, supplemented from Nibru mss.)
+
+@div segment A
+
+1.A.1. šul me₃!-ka šul me₃#-[ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of the man of battle, the man of battle. 
+
+
+1.A.2. en {d}gilgameš₂ [šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of Lord @wDN{Gilgameš}, the man of battle, 
+
+1.A.3. a₂-ur₂# sag₉#-sag₉ šul me₃-ka# [en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of him with the well-proportioned limbs, the man of battle. 
+
+1.A.4. en TUR kalag#-kalag-ga šul me₃-ka en-du#-[ni ga-an-dug₄]
+#tr.en: I will sing the song of the mighty …… lord, the man of battle. 
+
+@variants
+
+1.A.5. en {na₄}su₁₁ ku₁₀-[ku₁₀ šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of the lord with the very black beard, the man of battle. 
+
+1.A.6. ŋešba₂ lirum [...] X [... šul me₃-ka en-du-ni ga-an-dug₄]
+#tr.en: I will sing the song of …… athletic strength, the man of battle. 
+
+1.A.7. lugal šul! ama X [...]
+#tr.en: …… the king, the man ……; 
+
+1.A.8. lugal-ŋu₁₀ X X X [...]
+#tr.en: my king ……, 
+
+1.A.9. en-ŋu₁₀ {ŋiš}kiri₆# {ŋiš#}za#-ba#-[lum ...]
+#tr.en: my lord …… garden ……. 
+
+1.A.10. kisal X X [...] URU X [...]
+#tr.en: …… courtyard, 
+
+1.A.11. ŋi₆#-par₄# [...]
+#tr.en: …… @fsux{ŋipar}; 
+
+@variant
+
+A. [X X] X en-e ama ugu-ni gu₃ mu-[na-de₂]
+#tr.en: …… his mother who bore him spoke to the lord: 
+
+B. [lugal-ŋu₁₀] id₂-da ed₃ NI sahar šu X [...]
+#tr.en: @q[Ninsumun,Gilgamec]{“My king …… in the river, 
+
+C. [en-ŋu₁₀] {ŋiš}kiri₆-zu ed₃ NI X [...]
+#tr.en: my lord …… your garden.”} 
+
+D. [...] saŋ#-tun₃# BURU₁₄-ni [...]
+
+E. [...] X IM# X [...]
+
+@endvariants
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+1.B.1. [...] X X [...]
+
+1.B.2. [X X] NE# kisal X [...]
+
+1.B.3. [kisal] mah#-a me₃ nu-me-a lu₂# [...]
+#tr.en: In the great courtyard, without there being any combat, a man ……. 
+
+1.B.4. [X X] e₂-la₂-e e₂-la₂-e igi mu-un-[...]
+#tr.en: She perceived the canopy, the canopy ……, 
+
+1.B.5. kug# {d}inana-ke₄ e₂-la₂-e igi# mu-un#-[...]
+#tr.en: holy @wDN{Inana} perceived the canopy, 
+
+1.B.6. e₂-gal abzu-ta e₂-la₂-e [...] igi mu-un-ba-[...]
+#tr.en: from the palace of the @fsux{abzu}, she perceived the canopy ……: 
+
+1.B.7. am-ŋu₁₀ lu₂-ŋu₁₀ ME-EN-NE-EN šu nu-ri-bar-re
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my …… man, I shall not let you go! 
+
+1.B.8. en {d}gilgameš₂ am-ŋu₁₀ lu₂-ŋu₁₀ NE šu nu-ri-bar-re
+#tr.en: Lord @wDN{Gilgameš}, my wild bull, my …… man, I shall not let you go! 
+
+1.B.9. e₂-an-na-ka di kud-de₃ šu nu-ri-bar-re
+#tr.en: I shall not let you go to dispense justice in the @wTN{E-ana}! 
+
+1.B.10. ŋi₆-par₄ kug-ŋa₂ ka-aš bar-re šu nu-ri-bar-re
+#tr.en: I shall not let you go to pronounce verdicts in my holy @fsux{ŋipar}! 
+
+1.B.11. e₂-an-na an-ne₂ ki aŋ₂ di kud-de₃ šu nu-ri-bar-re
+#tr.en: I shall not let you go to dispense justice in the @wTN{E-ana} beloved by @wDN{An}! 
+
+1.B.12. {d}gilgameš₂ za-e u₃-NE he₂-me-en za-e gud he₂-e
+#tr.en: @wDN{Gilgameš}, may you be ……, may you be ……!”} 
+
+1.B.13. niŋ₂-ba {d}inana ŋi₆-par₄-zu-še₃ nam-ba-ni-ku₄-ku₄
+#tr.en: (@wDN{Gilgameš} speaks:) @q[Gilgamec,Inana]{“I shall certainly not try to take over the portion of @wDN{Inana} in your @fsux{ŋipar}. 
+
+1.B.14. {d}nin-e₂-gal a₂ nam-ur-saŋ-ŋa₂-ke₄-eš₂ nam-bi-ši-X
+#tr.en: @wDN{Ninegala} will not …… because of my valorous strength. 
+
+1.B.15. {d}inana nin e-sir₂-ŋu₁₀ za-e nam-ba-<ni>-in-TAR
+#tr.en: But @wDN{Inana}, lady, don't you block my way, either! 
+
+1.B.16. gud kur-ra ga-an-dug₄ tur₃-ba [ga]-am₃#-mi-ib-si
+#tr.en: My wish is to catch (?) mountain bulls, to fill the cow-pens. 
+
+1.B.17. udu kur-ra ga-an-dug₄ amaš-ba [ga]-am₃#-mi-ib-si
+#tr.en: I wish to catch (?) mountain sheep, to fill the sheepfolds. 
+
+1.B.18. kug {na₄}gug i₃-ŋar i-sur-sur-me-eš GA (1:U₅:1) nam-X-X
+#tr.en: I wish to …… silver and cornelian.”} 
+
+:18v.1.1: ($or read:$) DAR
+
+1.B.19. [in]-nin₉-e gu₃ ba-an-de₂ KA-ni ba-an-pa-an
+#tr.en: The queen spoke with a snort; 
+
+1.B.20. {[d]}[inana-ke₄] gu₃# ba#-[de₂] KA-ni ba-an-pa-an
+#tr.en: @wDN{Inana} spoke with a snort: 
+
+1.B.21. [...] X NE (1:TA:1) za-e MA i-ra-an-dug₄
+#tr.en: @q[Inana,Gilgamec]{“…… say to you. 
+
+:21v.1.1: ($or read:$) AB
+
+1.B.22. [...] X NE (1:TA:1) za-ra ma-ra-an-dug₄
+#tr.en: …… say to you. 
+
+:22v.1.1: ($or read:$) AB
+
+1.B.23. [...] X-gin₇ nu-du₃ {d}gilgameš₂
+#tr.en: ……, @wDN{Gilgameš}.”} 
+
+1.B.24. [...] X [...] X X
+
+1.B.25. [...] HA# [...] X
+
+1.B.26. [...] X X HA RA X X X X NE
+
+1.B.27. [...] RA X tug₂-da-a
+
+1.B.28. [...] BI# ib-ta-ni-in-ŋar
+
+1.B.29. X [...]
+
+1.B.30. X [...]
+
+1.B.31. šag₄#-bi# [...]
+#tr.en: (@wDN{An} speaks:) @q[An,Inana]{“Its entrails (?)……. 
+
+1.B.32. kuš-bi [...]
+#tr.en: Its hide ……. 
+
+1.B.33. uš₂-bi X X [...]
+#tr.en: Its blood …….”} 
+
+1.B.34. [...] bi₂#-in#-[...]
+
+1.B.35. {d}inana-ke₄ a ši-im-lu-lu šurum i₃-X [...] X
+#tr.en: @q[An,Inana]{“@wDN{Inana}, it will muddy the waters; it will …… cowpats. 
+
+1.B.36. an-ne₂ ki aŋ₂-ŋu₁₀ SU na-ba-[...]
+#tr.en: My one beloved by @wDN{An}, …….”} 
+
+1.B.37. gi-dur im-ma-ni-in-dab₅ an# [...]
+#tr.en: He let her hold the leash; @wDN{An} ……. 
+
+1.B.38. lu₂-tur-ŋu₁₀ (1:a-ba-kam:1) a ši-lu₃-lu₃-e id₂ X šurum [...]
+#tr.en: @q[An,Inana]{“My child, who does it belong to?”} @q{“It will stir up the waters, it will leave …… cowpats ……! 
+
+:38v.1.1: ($1 ms. has instead:$) a-na-[aš]-am₃
+
+1.B.39. gud gal šu bar-ra# unug{ki}-ga X [...]
+#tr.en: If the great bull is let loose, …… @wSN{Unug}! 
+
+1.B.40. gud gal {d}gilgameš₂ šu bar-ra unug{ki} ba₉-re₆
+#tr.en: If the great bull is let loose against @wDN{Gilgameš}, …… @wSN{Unug}! 
+
+1.B.41. mu ni₂-ŋa₂ %e nu-mu-na-ab-ze₂-ŋe₂₆
+#tr.en: I will not give her that which bears my own name.”} 
+
+1.B.42. a ši-im-lu₃-lu₃-e šurum gur₄-gur₄-re
+#tr.en: (@wDN{Inana} speaks:) @q[Inana,An]{“Maybe it will muddy the waters, and will leave gigantic cowpats -- 
+
+1.B.43. a-a-ŋu₁₀ gud an-na %e ha-ma-ze₂-eŋ₃-e# %s [...]
+#tr.en: but let my father give me the Bull of Heaven, 
+
+1.B.44. en ga-mu-un-ug₅-ga en ga-mu-un-ug₅-ga
+#tr.en: so I can kill the lord, so I can kill the lord, 
+
+1.B.45. en {d}gilgameš₂ en ga-mu-un-ug₅-ga
+#tr.en: so I can kill the lord, Lord @wDN{Gilgameš}!”} 
+
+1.B.46. an gal-e kug {d}inana-ke₄ mu-na-ni-ib₂-gi-gi₄
+#tr.en: Great @wDN{An} replied to holy @wDN{Inana}: 
+
+1.B.47. lu₂-tur-ŋu₁₀ gud an-na u₂-gu₇-bi in-nu an-ur₂-ra u₂-gu₇-bi-im
+#tr.en: @q[An,Inana]{“My child, the Bull of Heaven would not have any pasture, as its pasture is on the horizon. 
+
+1.B.48. ki-sikil {d}inana gud an-na ki {d}utu e₃-a-še₃ u₂ im-da-gu₇-e
+#tr.en: Maiden @wDN{Inana}, the Bull of Heaven can only graze where the sun rises. 
+
+1.B.49. za-e gud an-na %e nu-mu-e-da-ab-ze₂-eŋ₃-en
+#tr.en: So I cannot give the Bull of Heaven to you!”} 
+
+1.B.50. kug {d}inana-ke₄ gu₂# mu-na-ni-ib₂-gi-gi
+#tr.en: Holy @wDN{Inana} replied to him: 
+
+1.B.51. ŋe₂₆-e gu₃ ba-de₂-e-en an ki-še₃ a-ba-da-te
+#tr.en: @q[Inana,An]{“I shall shout, and make my voice reach heaven and earth!”} 
+
+@variants
+
+1.B.52. ni₂ ba-da-an-te ni₂ ba-da-an-te
+#tr.en: He was frightened, he was frightened. 
+
+@variants
+
+1.B.52A. X inana ni₂ ba-da-an-te
+#tr.en: …… was frightened of @wDN{Inana}. 
+
+@endvariants
+1.B.53. an gal kug {d}inana-ke₄ mu-na-ni-ib₂-gi-gi#
+#tr.en: Great @wDN{An} replied to holy @wDN{Inana}: 
+
+1.B.ff. gud an-na %e hu-mu-na-ab-ze₂-ŋe₂₆
+#tr.en: @q[An,Inana]{“I shall give her the Bull of Heaven.”} 
+
+@variant
+
+a. [...] gu₃ an-e ba-te gu₃ ki-še₃ ba-te
+#tr.en: She made her voice reach heaven ……, she made her voice reach earth; 
+
+b. [...] X X gu₃ an-e ba-te gu₃ ki-še₃ ba-te
+#tr.en: she made her voice reach heaven ……, she made her voice reach earth. 
+
+c. [... tug₂]-gin₇# im-mi-in-dul gada-gin₇ im-mi-in-bur₂
+#tr.en: It covered them like a woollen garment, it was spread over them like a linen garment. 
+
+d. [...] X a-ba-a (1:in-na-an-dug₄#:1)
+#tr.en: …… who could speak to her? 
+
+:dv.1.1: ($or read:$) in-na-an-il₂#
+
+e. [... a]-ba#-a in-na-an-dug₄
+#tr.en: …… who could speak to her? 
+
+f. [...] šum₂
+#tr.en: …… gave ……. 
+
+@endvariants
+1.B.55. ki-sikil {d}inana# nam-nitah-gin₇ saman za-gin₃-na šu ba-ni-in-du₈
+#tr.en: In masculine fashion, the maiden @wDN{Inana} grasped it by the lapis-lazuli tether. 
+
+1.B.56. kug {d}inana-ke₄# gud an-na (1:an-ta-e₃:1)
+#tr.en: Holy @wDN{Inana} brought the Bull of Heaven out . 
+
+:56v.1.1: ($1 ms. has instead:$) im-ta-an-ed₃
+
+1.B.57. gud unug{ki}-ga-ke₄ u₂ mu-gu₇-e
+#tr.en: At @wSN{Unug}, the Bull devoured the pasture, 
+
+1.B.58. id₂ a-ŋi₆ (1::1) lu-a a i₃-na₈-na₈
+#tr.en: and drank the water of the river in great slurps. 
+
+:58v.1.1: ($some mss. add:$) uru₁₆
+
+1.B.59. id₂# a-ŋi₆ (1::1) lu-a gaba 1 danna{na}-ta ib₂-sa₂ šag₄-bi nu-si-si
+#tr.en: With each slurp it used up one mile of the river, but its thirst was not satisfied. 
+
+:59v.1.1: ($some mss. add:$) uru₁₆
+
+1.B.60. u₂ mu-un-gu₇-e ki im-sig₉-ge
+#tr.en: It devoured the pasture and stripped the land bare. 
+
+1.B.61. {ŋiš}ŋišnimbar unug{ki}-ga al-kud-de₃ ka-bi-še₃ i₃-gur-gur
+#tr.en: It broke up the palm trees of @wSN{Unug}, as it bent them to fit them into its mouth. 
+
+1.B.62. gud gub-ba unug{ki}-e im-si
+#tr.en: When it was standing, the Bull submerged @wSN{Unug}. 
+
+1.B.63. gud an-na (1:ni₂-a-ni:1) kul-aba₄{ki} im-si
+#tr.en: The aura of the Bull of Heaven submerged Kulaba. 
+
+:63v.1.1: ($1 ms. has instead:$) mu-ni
+
+@variants
+
+1.B.64. nar-a-ni [...]
+#tr.en: His musician ……. 
+
+1.B.65. igi il₂-a-ni [...]
+#tr.en: As he looked up ……, 
+
+1.B.66. gam-gam-ma-ni [...]
+#tr.en: leaning (?) ……  
+
+1.B.67. NI KA# LU# E [...]
+
+@variant
+
+1.B.67A. ud-ba en# {[d]}[gilgameš₂ ...] nar#-[a-ni ...]
+#tr.en: Then Lord @wDN{Gilgameš} …… his musician. 
+
+@variant
+
+A. {d}gilgameš₂ nar-a-ni lugal-gaba#-ŋal₂ mu#-na#-[...]
+#tr.en: @wDN{Gilgameš} …… his musician @wPN{Lugal-gabaŋal}. 
+
+B. nar-ŋu₁₀ sa-zu si-bi₂-ib# [...] naŋ-i₃ [...]
+#tr.en: @q[Gilgamec,Lugal-gabajal]{“My musician, tune your strings, …… give me a drink, ……. 
+
+C. zabar šu-za [...] X NI X [...]
+#tr.en: …… bronze …… in your hand ……. 
+
+D. nar-a-ni# [...] X# [...]
+#tr.en: His musician …….”} 
+
+@variant
+
+E. [... lugal]-gaba#-ŋal₂ [...] X X mu-na-ni-ib-gi₄-gi₄
+#tr.en: …… replied to @wPN{Lugal-gabaŋal}, 
+
+F. [... lugal-gaba]-ŋal₂# sa-zu si-ni-ib a ga-an-na₈-na₈-an
+#tr.en: @q[Gilgamec,Lugal-gabajal]{“@wPN{Lugal-gabaŋal}, tune your strings; I wish to have a drink!”} 
+
+G. [...] X naŋ-a inim-bi-še₃ niŋ₂-nam-me-zu %s nu-ŋal₂
+#tr.en: (@wPN{Lugal-gabaŋal} answers:) @q[Lugal-gabajal,Gilgamec]{“…… drink, that is why nothing of yours is important.”} 
+
+H. [... lugal]-gaba-ŋal₂ mu-na-ni-ib-gi₄-gi₄
+#tr.en: …… replied to @wPN{Lugal-gabaŋal}. 
+
+@variant
+
+J. [...] X-še₃ IM GA [...]
+
+K. [...] igi# im-ma-ni-[in-sig₁₀]
+
+L. [...] X-še₃ ba-ni-in#-[...]
+
+M. [...]-na₈-na₈-en en [...]
+#tr.en: …… drink, lord ……. 
+
+N. [...] X i₃-na₈-na₈-en# [...]
+#tr.en: …… drink, lord ……. 
+
+O. [...] an#-ta-an-e₃# [...]
+
+P. [...] u₂ X [...]
+
+$ 1 line missing
+R. [...] X [...]
+
+S. [...] E (1:DI:1) [...]
+
+:Sv.1.1: ($or read:$) ki
+
+T. [...] AL#
+
+$ 1 line missing
+V. [...] unug{ki#} [...]
+#tr.en: …… @wSN{Unug} ……. 
+
+@endvariants
+1.B.68. en {d}gilgameš₂# [...]
+#tr.en: Lord @wDN{Gilgameš} ……. 
+
+1.B.69. inana gud an-na [...]
+#tr.en: @wDN{Inana} …… the Bull of Heaven. 
+
+1.B.70. gud unug{ki} [...]
+#tr.en: At @wSN{Unug}, the Bull ……, 
+
+1.B.71. id₂ a-ŋi₆ lu! [a na₈-na₈]
+#tr.en: and drank the water of the river in great slurps. 
+
+1.B.72. id₂ a-ŋi₆ lu danna{na}-[ta-am₃ ib₂-si šag₄-bi nu-si-si]
+#tr.en: With each slurp it used up one mile of the river, but its thirst was not satisfied. 
+
+1.B.73. u₂ mu-gu₇-e# [ki im-sig₉-ge-e]
+#tr.en: It devoured the pasture and stripped the land bare. 
+
+@variants
+
+1.B.73A. nin-ni [...]
+#tr.en: His lady ……. 
+
+1.B.73B. {d}gilgameš₂# [...]
+#tr.en: @wDN{Gilgameš} …… said, 
+
+1.B.73C. ama-ŋu₁₀ EN ME [...]
+#tr.en: @q[Gilgamec,others]{“My mother ……, 
+
+1.B.73D. nin₉-ŋu₁₀ e₂-a [...]
+#tr.en: my sister ……, 
+
+1.B.73E. gud dur₂-bi-še₃ i-im-ma#-[...]
+#tr.en: will …… the cattle to their tethering stakes, 
+
+1.B.73F. udu dur₂-bi-še₃ i-im-ma#-[...]
+#tr.en: will …… the sheep to their tethering stakes, 
+
+1.B.73G. kaš (1:dur₂-bi-še₃:1) he₂-em#-[...]
+#tr.en: will …… to their tethering stakes.”} 
+
+:73Gv.1.1: ($or read:$) dur₂-bi šu
+
+1.B.73H. {d}gilgameš₂ X [...]
+#tr.en: @wDN{Gilgameš} ……, 
+
+1.B.73J. gud an-na u₃ za-e [...]
+#tr.en: @q[Gilgamec,Bull of Heaven]{“Bull of Heaven, you, yes you, ……; 
+
+1.B.73K. u₃ za-e nu-ub-sig₁₀-ge# [...]
+#tr.en: you, yes you -- you do not …….”} 
+
+1.B.73L. {d}gilgameš₂ [...]
+#tr.en: @wDN{Gilgameš} ……. 
+
+@endvariants
+1.B.74. [...] X X X šaŋan# [X X] X
+
+1.B.75. [...] X [...] mu-[na-ni]-ib₂#-gi-gi
+
+1.B.76. [...] lu₂# X X X X [...]-ne-ne
+
+1.B.77. [...] X mu-na-ni-ib₂-gi-gi
+
+1.B.78. šaŋan# a X-ru ga-[...]
+
+1.B.79. ad₆-zu sila sig₉-ga he₂-en-šub
+#tr.en: @q{“They will throw your corpse in the deserted streets, 
+
+1.B.80. šag₄-mah-zu sila daŋal-la he₂-en-šub
+#tr.en: and throw your intestines in the broad square. 
+
+1.B.81. kuš#-zu [su-si-ig]-ga-aš he₂-en-šub
+#tr.en: They will send your carcass to the knacker's, 
+
+1.B.82. uzu-zu dumu nu-mu-un-su-a-ke₄ dumu iri-ke₄ [...] {ŋiš}dusu-ta ga-am₃-ta-ha-la# [...]
+#tr.en: and I shall share out your meat in baskets to the widows' sons who are citizens of my city ……. 
+
+1.B.83. si-zu 2(diš)-a-bi šaŋan i₃ dug₃-ga-še₃ {d}inana-ra e₂-an-na-še₃ ga-mu-na-an-ŋar
+#tr.en: I shall make flasks of your two horns for pouring fine oil to @wDN{Inana} in @wTN{E-ana}.”} 
+
+1.B.84. inana bad₃# igi mu-ni-la₂
+#tr.en: @wDN{Inana} watched from the top of the ramparts. 
+
+1.B.85. gud-de₃ sahar-ra gu₃ bi₂-in-dug₄
+#tr.en: The Bull bellowed in the dust, 
+
+1.B.86. en {d}gilgameš₂ saŋ-du-ta i₃-du
+#tr.en: and @wDN{Gilgameš} walked (?) at its head 
+
+1.B.87. en-ki-du₁₀ dur lib-ba-na# [...] ba#-an-ed₃
+#tr.en: as @wPN{Enkidu} climbed up the rope of its ……. 
+
+1.B.88. dumu iri-na [mu]-un-da-ni-re₇-eš-am₃ amar ŋiš nu-zu sahar ba-e-ne-ši-dul₅
+#tr.en: Their fellow-citizens came along ……. It covered them with dust, like a young calf unused to the yoke. 
+
+1.B.89. (1:en-ki-du₁₀ eŋer gud-da-še₃ im-mi-gub [...] ka# mu-un-niŋin₂:1)
+#tr.en: @wPN{Enkidu} stood behind the Bull and went round ……. 
+
+:89v.1.1: ($1 ms. has instead:$) [...] u₃-bi₂-in-sig₁₀ kun-bi im-ma-an-dab₅
+
+1.B.90. lugal-a-ni-ir {d}gilgameš₂-ra gu₃ mu-na-de₂-e
+#tr.en: He spoke to his master @wDN{Gilgameš}: 
+
+1.B.91. i₃-a lum-lum u₃-luh-ha sud-sud
+#tr.en: @q[Enkidu,Gilgamec]{“Ho, magnificent one, extending your staff of office, 
+
+1.B.92. dumu-gir₁₅ giri₁₇-zal diŋir-re-ne
+#tr.en: born of noble lineage, splendour of the gods, 
+
+1.B.93. gud lipiš-tuku me₃-a gub-ba
+#tr.en: furious bull standing ready for battle, 
+
+1.B.94. en gal {d}gilgameš₂ unug#{ki#} bi₂-in-dug₄-ga
+#tr.en: who is respected as the great lord @wDN{Gilgameš} of @wSN{Unug}! 
+
+1.B.95. ama-zu dumu u₃-tud-da mah-bi he₂-em#-zu
+#tr.en: Your mother was truly skilled in bearing children, 
+
+1.B.96. emeda(|UM.ME|)-ga-<la₂>-zu dumu-ra# ga-ba mah-bi he₂-em-zu
+#tr.en: and your nurse was truly skilled in suckling her charges! 
+
+@variants
+
+1.B.96A. en dumu-gir₁₅ AN X [...]
+
+@endvariants
+1.B.97. ni₂ na-teŋ₃-ŋe₂₆ ur-saŋ-ŋa₂ usu nu-tuku ni₂-te-a-ni
+#tr.en: Do not fear -- the warrior without strength …… himself (?). 
+
+1.B.98. ki a-ra₂ gen₆-na [...] X X X X [...]
+#tr.en: There where the road is straight ……. 
+
+1.B.99. {urud}ha-[zi-in ...]
+#tr.en: …… axe …….”} 
+
+1.B.100. gud-de₃ [...]
+
+1.B.101. gud an-[na ...]
+
+1.B.102. a-gin₇ [...]
+
+1.B.103. HAR X [...]
+
+$ (unknown no. of lines missing)
+@end segment
+
+@end version
+
+@div version 2 (A version from Me-Turan)
+
+@div segment A
+
+2.A.1. šul me₃!-kam šul me₃!-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of the man of battle, the man of battle. 
+
+2.A.2. en {d}gilgameš₂ šul me₃-kam# in-du-ni# ga-an-dug₄#
+#tr.en: I will sing the song of Lord @wDN{Gilgameš}, the man of battle, 
+
+2.A.3. en su ku₁₀-ku₁₀ šul me₃!-kam in#-[du]-ni ga-an-dug₄
+#tr.en: I will sing the song of the lord with the very black beard, the man of battle. 
+
+2.A.4. a₂-ur₂ sag₉-sag₉ šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him with the well-proportioned limbs, the man of battle. 
+
+2.A.5. UL-nir-ma šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him in his prime (?), the man of battle. 
+
+2.A.6. niŋ₂-erim₂ du₇-du₇ šul me₃-kam in-du-ni ga-an-dug₄
+#tr.en: I will sing the song of him who batters the wicked, the man of battle. 
+
+2.A.7. lugal-e en-e ama ugu-ne-ra A₂ KAL IŠ ta-a-ni-[...] id₂-da NAŊA-de₃
+#tr.en: The king, the lord, having …… as his mother who bore him ……, wishing to wash (?) in the river. 
+
+2.A.8. en-ŋu₁₀ {ŋiš}kiri₆ {ŋiš}za-ba-al-še₃ kur₉-NE kiŋ₂-a-zu-ne
+#tr.en: My lord, having sought entry into the garden planted with junipers, 
+
+2.A.9. en ŋi₆-par₄-ta udu nir-ra-am₃ siki am₃-ze₂ SAR-SAR
+#tr.en: the lord, coming from the @fsux{ŋipar}, sheared the wool of the fleecy sheep ……; 
+
+2.A.10. KAL saŋ-ŋa₂-ke₄ dur₂ bi-ŋar ZI-gin₇ ŠEN NE#-na
+#tr.en: …… he sat down ……. 
+
+2.A.11. lugal-e ZI-gin₇ ŠEN NE-na gi-sal#-[la] gu₂# gur₂
+#tr.en: The king …… bending …… with the oar; 
+
+2.A.12. nun gi-sal-la gi lum-lum-ma-gin₇# [X X] X mu-ši-ib-šu₂
+#tr.en: the prince covered …… with the oar, as if it was of flourishing reed. 
+
+2.A.13. niŋ₂-erim₂-bi za-e ŠEN-gin₇ X [...] X-šu₂
+#tr.en: You covered their wicked ones, as if ……, with water. 
+
+2.A.14. ama ugu-ne-ra DI# NA# mu-un-[...]-na-šum₂
+#tr.en: He gave …… to his mother who bore him. 
+
+2.A.15. kisal daŋal-la [...]
+#tr.en: In the wide courtyard ……, 
+
+2.A.16. {d}gilgameš₂ ŋiš buluŋ₃# X [...]
+#tr.en: @wDN{Gilgameš} ……. 
+
+2.A.17. KA gul-gul-e NE# [...]
+
+2.A.18. kisal mah-e KIŊ₂ A# [...]
+#tr.en: In the great courtyard ……. 
+
+2.A.19. ud-bi-a e₂#-la₂#-e# [...]
+#tr.en: Then …… the canopy ……. 
+
+2.A.20. kug {d}inana-ke₄ [e₂-la₂-e igi mu-un-bar]
+#tr.en: Holy @wDN{Inana} perceived the canopy, from the palace of the @fsux{abzu}, 
+
+2.A.21. e₂ abzu₂(DE₂)#-ta# [e₂-la₂-e igi mu-un-bar]
+#tr.en: she perceived the canopy: 
+
+2.A.22. am-ŋu₁₀# [lu]-ŋu₁₀ IM MA# [NI TA ... šu nu-ri-bar-re]
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my man, I shall not let you ……! 
+
+2.A.23. {d}gilgameš₂ IM# [MA NI TA ... šu nu-ri-bar-re]
+#tr.en: @wDN{Gilgameš}, I shall not let you ……! 
+
+2.A.24. e₂-an-na-ŋu₁₀ di [kud-de₃ šu nu-ri-bar-re]
+#tr.en: I shall not let you dispense justice in my @wTN{E-ana}! 
+
+2.A.25. ŋi₆-par₄ gu₂-ŋu₁₀ kaš# [bar-re šu nu-ri-bar-re]
+#tr.en: I shall not let you pronounce verdicts in my holy @fsux{ŋipar}! 
+
+2.A.26. e₂-an-na an-na [ki aŋ₂ di kud-de₃ šu nu-ri-bar-re]
+#tr.en: I shall not let you dispense justice in the @wTN{E-ana} beloved by @wDN{An}! 
+
+2.A.27. {d}gilgameš₂ za-[e ... IM MA NI TA] ŋe₂₆-e# [... IM MA NI TA]
+#tr.en: @wDN{Gilgameš}, may you ……, may I …….”} 
+
+2.A.28. lugal-e ka-ga₁₄-ne# [...]
+#tr.en: The king, …… his mouth, 
+
+2.A.29. lugal-e ama ugu-ne-ra [...]
+#tr.en: the king …… to his mother who bore him. 
+
+2.A.30. {d}gilgameš₂ {d}nin-sumunₓ(EŠ₂) X [...]
+#tr.en: @wDN{Gilgameš} …… to @wDN{Ninsumun} ……:. 
+
+2.A.31. ama ugu-ŋu₁₀ en-gin₇ uzu X [...]
+#tr.en: @q[Gilgamec,Ninsumun]{“O mother who bore me, how ……! 
+
+2.A.32. {ŋiš}ig abula-ke₄ X [...]
+#tr.en: By the door of the great gate ……. 
+
+2.A.33. suh₁₀ bad₃-ke₄ [...] ŋar-ŋar [...]
+#tr.en: From the crenellations of the wall ……: 
+
+2.A.34. am-ŋu₁₀ lu-ŋu₁₀ IM MA NI [TA ...] šu# nu-mu-ni-bar-re
+#tr.en: @q[Inana,Gilgamec]{“My wild bull, my man, I shall not let you go ……! 
+
+2.A.35. {d}gilgameš₂ IM MA NI [TA ...] šu# nu-mu-ni-bar-re
+#tr.en: @wDN{Gilgameš}, I shall not let you go ……! 
+
+2.A.36. e₂-an-na-ŋu₁₀ di mu-un-[kud-de₃ šu] nu-mu-ni-bar-re
+#tr.en: You dispensed justice in my @wTN{E-ana} -- I shall not let you go! 
+
+2.A.37. ŋi₆-par₄ gu₂-ŋu₁₀ kaš mu-un-bar#-[re] šu# nu-mu-ni-bar-re#
+#tr.en: You pronounced verdicts in my holy @fsux{ŋipar} -- I shall not let you go, 
+
+2.A.38. e₂-an-na an-na [...] ki aŋ₂-a-ni
+#tr.en: in his beloved …… @wTN{E-ana}!"”}”}  
+
+2.A.39. {d}gilgameš₂ za-e me₃ [...] IM MA NI TA ŋe₂₆-e KA GA# IM MA NI TA#
+
+2.A.40. ama ugu-ne-ra ur₅-[gin₇] mu-un-na-ab-be₂-ak#-[ka]
+#tr.en: When he had spoken thus to the mother who bore him, 
+
+2.A.41. ama ugu#-[ne] {[d]}[gilgameš₂-ra mu-na-ni-ib-gi₄-gi₄]
+#tr.en: the mother who bore him replied to @wDN{Gilgameš}: 
+
+$ (approx. 8 lines missing)
+@end segment
+
+@div segment B
+
+2.B.1. kug# {d#}[inana ...]
+#tr.en: Holy @wDN{Inana} ……. 
+
+2.B.2. an-e [...]
+#tr.en: @wDN{An} ……. 
+
+2.B.3. dur an-na X [...]
+#tr.en: …… the bond of heaven. 
+
+2.B.4. an-e kug {[d]}[inana-ra ...]-e#
+#tr.en: @wDN{An} …… to holy @wDN{Inana}: 
+
+2.B.5. lu₂-[tur-ŋu₁₀ ...]-e#
+#tr.en: @q[An,Inana]{“My child, …….”} 
+
+2.B.6. {d}[inana ...]-gi₄#-gi₄
+#tr.en: @wDN{Inana} replied ……: 
+
+2.B.7. AN [...]-a#
+
+2.B.8. [...]-a#
+
+2.B.9. [...]-be₂
+
+2.B.10. [...]-e#
+
+2.B.11. [...] NE#
+
+2.B.12. [...] X# MU
+
+2.B.13. [...] gi#
+
+2.B.14. [...] (1:IB#:1) LA [...]
+
+:14v.1.1: ($or read:$) U₂#
+
+2.B.15. [...]-gu₇-e#
+
+2.B.16. [...] X X (1:gi#:1)
+
+:16v.1.1: ($or read:$) gi₄#
+
+2.B.17. [...] X-ab-be₂
+
+2.B.18. [...] X sag₃
+
+2.B.19. [... gud] mu-ra-ra X
+
+2.B.20. [...] X šum₂-mu#
+
+2.B.21. [...] šum₂-mu#
+
+2.B.22. [...] X
+
+2.B.23. [...] X
+
+2.B.24. [...]-gu₇#-e
+
+2.B.25. [...]-gu₇#-[e]
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+2.C.1. [...] BI X [...]
+
+
+2.C.2. [...] X naŋ [...]
+
+2.C.3. [...] X gu₂ mu-un-[...]
+
+2.C.4. [...] mu-un-na-te X [...]
+
+2.C.5. [...]-ga igi im-ma-an-[sig₁₀]
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+2.D.1. [...] X [...]
+
+2.D.2. [...] X X TUG₂ ba-ni#-[...]
+
+2.D.3. [...] a naŋ [...]
+
+2.D.4. [...] X X X X X X [...]
+
+2.D.5. nar-ŋu₁₀ lugal-gaba-ŋar en₃-du-zu da-ga-ab sa-a-zu# [si-bi₂-ib]
+#tr.en: @q[Gilgamec,Lugal-gabajar]{“My musician, @wPN{Lugal-gabaŋar}, perform your song, tune your strings! 
+
+2.D.6. kaš mu-un-naŋ! zabar sila₃ gi₄-bi-ib [...]
+#tr.en: Give me beer to drink! Fill my bronze jug again! ……”} 
+
+2.D.7. lugal-gaba-ŋar {d}gilgameš₂ lugal-a-ni-ra# [gu₃ mu-na-ni-ib-gi₄]
+#tr.en: @wPN{Lugal-gabaŋar} replied to his master, 
+
+2.D.8. lugal-ŋu₁₀ za-e u₂  %e  da-an-gu₇-e  %s  za-e a#  %e  [da-an-na₈-na₈]  %s 
+#tr.en: @wDN{Gilgameš}:. @q[Gilgamec,Lugal-gabajar]{“My master, you may eat, and you may drink -- 
+
+2.D.9. ŋe₂₆-e inim-bi a-na-am₃ mu-[...]
+#tr.en: but as for me, how does this matter concern me?”} 
+
+2.D.10. gud#-e ra-ra-de₃ [...]
+#tr.en: To defeat the Bull, ……, 
+
+2.D.11. {d}gilgameš₂ gud-e ra#-[ra-de₃ ...]
+#tr.en: @wDN{Gilgameš}, to defeat the Bull, ……. 
+
+2.D.12. ib₂-ba-ru 50!(5/6) ma-na-am₃ [...]
+#tr.en: …… his harness of fifty @noteref{text: five-sixths} minas. 
+
+2.D.13. ŋiri₂# 7# gu₂-un# 30 ma#-[na-am₃ ...]
+#tr.en: …… his sword weighing seven talents and thirty minas. 
+
+2.D.14. ha-zi-in# X X [...]
+#tr.en: …… his battle axe. 
+
+2.D.15. ama ugu-ŋu₁₀# [...]
+#tr.en: @q[Gilgamec,Ninsumun]{“My mother who bore me …….”} 
+
+2.D.16. nin₉-a-ni X# [...]
+#tr.en: His sister ……. 
+
+2.D.17. ama ugu-ni [...]
+#tr.en: His mother who bore him ……. 
+
+2.D.18. {d}peš₃-tur nin₉ [ban₃-da ...]
+#tr.en: @wDN{Peštur}, his little sister ……. 
+
+2.D.19. {d}gilgameš₂ AN X [...]
+#tr.en: @wDN{Gilgameš} …… 
+
+2.D.20. ama ugu-ŋu₁₀ e₂# {d}en#-ki# X [...]
+#tr.en: @q[Gilgamec,others]{“My mother who bore me, in the house (?) of Enki (?) ……. 
+
+2.D.21. {d}peš₃-tur nin₉ ban₃-da e₂-a#-[ni ...]
+#tr.en: @wDN{Peštur}, the little sister, ……, 
+
+2.D.22. gud dur-be₂-eš i-in-gi# [...]
+#tr.en: will bring back the cattle to their tethering stakes ……, 
+
+2.D.23. udu dur-be₂-eš i-in-gi# [...]
+#tr.en: will bring back the sheep to their tethering stakes …….”} 
+
+2.D.24. gud an-na za-e za-e [...]
+#tr.en: @q[Gilgamec,Bull of Heaven]{“Bull of Heaven, you -- you, ……, yes, you! 
+
+2.D.25. u₃ za-e ba-an-ze₂-ge-eš [...]
+#tr.en: You crush them ……, 
+
+2.D.26. u₃ ŋe₂₆-e ba-an-ze₂-ge-eš [...]
+#tr.en: and I crush them ……. 
+
+2.D.27. tukum-bi ba-an-ze₂-ge# [...]
+#tr.en: If you crush them, 
+
+2.D.28. kuš-zu! sila-še₃ he₂-em-ma#-[ab-šum₂-mu]
+#tr.en: …… They shall consign your hide to the streets ……. 
+
+2.D.29. šag₄#-mah-zu! sila daŋal-la he₂#-[em-ma-ab-šum₂-mu]
+#tr.en: They shall consign your intestines to the broad square ……. 
+
+2.D.30. uzu-zu dumu mu-un-su! [iri-ŋa₂-ke₄-ne] {ŋiš}dusu-[ta he₂-em-ta-ba-e-ne]
+#tr.en: The widows' sons of my city shall each take their share of your meat in baskets. 
+
+2.D.31. kuš-zu! su-sig-še₃ he₂-[em-ma-ab-šum₂-mu]
+#tr.en: They shall consign your carcass to the knacker's, 
+
+2.D.32. si-zu! 2(diš)-ab₂-bi šaŋan# [i₃ dug₃-ga-še₃] {[d]}[inana-ra] e₂-an-na#-[ka he₂-em-ta-bal-e]
+#tr.en: and I shall turn your two horns into flasks for pouring fine oil to @wDN{Inana} in @wTN{E-ana}.”} 
+
+2.D.33. gud-e sahar-ra [...]
+#tr.en: The Bull …… in the dust. 
+
+2.D.34. {d}gilgameš₂ [...]
+#tr.en: @wDN{Gilgameš} …… 
+
+2.D.35. {d}en-ki-du₃ [...]
+#tr.en: and @wPN{Enkidu} ……. 
+
+2.D.36. dumu iri{ki}-na [...]
+#tr.en: Their fellow-citizens ……. 
+
+2.D.37. amar ŋeštug₂-zu-gin₇ sahar-ra X X [...]
+#tr.en: …… with dust, like a young calf unused to the yoke. 
+
+2.D.38. {d}en-ki-du₃ saŋ gud-kam bi-ib-gub en {[d]}[gilgameš₂] gu₂ mu-un-na-de₂-a# X
+#tr.en: @wPN{Enkidu} stood by (?) the Bull's head and spoke to @wDN{Gilgameš}: 
+
+2.D.39. ia₄ lum-lum u₂-luh-ha sud-[sud]
+#tr.en: @q[Enkidu,Gilgamec]{“Ho, magnificent one, extending your staff of office, 
+
+2.D.40. dumu-gir₁₅ giri₁₇-zal diŋir-re-e-ne
+#tr.en: born of noble lineage, splendour of the gods, 
+
+2.D.41. gud lipiš šag₄ tuku me₃ an-gub-ba
+#tr.en: furious-hearted bull, standing ready for battle, 
+
+2.D.42. ur-saŋ# X X X-ŋu₁₀-ne-še₃ šu-zu šu mu-ni-[...]
+#tr.en: warrior, …… your hand ……! 
+
+2.D.43. lu₂-ulu₃# X [...]
+#tr.en: The people ……, 
+
+2.D.44. (1:lu₂-ulu₃:1) X [...]
+#tr.en: the people …….”} 
+
+:44v.1.1: ($or read:$) lu₂ iri
+
+2.D.45. {d}en-ki-du# {d}gilgameš₂#-ra ur₅-gin₇ hu-mu-un-na-ab-e₂-ak-ke₄
+#tr.en: When @wPN{Enkidu} had spoken thus to @wDN{Gilgameš}, 
+
+2.D.46. {d}[gilgameš₂ ha-zi]-in# 7# gu₂#-un#-am₃ ugu-bi e-ne ba-an-sag₃
+#tr.en: @wDN{Gilgameš} himself smote its skull with his axe weighing seven talents. 
+
+2.D.47. gud-e saŋ il₂-la il₂-la im-ma-ab-dirig
+#tr.en: The Bull reared up so high, so high that it overbalanced. 
+
+2.D.48. im-gin₇ mu-lu₃-lu₃# buru₁₄-gin₇ im#-šu₂-šu₂
+#tr.en: It spattered like rain, it spread itself out like the harvested crop. 
+
+2.D.49. lugal-e muhaldim gal nu-me-a ŋiri₂ šu-ni ba-an-dab₅
+#tr.en: The king took his knife in his hand, just as if he were a master chef. 
+
+2.D.50. {d}inana-ke₄ zag dib-ba ba-an-sag₃ tum₁₂-gur₄{mušen#}-gin₇ ba-an-dal-dal bad₃-bi i₃-gul-e
+#tr.en: He hit @wDN{Inana} with a haunch, he made her flee away like a pigeon, and demolished those ramparts. 
+
+2.D.51. lugal-e saŋ gud-kam bi₂-in-gub er₂ gig i₃-šeₓ(|IGI×A|)-šeₓ(|IGI×A|)
+#tr.en: Standing by (?) the Bull's head, the king wept bitter tears: 
+
+2.D.52. ur₅-ra-ta ŋe₂₆-e mu-un-da-gul-e ur₅-ra-am₃ i₃-kiŋ₂-de₃#
+#tr.en: @q[Gilgamec,Bull of Heaven]{“Just as I can destroy you, so shall I do the same to her (?).”} 
+
+2.D.53. bi₂-in-dug₄-ga-gi-na
+#tr.en: As he spoke, 
+
+2.D.54. kuš-bi sila-še₃ im-ma-ab-šum₂-mu
+#tr.en: he consigned its hide to the streets, 
+
+2.D.55. šag₄-mah-bi sila daŋal-la im-ma-ab-šum₂-mu
+#tr.en: he consigned its intestines to the broad square, 
+
+2.D.56. uzu-bi! dumu nu-mu-un-su! iri{ki}-na!(ŊA₂)-ke₄-ne {ŋiš}dusu-ta he₂-em-ta-ba-e-ne
+#tr.en: and the widows' sons of his city each took their share of its meat in baskets. 
+
+2.D.57. kuš-bi su-si-ig-še₃ im-ma-ab-šum₂-mu
+#tr.en: He consigned its carcass to the knacker's, 
+
+2.D.58. si-bi 2(diš)-a-bi {ŋiš}šaŋan i₃ dug₃-ga-ke₄ kug {d}inana-ke₄ e₂-an-na-ke₄ he₂-em-ta-da-bal-e
+#tr.en: and turned its two horns into flasks for pouring fine oil to @wDN{Inana} in @wTN{E-ana}. 
+
+2.D.59. gud an-na ug₅-ga kug {d}inana-ke₄ za₃-mi₂-zu dug₃-ga
+#tr.en: For the death of the Bull of Heaven: holy @wDN{Inana}, it is sweet to praise you! 
+
+@end segment
+
+@end version
+
+@div version 3 (Fragment of an earlier version from Nibru, dating to the Ur III period)
+
+@div segment A
+
+$ (unknown no. of lines missing)
+3.A.1. a ŋi₆-par₃# [...] si-[ki ...]
+#tr.en: Seed of the @fsux{ŋipar} @noteref{= @wDN{Gilgameš}?} ……; 
+
+3.A.2. {ŋiš}U₃ dub-saŋ#-ŋa₂-kam dur₂ bi-in-ŋar#
+#tr.en: he sat on the ……; 
+
+3.A.3. sug-ga ŋal₂-la-a-bi
+#tr.en: that which was in the marsh, 
+
+3.A.4. lugal-ŋu₁₀ sug-ga ŋal₂-la-a-bi {ŋiš}ŋisal-a gu₂ gur-de₃
+#tr.en: my king, to bend that which was in the marsh with the oar, 
+
+3.A.5. mu-un {ŋiš}ŋisal gi lum-lum#-ma-a-gin₇ a-a hu-mu-ri-ib₂-šum₂
+#tr.en: the lord covered it with water with the oar, as if they were flourishing reeds. 
+
+3.A.6. niŋ₂ dirig-bi gazi AM₃ GAN U₆-gin₇ MA a-a hu-mu-ri-ib₂-šum₂
+#tr.en: That which exceeded, as if it was a reed (?) ……, he covered with water. 
+
+3.A.7. kisal daŋal X e₂ {d}inana-ka
+#tr.en: In the wide courtyard …… of the temple of @wDN{Inana} 
+
+3.A.8. {d}gilgameš₂# ŋiš# buluŋ₃ X NAM# X ŠU [...] hu-mu-ni-in-[...]
+#tr.en: @wDN{Gilgameš} ……. 
+
+3.A.9. lugal-ŋu₁₀# {ŋiš}kiri₆ zabalam [...]
+#tr.en: My king, having sought entry 
+
+3.A.10. ku₄-ku₄# kiŋ₂-ŋa₂-zu-ne#
+#tr.en: into the garden of junipers, 
+
+3.A.11. a ŋi₆-par₃-ra-kam u₆-du nin X si-ki# A SU ni₃-si₂₃
+#tr.en: the seed of the @fsux{ŋipar} …… the sheep of the queen (?) …… sheared (?) the wool; 
+
+3.A.12. {ŋiš}U₃ dub-saŋ-ŋa₂-kam dur₂ bi-in-ŋar sug-ga-a mu-ni-in-la₂
+#tr.en: he sat on the ……. He leant (?) over the marsh; 
+
+3.A.13. lugal-ŋu₁₀ sug-ga mu-ni-in-la₂ {ŋiš}ŋisal-a gu₂! ni₃-gur
+#tr.en: my king leant (?) over the marsh; he bent it with the oar. 
+
+3.A.14. mu-un {ŋiš}ŋisal-a!(MIN) gi lum-lum#-ma-a-gin₇ a-a hu#-[mu-na]-ab#-šum₂
+#tr.en: The lord covered it with water as if they were flourishing reeds; that which exceeded, 
+
+3.A.15. niŋ₂ dirig-[bi gazi AM₃ GAN] U₆-gin₇ [MA a-a hu-mu-na-ab]-šum₂#
+#tr.en: as if it was a reed (?) ……, he covered it with water. 
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+3.B.1. [niŋ₂-ba] {[d]}[inana ŋi₆]-par₃#-ra
+#tr.en: I (?) shall not try to take over  
+
+3.B.2. [nam-ba-ni-in]-ku₄-ku₄
+#tr.en: the portion of @wDN{Inana} in the @fsux{ŋipar}; 
+
+3.B.3. [X X a₂] nam#-ur-saŋ-ŋa₂-ŋu₁₀
+#tr.en: …… shall  
+
+3.B.4. tug₂# nam-i₃-dul-e
+#tr.en: not cover my valiant arm with a garment (?)! 
+
+@end segment
+
+@end version
+
+
+
+
+
+
+

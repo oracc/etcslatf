@@ -7,6 +7,7 @@ static void lb_label(Par *p);
 
 static int count_sentences(Seg**segs);
 static void lbc_identity(Par *p);
+static void lbc_manual(Par *p);
 static void lbc_multiple(Par *pp, int n);
 static void lbc_identity_sent(Par *p);
 static void lbc_multiple_sent(Par *p, int n);
@@ -36,13 +37,17 @@ count_sentences(Seg **segs)
 void
 lb_choose(Par *p)
 {
-  if (NSEGSL(p) == RE_GOAL(p))
+  int nsent = count_sentences(p->segs);
+  if ((p->sentence_cues || p->manual) && nsent == GOALG(p))
+    lbc_identity_sent(p);
+  else if (p->manual)
+    lbc_manual(p);
+  else if (NSEGSL(p) == RE_GOAL(p))
     lbc_identity(p);
   else if (GOALG(p) && (NSEGSL(p) % RE_GOAL(p)) == 0)
     lbc_multiple(p, NSEGSL(p) / RE_GOAL(p));
   else
     {
-      int nsent = count_sentences(p->segs);
       if (nsent == GOALG(p))
 	lbc_identity_sent(p);
       else if (!p->ngaps && (nsent % GOALG(p)) == 0)
@@ -70,11 +75,10 @@ lb_choose(Par *p)
 }
 
 static void
-lbc_identity(Par *p)
+lbc_ide_man(Par *p)
 {
-  int i;
-  p->choice = C_IDENT;
   int nlabel = 0;
+  int i;
   for (i = 0; i < p->nsegs; ++i)
     {
       if ('0' != p->segs[i]->b)
@@ -94,6 +98,20 @@ lbc_identity(Par *p)
 	    }
 	}
     }
+}
+
+static void
+lbc_identity(Par *p)
+{
+  p->choice = C_IDENT;
+  lbc_ide_man(p);
+}
+
+static void
+lbc_manual(Par *p)
+{
+  p->choice = C_MANUAL;
+  lbc_ide_man(p);
 }
 
 static void

@@ -3,7 +3,7 @@
 
 typedef enum choice
   { C_NONE , C_IDENT, C_MULTI, C_IDENT_SENT, C_MULTI_SENT,
-    C_FB_SHORT_PAIRS, C_FB_BRUTE,
+    C_FB_SHORT_PAIRS, C_FB_BRUTE, C_MANUAL,
     C_top
   } Choice;
 
@@ -34,6 +34,8 @@ typedef struct par
   int usegs; /* number of unlabeled segs */
   int nlabs; /* number of labeled segs; this should end up == lbgoal-ngaps */
   int ngaps;
+  int manual;/* manual line boundaries with '|' */
+  int sentence_cues; /* . after another non-period punct */
   const char *ss_str;
 } Par;
 

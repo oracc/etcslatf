@@ -64,7 +64,7 @@ foreach my $q (@q) {
 sub _lbpp {
     ($file,$Q) = @_;
     my $L = '';
-    open(Q,$file);
+    open(Q,"bin/unvar.plx $file|");
     my $b = $file; $b =~ s/tri/lbp/; $b =~ s/atf$/tsv/;
     open(B,">$b") || die "can't open $b\n";
     while (<Q>) {
