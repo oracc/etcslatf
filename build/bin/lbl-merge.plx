@@ -57,6 +57,7 @@ sub load_lbl {
 	chomp;
 	next if /^[\$\{\&]/ || /^\s*$/;
 	my($ln,$tr) = (/^(\S+?)\.\s+(.*?)$/);
+	$tr =~ tr/\cX\cY//d;
 	$lbl{$ln} = $tr;
     }
     close(L);
