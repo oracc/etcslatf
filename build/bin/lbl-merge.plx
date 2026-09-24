@@ -25,17 +25,27 @@ my $tr = undef;
 
 open(TLIT, $tlit) || die;
 open(OUT, ">$out") || die;
+my $varline = 0;
 while (<TLIT>) {
     if ($lnm{$.}) {
 	$tr = $lnm{$.};
+	$varline = 0;
     } elsif (/^([^\$\#\@].*?\.)\s/) {
 	# warn "$tlit:$.: no entry in labels for MTS $1\n";
+	$varline = 1
+	    if /^:/;
+    } else {
+	$varline = 1
+	    if /^:/;
     }
     print OUT;
     if (/^\#lem/) {
 	if ($tr) {
 	    print OUT "#tr.en: $tr\n";
 	    $tr = undef;
+	} else {
+	    print OUT "#tr.en: ...\n"
+		unless $varline;
 	}
     }
 }
