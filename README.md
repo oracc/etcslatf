@@ -12,6 +12,24 @@ of ETCSL's original paragraph-oriented translations; *inter* is a
 project, etcslatf/inter, that displays the ETCSL corpus with the
 translation remapped to interlinear line-by-line format.
 
+# TUA/T2T Self-Service Workflow
+
+To keep TUA/T2T on track a simple work flow is being developed which
+will allow collaborators to do the basic editing of interlinear
+translations and (soon) to run scripts on build-oracc to make C-ATF
+and CoNLL-O data.
+
+## TUA/T2T SSW 1: fix interlinear translation
+
+The set of interlinear translations is in build/atf.  It is important
+not to work directly on files in this directory: instead, copy the
+file you want to work on into build/atf-edited and edit it there.
+This means that anyone coming to work on texts can see immediately if
+a text has already been worked on.
+
+The working copy should be added to the repo and checked in so other
+users will register that it is being handled.
+
 # ALIGNMENT
 
 The interlinear translations are output to build/atf with the
